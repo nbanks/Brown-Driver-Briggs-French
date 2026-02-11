@@ -1,0 +1,38 @@
+{
+    "head_word": "חֲמִשִּׁים",
+    "pos": "nom pluriel",
+    "primary": "cinquante",
+    "description": "absolu",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "absolu"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "sans autre nombre"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "avant d'autres nombres"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "apres un autre nombre"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "precede d'un construit"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "= ordinal"
+        }
+    ]
+}

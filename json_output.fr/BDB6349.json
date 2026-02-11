@@ -1,0 +1,28 @@
+{
+    "head_word": "עָרַב",
+    "pos": "verbe",
+    "primary": "prendre en gage, donner en gage, echanger",
+    "description": "c.-a-d. se porter garant pour",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "c.-a-d. se porter garant pour"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "(dans le commerce)"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

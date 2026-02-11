@@ -1,0 +1,38 @@
+{
+    "head_word": "חָכָם",
+    "pos": "adjectif",
+    "primary": "sage",
+    "description": "habile dans le travail technique",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "habile dans le travail technique"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "sage dans l'administration des affaires"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "pluriel classe d'hommes savants et astucieux, incluant astrologues, magiciens et semblables"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "ethiquement et religieusement"
+        }
+    ]
+}

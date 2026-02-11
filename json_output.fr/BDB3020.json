@@ -1,0 +1,33 @@
+{
+    "head_word": "חָפַשׂ",
+    "pos": "verbe",
+    "primary": "chercher",
+    "description": "= imaginer, inventer",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "= imaginer, inventer"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "= mettre a l'epreuve"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

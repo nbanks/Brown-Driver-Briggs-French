@@ -1,0 +1,28 @@
+{
+    "head_word": "מִשְׁתֶּה",
+    "pos": "nom masculin",
+    "primary": "festin",
+    "description": "(occasion de boire, beuverie)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "festin",
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": "boisson",
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "(occasion de boire, beuverie)"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

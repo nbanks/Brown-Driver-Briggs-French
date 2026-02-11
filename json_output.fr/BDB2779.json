@@ -1,0 +1,18 @@
+{
+    "head_word": "חַלָּה",
+    "pos": "nom feminin",
+    "primary": "une sorte de gateau",
+    "description": "utilise dans les offrandes",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "au sacrifice de David lors du deplacement de l'arche"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "ailleurs"
+        }
+    ]
+}

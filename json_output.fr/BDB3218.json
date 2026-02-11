@@ -1,0 +1,38 @@
+{
+    "head_word": "חָשַׁךְ",
+    "pos": "verbe",
+    "primary": "etre, devenir sombre",
+    "description": "= cacher, dissimuler, suivi de מִמֶּךָּ",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "= cacher, dissimuler, suivi de מִמֶּךָּ"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

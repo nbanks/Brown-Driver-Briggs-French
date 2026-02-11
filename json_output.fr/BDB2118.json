@@ -1,0 +1,33 @@
+{
+    "head_word": "יְהוֺרָם",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "roi de Juda, fils de Josaphat",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "roi de Juda, fils de Josaphat"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "roi d'Israel fils d'Achab"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "pretre au temps de Josaphat"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "fils de Tou, roi de Hamath"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "un Levite"
+        }
+    ]
+}

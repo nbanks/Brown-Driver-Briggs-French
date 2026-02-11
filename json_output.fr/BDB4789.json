@@ -1,0 +1,23 @@
+{
+    "head_word": "מַקֵּל",
+    "pos": "nom masculin",
+    "primary": "baguette, baton",
+    "description": "branche d'arbre comme baguette, baton",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "branche d'arbre comme baguette, baton"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "du devin"
+        }
+    ]
+}

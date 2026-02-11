@@ -1,0 +1,18 @@
+{
+    "head_word": "עָבוּר",
+    "pos": "nom",
+    "primary": null,
+    "description": "(peut-etre a l'origine pour le produit ou le gain de)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "comme preposition"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "comme conjonction"
+        }
+    ]
+}

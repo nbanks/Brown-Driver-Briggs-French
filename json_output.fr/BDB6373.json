@@ -1,0 +1,43 @@
+{
+    "head_word": "עָרָה",
+    "pos": "verbe",
+    "primary": "etre nu, denude",
+    "description": "en enlevant le contenu",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "en enlevant le contenu"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "(figure pour tuer, comparer Qal 3)"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "habituellement se repandant, c.-a-d. s'etendant"
+        }
+    ]
+}

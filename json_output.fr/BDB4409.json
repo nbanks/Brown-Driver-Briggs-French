@@ -1,0 +1,18 @@
+{
+    "head_word": "לַ֫יְלָה",
+    "pos": "nom masculin",
+    "primary": "nuit",
+    "description": "litteralement nuit, oppose au jour",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "litteralement nuit, oppose au jour"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

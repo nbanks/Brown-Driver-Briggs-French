@@ -1,0 +1,23 @@
+{
+    "head_word": "קִישׁ",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "pere de Saul",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "pere de Saul"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "Levites"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "ancetre de Mardochee"
+        }
+    ]
+}

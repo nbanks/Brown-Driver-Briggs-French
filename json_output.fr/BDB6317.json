@@ -1,0 +1,18 @@
+{
+    "head_word": "יַּעֲקב",
+    "pos": "nom propre, masculin et [d'un peuple]",
+    "primary": "Jacob",
+    "description": "fils d'Isaac et de Rebecca, pere des tribus d'Israel",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "comme nom propre, masculin"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "comme nom propre [d'un peuple]"
+        }
+    ]
+}

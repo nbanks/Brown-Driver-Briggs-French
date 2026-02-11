@@ -1,0 +1,23 @@
+{
+    "head_word": "לְבֵנָה",
+    "pos": "nom feminin",
+    "primary": "brique, carreau",
+    "description": "= carreau",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "brique",
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "= carreau"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "= dallage"
+        }
+    ]
+}

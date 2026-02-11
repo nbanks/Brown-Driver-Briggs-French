@@ -1,0 +1,33 @@
+{
+    "head_word": "מוֺעֵד",
+    "pos": "nom masculin",
+    "primary": "temps fixe, lieu fixe, reunion",
+    "description": "אֹהֶל מוֺעֵד\ntente de la rencontre",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": "la tente sacree de l'Exode",
+            "description": "אֹהֶל מוֺעֵד\ntente de la rencontre"
+        }
+    ]
+}

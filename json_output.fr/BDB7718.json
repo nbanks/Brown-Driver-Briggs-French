@@ -1,0 +1,18 @@
+{
+    "head_word": "אַרְבַּע",
+    "pos": "nom masculin",
+    "primary": "quatre",
+    "description": "sans autre nombre",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "sans autre nombre"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "avec un autre nombre"
+        }
+    ]
+}

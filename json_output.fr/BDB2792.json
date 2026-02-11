@@ -1,0 +1,18 @@
+{
+    "head_word": "חֲלוֺם",
+    "pos": "nom masculin",
+    "primary": "reve",
+    "description": "reve ordinaire du sommeil",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "reve ordinaire du sommeil"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "reves a signification prophetique, le degre le plus bas de la prophetie"
+        }
+    ]
+}

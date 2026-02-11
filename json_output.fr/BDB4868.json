@@ -1,0 +1,43 @@
+{
+    "head_word": "מָשַׁךְ",
+    "pos": "verbe",
+    "primary": "tirer, trainer",
+    "description": "tirer et soulever hors de (מִן)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "ci-dessous",
+            "description": "tirer et soulever hors de (מִן)"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "tirer l'arc"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "produire un son, emettre un son"
+        },
+        {
+            "number": 5,
+            "primary": "ci-dessus",
+            "description": null
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "trainer la semence (trainer en semant)"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "(tirer, attirer, satisfaire)"
+        }
+    ]
+}

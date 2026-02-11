@@ -1,0 +1,28 @@
+{
+    "head_word": "מְדִינָה",
+    "pos": "nom feminin",
+    "primary": "province",
+    "description": "un district d'un empire",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "districts du royaume d'Achab avec des שׂרים a leur tete"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "de l'empire babylonien"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "de l'empire perse"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "provinces en general"
+        }
+    ]
+}

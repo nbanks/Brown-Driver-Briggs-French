@@ -1,0 +1,43 @@
+{
+    "head_word": "שָׁבַת",
+    "pos": "verbe",
+    "primary": "cesser, s'arreter, se reposer",
+    "description": "du travail",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "du travail"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "= exterminer, detruire :"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

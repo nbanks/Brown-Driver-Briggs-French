@@ -1,0 +1,18 @@
+{
+    "head_word": "נַעֲרָה",
+    "pos": "nom feminin",
+    "primary": "fille, demoiselle",
+    "description": "ailleurs = jeune femme 1 S 9,11 surtout en age de se marier",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "ailleurs = jeune femme 1 S 9,11 surtout en age de se marier"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "de servantes, suivantes (toujours au pluriel)"
+        }
+    ]
+}

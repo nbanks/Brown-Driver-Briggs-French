@@ -1,0 +1,18 @@
+{
+    "head_word": "קְבֹל",
+    "pos": "nom [masculin]",
+    "primary": "quelque chose en face",
+    "description": "specifiquement un engin d'attaque",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "quelque chose en face",
+            "description": "specifiquement un engin d'attaque"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

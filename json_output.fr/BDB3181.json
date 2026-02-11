@@ -1,0 +1,23 @@
+{
+    "head_word": "חָרַשׁ",
+    "pos": "verbe",
+    "primary": "graver, labourer, tramer",
+    "description": "litteralement",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "litteralement"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "(comme quelqu'un qui travaille a, pratique), habituellement sens negatif"
+        }
+    ]
+}

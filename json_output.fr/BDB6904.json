@@ -1,0 +1,28 @@
+{
+    "head_word": "צָבָא",
+    "pos": "nom masculin",
+    "primary": "armee, guerre, service militaire",
+    "description": "organise pour la guerre",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "organise pour la guerre"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "des levites dans les lieux sacres"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "צְבָאוֺת, dans le nom de ׳י comme Dieu de guerre"
+        }
+    ]
+}

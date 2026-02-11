@@ -1,0 +1,23 @@
+{
+    "head_word": "שִׁבְעִים",
+    "pos": "nom pluriel",
+    "primary": "soixante-dix",
+    "description": "souvent comme nombre rond",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "sans autre nombre\na. devant nom singulier annee Gen 5:12 +12 f., homme Judg 9:2; Num 11:25 + 7 f., sicle Num 7:13 + 11 f.,\n        autre n. 5 f."
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "אֶלֶף\n׳\nשׁ = 70 000"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "+ autre nombre\na. + unite + nom singulier Judg 8:14 nom omis 70 + 7 (fois) Gen 4:24, comparer\n        Ezra 2:40 =\n        Neh 7:43 ainsi 2\n        + 70\n        Num 31:38\n        nom\n        pluriel + 70 + 7 Ezra\n            8:35\n         5 ans + 70 ans \n            Gen 12:4."
+        }
+    ]
+}

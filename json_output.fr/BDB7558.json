@@ -1,0 +1,38 @@
+{
+    "head_word": "קָרֵב",
+    "pos": "verbe",
+    "primary": "s'approcher, approcher",
+    "description": "du temps",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "du temps"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "dans l'espace"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "dans le temps"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "du temps"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "comme terme technique"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "head_word": "זִכְרִי",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "un Rubenite",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "un Rubenite"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "un Judeen"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "Levites"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "un pretre"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "Benjaminites"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "pere d'un capitaine au temps de Yehoyada"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "vaillant homme d'Ephraim"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "head_word": "חֲזָה",
+    "pos": "verbe",
+    "primary": "voir, contempler",
+    "description": "avoir le sens de la vue",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "avoir le sens de la vue"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "habituellement contempler en reve ou en vision (souvent participe en conjugaison periphrastique)"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "passif = habituel (convenable)"
+        }
+    ]
+}

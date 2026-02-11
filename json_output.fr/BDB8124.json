@@ -1,0 +1,23 @@
+{
+    "head_word": "רָשָׁע",
+    "pos": "adjectif",
+    "primary": "mechant, criminel",
+    "description": "habituellement comme substantif, coupable de crime, meritant le chatiment",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "habituellement comme substantif, coupable de crime, meritant le chatiment"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "coupable d'hostilite envers Dieu ou son peuple, ennemis mechants"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "coupable de peche, contre Dieu ou l'homme, mechant"
+        }
+    ]
+}

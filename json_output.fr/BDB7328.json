@@ -1,0 +1,38 @@
+{
+    "head_word": "מִקְדָּשׁ",
+    "pos": "nom masculin",
+    "primary": "lieu sacre, sanctuaire",
+    "description": "anciens sanctuaires d'Israel",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "anciens sanctuaires d'Israel"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "des nations"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "tabernacle et ses enceintes"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "temple et enceintes"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "׳י deviendra ׳לְמ pour son peuple"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "du futur sanctuaire de ׳י"
+        }
+    ]
+}

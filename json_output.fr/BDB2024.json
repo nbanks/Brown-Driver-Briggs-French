@@ -1,0 +1,58 @@
+{
+    "head_word": "דָּרַשׁ",
+    "pos": "verbe",
+    "primary": "recourir a, chercher",
+    "description": "(fouler un lieu,) recourir a, frequenter",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "(fouler un lieu,) recourir a, frequenter"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "chercher la divinite dans la priere et le culte"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "chercher, avec l'idee de demander, exiger"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 9,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 10,
+            "primary": null,
+            "description": "du sang (comparer Qal 5)"
+        }
+    ]
+}

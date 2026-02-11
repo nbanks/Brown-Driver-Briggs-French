@@ -1,0 +1,23 @@
+{
+    "head_word": "בְּהֵמָה",
+    "pos": "nom feminin",
+    "primary": "bete, animal, betail",
+    "description": "bete, et collectif betes",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "des creatures vivantes autres que l'homme"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "oppose aussi aux betes sauvages"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "rarement des betes sauvages, specialement les carnivores"
+        }
+    ]
+}

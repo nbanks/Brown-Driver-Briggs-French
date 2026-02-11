@@ -1,0 +1,63 @@
+{
+    "head_word": "טָמֵא",
+    "pos": "verbe",
+    "primary": "etre ou devenir impur",
+    "description": "sexuellement",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "sexuellement"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "religieusement"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "ceremoniellement"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "sexuellement"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "par l'idolatrie concue comme prostitution"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "ceremoniellement"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "(comparer Pi`el 4)"
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "sexuellement"
+        },
+        {
+            "number": 9,
+            "primary": null,
+            "description": "religieusement"
+        },
+        {
+            "number": 10,
+            "primary": null,
+            "description": "ceremoniellement"
+        },
+        {
+            "number": 11,
+            "primary": null,
+            "description": "prononcer ou declarer ceremoniellement impur"
+        }
+    ]
+}

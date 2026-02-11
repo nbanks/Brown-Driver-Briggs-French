@@ -1,0 +1,18 @@
+{
+    "head_word": "זְעֵיר",
+    "pos": "nom [masculin]",
+    "primary": "un peu",
+    "description": "de quantite, montant",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "de quantite, montant"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "de temps"
+        }
+    ]
+}

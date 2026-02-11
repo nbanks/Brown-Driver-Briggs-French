@@ -1,0 +1,33 @@
+{
+    "head_word": "יָד",
+    "pos": "nom feminin",
+    "primary": "main",
+    "description": "figure = force, puissance",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "figure = force, puissance"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "figure = cote"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "dans divers sens speciaux, techniques"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "avec prepositions"
+        }
+    ]
+}

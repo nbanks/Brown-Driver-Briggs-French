@@ -1,0 +1,28 @@
+{
+    "head_word": "מַס",
+    "pos": "nom masculin",
+    "primary": "corps de travailleurs forces, corvee, bande de travail",
+    "description": "aussi (tardif) service force,\n    travail force, servage",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "corps de travailleurs pour le service public, forme par la levee sur le peuple\n    par Salomon"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "de bandes de travail, groupes d'esclaves d'Israel en Egypte"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "en general"
+        },
+        {
+            "number": 4,
+            "primary": "service force",
+            "description": null
+        }
+    ]
+}

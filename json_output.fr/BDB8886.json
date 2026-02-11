@@ -1,0 +1,23 @@
+{
+    "head_word": "שְׁנַ֫יִם",
+    "pos": "nom masculin et feminin\n        duel",
+    "primary": "deux",
+    "description": "sans autre nombre",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "sans autre nombre"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "douze"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "avec un nombre plus grand"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "head_word": "מַחְסוֺר",
+    "pos": "nom [masculin]",
+    "primary": "besoin, chose necessaire, pauvrete",
+    "description": "= chose necessaire",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "= chose necessaire"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "en general"
+        }
+    ]
+}

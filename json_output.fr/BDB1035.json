@@ -1,0 +1,58 @@
+{
+    "head_word": "בִּין",
+    "pos": "verbe",
+    "primary": "discerner",
+    "description": "(avec les sens)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "(avec les sens)"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "(avec l'esprit)"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "(avec attention)"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 9,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 10,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

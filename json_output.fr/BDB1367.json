@@ -1,0 +1,23 @@
+{
+    "head_word": "בָּשַׂר",
+    "pos": "verbe",
+    "primary": "porter des nouvelles",
+    "description": "rejouir par de bonnes nouvelles",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "rejouir par de bonnes nouvelles"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "proclamer comme bonne nouvelle"
+        }
+    ]
+}

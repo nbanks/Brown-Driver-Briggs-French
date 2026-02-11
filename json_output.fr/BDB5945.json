@@ -1,0 +1,33 @@
+{
+    "head_word": "עֹז",
+    "pos": "nom masculin",
+    "primary": "force, puissance",
+    "description": "materielle et physique",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "materielle et physique"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "personnelle, sociale et politique"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "puissance de ׳י (surtout Psaumes)"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "עֹז פָּנָיו = hardiesse, impudence"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "= forteresse (comparer 2.c.)"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "head_word": "כָּתֵף",
+    "pos": "nom feminin",
+    "primary": "epaule, omoplate, flanc",
+    "description": "de l'homme",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "de l'homme"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "de la montagne"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "des bases pour les bassins pres du temple"
+        }
+    ]
+}

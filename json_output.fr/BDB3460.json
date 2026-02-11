@@ -1,0 +1,18 @@
+{
+    "head_word": "יַדוּעַ",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "un chef du peuple, un de ceux qui scellerent",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "un chef du peuple, un de ceux qui scellerent"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "un pretre, probablement le grand pretre au temps d'Alexandre le Grand"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "head_word": "עֻזָּא",
+    "pos": "nom propre masculin",
+    "primary": null,
+    "description": "conducteur de l'arche",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "conducteur de l'arche"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "dans גַּןעֻֿזָּא lieu de sepulture de Manasse et Amon"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "nom benjaminite"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "chef de famille d'exiles de retour"
+        }
+    ]
+}

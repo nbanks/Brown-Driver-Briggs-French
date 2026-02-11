@@ -1,0 +1,48 @@
+{
+    "head_word": "נָתָן",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "un fils de David",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "un fils de David"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "le prophete du temps de David"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "pere de l'un des heros de David"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "pere d'officiers de Salomon"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "nom en Juda"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "compagnon d'Esdras de Babylone"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "l'un de ceux qui prirent des femmes etrangeres"
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "chef d'une famille"
+        }
+    ]
+}

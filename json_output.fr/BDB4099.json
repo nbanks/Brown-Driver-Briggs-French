@@ -1,0 +1,18 @@
+{
+    "head_word": "כָּנָף",
+    "pos": "nom feminin",
+    "primary": "aile, extremite",
+    "description": "des oiseaux",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "des oiseaux"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "du vetement = pan, coin, ou bout flottant"
+        }
+    ]
+}

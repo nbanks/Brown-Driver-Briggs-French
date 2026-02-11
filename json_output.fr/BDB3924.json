@@ -1,0 +1,23 @@
+{
+    "head_word": "כֹּה",
+    "pos": "adverbe",
+    "primary": "ainsi, ici",
+    "description": "de maniere",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "de maniere"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "de lieu"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "de temps"
+        }
+    ]
+}

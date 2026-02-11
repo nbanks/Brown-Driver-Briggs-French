@@ -1,0 +1,48 @@
+{
+    "head_word": "כֹּהֵן",
+    "pos": "nom masculin",
+    "primary": "pretre",
+    "description": "pretre-roi",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "pretre-roi"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "de religions autres que celle de י׳ : Potiphera כ׳ אֹן Gn 41,45; Gn 41,50 (E), Gn 46,20 (P); כהנים egyptiens Gn 47,22 (deux fois dans le verset); Gn 47,26 (J); כ׳ דָגוֺן 1 S 5,5 כהנים וקסמים philistins 1 S 6,2 כֹּהֲנָיו ses pretres : p. ex. de Baal 2 R 10,19 = d'Achab 2 R 10,11 de Kemosh Jr 48,7 de Milkom Jr 49,3 Mattan etait כ׳ הבעל 2 R 11,18 = 2 Ch 23,17 הכמרים עם הכהנים So 1,4 Josias brula les os des pretres des Baals et des Asherim 2 Ch 34,5."
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "d'ordres speciaux en Israel"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "en Israel"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "pretres levitiques"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "pretres sadocites"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "pretres aaroniques."
+        },
+        {
+            "number": 8,
+            "primary": "pour designer le pretre qui etait a la tete des affaires sacerdotales",
+            "description": "le grand pretre"
+        }
+    ]
+}

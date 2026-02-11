@@ -1,0 +1,23 @@
+{
+    "head_word": "שֻׁלְחָן",
+    "pos": "nom masculin",
+    "primary": "table",
+    "description": "pour le repas du roi",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "pour le repas du roi"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "pour usage prive"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "pour usages sacres"
+        }
+    ]
+}

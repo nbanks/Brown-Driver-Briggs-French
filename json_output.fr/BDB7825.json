@@ -1,0 +1,28 @@
+{
+    "head_word": "תְּרוּעָה",
+    "pos": "nom feminin",
+    "primary": "cri ou sonnerie de guerre, d'alarme ou de joie",
+    "description": "alarme de guerre",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "alarme de guerre"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "pour la marche"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "avec impulsion religieuse"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "en general"
+        }
+    ]
+}

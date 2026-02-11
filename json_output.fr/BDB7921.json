@@ -1,0 +1,18 @@
+{
+    "head_word": "רַכָּב",
+    "pos": "nom masculin",
+    "primary": "conducteur de char",
+    "description": null,
+    "senses": [
+        {
+            "number": 1,
+            "primary": "conducteur de char",
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": "cavalier",
+            "description": null
+        }
+    ]
+}

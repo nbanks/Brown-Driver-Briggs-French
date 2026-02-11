@@ -1,0 +1,23 @@
+{
+    "head_word": "רְכוּשׁ",
+    "pos": "nom masculin",
+    "primary": "propriete, biens",
+    "description": "terme general pour les biens meubles de toutes sortes (incluant souvent specifiquement le betail)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "terme general pour les biens meubles de toutes sortes (incluant souvent specifiquement le betail)"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "employe specifiquement du betail, des troupeaux, etc."
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "des provisions, ustensiles, etc."
+        }
+    ]
+}

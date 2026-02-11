@@ -1,0 +1,28 @@
+{
+    "head_word": "קִרְיָה",
+    "pos": "nom feminin",
+    "primary": "bourg, cite",
+    "description": "en general",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "en general"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "de villes specifiques"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "dans Es 24-26 collectif, c.-a-d. designant diverses villes representatives"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "indefini"
+        }
+    ]
+}

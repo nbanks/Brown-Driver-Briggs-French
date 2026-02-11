@@ -1,0 +1,18 @@
+{
+    "head_word": "נְבֵלָה",
+    "pos": "nom feminin",
+    "primary": "carcasse, cadavre",
+    "description": "humain",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "humain"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "d'animaux"
+        }
+    ]
+}

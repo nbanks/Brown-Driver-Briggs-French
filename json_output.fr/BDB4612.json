@@ -1,0 +1,28 @@
+{
+    "head_word": "מַי",
+    "pos": "nom masculin",
+    "primary": "eaux, eau",
+    "description": "d'un fleuve",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "d'un fleuve"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "avec des noms propres, de lieu (q. v.), pour designer les sources, cours d'eau, ou mers appartenant a, pres de, ces lieux"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "emplois speciaux sont"
+        },
+        {
+            "number": 4,
+            "primary": "de la fugacite",
+            "description": "parmi les emplois figures sont"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "head_word": "מְזוּזָה",
+    "pos": "nom feminin",
+    "primary": "montant de porte, montant de portail",
+    "description": "d'une maison d'habitation",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "d'une maison d'habitation"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "de la maison de ׳י"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "de portes de ville"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "head_word": "רָצָה",
+    "pos": "verbe",
+    "primary": "se plaire en, accepter favorablement",
+    "description": "de Dieu",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "de Dieu"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "passif de Qal 2"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "passif de Qal 4"
+        }
+    ]
+}

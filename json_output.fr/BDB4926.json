@@ -1,0 +1,18 @@
+{
+    "head_word": "נֹב",
+    "pos": "nom propre [d'un lieu]",
+    "primary": null,
+    "description": "ancienne ville sacerdotale",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "ancienne ville sacerdotale"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "juste\n    au nord de Jerusalem"
+        }
+    ]
+}

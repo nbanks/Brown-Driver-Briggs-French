@@ -1,0 +1,23 @@
+{
+    "head_word": "אֵיד",
+    "pos": "nom masculin",
+    "primary": "detresse, calamite",
+    "description": "calamite nationale",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "calamite nationale"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "du juste souffrant"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "souvent des mechants"
+        }
+    ]
+}

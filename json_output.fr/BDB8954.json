@@ -1,0 +1,28 @@
+{
+    "head_word": "מִשְׁפָּחָה",
+    "pos": "nom feminin",
+    "primary": "clan",
+    "description": "lien familial de l'individu",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "lien familial de l'individu"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "= corporation"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "= espece, sorte"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "pluriel = aristocrates"
+        }
+    ]
+}

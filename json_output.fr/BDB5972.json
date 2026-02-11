@@ -1,0 +1,23 @@
+{
+    "head_word": "עֶזְרָא",
+    "pos": "nom propre, masculin",
+    "primary": "Esdras",
+    "description": "pretre avec Zorobabel",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "Esdras",
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "pretre avec Zorobabel"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

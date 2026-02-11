@@ -1,0 +1,18 @@
+{
+    "head_word": "עָשָׁן",
+    "pos": "nom masculin",
+    "primary": "fumee",
+    "description": "d'une ville en feu",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "d'une ville en feu"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "accompagnant la theophanie"
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "head_word": "קָלַל",
+    "pos": "verbe",
+    "primary": "etre leger, rapide, insignifiant",
+    "description": "c.-a-d. de peu d'importance",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "c.-a-d. de peu d'importance"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "avec accusatif de personne"
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "avec accusatif de divinite"
+        },
+        {
+            "number": 9,
+            "primary": null,
+            "description": "avec accusatif de chose"
+        },
+        {
+            "number": 10,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 11,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 12,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 13,
+            "primary": null,
+            "description": "(particulierement) aiguiser"
+        }
+    ]
+}

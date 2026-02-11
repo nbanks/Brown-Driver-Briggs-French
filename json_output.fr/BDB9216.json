@@ -1,0 +1,38 @@
+{
+    "head_word": "תָּעַב",
+    "pos": "verbe",
+    "primary": null,
+    "description": "sens rituel",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "sens rituel"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "ethiquement"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "sens rituel"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "sens rituel"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "ethiquement"
+        }
+    ]
+}

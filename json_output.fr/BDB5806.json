@@ -1,0 +1,18 @@
+{
+    "head_word": "עַד",
+    "pos": "nom masculin",
+    "primary": "perpetuite",
+    "description": "= temps qui avance",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "du temps passe"
+        },
+        {
+            "number": 2,
+            "primary": "colere",
+            "description": "du temps futur"
+        }
+    ]
+}

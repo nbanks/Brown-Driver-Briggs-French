@@ -1,0 +1,28 @@
+{
+    "head_word": "שָׁמַי",
+    "pos": "nom masculin",
+    "primary": "cieux, ciel",
+    "description": "cieux visibles, ciel, ou sont les etoiles, etc.",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "rarement des anges",
+            "description": "cieux visibles, ciel, ou sont les etoiles, etc."
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "comme demeure de Dieu"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "הַשּׁ׳ personnifie dans diverses relations"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

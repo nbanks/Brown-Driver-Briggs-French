@@ -1,0 +1,28 @@
+{
+    "head_word": "כַּרְמֶל",
+    "pos": "nom masculin",
+    "primary": "plantation, terre cultivee",
+    "description": "par metonymie",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "plantation, terre cultivee",
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": "fruit, produit du jardin",
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "par metonymie"
+        }
+    ]
+}

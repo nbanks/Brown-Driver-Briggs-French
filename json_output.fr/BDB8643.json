@@ -1,0 +1,23 @@
+{
+    "head_word": "שִׁיר",
+    "pos": "nom masculin",
+    "primary": "chant",
+    "description": "chant lyrique",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "chant lyrique"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "chant religieux"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "specifiquement chant des choeurs levitiques, avec accompagnement musical"
+        }
+    ]
+}

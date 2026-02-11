@@ -1,0 +1,78 @@
+{
+    "head_word": "כּוּן",
+    "pos": "verbe",
+    "primary": "etre ferme",
+    "description": "seulement dans les conjugaisons derivees",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "au sens moral"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "de maniere a etre pret"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "diriger sa face vers (אֶלֿ)"
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 9,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 10,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 11,
+            "primary": null,
+            "description": "des hommes"
+        },
+        {
+            "number": 12,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 13,
+            "primary": null,
+            "description": "de maniere a etre pret"
+        },
+        {
+            "number": 14,
+            "primary": null,
+            "description": "c.-a-d. preter attention a"
+        }
+    ]
+}

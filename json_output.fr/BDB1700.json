@@ -1,0 +1,28 @@
+{
+    "head_word": "גְּנָזִים",
+    "pos": "nom [masculin] pluriel",
+    "primary": "coffres (?)",
+    "description": "peut-etre coffres d'etoffe bariolees",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "coffres (?)",
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": "tresor",
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "peut-etre coffres d'etoffe bariolees"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

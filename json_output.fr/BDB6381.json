@@ -1,0 +1,18 @@
+{
+    "head_word": "עָרַךְ",
+    "pos": "verbe",
+    "primary": "arranger ou mettre en ordre",
+    "description": "dresser une table (c.-a-d. disposer les plats en ordre dessus)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "non trouve",
+            "description": "dresser une table (c.-a-d. disposer les plats en ordre dessus)"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "(comme resultat de la mise en ordre)"
+        }
+    ]
+}

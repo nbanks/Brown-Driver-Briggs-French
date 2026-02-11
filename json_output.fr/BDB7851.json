@@ -1,0 +1,23 @@
+{
+    "head_word": "רְחֹבוֺת",
+    "pos": "nom propre [d'un lieu]",
+    "primary": null,
+    "description": "pres de Ninive",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "pres de Ninive"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "nom de puits"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "patrie d'un roi d'Edom"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "head_word": "יְחִיאֵל",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "un des musiciens principaux de David",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "un des musiciens principaux de David"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "un des chefs des Levites de David"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "tuteur des fils de David"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "fils de Josaphat"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "Hemanite du regne d'Ezechias"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "surveillant sous le regne d'Ezechias"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "chef du temple sous le regne de Josias"
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "contemporains d'Esdras"
+        }
+    ]
+}

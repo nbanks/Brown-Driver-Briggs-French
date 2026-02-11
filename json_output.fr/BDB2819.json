@@ -1,0 +1,38 @@
+{
+    "head_word": "חִלְקִיָּהוּ",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "pere d'Eliakim, officier d'Ezechias",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "pere d'Eliakim, officier d'Ezechias"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "grand pretre, epoque de Josias"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "pere de Jeremie"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "levites"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "un pretre, contemporain d'Esdras"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "pere de Guemaria, un ambassadeur de Sedecias aupres de Nebucadnetsar"
+        }
+    ]
+}

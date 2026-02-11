@@ -1,0 +1,23 @@
+{
+    "head_word": "רִשְׁעָה",
+    "pos": "nom feminin",
+    "primary": "mechancete",
+    "description": "dans les relations civiles",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "dans les relations civiles"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "des ennemis"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "ethique et religieux"
+        }
+    ]
+}

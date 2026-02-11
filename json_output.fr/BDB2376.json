@@ -1,0 +1,23 @@
+{
+    "head_word": "זַלְעָפָה",
+    "pos": "nom feminin",
+    "primary": "chaleur ardente",
+    "description": "de la fievre de la famine",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "de la fievre de la famine"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "de vent brulant"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "figure du zele"
+        }
+    ]
+}

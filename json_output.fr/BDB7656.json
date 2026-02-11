@@ -1,0 +1,83 @@
+{
+    "head_word": "רָאָה",
+    "pos": "verbe",
+    "primary": "voir",
+    "description": "avec accusatif de personne",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "avec accusatif de personne"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "suivi de accusatif + proposition ou phrase de designation plus precise"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "de maniere a apprendre a connaitre"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "voir, avoir (pouvoir de) vision"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "= percevoir"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "par volonte directe"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "d'observation mentale"
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "avec ב"
+        },
+        {
+            "number": 9,
+            "primary": null,
+            "description": "specialement"
+        },
+        {
+            "number": 10,
+            "primary": null,
+            "description": "sujet chose"
+        },
+        {
+            "number": 11,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 12,
+            "primary": null,
+            "description": "faire voir quelque chose a quelqu'un"
+        },
+        {
+            "number": 13,
+            "primary": null,
+            "description": "faire contempler"
+        },
+        {
+            "number": 14,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 15,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "head_word": "מוֺלֶ֫דֶת",
+    "pos": "nom feminin",
+    "primary": "parente, naissance, descendance",
+    "description": "collectif = progeniture, descendance",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "collectif = progeniture, descendance"
+        }
+    ]
+}

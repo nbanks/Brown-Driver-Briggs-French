@@ -1,0 +1,23 @@
+{
+    "head_word": "גִּבְעָה",
+    "pos": "nom propre [d'un lieu]",
+    "primary": null,
+    "description": "une ville de Juda",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "une ville de Juda"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "ville de Benjamin"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "une ville d'Ephraim"
+        }
+    ]
+}

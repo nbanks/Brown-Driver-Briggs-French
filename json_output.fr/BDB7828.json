@@ -1,0 +1,28 @@
+{
+    "head_word": "רוּץ",
+    "pos": "verbe",
+    "primary": "courir",
+    "description": "participe comme substantif",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "des chevaux",
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "participe comme substantif"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "= chasser de"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "head_word": "בְּרָכָה",
+    "pos": "nom feminin",
+    "primary": "benediction",
+    "description": "source de benediction",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "source de benediction"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "benediction, louange de Dieu"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "un don, present"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "traite de paix"
+        }
+    ]
+}

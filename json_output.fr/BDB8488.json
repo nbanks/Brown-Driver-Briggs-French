@@ -1,0 +1,33 @@
+{
+    "head_word": "שֵׁשׁ",
+    "pos": "nom masculin",
+    "primary": "six",
+    "description": "sans autre nombre",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "sans autre nombre"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "= ordinal 16e"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "600 = שֵׁשׁ מֵאוֺת"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "avec des dizaines"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "comme nombre rond"
+        }
+    ]
+}

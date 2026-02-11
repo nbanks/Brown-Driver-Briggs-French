@@ -1,0 +1,28 @@
+{
+    "head_word": "שָׁבַע",
+    "pos": "verbe",
+    "primary": "jurer",
+    "description": "probablement, pour ainsi dire, se septupler, ou se lier par\n        sept choses",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "sujet homme"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

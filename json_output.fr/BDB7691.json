@@ -1,0 +1,18 @@
+{
+    "head_word": "רַב",
+    "pos": "adjectif",
+    "primary": "beaucoup, nombreux, grand",
+    "description": "(souvent oppose a מְעַט)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "(souvent oppose a מְעַט)"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "moins souvent"
+        }
+    ]
+}

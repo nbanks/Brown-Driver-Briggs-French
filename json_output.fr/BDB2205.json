@@ -1,0 +1,28 @@
+{
+    "head_word": "הִנֵּה",
+    "pos": "particule",
+    "primary": "voici !",
+    "description": "designant des personnes ou des choses",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "designant des personnes ou des choses"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "introduisant des propositions impliquant une predication"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "וְהִנֵּה tres frequemment dans le style historique, surtout (mais pas exclusivement) apres des verbes de vision ou de decouverte, rendant le recit vivant et anime, et permettant au lecteur de partager la surprise ou la satisfaction du locuteur ou de l'acteur concerne"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "comme II. הֵן (b), presque = si (rare)"
+        }
+    ]
+}

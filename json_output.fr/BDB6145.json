@@ -1,0 +1,33 @@
+{
+    "head_word": "עִם",
+    "pos": "preposition",
+    "primary": "avec",
+    "description": "de camaraderie et de compagnonnage",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "de camaraderie et de compagnonnage"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "D'un lieu"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "Des personnes, עִם specifiquement"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "Idiomatique d'une pensee ou d'un dessein present chez quelqu'un"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "Metaphore ensemble avec = malgre, nonobstant"
+        }
+    ]
+}

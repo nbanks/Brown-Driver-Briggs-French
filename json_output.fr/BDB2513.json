@@ -1,0 +1,38 @@
+{
+    "head_word": "חָבַר",
+    "pos": "verbe",
+    "primary": "unir",
+    "description": "(generalement intransitif)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "(transitif)"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "= etre l'un de"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

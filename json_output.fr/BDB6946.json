@@ -1,0 +1,33 @@
+{
+    "head_word": "צִדְקִיָּ֫הוּ",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "dernier roi de Juda",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "dernier roi de Juda"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "faux prophetes"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "prince, epoque de Jeremie"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "pretre, epoque de Nehemie"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "fils de Jeconias"
+        }
+    ]
+}

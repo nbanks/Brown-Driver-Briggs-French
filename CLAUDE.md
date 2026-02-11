@@ -1,0 +1,1 @@
+/home/ai/.claude/CLAUDE.md

@@ -1,0 +1,38 @@
+{
+    "head_word": "מַלְכִּיָּהוּ",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "pere de Pashhur",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "pere de Pashhur"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "un prince"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "pretres"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "l'un des signataires"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "un Levite"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "divers hommes"
+        }
+    ]
+}

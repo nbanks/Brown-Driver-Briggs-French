@@ -1,0 +1,23 @@
+{
+    "head_word": "הוֺדִיָּה",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "un homme de Juda",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "un homme de Juda"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "Levites"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "un chef du peuple"
+        }
+    ]
+}

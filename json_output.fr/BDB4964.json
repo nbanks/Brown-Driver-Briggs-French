@@ -1,0 +1,33 @@
+{
+    "head_word": "נָגִיד",
+    "pos": "nom masculin",
+    "primary": "chef",
+    "description": "(litteralement probablement celui qui est devant)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "du roi d'Israel"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "d'un souverain ou prince etranger"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "le titre d'un haut fonctionnaire lie au temple"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "dans d'autres fonctions"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

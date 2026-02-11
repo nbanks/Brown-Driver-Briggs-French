@@ -1,0 +1,23 @@
+{
+    "head_word": "רֵעַ",
+    "pos": "nom masculin",
+    "primary": "ami, compagnon, semblable",
+    "description": "au sens faible, semblable, concitoyen, meme une autre\n        personne, avec qui on entretient des relations reciproques",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "au sens faible, semblable, concitoyen, meme une autre\n        personne, avec qui on entretient des relations reciproques"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "dans une expression reciproque"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "head_word": "שְׂבָכָה",
+    "pos": "nom feminin",
+    "primary": "treillis, reseau",
+    "description": "probablement treillis de fenetre",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "probablement treillis de fenetre"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "ornement en reseau sur les colonnes"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "pour attraper les animaux (figure)"
+        }
+    ]
+}

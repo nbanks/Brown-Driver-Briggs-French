@@ -1,0 +1,58 @@
+{
+    "head_word": "רוּעַ",
+    "pos": "verbe",
+    "primary": "pousser un cri",
+    "description": "avec clairon ou cor",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "pousser un cri",
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": "donner un coup de clairon",
+            "description": "avec clairon ou cor"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "avec impulsion religieuse"
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 9,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 10,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

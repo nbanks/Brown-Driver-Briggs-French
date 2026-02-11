@@ -1,0 +1,33 @@
+{
+    "head_word": "אֲבִיחַ֫יִל",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "un Levite",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "un Levite"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "un Gadite"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "pere d'Esther"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "epouse de Roboam"
+        }
+    ]
+}

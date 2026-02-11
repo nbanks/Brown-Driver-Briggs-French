@@ -1,0 +1,33 @@
+{
+    "head_word": "קֶ֫רֶן",
+    "pos": "nom feminin",
+    "primary": "corne",
+    "description": "de belier",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "de belier"
+        },
+        {
+            "number": 2,
+            "primary": "surtout comme elevee",
+            "description": "figure, de personne, symbole de force"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "d'autel, projections en forme de corne aux coins"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "d'eclairs dans la theophanie"
+        }
+    ]
+}

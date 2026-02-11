@@ -1,0 +1,48 @@
+{
+    "head_word": "חֶ֫סֶד",
+    "pos": "nom masculin",
+    "primary": "bonte, bienveillance",
+    "description": "de l'homme :",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "des hommes envers les hommes, en rendant faveurs et bienfaits"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "(surtout envers les humbles, les necessiteux et les miserables)"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "(rarement)"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "specifiquement bonte fidele"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "חֶסֶד est groupe avec d'autres attributs divins"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "la bonte de Dieu est"
+        },
+        {
+            "number": 8,
+            "primary": "promise dans l'alliance davidique Psaume",
+            "description": "les manifestations historiques de bonte fidele envers Israel"
+        }
+    ]
+}

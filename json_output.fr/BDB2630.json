@@ -1,0 +1,18 @@
+{
+    "head_word": "חוּץ",
+    "pos": "nom [masculin]",
+    "primary": "l'exterieur",
+    "description": "parfois, surtout au pluriel, specifiquement une rue",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "d'une maison, tente, ville, camp, etc., souvent employe, surtout avec des prepositions, pour exprimer l'idee adverbiale de dehors, a l'exterieur"
+        },
+        {
+            "number": 2,
+            "primary": "ce qui est en dehors des villes closes, la campagne",
+            "description": "d'une localite definie"
+        }
+    ]
+}

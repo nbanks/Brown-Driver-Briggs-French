@@ -1,0 +1,38 @@
+{
+    "head_word": "מְלָאכָה",
+    "pos": "nom feminin",
+    "primary": "occupation, travail",
+    "description": "bien dont on s'occupe",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "bien dont on s'occupe"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "comme quelque chose de fait ou fabrique"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "affaires publiques :"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "head_word": "תֵּ֫שַׁע",
+    "pos": "nom masculin et feminin",
+    "primary": "un neuf, neuvaine",
+    "description": "aucun autre nombre",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "aucun autre nombre"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "9 + 10 = 19"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "900 = תְשַׁע מֵאוֺת"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "avec des dizaines (20, 30, etc.)"
+        }
+    ]
+}

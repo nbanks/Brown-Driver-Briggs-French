@@ -1,0 +1,23 @@
+{
+    "head_word": "בְּרוֺשׁ",
+    "pos": "nom masculin",
+    "primary": "cypres ou sapin",
+    "description": "(litteral) un arbre noble",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "(litteral) un arbre noble"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "comparaison"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "comme materiau (toujours pluriel)"
+        }
+    ]
+}

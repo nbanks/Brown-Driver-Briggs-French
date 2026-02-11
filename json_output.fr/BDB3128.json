@@ -1,0 +1,33 @@
+{
+    "head_word": "חֵ֫רֶם",
+    "pos": "nom masculin",
+    "primary": "chose vouee",
+    "description": "chose hostile a la theocratie, et donc (dans l'application la plus stricte) devant etre soit detruite,\n    soit, dans le cas de certains objets (p. ex. argent et or, vases d'airain et de fer Jos 6,19; Jos 6,24), mise a part pour des usages sacres",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "chose vouee",
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": "devotion, interdit",
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "chose hostile a la theocratie, et donc (dans l'application la plus stricte) devant etre soit detruite,\n    soit, dans le cas de certains objets (p. ex. argent et or, vases d'airain et de fer Jos 6,19; Jos 6,24), mise a part pour des usages sacres"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "apparemment"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "impliquant la destruction"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "head_word": "ראשׁ",
+    "pos": "nom masculin",
+    "primary": "venin",
+    "description": "une herbe amere et veneneuse, puis venin, toujours figure",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "une herbe amere et veneneuse"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

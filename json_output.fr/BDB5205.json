@@ -1,0 +1,33 @@
+{
+    "head_word": "נָכַר",
+    "pos": "verbe",
+    "primary": "considerer, reconnaitre",
+    "description": "surtout en vue de la reconnaissance",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "surtout en vue de la reconnaissance"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "(comme precedemment connu)"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

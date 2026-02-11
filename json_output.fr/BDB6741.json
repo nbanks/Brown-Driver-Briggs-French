@@ -1,0 +1,23 @@
+{
+    "head_word": "מִפְקָד",
+    "pos": "nom [masculin]",
+    "primary": "recensement, designation, lieu designe",
+    "description": "du peuple",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "du peuple"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "de (par) Ezechias"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "du (dans le) temple"
+        }
+    ]
+}

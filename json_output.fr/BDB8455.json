@@ -1,0 +1,28 @@
+{
+    "head_word": "שַׁבָּתוֺן",
+    "pos": "nom masculin",
+    "primary": "observance du sabbat, sabbatisme",
+    "description": "du sabbat hebdomadaire",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "du sabbat hebdomadaire"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "jour d'expiation"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "annee sabbatique"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "seul pour la fete des trompettes"
+        }
+    ]
+}

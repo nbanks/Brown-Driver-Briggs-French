@@ -1,0 +1,18 @@
+{
+    "head_word": "מִתְרְדָת",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "nom de deux Perses",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "au temps de Cyrus"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "au temps d'Artaxerxes"
+        }
+    ]
+}

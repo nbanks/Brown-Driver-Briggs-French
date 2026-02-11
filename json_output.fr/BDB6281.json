@@ -1,0 +1,18 @@
+{
+    "head_word": "עֵץ",
+    "pos": "nom masculin",
+    "primary": "arbre, arbres, bois",
+    "description": "un arbre sur pied",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "un arbre sur pied"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "pluriel, pour designer des morceaux [ou articles] de bois)"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "head_word": "תּוֺדָה",
+    "pos": "nom feminin",
+    "primary": "action de graces",
+    "description": "rendre louange a ׳י",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "rendre louange a ׳י"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "action de graces dans les chants du culte liturgique"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "choeur d'action de graces, procession, cortege, compagnie"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "sacrifice d'action de graces"
+        }
+    ]
+}

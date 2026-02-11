@@ -1,0 +1,63 @@
+{
+    "head_word": "סָגַר",
+    "pos": "verbe",
+    "primary": "fermer, clore",
+    "description": "= etroitement joint avec un sceau serre",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "= etroitement joint avec un sceau serre"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "enferme, et donc prise, rare, fin ?"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "des villes"
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "des prisonniers"
+        },
+        {
+            "number": 9,
+            "primary": null,
+            "description": "des portes"
+        },
+        {
+            "number": 10,
+            "primary": null,
+            "description": "(comparer\n        Pi`el)"
+        },
+        {
+            "number": 11,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "head_word": "מָשִׁיחַ",
+    "pos": "nom masculin",
+    "primary": "oint",
+    "description": "roi d'Israel oint par commandement divin",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "roi d'Israel oint par commandement divin"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "grand pretre d'Israel"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "Cyrus comme missionne par ׳"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "prince messianique"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "patriarches, consideres comme des rois oints"
+        }
+    ]
+}

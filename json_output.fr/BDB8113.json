@@ -1,0 +1,18 @@
+{
+    "head_word": "רַק",
+    "pos": "adjectif",
+    "primary": "mince",
+    "description": "de vaches",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "mince",
+            "description": "de vaches"
+        },
+        {
+            "number": 2,
+            "primary": "seulement, tout a fait, assurement",
+            "description": "avec force restrictive"
+        }
+    ]
+}

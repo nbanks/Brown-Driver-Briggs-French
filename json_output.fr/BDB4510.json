@@ -1,0 +1,33 @@
+{
+    "head_word": "מָדַד",
+    "pos": "verbe",
+    "primary": "mesurer",
+    "description": "principalement au sens propre",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "mesure de longueur, de distance"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "de mesure seche"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "(= faire etendue ou continuation)"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

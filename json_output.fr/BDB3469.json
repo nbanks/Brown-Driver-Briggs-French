@@ -1,0 +1,33 @@
+{
+    "head_word": "יָהַב",
+    "pos": "verbe",
+    "primary": "donner",
+    "description": "= placer",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "= placer"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "= fournir"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "attribuer gloire, etc., a ׳י (Dieu)"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "= allons maintenant (a l'origine accorder, permettre), devant un volontatif"
+        }
+    ]
+}

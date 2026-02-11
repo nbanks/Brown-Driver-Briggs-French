@@ -1,0 +1,33 @@
+{
+    "head_word": "כִּי",
+    "pos": "conjonction",
+    "primary": "que, car, quand",
+    "description": "prefixe aux propositions dependant d'un verbe actif, et occupant par rapport a celui-ci la place d'un accusatif",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "Rare autrement",
+            "description": "prefixe aux propositions dependant d'un verbe actif, et occupant par rapport a celui-ci la place d'un accusatif"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "Du temps"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "chaque particule conservant sa force independante, et se rapportant a une proposition differente"
+        },
+        {
+            "number": 5,
+            "primary": "excepte",
+            "description": "les deux particules etant etroitement jointes, et se rapportant a la meme proposition"
+        }
+    ]
+}

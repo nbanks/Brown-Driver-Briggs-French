@@ -1,0 +1,18 @@
+{
+    "head_word": "נָוֶה",
+    "pos": "nom masculin",
+    "primary": "demeure de berger, ou de troupeaux",
+    "description": "en poesie habitation",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "des brebis"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "generalement de la campagne, ou de domaines a la campagne (surtout en poesie)"
+        }
+    ]
+}

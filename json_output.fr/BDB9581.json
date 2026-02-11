@@ -1,0 +1,18 @@
+{
+    "head_word": "יְכִל",
+    "pos": "verbe",
+    "primary": "pouvoir",
+    "description": "pouvoir faire",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "pouvoir faire"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

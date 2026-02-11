@@ -1,0 +1,23 @@
+{
+    "head_word": "קֶ֫רֶב",
+    "pos": "nom [masculin]",
+    "primary": "partie interieure, milieu",
+    "description": "du corps humain, sens physique",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "du corps humain, sens physique"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "de la partie interieure de l'homme"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "terme technique"
+        }
+    ]
+}

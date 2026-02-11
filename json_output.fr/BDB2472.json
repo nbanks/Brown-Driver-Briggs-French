@@ -1,0 +1,28 @@
+{
+    "head_word": "זְרוֺעַ",
+    "pos": "nom feminin",
+    "primary": "bras, epaule, force",
+    "description": "comme symbole de force",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "comme symbole de force"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "forces, politiques et militaires"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "d'animal sacrifie, appartenant au pretre"
+        }
+    ]
+}

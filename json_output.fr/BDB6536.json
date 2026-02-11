@@ -1,0 +1,38 @@
+{
+    "head_word": "פֶּה",
+    "pos": "nom masculin",
+    "primary": "bouche",
+    "description": "de l'homme, organe pour manger et boire",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "de l'homme, organe pour manger et boire"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "beaucoup plus souvent, comme organe de la parole, de l'homme"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "des animaux"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "= ouverture, orifice"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "= portion"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "avec prepositions"
+        }
+    ]
+}

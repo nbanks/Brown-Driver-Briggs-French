@@ -1,0 +1,23 @@
+{
+    "head_word": "נָחָשׁ",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "roi d'Ammon",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "roi d'Ammon"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "pere d'Abigail et de Tserouia"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "donnant son nom a une ville"
+        }
+    ]
+}

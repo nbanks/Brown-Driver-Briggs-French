@@ -1,0 +1,18 @@
+{
+    "head_word": "יַרְמוּת",
+    "pos": "nom propre [d'un lieu]",
+    "primary": null,
+    "description": "ville cananeenne, avec un roi, nommee entre Hebron et Lakish",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "ville cananeenne, avec un roi, nommee entre Hebron et Lakish"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "ville levitique en Issachar"
+        }
+    ]
+}

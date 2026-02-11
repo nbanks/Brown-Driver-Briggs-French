@@ -1,0 +1,28 @@
+{
+    "head_word": "רֶ֫סֶן",
+    "pos": "nom masculin",
+    "primary": "licou",
+    "description": "retenant la bouche du cheval ou de l'ane",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "licou",
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": "machoire (?)",
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "retenant la bouche du cheval ou de l'ane"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "le double de sa machoire, ses doubles machoires (du crocodile)"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "head_word": "נְחֶמְיָה",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "le fils de Hacalia, gouverneur de Juda sous Artaxerxes",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "le fils de Hacalia, gouverneur de Juda sous Artaxerxes"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "chef de la moitie du district de Beth-Tsour"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "un des douze chefs du peuple qui revinrent avec Zorobabel"
+        }
+    ]
+}

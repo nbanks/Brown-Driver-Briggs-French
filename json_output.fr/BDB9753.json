@@ -1,0 +1,18 @@
+{
+    "head_word": "עִדָּן",
+    "pos": "nom masculin",
+    "primary": "temps",
+    "description": "en general, temps, comme duree",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "en general, temps, comme duree"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "temps defini, = annee"
+        }
+    ]
+}

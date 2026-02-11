@@ -1,0 +1,23 @@
+{
+    "head_word": "אָנַח",
+    "pos": "verbe",
+    "primary": "soupirer, gemir",
+    "description": "en detresse physique",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "en detresse physique"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

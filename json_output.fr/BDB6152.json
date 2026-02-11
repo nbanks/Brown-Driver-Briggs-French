@@ -1,0 +1,28 @@
+{
+    "head_word": "עַמִּיאֵל",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "nom de Transjordanie",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "nom de Transjordanie"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "un Danite"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "beau-pere de David"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "fils d'Obed Edom"
+        }
+    ]
+}

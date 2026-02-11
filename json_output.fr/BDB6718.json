@@ -1,0 +1,23 @@
+{
+    "head_word": "פַּ֫עַם",
+    "pos": "nom feminin",
+    "primary": "battement, pied, enclume, occurrence",
+    "description": "= enclume (frappee par le marteau)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "= enclume (frappee par le marteau)"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "(a l'origine coup, battement)"
+        }
+    ]
+}

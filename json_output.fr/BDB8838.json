@@ -1,0 +1,33 @@
+{
+    "head_word": "יִשְׁמָעֵאל",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "fils d'Abraham et Agar",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "fils d'Abraham et Agar"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "meurtrier de Guedalia"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "en Benjamin"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "en Juda"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "Juif avec une epouse etrangere"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "head_word": "בַּת",
+    "pos": "nom feminin",
+    "primary": "fille",
+    "description": "enfant feminin, nee d'une femme",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "utilise en adresse bienveillante",
+            "description": "enfant feminin, nee d'une femme"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "avec nom de ville, pays ou peuple, personnification poetique de cette ville ou de ses habitants, etc."
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "apres nom de ville"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "dans des expressions denotant le caractere, la qualite, etc."
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "בַּת יַעֲנָה = autruche"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "de la vigne = branche"
+        },
+        {
+            "number": 9,
+            "primary": null,
+            "description": "comme nom relatif"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "head_word": "מָה",
+    "pos": "pronom",
+    "primary": "quoi? comment? quelque chose",
+    "description": "employe pour les choses, comme מִי pour les personnes",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "interrogatif quoi?"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "employe adverbialement"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "pronom indefini"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "avec des prepositions"
+        }
+    ]
+}

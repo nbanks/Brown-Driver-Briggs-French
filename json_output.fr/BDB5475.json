@@ -1,0 +1,68 @@
+{
+    "head_word": "סָבַב",
+    "pos": "verbe",
+    "primary": "se tourner, faire le tour, entourer",
+    "description": "souvent comme preliminaire a autre chose",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "souvent comme preliminaire a autre chose"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "se tourner contre (עַלֿ), se refermer sur (עַל)"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 9,
+            "primary": null,
+            "description": "(c.-a-d. a l'allegeance)"
+        },
+        {
+            "number": 10,
+            "primary": null,
+            "description": "peut-etre aussi encercler (comme ennemi)"
+        },
+        {
+            "number": 11,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 12,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

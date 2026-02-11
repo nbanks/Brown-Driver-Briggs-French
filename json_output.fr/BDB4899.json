@@ -1,0 +1,18 @@
+{
+    "head_word": "מָתְנַ֫יִם",
+    "pos": "nom masculin duel",
+    "primary": "reins",
+    "description": "lieu ou l'on porte la ceinture",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "lieu ou l'on porte la ceinture"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "comme siege de la force"
+        }
+    ]
+}

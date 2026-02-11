@@ -1,0 +1,28 @@
+{
+    "head_word": "גּוֺרָל",
+    "pos": "nom masculin",
+    "primary": "sort",
+    "description": "pour diviser la terre, specialement celui que Josue tira a Silo",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "pour diviser la terre, specialement celui que Josue tira a Silo"
+        },
+        {
+            "number": 2,
+            "primary": "pour determiner les coupables",
+            "description": "pour assigner au service, devoir ou punition"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "specialement de la terre assignee par le sort"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "= recompense, retribution"
+        }
+    ]
+}

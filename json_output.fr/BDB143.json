@@ -1,0 +1,43 @@
+{
+    "head_word": "אָהֵב",
+    "pos": "verbe",
+    "primary": "aimer",
+    "description": "amour humain envers un objet humain",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "amour humain envers un objet humain"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "moins souvent"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "amour envers Dieu"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "de l'amour divin"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "head_word": "עֲדִיאֵל",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "un Simeonite",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "un Simeonite"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "un pretre"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "pere d'un fonctionnaire, a l'epoque de David"
+        }
+    ]
+}

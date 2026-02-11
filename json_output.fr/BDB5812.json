@@ -1,0 +1,28 @@
+{
+    "head_word": "עֲדִי",
+    "pos": "nom [masculin]",
+    "primary": "ornements",
+    "description": "(dont on se pare)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "de femmes"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "d'hommes"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "en general"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "de cheval"
+        }
+    ]
+}

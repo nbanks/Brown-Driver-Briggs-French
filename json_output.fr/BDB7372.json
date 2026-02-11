@@ -1,0 +1,43 @@
+{
+    "head_word": "מָקוֺם",
+    "pos": "nom masculin",
+    "primary": "lieu, place",
+    "description": "ou une chose appartient",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "ou une chose appartient"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "de terre"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "en general"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "usages particuliers"
+        }
+    ]
+}

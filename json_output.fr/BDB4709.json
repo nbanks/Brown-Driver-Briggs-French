@@ -1,0 +1,53 @@
+{
+    "head_word": "מִןֿ",
+    "pos": "preposition",
+    "primary": "hors de, de, a cause de, de cote, depuis, au-dessus de, que, de sorte que ne pas",
+    "description": "exprimant l'idee de separation",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "par les archers",
+            "description": "avec des verbes exprimant (ou impliquant) la separation ou l'eloignement, que ce soit d'une personne ou d'un lieu, ou dans toute direction, aussi de la culpabilite, la calamite, etc."
+        },
+        {
+            "number": 2,
+            "primary": "hors de",
+            "description": "de la matiere dont une chose est formee, ou dont elle est derivee"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "partitivement (un sens en liaison avec 2.a. (c), ci-dessus)"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "du temps"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "(וְעַד) מִן ֗֗֗ עַד de ... jusqu'a : tres souvent"
+        },
+        {
+            "number": 6,
+            "primary": "c: ex in eximius, egregius",
+            "description": "dans les comparaisons, au-dela de, au-dessus de"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "prefixe a un infinitif"
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "une fois Dt 33,11 comme conjonction devant un verbe fini"
+        },
+        {
+            "number": 9,
+            "primary": null,
+            "description": "dans les composes"
+        }
+    ]
+}

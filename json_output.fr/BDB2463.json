@@ -1,0 +1,23 @@
+{
+    "head_word": "זָרַע",
+    "pos": "verbe",
+    "primary": "semer, repandre la semence",
+    "description": "litteral",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "litteral"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "d'un arbuste et arbre produisant, donnant de la semence, avec accusatif de sens apparent avec le verbe"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "figure"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "head_word": "מִן",
+    "pos": "preposition",
+    "primary": "de, hors de, par, a cause de, a, plus que",
+    "description": "de lieu",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "de lieu"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "de la source (hebreu biblique 2.b.), comme etre nourri de Dan 4:9 ou auteur (ib. d), מִנִּי שִׂים טְעֵם = par moi un decret est fait, Dan 3:29; Dan 4:3 (Dan 6:27 מִןקֳֿדָמַי), Ezra 4:19 +, comparer Ezra 5:17 מִנַּי = de ma part Dan 2:5; Dan 2:8 (voir אַזְדָּא)."
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "de la norme"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "partitivement"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "de temps"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "dans les comparaisons"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "composes"
+        }
+    ]
+}

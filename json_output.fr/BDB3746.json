@@ -1,0 +1,33 @@
+{
+    "head_word": "יְרֵימוֺת",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "Benjaminites",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "Benjaminites"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "Levites"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "id. Nephtalite"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "id. fils de David et pere de l'epouse de Roboam"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "hommes qui avaient des epouses etrangeres"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "head_word": "תַּחַת",
+    "pos": "nom [masculin]",
+    "primary": "la partie inferieure",
+    "description": "comme adverbe\naccusatif",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "ce qui est sous quelqu'un, le lieu ou l'on se tient"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "comme conjonction"
+        },
+        {
+            "number": 4,
+            "primary": "apres",
+            "description": "אֶלתַּֿחַת, apres un verbe de mouvement"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "מִתַּחַת"
+        }
+    ]
+}

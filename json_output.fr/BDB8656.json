@@ -1,0 +1,18 @@
+{
+    "head_word": "שְׁכָבָה",
+    "pos": "nom feminin",
+    "primary": "action de se coucher, couche",
+    "description": "action de se coucher",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "action de se coucher"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "de la rosee"
+        }
+    ]
+}

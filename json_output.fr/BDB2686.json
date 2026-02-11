@@ -1,0 +1,18 @@
+{
+    "head_word": "חָזְקָה",
+    "pos": "nom feminin",
+    "primary": "force, violence",
+    "description": "toujours בְּחָזְקָה",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "de l'oppression"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "reprimander severement, vivement"
+        }
+    ]
+}

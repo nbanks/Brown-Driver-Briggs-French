@@ -1,0 +1,28 @@
+{
+    "head_word": "נֵס",
+    "pos": "nom [masculin]",
+    "primary": "etendard, enseigne, signal, signe",
+    "description": "(puisque les voiles etaient la seule enseigne) =",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "(puisque les voiles etaient la seule enseigne) ="
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "= avertissement"
+        }
+    ]
+}

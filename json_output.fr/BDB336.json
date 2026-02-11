@@ -1,0 +1,43 @@
+{
+    "head_word": "אַחַר",
+    "pos": "adverbe",
+    "primary": "derriere",
+    "description": "de lieu",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "derriere",
+            "description": "de lieu"
+        },
+        {
+            "number": 2,
+            "primary": "derriere, apres",
+            "description": "de lieu"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": "partie posterieure",
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": "derriere, apres",
+            "description": "de lieu"
+        },
+        {
+            "number": 6,
+            "primary": "apres cela",
+            "description": null
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "avec d'autres prepositions"
+        }
+    ]
+}

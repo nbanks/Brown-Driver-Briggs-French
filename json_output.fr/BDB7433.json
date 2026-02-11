@@ -1,0 +1,33 @@
+{
+    "head_word": "קִיר",
+    "pos": "nom masculin",
+    "primary": "mur",
+    "description": "specialement comme surface plate",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "comme enclos",
+            "description": "habituellement de maison ou de chambre"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "plus generalement"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "du cote plat de l'autel"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "murs de mon coeur (comme siege de la douleur)"
+        }
+    ]
+}

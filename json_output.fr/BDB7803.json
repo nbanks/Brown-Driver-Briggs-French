@@ -1,0 +1,53 @@
+{
+    "head_word": "רוּם",
+    "pos": "verbe",
+    "primary": "etre haut, exalte, s'elever",
+    "description": "surtout de ׳\nי",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "surtout de ׳\nי"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "au figure"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 7,
+            "primary": "face",
+            "description": "(prendre\n            dans sa main et) lever, prendre"
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "et emporter, \n            enlever"
+        },
+        {
+            "number": 9,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

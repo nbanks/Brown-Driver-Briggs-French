@@ -1,0 +1,53 @@
+{
+    "head_word": "עַד",
+    "pos": "preposition",
+    "primary": "jusqu'a, meme jusqu'a, jusqu'a ce que, tandis que",
+    "description": "d'espace",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "avec le but un",
+            "description": "d'espace"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "De temps"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "De degre, pour suggerer un plus haut ou le plus haut"
+        },
+        {
+            "number": 4,
+            "primary": "apres une proposition negative",
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "De degre"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "d'espace"
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "De temps"
+        },
+        {
+            "number": 9,
+            "primary": null,
+            "description": "De degre"
+        }
+    ]
+}

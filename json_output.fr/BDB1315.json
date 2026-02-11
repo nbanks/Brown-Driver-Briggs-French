@@ -1,0 +1,58 @@
+{
+    "head_word": "בְּרִית",
+    "pos": "nom feminin",
+    "primary": "alliance",
+    "description": "entre hommes",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "entre monarque et sujets"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "d'amitié entre David et Jonathan"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "de mariage"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "d'amitié"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "comme institution ou ordonnance divine avec signes ou gages"
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "conclusion d'alliance"
+        },
+        {
+            "number": 9,
+            "primary": null,
+            "description": "respect de l'alliance"
+        },
+        {
+            "number": 10,
+            "primary": null,
+            "description": "violation de l'alliance"
+        }
+    ]
+}

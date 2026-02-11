@@ -1,0 +1,28 @@
+{
+    "head_word": "מִדְבָּר",
+    "pos": "nom masculin",
+    "primary": "desert",
+    "description": "etendues de terre, utilisees pour le paturage des troupeaux",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "etendues de terre, utilisees pour le paturage des troupeaux"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "terre inhabitee"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "grandes etendues de terre portant divers noms, dans certains districts desquelles il pouvait y avoir des villes et cites"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "figure"
+        }
+    ]
+}

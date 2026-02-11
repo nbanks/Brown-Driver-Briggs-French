@@ -1,0 +1,33 @@
+{
+    "head_word": "מַעֲלָה",
+    "pos": "nom feminin",
+    "primary": "marche, escalier",
+    "description": "du temple",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "du temple"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "du ciel"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "(ל)הַמַּעֲלוֺת שִׁיר cantique des degres, pour les trois grandes fetes de pelerinage, c.-a-d. a chanter en montant a Jerusalem"
+        }
+    ]
+}

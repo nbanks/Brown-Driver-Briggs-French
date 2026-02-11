@@ -1,0 +1,28 @@
+{
+    "head_word": "קָצֶה",
+    "pos": "nom [masculin]",
+    "primary": "bout, extremite",
+    "description": "seulement singulier",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "terme condense pour ce qui est inclus dans les extremites, = le tout"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "au bout d'un certain temps"
+        }
+    ]
+}

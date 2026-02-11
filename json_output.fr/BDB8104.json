@@ -1,0 +1,18 @@
+{
+    "head_word": "מֶרְקָחָה",
+    "pos": "nom",
+    "primary": "pot a onguent",
+    "description": "dans lequel l'onguent est compose",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "pot a onguent",
+            "description": "dans lequel l'onguent est compose"
+        },
+        {
+            "number": 2,
+            "primary": "assaisonnement d'epices (?)",
+            "description": null
+        }
+    ]
+}

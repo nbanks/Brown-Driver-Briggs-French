@@ -1,0 +1,48 @@
+{
+    "head_word": "שָׁמַע",
+    "pos": "verbe",
+    "primary": "entendre",
+    "description": "sujet personne humaine (ou chose personnifiee)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "sujet personne humaine (ou chose personnifiee)"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "׳י (Dieu) sujet"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "de voix, son, etc."
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "= (favorable) audience fut accordee a leur voix"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "de l'homme"
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "׳י sujet"
+        }
+    ]
+}

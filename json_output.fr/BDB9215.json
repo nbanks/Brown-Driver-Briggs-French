@@ -1,0 +1,18 @@
+{
+    "head_word": "תּוֺעֵבָה",
+    "pos": "nom feminin",
+    "primary": "abomination",
+    "description": "sens rituel",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "sens rituel"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "sens ethique"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "head_word": "מָחָר",
+    "pos": "nom masculin",
+    "primary": "demain, dans le temps a venir",
+    "description": "(le jour suivant le jour present)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "(le jour suivant le jour present)"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "= dans le temps futur"
+        }
+    ]
+}

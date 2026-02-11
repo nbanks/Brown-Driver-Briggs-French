@@ -1,0 +1,23 @@
+{
+    "head_word": "טָעַם",
+    "pos": "verbe",
+    "primary": "gouter, percevoir",
+    "description": "du sens du gout",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "du sens du gout"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "c.-a-d. elle constate que son commerce est profitable"
+        }
+    ]
+}

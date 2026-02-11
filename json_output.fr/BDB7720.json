@@ -1,0 +1,23 @@
+{
+    "head_word": "אַרְבָּעִים",
+    "pos": "nom pluriel indeclinable",
+    "primary": "quarante",
+    "description": "un quarante",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "sans autre nombre"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "avec d'autres nombres"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "comme ordinal"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "head_word": "עֶ֫רֶב",
+    "pos": "nom [masculin]",
+    "primary": "coucher (du soleil), soir",
+    "description": "a l'origine coucher du soleil",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "a l'origine coucher du soleil"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "= nuit"
+        }
+    ]
+}

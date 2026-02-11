@@ -1,0 +1,28 @@
+{
+    "head_word": "מַרְאֶה",
+    "pos": "nom masculin",
+    "primary": "vue, apparence, vision",
+    "description": "en general",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "en general"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "specifiquement une vision (surnaturelle)"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "= pouvoir de voir (et de jouir)"
+        }
+    ]
+}

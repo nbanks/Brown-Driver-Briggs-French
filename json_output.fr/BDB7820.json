@@ -1,0 +1,43 @@
+{
+    "head_word": "תְּרוּמָה",
+    "pos": "nom feminin",
+    "primary": "contribution, offrande",
+    "description": "pour usages sacres",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "usage le plus ancien: contribution des produits du sol pour ׳ י"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "contribution pour le prince, dans le schema d'Ezechiel"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "parcelle de terre a mettre a part pour le temple, et pour l'usage des pretres et Levites, dans le schema d'Ezechiel"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "contribution a ׳ י, mise a part pour les pretres"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "materiaux pour le tabernacle, vetements sacres, etc."
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "demi-sicle pour le maintien du service du sanctuaire"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "en general"
+        }
+    ]
+}

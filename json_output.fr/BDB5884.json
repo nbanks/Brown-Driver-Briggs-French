@@ -1,0 +1,23 @@
+{
+    "head_word": "עַוְלָה",
+    "pos": "nom feminin",
+    "primary": "injustice, iniquite, tort",
+    "description": "actes violents d'injustice",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "actes violents d'injustice"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "du discours"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "en general"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "head_word": "חָלַץ",
+    "pos": "verbe",
+    "primary": "equiper",
+    "description": "equiper pour la guerre",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "comme adjectif"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "comme substantif singulier collectif"
+        }
+    ]
+}

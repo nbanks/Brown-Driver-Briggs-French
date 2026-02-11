@@ -1,0 +1,38 @@
+{
+    "head_word": "גָּמַל",
+    "pos": "verbe",
+    "primary": "traiter pleinement ou adequatement, rendre a",
+    "description": "avec עַל personne",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "traiter pleinement ou adequatement, rendre a",
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": "sevrer",
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": "murir",
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "avec עַל personne"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "(achever son allaitement)"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "transitif"
+        }
+    ]
+}

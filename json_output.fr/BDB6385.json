@@ -1,0 +1,23 @@
+{
+    "head_word": "מַעֲרָכָה",
+    "pos": "nom feminin",
+    "primary": "rangee, rang, ligne de bataille",
+    "description": "= armee",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "= armee"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "lampes de la rangee, c.-a-d. disposees en rangee"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

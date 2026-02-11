@@ -1,0 +1,23 @@
+{
+    "head_word": "אֵת",
+    "pos": null,
+    "primary": "marque de l'accusatif",
+    "description": "la marque de l'accusatif, prefixee en regle generale uniquement aux noms definis",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "Comme marque de l'accusatif prefixee aux substantifs definis soit par l'article (ou כֹּל), soit par un genitif ou un suffixe pronominal, soit en vertu d'etre des noms propres"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "marque un accusatif dans d'autres relations que celle d'objet direct d'un verbe"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "Principalement dans un style inferieur ou tardif, אֵת (ou וְאֵת) est employe irregulierement"
+        }
+    ]
+}

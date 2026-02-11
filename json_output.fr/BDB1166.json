@@ -1,0 +1,23 @@
+{
+    "head_word": "בֶּןהֲֿדַד",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "nom pour le roi d'Aram",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "epoque d'Asa et Baesha"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "fils de 1"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "fils de Hazael"
+        }
+    ]
+}

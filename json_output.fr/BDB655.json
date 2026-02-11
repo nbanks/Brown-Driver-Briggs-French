@@ -1,0 +1,18 @@
+{
+    "head_word": "אֲפֻדָּה",
+    "pos": "nom feminin",
+    "primary": "éphod",
+    "description": "de l'éphod du grand pretre",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "de l'éphod du grand pretre"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "du revetement des images d'idoles"
+        }
+    ]
+}

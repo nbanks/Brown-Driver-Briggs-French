@@ -1,0 +1,23 @@
+{
+    "head_word": "נָזִיר",
+    "pos": "nom masculin",
+    "primary": "un consacre, devoue",
+    "description": "du prince, du souverain",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "du prince, du souverain"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "specifiquement de celui qui est dedie a\n    ׳\nי par voeu impliquant l'abstinence des boissons enivrantes, du contact avec les cadavres, et de la coupe des cheveux"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "= vigne non taillee (comme le Nazireen aux cheveux non coupes)"
+        }
+    ]
+}

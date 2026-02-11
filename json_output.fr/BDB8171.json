@@ -1,0 +1,23 @@
+{
+    "head_word": "שָׂדֶה",
+    "pos": "nom masculin",
+    "primary": "id.",
+    "description": "champ ouvert, campagne",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "champ ouvert, campagne"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "portion definie de terrain"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "oppose a la mer"
+        }
+    ]
+}

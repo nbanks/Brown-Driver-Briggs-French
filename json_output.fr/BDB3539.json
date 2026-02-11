@@ -1,0 +1,23 @@
+{
+    "head_word": "יָכֹל",
+    "pos": "verbe",
+    "primary": "etre capable, avoir le pouvoir, prevaloir, endurer",
+    "description": "de faire une chose, que la capacite soit physique, morale, constitutionnelle, ou dependante d'une autorite exterieure",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "de faire une chose, que la capacite soit physique, morale, constitutionnelle, ou dependante d'une autorite exterieure"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "head_word": "נוּף",
+    "pos": "verbe",
+    "primary": "mouvoir de-ci de-la, agiter, asperger",
+    "description": "mouvoir un outil de-ci de-la en l'utilisant",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "mouvoir un outil de-ci de-la en l'utilisant"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "agiter ou brandir la main"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "du rite dans lequel a l'origine le pretre elevait sa part de l'offrande et l'agitait, c.-a-d. la deplacait vers l'autel et en arriere, en signe de sa presentation a Dieu et de son retour par lui au pretre"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

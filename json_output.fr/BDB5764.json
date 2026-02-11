@@ -1,0 +1,18 @@
+{
+    "head_word": "יַעְבֵּץ",
+    "pos": "nom propre",
+    "primary": "Jabets",
+    "description": "un homme des Calebites",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "Jabets",
+            "description": "un homme des Calebites"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "en Juda, apparemment pres de Bethlehem"
+        }
+    ]
+}

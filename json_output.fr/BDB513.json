@@ -1,0 +1,18 @@
+{
+    "head_word": "אָמָה",
+    "pos": "nom feminin",
+    "primary": "servante, domestique",
+    "description": "litteralement servante",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "litteralement servante"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "figure dans le discours"
+        }
+    ]
+}

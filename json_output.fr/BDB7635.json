@@ -1,0 +1,33 @@
+{
+    "head_word": "קָשָׁה",
+    "pos": "verbe",
+    "primary": "etre dur, severe, farouche",
+    "description": "elle rendit dur dans son enfantement (eut un travail difficile)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "figure de l'obstination"
+        }
+    ]
+}

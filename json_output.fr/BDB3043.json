@@ -1,0 +1,18 @@
+{
+    "head_word": "חֵץ",
+    "pos": "nom masculin",
+    "primary": "fleche",
+    "description": "surtout dans la poesie et les prophetes",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "litteralement, tiree de l'arc a la main"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "figure des armes d'Israel"
+        }
+    ]
+}

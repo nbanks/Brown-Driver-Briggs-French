@@ -1,0 +1,18 @@
+{
+    "head_word": "מְחִיר",
+    "pos": "nom masculin",
+    "primary": "prix, salaire",
+    "description": "comme ce qui est place devant quelqu'un, presente, offert",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": "salaire",
+            "description": null
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "head_word": "יְהוּדָה",
+    "pos": "nom propre, masculin [aussi d'un territoire]",
+    "primary": "Juda",
+    "description": "fils de Jacob et de Lea",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "fils de Jacob et de Lea"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "tribu descendant de Juda"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "nation, du royaume du sud sous la dynastie de David, distingue du royaume du nord d'Ephraim ou d'Israel"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "Levite, au temps d'Esdras"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "un intendant de Jerusalem"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "Levite musicien"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "pretre"
+        }
+    ]
+}

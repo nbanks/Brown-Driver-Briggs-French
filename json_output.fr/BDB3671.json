@@ -1,0 +1,43 @@
+{
+    "head_word": "יָצַק",
+    "pos": "verbe",
+    "primary": "verser, couler, fondre",
+    "description": "(objets en metal)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "(objets en metal)"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "Participe passif comme adjectif au figure coule, dur"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "Participe = coule, fondu"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

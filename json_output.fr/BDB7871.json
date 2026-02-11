@@ -1,0 +1,23 @@
+{
+    "head_word": "יְרַחְמְאֵל",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "nom en Juda",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "nom en Juda"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "fils du roi Joiakim"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "Levite"
+        }
+    ]
+}

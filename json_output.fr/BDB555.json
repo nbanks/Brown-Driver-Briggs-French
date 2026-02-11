@@ -1,0 +1,28 @@
+{
+    "head_word": "אֲמַצְיָ֫הוּ",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "roi de Juda, fils de Joas, pere d'Azarias",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "roi de Juda, fils de Joas, pere d'Azarias"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "un Siméonite"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "id., un Lévite"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "pretre de Béthel, sous Jéroboam II"
+        }
+    ]
+}

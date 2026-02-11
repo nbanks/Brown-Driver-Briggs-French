@@ -1,0 +1,23 @@
+{
+    "head_word": "אוּלַי",
+    "pos": "adverbe",
+    "primary": "peut-etre",
+    "description": "exprime virtuellement la protase = si peut-etre",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "peut-etre",
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "exprime virtuellement la protase = si peut-etre"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

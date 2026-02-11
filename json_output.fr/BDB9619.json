@@ -1,0 +1,18 @@
+{
+    "head_word": "כְּסַף",
+    "pos": "nom masculin",
+    "primary": "argent",
+    "description": "comme matiere",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "comme matiere"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "comme monnaie ou son equivalent"
+        }
+    ]
+}

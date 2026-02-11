@@ -1,0 +1,28 @@
+{
+    "head_word": "יוֺאָח",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "fils d'Asaph le chroniqueur au temps d'Ezechias",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "fils d'Asaph le chroniqueur au temps d'Ezechias"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "Levites"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "fils de Joachaz le chroniqueur au temps de Josias"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "un Levite, fils d'Obed-Edom"
+        }
+    ]
+}

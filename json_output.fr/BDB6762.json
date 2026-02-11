@@ -1,0 +1,43 @@
+{
+    "head_word": "פָּרָה",
+    "pos": "verbe",
+    "primary": "porter du fruit, etre fecond",
+    "description": "des hommes et des animaux",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "des hommes et des animaux"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "de la vigne"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

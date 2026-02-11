@@ -1,0 +1,33 @@
+{
+    "head_word": "זֶ֫רַע",
+    "pos": "nom masculin",
+    "primary": "semailles, semence, descendance",
+    "description": "litteral",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "litteral"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "= semen virile"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "= descendance:"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "comme marque par une qualite morale = personnes (ou communaute) d'une telle qualite"
+        }
+    ]
+}

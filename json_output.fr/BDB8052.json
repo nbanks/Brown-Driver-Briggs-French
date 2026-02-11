@@ -1,0 +1,23 @@
+{
+    "head_word": "מַרְפֵּא",
+    "pos": "nom masculin",
+    "primary": "guerison, cure, sante",
+    "description": "(habituellement figure)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "des maux nationaux"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "de la personne"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "litteralement, de la maladie"
+        }
+    ]
+}

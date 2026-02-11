@@ -1,0 +1,23 @@
+{
+    "head_word": "מָהַר",
+    "pos": "verbe",
+    "primary": "se hater",
+    "description": "= anxieux, trouble",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "= aller ou venir rapidement"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "se hater + verbe, (׳מ ayant reellement une valeur adverbiale)"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "= preparer rapidement"
+        }
+    ]
+}

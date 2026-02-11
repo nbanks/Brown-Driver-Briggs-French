@@ -1,0 +1,18 @@
+{
+    "head_word": "נִמְרֹד",
+    "pos": "nom propre, masculin",
+    "primary": "Nimrod",
+    "description": "= un dieu p. ex. Marduk",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "= un dieu p. ex. Marduk"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "nom d'un roi ou prince babylonien"
+        }
+    ]
+}

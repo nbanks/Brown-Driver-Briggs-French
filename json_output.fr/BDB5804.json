@@ -1,0 +1,33 @@
+{
+    "head_word": "עִדּוֺ",
+    "pos": "nom propre masculin",
+    "primary": "Iddo",
+    "description": "pere d'un officier de Salomon",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "pere d'un officier de Salomon"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "grand-pere du prophete Zacharie"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "un levite"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "un nom sacerdotal"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "un voyant"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "head_word": "פְּקֻדָּה",
+    "pos": "nom feminin",
+    "primary": "surveillance, recensement, visite, reserve",
+    "description": "= punition",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "= punition"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "= charge"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "choses mises en reserve"
+        }
+    ]
+}

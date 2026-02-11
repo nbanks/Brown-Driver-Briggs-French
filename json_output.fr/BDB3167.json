@@ -1,0 +1,33 @@
+{
+    "head_word": "חָרַר",
+    "pos": "verbe",
+    "primary": "etre chaud, brule, bruler (poetique)",
+    "description": "= etre brule, figure",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "= etre brule, figure"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "des os des malades dans la fievre"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

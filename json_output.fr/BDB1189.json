@@ -1,0 +1,33 @@
+{
+    "head_word": "בְּנָיָ֫הוּ",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "l'un des capitaines et heros de David, fils de Jehoiada",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "l'un des capitaines et heros de David, fils de Jehoiada"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "l'un des trente de David"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "un Simeonite"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "Levites"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "Israelites"
+        }
+    ]
+}

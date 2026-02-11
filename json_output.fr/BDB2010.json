@@ -1,0 +1,38 @@
+{
+    "head_word": "דֶּ֫רֶךְ",
+    "pos": "nom masculin",
+    "primary": "chemin, route, distance, voyage, maniere",
+    "description": "de direction, presque ou tout a fait = vers",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "de direction, presque ou tout a fait = vers"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "figure du cours de la vie, ou de l'action, des entreprises, etc."
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "de l'action et du caractere moraux"
+        }
+    ]
+}

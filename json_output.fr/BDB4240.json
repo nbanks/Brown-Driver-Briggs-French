@@ -1,0 +1,33 @@
+{
+    "head_word": "כְּתָב",
+    "pos": "nom masculin",
+    "primary": "ecriture",
+    "description": "= mode d'ecriture, caractere, lettre",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "= mode d'ecriture, caractere, lettre"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "= lettre"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "d'un decret royal, edit"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "d'un ecrit a autorite divine"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "head_word": "טָמַן",
+    "pos": "verbe",
+    "primary": "cacher, dissimuler",
+    "description": "souvent de cacher, dissimuler, tendre secretement un piege",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "souvent de cacher, dissimuler, tendre secretement un piege"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "ce qui est obscurci ="
+        }
+    ]
+}

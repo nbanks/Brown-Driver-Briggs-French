@@ -1,0 +1,18 @@
+{
+    "head_word": "אָז",
+    "pos": "adverbe",
+    "primary": "a ce moment-la, alors",
+    "description": "a ce moment-la, alors, exprimant soit la duree, soit le commencement (= la-dessus)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "strictement temporel"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "exprimant une sequence logique strictement dans l'apodose"
+        }
+    ]
+}

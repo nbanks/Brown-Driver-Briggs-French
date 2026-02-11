@@ -1,0 +1,23 @@
+{
+    "head_word": "תְּכוּנָה",
+    "pos": "nom feminin",
+    "primary": "arrangement, preparation, lieu fixe",
+    "description": "c.-a-d. l'arrangement de la maison",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "c.-a-d. l'arrangement de la maison"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "c.-a-d. lieu d'habitation"
+        }
+    ]
+}

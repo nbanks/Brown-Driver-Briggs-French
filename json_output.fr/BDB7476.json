@@ -1,0 +1,23 @@
+{
+    "head_word": "קִנְאָה",
+    "pos": "nom feminin",
+    "primary": "ardeur, zele, jalousie",
+    "description": "(de la couleur produite sur le visage par l'emotion profonde)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "des hommes pour Dieu"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "des hommes contre les adversaires"
+        }
+    ]
+}

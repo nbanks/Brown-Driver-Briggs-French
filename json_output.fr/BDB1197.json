@@ -1,0 +1,23 @@
+{
+    "head_word": "תַּבְנִית",
+    "pos": "nom feminin",
+    "primary": "construction, modele, figure",
+    "description": "selon lequel quelque chose doit etre construit",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "selon lequel quelque chose doit etre construit"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "head_word": "נָשַׁל",
+    "pos": "verbe",
+    "primary": "glisser ou tomber",
+    "description": null,
+    "senses": [
+        {
+            "number": 1,
+            "primary": "glisser ou tomber",
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": "oter",
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": "deblayer",
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

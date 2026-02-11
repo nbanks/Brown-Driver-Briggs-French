@@ -1,0 +1,18 @@
+{
+    "head_word": "אַיָּלוֺן",
+    "pos": "nom propre [d'un lieu]",
+    "primary": "Ayyalon",
+    "description": "ville de Dan",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "ville de Dan"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "ville de Zabulon"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "head_word": "זֶה",
+    "pos": "pronom demonstratif",
+    "primary": "ce, ceci, ici",
+    "description": "employe seul",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "employe seul"
+        },
+        {
+            "number": 2,
+            "primary": "rarement quand il est indetermine",
+            "description": "en apposition a un substantif"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "plus souvent comme predicat"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "Il est attache enclitiquement, presque comme un adverbe, a certains mots, surtout des pronoms interrogatifs, pour communiquer, d'une maniere souvent non reproductible en francais, precision et force, mettant la question ou l'affirmation en relation etroite avec le locuteur."
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "en poesie, comme pronom relatif"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "avec prefixes (dans des sens speciaux)"
+        }
+    ]
+}

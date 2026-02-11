@@ -1,0 +1,18 @@
+{
+    "head_word": "לָהֵן",
+    "pos": "conjonction",
+    "primary": "sauf, mais",
+    "description": "apres une negation",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "apres une negation"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "sans negation"
+        }
+    ]
+}

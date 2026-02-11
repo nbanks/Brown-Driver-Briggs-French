@@ -1,0 +1,18 @@
+{
+    "head_word": "מוֺרָד",
+    "pos": "nom [masculin]",
+    "primary": "descente, pente",
+    "description": "comme designation de lieu",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "comme designation de lieu"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "ouvrage de descente, c.-a-d. ouvrage pendant"
+        }
+    ]
+}

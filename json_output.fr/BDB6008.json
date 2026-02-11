@@ -1,0 +1,23 @@
+{
+    "head_word": "עֵיטָם",
+    "pos": "nom propre [d'un lieu]",
+    "primary": null,
+    "description": "une falaise",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "une falaise"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "ville fortifiee par Roboam"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "en Simeon"
+        }
+    ]
+}

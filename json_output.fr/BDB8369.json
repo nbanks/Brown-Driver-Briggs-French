@@ -1,0 +1,28 @@
+{
+    "head_word": "שָׁאוּל",
+    "pos": "nom propre masculin",
+    "primary": null,
+    "description": "1er roi d'Israel",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "1er roi d'Israel"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "un roi d'Edom"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "un fils de Simeon"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "un Levite"
+        }
+    ]
+}

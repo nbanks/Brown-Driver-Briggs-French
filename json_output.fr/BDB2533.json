@@ -1,0 +1,18 @@
+{
+    "head_word": "מַחֲבַת",
+    "pos": "nom feminin",
+    "primary": "plaque plate, poele ou gril",
+    "description": "plaque plate, poele ou gril pour la cuisson",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "utilisee pour preparer la mincha (cuite)"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "une plaque de fer, signifiant un mur de fer"
+        }
+    ]
+}

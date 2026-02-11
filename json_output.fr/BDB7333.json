@@ -1,0 +1,28 @@
+{
+    "head_word": "קָהַל",
+    "pos": "verbe",
+    "primary": "se rassembler comme un קָהָל",
+    "description": "pour le conflit ou la guerre",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "pour le conflit ou la guerre"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "a des fins religieuses"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "pour le jugement"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "a des fins religieuses"
+        }
+    ]
+}

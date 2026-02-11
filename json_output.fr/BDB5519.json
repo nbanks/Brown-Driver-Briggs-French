@@ -1,0 +1,18 @@
+{
+    "head_word": "סוֺד",
+    "pos": "nom [masculin]",
+    "primary": "conseil, deliberation",
+    "description": "dans la conversation intime",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "dans la conversation intime"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "pris par ceux en conversation intime"
+        }
+    ]
+}

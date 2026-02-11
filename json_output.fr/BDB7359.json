@@ -1,0 +1,23 @@
+{
+    "head_word": "קוֺל",
+    "pos": "nom masculin",
+    "primary": "son, voix",
+    "description": "surtout",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "surtout"
+        },
+        {
+            "number": 2,
+            "primary": "meules",
+            "description": "d'instrument"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "de parole articulee, chose dite"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "head_word": "הֲוָא",
+    "pos": "verbe",
+    "primary": "arriver, devenir, etre",
+    "description": "comme copule",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "comme copule"
+        }
+    ]
+}

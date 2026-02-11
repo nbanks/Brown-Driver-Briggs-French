@@ -1,0 +1,23 @@
+{
+    "head_word": "מָתֹק",
+    "pos": "verbe",
+    "primary": "devenir ou etre doux, agreable",
+    "description": "litteralement devenir doux, de l'eau",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "litteralement devenir doux, de l'eau"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "= etre agreable"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

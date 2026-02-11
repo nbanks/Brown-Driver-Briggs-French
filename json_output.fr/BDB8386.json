@@ -1,0 +1,23 @@
+{
+    "head_word": "שְׁאֵר",
+    "pos": "nom masculin",
+    "primary": "chair",
+    "description": "comme nourriture",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "comme nourriture"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "= parent par le sang (c.-a-d. un proche\n    parent)"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "= soi-meme"
+        }
+    ]
+}

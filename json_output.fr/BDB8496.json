@@ -1,0 +1,23 @@
+{
+    "head_word": "שָׁוְא",
+    "pos": "nom [masculin]",
+    "primary": "neant, vanite",
+    "description": "vanite de paroles, || mensonge",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "vanite de paroles, || mensonge"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "de la conduite"
+        }
+    ]
+}

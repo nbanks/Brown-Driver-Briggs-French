@@ -1,0 +1,23 @@
+{
+    "head_word": "חַי",
+    "pos": "adjectif",
+    "primary": "vivant, en vie",
+    "description": "de Dieu, comme le vivant",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "de l'eau",
+            "description": "de Dieu, comme le vivant"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "(douteux)"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

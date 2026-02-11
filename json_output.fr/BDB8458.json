@@ -1,0 +1,18 @@
+{
+    "head_word": "שָׁגַג",
+    "pos": "verbe",
+    "primary": "s'egarer, commettre un peche ou une erreur",
+    "description": "(|| שׁגה, שׁוג)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "mentalement"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "par ignorance, par inadvertance"
+        }
+    ]
+}

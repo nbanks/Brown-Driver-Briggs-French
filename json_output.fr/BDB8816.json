@@ -1,0 +1,23 @@
+{
+    "head_word": "שְׁמֹנֶה",
+    "pos": "nom masculin et feminin",
+    "primary": "huit",
+    "description": "sans autre nombre",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "sans autre nombre"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "8 + 10 = 18"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "avec d'autres numeraux"
+        }
+    ]
+}

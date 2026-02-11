@@ -1,0 +1,38 @@
+{
+    "head_word": "הָפַךְ",
+    "pos": "verbe",
+    "primary": "tourner, renverser",
+    "description": "reflechi",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "reflechi"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "passif"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "head_word": "אָחוֺת",
+    "pos": "nom feminin",
+    "primary": "soeur",
+    "description": "= bien-aimée",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "= bien-aimée"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "symbole de Juda, Samarie, Sodome et Jérusalem"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "figuré de lien intime"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

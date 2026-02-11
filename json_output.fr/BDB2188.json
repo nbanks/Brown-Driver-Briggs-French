@@ -1,0 +1,43 @@
+{
+    "head_word": "הֵ֫מָּה",
+    "pos": "pronom 3e personne pluriel masculin",
+    "primary": "ils",
+    "description": "Dans l'usage pas different en general de \n        הוּא, הִיא (voir, sous les rubriques correspondantes, pour des explications plus completes),\n    ainsi",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": "Dans un sens neutre",
+            "description": null
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "Avec article"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "Avec prepositions"
+        }
+    ]
+}

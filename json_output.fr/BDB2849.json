@@ -1,0 +1,23 @@
+{
+    "head_word": "חוֺמָה",
+    "pos": "nom feminin",
+    "primary": "muraille",
+    "description": "habituellement terme pour la muraille d'une ville",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "habituellement terme pour la muraille d'une ville"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "d'un batiment"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "figure"
+        }
+    ]
+}

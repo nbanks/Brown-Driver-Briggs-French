@@ -1,0 +1,23 @@
+{
+    "head_word": "נֵכָר",
+    "pos": "nom [masculin]",
+    "primary": "ce qui est etranger, etrangete",
+    "description": "(d'une autre famille, tribu ou nation)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "אֱלֹהֵי (הַ)נֵּכָר = dieux etrangers"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "בֶּןֿ(הַ)נֵּכָר = etranger"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "autres combinaisons"
+        }
+    ]
+}

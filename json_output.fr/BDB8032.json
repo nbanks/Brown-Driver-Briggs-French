@@ -1,0 +1,58 @@
+{
+    "head_word": "רַע",
+    "pos": "adjectif",
+    "primary": "mauvais, mal",
+    "description": "causant douleur, malheur, misere",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "causant douleur, malheur, misere"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "c.-a-d. de faible valeur"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "+ מִן comparatif, pire que"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "concevoir un dessein mauvais (nuisible)"
+        },
+        {
+            "number": 9,
+            "primary": null,
+            "description": "vicieux de disposition ou de temperament"
+        },
+        {
+            "number": 10,
+            "primary": null,
+            "description": "ethiquement"
+        }
+    ]
+}

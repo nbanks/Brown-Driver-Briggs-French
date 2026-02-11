@@ -1,0 +1,23 @@
+{
+    "head_word": "קָסַם",
+    "pos": "verbe",
+    "primary": "pratiquer la divination",
+    "description": "des devins des nations",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "des devins des nations"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "faux prophetes d'Israel"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "interdit"
+        }
+    ]
+}

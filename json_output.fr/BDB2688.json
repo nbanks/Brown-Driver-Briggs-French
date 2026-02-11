@@ -1,0 +1,33 @@
+{
+    "head_word": "חִזְקִיָּ֫הוּ",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "fils d'Achaz, roi de Juda",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "fils d'Achaz, roi de Juda"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "arriere-arriere-grand-pere du prophete Sophonie"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "homme de la lignee royale davidique"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "chef d'une famille d'exiles de retour"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "un Ephraïmite, du temps d'Achaz"
+        }
+    ]
+}

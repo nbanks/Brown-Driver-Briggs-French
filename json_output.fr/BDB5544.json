@@ -1,0 +1,38 @@
+{
+    "head_word": "סוּר",
+    "pos": "verbe",
+    "primary": "se detourner",
+    "description": "de choses inanimees =",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "de choses inanimees ="
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "= prendre fin"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "faire (se detourner,) partir, mot courant pour enlever, oter"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "les emplois plus rares sont"
+        }
+    ]
+}

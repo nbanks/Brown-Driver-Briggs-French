@@ -1,0 +1,23 @@
+{
+    "head_word": "הַּ",
+    "pos": "article defini",
+    "primary": "le, la, les",
+    "description": "joint aux substantifs",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "joint aux substantifs"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "avec les adjectifs, participes et pronoms demonstratifs"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "l'article est prefixe exceptionnellement -- surtout en hebreu tardif -- avec la force d'un relatif au verbe"
+        }
+    ]
+}

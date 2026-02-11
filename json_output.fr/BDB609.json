@@ -1,0 +1,23 @@
+{
+    "head_word": "אֱנוֺשׁ",
+    "pos": "nom masculin",
+    "primary": "homme, humanite",
+    "description": "d'un individu",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "d'un individu"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "collectif"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

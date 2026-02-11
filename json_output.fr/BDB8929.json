@@ -1,0 +1,28 @@
+{
+    "head_word": "שַׁ֫עַר",
+    "pos": "nom masculin",
+    "primary": "porte",
+    "description": "entree de la ville",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "entree de la ville"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "= espace a l'interieur de la porte"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "de chateau royal ou palais"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

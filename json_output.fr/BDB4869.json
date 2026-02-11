@@ -1,0 +1,18 @@
+{
+    "head_word": "מֶ֫שֶׁךְ",
+    "pos": "nom [masculin]",
+    "primary": "un tirage, extraction, une trainee",
+    "description": "l'extraction (repechage, c.-a-d. obtention apres effort)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "l'extraction (repechage, c.-a-d. obtention apres effort)"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "une trainee (de semences)"
+        }
+    ]
+}

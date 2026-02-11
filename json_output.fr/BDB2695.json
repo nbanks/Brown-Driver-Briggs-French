@@ -1,0 +1,23 @@
+{
+    "head_word": "חֵטְא",
+    "pos": "nom masculin",
+    "primary": "peche",
+    "description": "culpabilite du peche",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "culpabilite du peche"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "chatiment du peche"
+        }
+    ]
+}

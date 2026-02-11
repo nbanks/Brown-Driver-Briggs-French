@@ -1,0 +1,43 @@
+{
+    "head_word": "נָתַן",
+    "pos": "verbe",
+    "primary": "donner, mettre, placer",
+    "description": "= donner personnellement, remettre ou tendre a",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "donner des personnes",
+            "description": "= donner personnellement, remettre ou tendre a"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "presque = שִׂים, et parfois || avec lui"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "= accorde a"
+        },
+        {
+            "number": 5,
+            "primary": "couronne",
+            "description": "litteralement"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "= etre donne a quelqu'un (ל) pour epouse (ל)"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "etre mis sur (עַלֿ)"
+        }
+    ]
+}

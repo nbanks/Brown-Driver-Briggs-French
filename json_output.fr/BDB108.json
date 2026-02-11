@@ -1,0 +1,28 @@
+{
+    "head_word": "אָדָם",
+    "pos": "nom masculin",
+    "primary": "homme, humanite",
+    "description": "etre humain",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "etre humain"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": "Adam",
+            "description": "premier homme"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "ville dans la vallee du Jourdain"
+        }
+    ]
+}

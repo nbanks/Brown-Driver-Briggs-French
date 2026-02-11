@@ -1,0 +1,73 @@
+{
+    "head_word": "שַׁלּוּם",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "roi du nord d'Israel",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "roi du nord d'Israel"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "fils de Josias, et roi de Juda"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "mari de Hulda"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "oncle de Jeremie"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "en Simeon"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "en Yerahmeel"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "en Ephraim"
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "en Nephtali"
+        },
+        {
+            "number": 9,
+            "primary": null,
+            "description": "pere d'un gardien de seuil"
+        },
+        {
+            "number": 10,
+            "primary": null,
+            "description": "constructeur de mur"
+        },
+        {
+            "number": 11,
+            "primary": null,
+            "description": "pretres"
+        },
+        {
+            "number": 12,
+            "primary": null,
+            "description": "Levites"
+        },
+        {
+            "number": 13,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

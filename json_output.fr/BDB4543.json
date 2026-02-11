@@ -1,0 +1,23 @@
+{
+    "head_word": "מוֺט",
+    "pos": "nom [masculin]",
+    "primary": "ebranlement, perche, barre (de joug)",
+    "description": "ou barre pour porter (nommee d'apres le mouvement de balancement)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "ou barre pour porter (nommee d'apres le mouvement de balancement)"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "de joug"
+        }
+    ]
+}

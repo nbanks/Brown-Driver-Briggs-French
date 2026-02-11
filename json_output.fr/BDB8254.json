@@ -1,0 +1,23 @@
+{
+    "head_word": "שְׂמאֹל",
+    "pos": "nom [masculin]",
+    "primary": "la gauche",
+    "description": "׳יַדשֿׂ main gauche",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "׳יַדשֿׂ main gauche"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "= nord"
+        }
+    ]
+}

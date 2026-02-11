@@ -1,0 +1,38 @@
+{
+    "head_word": "גַּם",
+    "pos": "adverbe",
+    "primary": "aussi, de plus, oui",
+    "description": "denotant l'addition",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "soulignant parfois la pensee d'une phrase entiere, mais plus souvent le\n        mot qui suit immediatement"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "avec accent sur un mot particulier"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "introduisant un climax, oui, surtout dans un style rhetorique"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "exprimant la correspondance, surtout en matiere de \n        retribution (le גַּם\ncorrelativum)"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "reliant deux idees qui expriment (ou impliquent) une contradiction, גַּם acquiert\n    parfois une force adversative (comparer אַף\n1 fin)"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "גַּם כִּי (avec imparfait)"
+        }
+    ]
+}

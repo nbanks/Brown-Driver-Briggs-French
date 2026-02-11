@@ -1,0 +1,48 @@
+{
+    "head_word": "נָגַע",
+    "pos": "verbe",
+    "primary": "toucher, atteindre, frapper",
+    "description": "de ׳\n            \nי\ntouchant la terre, les montagnes, etc.",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "de ׳\n            \nי\ntouchant la terre, les montagnes, etc."
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "presque = frapper, passif frappe"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "= nuire"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "du temps"
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "du destin ou du sort, ="
+        }
+    ]
+}

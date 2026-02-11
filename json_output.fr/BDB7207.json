@@ -1,0 +1,18 @@
+{
+    "head_word": "צַפַף",
+    "pos": "verbe",
+    "primary": "gazouiller, pepier",
+    "description": "des oiseaux",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "des oiseaux"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "des esprits, fantomes"
+        }
+    ]
+}

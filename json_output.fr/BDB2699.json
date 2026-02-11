@@ -1,0 +1,33 @@
+{
+    "head_word": "חַטָּאת",
+    "pos": "nom feminin",
+    "primary": "peche, offrande pour le peche",
+    "description": "condition de peche, culpabilite du peche",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "condition de peche, culpabilite du peche"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "punition pour le peche :"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "purification des peches d'impurete rituelle"
+        }
+    ]
+}

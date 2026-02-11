@@ -1,0 +1,48 @@
+{
+    "head_word": "רֹאשׁ",
+    "pos": "nom masculin",
+    "primary": "tete",
+    "description": "d'un etre humain",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "d'un etre humain"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "= chef (homme)"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "= front, place du chef"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "= division d'armee, compagnie, bande"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "= somme"
+        },
+        {
+            "number": 8,
+            "primary": "voir, en outre",
+            "description": "d'autres expressions sont"
+        }
+    ]
+}

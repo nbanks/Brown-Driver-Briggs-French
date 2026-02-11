@@ -1,0 +1,18 @@
+{
+    "head_word": "שָׂבְעָה",
+    "pos": "nom feminin",
+    "primary": "satiete",
+    "description": "quant a la nourriture",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "quant a la nourriture"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "au desir charnel"
+        }
+    ]
+}

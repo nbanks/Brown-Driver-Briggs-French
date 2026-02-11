@@ -1,0 +1,28 @@
+{
+    "head_word": "מוֺרָא",
+    "pos": "nom masculin",
+    "primary": "crainte",
+    "description": "objet de veneration, surtout Dieu",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "objet de veneration, surtout Dieu"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "spectacle ou acte inspirant la crainte"
+        }
+    ]
+}

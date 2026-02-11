@@ -1,0 +1,33 @@
+{
+    "head_word": "טֻמְאָה",
+    "pos": "nom feminin",
+    "primary": "impurete",
+    "description": "sexuelle",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "sexuelle"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "d'une masse sale ou imonde"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "ethique et religieuse"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "rituelle"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "locale"
+        }
+    ]
+}

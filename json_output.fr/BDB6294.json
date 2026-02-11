@@ -1,0 +1,23 @@
+{
+    "head_word": "עֶ֫צֶם",
+    "pos": "nom feminin",
+    "primary": "os, substance, soi-meme",
+    "description": "d'une personne vivante",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "surtout des morts",
+            "description": "d'une personne vivante"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "(comparer גֶּרֶם 3)"
+        }
+    ]
+}

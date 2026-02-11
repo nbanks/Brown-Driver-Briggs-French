@@ -1,0 +1,28 @@
+{
+    "head_word": "בֵּית שֶׁ֫מֶשׁ",
+    "pos": "nom propre [d'un lieu]",
+    "primary": null,
+    "description": "ville dans le sud-ouest de Juda",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "ville dans le sud-ouest de Juda"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "ville en Nephtali"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "ville en Issachar"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "On-Heliopolis, en Egypte"
+        }
+    ]
+}

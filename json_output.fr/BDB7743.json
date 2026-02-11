@@ -1,0 +1,18 @@
+{
+    "head_word": "רֶ֫גֶל",
+    "pos": "nom feminin",
+    "primary": "pied",
+    "description": "humain",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "humain"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "pluriel seulement dans l'expression שָׁלשׁ רְגָלִים\ntrois fois (pieds, pas, comparer פַּעַם)"
+        }
+    ]
+}

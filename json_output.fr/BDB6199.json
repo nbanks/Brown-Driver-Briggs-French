@@ -1,0 +1,18 @@
+{
+    "head_word": "עַתָּ֫ה",
+    "pos": "adverbe",
+    "primary": "maintenant",
+    "description": "adverbe de temps",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "du futur imminent ou imminent"
+        },
+        {
+            "number": 2,
+            "primary": "tirant une conclusion, surtout",
+            "description": "expressions"
+        }
+    ]
+}

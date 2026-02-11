@@ -1,0 +1,18 @@
+{
+    "head_word": "אָרַךְ",
+    "pos": "verbe",
+    "primary": "etre long",
+    "description": "presque toujours du temps",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "transitif"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "intransitif"
+        }
+    ]
+}

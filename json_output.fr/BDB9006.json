@@ -1,0 +1,28 @@
+{
+    "head_word": "שָׁקַט",
+    "pos": "verbe",
+    "primary": "etre tranquille, en repos",
+    "description": "du pays",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "du pays"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "= etre apaise"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "(causatif interne)"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

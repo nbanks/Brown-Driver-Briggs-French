@@ -1,0 +1,38 @@
+{
+    "head_word": "בָּדַל",
+    "pos": "verbe",
+    "primary": "etre divise, separer",
+    "description": "(reflexif du Hiphil 2)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "(reflexif du Hiphil 2)"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "passif"
+        }
+    ]
+}

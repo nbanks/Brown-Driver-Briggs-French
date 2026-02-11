@@ -1,0 +1,28 @@
+{
+    "head_word": "חַ֫יִל",
+    "pos": "nom masculin",
+    "primary": "force, efficacite, richesse, armee",
+    "description": "generalement physique",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "generalement physique"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "impliquant souvent une valeur morale"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "tres souvent"
+        }
+    ]
+}

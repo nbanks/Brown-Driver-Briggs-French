@@ -1,0 +1,38 @@
+{
+    "head_word": "קֹ֫דֶשׁ",
+    "pos": "nom masculin",
+    "primary": "separation, saintete",
+    "description": "de Dieu",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "de Dieu"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "des lieux mis a part comme sacres par la presence de Dieu"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "choses consacrees dans les lieux sacres"
+        },
+        {
+            "number": 4,
+            "primary": "alliance entre Dieu et son peuple",
+            "description": "personnes sacrees par leur lien avec les lieux sacres"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "temps consacres au culte"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "des choses et personnes ceremoniellement purifiees, et ainsi separees comme sacrees"
+        }
+    ]
+}

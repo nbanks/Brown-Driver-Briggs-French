@@ -1,0 +1,53 @@
+{
+    "head_word": "אָב",
+    "pos": "nom masculin",
+    "primary": "pere",
+    "description": "pere d'un individu",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "pere d'un individu"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "de Dieu comme pere de son peuple"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "chef de maison, de famille ou de clan"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "d'un individu"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "fondateur ou patron d'une classe, profession ou art"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "figure du producteur, generateur"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "figure de bienveillance et de protection"
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "terme de respect et d'honneur"
+        },
+        {
+            "number": 9,
+            "primary": null,
+            "description": "specifiquement, dirigeant, chef"
+        }
+    ]
+}

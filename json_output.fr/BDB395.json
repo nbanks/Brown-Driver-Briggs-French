@@ -1,0 +1,28 @@
+{
+    "head_word": "אַךְ",
+    "pos": "adverbe",
+    "primary": "certes",
+    "description": "avec une valeur restrictive, soulignant ce qui suit",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "certes",
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": "cependant",
+            "description": "avec une valeur restrictive, soulignant ce qui suit"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "assévératif, introduisant souvent avec emphase l'expression d'une vérité (ou d'une vérité supposée) nouvellement perçue, surtout dans le langage courant"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "restrictif"
+        }
+    ]
+}

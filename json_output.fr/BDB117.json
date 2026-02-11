@@ -1,0 +1,23 @@
+{
+    "head_word": "אֱדוֺם",
+    "pos": "nom propre, masculin",
+    "primary": "Edom",
+    "description": "Esau, fils aine d'Isaac",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "Edom",
+            "description": "Esau, fils aine d'Isaac"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "Edomites, Idomeens comme descendants d'Esau"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "head_word": "גָּלוּת",
+    "pos": "nom feminin",
+    "primary": "exil",
+    "description": "absolu",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "absolu"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "collectif"
+        }
+    ]
+}

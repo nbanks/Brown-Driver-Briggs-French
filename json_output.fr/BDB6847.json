@@ -1,0 +1,33 @@
+{
+    "head_word": "פַּשְׁחוּר",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "pere d'un certain Guedalia",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "pere d'un certain Guedalia"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "chef de famille post-exilique"
+        }
+    ]
+}

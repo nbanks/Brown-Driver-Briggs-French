@@ -1,0 +1,33 @@
+{
+    "head_word": "תִּהוֺם",
+    "pos": "nom feminin",
+    "primary": "abime, mer, gouffre",
+    "description": "des eaux souterraines",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "des eaux souterraines"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "mer (profonde)"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

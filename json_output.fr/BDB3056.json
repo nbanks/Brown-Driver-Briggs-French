@@ -1,0 +1,28 @@
+{
+    "head_word": "חָצוֺר",
+    "pos": "nom propre [d'un lieu]",
+    "primary": null,
+    "description": "une ville royale du nord de Canaan",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "une ville royale du nord de Canaan"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "lieux dans le Negev"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "une ville benjaminite, probablement = בַּעַל חָצוֺר"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "une localite arabe"
+        }
+    ]
+}

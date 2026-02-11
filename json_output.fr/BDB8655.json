@@ -1,0 +1,33 @@
+{
+    "head_word": "שָׁכַב",
+    "pos": "verbe",
+    "primary": "se coucher",
+    "description": "pour dormir",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "pour dormir"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "= loger (pour la nuit)"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "de relations sexuelles, coucher avec"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "dans la mort"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "= se detendre"
+        }
+    ]
+}

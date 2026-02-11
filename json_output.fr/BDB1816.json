@@ -1,0 +1,78 @@
+{
+    "head_word": "דָּבָר",
+    "pos": "nom masculin",
+    "primary": "discours, parole",
+    "description": "comme la somme de ce qui est dit",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "des hommes"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "parole de Dieu, comme une communication divine sous forme de commandements, prophetie, et paroles d'aide a son peuple"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "des hommes"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "de Dieu"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "des hommes :"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "de Dieu"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 9,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 10,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 11,
+            "primary": null,
+            "description": "cause, affaire pour enquete judiciaire"
+        },
+        {
+            "number": 12,
+            "primary": null,
+            "description": "(indefini)"
+        },
+        {
+            "number": 13,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 14,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

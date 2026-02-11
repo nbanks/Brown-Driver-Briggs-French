@@ -1,0 +1,18 @@
+{
+    "head_word": "יִשְׂרָאֵל",
+    "pos": "nom propre, masculin [aussi d'un peuple]",
+    "primary": "Israel",
+    "description": "ou Que El combatte",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "second nom de Jacob"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "nom de la nation hebraique"
+        }
+    ]
+}

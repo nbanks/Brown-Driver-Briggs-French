@@ -1,0 +1,28 @@
+{
+    "head_word": "שְׁאוֺל",
+    "pos": "nom feminin",
+    "primary": "monde souterrain",
+    "description": "le monde souterrain",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "le monde souterrain"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "condition des justes et des mechants distinguee dans ׳ שׁ"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "distinction tardive des lieux dans ׳ שׁ"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "figure"
+        }
+    ]
+}

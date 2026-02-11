@@ -1,0 +1,33 @@
+{
+    "head_word": "שֶׁ֫מֶשׁ",
+    "pos": "nom feminin",
+    "primary": "soleil",
+    "description": "de direction :",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "couchant",
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "de direction :"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "objet de culte (habituellement + lune, etoiles, etc.)"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "autres expressions"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "pinacle, comme scintillant, brillant"
+        }
+    ]
+}

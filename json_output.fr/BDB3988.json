@@ -1,0 +1,28 @@
+{
+    "head_word": "כָּחַד",
+    "pos": "verbe",
+    "primary": "cacher, effacer",
+    "description": "pas au\n\n    Qal;\n    Pi`el\nHiph`il\ncacher, effacer;\n    Niph`al (generalement) passif",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "Participe intransitif de processus incomplet = allant a la\n            ruine"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

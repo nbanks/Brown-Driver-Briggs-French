@@ -1,0 +1,28 @@
+{
+    "head_word": "חָרַם",
+    "pos": "verbe",
+    "primary": "vouer a l'interdit, devouer, exterminer",
+    "description": "le plus souvent pour devouer a la destruction les villes des Cananeens et d'autres voisins d'Israel, exterminer les habitants, et detruire ou s'approprier leurs biens",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "le plus souvent pour devouer a la destruction les villes des Cananeens et d'autres voisins d'Israel, exterminer les habitants, et detruire ou s'approprier leurs biens"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "c.-a-d. confisque, au profit des tresors du temple"
+        }
+    ]
+}

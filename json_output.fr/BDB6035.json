@@ -1,0 +1,23 @@
+{
+    "head_word": "עִיר",
+    "pos": "nom feminin",
+    "primary": "ville",
+    "description": "ville, cite",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "demeure des hommes"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "forteresse, surtout cite de David"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "place fortifiee"
+        }
+    ]
+}

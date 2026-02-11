@@ -1,0 +1,23 @@
+{
+    "head_word": "כֹּל",
+    "pos": "nom masculin",
+    "primary": "le tout, tout",
+    "description": "avec un nom singulier, compris collectivement, chaque, tout, ou avec une negation aucun",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "avec un nom singulier, compris collectivement, chaque, tout, ou avec une negation aucun"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "כֹּלָּא, employe absolument"
+        }
+    ]
+}

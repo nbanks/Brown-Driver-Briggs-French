@@ -1,0 +1,28 @@
+{
+    "head_word": "מִסְפֵּד",
+    "pos": "nom masculin",
+    "primary": "lamentation",
+    "description": "pour les morts",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "pour les morts"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "pour une calamite subie"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "en contrition"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "en general"
+        }
+    ]
+}

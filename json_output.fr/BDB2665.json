@@ -1,0 +1,23 @@
+{
+    "head_word": "חִזָּיוֺן",
+    "pos": "nom masculin",
+    "primary": "vision",
+    "description": "dans l'etat extatique",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "dans l'etat extatique"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "dans la nuit"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "communication divine dans une vision, oracle, prophetie"
+        }
+    ]
+}

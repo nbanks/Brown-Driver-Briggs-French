@@ -1,0 +1,18 @@
+{
+    "head_word": "תַּחֲנוּן",
+    "pos": "nom [masculin]",
+    "primary": "supplication pour obtenir faveur",
+    "description": "adressee aux hommes",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "adressee aux hommes"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "a Dieu"
+        }
+    ]
+}

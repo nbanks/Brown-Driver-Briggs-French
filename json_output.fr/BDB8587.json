@@ -1,0 +1,28 @@
+{
+    "head_word": "שָׁחַט",
+    "pos": "verbe",
+    "primary": "egorger, abattre",
+    "description": "bete",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "bete"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "habituellement"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "personne"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "participe passif = battu, martele"
+        }
+    ]
+}

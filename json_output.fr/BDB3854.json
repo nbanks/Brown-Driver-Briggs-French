@@ -1,0 +1,33 @@
+{
+    "head_word": "יֶ֫תֶר",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "pere de la femme de Moise",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "pere de la femme de Moise"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "fils aine de Gedeon"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "pere d'Amasa"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "hommes de Juda"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "un homme d'Asher"
+        }
+    ]
+}

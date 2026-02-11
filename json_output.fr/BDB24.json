@@ -1,0 +1,48 @@
+{
+    "head_word": "אֲבִיָּ֫הוּ",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "roi de Juda, fils et successeur de Roboam",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "roi de Juda, fils et successeur de Roboam"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "2e fils de Samuel"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "fils de Jeroboam I"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "fils de Becher, un Benjaminite"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "chef d'une maison sacerdotale"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "id."
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "femme de Hetsron"
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "mere d'Ezechias"
+        }
+    ]
+}

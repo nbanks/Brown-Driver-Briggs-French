@@ -1,0 +1,18 @@
+{
+    "head_word": "שְׂעֹרָה",
+    "pos": "nom feminin",
+    "primary": "orge",
+    "description": "grain barbu",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "en croissance, sur pied"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "pluriel, les grains, mesures, cuits, etc."
+        }
+    ]
+}

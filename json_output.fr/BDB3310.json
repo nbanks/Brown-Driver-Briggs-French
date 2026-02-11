@@ -1,0 +1,28 @@
+{
+    "head_word": "טוֺבִיָּ֫הוּ",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "un Levite, attribue au regne de Josaphat",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "un Levite, attribue au regne de Josaphat"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "adversaire ammonite de Nehemie"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "chef d'une famille d'exiles de retour de lignee douteuse"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "un chef d'exiles de retour"
+        }
+    ]
+}

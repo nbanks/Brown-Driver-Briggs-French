@@ -1,0 +1,33 @@
+{
+    "head_word": "בָּטַח",
+    "pos": "verbe",
+    "primary": "se fier",
+    "description": "absolu",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "absolu"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "avec accusatif apparente"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "avec בְּ"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "avec עַל"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "avec אֶל"
+        }
+    ]
+}

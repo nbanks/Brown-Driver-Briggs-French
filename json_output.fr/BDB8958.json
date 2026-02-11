@@ -1,0 +1,33 @@
+{
+    "head_word": "שָׁפָט",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "pere d'Elisee",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "pere d'Elisee"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "prince de Simeon"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "petit-fils de Zorobabel"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "chef gadite"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "berger de David"
+        }
+    ]
+}

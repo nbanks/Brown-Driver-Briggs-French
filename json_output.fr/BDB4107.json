@@ -1,0 +1,23 @@
+{
+    "head_word": "כִּסֵּא",
+    "pos": "nom masculin",
+    "primary": "siege",
+    "description": "siege d'honneur, trone",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "du roi = trone"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "du grand pretre"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "au figure = dignite royale, autorite, puissance"
+        }
+    ]
+}

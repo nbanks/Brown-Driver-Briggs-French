@@ -1,0 +1,48 @@
+{
+    "head_word": "יָשַׁב",
+    "pos": "verbe",
+    "primary": "s'asseoir, demeurer, habiter",
+    "description": "c.-a-d. satisfaire un besoin naturel",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "c.-a-d. satisfaire un besoin naturel"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "(pour un temps limite ou indefini)"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "dans (ב) un pays, une ville, une maison, etc."
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "d'un pays ou d'une ville, etre assis, demeurer a sa place, figure pour etre habite"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "(proprement donner une demeure a"
+        }
+    ]
+}

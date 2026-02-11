@@ -1,0 +1,23 @@
+{
+    "head_word": "הֵן",
+    "pos": "conjonction",
+    "primary": "si, que",
+    "description": "repete",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "repete"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "en question indirecte"
+        }
+    ]
+}

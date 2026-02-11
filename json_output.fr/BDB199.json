@@ -1,0 +1,23 @@
+{
+    "head_word": "אוּלָם",
+    "pos": "nom masculin",
+    "primary": "portique",
+    "description": "dans le temple de Salomon",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "dans le temple de Salomon"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "dans le palais de Salomon"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "dans le temple de la vision d'Ezechiel"
+        }
+    ]
+}

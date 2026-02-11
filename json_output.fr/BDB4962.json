@@ -1,0 +1,33 @@
+{
+    "head_word": "נָגַד",
+    "pos": "verbe",
+    "primary": "etre visible",
+    "description": "generalement suivi de לְ d'objet indirect",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "specialement de quelque chose auparavant non compris, cache ou mysterieux"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "specialement de proclamer la sagesse, la puissance, la bonte, etc., de ׳י (specialement Psaumes)"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "Participe> = messager"
+        }
+    ]
+}

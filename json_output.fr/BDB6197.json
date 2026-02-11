@@ -1,0 +1,28 @@
+{
+    "head_word": "עֵת",
+    "pos": "nom feminin",
+    "primary": "temps",
+    "description": "temps d'un evenement, etc.",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "temps d'un evenement, etc."
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "= temps habituel"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "= experiences, destinees"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "occurrences, occasions (= פַּעַם)"
+        }
+    ]
+}

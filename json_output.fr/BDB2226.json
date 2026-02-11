@@ -1,0 +1,18 @@
+{
+    "head_word": "הָרָה",
+    "pos": "verbe",
+    "primary": "concevoir, devenir enceinte",
+    "description": "litteralement",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "litteralement"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "metaphorique"
+        }
+    ]
+}

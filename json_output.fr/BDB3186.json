@@ -1,0 +1,43 @@
+{
+    "head_word": "חָרֵשׁ",
+    "pos": "verbe",
+    "primary": "etre silencieux, muet, sans voix",
+    "description": "toujours du silence de Dieu quand les hommes prient",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "etre silencieux, muet, sans voix",
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "toujours du silence de Dieu quand les hommes prient"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "(= manifester le silence)"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "une fois causatif"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

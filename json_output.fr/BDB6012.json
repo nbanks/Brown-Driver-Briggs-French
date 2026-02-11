@@ -1,0 +1,33 @@
+{
+    "head_word": "עֵילָם",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "chefs de familles d'exiles de retour",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "chefs de familles d'exiles de retour"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "un chef du peuple"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "nom en Benjamin"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "nom de Levite"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "un pretre"
+        }
+    ]
+}

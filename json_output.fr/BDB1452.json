@@ -1,0 +1,28 @@
+{
+    "head_word": "גִּבְעָה",
+    "pos": "nom feminin",
+    "primary": "colline",
+    "description": "dans la prose ordinaire",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "dans la prose ordinaire"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "surtout comme lieu de culte illicite"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "tres frequemment || הר dans la poesie et les prophetes"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "collines avec des noms particuliers, certaines presque ou tout a fait = nom propre d'un lieu"
+        }
+    ]
+}

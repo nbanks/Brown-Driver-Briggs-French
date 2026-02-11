@@ -1,0 +1,28 @@
+{
+    "head_word": "יִשִּׁיָּהוּ",
+    "pos": "nom propre masculin",
+    "primary": null,
+    "description": "un des heros de David",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "un des heros de David"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "un homme d'Issacar"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "levites"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "un de ceux qui prirent des femmes etrangeres"
+        }
+    ]
+}

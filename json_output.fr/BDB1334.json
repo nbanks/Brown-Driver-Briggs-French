@@ -1,0 +1,23 @@
+{
+    "head_word": "בָּרוּךְ",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "ami et secretaire de Jeremie",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "ami et secretaire de Jeremie"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "un pretre, fils de Zabbai (Zaccai)"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "fils de Colhoze, de la tribu de Juda"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "head_word": "עֲזָרָה",
+    "pos": "nom feminin",
+    "primary": "enceinte",
+    "description": "apparemment",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "rebord entourant l'autel d'Ezechiel"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "parvis exterieur du temple"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "head_word": "כִּיֹּר",
+    "pos": "nom masculin",
+    "primary": "pot, bassin",
+    "description": "bassin de bronze pour le lavage",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "bassin de bronze pour le lavage"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "plate-forme ou estrade de bronze (probablement ronde, en forme de bol) sur\n        laquelle, selon les Chroniques, Salomon se tenait debout et s'agenouillait"
+        }
+    ]
+}

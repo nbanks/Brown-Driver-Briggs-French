@@ -1,0 +1,28 @@
+{
+    "head_word": "בַּעֲנָה",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "un Benjaminite, un des meurtriers d'Ishbosheth",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "un Benjaminite, un des meurtriers d'Ishbosheth"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "pere d'un des heros de David"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "chef d'une famille d'exiles de retour"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "un chef du peuple"
+        }
+    ]
+}

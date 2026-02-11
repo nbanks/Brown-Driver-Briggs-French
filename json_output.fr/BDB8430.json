@@ -1,0 +1,18 @@
+{
+    "head_word": "שָׁבוּעַ",
+    "pos": "nom masculin",
+    "primary": "periode de sept",
+    "description": "periode de sept (jours, annees)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "periode de sept jours (a partir d'un moment donne)"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "heptade ou sept d'annees"
+        }
+    ]
+}

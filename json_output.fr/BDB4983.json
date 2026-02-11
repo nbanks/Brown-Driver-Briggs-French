@@ -1,0 +1,18 @@
+{
+    "head_word": "נָגַשׁ",
+    "pos": "verbe",
+    "primary": "s'approcher, approcher",
+    "description": null,
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "sujet humain"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "sujet inanime"
+        }
+    ]
+}

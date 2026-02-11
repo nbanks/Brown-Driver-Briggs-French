@@ -1,0 +1,33 @@
+{
+    "head_word": "תָּקַע",
+    "pos": "verbe",
+    "primary": "enfoncer, frapper, donner un coup, sonner",
+    "description": "mains",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "mains"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "(un son sera donne) au cor"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "(c.-a-d. s'engager)"
+        }
+    ]
+}

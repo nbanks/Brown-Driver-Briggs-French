@@ -1,0 +1,43 @@
+{
+    "head_word": "שָׁלַךְ",
+    "pos": "verbe",
+    "primary": "jeter, lancer",
+    "description": "generalement sujet humain",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "generalement sujet humain"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "׳ י sujet"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "expressions"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

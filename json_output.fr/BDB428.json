@@ -1,0 +1,33 @@
+{
+    "head_word": "אֵל",
+    "pos": "nom masculin",
+    "primary": "dieu",
+    "description": "avec diverses applications subordonnees pour exprimer l'idee de puissance",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "applique aux hommes de puissance et de rang"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "anges"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "dieux des nations"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "pour caracteriser les choses puissantes dans la nature"
+        }
+    ]
+}

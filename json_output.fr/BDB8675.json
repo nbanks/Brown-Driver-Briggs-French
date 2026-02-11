@@ -1,0 +1,38 @@
+{
+    "head_word": "שָׁכַן",
+    "pos": "verbe",
+    "primary": "s'etablir, demeurer, habiter",
+    "description": "d'une personne",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "d'une personne"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "des hommes"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

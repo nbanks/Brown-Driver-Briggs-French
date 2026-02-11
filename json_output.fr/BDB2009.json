@@ -1,0 +1,43 @@
+{
+    "head_word": "דָּרַךְ",
+    "pos": "verbe",
+    "primary": "fouler, marcher",
+    "description": "fouler le pressoir (a vin ou a huile)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "fouler le pressoir (a vin ou a huile)"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "(c.-a-d. bander) l'arc"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "(bander) l'arc (= Qal 4)"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "causatif"
+        }
+    ]
+}

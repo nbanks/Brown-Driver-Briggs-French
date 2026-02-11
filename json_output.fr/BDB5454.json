@@ -1,0 +1,28 @@
+{
+    "head_word": "מַתִּתְיָ֫הוּ",
+    "pos": "nom propre masculin",
+    "primary": null,
+    "description": "un musicien levitique",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "un musicien levitique"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "nom levitique"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "assistant d'Esdras (aussi levite ?)"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "un de ceux qui prirent des femmes etrangeres"
+        }
+    ]
+}

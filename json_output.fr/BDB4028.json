@@ -1,0 +1,28 @@
+{
+    "head_word": "כְּלִי",
+    "pos": "nom masculin",
+    "primary": "article, ustensile, vase",
+    "description": "en general, article, objet, fait de tout materiau, chose\n    , specialement chose de valeur",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "en general, article, objet, fait de tout materiau, chose\n    , specialement chose de valeur"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "instrument de chasse et (specialement) de guerre, = arme"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "vase, receptacle, de divers materiaux et pour divers usages"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "(bateaux)"
+        }
+    ]
+}

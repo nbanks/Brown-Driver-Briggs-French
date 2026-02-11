@@ -1,0 +1,33 @@
+{
+    "head_word": "עַמּוּד",
+    "pos": "nom masculin",
+    "primary": "pilier, colonne",
+    "description": "deux piliers de bronze",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "deux piliers de bronze"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "colonne de fumee"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "(au figure du prophete)"
+        }
+    ]
+}

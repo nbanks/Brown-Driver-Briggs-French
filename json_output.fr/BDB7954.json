@@ -1,0 +1,23 @@
+{
+    "head_word": "רִמּוֺן",
+    "pos": "nom masculin",
+    "primary": "grenade",
+    "description": "arbre",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "arbre"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "fruit"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "ornements dans le temple, en forme de grenades"
+        }
+    ]
+}

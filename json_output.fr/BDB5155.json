@@ -1,0 +1,23 @@
+{
+    "head_word": "מַ֫טָּה",
+    "pos": "adverbe",
+    "primary": "vers le bas",
+    "description": "seul",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "seul"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "לְמַ֫טָּה"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "מִלְּמַ֫טָּה"
+        }
+    ]
+}

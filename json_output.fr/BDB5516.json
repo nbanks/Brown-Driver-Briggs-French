@@ -1,0 +1,28 @@
+{
+    "head_word": "סִיג",
+    "pos": "nom [masculin]",
+    "primary": "recul ou eloignement",
+    "description": "(ce qui est enleve du metal)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "recul ou eloignement",
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": "scories",
+            "description": "(ce qui est enleve du metal)"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "habituellement de l'argent"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "head_word": "חֶלְקָה",
+    "pos": "nom feminin",
+    "primary": "portion",
+    "description": "portion de terrain",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "specialement"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "de terrain assigne a quelqu'un"
+        }
+    ]
+}

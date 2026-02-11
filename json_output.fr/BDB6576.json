@@ -1,0 +1,23 @@
+{
+    "head_word": "פַּ֫חַד",
+    "pos": "nom masculin",
+    "primary": "terreur",
+    "description": "= objet de terreur",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "= objet de terreur"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "comme designation de la divinite"
+        }
+    ]
+}

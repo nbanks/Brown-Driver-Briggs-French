@@ -1,0 +1,23 @@
+{
+    "head_word": "אֵיכָה",
+    "pos": "adverbe",
+    "primary": "De quelle maniere ?",
+    "description": "exclamation",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "De quelle maniere ?",
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": "Comment !",
+            "description": "exclamation"
+        },
+        {
+            "number": 3,
+            "primary": "Ou ?",
+            "description": null
+        }
+    ]
+}

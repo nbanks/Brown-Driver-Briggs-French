@@ -1,0 +1,18 @@
+{
+    "head_word": "יָאַל",
+    "pos": "verbe",
+    "primary": "etre insense",
+    "description": "= pecher",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "= pecher"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "manquant de perspicacite et de jugement"
+        }
+    ]
+}

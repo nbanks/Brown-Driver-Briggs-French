@@ -1,0 +1,83 @@
+{
+    "head_word": "קוּם",
+    "pos": "verbe",
+    "primary": "se lever, se dresser, se tenir debout",
+    "description": "specifiquement",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "de la position\n                agenouillee",
+            "description": "specifiquement"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "au sens hostile (optatif avec idee de soudainete)"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "= devenir puissant"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "= entrer en scene, apparaitre, d'un chef, prophete, roi"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "pour, c.-a-d. pour devenir, avec ל de chose"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "pour l'action, surtout de ׳\nי se levant [de son trone]"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "surtout au figure"
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 9,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 10,
+            "primary": null,
+            "description": "prosterne"
+        },
+        {
+            "number": 11,
+            "primary": null,
+            "description": "au figure\n            d'etablir\n            la loi"
+        },
+        {
+            "number": 12,
+            "primary": null,
+            "description": "= faire entrer en scene"
+        },
+        {
+            "number": 13,
+            "primary": null,
+            "description": "= eveiller, susciter"
+        },
+        {
+            "number": 14,
+            "primary": null,
+            "description": "= constituer"
+        },
+        {
+            "number": 15,
+            "primary": null,
+            "description": "placer, poster"
+        }
+    ]
+}

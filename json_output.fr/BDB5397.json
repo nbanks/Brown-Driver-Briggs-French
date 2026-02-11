@@ -1,0 +1,43 @@
+{
+    "head_word": "שְׂאֵת",
+    "pos": "nom",
+    "primary": "exaltation, dignite",
+    "description": "douteux",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "exaltation, dignite",
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": "enflure",
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": "soulevement",
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "douteux"
+        }
+    ]
+}

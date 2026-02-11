@@ -1,0 +1,23 @@
+{
+    "head_word": "בֵּ֫לֶת",
+    "pos": "particule [de negation]",
+    "primary": "ne...pas, sauf",
+    "description": "proprement defaut",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "apres une negation precedente, ne...pas = sauf"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "(de meme apres une negation, exprimee ou implicite)"
+        }
+    ]
+}

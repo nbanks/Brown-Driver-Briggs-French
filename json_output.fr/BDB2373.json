@@ -1,0 +1,28 @@
+{
+    "head_word": "זָלַל",
+    "pos": "verbe",
+    "primary": "etre leger, sans valeur",
+    "description": "transitif mepriser = etre prodigue de, gaspiller\n        \n        (comparer II. זוּל)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "etre leger, sans valeur",
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": "mepriser",
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "transitif mepriser = etre prodigue de, gaspiller\n        \n        (comparer II. זוּל)"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "head_word": "חָצַב",
+    "pos": "verbe",
+    "primary": "tailler, extraire, fendre",
+    "description": "tailler la pierre",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "tailler la pierre"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "metaphore"
+        }
+    ]
+}

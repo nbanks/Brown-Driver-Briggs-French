@@ -1,0 +1,18 @@
+{
+    "head_word": "שֵׂעִיר",
+    "pos": "nom propre",
+    "primary": "Seir",
+    "description": "pays d'Edom, au sud de la mer Morte",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "pays d'Edom, au sud de la mer Morte"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "montagne en Juda"
+        }
+    ]
+}

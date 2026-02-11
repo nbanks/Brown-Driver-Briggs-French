@@ -1,0 +1,18 @@
+{
+    "head_word": "בַּ֫יִת",
+    "pos": "nom masculin",
+    "primary": "maison",
+    "description": "des hommes",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "des hommes"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "de Dieu, temple a Jerusalem"
+        }
+    ]
+}

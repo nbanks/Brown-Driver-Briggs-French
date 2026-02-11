@@ -1,0 +1,23 @@
+{
+    "head_word": "חָצֵר",
+    "pos": "nom masculin",
+    "primary": "enclos, cour",
+    "description": "du tabernacle",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": "dans un grand enclos",
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "du tabernacle"
+        }
+    ]
+}

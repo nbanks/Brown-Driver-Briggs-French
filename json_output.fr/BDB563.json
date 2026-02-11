@@ -1,0 +1,33 @@
+{
+    "head_word": "אִמֵּר",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "un pretre assigne a l'epoque de David",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "un pretre assigne a l'epoque de David"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "ancetre de pretre"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "pretre a l'epoque de Jeremie"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "pere de Tsadok"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "(?)"
+        }
+    ]
+}

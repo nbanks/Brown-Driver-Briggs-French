@@ -1,0 +1,23 @@
+{
+    "head_word": "קָצִיר",
+    "pos": "nom masculin",
+    "primary": "moisson, recolte",
+    "description": "processus de la moisson",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "processus de la moisson"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "ce qui est moissonne, recolte, specifiquement du ble"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "temps de la moisson"
+        }
+    ]
+}

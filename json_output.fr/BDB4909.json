@@ -1,0 +1,28 @@
+{
+    "head_word": "נָא",
+    "pos": "particule [de priere]",
+    "primary": "je (nous) prie, or",
+    "description": "(enclitique)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "a l'imperatif"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "au parfait"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "a l'imparfait"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "joint aux conjonctions et interjections"
+        }
+    ]
+}

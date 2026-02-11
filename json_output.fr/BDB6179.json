@@ -1,0 +1,18 @@
+{
+    "head_word": "עָמְרִי",
+    "pos": "nom propre masculin",
+    "primary": "Omri",
+    "description": "roi d'Israel",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "Omri",
+            "description": "roi d'Israel"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "nom en Benjamin"
+        }
+    ]
+}

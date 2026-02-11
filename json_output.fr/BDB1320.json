@@ -1,0 +1,33 @@
+{
+    "head_word": "בָּרַח",
+    "pos": "verbe",
+    "primary": "traverser, fuir",
+    "description": "fuir = se hater, venir vite",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "fuir = se hater, venir vite"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "littéral"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

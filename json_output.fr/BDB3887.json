@@ -1,0 +1,43 @@
+{
+    "head_word": "כָּבוֺד",
+    "pos": "nom masculin",
+    "primary": "abondance, honneur, gloire",
+    "description": "des hommes",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "abondance, richesse"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "honneur, splendeur, gloire"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "des hommes"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "poetique du siege de l'honneur, c.-a-d. l'ame"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "de Dieu"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "gloire, comme attribut de Dieu"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "la theophanie"
+        }
+    ]
+}

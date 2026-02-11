@@ -1,0 +1,18 @@
+{
+    "head_word": "חָתָן",
+    "pos": "nom masculin",
+    "primary": "gendre, fiance",
+    "description": "en relation avec un pere",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "en relation avec un pere"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "en relation avec la fiancee"
+        }
+    ]
+}

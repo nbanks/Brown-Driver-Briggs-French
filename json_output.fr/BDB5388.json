@@ -1,0 +1,48 @@
+{
+    "head_word": "נָשִׂיא",
+    "pos": "nom masculin",
+    "primary": "un eleve",
+    "description": "surtout en Israel",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "de tout homme principal"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "de Salomon"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "d'Abraham"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "chefs de la congregation"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "chefs tribaux et representants"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "en Ezechiel"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "chef des exiles revenant sous Cyrus"
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "chefs non-israelites"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "head_word": "יָסַר",
+    "pos": "verbe",
+    "primary": "discipliner, chatier, avertir",
+    "description": "(la nature morale, avec plus ou moins de severite selon les circonstances)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "(la nature morale, avec plus ou moins de severite selon les circonstances)"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "plus severement"
+        }
+    ]
+}

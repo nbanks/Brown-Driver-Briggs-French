@@ -1,0 +1,18 @@
+{
+    "head_word": "יָצַר",
+    "pos": "verbe",
+    "primary": "former, faconner",
+    "description": "de l'activite humaine",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "de l'activite humaine"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "de l'activite divine"
+        }
+    ]
+}

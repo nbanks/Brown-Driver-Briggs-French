@@ -1,0 +1,18 @@
+{
+    "head_word": "פֶּןֿ",
+    "pos": "conjonction",
+    "primary": "de peur que",
+    "description": "avec l'imparfait",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "avec l'imparfait"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "avec le parfait, le resultat redoute etant concu comme ayant peut-etre deja eu lieu"
+        }
+    ]
+}

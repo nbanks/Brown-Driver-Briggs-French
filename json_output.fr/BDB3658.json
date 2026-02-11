@@ -1,0 +1,48 @@
+{
+    "head_word": "יָצָא",
+    "pos": "verbe",
+    "primary": "sortir, venir dehors",
+    "description": "avec reference particuliere au but ou au\n            resultat",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "de choses inanimees",
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "avec reference particuliere au but ou au\n            resultat"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "de combinaisons"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "faire sortir des animaux"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "objet inanime"
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "figure, sujet ׳\nי"
+        }
+    ]
+}

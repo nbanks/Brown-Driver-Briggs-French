@@ -1,0 +1,18 @@
+{
+    "head_word": "מֶ֫תֶג",
+    "pos": "nom masculin",
+    "primary": "bride",
+    "description": "litteralement bride, pour les animaux",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "litteralement bride, pour les animaux"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "au figure = controle, autorite"
+        }
+    ]
+}

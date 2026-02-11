@@ -1,0 +1,43 @@
+{
+    "head_word": "לְ",
+    "pos": "preposition",
+    "primary": "a, pour, en ce qui concerne",
+    "description": "denotant la direction (non proprement le mouvement, comme אֶל) vers, ou la reference a; et donc employe dans de nombreuses applications variees, dans certaines desquelles l'idee de direction predomine, dans d'autres celle de reference",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "avec des verbes de",
+            "description": "tres souvent, avec diverses classes de verbes, a, vers, pour"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "exprimant la localite"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "pour denoter l'objet d'un verbe"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "d'une transition vers un nouvel etat ou condition, ou vers un nouveau caractere ou fonction"
+        },
+        {
+            "number": 5,
+            "primary": "ceux qui ne sont pas",
+            "description": "definissant ceux par rapport auxquels un predicat est affirme, d'ou souvent ="
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "du temps"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "avec un infinitif"
+        }
+    ]
+}

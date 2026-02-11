@@ -1,0 +1,38 @@
+{
+    "head_word": "מַטֶּה",
+    "pos": "nom masculin",
+    "primary": "baton, verge, hampe",
+    "description": null,
+    "senses": [
+        {
+            "number": 1,
+            "primary": "baton, verge, hampe",
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": "branche",
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": "tribu",
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": "utilise pour battre",
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

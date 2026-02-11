@@ -1,0 +1,38 @@
+{
+    "head_word": "פְּדָיָהוּ",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "beau-pere de Josias",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "beau-pere de Josias"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "pere de Zorobabel"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "Benjaminite"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "Levite"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "Manassite"
+        }
+    ]
+}

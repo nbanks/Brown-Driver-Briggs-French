@@ -1,0 +1,18 @@
+{
+    "head_word": "מְטָא",
+    "pos": "verbe",
+    "primary": "atteindre, parvenir",
+    "description": "venir a, jusqu'a",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "venir a, jusqu'a"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

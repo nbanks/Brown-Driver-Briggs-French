@@ -1,0 +1,23 @@
+{
+    "head_word": "כֶּ֫בֶשׂ",
+    "pos": "nom masculin",
+    "primary": "agneau",
+    "description": "en train de paitre",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "en train de paitre"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "comme fournissant de la laine pour les vetements"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "head_word": "מִשְׁנֶה",
+    "pos": "nom [masculin]",
+    "primary": "double, copie, second",
+    "description": "(le) double",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "(le) double"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "copie ecrite de la loi"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "en ordre"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "second quartier, district, de la ville"
+        }
+    ]
+}

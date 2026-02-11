@@ -1,0 +1,28 @@
+{
+    "head_word": "כַּפְתּוֺר",
+    "pos": "nom masculin",
+    "primary": "chapiteau",
+    "description": "ou bouton, ornement sur le chandelier d'or dans le tabernacle",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "chapiteau",
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": "bouton, bulbe",
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "ou bouton, ornement sur le chandelier d'or dans le tabernacle"
+        }
+    ]
+}

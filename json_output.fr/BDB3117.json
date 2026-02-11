@@ -1,0 +1,18 @@
+{
+    "head_word": "חַרְטֹם",
+    "pos": "nom masculin",
+    "primary": "graveur, ecrivain",
+    "description": "seulement au sens derive de celui qui possede un savoir occulte, devin, astrologue, magicien",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "d'Egypte"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "de Babylone"
+        }
+    ]
+}

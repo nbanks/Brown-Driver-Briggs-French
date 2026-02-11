@@ -1,0 +1,83 @@
+{
+    "head_word": "פָּקַד",
+    "pos": "verbe",
+    "primary": "s'occuper de, visiter, passer en revue, nommer",
+    "description": "(avec soin, interet pratique)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "(avec soin, interet pratique)"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "specifiquement visiter, avec accusatif, pour differents buts"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "avec עַל personne"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "(presque = denombrer)"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "avec accusatif de personne"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "avec accusatif de chose"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "(gracieusement)"
+        },
+        {
+            "number": 9,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 10,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 11,
+            "primary": null,
+            "description": "avec accusatif de personne"
+        },
+        {
+            "number": 12,
+            "primary": null,
+            "description": "avec accusatif de chose (implicite)"
+        },
+        {
+            "number": 13,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 14,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 15,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

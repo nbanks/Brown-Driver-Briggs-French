@@ -1,0 +1,23 @@
+{
+    "head_word": "מֶמְשָׁלָה",
+    "pos": "nom feminin",
+    "primary": "gouvernement, domination, royaume",
+    "description": "(humain)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "(humain)"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "des corps celestes"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "gouvernement, domination de Dieu :"
+        }
+    ]
+}

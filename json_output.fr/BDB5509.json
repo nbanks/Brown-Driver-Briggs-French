@@ -1,0 +1,28 @@
+{
+    "head_word": "שְׂדֵרָה",
+    "pos": "nom",
+    "primary": "rangee, rang",
+    "description": "de soldats en ligne",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "rangee, rang",
+            "description": "de soldats en ligne"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "terme architectural"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "terme technique de construction"
+        }
+    ]
+}

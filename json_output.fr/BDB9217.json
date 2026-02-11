@@ -1,0 +1,48 @@
+{
+    "head_word": "תָּעָה",
+    "pos": "verbe",
+    "primary": "errer",
+    "description": "physiquement",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "physiquement"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "d'ivresse"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "ethiquement"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "comme un ivrogne"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "ethiquement"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "physiquement"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "d'ivresse"
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "mentalement et moralement"
+        }
+    ]
+}

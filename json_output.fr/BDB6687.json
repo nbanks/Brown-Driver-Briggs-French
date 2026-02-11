@@ -1,0 +1,18 @@
+{
+    "head_word": "פִּנָּה",
+    "pos": "nom feminin",
+    "primary": "coin, angle",
+    "description": "specifiquement du mur de Jerusalem",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "specifiquement du mur de Jerusalem"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "figure du chef, dirigeant comme coin (soutien ou defense)"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "head_word": "דָּבַר",
+    "pos": "verbe",
+    "primary": "parler",
+    "description": "sens reciproque",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "absolu"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "avec accusatif de chose, tres frequemment"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "avec des personnes"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "avec בְּ"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "avec עַל, de l'objet concernant ou au sujet duquel on parle"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "avec infinitif"
+        }
+    ]
+}

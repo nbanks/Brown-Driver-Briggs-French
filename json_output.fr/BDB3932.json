@@ -1,0 +1,23 @@
+{
+    "head_word": "כָּהַן",
+    "pos": "verbe",
+    "primary": "agir comme pretre",
+    "description": null,
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "agir comme pretre, remplir la fonction de pretre"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "etre paré comme pretre"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "etre pretre"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "head_word": "שֹׁ֫רֶשׁ",
+    "pos": "nom masculin",
+    "primary": "racine",
+    "description": "du peuple sous la figure de l'arbre, impliquant fermete, permanence",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "du peuple sous la figure de l'arbre, impliquant fermete, permanence"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "litteralement racine d'arbre ou d'arbuste"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "figure = couche la plus basse"
+        }
+    ]
+}

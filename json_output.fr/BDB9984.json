@@ -1,0 +1,28 @@
+{
+    "head_word": "שְׁרָא",
+    "pos": "verbe",
+    "primary": "delier",
+    "description": "au figure delier des noeuds, c.-a-d. resoudre des difficultes",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "delier",
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": "demeurer",
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "au figure delier des noeuds, c.-a-d. resoudre des difficultes"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "de defaire les sangles, les charges, au campement"
+        }
+    ]
+}

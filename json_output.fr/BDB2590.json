@@ -1,0 +1,28 @@
+{
+    "head_word": "חִידָה",
+    "pos": "nom feminin",
+    "primary": "enigme, parole ou question enigmatique, deroutante",
+    "description": "= parole obscure, sombre",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "= parole obscure, sombre"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "enigme, devinette, a deviner"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "questions deroutantes par lesquelles la reine de Saba mit Salomon a l'epreuve (נִסָּה)"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "avec הֵבִין habile en duplicite"
+        }
+    ]
+}

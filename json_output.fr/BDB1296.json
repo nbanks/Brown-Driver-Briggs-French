@@ -1,0 +1,38 @@
+{
+    "head_word": "בָּקַשׁ",
+    "pos": "verbe",
+    "primary": "chercher",
+    "description": "chercher pour trouver",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "chercher pour trouver"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "chercher a obtenir"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "chercher la face"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "exiger l'equivalent ou la peine pour, accusatif de chose"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "accusatif de chose"
+        }
+    ]
+}

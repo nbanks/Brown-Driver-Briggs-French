@@ -1,0 +1,18 @@
+{
+    "head_word": "אֱלָהּ",
+    "pos": "nom masculin",
+    "primary": "dieu, Dieu",
+    "description": "en general",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "en general"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "(d'Israel)"
+        }
+    ]
+}

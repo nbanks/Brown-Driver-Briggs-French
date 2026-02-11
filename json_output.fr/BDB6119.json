@@ -1,0 +1,18 @@
+{
+    "head_word": "עוֺלָם",
+    "pos": "nom masculin",
+    "primary": "longue duree, antiquite, futur",
+    "description": "du temps passe",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "du temps passe"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "futur indefini, avec preposition pour toujours, toujours (parfois = durant la vie)"
+        }
+    ]
+}

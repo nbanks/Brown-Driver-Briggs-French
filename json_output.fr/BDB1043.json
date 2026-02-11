@@ -1,0 +1,18 @@
+{
+    "head_word": "בִּירָה",
+    "pos": "nom feminin",
+    "primary": "chateau, palais",
+    "description": "du temple a Jerusalem",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "du temple a Jerusalem"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "dans ces passages, cela signifie apparemment une forteresse dans la ville portant le meme nom"
+        }
+    ]
+}

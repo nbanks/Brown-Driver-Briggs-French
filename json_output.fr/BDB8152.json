@@ -1,0 +1,38 @@
+{
+    "head_word": "שָׂבֵעַ",
+    "pos": "verbe",
+    "primary": "etre rassasie, satisfait, repu",
+    "description": "(de nourriture)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "(de nourriture)"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "plus generalement, etre rassasie, avoir le desir satisfait"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

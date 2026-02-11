@@ -1,0 +1,33 @@
+{
+    "head_word": "שָׁפָן",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "secretaire (הַסִּפֵר) sous Josias",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "secretaire (הַסִּפֵר) sous Josias"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "pere d'אֲחִיקָם, contemporain de 1 (improbable = 1)"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "pere d'אֶלְעָשָׂה"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "pere de גְּמַרְיָ֫הוּ"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "pere de יַאֲזַנְיָ֫הוּ"
+        }
+    ]
+}

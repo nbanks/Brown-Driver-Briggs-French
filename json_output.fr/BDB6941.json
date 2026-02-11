@@ -1,0 +1,38 @@
+{
+    "head_word": "צֶ֫דֶק",
+    "pos": "nom masculin",
+    "primary": "droiture, justice",
+    "description": "dans le gouvernement",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "dans le gouvernement"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "dans une affaire ou une cause"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "dans le discours"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "comme ethiquement juste"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "justice comme vindication, justification dans la controverse avec les ennemis et les troubles"
+        }
+    ]
+}

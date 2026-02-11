@@ -1,0 +1,18 @@
+{
+    "head_word": "עָשׂוֺר",
+    "pos": "nom [masculin]",
+    "primary": "une dizaine, decade",
+    "description": "habituellement de jours",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "habituellement de jours"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "de cordes d'instrument"
+        }
+    ]
+}

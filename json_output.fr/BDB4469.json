@@ -1,0 +1,18 @@
+{
+    "head_word": "לִשְׁכָּה",
+    "pos": "nom feminin",
+    "primary": "salle, chambre, cellule, lishka",
+    "description": "d'une salle reliee a un sanctuaire (בָּמָה), ou le repas sacrificiel etait consomme",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "d'une salle reliee a un sanctuaire (בָּמָה), ou le repas sacrificiel etait consomme"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "de la salle du scribe dans le palais royal"
+        }
+    ]
+}

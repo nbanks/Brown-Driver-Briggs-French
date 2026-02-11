@@ -1,0 +1,28 @@
+{
+    "head_word": "עָתִיד",
+    "pos": "adjectif",
+    "primary": "pret, prepare",
+    "description": "= habile",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "= habile"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "= imminent"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "= en reserve"
+        }
+    ]
+}

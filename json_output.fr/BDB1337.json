@@ -1,0 +1,38 @@
+{
+    "head_word": "יְבֶרֶכְיָ֫הוּ",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "pere d'un Zacharie au temps d'Esaie",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "fils de Zorobabel"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "un Levite gardien de l'arche"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "pere de Meshullam, un des chefs de Nehemie"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "pere du prophete Zacharie"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "pere d'Asaph"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "chef ephraimite"
+        }
+    ]
+}

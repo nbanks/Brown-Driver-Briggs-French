@@ -1,0 +1,28 @@
+{
+    "head_word": "אֵת",
+    "pos": "preposition",
+    "primary": "avec",
+    "description": "preposition denotant la proximite",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "de compagnie"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "de localites, surtout dans l'expression אֲשֶׁר אֵת decrivant un site"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "׳אֵת פּ denote specialement"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "מֵאֵת (מֵאִתִּי, etc. ; aussi -מֵאוֺת) de la proximite avec"
+        }
+    ]
+}

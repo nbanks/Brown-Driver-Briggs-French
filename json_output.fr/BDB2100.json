@@ -1,0 +1,18 @@
+{
+    "head_word": "יהוה",
+    "pos": "nom propre [de divinite]",
+    "primary": "Yahve",
+    "description": "le nom propre du Dieu d'Israel",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

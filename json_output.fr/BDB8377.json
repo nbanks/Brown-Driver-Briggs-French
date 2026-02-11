@@ -1,0 +1,28 @@
+{
+    "head_word": "שַׁאֲנָן",
+    "pos": "adjectif",
+    "primary": "a l'aise, en securite",
+    "description": "comme substantif, celui qui est a l'aise",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "comme substantif, celui qui est a l'aise"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "comme substantif abstrait = arrogance"
+        }
+    ]
+}

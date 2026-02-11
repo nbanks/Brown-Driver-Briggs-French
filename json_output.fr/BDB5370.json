@@ -1,0 +1,23 @@
+{
+    "head_word": "נָקָם",
+    "pos": "nom masculin",
+    "primary": "vengeance",
+    "description": "exercee par Dieu",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "exercee par Dieu"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "Samson contre les Philistins"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "ennemis contre Juda"
+        }
+    ]
+}

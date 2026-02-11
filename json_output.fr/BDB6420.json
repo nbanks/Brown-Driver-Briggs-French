@@ -1,0 +1,23 @@
+{
+    "head_word": "עֲרֹעֵר",
+    "pos": "nom propre [d'un lieu]",
+    "primary": null,
+    "description": "ville sur la rive nord de l'Arnon, limite sud d'Israel en Transjordanie",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "ville sur la rive nord de l'Arnon, limite sud d'Israel en Transjordanie"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "ville pres de Rabba en Ammon"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "ville dans le sud de Juda"
+        }
+    ]
+}

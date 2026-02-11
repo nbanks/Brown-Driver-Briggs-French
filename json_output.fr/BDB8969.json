@@ -1,0 +1,18 @@
+{
+    "head_word": "שְׁפֵלָה",
+    "pos": "nom feminin",
+    "primary": "bas-pays",
+    "description": "habituellement terme technique pour la bande a l'ouest des montagnes de Juda",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "habituellement terme technique pour la bande a l'ouest des montagnes de Juda"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "de la plaine (pres de la cote) au nord du Carmel"
+        }
+    ]
+}

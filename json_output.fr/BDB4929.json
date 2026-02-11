@@ -1,0 +1,38 @@
+{
+    "head_word": "נָבָא",
+    "pos": "verbe",
+    "primary": "prophetiser",
+    "description": "(dans les formes les plus anciennes, de l'extase religieuse avec ou sans chant et musique; plus tard, essentiellement instruction religieuse, avec des predictions occasionnelles)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "sous l'influence de l'esprit divin"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "des faux prophetes"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "comparer les prophetes paiens"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "sous l'influence de l'esprit divin"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "des prophetes paiens de Baal en etat d'extase"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "des faux prophetes"
+        }
+    ]
+}

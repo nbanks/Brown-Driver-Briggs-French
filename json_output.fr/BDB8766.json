@@ -1,0 +1,18 @@
+{
+    "head_word": "שְׁלשִׁים",
+    "pos": "nom",
+    "primary": "trente",
+    "description": "devant nom singulier",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "devant nom singulier"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "comme ordinal"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "head_word": "רֶ֫כֶב",
+    "pos": "nom masculin",
+    "primary": "chars, char, meule",
+    "description": "d'un seul char",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "d'un seul char"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "(comme reposant sur l'inferieure)"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "apparemment = cavaliers (collectif), troupe (de cavaliers)"
+        }
+    ]
+}

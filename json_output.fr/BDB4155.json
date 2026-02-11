@@ -1,0 +1,33 @@
+{
+    "head_word": "כִּפֶּר",
+    "pos": "verbe",
+    "primary": "couvrir (au figure), apaiser, faire propitiation",
+    "description": "l'homme comme sujet",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "l'homme comme sujet"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "en dehors du rituel"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "avec לְ pour qui"
+        }
+    ]
+}

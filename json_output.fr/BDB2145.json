@@ -1,0 +1,63 @@
+{
+    "head_word": "הָיָה",
+    "pos": "verbe",
+    "primary": "arriver, advenir, devenir, etre",
+    "description": "suivi de preposition",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "suivi de preposition"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "(avec mot de lieu ou de temps)"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "avec mot de localite"
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "comme copule, joignant sujet et predicat"
+        },
+        {
+            "number": 9,
+            "primary": null,
+            "description": "conjugaison periphrastique"
+        },
+        {
+            "number": 10,
+            "primary": null,
+            "description": "soit etre fait, etre accompli, soit se produire, arriver"
+        },
+        {
+            "number": 11,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

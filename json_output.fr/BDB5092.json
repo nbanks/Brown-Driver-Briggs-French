@@ -1,0 +1,18 @@
+{
+    "head_word": "מְנוֺרָה",
+    "pos": "nom feminin",
+    "primary": "chandelier",
+    "description": "dans une maison privee",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "dans une maison privee"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "dix chandeliers dans le temple"
+        }
+    ]
+}

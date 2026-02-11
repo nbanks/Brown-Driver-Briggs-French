@@ -1,0 +1,33 @@
+{
+    "head_word": "יֵהוּא",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "roi d'Israel qui renversa la dynastie d'Omri",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "roi d'Israel qui renversa la dynastie d'Omri"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "prophete du nord d'Israel au temps de Baasha et Josaphat"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "un des heros de David"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "un Judeen"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "un prince simeonite"
+        }
+    ]
+}

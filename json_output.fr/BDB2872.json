@@ -1,0 +1,23 @@
+{
+    "head_word": "חָמַס",
+    "pos": "verbe",
+    "primary": "traiter avec violence, faire tort",
+    "description": "de tort physique",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "de tort physique"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "de tort ethique"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "a la fois physique et ethique"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "head_word": "רָמָה",
+    "pos": "nom propre [d'un lieu]",
+    "primary": "la Hauteur, Rama",
+    "description": "en Benjamin, sur la frontiere d'Ephraim",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "en Benjamin, sur la frontiere d'Ephraim"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "dans la montagne d'Ephraim (= 1?)"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "en Asher"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "en Nephtali"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

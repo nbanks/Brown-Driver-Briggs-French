@@ -1,0 +1,28 @@
+{
+    "head_word": "כְּמוֺ",
+    "pos": "adverbe",
+    "primary": "comme, ainsi que, quand",
+    "description": "litteralement le semblable de ce qui (a savoir) ..., une forme pleonastique de כְּ (voir מוֺ), et, comme lui, proprement un substantif",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "(56 fois) comme mot independant"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "comme equivalent de כְּ devant les suffixes, toujours devant les legers, et parfois devant les lourds"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "adverbe, comme synonyme poetique de כְּ"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

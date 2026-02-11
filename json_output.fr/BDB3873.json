@@ -1,0 +1,33 @@
+{
+    "head_word": "כָּאַב",
+    "pos": "verbe",
+    "primary": "avoir mal",
+    "description": "physique",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "physique"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "de douleur mentale"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "des ennemis d'Israel sous la figure d'une epine causant la douleur (pas d'objet exprime)"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "de douleur mentale, objet לֵב"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "du fait d'abimer une bonne terre avec des pierres"
+        }
+    ]
+}

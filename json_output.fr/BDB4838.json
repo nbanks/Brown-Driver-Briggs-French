@@ -1,0 +1,28 @@
+{
+    "head_word": "מְרֹרָה",
+    "pos": "nom feminin",
+    "primary": "chose amere, fiel, poison",
+    "description": "c.-a-d. siege du fiel, vesicule biliaire",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "c.-a-d. siege du fiel, vesicule biliaire"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "= poison"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "= amertume"
+        }
+    ]
+}

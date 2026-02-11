@@ -1,0 +1,33 @@
+{
+    "head_word": "רָשַׁע",
+    "pos": "verbe",
+    "primary": "etre mechant, agir mechamment",
+    "description": "dans les relations civiles",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "dans les relations civiles"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "dans les relations ethiques et religieuses"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "en ethique et en religion"
+        }
+    ]
+}

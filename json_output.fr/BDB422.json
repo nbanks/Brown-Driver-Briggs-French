@@ -1,0 +1,28 @@
+{
+    "head_word": "אֶלְיוֺעֵינַי",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "un descendant de David",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "un descendant de David"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "un Simeonite"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "un Benjaminite"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "pretres au temps d'Esdras"
+        }
+    ]
+}

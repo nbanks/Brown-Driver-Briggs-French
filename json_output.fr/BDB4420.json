@@ -1,0 +1,38 @@
+{
+    "head_word": "לָכַד",
+    "pos": "verbe",
+    "primary": "capturer, saisir, prendre (par le sort)",
+    "description": "de la prise par le sort",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "de la prise par le sort"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "des hommes, etre pris, c.-a-d. dans un piege ou un traquenard, seulement au figure"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "etre pris par le sort"
+        }
+    ]
+}

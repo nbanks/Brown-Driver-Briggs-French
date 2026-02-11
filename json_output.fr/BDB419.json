@@ -1,0 +1,23 @@
+{
+    "head_word": "אַל",
+    "pos": "adverbe de negation",
+    "primary": null,
+    "description": "exprimant donc une deprecation ou une interdiction",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "avec un verbe"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "une fois"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "une fois"
+        }
+    ]
+}

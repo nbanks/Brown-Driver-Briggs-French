@@ -1,0 +1,23 @@
+{
+    "head_word": "מָרַד",
+    "pos": "verbe",
+    "primary": "se rebeller",
+    "description": "contre un roi humain",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "contre un roi humain"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "contre Dieu"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "en poesie, contre la lumiere"
+        }
+    ]
+}

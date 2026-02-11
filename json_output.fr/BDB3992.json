@@ -1,0 +1,28 @@
+{
+    "head_word": "כָּחַשׁ",
+    "pos": "verbe",
+    "primary": "etre decevant, tromper, faillir, devenir maigre",
+    "description": null,
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "etre decevant, mentir"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "agir trompeusement"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "devenir maigre"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "nier, renier"
+        }
+    ]
+}

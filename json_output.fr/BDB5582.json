@@ -1,0 +1,23 @@
+{
+    "head_word": "סֻכָּה",
+    "pos": "nom feminin",
+    "primary": "fourre, cabane",
+    "description": "proprement de branches entrelacees",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "abri rudimentaire ou temporaire"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "specifiquement des cabanes, faites de branches, dans lesquelles on vivait a la fete de la moisson"
+        }
+    ]
+}

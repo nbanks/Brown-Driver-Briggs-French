@@ -1,0 +1,23 @@
+{
+    "head_word": "מֶרְכָּב",
+    "pos": "nom masculin",
+    "primary": "char, siege de monte",
+    "description": "(proprement lieu de monte)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "(= suivant)"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "probablement selle"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "de litiere"
+        }
+    ]
+}

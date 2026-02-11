@@ -1,0 +1,43 @@
+{
+    "head_word": "צְדָקָה",
+    "pos": "nom feminin",
+    "primary": "justice",
+    "description": "dans le gouvernement",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "dans le gouvernement"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "attribut de Dieu"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "dans un cas ou une cause"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "= veracite"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "comme ethiquement juste"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "comme justifie, justification, salut, etc. (comparer צֶדֶק 6)"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "de Dieu"
+        }
+    ]
+}

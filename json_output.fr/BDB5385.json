@@ -1,0 +1,73 @@
+{
+    "head_word": "נָשָׂא",
+    "pos": "verbe",
+    "primary": "lever, porter, prendre",
+    "description": "au sens propre",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "vers",
+            "description": "au sens propre"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "au sens propre"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "au sens propre"
+        },
+        {
+            "number": 4,
+            "primary": "des paupieres",
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "= se lever"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "= exalter"
+        },
+        {
+            "number": 9,
+            "primary": null,
+            "description": "= desirer, aspirer"
+        },
+        {
+            "number": 10,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 11,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 12,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 13,
+            "primary": null,
+            "description": "apparemment faire apporter, avoir fait apporter"
+        }
+    ]
+}

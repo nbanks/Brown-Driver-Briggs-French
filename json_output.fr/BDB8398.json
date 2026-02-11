@@ -1,0 +1,18 @@
+{
+    "head_word": "שִׁבְיָה",
+    "pos": "nom feminin",
+    "primary": "captivite, captifs",
+    "description": "(collectif), comparer שְׁבִי",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "etat de captivite"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "groupe de captifs"
+        }
+    ]
+}

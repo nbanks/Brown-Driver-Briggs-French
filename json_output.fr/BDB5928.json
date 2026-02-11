@@ -1,0 +1,18 @@
+{
+    "head_word": "עוֺר",
+    "pos": "nom masculin",
+    "primary": "peau",
+    "description": "des hommes",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "des hommes"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "des animaux"
+        }
+    ]
+}

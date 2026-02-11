@@ -1,0 +1,18 @@
+{
+    "head_word": "מֶלְקָחַ֫יִם",
+    "pos": "nom [masculin] duel",
+    "primary": "tenailles, mouchettes",
+    "description": "tenailles utilisees a l'autel du temple, pour soulever le charbon",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "tenailles utilisees a l'autel du temple, pour soulever le charbon"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "mouchettes de lampe"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "head_word": "פָּדָה",
+    "pos": "verbe",
+    "primary": "racheter",
+    "description": "pour un prix estime",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "pour un prix estime"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "de la violence et de la mort"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "Dieu sujet (idee sous-jacente de paiement)"
+        }
+    ]
+}

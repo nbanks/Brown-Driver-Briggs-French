@@ -1,0 +1,38 @@
+{
+    "head_word": "שְׂרָיָה(וּׅ",
+    "pos": "nom propre masculin",
+    "primary": null,
+    "description": "secretaire de David",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "secretaire de David"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "grand pretre"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "un capitaine"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "fils de Qenaz"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "compagnon de Zorobabel"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "officier du roi Joiaqim"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "head_word": "שַׂר",
+    "pos": "nom masculin",
+    "primary": "chef, dirigeant, officiel, capitaine, prince",
+    "description": "sous le roi (agissant, a l'occasion, comme conseiller, commandant, etc.)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "David comme chef de pillards",
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": "en Egypte",
+            "description": "sous le roi (agissant, a l'occasion, comme conseiller, commandant, etc.)"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "specifiquement militaire, = capitaine, general"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "d'autres classes officielles"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "de fonction religieuse"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "de chefs representatifs du peuple, chefs de tribus"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "= ange-patron, seulement Daniel"
+        },
+        {
+            "number": 9,
+            "primary": null,
+            "description": "=\n    Dieu"
+        }
+    ]
+}

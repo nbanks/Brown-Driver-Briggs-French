@@ -1,0 +1,28 @@
+{
+    "head_word": "רָבָה",
+    "pos": "verbe",
+    "primary": "etre ou devenir beaucoup, nombreux, grand",
+    "description": "du peuple",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "du peuple"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "objet personne (ou un peuple)"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

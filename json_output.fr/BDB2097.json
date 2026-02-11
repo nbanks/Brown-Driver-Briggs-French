@@ -1,0 +1,28 @@
+{
+    "head_word": "הַוָּה",
+    "pos": "nom",
+    "primary": "desir",
+    "description": "(dans un mauvais sens)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "desir",
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": "gouffre",
+            "description": "(dans un mauvais sens)"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "(dans un mauvais sens)"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

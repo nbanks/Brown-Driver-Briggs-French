@@ -1,0 +1,28 @@
+{
+    "head_word": "אֵם",
+    "pos": "nom feminin",
+    "primary": "mere",
+    "description": "mere (humaine) au sens littéral",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "mere (humaine) au sens littéral"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "figuré"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "des animaux"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "= point de départ ou de division"
+        }
+    ]
+}

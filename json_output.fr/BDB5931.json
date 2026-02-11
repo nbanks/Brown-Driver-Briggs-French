@@ -1,0 +1,18 @@
+{
+    "head_word": "עָוַת",
+    "pos": "verbe",
+    "primary": "etre courbe, tordu",
+    "description": "rendre tordu = falsifier",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "rendre tordu = falsifier"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

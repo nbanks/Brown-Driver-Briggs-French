@@ -1,0 +1,23 @@
+{
+    "head_word": "חֵיק",
+    "pos": "nom [masculin]",
+    "primary": "sein",
+    "description": "du pli du vetement, a la poitrine",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "du pli du vetement, a la poitrine"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "porter (נָשָׂא) dans le sein"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "comme partie du corps"
+        }
+    ]
+}

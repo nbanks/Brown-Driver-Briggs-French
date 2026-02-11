@@ -1,0 +1,93 @@
+{
+    "head_word": "עָשָׂה",
+    "pos": "verbe",
+    "primary": "faire, fabriquer",
+    "description": "travailler pour",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "travailler pour"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "traiter avec"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "souvent dans l'expression, faire bonte (חֶסֶד) avec"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "specialement de ׳י"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "souvent de la creation de Dieu"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "specialement de la preparation et cuisson de nourriture"
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "faire une offrande"
+        },
+        {
+            "number": 9,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 10,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 11,
+            "primary": null,
+            "description": "acquerir des biens de diverses sortes"
+        },
+        {
+            "number": 12,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 13,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 14,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 15,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 16,
+            "primary": null,
+            "description": "(passif de Qal I. 1.)"
+        },
+        {
+            "number": 17,
+            "primary": null,
+            "description": "(passif de Qal II)"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "head_word": "עֶשֶׂר",
+    "pos": "nom masculin",
+    "primary": "dix",
+    "description": "denombrant des personnes ou des choses, habituellement sans autres nombres",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "denombrant des personnes ou des choses, habituellement sans autres nombres"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "rarement + autre nombre"
+        }
+    ]
+}

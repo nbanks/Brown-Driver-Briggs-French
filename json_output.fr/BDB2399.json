@@ -1,0 +1,28 @@
+{
+    "head_word": "זִמְרִי",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "un Simeonite",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "un Simeonite"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "petit-fils de Juda"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "roi d'Israel avant Omri"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "un Benjaminite"
+        }
+    ]
+}

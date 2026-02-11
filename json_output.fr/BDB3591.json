@@ -1,0 +1,18 @@
+{
+    "head_word": "יְסוֺד",
+    "pos": "nom feminin",
+    "primary": "fondation, base",
+    "description": "de ville (mur)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "de ville (mur)"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "d'autel"
+        }
+    ]
+}

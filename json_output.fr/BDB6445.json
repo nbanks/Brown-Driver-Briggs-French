@@ -1,0 +1,28 @@
+{
+    "head_word": "עֶשְׂרִים",
+    "pos": "nom pluriel",
+    "primary": "(a) vingt",
+    "description": "comme cardinal",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "sans autre nombre"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "+ autre nombre"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "20 seul"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "20 + unite + noms"
+        }
+    ]
+}

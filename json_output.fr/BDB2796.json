@@ -1,0 +1,33 @@
+{
+    "head_word": "חָלַף",
+    "pos": "verbe",
+    "primary": "passer, s'en aller, traverser",
+    "description": "(surtout en poesie)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "(disparaitre)"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "de l'herbe, pousser de nouveau, c.-a-d. germer a nouveau (comparer Hiph`il 2)"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "c.-a-d. percer"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "changer (transitif) de vetements"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "d'un arbre, produisant de nouvelles pousses"
+        }
+    ]
+}

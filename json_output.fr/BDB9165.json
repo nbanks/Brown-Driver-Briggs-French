@@ -1,0 +1,18 @@
+{
+    "head_word": "תֵּל",
+    "pos": "nom [masculin]",
+    "primary": "tertre",
+    "description": "tas de ruines (d'une ville)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "tas de ruines (d'une ville)"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "ou colline sur laquelle la ville se tenait"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "head_word": "צֵלָע",
+    "pos": "nom feminin",
+    "primary": "cote, flanc",
+    "description": "de l'homme",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "de l'homme"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "de colline, c.-a-d. crete, ou terrasse"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "(entourant le temple comme des cotes)"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "de cedre et sapin, c.-a-d. planches, madriers"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "de porte"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

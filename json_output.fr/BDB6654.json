@@ -1,0 +1,28 @@
+{
+    "head_word": "פָּלַל",
+    "pos": "verbe",
+    "primary": "intervenir, s'interposer",
+    "description": "specifiquement interceder (aupres de ׳י)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "specifiquement interceder (aupres de ׳י)"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "generalement"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "(a ׳י)"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "de priere poetique, liturgique"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "head_word": "רְבִיעִי",
+    "pos": "masculin",
+    "primary": "quatrieme",
+    "description": "(surtout des jours, mois, fils, etc.)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "(surtout des jours, mois, fils, etc.)"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "des annees"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "carre (lire peut-etre רְבוּעָה)"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "comme nom = quatrieme partie"
+        }
+    ]
+}

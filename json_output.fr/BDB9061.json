@@ -1,0 +1,18 @@
+{
+    "head_word": "שָׁרַת",
+    "pos": "verbe",
+    "primary": "servir, exercer un ministere",
+    "description": "du service ministeriel (oppose au service servile, עבד)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "du service ministeriel (oppose au service servile, עבד)"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "habituellement du service special dans le culte"
+        }
+    ]
+}

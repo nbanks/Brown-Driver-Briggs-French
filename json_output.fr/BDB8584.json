@@ -1,0 +1,28 @@
+{
+    "head_word": "שָׁחַח",
+    "pos": "verbe",
+    "primary": "s'incliner, etre courbe, se tapir",
+    "description": "en hommage",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "en hommage"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "d'un endeuille"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "d'une bete sauvage dans son repaire"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "head_word": "רֶ֫מֶשׂ",
+    "pos": "nom masculin",
+    "primary": "animaux rampants, animaux grouillants",
+    "description": "des animaux marins",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "des animaux marins"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "de tous les animaux"
+        }
+    ]
+}

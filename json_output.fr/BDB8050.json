@@ -1,0 +1,33 @@
+{
+    "head_word": "רְפָיָה",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "dans la famille de David",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "dans la famille de David"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "en Simeon"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "en Issacar"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "descendant de Saul"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "nom post-exilique"
+        }
+    ]
+}

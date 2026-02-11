@@ -1,0 +1,33 @@
+{
+    "head_word": "מֶ֫לֶךְ",
+    "pos": "nom masculin",
+    "primary": "roi",
+    "description": "du roi davidique",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "du roi davidique"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "employe pour ׳י comme roi d'Israel"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "dans une fable"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "les combinaisons sont"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "head_word": "חוּר",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "compagnon de Moise et Aaron",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "compagnon de Moise et Aaron"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "roi de Madian"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "pere de Caleb"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

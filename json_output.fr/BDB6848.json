@@ -1,0 +1,33 @@
+{
+    "head_word": "פָּשַׁט",
+    "pos": "verbe",
+    "primary": "depouiller, faire une incursion, razzia",
+    "description": "son vetement",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "son vetement"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "oter (son abri), c.-a-d. faire une incursion (d'un lieu abrite)"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "depouiller quelqu'un de son vetement"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

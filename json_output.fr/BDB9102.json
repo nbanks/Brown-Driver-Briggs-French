@@ -1,0 +1,28 @@
+{
+    "head_word": "תָּבוֺר",
+    "pos": "nom propre",
+    "primary": null,
+    "description": "montagne au bord nord-est de la Grande Plaine, au sud-ouest de la mer de Galilee, a la frontiere d'Issachar, Zabulon et Nephtali",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "montagne au bord nord-est de la Grande Plaine, au sud-ouest de la mer de Galilee, a la frontiere d'Issachar, Zabulon et Nephtali"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "trop eloigne pour etre = 1"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "ville levitique en Zabulon"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "pres de Bethel"
+        }
+    ]
+}

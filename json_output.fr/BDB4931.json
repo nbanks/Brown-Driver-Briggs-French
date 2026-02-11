@@ -1,0 +1,23 @@
+{
+    "head_word": "נְבִיאָה",
+    "pos": "nom masculin",
+    "primary": "prophetesse",
+    "description": "du type ancien doue du don de chant",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "du type ancien doue du don de chant"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "fausse prophetesse"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "epouse d'Esaie"
+        }
+    ]
+}

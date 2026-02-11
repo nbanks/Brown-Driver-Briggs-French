@@ -1,0 +1,28 @@
+{
+    "head_word": "מְרוּצָה",
+    "pos": "nom",
+    "primary": "course",
+    "description": "(de la vie)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "course",
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": "parcours",
+            "description": "(de la vie)"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "(de la vie)"
+        }
+    ]
+}

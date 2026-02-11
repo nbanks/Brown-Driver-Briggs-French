@@ -1,0 +1,33 @@
+{
+    "head_word": "נָהַל",
+    "pos": "verbe",
+    "primary": "conduire, guider vers un abreuvoir (ou une etape), et faire reposer la ; amener a une etape ou un lieu de repos ;\n        conduire, guider ; rafraichir",
+    "description": "avec de la nourriture",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "avec de la nourriture"
+        }
+    ]
+}

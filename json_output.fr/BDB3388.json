@@ -1,0 +1,23 @@
+{
+    "head_word": "יָאַל",
+    "pos": "verbe",
+    "primary": "montrer sa volonte, etre satisfait, decider, entreprendre",
+    "description": "montrer sa volonte, etre satisfait, decider, entreprendre de faire quelque chose (et le faire)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "montrer sa volonte de faire quelque chose, accepter une invitation, acquiescer"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "plus activement, entreprendre volontairement de faire quelque chose (et le faire)"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "plus activement encore, etre satisfait, decider de sa propre responsabilite,\n        resoudre"
+        }
+    ]
+}

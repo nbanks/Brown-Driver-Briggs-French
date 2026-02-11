@@ -1,0 +1,128 @@
+{
+    "head_word": "עָלָה",
+    "pos": "verbe",
+    "primary": "monter, s'elever, grimper",
+    "description": "des personnes, monter, s'elever, dans des relations locales",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "des personnes, monter, s'elever, dans des relations locales"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "dans des relations personnelles"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "des animaux"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "de la vegetation"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "des phenomenes naturels"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "des choses inanimes (au lieu de la construction passive)"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "des pensees"
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "devant Dieu"
+        },
+        {
+            "number": 9,
+            "primary": null,
+            "description": "de la frontiere"
+        },
+        {
+            "number": 10,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 11,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 12,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 13,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 14,
+            "primary": null,
+            "description": "personnes"
+        },
+        {
+            "number": 15,
+            "primary": null,
+            "description": "dans des relations personnelles"
+        },
+        {
+            "number": 16,
+            "primary": null,
+            "description": "animaux"
+        },
+        {
+            "number": 17,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 18,
+            "primary": null,
+            "description": "mentalement"
+        },
+        {
+            "number": 19,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 20,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 21,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 22,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 23,
+            "primary": null,
+            "description": "(passif de\n        Qal\n6)"
+        },
+        {
+            "number": 24,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

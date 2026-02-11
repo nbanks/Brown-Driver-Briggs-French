@@ -1,0 +1,23 @@
+{
+    "head_word": "קֶ֫סֶם",
+    "pos": "nom [masculin]",
+    "primary": "divination",
+    "description": "des nations",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "des nations"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "des faux prophetes"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "en bonne part"
+        }
+    ]
+}

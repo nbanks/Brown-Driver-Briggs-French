@@ -1,0 +1,23 @@
+{
+    "head_word": "מַגֵּפָה",
+    "pos": "nom feminin",
+    "primary": "coup, carnage, plaie, peste",
+    "description": "= coup fatal",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "= coup fatal"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

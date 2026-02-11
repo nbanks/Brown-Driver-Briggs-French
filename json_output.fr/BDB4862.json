@@ -1,0 +1,28 @@
+{
+    "head_word": "מִשְׁחָה",
+    "pos": "nom",
+    "primary": "onguent",
+    "description": "l'huile sainte utilisee dans la consecration des pretres aaroniques",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "onguent",
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": "portion consacree",
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "l'huile sainte utilisee dans la consecration des pretres aaroniques"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

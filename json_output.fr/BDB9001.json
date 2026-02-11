@@ -1,0 +1,18 @@
+{
+    "head_word": "שָׁקָה",
+    "pos": "verbe",
+    "primary": null,
+    "description": "pour\n    Qal voir \nשָׁתָה",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "le sol"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "habituellement sujet humain, accusatif de la bete"
+        }
+    ]
+}

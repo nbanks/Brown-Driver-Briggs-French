@@ -1,0 +1,33 @@
+{
+    "head_word": "שַׁבָּת",
+    "pos": "nom feminin",
+    "primary": "sabbat",
+    "description": "le jour de l'expiation est un שַׁבַּת שַׁבָּתוֺן",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "le jour de l'expiation est un שַׁבַּת שַׁבָּתוֺן"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "= semaine(?)"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "= produit de l'annee sabbatique (poussant de lui-meme)"
+        }
+    ]
+}

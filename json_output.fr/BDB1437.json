@@ -1,0 +1,18 @@
+{
+    "head_word": "גְּבוּל",
+    "pos": "nom masculin",
+    "primary": "frontiere, limite, territoire",
+    "description": "(enferme dans une limite)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "un objet concret marquant la limite",
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "(enferme dans une limite)"
+        }
+    ]
+}

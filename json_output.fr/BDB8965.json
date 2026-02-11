@@ -1,0 +1,38 @@
+{
+    "head_word": "שָׁפֵל",
+    "pos": "verbe",
+    "primary": "etre ou devenir bas, etre abaisse",
+    "description": "tout Esaie",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "tout Esaie"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "etre humble d'esprit"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "du son"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "generalement figure"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "comme verbe auxiliaire"
+        }
+    ]
+}

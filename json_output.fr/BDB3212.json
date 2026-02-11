@@ -1,0 +1,48 @@
+{
+    "head_word": "חֲשַׁבְיָ֫הוּ",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "un musicien du temple",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "un musicien du temple"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "un Levite, au temps de David"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "un Levite, au temps de Josias"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "Levite de la lignee de Merari"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "Levite"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "Levite, au temps d'Esdras"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "chef d'une famille de pretres"
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "un batisseur de la muraille"
+        }
+    ]
+}

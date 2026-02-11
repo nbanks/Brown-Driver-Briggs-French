@@ -1,0 +1,23 @@
+{
+    "head_word": "כַּאֲשֶׁר",
+    "pos": "conjonction",
+    "primary": "selon que, comme, quand",
+    "description": "avec une force causale",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "avec une force causale"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

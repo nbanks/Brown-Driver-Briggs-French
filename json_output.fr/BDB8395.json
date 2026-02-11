@@ -1,0 +1,18 @@
+{
+    "head_word": "שָׁבָה",
+    "pos": "verbe",
+    "primary": "emmener captif",
+    "description": "avec accusatif de personne",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "avec accusatif de personne"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "avec accusatif de sens apparente au verbe"
+        }
+    ]
+}

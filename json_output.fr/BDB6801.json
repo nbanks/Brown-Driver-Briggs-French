@@ -1,0 +1,28 @@
+{
+    "head_word": "פָּרַע",
+    "pos": "verbe",
+    "primary": "laisser aller, laisser tranquille",
+    "description": "le peuple, c.-a-d. leur oter toute contrainte",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "le peuple, c.-a-d. leur oter toute contrainte"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "= eviter"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

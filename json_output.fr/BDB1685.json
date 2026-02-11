@@ -1,0 +1,28 @@
+{
+    "head_word": "גָּמָל",
+    "pos": "nom masculin",
+    "primary": "chameau",
+    "description": "comme propriete",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "comme propriete"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "comme betes de somme"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "pour monter"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "interdit comme nourriture"
+        }
+    ]
+}

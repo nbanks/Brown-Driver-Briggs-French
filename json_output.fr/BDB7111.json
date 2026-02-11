@@ -1,0 +1,28 @@
+{
+    "head_word": "צָמַח",
+    "pos": "verbe",
+    "primary": "germer, pousser",
+    "description": "de plantes, arbres, etc.",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "de plantes, arbres, etc."
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "de cheveux"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "de pluie"
+        }
+    ]
+}

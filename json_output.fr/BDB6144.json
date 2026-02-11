@@ -1,0 +1,33 @@
+{
+    "head_word": "עַם",
+    "pos": "nom masculin",
+    "primary": "peuple",
+    "description": "(parfois || גּוֺי)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "(parfois || גּוֺי)"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "= unites plus petites, p. ex."
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "= le peuple commun"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "en general"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "les expressions sont"
+        }
+    ]
+}

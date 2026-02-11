@@ -1,0 +1,28 @@
+{
+    "head_word": "זוּב",
+    "pos": "verbe",
+    "primary": "couler, jaillir",
+    "description": "toujours de la terre promise",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "toujours de la terre promise"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "= deperir (de faim)"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "d'un ecoulement de la femme"
+        }
+    ]
+}

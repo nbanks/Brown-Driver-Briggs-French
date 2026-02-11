@@ -1,0 +1,38 @@
+{
+    "head_word": "נָסַע",
+    "pos": "verbe",
+    "primary": "arracher, lever le camp, voyager",
+    "description": "(de l'arrachage des piquets de tente)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "(de l'arrachage des piquets de tente)"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "du vent"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

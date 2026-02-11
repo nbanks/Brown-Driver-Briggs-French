@@ -1,0 +1,28 @@
+{
+    "head_word": "מַשְׂאֵת",
+    "pos": "nom feminin",
+    "primary": "soulevement, parole, fardeau, portion",
+    "description": "(= III. מַשָּׂא)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "(= III. מַשָּׂא)"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "(apportee a quelqu'un), surtout de la table du roi ou d'un superieur"
+        }
+    ]
+}

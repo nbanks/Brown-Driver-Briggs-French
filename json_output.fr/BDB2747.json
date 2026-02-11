@@ -1,0 +1,23 @@
+{
+    "head_word": "חֵ֫לֶב",
+    "pos": "nom masculin",
+    "primary": "graisse",
+    "description": "du corps humain",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "du corps humain"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "des betes"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

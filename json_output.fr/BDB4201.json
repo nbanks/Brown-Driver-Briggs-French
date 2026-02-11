@@ -1,0 +1,18 @@
+{
+    "head_word": "כַּרְמֶל",
+    "pos": "nom propre [d'une montagne et d'une ville]",
+    "primary": "Carmel",
+    "description": "promontoire montagneux sur la Mediterranee, aux pentes fertiles",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "promontoire montagneux sur la Mediterranee, aux pentes fertiles"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "ville"
+        }
+    ]
+}

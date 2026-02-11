@@ -1,0 +1,23 @@
+{
+    "head_word": "קָרֹב",
+    "pos": "adjectif",
+    "primary": "proche",
+    "description": "(souvent oppose a רָחוֺק)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "de ville"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "de personne"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "de temps"
+        }
+    ]
+}

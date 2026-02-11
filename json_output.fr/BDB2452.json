@@ -1,0 +1,33 @@
+{
+    "head_word": "זֶ֫רַח",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "fils de Juda et Tamar",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "fils de Juda et Tamar"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "Edomites"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "Levites"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "chef d'une famille simeonite"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "head_word": "דֶּ֫לֶת",
+    "pos": "nom feminin",
+    "primary": "porte",
+    "description": "de maison",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "de maison"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "de chambre"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "dans d'autres sens (surtout figure)"
+        }
+    ]
+}

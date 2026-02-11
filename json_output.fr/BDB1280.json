@@ -1,0 +1,28 @@
+{
+    "head_word": "בָּקַע",
+    "pos": "verbe",
+    "primary": "fendre, ouvrir ou percer",
+    "description": "suivi de l'accusatif",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "suivi de l'accusatif"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "suivi de בְּ"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

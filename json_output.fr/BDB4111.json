@@ -1,0 +1,18 @@
+{
+    "head_word": "מִכְסֶה",
+    "pos": "nom [masculin]",
+    "primary": "couverture",
+    "description": "de l'arche, toit-pont",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "de l'arche, toit-pont"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "des peaux de la tente d'assignation"
+        }
+    ]
+}

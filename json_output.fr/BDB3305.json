@@ -1,0 +1,58 @@
+{
+    "head_word": "טוֺב",
+    "pos": "adjectif",
+    "primary": "agreable, plaisant, bon",
+    "description": "agreable, plaisant aux sens",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "agreable, plaisant aux sens"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "agreable a la nature superieure, donnant plaisir, bonheur, prosperite, et donc agreable, plaisant, bien"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "bon, excellent en son genre"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "avec מִן comparatif ="
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "de la nature sensuelle de l'homme"
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "de la nature intellectuelle de l'homme"
+        },
+        {
+            "number": 9,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 10,
+            "primary": null,
+            "description": "(ethique)"
+        }
+    ]
+}

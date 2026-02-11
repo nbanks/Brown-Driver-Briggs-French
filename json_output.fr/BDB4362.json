@@ -1,0 +1,23 @@
+{
+    "head_word": "לוּחַ",
+    "pos": "nom masculin",
+    "primary": "tablette, planche, plaque",
+    "description": "principalement des tablettes de pierre sur lesquelles les dix paroles furent ecrites",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "principalement des tablettes de pierre sur lesquelles les dix paroles furent ecrites"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "en bois"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "plaques (de metal) sur les bases des cuves dans le temple de Salomon"
+        }
+    ]
+}

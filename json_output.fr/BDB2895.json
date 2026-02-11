@@ -1,0 +1,38 @@
+{
+    "head_word": "חֲמוֺר",
+    "pos": "nom masculin",
+    "primary": "ane (male)",
+    "description": "(ane male ; אתון = anesse)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "comme propriete (de valeur), avec boeufs, moutons, chameaux, esclaves, etc."
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "utilise pour monter"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "bete de somme"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "utilise pour le labour"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "les parties du corps de l'ane mentionnees sont"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "sepulture d'un ane, en figure du traitement ignominieux d'un cadavre"
+        }
+    ]
+}

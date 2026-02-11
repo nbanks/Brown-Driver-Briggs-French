@@ -1,0 +1,23 @@
+{
+    "head_word": "דָּת",
+    "pos": "nom feminin",
+    "primary": "decret, loi",
+    "description": "du roi",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "du roi"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "loi immuable des Medes et des Perses"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "de Dieu (dans la bouche de non-Juifs)"
+        }
+    ]
+}

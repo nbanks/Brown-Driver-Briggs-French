@@ -1,0 +1,38 @@
+{
+    "head_word": "מִנְחָה",
+    "pos": "nom feminin",
+    "primary": "don, tribut, offrande",
+    "description": "que ce soit cru, roti, moulu en farine, ou prepare en pain ou gateaux, voir ci-dessous",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": "exilique ou post-exilique",
+            "description": "que ce soit cru, roti, moulu en farine, ou prepare en pain ou gateaux, voir ci-dessous"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "אָבִיב grain en epi grille au feu, avec huile et encens"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "les verbes d'offrande sont"
+        }
+    ]
+}

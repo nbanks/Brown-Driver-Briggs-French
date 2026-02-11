@@ -1,0 +1,28 @@
+{
+    "head_word": "יְאֹר",
+    "pos": "nom masculin",
+    "primary": "fleuve",
+    "description": "fleuve du Nil, cours d'eau, canal",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "fleuve du Nil, le Nil, habituellement avec l'article"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "pluriel"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "fait dans l'exploitation miniere"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "singulier, du Tigre"
+        }
+    ]
+}

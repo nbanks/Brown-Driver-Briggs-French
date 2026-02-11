@@ -1,0 +1,23 @@
+{
+    "head_word": "אֲמַר",
+    "pos": "verbe",
+    "primary": "dire, raconter, commander",
+    "description": "(souvent dans l'expression repondre et dire)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "(souvent dans l'expression repondre et dire)"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

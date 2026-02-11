@@ -1,0 +1,18 @@
+{
+    "head_word": "עֵדוּת",
+    "pos": "nom feminin",
+    "primary": "temoignage",
+    "description": "des Dix Paroles sur les tables comme une charge divine solennelle",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "des Dix Paroles sur les tables comme une charge divine solennelle"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "le code de la loi en general (tardif), comme un temoignage de Dieu"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "head_word": "חָנַן",
+    "pos": "verbe",
+    "primary": "montrer de la faveur, faire grace",
+    "description": "de l'homme",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "de l'homme"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "de Dieu"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "de l'homme"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "de Dieu"
+        }
+    ]
+}

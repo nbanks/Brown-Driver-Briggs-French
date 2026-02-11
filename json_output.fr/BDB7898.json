@@ -1,0 +1,28 @@
+{
+    "head_word": "רִיב",
+    "pos": "nom masculin",
+    "primary": "querelle, dispute",
+    "description": "en paroles",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "en paroles"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "d'hostilites publiques"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "surtout dispute, controverse, cause en justice"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

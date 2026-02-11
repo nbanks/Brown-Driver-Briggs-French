@@ -1,0 +1,28 @@
+{
+    "head_word": "עָמַס",
+    "pos": "verbe",
+    "primary": "charger",
+    "description": null,
+    "senses": [
+        {
+            "number": 1,
+            "primary": "charger",
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": "porter une charge",
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

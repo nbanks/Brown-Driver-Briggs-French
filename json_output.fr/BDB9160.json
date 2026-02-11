@@ -1,0 +1,18 @@
+{
+    "head_word": "תָּלָה",
+    "pos": "verbe",
+    "primary": "pendre",
+    "description": "tout objet",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "tout objet"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "specifiquement mettre a mort par pendaison"
+        }
+    ]
+}

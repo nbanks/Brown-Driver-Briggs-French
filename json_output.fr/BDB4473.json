@@ -1,0 +1,38 @@
+{
+    "head_word": "לָשׁוֺן",
+    "pos": "nom masculin",
+    "primary": "langue",
+    "description": "des hommes",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "des hommes"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "= langage"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "des animaux"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "du feu, devorant"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "= (en forme de langue) coin"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "= (en forme de langue) baie"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "head_word": "נוּס",
+    "pos": "verbe",
+    "primary": "fuir, echapper",
+    "description": "seulement au figure",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "seulement au figure"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "(a l'attaque)"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

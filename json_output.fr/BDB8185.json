@@ -1,0 +1,33 @@
+{
+    "head_word": "שׂוּם",
+    "pos": "verbe",
+    "primary": "mettre, placer, poser",
+    "description": "dans un lieu",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "dans un lieu"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "diriger לֵב (esprit) vers, preter attention a, avec ל"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "une loi, un statut"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "en position"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "faire d'une chose, ou d'une personne (accusatif), pour, transformer en (ל)"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "head_word": "בַּרְזֶל",
+    "pos": "nom masculin",
+    "primary": "fer",
+    "description": "litteral",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "litteral"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "au figure"
+        }
+    ]
+}

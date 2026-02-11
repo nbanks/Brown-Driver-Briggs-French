@@ -1,0 +1,28 @@
+{
+    "head_word": "סֵ֫פֶר",
+    "pos": "nom masculin",
+    "primary": "missive, document, ecrit, livre",
+    "description": "lettre d'instruction, ordre ecrit, commission, ou\n            requete",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "lettre d'instruction, ordre ecrit, commission, ou\n            requete"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": "une fois",
+            "description": "dans lequel quelque chose est ecrit pour le conserver pour un usage\n    futur"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "= savoir livresque, surtout l'ecriture"
+        }
+    ]
+}

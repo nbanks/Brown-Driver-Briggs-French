@@ -1,0 +1,33 @@
+{
+    "head_word": "עֲזַרְאֵל",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "guerrier de David",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "guerrier de David"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "musicien levite"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "un Danite"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "un ayant une epouse etrangere"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "nom sacerdotal"
+        }
+    ]
+}

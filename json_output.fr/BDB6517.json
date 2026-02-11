@@ -1,0 +1,53 @@
+{
+    "head_word": "פָּגַע",
+    "pos": "verbe",
+    "primary": "rencontrer, atteindre",
+    "description": "avec bienveillance",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "avec bienveillance"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "avec hostilite"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "avec requete"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 9,
+            "primary": null,
+            "description": null
+        }
+    ]
+}
