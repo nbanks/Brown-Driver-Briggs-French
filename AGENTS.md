@@ -32,7 +32,7 @@ Brown-Driver-Briggs-Enhanced/
 
 ## Accents et UTF-8
 
-**Toute sortie en français DOIT utiliser les accents et diacritiques corrects.**
+**Toute sortie en français DOIT utiliser les accents et diacritiques corrects, y compris sur les lettres majuscules.**
 Il s'agit d'un ouvrage de référence savant ; le français sans accents est
 inacceptable. Exemples :
 
@@ -43,6 +43,8 @@ inacceptable. Exemples :
 - « hébreu » et non « hebreu », « araméen » et non « arameen »
 - « phénicien » et non « phenicien », « éthiopien » et non « ethiopien »
 - « fraîcheur » et non « fraicheur », « première » et non « premiere »
+- « Ésaïe » et non « Esaie », « Ézéchiel » et non « Ezechiel »
+- « À partir de » et non « A partir de », « État » et non « Etat »
 
 Tous les fichiers de sortie (JSON et HTML) sont en UTF-8. Chaque caractère
 accentué (é, è, ê, ë, à, â, ù, û, ô, î, ï, ç, etc.) doit apparaître comme
@@ -188,58 +190,252 @@ English:  description = "Aleph, first letter"
 French:   description = "Aleph, première lettre"
 ```
 
+**BDB3814** -- יְשַׁעְיָ֫הוּ "Isaiah" (nom propre -- majuscule accentuée **Ésaïe**)
+```json
+English:
+{
+    "head_word": "יְשַׁעְיָ֫הוּ",
+    "pos": "proper name, masculine",
+    "primary": null,
+    "description": "Isaiah, son of Amos, the prophet",
+    "senses": [
+        {"number": 1, "primary": null, "description": "Isaiah, son of Amos, the prophet"},
+        {"number": 2, "primary": null, "description": "one of the children of Jeduthun"},
+        {"number": 3, "primary": null, "description": "a Levite ancestor of one of David's treasurers"}
+    ]
+}
+French:
+{
+    "head_word": "יְשַׁעְיָ֫הוּ",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "Ésaïe, fils d'Amos, le prophète",
+    "senses": [
+        {"number": 1, "primary": null, "description": "Ésaïe, fils d'Amos, le prophète"},
+        {"number": 2, "primary": null, "description": "un des enfants de Jeduthun"},
+        {"number": 3, "primary": null, "description": "un ancêtre lévite d'un des trésoriers de David"}
+    ]
+}
+```
+
+**BDB883** -- בְאֵרִי "Esau's father-in-law" (majuscule accentuée **Ésaü**)
+```json
+English:
+{
+    "head_word": "בְאֵרִי",
+    "pos": "proper name, masculine",
+    "primary": null,
+    "description": "a Hittite, Esau's father-in-law",
+    "senses": [
+        {"number": 1, "primary": null, "description": "a Hittite, Esau's father-in-law"},
+        {"number": 2, "primary": null, "description": "Hosea's father"}
+    ]
+}
+French:
+{
+    "head_word": "בְאֵרִי",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "un Hittite, beau-père d'Ésaü",
+    "senses": [
+        {"number": 1, "primary": null, "description": "un Hittite, beau-père d'Ésaü"},
+        {"number": 2, "primary": null, "description": "père d'Osée"}
+    ]
+}
+```
+
+**BDB9249** -- תִּרְהָקָה "Ethiopian Dynasty" (majuscule accentuée **Égypte**, **Éthiopienne**)
+```json
+English:
+{
+    "head_word": "תִּרְהָקָה",
+    "pos": "proper name, masculine",
+    "primary": null,
+    "description": "king of Egypt, of Ethiopian Dynasty:",
+    "senses": []
+}
+French:
+{
+    "head_word": "תִּרְהָקָה",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "roi d'Égypte, de la dynastie éthiopienne :",
+    "senses": []
+}
+```
+
 ### Exemples HTML (Entries/ -> Entries.fr/, balises retirées)
 
 Ces exemples montrent le contenu textuel lisible résultant de la traduction du
-HTML. Dans les fichiers réels, les balises XML (`<pos>`, `<primary>`,
-`<bdbheb>`, `<ref>`, etc.) doivent être préservées -- seul le texte anglais
-entre les balises est traduit.
+HTML **dans leur intégralité** -- aucune partie n'est omise. Dans les fichiers
+réels, les balises XML (`<pos>`, `<primary>`, `<bdbheb>`, `<ref>`, etc.) doivent
+être préservées -- seul le texte anglais entre les balises est traduit.
 
-**BDB1** -- א Aleph
+**BDB1** -- א Aleph (entrée complète avec renvoi)
 ```
-English: Aleph, first letter; in post-biblical Hebrew = numeral 1
-French:  Aleph, première lettre ; en hébreu post-biblique = chiffre 1
-```
+English:
+  Biblical Hebrew
+  א, Aleph, first letter; in post Biblical Hebrew = numeral 1
+  (and so in margin of printed MT); א֟ = 1000; no evidence of
+  this usage in OT times.
+  ---
+  אָב see II. אבה.
 
-**BDB50** -- אָבַל mourn
-```
-English: verb  mourn  (Assyrian [abâlu])
-         Qal Perfect אָבַל Isa 24:7 ...
-         mourn, lament (poet. & elevated style); absolute, human subject
-         Joel 1:9; Amos 8:8 ...
-French:  verbe  être en deuil  (assyrien [abâlu])
-         Qal Accompli אָבַל Es 24,7 ...
-         être en deuil, se lamenter (poétique & style élevé) ; absolu,
-         sujet humain Jl 1,9 ; Am 8,8 ...
-```
-
-**BDB200** -- אוּלָם nom propre
-```
-English: proper name, masculine  only genealogy  1Chr 7:16; 1Chr 7:17
-French:  nom propre, masculin  seulement généalogie  1 Ch 7,16 ; 1 Ch 7,17
+French:
+  hébreu biblique
+  א, Aleph, première lettre ; en hébreu post-biblique = chiffre 1
+  (ainsi en marge du TM imprimé) ; א֟ = 1000 ; aucune trace de
+  cet usage à l'époque de l'AT.
+  ---
+  אָב voir II. אבה.
 ```
 
-**BDB50 (section Hithpael)** -- deuil pour les morts
+**BDB50** -- אָבַל mourn (entrée complète, trois thèmes verbaux)
 ```
-English: mourn (especially prose) especially for the dead,
-         followed by על Gen 37:34; 2Sam 13:37; ... compare also
-         Isa 66:10 (concerning Jerusalem)
-French:  être en deuil (surtout prose) surtout pour les morts,
-         suivi de על Gn 37,34 ; 2 S 13,37 ; ... comparer aussi
-         Es 66,10 (concernant Jérusalem)
+English:
+  Biblical Hebrew
+  I. אָבַל  verb  mourn  (Assyrian [abâlu] see Dl) --
+  Qal  Perfect אָבַל Isa 24:7 + 2 t. etc.  Imperfect 3 feminine
+  singular תֶּאֱבַל Hos 4:3 + 3 t. --  mourn, lament (poetic &
+  higher style); absolute, human subject Joel 1:9; Amos 8:8;
+  Amos 9:5; Isa 19:8 (|| אנה) compare Job 14:22 (subject נַפְשׁוֺ);
+  followed by על Hos 10:5 more often figurative, inanimate subject,
+  gates 1Sam 3:26 land 1Sam 24:4; 1Sam 33:9; Hos 4:3; Joel 1:10;
+  Jer 4:28 (followed by על) Jer 12:4; Jer 23:10 compare Jer 12:11
+  (followed by על), יְהוּדָה Jer 14:2 pastures Amos 1:2.
+  Hithpa`el -- Perfect הִתְאַבֵּל 1Sam 15:35  Imperfect יִתְאַבָּ֑ל
+  Ezek 7:12; Ezek 7:27  וַיִּתְאַבֵּל Gen 37:34 + 3 t. etc.;
+  Imperative feminine singular הִתְאַבְּלִי 2Sam 14:2  Participle
+  מִתְאַבֵּל 1Sam 16:1 + 2 t. etc.; -- mourn (mostly prose)
+  especially for dead, followed by על Gen 37:34; 2Sam 13:37;
+  2Sam 14:2; 2Sam 19:2 || בכה 2Chr 35:24, compare also Isa 66:10
+  (over Jerusalem); absolute 1Chr 7:22 compare 2Sam 14:2 play the
+  mourner (where indicated by dress); over un-worthy Saul followed
+  by אֶל 1Sam 15:35; 1Sam 16:1 over sin followed by על Ezra 10:6
+  compare (absolute) Neh 8:9 judgment of ׳ י Exod 33:4 absolute
+  (indicated by dress), Num 14:39; Ezek 7:27 (strike out B Co);
+  followed by כִּי 1Sam 6:19 calamity Neh 1:4; Ezek 7:12 compare
+  Dan 10:2.
+  Hiph`il  Perfect הֶאֱבַלְתִּי Ezek 31:15  Imperfect וַיַּאֲבֶלֿ
+  Lam 2:8 -- cause to mourn; Ezek 31:15 absolute MT, but A B Co
+  object תהום followed by על, caused the deep to mourn over;
+  Lam 2:8 object wall etc.; (both these figurative, compare Qal).
+
+French:
+  hébreu biblique
+  I. אָבַל  verbe  être en deuil  (assyrien [abâlu] voir Dl) --
+  Qal  Parfait אָבַל Es 24,7 + 2 t. etc.  Imparfait 3 féminin
+  singulier תֶּאֱבַל Os 4,3 + 3 t. --  être en deuil, se lamenter
+  (poétique & style élevé) ; absolu, sujet humain Jl 1,9 ; Am 8,8 ;
+  Am 9,5 ; Es 19,8 (|| אנה) comparer Jb 14,22 (sujet נַפְשׁוֺ) ;
+  suivi de על Os 10,5 plus souvent figuré, sujet inanimé, portes
+  1 S 3,26 terre 1 S 24,4 ; 1 S 33,9 ; Os 4,3 ; Jl 1,10 ;
+  Jr 4,28 (suivi de על) Jr 12,4 ; Jr 23,10 comparer Jr 12,11
+  (suivi de על), יְהוּדָה Jr 14,2 pâturages Am 1,2.
+  Hithpa`el -- Parfait הִתְאַבֵּל 1 S 15,35  Imparfait יִתְאַבָּ֑ל
+  Ez 7,12 ; Ez 7,27  וַיִּתְאַבֵּל Gn 37,34 + 3 t. etc. ;
+  Impératif féminin singulier הִתְאַבְּלִי 2 S 14,2  Participe
+  מִתְאַבֵּל 1 S 16,1 + 2 t. etc. ; -- être en deuil (surtout prose)
+  surtout pour les morts, suivi de על Gn 37,34 ; 2 S 13,37 ;
+  2 S 14,2 ; 2 S 19,2 || בכה 2 Ch 35,24, comparer aussi Es 66,10
+  (concernant Jérusalem) ; absolu 1 Ch 7,22 comparer 2 S 14,2 jouer
+  l'endeuillé (quand indiqué par le vêtement) ; sur l'indigne Saül
+  suivi de אֶל 1 S 15,35 ; 1 S 16,1 sur le péché suivi de על
+  Esd 10,6 comparer (absolu) Ne 8,9 jugement de ׳ י Ex 33,4 absolu
+  (indiqué par le vêtement), Nb 14,39 ; Ez 7,27 (supprimer B Co) ;
+  suivi de כִּי 1 S 6,19 calamité Ne 1,4 ; Ez 7,12 comparer
+  Dn 10,2.
+  Hiphil  Parfait הֶאֱבַלְתִּי Ez 31,15  Imparfait וַיַּאֲבֶלֿ
+  Lm 2,8 -- faire porter le deuil ; Ez 31,15 absolu TM, mais A B Co
+  objet תהום suivi de על, a fait porter le deuil à l'abîme sur ;
+  Lm 2,8 objet muraille etc. ; (tous deux figurés, comparer Qal).
 ```
 
-**BDB50 (section Hiphil)** -- causatif du deuil
+**BDB200** -- אוּלָם nom propre (entrée complète)
 ```
-English: cause to mourn; Ezek 31:15 ... caused the deep to mourn over
-French:  faire porter le deuil ; Ez 31,15 ... a fait porter le deuil
-         à l'abîme sur
+English:
+  Biblical Hebrew
+  II. אוּלָם  proper name, masculine  only genealogy
+  1. 1Chr 7:16; 1Chr 7:17.
+  2. 1Chr 8:39; 1Chr 8:40.
+
+French:
+  hébreu biblique
+  II. אוּלָם  nom propre, masculin  seulement généalogie
+  1. 1 Ch 7,16 ; 1 Ch 7,17.
+  2. 1 Ch 8,39 ; 1 Ch 8,40.
 ```
 
-**BDB1 (renvoi)** -- schéma typique de renvoi
+### Exemples HTML avec majuscules accentuées
+
+Ces exemples illustrent spécifiquement les cas où le français exige un accent
+sur une lettre majuscule -- un nom propre ou le premier mot d'une phrase.
+
+**BDB3814** -- יְשַׁעְיָ֫הוּ **Ésaïe** (entrée complète, sans placeholder)
 ```
-English: אָב see II. אבה
-French:  אָב voir II. אבה
+English:
+  Biblical Hebrew
+  יְשַׁעְיָ֫הוּ  proper name, masculine (salvation of Yah; compare
+  אֱלִישָׁע above; ישעאל on scarab ClGann) --
+  1. Isaiah, son of Amos, the prophet: Isa 1:1 + 15 t. Isaiah;
+     2Kgs 19:2 + 12 t. Kings; 2Chr 26:22; 2Chr 32:20; 2Chr 32:32
+     ᵐ5 Ηξαιας, ᵑ9 Isaias.
+  2. one of the children of Jeduthun 1Chr 25:3; 1Chr 25:15,
+     ᵐ5 Ισαια, etc.
+  3. a Levite ancestor of one of David's treasurers 1Chr 26:25,
+     ᵐ5 Ωσαιας, ᵐ5L Ιωσηε.
+
+French:
+  hébreu biblique
+  יְשַׁעְיָ֫הוּ  nom propre, masculin (salut de Yah ; comparer
+  אֱלִישָׁע ci-dessus ; ישעאל sur scarabée ClGann) --
+  1. Ésaïe, fils d'Amos, le prophète : Es 1,1 + 15 t. Ésaïe ;
+     2 R 19,2 + 12 t. Rois ; 2 Ch 26,22 ; 2 Ch 32,20 ; 2 Ch 32,32
+     ᵐ5 Ηξαιας, ᵑ9 Isaias.
+  2. un des enfants de Jeduthun 1 Ch 25,3 ; 1 Ch 25,15,
+     ᵐ5 Ισαια, etc.
+  3. un ancêtre lévite d'un des trésoriers de David 1 Ch 26,25,
+     ᵐ5 Ωσαιας, ᵐ5L Ιωσηε.
+```
+
+**BDB883** -- בְאֵרִי beau-père d'**Ésaü** (entrée complète, sans placeholder)
+```
+English:
+  Biblical Hebrew
+  בְאֵרִי  proper name, masculine (my well).
+  < the man from Beer? Nes.
+  1. a Hittite, Esau's father-in-law Gen 26:34.
+  2. Hosea's father Hos 1:1.
+
+French:
+  hébreu biblique
+  בְאֵרִי  nom propre, masculin (mon puits).
+  < l'homme de Beer ? Nes.
+  1. un Hittite, beau-père d'Ésaü Gn 26,34.
+  2. père d'Osée Os 1,1.
+```
+
+**BDB9249** -- תִּרְהָקָה roi d'**Égypte** (entrée complète, sans placeholder)
+```
+English:
+  Biblical Hebrew
+  תִּרְהָקָה  proper name, masculine  king of Egypt, of Ethiopian
+  Dynasty: 2Kgs 19:9 = Isa 37:9 Θαρακα; ᵐ5L Θαρθακ; = Egyptian
+  T-h-r-‡, Assyrian Tar‡u, Steind COT Wied Brugsch WMM Griffith.
+  ---
+  תְּרוּמָה, תְּרוּמִיָּה see רום. תְּרוּעָה see [רוע].
+  ---
+  תְּרוּפָה see רוף.
+
+French:
+  hébreu biblique
+  תִּרְהָקָה  nom propre, masculin  roi d'Égypte, de la dynastie
+  éthiopienne : 2 R 19,9 = Es 37,9 Θαρακα ; ᵐ5L Θαρθακ ; = égyptien
+  T-h-r-‡, assyrien Tar‡u, Steind COT Wied Brugsch WMM Griffith.
+  ---
+  תְּרוּמָה, תְּרוּמִיָּה voir רום. תְּרוּעָה voir [רוע].
+  ---
+  תְּרוּפָה voir רוף.
 ```
 
 ### Mots et expressions courants exigeant des accents
@@ -527,11 +723,11 @@ francophone -- les conserver tels quels :
 - Hiph'il (Hiphil), Hoph'al (Hophal), Hithpa'el (Hithpael)
 
 Les étiquettes anglaises environnantes doivent être traduites :
-- "Qal Perfect" -> "Qal accompli"
-- "Hiph'il Imperfect" -> "Hiphil inaccompli"
-- "Niph'al Participle" -> "Niphal participe"
-- "Infinitive construct" -> "infinitif construit"
-- "Infinitive absolute" -> "infinitif absolu"
+- "Qal Perfect" -> "Qal Parfait"
+- "Hiph'il Imperfect" -> "Hiphil Imparfait"
+- "Niph'al Participle" -> "Niphal Participe"
+- "Infinitive construct" -> "Infinitif construit"
+- "Infinitive absolute" -> "Infinitif absolu"
 
 ## Abréviations savantes
 
@@ -574,10 +770,10 @@ intégré, des références et de la prose). Pour celles-ci :
   doit être moderne, accessible et précis -- pas un calque mot à mot. Viser le
   registre d'un ouvrage de référence contemporain en études bibliques
   francophones.
-- **Toujours utiliser les accents et diacritiques français corrects.** Voir la
-  section « Accents et UTF-8 » ci-dessus et le tableau des mots courants. Le
-  français sans accents (p. ex. « etre », « feminin », « Nehemie ») est un
-  défaut de qualité.
+- **Toujours utiliser les accents et diacritiques français corrects**, y compris
+  sur les majuscules. Voir la section « Accents et UTF-8 » ci-dessus et le
+  tableau des mots courants. Écrire « être », « féminin », « Néhémie »,
+  « Ésaïe », « À partir de ».
 - Le style français de référence biblique utilise une virgule entre chapitre et
   verset (p. ex. « Dn 7,5 » et non « Dn 7:5 »), conformément à la convention
   de la Bible de Jérusalem et de la TOB.

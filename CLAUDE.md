@@ -1,1 +1,1 @@
-/home/ai/.claude/CLAUDE.md
+AGENTS.md
