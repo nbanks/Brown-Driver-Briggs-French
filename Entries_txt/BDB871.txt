@@ -1,0 +1,872 @@
+=== BDB871 ===
+Biblical Hebrew
+
+I. בְּ, preposition in (Moabite בּ, Syriac
+[placeholder481: Placeholders/481.gif], Arabic
+[placeholder482: Placeholders/482.gif], Ethiopic
+[placeholder483: Placeholders/483.gif]) before tone-syllables in certain cases (Ges
+^«GKC:102»§ 102^. 2) בָּ, with suffix בִּי; בְּךָ (Exod 7:29; 2Sam 22:30;
+Ps 141:8
+בְּכָה), in pause and feminine בָּךְ; בּוֺ (once, Jer 17:24
+
+Kt
+
+בֹּה), בָּהּ; בָּנוּ; בָּכֶם, [בָּכֶן
+]; בָּהֶם, בָּם [also בָּהֵ֫מָּה
+Exod 30:4; Exod 36:1; Hab 1:16],
+בָּהֶן
+1Sam 31:7; Isa 38:16; Ezek 42:14 [15
+times בָּהֵן (Fr^MM 235^), and thrice, Lev 5:22; Num 13:19; Jer 5:17,
+בָּהֵ֫נָּה]. Preposition denoting properly in, Greek ἐν, but applied
+in many derived and figurative significations. The senses expressed by בְּ are grouped by the
+Rabbis in three classes, בֵּית הַכְּלִי
+Beth vasculi, בֵּית הַדִּיבִּוּק וְהַנְּגִיעָה
+Beth coniunctionis et viciniae, בֵּית הָעֵזֶר
+Beth auxilii; and the same arrangement may be followed here, though the limits between the
+three classes are not clearly defined, and they sometimes overlap one another.
+
+I.
+In:
+
+1. strictly, of position in a place (which often is expressed more precisely
+by בְּקֶרֶב, בְּתוֺךְ), as בַּבַּיִת
+in the house, בָּעִיר
+in the city, בַּדּוּד
+in the pot, בָּאָרֶץ
+in the land, etc. constantly. Hebrew idiom also says בָּהָר
+in the mountain Exod 24:18 etc., even in cases where we could hardly avoid saying on
+, as
+1Kgs
+11:7;
+1Kgs 19:11: so בְּחֹרֵב
+Deut 1:16 and
+elsewhere; בְּראֹשׁ הָהָר
+Exod 24:17;
+Ps 72:16.
+Preceded by a verb of motion (especially עָבַר) בְּ = through
+, as Gen
+12:6
+and Abram passed through בָּאָרֶץ
+in the land = passed through it, Gen 13:17; 2Sam 24:2 +; in (=
+through)
+a gate, Isa
+62:10
+; Jer
+17:19
+; Mic 2:13
+.
+Figurative to speak בְּאָזְנֵי
+in the ears of …; to be good (or evil, etc.) בְּעֵינֵי
+
+in the eyes of …
+
+2. of presence in the midst of a multitude, among, Exod 14:28 there was not left
+
+בָּהֶם
+among them even one, Lev 26:36; 2Sam 15:31 Ahitophel בַּקֹּשְׁרִים is
+among
+the conspirators, 2Kgs 18:5
+בְּכֹל מַלְכֵי יְהוּדָה. So בְּךָ
+in thee (of Israel, collective) Deut 7:14; Deut 15:4; Deut 15:7; Deut 18:10; Deut 23:11; Deut 28:54 (different from
+עִמָּ֑ח
+beside thee Lev 25:35). — Specifically
+
+a. of an individual, implying
+eminency among: Josh
+14:15; Jer
+46:18 Tabor among the mountains, Jer 49:15; Prov 30:30; Song 1:8
+הַיָּפָה בַנָּשִׁים the fair one (= the fairest) among women, Lam 1:1:
+compare Luke
+1:42. On 1Sam 17:12 see
+Dr.
+
+b. hence with some verbs, when the action refers to
+only a part of the object, as הִכָּהַ בְּ to smite among… i.e. to
+smite some
+of… (different from הִכָּה with accusative); הָרַג בְּ
+Ps 78:31
+
+נָשָׂא בְּ to bear in, i.e. to share in bearing, Num 11:17
+and elsewhere; בָּנָה
+בְּ to build in or at
+Zech 6:15
+; Neh 4:4
+עָשָׂה בְּ
+Exod 5:9
+עָמֵל בְּ to labour on
+Jonah 4:10
+
+אָכַל בְּ, שָׁתָה בְּ to eat or drink of
+Judg 13:16
+;
+Prov 9:5
+חָלַק בְּ to give a share in
+Job 39:17
+.
+
+c. specifying the parts of which a whole consists (especially in
+P
+) Gen
+7:21;
+Gen 8:17;
+Gen 9:10;
+Gen 9:16;
+Gen 17:23
+; Exod
+12:19; Num 31:11; Num 31:26; Hos 4:3.
+
+3. with reference to the limits enclosing a space, within:
+Exod 20:10
+בִּשְׁעָרֶיךָ
+within thy gates, Isa 56:5
+בְּחוֺמוֺתַי
+within my walls.
+
+4. often pregnant with verbs of motion, when the movement to a place results
+in
+rest in it, into: after בָּא
+Gen 19:8; Isa 19:23
+נָתַן
+Gen 27:17
+שָׁלַח
+to send
+Lev 16:22
+in among
+Josh 23:7; Josh 23:12;
+1Kgs 11:2. —
+Hos 12:7 (an
+extreme case) שׁוּב בְּ to return (and rest) in thy God, 1Sam 16:3
+(unless
+לַזָּבַ֑ח should be read, as 1Sam 16:7). — עַיִן בְּעַיִן (with) eye (looking)
+into
+eye
+Num
+14:14; Isa
+52:8
+פָּנִים בְּפָנִים
+Deut 5:4
+בְּ
+׳
+עֵינֵי פְ the eyes of … are upon, both in favourable (Deut 11:12;
+Ps 101:6)
+and hostile (Amos 9:8
+; Job 7:8)
+sense.
+
+5. applied to time, as Gen 1:1
+בְּרֵאשִׁית
+in the beginning; Gen 2:2
+בַּיּוֺם הַשְּׁבִיעִי
+on the seventh day; Judg 10:8
+בַּשָּׁנָה הַהִיא
+in that year; & constantly.
+
+6. of a state or condition, whether material or mental, in which an action
+takes place: so often, בְּשָׁלוֺם
+in peace Gen 15:15
+בַּצָּרָה
+in distress Ps 91:15
+הָלַךְ בְּתֻמּוֺ to walk in his integrity; Exod 5:19
+בְּרָע
+in evil case.
+
+7.
+בְּ introduces the predicate, denoting it as that in
+
+which the subject consists, or in which it shews itself (the Beth essentiae
+, — common in Arabic, especially with a participle or adjective and in a negative sentence: Qor 2:79
+[placeholder484: Placeholders/484.gif] and God (appears) not as one remiss; 2:7
+[placeholder485: Placeholders/485.gif] and they are not believers [compare French en — en honnête homme]; see
+W^AG ii. § 56 a^): namely
+
+a. a primary
+predicate, Exod
+18:4
+the God of my fathers בְּעֶזְרִי was my help, Ps 146:5; Hos 13:9 (read
+כִּי מִי
+בְעֶזְֶרךָ׃
+with
+
+ᵐ5
+
+ᵑ6
+
+Che and others); Ps 68:5
+בְּיָהּ שְׁמוֺ his name consists in Yah, Job 23:13; Job 37:10. With the predicate
+in the plural
+(as
+plural of majesty) Ps 118:7
+בְּעֹזְרָ֑י
+׳
+י J. is my great helper, Ps 54:6 (see Che), Judg 11:35
+.
+
+b.
+a secondary predicate, Exod 6:3 and I appeared unto them בְּאֵל שַׁדָּ֑י
+as God Almighty, Num 26:53
+בְּנַחֲלָה
+as an inheritance, Num 34:2; Ezek 46:16; Ezek 47:14; Deut 10:22; Deut 26:14
+I have not put away
+therefrom בְּטָמֵא
+
+as one unclean = while unclean, Deut 28:62; Isa 40:10
+בְּחָזָק יָבוֺא he cometh as a strong one, Ps 35:2 (where see De) and rise up as my help, Ps 35:16, Ps 39:7;
+Ps 55:19
+;
+Prov 3:26
+;
+Job 36:32
+
+(De).
+
+c. a predicate as accusative, Isa 48:10 I
+have refined thee
+וְלֹא בְכָ֑סֶף but not as though silver, Ezek 20:41; Num 18:26
+; Num 36:2;
+Josh 13:6;
+Josh 13:7;
+Josh 23:4;
+Ezek 45:1
+;
+Ezek 47:22
+(twice in verse) (read
+יַפִּלוּ) Ezek 48:29 (see
+
+ᵐ5
+
+Co) all בְּנַחֲלָה (compare b.
+),
+Ps 78:55
+
+&
+allotted it בְּחֶבֶל נַחֲלָה
+as a line of inheritance (i.e. as a measured inheritance). Isa 26:4
+׳
+כִּי בְּיָהּ יהוה צוּר עוֺלָמִים י is different — for in Yah there
+is a
+rock
+of ages (compare Qor 4:7; 4:47 there is sufficiency in God as a patron).
+
+d.
+in comparisons, Ps 37:20 consume away בֶּעָשָׁן
+in the form of, as, smoke Ps 78:33; Ps 102:4; Job 34:36; Job 36:14
+.
+
+II.
+Denoting proximity —
+
+1.
+at, by (not very common): 1Sam 29:1
+בָּעַיִן
+by the spring; Ezek 10:15; Ezek 10:20
+בִּנְהַר כְּבָר
+by the river Chebar (Ezek 1:3
+עַל).
+
+2.
+on:
+Gen 8:20
+; Num 23:2
+
+בַּמִּזְבֵּחַ
+on the altar; Judg 8:21
+on the necks of the camels; 1Kgs 2:5 and elsewhere בְּמָתְנָיו
+on his loins; Isa 59:17 a helmet בְּראֹשׁוֺ
+on his head.
+
+3. often with verbs of touching, approaching, taking hold of, cleaving
+, etc.,
+as אָחַז, דָּבֵק, חָשַׁק, נָגַע,
+נָגַשׁ
+, קָרַב, פָּגַּע, תָּמַךְ, תָּפַשׂ
+(see
+these words).
+
+4. with words expressing or implying an act of hostility —
+
+a.
+against:
+Gen 16:12
+
+יָדוֺ בַכֹּל וְיַד כֹּל בּוֺ his hand against all, and the hand
+of all
+against him; בּ
+׳
+הָֽיְתָה יַד פְּ
+Deut
+13:10;
+1Sam 5:9;
+1Sam
+18:17 +
+often Hence after verbs (q. v.) of fighting (נִלְחַם,
+רִיב
+), going up to invade (עָלָה), being angry
+(הִתְעַבֵּר, אָנַף, חָרָה אַף),
+
+sinning or acting treacherously (חָטָא,
+בָּגַד
+, מָרַד, מָרָה, מָעַל, פָּשַׁע
+,
+שִׁקֵּר, כִּזֵּב, כִּחֵשׁ), testifying
+
+(עָנָה, הֵעִיד), mocking (הִלְעִיג
+,
+הֵתֵל), feeling loathing (קוּץ),
+rebuking
+(גָּעַר: properly to protest loudly), speaking (
+
+דִּבֶּר:
+Num 12:8b), etc., & even (an extreme case) Hos 7:14
+יָסוּרוּ בִי they turn aside (so as to be) against me. In a
+weaker sense
+מַשְׁתִּין בַּקִּיר mingens ad parietem 1Sam 25:22 and
+elsewhere
+
+b.
+down to, upon (super with accusative), especially in such
+phrases as
+דָּמָיו בּוֺ
+Lev 20:9
+and
+elsewhere his blood be upon him; דָּמוֺ בְראֹשׁוֺ his blood
+be
+upon his head Josh 2:19
+) בְּראֹשׁוֺ
+׳
+שׁוּב (הֵשִׁיב י
+
+Judg 8:57
+(
+רָעָה), 1Kgs 2:33 (דָּם), 1Kgs 2:44 (רָעָה
+),
+Ps 7:17 (
+עֲמָלוֺ); ׳
+בְּראֹשׁוֺ נָתַן דֶּרֶךְ פּ
+1Kgs
+8:32
+& often in Ezekiel, as Ezek 9:10; Ezek 11:21.
+
+III.
+
+1.
+With —
+
+a. of accompaniment: Num 20:20
+בְּעַם כָּבֵד
+with much people, Josh 22:8; Judg 11:34; 1Kgs 10:2; 2Kgs 5:9; Jer 41:15; Exod 21:22
+and he shall give בִּפְלִלִים
+with arbitrators (arbitrators being employed), Isa 8:16
+בְּלִמֻּדָֽי׃
+with my disciples, i.e. having them present; Exod 8:1; Exod 8:13; Jer 11:19
+עֵץ בְּלַחְמוֺ a tree with its sap; 1Kgs 19:19
+וְהוּא בִּשְׁנֵים הֶעָשָׂר and he with the 12th.
+
+b.
+
+often of what one takes or brings with one: Gen 32:11
+בְּמַקְלִי
+with my staff I passed over Jordan, Judg 11:34; Judg 15:1; 1Sam 1:24; Isa 7:24;
+Mic 6:6 and
+elsewhere קִדֵּם בְּ to go to meet
+with; בָּא בְּ to come with
+Lev 16:3;
+Ps 66:13
+; Ps
+71:16. (In
+Arabic this usage is developed more fully than in Hebrew, and
+[placeholder486: Placeholders/486.gif] literally to come with,
+[placeholder487: Placeholders/487.gif] literally to go away with, are used idiomatically in the sense of
+to bring, and to take away respectively: W^AG ii. § 56 b^.) Hence בְּאֵין,
+בְּאֶפֶס
+, בִּבְלִי, בְּלֹא = without.
+
+c. of concomitant (or surrounding) conditions, as בְּחִפָּזוֺן
+with (or in) haste; בְּצֶדֶק
+with (or in) righteousness; בִּשְׁגָגָה
+in error; בִּתְרוּעָה וּבְקוֺל שׁוֺפָר
+2Sam 6:15
+often
+in such phrases as בְּצִדְקָֽתְךָ
+Ps 31:2
+in thy righteousness; בְּחַסְדְּךָ
+in thy mercy Exod 15:13 — בְּאָשְׁרִי
+with my happiness! = happy am I Gen 30:13; Ps 29:4 the voice of ׳
+י is בַּכֹּחַ
+with power = is powerful; Exod 32:12
+בְּרָעָה
+with evil purpose; Ps 73:8
+בְרָע
+in wickedness; Ps 90:10
+בִּגְבוּרֹת
+with strength.
+
+2. of the instrument or means: as
+
+a.
+בַּחֶרֶב
+with the sword Exod 5:3 etc.; בְּרַגְלַיִם
+with the feet Isa 28:3 . . . בְּיַד
+by the hand of … (see below יָד); to stone בְּאֶבֶן
+or
+בָּֽאֲבָנִים
+with stones Lev 20:2; Num 14:10 etc.; שָׁתָה בְּ to drink
+with a
+cup Gen 44:5
+; Amos 6:6
+(compare in
+Aramaic Dan 5:2
+); to
+cry בְּגָרוֺן
+with the throat Isa 58:1 to burn בָּאֵשׁ
+in or with fire (often); to slay or to perish בָּרָעָב
+
+through hunger or בַּדֶּבֶר
+through pestilence Exod 16:3; Jer 21:9 + often (compare Job 27:15
+בַּמָּוֶת יִקָּבֵ֑רוּ); to save with or by
+Judg 7:7; 1Sam 14:6.
+
+b. idiomatic, with certain verbs, as שָׁחַק בְּ to play
+with
+
+Job 40:29
+
+עָבַד בְּ to labour with a person (as with an instrument), i.e. to
+use him
+as a slave Exod
+1:14
+; Jer
+22:13
+; Jer 27:7
+
+and elsewhere; עָשָׂה בְּ
+Jer 18:23
+;
+Neh 9:24;
+Dan 11:7;
+Esth 1:15
+; Esth 2:11
+; Esth
+3:11;
+Esth 6:6 & perhaps
+דִּבֶּר בְּ (of God) to speak with one Num 12:2; Num 12:8a and elsewhere (see
+Ew^§ 217 f.^ (3); Dr^Sm
+ii. 23,
+2^). Further בַּבַּעַל, הִתְנַבֵּא ביהוה to prophesy
+with or by
+׳
+י or Baal, ׳
+י or Baal being the inspirer; שָׁאַל בְּ, דָּרַשׁ to
+inquire or
+ask by means of a god (or oracle).
+
+c.
+ביהוה
+through
+׳
+י (= by His aid) in many connections, as Ps 18:30; Ps 44:6; Ps 56:5; Ps 56:11; Ps 60:14
+; Isa 26:13
+; Isa
+45:25; Hos
+1:7;
+Zech 10:12 with passive verbs Deut 33:29; Isa 45:17 (to be saved): and
+even of
+the immediate cause
+Num
+36:2 to be commanded ביהוה by ׳
+י,
+Gen 9:6
+
+בָּאָדָם
+by man shall his blood be shed (both unusual), Hos 14:4.
+
+d. allied is
+the use
+of בְּ in such phrases as to bless, swear, speak, prophesy, etc., בְּשֵׁם
+in the name of … (i.e. the name being used or appealed to in the act) Deut 6:13;
+Jer 11:21
+, etc. (so to swear
+ביהוה by ׳
+י
+Josh 2:12
+etc.,
+בִּימִינוֺ
+Isa 62:8
+to bless
+בְּךָ
+with thee
+Gen 48:20
+, to
+swear with me
+Ps 102:9
+, i.e.
+using my name in oath, Jer 29:22); almost = in the authority and power of 1Sam 17:45; 1Sam 25:5;
+1Kgs 21:8
+; Mic 4:5;
+Zech 10:12
+; Ps 20:6
+; Ps 44:6
+; Ps
+89:25.
+
+e.
+בַּמָּה or בַּמֶּה
+by means of what? how?
+Gen 15:8;
+Judg 6:15;
+Judg 16:5;
+Judg 16:6;
+Judg 16:10
+;
+1Kgs 22:21;
+Mal 2:17.
+
+בְּזֹאת
+by means of this
+Gen 42:15
+; Gen
+42:33.
+Exod 7:17; Num 16:28
+with this = on this condition
+Gen 34:15
+; Gen
+34:22;
+1Sam 11:2; Isa 27:9.
+
+3. of cost or price (the Beth pretii), the price, whether given or
+received,
+being treated as the instrumental means by which the act is accomplished, with, for, at the cost
+of:
+thus regularly
+
+a. with שָׂכַר
+hire
+Gen 30:16
+,
+פָּדָה
+redeem
+Exod 34:20
+,
+אֵרֵשׂ
+betroth
+2Sam 3:14
+,
+קָנָה
+buy
+2Sam 24:24
+;
+1Kgs 2:23
+בְּנַפְשׁוֺ
+at the cost of his life hath A. spoken this word, 2Sam 23:17 who went
+בְּנַפְשׂוֺתָם
+
+at peril of their lives, Prov 7:23; Lam 5:9; Josh 6:26
+בִּבְכֹרוֺ יְיַסְּדֶנָּה
+at the price of his firstborn shall he lay its foundations, 1Chr 12:19
+בְּרָאשֵׁינוּ
+to the jeopardy of our heads he will fall away, etc.
+
+b. with
+
+מָכַר
+sell
+Deut 21:14
+
+עָבַד
+serve
+Gen 29:18
+; Gen
+29:20; Hos 12:13
+הֵמִיר
+exchange
+Lev 27:10
+; Hos 4:7
+their glory I
+will exchange for ignominy, Ps 106:20
+נָתַן בְּנֶשֶׁךְ to give for interest Lev 25:37; Ps 15:5 in other
+connections Gen
+23:9;
+Gen 47:16f.; Isa 45:13; Lam 1:11; Song 8:7; Song 8:11; Deut 19:21
+נֶפֶשׁ בְּנֶפֶשׁ עַיִן בְּעַיִן life for life, eye for
+eye;
+Isa
+2:22
+בַּמֶּה נֶחְשָׁב הוּא
+at what is he to be accounted? Isa 7:23 a thousand vines בְּאֶלֶף כָּ֑סֶף
+
+at a thousand (shekels of) silver. — Hence (perhaps) the idiomatic usages
+שָׁנָה
+בְשָׁנָה year for year, one year like another, annually Deut 15:20
+and elsewhere;
+יוֺם בְּיוֺם (late), כְּיוֺם בְּיוֺם
+1Sam 18:10
+
+כְּפַעַם בְּפַעַם (see
+יוֺם
+, פַּעַם); חֹדֶשׁ בְּחֹדֶשׁ
+1Chr 27:1
+.
+
+4. rather peculiarly, in certain cases where the object of an action may be treated as the
+instrument by which it is accomplished: as הֵנַיעַ בְּראֹשׁ to shake
+with the head Jer 18:6; Job 16:4 (as well as הֵנִיעַ ראֹשׁ
+Ps 22:8);
+to open
+with the mouth Job 16:10, with the lips Ps 22:8 to
+gnash with
+the teeth
+Job 16:9 (to gnash the teeth Ps 35:16); to wink with the eye Prov 6:13
+(to wink the eye,
+ib.
+Prov 10:10
+);
+נָתַן בְּקוֺל to utter with the voice Ps 46:7; Ps 68:34; Jer 12:8
+(but נָתַן קוֺל is more
+common); to stretch out with the hand Lam 1:17
+הֵרִים בַּמַּטֶּה (unusual) Exod 7:20. So קָרָא בְּשֵׁם to call
+with the
+name — in different senses, according to the context, namely, to proclaim
+Exod 33:19
+;
+Exod 34:5;
+Isa 44:5;
+Ps 49:12
+to
+invoke
+Gen 4:26;
+Gen 12:8;
+1Kgs
+18:24-26
+; Isa 12:4
+
+to name honourably
+Isa 43:1;
+Isa 45:3.
+compare
+Ew^§ 282 d^
+Ges^«GKC:119»§ 119^. 3 b R.
+W^AG
+ii. § 56 b^
+β
+De^
+Job
+31:12
+
+^; Prov 20:30.
+
+5. with a causal force, through, on account of:
+Gen 18:28
+
+הֲתַשְׁחִית בַּחֲמִשָּׁה wilt thou destroy on account of five the
+whole
+city? Lev
+26:39;
+Num 16:26
+; Deut 9:4
+; Deut 9:5
+; Deut
+24:16
+אִישׁ בְּחֶטְאוֺ יוּמָֽתוּ׃ they shall be put to death, each because of
+his
+own sin (compare Jer
+31:30;
+Ezek
+3:18, see Ezek 18:17) 2Sam 3:27; 2Sam 14:7 (compare Jonah 1:14) Isa 7:4 (|| מִן
+) Isa
+28:7 (|| מִן) Isa 50:1; Isa 53:5; Isa 57:17; Jer 51:46; Ps 5:8; Ps 5:11; Ps 6:8 (|| מִן
+) Ps
+31:10
+; Ps 32:3
+;
+Ps 42:10
+; Ps 90:9
+; Ps
+94:23. So in
+בַּאֲשֶׁר, בִּגְלַל (see
+אֲשֶׁר
+, גָּלָל), & (sometimes) in בִּדְבַר
+at, through, the word of ….
+
+6. of the material with which a work is wrought, both absolute
+עָשָׁה
+בַזָּהָב to work with gold Exod 31:4; 1Kgs 7:14 and to make a thing
+with (in
+our idiom, of) gold Exod 38:8; Ezek 7:20; 1Kgs 15:22 (בָּנָה).
+Without a verb Lev
+13:52;
+2Chr 9:18.
+
+7.
+with for although, in spite of (compare German bei
+
+alle dem): Lev
+26:27;
+Num 14:11
+בְּכֹל הָאֹתוֺת
+in spite of all the signs that I have wrought, Deut 1:32; Isa 47:9; Ps 27:3
+especially in the phrase
+בְּכָלזֿאת
+for all this Isa 5:25; Isa 9:11; Isa 9:16; Isa 9:20; Isa 10:4; Ps 78:32 and
+elsewhere (compare in Arabic
+[placeholder488: Placeholders/488.gif] Qor 9:25.)
+
+8. of a standard of measurement or computation, with, by:
+Exod 12:4
+בְּמִכְסַת נְפָשֹׁת
+by the computation of souls; Lev 5:25 and elsewhere בְּעֶרְכְּךָ
+by thy reckoning; Ezek 4:10
+בְּמִסְפָּר
+by number Deut 25:2 +; . . . בְּמִסְפַּר
+by the number of … Lev 25:15; Lev 25:50; Num 1:2, etc.; בְּשֶׁקֶל הַקֹּדֶשׁ
+
+Exod 30:13
+and
+elsewhere (in
+P
+); בָּאַמָּה often (see
+אַמָּה
+); Deut
+3:11
+
+בְּאַמַּת אִישׁ
+by the cubit of a man; 2Sam 14:26
+בְּאֶבֶן הַמֶּלֶךְ. Of a model, Gen 1:26
+בְּצַלְמֵנוּ
+in our image, Gen 5:1; Gen 5:3; Exod 25:40
+בְּדֶרֶךְ
+with the way (= in the manner) of … Isa 10:24; Isa 10:26; Amos 4:10.
+
+IV.
+בְּ is used also with certain classes of verbs, though the explanation of its use may
+be
+sometimes doubtful: namely
+
+a. with verbs of taking refuge, trusting,
+relying
+, as הֶאֱמִין, בָּטַח, חָסָה,
+נִשְׁעַן
+.
+
+b. with verbs of ruling, governing, restraining,
+as
+מָלַךְ, מָשַׁל, נָגַשׂ, עָצַר,
+רָדָה
+, שָׁלַט.
+
+c. with verbs of rejoicing, feeling
+pleasure
+or satisfaction, etc., as גִּיל, עָלַץ
+,
+שׂוּשׂ, שָׂמֵחַ, חָפֵץ, רָצָה,
+
+שָׂבַע (but with this verb מִן is more common). [Probably a case of
+
+III. 5.]
+
+d. with verbs expressive of sensible perception, to
+denote the
+pleasurable or attentive exercise of the faculty concerned, as שָׁמַע בְּ to listen
+to
+, הִבִּיט בְּ, רָאָה, חָזָה, to look
+upon
+, הֵרִיחַ בְּ to smell at (see these words).
+
+e.
+occasionally also with verbs of speaking, thinking, mentioning, knowing,
+to
+denote the object of the action, as דִּבֶּר בְּ to speak about
+Deut 6:7; Ps 87:3 and
+elsewhere (see below דִּבֶּר); הִלֵּל בְּ, הָגָה,
+שִׂיחַ
+
+Ps 44:9;
+Ps 63:7;
+Ps 69:13
+
+יָדַע
+Jer 38:24
+
+זָכַר once Jer 3:16, הִזְכִּיר often; Ps 71:6
+בְּךָ תְהִלָּתִי
+of thee is my praise.
+
+V. Followed by an infinitive with, בְּ forms a periphrasis for the gerund,
+though
+in
+English it is commonly to be rendered by a verb and conjunction, namely: —
+
+1. as a temporal conjunction, as Gen 2:4
+בְּהִבָּֽרְאָם
+in their being created = when they
+
+were created,
+Gen 4:8
+בִּהְיוֺתָם
+in their being (= when they
+were
+) in the field; and constantly. Sometimes it has in appearance the force of after
+that
+, as
+Gen
+33:18;
+Exod
+3:12;
+Exod
+13:17 but as a rule this is really due to the action denoted by the infinitive being treated
+as extending
+over a period within which the action of the principal verb takes place: so
+especially in the
+phrase בְּצֵאת יִשְׂרָאֵל
+מִמִּצְרַיִם, even of events at the close of the 40 years, Deut 4:45; Deut 23:5
+; Josh 5:4
+, the whole period being treated as that in
+which Egypt was left (compare 2Kgs 2:1, where the time included is future). Cases, however, occur in
+which this
+explanation will hardly apply, as Deut 27:4; Deut 24:12.
+
+2. as a causal conjunction (compare above III.5), as Gen 19:16
+
+׳
+בְּחֶמְלַת י
+עָלָיו
+through J.'s having compassion upon him, Exod 16:7; Exod 33:16; Exod 34:29
+; Deut
+1:27
+אֹתָנוּ
+׳
+בְּשִׂנְאַת י
+through J.'s hating us, etc. (Deut 9:28 similarly מִן), 1Kgs
+18:18 (= in that
+ye have …)
+Ezek 9:8;
+Ezek 43:8;
+Ezek 44:7;
+2Chr 28:6.
+
+3. as a concessive conjunction, when =
+
+though:
+Isa 1:15
+; Ps
+46:3
+בְּהָמִיר אָ֑רֶץ
+though the earth do change.
+
+Note. —
+Exod 10:12
+בָּאַרְבֶּה can only be rendered 'with the locusts,' the locusts
+being
+conceived as implicit in Moses' uplifted hand: but probably לָאַרְבֶּה should be read.
+Thrice in
+late Hebrew בְּ is used peculiarly: 1Chr 7:23 for with misfortune
+was it in his house
+(בְּרָעָה chosen for the purpose of explaining בְּרִיעָה); 1Chr 9:33
+
+עֲלֵיהֶם בַּמְּלָאכָה it devolved upon them with the work; Ezra 3:3
+for
+with terror (was it) upon them from the peoples of the countries (the sentence
+without a verb
+as often in Chronicles: Dr^Intr. 504 f.^): compare Ezra 8:34
+. compare
+Ew^§ 295 f^.
+
+---

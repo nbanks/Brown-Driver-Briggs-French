@@ -1,0 +1,647 @@
+=== BDB8819 H8085 ===
+hébreu biblique
+
+שָׁמַע_1159_
+verbe
+entendre (hébreu tardif id. ; phénicien שמע
+Lzb^378^ ; assyrien
+šemû
+; arabe
+[placeholder5616: Placeholders/5616.gif] ; sabéen סמע surtout dans les dérivés, spécialement épithète de la divinité סמע
+
+celui qui entend
+Hom^Chr 124^ Fell^ZMG liv (1900), 250, 252^
+DHM^Hofmus. No. 10, 1. 1^ ; éthiopien
+[placeholder5617: Placeholders/5617.gif] araméen שְׁמַע,
+[placeholder5618: Placeholders/5618.gif], ancien araméen שמע
+Lzb^378^ ; comparer aussi משמעת
+
+MI^28^
+
+obéissance) ; —
+
+Qal_1052_
+Parfait 3 masculin singulier ׳
+שׁ
+Gn 24,52 +,
+שָׁמֵ֑עַ
+Jr 36,13 + 3
+t. ; 2 féminin singulier שָׁמַ֫עַתְּ
+1 R 1,11 + 2 t. ;
+3 pluriel שָׁמֵ֑עוּ
+Jg 2,17 +, etc. ;
+Imparfait 3 masculin singulier יִשְׁמַע
+Ex 6,30 +, 1
+singulier cohortatif אֶשְׁמְעָה
+Nb 9,8,
+וָאֶשְׁמְָעָה (sur ְָ֯ comparer Ges
+^«GKC:10h»§ 10h^ ; Ol^§ 65 c question^ lecture) Dn 8,13 2
+masculin pluriel תִּשְׁמְע֔וּן
+Dt 8,20 +,
+תִּשְׁמָע֔וּן
+Dt 1,17, etc. ;
+Impératif masculin singulier שְׁמַע
+Am 7,16 +,
+שִׁמְעָךְ
+Jb 32,10 +
+(surtout Psaumes), שְׁמָ֨עָךְ֨
+Dn 9,19 féminin
+pluriel שְׁמַעְנָה
+Es 32,9 ; Jr 9,19,
+שְׁמַ֫עַן
+Gn 4,23 (Ges^«GKC:46f»§ 46f^), etc. ; Infinitif absolu
+שָׁמוֺעַ
+Es 6,9 + ; construit
+שְׁמֹעַ
+1 S 15,22 + ;
+suffixe שָׁמְעו
+Dt 29,18 +,
+שָׁמְעָתוֺ
+Es 30,19 (
+Gn 18,10 +
+etc. ; —
+
+1. sujet personne humaine (ou chose personnifiée) :
+
+a.
+entendre (percevoir par l'oreille), accusatif de chose, surtout קוֺל
+Gn 3,10 (
+
+J
+) + 46 t., דבר(יםׅ
+Am 8,11
++ 50 t., etc. ; accusatif חָכְמָה c.-à-d. paroles de sagesse 1 R 5,14 + 4 t. ; ainsi toute parole ou son
+(environ 150 t. en tout) + (objet omis) Dt 4,33 + 32 t. + (clause temporelle) 1 S 14,27 + 6 t. ; très rarement
+avec ב, ׳
+בְּסוֺד י
+׳
+שׁ
+Jb 15,8
+avec clause objet, ׳
+כִּ
+Ex 4,31 +
+52 t. + Es 39,1
+b (lire ׳
+כִּי שׁ
+
+ᵐ5
+
+ᵑ7
+
+|| 2 R 20,12), אֶתאֲֿשֶׁר
+Jos 2,10 ;
+Jos 5,1 (les deux
+
+R^
+D
+^
+), מַהֹֿ֯
+Jg 7,11
++3 t. ; sans connexion אֹתָהּ
+׳
+שׁ
+עָשִׂיתִי
+2 R 19,25
+= Es
+37,26 singulier oratio recta [discours direct] Es 40,28 ; Za 8,23.
+
+b.
+accusatif de personne + מְדַבֵּר
+entendre quelqu'un parlant
+Gn 27,6 (
+
+J
+), Jr
+26,7 ;
+Dn 8,13, ainsi בֹּכֶה
+Nb 11,10
+(
+J
+), נִבָּא
+Jr 20,1
+מְקַלְלֶ֑ךָ
+Qo 7,21
+parfois personne omise, דֹּבְרִים
+Gn 37,17
+(
+J
+
+E
+), אֶתמִֿדַּבֵּר
+Ez 2,2 ;
+Ez 43,6
+(voir
+דבר
+
+Hithpa`el) ; accusatif de personne seul Dn 12,7.
+
+c. avec
+לֵאמֹר seulement, entendre dire = entendre qu'on dit, 1 S 13,4 ; 2 S 19,3
+;
+Dt 13,13 ; Jos 22,11 (
+P
+), 1 R 16,16 + עַל personne concernant
+
+Gn 41,15
+(
+E
+),
+Es 37,9
+אֶל personne id.
+2 R 19,9
+.
+
+d.
+entendre parler de, concernant : (1) accusatif de chose, אֵת(כָּלֿ)אֲשֶׁר
+Ex 18,1
+;
+2 R 19,11 + 5 t., דבר(יםׅ
+1 S 3,11
++ 4 t., רָעָה
+Jr 19,3
++ 5 t., etc. ; כַּאֲשֶׁר
+1 S
+23,11 ;
+Ps 48,9, כָּואֹת
+Es 66,8
+
+entendre parler de quelque chose de semblable, כָּאֵלֶּךְ
+Jr
+18,13 accusatif, etc., omis Jg 9,46 + 43 t. ; (2) plus rarement accusatif de personne
+Jb 42,5
+, אֶל personne Ez 19,4, personne omise Dt 9,2 avec ב
+personne entendre avec joie de leur sort Ps 92,12 (probablement
+imité de || הִכִּיט בְּ v^a^ ; voir surtout ראךְ
+8.a. (6)).
+
+e.
+entendre, absolu, = avoir le pouvoir d'entendre, 2 S 19,36
+(avec בְּקוֺל), Es 21,3 ; Es 32,3 ;
+
+Pr 20,12 ; Za 7,11 en comparaison Ps 38,15
+avec la négation des idoles Dt 4,28
+; Ps
+115,6 figuré (pouvoir spirituel) Jr 5,21 ; Dt
+29,8 ; Ez 12,2 ; Es 42,20. — Pr 21,28 est
+probablement corrompu, voir Toy.
+
+f.
+entendre avec attention, intérêt, écouter (parfois ||
+חֶאֱןין), חִקְשִׁיב accusatif דבר(יםׅ
+(54 t.)
+Am 4,1 +, surtout ׳
+דבר(י) י
+Nb
+12,6 (
+J
+
+E
+) + 45 t. ; אִמְרָה
+
+Es 28,23, קוֺל Es 28,23
+, זאֹת
+
+Mi 3,9, etc. ; souvent absolu Jg 5,3 + 57 t., + (négatif) Ps 38,14
+ne prêter aucune attention ; absolu לֵב שֹׁמֵעַ
+1 R
+3,9, אִישׁ שֹׁטֵעַ
+
+Pr 21,28.
+
+g.
+comprendre (une langue), שָׂפָחךְ
+
+Gn 11,7 (
+J
+),
+Es 33,19, לָשׁוֺן
+
+Dt 28,49, דְּבָרִין
+
+Ez 3,6, מַהיְּֿדַבֵּר
+
+Jr 5,15, sans accusatif Gn 42,23
+(
+E
+), 2 R 18,26 = Es 36,11
+.
+
+h. spécifiquement entendre une
+affaire (judiciaire), דָּבָר
+
+Dt 1,17, comparer Dt 1,17
+accusatif omis בֵּין personne Dt 1,16,
+de ׳
+י
+
+Jg 11,10 avec מִשְׁפָּט
+
+1 R 3,11
+הִטּוֺב וְהָרֵע
+׳
+לשׁ
+2 S 14,17
+, וְשֹׁמֵע אֵין לְךָ
+
+2 S 15,3, comparer Jb 31,35
+.
+
+i. avec accusatif de personne dans une adresse polie,
+écoutez-nous (moi) ! Gn 23,6
+; Gn 23,8
+; Gn
+23,11 ; Gn 23,13 ; Gn
+23,15 (tous
+
+P
+),
+1 Ch 28,2 ; 2 Ch 13,4 ;
+2 Ch 15,2 ; 2 Ch 20,20
+
+j.
+écouter, prêter attention (parfois || הִקְשִׁיב),
+absolu, Gn
+42,21 (
+E
+) + 18 t., + (habituellement || הִטָּה אֹ׃ון), Jr 7,13
++ 14 t. Jérémie, + (opposé à
+חָדַל) Ez 2,5 + 3 t. Ézéchiel ; +
+שִׂים עַללֵֿב
+
+Ml 2,2
+entendre + faire
+
+Dt 5,24 ; 2 R
+18,12, etc. ; = consentir, accepter, Gn 37,27
+(
+J
+), accorder une requête
+Jg 11,17
+avec ל personne
+(surtout tardif) Jg 19,25 ;
+1 S 30,24 ; Jb 15,17 + 16 t.,
+׳
+לי
+
+Os 9,17 ; Lv 26,14
+; Lv
+26,18 ; Lv 26,21
+; Lv
+26,27
+׳
+לְדִבְרֵי י
+
+1 S 15,1, לְעֵצָה
+Pr 12,15
+.
+
+k. avec
+אֶל personne + écouter, céder à
+
+Gn 49,2 ; Jg 2,17 + 69 t.
+(׳
+אֶליֿ 15 t., surtout Jr 7,26 + 10 t.
+Jérémie), עַל personne 2 R 20,13
+אֶלדִּֿבְרֵי etc., Dt 18,19 ;
+Jr 29,10
++ 14 t., עַלדִּֿבְרֵי
+etc., 2 R 22,13 + 3 t. ; très rarement
+accusatif de chose 1 S 24,10 (Gi
+v.1 S
+24,9).
+
+l.
+לְקוֺל
+׳
+שׁ = id., obéir, Gn 3,17 (
+J
+) + 11 t. + (׳
+לְקוֺל י) Jg 2,20 ; Ex 15,26 (
+J
+
+E
+).
+
+m. très souvent, בְּקוֺל
+׳
+שׁ = obéir
+1 S 8,7 +
+25 t., + ׳
+שׁ
+׳
+בְּקוֺל י (parole de ׳
+י, etc.) Dt 4,30 ; Jr 3,13 + 65 t. (Dt 18 t., Jr 18 t.).
+
+n.
+obéir, avec accusatif דבר(יםׅ
+Jos 1,18
++ 2 t. + (׳
+י
+׳
+ד) Jr 11,3 + 5 t. Jérémie ; 1 R 12,24 = 2 Ch 11,4, etc. ;
+accusatif de personne Ex 6,12 (
+P
+), 2 Ch 28,11.
+
+o. absolu être obéissant
+(surtout à ׳
+י) Es 1,19 ; Mi 5,14 ; Jr 12,17 + 4 t. Jérémie + 7 t.
+
+2.
+׳
+י (Dieu) sujet :
+
+a. accusatif קוֺל,
+דברים, etc., Gn 21,17 (
+E
+),
+2 R 19,4 (deux fois dans le verset) ; 2 R 19,16, habituellement avec faveur
+impliquée
+Nb 20,16 ;
+Dt 33,7 +, ainsi surtout accusatif תְּפִלָּה,
+תְּחנָּה, etc., 1 R 8,45 ; Ps 6,10 +.
+
+b. clause objet כִּי
+
+Gn 29,33
+(
+J
+).
+
+c. sans objet (32 t.) Es 59,2 ; Jr 22,21, habituellement entendre et
+pardonner, aider, etc 1 R 8,30 ; 1 R 8,32 ; Es 30,19 + ; entendre être irrité
+
+Ps 78,59
+, comparer
+Ps 55,20.
+
+d. = pouvoir entendre
+
+Es 59,1
+; Ps
+94,9.
+
+e.
+בְּקוֺל
+׳
+שׁ = entendre (et accorder) Gn 30,6 (
+J
+) + 6 t.
+
+f.
+entendre et répondre, avec אֶל de ville, etc., Gn 21,7 ; Gn 16,11
+;
+1 R 8,28 + 8 t. ; avec אֶל personne
+
+Dt 3,36
++ 12 t.
+
+g. avec לְ de parole Jr 18,19 ; Ps 61,6
+ל personne Jos 24,10 (
+E
+).
+
+h.
+entendre, accusatif de personne + מִתְנוֺדֵד
+Jr
+31,18 favorablement, avec accusatif de personne Mi 7,7 + 3 t., ainsi, + ל
+
+concernant, Gn 17,20 (
+P
+) ; objet omis 2 R 22,19 ; Ps 22,23 + 3 t. + Ps 34,7 ; Ps
+34,18 (entendre et délivrer) ; avec clause temporelle Jr 11,14
+
+Niphal_42_
+Parfait 3 masculin singulier נִשְׁמַע
+
+Gn 45,16 +, etc ; Imparfait 3 masculin singulier יִשָּׁמַע
+
+Ex 23,13 +, יִשָּׁמֵ֑עַ
+1 S
+1,13, etc. ; Infinitif construit
+הִשָּׁמַל
+Est
+2,8
+Participe féminin נִשְׁמַ֫עַת
+
+Jr 51,46, etc. ; —
+
+1.
+être entendu, de la voix, du son, etc., 1 S 1,13 ;
+1 R 6,7 ; Jb 26,14 (ou 1 pluriel
+Qal
+Imparfait
+?) ; d'un rapport, ֗֗֗ לֵאמֹר
+׳
+נִשׁ
+Gn 45,16
+(
+E
+) ; clause sujet, ׳
+כִּ,
+Ne 6,1 (ל personne),
+comparer clause וְהַיְהוּדִים חשְׁבִים
+
+Ne 6,6 Ne
+6,7
+être rapporté, כַּדְּבָרִיס הָאֵלֶּה (לַמֶּלֶחׅ
+) ; être entendu, לִפְנֵי
+אֱםהֶיךָ
+Dn
+10,12.
+
+2.
+être connu, כָּמֹהוּ
+Dt 4,32
+.
+
+3.
+être pris en considération, obéi, Qo 9,17 dans
+
+2 S 22,45 = Ps 18,45
+c'est être obéissant
+(לִיׅ, si vera lectio (lire peut-être
+Qal. comparer Now).
+
+4.
+בְּקוֺלָם
+׳
+וַיִישּׁ
+2 Ch 30,27
+= une audience (favorable)
+fut accordée à leur voix
+
+Pi`el
+Imparfait 3 masculin singulier וַיְשַׁמַּע
+
+1 S 15,4
+il fit entendre et répondre le peuple (accusatif), c.-à-d. il les rassembla), ainsi 1 S 23,8 (voir
+Hiphil
+1.c.).
+
+Hiphil_63_
+Parfait 3 masculin singulier הִשְׁמִיעַ
+
+1 R
+15,22 +, etc. ;
+Imparfait 3 masculin singulier suffixe
+יַשְׁמִעֵנִי
+Dt
+30,12 ;
+Dt 30,13 2 masculin
+singulier jussif תַּשְׁמַע
+Jg
+18,23, etc. ;
+Impératif masculin singulier suffixe
+הִשְׁמִיעֵנִי
+Ps 143,8
+féminin
+singulier suffixe הַשְׁמִיעִנִי
+Ct 2,14
+;
+Ct 8,13, etc. ; Infinitif
+construit
+לַשְׁמִעַ
+Ps 26,7
+(
+Ges^«GKC:53q»§ 53q^) ;
+Participe
+מַשְׁמִיעַ
+Jr 4,15
++, etc. ; —
+
+1. de l'homme :
+
+a.
+faire entendre accusatif de personne + de chose
+
+Dt 30,12
+;
+Dt 30,13
+;
+Ct 2,14
+;
+Ct 8,13
++ 4 t. ; objet de chose omis (= faire
+une proclamation à) 1 R 15,22
+objet de personne
+omis Jr
+5,20
++ ; accusatif שָׁלוֺם
+Es
+52,7 ;
+Na 2,1 c.-à-d.
+proclamer la paix ; אָוֶֺן
+
+Jr
+4,15 (
+מִן local) ; קוֺל
+׳
+הַשׁ
+faire retentir un son
+Jos
+6,10 (
+J
+; || הֵרִיעַ), comparer Jg
+18,25 (
+קוֺלְךָ, + עִמָּנוּ), Es
+42,2 ;
+Es 58,4
+קוֺל תְּהִלָּתוֺ
+׳
+הִשׁ
+Ps
+66,8
+בְּקוֺל תּוֺדָה
+Ps
+26,7.
+
+b. absolu comme terme musical,
+faire retentir, בִּמְצִלְתַּיִם
+לְהִשְׁמִיעַ
+1 Ch
+15,19
+(peut-être pour marquer le temps,
+Gr^
+Ps
+67
+^
+De^^
+comparer
+1 Ch 16,5
+aussi
+Ps 150,5
+בְּצִלְצְלֵי שָׁ֑מַע), מַשְׁמִיעִים
+
+1 Ch
+15,16
+;
+1 Ch 15,28
+;
+1 Ch 16,42
+, קוֺל אֶחָד
+׳
+לְהַשׁ
+
+2 Ch 5,13 c.-à-d.
+probablement à l'unisson (Prince^EB iii, 3241^), Ne
+12,42.
+
+c. absolu faire
+une proclamation (souvent || הִגִּיד
+),
+Am 3,9 ;
+Am
+4,5 ; Es
+41,26 ; Jr
+4,5 + 6 t.
+Jérémie
+
+d.
+הַשְׁמִיעוּ, accusatif de personne +
+אֶל lieu = convoquer
+
+Jr 50,29
+, עַל lieu Jr 51,27
+(comparer
+Pi`el).
+
+2.
+׳
+י sujet :
+
+a.
+faire entendre, accusatif de personne
+et chose Dt
+4,10
+;
+Dt
+4,36 (מִן local), 2 R
+7,6
++ 4 t. ; accusatif de personne omis
+Es
+30,30 + 3 t. ; accusatif de chose omis
+Es
+44,8 ;
+Es
+48,5.
+
+b. = annoncer
+, accusatif de personne + כָּזאֹת
+
+Jg
+13,23 accusatif de personne seul, Es
+42,9 accusatif de chose seul, Es
+48,3 ;
+Ez 36,15 (
+אֵלַיִךְ).
+
+c.
+absolu, faire une proclamation
+
+Es
+43,12 ;
+Es 62,11 (
+אֶל lieu).
+
+---

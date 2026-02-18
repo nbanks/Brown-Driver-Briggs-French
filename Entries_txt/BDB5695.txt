@@ -1,0 +1,228 @@
+=== BDB5695 H5608 ===
+Biblical Hebrew
+
+סָפַר_107_
+verb
+count,
+Pi`el
+recount, relate (probably ancient denominative from סֵפֶר; Late Hebrew =
+Biblical Hebrew; Ethiopic
+[placeholder3651: Placeholders/3651.gif]
+measure
+Di^404^); —
+
+Qal_27_
+Perfect 3 masculine singular ׳
+ס
+2Sam 24:10
+, 2 masculine singular סָפַרְתָּה
+Ps 56:9,
+וְסָפַרְתָּ֫
+Lev 25:8, etc.;
+Imperfect
+יִסְפֹּר
+Ps 87:6 + Job 38:37
+where read probably יִסְפֹּר (Bu) for
+
+ᵑ0
+
+יְסַפֵּר, יִסְפּוֺר
+Job 31:4,
+וַיִּסְפֹּר
+2Chr 2:1; 2Chr 2:16,
+suffix וַיִּסְפְּרֵם
+Ezra 1:8 2
+masculine singular תִּסְפֹּר
+Job 39:2,
+תִּסְפּוֺר
+Job 14:16,
+תִּסְפָּרֿ
+Deut 16:9,
+etc.; Imperative masculine singular סְפֹר
+Gen 15:5
+masculine plural סִפְרוּ
+1Chr 21:2;
+Ps 48:13
+Infinitive construct
+לִסְפֹּר
+Gen 15:5 + 2 t.;
+Participle
+סֹפֵר
+Isa 33:18
+(twice in verse) (see also סֹפֵר
+n. below); —
+
+1.
+count things, to learn their number, with accusative, Gen 15:5 (twice in verse) (
+J
+)
+2Sam 24:10 + 10 t. (+ accusative of cognate meaning with verb 2Chr 2:16); accusative omitted
+Gen 41:49
+(
+E
+); + ל (dativus commodi [dative of benefit] or ethicus [of interest]), Lev 15:13
+; Lev 15:28
+; Lev
+23:15;
+Lev 25:8 (all PH), Deut 16:9; Ezek 44:26; Ezra 1:8; Ps 87:6; Isa 33:8 (absolute), Isa 33:18 (but text
+suspicious, conjectures in Du
+Che^Hpt^).
+
+2.
+number = take account of, carefully observe and consider, reckon:
+צְעָדַי תִּסְפּוֺר
+Job 14:16
+
+of my steps thou takest account, so Job 31:4 see also Job 38:37 (compare above);
+נֹדִי סָפַרַתַּה
+Ps 56:9
+my wandering hast thou reckoned, taken into account (
+Che reads סִפַּרְתִּי after
+
+ᵐ5
+
+).
+
+Niph`al
+Imperfect 3 masculine singular יִסָּפֵר
+Hos 2:1 + 4
+t.; 3 masculine plural יִסָּֽפְרוּ
+1Kgs 8:5;
+2Chr 5:6,
+וַיִּסָּֽפְרוּ
+1Chr 23:3
+— be counted, numbered usually with negative, to indicate multitude, מֵרֹב
+
+׳
+לֹא יִסּ
+Gen 16:10
+(
+J
+) it is not to be counted, for multitude, so Gen 32:13 (
+J
+), 1Kgs
+3:8 (|| יִמָּנֶה לֹא), 1Kgs 8:5 (+ id.), 2Chr 5:6 (+ id.
+); compare Hos
+2:1 (+ יִמַּד לֹאֿ), Jer 33:22 (|| לֹא
+יִמַּד); positively, only וַיִּסָּֽפְרוּ
+הַלְּוִיִּם
+1Chr 23:3
+.
+
+Pi`el_67_
+Perfect 1 singular סִפַּ֫רְתִּי
+Ps
+119:26, סִפַּ֑רְתִּי Ps 119:13 3 plural סִפְּרוּ
+Judg 6:13
++ 3 t.; Imperfect 3 masculine singular יְסַפֵּר
+Job
+38:37 +, 1 singular אֲסַפֵּר
+Ps 22:18
++; cohortative אֲסַפֵּ֑רָה
+Job 15:7
+1 plural וַנְּסַפֶּרֿ
+Exod 10:2
+, etc.; Imperative
+סַפֵּר
+Isa
+43:26, etc.; Infinitive construct
+(לְ) סַפֵּר
+Ps 50:16
++ 5 t.; Participle
+מְסַפֵּר
+Judg 7:13
+; 2Kgs
+8:5 plural מְסַפְּרִים
+Ps 19:2
+; Ps 78:4
+— recount, rehearse, declare:
+
+1.
+recount something (accusative) to (לְ person) Judg 6:13; Judg 7:13
+; Gen
+24:66 (
+J
+), 1Sam
+11:5 + 18 t. (of rehearsing glorious
+deeds of ׳
+י
+Ps 44:2
+; Ps
+73:28;
+Ps 78:3; Ps
+78:4;
+Ps 79:13); with
+accusative + בְּ local Ezek 12:16, elsewhere of rehearsing name or
+praise of ׳
+י
+Exod 9:16
+(
+J
+) Ps
+9:15;
+Ps 96:3 = 1Chr 16:24; Ps 102:22;
+Jer
+51:10 with accusative alone Ps 9:2; Ps 19:2; Ps 119:13 (+
+בְּ instrumental), Ps 145:6 + 8 t. Psalms + Isa 43:21, all of
+rehearsing praise of ׳
+י; compare עָֽצְמוּ מִסַּפֵּר
+Ps 40:6
+
+they are too great to rehearse with accusative also Jer 23:28; Jer
+23:32; Job 15:17; Job 28:27; Ps 119:26
+accusative omitted Isa 43:26, with לְ person Gen 40:8 (
+E
+) + 6 t., with אֶלֿ person Gen 37:10 (
+E
+), with בְּאָזְנֵי
+Exod 10:2
+with
+כְּמוֺ
+(q. v.) Ps 73:15 with אֶלֿ
+concerning
+Ps 2:7,
+compare Ps
+69:27 (
+
+ᵐ5
+
+ᵑ6
+
+Ew
+Ol
+Gr
+Bi
+Che
+Bae
+add; in that case read יֹסִ֑פוּ); with עַלֿ
+concerning + לְ person Joel 1:3.
+
+2. apparently, in weakened sense, talk
+Ps 59:13
+; Ps
+64:6 (with ל
+concerning), Ps 73:15 (with כְּמוֺ).
+
+3.
+count exactly, accurately
+אֲסַפֵּר כָּלעַֿצְמוֺתָ֑י
+Ps
+22:18
+I can count exactly all my bones (in wasted body). — Ps 40:6 see below
+1, Job 38:37 read יִסְפֹּר.
+
+Pu`al
+be recounted, related, rehearsed: Perfect 3 masculine singular סֻפַּר
+לְ
+Isa
+52:15
+Imperfect 3 masculine singular יְסֻפַּר לְ
+Job
+37:20 (clause as subject), + לְ
+concerning
+Ps
+22:31 with בְּ local Ps 88:12 absolute יְסֻפָּ֑ר
+Hab 1:5
+.
+
+---

@@ -9,8 +9,8 @@ définitions anglaises emploient une prose victorienne archaïque, parfois guind
 Ce projet maintient une extraction JSON structurée de chaque entrée BDB
 (`json_output/`, ~10 022 fichiers) ainsi que les entrées HTML originales
 (`Entries/`). L'objectif de la **conversion en lexique français** est de
-produire un ensemble parallèle de fichiers JSON (`json_output.fr/`) et HTML
-(`Entries.fr/`) où tout le contenu en anglais est rendu en français moderne et
+produire un ensemble parallèle de fichiers JSON (`json_output_fr/`) et HTML
+(`Entries_fr/`) où tout le contenu en anglais est rendu en français moderne et
 clair, tout en préservant intégralement chaque mot-vedette hébreu ou araméen,
 chaque lemme et chaque notation morphologique.
 
@@ -19,15 +19,20 @@ chaque lemme et chaque notation morphologique.
 ```
 Brown-Driver-Briggs-Enhanced/
     Entries/            # Entrées HTML originales du BDB (lecture seule)
-    Entries.fr/         # Entrées HTML en français
+    Entries_txt/        # Texte brut extrait des entrées HTML (généré par script)
+    Entries_txt_fr/     # Texte brut traduit en français (par LLM)
+    Entries_fr/         # Entrées HTML en français (réassemblé par LLM)
     json_output/        # JSON anglais, un fichier par entrée BDB (source)
-    json_output.fr/     # JSON français, un fichier par entrée BDB (cible)
+    json_output_fr/     # JSON français, un fichier par entrée BDB (cible)
     Placeholders/       # ~6 200 images GIF de scripts de langues apparentées
+    scripts/            # Outils du pipeline de traduction
+        extract_txt.py  # Entries/ -> Entries_txt/ (extraction déterministe)
+        validate_html.py # Vérification de Entries_fr/ contre originaux
+        untranslated.py # Liste les fichiers non encore traduits
     bdbToStrongsMapping.csv
     placeholders.csv
-    untranslated.py     # script utilitaire : liste les fichiers non traduits
-    CLAUDE.md -> /home/ai/.claude/CLAUDE.md   # conventions de codage
-    AGENTS.md           # ce fichier -- instructions spécifiques au projet
+    CLAUDE.md           # Instructions spécifiques au projet
+    AGENTS.md           # Ce fichier -- instructions pour les agents LLM
 ```
 
 ## Accents et UTF-8
@@ -128,7 +133,7 @@ exemple utilise les accents appropriés. Les balises sont retirées pour la
 lisibilité ; dans les fichiers réels, la structure de balisage doit être
 préservée.
 
-### Exemples JSON (json_output/ -> json_output.fr/)
+### Exemples JSON (json_output/ -> json_output_fr/)
 
 **BDB50** -- אָבַל "mourn" (verb)
 ```
@@ -264,7 +269,47 @@ French:
 }
 ```
 
-### Exemples HTML (Entries/ -> Entries.fr/, balises retirées)
+**BDB1233** -- ֵבּלְאשַׁצַּר (description en prose complète -- **tout** traduire)
+```json
+English:
+{
+    "head_word": "ֵבּלְאשַׁצַּר",
+    "pos": "proper name, masculine",
+    "primary": null,
+    "description": "represented as\n    king of Babylon, successor, and apparent son of Nebuchadrezzar",
+    "senses": []
+}
+French:
+{
+    "head_word": "ֵבּלְאשַׁצַּר",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "présenté comme roi de Babylone, successeur et fils apparent de Nabuchodonosor",
+    "senses": []
+}
+```
+
+**BDB1553** -- גּוֺזָן (description géographique -- **tout** traduire, y compris prépositions)
+```json
+English:
+{
+    "head_word": "גּוֺזָן",
+    "pos": "proper name [of a location]",
+    "primary": null,
+    "description": "city and district of Mesopotamia, on or near the middle\n    course of the Euphrates",
+    "senses": []
+}
+French:
+{
+    "head_word": "גּוֺזָן",
+    "pos": "nom propre [d'un lieu]",
+    "primary": null,
+    "description": "ville et district de Mésopotamie, sur ou près du cours moyen de l'Euphrate",
+    "senses": []
+}
+```
+
+### Exemples HTML (Entries/ -> Entries_fr/, balises retirées)
 
 Ces exemples montrent le contenu textuel lisible résultant de la traduction du
 HTML **dans leur intégralité** -- aucune partie n'est omise. Dans les fichiers
@@ -525,26 +570,137 @@ Malachi     -> Malachie
 
 ## Flux de travail
 
-### Script utilitaire : `untranslated.py`
+### Pipeline de traduction HTML (en 4 étapes)
 
-Affiche les fichiers qui restent à traduire. Il compare `json_output/` avec
-`json_output.fr/` et `Entries/` avec `Entries.fr/`, en listant les fichiers
-manquants dans l'ordre numérique BDB. Affiche par défaut jusqu'à 20 entrées
-avec des chemins relatifs.
+La traduction des entrées HTML suit un pipeline en 4 étapes. Des instances
+Claude distinctes peuvent travailler sur différentes étapes ou tranches.
+
+```
+Entries/  --[script]--> Entries_txt/  --[LLM]--> Entries_txt_fr/  --[LLM]--> Entries_fr/
+                                                                       |
+                                                                  [script: validate]
+```
+
+**Étape 1 : Extraction** (`scripts/extract_txt.py`, déterministe)
+Convertit chaque fichier HTML en texte brut lisible. Les balises sont retirées,
+sauf les placeholders qui deviennent `[placeholder8: Placeholders/8.gif]` pour
+que le traducteur puisse consulter l'image du mot apparenté. Le texte
+hébreu/araméen, les abréviations savantes et les références bibliques sont
+préservés en ligne. Résultat dans `Entries_txt/`.
+
+```
+python3 scripts/extract_txt.py              # tout extraire
+python3 scripts/extract_txt.py BDB17        # une seule entrée
+```
+
+**Étape 2 : Traduction** (LLM, `Entries_txt/` -> `Entries_txt_fr/`)
+Un LLM traduit chaque fichier `.txt` de l'anglais vers le français. C'est
+l'étape qui exige le modèle le plus capable. Le texte en entrée est propre,
+sans balisage, ce qui facilite une traduction de haute qualité. Toutes les
+règles de traduction (accents, noms bibliques, catégories grammaticales, etc.)
+décrites dans ce fichier s'appliquent.
+
+**Étape 3 : Réassemblage** (LLM, `Entries/` + `Entries_txt_fr/` -> `Entries_fr/`)
+Un LLM (potentiellement moins puissant) reçoit le HTML anglais original et le
+texte français traduit, puis produit le HTML français en réinsérant les balises.
+C'est du pattern matching -- remplacer le texte anglais par son équivalent
+français tout en préservant la structure des balises.
+
+**⚠️ PIÈGE CONNU — ne pas confondre « réassemblage » avec « copie » ⚠️**
+
+Le mot « réassemblage » peut induire en erreur : il ne s'agit PAS de copier le
+HTML anglais dans `Entries_fr/`. L'objectif est de produire un fichier HTML
+**en français** — chaque fragment de texte anglais entre les balises doit être
+remplacé par son équivalent français tiré de `Entries_txt_fr/`.
+
+Concrètement, vous avez trois entrées :
+
+| Fichier | Rôle |
+|---|---|
+| `Entries/BDBnnn.html` | fournit la **structure des balises** |
+| `Entries_txt_fr/BDBnnn.txt` | fournit le **texte français** à insérer |
+| `Entries_txt/BDBnnn.txt` | (optionnel) aide à localiser quel texte anglais correspond à quel texte français |
+
+Et une sortie : `Entries_fr/BDBnnn.html` — le HTML avec balises préservées et
+texte en français.
+
+Exemple concret — BDB50, un extrait :
+
+```
+Entrée HTML anglaise :  <pos>verb</pos> … <primary>mourn</primary>
+Texte français (txt_fr): verbe … être en deuil
+Sortie HTML française :  <pos>verbe</pos> … <primary>être en deuil</primary>
+```
+
+❌ **Erreur type** : écrire `<pos>verb</pos> … <primary>mourn</primary>` dans
+`Entries_fr/` — c'est une copie de l'anglais, pas une traduction.
+
+**Auto-vérification** : parcourez votre sortie HTML. Si vous y voyez du texte
+anglais (hors abréviations savantes dans `<lookup>` et noms propres), le
+fichier est incorrect — recommencez en utilisant le texte de `Entries_txt_fr/`.
+
+**Étape 4 : Validation** (`scripts/validate_html.py`, déterministe)
+Vérifie que le HTML français contient tous les éléments préservés de l'original
+(hébreu, placeholders, attributs ref, abréviations) et que le texte français
+de l'étape 2 apparaît dans le résultat.
+
+Cette étape est exécutée **en lot après que tous les travailleurs ont terminé**,
+pas par chaque agent individuellement. Les agents de l'étape 3 doivent produire
+leurs fichiers `Entries_fr/` et passer à l'entrée suivante — la validation et
+la correction des erreurs se font dans une passe séparée.
+
+```
+python3 scripts/validate_html.py            # tout valider
+python3 scripts/validate_html.py BDB17      # une seule entrée
+python3 scripts/validate_html.py --summary  # totaux seulement
+```
+
+### Consultation des images Placeholders
+
+Dans les fichiers `Entries_txt/`, les placeholders apparaissent sous la forme :
+```
+[placeholder8: Placeholders/8.gif]
+```
+Le chemin est relatif à la racine du projet. Pour voir l'image du mot apparenté
+(arabe, syriaque, éthiopien, etc.), ouvrir le fichier GIF correspondant. Cela
+peut aider à comprendre le contexte étymologique lors de la traduction.
+
+Le fichier `placeholders.csv` associe chaque numéro à sa langue source et son
+contexte HTML d'origine.
+
+### Script utilitaire : `scripts/untranslated.py`
+
+Affiche les fichiers qui restent à traduire. Vérifie trois étapes du pipeline :
+
+1. **`--txt`** : `Entries_txt/` contre `Entries_txt_fr/` (étape 2 -- traduction)
+2. **`--html`** : `Entries/` contre `Entries_fr/` (étape 3 -- réassemblage HTML).
+   N'affiche que les entrées dont les prérequis existent (le `.txt` et le
+   `.txt_fr` correspondants). Les entrées en attente de traduction txt_fr sont
+   comptées séparément comme « awaiting txt_fr ».
+3. **`--json`** : `json_output/` contre `json_output_fr/`
+
+Sans filtre `--txt`/`--html`/`--json`, les trois sont affichés.
 
 Le script requiert un ou plusieurs **arguments numériques** (0-9) qui filtrent
 les entrées par le dernier chiffre du numéro BDB. Cela permet à 10 travailleurs
-de traduire le corpus en parallèle sans chevauchement -- chacun reçoit une
-tranche disjointe.
+de traduire le corpus en parallèle sans chevauchement.
 
 ```
-python3 untranslated.py 0            # entrées finissant par 0
-python3 untranslated.py 1 5          # entrées finissant par 1 ou 5
-python3 untranslated.py 0 1 2 3 4 5 6 7 8 9   # tout
-python3 untranslated.py 3 -n 5       # afficher 5, finissant par 3
-python3 untranslated.py 7 --json     # json seulement, finissant par 7
-python3 untranslated.py 2 --html     # html seulement, finissant par 2
-python3 untranslated.py 9 --count    # totaux seuls, finissant par 9
+python3 scripts/untranslated.py 0            # entrées finissant par 0
+python3 scripts/untranslated.py 1 5          # entrées finissant par 1 ou 5
+python3 scripts/untranslated.py 0 1 2 3 4 5 6 7 8 9   # tout
+python3 scripts/untranslated.py 3 -n 5       # afficher 5, finissant par 3
+python3 scripts/untranslated.py 7 --json     # json seulement, finissant par 7
+python3 scripts/untranslated.py 2 --txt      # txt seulement, finissant par 2
+python3 scripts/untranslated.py 9 --html     # html seulement, finissant par 9
+python3 scripts/untranslated.py 4 --count    # totaux seuls, finissant par 4
+python3 scripts/untranslated.py 5 --txt --html --json -n 5  # les trois, 5 par mode
+```
+
+Format de sortie pour `--html` (montre les 3 fichiers d'entrée nécessaires) :
+```
+Entries_fr (ending in 0): 50/1002 translated, 800 ready, 152 awaiting txt_fr
+  ./Entries/BDB10.html + ./Entries_txt/BDB10.txt + ./Entries_txt_fr/BDB10.txt => ./Entries_fr/BDB10.html
 ```
 
 Sans arguments, le script affiche l'aide. Code de sortie 0 quand la tranche
@@ -552,51 +708,22 @@ est entièrement traduite, 1 quand des fichiers restent, 2 en cas d'arguments
 invalides.
 
 Exemple de partitionnement (10 travailleurs) :
-- Travailleur A : `untranslated.py 0`  (~1 002 entrées)
-- Travailleur B : `untranslated.py 1`  (~1 002 entrées)
+- Travailleur A : `scripts/untranslated.py 0`  (~1 002 entrées)
+- Travailleur B : `scripts/untranslated.py 1`  (~1 002 entrées)
 - ...
-- Travailleur J : `untranslated.py 9`  (~1 002 entrées)
+- Travailleur J : `scripts/untranslated.py 9`  (~1 002 entrées)
 
 ### Flux de traduction JSON
 
-La conversion se fait par lots. Un script lit chaque fichier de `json_output/`,
+La conversion se fait par lots. Un LLM lit chaque fichier de `json_output/`,
 traduit les champs anglais pertinents (y compris les noms de livres bibliques
 dans `description` et `senses[].description`), et écrit le résultat dans
-`json_output.fr/` avec le même nom de fichier. Le script doit être idempotent :
-une réexécution écrase les fichiers français existants sans duplication.
+`json_output_fr/` avec le même nom de fichier. Le JSON est assez simple pour
+ne pas nécessiter le pipeline d'extraction intermédiaire.
 
-### Flux de traduction HTML
+### Balises HTML et leur traitement
 
-Les entrées HTML dans `Entries/` contiennent un mélange de balises XML
-personnalisées, d'écriture hébraïque/araméenne, de prose anglaise et de
-balisage structurel. Leur traduction nécessite une approche en plusieurs
-étapes :
-
-1. **Extraire le texte traduisible.** Analyser le HTML et extraire uniquement
-   le contenu textuel en anglais, en ignorant :
-   - Les balises `<bdbheb>` et `<bdbarc>` (hébreu/araméen -- préserver tel quel)
-   - Les balises `<entry>` (identifiants BDB et numéros Strong)
-   - Les attributs des balises `<ref>` (garder les attributs ; traduire le texte
-     affiché)
-   - Les abréviations savantes `<lookup>`
-   - Le contenu `<transliteration>`
-   Écrire l'anglais extrait dans un fichier `.txt` de travail (un segment par
-   ligne, étiqueté avec sa position source pour pouvoir le réinsérer).
-
-2. **Traduire le texte.** Convertir l'anglais extrait en français moderne, en
-   appliquant les mêmes règles que pour le JSON : traduire les gloses, les
-   descriptions, les étiquettes grammaticales et les noms de livres bibliques.
-   Laisser inchangées les chaînes hébraïques/araméennes qui apparaissent en
-   ligne dans le texte.
-
-3. **Réassembler le HTML.** Réinsérer le texte français dans la structure HTML
-   originale, en préservant toutes les balises, attributs et contenus
-   hébreux/araméens à leur position d'origine. Écrire le résultat dans
-   `Entries.fr/` avec le même nom de fichier. Le texte affiché des `<ref>`
-   (p. ex. "Dan 7:5") doit apparaître avec l'abréviation française du livre
-   (p. ex. "Dn 7,5") tandis que les attributs `ref=` restent inchangés.
-
-Balises et leur traitement lors de l'extraction :
+Lors du réassemblage (étape 3), ces balises doivent être traitées comme suit :
 - `<pos>...</pos>` -- traduire le contenu (catégorie grammaticale)
 - `<primary>...</primary>` -- traduire le contenu (glose)
 - `<highlight>...</highlight>` -- traduire le contenu
@@ -657,11 +784,11 @@ références opaques à des images de scripts. Lors de la traduction :
 servant de repères dans la structure du dictionnaire, sans définition.
 
 Ces entrées ont été prétraitées en créant des **fichiers de zéro octet** dans
-`json_output.fr/` afin que `untranslated.py` les ignore. Pour les retrouver :
+`json_output_fr/` afin que `untranslated.py` les ignore. Pour les retrouver :
 
 ```bash
-find json_output.fr/ -empty -name '*.json'   # lister les placeholders vides
-find json_output.fr/ -empty | wc -l          # les compter (872 attendus)
+find json_output_fr/ -empty -name '*.json'   # lister les placeholders vides
+find json_output_fr/ -empty | wc -l          # les compter (872 attendus)
 ```
 
 **Ne pas** écrire de contenu dans ces fichiers. Si une entrée squelettique
@@ -763,6 +890,43 @@ intégré, des références et de la prose). Pour celles-ci :
 - Le contenu excédentaire appartient sémantiquement à `description`. Dans la
   sortie française, le déplacer là si possible, ou le préserver dans `pos` avec
   un commentaire signalant l'irrégularité.
+
+## Méthode de traduction obligatoire — INTERDICTION DE SCRIPTS
+
+**Chaque entrée doit être traduite individuellement par le LLM.** Il est
+**strictement interdit** d'écrire des scripts de remplacement par motifs (sed,
+awk, dictionnaire Python, boucle avec `str.replace()`, expressions régulières,
+etc.) pour traduire en masse ou partiellement. Les seuls scripts autorisés à **exécuter** sont
+ceux du répertoire `scripts/` (extraction, validation, liste des fichiers non
+traduits). Ne jamais modifier, créer ou supprimer de fichiers dans `scripts/`
+sauf si l'utilisateur le demande explicitement.
+
+La traduction exige une compréhension contextuelle du texte anglais victorien —
+un simple rechercher-remplacer ne suffit pas et produit du « franglais »
+inutilisable. Voici des exemples réels de ce qu'un script produit :
+
+```
+❌ Script : "represented as roi de Babylone, successor, and apparent fils de Nebuchadrezzar"
+❌ Script : "city and district of Mesopotamia, on or près de the middle course of the Euphrates"
+❌ Script : "ville en the tribe of Simeon"
+✅ LLM :    "présenté comme roi de Babylone, successeur et fils apparent de Nabuchodonosor"
+✅ LLM :    "ville et district de Mésopotamie, sur ou près du cours moyen de l'Euphrate"
+✅ LLM :    "ville dans la tribu de Siméon"
+```
+
+Si vous constatez que votre sortie contient un mélange d'anglais et de français,
+c'est le signe que vous avez utilisé une approche par motifs au lieu de traduire
+le texte. Arrêtez-vous et recommencez en traduisant la phrase entière.
+
+## Traduction intégrale — pas de « franglais »
+
+Chaque champ `description`, `primary` et `senses[].description` doit être
+**intégralement en français** — y compris les prépositions, articles et mots de
+liaison (of, the, and, in, at, on, or, with, from, etc.). Voir les exemples
+BDB1233 et BDB1553 ci-dessus pour le traitement correct des descriptions en
+prose complète. Après avoir écrit un champ, relisez-le : s'il contient un mot
+anglais courant qui n'est pas une abréviation savante ou un nom propre
+invariable, corrigez-le.
 
 ## Notes de qualité
 

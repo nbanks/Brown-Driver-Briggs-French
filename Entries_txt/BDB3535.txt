@@ -1,0 +1,13 @@
+=== BDB3535 H3027 H3197 ===
+Biblical Hebrew
+
+יך
+1Sam 4:13
+
+Kt
+; error for יד
+
+Qr
+.
+
+---

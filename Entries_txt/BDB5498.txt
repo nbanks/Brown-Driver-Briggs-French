@@ -1,0 +1,350 @@
+=== BDB5498 H5462 H4042 ===
+Biblical Hebrew
+
+I. סָגַר
+verb
+shut, close (Late Hebrew id., Aramaic סְגַר,
+[placeholder3522: Placeholders/3522.gif]
+id.; Zinjirli מסגרת
+prison
+Lzb^328^; Phoenician סגר Pi`el or Hiph`il
+deliver over; possibly Ethiopic
+[placeholder3523: Placeholders/3523.gif] (prison) guard
+Prä^BAS i. 371^); —
+
+Qal
+Perfect 3 masculine singular ׳
+ס
+Gen 19:6 +, 3 plural
+סָֽגְרוּ
+2Chr 29:7,
+סָֽגְר֑וּ
+Ps 17:10
+(compare Baer's n., Ges
+^«GKC:29o»§ 29o^
+Kö^ii, 1, 535 Anm^.), סָגָר֑וּ
+Gen 19:10; Josh 2:7
+Imperfect
+יִסְגֹּר
+Job 12:14;
+Mal 1:10, 1 plural
+cohortative נִסְגְּרָה
+Neh 6:10, etc.;
+Imperative masculine singular סְגֹר
+Ps 35:3; Isa 26:20 (
+וּסֲגֹר
+Baer
+Ginsb), masculine plural סִגְרוּ
+2Kgs 6:32
+Infinitive construct
+לִסְגּוֺר
+Josh 2:5
+Participle
+active
+סֹגֵר
+Isa 22:22
+feminine סֹגֶּרֶת
+Josh 6:1 (but see
+below); passive
+סָגוּר
+1Kgs 6:20 + 12
+t.; —
+
+1.
+shut door (דֶּלֶת) Gen 19:10 (
+J
+) 2Kgs
+6:32; Mal
+1:10; Neh
+6:10; 2Chr 28:24; 2Chr 29:7 gate (שַׁעַר) Josh 2:7 (
+J
+
+E
+) Ezek
+46:12, compare Ezek 44:1; Ezek 44:2 (twice in verse); Ezek 46:1, לִסְגֹּר
+׳
+וַיְהִי הַשּׁ
+Josh 2:5 (
+J
+
+E
+), also (שַׁעַר omitted) Josh 6:1 (si vera 1.; סֹגֶרֶת dittograph according to
+Buhl^Lex 13^); door after one (אַחֲרֵי), on
+leaving room Gen 19:6
+(
+J
+); upon, behind, oneself, from within (בְּעַד q. v.) 2Kgs 4:4; 2Kgs 4:5; 2Kgs 4:33; Isa 26:20 (figurative),
+also (דֶּלֶת omitted) Judg 9:51; 2Kgs 4:21 with דֶּלֶת + בְּעַד upon one left
+inside Judg 3:23
+, and (דֶּלֶת omitted) Gen 7:16 (
+J
+); figurative דַּלְתֵי בִטְנִי
+׳
+ס
+Job 3:10,
+compare רַחְמָהּ
+׳
+ס
+1Sam 1:5,
+בְּעַד
+׳
+ס
+רַחְמָהּ 1Sam 1:6 absolute shut (opposed to פָּתַח
+) Isa 22:22
+(twice in verse); metaphor ׳
+חֶלְבָּמוֺ ס
+Ps 17:10
+their fat (i.e. gross, unreceptive heart) they have closed.
+
+2.
+
+a.
+close in upon (בְּעַד) Judg 3:22 (fat upon blade of sword), so possibly also
+וַיִּסְגֹּר בָּשָׂר תַּחְתֶּנָּה
+Gen 2:21 (
+
+J
+) and flesh closed in, in place of it (usually and he closed flesh, i.e.
+closed
+the gap with flesh); עֲלֵיהֶם הַמִּדְבָּר
+׳
+ס
+Exod 14:3
+the wilderness hath closed in upon them; object omitted, יִסְגֹּר עַלאִֿישׁ
+
+Job 12:14
+
+he closeth in upon a man, figurative of imprisonment.
+
+b.
+close up breach (פֶּרֶץ) [in wall] of city 1Kgs 11:27 possibly
+close up [path] (si vera 1.) Ps 35:3
+
+Vrss
+
+Ol
+De
+Bae; JDMich
+DeW
+Ew
+Hup-Now
+Che take סְגֹר here as weapon, usually
+battle-axe [Greek σάγαρις] of Massagetae
+Herod^i. 215^ compare Lag^Ges. Abh. 203^
+, also Egyptian
+sagart·
+(loan-word) Bondi^55^; both
+improbable, text probably corrupt; Schw^ZAW xi (1891), 258^
+reads חֲגֹר > Hal^Rev. Sém. iii (1894),
+47^
+עוּרָה (compare Ps 59:5).
+
+3.
+Passive participle, closed up = closely joined with tight seal, Job 41:7 (of
+scales of crocodile).
+
+4. elsewhere only Passive participle in זָהָב סָגוּר (gold
+shut up, and so prized, rare, fine ?), only of temple adornment
+and
+utensils 1Kgs 6:20
+; 1Kgs 6:21
+
+; 1Kgs 7:49;
+1Kgs 7:50;
+1Kgs 10:21
+=
+1Chr 9:20;
+1Chr 4:20;
+1Chr 4:22
+perhaps
+read סָגוּר (abbreviated for ׳
+ס
+׳
+ז)
+Job 28:15 (for
+
+ᵑ0
+
+סְגוֺר, so Hoffm
+Bu
+Du): compare Assyrian
+—urâƒu sakru
+, Dl^HWB 499^.
+
+Niph`al
+Perfect 3 masculine singular נִסְגַּר
+1Sam 23:7
+Imperfect 3 masculine singular יִסָּגֵר
+Ezek 46:2
+3
+feminine singular jussive תִּסָּגֵר
+Num 12:14
+,
+וַתִּסָּגֵר Num 12:15 3 masculine plural יִסָּנֵר֑וּ
+Isa 45:1;
+Isa 60:11
+,
+וַיִּסָּֽגְרוּ
+Neh 13:19
+
+Imperative masculine singular הִסָּגֵר
+Ezek 3:24
+—
+
+1. subject person be shut up [in city] 1Sam 23:7, מִחוּץ
+לַמַּחֲנֶה
+
+Num 12:14
+;
+Num 12:15
+(
+
+E
+); בְּתוֺךְ
+בַּיִת
+Ezek 3:24
+.
+
+2.
+be shut, closed, of city gates Ezek 46:2; Isa 45:1; Isa 60:11 and (
+דלתות)
+Neh
+13:19
+.
+
+Pi`el
+Perfect 3 masculine singular סִגַּר
+1Sam 26:8
+;
+2Sam
+18:28
+suffix סִגְּרַנִי
+1Sam
+24:19
+
+Imperfect 3 masculine singular suffix יְסַגֶּרְךָ
+1Sam
+17:46
+— deliver up to (leave no other opening for one, shut one up to), compare
+[
+מָגַן], מִגֵּן, p. 171 b above), only Samuel: with accusative of
+person +
+בְּיַד
+1Sam
+17:46
+;
+1Sam
+24:19;
+1Sam 26:8
+בְּיַד omitted 2Sam 18:28 (see also
+Hiph`il). p. 698
+
+Pu`al
+Perfect 3 masculine singular סֻגַּר
+
+Isa
+24:10 3 plural סֻגְּרוּ
+
+Jer
+13:19, וְסֻגְּרוּ consecutive Isa 24:22
+Participle feminine מְסֻגֶּ֫רֶת
+Josh 6:1
+— be shut up:
+
+1. of cities Jer 13:19 (opposed to פָּתַח), of
+beleaguered
+city Josh
+6:1
+(
+J
+
+E
+), of houses Isa 24:10 (+ מִבּוֺא).
+
+2. of prisoners עַלמַֿסְגֵּר
+
+Isa
+24:22 = down into a dungeon.
+
+3. of doors Eccl 12:14.
+
+Hiph`il
+Perfect 3 masculine singular הִסְגִּיר
+
+Lev 14:46 +; 2 masculine singular suffix הִסְגַּרְתַּ֫נִי
+
+Ps
+31:9 1 singular וְהִסְגַּרְתִּ֫י
+
+Amos
+6:8, etc.; Imperfect 3 masculine singular יַסְגִּיר
+
+Job 11:10, וַיַּסְגֵּר
+
+Ps 78:48;
+Ps 78:62 2 masculine singular תַּסְגִּר
+
+Deut 23:16, jussive תַּסְגֵּר
+
+Obad 1:14, etc.; Infinitive construct
+הַסְגִּיר
+
+Amos
+1:6, suffix הַסְגִּירוֺ
+
+1Sam 23:20, הַסְגִּירָם
+
+Amos
+1:9 —
+
+1.
+deliver up to (compare
+Pi`el), with accusative of person + בְּיַד
+
+1Sam 23:11; 1Sam 23:12; 1Sam 23:20; 1Sam 30:15;
+Josh 20:5 (
+D
+) Ps
+31:9 + לְ
+
+Amos 1:9; Ps 78:50; Ps 78:62, and (accusative
+of person omitted)
+Amos 1:6 + אֶלֿ
+
+Deut 23:16; Job 16:11 with
+accusative of animal + לְ
+
+Ps 78:48 with accusative of person alone Deut 32:30; Obad
+1:14,
+accusative
+omitted
+1Sam 23:12 with accusative urb. alone
+Amos 6:8.
+
+2.
+shut up (late; chiefly Lev 13, 14,
+P
+):
+
+a. with accusative of person Lev 13:5
+;
+Lev 13:11; Lev 13:21
+;
+Lev 13:26 compare Lev 13:4
+v
+Lev
+13:31 Lev 13:33
+, so
+(absolute) = imprison
+Job
+11:10 with accusative of thing Lev 13:54
+compare
+Lev 13:50
+.
+
+b. with accusative הַבַּיִת
+Lev
+14:38 and (indefinite subject) Lev 14:46
+.
+
+---

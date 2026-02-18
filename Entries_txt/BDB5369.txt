@@ -1,0 +1,241 @@
+=== BDB5369 H5358 ===
+Biblical Hebrew
+
+[נָקַם] verb
+avenge, take vengeance (
+
+להנקם נקמי אויב (Niph`al + accusative of cognate meaning with verb); נקם, noun
+also Eccl 12:6
+(compare Deut 32:41
+),
+
+Eccl 39:30;
+
+Eccl 48:7 Late
+Hebrew נָקַם especially in derivatives; Aramaic נְקַם (rare),
+[placeholder3435: Placeholders/3435.gif] in derived species; Arabic
+[placeholder3436: Placeholders/3436.gif]
+take vengeance (
+[placeholder3437: Placeholders/3437.gif]
+upon), Lane^3037^; compare Ethiopic
+[placeholder3438: Placeholders/3438.gif]
+Di^458^
+vindictae studium, ultionis cupido; Assyrian
+i‡‡imu
+, vengeance, requital, is possibly from √
+אקם Jäger^BAS ii. 279^); —
+
+Qal
+Perfect 3 masculine singular suffix נְקָמֵ֫נִי
+1Sam 24:13
+Imperfect
+יִקּוֺם
+Deut 32:43
+יִקֹּם
+Josh 10:13 2
+masculine singular תִּקֹּם
+Lev 19:18
+Infinitive absolute
+נָקֹם
+Exod 21:20
+construct נְקֹם
+Ezek 24:8; Ezek 25:12
+Imperative
+נְקֹם
+Num 31:2
+Participle
+נִקֵם
+Nah 1:2 + 3 t.;
+feminine נֹקֶ֫מֶת
+Lev 26:25 —
+
+1.
+avenge, take vengeance:
+
+a. God subject דַּם עֲבָדָיו יִקּוֺם
+Deut 32:43
+
+the blood of his servants he avengeth (against those who slew them) (+ 1Kgs 2:5
+
+ᵐ5
+^
+L
+^
+
+Klo); ׳
+נ absolute Nah 1:2 (twice in verse) with לְ (against Nineveh) Nah 1:2
+נָקָם
+׳
+נ (against Jerusalem) Ezek 24:8
+עַלעֲֿלִילוֺהָם
+on their doings (his people's) Ps 99:8
+נְקַם בְּרִית
+׳
+נ
+Lev 26:25
+(
+
+H
+) the vengeance of the covenant (against those who break it);
+נְקָמַנִי
+
+1Sam 24:13
+,
+with מִן of person from whom vengeance is taken (compare Jer 20:10
+).
+
+b.
+Israel and its leaders against their enemies, נקמה
+׳
+נ with מִן against whom Num 31:2 (
+P
+); with accusative יִקֹּם אֹיְבָיו
+Josh 10:13
+
+(poem).
+
+c. Edom against Judah נקם לְ
+׳
+נ
+Ezek 25:12
+.
+
+d. in administration of justice against murder Exod 21:20 (
+E
+).
+
+2.
+entertain revengeful feelings (opposed to אהב) against neighbour
+forbidden
+Lev 19:18
+(
+
+H
+).
+
+Niph`al
+Perfect 1 singular נִקַּ֫מְתִּי
+Judg 15:7;
+1Sam 14:24
+3
+masculine plural נִקְּמוּ
+Ezek 25:12
+
+Imperfect
+יִנָּקֵם
+Exod 21:20
+
+1 singular אִנָָּֽקְמָה
+Judg 16:28
+;
+Isa 1:24 3
+masculine plural יִנָָּֽקְמוּ
+Ezek 25:15
+
+Infinitive
+הִנָּקֵם
+Jer 46:10
+
++ 2 t.; Imperative
+הִנָּ֫קֶם
+Jer 15:15
+
+plural הִנָָּֽקְמוּ
+Jer 50:15
+:
+—
+
+1.
+avenge oneself,
+
+a.
+׳
+י subject with מִן of adversary Isa 1:24; Jer 46:10 with מִן
+advers., לְ for whom Jer 15:15 with בְּ adversary Jer 50:15
+.
+
+b. of Israel and champions with מִן
+Judg
+16:28
+;
+1Sam
+14:24;
+Esth 8:13 with בְּ
+Judg 15:7
+;
+1Sam
+18:25
+.
+
+c. of enemies against Israel נקם
+׳
+נ
+Ezek
+25:15
+with בְּ
+Ezek
+25:12
+.
+
+2.
+suffer vengeance (of law against murder) Exod 21:20 (
+E
+). Piel
+Perfect 1 singular נִקַּ֫מְתִּי
+2Kgs 9:7;
+Jer
+51:36
+— avenge, ׳
+י subject דָּמִים מיד
+2Kgs 9:7
+blood at hands of; נִקְמָתֵךָ
+׳
+נ
+Jer
+51:36
+
+take vengeance for thee.
+
+Hoph`al
+Imperfect
+יֻקַּם
+Gen 4:24
+;
+Exod
+21:21
+, יֻקָּ֑ם
+Gen 4:15
+be avenged, vengeance be taken (for blood).
+
+Hithpa`el
+Imperfect
+תִּתְנַקֵּם
+Jer 5:9
+;
+Jer 5:29
+; Jer
+9:8
+
+Participle
+מִתְנַקֵּם
+Ps 8:3;
+Ps
+44:17
+
+avenge oneself, ׳
+י subject לֹא תִתְנַקֵּם
+׳
+נַפְשִׁי בְּ
+Jer 5:9
+;
+Jer 5:29
+; Jer
+9:8
+of Israel's enemies אוֺיֵב
+וּמִתְנַקֵּם
+Ps 8:3;
+Ps
+44:17
+.
+
+---

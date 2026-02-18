@@ -1,0 +1,232 @@
+=== BDB8152 H7646 ===
+hébreu biblique
+
+[שָׂבֵעַ,] שָׂבַע_96_
+verbe
+être rassasié, satisfait, repu (hébreu tardif (espèces dérivées) = hébreu biblique ; de même assyrien
+
+šebû
+, arabe
+[placeholder5209: Placeholders/5209.gif], araméen סְבַע,
+[placeholder5210: Placeholders/5210.gif], palmyrénien שבע ; le verbe éthiopien de même sens est
+[placeholder5211: Placeholders/5211.gif] :) ; —
+
+Qal_79_
+Parfait 3 masculin singulier שָׂבַע
+1 Ch 23,1,
+׳
+וְשׂ consécutif Dt 31,20 3 pluriel שָׂבֵ֑עוּ
+Es 9,19,
+׳
+ושׂ consécutif Dt 14,29 ; Dt 26,12, etc. ; Imparfait 3 masculin singulier יִשְׂבַּע
+
+Pr 12,11 +,
+3 masculin pluriel יִשְׂבְּעוּן
+Ps 104,28,
+etc. ; Impératif
+שְׂבַעֿ
+Pr 20,13
+Infinitif absolu
+שָׂבוֺע
+Jl 2,26 ; 2 Ch 31,10
+construit לִשְׂבֹּע
+Ex 16,8 ; Lm 5,6,
+לְשָׂבְעָה
+Ag 1,6 —
+
+1.
+être rassasié (de nourriture), surtout sujet humain :
+
+a. absolu après
+אָכַל, Os 4,10 ; Es 9,19 ; Dt 8,10 ; Ex 16,8 (
+P
+), + II t., comparer Es 44,16 (|| אָבַל) ; exposant les hommes à l'arrogance Dt 6,11 ;
+Dt 8,12 ;
+Dt 31,20
+, comparer
+Os 13,6 (deux fois dans le verset) (Israël sous la figure du bétail), Jr 50,19 (id. ; avec ב
+lieu ; || רָעָה
+paître) ; = avoir (ou obtenir) assez à manger Ps 37,19 ; Ps 59,16, assez à boire Am 4,8,
+figuré de l'épée Jr 46,10, du vin Ha 2,5.
+
+b. avec accusatif de nourriture
+Jr 44,17
+; Lm 5,16
+; Ex
+16,12 (
+P
+), + 6 t., comparer Ez 39,29 (des bêtes, en figuré), de la terre, rassasiée d'eau (pluie) Pr 30,16
+, ainsi des arbres (accusatif om.) Ps 104,16, figuré de la rétribution Pr 18,20 b.
+
+c. avec מִן de nourriture Jb 19,22 (figuré) ; figuré de la
+terre ayant sa part (de
+pluie) Ps
+104,13, et (figuré de rétribution) Pr 18,20a ; bon sens Pr 12,14 (supprimer
+טוֺב, ainsi Toy), mauvais sens Pr 1,31 ; Pr 14,14 avec מִן de source Es 66,11
+(figuré).
+
+2. plus généralement, être rassasié, avoir son désir satisfait :
+
+a.
+absolu Ez 16,28 ; Ez 16,29 (c.-à-d. de prostitution), Jr 50,10 (de butin), Es 53,11
+
+(du résultat obtenu) ; des yeux Pr 27,20, du Shéol et de l'Abaddon Pr 27,20
+
+, comparer
+Pr
+30,15 = avoir en abondance Pr 30,9 (exposition à l'arrogance).
+
+b. avec accusatif,
+être satisfait de, avoir son content de : Jr 31,14, comparer Ps 17,15 ; Ps 63,6 ;
+Pr 5,10
+; Qo 5,9,
+comparer (œil sujet)
+Qo 4,8 acc.
+de
+fils Ps 17,14
+(si vera l., mais texte douteux, voir Ol
+Du, comparer Bae
+We), jours de vie, c.-à-d. atteindre la pleine limite (+ זָקֵן
+)
+1 Ch 23,1
+;
+2 Ch 24,15
+.
+
+c. avec ב de bonté Ps 65,5, avec מִן id. Qo 6,3.
+
+d. avec ל infinitif, לאֹתִֿשְׂבַּע עַיִן לִרְאוֺת
+Qo 1,8 (||
+מָלֵא)
+
+3.
+avoir en excès, être saturé de :
+
+a. littéralement, de miel (accusatif) Pr 25,16.
+
+b
+figuré =
+être las de, avec accusatif d'offrandes Es 1,11 (sujet ׳
+י), de tourments Jb 7,4, de pauvreté Pr 28,19, de honte Ha 2,16, de mépris Ps 123,3
+
+; Ps
+123,4
+avec accusatif de personne Pr 28,17.
+
+c. id., avec ב
+de
+troubles Ps
+88,4
+, d'opprobre Lm 3,30.
+
+Niphal
+Participe
+נִשְׂבָּע
+rassasié
+Jb 31,31
+.
+
+Piel
+satisfaire, Imparfait 3 masculin pluriel יְשַׂבִּ֑עוּ
+Ez 7,19
+ils ne satisferont pas leur appétit (נֶפֶשׁ
+; ||
+מִלֵּא) ; Impératif masculin singulier suffixe, sujet ׳
+י, שַׂבְּעֵנִי חַסְדֶּ֑ךָ
+Ps 90,14
+(2
+accusatifs).
+Now (d'après ᵑ6 et ᵐ5 Manuscrits) lit
+שִבַּעְתָּ
+
+Ha 3,9, pour
+שְׁבֻעוֺת, comparer GASm ; Gr Marti שְׂבֵעַת (adjectif féminin construit)
+ton
+arc est rassasié de flèches. We juge désespéré.
+
+Hiphil
+Parfait 3 masculin singulier הִשְׂבִּיע
+Ps 107,9
+,
+׳
+וְה consécutif Es 58,11 2 féminin singulier הִשְׂבַּ֫עַתְּ
+Ez 27,33
+, etc. ; Imparfait 3 masculin singulier suffixe יַשְׂבִּעַנִי
+Jb 9,18 2
+masculin singulier תַּשְׂבִּיעַ
+Es 58,10
+,
+1 singulier וָאַשְׂבִּעַ
+Jr 5,7,
+suffixe
+אַשְׂבִּיעֶ֑ךָּ
+Ps 81,17
+
+van d. H., אַשְׂבִּיעֶ֑ךָֿ
+Baer
+Gi, etc. ; Infinitif construit
+לְהַשְׂבִּיעַ
+Jb 38,27
+
+Participe
+מַשְׂבִּיעַ
+Ps 103,5
+;
+Ps 145,16
+—
+
+1.
+
+a.
+satisfaire (surtout de bénédictions matérielles), sujet ׳
+י, avec acc. personne Jr 5,7 (exposant les hommes à l'arrogance), Es 58,11 (accusatif
+נֶפֶשׁ
+; de rafraîchissement dans la sécheresse, ב lieu, figuré d'aide et de bénédiction),
+Ps 107,9
+
+(accusatif נֶפֶשׁ ; || מִלֵּא), comparer Ps 103,5 (ב
+
+instrumental, sur l'accusatif voir
+עֲדִי
+) ; avec accusatif de sol Jb 38,27 (c.-à-d. de pluie) ; sujet humain, avec accusatif
+נֶפֶשׁ
+Es
+58,10
+
+b. avec accusatif de nourriture + personne, ׳
+י sujet, Ps 81,17 (|| הֶאֱכִיל), Ps 105,40 ; Ps
+132,15
+;
+Ps 147,14 avec accusatif de personne + אֹרֶךְ יָמִים
+Ps 91,16
+.
+
+c.
+׳
+י sujet, accusatif de chose + ל personne, לְבָלחַֿי רָצוֺן
+
+׳
+מַשׂ
+Ps
+145,16
+.
+
+d.
+׳
+י sujet, c accusatif de bête + מִמְּךָ (de Pharaon, en figuré
+prophétique)
+Ez 32,4.
+
+2.
+enrichir sujet Tyr, avec accusatif d'un peuple Ez 27,33 (|| הֶעֱשִׁיר
+
+).
+
+3.
+rassasier, gorger (de l'indésiré), sujet ׳
+י, avec accusatif de personne + ב de chose Lm 3,15, accusatif de
+personne +
+Jb 9,18
+.
+
+---

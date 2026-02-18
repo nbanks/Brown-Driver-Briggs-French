@@ -1,0 +1,445 @@
+=== BDB2715 H2421 H2425 ===
+Biblical Hebrew
+
+חָיָה_283_
+verb
+live (Late Hebrew Phoenician id.; Arabic
+[placeholder1736: Placeholders/1736.gif],
+[placeholder1737: Placeholders/1737.gif]; Sabean חיו Mordt^ZMG 1876, 28^; Ethiopic
+[placeholder1738: Placeholders/1738.gif] Aramaic
+[placeholder1739: Placeholders/1739.gif], חֲיָא; Palmyrene חיי
+life, life-time, Vog^32, 74^) —
+
+Qal_203_
+Perfect
+חָיָה
+Eccl 6:6 + 4 t.;
+יְ֯חָיָה
+Jer 21:9; Jer 38:2
+חַי
+Gen 5:5 + 23 t. (this
+and the following form are treated as עע֞, the original weakness of the stem final י
+admitting of either לה֞ or עע֞, Ges
+^«GKC:76»§ 76^ (2) g); וְחֵי
+Lev 25:36 (
+Bö^§ 1181^); 3 feminine singular חָֽיְתָה
+Gen 12:13; Jer 38:17
+וָחָ֑יָה
+Exod 1:16 (for
+חַיָּה
+Bö^§ 1123^ (3), Samaritan חיתה); 2 masculine
+singular חָיִיתָ
+Deut 30:16,
+חָיִתָה
+Jer 38:17 3
+masculine plural חָיוּ
+Num 14:38,
+וְחָיוּ consecutive Num 4:19 + Zech 10:9 (where read Pi`el וְחִיּוּ
+Sta^ZAW i. 1881, 22^ so
+
+ᵐ5
+
+); וִחְיִיתֶם
+Ezek 37:5 + 2 t.;
+Imperfect
+יִחְיֶה
+Gen 17:18 + 27
+t.; יְחִי
+Deut 33:6 + 10 t.;
+וִיחִי
+Ps 49:10 + 2
+t.; וְיֶחִ֑י
+Isa 38:21,
+וַיְחִי
+Gen 5:3 + 37 t.;
+וַיֶּחִ֑י
+Deut 4:33 + 4 t.; 3
+feminine singular תִּחְיֶה
+Josh 6:17,
+תְּחִי
+Gen 19:20 + 5
+t.; 2 masculine singular תִּחְיֶה
+Gen 27:40 + 7
+t.; 2 feminine singular תִּחְיִי
+2Kgs 4:7 1 singular
+אֶחְיֶה
+2Kgs 1:2 + 8 t.; 3
+masculine plural יִחְיוּ
+Josh 9:21 + 8 t.; 3
+feminine plural תִּחְיֶינָה
+Ezek 13:19;
+Ezek 37:3 2
+masculine plural תִּחְיוּ
+Deut 4:1 + 2 t.;
+תִּחְיוּן
+Deut 5:30; Deut 8:1 1 plural
+נִחְיֶה
+2Kgs 7:4 + 7 t.;
+Imperative
+וֶחְיֵה
+Gen 20:7; Prov 4:4,
+וֶחְיֶ֯ה
+Prov 7:2 feminine
+singular חֲיִי
+Ezek 16:6 (twice
+in verse); masculine plural וִחְיוּ
+Gen 42:18 + 7
+t.; Infinitive absolute
+חָיֹה
+2Kgs 8:10 + 6 t.;
+חָיוֺ
+Ezek 3:21 + 3 t.;
+construct
+לִחְיוֺת
+Ezek 33:12,
+suffix חֲיוֺתָם
+Josh 5:8 —
+
+1.
+live:
+
+a.
+have life, Gen 31:32 (
+E
+),
+Exod
+33:20 (
+J
+), Num
+4:19
+(
+P
+),
+Deut
+30:16 +; also in phrase וַיְחִי
+and he lived (so many years) with accusative of time, Gen 5:3-30 (16 t.) Gen 9:28;
+Gen
+11:11-26
+(14 t.) Gen
+47:28 (all
+P
+),
+Gen
+50:22 (
+E
+),
+2Kgs 14:17 = 2Chr 25:25; Job 42:16.
+
+b.
+continue in life, remain alive
+Gen 20:7 (
+
+E
+),
+Lev
+25:36; 2Sam 12:22 +; also נפשׁ
+׳
+ח
+live, of the soul or the self
+Gen 12:13
+;
+Gen 19:20
+(
+
+J
+),
+1Kgs 20:32; Ps 119:175; Jer 38:2; Jer 38:17; Jer 38:20; Isa 55:3
+וְחַי הַיָּ֑לֶד
+and the boy may live
+2Sam 12:22
+
+לִפְנֵי
+׳
+ח
+live in the presence of
+Gen 17:18
+(
+
+P
+) Hos 6:2
+
+׳
+ב
+׳
+ח
+live among
+Lam 4:20.
+
+c.
+sustain life, live on or upon (על), of the animal
+life, by the sword Gen 27:40 (
+J
+), by bread
+Deut
+8:3 elsewhere in pregnant sense of fulness of life in divine favour, sustained by (על
+
+) everything that issueth out of the mouth of ׳
+י
+Deut 8:3 his
+promises (?) Isa
+38:16 of wicked man, by repentance Ezek 33:19 with בְּ by the statutes and
+judgments
+of ׳
+י if a man do them, Lev 18:5 (
+H
+)
+Ezek
+20:11; Ezek 20:13; Ezek 20:21; Ezek 20:25; Neh 9:29
+צַדִּיק בֶּאֱמוּנָתוֺ יִחְיֶה
+a righteous man by his faithfulness shall live
+Hab 2:4.
+
+d.
+live (prosperously) יְחִי הַמֶּלֶך
+may the king live
+1Sam 10:24
+;
+2Sam 16:16
+(twice in verse); 1Kgs 1:25; 1Kgs 1:31; 1Kgs 1:34; 1Kgs 1:39; 2Kgs 11:12; 2Chr 23:11
+
+יְחִי
+לְבַבְכֶם
+Ps 22:27
+;
+Ps 69:33
+
+המלך לעולם יחיה
+Neh 2:3.
+
+2.
+be quickened, revive:
+
+a.
+from sickness
+Num 21:8;
+Num 21:9;
+Josh 5:8 (
+
+E
+) 2Kgs 1:2
+; 2Kgs 8:8
+;
+2Kgs 8:9;
+2Kgs 8:10
+;
+2Kgs 8:14
+;
+2Kgs 20:1
+;
+2Kgs 20:7
+=
+Isa 38:1;
+Isa 38:9;
+Isa 38:21
+.
+
+b.
+from discouragement of the spirit Gen 45:27 (
+E
+).
+
+c.
+from faintness
+Judg 15:19
+.
+
+d.
+from death
+2Kgs 13:21
+; Job
+14:14; Isa 26:14; Isa 26:19 by return of נפשׁ
+1Kgs 17:22
+, of רוּהַ
+Ezek 37:3
+;
+Ezek 37:5
+;
+Ezek 37:6
+;
+Ezek 37:9
+;
+Ezek 37:10
+;
+Ezek
+37:14 (and so Judg 15:19 c).
+
+Pi`el
+Perfect 3 masculine singular חִיָּה
+Ps 22:30
+3 feminine singular suffix חִיָּ֑תְנִי
+Ps 119:50
+2 masculine singular suffix חִיִּיתַנִי
+Ps 30:4
+חִיִּיתָ֑נִי Paslm Ps 119:93 3 plural חִיּוּ
+Judg 21:14
+, הַחִיִּיתֶם
+Num 31:15
+
+Imperfect
+יְחַיֶּה
+1Sam 27:9
++, etc.; Imperative suffix חַיֵּנִי
+Ps 119:25
++ 8 t., חַיֵּיהוּ
+Hab 3:2
+Infinitive construct
+חַיּוֺת
+Gen 7:3; Ezek 13:19
+suffix חַיֹּתֵנוּ
+Deut 6:24
++, etc.; Participle
+מְחַיֶּה
+Neh 9:6; 1Sam 2:6 —
+
+1.
+preserve alive, let live
+Exod 1:17
+; Exod
+1:18; Exod
+1:22;
+Exod 22:17; Josh 9:15 (
+J
+
+E
+), Gen
+12:12 (
+J
+), Num
+31:15 (
+P
+),
+Deut 6:24; Deut 20:16; Judg 21:14; 1Sam 27:9; 1Sam 27:11; 1Kgs 18:5
+; 2Kgs
+7:4;
+Jer 49:11; Ezek 3:18; Hab 3:2; Job 36:6; Ps 30:4; Ps 33:19; Ps 41:3;
+Ps 138:7
+
+נפשׁ
+׳
+ח
+preserve oneself alive
+Ps 22:30
+; Ezek
+18:27, or preserve persons alive
+Ezek
+13:18; Ezek 13:19, or preserve life
+1Kgs
+20:31
+זרע
+׳
+ח
+preserve seed alive
+Gen 7:3;
+Gen 19:32
+;
+Gen 19:34 (
+J
+); keep in existence heaven and earth Neh 9:6
+nourish, young cow Isa 7:21, lamb 2Sam 12:3.
+
+2.
+give life, to man when created Job 33:4.
+
+3.
+quicken, revive, refresh:
+
+a.
+restore to life, the dead 1Sam 2:6; Deut 32:39; Hos 6:2 the dying Ps 71:20
+.
+
+b.
+cause to grow, grain Hos 14:8.
+
+c.
+restore, a ruined city 1Chr 11:8, stones destroyed by fire Neh 3:34
+.
+
+d.
+revive, the people of ׳
+י by ׳
+י himself with fulness of life in his favour Ps 80:19; Ps 85:7; Ps 119:25; Ps
+119:37; Ps 119:40; Ps 119:50; Ps 119:88; Ps
+119:93; Ps 119:107; Ps 119:149; Ps 119:154; Ps
+119:156; Ps 119:159; Ps 143:11; Eccl 7:12.
+
+Hiph`il
+Perfect
+הֶחֱיָה
+Josh 6:25
++ 5 t.; 2 masculine singular suffix הֶחֱיִתָנוּ
+Gen
+47:25 1 singular הֶחֱיֵיתִי
+Num
+22:33, הַחֲיִתֶם
+Josh 2:13
+;
+Judg 8:19
+Imperative suffix הַחֲיֵינִי
+Isa
+38:16
+הַחֲיוּ
+Num
+31:18
+Infinitive absolute
+הַחֲיֵה
+Josh 9:20
+
+construct
+הַחֲיוֺת
+Gen 6:20
++ 6 t.; הַחֲיֹת
+Gen 6:19
+; Gen 50:20
+suffix הַחֲיֹתוֺ
+
+Ezek 13:22 —
+
+1.
+preserve alive, let live
+Gen
+45:7;
+Gen 50:20 (
+E
+), Gen
+47:25;
+Num 22:33;
+Josh 2:13;
+Josh
+6:25 (all
+J
+), Josh
+14:10 (
+D
+); Gen 6:19
+; Gen 6:20
+; Num 31:18;
+Josh
+9:20 (
+P
+), Judg 8:19
+; 2Sam 8:2;
+Ezek 13:22
+with
+נפשׁ
+
+Gen 19:19 (
+J
+).
+
+2.
+quicken, revive:
+
+a.
+restore to health, a leper 2Kgs 5:7, Hezekiah
+Isa 38:16.
+
+b.
+revive the לֵב and רוּחַ
+
+Isa 57:15 (twice in verse).
+
+c.
+restore to life, the dead 2Kgs 8:1; 2Kgs 8:5 (3 t. in
+verse).
+
+---

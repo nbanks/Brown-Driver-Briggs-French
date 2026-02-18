@@ -1,0 +1,183 @@
+=== BDB2530 H2280 ===
+Biblical Hebrew
+
+[חָבַשׁ] verb
+bind, bind on, bind up (Late Hebrew id.; Assyrian
+abâšu,
+according to Dl^W 70, Pr 174^; Arabic
+[placeholder1607: Placeholders/1607.gif]
+confine, restrict; yet on Assyrian
+—ibšu
+
+'Kopfbinde' (with חֿ), etc., see
+Zehnpf^BAS i. 499, 526^; Aramaic
+[placeholder1608: Placeholders/1608.gif]; compare
+[placeholder1609: Placeholders/1609.gif], חֲבוּשְׁיָא
+imprisonment, etc.) —
+
+Qal
+Perfect 2 masculine singular וְחָבַשְׁתָּ֫
+Exod 29:9 2
+masculine plural חֲבַשְׁתֶּם
+Ezek 34:4
+Imperfect
+יַחֲבוֺשׁ
+Job 34:17
+וַיַּחֲבשׁ
+Gen 22:3 + 4 t.;
+וַיַּחֲבָשֿׁ
+1Kgs 13:23
+וְיֶחְבָּ֑שׁ
+Job 5:18
+וַיַּחְבְּשֵׁנוּ
+Hos 6:1 3 feminine
+singular וַתַחֲבשׁ
+2Kgs 4:24
+אֶחֱבשׁ
+Ezek 34:16
+cohortative אֶחְבְּשָׁהֿ
+2Sam 19:27
+(but compare below); וָאֶחְבְּשֵׁךְ
+Ezek 16:10
+וַיַּחְבְּשׁוֿ
+1Kgs 13:13
+וַיַּחֲב֑שׁו
+1Kgs 13:27
+Imperative
+חֲבשׁ
+Job 40:13
+חֲבוֺשׁ
+Ezek 24:17
+חִבְשׁוּ
+1Kgs 13:13;
+1Kgs 13:27
+Infinitive construct
+חֲבשׁ
+Isa 30:26;
+Isa 61:1
+לְחָבְּשָׁהּ
+Ezek 30:21
+(strike out Co, compare
+
+ᵐ5
+
+). Participle
+active
+חֹבֵשׁ
+Isa 3:7
+passive
+חָבוּשׁ
+Jonah 2:6
+חֲבוּשִׁים
+Judg 19:10
+חֲבֻשִׁים
+2Sam 16:1; Ezek 27:24 —
+
+1.
+bind, bind on:
+
+a. headgear, with accusative of thing, לְ person Exod 29:9; Lev 8:13
+(both
+P
+); with על person Ezek 24:17 (
+P
+); passive of seaweeds clinging about head סוּף חָבוּשׁ
+לְראֹשִׁי
+Jonah 2:6
+with
+suffix person and בְּ of thing וָאֶחְבְּשֵׁךְ
+Ezek 16:10
+
+and I bound (or wound) about thee (i.e.
+thy
+head, Sm
+
+VB
+) שֵׁשׁ (in metaphor of ׳
+י's care for Jerusalem; || אַלְבִּישֵׁךְ, אֶנְעֲלֵךְ);
+figurative of punishment for wicked פְּנֵיהֶם חֲבשׁ בטמון
+Job 40:13
+
+bind their faces in darkness (|| טָמְנֵם בֶּעָפָר) see Di.
+
+b. passive probably twined, twisted
+in חֲבָלִים חֲבֻשִׁים וַאֲרֻזִים
+Ezek 27:24
+, cords twisted and strong, see Sm
+Da. Especially
+
+c. of equipping a beast for riding;
+ass, in accusative Gen
+22:3;
+Num 22:21 (both
+E
+),
+2Sam 17:23 & 2Sam 19:27 (where however read לוֺ חָבְשָׁהלִּֿי, so
+
+ᵐ5
+
+ᵑ6
+
+ᵑ9
+
+Th
+We
+Dr), 1Kgs 2:40; 1Kgs 13:13 (twice in verse); 1Kgs 13:23; 1Kgs 13:27
+(twice in verse)
+(1Kgs 13:27
+b no direct object expressed) 2Kgs 4:24 passive, also of asses, Judg 19:10; 2Sam 16:1.
+
+d.
+figurative = restrain, control (German bändigen), absolute
+Job 34:17
+.
+
+2.
+bind up, namely a wound, usually in figure, of comforting the distressed, etc.; with suffix
+person Hos 6:1
+(||
+רָפָא, opposed to הִכָּה); followed by לְ person
+לַחֲבשׁ לְנִשְׁבְּרֵילֵֿב
+Isa 61:1
+compare Ezek
+34:4
+(followed by לַנִּשְׁבֶּרֶת; || חַזֵּק, רִפֵּא), v
+Ezek 34:16
+
+(followed by id.; || חִזֵּק); followed by accusative of thing
+
+בְּיוֺם
+אֶתשֶֿׁבֶר עַמּוֺ
+׳
+חֲבשׁ י
+Isa 30:26
+
+(|| רָפָא); with accusative of Pharaoh's broken arm Ezek 30:21 (si vera lectio,
+see above; compare
+Pu`al); absolute Job 5:18 also Isa 3:7 of repairing fortunes of people (opposed to
+הִכְאִיב; || רָפָה = רָפָא).
+
+Pi`el
+Perfect
+חִבֵּשׁ
+bind, restrain
+מִבְּכִי נהרות
+Job
+28:11
+Participle
+מְחַבֵּשׁ
+bind up
+לְעַצְבוֺתָם
+Ps 147:3
+.
+
+Pu`al
+Perfect
+be bound up
+חֻבְּשָׁה
+
+Ezek 30:21 (metaphor) Pharaoh's broken arm; חֻבָּ֑שׁוּ
+Isa 1:6
+(wounds of land of Judah).
+
+---

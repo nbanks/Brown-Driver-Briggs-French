@@ -1,0 +1,416 @@
+=== BDB4239 H3789 ===
+Biblical Hebrew
+
+כָּתַב_223_
+verb
+write (Late Hebrew id.; Phoenician כתב; Aramaic
+כְּתַב,
+[placeholder2678: Placeholders/2678.gif] Nabataean כתב, see especially Nö in
+Eut^Nab. p. 43^; thence Arabic
+[placeholder2679: Placeholders/2679.gif] Ethiopic
+[placeholder2680: Placeholders/2680.gif]
+book, Di^Lex. 852^ (as loan-words, Frä^249^
+DHM^VOJ i (1887), 29^); MV
+Buhl compare Arabic
+[placeholder2681: Placeholders/2681.gif]
+draw or sew together, conjoin (letters), etc., compare
+Fl^ZMG 1873, 427^) —
+
+Qal
+Perfect
+׳
+כ
+Josh 8:32 +,
+כָּתַבְתָּ
+Jer 36:6 +, suffix
+וּכְתַבְתָּם consecutive Deut 6:9; Deut 11:20, etc. (Perfect 27 t.); Imperfect
+יִכְתֹּב
+Isa 44:5,
+וַיִּכְתֹּב
+Exod 24:4 +, etc.
+(Imperfect 39 t.); Imperative
+כְּתֹב
+Isa 8:1 + 5 t.,
+כְּתָבֿ
+Exod 34:27 + 2
+t.; suffix כָּתְבָהּ
+Isa 30:8,
+כָּתְבֵם
+Prov 3:3; Prov 7:3 plural
+כִּתְבוּ
+Deut 31:9 + 3 t .;
+Infinitive absolute
+כָּתוֺכ
+Jer 32:44
+cstr
+כְּתוֺב
+Ps 87:8,
+לִכְתֹּב
+Deut 31:24;
+Josh 18:8 suffix
+כָּתְבוֺ
+Jer 45:1
+Participle
+active
+כֹּתֵב
+Jer 36:18,
+plural כֹּתְבִים
+Jer 32:12;
+Neh 10:1
+passive (113 t.), כָּתוּב
+Josh 1:8 +, feminine
+כְּתוּבָה
+2Sam 1:18 +,
+plural כְּתוּבִים
+1Kgs 15:7 +,
+כְּתֻבִים
+1Kgs 11:41 +;
+feminine plural כְּתוּבוֺת
+2Chr 34:24 —
+
+1.
+write:
+
+a. with accusative, words Exod 34:27, commandments Exod 24:12, etc.; accusative of cognate
+meaning with verb מכתב
+Exod 39:30
+,
+compare כַּמִּכְתָּב
+Deut 10:4
+with
+כְּ, giving purport of writing, also Esth 8:8 but object also a book, סֵפֶר
+Exod 32:32
+;
+Deut 24:1
+מְגִלָּה
+Jer 38:6,
+compare participle pass, וְהִיא כְּתוּבָה פָּנִים וְאָחוֺר
+Ezek 2:10
+(
+of מגלה; i.e. written on both sides); a letter, סֵפָר
+2Sam 11:14
+; 2Kgs
+10:1
++ 4 t., אִגֶּרֶת
+2Chr 30:1
+a
+divorce-certificate סֵפֶר כְּרִיתֻת
+Deut 24:1,
+etc.; even לֻחֹת כְּתֻבִים
+tablets inscribed by the finger of God Exod 31:18 compare Deut 9:10
+מִשְּׁנֵי עֶבְרֵיהֶם
+׳
+כ
+׳
+ל
+Exod 32:15
+
+tables inscribed on both sides (compare Ezek 2:10 above) Here belongs (probably)
+׳
+וְזֶה יִכְתֹּב יָדוֺ לי
+Isa 44:5
+and this one shall
+inscribe his hand, 'Yahweh's', so
+
+ᵐ5
+
+Hi
+Kn
+Che
+Br
+Du
+Di, Ges
+Ew
+De, shall sign (with) his hand
+unto
+
+׳
+י.
+
+b. more often write something on
+, or in (עַלֿ 85 t., בְ 44 t.,
+אֶלֿ
+3 t.) a tablet, roll, book, etc. (object various, as above): — (I) עַלֿ
+׳
+כ followed by סֵפֶר = book
+Deut 17:18
+
++ 55 t., especially in phrase ׳
+כתובים עלסֿפר דברי וגו
+1Kgs 11:41
++ often Kings Chronicles; עַלמְֿגִּלָּה
+׳
+כ
+Jer 36:2;
+Jer 36:28
+;
+Jer 36:32
+;
+Jer 38:29
+
+עַללֿוּח(ותׅ
+׳
+כ
+Exod 34:1 +
+7
+t., עַלאֶֿבֶן
+Deut 27:3 +
+2
+t., עַלגּֿלָּיוֺן
+Isa 8:1
+עַלמְֿזֻזוֺת בַּיִת
+Deut 6:9; Deut 11:20
+
+עַלמַֿטֶּה
+on a rod
+Num 17:17
+;
+Num 17:18
+
+עַלעֵֿץ
+Ezek 37:16
+(twice in verse), עַלצִֿיץ (high priest's plate) Exod 39:30 even (only
+Chronicles) עַלֿ
+followed by name of book or its contents: — עַלדִּֿבְרֵי נָתָן
+׳
+כ
+2Chr 9:29
+compare
+2Chr
+33:19
+׳
+עַלמִֿדְרַשׁ וגו
+2Chr 24:27
+
+עַלהַֿקִּינוֺת
+2Chr 35:25
+figurative, עַללִֿבָּם
+׳
+כ
+
+Jer 31:83
+
+I will write them upon their heart; compare עַללֿוּחַ לִבֶּ֑ךָ
+׳
+כ
+Prov 3:3. (2)
+אֶלֿ
+׳
+כ appears for עַלֿ
+׳
+כ only Jer 36:2 compare Ezek 2:10; Jer 51:60. (3) בְּ
+׳
+כ followed by ספר = book
+Josh 24:26
+
+(
+E
+) + 35 t.; = letter, bill, deed, 1Kgs 21:9 + 5 t.; בִּמְגִלַּת
+
+סֵפֶר כָּתוּב עָלָ֑י
+Ps 40:8
+it is prescribed to me, על as 2Kgs 22:13 (
+
+N.B.
+עלֿ
+׳
+כ not used with סֵפֶר = letter, and בְּ
+
+׳
+כ not used with לוּחַ, אבן or עֵץ).
+
+c. other uses of perp. with ׳
+כ are: — בְּ instrumental, בְּחֶרֶט אֱנוֺשׁ
+׳
+כ
+Isa 8:1,
+
+בְּעֵט בַּרְזֶל
+׳
+כ
+Jer 17:1
+כְּתֻבִים
+בְּאֶצְבַּע אֱלֹהִים
+Deut 9:10;
+Exod 31:18
+
+אֶלֿ
+׳
+כ
+unto, of person to whom letter, etc., is addressed 2Sam 11:14; 2Kgs 10:6;
+Esth 9:13
+עַלֿ substantive for אֶלֿ (late) 2Chr 30:1; Ezra 4:7; Esth 8:8 the fuller construction is
+ספר וישׁלח
+(אֶלֿׅ
+׳
+כ
+2Kgs 10:1
+; Esth 8:10
+; Esth
+9:20 +;
+אֶלֿ
+׳
+כ
+write down for the benefit or use of some one, Judg 8:14
+לְ
+to or for, Deut 17:18; Deut 24:1 +; note especially אֶכְתָּו֯בלֿוֺ רֻבֵּו֯
+תּוֺרָתִי
+Hos 8:12,
+i.e.
+either, I write (keep writing) for them ever so many (
+We
+, רֹב, compare
+[placeholder2682: Placeholders/2682.gif]
+Ew and most רִבּוֺ(אׅ a myriad) of my
+directions
+, or 'Though I write,' 'Were I to write,' etc.; ׳
+כ followed by ל with infinitive of purpose 2Chr 32:17; Esth 8:5 with
+מִן in phrase
+׳
+מִפִּי פ
+׳
+כ
+write from the mouth of any one i.e. from dictation, Jer 36:2; Jer 36:32; Jer 38:6;
+Jer 38:17
+; Jer
+38:27; Jer 45:1.
+
+2. = write down, describe in writing, אֶתהָֿאָרֶץ
+׳
+כ
+Judg 18:4;
+Judg 18:6;
+Judg 18:8
+(3 t. in
+verse); Judg 18:9
+.
+
+3. = register, enroll
+Isa 10:19
+(=
+record the number),
+1Chr 24:6 especially passive הַכְּתוּבִים
+Num 11:26
+
+those enrolled compare Neh 12:22
+בְּשֵׁמוֺת
+׳
+הַכּ
+1Chr 4:41
+those recorded by name; in prediction, אֶתהָֿאִישׁ
+׳
+כ
+הַזֶּה עֲרִירִי
+Jer 22:30
+
+register this man as childless; with eschatological reference, כָּלהַֿכָּתוּב
+לַחַיִּים
+Isa 4:3
+all those enrolled (i.e. appointed) unto life; and, more
+explicitly,
+כָּלהַֿנִּמְצָא כָּתוּב בַּסֵּפֶר
+Dan 12:1
+יִסְפֹּר בִּכְתוֺבּ עַמִּים
+׳
+י
+Ps 87:6
+׳
+י
+shall reckon, when he registers (note absence of suffix) the
+peoples, etc.
+
+4. = decree, תִּכְתֹּב עָלַי מְרֹרוֺת
+Job 13:26
+
+thou (׳
+י) decrest against me bitter things.
+
+Niph`al (chiefly late, especially Esther), Imperfect
+יִכָּתֵב
+Esth 1:19
++,
+3 feminine singular תִּכָּ֫תֶב זֹאת
+Ps
+102:19
+3 masculine plural יִכָּתֵ֑בוּ
+Jer
+17:13
++ 3 t., יִכָּֽתְבוּן
+Job
+19:23
+Participle
+נִכְתָּב
+Esth 3:12
++ 2
+t.; —
+
+1.
+be written, subject words Job 19:23, book Mal 3:16
+be written
+בְּסֵפֶר
+Esth
+2:23
+; Esth
+9:23
+, in, or among
+ב the laws Esth 1:19 once, with עַלֿ, עַלסִֿפְרְךָ
+כֻּלָּם
+יִכָּתֵ֑בוּ
+
+Ps 139:16
+
+in thy
+׳
+י's book all of them (my members) are written
+
+, i.e. written down, recorded (see below); absolute כְּתָב אֲשֶׁר
+נִכְתָּב
+
+בְּשֵׁם הַמֶּלֶךְ
+Esth 8:8
+
+a writing which is written in the king's name, compare (impersonal) Esth
+3:12
+impersonal also וַיִּכָּתֵב כְּכָלאֲֿשֶׁר צִוָּה
+Esth
+3:12
+; Esth 8:9
+
+׳
+יִכָּ followed by לְ = for
+
+Ps 102:19
+followed by לְ + infinitive (really = a subject-cl., — the contents of the
+letter)
+Esth 3:9
+;
+Esth 8:5
+.
+
+2.
+be written down, recorded, Ezra 8:34
+enrolled, בִּכְתָב
+בית ישׂראל לֹא יִכָּתֵ֑בוּ
+Ezek
+13:9
+in the enrolement of the house of Israel they are not enrolled (eschatolog.);
+וְעִםצַֿדִּיקִים אַליִֿכָּתֵ֑בוּ
+Ps
+69:29
+(|| חַיִּים יִמָּחוּ מִסֵּפֶר) — בָּאָרֶץ יִכָּתֵ֑בוּ
+Jer
+17:13
+is difficult; Gie reads, plausibly, מֵאֶרֶץ
+יִכָּרֵ֑תוּ (compare Ps 34:17; Ps 101:8, etc.)
+
+Pi`el frequently, Perfect and Participle, only
+כִּתֵּ֑בוּוּמְכַתְּבִים עָמָל
+Isa
+10:1
+and busy writers that make a business of writing oppression (i.e.
+register
+unjust sentences, compare
+Qal
+4; || הַחֹקֲקִים חִקֲקֵיאָֿוֶן).
+
+---

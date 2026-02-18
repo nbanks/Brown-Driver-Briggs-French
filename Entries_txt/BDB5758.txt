@@ -1,0 +1,35 @@
+=== BDB5758 H5670 ===
+Biblical Hebrew
+
+[עָבַט] verb
+denominative
+take or give a pledge; —
+
+Qal
+Infinitive construct
+לַעֲבֹט
+Deut 24:10
+to take possession of a thing pledged (with accusative of cognate meaning with verb);
+Imperfect 2 masculine singular give a pledge
+תַּעֲבֹט
+Deut 15:6 (i.e.
+borrow).
+
+Hiph`il
+Perfect 2 masculine singular וְהַעֲבַטְתָּ֫ גּוֺיִם רַבִּים Deut 15:6
+and thou shalt cause many nations to give pledges (i.e. lend to them); Imperfect
+3 masculine singular suffix + Infinitive absolute
+הַעֲבֵט תַּעֲבִיטֶנּוּ Deut 15:8
+thou shalt surely lend to him (literally as above).
+
+Pi`el
+Imperfect
+יְעַבְּטוּן
+Joel 2:7 hardly makes
+sense (lend on pledge = interchange ?); most read יְעַבְּתוּן
+; יְעַוְּתוּן
+We, compare Now
+Dr
+GASm; Gr. יַטוּן.
+
+---

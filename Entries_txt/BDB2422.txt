@@ -1,0 +1,217 @@
+=== BDB2422 H2199 ===
+Biblical Hebrew
+
+[זָעַק] verb
+cry, cry out, call (|| form of
+צעק
+q. v.; Arabic
+[placeholder1531: Placeholders/1531.gif], Aramaic
+[placeholder1532: Placeholders/1532.gif]) —
+
+Qal
+Perfect 3 feminine singular וְזָעָ֑קָה
+2Sam 13:19 1
+singular זָעַקְתִּי
+Ps 142:6 3
+plural זָָֽעֲקוּ
+Judg 6:7 + 3 t.;
+וְזָעֲקוּ consecutive Judg 11:11 + 2 t.; 2 masculine plural וּזְעַקְתֶּם consecutive
+1Sam 8:18
+Imperfect 3 masculine singular יִזְעָ֑ק
+Isa 15:5
+וַיִּזְעַק
+1Sam 7:9 + 5 t., etc.;
+Imperative
+זְעַק
+Ezek 21:17
+feminine singular זַעֲקְיֿ
+Isa 14:31,
+compare Jer 48:20
+
+Kt
+; וְזַעֲקוּ
+Judg 10:14 + 2
+t.; וּזְעָ֑קוּ
+Jer 48:20
+
+Qr
+; Infinitive construct
+מִזְּעֹק
+1Sam 7:8
+וְלִזְעֹק
+2Sam 19:29
+suffix זַעְקֶ֑ךָ
+Isa 30:19
+בְּזַעְקֵךְ
+Isa 57:13 (
+Ol^§ 245 b^
+Ges^«GKC:61»§ 61^. 1. R 1); —
+
+1.
+call, to one's aid, followed by accusative of person Judg 12:2.
+
+2.
+cry, cry out, in need:
+
+a. unto God (׳
+י), followed by אֶלֿ
+Judg 3:9; Judg 3:15;
+Judg 6:6; Judg 6:7; Judg 10:10
+;
+1Sam 7:8; 1Sam 7:9 (+
+
+בעד of intercession), 1Sam 12:8; 1Sam 12:10; 1Sam 15:11; Mic 3:4; Jer 11:11; Hab 1:2 (with accusative
+חמס, compare Hos 8:2 below),
+2Chr 20:9
+;
+Ps 22:6;
+Ps 107:13
+;
+Ps
+107:19; Ps 142:6; Joel 1:14 followed by ׳
+אֶליֿ + בְּקוֺל גָּדוֺל
+Neh 9:4 +
+
+קוֺלִי
+Ps 142:2
+
+(|| התחנן); + בְּלִבָּם
+Hos 7:14
+(opposed to הֵילִיל); followed by לְ
+Hos 8:2 (+
+object
+of words uttered),
+1Chr 5:20 followed by suffix Neh 9:28 followed by הַשָּׁמַיִם (without divine name)
+2Chr 32:20
+
+(|| התפלל); absolute, but with implication of cry to ׳
+י
+1Sam 8:18;
+Isa 30:19
+.
+
+b. unto other gods, followed by אֶלֿ
+Judg 10:14
+;
+Jer 11:12
+;
+Jonah 1:5.
+
+c. unto king, followed by אֶלֿ
+2Sam 19:29
+.
+
+d. absolute, utterance of horror, anxiety, alarm, distress, sorrow, etc. 1Sam 4:13;
+1Sam 5:10;
+1Sam 28:12
+
+(+ בקול גדול), 2Sam 13:19; 2Sam 19:5 (+ קול גדול), 1Kgs 22:32 = 2Chr 18:31
+; Isa 15:4
+; Isa
+26:17;
+Isa 57:13
+;
+Jer 20:8
+(||
+קרא, compare Hab 1:2 above), Lam 3:8 (|| אֲשַׁוֵּעַ) Ezek 9:8; Ezek 11:13; Ezek 27:30
+also of cry
+heard by God Exod
+2:23 (
+P
+); followed by לְ of that in behalf of, or for which one cries Isa 15:5; Jer 48:31
+so followed by
+עַלֿ
+Jer 30:15
+
+followed by accusative of cognate meaning with verb זְעָקָה
+Esth 4:1 ||
+היליל
+Jer 47:2
+and
+especially Imperative Isa 14:31; Jer 25:34; Jer 48:20; Ezek 21:17.
+
+e.
+cry out against one, followed by עַלֿ
+Job 31:38
+
+if my land cry out against me (|| יִבְכָּיוּן); compare also
+(absolute, and without preposition) Hab 2:11
+the stone shall cry out of (מִן) the wall.
+
+Niph`al
+Perfect 2 masculine singular נִזְעָ֑קְתָּ
+Judg
+18:23 3 masculine plural נִזְעֲקוּ
+Judg
+18:22
+Imperfect
+וַיִּזָּעֵק
+Judg 6:34
++ 2 t.; וַיִּזָּעֲקוּ
+Josh 8:16
+— be called together
+= be called out for military service, passive of
+Hiph`il
+1.; compare GFM^
+Judg
+18:28
+^; assemble, join
+Josh 8:16
+(
+J
+
+E
+), Judg
+18:22;
+Judg
+18:23;
+1Sam
+14:20 followed by אַחֲרָיו
+
+Judg 6:34
+; Judg
+6:35
+assembled after him, i.e. joined him as his followers.
+
+Hiph`il
+Imperfect
+וַיַּזְעֵק
+Judg 4:10
++ 3 t.; יַזְעִיקוּ
+Job 35:9
+
+Imperative
+הַזְעֶקֿ
+2Sam
+20:4
+Infinitive construct
+לְהַזְעִיק
+2Sam
+20:5 —
+
+1.
+call, call out, or together, for military service,
+followed by accusative Judg 4:10; Judg 4:13; 2Sam 20:4; 2Sam
+20:5.
+
+2.
+make a crying
+Job
+35:9 (יְשַׁוְּעוּ in || clause)
+
+3.
+have proclamation made
+ויאמר
+׳
+ויז
+Jonah
+3:7.
+
+4.
+call out to, or at, followed by accusative וַיַּזְעֵק אֹתִי וַיְדַבֵּר
+
+Zech
+6:8 (si vera lectio; Gr queries
+וַיָּעַר ?).
+
+---

@@ -1,0 +1,292 @@
+=== BDB3539 H3201 ===
+Biblical Hebrew
+
+יָכֹל, יָכוֺל_193_
+verb
+be able, have power, prevail, endure (Late Hebrew id.; Aramaic
+יְכִיל; Assyrian
+akâlu
+, Hpt in KAT^2 Gloss
+i^,) —
+
+Qal
+Perfect
+יָכֹל
+Gen 32:26 + 8
+t.; יָכוֺל
+1Sam 4:15 + 2 t.; 3
+feminine singular יָכְלָה
+Gen 36:7; Exod 2:3 2 masculine
+singular וְיָכָלְתָּ֫
+Exod 18:23 1
+singular יָכֹלְתִּי
+Gen 30:8 + 2 t.;
+suffix יְכָלְתִּיו
+Ps 13:5 3 plural
+יָכְ֑לוּ
+Gen 13:6 + 27 t. +
+Josh 15:63
+
+Qr
+; יָכֹ֑לוּ
+Exod 8:14 + 2 t.;
+Imperfect 3 masculine singular יוּכָל
+Gen 13:16 + 34
+t.; יוּכָ֑ל
+Job 4:2 + 4 t.;
+וַיֻּכָ֑ל
+Hos 12:5 3
+feminine singular תּוּכַל
+Amos 7:10 + 2 t.;
+2 masculine singular תּוּכַל
+Gen 15:5 + 16 t.; 1
+singular אוּכַל
+Gen 19:19 + 30
+t., etc. (on these Imperfect forms as irregular Qal, see Ges^«GKC:2»§
+2^, R. 3 Kö^i. 407^
+W^SG 237^; others
+Hoph`al); Infinitive construct
+יְכֹ֫לֶת
+Num 14:16;
+Deut 9:28
+Infinitive absolute
+יָכוֺל
+Num 13:20;
+2Chr 32:13
+
+יָכֹל
+Num 22:38;
+1Sam 26:25
+
+P
+8 t. (not Leviticus), Ezek 3 t.; often
+J
+
+E
+
+D
+Jeremiah, Isa^2^, not seldom in Samuel Kings
+Chronicles; —
+
+1.
+be able, to do a thing, whether ability be physical, moral, constitutional, or dependent on
+external authority; usually of man Gen 13:16 (
+J
+) +, but also of gods 2Chr 32:13; 2Chr 32:15, and of ׳
+י
+Num 14:16
+(
+J
+
+E
+), Deut
+9:28;
+Jer 44:22 occasionally of inanimate things Amos 7:10; Gen 36:7 (
+P
+), Song
+8:7;
+Eccl 1:15 (twice in verse), etc.:
+
+a. usually followed by infinitive with
+לְ (122 t.), Gen 31:35
+I am not able to rise up; Gen 45:1
+Joseph was not able to restrain himself, Gen 45:3; Gen 48:10; Exod 7:21; Exod 7:24
+were not able to drink, Exod 12:39; Josh 24:19 (all
+E
+);
+Gen 13:16
+if a man can number the dust, Gen 19:19; Gen 19:22; Gen 43:32; Gen 44:22; Gen 44:26
+(twice in verse); Exod 10:5; Exod 19:23 (all
+J
+), Gen
+15:5; Exod 15:23; Num 11:14 (all
+J
+
+E
+) + 10 t.
+J
+
+E
+; Deut
+7:17 + 10 t.
+D
+; Gen
+13:6
+they could not dwell together, Gen 34:14; Gen 36:7; Exod 9:11; Exod 40:35; Num 9:6; Josh 9:19
+(all
+P
+); 1Sam 3:2
+; 1Sam 6:20
+; 1Kgs
+9:21 (on || 2Chr 8:8 and text of Judg 1:19 see Bu^RS
+8^), Amos 7:10; Hos 5:13; Zeph 1:18; Jer 6:10; Jer 11:11; Jer 13:23
+; Jer 18:6
+; Jer
+19:11 +.
+
+b. followed by infinitive without לְ (27 t.; not
+
+P
+): Gen
+37:4; Exod
+2:3; Exod 18:18; Exod 18:23 (all
+E
+),
+Gen 24:50; Gen 44:1 (
+J
+),
+Num 22:37; Num 22:38 (
+J
+
+E
+), Deut 1:9
+; Deut 7:22
+; Deut
+14:24; Deut 22:29; Judg 8:3; Jer 49:10; Jer 49:23; Hab 1:13; Isa 46:2; Isa 47:11
+; Isa
+47:12; Isa 57:20; Lam 1:14; Ps 18:39; Ps 36:13; Ps 78:20; Prov 30:21
+; Job 4:2
+; Job 33:5
+.
+
+c. with infinitive implicit, always negative, Gen 29:8 go and feed them; and
+they said, We are not able, cannot (
+J
+), Exod
+8:14 (
+P
+),
+Isa 29:11; Jer 20:9; Ps 21:12; Jonah 1:13.
+
+d. with negative =
+may not (of moral inability): Gen 43:32 (
+J
+) the Egyptians might not eat bread with the Hebrews; Judg 21:18
+we may not give them wives; especially
+D
+, Deut
+7:22; Deut 12:17; Deut 14:24; Deut 16:5; Deut 17:15; Deut 22:3; Deut 28:27; Deut 28:35
+.
+
+e.
+be able, followed by imperfect: אוּלַי אוּכַל נַכֶּה
+Num 22:6
+(
+J
+
+E
+) perchance I am able (so that) we smite (see
+Di; read perhaps נוּכַל for אוּכַל
+
+Ges^«GKC:120»§ 120^, 1 b); לֹא יוּכְלוּ
+יִגְּעוּ
+Lam 4:14
+
+they are unable, they touch = are unable to touch (
+Dr^§ 163^, Obs.)
+
+f.
+be able, followed by perfect consecutive, only very late, אוּכַל
+וְרָאִיתִי
+Esth 8:6
+(twice in verse), literally how shall I be able and see? — Also in various
+combinations where English idiom would make it an auxiliary to another verb:
+
+g.
+able to gain, accomplish: followed by acc לֹא יוּכְלוּ נִקָּיוֺן
+Hos 8:5
+how long will they be unable (to gain) innocence?
+
+יָדַעְתִּ֯
+כִּיכֹֿל תּוּכָ֑ל
+Job 42:2
+
+I know that thou art able (to do) all things;
+אֵין הַמֶּלֶךְ יוּכַל אֶתְכֶם דָּבָר
+Jer 38:5
+
+the king is not (one who is) able (to do)
+anything with (אֶתְכם for אִתְּכֶם see Gf, i.e. against) you.
+
+h.
+able to endure:
+לֹא אוּכַל אָוֶן וַעֲצָרָה
+Isa
+1:13
+I cannot endure iniquity and (with) a solemn assembly
+, Ps 101:5.
+
+i.
+able to reach, followed by לְ, Ps 139:6 it is
+high, לֹא אוּכַל לָהּ
+I cannot (reach) to it.
+
+2.
+prevail:
+
+a. absolute prevail, overcome, be victor
+Gen 30:8
+(
+
+E
+),
+Gen 32:29 (
+J
+),
+Hos
+12:5; 1Sam 26:25; 1Kgs 22:22 = 2Chr 18:21; Jer 20:7
+;
+Jer 20:11 of waves Jer 5:22
+succeed
+Isa
+16:12
+; Jer 3:5
+(
+VB
+
+hast had they way).
+
+b. followed by לְ
+person,
+prevail against, over
+Gen 32:26
+(
+J
+),
+Num 13:30 (
+J
+
+E
+),
+Judg
+16:5;
+1Sam 17:9; Jer 1:19; Jer 15:20; Jer 20:10; Jer 38:22; Obad 1:7;
+Ps 129:2
+;
+Esth 6:13.
+
+c.
+once with suffix, יְכָלְתִּיו
+Ps 13:5
+I have prevailed over him, + Zech 9:15 (where read וְיָכְלוּם
+for
+וְאָֽכְלוּ with
+
+ᵐ5
+
+ᵑ7
+
+Klo^ThLZ 1879. 564^
+Sta^ZAW 1881, 18^).
+
+3. absolute have ability, strength, only negative
+מִשְּׂאֵתוֺ
+לֹא
+
+אוּכָ֑ל
+Job
+31:23
+
+because of his loftiness I have no ability, am inadequate (to anything).
+
+---

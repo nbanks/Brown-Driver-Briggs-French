@@ -1,0 +1,535 @@
+=== BDB2694 H2398 ===
+hébreu biblique
+
+חָטָא_238_
+verbe
+manquer (un but ou un chemin), s'égarer, pécher (hébreu tardif id. ;
+araméen חֲטָא
+[placeholder1715: Placeholders/1715.gif] assyrien
+—a‰û
+. Zim^BP 46^; sabéen חֿטא,
+החֿטא
+id., DHM in MV
+; arabe
+[placeholder1716: Placeholders/1716.gif]
+mal agir, commettre une erreur ou une faute ; II. faire manquer
+le but ; IV. manquer le but, manquer le chemin ; éthiopien
+[placeholder1717: Placeholders/1717.gif]
+ne pas trouver ou avoir ; parfois pécher, surtout
+dans les dérivés) —
+
+Qal
+Parfait
+׳
+ח
+Ex 32,31 +
+29 : t., 3 féminin singulier חָֽטְאָה
+Lv 5,15 ; Lm 1,8,
+חָטָֽאָה
+Jr 50,14 ;
+Ez 16,15,
+חָטָאת
+Ex 5,16, etc., +
+82 t. Parfait ; Imparfait
+יֶחֱטָא
+Lv 4,3 + 12 t.,
+תֶּחֱטָ֫אוּ
+Ex 20,20 ;
+Ps 4,5, etc. + 20 t.
+Imparfait ; Infinitif
+חֲטֹא
+Ez 3,21 + 8 t.,
+מֵחֲטוֺא
+Ps 39,2,
+מֵחֲטוֺ (erreur textuelle pour מחטא) Gn 20,6, בְּחֶטְאָה
+Nb 15,28,
+חֲטאֹתוֺ
+Ez 33,12
+(supprimer Co) ; Participe
+חוֺטֵא
+Pr 13,22 +
+6 t., חֹטֵא
+Es 1,4 ; Qo 9,2,
+חוֺטֶא
+Es 65,20 + 2
+t., חֹטֶא
+Qo 8,12, suffixe
+חֹטְאִי
+Pr 8,36, pluriel
+חֹטִ֯אֿים
+1 S 14,33,
+suffixe חֹטֵאת
+Ez 18,4 ; Ez 18,20 —
+
+1.
+manquer :
+לא תחטא
+tu ne manqueras rien
+Jb 5,24,
+אָץ בְּרַגְּלַיִם חוֺטֵא
+Pr 19,2
+celui qui se hâte avec ses pieds manque (le chemin ou le but) ; חֹטְאִי חֹמֵסנַפְשׁוֺ
+
+Pr 8,36
+celui qui me manque (la Sagesse) se fait tort à lui-même (opposé à
+מֹצְאִי) ; manquer, c.-à-d. mettre en danger, sa vie Pr 20,2 ;
+Ha 2,10
+selon De
+
+VB
+(d'autres ci-dessous 3 q. v.)
+
+2.
+pécher, manquer le but ou le chemin du droit et du devoir :
+
+a.
+contre l'homme, absolu Ex 5,16 (
+E
+),
+1 S 26,21 ; 2 S 19,21 ; 1 R 18,9 ; 2 R 18,14 avec לְ de la personne
+contre laquelle ou envers laquelle on pèche, Gn 40,1 (
+E
+),
+Jg 11,27 ; 1 S 2,25 ; 1 S 19,4 ; 1 S 24,12, 1 R 8,31 = 2 Ch 6,22
+מה חטאתי לך
+en quoi ai-je péché contre toi ?
+Gn 20,9 (
+
+E
+)
+Jr 37,18 avec בְּ, אל תחטאו בילד
+Gn 42,22
+(
+E
+) ne péchez pas contre l'enfant, contre David 1 S 19,4 ; 1 S 19,5.
+
+b.
+partout ailleurs toujours contre Dieu, absolu Ex 20,20 (
+E
+), Ex
+9,34 (
+J
+) Jos
+7,11 (
+D
+) Lv 4,3
+; Lv 5,1 ;
+Lv 5,11 ;
+Lv 5,17
+(deux fois dans le verset) ;
+Lv 5,21 ; Lv 5,23 ; Nb 16,22 (
+P
+), Ne
+6,13 ; Jb
+1,5 ;
+Jb 1,22 ; Jb 7,20 ; Jb 10,14 ; Jb 24,19 ; Jb 35,6 ; Ps 4,5 ; Ps 78,32 ; Es 43,27 ; Es 64,4 ; Jr 2,35 ;
+Lm 5,7 ; Ez 3,21
+(deux fois dans le verset) ; Ez 16,51 ; Ez 28,16 ; Ez 33,12 ; Os 8,11 (supprimer We^ Kl. Proph^.) Os 8,11 ; Os 10,9 ; Os 13,2
+לא נתתי לחטא חכי
+je n'ai pas permis à mon palais de pécher
+Jb 31,30
+
+Participe
+חֹטֵא, employé comme adjectif, nation pécheresse Es 1,4 personne pécheresse Ez 18,4 ; Ez 18,20 mais habituellement
+comme nom, pécheur
+Pr 11,31
+;
+Pr 13,22 ; Pr 14,21 ; Qo 2,26 ; Qo 7,26 ; Qo 8,12 ; Qo 9,2 ; Qo 9,18 ; Es 65,20
+. Le péché est confessé : חָטָאנוּ
+nous avons péché
+Nb 14,40
+; Nb 21,7
+(
+E
+)
+Jg 10,15 ; 1 S 12,10 ; 1 R 8,47 = 2 Ch 6,37 ; Ne 1,6 ; Ps 106,6 ; Lm 5,16 ; Dn 9,5 ; Dn 9,15
+חטאתי
+j'ai péché
+Ex 9,27 ;
+Nb 22,34
+(
+J
+)
+1 S 15,24 ; 1 S 15,30 ; 2 S 24,10 ; 2 S 24,17 ; 1 Ch 21,8 ; 1 Ch 21,17 ; Jb 33,27
+. Le péché est universel : אין אדם אשׁר
+לא יחטא
+il n'y a pas d'homme qui ne pèche
+1 R 8,46
+= 2 Ch 6,36
+, כי אדם אין צדיק בארץ אשׁר יעשׂה טוב
+ולא יחטא
+Qo 7,20
+car il n'y a pas d'homme juste sur la terre qui fasse le bien et ne pèche pas ; avec
+לְ, contre Dieu Gn 20,6 (
+E
+), Gn
+39,9 (
+J
+),
+Ex 32,33 ; Nb 32,33 (les deux
+J
+
+E
+), Dt
+9,16 ; Dt 20,18 ; 1 S 2,25 ; 1 S 12,23 ; 1 S 14,33 ; 1 S 14,34 ; 1 R 8,33 ;
+1 R 8,35
+; 1 R 8,46
+; 1 R
+8,50 = 2 Ch 6,24 ; 2 Ch 6,26 ; 2 Ch 6,36 ; 2 Ch 6,39 ; 2 R 17,7 ; Os 4,7 ; Mi 7,9 ; So 1,17 ; Jr 40,3 ;
+Jr 44,23
+; Jr 50,7
+; Jr
+50,14 ; Ez 14,13 ; Es 42,24 ; Jb 8,4 ; Ps 78,17 ; Ps 119,11 ; Ne 1,6 en
+confession חטאתי ל
+Ex 10,16
+; Jos 7,20
+(
+J
+), 2 S 12,13 ; Ps 41,5 ; Ps 51,6
+חטאנו ל
+Dt 1,41 ;
+Jg 10,10
+; 1 S 7,6
+; Jr 3,25
+; Jr 8,14
+; Jr 14,7
+; Jr
+14,20 ; Dn
+9,8 ;
+Dn 9,11 avec בְּ d'instrument, lèvres Jb 2,10, langue Ps 39,2 en quoi Ez 37,23
+; Lv 4,23
+(
+P
+), en cela Lv 5,22 (
+P
+) ; ellipse de בְּ dans l'expression לי
+׳
+עונם אשׁר ח (leur) iniquité par laquelle ils ont péché contre
+moi
+Jr 33,8
+(deux fois dans le verset) ; בשׁגגה
+par erreur, involontairement
+Lv 4,2 ; Lv 4,22 ;
+Lv 4,27 ;
+Lv 5,15 ;
+Nb 15,27
+; Nb
+15,28 (tous
+P
+) ; contre tes ordonnances Ne 9,29 avec עַל
+à l'égard de
+Lv 5,5 ; Nb 6,11(
+
+P
+)
+Ne 13,26 avec accusatif de même racine חֲטָאָה
+׳
+ח
+Ex 32,30
+; Ex
+32,31 (
+J
+
+E
+) ; חַטָּאת
+׳
+אשׁר ח
+Nb 12,11
+(
+J
+) Lv 4,3
+; Lv 4,28
+(deux fois dans le verset) ; Lv 4,35 ; Lv 5,6 ; Lv 5,10 ; Lv 5,13 (tous
+P
+) Lv
+19,22 (deux fois dans le verset) (
+H
+), Dt
+9,18 ; 1 R 14,16 ; 1 R 14,22 ; 1 R 15,30 ; 1 R 16,13 ; 1 R 16,19 ; 2 R 21,17
+;
+Ez 18,24 ; Ez 33,16
+ל
+׳
+חטאת אשׁר ח
+Jr 16,10
+; Ne 1,6
+
+על
+׳
+חטאת אשׁר ח
+Lv 4,14 (
+
+P
+) ; ׳
+חֵטְא ח
+Lm 1,8
+חֵטְא
+׳
+אשׁר ח
+Dt 19,15
+.
+
+3.
+encourir une culpabilité, une peine par le péché, perdre :
+וחטאתי לך כל הימים
+Gn 43,9
+j'encourrai le blâme de pécher contre toi tous les jours, comparer Gn 44,32
+(
+J
+) ; avec accusatif חוֺטֵא נפשׁ
+perdant soi-même, sa vie
+Pr 20,2
+;
+Ha 2,10
+
+selon la plupart, toutefois voir ci-dessous
+
+1. — ׳
+והביא אשׁמו אשׁר ח
+Lv 5,7
+il amènera son sacrifice de culpabilité qu'il a encouru par le péché ; ׳
+קרבנו אשׁר ח
+Lv 5,11
+מןהֿקדשׁ
+׳
+את אשׁר ח
+ישׁלּם
+Lv 5,16
+ce qu'il a encouru en prenant de la chose sainte, il le paiera.
+
+Piel
+Parfait
+חִטֵּא
+Lv 14,52
+
+suffixe חִטְּאוֺ
+Nb 19,19
+,
+חִטֵּאתָ
+Ex
+29,36
++ 2 t. ; 3 pluriel חִטְּאוּ
+Ez
+43,22
+(deux fois dans le verset) ; Imparfait
+יַיְחַטֵּא
+Lv 8,15
+suffixe
+וַיְהַטְּאֵהוּ
+Lv 9,15
+,
+תְּחַטְּאֵנִי
+Ps 51,9
+,
+אֲחַטֶּנָּה
+Gn 31,39
+,
+וַיְחַטְּאוּ
+2 Ch
+29,24
+
+Infinitif
+חַטֵּא
+Lv 14,49
+;
+Ez
+43,23
+
+Participe
+הִמְחַטֵּא
+Lv 6,19
+—
+
+1.
+supporter la perte :
+אָנֹכִי אֲחַטֶּנָּה
+j'en supportais la perte
+Gn
+31,39
+(
+E
+; litt. je la faisais manquer ? peut-être lire אֲחֻטּנה
+on me la faisait manquer ?).
+
+2.
+offrir un sacrifice pour le péché : avec suffixe renvoyant à שׁעיר
+Lv 9,15
+(
+
+P
+) ; au sacrifice pour le péché Lv 6,19 (
+P
+) ; על המזבח
+sur l'autel
+Ex
+29,36
+(
+P
+; non purifier l'autel
+
+RV
+) ; את דמם המזבחה
+׳
+ח
+
+2 Ch 29,24
+
+a offert un sacrifice pour le péché avec leur sang sur l'autel.
+
+3.
+purifier du péché : l'autel, en mettant le sang du sacrifice pour le péché sur ses cornes,
+Lv 8,15
+(
+
+P
+),
+Ez 43,20 ; Ez 43,22 (deux fois dans le verset) ; Ez
+43,23 le sanctuaire, en
+appliquant le sang du sacrifice pour le péché Ez 45,18.
+
+4.
+purifier de l'impureté : la maison du lépreux par application du mélange d'
+eau vive
+et de sang de l'oiseau Lv 14,49 ; Lv 14,52 (
+P
+) ; une personne, par application du mélange d'eau vive et de cendres de la vache rousse
+Nb
+19,19
+(
+P
+), par aspersion avec un rameau d'hysope Ps 51,9.
+
+Hiphil
+Parfait
+הֶחֱטִיא
+1 R
+14,16 + 17 t., הֶחֶטִ֯י (
+Kt
+erreur pour החטִיא) 2 R 13,6 suffixe הֶחֱטִיאָם
+2 R
+17,21 pluriel הֶחֱטִיאוּ
+1 R
+16,13 ; Ne
+13,26
+Imparfait
+יַחֲטִא
+Jg
+20,16 ;
+2 R 21,11
+תַּחֲטִיא
+Dt 24,4
+
+וַתַּחֲטִא
+1 R 16,2
+;
+1 R 21,22 pluriel יַחֲטִיאוּ
+Ex
+23,33
+Infinitif
+הַחֲטִיא
+Qo 5,5 ;
+1 R
+16,19 ; Jr
+32,35 (
+Qr
+), הַחֲ֯טִי
+Jr
+32,35 (
+Kt
+erreur) ; Participe pluriel construit מַחֲטִיאֵי
+Es
+29,21 —
+
+1.
+manquer le but :
+קֹלֵעַ בָּאֶבֶן
+אֶלהַֿשַּׂעְרָה וְלֹא יַחֲטִא
+Jg
+20,16
+lançant des pierres à un cheveu et ne manquant pas.
+
+2.
+induire ou amener à pécher : avec accusatif Ex 23,33(
+
+J
+
+E
+), Ne
+13,26 ailleurs dans l'expression החטיא את ישׂראל
+(il) fit pécher Israël
+
+1 R 14,16 ; 1 R 15,26 ; 1 R 15,30 ; 1 R 15,34 ; 1 R
+16,2 ; 1 R 16,13 ; 1 R 16,19 ; 1 R 16,26 ; 1 R
+21,22 ; 1 R 22,53 ; 2 R 3,3 ; 2 R 10,29 ; 2 R 10,31 ;
+2 R
+13,2 ;
+2 R 13,6 ; 2 R 13,11 ; 2 R 14,24 ; 2 R
+15,9 ; 2 R 15,18 ; 2 R 15,24 ; 2 R 15,28 ; 2 R
+23,15 avec suffixe renvoyant à Israël 2 R 17,21
+את יהודה
+
+2 R 21,11 ; 2 R 21,16 ; Jr 32,35 (parfois avec 2ᵉ accusatif —
+חטאת, ou אשׁר renvoyant à חטאת : — 1 R
+15,26 ; 1 R 15,34 ; 1 R 16,26 ; 2 R 17,21 ; 2 R
+21,16 prob. aussi 1 R 14,16 ; 1 R 15,30 ; 1 R 16,13 pas de 2ᵉ
+accusatif
+1 R 16,2 ; 1 R 16,19 ; 1 R 21,22 ; 1 R
+22,53 ; 2 R 21,11 ; 2 R 23,15 ; Jr 32,35 le reste est
+ambigu).
+
+3.
+amener dans la culpabilité, la condamnation, le châtiment :
+מחטיאי אדם
+Es
+29,21
+qui amènent un homme dans la condamnation ; לא תחטיא את הארץ
+Dt 24,4
+
+tu ne feras pas tomber le pays dans la culpabilité ; אל תתן
+אתפֿיך לחטיא אתבֿשׂרך
+Qo 5,4
+
+ne permets pas à ta bouche d'amener ta chair dans le châtiment.
+
+Hithpael
+Imparfait
+יִתְחַטָּא
+
+Nb 19,12 + 4 t., יִתְחַטְּאוּ
+Nb
+8,21
+יִתְחַטָּ֑אוּ
+
+Jb 41,17, תִּתְחַטְּאוּ
+
+Nb 31,19, תִּתְחַטָּ֑אוּ
+
+Nb 31,20 —
+
+1.
+se manquer soi-même, se perdre, figuré pour être égaré, hors de
+soi, מִשְּׁבָרִים יִתְחַטָּאוּ
+
+Jb 41,17
+à cause de la consternation ils sont hors d'eux-mêmes (||
+יגורו
+ont peur).
+
+2.
+se purifier de l'impureté, seulement dans
+P
+:
+
+a. Lévites Nb 8,21.
+
+b. ceux
+en contact avec les morts Nb 19,12 ; Nb 19,13 ; Nb 19,20 ; Nb
+31,19 ;
+Nb 31,20 avec בְּ, בְּמֵי נִּדָּה
+
+Nb 31,23 par un mélange de cendres de la vache rousse avec de l'
+eau vive
+Nb
+19,12.
+
+---

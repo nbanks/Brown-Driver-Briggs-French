@@ -1,0 +1,366 @@
+=== BDB8367 H7592 ===
+Biblical Hebrew
+
+שָׁאַל
+verb
+ask, inquire (Late Hebrew id.; Assyrian
+ša°âlu
+, Arabic
+[placeholder5363: Placeholders/5363.gif], Ethiopic
+[placeholder5364: Placeholders/5364.gif] Sabean מסאל
+request petition, Hom^Chrest.124^
+Levy-Os^ZMG xix(1865), 165^; Aramaic
+[placeholder5365: Placeholders/5365.gif], שְׁאֵיל; Old Aramaic Zinjirli שאל
+Ldzb^371^, Nabataean Hiph`il lend
+Id^ib^.; — on ׳
+שׁ compare Jastr^JBL xix (1900), 82 ff.^); —
+
+Qal
+Perfect 3 masculine singular׳
+שׁ
+Judg 5:25 +,
+שָׁאָ֑ל
+Judg 8:26 +2 t.;
+consecutive וְשָׁ֫אַל לוֺ
+Num 27:21 suffix
+וּשְׁאֵלְךָ consecutive Gen 32:18 (Ges^«GKC:64f»§ 64f^),
+וּשְׁאֵלֵךְ consecutive Judg 4:20 1 singular suffix שְׁאִלְתִּיו
+1Sam 1:20,
+שְׁאִלְתִּיהוּ
+Judg 13:16 3
+plural suffix שְׁאֵלוּנוּ
+Ps 137:3 2
+masculine plural שְׁאֶלְתֶּם
+1Sam 12:13
+(strike out
+
+ᵐ5
+
+Th
+We
+Dr and most), Job 21:29, וּשְׁאֶלָתֶּםֿ consecutive 1Sam 25:5, etc.;
+Imperfect 3 masculine singular יִשְׁאַל
+Exod 22:13 +
+,etc.; Imperative
+שְׁאַל
+Isa 7:11 +,
+שְׁאָלוּנִי
+Isa 45:11 (
+< תִּשְׁאְֵלוּנִי Weir Che and others), etc.;
+Infinitive absolute
+שָׁאוֺל
+Gen 43:7 +;
+construct לִשְׁאֹל
+Judg 1:14 +, etc.;
+Participle
+active
+שֹׁאֵל
+2Sam 3:13 +,
+feminine singular שֹׁאֶלֶת
+1Kgs 2:20; 1Kgs 2:22,
+masculine plural הַשֹּׁאֲלִים
+1Sam 8:10
+passive
+שָׁאוּל
+1Sam 1:28; 2Kgs 6:5 —
+
+1.
+
+a.
+ask, ask for, accusative of thing (or person) Judg 5:25; Judg 8:26; 1Kgs 3:10; Ps 122:6
+(= pray for) +; אֶתנַֿפְשׁוֺ לָמוּת
+׳
+שׁ
+1Kgs 19:4
+; Jonah 4:8,
+i. e. pray for death, but Job 31:30
+demand the life of another בְּאָלָה
+by a curse; with ל person 1Kgs 2:22 (twice in verse) + (ל
+person reflexive) 1Sam 12:17; 1Sam 12:19 +; with מִן person Judg 8:24
+(accusative of cognate meaning with verb), Ezra 8:22; Zech 10:1+; followed by infinitive 1Kgs 3:11 followed by
+clause מָה אֶתֶּןלָֽֿךְ׃
+׳
+שׁ
+1Kgs 3:5 =
+2Chr 1:7,
+compare 2Kgs 2:9
+with accusative + מֵאֵת person 1Sam 8:10; Ps 27:4(from ׳
+י) +; + מֵעִם person Isa 7:11 (from ׳
+י) +; with accusative of person (from whom) + of thing Ps 137:3 accusative omitted
+Isa 7:12;
+1Sam 12:20
+; 1Kgs
+2:20, with מִן person Ps 2:8 absolute Mic 7:3; Ps 105:40 (of prayer);
+הִקְשִׁיתָ לִשְׁאוֺל
+2Kgs 2:10
+, i.e. thou hast asked for a difficult thing. — 1Sam 2:20 see
+Hiph`il
+
+b. specifically ask as a favour, for temporary use, i.e.
+
+borrow (compare לָוָה, as matter of business, see Bu^
+1Sam
+1:28
+^), Exod 22:13 (
+E
+; accusative of thing + מֵעִם person), 2Kgs 4:3 (accusative of thing + מִן
+of source + ל person reflexive), 2Kgs 6:5 (passive participle absolute); so
+also (according to many), with accusative of thing Exod 3:22( + מִן person), Exod 11:2
+;
+Exod 12:35 (both + מֵאֵת person; all
+E
+), — it is, however, not clear that there was any pretext of mere temporary use; passive
+participle ׳
+שָׁאוּל לי
+1Sam 1:28
+(lent, granted,) made over to
+׳
+י (in effect passive of Hiph`il, q. v.).
+
+c. in weakened sense,
+seek, desire (late), with accusative 2Chr 11:23; Eccl 2:10 (subject
+עֵינַי); Prov 20:4 in harvest he shall look [for a crop],
+וָאָ֑יִן
+and there shall be none.
+
+2.
+a.
+inquire of, with accusative of person + לֵאמֹר before inquiry Gen
+32:18 (
+E
+),
+Gen
+44:19 (
+J
+) +; with וְאָמַר
+Judg 4:20
+, וַיּאִמֶר, etc., Gen 24:47(
+J
+),
+Jer
+37:13 followed by וְאָמַר without accusative
+of person Gen
+32:30 (
+J
+), compare 1Sam 19:22, followed by לֵאמֹר
+Josh 4:6
+(
+J
+
+E
+); with accusative of person + עַל of thing Neh 1:2
+עַל of thing alone, Eccl 7:10 ( + מֵחָכְמָה, i. e. prompted
+by wisdom); with accusative of person + of thing (about which) 2Sam 14:18; Isa
+45:11 + 4 t.; accusative of person + indirect question Judg 13:6 with accusative
+of person only,
+Judg
+8:14;
+1Sam
+25:8;
+Deut
+32:7 +, inquire of
+beasts (accusative) Job 12:7 with accusative of thing only, Jer 50:5
+with ל person = accusative
+2Kgs 8:6
+(Kö^Synt. § 289 h^); with ל
+of thing about which
+Gen 26:7 (
+J
+),
+Gen
+32:30 (
+J
+),
+Judg
+13:18;
+2Sam 11:7; Jer 6:16; Job 8:8, also ( +
+לאמר before the inquiry) Gen 43:7 (
+J
+), and (followed by direct question) Deut 4:32 with ל person about
+whom,
+Gen 43:27 (
+J
+), compare phrase of greeting, אִישׁ לְרֵעֵהוּ לְשָׁלוֺם
+׳
+שׁ
+Exod 18:7
+(
+E
+) ask each for (or about) his fellow as to welfare
+, compare Judg 18:15; 1Sam 10:4; 1Sam 17:22; 1Sam 25:5
+; 1Sam
+30:21 [read וַיִּשְׁאֲלוּ לוֺ
+
+ᵐ5
+
+ᵑ6
+
+We
+Dr
+HPS Bu] 2Sam 8:10; Jer 15:5; 1Chr
+18:10 followed by direct question only, 1Sam 17:56; Jer 18:13 (with
+ב location), followed by indirect question only (c.אִם) Jer 30:6
+
+אֶתפִּֿי
+׳
+שׁ
+׳
+פ
+Gen
+24:57(
+J
+); absolute make inquiry
+Deut
+13:15 ( + דָּרַשׁ, חָקַר).
+
+b.
+inquire of, consult, deity, oracle, etc. (
+Jastr^JBL xix (1900) 88 ff.^), followed by accusative ׳
+פִּי י
+Josh
+9:14 (
+J
+
+E
+),
+Isa
+30:2
+׳
+י
+Isa
+65:1 (|| בִּקֵּשׁ); elsewhere in Hexateuch only (accusative omitted),
+
+Num 27:21 (
+P
+; with ל person for whom, + ב instrumental), compare
+
+Josh 19:50 also אוֺב
+׳
+שׁ
+
+Deut 18:11 (participle as substantive; Jäger^BAS ii. 292^ compare Assyrian
+
+maššaku ša šâ°ili
+, i. e. skin-vessel of the oracle-seeker, compare
+Jastr^JBL xix (1900), 96 ff.^); with
+accusative of human agent 1Sam 28:16; Jer 38:14;
+Jer 38:27 usually (ancient usage, chiefly Judges, Samuel) לֵאמֹר
+׳
+בי
+׳
+שׁ (בְּ perhaps originally local, so
+GFM
+, or instrumental), Judg 1:1; Judg 20:23;
+1Sam
+23:2;
+1Sam 30:8;
+2Sam 2:1; 2Sam 5:19 =
+1Chr 14:10
+לֵאמֹר omitted 1Sam 10:22 (followed by direct question),
+1Sam 22:10 (ל person for whom), 1Sam 23:4; 1Sam
+28:6;
+2Sam 5:23 = 1Chr 14:14;
+Judg 20:27
+בֵּאלֹהִים
+׳
+שׁ
+Judg
+18:5;
+Judg 20:18; 1Sam 14:37 (followed by direct question),
+also (ל person for whom), 1Sam 22:13; 1Sam 22:15
+׳
+שׁ
+׳
+בִּדְבַר הָא
+2Sam
+16:23
+likewise בְּעֵצוֺ
+׳
+שׁ
+Hos
+4:12 (i.e. his idol), בַּתְּרָפִים
+Ezek
+21:26
+, בָּאוֺב
+1Chr
+10:13
+perhaps = receive as oracle
+
+Deut 18:16 (׳
+מֵעִם י, Jastr^l.c.^
+
+Niph`al
+ask for oneself (Ges
+^«GKC:51e»§ 51e^), specifically ask leave of absence, with
+מִן person: Perfect 3 masculine singular + Infinitive
+absolute
+נִשְׁאֹל נִשְׁאַל
+
+1Sam 20:6 (followed by infinitive), 1Sam 20:28 (followed by
+עַד; ? insert ל infinitive HPS
+); Perfect 1 singular
+נִשְׁאַלְתִּי מִןהַֿמֶּלֶךְ
+
+Neh 13:6 (absolute).
+
+Pi`el
+
+1.
+inquire carefully:
+Imperfect 3 masculine plural +
+Qal
+Infinitive absolute
+שָׁאוֺל יְשָֽׁאֲלוּ
+2Sam 20:18
+(Bu
+proposes
+Qal
+Imperfect
+יִשְׁאֲלוּ), with ב location; on following
+context see We
+Dr
+HPS
+Bu.
+
+2.
+beg, practise beggary, ,Perfect 3 plural
+וְשִׁאֵ֑לוּ (consecutive)
+Ps 109:10.
+
+Hiph`il (properly let one ask
+[successfully], give, or lend, on
+request, then) grant, make over to (as a
+favour, with or without request): Perfect 1 singular suffix
+הִשְׁאִלְתִּהוּ
+׳
+לי
+
+1Sam 1:28
+I have made him over to
+׳
+י (compare Dr
+HPS
+Bu and
+Qal
+Passive participle, ib.); perhaps also read 3 feminine singular
+׳
+הִשְׁאִילָה לי
+1Sam 2:20
+(whom) she hath made
+over to
+׳
+י (for ׳
+שָׁאַל לי) Bu
+HPS (after
+
+ᵐ5
+
+. in part; other conjectures in Dr
+); Imperfect 3 masculine plural suffix of thing
+וַיַּשְׁאִלוּם
+Exod
+12:36 (
+E
+) and they handed them over.
+
+---

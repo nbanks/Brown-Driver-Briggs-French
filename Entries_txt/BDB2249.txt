@@ -1,0 +1,656 @@
+=== BDB2249 ===
+Biblical Hebrew
+
+וְ, וּ, וָ
+demonstrative adverb and conjunction
+so, then, and (Phoenician, Moabite, Aramaic ו; Arabic
+[placeholder1343: Placeholders/1343.gif]; Ethiopic
+[placeholder1344: Placeholders/1344.gif] Assyrian
+u
+
+Dl^W^ (but between verbs the usually connective is the enclitic
+ma
+KAT^2. 508^, Dl^§§ 82,
+150^). The use in Hebrew shews that original וְ was not a merely copulative
+conjunction, but that it possessed a demonstrative force (compare Dr^§ 122^), which is often perceptible as such, though in other cases,
+from its being applied to denote mere juxtaposition or connection [compare Greek τε, and Latin
+tum …. tum = 'both …. and,' both properly demonstratives: Assyrian
+
+ma
+has also a demonstrative force, Dl^§ 79^], it is
+less palpable) — וְ before shwa' mobile or a labial is vocalized וּ; often before
+a tone-syll., when the word itself has a disj. accent, וָ (as וַָמתִּי׃
+Gen 19:19
+וָמֵ֖תוּ
+Gen 33:13
+וָמֵ֑ת
+Gen 44:9
+וָחָֽיָה׃
+Exod 1:16
+וָיָ֑מָּה
+Josh 15:46
+וָ֔לֹ֕א
+2Sam 13:26
+וָאָ֖רֶץ
+Isa 26:19
+וָקָ֔מוּ
+Isa 49:7
+וָחָֽתָּה׃
+Jer 48:1
+וָרָֹע
+Ps 10:15);
+especially when it forms with the preceding word a pair, whether of parallel or opposed ideas
+(as כֹּה וָכֹה
+Exod 2:12,
+מִי וָמִ֖י
+Exod 10:8,
+אֶבֶן וָאָ֑בֶן
+Deut 25:13
+דֹּר וָדֹ֑ר
+Deut 32:7 +;
+תֹּהוּ וָבֹ֔הוּ
+Gen 1:2,
+בְּהֵמָה וָרֶמֶ֛שׂ
+Gen 1:24,
+טוֺב וָרָֽע׃
+Gen 2:19,
+נָע וָנָ֖ד
+Gen 4:12,
+וְקַיִץ וָחֹ֛רֶף וְיוֺם וָלָ֖יְלָה
+Gen 8:22,
+קַח וֵָלךְ׃
+Gen 12:19,
+שָׁמַיִם וָאָֽרֶץ׃
+Gen 14:19,
+אֲנִי וָאָ֑תָּה
+Gen 31:44,
+אֲנִי וָה֑וּא
+Gen 41:11,
+עִבְרוּ וָשׁוּבוּ
+Exod 32:27,
+אַתָּה וָהֵ֛ם
+Num 16:16,
+אֱלֹהִים וָמֶ֑לָךְ
+1Kgs 21:13,
+נִין וָנֶ֖כֶד
+Isa 14:22,
+שֹׁד וָשֶׁ֖בֶר
+Isa 59:7 and
+often: see more fully Bö^§ 600^); occasionally also with a
+conjunctive accent (as וָשַחי לְעֹלָֽם׃
+Gen 3:22 compare
+Lev 18:5,
+וָמַ֣תְנוּ שָׁם
+2Kgs 7:4,
+וָאָ֣רֶץ חֲדָשָׁ֑ה
+Isa 65:17;
+Prov 25:3,
+שֹׁ֖ד וָשֶשׁבֶר גָּדוֺל׃
+Jer 48:3, compare
+Jer 32:29). —
+וְ is used very freely and widely in Hebrew, but also with much delicacy, to express relations and
+shades of meaning which Western languages would usually indicate by distinct particles. But in Hebrew particles such
+as אוֺ, אָז, אַךְ, אָכֵן, אוּלָם
+, בַּעֲבוּר, לְמַעַן, לָכֵן, etc., were reserved for
+cases in which special emphasis or distinctness was desired: their frequent use was felt instinctively to be
+inconsistent with the lightness and grace of movement which the Hebrew ear loved; and thus in
+AV
+,
+RV
+, words like or, then, but, notwithstanding, howbeit, so, thus, therefore, that,
+constantly appear, where the Hebrew has simply וְ.
+
+1.
+And, connecting both words (see above), and sentences (Gen 1:5
+׳
+וְלַחשֶׁךְ קָרָא וג). When three, four, or more words follow, the conjunction may connect them
+all, as Gen 7:21
+; Gen 10:2 (6
+t.) Gen 24:35
+(7 t.) Josh
+7:24 (10 t.) 2Sam 17:28f.: often however it is prefixed only to the last, as Gen 5:32; Gen 10:1; Deut 18:10
+etc.; occas. even it connects only the first two, 1Kgs 8:47; Isa 1:13; Ps 45:9; Job 42:9. Remarkably, however, וְ as a
+mere conjunction is, as a rule, not in classical Hebrew attached directly to verbs
+(especially in the perfect), the construction with וְ consecutive (see 2
+) being (as in Moabite) preferred: thus יָצָא וַיִּבֶן is said, not יָצָא
+וּבָנָה. Exceptions in classical Hebrew are (a) sometimes where
+synonyms are coupled, as Num 23:19
+אָמַר ֗֗֗ וְדִבֶּר, Deut 2:30; Judg 5:26; 1Sam 12:2; Isa 1:2
+גדּלתי ורוממתי
+Isa 2:11; Isa 5:14; Isa 8:8; Isa 19:6; Isa 29:20 (
+b) isolated cases, difficult to reduce to rule (perhaps sometimes due to textual error), as
+Gen 28:6; Gen 38:5; Judg 3:23; Judg 7:13; Judg 16:18;
+1Sam 1:12; 1Sam 3:13; 1Sam 4:19; 1Sam 5:7; 1Sam 10:9; 1Sam 17:38;
+1Sam 17:48;
+1Sam 25:20
+and elsewhere (in other passages, apparently similar, the perfect and וְ has a frequent. force
+(see 2), as Gen 37:3; Exod 36:29f.; Num 10:17f. Num 21:15; Num 21:20; 1Sam 2:22; 1Sam 16:14; 1Sam 17:34f.
+(see Dr) 1Sam 27:9; 2Sam 16:13; 2Sam 17:17, perhaps also Gen 15:6; Gen 21:25; Gen 34:5). In
+later parts of OT, probably through Aramaic influence, the perfect with simple וְ occurs more
+frequently: so especially in Ecclesiastes, where it is all but universal (e.g. Gen 2:11; Gen 2:12; Gen 2:13; Gen 2:15 etc.). With the imperfect,
+the simple וְ is not so unidiomatic, even in classical Hebrew (compare 3); see
+Gen 1:9; Gen 1:26; Gen 9:27; Gen 17:2; Gen 22:17;
+Gen 27:29;
+Exod 23:8
+(frequently) Exod
+24:7;
+Num 14:12;
+Deut 17:13; Deut 30:12; Deut 30:13; Josh 3:13; Josh 7:3; Judg 7:3; Judg 13:8; Isa 5:29; Isa 14:10 often also in Jeremiah,
+Isa^2^, Job, Psalms, e.g. Isa 40:30; Isa 41:20 (Dr^§
+116^: contrast Isa 28:13). See more fully Dr^§ 130-4^
+
+Ges^«GKC:112»§ 112^. 6. Special senses: —
+
+a.
+it sometimes = and specially, Gen 3:16; 1Kgs 11:1 many strange women, and
+specially the daughter of Pharaoh, Isa 1:1 Judah and (= and particularly
+) Jerusalem, Isa 2:1; Isa 9:7; Ps 18:1.
+
+b.
+and in particular ('und zwar'), and that (explicative), Gen 4:4; Judg 7:22;
+1Sam 17:40
+
+וּבַיַּלְקוּט, 1Sam 28:3 in Ramah, and that in his city (unusual:
+text suspicious), 2Sam 13:20
+וְשֹׁמֵמָה
+and that desolate, Isa 57:11 I have been silent וּמֵעוֺלָם
+and that from of old, Isa 32:7; Jer 15:13; Amos 3:11 (si vera lectio), Amos 4:10;
+Zech 9:9b
+Mal 1:11;
+Ps 68:10
+; Prov
+3:12;
+Lam 3:26;
+Eccl 8:2; Dan
+1:3; Dan
+8:10; Dan
+9:25; Dan
+9:27; Neh
+8:13;
+1Chr 9:27; 2Chr 8:13;
+2Chr 29:27
+(but' even' for ו, before ל and infinitive, e.g. in Isa 44:28
+; Jer
+17:10; Jer 19:12, is wrong; see Ew^§ 351
+c^, Dr^§ 206^).
+
+c.
+sometimes it introduces an idea which so exceeds or adds to what has preceded, that it is nearly
+equivalent to also, 1Sam 25:43; 1Kgs 2:22 ask also the kingdom
+for him; unusually
+Hos 8:6
+כי מישׂראל והוא for of Israel is it also, Eccl 5:6
+והבלים (see De) 2Chr 27:5 (but see
+
+ᵐ5
+
+). Or it may be rendered yea: so especially in the ascending numerations 3-4
+Amos 1:3;
+Amos 1:6;
+Amos 1:9;
+Amos 1:11
+; Amos 1:13
+; Amos 2:1
+; Amos 2:4
+; Amos 2:6
+;
+Prov 30:18; Prov 30:21; Prov 30:29; Prov 30:6-7; Prov 6:16; Job 5:19; Job 5:7-8; Mic 5:4 — the first number
+being aggravated, or augmented, by a higher. In one idiom וּגְבוּל, occurring in geographic
+descriptions, it is used peculiarly, seemingly = at the same time:
+Num 34:6 and
+as for the western border, וְהָיָה לָכֶם הַיָּם הַגָּדוֺל וּגְבוּל the great sea shall be
+to you also (German 'zugleich') a border, Deut 3:16
+תּוֺךְ הַנַּחַל וּגְבוּל the middle of the stream being at the same time
+the border, Deut 3:17; Josh 13:23; Josh 13:27; Josh 15:12; Josh 15:47 (but these, except
+Num 34:6,
+might be cases of 5.c.
+γ).
+
+d. it connects alternative cases, so that
+it = or:
+Exod
+20:10;
+Exod 20:17; Exod 21:16 he that stealeth a man
+וּמְכָרוֺ וְנִמְצָא בְיָדוֺ and selleth him, and (=
+or if) he be found in his hand, Exod 21:17; Lev 21:14; Lev
+22:23;
+Lev 22:24; Prov 29:9 (Fl
+
+Ew
+
+RV
+: whether . . . or) Job 31:13; Job 31:16; Job
+31:26, etc.
+
+e. it connects contrasted ideas,
+where in our idiom the contrast would be expressed explicitly by but; in such
+cases prominence is usually given to the contrasted idea by its being placed immediately after the
+conjunction: Gen 2:17
+
+but of the tree of the knowledge . . . thou shalt not eat, Gen 4:2; Gen 4:5;
+Gen 6:8;
+Gen
+17:21;
+Gen 31:10 etc., 1Kgs 2:26; 1Kgs 10:7; 1Kgs
+11:32; 1Kgs 11:34; 1Kgs 15:14; Prov 10:1; Prov
+10:2;
+Prov 10:3; Prov 10:4 + often; even after לֹא
+(where כִּי or כִּי אִם might be expected), as Gen
+42:10;
+Exod 21:18; Lev 26:45; Deut 11:11; Judg
+19:12;
+1Kgs 3:11.
+
+f. it introduces a contrasted idea in
+such a way as to suggest a question, especially before a pronoun, Judg
+14:16 I told it not to my father or my mother, וְלָךְ אַגִּיד and shall I
+told it unto thee?
+
+2Sam 11:11; Jer 25:29
+וְאַתֶּם הִנָּקֵה תִנָּקוּ and shall ye be guiltless? Jer 45:5
+; Ezek
+20:31; Ezek 33:25b Jonah 4:11. So the
+וְ consecutive and perfect (see 2.a.),
+Exod 5:5
+וְהִשְׁבַּתֶּם
+and will ye make them rest from their burdens? Num 16:10
+וּבִקַּשְׁתֶּם
+and seek ye the priesthood also? 1Sam 25:11;
+
+Isa 66:9; Ps 50:21
+and shall I keep silence? Job 32:16 (compare Dr^§ 119^
+
+γ).
+
+g. attaching a fresh subj. (or object) to a clause
+already grammatically complete, it = and also, Gen 2:9b Num
+16:2;
+Num 16:18 and they stood at the entrance of the tent of
+meeting, ומשׁה ואהרן
+and Moses and Aaron (stood also), Num 16:27; Exod 35:22; Judg 6:5; Gen 1:16 b Gen 12:17; Gen 44:2; Gen 46:15;
+Exod 29:3; Jer 32:29 (compare
+Dr^Sm. i. 6, 11, & p. 293^): when the idea thus attached is
+subordinate, or not logically embraced in the principal predicate, it approximates to the
+Arabic
+[placeholder1345: Placeholders/1345.gif] or 'waw of association' (followed by an accusative:
+
+W^AG ii. § 37^), Esth 4:16
+אֲנִי וְנַעֲרֹתַי אָצוּם I will fast (singular) and
+(= with) my maidens,
+Exod 21:4; 1Sam 25:42; 1Sam 29:10b (but insert here אַתָּה with
+
+ᵐ5
+
+) 2Sam
+12:30 (but read וּבָהּ, as
+1Chr 20:2) 1Sam 20:10; Neh 6:12; Gen
+4:20; Isa
+42:5; Jer
+19:1 (but read וְלָקַחְתָּ֫
+מזקני with
+
+ᵐ5
+
+) 2Chr 2:3
+; 2Chr
+13:11 compare
+Jer 22:7 (אִישׁ וְכֵלָיו), Job 41:12.
+Whether Isa
+48:16
+וְרוּחוֺ belongs here, is dubious
+
+h.
+וְ repeated = both . . . and (but גַּם ֗֗֗
+גַּם) is more usual in this sense); Gen 34:28; Num
+9:14; Josh
+9:23; 2Sam
+5:8 (text dubious),
+Isa 16:5; Isa 38:15; Jer 13:14;
+Jer 21:6; Jer 32:14 (text dubious) Jer 32:20;
+
+Jer 40:8;
+Ps 76:7; Job 34:29;
+Dan 8:13; Neh 12:28.
+
+i. a repetition of the
+same word with וְ interposed expresses (a
+) diversity (rare), Deut 25:13
+אֶבֶן וָאֶבֶן a weight and a weight, i.e. different
+weights (explained by גְּדֹלָה וּקְטַנָּה), Deut 25:14;
+Prov 20:23
+; Ps 12:3
+בְּלֵב וָלֵב with a heart and a heart = with a double heart, 1Chr 12:33
+בְּלֹא לֵב וָלֵב; (b) distribution
+(except in דֹּר וָדֹר
+
+Deut 32:7; Isa 13:20 + often exclusively a late usage: compare
+Dr^Intr. 505^) Ps 87:5; 1Chr 26:13
+לְשַׁעַר וָשָֽׁעַר׃ = for every gate, 1Chr 28:14 (twice in verse); 2Chr 8:14;
+2Chr 34:13
+; 2Chr
+35:15; Ezra 10:14
+זִקְנֵי עִיר וָעִיר elders of every city, Neh 13:24; Esth 1:8; Esth 1:22
+(twice in verse);
+Esth 2:12;
+Esth 3:4; Esth 3:12 (4 t.
+in verse); Esth 8:9
+(twice in verse); strengthened by כָּלֿ
+
+2Chr 11:12
+
+בכל עיר ועיר in every several city,
+2Chr 19:5; 2Chr 28:25; 2Chr 31:19;
+2Chr 32:28
+; Esth 2:11
+
+בכליֿום ויום, Esth 3:14; Esth 4:3; Esth 8:11;
+Esth 8:13;
+Esth 8:17
+(twice in verse);
+Esth 9:21;
+Esth 9:27;
+
+Esth 9:28; Ps 45:18; Ps 145:13 (common in
+post-Biblical Hebrew, especially with כל).
+
+j. it is
+used in the formulation of proverbs (the Vav adaequationis,
+וָו הִשְׁתַּוָּאָה) as Prov 17:3; Prov 25:3; Prov 25:20; Prov 25:25 cold waters to
+a thirsty soul and good news from a far country (i.e. they are like
+each other), Prov
+26:3;
+Prov 26:9; Prov 26:14; Prov 26:20; Prov 27:21; Eccl 5:2; Eccl 7:1;
+
+Eccl 8:8 compare Eccl 9:11; Ps 19:5; Ps 125:2
+; Job
+14:11f.; Job 14:19 (compare in
+Arabic 'every man and his cares [accusative],'
+'every thing and its price,' i.e. they go together: 'merchants
+and dogs [accusative] of Seleucia,' i.e. they
+are like one another: see Fl^Kl. Schr. iii. 535 f.^
+). More rarely in the opposite order, Job 5:7; Job 12:11
+. But 1Sam
+12:15b cannot be thus explained: read with
+
+ᵐ5
+
+וּבְמַלְכְּכֶם, and see Dr.
+
+k. in circumstantial clauses וְ
+introduces a statement of the concomitant conditions under which the
+action denoted by the principal verb takes place: in such cases, the relation expressed by
+וְ must often in English be stated explicitly by a conjunction, as
+when, since, seeing, though, etc., as occasion may require. So very
+often, as Gen 11:4
+let us build a tower וְראֹשׁוֺ בַשָּׁמַיִם
+
+and its top in the heavens (= with its top in
+etc.), Gen 18:12
+shall I have pleasure, וַאדֹנִי זָקֵן
+
+and my lord is old (= my lord being old)? Judg 16:15 How sayest thou, I
+love thee, וְלִבְּךָ
+אֵין אִתִּי
+and (= when) thy heart is not with me? and
+especially with a person pronoun, Gen 15:2 what wilt thou give me וְאָנֹכִי
+
+הֹלֵךְ עֲרִירִי
+and I (= the case being that I) am going hence
+childless? Gen
+18:13; Gen
+20:3 lo, thou wilt die because of the
+woman thou hast taken וְהִוא בְּעֻלַת בָּֽעַל׃ = seeing
+she is married, Gen 24:62
+וְהוּא ישֵׁב = since or for
+he was dwelling (different from וַיֵּשֶׁב = and he proceeded
+to dwell), Gen 26:27
+וְאַתֶּם
+seeing ye hate me, Judg 13:9 and came to her וְהִיא
+ישֶׁבֶת = as she was sitting, 1Sam 18:23
+; 1Kgs
+19:19 + often of a more exceptional type are Ps 72:12 the afflicted וְאֵיןעֹֿזֵר
+לוֺ
+and (= when) he has no helper (compare Job 29:12),
+
+Job 104:25
+
+וְאֵין מִסְפָּר,
+
+Job 105:34
+; Job 5:9.
+See more fully Dr^§ 156-60^
+Ges^«GKC:141»§ 141^, R 2. (The analogous
+use of the
+[placeholder1346: Placeholders/1346.gif] is very common in Arabic: W^ii. §
+183^.) Introducing an appeal to a fact confirmatory
+of some statement or promise, it almost = as truly as
+(compare Ew^§ 340 c^) Hos 12:6
+and J. is God of hosts, J. is his name! Joel 4:20;
+Amos 9:5-6; Isa 51:15
+and I [who promise this] am J. thy God, who . . . . ! Jer 29:23; Ps 89:38b (compare in
+Qoran the frequently 'And God is . . . . [the mighty, the merciful, etc.]').
+
+2. The ו consecutive (formerly called the Waw 'conversive'); —
+
+a.
+with the imperfect (וַּ with following daghesh; before א
+
+, וָ), as וַיּאֹמֶר properly = and he proceeded to say,
+chiefly in contin. of a preceding Perfect tense (so Moabite);
+
+b. with the
+
+perfect (וְ, — in 1 & 2 singular, the tone, with certain exceptions [see Dr^§ 110^], being thrown forward to the ultima), as
+וְיָָֽשַׁבְתָּ֫ properly so [namely, as limited by a verb, or other term,
+preceding] hadst thou sat, chiefly in continuation of a preceding Imperfect
+tense, in its various senses of future, jussive, or frequentative. Thefurther analysis of these idioms belongs
+to
+the grammar; see on a.
+Dr^Ch. vi.^, Ges
+^«GKC:111»§ 111^, and on b.
+Dr^Ch. viii.^
+Ges^«GKC:112»§ 112^. Here it must suffice to note — (
+a) ו consecutive (especially with the imperfect) frequently couples two
+
+verbs
+in such a manner that the first, indicating the general character of the
+action,
+receives its closer definition in the second: in such cases, the first may often be represented in English by an
+adverb, as Gen 26:18
+וַיָּשָׁב וַיַּחְפֹּר and he turned and dug = and he dug
+again
+; so often; and similarly with הוֺסִיף
+Gen 25:1,
+
+מִהַר
+Gen 24:18,
+הוֺאִיל
+Josh 7:7, etc.;
+more
+exceptionally, Gen
+30:27; Esth
+8:6
+, and (not consecutive) Gen 47:6; Job 23:3; Song 2:3; Lam 3:26 (see Ges^«GKC:120»§
+120^, 2 a; compare in Syriac Nö^§ 335-6^
+. In Arabic the stronger form of the conjugation
+[placeholder1347: Placeholders/1347.gif] here corresponds: W^ii. § 140^). (
+b) וַּ  with the imperfect sometimes expresses a contrast = and yet
+, Gen
+32:31 I have seen God face to face וַתִּנָּצֵל
+and yet my soul is delivered, Deut 4:33; 2Sam 3:8; 2Sam 19:29; Isa 51:12; Ps 73:14; Ps 144:3; Job 10:8 +
+(compare Dr^§
+74^
+β). (c) there is a tendency in the later books of the OT to use the perfect with
+simple וְ, where the classical language would employ the imperfect with וַּ
+(compare above 1); so especially in Ecclesiastes, where וַּ  occurs thrice only,
+Job 1:17; Job 4:1; Job 4:7. (
+d
+) a double perfect with ו consecutive is sometimes used, informally but neatly, with
+a
+hypothetical force; thus (α) in past or present time Exod 16:21
+וְחַם הַשֶּׁמֶשׁ וְנָמָֽס׃ and the sun used to be warm, and it used to melt = and if
+(or when) the sun was warm, it melted, Exod 33:10; 1Kgs 18:10; Jer 18:4; Jer 18:8
+וְֹשָׁב וְנִחַמְתִּ֫י = and if it turns, I repent, Jer 20:9 (see
+RV
+); (β) in future time, Gen 44:22
+ועזב אביו ומת and he will leave his father, and he will die = and if he
+leaves his father, he will die, Gen 33:13; Gen 42:38; Exod 4:14; Exod 12:13; 1Sam 16:2; 1Sam 19:3; Ezek 33:3; Ezek 39:15 etc. (Dr^§ 147-9^,
+Ges^«GKC:159»§ 159^. 2 e).
+
+3. With a voluntative (cohortative or jussive) וְ expresses
+an intention,
+that or so that (an elegancy by which the too frequent use of לְמַעַן or בַּעֲבוּר
+
+is avoided): Exod
+10:17 entreat God, וְיָסֵר
+so may he remove (= that he may remove) this death, Gen 27:4 and
+bring it
+me וְאֹכֵ֑לָה
+so let me eat (= that I may eat); and without the modal form being
+externally indicated,
+Exod 14:1 speak . . . וְיָשֻׁבוּ
+that they return, Exod 14:15 and often Sts. even of past time, as 1Kgs 13:33 whom he would,
+he
+consecrated וִיהִי
+that there might be priests of the high places, 2Kgs 19:25; Isa 25:9 a Lam 1:19. After a negative, Ps 51:18
+thou desirest not
+sacrifice, וְאֶתֵּ֑נָה
+so [= in that case] would I give it (or, that I might
+give it), Ps 55:13
+וְאֶשָּׂא
+so could I bear it (or, that I might bear it), Isa 53:2
+
+RVm
+
+Num 23:19;
+Jer 5:28
+
+RV
+. Sts. also before an imperative, Gen 12:2
+and be (= that thou mayest be) a blessing, 2Sam 21:3 +. See more fully
+Dr^§ 59-65^, Ges^«GKC:108»§ 108^. 2;
+109. 2;
+110. 2. (In Arabic
+[placeholder1348: Placeholders/1348.gif] with the subjunctive is used similarly:
+W^ii. § 15 d^.) A volunt. is also sometimes attached by וְ to a preceding
+volunt. or imperative, so as to form a virtually hypothetical sentence, as Gen 42:18
+זֹאת עֲשׂוּ וִחְיוּ = if you do this, you shall live, Gen 30:28;
+Gen 34:12;
+Prov 3:9f. Prov 4:4; Prov 4:8; Isa 55:2: see
+Dr^§ 152^.
+
+4. It expresses often an informal inference, or consequence, so, then, especially at the
+beginning of
+a speech: Gen 27:8
+;
+Ps 2:10 and
+often
+וְעַתָּה now, therefore; וְלָמָּה and
+וּמַדּוּעַ
+why, then?
+Gen 29:25;
+Num 12:8; Num 16:3 +; Exod 2:20
+וְאַיּוֺ where, then, is he? Gen 34:21; 1Sam 15:14; 1Sam 26:22
+וְיַעֲבֹר let, then, . . . come over, 2Sam 24:3; 2Kgs 4:41
+וּקְחוּ קֶמַח
+then bring meal, Ezek 18:32. So the וְ consecutive and the perfect, as Deut 2:4
+וְנִשְׁמַרְתֶּם take heed, therefore, Deut 4:15; Deut 7:9
+וְיָָֽדַעְתָּ֫ know, therefore, Deut 30:19; 1Sam 6:5; 1Kgs 2:6; Ruth 3:9; Josh 15:19; Isa 40:6b (Dr^§
+119^
+δ).
+
+5.
+ו introduces the predicate or apodosis: namely
+
+a.
+וְ consecutive and the Perfect — in answer to אִם or כִּי
+constantly, as
+Exod 19:5;
+Exod 23:22 if thou hearkenest to my voice, וְאָֽיַבְתִּ֫י
+then am I (= I will be) enemy to thy enemies (see Dr^§
+136-8^); after the casus pendens, Exod 12:44 every servant that is
+bought
+for money, וּמַלְתָּ֫ה thou shalt circumcise him, etc. Num 14:31; Num 24:24; 1Sam 25:27; 2Sam 14:10
+he that spake unto thee,
+וַהֲבֵאתוֺ אֵלַי
+so hast thou brought him (= thou shalt bring him) unto me, Isa 9:4; Isa 56:6f. +;
+Exod 12:15;
+Exod 31:14;
+Deut 17:12
++;
+after various time-determinations, as Gen 3:5 in the day of your eating from it וְנִפְקְחוּ
+then shall your eyes be opened, Exod 16:6
+עֶרֶב וִידַעְתֶּם at even, then shall ye know, Exod 16:7; Exod 32:34; 2Sam 15:10
+; 1Kgs 13:31
+
+בְּמוֺתִי וּקְבַרְתֶּם אֹתִי when I die, so ye shall bury me, etc., +
+often;
+after conjs., as כִּי
+Gen 29:15,
+יַעַן
+1Kgs 20:28
+;
+Isa 3:16f.,
+תַּחַת
+Isa 60:15,
+etc., (see Dr^§ 123^).
+
+b.
+וַּ  consecutive and the Imperfect (but much less frequently than the perfect), as
+Gen 30:30
+the
+little that thou hadst, וַיִּפְרֹץ
+it hath increased, Exod 9:21; 2Sam 4:10; 1Kgs 9:20f. 1Kgs 15:13 +; after time-determinations, Gen 22:4 on the
+third day
+וַיִּשָּׂא
+then Abraham lifted up his eyes, Gen 19:15; Gen 27:34; Gen 37:18; 1Sam 6:6; 1Sam 12:8; Isa 6:1; Hos 11:1 when Israel was a
+child, וָאֹהֲבֵהוּ
+then I loved him, +; occasionally after conjunctions, as כַּאֲשֶׁר
+Exod 16:34,
+יַעַן
+1Sam 15:23,
+לְמַעַן
+Isa 45:4,
+
+אִם
+Ps 59:16 (
+Dr^§ 127^).
+
+c. in other cases (not
+'consecutive') — all more or less uncommon: namely α.
+וְ closely joined to the imperfect Gen 13:9 if to the left, וְאֵימִינָה
+then I will take the right (compare 2Sam 12:8) Exod 12:3 on the 10th of the month וְיִקְחוּ
+then let them take, Num 16:5; Isa 43:4; Hos 4:6; Hos 10:10; Ps 69:33; Job 15:17; 2Sam 22:41; Prov 23:24
+
+Kt
+(Dr^§ 125^); β. separated from the verb,
+Exod 8:22; Lev 7:16
+וּמִמָּחֳרָת
+וְהַנּוֺתָר יֵאָכֵל and on the morrow, then the remainder shall be
+eaten,
+Josh 3:3; 1Kgs 8:32;
+Isa 8:7; Isa 48:7; Job 14:7; Job 20:18 b
+Job 23:12;
+Job 25:5; Job 32:14
++;
+γ. without a verb, Gen 40:9
+בַּחֲלֹמִי וְהִנֵּה in my dream, behold, a vine was before me, Gen 40:16;
+2Sam 23:3f.;
+Prov 10:25
+,
+and the extreme cases 2Sam 15:34 thy father's slave, וַאֲנִי מֵאָז I was
+
+that of old, — but now וַאֲנִי עַבְדְּךָ
+well, I will be thine, Isa 34:12 (si vera lectio), Job 4:6b תִּקְוָָֽתְךָ וְתֹם דְּרָכֶיךָ
+thy confidence — it is the uprightness of thy ways, Job 36:26
+מִסְפַּר שָׁנָיו וְלֹא חֵקֶר
+Ges. seine Jahre, da ist kein Zählen (compare
+Dr^§ 124-5, 128-9^). — With 4, 5
+compare the Arabic
+[placeholder1349: Placeholders/1349.gif], W^i. § 366^
+b, 367 c; ii. § 187; Dr^§
+185^
+
+end.
+
+---

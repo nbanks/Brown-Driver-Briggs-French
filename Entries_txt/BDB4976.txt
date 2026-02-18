@@ -1,0 +1,269 @@
+=== BDB4976 H5060 ===
+Biblical Hebrew
+
+נָגַע :150 verb
+touch, reach, strike (Late Hebrew id.; Arabic
+[placeholder3173: Placeholders/3173.gif] is agree with one (of food), produce effect;
+Aramaic נְגַע Ithpa`al be struck (that is, with leprosy), compare Pi`el
+below); —
+
+Qal
+Perfect
+׳
+נ
+Gen 32:33 +;
+נָָֽגְעָה
+Judg 20:41 +; 1
+plural suffix נְנַעֲנוּךָ
+Gen 26:29
+Imperfect
+יִגַּע
+Lev 5:3 +;
+וַיִּגַּע
+Gen 32:26 +,
+etc.; Imperative
+גַּע
+Ps 144:5 + 2
+t.; Infinitive construct
+נְגֹעַ, לִנְגּוֺעַ
+Gen 20:6 + 3 t.;
+גַּ֫עַת
+2Sam 14:10;
+Ezek 17:10
+suffix נָגְעֵךְ
+Ruth 2:9 etc.;
+Participle
+active
+נֹגֵעַ
+1Kgs 19:5 +;
+נֹגְעִים
+Jer 12:14
+feminine נֹגַ֫עַת
+Num 19:22 + 2
+t.; plural נֹגְעֹת
+1Kgs 6:27
+passive
+נָגוּעַ
+Ps 73:14; Isa 53:4 —
+
+1.
+
+a.
+touch, usually followed by בְּ
+Gen 3:3 (
+J
+),
+Gen
+32:25;
+Gen 32:33; Exod 19:12 (twice in verse); Exod 19:13 (all
+E
+),
+Exod
+29:37;
+Exod 30:20 (
+P
+), Lev 5:2
+;
+Lev 5:3 + 25 t.
+Leviticus; Num
+16:26 + 7 t. Numbers (
+P
+) +
+Num
+19:22 (no בְּ or object), Deut 14:8; Judg 6:21; 2Sam 23:7; 1Kgs 6:27 (twice in
+verse); 1Kgs
+19:5; 1Kgs 19:7;
+2Kgs 13:21
+; Esth 5:2
+;
+Dan 8:5; Dan 8:18;
+Lam 4:14
+followed by אֶלֿ
+Hag 2:12;
+Num 4:15;
+1Kgs 6:27
+;
+Dan 9:21,
+compare Hos 4:2
+
+compare עַלפֶּֿה
+Isa 6:7
+עַלשָֿׂפָה
+Dan 10:16
+
+compare accusative Isa 52:11 absolute (no object expressed) Job 6:7; Lam 4:15.
+
+b. of ׳
+
+י
+touching earth, mountains, etc., followed by בְּ
+Amos 9:5;
+Ps 104:32
+; Ps
+144:5
+figurative of ׳
+י
+touching the heart, followed by בְּ
+1Sam 10:26
+.
+
+2. nearly = strike, passive stricken, Ps 73:14; Isa 53:4 ||
+מֻכֶּה), of wind Job 1:19; Ezek 17:10 of divine chastisement 1Sam 6:9; Job 1:11; Job 19:21 followed by אֶל
+
+Job 2:5.
+
+3.
+touch = harm, followed by. בְּ, Gen 26:11 (
+J
+), Josh 9:19
+; 2Sam
+14:10; 1Chr 16:22 || הָרֵעַ) = Ps 105:15; Jer 12:14; Zech 2:12
+(twice in verse); followed by. אֶלֿ
+Gen 20:6 (
+touch a woman), so Prov 6:29 (followed by בְּ); followed by. accusative Gen 26:29 (
+
+J
+, suffix), so
+Ruth 2:9 see also Job 5:19 (subject רַע, followed by בְּ), Judg 20:34;
+Judg 20:41
+(both subject רָעָה, followed by עַלֿ).
+
+4.
+reach, extend to, 2Sam 5:8, followed by בְּ (but corrupt see Dr
+HPS); in metaphor, followed by עַד, of vine Isa 16:8; Jer 48:32
+of sword Jer 4:10
+, compare Jer
+4:18 of chastisement Mic 1:9, compare Job 4:5 (|| בּוֺא אֶלֿ); also (followed by אֶל
+) Jer 51:9
+= come, followed by אֶלֿ
+Jonah 3:6
+arrive (of time), absolute Ezra 3:1; Neh 7:73.
+
+Niph`al
+Imperfect
+וַיִּנָָּֽנְעוּ
+Josh 8:15
+be stricken, defeated (in battle), i.e. feign to be so, but read probably
+וַיִּנָָּֽגְפוּ, see
+נגף
+
+Niph`al
+
+Pi`el
+Perfect suffix נִגְּעוֺ
+2Chr
+26:20
+strike (with leprosy, 2 accusative), subject ׳
+י; so Imperfect
+וַיְנַגַּע
+2Kgs 15:5
+;
+Gen 12:17 (subject ׳
+י; accusative of person + accusative of cognate meaning).
+
+Pu`al
+Imperfect
+יְנֻגָּע֑וּ
+be sticken by diseases (?; compare
+Pi`el and נֶגַע
+2, 3, especially 2Sam 7:14) Ps 73:5.
+
+Hiph`il
+Perfect
+הִגִּיעַ
+
+Isa 25:12 + 6 t.; 2 feminine singular הִגַּ֫עַתְּ
+
+Esth 4:14 1 singular suffix וְהִגַּעְתִּ֫יהוּ
+
+Ezek
+13:14, etc.; Imperfect
+יַגִּיעַ
+Isa
+8:8 + 3 t.; וַיַּגַּע
+Isa
+6:7;
+Jer 1:9, etc.; Infinitive construct
+הַגִּיעַ
+
+Esth 2:12;
+Esth 2:15
+Participle
+מַגִּיעַ
+
+Gen 28:12 +; feminine מַגַּ֫עַת
+
+2Chr 3:11 — cause to touch; reach, approach,
+arrive:
+
+1.
+cause to touch, apply, Exod 12:22) (
+J
+
+E
+; מִדָּם, אֶלֿ); cause to touch
+(compare עַד עָפָר, לָאָרֶץ), i.e. bring
+to ground,
+Isa 25:5; Isa 25:12, compare
+
+Lam 2:2; Ezek 13:14 (followed by אֶלֿ
+),
+Exod 4:25 (
+J
+; followed by לְרַגְלָיו); followed by עַלפֶּֿה
+
+Isa 6:7; Jer
+1:9 followed by בְּ
+
+Isa 5:8.
+
+2. intransitive reach, extend, Gen 28:12
+(followed by ָ  ה locative); followed by אֶלֿ
+
+Zech 14:5, followed by עַד
+Isa
+8:8 compare ׳
+תַּגּ
+יָדוֺ דֵּי שֶׂה
+Lev
+5:7
+if his hand do not reach enough for a lamb (i.e. he be not able to
+furnish a lamb); followed by לְ
+
+Job 20:6 (hyperbole) 2Chr 3:11 (twice in verse); 2Chr 3:12
+followed by עַד לְ
+
+2Chr 28:9
+attain, followed by לְ
+
+Esth 4:14, arrive, come, followed by
+accusative of location
+Isa 30:4;
+Esth
+4:3; Esth
+8:17,
+followed by לְ (of time) Dan 12:12, followed by
+אֶלֿ
+
+1Sam 14:9, followed by עַדֿ
+Ps
+107:18, absolute Esth 6:14
+followed by אֵצֶל
+Dan
+8:7.
+
+3.
+approach, of time, absolute Eccl 12:1;
+Song 2:12; Ezek 7:12 (||
+בּוֺא); see also Esth 9:1 (followed by Infinitive), compare
+Esth 2:12; Esth 2:15; Ps 88:4 (followed by לְ
+).
+
+4. of fate or lot, = befall, followed by אֶלֿ
+
+Esth 9:26;
+Eccl 8:14 (twice in verse);
+
+Ps 32:6.
+
+---

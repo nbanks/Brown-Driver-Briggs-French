@@ -1,0 +1,346 @@
+=== BDB4155 H3722 ===
+Biblical Hebrew
+
+כִּפֶּר
+verb
+Pi`el etc.
+denominative
+cover over (figurative), pacify, make propitiation; —
+
+Pi`el
+Perfect
+כִּפֶּר
+Exod 30:10
++ 31 t.; 2 masculine singular suffix כִּפַּרְתָּ֑הוּ
+Ezek 43:20
+3 masculine plural יְכַפְּרוּ
+Ezek 43:26
+2 masculine plural כִּפַּרְתֶּם
+Ezek 45:20
+
+Imperfect
+יְכַפֵּר
+Exod 30:10
++ 10 t.; יְכַפֶּרֿ
+Lev 7:7; Num 5:8 suffix
+יְכַפְּרֶנָּה
+Prov 16:14
+1 singular אֲכַפֵּר
+2Sam 21:3
+אֲכַפְּרָה
+Gen 32:21;
+Exod 32:30,
+etc.; Imperative
+כַּפֵּר
+Deut 21:8 + 4
+t.; Infinitive
+כַּפֵּר
+Exod 30:15
++ 28 t.; suffixes כַּפְּרִי
+Ezek 16:63
+
+כַּפֶּרְךָ
+Exod 29:36
+כַּפְּרָהּ
+Isa 47:11
+—
+
+1.
+cover over, pacify, propitiate; אֲכַפָּרָה פָנָיו בַּמִּנְחָה
+Gen 32:21
+
+let me cover his face by the present (so that he does not see the offence, i.e.
+pacify, him;
+E
+; RS^OTJC, 2d ed., 381^ 'wipe clean the face,'
+blackened by displeasure, as the Arabs say 'whiten the face'); לֹא תוּכְלִי כַּפְּרָהּוְתִפֹּל
+עָלַיִךְ הֹוָה
+Isa 47:11
+
+and disaster will fall upon thee, thou wilt not be able to propitiate it (by payment
+of a כֹּפֶר, see Isa 43:3); pacify the wrath of a king Prov 16:14 (e.g. by a gift).
+
+2.
+cover over, atone for sin, without sacrifice :
+
+a. man as subject,
+בַּמָּה אֲכַפֵּר
+2Sam 21:3
+, with what shall I cover over (namely, the bloodguiltiness of the house of Saul,
+says David The answer is by a death penalty of seven sons of the guilty house); חטאתכםבְּעַד
+
+Exod 32:30
+
+on behalf of your sins (
+J
+
+E
+; Moses, by intercession); with על of persons Num 17:11; Num 17:12 (
+P
+; by incense), Num 25:13 (
+P
+when Phinehas slays the ringleaders).
+
+b. with God as subject, with accusative
+of person, cover, i.e. treat as covered, view propitiously, Yahweh's land Deut 32:43
+(song); לְ person Deut 21:8 (bloodguiltiness flows away in the stream), Ezek 16:63
+
+בְּעַד of person 2Chr 30:18 with accusative of the sin
+Ps 65:4;
+Ps 78:38
+, probably also Dan 9:24
+ׅ || ( חטאתח֯תם; עַל of sin, Ps 79:9; Jer 18:23
+ׅ || ( מחה. It is conceived that God in his sovereignty may himself
+provide an atonement or covering for men and their sins which could not be provided by men.
+
+3.
+cover over, atone for sin and persons by legal rites, in the codes of
+H
+,
+P
+, and Ezekiel: absolute הַכֹּהֵן
+׳
+וכ
+and the priest shall make atonement
+Lev 16:32
+
+a. with accusative of sacred places (by the great sin-offering of the day of
+atonement),
+Lev 16:20; Lev 16:33 (twice in verse); also Ezek 43:20; Ezek
+43:26; Ezek 45:20
+(by the blood of the sin-offering || חִטֵּא, טִהַר).
+
+b. usually c. עַל (I) of things, e.g. of the altar to which the blood
+of the
+sin-offering was applied Exod 29:36; Exod 29:37; Exod 30:10; Lev 8:15
+ׅ || ( קִדַּשׁ, Lev 16:18 and specifically the horns of the altar
+Exod
+30:10
+the holy place of the tabernacle Lev 16:16 (by the great sin-offering, because of (
+מִן ׅ
+the uncleannesses of thechildren of Israel and because of their transgressions); for the
+leprous
+house by ceremony of purification Lev 14:53
+ׅ || ( טִהַר; for the goat לעזאזל
+Lev 16:10
+(which was presented before Yahweh to consecrate him for the bearing away of the sins of the
+people).
+(2) of persons, נפשׁתיכם עלֿ, for your persons, yourselves, e.g.
+by
+the payment of atonement-money כֶּסֶף הַכִּפֻּרִים at the census Exod 30:15; Exod 30:16
+by the קרבן of the spoils Num 31:50 by the blood upon the altar Lev 17:11
+
+in the ritual עֲלֵיהֶם, עָלָיו by ministry of priest through the blood
+of
+the sin-offering
+Lev 4:20;
+Lev 4:31;
+Lev 8:34; Lev 10:17; Lev 12:7; Lev 12:8; Lev 14:19; Lev 14:31
+; Lev
+16:30
+;
+Lev
+16:33;
+Lev 23:28;
+Num 8:12;
+Num 8:21; Num 15:25; Num 15:28 (twice in verse);
+Num 28:22
+;
+Num
+28:30;
+Num 29:5; 2Chr 29:24; Neh 10:34 of the trespass-offering Lev 5:16;
+Lev 5:18
+; Lev 5:26
+;
+Lev 7:7;
+Lev 14:21
+
+; Lev
+19:22
+; Num 5:8
+
+the whole burnt-offering
+Lev 1:4; Lev 14:20; Lev 16:24 by the oil used in purifying a leper Lev 14:18
+
+; Lev
+14:29
+by the תרומה
+Ezek
+45:15
+by the priestly ministry in general 1Chr 6:34 by the substitution of the Levites for the
+firstborn
+Num 8:19
+.
+Underlying all these offerings there is the conception that the persons offering are covered by that
+which
+is regarded as sufficient and satisfactory by Yahweh. (The purpose of the covering is stated Lev 16:30
+
+תִּטְהָ֑רוּיְכַפֵּר
+׳
+עֲלֵיכֶם לְטַהֵר אֶתְכֶם מִכֹּל חַטּאֹתֵיכֶם לִפְנֵי י = shall atonement be
+made
+for you to cleanse you, from all your sins shall ye be clean before Yahweh, and Num 8:21
+וַיְכַפֵּר עֲלֵיהֶם לְטַהֲרָם
+and (Aaron) made atonement for them to cleanse
+them.)
+
+c. the need of the atonement is expressed by מִן
+:
+others understand מִן as = away from; compare
+Di^
+Lev 4:26
+
+^, Ri^Sühne 50 f^. מֵחטאתו
+because of his sin
+Lev 4:26
+;
+Lev 5:6;
+Lev 5:10
+;
+Lev 16:34
+
+מטמאתו
+Lev 14:19
+;
+Lev 16:16
+
+מזוב
+Lev 15:15
+;
+Lev 15:30
+
+מֵאֲשֶׁר חָטָא
+Num 6:11
+also
+עַל
+עַלחַֿטָּאתוֺ
+on account of his sin
+Lev 4:35
+;
+Lev 5:13
+;
+Lev 19:22
+
+עלשֿׁגגתוֺ
+Lev 5:18
+.
+
+d. with בְּ instrumental בְּאֵיל
+Lev 5:16;
+Lev 19:22
+;
+Num 5:8
+with a trespass-offering Lev 7:7
+כִּיהּהַדָּם הוּא בַּנֶּפֶשׁ יְכַפֵּר
+Lev 17:11
+
+for it is the blood with the living being that covers over (
+H
+, see
+נפשׁ
+
+3 (a);
+RV
+
+by reason of the life after De
+Di
+Kn
+Bähr
+Kau and most moderns;
+AV
+follows
+
+ᵐ5
+
+ᵑ9
+
+.
+
+ᵑ7
+
+. so Ges
+Ew^§ 282 a. Anm. 1 :^
+' for the soul '); with בְּ local בַּקֹּדֶשׁ
+Lev 6:23;
+Lev 16:17
+;
+Lev 16:27
+.
+
+e. with בַּעַד person, on behalf of
+Lev 9:7 (twice
+in
+verse); Lev 16:6
+
+; Lev 16:11
+;
+Lev 16:17
+;
+Lev 16:24
+
+(by Aaron),
+Ezek 45:17 (by the prince).
+
+Pu`al
+Perfect
+כֻּפַּר
+Exod 29:33
+; Isa
+28:18 (but read תֻּפַר, — √ I. פרר, — so
+
+ᵑ7
+
+. Hu We
+Che
+SS and others see Br^MP 209^
+); Imperfect
+יְכֻפַּר
+Num 35:33
++ 3 t.; 3 feminine singular תְּכֻפָּ֑ר
+Isa 6:7
+be covered over, atoned for.
+
+1. apart from the ritual, חטאתך תכפר
+Isa 6:7 thy
+sin shall be covered over ( || וְסָר עֲוֺנֶךָ; by the touch of the
+live coal from the altar); לָכֶםאִםיְֿכֻפַּר הֶעָוֺן הַזֶּה
+Isa 22:14
+
+surely this iniquity shall not be covered over; with בְּ
+instrumental בזאת יכפר עון
+Isa 27:9
+by this shall the iniquity of Jacob be covered over (||
+הָסר חטאתו namely by the destruction of idolatrous objects); עוןבחסד יאמת יכפר
+
+Prov 16:6
+by mercy and fidelity iniquity is covered over.
+
+2. with לְ
+for whom, לארץ לא יכפר לדם
+Num 35:33
+
+for the land atonement cannot be made, in view of the blood shed in it, except by the
+blood of the shedder of blood; in the ritual of
+P
+, with בְּ instrumental אֲשֶׁר כֻּפַּר בָּהֶם
+Exod 29:33
+
+wherewith atonement was made (ram of consecration).
+
+Hithpa`el
+Imperfect
+יִתְכַּפֵּר
+1Sam 3:14
+with בְּ instrumental יִתְכַּפֵּר עֲוֺן בֵּיתעֵֿלִי בְּזֶבַח וּבְמִנְחָה
+אִםֿ
+the iniquity of the house of Eli shall not be covered by peace offering or minchah
+(in other words there was no atonement for it; compare Punic Isa 22:14).
+
+Niph`al
+Perfect
+וְנִכַּפֵּר לָהֶם הַדָּם
+Deut 21:8
+
+and the blood shall be covered for them.
+
+---

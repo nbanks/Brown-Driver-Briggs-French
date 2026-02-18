@@ -1,0 +1,167 @@
+=== BDB5968 H5826 ===
+Biblical Hebrew
+
+I. [עָזַר]_82_
+verb
+help, succour (Late Hebrew noun עֶזְרָה
+help; Phoenician in derivatives and compounds Lzb^338
+f.^; Arabic
+[placeholder3812: Placeholders/3812.gif]
+excuse, exculpate, also aid; Aramaic
+[placeholder3813: Placeholders/3813.gif]
+help, Palmyrene עדר, rarely עזר
+Lzb^338^
+Cook^89. 90^); —
+
+Qal
+Perfect 3 masculine singular suffix עֲזָרָ֑נִי
+Ps 118:13,
+עֲזָָֽרְךָ
+1Chr 12:19 3
+plural suffix עֲזָרֻם
+1Chr 12:20,
+etc., Imperfect 3 masculine singular יַעֲזָרֿ
+Isa 50:7; Isa 50:9, suffix
+יַעְזְרֶךָּ
+Isa 44:2 3
+masculine plural יַעְזֹ֑רוּ
+Isa 30:7; Isa 41:6,
+וַיַּעְזְרוּ
+1Kgs 1:7 suffix
+יַעַזְרֻנִי
+Ps 119:175
+, etc.; Imperative masculine singular suffix עָזְרֵנִי
+Ps 109:26;
+Ps 119:86 +
+Josh 10:4
+
+Kt
+, masculine plural suffix עִזְרֻנִי
+
+Qr
+, etc.; Infinitive construct
+לַעֲזֹר
+1Chr 22:17,
+לַעֲזוֺר
+1Chr 18:5,
+לַעְזֹר
+Josh 10:33 + 5
+t., לַעְזוֺר
+2Chr 25:8 + 2Sam 18:3
+
+Qr
+(>
+Kt
+
+לַעֲזִיר
+Hiph`il); suffix לְעָזְרֵנִי
+1Chr 12:17
++ 2 t., etc., Participle
+active
+עֹזֵר
+1Kgs 20:16
++, etc.; passive
+עָזֻר
+Isa 31:3 —
+help, with accusative of person 1Kgs 20:16; Josh 1:14 + 2Chr 28:23 (reading
+עֹזְרִים
+Ges^«GKC:53o»§ 53o^, for
+
+ᵑ0
+
+מַעְזְרִים, apparently
+Hiph`il; subject false gods); with accusative of location (city) Josh 10:33 (
+D
+); especially with suffix person Josh 10:4; Josh 10:6 (+ הוֺשִׁיעַ; both
+J
+
+E
+), 1Chr
+12:18;
+1Chr 12:20; 1Chr 12:23 (van
+d. H. v.1Chr 12:17 v.1Chr 12:19 v.1Chr 12:22), 2Chr 32:3; Ezra 8:22 (+ מִן
+of enemy), Ezra 10:15; Dan 10:13 (subject Michael); subject often God (׳
+
+י), with accusative of person Ps 10:14; 1Chr 15:26, usually suffix Gen 49:25 (poem in
+J
+), 1Sam
+7:12; Isa
+41:10; Isa
+41:13; Isa
+41:14 + 12 t. + 2Chr 26:7 (with עַל
+
+against), Ps 37:40 (+ פִּלֵּט), Ps 46:6 (suffix of city), Ps 109:26
+(|| הוֺשִׁיעַ); subject false gods Deut 32:8; 2Chr 28:23 with לְ person
+2Sam 8:5 +
+1Chr 18:5
++ 4 t. + 2Sam
+18:3 (read
+Qr
+
+לַעֲזוֺר, or לְעֹזֵר ? compare HPS
+); subject ׳
+י
+Isa 50:7;
+Isa 50:9
+with עִם person 1Chr 12:22 (van d. H. v.1Chr 12:21
++ עַל
+against); with אַחֲרֵי person (construction praegn.) 1Kgs 1:7 with
+בְּ person against whom 2Chr 20:23 (+ infinitive); with בֵּין ֗֗֗ לְ,
+of ׳
+י, 2Chr 14:10 absolute Isa 30:7; 2Chr 26:13 (+ עַל
+against), 2Chr 28:16
+לְרָעָה
+׳
+ע
+Zech 1:15
+they helped, with evil result; ׳
+י subject, 2Chr 25:8 (opposed to הַכְשִׁיל); also participle with
+suffix Ezek
+30:8 + 3 t.; with לְ person 2Kgs 14:26 + 5 t., of ׳
+י
+Ps 30:11
+; Ps 54:6
+absolute
+Isa 31:3; Isa
+63:5; Jer 47:4
+; Ps 22:12
+; Ps 107:12
+construct עֹזְרֵי
+הַמִּלְחָמָה
+1Chr 12:1
+, עֹזְרֵי רָ֑הַב
+Job 9:13
+(see
+רַהַב
+); Participle passive absolute as substantive he who is helped
+
+Isa 31:3.
+
+Niph`al
+Perfect
+וְנֶעֱזָרְ֑תִּי
+Ps 28:7
+I am helped (that is, by ׳
+י); Imperfect 3 masculine plural וַיֵּעָֽזְרוּ
+1Chr 5:20
+(that is, id.; + עַל
+against, with noun cognate יֵעָֽזְרוּ עֵזֶר מְעָט
+Dan 11:34
+
+Infinitive construct
+הִפְלִיא לְהֵעָזֵר
+2Chr 26:15
+
+he was wonderfully helped (literally made wonderful to be helped
+).
+
+Hiph`il dubious: Infinitive construct
+2Sam 18:3
+
+Kt
+, Participle plural מַעְזְרִים
+2Chr 28:23
+, see
+Qal.
+
+---

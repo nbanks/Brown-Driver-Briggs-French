@@ -1,0 +1,1064 @@
+=== BDB3454 H3045 ===
+Biblical Hebrew
+
+יָדַע_943_
+verb
+know (Late Hebrew id., Aramaic יְדַע
+[placeholder2186: Placeholders/2186.gif]; Phoenician ידע; Ethiopic
+[placeholder2187: Placeholders/2187.gif] II. I. indicate, announce, narrate; Assyrian
+idû
+, know, COT^Gloss^;
+Sabean ידע, especially in compound proper name DHM^ZMG 1875,
+612^) —
+
+Qal
+Perfect
+יָדַע
+Gen 4:1 +;
+יָדָ֑ע
+Lev 5:1 +; suffix
+יְדָעוֺ
+Deut 34:10;
+Job 28:7
+יְדָעָהּ
+Gen 24:16; 1Kgs 1:4
+יְדָעָ֫נוּ
+Isa 63:16 3
+feminine singular יָָֽדְעָה
+Judg 11:39 + 4
+t.; 2 masculine singular יָדַעְתָּ
+Gen 30:26 +;
+יָדַ֫עְתָּה
+2Sam 2:26
+יָדַ֫עַתְּ
+Ruth 2:11; 1Kgs 2:15
+יָדָ֑עַתְּ
+Jer 50:24
+וְיָדַ֫עַתְּ consecutive Ruth 3:4 + 6 t. (including Ezek 22:16, Co
+וִידַעְתֶּם, so
+
+ᵐ5
+
+ᵑ7
+
+) + Ezek
+28:22
+Co (for וְיָדְעוּ), so
+
+ᵐ5
+
+; יָדַ֫עְתִּי
+Gen 4:9 +; suffix
+יְדַעְתִּ֫יךָ
+Exod 33:12 + 2
+t.; יְדַעְתִּיו
+Gen 18:19
+יְדַעְתִּים
+Prov 30:18
+יְדַעְתִּין
+Isa 48:7
+יָָֽדְעוּ
+Gen 19:8 +;
+יָדָ֑עוּ
+2Kgs 4:39 +;
+יָָֽדְעוּן
+Deut 8:3; Deut 8:16 (Dr^§ 6 n^.); 2 masculine plural יְדַעְתֶּם
+Gen 44:15 +; 2
+feminine plural יְדַעְתֶּן
+Gen 31:6
+וִידַעְתֶּן consecutive Ezek 13:21; Ezek 13:23, etc.; Imperfect
+יֵדַע
+Isa 7:16 +;
+יֵדָ֑ע
+Josh 22:22 + 5
+t.; וְיֵדָ֑ע
+Ps 138:6 (read
+probably יֵידָ֑ע see Ges^«GKC:69»§ 69^, 2 R, 3);
+וַיֵּ֫דַע
+Gen 4:17 +; suffix
+יֵדָעֶנּוּ
+Jer 17:9
+וְיֵדָעֵם
+Hos 14:10
+Imperative
+דַּע
+Gen 20:7 + 10 t.;
+דְּעֶה
+Prov 24:14
+דָּ֑ע
+
+Eccl 11:19
+suffix דָּעֵ֫הוּ
+Prov 3:6
+דְּעִי
+Jer 2:19 + 4 t.;
+דְּעוּ
+Num 32:23 + 15
+t.; Infinitive construct
+דֵּעָה
+Exod 2:4
+דַּ֫עַת
+Gen 3:22 +;
+דַּעְתִּי
+Deut 9:24, etc.;
+Infinitive absolute
+יָדוֺעַ
+Gen 43:7; Josh 23:13
+יַדֹעַ
+Gen 15:3 + 11 t.;
+Participle
+active
+יֹדֵעַ
+Gen 3:5 +; feminine
+יֹדַ֫עַת
+Num 31:17 + 2
+t.; יֹדְעִים
+2Kgs 17:26 +;
+passive
+וִידוּעַ construct Isa 53:3 plural וִידֻעִים
+Deut 1:13; Deut 1:15 —
+
+1.
+
+a.
+know, learn to know, good and evil Gen 3:22 (
+J
+), followed by אֶתאֲֿשֶׁר
+1Sam 28:9
+מִסְפַּר הָעָם
+2Sam 24:2
+anything
+מְאוּמָה
+1Sam 20:39
+
+לֹא יָדַע אִתּוֺ מְאוּמָה
+Gen 36:6
+(see
+II. אֵךְ
+1.b.), so Gen
+36:8
+כָּלדָּֿבָר
+2Sam 15:11
+, subject God, knowing fowls Ps 50:11 way to wisdom Job 28:23 etc.; of bird of prey נָתִיב לֹא
+יְדָעוֺ
+עָ֑יִט
+Job 28:7
+the
+price of wisdom
+Job 28:13 something future יום מוֺתִי
+Gen 27:2 (
+
+J
+); especially followed by clause Gen 12:11 (
+J
+) I Know that thou art a woman of fair appearance, Gen 22:12 (
+E
+),
+Eccl
+1:17
+לֹא ידעתי
+Gen 28:16
+
+answering question Where ? without other object, Gen 4:9 (both
+J
+); followed by accusative + בְּ, in, in the matter of (see
+
+בְּ
+
+1 2 b) לֹא יָדַע עַבְדְּךָ בְּכָלֿ
+זֹאת דָּבָר קָטֹן אוֺ גדוֺל
+1Sam
+22:15
+
+thy servant knoweth not of all this anything, little or much; followed by
+בְּ
+(rare), gain knowledge of, learn of or about,
+with
+infinitive הֲתֵדַע בְּשׂוּםאֱֿלוֺהַּ עֲלֵיהֶם
+Job
+37:15
+
+dost thou know about God's enjoining upon them? also with substantive
+אִישׁ
+אַליֵֿדַע בַּדְּבָרִים הָאֵלֶּה
+Jer
+38:24
+
+let not a man know of these words; similarly followed by עַל,
+only
+הֲתֵדַע עַלמִֿפְלְשֵׂיעָֿ֑ב
+Job
+37:16
+
+dost thou know concerning the balancings of clouds? (in Job 12:9
+בְּ is instrumental, as Gen 15:8; Ps 41:12); followed by מִן,
+
+הַמַּחֲבֹאִים רְאוּ וּדְעוּ מִכָּלֿ
+1Sam
+23:23
+
+observe and get knowledge of all the hiding-places; but followed by object clause
++
+מִן of source, קֶדֶם יָדַעְתִּי מֵעֵדֹתֶ֑יךָ כִּי
+
+Ps
+119:152
+long ago I gained knowledge out of thy testimonies that etc.; followed by
+לְ
+, have knowledge of, יָדַעְתָּ לְאִוַּלְתִּי
+Ps 69:6
+thou knowest my foolishness; especially יהוה וידע כי אני
+and he shall (thou shalt, etc.) know that I am
+Yahweh
+Exod 10:2
+(
+
+R
+), Exod
+6:7
+; Exod
+14:4
+;
+Exod
+16:12; Exod 29:46 (all
+P
+),
+Ezek
+6:7;
+Ezek 6:10; Ezek 6:13 + often in Ezekiel; 1Kgs 20:13; 1Kgs 20:28 followed
+by
+accusative, which is really subject of following clause, Gen 18:19 (
+J
+) I know him that he will, etc. 2Sam 3:25 (
+Ges^«GKC:117»§ 117^. 1, R. 6).
+
+b.
+perceive
+Gen 19:33
+;
+Gen 19:35 (
+J
+; object clause infinitive with בְּ); with added idea of observing,
+taking note of, a place, accusative Ruth 3:4 with בְּ, יָדַעְתָּ
+בְּצָרוֺת נַפְשִׁי
+Ps 31:8
+(|| רָאָה אֶתֿ).
+
+c. || ראה, imperative דע
+וראה
+perceive and see
+1Sam
+12:17; 1Sam 24:12
+find out and discern
+1Sam
+14:38; 1Sam 23:22 in reverse order, ראו ודעו only 1Sam 23:23
+(see a. above), Jer 5:1 (see Dr^Sm^
+). — See also g. below
+
+d.
+discriminate, distinguish
+הַאֵדַע בֵּיןטֿוֺב לְרָ֑ע
+
+2Sam 19:36, compare Deut 1:29 (no בֵּין); לֹא יָדְעוּ
+בֵיןיְֿמִינוֺ לִשְׂמאֹלוֺ
+Jonah
+4:11
+they cannot distinguish between their right hand and their left.
+
+e.
+know by experience, וִידַעְתֶּם בְּכָלֿ
+לְבַבְכֶם וּבְכָלנַֿפְשְׁכֶם כִּי
+
+Josh 23:14 (
+D
+) and know in all your hearts, and all your souls, that, etc.;
+learn to know
+׳
+י
+
+Hos 13:14
+learn (a bitter lesson) Hos 9:7; Isa 9:8; Ps 14:4
+experience
+׳
+י's vengeance Ezek 25:14; Ps 14:4 (absolute); quietness
+
+Job 20:20.
+
+f.
+recognise, admit, acknowledge, confess
+Jer
+3:13; Jer 14:20; Isa 59:12; Ps 51:5.
+
+g.
+
+consider
+דְּעוּ מַהתַּֿעֲשׂוּ
+Judg
+18:14 || ראה, imperative דע
+וראה, דעו וראו, 2Sam 24:13;
+1Kgs 20:7; 1Kgs 20:22 also וְיָדַעְתָּ
+עִםלִֿבָבֶ֑ךָ כִּי
+Deut
+8:5
+and thou shalt consider with (in)
+thy heart, that, Deut 4:39.
+
+h.
+לֹא ידע
+not know = not expect
+Isa
+47:11;
+Ps 35:8.
+
+2.
+know a person, be acquainted with
+Gen 29:5
+(
+
+J
+),
+Exod 1:8
+(
+E
+),
+Job
+42:11, know
+׳
+י
+Job 24:1
+c
+לֹא, object especially other gods, strange land, etc. = have no knowledge of, or
+acquaintance
+with, have not heard of, especially Deuteronomy, Jeremiah: — Deut 11:28; Deut 13:3; Deut 13:7
+;
+Deut 13:14; Deut 28:64; Deut 29:25; Deut
+32:17
+(poem), Jer
+7:9;
+Jer 9:15
+;
+Jer 14:18;
+Jer
+16:13;
+Jer 17:4
+;
+Jer 19:4; Jer 22:28;
+Jer 44:3
+
+participle active acquaintance
+Job
+19:13
+passive participle acquainted with
+אִישׁ מַכְאֹבוֺת וִידוּעַ חֹ֑לִי
+Isa 53:3
+
+(literally known of sickness, see Thes
+
+Ew
+Che
+Di
+Du); well-known (with implied
+trustworthiness)
+Deut 1:13
+;
+Deut 1:15 ; of
+beasts knowing owner and master's crib Isa 1:3 (compare Jer 8:7); especially
+of knowing God ׅ
+
+׳
+לֹא יָדַעְתִּי (י
+׳
+אֶתיֿ
+Exod 5:2
+(
+J
+); involving intelligent worship, obedience, etc. Judg 2:10; 1Sam 2:12 (read
+יֵדַע for
+
+ᵑ0
+
+יָדַע
+Dr), 1Sam 3:7; Hos 2:22; Hos 8:2; Hos 5:4;
+
+Ps 79:6
+(see
+also דַּעַת
+2.b.); of God's Knowing persons etc., throughly
+Hos
+5:3;
+
+Job
+11:11 knowing the heart 1Kgs 8:39; 2Chr 6:30; Ps 139:4
+knowing his true servants, recognising and
+
+acknowledgingthem 2Sam 7:20; Nah 1:7; 1Chr 17:18
++; יְדַעְתִּיךָ בְּשֵׁם
+
+Exod
+33:12 (
+J
+
+E
+); = take notice of, regard
+Ps
+1:6;
+
+Ps 31:7
+; Ps
+37:18 so of Israel as chosen people Amos 3:2; Hos 13:5
+(Assyrian
+idûšu, God regardeth him,
+
+Hpt^BAS i, 15^) compare Gen 18:19 (
+
+J
+).
+
+3.
+know a person carnally, of sexual intercourse, followed by accusative: man subject
+Gen 4:1;
+Gen 4:17
+;
+Gen 4:25;
+Gen 24:16;
+Gen
+38:26
+(all
+J
+),
+1Sam 1:19
+;
+Judg
+19:25;
+1Kgs
+1:4 woman subject Gen 19:8 (
+J
+),
+Num
+31:17;
+Num 31:18;
+Num 31:35 (all
+P
+),
+Judg
+11:39
+יֹדַעַת
+מִשְׁכַּב זָכָר
+Judg
+21:11
+לֹא יָדְעָה אִישׁ לְמִשְׁכַּב זָכָר Judg 21:12 man subject and object
+(of sodomy)
+Gen 19:5 (
+J
+),
+Judg
+19:22.
+
+4.
+
+a.
+know how to do a thing, be able to do it, often with לֹא and
+followed by
+infinitive לֹא יָדְעוּ עֲשׂוֺתֿ
+נְכֹחָה
+Amos
+3:10
+they know not how to do right; לֹא
+יָדַעְתִּי דַבֵּר
+Jer 1:6
+;
+Jer 6:15;
+1Kgs 3:7; Isa 56:11
+(twice in verse), with לְ
+Isa 50:4
+;
+Eccl 10:15
+לֹא יָדַע לְהִזָּהֵר
+Eccl
+4:13
+know not how to be admonished (Eccl 4:17 know that
+); infinitive
+absolute ידע מָאוֺס בָּרָע וּבָחוֺר
+בַּטּוֺב
+Isa 7:15
+;
+Isa 7:16.
+
+b.
+be skilful in, especially participle, followed by accusative יֹדֵעַ צַיִד
+
+Gen 25:27
+(
+J
+) skilled in hunting; ידע סֵפֶר
+skilled in a book, learned
+
+Isa 29:11
+;
+Isa
+29:12 (twice in verse); as plural construct יוֺדְעֵי נֶ֑הִי
+
+Amos 5:16
+knowers of lamentation,professional mourners; יֹדְעֵי הַיָּם
+
+1Kgs 9:27
+skilled in the sea, 2Chr 8:18 especially followed by infinitive
+יֹדֵעַ נַגֵּן
+
+1Sam 16:18
+
+skilled in playing,1Kgs 5:20; 2Chr 2:6; 2Chr 2:7
+;
+2Chr 2:13: יֹדֵעַ מְנַגֵּן
+בַּכִנּוֺר
+
+1Sam 16:16
+
+knowing, (as) a player on the lyre (see Dr).
+
+5. absolute have knowledge, be wise:
+לַֹיּדְעִים
+Eccl 9:11
+(||
+חֲכָמִים, נְבֹנִים); especially have knowledge of God and duty, or in
+practical
+affairs Isa 1:3
+(||
+בין), Isa 56:10 often with accusative of cognate meaning with verb:
+דַּעַת
+
+Prov
+17:27;
+Prov 30:3
+
+בִּינָה
+Isa
+29:24;
+Prov 4:1;
+2Chr 2:12
+, compare
+יוֺדְעֵי בִינָה לָעִתִּים
+1Chr
+12:33 (
+Baer), Esth 1:13 also יֹדְעֵי דָּת וָדִין
+Esth 1:13
+
+יֹדְעֵי דַעַת וּמְבִינֵי מַדָּע
+Dan 1:4
+object
+שֶׂכֶל וּבִינָה
+2Chr 2:11
+(||
+בֵּן חָכָם); חָכְמָה וּמוּסָר
+Prov 1:2
+(||
+הבין אִמְרֵי בִּינָה); חָכְמָה
+Prov
+24:14;
+Eccl 8:16
+.
+
+Niph`al
+Perfect
+נוֺדַע
+Gen
+41:21 +
+10 t.; וְנוֺדַע consecutive 1Sam 6:3 + 2 t.; 3 feminine singular
+וְנוֺדְעָה
+Lev 4:14
+;
+Isa 66:14,
+etc.; Imperfect
+יִוָּדַע
+Gen
+41:31 +
+10 t.; יִוָּדֵ֑עַ
+Prov
+10:9
+וַיִּוָּדַ֫ע
+Esth
+2:22 3
+feminine singular תִּוָּדֵ֑עַ
+
+Prov 14:33
+2 feminine singular תִּוָּדְעִי
+Ruth 3:3
+
+וָאִוָּדַע
+Ezek
+20:5
+Infinitive suffix הִוָּדְעִי
+Jer
+31:19
+Participle
+נוֺדָע
+Ps 76:2
++ 2 t.;
+—
+
+1.
+be made known, be or become known, of things Gen
+41:31 (followed by
+בְּ),
+Exod 2:14 (both
+E
+),
+Lev
+4:14 (
+P
+),
+Judg
+16:9; 2Sam 17:19; Nah 3:17; Zech 14:7 (followed
+by לְ), Ps 77:20
+; Ps
+79:10
+(followed by בְּ); Ps 88:13 (followed by בְּ
+); of hand of
+׳
+י
+
+Isa 66:14
+(followed by אֶת); with subject clause Exod 21:36;
+Exod 33:16 (both
+J
+
+E
+),
+Deut
+21:1;
+1Sam
+6:3 (followed by לְ), 1Kgs 18:36;
+Ezek 36:32 (followed by לְ
+)
+Ruth
+3:14;
+Eccl 6:10; Esth 2:22 (followed by לְ);
+of person,
+Prov
+31:23
+(followed by בְּ) Isa 61:9 (followed by בְּ
+and בְּתוֺךְ
+); of ׳
+י
+Ps
+76:2
+(followed by בְּ); = be revealed, discovered, of person
+1Sam
+22:6;
+Jer
+28:9;
+
+Prov 10:9
+of things
+Neh 4:9
+;
+Prov 12:16; Prov 14:33.
+
+2.
+make oneself known, of person, followed by לְ
+Ruth 3:3
+,
+usually of God (׳
+י)
+Exod 6:3 (
+P
+; || וָאֵרָא אֶלֿ), Isa 19:21; Ezek
+20:5, followed by לְעֵינֵי
+
+Ezek 38:23
+followed by אֶלֿ
+
+Ezek 20:9
+followed by בְּ
+
+Ezek 35:11
+;
+Ps 48:4
+without preposition Ps 9:17.
+
+3.
+be perceived (passive of
+Qal), of perception by the eye
+
+Gen 41:21
+(
+E
+),
+Ps 74:5.
+
+4.
+be instructed (passive of
+Hiph`il) Jer 31:19, in spiritual sense, through
+chastisement.
+
+Pi`el
+Perfect 2 masculine singular יִדַּ֫עְתָּ, only
+ידעתה
+שַׁחַר מקֹמוֺ
+
+Job 38:12
+
+Kt
+; read with
+Qr
+
+יִדַּעְתָּ הַשַּׁחַר
+cause to know, followed by 2 accusative; so Ps
+104:19
+according to Bae, who reads
+יִדַּע
+, after
+Aq
+
+Symm
+.
+
+Po.
+Perfect
+יוֺדַעְתִּי
+
+1Sam
+21:3
+I have caused to know, i.e. directed, followed by
+accusative, but
+read יוֺעַדְתִּי or יָעַדְתִּי, from
+יעד
+, so
+
+ᵐ5
+
+We
+Dr.
+
+Pu`al
+Participle
+known
+מידעת
+
+Isa
+12:5
+
+Kt
+(
+Qr
+
+מוּדַעַת see
+Hoph`al); elsewhere as substantive = acquaintance
+
+מְיֻדָּעִי
+Ps 55:14
+מְיֻדָּעָיו
+2Kgs 10:11
+
+מְיֻדָּעַי
+
+Ps 88:9;
+Job
+19:14 (|| קְרוֺבָ֑י), Ps
+88:19
+(|| אֹהֵב and רֵעַ);
+מְיֻדָּעָ֑י
+Ps 31:12,
+
+Kt
+
+מידע
+
+Ruth
+2:1 (
+Qr
+
+מוֺדַע q.see below)
+
+Hiph`il
+Perfect
+הוֺדִיעַ
+Ps 98:2
+הוֺדִיעַ֫נִי
+Jer 11:18
+
+הוֺדַ֫עְתָּ
+1Kgs 1:27
++ 2 t.; הוֺדָ֑עְתָּ
+
+Job 26:3,
+etc.; Imperfect
+יוֺדִיעַ
+Ps 103:7
+;
+Isa
+38:19
+jussive
+יֹדַ֫ע
+Num 16:5
+וַיֹּדַע
+Judg 8:16
+יוֺדִיעֶנּוּ
+Isa 40:13
+;
+Isa
+40:14 2 masculine singular תּוֺדִיעַ
+
+Hab 3:2
+תּוֺדִיעֵנִי
+Ps 16:11
+; Ps
+51:8
+1 singular אוֺדִיעַ
+Ps 89:2;
+
+Ezek
+39:7
+אוֺדִיעָה
+Prov 1:23
+; Isa
+5:5
+
+יוֺדִיעוּ
+Job 32:7
+יוֺדִעֻם
+Ezek 44:23
+
+נוֺדִיעָה
+1Sam 14:12
+
+Imperative
+הוֺדַע
+Prov 9:9 + 3
+t. (הוֺדַ֑ע
+
+Ps 90:12
+); suffix הוֺדִיעֵנִי
+
+Job 10:2 +
+6 t., etc.; Infinitive
+construct
+הוֺדִיעַ
+2Sam 7:21
++ 3 t.; הֹדִיעַ
+
+1Chr 17:19
+
+הוֺדִיעֵנִי
+1Sam 28:15
+, etc.; Participle
+
+מוֺדִיְעֲךָ
+Dan 8:19
+מוֺדִיעָם
+Jer 16:21
+
+מוֺדִיעִים
+Isa 47:13
+;
+2Chr
+23:13 — make known, declare, with
+accusative of thing Num
+16:5 (
+P
+),
+Ezek 39:7;
+1Chr 17:19;
+Job
+26:3;
+Ps 89:2; Ps
+98:2
+; Ps
+106:8 object omitted Hab 3:2
+
+teach, with accusative of thing
+Job 32:7 followed by infinitive
+Ps
+90:12 and (peculiarly) לְהַלֵּל
+׳
+מ
+2Chr 23:13
+i.e.led in
+praising
+; with לְ person Prov
+9:9
+with accusative of person Isa 40:13
+;
+Judg 8:16
+(but read וַיָּ֫דָשׁ
+, see
+דושׁ
+); make known, declare, with accusative
+of
+thing, + לְ person
+Exod 18:20;
+
+Deut 4:9; Neh
+8:12;
+Neh 9:14;
+Ps 78:5; Ps
+103:7;
+Ps
+145:12;
+Isa
+38:19; Isa
+64:1 with clause
+of thing, +
+לְ person 1Sam 10:8
+make one know, with clause
+of
+thing and accusative (suffix) person
+Exod 33:12;
+
+Deut 8:3;
+1Sam
+6:2
+; 1Sam 16:3
+; 1Sam
+28:15; Job
+10:2; Job
+37:19 with accusative of thing +
+suffix person הוֺדִעֵנִי נָא אֶתֿ
+דְּרָכֶ֔ךָ וְאֵדָעֲךָ
+Exod 33:13
+(
+J
+
+E
+) make me, I pray, to know thy ways, that I may know
+thee; Jer 16:21
+; Ezek
+20:4;
+Ezek
+22:2;
+Ezek 43:11;
+Isa 40:14 (|| וַיְלַמְּדֵהוּ
+דַעַת
+, also v^a^
+וַיְבִינֵהוּ), Prov 22:21
+
+; Job 13:23
+; Ps
+16:11;
+Ps 25:4 (||
+לַמְּדֵנִי
+),
+Ps 16:14 (on
+infinitive with
+לְ see Ges^§158;
+114,
+2, R. 2, Exx^,), Ps
+39:5;
+Ps 51:8; Ps
+143:8 (|| הַשְׁמִיעֵנִי); חַטָּאתִי
+אוֺדִיעֲךָ
+Ps 32:5 (||
+עֲוֺנִי
+לֹאכִֿסִּיתִי
+); followed by 2 separate accusative
+Gen
+41:39 (
+E
+),
+1Sam 14:12; Isa
+5:5;
+Ezek 20:1;
+Ezek 16:2;
+Prov 1:23; Dan
+8:19
+accusative of person omitted
+Exod 18:16
+(
+E
+); accusative of thing omitted Josh
+4:22 = teach one (
+D
+), so Isa
+40:13;
+2Sam 7:21;
+1Kgs 1:27 =
+
+answer
+Job 38:2;
+Job
+40:7;
+Job 42:4 with suffix
+person,
+accusative of thing omitted Jer 11:18
+;
+Jer 16:21
+;
+Prov
+22:19 followed by accusative of thing + בְּ
+Ps 77:15
+
+thou hast made known thy might among the peoples,
+Isa 12:4;
+
+1Chr
+18:8 = Ps
+105:1 followed
+by
+clause + בְּ person Hos
+5:9
+followed by בֵּין, teach the difference
+between,
+to discriminate between
+בֵּין
+הַטָּמֵא לְטָהוֺר
+Ezek 22:26
++ suffix person Ezek
+44:23 (compare
+Qal
+1.d.); followed by מִן
+partitive מוֺדִעִים לֶחֳדָשִׁים מֵאֲשֶׁר יָבוֺאוּ
+Isa
+47:13
+who declare, at the new moons, of (the things) which are
+to
+come.
+
+Hoph`al
+Perfect
+הוֺדַע
+Lev 4:23
+;
+Lev 4:28 (see Kö^i,
+427^); Participle
+מוּדַעַת
+
+Qr
+
+Isa 12:5
+(>
+Kt
+
+מְידַֻּעַת); — made known
+(Participle)
+Qr
+
+Isa 12:5
+let this be
+made known in (בְּ) all the earth
+(>
+Kt
+Punic Participle which is not elsewhere in this sense);
+followed by אֵלָיו if his sin be made
+known unto himself
+Lev 4:23
+;
+Lev 4:28 (
+P
+).
+
+Hitph.
+Imperfect
+אֶתְוַדָּ֑ע
+Num 12:6
+(
+E
+); sq: אֶלֿ
+make oneself known to, of ׳
+י; Infinitive
+הִתְוַדַּע אֶלֿ
+Gen 45:1
+(
+E
+), of Joseph.
+
+---

@@ -1,0 +1,737 @@
+=== BDB2035 ===
+Biblical Hebrew
+
+הַּ , הַ, הָ, הֶ (on the use of these different
+forms, see the Grammars: e.g. Ges^«GKC:35»§ 35^), definite
+article, the (so Moabite, Phoenician (Schröd^§
+62-4^), Liµyan (Northwest Arabia)
+ha
+(DHM^Epigr. Denkm. 4. 13. 58 ff.^); not
+Assyrian Aramaic or Ethiopic: Arabic
+[placeholder1223: Placeholders/1223.gif], of which, before dentals, sibilants, and liquids, the
+l
+is written but not pronounced, thus
+[placeholder1224: Placeholders/1224.gif] pronounced
+'ash-shamsu
+= Hebrew הַשֶּׁמֶשׁ) — in general the use of the article in Hebrew is analogous
+to its use in Greek or German: but naturally there are applications peculiar to Hebrew (compare with what follows
+Ges^«GKC:126»§ 126^
+Ew^§ 277^): —
+
+1. joined with substantives:
+
+a. to mark a definite concrete object, as Gen 1:1
+the heavens and the earth, הַמֶּלֶךְ the king,
+etc.
+Never, however (as in Greek e.g. ὁ Πλάτων), before true proper names, though it is used with certain
+terms, chiefly geographical, of which the original appellative sense has not been lost, as הַבַּעַל
+
+'Baal,' literally 'the lord,' in plural הַבְּעָלִים i.e. the various local Baals,
+הַשָּׂטָן
+
+the Adversary Job 1:6ff. (as a proper name שָׂטָן, 'Satan,' only 1Chr 21:1);
+הַלְּבָנוֺן (but not הַחֶרְמוֺן), הַיַּרְדֵּן (but not
+
+הָאַרְנֹן), הַכַּרְמֶל, הַשָּׁרוֺן the Sharon,
+הַשְּׁפֵלָה
+the (Judaean) lowland, הַכִּכָּר, הַמִּישׁוֺר the (Moabite)
+table-land,
+הָעֲרָבָה, הָעַי '`Ai,' הַגִּבְעָה 'Gibeah,' Judg 20:5ff.,
+הַגָּלִיל
+'Galilee,' הַגִּלְגָּל, הַגִּלְבֹּעַ, הַבָּשָׁן,
+הַגִּלְעָד (often), הַשִּׁטִּים, הַמִּצְפָּה, הָרָמָה
+, הַיְשִׁימוֺן, הָעֹפֶל, הַפִּסְגָּה.
+
+b.
+with an adjective to denote one who exhibits a quality κατ’ ἐξοχήν, i.e. to express the
+comparative or superlative degree: so often, as Gen 1:16
+המאור הגדל the greater light, המאור
+הקטן the lesser light, Gen 27:1
+בנו הגדול = his elder son, Gen 48:14
+הצעיר the younger, Gen 42:13
+הַקָּטֹן the little one, i.e. the youngest, (of Joseph's brethren), Lev 21:10
+הַגָּדוֺל מֵאֶחָיו the chiefest of his brethren, Num 35:25 + הכהן
+הגדול
+the chief priest, ׳
+הצעיר ב the least among Judg 6:15, הצעירה מן the
+least
+of 1Sam
+9:21
+, ׳
+הַיָּפָה ב the fairest among Song 1:8; 2Kgs 10:3; Prov 30:30, compare Job 14:15.
+
+c.
+with nouns which are not definite in themselves, but acquire their definition from the context, or
+from
+the manner in which they are introduced: thus (α) in the standing phrases
+הַיּוֺם
+
+to-day, Gen 4:14; Gen 21:26 + often; הַלַּיְלָה
+to-night, Gen 19:5; Gen 30:15 +, once 1Sam 15:16
+last night; so הַשָּׁנָה
+this year, 2Kgs 19:29; Jer 28:16
+הַפַּעַם
+this time, Gen 18:32 +. (β) הַנָּהָר
+the river (κατ’ ἐξοχήν), i.e. the Euphrates; Exod 2:15
+the well, the well namely of the district, Josh 8:11
+the valley, 1Sam 17:3; 1Sam 19:10
+the wall, 1Sam 19:13
+the bed, 1Sam 20:21
+הַנַּעַר
+the lad (whom Jonathan would naturally take with him), 1Sam 20:34
+the table. Hence occas. where a suffix would define the noun more precisely, as
+הַחֲמוֺר
+2Sam 19:27
++
+= my ass, Judg 3:20; 1Sam 1:9
+הַכִּסֵּא = his seat, Judg 4:15; 1Kgs 22:35; 2Kgs 10:15 + הַמֶּרְכָּבָה
+, 1Sam
+18:10;
+1Sam 20:33
+הַחֲנִית.
+
+d. it is a peculiarity of Hebrew thought to conceive an object
+as
+defined by its being taken for a particular purpose, and thus by a kind of prolepsis to
+prefix the article to the noun denoting it: 1Sam 10:1 and Samuel took אֶתפַּֿךְ הַשֶּׁמֶן literally
+
+the cruse of oil, not, however, a cruse which had been defined previously, but one rendered
+definiteby being now taken; in English idiom 'a cruse of oil,' v
+1Sam 10:25
+בַּסֵּפֶר literally in the scroll or book, the one, namely taken for the
+purpose, i.e. in a scroll (so Exod 17:14; Num 5:23; Job 19:23), Job 21:10
+בַּשִּׂמְלָה, Judg 4:18
+וַתְּכַסֵּהוּ בַּשְּׂמִיכָה, Judg 4:19; Judg 7:13
+הָאֹהֶל
+a tent, Judg 8:25; Judg 9:48
+אֶתהַֿקַּרְדֻּמֹּת
+hatchets, Judg 20:16 every one able to sling בָּאֶבֶן אֶלהַֿשַּׂעֲרָה
+with
+a stone at a hair, 1Sam 6:8
+בָּאַרְגָּז (unless indeed the אַרְגָּז was an understood appendage in every
+cart), Num 11:27
+
+הַנַּעַר, a young man, Num 13:23
+בַּמּוֺט on a pole, Josh 2:15
+בַּחֶבֶל with a cord, 2Sam 17:17
+השׁפחה
+a girl (compare Dr^
+1Sam 1:4;
+1Sam
+19:13
+
+^). Sometimes it is uncertain whether an article is to be referred to c.
+or
+d.: e.g. 1Sam 2:13
+his prong or a prong, 2Sam 18:9
+his mule or a mule, etc.
+
+e. with nouns that
+denote objects or classes of objects that are known to all, as הַצּאֹן,
+הַזָּהָב, הַמַּיִם; Gen 13:2 Abram was very rich בַּמִּקְנֶה בַּכֶּסֶף וּבַזָּהָב
+, Exod 31:4
+
+לַעֲשׂוֺת בַּזָּהָב וּבַכֶּסֶף, Deut 14:26 and thou shalt lay out the money בַּבָּקָר
+
+וּבַצּאֹן וּבַיַּיִן וּבַשֵּׁכָר, 2Kgs 9:30
+וַתָּשֶׂם בַּפּוּךְ עֵינֶיהָ, in French 'elle mit du fard à ses yeux.'
+It
+is, however, remarkable that this usage depends mostly on the punctuation, הַכֶּסֶף,
+הַיַּיִן, הַלֶּחֶם etc. (except as applied to denote definite
+
+quantities of gold, wine, etc., as Josh 6:24) being far less common than כֶּסֶף, יַיִן
+etc., but בַּכֶּסֶף, לַכֶּסֶף etc. being much more frequently than
+בְּכֶסֶף, לְכֶסֶף etc.: for instances in which the article forms part of the
+consonantal text, see
+Gen
+6:20; Gen 7:8
+
++ העוף and הבהמה, Deut 8:3
+הַלָּחֶם,
+1Kgs 5:8;
+1Kgs 5:13; Isa
+28:7
+הַיַּיִן and הַשֵּׁכָר, Isa 60:17; Ezek 15:4; Ezek 15:7
+הָאֵשׁ, Hab
+2:5; Prov
+20:1;
+Ps
+65:14
+הַצּאֹן, Song 1:11; Eccl 7:12. compare below, h.
+
+f. in
+comparisons,
+the object compared being, as a rule, not an individual as such, but one exhibiting the characteristics of a
+class:
+Isa 1:18
+כַּשָּׁנִים, כַּתּוֺלָע like scarlet, like crimson (both meant generally),
+Isa 5:24
+כַּמַּק יִהְיֶה, Isa 5:28
+כַּצַּר and כַּסּוּפָה, Isa 10:14
+כַּקֵּן, Isa 13:8
+כַּיּוֺלֵדָה (as always with this word, e.g. Isa 42:14; Ps 48:7), Ps 11:7
+כַּבָּקָר; + often (The usage is not, however, quite uniform, at least according to the
+punctuation: there occurs e.g. כְּקַשׁ
+Job 41:21
+;
+Isa 47:14
+
+כְּאַרְיֵה
+Ps 7:3 and
+elsewhere:
+and we find both כַּלָּבִיא) Isa 5:29 and כְּלָבִיא
+Hos 13:8
+כָּאֲרִי
+Isa 38:13
+
+and
+כַּאֲרִי
+Num 24:9
+כַּגִּבּוֺר
+Isa 42:13
+
+and
+כְּגבור
+Job 16:14
+
+etc.) Similarly
+Gen
+19:28
+כְּקִיטֹר הַכִּבְשָׁן as the smoke of a furnace, Num 11:8; Num 11:12
+כַּאֲשֶׁר יִשָּׂא
+הָאֹמֵן אֶתהַֿיֹּנֵק, Deut 28:29 (הָעִוֵּר), Judg 8:18b כְּתֹאַר
+בְּנֵי
+הַמֶּלֶךְ, Judg 14:6
+כְּשַׁסַּע הַגְּדִי like (a lion's) rending a kid, Judg 16:9;
+1Kgs 14:15
+;
+Zech 12:10
+כְּ מִסְפֵּד עַל הַיָּחִיד as mourning over an only child, Zech 13:9
++.
+Where, however, the standard of comparison is not the class in general, but only a particular part of it,
+defined by
+a special epithet (whether adjective or verb), the article is naturally omitted: thus כַּמֹּץ
+
+like
+chaff (in general)
+Isa 41:15, but כְּמֹץ עֹבֵר like chaff passing away Isa 29:5
+כַּצֵּל
+Job 14:2,
+but
+כְּצֵל נָטוּי
+Ps 102:12
+
+כַּקַּשׁ
+Isa 40:24
+,
+but
+כְּקַשׁ נִדָּף
+Isa 41:2
+כָּאַיָּל
+Isa 35:6,
+but,
+׳
+כְּאַיָּל תַּעֲרֹג על וג like a hind (that) longeth for streams of water
+
+Ps 42:2
+כָּאֵשׁ
+Isa 9:17,
+but
+כְּאֵשׁ תבער יער like fire (that)
+kindleth
+a wood
+Ps 83:15
+
+כֶעָשָׁן
+Isa 51:6,
+but
+כְּעָשָׁן מֵאֲרֻבָּה like smoke from a chimney
+Hos 13:3:
+so
+Isa 62:1b
+Job 9:26;
+Job 11:16
+
+כְּמַיִם עָֽבְרוּ like waters (that) have passed by, etc.; Deut 32:2 a
+
+כַּמָּטָר, כַּטַּל, but Deut 32:2 b כִּשְׂעִירִים עֲלֵידֶֿשֶׁא,
+
+כִּרְבִיבִים
+עֲלֵיעֵֿשֶׂב. Where the article is found, although a rel. clause follows (as Ps 1:4; Ps 49:13
+; Isa 61:10
+),
+this is probably to be
+regarded not as limiting the class of object compared, but as describing
+it.
+
+g. prefixed to generic nouns (in the singular)
+it
+designates the class, i.e. it imparts to the noun a collective
+force,
+as Exod 1:22
+
+כָּלהַֿבֵּן all (literally the whole of) the sons,
+כָּלהַֿבַּת
+all the daughters, Lev 17:8; Lev 17:10
+מִןהַֿגֵּר of the strangers, who sojourn in their midst, Num 21:7
+הַגנָּחָשׁ
+the serpents; Gen 14:13; Ezek 24:26; Ezek 33:21
+הַפָּלִיט those who escaped; Josh 6:7 + הֶחָלוּץ, v Josh 9:13
+הַמְאַסֵּף; Josh 8:19
+הָאוֺרֵב; 1Sam 13:17
+הַמַּשְׁחִית; Mic 2:13; Isa 6:4
+הַקּוֺרֵא the choir of criers; 1Sam 24:14
+הַקַּדְמֹנִי the ancients; Eccl 7:26
+אֶתהַֿאִשָּׁה woman, and often with gentile names, as הַיְבוּסִי the
+Jebusites,
+הַכְּרֵתִי וְהַפְּלֵתִי
+2Sam 8:18
+and
+elsewhere, הַדָּנִי
+Judg 18:1
+etc.,
+הַלֵּוִי the Levites,
+
+Mal 2:8; Ps 135:20
++.
+
+h. with nouns denoting abstract ideas, especially the names of moral qualities (compare
+Greek
+ἡ δίκη, French la justice), chiefly in two cases — (α) where the article is
+recognizable
+in
+the consonantal text, exceptionally, when some emphasis or definiteness is intended, as Deut 7:9
+שׁומר הברית והחסד; החסד הזה
+2Sam 2:5;
+1Kgs 3:6
+את החסד והרחמים
+Jer 16:5
+(contr.
+Zech 7:9);
+
+הצדק
+Isa 1:26;
+Isa 61:3;
+Eccl 3:16
+הַצְּדָקָה
+Isa 32:17
+
+(twice in verse) (contrast Isa 32:16) Dan 9:7 (emphatic); הַדַּעַת
+Hos 4:6
+הָאֱמֶת
+Gen 32:11
+
+(followed by אֲשֶׁר), Isa 59:15 (contrast Isa 59:14) Zech 8:3; Zech 8:19
+הָאֱמוּנָה
+Isa 11:5b
+(contr.
+v^a^)
+Jer
+7:28
+
+הַחָכְמָה
+Job 28:12
+;
+Job 28:20
+
+הַחַיִּים
+Gen 2:9 +;
+
+הָאַהֲבָה
+Song 2:7;
+Song 3:5;
+Song 8:4;
+Song 8:7
+הַשֶּׁקֶר
+Jer 7:4; Jer 7:8; Jer 23:26
+
+הַמָּוֶת
+Isa 25:8;
+Ruth 1:17
++;
+הָרֶשַׁע
+Ps 125:3
+;
+Eccl 3:16
+הָרִשְׁעָה
+Zech 5:8
+הַחשֶׁךְ
+Isa 60:2;
+Eccl 2:13
+see
+also
+Deut 30:15
+;
+Deut 30:19
+
+(
+Jer 21:8),
+1Kgs 7:14
+;
+Jer 32:19
+;
+Mal 2:5
+החיים והשׁלום, Ps 123:4; Ps 130:4; Dan 9:9; 1Chr 29:11; 2Chr 1:12; Prov 31:30; Eccl 2:18;
+Eccl 2:17
+; Eccl 7:12
+;
+Eccl 7:19
+;
+Eccl 10:6
+;
+Eccl 11:10
+: but in all such cases חֶסֶד, צֶדֶק,
+אֱמֶת, etc. are far more common. (β) where the article depends on the
+punctuation,
+after
+prepositions, especially בְּ, but with much irregularity, as בַּחֶסֶד
+Isa 16:5;
+Prov 20:28
+
+(but ׳
+בְּח
+Hos 2:21;
+Prov 16:6
+),
+בַּצֶּדֶק
+Prov 25:5
+(elsewhere always ׳
+בִּצְדָקָה ׃בְּצ also always); בֶּאֱמֶת and בֶּאֱמוּנָה
+always;
+בַּשֶּׁקֶר
+Isa 28:15
+
+(but
+|| כָּזָב, not הַכָּזָב) Jer 5:31; Jer 13:25; Jer 20:6; Jer 23:14 (
+בְּשֶׁקֶר
+
+Jer 3:10;
+Jer 29:9);
+
+בַּשָּׁלוֺם
+Ps 29:11
+;
+Job 15:21
+
+(elsewhere בְּשָׁלוֺם); Zech 12:4 to smite בַּשִּׁגָּעוֺן וּבַעִוָּרוֺן
+(but Deut
+28:28
+בְּשׁגעון וּבְעורון), compare Gen 19:11; Deut 28:22 to enter with one בַּמִּשְׁפָּט
+
+Job 9:32;
+Job 22:4
+(but
+בְּמשׁפט
+Ps 143:2
+),
+contrast also
+Prov
+18:5
+with
+Prov
+24:23
+לַמִּשְׁפָּט
+Isa 59:11
+;
+Ps 9:8 (but
+׳
+
+לְמ
+Isa 5:7; Ps 122:5
+);
+Prov 2:2;
+Prov 7:4
+לַחָכְמָה, (but never הַחכמה in Prov 1-9, or indeed in the whole book);
+Prov 2:3;
+Prov 7:4
+לַבִּינָה, Job 39:17
+בַּבִּינָה (but never הַבִּינָה); Prov 2:2; Prov 2:3
+לַתְּבוּנָה (but הַתְּבוּנָה only 1Kgs 7:14 emphatic); to perish
+בַּצָּמָא
+
+Judg 15:18
+
++;
+Isa 29:21
+
+בַּתֹּהוּ, Isa 32:19
+בַּשִּׁפְּלָה תִּשְׁפַּל הָעִיר German in die Niedrigkeit sinkt die
+Stadt,
+Isa 45:16
+
+together they go בַכְּלִמָּה (in die Schmach), Isa 46:2
+בַּשְּׁבִי into captivity, Isa 47:5
+בֹּאִי בַחשֶׁךְ (so always: never בְחשׁך). The living language may have
+used
+the
+article more readily after a preposition, where it did not lengthen the word by an entire syll.; still the
+disparity
+of usage between α and β makes it not improbable that the article in β is
+in
+many
+cases not original but due to the punctuators.
+
+i. to mark the vocative
+:
+1Sam 17:55
+
+חֵינֿפשׁך הַמֶּלֶךְ as thy soul liveth, O king, I do not know, 1Sam 17:58
+
+בן מי אתה הַנַּעַר Whose son art thou, lad ?
+2Sam 14:4
+Help,
+O king ! 1Kgs 18:26
+הַבַּעַל עֲנֵנוּ, 2Kgs 9:5
+אֵלֶיךָ הַשָּׂר, Isa 42:18
+הֵַחרְשִׁים שְׁמָ֑עוּ, Jer 2:31
+׳
+הַדּֿוֺר אַתֶּם רְאוּ וג, Ezek 37:4
+הָעֲצָמוֺת הַיְּבֵשׁוֺת
+O dry bones, Mal 3:9
+הַגּוֺי כֻּלּוֺ (Dr^§ 198^
+Obs. 2).
+
+[Note]
+
+N.B. In poetry, the article is frequently dispensed with before words which
+would
+naturally take it in prose: thus Ps 2:2; Ps 2:8; Ps 2:10 & often אֶרֶץ; Ps 8:9; Ps 18:10; Ps 33:6 + שָׁמַיִם
+;
+(rarely in
+prose, Gen 1:8;
+Gen 2:4; 1Kgs 8:35
+);
+1Kgs 21:2
+;
+
+1Kgs 45:14
+;
+
+1Kgs 45:16
+;
+
+1Kgs 61:7
+and
+elsewhere מֶלֶךְ;
+
+1Kgs 66:6
+;
+
+1Kgs 72:8
++
+יָם;
+
+1Kgs 59:7
+;
+
+1Kgs 59:15
+
+עִיר;
+Judg
+5:2; Ps
+18:44
+עָם etc.; Ps
+9:6; Ps
+9:17
+& often רָשָׁע; Isa 1:2; Isa 1:6; Isa 1:21; Isa 3:10; Isa 3:11; Isa 11:6; Isa 11:7; Isa 11:8.
+
+2. With adjectives, participles, and demonstrative pronouns
+(הוא, היא, המה, הם,
+זה
+, זאת, אלה): namely
+
+a. (so regularly) when
+the
+substantive qualified by these words is defined by it likewise, as המלך הגדול
+= ὁ βασιλεὺς ὁ μέγας, Gen 2:12
+הארץ ההוא, Gen 20:1
+הַדָּבָר הַזֶּה, Josh 2:3
+האנשׁים
+הבאים אליך = οἱ ἄνδρες οἱ ἐλθόντες πρὸς σέ, Gen 13:5; Gen 16:13; Gen 24:65
+; Gen 32:21
+; Judg 6:28
+; Isa 65:3
+; Isa 65:4
+; Isa 65:5
+; Isa
+66:24;
+Ps 31:9. So
+also with adjectives & participles,
+if the substantive be defined by a suffix (as Deut 4:37
+בְּכֹחוֺ הַגָּדֹל, 1Sam 8:14
+זֵיתֵיכֶם הַטֹּבוֺת); and with a pronoun, if it be defined by a genitive (as Deut 29:20
+;
+1Sam 14:29
+;
+1Sam 15:14
+;
+2Kgs 6:32
+בֶןהַֿמְּרַצֵּחַ הַזֶּה
+this son of a murderer), but not if it be defined by a suffix, as Exod 10:1
+אֹתֹתַי אֵלֶּה (not אתתי הָאֵלָּה), Josh 2:14
+דְבָרֵנוּ זֶה
+this our word (not הַזֶּה
+׳
+ד): see Dr^§ 209^
+Obs. Similarly when the article with the participle has a resumptive
+
+force, Ps
+33:15
+
+(Ps 14, he
+looketh
+forth from the place, &c.), הַיֹּצֵר יַחַד לִבָּם
+he that formeth, etc., Ps 19:11
+הַנֶּחֱמָדִים מִזָּהָב
+which (Ps 10 b) are more desirable than gold, Ps 49:7. (:6
+b
+the iniquity of my
+aggressors surroundeth me), הַבֹּטְחִים
+who trust in their riches, etc., Gen 49:21; Isa 46:6; Isa 51:20; Job 6:16 + (see Dr^§ 135. 7^
+).
+
+b. (rare) when the substantive qualified by the adjective or participle was
+felt to
+be sufficiently definite for its own article to be dispensed with, as sometimes with the word day
+
+Gen 1:31
+יום השׁשׁי,
+Gen 2:3
+יום השׁביעי, Exod 12:15; Exod 12:18; Exod 20:10 (= Deut 5:14) Lev 19:6; Lev 22:27: so with
+מָנוֺא
+entrance
+Jer 38:14
+,
+שַׁעַר
+Zech 14:10
+
+חָצֵר
+court
+1Kgs 7:8;
+1Kgs 7:12
+;
+Ezek 40:28
+and
+elsewhere; also in certain phrases (peculiar to
+P
+) where the substantive is defined by כל, as Gen 1:21
+כָּלנֶֿפֶשׁ
+הַחַיָּה
+all living souls, Gen 1:28
+כָּלחַֿיָּה הָרֹמֶשֶׂת all living things that creep, etc., Gen 7:21;
+Gen 9:10;
+Lev 11:10
+;
+Lev 11:46
+
+further
+in isolated cases, hardly reducible to rule, Lev 24:10; 1Sam 12:23
+דֶּרֶךְ הַטּוֺבָה, 1Sam 16:23
+רוּחַ הָרָעָה, 2Sam 12:4
+לְאישׁ העשׁיר
+Jer 6:20;
+Jer 17:2;
+Zech 4:7;
+Ps 104:18
+;
+Ezra 10:9
+חֹדֶשׁ הַתְּשִׁיעִי (quite exceptional in OT). (With pronouns this use is so rare that,
+where
+it
+occurs, it is dubious if the text be sound: 1Sam 17:12; 1Sam 17:17; Jer 40:3
+
+Kt
+
+Mic 7:11).
+And
+with the participle:
+1Sam 25:10
+רַבִּים עֲבָדִים הַמִּתְפָּֽרְצִים many are the slaves who break away etc., Isa 7:20;
+Jer 27:3;
+Jer 46:16
+= Jer
+50:16
+חֶרֶב
+הַיּוֺנָה the oppressing sword, Ezek 2:3 (but
+
+ᵐ5
+
+Co omit הגוים), Ezek 14:22; Ezek 32:22
+;
+Ezek 32:24
+; Ps 62:4;
+Prov 26:18
+
+; Judg 21:19
+(very
+anomalous, read probably לַמְּסִלָּה). This usage is somewhat more frequently in the later
+parts of
+OT; and in Post-Biblical Hebrew it is very general (e.g. יֵצֶד הָרַע the evil inclination):
+see
+further Dr^§ 209.^
+
+c. with the participle, where the participle with the article forms really the
+
+subject:
+Gen 2:11
+הוּא
+הַסּוֺבֵב not 'it was encompassing,' but 'it is that which encompassed
+,'
+Gen 45:12
+
+פִּי הַמְדַבֵּר my mouth is that which speaketh, Deut 3:21
+עֵינֶיךָ הָראֹוֺת thine eyes were those which saw, Deut 4:3; Deut 8:18
+ὅτι οὗτος ἐστιν
+ὁ διδοὺς σοί, Isa 14:27; Isa 66:9 (see Dr^§ 135. 7^
+).
+
+3. The article is prefixed exceptionally — mostly in the latest Hebrew — with the force of a
+relative
+to the verb:
+Josh 10:24
+
+הֶהָֽלְכוּא אִתּוֺ
+that went with him, Ezek 26:17, הָעִיר הַהֻ֫לָּלָה, 1Chr 26:28
+
+וְכֹל הַהִקְדִּישׁ שְׁמוּאֵל and all that Samuel had dedicated, 1Chr 29:8;
+1Chr 29:17
+;
+2Chr 1:4
+ַבּהֵכִין in (the place) that he had prepared, 2Chr 29:36
+; Ezra
+8:25;
+Ezra 10:14
+;
+Ezra
+10:17.
+According to the punctuation, it occurs similarly elsewhere, as Gen 18:21
+הַשָבּאָה (so Gen 46:27; Job 2:11), Job 21:3
+הַנּוֺלַדלֿוֺ, 1Kgs 11:9 & Dan 8:1
+הַנִּרְאָה, Isa 51:10
+הַשָּׂ֨מָה֨, Isa 56:3
+הַנִּלְוָה, Ruth 1:22; Ruth 2:6; Ruth 4:3 (all הַשָּׁ֫בָה): but in all these passages, the
+change
+of
+a point, or even sometimes of an accent, would restore the normal participial construction (as
+הַבָּשָאה
+, הַנּוֺלָד לוֺ compare Gen 48:5, הַנִּרְאֶה), which is, no doubt, what
+was
+intended by the original writers, and is recognised elsewhere by the Masora, e.g. Gen 12:7; Gen 35:1
+הַנִּרְאֶה, Gen 46:26 & Ruth 4:11
+הַבָּאָ֣ה (compare Ew^§ 331 b^
+Ges^138, 3 b^). Once, still more anomalously, before a
+preposition
+1Sam 9:24
+וְהֶעָלֶיהָ (as though καὶ τὸ ἐπ’
+αὐτῆς): but read probably וְהָאַלְיָה
+and the fat tail, see Dr. (In Arabic
+[placeholder1225: Placeholders/1225.gif] also occurs, though very rarely, as a relative: W^AG
+i. §
+CG
+117^). — On the anomalous use of the article with a word in the stative
+construct
+, see Grammars, as Ew^§ 290 d^, Ges^«GKC:127»§ 127^ R. 4, also
+Dr^§
+190-1^.
+
+---

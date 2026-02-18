@@ -1,0 +1,292 @@
+=== BDB3539 H3201 ===
+hébreu biblique
+
+יָכֹל, יָכוֺל_193_
+verbe
+pouvoir, avoir le pouvoir, l'emporter, endurer (hébreu tardif id. ; araméen
+יְכִיל ; assyrien
+akâlu
+, Hpt dans KAT^2 Gloss
+i^,) —
+
+Qal
+Parfait
+יָכֹל
+Gn 32,26 + 8
+t. ; יָכוֺל
+1 S 4,15 + 2 t. ; 3
+féminin singulier יָכְלָה
+Gn 36,7 ; Ex 2,3 2 masculin
+singulier וְיָכָלְתָּ֫
+Ex 18,23 1
+singulier יָכֹלְתִּי
+Gn 30,8 + 2 t. ;
+suffixe יְכָלְתִּיו
+Ps 13,5 3 pluriel
+יָכְ֑לוּ
+Gn 13,6 + 27 t. +
+Jos 15,63
+
+Qr
+; יָכֹ֑לוּ
+Ex 8,14 + 2 t. ;
+Imparfait 3 masculin singulier יוּכָל
+Gn 13,16 + 34
+t. ; יוּכָ֑ל
+Jb 4,2 + 4 t. ;
+וַיֻּכָ֑ל
+Os 12,5 3
+féminin singulier תּוּכַל
+Am 7,10 + 2 t. ;
+2 masculin singulier תּוּכַל
+Gn 15,5 + 16 t. ; 1
+singulier אוּכַל
+Gn 19,19 + 30
+t., etc. (sur ces formes d'imparfait comme Qal irrégulier, voir Ges^«GKC:2»§
+2^, R. 3 Kö^i. 407^
+W^SG 237^; d'autres
+Hophal) ; Infinitif construit
+יְכֹ֫לֶת
+Nb 14,16 ;
+Dt 9,28
+Infinitif absolu
+יָכוֺל
+Nb 13,20 ;
+2 Ch 32,13
+
+יָכֹל
+Nb 22,38 ;
+1 S 26,25
+
+P
+8 t. (pas Lévitique), Ez 3 t. ; souvent
+J
+
+E
+
+D
+Jérémie, Es^2^, assez souvent dans Samuel Rois
+Chroniques ; —
+
+1.
+pouvoir, faire une chose, que la capacité soit physique, morale, constitutionnelle, ou dépendante de
+l'autorité extérieure ; habituellement de l'homme Gn 13,16 (
+J
+) +, mais aussi des dieux 2 Ch 32,13 ; 2 Ch 32,15, et de ׳
+י
+Nb 14,16
+(
+J
+
+E
+), Dt
+9,28 ;
+Jr 44,22 occasionnellement de choses inanimées Am 7,10 ; Gn 36,7 (
+P
+), Ct
+8,7 ;
+Qo 1,15 (deux fois dans le verset), etc. :
+
+a. habituellement suivi de l'infinitif avec
+לְ (122 t.), Gn 31,35
+je ne suis pas capable de me lever ; Gn 45,1
+Joseph ne pouvait se contenir, Gn 45,3 ; Gn 48,10 ; Ex 7,21 ; Ex 7,24
+ne pouvaient boire, Ex 12,39 ; Jos 24,19 (tous
+E
+) ;
+Gn 13,16
+si un homme peut compter la poussière, Gn 19,19 ; Gn 19,22 ; Gn 43,32 ; Gn 44,22 ; Gn 44,26
+(deux fois dans le verset) ; Ex 10,5 ; Ex 19,23 (tous
+J
+), Gn
+15,5 ; Ex 15,23 ; Nb 11,14 (tous
+J
+
+E
+) + 10 t.
+J
+
+E
+; Dt
+7,17 + 10 t.
+D
+; Gn
+13,6
+ils ne pouvaient habiter ensemble, Gn 34,14 ; Gn 36,7 ; Ex 9,11 ; Ex 40,35 ; Nb 9,6 ; Jos 9,19
+(tous
+P
+) ; 1 S 3,2
+; 1 S 6,20
+; 1 R
+9,21 (sur || 2 Ch 8,8 et texte de Jg 1,19 voir Bu^RS
+8^), Am 7,10 ; Os 5,13 ; So 1,18 ; Jr 6,10 ; Jr 11,11 ; Jr 13,23
+; Jr 18,6
+; Jr
+19,11 +.
+
+b. suivi de l'infinitif sans לְ (27 t. ; pas
+
+P
+) : Gn
+37,4 ; Ex
+2,3 ; Ex 18,18 ; Ex 18,23 (tous
+E
+),
+Gn 24,50 ; Gn 44,1 (
+J
+),
+Nb 22,37 ; Nb 22,38 (
+J
+
+E
+), Dt 1,9
+; Dt 7,22
+; Dt
+14,24 ; Dt 22,29 ; Jg 8,3 ; Jr 49,10 ; Jr 49,23 ; Ha 1,13 ; Es 46,2 ; Es 47,11
+; Es
+47,12 ; Es 57,20 ; Lm 1,14 ; Ps 18,39 ; Ps 36,13 ; Ps 78,20 ; Pr 30,21
+; Jb 4,2
+; Jb 33,5
+.
+
+c. avec infinitif implicite, toujours négatif, Gn 29,8 allez et faites-les paître ; et
+ils dirent, Nous ne pouvons pas (
+J
+), Ex
+8,14 (
+P
+),
+Es 29,11 ; Jr 20,9 ; Ps 21,12 ; Jon 1,13.
+
+d. avec la négation =
+ne pas avoir le droit (d'incapacité morale) : Gn 43,32 (
+J
+) les Égyptiens ne pouvaient manger du pain avec les Hébreux ; Jg 21,18
+nous ne pouvons leur donner de femmes ; surtout
+D
+, Dt
+7,22 ; Dt 12,17 ; Dt 14,24 ; Dt 16,5 ; Dt 17,15 ; Dt 22,3 ; Dt 28,27 ; Dt 28,35
+.
+
+e.
+pouvoir, suivi de l'imparfait : אוּלַי אוּכַל נַכֶּה
+Nb 22,6
+(
+J
+
+E
+) peut-être pourrai-je (de sorte que) nous frappions (voir
+Di ; lire peut-être נוּכַל pour אוּכַל
+
+Ges^«GKC:120»§ 120^, 1 b) ; לֹא יוּכְלוּ
+יִגְּעוּ
+Lm 4,14
+
+ils ne peuvent pas, ils touchent = ne peuvent pas toucher (
+Dr^§ 163^, Obs.)
+
+f.
+pouvoir, suivi du parfait consécutif, seulement très tardif, אוּכַל
+וְרָאִיתִי
+Est 8,6
+(deux fois dans le verset), littéralement comment pourrai-je voir ? — Aussi dans diverses
+combinaisons où l'usage français en ferait un auxiliaire d'un autre verbe :
+
+g.
+capable d'obtenir, accomplir : suivi d'acc. לֹא יוּכְלוּ נִקָּיוֺן
+Os 8,5
+combien de temps seront-ils incapables (d'obtenir) l'innocence ?
+
+יָדַעְתִּ֯
+כִּיכֹֿל תּוּכָ֑ל
+Jb 42,2
+
+je sais que tu peux (faire) toutes choses ;
+אֵין הַמֶּלֶךְ יוּכַל אֶתְכֶם דָּבָר
+Jr 38,5
+
+le roi n'est pas (quelqu'un qui est) capable (de faire)
+quoi que ce soit avec (אֶתְכם pour אִתְּכֶם voir Gf, c.-à-d. contre) vous.
+
+h.
+capable d'endurer :
+לֹא אוּכַל אָוֶן וַעֲצָרָה
+Es
+1,13
+je ne puis endurer l'iniquité et (avec) l'assemblée solennelle
+, Ps 101,5.
+
+i.
+capable d'atteindre, suivi de לְ, Ps 139,6 c'est
+haut, לֹא אוּכַל לָהּ
+je ne puis (atteindre) jusqu'à elle.
+
+2.
+l'emporter :
+
+a. absolu l'emporter, vaincre, être vainqueur
+Gn 30,8
+(
+
+E
+),
+Gn 32,29 (
+J
+),
+Os
+12,5 ; 1 S 26,25 ; 1 R 22,22 = 2 Ch 18,21 ; Jr 20,7
+;
+Jr 20,11 des vagues Jr 5,22
+réussir
+Es
+16,12
+; Jr 3,5
+(
+VB
+
+a eu gain de cause).
+
+b. suivi de לְ
+personne,
+l'emporter contre, sur
+Gn 32,26
+(
+J
+),
+Nb 13,30 (
+J
+
+E
+),
+Jg
+16,5 ;
+1 S 17,9 ; Jr 1,19 ; Jr 15,20 ; Jr 20,10 ; Jr 38,22 ; Ab 1,7 ;
+Ps 129,2
+;
+Est 6,13.
+
+c.
+une fois avec suffixe, יְכָלְתִּיו
+Ps 13,5
+j'ai prévalu sur lui, + Za 9,15 (où lire וְיָכְלוּם
+pour
+וְאָֽכְלוּ avec
+
+ᵐ5
+
+ᵑ7
+
+Klo^ThLZ 1879. 564^
+Sta^ZAW 1881, 18^).
+
+3. absolu avoir la capacité, la force, seulement négatif
+מִשְּׂאֵתוֺ
+לֹא
+
+אוּכָ֑ל
+Jb
+31,23
+
+à cause de sa majesté je n'ai pas de capacité, je suis insuffisant (pour quoi que ce soit).
+
+---

@@ -1,0 +1,502 @@
+=== BDB511 H518 ===
+Biblical Hebrew
+
+אִם
+conjunction (= Aramaic
+[placeholder241: Placeholders/241.gif]
+if [and in
+[placeholder242: Placeholders/242.gif], אֶלָּא =
+[placeholder243: Placeholders/243.gif]
+if not, except], Arabic
+[placeholder244: Placeholders/244.gif]
+if [and in
+[placeholder245: Placeholders/245.gif] =
+[placeholder246: Placeholders/246.gif]
+if not, except], Ethiopic
+[placeholder247: Placeholders/247.gif] (§mma) if = מָה + אִם
+(
+[placeholder248: Placeholders/248.gif] +
+[placeholder249: Placeholders/249.gif]) [and in
+[placeholder250: Placeholders/250.gif] (allâ) if not, but], Assyrian
+umma;
+also in Arabic
+[placeholder251: Placeholders/251.gif] 'An?' =
+[placeholder252: Placeholders/252.gif], compare הַאִם: see Nö^M p. 208, ZMG 1886, p.
+739^; W^AG i. § 367 e^)
+
+ᵑ7^Onk Jon^
+אִם, ᵑ7^Hag^
+אין.
+
+1.
+particle
+hypothetical
+if.
+
+a.
+construction (see more fully Dr^§ 136-138, 143^
+Friedrich^Die Hebr. Condit. sätze 1884^):
+
+(1) with imperfect (continued by
+perfects &
+waw consecutive; apodosis usually begins with perfect & waw consecutive or bare imperfect; or, if
+necessary,
+with imperative or jussive) (a) of future
+time: Gen
+18:26
+אִםאֶֿמְצָא if I shall find 50 righteous in Sodom, וְנָשָׂאתִי I will
+pardon,
+etc., Gen 24:8
+; Gen
+32:9
+;
+
+Deut 1:52
+b
+1Kgs 6:12
+
+; Ps
+89:31
+;
+Gen
+42:37; Judg 13:16; 1Kgs 1:52 a Ps 132:12.
+(b) of past time (rare, but classical):
+Gen 31:8
+אִם יאֹמַר
+if everhe said . . . וְיָָֽלְדִוּ
+then they used to bear, etc., Exod 40:37 & in the
+protestations
+Job 31:7; Job 31:13; Job 31:16; Job 31:25 etc.
+(alternating with pff., see below, & with jussives in apodosis)
+(c) assuming a
+purely
+imaginary case (with imperfect in both clauses, like the double optative in Greek), if,
+though:
+
+Gen 13:16
+so
+that אִםיֿוּכַל
+if a man were able to number the stars, thy seed also
+
+יִמָּנֶה
+
+might be numbered, Num 22:18; Isa 1:18
+כַּשָּׁנִים יַלְבִּינוּ
+׳
+אִםיִֿהְיוּ ח
+though your sins were as scarlet, they should
+
+become white as snow,
+Amos 9:2-4
+אִםיַֿחְתְּרוּ
+though they were to dig into Sheôl, from thence
+תִּקָּחֵם
+
+would my hand fetch them, Ps 27:3; Ps 139:8 +.
+
+(2) with participle
+(expressing
+either a present process,
+or an approaching future: apodosis as 1.a.) Gen 24:42; Gen 24:49
+; Judg 6:36
+; Judg
+9:15;
+Judg 11:9
+
+אִם מְשִׁיבִים אַתֶּם if ye are going to bring me back . . . ׳
+וְנָתַן י then ׳
+י will, etc.; similarly with יֵשׁ or אֵין
+Gen 44:26
+; Exod
+22:2
+; 1Sam
+20:8
+;
+1Sam
+23:23 &
+with no explicit copula
+Deut 22:2; Deut
+25:2;
+Lev
+1:3;
+Lev 1:14
+,
+etc.
+
+(3)
+with perfect (a) of future or
+present
+time
+(continued by perfects & waw consecutive: apodosis as (1)
+(a)) Gen 43:9
+אִםלֹֿא הֲבִיאֹתִיו אֵלֶיךָ וְהִצַּגְתִּיו לְפָנֶיךָ if I do not bring him back (si eum
+non
+reduxero) and set him before thee, I will be guilty for ever, Gen 47:6
+if thou knowest that there are men of worth among them
+
+וְשַׂמְתָּם then make them, etc., Judg 16:17; 2Sam 15:33; 2Kgs 7:4;
+Ps 41:7
+; Ps
+94:18; Job
+7:4;
+Job 9:30f. Job 10:14
+
+אִם חָטָאתִי וּשְׁמַרְתָּ֑נִי if I sin, thou watchest me. On אִםנָֿא
+Gen 18:3
+and
+elsewhere see
+נָא
+. (b) of past time, whether (α
+) in
+actual
+fact, or (β) in an assumed case (the perfect is here continued by the
+imperfect
+and
+waw
+consecutive; apodosis begins as before). (a)
+Judg 9:16-19
+
+אִם ֗֗֗ עֲשִׂיתֶם
+if ye have done honestly וַתַּמְלִיכוּ
+and have made Abimelech king . . ., 1Sam 26:19 especially in protestations,
+as
+Ps 7:4
+אִם עָשִׂיתִי זאת
+if I have done this . . ., let the enemy pursue my soul, etc. Jer 33:25
+f.;
+Job 31:5f;
+Job 31:9
+,
+etc. (b)
+
+Num
+5:27
+
+if she have defiled herself וַתִּמְעֹל
+and been faithless, וּבָאוּ
+then shall they come, etc., Num 15:24; Num 35:22-24. (c) with
+bare perfect in
+apodosis, in sense of If … had …, only Deut 32:30
+
+אִםלֹֿא כִּי
+were it not that …, Ps 73:15. (לוּ is
+more
+usual in
+such cases.)
+
+(4) with infinitive once (si vera 1.) Job 9:27
+אִם אָמְרִי = if I say (literally if (there is) my saying). — Note that the verb
+following
+
+אִם is often strengthened by the infinitive absolute, as Exod 15:26; Exod 19:5
+;
+Exod 21:5
+;
+Exod 22:3
+;
+Exod
+22:12
+;
+Exod
+22:16; Exod 22:22; Judg 11:30; Judg 14:12; Judg 16:11 etc.; compare
+Dr^Sm i. 20, 6^.
+
+b.
+Special uses:
+
+(1) repeated … אִם
+אִם
+whether … or (sive … sive) Exod 19:13; Deut 18:3
+;
+2Sam
+15:21 similarly
+אִם ֗֗֗ וְאִם
+Gen 31:52
+;
+Jer 42:6
+; Ezek
+2:5;
+Eccl
+11:3;
+Eccl
+12:14
+(compare
+[placeholder253: Placeholders/253.gif] …
+[placeholder254: Placeholders/254.gif],
+[placeholder255: Placeholders/255.gif] …
+[placeholder256: Placeholders/256.gif]
+PS^250^;
+[placeholder257: Placeholders/257.gif] …
+[placeholder258: Placeholders/258.gif]&
+[placeholder259: Placeholders/259.gif] …
+[placeholder260: Placeholders/260.gif]).
+
+(2) After an oath (expressed, or merely implied) אִם (the formula
+of
+imprecation being omitted) becomes an emphatic negative, and אִםלֹֿא an emphatic
+affirmative:
+2Sam
+11:11
+by thy life אִםאֶֿעֱשֶׂה אֶתהַֿדָּבָר הַזֶּה (may God bring all manner of evil
+upon me)
+if I do this thing! = surely I will not do this thing!
+(compare
+the full phrases in
+1Sam 3:17; 2Kgs 6:31) Gen 14:23; Gen 42:15; Num 14:23; 1Sam 3:14; 1Sam 19:6
+; 2Kgs
+2:2;
+2Kgs
+3:14 & often; Isa 22:14;
+Ps 89:36
+;
+Ps 95:11
+;
+Job 6:28
+
+אִםלֹֿא
+Num 14:28
+;
+Josh 14:9
+;
+1Kgs
+20:23
+; 2Kgs 9:26
+;
+Isa 5:9;
+Isa
+14:24;
+Jer
+15:11;
+Jer
+49:20;
+Job 1:11
++
+especially Ezekiel; after a negative clause, emphasizing a contrasted idea, Gen 24:38 (where the
+explanation by
+Aramaic אֶלָּא is not supported by Hebrew usage), compare Jer 22:6. Repeated,
+אִם ֗֗֗
+וְאִם
+2Sam
+20:20
+;
+2Kgs 3:14
+; Isa
+62:8
+;
+Jer
+38:16; Ezek 14:16. In adjurations (with 2nd or 3rd person) = that
+not
+
+Gen 21:23
+;
+Gen 26:29
+;
+Gen 31:50
+;
+1Sam
+24:22;
+1Kgs 1:51
+;
+Song 2:7;
+Song 3:5
++. Of
+past or present time: 1Sam 25:34 as ׳
+י liveth (I say) that, unless thou hadst hastened …, כִּי אִם
+נוֺתַר that surely there had not been left …! 1Sam 17:55
+as thy soul liveth
+אִםיָֿדַעְתִּי
+if I Know it! 1Kgs 17:12; 1Kgs 18:10 — both אִםיֵֿשׁ
+(כִּי
+here merely introduces the fact sworn to, & need not be translated; so 2Sam 3:35: see
+כִּי
+);
+Ps
+121:2
+אִםלֹֿא (after a negative clause: compare above Gen 24:38). compare Str^§ 90^.
+
+(3) Part, of wishing, if but…! oh that…! (rare) Ps 81:9
+If thou wouldest hearken to me! Ps 95:7; Ps 139:19; Prov 24:11. compare
+Exod
+32:32.
+With an imperative (si vera lectio) Job 34:16
+וְאִםִֿבּינָה; and with an anacoluthon, Gen 23:13 (
+P
+) אִםאַֿתָּה לוּ שְׁמָעֵנִי
+if thou! — oh that thou wouldst hear me!
+
+(4) Nearly = when
+— with
+the perfect: (a) of past, Gen 38:9; Num 21:9
+וְהָיָה אִםנָֿשַׁךְ ֗֗֗ וְרָאָה and it used to be, if or
+when
+a serpent had bitten a man, that he would look, etc., Judg 6:3; Ps 78:34 (see
+Dr^§ 136^
+δ Obs.);
+Amos 7:2. (b) of present or future, Isa 4:4
+אִם רָחַץ
+when the Lord shall have washed, Isa 24:13; Isa 28:25 compare Num 36:4
+(with the imperfect)
+
+c. Compounded with other particles: — (α) בִּלְתִּי
+אִם
+
+except if, except, Gen 47:18; Judg 7:14; Amos 3:3; Amos 3:4. (β)
+הֲלוֺא אִם
+2Kgs
+20:19
+(for which
+Isa 39:7 has simply כִּי), perhaps Is it not (good),
+if …? (De
+Di). (γ) כִּיאִֿם, q. v. (δ
+)
+עַד אִם
+Gen 24:19
+;
+Gen 24:33
+;
+Isa
+30:17;
+Ruth 2:21
+,
+& עַד אֲשֶׁר אִם
+Gen 28:15
+;
+Num 32:17
+;
+Isa 6:11
+,
+until, properly until if or when. (
+ε
+) רַק אִם
+if only (see below רַק). אִםלֹֿא in Ezek 3:6b
+is very difficult. The
+
+Vrss
+render If I had sent, etc., implying לֻא for
+אִםלֹֿא
+(for Ew's
+אִםלֻֿא = אִלּוּ, q. v., is precarious):
+Ges
+
+Hi
+Co 'but (אִםלֹֿא after a negative, compare
+above Gen
+24:38;
+Ps 131:2
+)
+unto them (Israel) have I sent thee: they can understand
+thee'
+(but understand is a dubious rendering of שָׁמַע אֶל).
+
+2.
+particle
+interrogative
+
+a. in direct question:
+
+(a) alone (not
+frequently and usually = Num? expecting the answer No,
+especially in a
+rhetorical style):
+Gen
+38:17;
+1Kgs
+1:27; Judg
+5:8
+
+מָגֵן אִםיֵֿרָאֶה וָרֹמַח
+was there a shield to be seen or a spear …?Isa 29:16 and repeated Amos 3:6; Jer 48:27
+; Job 6:12
+.
+
+(b) more
+frequently in disjunctive interrogation: (α) הֲ ֗֗֗ אִם, expressing a
+real
+alternative Josh
+5:13
+
+הֲלָנוּ אַתָּה
+אִםלְֿצָרֵינוּ
+art thou for us, or for our enemies? Judg 9:2; 1Kgs 22:6; 1Kgs 22:15: more often
+expressing a merely formal alternative,
+especially in poetry (a rhetorical Num?) Gen 37:8; Num 11:12; Num 11:22; Judg 11:25
+b
+2Sam 19:36; Isa 10:15; Isa 66:8; Jer 3:5; Hab 3:8; Ps 77:10; Ps 78:20; Job 4:17; Job 6:5; Job 6:6; Job 10:4; Job 10:5;
+Job 11:7
+etc. (β) הֲ
+֗֗֗ וְאִם (rarer than הֲ ֗֗֗ אִם, but similar in use) 2Sam 24:13 (a real
+alt.); Isa
+49:24; Isa
+50:2; Jer
+5:9
+(Jer 5:29
+
+אִם) Jer 14:22; Joel 1:2; Joel 4:4; Job 8:3; Job 11:2; Job 21:4; Job 22:3; Job 34:17; Job 40:8f.
+(formal); Gen
+17:17
+
+P
+(with an anacoluthon) shall a child …? וְאִםשָֿׂרָה הֲבַתתִּֿשְׁעִים שָׁנָה תֵּלֵד
+
+or Sarah, — shall she that is 90 years old bear? Prov 27:24 (וְאִם
+after negative
+clause),
+
+b. in oblique interrogation, if, whether:
+
+(a)
+alone, after verbs of seeing, inquiring, etc. 2Kgs 1:2; Jer 5:1; Jer 30:6; Mal 3:10; Ps 139:24; Song 7:13;
+Lam 1:12;
+Ezra 2:59
+once מִי יוֺדֵעַ
+אִם
+who knoweth if …? i.e. (like haud scio an) perhaps
+
+Esth 4:14
+(older
+synonym מִי יוֺדֵעַ alone: see 2Sam 12:22; Joel 2:14; Jonah 3:9).
+
+(b)
+disjunctively הֲ ֗֗֗ אִם
+
+Gen 27:21
+; Num
+13:18-20
+so אִם ֗֗֗ וְאִם
+Josh
+24:15
+.
+
+c. compounded with הֲ, הַאִם
+Num 17:28
+
+הַאִם תַּמְנוּ לִגְוֺעַ probably an emphatic Num? Shall we ever
+have
+finished dying?
+Job 6:13
+difficult: perhaps Is it that my help is not in me? (a forcible means of
+expressing
+that that which might be thought impossible is nevertheless the case); Hi
+as
+an
+aposiop., If my help is not in me (am I still to wait) ? (The view that הַאִם =
+
+הֲלֹא
+
+nonne? is inconsistent with the fact that אִם in a question has
+regularly
+the force of Num?)
+
+---
+
+אֵם see
+אמם
+. Below
+
+---
+
+אַמָּה, אֻמָּה see
+אמם
+.
+
+---
