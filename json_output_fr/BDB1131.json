@@ -1,0 +1,23 @@
+{
+    "head_word": "בֵּ֫לֶת",
+    "pos": "particule [de négation]",
+    "primary": "ne…pas, sauf",
+    "description": "proprement défaillance",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "après une négation précédente, ne…pas = sauf"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "(de même après un négatif, exprimé ou implicite)"
+        }
+    ]
+}

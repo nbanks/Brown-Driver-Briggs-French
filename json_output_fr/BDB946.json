@@ -1,0 +1,38 @@
+{
+    "head_word": "בּוֺא",
+    "pos": "verbe",
+    "primary": "entrer, venir, aller dans, aller",
+    "description": "du locuteur, mais avec limite du mouvement donnée",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "de s'associer avec",
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "du locuteur, mais avec limite du mouvement donnée"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "head_word": "אֱלֹהַּ",
+    "pos": "nom masculin",
+    "primary": "dieu, Dieu",
+    "description": "un dieu païen, usage tardif ; כָּלאֱֿלוֺהַּ 2 Ch 32,15 ; Dn 11,37 זוּ כחו לאלהו dont la puissance est son dieu Ha 1,11 ; 2 R 17,31 (mais Qr אֱלֹהֵי), אשר הביא אֱלוֺהַּ בְּיָדוֺ qui amène Dieu dans sa main Jb 12,6 (Ew Di RVm, etc.)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "un dieu païen, usage tardif ; כָּלאֱֿלוֺהַּ 2 Ch 32,15 ; Dn 11,37 זוּ כחו לאלהו dont la puissance est son dieu Ha 1,11 ; 2 R 17,31 (mais Qr אֱלֹהֵי), אשר הביא אֱלוֺהַּ בְּיָדוֺ qui amène Dieu dans sa main Jb 12,6 (Ew Di RVm, etc.)"
+        },
+        {
+            "number": 2,
+            "primary": "Dieu",
+            "description": null
+        }
+    ]
+}

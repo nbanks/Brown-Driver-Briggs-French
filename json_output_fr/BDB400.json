@@ -1,0 +1,23 @@
+{
+    "head_word": "אָכְלָה",
+    "pos": "nom féminin",
+    "primary": "nourriture, action de manger",
+    "description": "surtout dans les expressions",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "surtout dans les expressions"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

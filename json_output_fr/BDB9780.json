@@ -1,0 +1,18 @@
+{
+    "head_word": "עֲנָה",
+    "pos": "verbe",
+    "primary": "répondre",
+    "description": "à quelque chose de dit",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "à quelque chose de dit"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "à l'occasion, parler en vue d'une situation"
+        }
+    ]
+}

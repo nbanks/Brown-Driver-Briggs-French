@@ -1,0 +1,48 @@
+{
+    "head_word": "בַּ֫יִת",
+    "pos": "nom masculin",
+    "primary": "maison",
+    "description": "de la maison comme contenant une famille, d'où dans l'expression des esclaves appartenant à la maisonnée",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "de la maison comme contenant une famille, d'où dans l'expression des esclaves appartenant à la maisonnée"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "maison, incluant les affaires domestiques, les personnes, les biens, etc."
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "בַּ֫יְתָה, בָּ֑יְתָה, littéralement vers la maison, d'où métaphore vers l'intérieur"
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "מִבַּיִת"
+        }
+    ]
+}

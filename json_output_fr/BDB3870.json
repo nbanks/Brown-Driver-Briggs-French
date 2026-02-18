@@ -1,0 +1,23 @@
+{
+    "head_word": "כְּ",
+    "pos": null,
+    "primary": "semblable à, comme",
+    "description": "proprement substantif le semblable de, comme",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "quantitativement"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "répété, כְּכְּ֗֗֗, pour signifier la complétude de la correspondance entre deux objets (propre à l'hébreu)"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "devant un infinitif"
+        }
+    ]
+}

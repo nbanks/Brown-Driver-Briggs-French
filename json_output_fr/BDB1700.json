@@ -1,0 +1,28 @@
+{
+    "head_word": "גְּנָזִים",
+    "pos": "nom [masculin] pluriel",
+    "primary": "coffres (?)",
+    "description": "peut-être coffres d'étoffe bigarrée",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "coffres (?)",
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": "trésor",
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "peut-être coffres d'étoffe bigarrée"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

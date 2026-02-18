@@ -1,0 +1,18 @@
+{
+    "head_word": "אַי",
+    "pos": "adverbee",
+    "primary": "où ?",
+    "description": "préfixé à d'autres adverbes ou pronoms, אֵי leur confère une force interrogative",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "où ?",
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "préfixé à d'autres adverbes ou pronoms, אֵי leur confère une force interrogative"
+        }
+    ]
+}

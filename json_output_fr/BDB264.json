@@ -1,0 +1,18 @@
+{
+    "head_word": "אָזַן",
+    "pos": "verbe",
+    "primary": "prêter l'oreille, écouter, entendre",
+    "description": "entendre, percevoir par l'oreille",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "entendre, percevoir par l'oreille"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "de Dieu, écoutant (avec faveur) la prière, etc."
+        }
+    ]
+}

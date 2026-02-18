@@ -1,0 +1,23 @@
+{
+    "head_word": "בִּנּוּי",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": null,
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "chef d'une famille revenue avec Zorobabel Ne 7,15 (= בָּנִי || Esd 2,10 & peut-être Esd 10,34 comparer Sm ; mais BeRy propose ici בִּגְוַי)"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "un Lévite du temps d'Esdras Esd 8,33 ; Ne 10,10 (proprement = בָּנִי Ne 8,7, בֻּנִּי Ne 9,4) Ne 12,8 comparer Ne 3,24 (בַּוַי, erreur textuelle Ne 3,18) voir BeRy ; aussi Esd 2,40 = Ne 7,43 לִבְּנֵי lire peut-être לְבִנֻּי comparer Sm mais BeRy autrement ; comparer encore Gr"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "Israélites du temps d'Esdras, a. Esd 10,30 b. Esd 10,38"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "head_word": "דּוֺד",
+    "pos": "nom masculin",
+    "primary": "bien-aimé, amour",
+    "description": "le plus souvent être aimé, bien-aimé (amant, fiancé)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "le plus souvent être aimé, bien-aimé (amant, fiancé)"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "spécifiquement oncle"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "pluriel abstrait amour"
+        }
+    ]
+}

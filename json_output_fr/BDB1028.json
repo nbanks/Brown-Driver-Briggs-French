@@ -1,0 +1,28 @@
+{
+    "head_word": "בֶ֫טֶן",
+    "pos": "nom féminin",
+    "primary": "ventre, corps, sein maternel",
+    "description": "ventre de l'hippopotame",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "ventre de l'hippopotame"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "opposé à âme"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "terme architectural désignant une projection arrondie en rapport avec les deux colonnes Jakin et Boaz"
+        }
+    ]
+}

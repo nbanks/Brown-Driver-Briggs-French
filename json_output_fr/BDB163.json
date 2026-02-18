@@ -1,0 +1,28 @@
+{
+    "head_word": "אוֺ",
+    "pos": "conjonction",
+    "primary": "ou",
+    "description": "impliquant parfois une préférence, presque = ou plutôt",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "impliquant parfois une préférence, presque = ou plutôt"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "introduisant une phrase, surtout un cas particulier sous un principe général, ou = ou si"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "une fois, avec le jussif"
+        }
+    ]
+}

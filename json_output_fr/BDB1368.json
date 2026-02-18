@@ -1,0 +1,38 @@
+{
+    "head_word": "בָּשָׂר",
+    "pos": "nom masculin",
+    "primary": "chair",
+    "description": "du corps",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "du corps"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "chair pour le corps lui-même"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "organe génital masculin (euphémisme)"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "chair pour parenté, consanguins"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "l'homme face à Dieu comme fragile ou errant"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "l'expression ׃כָּלבָּֿשָׂר"
+        }
+    ]
+}

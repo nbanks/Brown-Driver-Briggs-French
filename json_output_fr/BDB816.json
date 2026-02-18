@@ -1,0 +1,18 @@
+{
+    "head_word": "אֶשְׁכּוֺל",
+    "pos": "nom masculin",
+    "primary": "grappe",
+    "description": "grappe de raisins",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "grappe de raisins"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "grappe de fleurs de henné"
+        }
+    ]
+}

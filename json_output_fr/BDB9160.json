@@ -1,0 +1,18 @@
+{
+    "head_word": "תָּלָה",
+    "pos": "verbe",
+    "primary": "suspendre",
+    "description": "tout objet",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "tout objet"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "spécifiquement mettre à mort par pendaison"
+        }
+    ]
+}

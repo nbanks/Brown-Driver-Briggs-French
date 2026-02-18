@@ -1,0 +1,38 @@
+{
+    "head_word": "גִּלְעָד",
+    "pos": "nom propre [d'un lieu]",
+    "primary": null,
+    "description": "de chaîne de montagnes ou de pays de collines, terre et ville, à l'est du Jourdain",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "territoire au sud du Yabboq"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "Galaad du nord"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "plus généralement, de tout Galaad"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "nom d'une ville"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "des Israélites vivant à l'est du Jourdain (dans l'ensemble)"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "traité comme nom propre, masculin"
+        }
+    ]
+}

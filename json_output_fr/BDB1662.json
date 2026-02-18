@@ -1,0 +1,33 @@
+{
+    "head_word": "גִּלְגָּל",
+    "pos": "nom propre [d'un lieu]",
+    "primary": null,
+    "description": "lieu à l'est de Jéricho, où Israël campa",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "lieu à l'est de Jéricho, où Israël campa"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "lieu à la frontière entre Juda & Benjamin"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "lieu dans le nord d'Israël, demeure de prophètes"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "lieu dans le nord d'Israël près du mont Garizim et du mont Ébal"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "dans l'expression"
+        }
+    ]
+}

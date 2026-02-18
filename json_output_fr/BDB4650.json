@@ -1,0 +1,28 @@
+{
+    "head_word": "מְלֹא",
+    "pos": "nom masculin",
+    "primary": "plénitude, ce qui remplit",
+    "description": "de main (= poignée)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "de main (= poignée)"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "= ce qui remplit, contenu entier"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "expressions"
+        }
+    ]
+}

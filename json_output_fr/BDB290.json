@@ -1,0 +1,63 @@
+{
+    "head_word": "אֲחִיָּ֫הוּ",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "un prêtre",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "un prêtre"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "un scribe"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "un prophète"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "père du roi Baasa"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "petit-fils de Hetsrôn"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "fils d'Éhud, de Benjamin"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "un des héros de David"
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "un lévite, au temps de David"
+        },
+        {
+            "number": 9,
+            "primary": null,
+            "description": "un chef sous Néhémie"
+        },
+        {
+            "number": 10,
+            "primary": null,
+            "description": "un Gadite"
+        },
+        {
+            "number": 11,
+            "primary": null,
+            "description": "un homme d'Asher"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "head_word": "מִדְבָּר",
+    "pos": "nom masculin",
+    "primary": "désert",
+    "description": "étendues de terre, utilisées pour la pâture des troupeaux",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "étendues de terre, utilisées pour la pâture des troupeaux"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "terre inhabitée"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "grandes étendues de telles terres portant divers noms, dans certains districts desquelles il pouvait y avoir des villes"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "figuré"
+        }
+    ]
+}

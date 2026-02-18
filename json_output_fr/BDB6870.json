@@ -1,0 +1,23 @@
+{
+    "head_word": "פְּתַחְיָה",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "prêtre",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "prêtre"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "lévite"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "Judaïte"
+        }
+    ]
+}

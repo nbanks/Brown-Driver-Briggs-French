@@ -1,0 +1,28 @@
+{
+    "head_word": "יְעוּשׁ",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "fils d'Ésaü",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "fils d'Ésaü"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "Benjaminites"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "un lévite"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "fils de Roboam"
+        }
+    ]
+}

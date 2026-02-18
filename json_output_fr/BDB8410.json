@@ -1,0 +1,28 @@
+{
+    "head_word": "שֵׁ֫בֶט",
+    "pos": "nom masculin",
+    "primary": "bâton, verge, massue, sceptre",
+    "description": "(évidemment objet courant)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "bâton, verge, massue, sceptre",
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": "tribu",
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "(évidemment objet courant)"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "synonyme מַטֶּה, q. v. 3, p. 641:b"
+        }
+    ]
+}

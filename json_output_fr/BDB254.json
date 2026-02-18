@@ -1,0 +1,18 @@
+{
+    "head_word": "אָז",
+    "pos": "adverbe",
+    "primary": "en ce temps-là, alors",
+    "description": "en ce temps-là, alors, que ce soit pour exprimer la durée, ou le commencement (= là-dessus)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "strictement temporel"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "exprimant une conséquence logique strictement dans l'apodose"
+        }
+    ]
+}

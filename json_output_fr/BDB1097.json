@@ -1,0 +1,38 @@
+{
+    "head_word": "בָּכָה",
+    "pos": "verbe",
+    "primary": "pleurer, déplorer",
+    "description": "(de chagrin, d'humiliation ou de joie)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "(de chagrin, d'humiliation ou de joie)"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "avec accusatif de même racine בְּכִי"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "suivi de עַל pleurer sur, c.-à-d. embrasser et pleurer"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "suivi d'accusatif"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "suivi de עַל au sens d'importuner, ennuyer par des pleurs"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "des pleurs de pénitence"
+        }
+    ]
+}

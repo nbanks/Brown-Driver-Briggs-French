@@ -1,0 +1,28 @@
+{
+    "head_word": "אֵלוֺן",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "un fils de Zabulon",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "un fils de Zabulon"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "un Hittite, beau-père d'Ésaü"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "un juge d'Israël, de la tribu de Zabulon"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "une ville de Dan"
+        }
+    ]
+}

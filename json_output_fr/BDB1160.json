@@ -1,0 +1,53 @@
+{
+    "head_word": "בֵּן",
+    "pos": "nom masculin",
+    "primary": "fils",
+    "description": "enfant mâle, né d'une femme",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "enfant mâle, né d'une femme"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "(mâle et femelle)"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "d'animaux"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "de pousses de plantes"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "de choses inanimées"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "membre d'une corporation, d'un ordre ou d'une classe"
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "comme nom relatif suivi d'un mot de qualité, caractéristique, etc."
+        },
+        {
+            "number": 9,
+            "primary": null,
+            "description": "nom relatif d'âge"
+        }
+    ]
+}

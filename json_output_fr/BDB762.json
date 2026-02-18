@@ -1,0 +1,28 @@
+{
+    "head_word": "אֲרָם",
+    "pos": "nom propre, masculin",
+    "primary": "Aram",
+    "description": "5e fils de Sem",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "5e fils de Sem"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "petit-fils de Nachor"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "un descendant d'Asher"
+        }
+    ]
+}

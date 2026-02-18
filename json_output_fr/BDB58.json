@@ -1,0 +1,53 @@
+{
+    "head_word": "אֶ֫בֶן",
+    "pos": "nom féminin",
+    "primary": "pierre",
+    "description": "une pierre (grande ou petite)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "pierre, comme matériau"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "pierres précieuses"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "pierres contenant du métal, = minerai"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "un poids"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "fil à plomb"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "objets semblables à des pierres"
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "en comparaison"
+        },
+        {
+            "number": 9,
+            "primary": null,
+            "description": "dans des termes topographiques"
+        }
+    ]
+}

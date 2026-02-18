@@ -1,0 +1,108 @@
+{
+    "head_word": "לָקַח",
+    "pos": "verbe",
+    "primary": "prendre",
+    "description": "prendre, prendre dans la main",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "prendre, prendre dans la main"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "prendre et emporter avec soi"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "prendre de, ou hors de"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "prendre pour une personne"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "prendre sur, = mettre sur"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "= chercher :"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "= conduire, mener (avec ou sans contact)"
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "= capturer, saisir"
+        },
+        {
+            "number": 9,
+            "primary": null,
+            "description": "= emporter"
+        },
+        {
+            "number": 10,
+            "primary": null,
+            "description": "dans l'expression prendre vengeance"
+        },
+        {
+            "number": 11,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 12,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 13,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 14,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 15,
+            "primary": null,
+            "description": "= être volé de"
+        },
+        {
+            "number": 16,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 17,
+            "primary": "de la translation d'Élie",
+            "description": "(= Niphal 2)"
+        },
+        {
+            "number": 18,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 19,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 20,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

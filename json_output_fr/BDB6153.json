@@ -1,0 +1,33 @@
+{
+    "head_word": "עַמִּיהוּד",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "a Geshurite",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "a Geshurite"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "un Éphraïmite"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "un Siméonite"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "a Naphtalite"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "a Judahite"
+        }
+    ]
+}

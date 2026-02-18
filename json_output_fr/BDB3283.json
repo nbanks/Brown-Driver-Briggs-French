@@ -1,0 +1,28 @@
+{
+    "head_word": "טַבָּח",
+    "pos": "nom masculin",
+    "primary": "cuisinier",
+    "description": null,
+    "senses": [
+        {
+            "number": 1,
+            "primary": "cuisinier",
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": "gardien",
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

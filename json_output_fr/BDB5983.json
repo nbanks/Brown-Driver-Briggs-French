@@ -1,0 +1,18 @@
+{
+    "head_word": "עֲזָרָה",
+    "pos": "nom féminin",
+    "primary": "enclos",
+    "description": "apparently",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "ledge surrounding Ézéchiel's altar"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "outer court of temple"
+        }
+    ]
+}

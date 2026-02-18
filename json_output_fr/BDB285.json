@@ -1,0 +1,28 @@
+{
+    "head_word": "אָח",
+    "pos": "nom masculin",
+    "primary": "frère",
+    "description": "indéfini = parent",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "indéfini = parent"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "figuré de la ressemblance"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "dans l'expression l'un . . . l'autre"
+        }
+    ]
+}

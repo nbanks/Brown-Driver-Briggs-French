@@ -1,0 +1,23 @@
+{
+    "head_word": "מַלְאָךְ",
+    "pos": "nom masculin",
+    "primary": "messager",
+    "description": "comme messager de Dieu",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "comme messager de Dieu"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "l'ange théophanique"
+        }
+    ]
+}

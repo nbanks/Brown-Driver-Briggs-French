@@ -1,0 +1,48 @@
+{
+    "head_word": "אֲשֶׁר",
+    "pos": "conjonction",
+    "primary": "particule de relation",
+    "description": "Un signe de relation, mettant la proposition qu'il introduit en rapport avec une proposition antécédente. En règle générale אֲשֶׁר est un simple lien de connexion, et doit être complété (voir les grammaires) par un suffixe pronominal, ou un autre mot, tel que שָׁם, définissant la nature de la relation plus précisément",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "il inclut son antécédent pronominal, que ce soit au nominatif ou aux cas obliques"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "les cas de אֲשֶׁר suivi d'un suffixe pronominal, ou de שָׁם, שָֽׁמָּה, מִשָּׁם, sont si courants que les exemples cités ci-dessus suffiront"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "parfois (bien que rarement) le complément définissant est un pronom de 1re ou 2e personne aussi bien que de 3e personne. Dans ces cas il doit être strictement rendu moi qui . . ., toi qui, etc."
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "le complément pronominal définissant est omis"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "parfois en poésie = celui qui, un homme qui (des hommes qui)"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "reçoit parfois sa définition plus précise d'un substantif qui le suit, autrement dit, son antécédent logique est inséré dans la proposition relative"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "׳\nאֲשֶׁר ל\nce qui (appartient, appartiennent, appartenait) à, est employé"
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "אֲשֶׁר devient, comme l'araméen דּי, , une conjonction se rapprochant dans l'usage de כִּי"
+        }
+    ]
+}

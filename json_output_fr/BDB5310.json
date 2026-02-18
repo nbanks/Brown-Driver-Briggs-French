@@ -1,0 +1,58 @@
+{
+    "head_word": "נֶ֫פֶשׁ",
+    "pos": "nom féminin",
+    "primary": "âme, être vivant, vie, soi-même, personne, désir, appétit,\n        émotion et passion",
+    "description": "= ce qui respire, la substance ou l'être respirant",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "tout poétique",
+            "description": "= ce qui respire, la substance ou l'être respirant"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "Le נפשׁ devient un être vivant"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "Le נפשׁ (sans חיה nom ou verbe) est spécifié"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "= siège des appétits"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "= siège des émotions et passions"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "utilisé occasionnellement pour les actes mentaux + לבב (voir 10)"
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "נפשׁ pour les actes de volonté est douteux"
+        },
+        {
+            "number": 9,
+            "primary": null,
+            "description": "נפשׁ = caractère est encore plus douteux"
+        },
+        {
+            "number": 10,
+            "primary": null,
+            "description": "׳\nנ dans \nD\n, quand utilisé avec לבב, y est assimilé et partage avec lui les sens de \n        7\n    ., 8., 9"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "head_word": "גּוֺרָל",
+    "pos": "nom masculin",
+    "primary": "sort",
+    "description": "pour partager la terre, surtout celui que Josué jeta à Silo",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "pour partager la terre, surtout celui que Josué jeta à Silo"
+        },
+        {
+            "number": 2,
+            "primary": "pour déterminer les coupables",
+            "description": "pour assigner au service, devoir ou châtiment"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "surtout de terre assignée par le sort"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "= récompense, rétribution"
+        }
+    ]
+}

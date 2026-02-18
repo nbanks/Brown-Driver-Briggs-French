@@ -1,0 +1,23 @@
+{
+    "head_word": "עֵ֫זֶר",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "un bâtisseur du mur",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "un bâtisseur du mur"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "nom en Juda"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "héros de David"
+        }
+    ]
+}

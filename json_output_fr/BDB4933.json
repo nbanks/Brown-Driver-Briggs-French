@@ -1,0 +1,18 @@
+{
+    "head_word": "נְבוֺ",
+    "pos": "nom propre [d'un lieu]",
+    "primary": "? ou d'un autre",
+    "description": "ville en Moab",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "? ou d'un autre",
+            "description": "ville en Moab"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "mountain en Moab, where Moses died"
+        }
+    ]
+}

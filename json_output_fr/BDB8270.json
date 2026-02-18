@@ -1,0 +1,38 @@
+{
+    "head_word": "שָׂנֵא",
+    "pos": "verbe",
+    "primary": "haïr",
+    "description": "humain",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "humain"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "sujet ׳\nי"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "comme adjectif"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "personnel et national"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "de ׳\nי"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "de la sagesse"
+        }
+    ]
+}

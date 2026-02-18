@@ -1,0 +1,53 @@
+{
+    "head_word": "בַּעַל",
+    "pos": "nom masculin",
+    "primary": "propriétaire, seigneur",
+    "description": "nom de relation",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "nom de relation"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "sans article"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "avec article"
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "pluriel emphatique"
+        },
+        {
+            "number": 9,
+            "primary": null,
+            "description": "avec attributif"
+        }
+    ]
+}

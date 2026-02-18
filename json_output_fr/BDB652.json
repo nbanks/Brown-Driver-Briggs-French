@@ -1,0 +1,23 @@
+{
+    "head_word": "אֵפוֺד",
+    "pos": "nom masculin",
+    "primary": "éphod",
+    "description": "éphod utilisé pour consulter ׳ י",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": "consultation de",
+            "description": "éphod utilisé pour consulter ׳ י"
+        },
+        {
+            "number": 3,
+            "primary": "vu la distinction d'avec",
+            "description": "éphod d'or fait par Gédéon"
+        }
+    ]
+}

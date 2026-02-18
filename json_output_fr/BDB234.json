@@ -1,0 +1,28 @@
+{
+    "head_word": "אוֺפִיר",
+    "pos": "nom propre",
+    "primary": "Ophir",
+    "description": "11e fils de Yoqtan",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "11e fils de Yoqtan"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "lieu vers lequel les navires de Salomon allaient depuis Étsion-Guéber, en rapportant de l'or"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "caractéristique de l'or fin"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "d'où pour l'or fin lui-même"
+        }
+    ]
+}

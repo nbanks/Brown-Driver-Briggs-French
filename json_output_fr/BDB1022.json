@@ -1,0 +1,23 @@
+{
+    "head_word": "מִבְטָח",
+    "pos": "nom [masculin]",
+    "primary": "confiance",
+    "description": "l'acte de se confier",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "l'acte de se confier"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "l'objet de la confiance"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "l'état de confiance"
+        }
+    ]
+}

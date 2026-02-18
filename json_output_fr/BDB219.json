@@ -1,0 +1,23 @@
+{
+    "head_word": "אוּלַי",
+    "pos": "adverbe",
+    "primary": "peut-être, par aventure",
+    "description": "exprime virtuellement la protase = si par aventure",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "peut-être, par aventure",
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "exprime virtuellement la protase = si par aventure"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "head_word": "אַרְבָּעִים",
+    "pos": "pluriel nom indéclinable",
+    "primary": "quarante",
+    "description": "une quarantaine",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "sans autre nombre"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "avec d'autres nombres"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "comme ordinal"
+        }
+    ]
+}

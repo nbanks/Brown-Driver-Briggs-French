@@ -1,0 +1,23 @@
+{
+    "head_word": "מִצְוָה",
+    "pos": "nom féminin",
+    "primary": "commandement",
+    "description": "de l'homme",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "de l'homme"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "de Dieu"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "singulier, du code de sagesse"
+        }
+    ]
+}

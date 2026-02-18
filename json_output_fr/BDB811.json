@@ -1,0 +1,28 @@
+{
+    "head_word": "אַשּׁוּר",
+    "pos": "nom propre [d'un peuple et d'un territoire]",
+    "primary": "Aššur, Assyrie",
+    "description": "peuple d'Aššur",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "peuple d'Aššur"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "pays d'Assyrie"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "surtout מֶלֶךְ אַשּׁוּר"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "head_word": "תְּבוּנָה",
+    "pos": "nom féminin",
+    "primary": "intelligence",
+    "description": "l'acte",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "l'acte"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "la faculté"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "l'objet de la connaissance"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "personnifiée"
+        }
+    ]
+}

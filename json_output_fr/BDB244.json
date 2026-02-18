@@ -1,0 +1,23 @@
+{
+    "head_word": "אוּרִי",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "prince de Juda",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "prince de Juda"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "un portier"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "père d'un officier de Salomon"
+        }
+    ]
+}

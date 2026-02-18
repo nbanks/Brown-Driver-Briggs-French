@@ -1,0 +1,23 @@
+{
+    "head_word": "אָשֵׁר",
+    "pos": "nom propre, masculin",
+    "primary": "Asher",
+    "description": "fils de Jacob et de Zilpa",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "fils de Jacob et de Zilpa"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "la tribu"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "ville à l'est de Sichem"
+        }
+    ]
+}

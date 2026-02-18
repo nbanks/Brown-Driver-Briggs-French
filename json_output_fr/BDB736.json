@@ -1,0 +1,33 @@
+{
+    "head_word": "אֲרִיאֵל",
+    "pos": "nom propre, féminin",
+    "primary": "Ariel",
+    "description": "nom appliqué à Jérusalem",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "Ariel",
+            "description": "nom appliqué à Jérusalem"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "un chef parmi les exilés de retour"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "lire deux fils d'Ariel de Moab"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "voir ci-dessous אֲרִיאֵיל"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

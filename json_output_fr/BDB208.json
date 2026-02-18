@@ -1,0 +1,33 @@
+{
+    "head_word": "אֵלָה",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "un chef d'Édom",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "un chef d'Édom"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "fils de Baasha ; régna deux ans en Israël"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "père d'Osée qui fut le dernier roi d'Israël"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "un fils de Caleb"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "un fils d'Uzzi"
+        }
+    ]
+}

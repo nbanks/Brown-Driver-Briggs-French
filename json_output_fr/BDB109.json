@@ -1,0 +1,43 @@
+{
+    "head_word": "אֲדָמָה",
+    "pos": "nom féminin",
+    "primary": "sol, terre",
+    "description": "pièce de terre, propriété foncière",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "pièce de terre, propriété foncière"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "terre comme substance matérielle"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "sol comme surface visible de la terre"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "toute la terre, terre habitée"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "ville en Nephtali"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "head_word": "אָדוֺן",
+    "pos": "nom masculin",
+    "primary": "seigneur",
+    "description": "ailleurs pluriel intensif de rang, seigneur, maître",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "ailleurs pluriel intensif de rang, seigneur, maître"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "Moïse"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

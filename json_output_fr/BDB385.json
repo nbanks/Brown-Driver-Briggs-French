@@ -1,0 +1,38 @@
+{
+    "head_word": "אַ֫יִן",
+    "pos": "particule [de négation]",
+    "primary": "rien, néant",
+    "description": "avec substantif, ou pronom",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": "n'est pas, ne sont pas, n'était pas, n'étaient pas",
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "avec substantif, ou pronom"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "dans des propositions circonstancielles"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "avec infinitif et ׳\nל"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "avec préfixes"
+        }
+    ]
+}

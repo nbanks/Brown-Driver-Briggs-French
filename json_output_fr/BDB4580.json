@@ -1,0 +1,38 @@
+{
+    "head_word": "מָחָה",
+    "pos": "verbe",
+    "primary": "essuyer, effacer",
+    "description": "= oblitérer",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "= oblitérer"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "= exterminer"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

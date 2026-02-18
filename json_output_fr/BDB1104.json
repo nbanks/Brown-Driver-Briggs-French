@@ -1,0 +1,23 @@
+{
+    "head_word": "בְּכוֺר",
+    "pos": "nom masculin",
+    "primary": "premier-né",
+    "description": "hommes et femmes :",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "hommes et femmes :"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "animaux"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "figuré"
+        }
+    ]
+}

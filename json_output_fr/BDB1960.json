@@ -1,0 +1,28 @@
+{
+    "head_word": "דָּם",
+    "pos": "nom masculin",
+    "primary": "sang",
+    "description": "d'homme ou d'animal, = la vie",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "d'homme ou d'animal, = la vie"
+        },
+        {
+            "number": 2,
+            "primary": "l'expiation de la culpabilité du sang est exprimée par",
+            "description": "généralement le sang devenu visible"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "utilisé avec une signification religieuse"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "figuré"
+        }
+    ]
+}

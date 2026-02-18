@@ -1,0 +1,23 @@
+{
+    "head_word": "מוֺט",
+    "pos": "nom [masculin]",
+    "primary": "secouement, perche, barre (de joug)",
+    "description": "or bar for carrying (named from springing motion)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "or bar for carrying (named from springing motion)"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "of yoke"
+        }
+    ]
+}

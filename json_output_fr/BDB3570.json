@@ -1,0 +1,28 @@
+{
+    "head_word": "יָמִין",
+    "pos": "nom féminin",
+    "primary": "main droite",
+    "description": "de situation à, ou direction vers, la droite",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "de situation à, ou direction vers, la droite"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "d'autres parties du corps, outre la main (voir יַדיֿמינו etc. ci-dessus)"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "= sud, parce qu'en faisant face à l'est la main droite est vers le sud"
+        }
+    ]
+}

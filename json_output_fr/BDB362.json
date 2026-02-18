@@ -1,0 +1,18 @@
+{
+    "head_word": "אֵיךְ",
+    "pos": "adverbe",
+    "primary": "Comment ?",
+    "description": "comme exclamation",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "Comment ?",
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": "Comment !",
+            "description": "comme exclamation"
+        }
+    ]
+}

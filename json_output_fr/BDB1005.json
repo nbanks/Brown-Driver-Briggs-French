@@ -1,0 +1,48 @@
+{
+    "head_word": "בָּחַר",
+    "pos": "verbe",
+    "primary": "choisir",
+    "description": "avec בְּ",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "avec בְּ"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "avec אֲשֶׁר"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "avec accusatif & לְ"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "avec accusatif et מִן"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "accusatif"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "avec עַל"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "avec לְ d'accusatif"
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

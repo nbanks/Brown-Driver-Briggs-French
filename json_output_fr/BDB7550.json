@@ -1,0 +1,48 @@
+{
+    "head_word": "קָרָא",
+    "pos": "verbe",
+    "primary": "appeler, proclamer, lire",
+    "description": "objet en oratio recta [discours direct]",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "objet en oratio recta [discours direct]"
+        },
+        {
+            "number": 2,
+            "primary": "avec nom de Baal",
+            "description": "invoquer quelqu'un"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "proclamer (avec) nom sur"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "à soi-même"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "(avec privilège)"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "appeler le nom de\n            quelqu'un"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "(comparer\n            Qal\n4)"
+        }
+    ]
+}

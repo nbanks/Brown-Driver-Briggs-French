@@ -1,0 +1,48 @@
+{
+    "head_word": "אֶחָד",
+    "pos": "adjectif [nombre]",
+    "primary": "un",
+    "description": "article indéfini",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "article indéfini"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "comme ordinal, premier"
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "en combinaison"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "head_word": "הָמוֺן",
+    "pos": "nom masculin",
+    "primary": "son, murmure, rugissement, foule, abondance",
+    "description": "surtout le son produit par une foule",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "de pluie",
+            "description": "surtout le son produit par une foule"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "(comme causant un rugissement)"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

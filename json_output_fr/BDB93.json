@@ -1,0 +1,23 @@
+{
+    "head_word": "אַגָּן",
+    "pos": "nom [masculin]",
+    "primary": "coupe, bassin",
+    "description": "comparaison des courbes du corps",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "comparaison des courbes du corps"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "métaphore de la famille d'Éliakim"
+        }
+    ]
+}

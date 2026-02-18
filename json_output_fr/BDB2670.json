@@ -1,0 +1,33 @@
+{
+    "head_word": "יַחֲזִיאֵל",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "guerrier benjaminite de David",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "guerrier benjaminite de David"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "prêtre de David"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "un lévite"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "un lévite des fils d'Asaph"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "ancêtre d'une des familles de la restauration"
+        }
+    ]
+}

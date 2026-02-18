@@ -1,0 +1,28 @@
+{
+    "head_word": "דִּי",
+    "pos": "particule [de relation]",
+    "primary": "qui, lequel, que",
+    "description": "particule [de relation], qui, lequel, que, utilisée aussi comme marque du génitif\n    et\n    conjonction\nque, parce que",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "comme relatif"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "comme marque du génitif"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "comme conjonction (comparer אֲשֶׁר\n8)"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "avec prépositions et autres préfixes"
+        }
+    ]
+}

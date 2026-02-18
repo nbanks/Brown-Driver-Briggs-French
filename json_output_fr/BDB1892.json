@@ -1,0 +1,28 @@
+{
+    "head_word": "דּוֺר",
+    "pos": "nom masculin",
+    "primary": "période, génération, demeure",
+    "description": "surtout poétique",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "surtout poétique"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "des hommes vivant à un moment particulier (période, âge)"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "génération caractérisée par une qualité ou condition, classe d'hommes"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "head_word": "מִן",
+    "pos": "préposition",
+    "primary": "de, hors de, par, à cause de, à, plus que",
+    "description": "de lieu",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "de lieu"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "de la norme"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "partitivement"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "de temps"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "dans les comparaisons"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "composés"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "head_word": "בָּנִי",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "un des héros de David",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "lévites"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "un homme de Juda"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "lire בִּנּוּי"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "chefs de familles d'Israël"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "un Israélite"
+        }
+    ]
+}

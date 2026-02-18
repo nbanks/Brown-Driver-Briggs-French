@@ -1,0 +1,38 @@
+{
+    "head_word": "פֶּ֫שַׁע",
+    "pos": "nom masculin",
+    "primary": "transgression",
+    "description": "contre des individus",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "contre des individus"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "de nation, contre nation"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "contre Dieu"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "culpabilité de transgression"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "châtiment pour transgression"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "offrande pour transgression"
+        }
+    ]
+}

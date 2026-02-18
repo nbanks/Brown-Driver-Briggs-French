@@ -1,0 +1,58 @@
+{
+    "head_word": "גָּדוֺל",
+    "pos": "adjectif",
+    "primary": "grand",
+    "description": "en taille et en étendue",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "en taille et en étendue"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "en nombre"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "en intensité"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "en son, fort"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "en âge"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "en importance"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "dans les expressions"
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "construit"
+        },
+        {
+            "number": 9,
+            "primary": null,
+            "description": "comme substantif concret"
+        },
+        {
+            "number": 10,
+            "primary": null,
+            "description": "comme substantif neutre"
+        }
+    ]
+}

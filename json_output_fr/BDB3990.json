@@ -1,0 +1,33 @@
+{
+    "head_word": "כֹּחַ",
+    "pos": "nom masculin",
+    "primary": "force, puissance",
+    "description": "force humaine",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "force humaine"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "des anges"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "de Dieu"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "d'animaux"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

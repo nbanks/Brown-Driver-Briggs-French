@@ -1,0 +1,23 @@
+{
+    "head_word": "בְּהֵמָה",
+    "pos": "nom féminin",
+    "primary": "bête, animal, bétail",
+    "description": "bête, et collectif bêtes",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "des créatures vivantes autres que l'homme"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "opposé aussi aux bêtes sauvages"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "rarement de bêtes sauvages, surtout carnivores"
+        }
+    ]
+}

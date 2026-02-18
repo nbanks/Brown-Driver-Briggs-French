@@ -1,0 +1,103 @@
+{
+    "head_word": "חָזַק",
+    "pos": "verbe",
+    "primary": "être ou devenir ferme, fort, fortifier",
+    "description": "de force physique",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "de force physique"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "en mauvais sens"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "(physiquement)"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "fortifier les mains (accusatif) de quelqu'un, c.-à-d. soutenir, encourager (opposé à רִפָּה)"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "= enhardir, encourager"
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 9,
+            "primary": null,
+            "description": "rendre rigide, dur, c.-à-d. pervers, obstiné, endurcir (le cœur de quelqu'un)"
+        },
+        {
+            "number": 10,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 11,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 12,
+            "primary": null,
+            "description": "suivi de יד = soutenir"
+        },
+        {
+            "number": 13,
+            "primary": null,
+            "description": "= réparer"
+        },
+        {
+            "number": 14,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 15,
+            "primary": null,
+            "description": "surtout prendre ou garder prise, saisir :"
+        },
+        {
+            "number": 16,
+            "primary": null,
+            "description": "figuré = prendre courage"
+        },
+        {
+            "number": 17,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 18,
+            "primary": null,
+            "description": "suivi de לִפְנֵי"
+        },
+        {
+            "number": 19,
+            "primary": null,
+            "description": "suivi de עִם"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "head_word": "אֵם",
+    "pos": "nom féminin",
+    "primary": "mère",
+    "description": "mère littérale (humaine)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "mère littérale (humaine)"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "figuré"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "d'animaux"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "= point de départ ou de division"
+        }
+    ]
+}

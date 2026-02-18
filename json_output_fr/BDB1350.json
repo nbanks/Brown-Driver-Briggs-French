@@ -1,0 +1,48 @@
+{
+    "head_word": "בָּרַר",
+    "pos": "verbe",
+    "primary": "purifier, sélectionner",
+    "description": "seulement participe et dans le Chroniste",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "seulement participe et dans le Chroniste"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "participe passif"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

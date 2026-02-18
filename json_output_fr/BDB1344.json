@@ -1,0 +1,18 @@
+{
+    "head_word": "בָּרָק",
+    "pos": "nom masculin",
+    "primary": "éclair",
+    "description": "littéral surtout pluriel = éclairs, éclats de foudre",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "littéral surtout pluriel = éclairs, éclats de foudre"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "figuré (toujours singulier)"
+        }
+    ]
+}

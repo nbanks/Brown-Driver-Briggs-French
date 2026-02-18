@@ -1,0 +1,38 @@
+{
+    "head_word": "עֵז",
+    "pos": "nom féminin",
+    "primary": "chèvre",
+    "description": "comme propriété",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "comme propriété"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "comme nourriture"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "comme victime sacrificielle"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "עִזִּים = poil de chèvre, comme matériau"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "en comparaison"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "bouc dans une vision"
+        }
+    ]
+}

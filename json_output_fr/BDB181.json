@@ -1,0 +1,18 @@
+{
+    "head_word": "תַּאֲוָה",
+    "pos": "nom féminin",
+    "primary": "désir",
+    "description": "sens péjoratif, convoitise, appétit, cupidité",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "sens péjoratif, convoitise, appétit, cupidité"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "chose désirée"
+        }
+    ]
+}

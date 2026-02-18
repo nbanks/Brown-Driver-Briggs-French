@@ -1,0 +1,28 @@
+{
+    "head_word": "אֲפֵק",
+    "pos": "nom propre [d'un lieu]",
+    "primary": "Aphek",
+    "description": "ville près de Jizréel",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "ville près de Jizréel"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "ville dans la tribu d'Asher"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "ville au nord-est de Beyrouth"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "lieu près de Mitspa"
+        }
+    ]
+}

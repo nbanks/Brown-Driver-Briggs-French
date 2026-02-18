@@ -1,0 +1,38 @@
+{
+    "head_word": "יְבֶרֶכְיָ֫הוּ",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "père d'un Zacharie au temps d'Ésaïe",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "fils de Zorobabel"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "un garde lévite de l'arche"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "père de Meshullam, un des chefs de Néhémie"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "père du prophète Zacharie"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "père d'Asaph"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "chef éphraïmite"
+        }
+    ]
+}

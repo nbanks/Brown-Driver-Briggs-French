@@ -1,0 +1,33 @@
+{
+    "head_word": "חֲנָנִי",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "(peut-être abrégé du suivant)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "père du prophète Jéhu"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "frère de Néhémie"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "un chef musicien de David"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "un chef musicien au temps de Néhémie"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "un prêtre au temps d'Esdras"
+        }
+    ]
+}

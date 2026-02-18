@@ -1,0 +1,23 @@
+{
+    "head_word": "אֵפוֺ",
+    "pos": "particule [enclitique]",
+    "primary": "alors",
+    "description": "une particule à force démonstrative",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "en liaison avec des pronoms ou adverbes interrogatifs"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "dans un commandement ou un souhait"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "après אִם"
+        }
+    ]
+}

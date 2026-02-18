@@ -1,0 +1,83 @@
+{
+    "head_word": "פָּנֶה",
+    "pos": "nom masculin",
+    "primary": "face",
+    "description": "aussi faces (comme tournées vers quelqu'un)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "littéralement, de l'homme"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "= présence, personne"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "des séraphins"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "des animaux"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "(= surface)"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "comme adverbe [de lieu]"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "pour d'autres expressions voir"
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "אֶלפְּֿנֵי"
+        },
+        {
+            "number": 9,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 10,
+            "primary": null,
+            "description": "בִּפְנֵי"
+        },
+        {
+            "number": 11,
+            "primary": "Simil.",
+            "description": "לִפְנֵי, proprement à la face ou au devant de, le mot le plus général pour\n        en présence de, devant"
+        },
+        {
+            "number": 12,
+            "primary": null,
+            "description": "מִלִּפְנֵי"
+        },
+        {
+            "number": 13,
+            "primary": null,
+            "description": "מִפְּנֵי"
+        },
+        {
+            "number": 14,
+            "primary": null,
+            "description": "עַלפְּֿנֵי"
+        },
+        {
+            "number": 15,
+            "primary": null,
+            "description": "מֵעַלפְּֿנֵי"
+        }
+    ]
+}

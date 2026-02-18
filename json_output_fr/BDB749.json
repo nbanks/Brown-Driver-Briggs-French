@@ -1,0 +1,28 @@
+{
+    "head_word": "אֹ֫רַח",
+    "pos": "nom masculin",
+    "primary": "voie, chemin",
+    "description": "littéral",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "littéral"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "figuré chemin, voie, du cours & des fortunes de la vie"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "figuré voie, du mode de vie, ou du caractère"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "par métonymie voyageur"
+        }
+    ]
+}

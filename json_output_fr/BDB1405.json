@@ -1,0 +1,33 @@
+{
+    "head_word": "גָּאַל",
+    "pos": "verbe",
+    "primary": "racheter, agir en parent proche",
+    "description": "agir en parent proche, remplir le rôle de proche parent",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "agir en parent proche, remplir le rôle de proche parent"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "par paiement de la valeur estimée, des choses consacrées, par le propriétaire d'origine"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "avec Dieu comme sujet impliquant une relation personnelle, surtout en poésie"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "réfléchi"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "passif"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "head_word": "לֵוִי",
+    "pos": "adjectif [d'un peuple]",
+    "primary": "lévite",
+    "description": "singulier d'individu",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "singulier d'individu"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "avec l'article הַלֵּוִי comme substantif collectif"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "toujours = substantif lévites"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "usage ancien"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "dans les Chroniques l'idée tribale est en arrière-plan, et la conception des lévites comme classe officielle est prédominante"
+        }
+    ]
+}

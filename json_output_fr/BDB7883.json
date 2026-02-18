@@ -1,0 +1,18 @@
+{
+    "head_word": "רָחַק",
+    "pos": "verbe",
+    "primary": "être, ou devenir, loin, distant",
+    "description": "direct causation",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "direct causation"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "indirect causation"
+        }
+    ]
+}

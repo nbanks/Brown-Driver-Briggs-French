@@ -1,0 +1,18 @@
+{
+    "head_word": "אֲמָנָה",
+    "pos": "nom propre [d'une rivière]",
+    "primary": null,
+    "description": "une rivière",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "une rivière"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "la région d'où elle coule"
+        }
+    ]
+}

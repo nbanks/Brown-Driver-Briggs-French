@@ -1,0 +1,43 @@
+{
+    "head_word": "שָׁגָה",
+    "pos": "verbe",
+    "primary": "s'égarer, errer",
+    "description": "d'un troupeau",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "d'un troupeau"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "dans l'ivresse"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "moralement"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "spécifiquement commettre un péché d'ignorance, par inadvertance"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "littéral"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "mentalement ="
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "moralement"
+        }
+    ]
+}

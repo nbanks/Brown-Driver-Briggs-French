@@ -1,0 +1,18 @@
+{
+    "head_word": "בַּ֫יִן",
+    "pos": "substantif",
+    "primary": "intervalle, espace entre",
+    "description": "proprement",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "dans l'intervalle de, entre",
+            "description": "toujours (sauf duel) comme préposition"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "espace entre deux armées"
+        }
+    ]
+}

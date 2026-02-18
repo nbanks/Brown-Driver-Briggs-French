@@ -1,0 +1,28 @@
+{
+    "head_word": "חֲנוֺךְ",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "fils de Caïn",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "fils de Caïn"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "fils de Yéred (lignée de Seth), le pieux Hénok, qui marcha avec Dieu et fut pris par lui"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "un fils de Madian"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "un fils de Ruben"
+        }
+    ]
+}

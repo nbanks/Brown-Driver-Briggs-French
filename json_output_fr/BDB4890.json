@@ -1,0 +1,23 @@
+{
+    "head_word": "מַת",
+    "pos": "nom masculin",
+    "primary": "mâle, homme",
+    "description": "généralement moins d'accent sur le sexe, en prose seulement dans l'expression",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "généralement moins d'accent sur le sexe, en prose seulement dans l'expression"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "ailleurs seulement en poésie, le sexe généralement non mis en relief"
+        }
+    ]
+}

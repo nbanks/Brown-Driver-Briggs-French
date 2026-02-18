@@ -1,0 +1,33 @@
+{
+    "head_word": "יוֺסֵף",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "fils aîné de Jacob et de Rachel",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "fils aîné de Jacob et de Rachel"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "un homme d'Issacar"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "un fils d'Asaph"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "un de ceux qui prirent des femmes étrangères"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "un prêtre"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "head_word": "חָרִם",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "prêtre de la troisième classe, au temps de David",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "prêtre de la troisième classe, au temps de David"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "prêtre au temps de Néhémie"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "chefs de familles d'exilés revenant"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "un prince"
+        }
+    ]
+}

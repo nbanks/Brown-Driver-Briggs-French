@@ -1,0 +1,38 @@
+{
+    "head_word": "יְרֹחָם",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "père d'Elqana, grand-père de Samuel, Éphraïmite",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "père d'Elqana, grand-père de Samuel, Éphraïmite"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "Benjaminites"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "prêtres"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "père d'un héros de David"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "Danite"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "père d'un capitaine avec Joïada"
+        }
+    ]
+}

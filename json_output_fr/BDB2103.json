@@ -1,0 +1,28 @@
+{
+    "head_word": "יְהוֺאָחָז",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "roi de Juda, fils de Josiah",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "roi de Juda, fils de Josiah"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "roi d'Israël, fils de Jehu"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "roi de Juda, fils de Jehoram of Judah"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "père de יוֺאָח Josiah's chronicler"
+        }
+    ]
+}
