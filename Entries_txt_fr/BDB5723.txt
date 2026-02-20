@@ -3,17 +3,17 @@ hébreu biblique
 
 סָתַר
 verbe
-hide, conceal (hébreu tardif id., derived species;
+cacher, dissimuler (hébreu tardif id., espèces dérivées ;
 
 ᵑ7
 
-סְתַר Pa`el, Ithpa`al, Syriac
-[placeholder3674: Placeholders/3674.gif] Pe`al Participe passif, chiefly Pa`el, Ithpa`al, id.; Arabic
+סְתַר Pael, Ithpaal, syriaque
+[placeholder3674: Placeholders/3674.gif] Peal participe passif, surtout Pael, Ithpaal, id. ; arabe
 [placeholder3675: Placeholders/3675.gif]
-veil, conceal, hide, Lane^1304^; Ethiopic
-[placeholder3676: Placeholders/3676.gif] (rare) Di^354^); —
+voiler, dissimuler, cacher, Lane^1304^ ; éthiopien
+[placeholder3676: Placeholders/3676.gif] (rare) Di^354^) ; —
 
-Niph`al
+Niphal
 Parfait 3 masculin singulier נִסְתָּ֑ר
 Pr 27,12 +
 Pr 22,3
@@ -22,18 +22,18 @@ Qr
 (
 Kt
 
-וַיִּסָּתֵר); 2 masculin singulier נִסְתַּ֫רְתָּ
+וַיִּסָּתֵר) ; 2 masculin singulier נִסְתַּ֫רְתָּ
 1 S 20,19 1
 pluriel נִסְתָּ֑רְנוּ
 Es 28,15,
-etc.; Imparfait 3 masculin singulier יִסָּתֵר
-Os 13,14 +; 1
+etc. ; Imparfait 3 masculin singulier יִסָּתֵר
+Os 13,14 + ; 1
 singulier אֶסָּתֵר
-Gn 4,14 +; 3
+Gn 4,14 + ; 3
 masculin pluriel יִסָּֽתְרוּ
 Am 9,3 1 pluriel
 נִסָּתֵר
-Gn 31,49, etc.;
+Gn 31,49, etc. ;
 Impératif masculin singulier הִסָּתֵר
 Jr 36,19
 Infinitif construit
@@ -49,18 +49,18 @@ Dt 29,28,
 וֺת- Ps 19,13 —
 
 1.
-hide oneself, with בְּ local, 1 S 20,5; 1 S 20,24; 1 R 17,3;
+se cacher, avec בְּ local, 1 S 20,5 ; 1 S 20,24 ; 1 R 17,3 ;
 Jr 23,24
-, so (figuré) Es 28,15 with שָׁם
+, ainsi (figuré) Es 28,15 avec שָׁם
 1 S 20,19
-; Job
-34,22 absolu Jr 36,19; Pr 22,3; Pr 27,12; Pr 28,28; Ps 89,47 with מִפְּנֵי
-person
-Dt 7,20; Jb 13,20, with מִן person Ps 55,13.
+; Jb
+34,22 absolu Jr 36,19 ; Pr 22,3 ; Pr 27,12 ; Pr 28,28 ; Ps 89,47 avec מִפְּנֵי
+personne
+Dt 7,20 ; Jb 13,20, avec מִן personne Ps 55,13.
 
 2.
-be hid, concealed, surtout figuré of escaping God's notice, with מִפְּנֵי
-person
+être caché, dissimulé, surtout figuré d'échapper à l'attention de Dieu, avec מִפְּנֵי
+personne
 Gn 4,14 (
 J
 ), מִלִּפְנֵי
@@ -69,60 +69,60 @@ Jr 16,17
 Am 9,3,
 מֵעֵינַי
 Es 65,16
-; Hos
-13,14 (subject נֹחַם, c.-à-d. I will not repent, change my purpose of judgment),
+; Os
+13,14 (sujet נֹחַם, c.-à-d. je ne me repentirai pas, ne changerai pas mon dessein de jugement),
 מִן
 Ps 38,10
-; Isa
-40,27 from heat of sun Ps 19,7 (c.-à-d. it penetrates everywhere); from birds Jb 28,21 (of place of
-wisdom); reciprocal אִישׁ מֵרֵעֵהוּ
+; Es
+40,27 de la chaleur du soleil Ps 19,7 (c.-à-d. elle pénètre partout) ; des oiseaux Jb 28,21 (du lieu de la
+sagesse) ; réciproque אִישׁ מֵרֵעֵהוּ
 ׳
 נִסּ
 Gn 31,49
 (
 J
-) when we are hidden each from the other (c.-à-d. separated); absolu Nb 5,13;
+) quand nous serons cachés l'un à l'autre (c.-à-d. séparés) ; absolu Nb 5,13 ;
 Jb 3,23 (
-whose way is hid that is, from himself), So 2,3 (c.-à-d. escape ׳
-י's judgment); participle hidden, secret things, in general Dt 29,28
-of sins Ps
+dont le chemin est caché, c.-à-d. de lui-même), So 2,3 (c.-à-d. échapper au jugement de ׳
+י) ; participe choses cachées, secrètes, en général Dt 29,28
+des péchés Ps
 19,13.
 
-Pi`el
+Piel
 Impératif féminin singulier סַתְּרִי
 Es 16,3
-carefully hide (c.-à-d. shelter) the outcasts (Moab speaks to Zion).
+cacher soigneusement (c.-à-d. abriter) les bannis (Moab parle à Sion).
 
-Pu`al
+Pual
 Participe féminin singulier אַהֲבָה מְסֻתָּ֑רֶת
 Pr 27,5
-love carefully concealed.
+amour soigneusement dissimulé.
 
-Hithpa`el
+Hithpael
 Imparfait 3 féminin singulier תִּסְתַּתָּ֑ר
 Es 29,14
 Participe
 מִסְתַּתֵּר
 1 S 23,19
-+ 3 t.; — hide oneself carefully, of David's taking refuge with (עִם)
-Ziphites 1Sam
++ 3 t. ; — se cacher soigneusement, de David se réfugiant chez (עִם)
+les Ziphites 1 S
 23,19 = Ps
-54,2 (title), in (בְּ) a hill 1 S 26,1
+54,2 (titre), dans (בְּ) une colline 1 S 26,1
 ׳
 אֵל מ
 Es 45,15
-a God that completely hides himself.
+un Dieu qui se cache entièrement.
 
-Hiph`il
+Hiphil
 Parfait 3 masculin singulier הִסְתִּיר
-Ps 10,11;
+Ps 10,11 ;
 Ps 22,25 2
 masculin singulier הִסְתַּ֫רְתָּ
-Ps 30,8; Es 64,6 etc.;
+Ps 30,8 ; Es 64,6 etc. ;
 Imparfait 3 masculin singulier יַסְתִּיר
 1 S 20,2,
 וַיַּסְתֵּר
-Ex 3,6; Jb 3,10,
+Ex 3,6 ; Jb 3,10,
 suffixe יַסְתִּרֵ֫נִי
 Ps 27,5,
 וַיַּסְתִּרֵם
@@ -131,95 +131,95 @@ Jr 36,26
 2 Ch 22,11
 1 singulier וָאַסְתִּר
 Ez 39,23
-; Ezek
-39,24, etc.; Impératif masculin singulier הַסְתֵּר
+; Ez
+39,24, etc. ; Impératif masculin singulier הַסְתֵּר
 Ps 51,11
 Infinitif absolu
 הַסְתֵּר
-Dt 31,18;
+Dt 31,18 ;
 Es 57,17
 construit
 הַסְתֵּר
 Pr 25,2
-(see Kö^i. 213 and references^; yet comparer infinitive absolu
+(voir Kö^i. 213 et références^ ; mais comparer infinitif absolu
 אָכֹל Pr 25,27), לַסְתִּר
 Es 29,15
-(Ges^«GKC:53q»§ 53q^); Participe
+(Ges^«GKC:53q»§ 53q^) ; Participe
 מַסְתִּיר
 Es 8,17 —
-conceal, hide:
+dissimuler, cacher :
 
-1. a person from (מִפְּנֵי) enemy 2 R 11,2 = 2 Ch 22,11 subject ׳
+1. une personne de (מִפְּנֵי) l'ennemi 2 R 11,2 = 2 Ch 22,11 sujet ׳
 
-י, with מִן
+י, avec מִן
 Ps 64,3,
-absolu Jer
+absolu Jr
 36,26
-hide anything from (מִן) one 1 S 20,2, a thing, in general, Pr 25,2
-anything (from ׳
-י; מִן in || clause) Es 29,15 in general = shelter a
-person Jb 14,13
-, with בְּ local (subject ׳
+cacher quelque chose à (מִן) quelqu'un 1 S 20,2, une chose, en général, Pr 25,2
+quelque chose (de ׳
+י ; מִן dans la || proposition) Es 29,15 en général = abriter une
+personne Jb 14,13
+, avec בְּ local (sujet ׳
 י)
-Ps 17,8; Ps
-27,5;
-Ps 31,21 (all métaphore); toil (עָמָל), מֵעֵינָ֑י
+Ps 17,8 ; Ps
+27,5 ;
+Ps 31,21 (tous métaphore) ; la peine (עָמָל), מֵעֵינָ֑י
 Jb 3,10
-commands from, מִן person (subject ׳
+des commandements à, מִן personne (sujet ׳
 י) Ps 119,19
-hide one as arrow in quiver Es 49,2.
+cacher quelqu'un comme une flèche dans un carquois Es 49,2.
 
-2. surtout hide the face:
+2. surtout cacher la face :
 
-a. littéralement, of Moses
+a. littéralement, de Moïse
 Ex 3,6 (
 
 E
-), habituellement figuré:
+), habituellement figuré :
 
-b. subject ׳
-י with מִן c.-à-d. be not observant of sin Ps 51,11, absolu Ps 10,11
-more souvent
+b. sujet ׳
+י avec מִן c.-à-d. ne pas être attentif au péché Ps 51,11, absolu Ps 10,11
+plus souvent
 
 c.
 
 ׳
 י
-hides his face from (מִן person), c.-à-d. withdraws his favour, Mi 3,4; Es 8,17;
-Es 54,8;
-Es 64,6;
+cache sa face de (מִן personne), c.-à-d. retire sa faveur, Mi 3,4 ; Es 8,17 ;
+Es 54,8 ;
+Es 64,6 ;
 Dt 31,17
 ;
 Dt 32,20
 ;
-Jr 33,5;
+Jr 33,5 ;
 Ez 39,23
 
-; Ezek
+; Ez
 39,24
 ;
-Ezek
-39,29;
+Ez
+39,29 ;
 Ps
-13,2;
-Ps 22,25;
-Ps 27,9; Ps
-69,18; Ps
-88,15; Ps
-102,3; Ps
-143,7 absolu Dt 31,18; Jb 13,24; Jb 34,29;
+13,2 ;
+Ps 22,25 ;
+Ps 27,9 ; Ps
+69,18 ; Ps
+88,15 ; Ps
+102,3 ; Ps
+143,7 absolu Dt 31,18 ; Jb 13,24 ; Jb 34,29 ;
 Ps 30,8
 comparer
 Ps 104,29
 ; Ps
 44,25
 
-פָּנִים omitted Es 57,17 comparer Es 59,2 your sins have hidden
-(his)
-face from (מִן) you; of hiding one's face from (מִן
+פָּנִים omis Es 57,17 comparer Es 59,2 vos péchés ont caché
+(sa)
+face de (מִן) vous ; du fait de cacher sa face de (מִן
 )
-shame, c.-à-d. avoiding it
-Es 50,6 (of servant of ׳
+la honte, c.-à-d. l'éviter
+Es 50,6 (du serviteur de ׳
 י).
 
 ---

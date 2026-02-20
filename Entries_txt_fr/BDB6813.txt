@@ -1,18 +1,18 @@
 === BDB6813 H6561 ===
 hébreu biblique
 
-[פָּרַק] verb
-tear apart, away (hébreu tardif remove (load, etc.), Pi`el
-separate, take to pieces; Arabic
+[פָּרַק] verbe
+arracher, déchirer (hébreu tardif enlever (charge, etc.), Piel
+séparer, démonter ; arabe
 [placeholder4343: Placeholders/4343.gif]
-split, divide;;
+fendre, diviser ;
 
 ᵑ7
 
-פְּרַק surtout redeem, rescue; Syriac
+פְּרַק surtout racheter, secourir ; syriaque
 [placeholder4344: Placeholders/4344.gif]
-withdraw (intransitive), also remove, rescue; Ethiopic
-[placeholder4345: Placeholders/4345.gif]: set free); —
+se retirer (intransitif), aussi enlever, secourir ; éthiopien
+[placeholder4345: Placeholders/4345.gif] : libérer) ; —
 
 Qal
 Parfait 2 masculin singulier וּפָרַקְדָמתּ֫
@@ -20,16 +20,16 @@ Gn 27,40
 Imparfait 3 masculin singulier suffixe וַיִּפְרְקֵנזּ
 Ps 136,24
 Participe
-active
+actif
 פֹּרֵק
-Lm 5,8; Ps 7,3
-tear away yoke from pff (מֵעַל neck Gn 27,40 (
+Lm 5,8 ; Ps 7,3
+arracher le joug de dessus (מֵעַל le cou Gn 27,40 (
 J
-); snatch from (מִן) foes, = rescue
-(Aramaic) Lm 5,8;
+) ; arracher des (מִן) ennemis, = secourir
+(araméen) Lm 5,8 ;
 Ps 136,24
-so absolu Ps 7,3
-(prefixing (וְ)אֵין,
+ainsi absolu Ps 7,3
+(en préfixant (וְ)אֵין,
 
 ᵑ7
 
@@ -38,29 +38,29 @@ so absolu Ps 7,3
 Che
 Du
 We), > Hup
-Bae and others snatch away as prey.
+Bae et autres arracher comme proie.
 
-Pi`el
+Piel
 Imparfait 3 masculin singulier יְפָרֵק
 Za 11,16
-he shall tear off their hoofs; Impératif masculin pluriel פָּֽרְקוּ
+il arrachera leurs sabots ; Impératif masculin pluriel פָּֽרְקוּ
 
 Ex 32,2 (
 E
-) tear off the golden ear-tings; Participe
+) arrachez les anneaux d'or des oreilles ; Participe
 מְפָרֵק
-1 R 19,11 a
-great wind rending mountains (|| מְשַׁבֵּר).
+1 R 19,11 un
+grand vent fendant les montagnes (|| מְשַׁבֵּר).
 
-Hithpa`el
-tear off (for, c.-à-d. from, oneself Ges^«GKC:54f»§
-54f^); Imparfait 3 masculin pluriel וַיִּתְפָּֽרְקוּ
+Hithpael
+arracher (pour, c.-à-d. de, soi-même Ges^«GKC:54f»§
+54f^) ; Imparfait 3 masculin pluriel וַיִּתְפָּֽרְקוּ
 Ex 32,3 (
 E
-), with accusative אֶתנִֿזְמֵי הַזָּהָב; Impératif masculin pluriel
+), avec accusatif אֶתנִֿזְמֵי הַזָּהָב ; Impératif masculin pluriel
 הִתְפָּרָ֑קוּ Ex 32,24 (
 E
-; object omitted); passive be broken off, Parfait 3 pluriel הִתְפָּֽרְקוּ
+; objet omis) ; passif être arraché, Parfait 3 pluriel הִתְפָּֽרְקוּ
 
 Ez 19,12
 (branches).

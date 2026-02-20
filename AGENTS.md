@@ -516,6 +516,21 @@ genealogy            généalogie             genealogie
 poetic               poétique               poetique
 ```
 
+### Anglais victorien — attention aux faux aOBmis
+
+Le BDB (1906) utilise un anglais victorien où certains mots courants ont un
+sens différent du sens moderne. Traduire d'après le contexte, pas d'après le
+sens moderne du mot anglais.
+
+**BDB1352** -- בַּר "grain, corn" (« corn » = céréale, pas maïs)
+```
+English:  primary = "grain, corn"
+French:   primary = "grain, blé"          ← CORRECT
+                    "grain, maïs"         ← FAUX (sens moderne américain)
+```
+Le contexte (blé, orge, moisson) et le cognat arabe « blé, grain de blé »
+confirment que "corn" désigne ici les céréales en général, pas le maïs.
+
 ### Traduction des références bibliques
 
 Les noms de livres bibliques doivent être convertis des abréviations anglaises
@@ -927,6 +942,12 @@ BDB1233 et BDB1553 ci-dessus pour le traitement correct des descriptions en
 prose complète. Après avoir écrit un champ, relisez-le : s'il contient un mot
 anglais courant qui n'est pas une abréviation savante ou un nom propre
 invariable, corrigez-le.
+
+## Gestion du contexte des agents
+
+Traiter les fichiers **un par un** : lire un fichier, écrire sa traduction,
+puis passer au suivant. Ne pas lire plusieurs fichiers avant d'écrire — cela
+gaspille du contexte et réduit le nombre d'entrées traduites par session.
 
 ## Notes de qualité
 

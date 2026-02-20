@@ -10,7 +10,7 @@ hébreu biblique
 
 1 S 29,19),
 avec suffixe אֵלַי, אֵלֶיךָ, אֵלַיִךְ, etc. אֵלֵינוּ
-, אֲלֵיכֶם & (5 t.) אֲלֵכֶם, אֲלֵיהֶם &
+, אֲלֵיכֶם et (5 t.) אֲלֵכֶם, אֲלֵיהֶם et
 אֲלֵהֶם (les deux très fréquents) ; une fois אֵלֵימוֺ
 Ps 2,5,
 אֲלֵיהֶן, une fois אֲלֵהֶן
@@ -19,10 +19,10 @@ Ex 1,19 (assyrien
 ilî
 , arabe
 [placeholder202: Placeholders/202.gif]), préposition
-dénotant le mouvement vers ou la direction vers (que ce soit physique ou mental).
+dénotant un mouvement vers ou une direction vers (que ce soit physique ou mental).
 
-1. de mouvement vers ou jusqu'à une personne ou un lieu Gn 2,19 ; Gn 2,22 ; Gn 3,19 ; Gn 8,9 ; Gn 14,22 ; Gn 16,9 etc., après
-tout type de verbe exprimant le mouvement (בּוֺא, הָלַךְ, יָצָא etc.)
+1. de mouvement vers une personne ou un lieu Gn 2,19 ; Gn 2,22 ; Gn 3,19 ; Gn 8,9 ; Gn 14,22 ; Gn 16,9 etc., après
+tout type de verbe exprimant un mouvement (בּוֺא, הָלַךְ, יָצָא etc.)
 Ainsi avec נָתַן
 donner (bien que ל soit ici plus courant) Gn 21,14 ; Gn 35,4 ; Dt 13,2 + ; מָכַר
 vendre
@@ -30,32 +30,32 @@ vendre
 Dt 37,36,
 etc. Métaph. Jr 2,19
 
-וְלֹא פַחְדָּתִי אֵלַיִךְ et que ma crainte ne (vient) pas vers toi (comparer
+וְלֹא פַחְדָּתִי אֵלַיִךְ et ma crainte ne (vient) pas vers toi (comparer
 Jb 31,23). —
-Cas particulier Gn 6,16
+De manière particulière Gn 6,16
 אֶל אַמָּה
 jusqu'à la longueur d'une coudée, etc. Et métaphore dans l'expression אֶלֿ(אֱלֵיֿ)גִּיל
 
-jusqu'à l'exultation Os 9,11 ; Jb 3,22. Une fois, exceptionnellement (si vera l.) = même :
+jusqu'à l'exultation Os 9,11 ; Jb 3,22. Une fois, exceptionnellement (si vera 1.) = même :
 Jb 5,5
-וְאֶלמִֿצִּגִּים יִקָּחֵהוּ et même des épines il le prend. Parfois
-prégnant, comme Es
+וְאֶלמִֿצִּגִּים יִקָּחֵהוּ et même du milieu des épines il le prend. Parfois
+pregnant, comme Es
 66,17 ; Jr
 41,7
 זָנָה אֶל commettre la prostitution (en allant) vers
 Nb 25,1 ; Ez 16,26 ;
 Ez 16,28 ;
 Ez 16,29
-דָּרֵשׁ אֶל chercher (en recourant) à quelqu'un (c.-à-d. pour des oracles) Dt 18,11 ; Es 8,19 ; Es 11,10 + ;
+דָּרֵשׁ אֶל chercher (en recourant) auprès de quelqu'un (c.-à-d. pour des oracles) Dt 18,11 ; Es 8,19 ; Es 11,10 + ;
 חָבַר
 אֶל se joindre (et venir) à
 Gn 14,3
 הִשְׁכִּים
 אֶל se lever tôt (et aller) vers
 Gn 19,27 ; Gn 24,11
-הִבְרִיח אֶל faire agenouiller auprès de ; Gn 47,18
-תַּם אֶל c.-à-d. a été remis à ; פָּחַד אֶל venir
-avec crainte vers
+הִבְרִיח אֶל fait agenouiller auprès de ; Gn 47,18
+תַּם אֶל c.-à-d. a été transféré à ; פָּחַד אֶל venir en
+crainte vers
 Os 3,5 ; Mi 7,17. L'opposé
 est מִן, comme מִןהַֿקָּצֶה אֶלהַֿקָּצֶה d'une extrémité à l'autre Ex 26,28
 מִפֶּה אֶלפֶּֿה
@@ -72,14 +72,14 @@ P
 16,23 (dans le || Ps 96,2
 מִיּוֺם לְיוֺם).
 
-2. Quand la limite est effectivement franchie, dans, Gn 6,18 et tu entreras
+2. Quand la limite est effectivement atteinte, dans, Gn 6,18 et tu entreras
 dans l'arche
 Gn 7,1 ; Gn
 19,3 ; Gn
 41,21 ; Gn
-42,17 & ainsi après des verbes de jeter, lancer, mettre Gn 37,22 (הִשְׁלִיךְ) Gn 39,20
+42,17 et ainsi après les verbes de jeter, lancer, mettre Gn 37,22 (הִשְׁלִיךְ) Gn 39,20
 וַיִּתְּנֵהוּ אֶלבֵּֿית
-הַסֹּהַר le mit dans la maison de la prison, Ex 28,30 (Lv 8,8) Dt 23,25 ainsi après קָבַר
+הַסֹּהַר le mit dans la maison de détention, Ex 28,30 (Lv 8,8) Dt 23,25 ainsi après קָבַר
 enterrer Gn
 23,19 ; Gn 25,9
 ; Gn 49,29
@@ -87,7 +87,7 @@ enterrer Gn
 שָׂחַט presser Gn 40,11
 מָחָה effacer Nb 5,23, etc. ; métaphore Gn 6,6 fut affligé dans ou jusqu'à
 son cœur, שָׂם אֶללֵֿב, הֵשִׁיב placer, ramener dans
-( = prendre à) cœur Dt 4,39 ; 2 S 19,20 et ailleurs En rapport avec un nombre ou une multitude
+(= prendre à) cœur Dt 4,39 ; 2 S 19,20 et ailleurs En relation avec un nombre ou une multitude
 dans laquelle quelque chose entre, parmi :
 1 S 10,22
 voici qu'il s'était caché אֶלהַֿכֵּלִים
@@ -104,8 +104,8 @@ d'états physiques, comme Gn
 Gn
 39,7
 נָשָׂא עֵינָיו אֶל, Ex 25,20 ; Nb 6,26, נָשָׂא פָנָיו אֶל (2 R 9,32 différemment), 2 R 24,1
-שָׁת פָּנָיו אֶל, Jos 8,18 ; Ps 28,2 ; 1 R 8,29 ; 1 R 8,30 (prier vers) 1 R 8,38
-de manière prégnante חָרֵד אֶל
+שָׁת פָּנָיו אֶל, Jos 8,18 ; Ps 28,2 ; 1 R 8,29 ; 1 R 8,30 (prier en direction de) 1 R 8,38
+de manière pregnante חָרֵד אֶל
 trembler (en se tournant) vers
 Gn 42,28,
 תָּמַהּ אֶל s'étonner (en se tournant) vers
@@ -161,7 +161,7 @@ Es 51,5
 נָשָׂא נֶפֶשׁ אֶל élever l'âme (c.-à-d. diriger le désir) vers
 Dt 24,15 ;
 Ps 25,1
-שָׂם לֵב אֶל, שָׁת mettre le cœur (l'esprit) à
+שָׂם לֵב אֶל, שָׁת appliquer le cœur (l'esprit) à
 Ex 9,21 et
 ailleurs ; לָמַד אֶל s'accoutumer à
 Jr 10,2
@@ -175,8 +175,8 @@ tes yeux כָּלוֺת אֲלֵיהֶם défaillant (de désir) vers eux, Lm 4,
 ;
 Ps 40,6 seul,
 comme
-prédicat, dirigé ou disposé vers, Gn 3,16 ; Gn 4,7 ; 2 R 6,11 qui d'entre nous est
-vers (c.-à-d. favorise) le roi de Syrie ? Os 3,3
+prédicat, dirigé ou disposé vers, Gn 3,16 ; Gn 4,7 ; 2 R 6,11 qui parmi nous est
+tourné vers (c.-à-d. favorise) le roi de Syrie ? Os 3,3
 וְגַםאֲֿנִי
 אֵלָֽיִח׃
 Ez 36,9 ;
@@ -184,7 +184,7 @@ Ag 2,17 ; Jr 15,1 (
 
 אֵין נַפְשִׁי אֶל).
 
-4. Quand le mouvement ou la direction impliqué(e) apparaît d'après le contexte comme étant de caractère hostile,
+4. Quand le mouvement ou la direction impliquée apparaît d'après le contexte comme étant hostile,
 אֶל = contre :
 Gn 4,8
 אֶלהֶֿבֶל
@@ -197,7 +197,7 @@ Jos 10,6,
 הָלַךְ
 Jg 1,10 ; Jg 20,30
 avec
-בָּא de la calamité, etc., venant à ou sur quelqu'un
+בָּא de calamité, etc., venant sur quelqu'un
 Gn 42,21 ;
 Jg 9,57 ; 1 S 2,34 ; 1 R 14,10
 + ;
@@ -208,9 +208,8 @@ et leurs actions sont ׳
 Es 32,6 (
 
 לְדַבֵּר אֶל) Os 7,15 (comparer Na 1,9) Os 12,5
-וַיָּשַׂר אֶלמַֿלְאָךְ et il lutta contre l'ange. Ici aussi
-appartient en
-particulier l'expression הִנְנִי אֶל ֗֗֗ Me voici contre (toi, vous,
+וַיָּשַׂר אֶלמַֿלְאָךְ et il lutta contre l'ange. Ici appartient aussi
+en particulier l'expression הִנְנִי אֶל ֗֗֗ Me voici contre (toi, vous,
 etc.)
 Na 2,14 ; Na 3,5 ; Jr 21,13 (
 Jr 23,30-32
@@ -225,7 +224,7 @@ Ez 26,3 ;
 Ez 28,22
 ; Ez 29,3
 
-על : sur Ez 36,9 voir ci-dessus)
+על : pour Ez 36,9 voir ci-dessus)
 
 5.
 Vers acquiert parfois d'après le contexte le sens de en plus de,
@@ -239,18 +238,18 @@ Jos
 13,22 (||
 Nb 31,8
 על) ; 1 S 14,34 manger אֶלהַֿחָם
-avec le sang (1 S 14,32 & généralement עַל) ; 1 R 10,7
+avec le sang (1 S 14,32 et généralement עַל) ; 1 R 10,7
 הוֺסִיף אֶל (généralement עַל) ; Jr 25,26 ; Ez 7,26
 שְׁמוּעָה אֶל שְׁמוּעָה || (עלׅ ; Ez 44,7 ; Lm 3,41 élevons
 לְבָבֵנוּ
 אֶלכַּֿפָּ֑יִם nos cœurs avec les mains (comparer
 [placeholder203: Placeholders/203.gif], Qor 4,2 ; W^AG ii. § 51 c^).
 
-6. Métaphoriquement au sujet de, concernant, à cause de : ainsi
+6. Métaphore au sujet de, concernant, à cause de : ainsi
 הִתְאַבֵּל
-être en deuil concernant
+porter le deuil au sujet de
 1 S 15,35
-הִנָּחֵם se repentir au sujet de
+הִנָּחֵם se repentir à l'égard de
 2 S 24,16
 
 דָּרַשׁ s'enquérir 1 R 14,5
@@ -260,8 +259,8 @@ avec le sang (1 S 14,32 & généralement עַל) ; 1 R 10,7
 על) ; נֶעֳצַב être affligé 1 S 20,34
 נִחַם consoler 2 S 10,2 plus généralement 1 R 16,13 ; 1 R 21,22
 אֶלנֶֿפֶשׁ
-à cause de, pour le salut de, sa vie 1 R 19,3 ; 2 R 7,7 (Gn 19,17
-על). (עַל est plus courant dans ce sens.) Et spécialement avec des verbes de dire,
+à cause de, pour la vie de quelqu'un 1 R 19,3 ; 2 R 7,7 (Gn 19,17
+על). (עַל est plus courant dans ce sens.) Et spécialement avec les verbes de dire,
 raconter, annoncer, etc. au sujet de, comme אָמַר
 Gn 20,2 ; Es 29,22 ;
 Es 37,21 ;
@@ -277,8 +276,7 @@ Ps 2,7 ; Ps 69,27
 Es 23,11
 שָׁמַע
 Ez 19,4
-הַשְּׁמוּעָה אֶל la nouvelle concernant . . . 1 S 4,19. (Peu fréquent, sauf dans
-le
+הַשְּׁמוּעָה אֶל la rumeur concernant . . . 1 S 4,19. (Peu fréquent, sauf dans le
 cas de אָמַר.)
 
 7. De règle ou de norme, selon (rare) : אֶלפִּֿי ֗֗֗
@@ -294,8 +292,8 @@ selon ce qui est fixé = avec certitude 1 S 23,23 ; 1 S 26,4 (voir Dr
 Ps 45,1
 עַל).
 
-8. Exprimant la présence en un lieu, contre ; à, près de, non seulement après des verbes
-exprimant ou impliquant le mouvement (comparer 1, Gn 24,11), comme Jos 11,5 et ils vinrent et campèrent ensemble
+8. Exprimant la présence en un lieu, contre ; à, près de, pas seulement après les verbes
+exprimant ou impliquant un mouvement (comparer 1, Gn 24,11), comme Jos 11,5 et ils vinrent et campèrent ensemble
 
 אֶלמֵֿי מֵרוֺם
 aux eaux de Mérom, 1 S 5,4 coupé (et tombé) sur le seuil, 2 S 2,23 et
@@ -304,10 +302,10 @@ au ventre, Dt 33,28 ; Ex 29,12 ; Lv 4,7 mais aussi dans d'autres cas, comme
 Jos 5,3 et il
 circoncit les
 Israélites אֶל
-contre, à la colline des prépuces, Jos 22,11 ont bâti un autel אֶל
+contre, au pied de la colline des prépuces, Jos 22,11 ont bâti un autel אֶל
 גְּלִילוֺת
 הַיַּרְדֵּן
-près des districts du Jourdain, Jg 12,6 & 2 S 18,4
+près des districts du Jourdain, Jg 12,6 et 2 S 18,4
 אֶליַֿד
 à côté de (ailleurs לְיַד, עַל יַד), 1 R 13,20
 comme
@@ -320,13 +318,13 @@ près de l'Euphrate, Ez 3,15 ; Ez 11,11 ; Ez 17,8 ; Ez 31,7 ; Ez 40,18 ; Ez 43,3
 Ez 48,12
 .
 
-9. Préfixé à d'autres prépositions il combine avec elles l'idée de mouvement ou
+9. Préfixé à d'autres prépositions, il leur ajoute l'idée de mouvement ou
 de direction vers : ainsi אֶלאַֿחֲרֵי
 2 S 5,23 ;
 2 R 9,18 ;
 2 R 9,19
 סֹב אֶלאַֿחֲרַי tourne-toi derrière moi, Za 6,5 (où אֶל est pléonastique,
-probablement dû à une erreur de copiste ; noter יצא אל avant & après) ; אֶלבֵּֿין
+probablement dû à une erreur de copiste ; noter יצא אל avant et après) ; אֶלבֵּֿין
 entre
 Ez 31,10
 ;
@@ -337,18 +335,18 @@ Ez 31,14
 אֶלמִֿבֵּית לְ
 vers (la partie) intérieure de (voir ci-dessous בַּיִת),
 
-à l'intérieur de
+dans l'intérieur de
 Lv 16,15 ;
 2 R 11,15
 ||
-faites-la sortir à l'intérieur des rangs ; אֶלמֿוּל voir
+la faire sortir dans l'intérieur des rangs ; אֶלמֿוּל voir
 מוּל
 ; ׳
 אֶלמִֿנֶּגֶב לְ
 vers le sud de Jos 15,3
 ׳
 אֶלמִֿחוּץ לְ
-à l'extérieur de Lv 4,12 ; Lv 4,21 + ; אֶלנֹֿכַח
+vers l'extérieur de Lv 4,12 ; Lv 4,21 + ; אֶלנֹֿכַח
 en face de Nb 19,4
 אֶלתַּֿחַת
 Jg 6,19 ; 1 R 8,6 et
@@ -360,44 +358,44 @@ Note. I. — Dans Gn 20,13
 ׳
 שָׁמָּה אִמְרִילִֿי וג ; Nb 33,54
 ׳
-אֶלאֲֿשֶׁר וג ; Pr 17,8 (comparer Dt 16,6) ; — אֶל semble être employé par une espèce d'
-attraction ; l'idée de mouvement contenue dans la proposition relative influençant illogiquement le début de la
+אֶלאֲֿשֶׁר וג ; Pr 17,8 (comparer Dt 16,6) ; — אֶל semble être employé par une espèce
+d'attraction ; l'idée de mouvement impliquée dans la proposition relative influençant illogiquement le début de la
 phrase
 et causant l'emploi de אֶל au lieu de בְּ. Dans Dt 31,14
-אֵלֵיהֶם, tel que pointé, ne peut venir que de אַיִל III ou IV (q. v.) ; si le mot est
+אֵלֵיהֶם, tel que vocalisé, ne peut venir que de אַיִל III ou IV (q. v.) ; si le mot est
 pris comme le pronom avec suffixe (Hi
 Ke), il faut lire אֲלֵיהֶם.
 
-Note. 2. — Il y a en hébreu une tendance, particulièrement manifeste dans Samuel Rois Jérémie Ézéchiel, à
+Note. 2. — Il y a une tendance en hébreu, particulièrement manifeste dans Samuel, Rois, Jérémie, Ézéchiel, à
 employer
 אֶל dans le sens de עַל ; parfois אֶל étant employé
 exceptionnellement
-dans une expression ou une construction qui régulièrement, et par analogie à l'accusatif, a עַל ;
+dans une expression ou construction qui régulièrement, et par analogie à l'accusatif, a עַל ;
 parfois,
-les deux prépositions alternant, apparemment sans distinction, dans les mêmes phrases ou des phrases parallèles. Ainsi (
+les deux prépositions alternant, apparemment sans discrimination, dans les mêmes phrases ou des phrases parallèles. Ainsi (
 a)
 Jos 5,14
 וִיִּפֹּל אֶלפָּֿנָיו ; 1 S 13,13
 אֶתמַֿמְלַכְתְּךָ אֶליִֿשְׂרָאֵל
 ׳
 הֵקִים י ; 1 S 14,34 (voir ci-dessous 5) ; 1 S 17,3
-עֹמְדִים אֶלהָֿהָר (contracté עַל
+עֹמְדִים אֶלהָֿהָר (abrégé עַל
 Dt 11,29
 ) ;
 Dt 19,16 ;
 2 S 6,3 ; 2 S 20,23
-(contracté 2 S
+(abrégé 2 S
 8,16
 ) 1 R
 13,29
 ; 1 R
 18,46
-(contracté
+(abrégé
 2 R
 3,15
 על) Jr 35,15 ; Ez 7,18. (b) Jg 6,37 et sur (עַל
 ) toute la
-terre qu'il y ait de la sécheresse, Jg 6,39 qu'il y ait de la sécheresse sur (אֶל)
+terre qu'il y ait sécheresse, Jg 6,39 qu'il y ait sécheresse sur (אֶל)
 la
 toison ; 1 S
 14,10
@@ -409,18 +407,18 @@ montez עָלֵינוּ, 1 S 14,12 montez אֵלֵינוּ ; 1 S 16 ; 1 S 18,10
 וְ֗֗֗אֶל וְ֗֗֗אֶל וְ֗֗֗עַל וְ֗֗֗עַל וְ֗֗֗עַל ; 2 S 3,29
 יָחֻלוּ עַל ֗֗֗
 וְאֶל ֗֗֗
-2 R 8,3 & 5 ;
+2 R 8,3 et 5 ;
 2 R 3 ; Jr 19,15 ;
 Jr 25,2 ; Jr 26,15
 vous
-faites peser du sang innocent עֲלֵיכֶם וְאֶלהָֿעִיר הַזּאֹת ; Jr 27,19 ; Jr 28,8 ; Jr 33,14 ; Jr 34,7 ; Jr 36,31 ; Jr 37,13 ;
+faites retomber du sang innocent עֲלֵיכֶם וְאֶלהָֿעִיר הַזּאֹת ; Jr 27,19 ; Jr 28,8 ; Jr 33,14 ; Jr 34,7 ; Jr 36,31 ; Jr 37,13 ;
 Jr 37,14 ;
 Ez 18,6 ;
 Ez 18,11
-& 15 ;
+et 15 ;
 Ez 21,12 etc. Ps 79,6 (Jr 10,25
-על deux fois). Il est probable que cette alternance, au moins dans beaucoup de cas, n'est pas originale, mais
-due
+על deux fois). Il est probable que cet échange, du moins dans de nombreux cas, n'est pas originel, mais
+dû
 aux copistes.
 
 ---
@@ -428,7 +426,7 @@ aux copistes.
 [Note]
 
 Inversement, bien que moins fréquemment, עַל apparaît là où l'analogie nous amènerait à attendre
-אֶל, ou même en juxtaposition avec אֶל, comme 1 S 1,10
+אֶל, ou même juxtaposé à אֶל, comme 1 S 1,10
 הִתְפַּלֵּל עַל prier vers (1 S 1,26
 אֶל) ;
 1 S 1,13 ;

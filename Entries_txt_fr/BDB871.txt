@@ -18,23 +18,23 @@ Ex 30,4 ; Ex 36,1 ; Ha 1,16],
 1 S 31,7 ; Es 38,16 ; Ez 42,14 [15
 fois בָּהֵן (Fr^MM 235^), et trois fois, Lv 5,22 ; Nb 13,19 ; Jr 5,17,
 בָּהֵ֫נָּה]. Préposition signifiant proprement dans, grec ἐν, mais appliquée
-dans de nombreuses significations dérivées et figurées. Les sens exprimés par בְּ sont regroupés par les
+dans de nombreuses acceptions dérivées et figurées. Les sens exprimés par בְּ sont regroupés par les
 rabbins en trois classes, בֵּית הַכְּלִי
 Beth vasculi, בֵּית הַדִּיבִּוּק וְהַנְּגִיעָה
 Beth coniunctionis et viciniae, בֵּית הָעֵזֶר
 Beth auxilii ; et le même classement peut être suivi ici, bien que les limites entre les
-trois classes ne soient pas clairement définies, et qu'elles se chevauchent parfois.
+trois classes ne soient pas clairement définies et qu'elles se chevauchent parfois.
 
 I.
 Dans :
 
-1. strictement, de la position dans un lieu (qui souvent est exprimée plus précisément
+1. au sens strict, de position dans un lieu (souvent exprimé plus précisément
 par בְּקֶרֶב, בְּתוֺךְ), comme בַּבַּיִת
 dans la maison, בָּעִיר
 dans la ville, בַּדּוּד
 dans la marmite, בָּאָרֶץ
-dans le pays, etc. constamment. L'idiome hébreu dit aussi בָּהָר
-dans la montagne Ex 24,18 etc., même dans les cas où l'on pourrait difficilement éviter de dire sur
+dans le pays, etc. constamment. L'usage hébraïque dit aussi בָּהָר
+dans la montagne Ex 24,18 etc., même dans les cas où l'on dirait difficilement autrement que sur
 , comme
 1 R
 11,7 ;
@@ -55,12 +55,12 @@ une porte, Es
 17,19
 ; Mi 2,13
 .
-Figuré parler בְּאָזְנֵי
+Figuré : parler בְּאָזְנֵי
 aux oreilles de … ; être bon (ou mauvais, etc.) בְּעֵינֵי
 
 aux yeux de …
 
-2. de la présence au milieu d'une multitude, parmi, Ex 14,28 il ne resta pas
+2. de présence au milieu d'une multitude, parmi, Ex 14,28 il n'en resta pas
 
 בָּהֶם
 parmi eux même un seul, Lv 26,36 ; 2 S 15,31 Ahitophel בַּקֹּשְׁרִים est
@@ -69,31 +69,31 @@ les conspirateurs, 2 R 18,5
 בְּכֹל מַלְכֵי יְהוּדָה. Ainsi בְּךָ
 en toi (d'Israël, collectif) Dt 7,14 ; Dt 15,4 ; Dt 15,7 ; Dt 18,10 ; Dt 23,11 ; Dt 28,54 (différent de
 עִמָּ֑ח
-à côté de toi Lv 25,35). — Spécifiquement
+auprès de toi Lv 25,35). — Plus précisément
 
 a. d'un individu, impliquant
-éminence parmi : Jos
+une éminence parmi : Jos
 14,15 ; Jr
-46,18 Tabor parmi les montagnes, Jr 49,15 ; Pr 30,30 ; Ct 1,8
+46,18 le Tabor parmi les montagnes, Jr 49,15 ; Pr 30,30 ; Ct 1,8
 הַיָּפָה בַנָּשִׁים la belle (= la plus belle) parmi les femmes, Lm 1,1 :
 comparer Lc
 1,42. Sur 1 S 17,12 voir
 Dr.
 
-b. d'où avec certains verbes, quand l'action ne se réfère qu'à
+b. d'où avec certains verbes, quand l'action ne se rapporte qu'à
 une partie de l'objet, comme הִכָּהַ בְּ frapper parmi… c.-à-d.
 frapper quelques-uns
 de… (différent de הִכָּה avec accusatif) ; הָרַג בְּ
 Ps 78,31
 
-נָשָׂא בְּ porter dans, c.-à-d. participer au portage, Nb 11,17
+נָשָׂא בְּ porter dans, c.-à-d. prendre part à porter, Nb 11,17
 et ailleurs ; בָּנָה
 בְּ bâtir dans ou à
 Za 6,15
 ; Ne 4,4
 עָשָׂה בְּ
 Ex 5,9
-עָמֵל בְּ peiner sur
+עָמֵל בְּ travailler à
 Jon 4,10
 
 אָכַל בְּ, שָׁתָה בְּ manger ou boire de
@@ -115,16 +115,15 @@ Gn 17,23
 ; Ex
 12,19 ; Nb 31,11 ; Nb 31,26 ; Os 4,3.
 
-3. en référence aux limites encadrant un espace, à l'intérieur de :
+3. en référence aux limites enclosant un espace, à l'intérieur de :
 Ex 20,10
 בִּשְׁעָרֶיךָ
 à l'intérieur de tes portes, Es 56,5
 בְּחוֺמוֺתַי
 à l'intérieur de mes murs.
 
-4. souvent prégnant avec des verbes de mouvement, quand le mouvement vers un lieu aboutit
-au
-repos en celui-ci, dans : après בָּא
+4. souvent pregnant avec des verbes de mouvement, quand le déplacement vers un lieu aboutit au
+repos dans celui-ci, dans : après בָּא
 Gn 19,8 ; Es 19,23
 נָתַן
 Gn 27,17
@@ -135,9 +134,9 @@ parmi
 Jos 23,7 ; Jos 23,12 ;
 1 R 11,2. —
 Os 12,7 (un
-cas extrême) שׁוּב בְּ retourner (et demeurer) en ton Dieu, 1 S 16,3
-(à moins que
-לַזָּבַ֑ח ne doive être lu, comme 1 S 16,7). — עַיִן בְּעַיִן (avec) œil (regardant)
+cas extrême) שׁוּב בְּ retourner (et demeurer) dans ton Dieu, 1 S 16,3
+(à moins qu'il ne faille
+lire לַזָּבַ֑ח, comme 1 S 16,7). — עַיִן בְּעַיִן (avec) œil (regardant)
 dans
 l'œil
 Nb
@@ -147,9 +146,9 @@ Nb
 Dt 5,4
 בְּ
 ׳
-עֵינֵי פְ les yeux de … sont sur, tant dans un sens favorable (Dt 11,12 ;
+עֵינֵי פְ les yeux de … sont sur, tant en sens favorable (Dt 11,12 ;
 Ps 101,6)
-que hostile (Am 9,8
+qu'hostile (Am 9,8
 ; Jb 7,8)
 .
 
@@ -159,7 +158,7 @@ au commencement ; Gn 2,2
 בַּיּוֺם הַשְּׁבִיעִי
 le septième jour ; Jg 10,8
 בַּשָּׁנָה הַהִיא
-cette année-là ; et constamment.
+cette année-là ; & constamment.
 
 6. d'un état ou d'une condition, matérielle ou mentale, dans laquelle une action
 se déroule : ainsi souvent, בְּשָׁלוֺם
@@ -173,7 +172,7 @@ en mauvaise posture.
 7.
 בְּ introduit le prédicat, le désignant comme ce en
 quoi le sujet consiste, ou en quoi il se manifeste (le Beth essentiae
-, — courant en arabe, surtout avec un participe ou adjectif et dans une phrase négative : Qor 2,79
+, — courant en arabe, surtout avec un participe ou un adjectif et dans une phrase négative : Qor 2,79
 [placeholder484: Placeholders/484.gif] et Dieu (n'apparaît) pas comme quelqu'un de négligent ; 2,7
 [placeholder485: Placeholders/485.gif] et ils ne sont pas croyants [comparer français en — en honnête homme] ; voir
 W^AG ii. § 56 a^) : à savoir
@@ -181,7 +180,7 @@ W^AG ii. § 56 a^) : à savoir
 a. un prédicat
 primaire, Ex
 18,4
-le Dieu de mes pères בְּעֶזְרִי était mon aide, Ps 146,5 ; Os 13,9 (lire
+le Dieu de mes pères בְּעֶזְרִי était mon secours, Ps 146,5 ; Os 13,9 (lire
 כִּי מִי
 בְעֶזְֶרךָ׃
 avec
@@ -197,19 +196,19 @@ au pluriel
 pluriel de majesté) Ps 118,7
 בְּעֹזְרָ֑י
 ׳
-י Yahvé est mon grand aide, Ps 54,6 (voir Che), Jg 11,35
+י J. est mon grand secours, Ps 54,6 (voir Che), Jg 11,35
 .
 
 b.
-un prédicat secondaire, Ex 6,3 et je leur apparus בְּאֵל שַׁדָּ֑י
+un prédicat secondaire, Ex 6,3 et je leur suis apparu בְּאֵל שַׁדָּ֑י
 comme Dieu Tout-Puissant, Nb 26,53
 בְּנַחֲלָה
 comme un héritage, Nb 34,2 ; Ez 46,16 ; Ez 47,14 ; Dt 10,22 ; Dt 26,14
-je n'en ai rien ôté
+je n'en ai rien mis de côté
 בְּטָמֵא
 
-étant impur = alors que j'étais impur, Dt 28,62 ; Es 40,10
-בְּחָזָק יָבוֺא il viendra comme un fort, Ps 35,2 (où voir De) et lève-toi comme mon secours, Ps 35,16, Ps 39,7 ;
+comme impur = étant impur, Dt 28,62 ; Es 40,10
+בְּחָזָק יָבוֺא il vient comme un fort, Ps 35,2 (où voir De) et lève-toi comme mon secours, Ps 35,16, Ps 39,7 ;
 Ps 55,19
 ;
 Pr 3,26
@@ -220,7 +219,7 @@ Jb 36,32
 
 c. un prédicat comme accusatif, Es 48,10 je
 t'ai affiné
-וְלֹא בְכָ֑סֶף mais non comme de l'argent, Ez 20,41 ; Nb 18,26
+וְלֹא בְכָ֑סֶף mais non pas comme de l'argent, Ez 20,41 ; Nb 18,26
 ; Nb 36,2 ;
 Jos 13,6 ;
 Jos 13,7 ;
@@ -238,24 +237,24 @@ Co) tous בְּנַחֲלָה (comparer b.
 Ps 78,55
 
 &
-le répartit בְּחֶבֶל נַחֲלָה
+l'a réparti בְּחֶבֶל נַחֲלָה
 comme un cordeau d'héritage (c.-à-d. comme un héritage mesuré). Es 26,4
 ׳
-כִּי בְּיָהּ יהוה צוּר עוֺלָמִים est différent — car en Yah il y a
+כִּי בְּיָהּ יהוה צוּר עוֺלָמִים י est différent — car en Yah il y a
 un
 rocher
 des siècles (comparer Qor 4,7 ; 4,47 il y a suffisance en Dieu comme patron).
 
 d.
 dans les comparaisons, Ps 37,20 se consumer בֶּעָשָׁן
-sous la forme de, comme, de la fumée Ps 78,33 ; Ps 102,4 ; Jb 34,36 ; Jb 36,14
+sous la forme de, comme, la fumée Ps 78,33 ; Ps 102,4 ; Jb 34,36 ; Jb 36,14
 .
 
 II.
 Dénotant la proximité —
 
 1.
-à, près de (peu courant) : 1 S 29,1
+à, près de (peu fréquent) : 1 S 29,1
 בָּעַיִן
 près de la source ; Ez 10,15 ; Ez 10,20
 בִּנְהַר כְּבָר
@@ -273,7 +272,7 @@ sur les cous des chameaux ; 1 R 2,5 et ailleurs בְּמָתְנָיו
 sur ses reins ; Es 59,17 un casque בְּראֹשׁוֺ
 sur sa tête.
 
-3. souvent avec des verbes de toucher, s'approcher, saisir, s'attacher
+3. souvent avec des verbes de toucher, approcher, saisir, s'attacher
 , etc.,
 comme אָחַז, דָּבֵק, חָשַׁק, נָגַע,
 נָגַשׁ
@@ -297,7 +296,7 @@ Dt
 1 S 5,9 ;
 1 S
 18,17 +
-souvent D'où après des verbes (q. v.) de combattre (נִלְחַם,
+souvent. D'où après des verbes (q. v.) de combattre (נִלְחַם,
 רִיב
 ), monter pour envahir (עָלָה), être en colère
 (הִתְעַבֵּר, אָנַף, חָרָה אַף),
@@ -315,20 +314,19 @@ réprimander
 (גָּעַר : proprement protester bruyamment), parler (
 
 דִּבֶּר :
-Nb 12,8b), etc., et même (un cas extrême) Os 7,14
+Nb 12,8b), etc., & même (cas extrême) Os 7,14
 יָסוּרוּ בִי ils se détournent (de manière à être) contre moi. Dans un
 sens plus faible
 מַשְׁתִּין בַּקִּיר mingens ad parietem 1 S 25,22 et
 ailleurs
 
 b.
-vers le bas, sur (super avec accusatif), surtout dans des
+sur, contre (super avec accusatif), surtout dans des
 expressions comme
 דָּמָיו בּוֺ
 Lv 20,9
 et
-ailleurs son sang soit sur lui ; דָּמוֺ בְראֹשׁוֺ son sang
-soit
+ailleurs son sang soit sur lui ; דָּמוֺ בְראֹשׁוֺ son sang soit
 sur sa tête Jos 2,19
 ) בְּראֹשׁוֺ
 ׳
@@ -352,7 +350,7 @@ Avec —
 
 a. d'accompagnement : Nb 20,20
 בְּעַם כָּבֵד
-avec beaucoup de peuple, Jos 22,8 ; Jg 11,34 ; 1 R 10,2 ; 2 R 5,9 ; Jr 41,15 ; Ex 21,22
+avec un peuple nombreux, Jos 22,8 ; Jg 11,34 ; 1 R 10,2 ; 2 R 5,9 ; Jr 41,15 ; Ex 21,22
 et il donnera בִּפְלִלִים
 avec des arbitres (des arbitres étant employés), Es 8,16
 בְּלִמֻּדָֽי׃
@@ -380,16 +378,16 @@ apporter, et emporter respectivement : W^AG ii. § 56 b^.) D'où בְּאֵין,
 , בִּבְלִי, בְּלֹא = sans.
 
 c. de conditions concomitantes (ou environnantes), comme בְּחִפָּזוֺן
-avec (ou dans) la hâte ; בְּצֶדֶק
-avec (ou dans) la justice ; בִּשְׁגָגָה
+avec (ou dans la) hâte ; בְּצֶדֶק
+avec (ou dans la) justice ; בִּשְׁגָגָה
 par erreur ; בִּתְרוּעָה וּבְקוֺל שׁוֺפָר
 2 S 6,15
 souvent
-dans des expressions comme בְּצִדְקָֽתְךָ
+dans des expressions telles que בְּצִדְקָֽתְךָ
 Ps 31,2
 dans ta justice ; בְּחַסְדְּךָ
 dans ta miséricorde Ex 15,13 — בְּאָשְׁרִי
-avec mon bonheur ! = que je suis heureuse Gn 30,13 ; Ps 29,4 la voix de ׳
+avec mon bonheur ! = que je suis heureux Gn 30,13 ; Ps 29,4 la voix de ׳
 י est בַּכֹּחַ
 avec puissance = est puissante ; Ex 32,12
 בְּרָעָה
@@ -397,7 +395,7 @@ avec une intention mauvaise ; Ps 73,8
 בְרָע
 dans la méchanceté ; Ps 90,10
 בִּגְבוּרֹת
-avec force.
+avec vigueur.
 
 2. de l'instrument ou du moyen : comme
 
@@ -409,15 +407,15 @@ par la main de … (voir ci-dessous יָד) ; lapider בְּאֶבֶן
 ou
 בָּֽאֲבָנִים
 avec des pierres Lv 20,2 ; Nb 14,10 etc. ; שָׁתָה בְּ boire
-avec un
-calice Gn 44,5
+avec une
+coupe Gn 44,5
 ; Am 6,6
 (comparer en
 araméen Dn 5,2
-) ; crier
-בְּגָרוֺן
+) ;
+crier בְּגָרוֺן
 de la gorge Es 58,1 brûler בָּאֵשׁ
-dans ou par le feu (souvent) ; tuer ou périr בָּרָעָב
+dans ou avec le feu (souvent) ; tuer ou périr בָּרָעָב
 
 par la famine ou בַּדֶּבֶר
 par la peste Ex 16,3 ; Jr 21,9 + souvent (comparer Jb 27,15
@@ -429,7 +427,7 @@ avec
 
 Jb 40,29
 
-עָבַד בְּ faire travailler une personne (comme un instrument), c.-à-d.
+עָבַד בְּ employer une personne (comme un instrument), c.-à-d.
 l'utiliser
 comme esclave Ex
 1,14
@@ -455,14 +453,13 @@ avec ou par
 ׳
 י ou Baal, ׳
 י ou Baal étant l'inspirateur ; שָׁאַל בְּ, דָּרַשׁ
-interroger ou
-demander par le moyen d'un dieu (ou oracle).
+consulter ou interroger par le moyen d'un dieu (ou d'un oracle).
 
 c.
 ביהוה
 par
 ׳
-י (= par Son aide) dans de nombreux contextes, comme Ps 18,30 ; Ps 44,6 ; Ps 56,5 ; Ps 56,11 ; Ps 60,14
+י (= par son aide) dans de nombreuses connexions, comme Ps 18,30 ; Ps 44,6 ; Ps 56,5 ; Ps 56,11 ; Ps 60,14
 ; Es 26,13
 ; Es
 45,25 ; Os
@@ -480,7 +477,7 @@ par l'homme son sang sera versé (tous deux inhabituels), Os 14,4.
 
 d. apparenté est
 l'emploi
-de בְּ dans des expressions comme bénir, jurer, parler, prophétiser, etc., בְּשֵׁם
+de בְּ dans des expressions telles que bénir, jurer, parler, prophétiser, etc., בְּשֵׁם
 au nom de … (c.-à-d. le nom étant utilisé ou invoqué dans l'acte) Dt 6,13 ;
 Jr 11,21
 , etc. (ainsi jurer
@@ -498,7 +495,7 @@ Gn 48,20
 avec moi
 Ps 102,9
 , c.-à-d.
-utilisant mon nom dans le serment, Jr 29,22) ; presque = par l'autorité et le pouvoir de 1 S 17,45 ; 1 S 25,5 ;
+utilisant mon nom dans un serment, Jr 29,22) ; presque = avec l'autorité et le pouvoir de 1 S 17,45 ; 1 S 25,5 ;
 1 R 21,8
 ; Mi 4,5 ;
 Za 10,12
@@ -533,12 +530,12 @@ Gn 34,15
 
 3. du coût ou du prix (le Beth pretii), le prix, qu'il soit donné ou
 reçu,
-étant traité comme le moyen instrumental par lequel l'acte est accompli, avec, pour, au prix
+étant traité comme le moyen instrumental par lequel l'acte s'accomplit, avec, pour, au prix
 de :
 ainsi régulièrement
 
 a. avec שָׂכַר
-embaucher
+louer
 Gn 30,16
 ,
 פָּדָה
@@ -555,14 +552,14 @@ acheter
 ;
 1 R 2,23
 בְּנַפְשׁוֺ
-au prix de sa vie A. a prononcé cette parole, 2 S 23,17 qui sont allés
+au prix de sa vie A. a prononcé cette parole, 2 S 23,17 qui allèrent
 בְּנַפְשׂוֺתָם
 
-au péril de leurs vies, Pr 7,23 ; Lm 5,9 ; Jos 6,26
+au péril de leur vie, Pr 7,23 ; Lm 5,9 ; Jos 6,26
 בִּבְכֹרוֺ יְיַסְּדֶנָּה
 au prix de son premier-né il en posera les fondations, 1 Ch 12,19
 בְּרָאשֵׁינוּ
-au péril de nos têtes il fera défection, etc.
+au risque de nos têtes il se ralliera, etc.
 
 b. avec
 
@@ -582,7 +579,7 @@ Lv 27,10
 leur gloire je
 l'échangerai contre l'ignominie, Ps 106,20
 נָתַן בְּנֶשֶׁךְ donner à intérêt Lv 25,37 ; Ps 15,5 dans d'autres
-contextes Gn
+connexions Gn
 23,9 ;
 Gn 47,16s. ; Es 45,13 ; Lm 1,11 ; Ct 8,7 ; Ct 8,11 ; Dt 19,21
 נֶפֶשׁ בְּנֶפֶשׁ עַיִן בְּעַיִן vie pour vie, œil pour
@@ -590,9 +587,9 @@ Gn 47,16s. ; Es 45,13 ; Lm 1,11 ; Ct 8,7 ; Ct 8,11 ; Dt 19,21
 Es
 2,22
 בַּמֶּה נֶחְשָׁב הוּא
-à combien doit-il être estimé ? Es 7,23 mille vignes בְּאֶלֶף כָּ֑סֶף
+à combien doit-on l'estimer ? Es 7,23 mille vignes בְּאֶלֶף כָּ֑סֶף
 
-à mille (sicles d')argent. — D'où (peut-être) les usages idiomatiques
+à mille (sicles d') argent. — D'où (peut-être) les emplois idiomatiques
 שָׁנָה
 בְשָׁנָה année pour année, une année comme l'autre, annuellement Dt 15,20
 et ailleurs ;
@@ -605,24 +602,24 @@ et ailleurs ;
 1 Ch 27,1
 .
 
-4. de manière assez particulière, dans certains cas où l'objet d'une action peut être traité comme l'
-instrument par lequel elle est accomplie : comme הֵנַיעַ בְּראֹשׁ hocher
-de la tête Jr 18,6 ; Jb 16,4 (aussi bien que הֵנִיעַ ראֹשׁ
+4. assez particulièrement, dans certains cas où l'objet d'une action peut être traité comme
+l'instrument par lequel elle s'accomplit : comme הֵנַיעַ בְּראֹשׁ secouer
+la tête Jr 18,6 ; Jb 16,4 (aussi bien que הֵנִיעַ ראֹשׁ
 Ps 22,8) ;
 ouvrir
-de la bouche Jb 16,10, des lèvres Ps 22,8 grincer
-des
-dents
+la bouche Jb 16,10, les lèvres Ps 22,8
+grincer
+des dents
 Jb 16,9 (grincer les dents Ps 35,16) ; cligner de l'œil Pr 6,13
 (cligner l'œil,
 ib.
 Pr 10,10
 ) ;
-נָתַן בְּקוֺל émettre de la voix Ps 46,7 ; Ps 68,34 ; Jr 12,8
+נָתַן בְּקוֺל faire entendre la voix Ps 46,7 ; Ps 68,34 ; Jr 12,8
 (mais נָתַן קוֺל est plus
-courant) ; étendre de la main Lm 1,17
+courant) ; étendre la main Lm 1,17
 הֵרִים בַּמַּטֶּה (inhabituel) Ex 7,20. Ainsi קָרָא בְּשֵׁם appeler
-avec le
+par le
 nom — en différents sens, selon le contexte, à savoir, proclamer
 Ex 33,19
 ;
@@ -651,7 +648,7 @@ Jb
 
 ^ ; Pr 20,30.
 
-5. avec une valeur causale, par, à cause de :
+5. avec une force causale, à cause de, en raison de :
 Gn 18,28
 
 הֲתַשְׁחִית בַּחֲמִשָּׁה détruiras-tu à cause de cinq la
@@ -684,7 +681,7 @@ Ps 42,10
 , גָּלָל), & (parfois) dans בִּדְבַר
 à, par, la parole de ….
 
-6. du matériau avec lequel un ouvrage est réalisé, tant absolu
+6. du matériau avec lequel un ouvrage est fait, tant absolu
 עָשָׁה
 בַזָּהָב travailler avec l'or Ex 31,4 ; 1 R 7,14 que faire une chose
 avec (dans
@@ -707,13 +704,13 @@ malgré tout cela Es 5,25 ; Es 9,11 ; Es 9,16 ; Es 9,20 ; Es 10,4 ; Ps 78,32 et
 ailleurs (comparer en arabe
 [placeholder488: Placeholders/488.gif] Qor 9,25.)
 
-8. d'un étalon de mesure ou de calcul, avec, par :
+8. d'une norme de mesure ou de calcul, avec, par :
 Ex 12,4
 בְּמִכְסַת נְפָשֹׁת
 selon le nombre de personnes ; Lv 5,25 et ailleurs בְּעֶרְכְּךָ
 selon ton estimation ; Ez 4,10
 בְּמִסְפָּר
-par nombre Dt 25,2 + ; . . . בְּמִסְפַּר
+par le nombre Dt 25,2 + ; . . . בְּמִסְפַּר
 selon le nombre de … Lv 25,15 ; Lv 25,50 ; Nb 1,2, etc. ; בְּשֶׁקֶל הַקֹּדֶשׁ
 
 Ex 30,13
@@ -726,7 +723,7 @@ P
 3,11
 
 בְּאַמַּת אִישׁ
-par la coudée d'un homme ; 2 S 14,26
+selon la coudée d'un homme ; 2 S 14,26
 בְּאֶבֶן הַמֶּלֶךְ. D'un modèle, Gn 1,26
 בְּצַלְמֵנוּ
 à notre image, Gn 5,1 ; Gn 5,3 ; Ex 25,40
@@ -734,17 +731,17 @@ par la coudée d'un homme ; 2 S 14,26
 à la manière de … Es 10,24 ; Es 10,26 ; Am 4,10.
 
 IV.
-בְּ est aussi employé avec certaines classes de verbes, bien que l'explication de son emploi puisse
-être
-parfois douteuse : à savoir
+בְּ s'emploie aussi avec certaines classes de verbes, bien que l'explication de cet emploi puisse être
+parfois
+douteuse : à savoir
 
-a. avec des verbes de refuge, confiance,
-appui
+a. avec des verbes de se réfugier, avoir confiance,
+s'appuyer
 , comme הֶאֱמִין, בָּטַח, חָסָה,
 נִשְׁעַן
 .
 
-b. avec des verbes de régner, gouverner, contraindre,
+b. avec des verbes de régner, gouverner, contenir,
 comme
 מָלַךְ, מָשַׁל, נָגַשׂ, עָצַר,
 רָדָה
@@ -763,12 +760,11 @@ III. 5.]
 d. avec des verbes de perception sensible, pour
 dénoter
 l'exercice agréable ou attentif de la faculté concernée, comme שָׁמַע בְּ écouter
-,
-הִבִּיט בְּ, רָאָה, חָזָה, regarder
+, הִבִּיט בְּ, רָאָה, חָזָה, regarder
 , הֵרִיחַ בְּ sentir (voir ces mots).
 
 e.
-parfois aussi avec des verbes de parler, penser, mentionner, connaître,
+occasionnellement aussi avec des verbes de parler, penser, mentionner, savoir,
 pour
 dénoter l'objet de l'action, comme דִּבֶּר בְּ parler de
 Dt 6,7 ; Ps 87,3 et
@@ -786,21 +782,21 @@ Jr 38,24
 בְּךָ תְהִלָּתִי
 de toi est ma louange.
 
-V. Suivi d'un infinitif avec, בְּ forme une périphrase du gérondif,
+V. Suivi d'un infinitif avec, בְּ forme une périphrase pour le gérondif,
 bien qu'
 en
-français elle soit généralement à rendre par un verbe et une conjonction, à savoir : —
+français il se rende couramment par un verbe et une conjonction, à savoir : —
 
 1. comme conjonction temporelle, comme Gn 2,4
 בְּהִבָּֽרְאָם
-dans leur être créés = quand ils
+lors de leur création = quand ils
 
 furent créés,
 Gn 4,8
 בִּהְיוֺתָם
-dans leur être (= quand ils
+lors de leur séjour (= quand ils
 étaient
-) dans le champ ; et constamment. Parfois il a en apparence la valeur de après
+) dans le champ ; et constamment. Parfois il a en apparence la force de après
 que
 , comme
 Gn
@@ -808,16 +804,16 @@ Gn
 Ex
 3,12 ;
 Ex
-13,17 mais en règle générale cela tient réellement au fait que l'action dénotée par l'infinitif est traitée
+13,17 mais en règle générale cela tient en réalité à ce que l'action dénotée par l'infinitif est traitée
 comme s'étendant
-sur une période à l'intérieur de laquelle l'action du verbe principal se produit : ainsi
-surtout dans l'
-expression בְּצֵאת יִשְׂרָאֵל
+sur une période à l'intérieur de laquelle l'action du verbe principal se déroule : ainsi
+surtout dans la
+formule בְּצֵאת יִשְׂרָאֵל
 מִמִּצְרַיִם, même pour des événements à la fin des 40 ans, Dt 4,45 ; Dt 23,5
 ; Jos 5,4
-, toute la période étant traitée comme celle où
-l'Égypte fut quittée (comparer 2 R 2,1, où le temps inclus est futur). Des cas, cependant, se présentent
-où cette
+, toute la période étant traitée comme celle pendant
+laquelle on quitta l'Égypte (comparer 2 R 2,1, où le temps inclus est futur). Des cas cependant surviennent où
+cette
 explication s'applique difficilement, comme Dt 27,4 ; Dt 24,12.
 
 2. comme conjonction causale (comparer ci-dessus III.5), comme Gn 19,16
@@ -825,13 +821,13 @@ explication s'applique difficilement, comme Dt 27,4 ; Dt 24,12.
 ׳
 בְּחֶמְלַת י
 עָלָיו
-par la compassion de Yahvé sur lui, Ex 16,7 ; Ex 33,16 ; Ex 34,29
+par la compassion de J. envers lui, Ex 16,7 ; Ex 33,16 ; Ex 34,29
 ; Dt
 1,27
 אֹתָנוּ
 ׳
 בְּשִׂנְאַת י
-par la haine de Yahvé envers nous, etc. (Dt 9,28 de même מִן), 1 R
+par la haine de J. envers nous, etc. (Dt 9,28 semblablement מִן), 1 R
 18,18 (= en ce que
 vous avez …)
 Ez 9,8 ;
@@ -840,7 +836,6 @@ Ez 44,7 ;
 2 Ch 28,6.
 
 3. comme conjonction concessive, quand =
-
 bien que :
 Es 1,15
 ; Ps
@@ -850,20 +845,20 @@ bien que la terre change.
 
 Note. —
 Ex 10,12
-בָּאַרְבֶּה ne peut être rendu que par « avec les sauterelles », les sauterelles
+בָּאַרְבֶּה ne peut se rendre que par « avec les sauterelles », les sauterelles
 étant
-conçues comme implicites dans la main levée de Moïse : mais probablement לָאַרְבֶּה devrait être lu.
-Trois fois dans l'
-hébreu tardif בְּ est employé de manière particulière : 1 Ch 7,23 car avec le malheur
+conçues comme implicites dans la main levée de Moïse : mais il faut probablement lire לָאַרְבֶּה.
+Trois fois en
+hébreu tardif בְּ s'emploie de manière particulière : 1 Ch 7,23 car avec le malheur
 c'était dans sa maison
 (בְּרָעָה choisi pour expliquer בְּרִיעָה) ; 1 Ch 9,33
 
 עֲלֵיהֶם בַּמְּלָאכָה cela leur incombait avec le travail ; Esd 3,3
 car
-avec la terreur (c'était) sur eux de la part des peuples des pays (la phrase
+avec terreur (c'était) sur eux de la part des peuples des pays (la phrase
 sans verbe
-comme souvent dans les Chroniques : Dr^Intr. 504 f.^) : comparer Esd 8,34
+comme souvent dans les Chroniques : Dr^Intr. 504 s.^) : comparer Esd 8,34
 . comparer
-Ew^§ 295 f^.
+Ew^§ 295 s.^.
 
 ---

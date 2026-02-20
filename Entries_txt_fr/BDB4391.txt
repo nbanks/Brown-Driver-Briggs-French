@@ -1,32 +1,32 @@
 === BDB4391 H3898 ===
 hébreu biblique
 
-I. [לָחַם]_171_
+I. [לָחַם]
 verbe
-combattre, faire la guerre (hébreu tardif Hithpa`el ; ואלתחם
+combattre, livrer bataille (hébreu tardif Hithpael ; ואלתחם
 
 MI^11.15.19^
 peut-être = ordonner la bataille, comparer Nö^ZMG xl.
 1886, 721^ ; arabe
 [placeholder2804: Placeholders/2804.gif]
-s'ajuster étroitement, ainsi hébreu tardif לחם Pi`el, syriaque
-[placeholder2805: Placeholders/2805.gif] Pa`el unir,
+ajuster étroitement ensemble, ainsi hébreu tardif לחם Piel, syriaque
+[placeholder2805: Placeholders/2805.gif] Pael unir,
 [placeholder2806: Placeholders/2806.gif]
 ajuster aussi menacer ; Gerber^Verb.
 Denom. 59^ pense que le verbe en hébreu est dénominatif de מִלְחָמָה
 ligne de bataille, mais douteux) ; —
 
 Qal (poésie) seulement Impératif masculin singulier et Participe
-actif –– combattre, faire la guerre avec, rare, seulement Psaumes, apparemment usage tardif
-: — לְחַם אֶתלֹֿחֲמָ֑י
+actif –– combattre, livrer bataille avec, rare, seulement Psaumes, apparemment usage
+tardif : — לְחַם אֶתלֹֿחֲמָ֑י
 Ps 35,1
-combats ceux qui combattent contre moi (il est douteux que את soit signe de l'accusatif
+combats ceux qui combattent contre moi (douteux si את est signe d'accusatif
 comparer préposition avec, comparer Ol ; ||
 רִיבָה אֶתיְֿרִיבַי) ; לֹחֲמִים לִי
 Ps 56,3
 combattant contre moi ; לֹחֵם Ps 56,2 comme substantif combattant.
 
-Niphal_167_
+Niphal
 Parfait
 נִלְחַם
 Jg 9,17 +,
@@ -78,7 +78,7 @@ Jos 10,25
 We
 Klo
 Bu, comparer Dr) ; —
-engager la bataille (réciproque), parfois mener la guerre (Jos 10,5 ; Jg 11,5 ; 1 R 14,19 ; 1 R 22,46
+engager le combat (réciproque), parfois faire la guerre (Jos 10,5 ; Jg 11,5 ; 1 R 14,19 ; 1 R 22,46
 ; 2 R 6,8 ; 2 R 14,28
 etc.), souvent avec בְּ de l'ennemi (60 t.) Ex 1,10 ; Ex 17,9 ; Ex 17,10 ; Nb 21,23 ; Nb 21,26 ; Nb 22,11
 (tous
@@ -111,7 +111,7 @@ E
 D
 ),
 2 R 13,12 ; 2 R 14,15 ; 2 Ch 11,1 ; 2 Ch 17,10 ; 2 Ch 27,5 ; Dn 10,20 ; Dn 11,11 + ; avec
-עִם de la ville Jos 10,29 (
+עִם de ville Jos 10,29 (
 D
 ), Jos
 19,47 (
@@ -131,8 +131,8 @@ Jr 21,4 ; Jr 32,5 ; Jr 33,5 ; 2 Ch 18,30
 et avec אוֺתָם (= אִתָּם) Jos 10,25 (
 D
 ),
-1 R 20,25 (Kö^Lgb. ii, 296^) ; avec עִל
-, contre, de l'ennemi seulement Jr 21,2 ailleurs (16 t.) de la ville : Jos 10,5 (
+1 R 20,25 (Kö^Lgb. ii, 296^) ; avec עַל
+, contre, de l'ennemi seulement Jr 21,2 ailleurs (16 t.) de ville : Jos 10,5 (
 J
 
 E
@@ -155,9 +155,9 @@ avec אֶלֿ de l'ennemi Jr 1,19 ; Jr 15,20 ;
 avec suffixe וַיִּלָּֽחֲמוּנִי
 Ps 109,3
 et ils ont combattu contre moi ; avec יָ֑חַד c.-à-d. combattre
-ensemble = avec (contre) l'un l'autre 1 S 17,10 absolu avec accusatif de sens apparenté
-avec verbe מִלְחָמוֺת
-combattre des batailles
+ensemble = avec (contre) l'un l'autre 1 S 17,10 absolu avec accusatif de sens apparenté au verbe
+מִלְחָמוֺת
+livrer des batailles
 1 S 8,20 ; 1 S 18,17 ;
 1 S 25,28 ;
 2 Ch 32,8 ;
@@ -180,13 +180,12 @@ D
 
 ׳
 יָכֹל לְהִלּ
-pouvoir combattre, avec את de l'ennemi 1 S 17,9, avec בְּ
+être capable de combattre, avec את de l'ennemi 1 S 17,9, avec בְּ
 de l'ennemi Nb 22,11
 , = réussir au combat, l'emporter sur ; ainsi avec עַל de
-la ville Es 7,1, et
+ville Es 7,1, et
 absolu 2 R 16,5
 (après וַיָּצֻרוּ עָל
 assiéger).
 
 ---
-

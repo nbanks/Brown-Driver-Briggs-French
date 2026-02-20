@@ -1,74 +1,74 @@
 === BDB6943 H6663 ===
 hébreu biblique
 
-[צָדֵק, צָדֹק] verb
-denominative
-be just, righteous; —
+[צָדֵק, צָדֹק] verbe
+dénominatif
+être juste, droit ; —
 
 Qal
 Parfait 3 féminin singulier צָֽדְקָה
 
 Es 38,26 2
 masculin singulier צָדַקְתָּ
-Jb 33,12;
-Jb 35,7 etc.;
+Jb 33,12 ;
+Jb 35,7 etc. ;
 Imparfait 3 masculin singulier יִצְדַּק
-Jb 9,2 +;
+Jb 9,2 + ;
 יִצְדָּ֑ק
-Jb 4,17; Jb 11,2 3 féminin
+Jb 4,17 ; Jb 11,2 3 féminin
 pluriel תִּצְדַּקְנָה
 Ez 16,52 (
 
 ᵐ5
 
 Co
-תְּצַדְּקִין, not Berthol Toy Krae), etc; —
+תְּצַדְּקִין, non Berthol Toy Krae), etc ; —
 
 1.
-have a just cause, be in the right, Jb 9,15; Jb 9,20; Jb 13,18; Jb 34,5 in complaint Jb 33,12
-with מִן person Gn 38,26 (
+avoir une juste cause, être dans son droit, Jb 9,15 ; Jb 9,20 ; Jb 13,18 ; Jb 34,5 dans une plainte Jb 33,12
+avec מִן personne Gn 38,26 (
 J
-; of Tamar).
+; de Tamar).
 
 2.
-be justified, in one's plea Jb 11,2 with עִם (man with God) Jb 9,2; Jb 25,4
+être justifié, dans sa plaidoirie Jb 11,2 avec עִם (homme avec Dieu) Jb 9,2 ; Jb 25,4
 ׳
 בי
 Es 45,25
-by witnesses
-Es 43,9 by acquittal Ps 143,2; Es 43,26 by condemnation of opponent Jb 40,8.
+par des témoins
+Es 43,9 par acquittement Ps 143,2 ; Es 43,26 par condamnation de l'adversaire Jb 40,8.
 
 3.
-be just: of God, in his government, in charging with sin Ps 51,6 of ׳
+être juste : de Dieu, dans son gouvernement, en accusant de péché Ps 51,6 de ׳
 מִשְׁפְּטֵייֿ
 Ps 19,10
 .
 
 4.
-be just, righteous, in conduct and character: of men Jb 10,15; Jb 15,14; Jb 22,3; Jb 35,7,
-with מִן comparer, Jb 4,17 (more than God; Dr
-at God's hand, מִן
+être juste, droit, en conduite et en caractère : des hommes Jb 10,15 ; Jb 15,14 ; Jb 22,3 ; Jb 35,7,
+avec מִן comparer, Jb 4,17 (plus que Dieu ; Dr
+de la main de Dieu, מִן
 2.d.), Ez 16,52 (<
 
 ᵐ5
 
 Co
-Pi`el).
+Piel).
 
-Niph`al
-Parfait 3 masculin singulier וְנִצְדַּק קֹדֶשׁ consecutive Dan
+Niphal
+Parfait 3 masculin singulier וְנִצְדַּק קֹדֶשׁ consécutif Dn
 8,14
-the holy place shall be put right, in a right condition (
+le lieu saint sera rétabli, en bon état (
 Marti^Kau^
 Buhl
-SS; Bev
+SS ; Bev
 Dr
 Marti^Comm.^
-be justified, its cause vindicated).
+être justifié, sa cause vindicquée).
 
-Pi`el
+Piel
 Parfait 3 féminin singulier צִדְּקָה
-Jer
+Jr
 3,11
 Imparfait 2 féminin singulier תְּצַדְּקִי
 Ez 16,51
@@ -76,27 +76,27 @@ Infinitif construit suffixe צַדְּקֶ֑ךָּ
 
 Jb 33,32
 צַדֶּקְתֵּךְ (Ges^«GKC:52p»§
-52p^) Ezek
+52p^) Ez
 16,52
 צַדְּקוֺ
-Job
-32,2 — justify:
+Jb
+32,2 — justifier :
 עַל צַדְּקוֺ
 נַפְשׁוֺ מֵאֱלֹהִים
-Job
+Jb
 32,2
-because he justified himself rather than God (comparer
+parce qu'il se justifiait lui-même plutôt que Dieu (comparer
 Qal
-1); make to appear righteous
+1) ; faire paraître juste
 
-Jr 3,11; Ez 16,51; Ez 16,52 (all with
-מִן comparer); חָפַצְתִּי צַדְּקֶ֑ךָּ
+Jr 3,11 ; Ez 16,51 ; Ez 16,52 (tous avec
+מִן comparer) ; חָפַצְתִּי צַדְּקֶ֑ךָּ
 Jb 33,32
-I desire to justify thee (in thy plea, comparer
+je désire te justifier (dans ta plaidoirie, comparer
 Qal
 2).
 
-Hiph`il
+Hiphil
 Parfait 1 singulier suffixe הִצְדַּקְתִּיו
 2 S 15,4
 3 masculin pluriel הִצְדִּיקוּ
@@ -105,7 +105,7 @@ Dt 25,1
 Imparfait 3 masculin singulier יַצְדִּיק
 Es 53,11
 1 singulier אַצְדִּיק
-Ex 23,7;
+Ex 23,7 ;
 Jb 27,5
 Infinitif construit
 הַצְדִּיק
@@ -117,49 +117,49 @@ Ps 82,3
 Participe
 מַצְדִּיק
 Pr 17,15
-, etc.; —
+, etc. ; —
 
 1.
-do justice, in administering law 2 S 15,4
+rendre justice, en administrant la loi 2 S 15,4
 ;
 Ps 82,3.
 
 2.
-declare righteous, justify, with accusative (ה)צַדִּיק
+déclarer juste, justifier, avec accusatif (ה)צַדִּיק
 
 Dt 25,1
-; 1Kgs
+; 1 R
 8,32
-= 2Chr
+= 2 Ch
 6,23
 רָשָׁע
 Ex 23,7
 (
 E
-) Isa
-5,23; Prov
+) Es
+5,23 ; Pr
 17,15
-Justify accusers, by recognizing charge as just Jb 27,5.
+justifier les accusateurs, en reconnaissant l'accusation comme juste Jb 27,5.
 
 3.
-justify, vindicate the cause of, save, with accusative, Es 50,8 (of God), with
-לְ of
-object Isa
-53,11 (of servant of ׳
+justifier, défendre la cause de, sauver, avec accusatif, Es 50,8 (de Dieu), avec
+לְ de
+l'objet Es
+53,11 (du serviteur de ׳
 י).
 
 4.
-make righteous, turn to righteousness, Dn 12,3
-, comparer Aboth Dn 5,26; Dn 5,27
+rendre juste, tourner vers la justice, Dn 12,3
+, comparer Aboth Dn 5,26 ; Dn 5,27
 
 Bev.
 
-Hithpa`el
+Hithpael
 Imparfait 1 pluriel נִצְטַדָּ֑ק
 Gn 44,16
 (
 J
-) how shall we justify ourselves, clear ourselves
-from suspicion?
+) comment nous justifierons-nous, nous disculperons-nous
+du soupçon ?
 
 ---

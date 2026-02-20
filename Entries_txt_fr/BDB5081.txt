@@ -1,7 +1,7 @@
 === BDB5081 H8573 ===
 hébreu biblique
 
-תְּנוּפָה_30_
+תְּנוּפָה
 nom féminin
 balancement, agitation, offrande par agitation, offrande ; — absolu ׳
 ת
@@ -13,13 +13,13 @@ pluriel construit תְּנוּפֹת
 Nb 18,11 —
 
 1.
-balancement, brandissement, ׳
+un balancement, un brandissement, ׳
 יַד י
 ׳
 ת
 Es 19,16
-le brandissement de
-la main de ׳
+le brandissement de la
+main de ׳
 י (en hostilité) ; ׳
 מִלְהֲמוֺת ת
 Es 30,32
@@ -32,7 +32,7 @@ agitation, offrande par agitation, terme technique dans
 P
 (
 H
-), à l'origine de la part du prêtre sur le sacrifice (comparer נוף
+), à l'origine de la part du prêtre dans le sacrifice (comparer נוף
 Hiphil
 4), לְךָ נְתַתִּים
 ׳
@@ -42,7 +42,7 @@ Hiphil
 Nb 18,11
 souvent comme 2e accusatif après הֵנִיף
 Ex 29,25
-+ 5 t. ; même des Lévites Nb 8,11 ; Nb 8,13 ; Nb 8,15 ; Nb 8,20 (sur tous voir
++ 5 t. ; même des lévites Nb 8,11 ; Nb 8,13 ; Nb 8,15 ; Nb 8,20 (pour tous voir
 נוף
 
 Hiphil
@@ -71,8 +71,7 @@ offrande, d'or et de bronze pour le tabernacle, Ex 35,22 ; Ex 38,24 ; Ex
 
 Lv 7,30
 ^
-Benz^Archaeology 459 s.^ et surtout Now^Archaeology ii. 239 s^ ; aussi תְּרוּמָה
+Benz^Archaeology 459 f.^ et surtout Now^Archaeology ii. 239 f^ ; aussi תְּרוּמָה
 .
 
 ---
-

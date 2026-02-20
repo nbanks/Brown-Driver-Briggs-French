@@ -1,17 +1,17 @@
 === BDB4273 H3811 ===
 hébreu biblique
 
-[לָאָה] verb
-be weary, impatient (comparer Arabic
+[לָאָה] verbe
+être las, impatient (comparer arabe
 [placeholder2711: Placeholders/2711.gif]
-be slow, hesitating (Frey);
+être lent, hésitant (Frey) ;
 [placeholder2712: Placeholders/2712.gif]
-after difficulty,
+après difficulté,
 [placeholder2713: Placeholders/2713.gif]
-with difficulty (Lane^3007^); Aramaic
+avec difficulté (Lane^3007^) ; araméen
 לְאִי,
 [placeholder2714: Placeholders/2714.gif],
-[placeholder2715: Placeholders/2715.gif]); —
+[placeholder2715: Placeholders/2715.gif]) ; —
 
 Qal
 Imparfait 2 masculin singulier תִּלְאֶה
@@ -20,32 +20,32 @@ Jb 4,2
 Jb 4,5 3 pluriel
 וַיִּלְאוּ
 Gn 19,11 —
-be weary (in vain endeavour) suivi de Infinitif Gn 19,11
-be weary, impatient at attempted consolation absolu Jb 4,2 at calamity absolu Jb 4,5 (|| בָּהַל).
+être las (en vain effort) suivi d'Infinitif Gn 19,11
+être las, impatient d'une tentative de consolation absolu Jb 4,2 d'une calamité absolu Jb 4,5 (|| בָּהַל).
 
-Niph`al
+Niphal
 Parfait
 נִלְאָה
 Pr 26,15
-+ 2 t.; 2 féminin singulier נִלְאֵית
++ 2 t. ; 2 féminin singulier נִלְאֵית
 Es 47,13
 נִלְאֵיתִי
 Es 1,14 + 3
-t., etc.; — suivi de infinitive be weary of doing a thing, Ex 7,18 (
+t., etc. ; — suivi d'infinitif être las de faire quelque chose, Ex 7,18 (
 J
 
 E
-), make oneself weary in doing something Pr 26,15 (of sluggard's
-laziness), weary (c.-à-d. strenuously exert) oneself to Jr 9,4; Jr 20,9
-absolu of eager and hopeless prayer עלהַֿבָּמָה
+), se fatiguer à faire quelque chose Pr 26,15 (de la paresse
+du paresseux), se fatiguer (c.-à-d. s'efforcer vigoureusement) à Jr 9,4 ; Jr 20,9
+absolu de la prière ardente et désespérée עלהַֿבָּמָה
 ׳
 נִל Moab, Es 16,12 (|| נִרְאָה, בָּא אֶלמִֿקְדָּשׁוֺ
-לְהִתְפַּלֵּל); of vain consultations, (suivi de בְּ) Babylon Es 47,13
-subject ׳
-י, suivi de infinitive Es 1,14; Jr 6,11; Jr 15,6, toujours of exhausted patience; figuré of parched soil (absolu)
+לְהִתְפַּלֵּל) ; de vaines consultations, (suivi de בְּ) Babylone Es 47,13
+sujet ׳
+י, suivi d'infinitif Es 1,14 ; Jr 6,11 ; Jr 15,6, toujours de la patience épuisée ; figuré d'un sol desséché (absolu)
 Ps 68,10.
 
-Hiph`il
+Hiphil
 Parfait 3 masculin singulier suffixe הֶלְאָנִי
 Jb 16,7 3
 féminin singulier הֶלְאָת
@@ -64,7 +64,7 @@ Es 7,13
 Infinitif construit
 הַלְאוֺת
 Es 7,13 —
-weary, make weary, exhaust, suivi de accusative Jb 16,7 (subject God);
-exhaust patience of, object God Es 7,13 object men Es 7,13; Jr 12,5; Mi 6,3.
+lasser, fatiguer, épuiser, suivi d'accusatif Jb 16,7 (sujet Dieu) ;
+épuiser la patience de, objet Dieu Es 7,13 objet les hommes Es 7,13 ; Jr 12,5 ; Mi 6,3.
 
 ---

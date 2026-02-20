@@ -1,16 +1,16 @@
 === BDB933 H926 ===
 hébreu biblique
 
-[בָּהַל] verb (hébreu tardif id. Participe passif בהול
-disquieted; Pi`el disquiet;
+[בָּהַל] verbe (hébreu tardif id. Participe passif בהול
+inquiet ; Pi`el inquiéter ;
 
 ᵑ7
 
 Pa`el בַּהֵיל
-hasten, be precipitate, also dismay: but
-[placeholder511: Placeholders/511.gif] is be quiet) —
+hâter, être précipité, aussi effrayer : mais
+[placeholder511: Placeholders/511.gif] est être calme) —
 
-Niph`al
+Niphal
 Parfait
 נִבְהַל
 1 S 28,21
@@ -18,9 +18,9 @@ Parfait
 Ps 6,4
 נִבְהַלְתִּי
 Es 21,3
-וְנִבְהָ֑לְתִּי consecutive Jb 21,6
+וְנִבְהָ֑לְתִּי consécutif Jb 21,6
 נִבְהֲלוּ
-Gn 45,3 +, etc.;
+Gn 45,3 +, etc. ;
 Imparfait
 וַיִּבָּהֵל
 Jg 20,41 2
@@ -28,7 +28,7 @@ masculin singulier תִּבָּהֵל
 Qo 8,3
 יִבָּהֵלוּ֑ן
 Ps 104,29,
-etc.; Participe
+etc. ; Participe
 נִבְהָל
 Ps 30,8
 נִָֽבֳהָל
@@ -37,39 +37,39 @@ féminin נִבְהָלָה
 So 1,18 —
 
 1.
-be disturbed, dismayed, terrified, Gn 45,3 (
+être troublé, consterné, terrifié, Gn 45,3 (
 E
-) Judg
-20,41;
-1 S 28,21;
+) Jg
+20,41 ;
+1 S 28,21 ;
 2 S 4,1 (|| וַיִּרְפּוּ
-יָדָיו, comparer Ez 7,27 above); of bones of sufferer Ps 6,3 (|| comparer below Ps 6,4); of hands of dismayed people
+יָדָיו, comparer Ez 7,27 ci-dessus) ; des os du souffrant Ps 6,3 (|| comparer ci-dessous Ps 6,4) ; des mains du peuple consterné
 Ez 7,27
-surtout at chastisements & judgments of ׳
+surtout devant les châtiments & jugements de ׳
 י
 Ex 15,15
-(song, in
+(cantique, dans
 E
 ) Ps 6,4
-(subject נֶפֶשׁ, || comparer above Ps 6,3) Ps 6,11 (|| בושׁ) Ps 30,8 comparer Ps 104,29; Ps 83,18 (||
-בושׁ) Ps 90,7; Es 13,8; Es 21,3 (suivi de מִן of occasion of fear) Jb 23,15 (
-id.) Jr 51,32; Ez 26,18 (supprimer
+(sujet נֶפֶשׁ, || comparer ci-dessus Ps 6,3) Ps 6,11 (|| בושׁ) Ps 30,8 comparer Ps 104,29 ; Ps 83,18 (||
+בושׁ) Ps 90,7 ; Es 13,8 ; Es 21,3 (suivi de מִן de la cause de la peur) Jb 23,15 (
+id.) Jr 51,32 ; Ez 26,18 (supprimer
 
 ᵐ5
 
-Co); Jb 4,5 (|| לאה), comparer also Jb 21,6 as adjective
+Co) ; Jb 4,5 (|| לאה), comparer aussi Jb 21,6 comme adjectif
 terrible
 So 1,18
 כָּלָה אַךְנִֿבְהָלָה.
 
 2.
-be in haste, hasty (late, comparer Aramaic above): Qo 8,3
+être pressé, hâtif (tardif, comparer araméen ci-dessus) : Qo 8,3
 מִפָּנָיו תֵּלֵךְ
 ׳
 אַלתִּֿבּ
-be not hasty (to) go from him; Pr 28,22
+ne sois pas hâtif (de) partir de devant lui ; Pr 28,22
 נִבֳהָל לַהוֺן
-hastening after riches.
+se hâtant après les richesses.
 
 Pi`el
 Imparfait
@@ -87,7 +87,7 @@ masculin singulier תְּבַהֲלֵם
 Ps 83,16
 
 אַלתְּֿבַהֵל
-Ex 5,1; Ex 7,9
+Qo 5,1 ; Qo 7,9
 Infinitif
 suffixe
 לְבַהֲלֵנִי
@@ -96,7 +96,7 @@ suffixe
 םָ֯
 2 Ch 32,18
 
-Particle
+Participe
 מבלהים
 
 Kt
@@ -105,65 +105,65 @@ Kt
 Qr
 
 Esd 4,4 (
-BeRy prefix
+BeRy préfixe
 Kt
-, see
+, voir
 בלהּ
-); —
+) ; —
 
 1.
-dismay, terrify, suivi de suffixe 2 Ch 32,18 (|| ירא), Dn 11,44
+consterner, terrifier, suivi de suffixe 2 Ch 32,18 (|| ירא), Dn 11,44
 ;
-Jb 22,10 (subject פַּחַד), Ps 2,5 (subject ׳
-י) Ps 83,16 (|| רדף; subject ׳
-י); comparer also Esd 4,4 (voir ci-dessous בלהּ).
+Jb 22,10 (sujet פַּחַד), Ps 2,5 (sujet ׳
+י) Ps 83,16 (|| רדף ; sujet ׳
+י) ; comparer aussi Esd 4,4 (voir ci-dessous בלהּ).
 
 2.
-hasten, make haste, act hastily (late), 2 Ch 35,21
+hâter, se dépêcher, agir précipitamment (tardif), 2 Ch 35,21
 וֵאלֹהִים אָמַר לְבַהֲלֵנִי
-God hath given command to speed me (
+Dieu a donné l'ordre de me hâter (
 RVm
-); suivi de infinitive make haste
+) ; suivi d'infinitif se hâter
 Est 2,9
-of hasty speech Eccl
+de parole hâtive Qo
 5,1
 ׳
 אַלתְּֿב
-עַלפִּֿיךָ (|| וְלִבְּךָ אַליְֿמַהֵר לְהוֺצִיא דָבָר); of anger Qo 7,9
+עַלפִּֿיךָ (|| וְלִבְּךָ אַליְֿמַהֵר לְהוֺצִיא דָבָר) ; de la colère Qo 7,9
 בְּרוּחֲךָ לִכְעוֺס
 ׳
 אַלתְּֿב.
 
 Pu`al
 Participe pluriel מְבֹהָלִים
-Esth
+Est
 8,14, comparer מְבֹהֶלֶת
 
 Qr
 
-Pr 20,21 (so read with
+Pr 20,21 (lire ainsi avec
 Vrss
 
 Now
-Str;
+Str ;
 AV
 
 RV
-);
+) ;
 Kt
 
-מבחלת see
+מבחלת voir
 בחל
-; — hastened
-Esth
-8,14 of royal posts (|| דְּחוּפִים); hastily gained
+; — hâté
+Est
+8,14 des courriers royaux (|| דְּחוּפִים) ; acquis à la hâte
 
 ׳
 נַחֲלָה מְב
 
 Pr 20,21.
 
-Hiph`il
+Hiphil
 Parfait suffixe הִבְהִילָ֑נִי
 
 Jb 23,16
@@ -174,17 +174,17 @@ masculin pluriel וַיַּבְהִלוּ
 Est 6,14 —
 
 1.
-dismay, terrify, suivi de suffixe Jb 23,16 (subject
-שַׁדַּי; || הֵרַךְ לִבִּי).
+consterner, terrifier, suivi de suffixe Jb 23,16 (sujet
+שַׁדַּי ; || הֵרַךְ לִבִּי).
 
-2. (late) hasten, hurry (transitive),
+2. (tardif) hâter, presser (transitif),
 2 Ch 26,20
 וַיַּבְהִלוּהוּ מִשָּׁם
-and they hurried him thence (|| נִדְחַף);
-make haste, suivi de infinitive Est 6,14
+et ils le pressèrent de là (|| נִדְחַף) ;
+se hâter, suivi d'infinitif Est 6,14
 לְהָבִיא
 ׳
 וַיַּב
-and they make haste to bring Haman.
+et ils se hâtèrent d'amener Haman.
 
 ---

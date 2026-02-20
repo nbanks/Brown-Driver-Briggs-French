@@ -3,13 +3,13 @@ hébreu biblique
 
 [שָׁרַת]_97_
 verbe
-Piel
+Pi`el
 servir, officier (comparer hébreu tardif שֵׁרוּת service (du temple)
 , phénicien משרת
 service, et peut-être verbe שרת
 servir) ; —
 
-Piel
+Pi`el
 Parfait 3 masculin singulier שֵׁרֵת
 Nb 8,26 ; Dt 18,7 3
 masculin pluriel שֵׁרְתוּ
@@ -33,19 +33,19 @@ voir
 1 R 1,15,
 etc. ; — servir :
 
-1. de service ministériel (opposé à servile, עבד) :
+1. du service ministériel (opposé au service subalterne, עבד) :
 
 a.
 service domestique supérieur : Joseph Gn 39,4 ; Gn 40,4 (
 J
 
 E
-), serviteur en chef d'Élisée 2 R 4,43 ; 2 R 6,15, domestiques royaux 2 S 13,17 ; 2 S 13,18
+), serviteur principal d'Élisée 2 R 4,43 ; 2 R 6,15, domestiques royaux 2 S 13,17 ; 2 S 13,18
 ; 1 R
 10,5 ;
 2 Ch 9,4 ; Est 2,2 ; Est 6,3, Abischag 1 R 1,4 ; 1 R 1,15.
 
-b. d'officiers royaux (tardif) 1 Ch 27,1 ; 1 Ch 28,1 ; 2 Ch 17,19
+b. des officiers royaux (tardif) 1 Ch 27,1 ; 1 Ch 28,1 ; 2 Ch 17,19
 ; 2 Ch
 22,8 ;
 Est 1,10
@@ -53,7 +53,7 @@ Est 1,10
 Pr 29,12
 .
 
-c. Josué comme assistant en chef de Moïse Ex 24,13 ; Ex 33,11 (
+c. Josué comme assistant principal de Moïse Ex 24,13 ; Ex 33,11 (
 E
 ),
 Nb
@@ -64,17 +64,17 @@ J
 D
 ), Élisée auprès d'Élie 1 R 19,21.
 
-d. d'anges auprès de ׳
+d. des anges envers ׳
 י
 Ps 103,21
 , comparer
 Ps 104,4.
 
-e. de rois des nations chez les prophètes Es 60,10.
+e. des rois des nations chez les prophètes Es 60,10.
 
-2. généralement de service spécial dans le culte :
+2. habituellement du service spécial dans le culte :
 
-a. de prêtres lévitiques, absolu
+a. des prêtres lévitiques, absolu
 1 R 8,11
 =
 2 Ch 5,14
@@ -86,8 +86,8 @@ Dt 17,12
 Dt 21,5 ;
 Jr 33,21
 +
-(étrangement) מְשָֽׁרְתֵי אֹתִי Jr 33,22 aussi Es 60,7 d'animaux mis au figuré pour ceux qui les
-sacrifient ; d'étrangers admis au sacerdoce Es 61,6, comparer Es 56,6 ainsi probablement Samuel conçu comme
+(étrangement) מְשָֽׁרְתֵי אֹתִי Jr 33,22 aussi Es 60,7 des animaux mis au figuré pour ceux qui les
+sacrifient ; des étrangers admis à la prêtrise Es 61,6, comparer Es 56,6 ainsi probablement Samuel conçu comme
 prêtre 1 S 2,11
 ; 1 S 3,1
 , ׳
@@ -105,9 +105,9 @@ prêtre 1 S 2,11
 Dt 18,5 ;
 Dt 18,7.
 
-b. lévites (
+b. Lévites (
 P
-, et tardif) ; avec accusatif de prêtres aaronides Nb 3,6 ; Nb 8,26 ; Nb 18,2, avec accusatif de ׳
+, et tardif) ; avec accusatif des prêtres aaronides Nb 3,6 ; Nb 8,26 ; Nb 18,2, avec accusatif de ׳
 
 י
 1 Ch 15,2
@@ -116,7 +116,7 @@ P
 a ; probablement aussi en référence au chantre lévitique Ps 101,6 avec accusatif tabernacle Nb 1,50 (
 
 P
-), assemblée
+), congrégation
 Nb 16,9 (
 P
 ), peuple
@@ -135,7 +135,8 @@ Esd 8,17
 שׁ
 2 Ch 8,14
 ׳
-שׁ avec ב de lieu 1 Ch 26,12 surtout avec בְּ, d'objets
+שׁ avec ב de lieu 1 Ch 26,12 surtout avec בְּ, des
+ustensiles
 sacrés Nb 3,31
 
 ; Nb 4,9 ; Nb 4,12 ;
@@ -153,7 +154,7 @@ c. prêtres sadocites (Ézéchiel), absolu Ez 42,14 + 3 t., avec accusatif
 
 י
 Ez 40,48
-+ 4 t., construit מְשָׁרֲתֵי devant le lieu sacré Ez 45,4 ; Ez 45,5 ; Ez 46,24
++ 4 t., construit מְשָׁרֲתֵי devant lieu sacré Ez 45,4 ; Ez 45,5 ; Ez 46,24
 .
 
 d.

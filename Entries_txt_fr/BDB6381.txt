@@ -12,7 +12,7 @@ la pâte,
 id. ; phénicien ערכת
 CIS^ No. 132, 4^
 évaluation, Bloch, mais douteux ; arabe
-[placeholder4074: Placeholders/4074.gif] III. combattre dans la bataille,
+[placeholder4074: Placeholders/4074.gif] III. combattre,
 [placeholder4075: Placeholders/4075.gif],
 [placeholder4076: Placeholders/4076.gif]
 champ de bataille) ; —
@@ -46,7 +46,8 @@ etc. ; passif
 עָרוּךְ
 Jr 6,23 +,
 construit עֱרוּךְ
-Jl 2,5, etc. ; — absent de
+Jl 2,5, etc. ; — pas
+dans
 D
 ; —
 
@@ -54,44 +55,44 @@ D
 
 a.
 disposer en ordre, sept autels Nb 23,4, c.-à-d. j'ai bâti sept autels en rangée
-(comparer בנה Nb 23,1), tiges de lin Jos 2,6 (tous deux
+(comparer בנה Nb 23,1), tiges de lin Jos 2,6 (tous les deux
 J
 
 E
 ) ; surtout
 
 b.
-placer ou disposer en ordre, comme du bois Gn 22,9 (
+mettre ou poser en ordre, comme du bois Gn 22,9 (
 E
-), 1 R 18,33, comparer le Topheth Es 30,33 ; Lv 1,7 offrandes Lv 1,8 ; Lv 1,12 ;
+), 1 R 18,33, comparer Tophet Es 30,33 ; Lv 1,7 offrandes Lv 1,8 ; Lv 1,12 ;
 Lv 6,5
 lampe(s)
 Ex 27,21 ; Lv 24,3 ; Lv 24,4 (tous
 P
-), lampe (figuré de la dynastie) Ps 132,17 pains de proposition Ex 40,4 ; Ex 40,23
-(sur [עַל] la שֻׁלְחָן sacrée, tous deux avec accusatif de sens apparenté
-au verbe), Lv 24,8 (
+), lampe (figuré de dynastie) Ps 132,17 pains de proposition Ex 40,4 ; Ex 40,23
+(sur [עַל] la שֻׁלְחָן sacrée tous les deux avec accusatif de sens apparenté
+avec le verbe), Lv 24,8 (
 P
 ).
 
 c. dans la vie courante (comparer RS^ Sem
-i. 189 s., 2e éd. 200 s.^), dresser une table (c.-à-d. disposer les plats
-en ordre dessus), שֻׁלְחָן
+i. 189 f., 2e éd. 200 f.^), dresser une table (c.-à-d. les plats
+en ordre sur elle), שֻׁלְחָן
 Es 21,5
 ; Pr
 9,2 (figuré de la sagesse), Ez 23,41 (de Jérusalem au figuré) ; Ps 23,5 ; Ps 78,19
-(figuré ; sujet Dieu) ; dans un culte idolâtre Es 65,11.
+(figuré ; sujet Dieu) ; dans le culte idolâtre Es 65,11.
 
 d.
 ranger une bataille, c.-à-d. se mettre en ordre de bataille, מִלְחָמָה
 Jg
 20,22 ;
 1 S 17,8 2 S 10,8> = 1 Ch 19,9 ; 1 Ch 12,37 (
-van d. H. v.1 Ch 12,36), 2 Ch 14,9,
+van d. H. v. 1 Ch 12,36), 2 Ch 14,9,
 עֹרְכֵי מִלְחָמָה
 
 1 Ch 12,34 ; 1 Ch 12,36 (van d. H.
-v.1 Ch 12,33 v.1 Ch 12,35) ; ׳
+v. 1 Ch 12,33 v. 1 Ch 12,35) ; ׳
 עֱרוּךְ מ
 Jl 2,5
 + אֵת
@@ -140,8 +141,8 @@ disposer des paroles (מִלִּין) Jb 32,14 ( +
 contre), ainsi (objet omis) Jb 33,5 ( + לְפָנַי
 ),
 Jb 37,19 ;
-Ps 5,4 (probablement ; > de l'arrangement d'un
-sacrifice) ; comparer raconter les choses en ordre,
+Ps 5,4 (probablement ; > de disposer un
+sacrifice) ; comparer exposer les choses en ordre,
 יַעְרְכֶהָ לִי
 Es
 44,7.
@@ -160,9 +161,9 @@ mettra-t-il ton cri (שַׁוְעֲךָ) en ordre ?
 Bi (pour לֹא) לוֺ
 ׳
 הֲיֵעָרֵךְ שׁ
-ton cri sera-t-il mis en ordre pour lui ? (sens bon, bien que le
+ton cri sera-t-il mis en ordre vers lui ? (sens bon, bien que
 Niphal
-ne soit pas attesté) ; voir al. dans Di.
+pas attesté) ; voir autres dans Di.
 
 2.
 
@@ -172,15 +173,14 @@ comparer (comme résultat de la mise en ordre) : לֿוֺ
 מַהדְּֿמוּת תַּע
 
 Es 40,18
-quelle ressemblance lui comparerez-vous ?
+quelle image lui comparerez-vous ?
 אֵין עֲרֹךְ אֵלֶיךָ
 Ps
 40,6.
 
 b. intransitif
 être comparable, avec לְ, Ps 89,7
-(|| דָּמָה), avec suffixe de la chose comparée Jb 28,17 ;
+(|| דָּמָה), avec suffixe de chose comparée Jb 28,17 ;
 Jb 28,19.
 
 ---
-

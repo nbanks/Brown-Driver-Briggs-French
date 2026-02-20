@@ -3,19 +3,19 @@ hébreu biblique
 
 [נָכָה]_501_
 verbe
-frapper (absent au
+frapper (pas au
 Qal) (hébreu tardif Hiphil id. ; Parfait 3 pluriel הכו
 
 SI^4^
 , Infinitif [ת]להכ ib. 2 ; syriaque
-[placeholder3304: Placeholders/3304.gif], laesit, nocuit, repugnavit ; Aphel laesit, vulneravit
+[placeholder3304: Placeholders/3304.gif], laesit, nocuit, repugnavit ; Aph`el laesit, vulneravit
 ; éthiopien
 [placeholder3305: Placeholders/3305.gif]
 laesit, nocuit ; comparer arabe
 [placeholder3306: Placeholders/3306.gif]
-être vaincu,
+être défait,
 [placeholder3307: Placeholders/3307.gif]
-le fait d'infliger un dommage à un ennemi Lane^3038^
+l'infliction d'un dommage à un ennemi Lane^3038^
 ) ; —
 
 Niphal
@@ -28,7 +28,7 @@ Parfait 3 féminin singulier נֻכָּ֑תָה
 Ex 9,31 3
 pluriel נֻכּוּ Ex 9,32 (
 J
-), tous deux être abattu par la grêle.
+), les deux être abattu par la grêle.
 
 Hiphil_482_
 Parfait 3 masculin singulier הִכָּה
@@ -121,7 +121,7 @@ Dt 3,16
 +, הַכּוֺת
 2 R
 3,24 (Ges^«GKC:75ff»§ 75ff^) ;
-constr. הַכּוֺת
+construit הַכּוֺת
 Gn 4,15
 +, etc. ; Participe
 מַכֶּה
@@ -134,8 +134,8 @@ Ex
 
 1.
 
-a. littéralement, frapper (d'un seul coup, non fatal),
-porter un coup, suivi de l'accusatif, ânesse Nb 22,23 ; Nb 22,25 ; Nb
+a. littéralement, frapper (d'un seul coup non mortel),
+atteindre, suivi de accusatif, ânesse Nb 22,23 ; Nb 22,25 ; Nb
 22,27 (בְּמַקֵּל), Nb 22,28 Nb 22,32 (tous
 J
 ) ; homme Ex 21,15 ; Ex 21,19 (
@@ -154,7 +154,7 @@ E
 ), comparer (figuré) Es 58,4 (absolu) ; frapper lion ou
 ours
 1 S 17,35
-frapper le fleuve (avec le bâton מַטֶּה) 1 S 7,17 (avec
+frapper la rivière (avec la verge מַטֶּה) 1 S 7,17 (avec
 עַל objet, + ב instrumental), v
 
 1 S 7,20
@@ -176,31 +176,31 @@ P
 ; ב instrumental), Ps 78,20 figuré frapper
 la terre בְּשֵׁבֶט פִּיו
 Es 11,4
-(du futur roi davidique) ; frapper le sol (אַ֫רְצָה ;
+(du futur roi davidique) ; frapper sur le sol (אַ֫רְצָה ;
 avec des flèches) 2 R 13,18, aussi (absolu) 2 R 13,18 2 R
 13,19
-arracher les armes des (מִן) mains, Ez 39,3 (
+frapper les armes hors des (מִן) mains, Ez 39,3 (
 ׳
-י ; figuré de rendre impuissant) ; linteau de la porte Am 9,1 pain
-d'orge frappant la tente Jg 7,13 (en songe) ; en image du regret, du remords
+י ; figuré de rendre impuissant) ; linteau de la porte Am 9,1 galette d'orge
+frappe la tente Jg 7,13 (dans un rêve) ; en figure du regret, du remords
 וַיַּךְ לֵב דָּוִד אֹתוֺ
 
 2 S 24,10
 et le cœur de David le frappa, ainsi 1 S 24,6 (+ עַלאֲֿשֶׁר
 
-parce que) ; du bouc frappant (donnant un coup de corne à) le bélier, de manière à briser ses
+parce que) ; du bouc frappant (heurtant de la corne) le bélier, de manière à briser ses
 cornes Dn
-8,7 (en vision) ; frapper = atteindre avec un projectile,
+8,7 (dans une vision) ; frapper = atteindre avec un projectile,
 pierre de fronde
 1 S 17,49 (avec accusatif de personne + אֶלמִֿצְחוֺ
 ), comparer 2 R 3,25 (mais texte peut-être corrompu, voir
 Benz) ; flèche, 1 R 22,34 = 2 Ch 18,33
 (avec accusatif de personne + בֵּין), 2 R 9,24 (c. id.
-) ; de percer, הַכּוֺת
+) ; de transpercer, הַכּוֺת
 בַּחֲנִית בְּדָוִד וּבַקִּיר
 1 S
 19,10
-percer avec la lance David et le mur, épingler David au mur,
+frapper avec le javelot dans David et dans le mur, clouer David au mur,
 בַּקִּיר
 ׳
 וַיַּךְ אֶתהַֿח 1 S 19,10, comparer 1 S 18,11,
@@ -219,7 +219,7 @@ J
 Ne 13,25 (מִן partitif), comparer
 Dt 25,11 ici probablement aussi 1 R 20,35 (deux fois dans le verset) ;
 1 R 20,37 (deux fois dans le verset) (הַכֵּה וּפָצֹעַ
-le battant et le meurtrissant) ; de l'Assyrie sous la figure d'un contremaître
+le battant et le meurtissant) ; de l'Assyrie sous la figure d'un maître d'œuvre
 Es 10,24
 battre une femme de manière à la meurtrir (פָּצַע) Ct 5,7
 
@@ -235,7 +235,7 @@ de flagellation, bastonnade, (comparer Dr) ;
 Pr 19,25 ; Pr 23,13 ; Pr 23,14 (ב
 instrumental) ; comparer גֵּוִי נָחַתִּי לְמַכִּים
 Es
-50,6 de la grêle, abattant l'herbe etc. Ex 9,25 (deux fois dans le
+50,6 de la grêle, abattant la végétation etc. Ex 9,25 (deux fois dans le
 verset) (comparer
 Pual).
 
@@ -243,8 +243,8 @@ c.
 וַיַּכּוּ כַף
 
 2 R 11,12
-et ils frappèrent des mains (en applaudissant) ; ailleurs seulement Ez., en
-moquerie ; כַּף אֶלכַּֿף
+et ils frappèrent des mains (en applaudissant) ; ailleurs seulement Ez., par
+dérision ; כַּף אֶלכַּֿף
 
 Ez 21,19 ; Ez 21,22
 בְּכַפְּךָ
@@ -255,8 +255,8 @@ accusatif כַּפִּי
 Ez 22,13.
 
 d.
-donner un coup (avec une fourchette) dans (ב) la marmite 1 S 2,14
-enfoncer des racines Os 14,6 (en figuré, mais
+donner un coup (avec une fourche) dans (ב) la marmite 1 S 2,14
+enfoncer des racines Os 14,6 (au figuré, mais
 וַיֵּלְכוּ
 We
 Now).
@@ -265,10 +265,10 @@ e. rarement
 frapper (au combat) de manière à (seulement) blesser 1 R 8,28
 , ainsi (+ accusatif de sens apparenté au verbe מַכָּה)
 1 R 8,29 ; 1 R 9,18 = 2 Ch 22,6 figuré de la
-blessure d'Israël par ׳
-י Os 6,1 (opposé à חָבַשׁ
+blessure infligée par ׳
+י à Israël Os 6,1 (opposé à חָבַשׁ
 
-panser), Jr 30,14 (avec accusatif de
+bander), Jr 30,14 (avec accusatif de
 sens apparenté au verbe). comparer frapper avec (ב
 ) la langue
 
@@ -311,8 +311,8 @@ Jr 41,2 ; Nb 35,16 ; Nb 35,17 ; Nb 35,18 ; Nb
 P
 ; tous avec ב instrumental) ; avec accusatif +
 אֶלחֹֿמֶשׁ + ב instrumental 2 S 2,23
-le frappa (mortellement) au ventre avec (sur le
-texte voir HPS), 2 S 20,10
+le frappa (mortellement) au ventre avec (sur
+le texte voir HPS), 2 S 20,10
 , comparer
 2 S 3,27 ; 2 S 4,6 (mais supprimer
 
@@ -345,7 +345,7 @@ frapper les tués
 
 Jg 20,31 ; Jg 20,39 +
 אַ֫רְצָה
-abattre à terre c.-à-d. tuer 2 S 2,22 ;
+frapper à terre c.-à-d. tuer 2 S 2,22 ;
 2 S
 18,11.
 
@@ -354,9 +354,9 @@ frapper, d'un ver rongeant ou perçant de manière à tuer une plante Jon 4,7
 .
 
 c. très souvent =
-tuer, mettre à mort, homme ou bête (env. 150 t.) : Gn 4,15
+tuer, mettre à mort, homme ou bête (environ 150 t.) : Gn 4,15
 ;
-Gn 8,21 (exterminer ; tous deux
+Gn 8,21 (exterminer ; les deux
 J
 ),
 Ex 2,12 ; Nb 21,35 (
@@ -392,11 +392,11 @@ instrumental), 2 R 9,7 (exterminer), etc. ; avec
 parmi
 
 1 S 23,5, מִן partitif Jg 14,19 ; Jg 20,45 avec
-ב partitif tuer à, faire un carnage parmi
+ב partitif frapper à, exercer un massacre parmi
 
 2 S 23,10 (insérer aussi dans || 1 Ch
 11,13 voir
-Be^on the passage^
+Be^sur le passage^
 Dr^
 
 2 S 23,10
@@ -453,8 +453,8 @@ J
 
 E
 ),
-Est 9,5, etc. ; tuer involontairement,
-par mégarde
+Est 9,5, etc. ; tuer par inadvertance,
+involontairement
 הִכָּה בִבְלִי דַ֫עַת
 
 Dt 19,4 ; Jos 20,5 (tous deux
@@ -489,7 +489,7 @@ verset) ;
 1 Ch 20,1 ; 2 Ch 14,13 ;
 Jr 47,1 tentes 1 Ch 4,41 ; 2 Ch 14,14 =
 saccager une ville
-לְפִיחֶֿרֶב (en tuant les habitants), Jos 8,24 ;
+לְפִיחֶֿרֶב (tuant les habitants), Jos 8,24 ;
 
 Jos 19,47 (tous deux
 J
@@ -502,8 +502,8 @@ Jos 10,35 ; Jos 10,37 comparer Jos 10,39
 D
 ),
 Jg 1,25 ; Jg 20,37 ; 2 S 15,14
-surtout vaincre
-un roi ou une armée (impliquant souvent renversement, poursuite et massacre), — environ 95 t.,
+surtout défaire
+un roi ou une armée (impliquant souvent la déroute, la poursuite et le massacre), — environ 95 t.,
 —
 Gn 14,5 ; Gn 14,15 ; Gn 14,17 ; Nb 14,45 ; Nb
 21,24 (
@@ -555,11 +555,11 @@ Bu comparer Dr
 1 S 23,2 (deux fois dans le verset) (ה locatif
 — מִן) ; + לְפִי חֶרֶב
 
-Jg 20,48, etc. ; de dieux causant la défaite
+Jg 20,48, etc. ; des dieux causant une défaite
 
 2 Ch
 28,23
-frapper le pays = conquérir, subjuguer, parfois ravager, Gn
+frapper un pays = conquérir, soumettre, parfois ravager, Gn
 14,7 ;
 Jos 10,40 (
 D
@@ -617,7 +617,7 @@ J
 
 E
 ; בָּעָם + accusatif de sens apparenté au verbe) ;
-frapper les vignes avec (ב) le mildiou Ps
+frapper les vignes avec (ב) la nielle Ps
 105,33.
 
 b.
@@ -634,11 +634,11 @@ Jr 5,3 ; Jr 14,9 ; Ez 32,15 (
 
 Co
 זֵרָה disperser) ; avec עִל
-punir pour, (péché) Lv 26,24 (
+punir pour (le péché) Lv 26,24 (
 H
 ).
 
-c. de Dieu détruisant
+c. de la destruction par Dieu
 des palais
 Am 3,15 ; Am 6,11 (2
 accusatifs), comparer Za 9,4.
@@ -659,7 +659,7 @@ Ez
 40,1 1 singulier
 הֻכֵּ֫יתִי
 
-Za 13,6 3 plurielהֻכּוּ
+Za 13,6 3 pluriel הֻכּוּ
 
 1 S 5,12
 Imparfait 3 masculin pluriel וַיֻּכּוּ
@@ -740,8 +740,8 @@ absolu, du serviteur de ׳
 י Es 53,4.
 
 7.
-être flétri, d'une plante (en figuré) Os 9,16
+être flétri, d'une plante (au figuré) Os 9,16
 (source éphraïmite), Ps 102,5 (cœur, כָּעֵשֶׂב
-; tous deux + יָבַשׁ).
+; les deux + יָבַשׁ).
 
 ---

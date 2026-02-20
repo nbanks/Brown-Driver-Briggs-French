@@ -3,11 +3,11 @@ hébreu biblique
 
 [בָּרַךְ]_329_
 verbe
-kneel, bless (hébreu tardif id.; arabe
-[placeholder701: Placeholders/701.gif]; éthiopien
-[placeholder702: Placeholders/702.gif]: Aramaic בְּרֵךְ
-[placeholder703: Placeholders/703.gif] (praise), palmyrénien surtout in בריך שמו לעלמא
-Vog^Palm. 74 ff.^ comparer 94, 144) —
+s'agenouiller, bénir (hébreu tardif id. ; arabe
+[placeholder701: Placeholders/701.gif] ; éthiopien
+[placeholder702: Placeholders/702.gif] : araméen בְּרֵךְ
+[placeholder703: Placeholders/703.gif] (louer), palmyrénien surtout dans בריך שמו לעלמא
+Vog^Palm. 74 ss.^ comparer 94, 144) —
 
 Qal
 Imparfait
@@ -15,46 +15,46 @@ Imparfait
 2 Ch 6,13
 נִבְרְכָה
 Ps 95,6
-בָּרוֺךְ (see
-Pi`el); Passive participle
+בָּרוֺךְ (voir
+Piel) ; Participe passif
 בָּרוּךְ
 Gn 9,26 + 70
-t.; —
+t. ; —
 
 1.
-kneel down (so arabe, syriaque, éthiopien): וַיִּבְרַךְ עַלבִּֿרְכָּיו
-and he kneeled sur his knees
+s'agenouiller (ainsi arabe, syriaque, éthiopien) : וַיִּבְרַךְ עַלבִּֿרְכָּיו
+et il s'agenouilla sur ses genoux
 2 Ch 6,13
 ׳
 נִבְרְכָה לפני י
-let us kneel devant Yahweh
+prosternons-nous devant Yahvé
 Ps 95,6.
 
 2.
-bless (seulement participe passif).
+bénir (seulement participe passif).
 
 a.
-of God:
+de Dieu :
 ׳
 בָּרוּךְ י
-blessed be (or is) ׳
+béni soit (ou est) ׳
 י
 Ex 18,10
 (
 E
-) Gen
-9,26; Gn 24,27 (
+) Gn
+9,26 ; Gn 24,27 (
 J
-) Ruth
-4,14; 1 S 25,32: 1 S 25,39; 2 S 18,28; 1 R 1,48; 1 R 5,21; 1 R 8,51; 1 R 8,56;
+) Rt
+4,14 ; 1 S 25,32 : 1 S 25,39 ; 2 S 18,28 ; 1 R 1,48 ; 1 R 5,21 ; 1 R 8,51 ; 1 R 8,56 ;
 1 R 10,9
-; 1Chr
-16,36; 1 Ch 29,10; 2 Ch 2,11; 2 Ch 6,4; 2 Ch 9,8;
+; 1 Ch
+16,36 ; 1 Ch 29,10 ; 2 Ch 2,11 ; 2 Ch 6,4 ; 2 Ch 9,8 ;
 
-Ps 28,6;
+Ps 28,6 ;
 Ps 31,22
 ; Ps
-41,14; Ps 72,18; Ps 89,53; Ps 106,48; Ps 119,12; Ps 124,6; Ps 135,21; Ps 144,1
+41,14 ; Ps 72,18 ; Ps 89,53 ; Ps 106,48 ; Ps 119,12 ; Ps 124,6 ; Ps 135,21 ; Ps 144,1
 ; Za 11,5
 
 אלהים
@@ -67,18 +67,18 @@ Ps 66,20
 ׳
 ב
 Ps 68,20
-(probablement for an original יהוה); אל עליון
+(probablement pour un original יהוה) ; אל עליון
 ׳
 ב
 Gn 14,20
 (
 E
-); צוּרִי
+) ; צוּרִי
 ׳
 ב
 2 S 22,47
 (= Ps
-18,47); ׳
+18,47) ; ׳
 כבוד י
 ׳
 ב
@@ -91,35 +91,35 @@ Ps 72,19
 .
 
 b.
-of men:
+des hommes :
 Gn 27,33
 (
 J
-) Num
+) Nb
 22,12 (
 E
-) Deut
-7,14;
-Dt 28,3; Dt 28,6; Dt 33,20; Dt 33,24; 1 S 25,33; 1 S 26,25; Jg 17,2;
+) Dt
+7,14 ;
+Dt 28,3 ; Dt 28,6 ; Dt 33,20 ; Dt 33,24 ; 1 S 25,33 ; 1 S 26,25 ; Jg 17,2 ;
 1 R 2,45
 ; Ps
-118,26; Es 19,25; Jr 17,7; Jr 20,14
+118,26 ; Es 19,25 ; Jr 17,7 ; Jr 20,14
 מברכך ברוך
-blessed be the one blessing thee
+béni soit celui qui te bénit
 Gn 27,29
 ; Nb 24,9
 (
 E
-); ליהוה
+) ; ליהוה
 ׳
 ב
-Rt 2,19;
-Rt 2,20;
-Rt 3,10;
+Rt 2,19 ;
+Rt 2,20 ;
+Rt 3,10 ;
 1 S 15,13
-; 1Sam
-23,21;
-2 S 2,5; Ps 115,15
+; 1 S
+23,21 ;
+2 S 2,5 ; Ps 115,15
 לאל עליון
 ׳
 ב
@@ -128,71 +128,71 @@ Gn 14,19
 ׳
 בְּרוּךְ י
 Gn 24,31
-; Gen
+; Gn
 26,29 (
 J
-); ׳
+) ; ׳
 בְּרוּכֵי י
 Es 65,23
 .
 
 c.
-things:
+choses :
 בָּרוּךְ פרי
 בטנך
-blessed be the fruit of thy womb
+béni soit le fruit de ton sein
 Dt 28,4
 comparer Dt 28,5
-; 1Sam
-25,33; Pr 5,18.
+; 1 S
+25,33 ; Pr 5,18.
 
-Niph`al
+Niphal
 Parfait
 נִבְרְכוּ
 Gn 12,3
-; Gen
-18,18; Gen
+; Gn
+18,18 ; Gn
 28,14 (
 J
-) bless oneself (comparer
-Hithpa`el).
+) se bénir soi-même (comparer
+Hithpael).
 
-Pi`el_233_
+Piel_233_
 Parfait
 בֵּרַךְ
-Gen
-24,1 + 29 t.; בֵּרֵךְ
+Gn
+24,1 + 29 t. ; בֵּרֵךְ
 Ps
-10,3;
+10,3 ;
 Nb 23,20
 בֵּרְכוּ
 2 Ch 20,26
 
 וּבֵרֲכוּ
 Jb 1,5
-suffixe בֵּרֲכוֺ, בֵּרֲכַּנִי, etc., Gen
-27,27 + 5 t.; בֵּרַכְךָ
+suffixe בֵּרֲכוֺ, בֵּרֲכַּנִי, etc., Gn
+27,27 + 5 t. ; בֵּרַכְךָ
 Dt 2,7
-+ 9 t.; Imparfait
-יְבָרֵךְ, וַיְּבֶ֫רֶךְ etc., Gn 28,3 + 52 t.;
++ 9 t. ; Imparfait
+יְבָרֵךְ, וַיְּבֶ֫רֶךְ etc., Gn 28,3 + 52 t. ;
 אֲבָֽרֲכָה
-Gen
-12,3 + 2 t.; pluriel יְבָֽרֲכוּ
+Gn
+12,3 + 2 t. ; pluriel יְבָֽרֲכוּ
 
-Gn 24,60 + 11 t.; suffixe יְבָרֶכְךָ
+Gn 24,60 + 11 t. ; suffixe יְבָרֶכְךָ
 
-Gn 27,10 + 21 t.; יְבָֽרֲכֶךָּ
+Gn 27,10 + 21 t. ; יְבָֽרֲכֶךָּ
 
-Gn 49,25 + 2 t.; יְבָֽרֲכֵהוּ
+Gn 49,25 + 2 t. ; יְבָֽרֲכֵהוּ
 
-Gn 14,19 + 16 t.; יְבָֽרֲכֵם
+Gn 14,19 + 16 t. ; יְבָֽרֲכֵם
 
-Gn 48,20 + 6 t.; אֲבָרֶכְכָה
-Gen
+Gn 48,20 + 6 t. ; אֲבָרֶכְכָה
+Gn
 27,7
 תְּבָֽרֲכַּ נִּי
 
-Gn 27,19;
+Gn 27,19 ;
 Gn 27,31
 יְבָֽרֲכֶנְהוּ
 
@@ -203,259 +203,259 @@ Ps 145,10
 Impératif
 בָּרֵךְ
 
-Dt 33,11 + 29 t.; Infinitif construit בָּרֵךְ
+Dt 33,11 + 29 t. ; Infinitif construit בָּרֵךְ
 
-Gn 22,17 + 24 t.; Infinitif absolu בָּרוֺךְ
+Gn 22,17 + 24 t. ; Infinitif absolu בָּרוֺךְ
 
 Jos 24,10 (Ki, comparer
 Kö^i. 191^, Ew^§
 240 b, 2^
 Ol
-Sta); Participe
+Sta) ; Participe
 מְבָרֵךְ
 Pr 27,14
-+ 4 t.; —
++ 4 t. ; —
 
 1.
-bless God, adore with bended knees: accusative ׳
+bénir Dieu, adorer à genoux fléchis : accusatif ׳
 ברך י
 Gn 24,48
 (
 J
-) Deut
-8,10; Judg
-5,2; Judg
-5,9;
-1 Ch 29,10; 1 Ch 29,20; 2 Ch 20,26; 2 Ch 31,8; Ne 9,5; Ps
-16,7;
-Ps 26,12;
-Ps 34,2; Ps
-63,5; Ps 103,20; Ps 103,21; Ps 103,22
+) Dt
+8,10 ; Jg
+5,2 ; Jg
+5,9 ;
+1 Ch 29,10 ; 1 Ch 29,20 ; 2 Ch 20,26 ; 2 Ch 31,8 ; Ne 9,5 ; Ps
+16,7 ;
+Ps 26,12 ;
+Ps 34,2 ; Ps
+63,5 ; Ps 103,20 ; Ps 103,21 ; Ps 103,22
 ;
-Ps 115,18; Ps 134,1; Ps 134,2; Ps 135,19; Ps 135,20; Ps 145,2; Ps 145,10
+Ps 115,18 ; Ps 134,1 ; Ps 134,2 ; Ps 135,19 ; Ps 135,20 ; Ps 145,2 ; Ps 145,10
 ברכי
 ׳
 נפשׁי את י
 Ps 103,1
 ; Ps
-103,2; Ps 103,22; Ps 104,1; Ps 104,35
+103,2 ; Ps 103,22 ; Ps 104,1 ; Ps 104,35
 ברך שׁם
-bless the name of Yahweh
-Neh
-9,5; Ps
-96,2;
-Ps 100,4; Ps 145,1; Ps 145,21
+bénir le nom de Yahvé
+Ne
+9,5 ; Ps
+96,2 ;
+Ps 100,4 ; Ps 145,1 ; Ps 145,21
 ברך
 אלהים
 Jos 22,33
 ; Ps 66,8
 ; Ps
 68,27
-(doubtless for an original יהוה), with לְ
+(sans doute pour un original יהוה), avec לְ
 1 Ch 29,20
 
 מְבָרֵךְ אָוָן
 
-Es 66,3 (of idolatrous worship).
+Es 66,3 (d'un culte idolâtre).
 
 2.
-God blesses
+Dieu bénit
 
 a.
-men: absolu Nb 23,20 (
+des hommes : absolu Nb 23,20 (
 E
 ) Ps
-109,28 avec accusatif Gn 32,27; Gn 32,30
+109,28 avec accusatif Gn 32,27 ; Gn 32,30
 ; Gn 48,16
-; Exod
-20,24;
-Num
-24,1;
+; Ex
+20,24 ;
+Nb
+24,1 ;
 Jos 24,10 (
 E
-) Gen
-12,2;
-Gn 12,3; Gn 22,17; Gen
-24,1;
-Gn 24,35; Gn 26,12; Gn 30,27; Gn 30,30; Gen
-39,5;
-Gn 49,25; Jos 17,14 (
+) Gn
+12,2 ;
+Gn 12,3 ; Gn 22,17 ; Gn
+24,1 ;
+Gn 24,35 ; Gn 26,12 ; Gn 30,27 ; Gn 30,30 ; Gn
+39,5 ;
+Gn 49,25 ; Jos 17,14 (
 J
-) Gen
-1,22;
-Gn 1,28;
-Gn 5,2; Gen
+) Gn
+1,22 ;
+Gn 1,28 ;
+Gn 5,2 ; Gn
 9,1
-; Gen
-17,16;
-Gn 17,20; Gn 25,11; Gn 26,3; Gn 26,24; Gen
-28,3;
-Gn 35,9;
-Gn 48,3;
-Nb 6,24;
-Num
+; Gn
+17,16 ;
+Gn 17,20 ; Gn 25,11 ; Gn 26,3 ; Gn 26,24 ; Gn
+28,3 ;
+Gn 35,9 ;
+Gn 48,3 ;
+Nb 6,24 ;
+Nb
 6,27 (
 P
-) Deut
-1,11; Deut
-2,7;
-Dt 7,13;
-Dt 12,7; Dt 14,24; Dt 14,29;
-Dt 15,4;
-Dt 15,6; Dt 15,10; Dt 15,14; Dt 15,18; Dt 16,10; Dt 16,15
-; Deut
-23,21;
-Dt 24,13; Dt 24,19; Dt 26,15;
-Dt 28,8; Dt 30,16;
+) Dt
+1,11 ; Dt
+2,7 ;
+Dt 7,13 ;
+Dt 12,7 ; Dt 14,24 ; Dt 14,29 ;
+Dt 15,4 ;
+Dt 15,6 ; Dt 15,10 ; Dt 15,14 ; Dt 15,18 ; Dt 16,10 ; Dt 16,15
+; Dt
+23,21 ;
+Dt 24,13 ; Dt 24,19 ; Dt 26,15 ;
+Dt 28,8 ; Dt 30,16 ;
 
-Dt 2,11;
-Dt 2,12;
+Dt 2,11 ;
+Dt 2,12 ;
 
-Dt 7,29;
-Dt 1,10; Dt 13,14;
+Dt 7,29 ;
+Dt 1,10 ; Dt 13,14 ;
 
 Dt 17,27
 ; Dt 26,5
 ;
-Dt 2,10;
+Dt 2,10 ;
 
-Ps 5,13; Ps
-28,9;
-Ps 29,11;
-Ps 45,3; Ps
-67,2;
-Ps 67,7; Ps
-67,8; Ps 107,38;
+Ps 5,13 ; Ps
+28,9 ;
+Ps 29,11 ;
+Ps 45,3 ; Ps
+67,2 ;
+Ps 67,7 ; Ps
+67,8 ; Ps 107,38 ;
 Ps 115,12
 ;
-Ps 115,13; Ps 128,5; Ps 134,3; Ps 147,13; Pr 3,33; Es 19,25; Es 51,2; Es 61,9;
+Ps 115,13 ; Ps 128,5 ; Ps 134,3 ; Ps 147,13 ; Pr 3,33 ; Es 19,25 ; Es 51,2 ; Es 61,9 ;
 Jr 31,23
 ; Ag 2,19
 ,
 
 b.
 
-things: Sabbath Gn 2,3; Ex 20,11 (
+choses : sabbat Gn 2,3 ; Ex 20,11 (
 
 P
-); field
+) ; champ
 Gn 27,27 (
 E
-); blire Ex 23,25 (
+) ; pain Ex 23,25 (
 E
-); work
-Dt 28,12; Jb 1,10 comparer Dt 33,11; Ps 65,11; Ps 132,15.
+) ; œuvre
+Dt 28,12 ; Jb 1,10 comparer Dt 33,11 ; Ps 65,11 ; Ps 132,15.
 
 3.
-men bless men: prêtres & kings ׳
+des hommes bénissent des hommes : prêtres & rois ׳
 בשׁם י
 
-Dt 10,8;
-Dt 21,5; 2 S 6,18;
-1 Ch 16,2; 1 Ch 23,13; Ps 129,8
-Melchizedek Abraham Gn 14,19 Moïse Dt 33,1; Ex 12,32; Ex 39,43 Josué Jos 14,13; Jos 22,6;
+Dt 10,8 ;
+Dt 21,5 ; 2 S 6,18 ;
+1 Ch 16,2 ; 1 Ch 23,13 ; Ps 129,8
+Melchisédek Abraham Gn 14,19 Moïse Dt 33,1 ; Ex 12,32 ; Ex 39,43 Josué Jos 14,13 ; Jos 22,6 ;
 
-Jos 22,7 prêtres Lv 9,22; Lv 9,23; Nb 6,23;
+Jos 22,7 prêtres Lv 9,22 ; Lv 9,23 ; Nb 6,23 ;
 Dt 27,12
 ; Jos 8,33
 ;
-2 Ch 30,27; Ps 118,26 Salomon
-1 R 8,14; 1 R 8,55 ( = 2 Ch 6,3); David
-2 S 6,20 (= 1 Ch 16,43) 2 S 19,40 Eli
+2 Ch 30,27 ; Ps 118,26 Salomon
+1 R 8,14 ; 1 R 8,55 ( = 2 Ch 6,3) ; David
+2 S 6,20 (= 1 Ch 16,43) 2 S 19,40 Éli
 
-1 S 2,20 Balaam Nb 22,6; Nb 23,11; Nb 23,20; Nb 23,25; Nb 24,10 pères, surtout
-on death-bed Gen
-27,4 + 12 t. Gn 27 (all
+1 S 2,20 Balaam Nb 22,6 ; Nb 23,11 ; Nb 23,20 ; Nb 23,25 ; Nb 24,10 pères, surtout
+sur le lit de mort Gn
+27,4 + 12 t. Gn 27 (tous
 J
 
 E
-) Gen
-28,1;
+) Gn
+28,1 ;
 Gn 28,6 (
 P
-) Gen
+) Gn
 32,1 (
 E
-) Gen
+) Gn
 48,9 (
 P
-) Gen
-48,15;
-Gn 48,20; Gn 49,28 (
+) Gn
+48,15 ;
+Gn 48,20 ; Gn 49,28 (
 J
 )
-2 S 13,25 in consecrating a sacrifice
+2 S 13,25 en consacrant un sacrifice
 1 S 9,13.
 
 4.
-salute, greet, with an invocation of blessing (stronger than שׁלום
-):בך יברך ישׂראל
-with thee will Israël bless
+saluer, accueillir, avec une invocation de bénédiction (plus fort que שׁלום
+) : בך יברך ישׂראל
+par toi Israël bénira
 Gn 48,20
 (
 E
 ).
 
 a.
-in meeting
+en se rencontrant
 
 Gn 47,7 (
 P
 )
-2Kgs
-4,29; 2 R 10,15; 1 S 13,10.
+2 R
+4,29 ; 2 R 10,15 ; 1 S 13,10.
 
 b.
-in departing
+en se séparant
 Gn 24,60
 (
 J
-) Gen
+) Gn
 47,10 (
 P
 )
-1Kgs
+1 R
 8,66.
 
 c.
-by messengers
-1Sam
+par messagers
+1 S
 25,14
 ;
-2Sam
-8,10; 1 Ch 18,10.
+2 S
+8,10 ; 1 Ch 18,10.
 
 d.
-in gratitude
-Job
+en gratitude
+Jb
 31,20
 ;
-Pr 30,11;
+Pr 30,11 ;
 Ne 11,2.
 
 e.
-morning salutation
-Prov
+salutation matinale
+Pr
 27,14
 .
 
 f.
-congratulations for prosperity Gn 12,3 (
+félicitations pour la prospérité Gn 12,3 (
 J
-) Gen
-27,29;
+) Gn
+27,29 ;
 Nb 24,9 (
 E
 )
-1Kgs
-1,47;
-Ps 49,19;
+1 R
+1,47 ;
+Ps 49,19 ;
 Ps
 62,5.
 
 g.
-in homage
-2Sam
+en hommage
+2 S
 14,22
 ;
 Ps
@@ -463,36 +463,36 @@ Ps
 
 h.
 
-in amiliness
+en amitié
 2 S 21,3
 
 .
 
 5.
-bless, with the antithetical meaning curse (Thes) de the greeting in departing, saying adieu to,
-taking leave of; mais rather a blessing surdone et ainsi really a curse as in vulgar English
-as well as in the Shemitic apparentés: 1 R 21,10; 1 R 21,13
+bénir, avec le sens antithétique de maudire (Thes) de la salutation au départ, dire adieu à,
+prendre congé de ; mais plutôt une bénédiction excessive et donc en réalité une malédiction comme en anglais vulgaire
+ainsi que dans les langues sémitiques apparentées : 1 R 21,10 ; 1 R 21,13
 ; Jb 1,5
-; Job
+; Jb
 1,11
 ; Jb 2,5
-; Job
-2,9; Ps
+; Jb
+2,9 ; Ps
 10,3.
 
-Pu`al
+Pual
 Imparfait
 יְבֹרַךְ
 2 S 7,29
 + 3
-t.; תְּבֹרַךְ
-Jg 5,24;
+t. ; תְּבֹרַךְ
+Jg 5,24 ;
 Pr 20,21
 
 Participe
 מְבֹרָךְ
 Nb 22,6 + 3
-t.;
+t. ;
 féminin מְבֹרֶכֶת
 Dt 33,13
 
@@ -500,70 +500,70 @@ Dt 33,13
 Ps 37,22
 —
 
-1. passive to be blessed, adored:
+1. passif être béni, adoré :
 ׳
 שׁם י
-Jb 1,21;
+Jb 1,21 ;
 Ps 113,2
 
 2.
-prospered by God:
+rendu prospère par Dieu :
 
-a. perfilss 2 S 7,29; 1Chr
-17,27;
-Ps 37,22; Ps 112,2
+a. personnes 2 S 7,29 ; 1 Ch
+17,27 ;
+Ps 37,22 ; Ps 112,2
 ;
 Ps
-128,4; Pr 20,21.
+128,4 ; Pr 20,21.
 
-b. things Dt 33,13.
+b. choses Dt 33,13.
 
 3.
-have prosperity invoked, by Balaam Nb 22,6.
+avoir la prospérité invoquée, par Balaam Nb 22,6.
 
 4.
-in gratitude
+en gratitude
 Pr 22,9
 
 ; Jg 5,24
 
 .
 
-Hiph`il
+Hiphil
 וַיַּבְרֵךְ חַגְּמַלִּים
-and he made his camels kneel
-Gen
+et il fit agenouiller ses chameaux
+Gn
 24,11
 (
 J
 ).
 
-Hithpa`el
+Hithpael
 הִתְבָּרֵךְ
-Deut
-29,18 + 3 t.; Imparfait
+Dt
+29,18 + 3 t. ; Imparfait
 יִתְבָּרֵךְ
-Isa
-65,16; Ps
+Es
+65,16 ; Ps
 72,17
 Participe
 מִתְבָּרֵךְ
-Isa
-65,16 — bless oneself
-, congratulate onself בלבבו in his heart Dt 29,18
-בזרעך with or by (comparer בְּ
-III.2.d.) thy seed (invoke for oneself the
-blessing
-of the voir of Abraham) Gn 22,18
+Es
+65,16 — se bénir soi-même
+, se féliciter soi-même בלבבו dans son cœur Dt 29,18
+בזרעך avec ou par (comparer בְּ
+III.2.d.) ta semence (invoquer pour soi la
+bénédiction
+de la semence d'Abraham) Gn 22,18
 ;
 Gn 26,4 (
 J
-); by the Messianic king Ps 72,17
+) ; par le roi messianique Ps 72,17
 
 באלהי אמן
 
-Isa
-65,16 by ׳
+Es
+65,16 par ׳
 י
 Jr 4,2
 .

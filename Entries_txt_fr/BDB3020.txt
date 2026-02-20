@@ -2,16 +2,16 @@
 hébreu biblique
 
 [חָפַשׂ] verbe
-search (
+fouiller (
 
 ᵑ7
-^Jer^
+^Jr^
 
 חֲפַס
-dig, seek; Palestinian, syriaque dig (
-Schw); peut-être assyrien
+creuser, chercher ; palestinien, syriaque creuser (
+Schw) ; peut-être assyrien
 êppêšu, êtpêšu
-, sensible, Lyon^Sargontexte 65^
+, sensé, Lyon^Sargontexte 65^
 ) —
 
 Qal
@@ -24,40 +24,40 @@ Lm 3,40
 Participe
 חֹפֵשׂ
 Pr 20,27 —
-search, search out, figuré;
+fouiller, explorer, figuré ;
 
 1.
-search for, object בִּינָה etc. Pr 2,4 (|| בקשׁ).
+chercher, objet בִּינָה etc. Pr 2,4 (|| בקשׁ).
 
-2. = think out, devise, avec accusatif עולות unjust acts
+2. = concevoir, tramer, avec accusatif עולות actes injustes
 Ps 64,7
 (comparer
-aussi sub. Pu`al)
+aussi sub. Pual)
 
 3.
-search = test, Lm 3,40 (object דרכינו; || חקר
+fouiller = examiner, Lm 3,40 (objet דרכינו ; || חקר
 ),
 Pr 20,27.
 
-Niph`al
+Niphal
 Parfait
 נַחְפְּשׁוּ
 Ab 1,6
-subject עֵשָׂו collective; searched out = exposed and plsoused
+sujet עֵשָׂו collectif ; fouillé = mis à nu et pillé
 (|| נִבְעוּ מַצְפּוּנָיו).
 
-Pi`el
+Piel
 Parfait
 וְחִפַּשְׂתִּ֫י
-1Sam
+1 S
 23,23
 וְחִפְּשׂוּ
-1Kgs
+1 R
 20,6
 Imparfait
 וַיְחַפֵּשׂ
-Gen
-31,35 + 2 t.; אֲחַפֵּשׂ
+Gn
+31,35 + 2 t. ; אֲחַפֵּשׂ
 Am 9,3
 ; So 1,12
 Impératif
@@ -66,42 +66,42 @@ Impératif
 2 R 10,23 —
 
 1.
-search à travers, avec accusatif, a house 1 R 20,6, Jérusalem (métaphore)
+fouiller, avec accusatif, une maison 1 R 20,6, Jérusalem (métaphore)
 
-So 1,12 no object expressed 2 R 10,23.
+So 1,12 pas d'objet exprimé 2 R 10,23.
 
 2.
-search for:
+chercher :
 
-a. a perfils avec accusatif 1 S 23,23.
+a. une personne avec accusatif 1 S 23,23.
 
 b.
-a thing, avec accusatif Gn 44,12 (
+une chose, avec accusatif Gn 44,12 (
 J
-; Joseph searching for his cup); Gn 31,35 (
+; Joseph cherchant sa coupe) ; Gn 31,35 (
 E
-; no object expressed, Laban looking for his teraphim); Am 9,3 (׳
+; pas d'objet exprimé, Laban cherchant ses téraphim) ; Am 9,3 (׳
 
-י searching for evildoers), Ps 77,7 (soul searching to sousstand
+י cherchant les malfaiteurs), Ps 77,7 (l'âme cherchant à comprendre les voies de
 ׳
-י's dealings with his serviteurs).
+י envers ses serviteurs).
 
-Pu`al
+Pual
 Imparfait
 יְחֻפַּשׂ
 Pr 28,12
 
-be searched for = be hidden; Participe
+être recherché = être caché ; Participe
 מְחֻפָּשׂ
 
-Ps 64,7 in ׳
-חֵפֶשׂ מ = a searched out search, c.-à-d. a device well
-thought out (comparer Che; ||
-Qal q. v.); voir aussi
+Ps 64,7 dans ׳
+חֵפֶשׂ מ = une recherche approfondie, c.-à-d. un stratagème bien
+conçu (comparer Che ; ||
+Qal q. v.) ; voir aussi
 חֵ֫פֶשׂ
 .
 
-Hithpa`el
+Hithpael
 Parfait
 הִתְחַפֵּשׂ
 2 Ch 35,22
@@ -115,31 +115,31 @@ Parfait
 
 ᵑ6
 
-3 Esdr 1,26; so Be
-Öttli); Imparfait
+3 Esd 1,26 ; ainsi Be
+Öttli) ; Imparfait
 יִתְחַפֵּשׂ
 Jb 30,18
 
 וַיִּתְחַפֵּשׂ
 1 S 28,8 +
 3
-t.; Infinitif absolu
+t. ; Infinitif absolu
 הִתְחַפֵּשׂ
 1 R 22,30
 =
-2Chr
+2 Ch
 18,29
-— disguise oneself (littéralement let oneself
-be searched for) 1 S 28,8; 1Kgs
-22,30 (deux fois dans le verset) = 2 Ch 18,29 (twice
+— se déguiser (littéralement se laisser
+chercher) 1 S 28,8 ; 1 R
+22,30 (deux fois dans le verset) = 2 Ch 18,29 (deux fois
 dans le verset),
-2Chr
-35,22 (mais voir ci-dessus), all of disguise by
-change of garments; 1 R 20,38
-באפר c.-à-d. with headgear sur eyes; subject לבושׂ
+2 Ch
+35,22 (mais voir ci-dessus), tous de déguisement par
+changement de vêtements ; 1 R 20,38
+באפר c.-à-d. avec couvre-chef sur les yeux ; sujet לבושׂ
 Jb 30,18
 ,
-c.-à-d. his garment is disguised, no
-longer looks like the mantle it is.
+c.-à-d. son vêtement est déguisé, ne
+ressemble plus au manteau qu'il est.
 
 ---

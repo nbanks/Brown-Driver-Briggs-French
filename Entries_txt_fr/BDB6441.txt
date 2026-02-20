@@ -23,9 +23,9 @@ ešertu ;
 les Dix (dirigeants)) ; —
 masculin (avec nom féminin) עֶ֫שֶׂר
 2 S 15,16 +
-53 t. (absolu et construit habituellement indiscernables) ; עָ֑שֶׁר
+53 t. (absolu et construit habituellement indistinguables) ; עָ֑שֶׁר
 1 R 7,43 ; 1 Ch 6,46
-féminin (avec nom masculin) : absolu עֲשָׂרָה
+féminin (c. nom masculin) : absolu עֲשָׂרָה
 Gn 24,10 + 69
 t. ; construit (probablement) עֲשֶׂ֫רֶת
 1 S 17,18 + 46
@@ -34,7 +34,7 @@ Ex 18,21 + 2
 t. ; — sur le pluriel עֶשְׂרִים, 20, voir ci-dessous ; —
 
 1.
-une dizaine, seulement féminin pluriel dizaines dans l'expression ׳
+a dix, seulement féminin pluriel dizaines dans l'expression ׳
 שָׂרֵי ע
 chefs de dizaines
 Ex 18,21
@@ -45,7 +45,7 @@ E
 1,15.
 
 2.
-dix, énumérant des personnes ou des choses, habituellement sans autre nombre :
+dix, pour énumérer personnes ou choses, habituellement sans autre nombre :
 
 a.
 עֶ֫שֶׂר avant un nom féminin pluriel, Gn 45,23 + 43 t. après le nom 1 R 7,27 ; 1 R 7,43
@@ -64,7 +64,7 @@ P
 1 R 7,24.
 
 b.
-עֲשָׂרָה avant un nom masculin pluriel, Gn 45,23 + 25 t. (y compris אֲלָפִים
+עֲשָׂרָה avant un nom masculin pluriel, Gn 45,23 + 25 t. (incluant אֲלָפִים
 ׳
 ע = 10 000 2 S 18,3 ; 2 R 24,14
 
@@ -131,10 +131,10 @@ J
 Gn 18,23
 (
 J
-; c.-à-d. hommes), Ne 11,1 (id. = chaque dizaine
+; c.-à-d. hommes), Ne 11,1 (id. = chaque dix
 ) ; comme prédicat Ex 27,12 (deux fois dans le verset) = Ex 38,12 (deux fois dans le verset) (tous
 P
-) .
+).
 
 c.
 עֲשֶׂ֫רֶת avant un nom masculin pluriel Ex 34,28 + 18 t., + כַּעֲשֶׂרֶת הַיָּמִים
@@ -188,7 +188,7 @@ Jr 32,9 =
 dix-sept sicles ; avant un nombre plus petit + nom singulier עֲשָׂרָה וַחֲמִשָּׁה
 שֶׁקֶל
 Ez 45,12
-, mais lire חֲמִשִּׁים rattachant עֲשָׂרָה au précédent,
+, mais lire חֲמִשִּׁים joignant עֲשָׂרָה au précédent,
 
 ᵐ5
 
@@ -198,4 +198,3 @@ Hi
 Co et autres
 
 ---
-

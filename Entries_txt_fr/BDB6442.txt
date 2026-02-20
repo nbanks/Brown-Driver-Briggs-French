@@ -161,9 +161,9 @@ Jos 19,38
 ordinal 2 R
 25,8
 = Jr
-52,12. Ces nombres prennent habituellement le singulier des noms les plus fréquents, שָׁנָה,
+52,12. Ces nombres prennent habituellement le singulier des noms les plus souvent employés, שָׁנָה,
 יוֺם, חֹדֶשׁ, comparer (parfois) אִישׁ, אַמָּךְ
-, etc. ; autrement le pluriel ; rarement (usage tardif) ils suivent le nom, qui est alors habituellement au pluriel, p. ex.
+, etc. ; sinon pluriel ; rarement (usage tardif) ils suivent le nom, qui est alors habituellement au pluriel, p. ex.
 Nb 29,30
 ;
 Jos 15,51
@@ -178,12 +178,12 @@ Est 5,14
 mais שָׁנָה précède l'ordinal 1 R 6,38, שְׁנַת
 1 R 15,1
 + 8
-t., ainsi יוֺם (c. ordinal) 2 Ch 29,17 + 5 t. Est 9 aussi יוֺם et (שְׁנַת)
-שָׁנָה précèdent et suivent tous deux l'ordinal Nb 7,72 ; Nb 7,78 ; 2 R 8,25 ; 2 R 9,29 ; 2 R 14,23
+t., de même יוֺם (avec ordinal) 2 Ch 29,17 + 5 t. Est 9 aussi יוֺם et (שְׁנַת)
+שָׁנָה à la fois précèdent et suivent l'ordinal Nb 7,72 ; Nb 7,78 ; 2 R 8,25 ; 2 R 9,29 ; 2 R 14,23
 ; 2 R
 16,1 ;
 Jr 32,1 ; 2 R 25,8 = Jr 52,12. — Voir aussi
-Kö^ii. 1. 211 ss.^
+Kö^ii. 1. 211 ff.^
 Da^Synt. § 37 a^, aussi R. 1, 2. Ges^«GKC:92d»§§ 92d, e^, «GKC:134»134, et surtout
 Herner^Synt. d. Zahlw-rter im AT {1893}^ ; sur la forme en הֵ֯ (prob pour יַ֯
 ), Ol^§ 110^
@@ -191,4 +191,3 @@ Kö^ii. 1, 427^
 W^SG 138^.
 
 ---
-

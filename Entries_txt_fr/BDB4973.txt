@@ -1,48 +1,48 @@
 === BDB4973 H5059 ===
 hébreu biblique
 
-[נָגַּן] verb
-touch (strings), play a stringed instrument (hébreu tardif Pi`el; Aramaic
-נְגַן Pa`el); —
+[נָגַּן] verbe
+toucher (les cordes), jouer d'un instrument à cordes (hébreu tardif Piel ; araméen
+נְגַן Pael) ; —
 
 Qal
 Participe
 נֹגְנִים
 Ps 68,26
-players (|| שָׁרִים, עֲלָמוֺת תּוֺפֵפוֺת).
+joueurs (|| שָׁרִים, עֲלָמוֺת תּוֺפֵפוֺת).
 
-Pi`el
+Piel
 Parfait
 וְנִגֵּן
 1 S 16,16
-(consecutive),
+(consécutif),
 1 S 16,23
 Imparfait 1 pluriel נְנַגֵּן
 Es 38,20
 Infinitif construit
 נַגֵּן
 1 S 16,17
-+ 5 t.; Participe
++ 5 t. ; Participe
 מְנַגֵּן
 1 S 16,16
-+ 4 t.; — play
++ 4 t. ; — jouer
 בַּכִנּוֺר
 1 S 16,16
-בְּיָדוֺ 1 S 16,16 1 S 16,23 (כִּנּוֺר in context), 1 S 18,10;
-1 S 19,9 with
-accusative of cognate meaning Es 38,20 in comparaison מֵטִב נַגֵּן
+בְּיָדוֺ 1 S 16,16 1 S 16,23 (כִּנּוֺר dans le contexte), 1 S 18,10 ;
+1 S 19,9 avec
+accusatif de sens apparenté Es 38,20 dans une comparaison מֵטִב נַגֵּן
 Ez 33,32
-(|| שִׁיר עֲגָבִים יְפֵהקֿוֺל); אִישׁ
+(|| שִׁיר עֲגָבִים יְפֵהקֿוֺל) ; אִישׁ
 ׳
 מֵיטִיב לְנ
 1 S 16,17,
 comparer Ps 33,3
 ; Es 23,16
-(both || שִׁיר), ׳
+(les deux || שִׁיר), ׳
 יָדַע נ
 1 S 16,18
-also 2 R 3,15
-Participe = player, minstrel (comparer Qal) 2 R 3,15 (deux fois dans le verset); comparer also
+aussi 2 R 3,15
+Participe = joueur, ménestrel (comparer Qal) 2 R 3,15 (deux fois dans le verset) ; comparer aussi
 אִישׁ יֹדֵעַ מְנַגֵּן
 בַכִנּוֺר
 1 S 16,16

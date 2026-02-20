@@ -3,12 +3,12 @@ hébreu biblique
 
 בּוֺשׁ_109_
 verbe
-be ashamed (sabéen בוס; מהבאס = evil-doer
+avoir honte (sabéen בוס ; מהבאס = malfaiteur
 
-DHM^ZMG 1883, 375, ||^ Aramaic בְּהַת, syriaque
-[placeholder538: Placeholders/538.gif]; arabe
+DHM^ZMG 1883, 375, ||^ araméen בְּהַת, syriaque
+[placeholder538: Placeholders/538.gif] ; arabe
 [placeholder539: Placeholders/539.gif],
-[placeholder540: Placeholders/540.gif] mean disperse) —
+[placeholder540: Placeholders/540.gif] signifient disperser) —
 
 Qal
 Parfait
@@ -19,69 +19,69 @@ Jr 48,13
 Jr 15,9
 בּשְׁתִּי
 Jr 31,19 + 25
-t.; Imparfait
+t. ; Imparfait
 יֵבוֺשׁ
 Es 29,22 + 57
-t.; Infinitif absolu בּוֺשׁ
-Jr 6,15; Jr 8,12
+t. ; Infinitif absolu בּוֺשׁ
+Jr 6,15 ; Jr 8,12
 Impératif
 בּוֺשִׁי
-Es 23,4; Ez 16,52,
+Es 23,4 ; Ez 16,52,
 בּוֺשׁוּ
 Ez 36,32
 Participe pluriel בּוֺשִׁים
 Ez 32,30 —
 
-1. absolu feel shame
+1. absolu éprouver de la honte
 Jr 6,15 + 16
 t.,
-Es 19,9; Es 23,4; Es 37,27
-Isa^2^, Es 45,16 + 14 t., Ez 16,63; Mi 7,16; Jl 2,26; Jl 2,27;
+Es 19,9 ; Es 23,4 ; Es 37,27
+Es^2^, Es 45,16 + 14 t., Ez 16,63 ; Mi 7,16 ; Jl 2,26 ; Jl 2,27 ;
 2 R 19,26
-; Ez 9,6;
-Jb 6,20; Ps 6,11 (+ 27
-t., chefly in late Psaumes).
+; Ez 9,6 ;
+Jb 6,20 ; Ps 6,11 (+ 27
+t., surtout dans les Psaumes tardifs).
 
-2. suivi de מִן, be ashamed of, c.-à-d.
-disconcerted, disappointed by reafils de
+2. suivi de מִן, avoir honte de, c.-à-d.
+être déconcerté, déçu à cause de
 Jr 2,36
-(twice in
-verse); Jer
+(deux fois dans le
+verset) ; Jr
 12,13
-; Jer
+; Jr
 48,13
 ; Es 1,29
 ;
-Es 20,5; Ez 32,30
+Es 20,5 ; Ez 32,30
 ;
 Ez 36,32
 .
 
-3. with object בּשְׁתִּי לִשְׁאוֺל
-I am ashamed to ask
+3. avec objet בּשְׁתִּי לִשְׁאוֺל
+j'ai honte de demander
 
-Ez 8,22
+Esd 8,22
 לֹא
 תֵבשׁוּ תַּהְכְּרוּ לִי
-ye are not ashamed to deal hardly with me (imperfect subject) Jb 19,3. בּושׁ
+vous n'avez pas honte de me traiter durement (sujet imparfait) Jb 19,3. בּושׁ
 souvent ||
-נכלם & חפר; בּשׁוּ וְהָכְלְמוּ
-they are ashamed and confounded
-Jr 14,3; Jr 22,22
-Isa^2^, Es 41,11; Es 45,16; Es 45,17; Ez 16,52; Ez 36,32
-; Ps 35,4; Ps 69,7; Ez 9,6
+נכלם & חפר ; בּשׁוּ וְהָכְלְמוּ
+ils sont honteux et confondus
+Jr 14,3 ; Jr 22,22
+Es^2^, Es 41,11 ; Es 45,16 ; Es 45,17 ; Ez 16,52 ; Ez 36,32
+; Ps 35,4 ; Ps 69,7 ; Ez 9,6
 וּבשׁוּ הַחֹזִים וְחָֽפְרוּ הַקֹּסְמִים
-and the seers shall be ashamed and the diviners confounded
+et les voyants auront honte et les devins seront confondus
 Mi 3,7, comparer
-Jr 15,9; Jb 6,20; Ps 35,26;
-Ps 40,15;
-Ps 70,3; Ps 71,24
+Jr 15,9 ; Jb 6,20 ; Ps 35,26 ;
+Ps 40,15 ;
+Ps 70,3 ; Ps 71,24
 יֵבוֺשׁ
 מְקוֺרוֺ
 Os 13,15
 (lire יִיבַשׁ
-be dry); עַדבּֿוֺשׁ
-to the point of confusion
+être sec) ; עַדבּֿוֺשׁ
+au point de confusion
 Jg 3,25
 (comparer
 GFM), 2 R 2,17
@@ -91,16 +91,16 @@ GFM), 2 R 2,17
 Polel
 Parfait
 בּשֵׁשׁ
-delay (in shame), בּשֵׁשׁ משֶׁה לָרֶדֶת
-Moïse delayed to descend
+tarder (par honte), בּשֵׁשׁ משֶׁה לָרֶדֶת
+Moïse tarda à descendre
 Ex 32,1 (
 
 J
 ), מַדּוּעַ בּשֵׁשׁ רִכְבּוֺ לָבוֺא
-why delay his chariots to come ?
+pourquoi ses chars tardent-ils à venir ?
 Jg 5,28.
 
-Hiph`il
+Hiphil
 
 1.
 הֱבִישׁוֺתָ
@@ -113,73 +113,73 @@ Ps 119,31
 Ps 119,116
 תָּבִישׁוּ
 Ps 14,6
-put to shame, Participe
+couvrir de honte, Participe
 מֵבִישׁ
-Pr 10,5;
+Pr 10,5 ;
 Pr 14,35
-; Prov
-19,26;
+; Pr
+19,26 ;
 Pr 29,15
-one causing shame or acting shamefully, || מִשְׂכִּיל
+celui qui cause la honte ou agit honteusement, || מִשְׂכִּיל
 ; עֶבֶד מַשְׂכִּיל יִמְשֹׁל בְּבֵן מֵבִישׁ
-a serviteur acting wisely will rule sur a fils causing shame
+un serviteur avisé dominera sur un fils qui fait honte
 Pr 17,2
 מְבִישָׁה || אֵשֶׁת חַיִל
 Pr 12,4.
 
 2.
 הוֺבִישׁ
-2 S 19,6;
-Jr 2,26; Jr 6,15; Jl 1,10;
+2 S 19,6 ;
+Jr 2,26 ; Jr 6,15 ; Jl 1,10 ;
 Jl 1,12
 הֹבִישׁ
 Jr 10,14
-+ 7 t., Os 2,7;
-Jl 1,12;
-Jl 1,17;
++ 7 t., Os 2,7 ;
+Jl 1,12 ;
+Jl 1,17 ;
 Es 30,5 (mais
 הבאיש
 
 Kt
-); הֹבִשׁוּ
-Jr 8,9; Jr 8,12
+) ; הֹבִשׁוּ
+Jr 8,9 ; Jr 8,12
 Impératif
 הֹבִישׁוּ
 Jl 1,11
-(all the forms in Jl derived √ יָבֵשׁ by ancient versions et ainsime moderns, voir Ew^§ 122 e^
+(toutes les formes dans Joël dérivées de √ יָבֵשׁ par les versions anciennes et certains modernes, voir Ew^§ 122 e^
 Ges^«GKC:72»§ 72^, 6).
 
 a.
-put to shame
+couvrir de honte
 2 S 19,6
 .
 
 b.
-act shamefully
+agir honteusement
 Os 2,7.
 
 c.
-to be put to shame
+être couvert de honte
 Jr 2,26
 ;
-Jr 6,15; Jr 46,24; Jr 48,1 (deux fois dans le verset); Jr 48,20; Jr 50,2
-(deux fois dans le verset); Jl 1,10; Jl 1,12; Jl 1,17 (?).
+Jr 6,15 ; Jr 46,24 ; Jr 48,1 (deux fois dans le verset) ; Jr 48,20 ; Jr 50,2
+(deux fois dans le verset) ; Jl 1,10 ; Jl 1,12 ; Jl 1,17 (?).
 
 d.
-be ashamed
+avoir honte
 Jr 8,9
 ;
-Jr 8,12; Jl 1,11; Jl 1,12 (?) Isa
+Jr 8,12 ; Jl 1,11 ; Jl 1,12 (?) Es
 30,5 (
 Qr
-); with מִן
+) ; avec מִן
 
 Jr 10,14 = Jr 51,17.
 
 Hithpa`el
 Imparfait
 יִתְבּשָׁ֑שׁוּ
-ashamed devant one another
+avoir honte l'un devant l'autre
 
 Gn 2,25 (
 J

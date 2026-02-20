@@ -1,15 +1,15 @@
 === BDB4813 H4803 H4593 H4178 ===
 hébreu biblique
 
-[מָרַט] verb
-make smooth, bare, bald; scour, polish (hébreu tardif id.; pull out, off
-(feathers, hair); Aramaic
+[מָרַט] verbe
+rendre lisse, nu, chauve ; récurer, polir (hébreu tardif id. ; arracher, ôter
+(plumes, cheveux) ; araméen
 [placeholder3081: Placeholders/3081.gif]. מְרַט
-id.; Arabic
+id. ; arabe
 [placeholder3082: Placeholders/3082.gif]
-have little hair,
+avoir peu de cheveux,
 [placeholder3083: Placeholders/3083.gif]
-pluck out hair); —
+arracher les cheveux) ; —
 
 Qal
 Imparfait 1 singulier וָאֶמְרְטָה
@@ -21,28 +21,28 @@ Infinitif construit
 Ez 21,16
 Participe pluriel מֹרְטִים
 Es 50,6
-passive féminin מְרוּטָה
+passif féminin מְרוּטָה
 Ez 21,14 +
-2 t.; —
+2 t. ; —
 
 1.
-make bare
+rendre nu
 כָּלכָּֿתֵף מְרוּטָה
 Ez 29,18
 
-every shoulder is laid bare (from chafing of burden; || כָּלרֿאֹשׁ מֻקְרָח
-); the cheek (by plucking out beard) גֵּוִי נָתַתִּי
+toute épaule est mise à nu (par le frottement du fardeau ; || כָּלרֿאֹשׁ מֻקְרָח
+) ; la joue (en arrachant la barbe) גֵּוִי נָתַתִּי
 לְמַכִּים וּלְחָיַי לְמֹרְטִ֑ים
-Es 50,6 with
-accusative of person וָאֶמְרְטֵ֑ם
+Es 50,6 avec
+accusatif de personne וָאֶמְרְטֵ֑ם
 Ne 13,25
-(both acts of violence); of hair and beard וָאֶמְרְטָה מִשְּׂעַר ראֹשִׁי וּזֶקָנִי
-Esd 9,3 (sign of
-grief).
+(les deux actes de violence) ; des cheveux et de la barbe וָאֶמְרְטָה מִשְּׂעַר ראֹשִׁי וּזֶקָנִי
+Esd 9,3 (signe de
+deuil).
 
 2.
-scour, polish, a sword, seulement Ez 21: Esd 9,14 (+ הוּחַדָּת; Co reads ׳
-מ as Pu), v
+récurer, polir, une épée, seulement Ez 21 : Esd 9,14 (+ הוּחַדָּת ; Co lit ׳
+מ comme Pu), v
 
 Esd 9,16
 (supprimer Co), v
@@ -51,7 +51,7 @@ Esd 9,33, +
 v
 
 Esd 9,20
-מְרֻטָה for
+מְרֻטָה pour
 
 ᵑ0
 
@@ -60,47 +60,47 @@ Sm
 Co
 Berthol).
 
-Niph`al
+Niphal
 Imparfait
 יִמָּרֵט ראֹשׁוֺ
 Lv 13,40
-; Lev
+; Lv
 13,41
-his head is made bald (by leprosy).
+sa tête est rendue chauve (par la lèpre).
 
-Pu`al
+Pual
 Parfait 3 féminin singulier מֹרָ֑טָה
-Ezek
-21,15;
+Ez
+21,15 ;
 Ez 21,16
 Participe
 מְמֹרָט
 1 R 7,45
 , מוֺרָט
 
-Isa
-18,27 (Ges^«GKC:52»§ 52^ R.6): —
-scoured, polished, of bronze utensils of temple 1 R 7,45 of human skin
+Es
+18,27 (Ges^«GKC:52»§ 52^ R.6) : —
+récuré, poli, des ustensiles de bronze du temple 1 R 7,45 de la peau humaine
 
-Isa
-18,27 of sword Ez 21,15; Ez 21,16 (both + הוּחַדָּה, see
-Qal above)
+Es
+18,27 de l'épée Ez 21,15 ; Ez 21,16 (les deux + הוּחַדָּה, voir
+Qal ci-dessus)
 
 ---
 
-מְרִי see
+מְרִי voir
 מרה
 .
 
 ---
 
-מְרִיבַֿ֫עַל, מְרִיבבַּֿ֫עַל see
+מְרִיבַֿ֫עַל, מְרִיבבַּֿ֫עַל voir
 ריב
 .
 
 ---
 
-I, II. מְרִיבָה see
+I, II. מְרִיבָה voir
 ריב
 .
 

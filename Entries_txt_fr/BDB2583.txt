@@ -1,18 +1,18 @@
 === BDB2583 H2325 ===
 hébreu biblique
 
-[חוּב] verb
-be guilty (hébreu tardif id., be under obligation, guilty; Aramaic
-[placeholder1647: Placeholders/1647.gif], חוּב, be defeated, guilty; Arabic
+[חוּב] verbe
+être coupable (hébreu tardif id., être sous obligation, coupable ; araméen
+[placeholder1647: Placeholders/1647.gif], חוּב, être vaincu, coupable ; arabe
 [placeholder1648: Placeholders/1648.gif]
-be disappointed, fail; — Arabic
+être déçu, échouer ; — arabe
 [placeholder1649: Placeholders/1649.gif],
 [placeholder1650: Placeholders/1650.gif]
-sin, is loan-word according to Bev
-Dn 1,10); —
+pécher, est un emprunt selon Bev
+Dn 1,10) ; —
 
-Qal not in MT; but read peut-être חַבְתִּי (for סַבֹּתִי) 1 S 22,22
-I am guilty, so
+Qal pas dans le TM ; mais lire peut-être חַבְתִּי (pour סַבֹּתִי) 1 S 22,22
+je suis coupable, ainsi
 
 ᵑ6
 
@@ -20,10 +20,10 @@ Th
 We
 Dr.
 
-Pi`el
+Piel
 Parfait
-inculpate
-וְחִיַּבְתֶּם אתרֿאֹשִׁי לַמֶּ֑לֶךְ consecutive Dn 1,10
-and inculpate my head with the king.
+inculper
+וְחִיַּבְתֶּם אתרֿאֹשִׁי לַמֶּ֑לֶךְ consécutif Dn 1,10
+et vous inculperez ma tête auprès du roi.
 
 ---

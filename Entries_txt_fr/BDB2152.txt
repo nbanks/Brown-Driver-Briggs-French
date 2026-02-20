@@ -5,7 +5,7 @@ hébreu biblique
 nom masculin^
 Lv 19,36
 ^
-hin, mesure de liquide (
+hin, une mesure de liquide (
 
 ᵐ5
 
@@ -19,8 +19,8 @@ hin, mesure de liquide (
 Lv 19,36 grec
 ἴυιον, mesure égyptienne, = sextarius, selon Böckh^Metrol. Unters.
 244^ comparer Brandis^Münz- Mass- & Gewichtswesen 29, 30^ ; le hin hébreu (6,06 litres) était
-cependant beaucoup plus grand que le hin égyptien (0,456 litre), voir
-Hultsch^Metrol., Tab. xxi. p. 714, & pp. 368, 450 ss.^ ; voir en outre Ri^HWB^
+cependant bien plus grand que le hin égyptien (0,456 litre), voir
+Hultsch^Metrol., Tab. xxi. p. 714, et pp. 368, 450 ff.^ ; voir en outre Ri^HWB^
 Smith^Dict.Bib.^
 EMey^Geschichte. i. 228^) — absolu הִין
 Ex 30,24 + 4
@@ -34,7 +34,7 @@ Lv 19,36 —
 
 1. une mesure, utilisée pour la quantité d'eau à boire Ez 4,11 habituellement en rapport avec les offrandes :
 
-a. d'huile utilisée avec l'offrande de farine Ex 29,40 ; Nb 15,4 ; Nb 15,6 ; Nb 15,9 ; Nb 28,5 (tous
+a. d'huile utilisée avec l'offrande végétale Ex 29,40 ; Nb 15,4 ; Nb 15,6 ; Nb 15,9 ; Nb 28,5 (tous
 P
 ),
 Ez
@@ -43,14 +43,14 @@ Ez
 46,5 ;
 Ez
 46,6 ;
-Ez 46,11 ; Ez 46,14 — habituellement 1/4 de hin pour 1/10 d'épha (d'offrande de farine) ; Nb 15,6 1/3 ; v
+Ez 46,11 ; Ez 46,14 — habituellement 1/4 de hin pour 1/10 d'épha (d'offrande végétale) ; Nb 15,6 1/3 ; v
 Nb 15,9 1/2 ; dans
 Ézéchiel un (entier)
 hin, sauf
 Ez
 46,14 1/3 de hin pour 1/6 d'épha.
 
-b. utilisée dans la préparation de l'huile d'onction Ex 30,24.
+b. utilisé dans la préparation de l'huile d'onction Ex 30,24.
 
 c. de vin comme libation Lv 23,13 (
 H
@@ -65,11 +65,11 @@ Nb 28,14
 1/4 de hin) Nb 15,7
 ;
 Nb 28,14
-(tous deux
+(les deux
 1/3 de hin), Nb
 15,10
 ; Nb 28,14
-(tous deux 1/2 hin ; tous avec 1/10 à 3/10 d'épha pour l'offrande de farine).
+(les deux 1/2 hin ; tous avec 1/10 à 3/10 d'épha pour l'offrande végétale).
 
 d. une fois de
 שֵׁכָר comme libation Nb 28,7 (
@@ -86,7 +86,7 @@ un hin juste (|| ׳
 «JOSEPHUS:Antiquities 3:8»iii. 8^, 3 ; «JOSEPHUS:Antiquities 3:9»9, 4, = 6,06 litres (Hultsch^l.c^.), voir II.
 בַּת
 . Sur l'ordre des mots dans les passages ci-dessus, noter que הִין (׳
-רְבִיעִת ה etc.) est habituellement apposé au liquide mesuré, & soit le précède Ex 29,40 ; Nb 15,4 ; Nb 28,14, soit,
+רְבִיעִת ה etc.) est habituellement en apposition au liquide mesuré, et soit le précède Ex 29,40 ; Nb 15,4 ; Nb 28,14, soit,
 plus souvent, le suit Ex 30,24 + 10 t. ; Nb 28,7 ils sont dans des propositions différentes ; dans Ex 29,40 on trouve
 בְּשֶׁמֶןרֶ֗֗֗בַע הַהִין, comparer Nb 15,6 ; Nb 15,9 ; Nb 28,5 — Nb 28,14 est particulier : וְנִסְכֵּיהֶם חֲצִי הַהִין יִהְיֶה לַפָּר
 וּשְׁלִישִׁת

@@ -3,9 +3,9 @@ hébreu biblique
 
 בָּרַח
 verbe
-go à travers, flee (comparer German durchgehen (arabe
+traverser, fuir (comparer allemand durchgehen (arabe
 [placeholder700: Placeholders/700.gif]
-go away, withdraw, flee) —
+s'en aller, se retirer, fuir) —
 
 Qal
 Parfait
@@ -19,11 +19,11 @@ Imparfait
 יִבְרַח
 Jb 20,24,
 יִבְרָ֑ח
-Jb 27,22;
+Jb 27,22 ;
 Ne 6,11,
 וַיִּבְרַח
 Gn 31,21 + 13
-t.; 3 féminin singulier וַתִּבְרַח
+t. ; 3 féminin singulier וַתִּבְרַח
 Gn 16,6,
 אֶבְרָ֑ח
 Ps 139,7,
@@ -51,10 +51,10 @@ Jon 1,3 suffixe
 בָּרְחֲךָ
 Gn 31,5,
 בָּרְחוֺ
-Gn 35,7 + 2 t.; —
+Gn 35,7 + 2 t. ; —
 
 1.
-go or pass though, of bar, וַיַּעַשׂ אֶתהַֿבְּרִיחַלִ֗֗֗בְרֹחַ
+passer à travers, de barre, וַיַּעַשׂ אֶתהַֿבְּרִיחַלִ֗֗֗בְרֹחַ
 
 Ex 36,33
 
@@ -63,7 +63,7 @@ P
 ).
 
 2.
-flee
+fuir
 Gn 31,20
 ;
 Gn 21,21
@@ -72,74 +72,74 @@ Gn 31,22
 (
 
 E
-) Exod
+) Ex
 14,5
 (
 J
-) Judg
+) Jg
 9,21
-; 1Sam
-19,12;
-1 S 19,18; 1 S 22,17; 2 S 13,34; 2 S 13,37; 2 S 13,38 (supprimer Dr comparer We) 2 S 15,14
+; 1 S
+19,12 ;
+1 S 19,18 ; 1 S 22,17 ; 2 S 13,34 ; 2 S 13,37 ; 2 S 13,38 (supprimer Dr comparer We) 2 S 15,14
 ; Es 22,3
 ; Jr 4,29
-; Jer
-26,21;
-Jr 39,4;
-Jr 52,7;
+; Jr
+26,21 ;
+Jr 39,4 ;
+Jr 52,7 ;
 Ne 6,11
-figuré of days fleeing away Jb 9,25 of man, like a shadow Jb 14,2 with מִן
-flee de a place 1 S 20,1; 2 S 19,10 9 + מֵעַל perfils) Es 48,20
-, a weapon Jb 20,24 a
-perfils, with מֵאֵת
+figuré des jours qui s'enfuient Jb 9,25 de l'homme, comme une ombre Jb 14,2 avec מִן
+fuir d'un lieu 1 S 20,1 ; 2 S 19,10 9 + מֵעַל personne) Es 48,20
+, une arme Jb 20,24 une
+personne, avec מֵאֵת
 1 R 11,23
-, généralement with מִפְּנֵי
-Gn 16,6;
-Gn 16,8;
+, habituellement avec מִפְּנֵי
+Gn 16,6 ;
+Gn 16,8 ;
 Gn 31,27
 ;
-Gn 35,1;
-Gn 35,7;
+Gn 35,1 ;
+Gn 35,7 ;
 Ex 2,15
-(all
+(tous
 
 J
 
 E
-) Judg
+) Jg
 11,3
 ;
-2Sam
-21,11;
-1Kgs
-2,7;
-1Kgs
+2 S
+21,11 ;
+1 R
+2,7 ;
+1 R
 12,2 =
-2 Ch 10,2;
+2 Ch 10,2 ;
 Ps
-3,1; Ps
-57,1 (titles) Ps 139,7; Jon 1,10
+3,1 ; Ps
+57,1 (titres) Ps 139,7 ; Jon 1,10
 ׳
 מִיַּד י figuré Jb 27,22
-flee to, avec accusatif place 1 S 27,4; 1 R 11,40; Os 12,13 with place &
+fuir vers, avec accusatif lieu 1 S 27,4 ; 1 R 11,40 ; Os 12,13 avec lieu &
 לְ
 Ne 13,10
 
-with place & ָ  ה locative Jon 1,3; Jon 4,2; 2 S 4,3 with place & אֶלֿ
+avec lieu & ָ  ה locatif Jon 1,3 ; Jon 4,2 ; 2 S 4,3 avec lieu & אֶלֿ
 Nb 24,11
 ;
 Am 7,12
-with אֶלֿ & perfils 1 S 23,6; Gn 27,43 (
+avec אֶלֿ & personne 1 S 23,6 ; Gn 27,43 (
 J
-) 1Kgs
-2,39; 1 R 11,40
-אַחֲרֵי & perfils 1 S 22,20
-flee, suivi de infinitive 1 R 11,17; Dn 10,7.
+) 1 R
+2,39 ; 1 R 11,40
+אַחֲרֵי & personne 1 S 22,20
+fuir, suivi de l'infinitif 1 R 11,17 ; Dn 10,7.
 
-3. flee = hasten, come quickly
+3. fuir = se hâter, venir vite
 Ct 8,14.
 
-Hiph`il
+Hiphil
 Parfait
 הִבְרִיחוּ
 1 Ch 8,13
@@ -162,16 +162,16 @@ Ex 26,28
 —
 
 1.
-pass à travers littéral Ex 26,28 (
+traverser littéral Ex 26,28 (
 P
 ) comparer
 Qal.
 
 2.
-cause to flee, put to flight, animal Jb 41,20, men 1 Ch 8,18; 1 Ch 12,16
-drive away
+faire fuir, mettre en fuite, animal Jb 41,20, hommes 1 Ch 8,18 ; 1 Ch 12,16
+chasser
 Pr 19,16
-; Neh
+; Ne
 13,28 (suivi de מֵעָלַי).
 
 ---

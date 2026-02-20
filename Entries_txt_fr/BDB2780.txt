@@ -4,62 +4,62 @@ hébreu biblique
 חַלּוֺן
 nom masculin^
 Jos 2,18
-^ and féminin^
+^ et féminin^
 Ez 40,16
 
 ^
-window, absolu הַחַלּוֺן
-Gn 26,8 + 12 t.;
+fenêtre, absolu הַחַלּוֺן
+Gn 26,8 + 12 t. ;
 construit חַלּוֺן
-Gn 8,6; Pr 7,6 suffixe
+Gn 8,6 ; Pr 7,6 suffixe
 חַלּוֺנָו֯
 Ez 40,22
 masculin pluriel חַלּוֺנִים
 Ez 40,25 +
-3 t.; construit חַלּוֺנֵי
+3 t. ; construit חַלּוֺנֵי
 1 R 6,4 suffixe
 חַלּוֺנָי֑
 Jr 22,14
-(defective pluriel Ges^«GKC:87»§ 87^ (1) c, duel Ew^§ 177 a^, mais lire יָ֯ו סָפוֺן
+(pluriel défectif Ges^«GKC:87»§ 87^ (1) c, duel Ew^§ 177 a^, mais lire יָ֯ו סָפוֺן
 Mich
 Hi
-Gf Or Gie); חַלּוֺנֵינוּ
+Gf Or Gie) ; חַלּוֺנֵינוּ
 
 Jr 9,20 féminin
 חַלּוֺנוֺת
 Ez 40,16 +
-4 t.; חַלֹּנוֺת
-Ct 2,9 + 3 t.;
-window
+4 t. ; חַלֹּנוֺת
+Ct 2,9 + 3 t. ;
+fenêtre
 ׳
 פָּתַח ח
-open the window
+ouvrir la fenêtre
 Gn 8,6 (
 P
-) 2Kgs
+) 2 R
 13,17
 ׳
 עלה בח
 Jr 9,20
 ׳
 בעד הח
-à travers the window
-Gn 26,8; Jos 2,15 (
+par la fenêtre
+Gn 26,8 ; Jos 2,15 (
 J
 ) Jg 5,28
 ; 1 S 19,12
 ; 2 S 6,16
-= 1 Ch 15,29;
-2 R 9,30; Jl 2,9
-latticed windows
-1 R 6,4; Ez 40,16;
-Ez 41,16;
+= 1 Ch 15,29 ;
+2 R 9,30 ; Jl 2,9
+fenêtres à treillis
+1 R 6,4 ; Ez 40,16 ;
+Ez 41,16 ;
 Ez 41,26
 ׳
 בּח
-Jos 2,18; Jos 2,21 (
+Jos 2,18 ; Jos 2,21 (
 J
-) Pr 7,6;
+) Pr 7,6 ;
 So 2,14
 ׳
 אֶלהֿח
@@ -67,10 +67,10 @@ So 2,14
 ׳
 מִןהֿח
 Ct 2,9
-windows of palace, קָרַע לוֺ חַלּוֺנָי(וׅ
+fenêtres de palais, קָרַע לוֺ חַלּוֺנָי(וׅ
 Jr 22,14
-cutteth him out his windows; of the gates of Ézéchiel's temple Ez 40,16; Ez 40,22; Ez 40,25
-(deux fois dans le verset);
-Ez 40,29; Ez 40,33; Ez 40,36, of the temple itself Ez 41,16 (deux fois dans le verset).
+il se perce des fenêtres ; des portes du temple d'Ézéchiel Ez 40,16 ; Ez 40,22 ; Ez 40,25
+(deux fois dans le verset) ;
+Ez 40,29 ; Ez 40,33 ; Ez 40,36, du temple lui-même Ez 41,16 (deux fois dans le verset).
 
 ---

@@ -2,9 +2,9 @@
 hébreu biblique
 
 גּוֺי_561_
-nom masculin^
+nom masculin
 Gn 12,2
-^
+
 nation, peuple (hébreu tardif id. Gentils, phénicien גו
 communauté,
 [placeholder834: Placeholders/834.gif], sabéen גו
@@ -25,7 +25,7 @@ Ez 36,14 ;
 Ez 36,15 (
 
 Qr
-faussement גּוֺיַיִךְ comparer Co, qui supprime v
+fautivement גּוֺיַיִךְ comparer Co, qui supprime v
 Ez 36,15) ;
 pluriel גּוֺיִם
 Gn 10,5 + 410 t. +
@@ -42,7 +42,7 @@ Gn 18,18 + 8
 t., גּוֺיֵ
 2 Ch 32,13 ;
 Esd 6,21
-(comparer notes de Baer) ; suffixe גּוֺיֵהֶם
+(comparer les notes de Baer) ; suffixe גּוֺיֵהֶם
 Gn 10,5 ; Gn 10,20 ; Gn 10,31 ; Gn 10,32 —
 
 1.
@@ -118,15 +118,15 @@ Gn 25,23 (
 J
 ).
 
-b. nettement d'Israël Ex 19,6 (קָדוֺשׁ
+b. expressément d'Israël Ex 19,6 (קָדוֺשׁ
 ׳
 גּ) Ex 33,13 (tous deux
 J
 
 E
 ), Dt 4,6
-(הַגּוֺי הַגָּדוֺל הַזֶּה, dit par les païens comparer Dt 4,7 Dt 4,8) voir aussi Dt 4,34, Dt 26,5 comparer Ps 33,12 ; Ps 83,5 (dit par
-les ennemis) Jr
+(הַגּוֺי הַגָּדוֺל הַזֶּה, dit par des païens comparer Dt 4,7 Dt 4,8) voir aussi Dt 4,34, Dt 26,5 comparer Ps 33,12 ; Ps 83,5 (dit par des
+ennemis) Jr
 31,36 ; Jr 33,24 ; Ez 37,22 dans le récit Jos 3,17 ; Jos 4,1 ; Jos 5,8 (
 J
 
@@ -135,9 +135,9 @@ E
 (
 D
 ), Jos
-10,13 (en poésie, sans article) ; d'Israël et Juda comme deux nations
+10,13 (en poésie, sans article) ; d'Israël et de Juda comme deux nations
 Ez 35,10
-(dit par les païens) Ez 37,22 de Juda Es 26,2 ; Es 26,15 (deux fois dans le verset) ; comparer Es 58,2 ; Es 60,22 ;
+(dit par des païens) Ez 37,22 de Juda Es 26,2 ; Es 26,15 (deux fois dans le verset) ; comparer Es 58,2 ; Es 60,22 ;
 Mi 4,7 une fois
 mon peuple
 So 2,9 (||
@@ -146,7 +146,7 @@ Ps 106,5
 (c.-à-d. de ׳
 י), comparer aussi Ez 36,13 ; Ez 36,14 (lire
 Kt
-) ; surtout d'Israël et (ou) Juda comme pécheur, rebelle Dt 32,28 ; Jg 2,20 ; Es 1,4 ; Es 10,6 ; Jr 5,9 ; Jr 5,29 ; Jr 7,28 ; Jr 9,8 ; Jr 12,17 ;
+) ; surtout d'Israël et (ou) de Juda comme pécheur, rebelle Dt 32,28 ; Jg 2,20 ; Es 1,4 ; Es 10,6 ; Jr 5,9 ; Jr 5,29 ; Jr 7,28 ; Jr 9,8 ; Jr 12,17 ;
 
 (supprimer
 
@@ -155,14 +155,14 @@ Kt
 Co) Ag 2,14 ; Ml 3,9. — Note. Cette référence précise à Israël et (ou) Juda est
 relativement rare ; dans l'Hexateuque pas
 P
-(voir pourtant Gn
+(cependant voir Gn
 17,4 ; Gn
 17,5 ; Gn
 17,6 ;
 Gn 17,16 ; Gn 35,11
 
 P
-) ; rarement dans les prophètes de l'exil & post-exil ; pas Chroniques —
+) ; rarement chez les prophètes exiliques & post-exiliques ; pas les Chroniques —
 
 c. habituellement des
 peuples non hébreux
@@ -182,7 +182,7 @@ Israël comme ׳
 עם י
 2 S 7,23 ;
 1 Ch 17,21
-(deux fois dans le verset) etc., voir עם, comparer aussi Nb 23,9 noter surtout גְּלִיל הַגּוֺיִם
+(deux fois dans le verset) etc., voir עם, comparer aussi Nb 23,9 noter spécialement גְּלִיל הַגּוֺיִם
 
 Es 8,23
 cercle ou district des nations (voir
@@ -192,7 +192,7 @@ cercle ou district des nations (voir
 Jg 4,2 ; Jg 4,13 ; Jg 4,16
 Charosheth des nations, & מֶלֶךְ גּוֺיִם לְגִלְגָּ֖ל
 Jos 12,23
-roi de nations (peuples, tribus) appartenant à Gilgal (
+roi des nations (peuples, tribus) appartenant à Guilgal (
 
 ᵐ5
 
@@ -229,7 +229,7 @@ aussi Es 2,2 ; Es 2,4 comparer
 avec Mi 4,1 ; Mi 4,3.
 
 2.
-figuré d'un essaim de sauterelles Jl 1,6 de toutes espèces d'animaux So 2,14.
+figuré d'un essaim de sauterelles Jl 1,6 de toutes les espèces d'animaux So 2,14.
 
 3.
 גּוֺיִם

@@ -1,31 +1,31 @@
 === BDB4553 H4171 ===
 hébreu biblique
 
-[מוּר] verb
-change (hébreu tardif id., Hiph`il; Arabic
-[placeholder2923: Placeholders/2923.gif] (medial ו) is move to and fro (intransitive);
-[placeholder2924: Placeholders/2924.gif] (medial י) procure food, Aramaic
+[מוּר] verbe
+changer (hébreu tardif id., Hiphil ; arabe
+[placeholder2923: Placeholders/2923.gif] (médiale ו) est se mouvoir de part et d'autre (intransitif) ;
+[placeholder2924: Placeholders/2924.gif] (médiale י) se procurer de la nourriture, araméen
 [placeholder2925: Placeholders/2925.gif]
-buy or import food, Nö^ZMG xi. 1886, 154^); —
+acheter ou importer de la nourriture, Nö^ZMG xi. 1886, 154^) ; —
 
-Niph`al
+Niphal
 Parfait
-נָמָ֑ר (as if from מרר) be changed, Jr 48,11 subject
-רֵיחוֺ (of wine, figuré of Moab);
+נָמָ֑ר (comme si de מרר) être changé, Jr 48,11 sujet
+רֵיחוֺ (du vin, figuré de Moab) ;
 
-Hiph`il
+Hiphil
 Parfait
 הֵמִיר
-Jr 2,11 on
+Jr 2,11 sur
 הַהֵימִיר
-ib., voir K?:i. 457; Imparfait
+ib., voir K? :i. 457 ; Imparfait
 יָמִיר
-Ps 15,4 + 3 t.;
-jussive יָמֵר
+Ps 15,4 + 3 t. ;
+jussif יָמֵר
 Ez 48,14
 suffixe יְמִירֶנּוּ
 Lv 27,33
-(deux fois dans le verset); אָמִיר
+(deux fois dans le verset) ; אָמִיר
 Os 4,7
 וַיָּמִ֫ירוּ
 Ps 106,20
@@ -34,39 +34,39 @@ Infinitif construit
 הָמִיר
 Ps 46,3
 absolu הָמֵר
-Lv 27,10;
+Lv 27,10 ;
 Lv 27,33 —
 
 1.
-change, alter, Mi 2,4 (object חֵלֶק עַמִּי; but
+changer, altérer, Mi 2,4 (objet חֵלֶק עַמִּי ; mais
 
 ᵐ5
 
-יִמַּד בַּחֶבֶל, so Sta^ZAW 1886, 122 f.^
-); Ps 15,4
-(no object expressed); Hiph`il declar. Ps 46,3 (ארץ subject, Hup
+יִמַּד בַּחֶבֶל, ainsi Sta^ZAW 1886, 122 f.^
+) ; Ps 15,4
+(pas d'objet exprimé) ; Hiphil déclaratif Ps 46,3 (ארץ sujet, Hup
 
 Che
-Bae and others, Ges
-^«GKC:115»§ 115^, 2, R. 2) when the earth shews change; Krochm
-Gr proposes הִמּוֺג (comparer מוג v
+Bae et autres, Ges
+^«GKC:115»§ 115^, 2, R. 2) quand la terre montre du changement ; Krochm
+Gr propose הִמּוֺג (comparer מוג v
 Ps 46,7b ||
-מוט), but needless.
+מוט), mais inutile.
 
 2.
-exchange (suivi de accusative of object relinquished, + בְּ before object
-acquired) Lev
-27,10 (4 t. in verse) (2 t. as Infinitif absolu); Os 4,7; Ps 106,20 comparer with one
-object Lev
-27,33 (3 t. in verse) (once as Infinitif absolu); Jr 21,11 (deux fois dans le verset) (comparer
-above); without object Ez 48,14 (but Ew
+échanger (suivi d'accusatif de l'objet cédé, + בְּ devant l'objet
+acquis) Lv
+27,10 (4 t. dans le verset) (2 t. comme Infinitif absolu) ; Os 4,7 ; Ps 106,20 comparer avec un seul
+objet Lv
+27,33 (3 t. dans le verset) (une fois comme Infinitif absolu) ; Jr 21,11 (deux fois dans le verset) (comparer
+ci-dessus) ; sans objet Ez 48,14 (mais Ew
 Co
-יוּמַר, Hoph`al).
+יוּמַר, Hophal).
 
-Hoph`al
+Hophal
 Imparfait
 יוּמַר
-Ezek
+Ez
 48,14
 Ew
 Co, comparer Berthol

@@ -5,13 +5,13 @@ hébreu biblique
 verbe
 enterrer (hébreu tardif id. ; phénicien קבר, enterrer
 , קבר
-tombe ; arabe
+tombeau ; arabe
 [placeholder4674: Placeholders/4674.gif], assyrien
 ‡ibiru
 , araméen קְבַר,
 [placeholder4675: Placeholders/4675.gif], nabatéen קבר, tous enterrer ; palmyrénien nabatéen
 קברא
-tombe, ainsi sabéen קבר
+tombeau, ainsi sabéen קבר
 Hom^Chrest. 126^, lihyanien קבר
 enterrer, DHM^Epigr. Denkm. No, 35, 2, 3^,
 comparer מקבר(הםׅ
@@ -22,7 +22,7 @@ Qal_86_
 Parfait 3 masculin singulier ׳
 ק
 Gn 23,19 2
-masculin singulier Sf. consécutif וּקְבַרְתַּנְי
+masculin singulier suffixe consécutif וּקְבַרְתַּנְי
 Gn 47,30, etc. ;
 Imparfait 3 masculin singulier וַיִּקְבֹּד
 Dt 34,6 ; 2 R 21,26,
@@ -39,11 +39,11 @@ etc. ; Participe
 actif
 קֹבֵר
 2 R 9,10 +,
-etc. ; pass. קָבוּר
+etc. ; passif קָבוּר
 1 R 13,31,
 pluriel קְבֻרִים
 Qo 8,10
-enterrer, acc. personne, os, etc., habituellement avec ב lieu, 2 S 2,32 ; 1 R 13,31
+enterrer, accusatif personne, ossements, etc., habituellement avec ב lieu, 2 S 2,32 ; 1 R 13,31
 (deux fois dans le verset) ; Gn 23,6
 ; Jos 24,30
 ; Jos 24,32
@@ -56,7 +56,7 @@ Nb 11,34,
 תַּחַת
 1 S 31,13 =
 1 Ch 10,12
-par prégnance avec אֶל lieu Gn 23,19 ; Gn 25,9 ; Ez 39,15
+avec sens pregnant avec אֶל lieu Gn 23,19 ; Gn 25,9 ; Ez 39,15
 אֶלאֲֿבֹתָ֑י
 Gn 49,29
 comparer עִםאֲֿבוֺתָיו
@@ -110,14 +110,14 @@ Infinitif construit
 
 Participe pluriel מְקַכְּרִים
 Nb 33,4 ; Ez 39,14
-comme nom intensif, de fonction, fossoyeur, singulier מְקַכֵּר
+comme nom intensif, de fonction, ensevelisseur, singulier מְקַכֵּר
 Jr 14,16,
 pluriel ׳
 הַמּ
 Ez 39,15
 .
 
-Pual
+Pu`al
 Parfait 3 masculin singulier שָׁ֫מָּה קֻבַּר אַבְרָהָם
 Gn 25,10.
 

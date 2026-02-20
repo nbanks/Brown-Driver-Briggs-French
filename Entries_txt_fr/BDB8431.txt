@@ -8,19 +8,19 @@ sept choses, comparer Thes (comme alternative), Gerb^108ff^ ; hébreu tardif Nip
 
 ᵑ7
 
-שְׁבַע Ithpeel, Aphel ; voir aussi Dr^
+שְׁבַע Ithpe`el, Aph`el ; voir aussi Dr^
 Gn 21,28
 
 ^
 Kö^Hast. DB NUMBER, 565^
 RS^Semitic i. 166, 2nd ed., 182^
-We^Reste^ Arabic Heid. 2, 186) ; —
+We^Reste^ arabe Heid. 2, 186) ; —
 
 Qal (selon Thes
 Rob Ges) Participe passif
 שְׁבֻעֵי שְׁבֻעוֺת
 Ez 21,28
-ceux liés par (= qui ont prêté) des serments ; tous deux de שְׁבוּעָה
+ceux qui ont prêté (= qui ont juré) des serments ; les deux de שְׁבוּעָה
 , selon Krae, serments de serments (les
 plus sacrés) ;
 
@@ -28,18 +28,18 @@ plus sacrés) ;
 
 ᵑ6
 
-Co omis ; tous deux de שָׁבוּעַ, Ew
+Co omis ; les deux de שָׁבוּעַ, Ew
 Sm
 ׳
 שָׁ
 ׳
 שׁ
-semaines sur semaines (amplement de temps).
+semaines sur semaines (beaucoup de temps).
 
 Niphal
-Parfait, 3 masculin singulierנִשְׁבַּע
+Parfait, 3 masculin singulier נִשְׁבַּע
 Gn 24,7, + etc. ;
-Imparfait 3 masculin singulierיִשָּׁבַע
+Imparfait 3 masculin singulier יִשָּׁבַע
 Lv 5,24 +,
 וַיִּשָּׁ֫בַע
 Gn 24,9 + ; 2
@@ -66,7 +66,7 @@ jurer, prêter serment :
 
 1. sujet homme :
 
-a. en assévération, absolu Gn 21,24 ; Gn 21,31 (
+a. en assevération, absolu Gn 21,24 ; Gn 21,31 (
 E
 ), Jg
 21,1
@@ -74,7 +74,7 @@ E
 21,18
 ; 2 S
 21,2
-+ ; aussi suivi deוַיּאֹמֶר
++ ; aussi suivi de וַיּאֹמֶר
 1 S 20,3 ;
 1 R 1,29
 ,
@@ -83,7 +83,7 @@ suivi de לֵאמֹר
 ; Jos 14,9
 (
 D
-) ; avec accusatif de sens apparenté avec le verbe Nb 30,3 (
+) ; avec accusatif de sens apparenté au verbe Nb 30,3 (
 P
 ; || נָדַר) ; + לַשֶּׁקֶר
 Jr 5,2 ; Jr 7,9 ; Lv 5,24 (
@@ -96,7 +96,7 @@ Lv 5,22 (
 P
 ) ; + לְמִרְמָה
 Ps 24,4
-suivi de
+suivi d'
 infinitif Lv 5,4
 (
 
@@ -105,7 +105,7 @@ P
 15,4
 ; Ps
 119,106
-+ ל de personne prêter serment à, Jos 6,22 (
++ ל personne prêter serment à, Jos 6,22 (
 J
 
 E
@@ -113,7 +113,7 @@ E
 9,20
 (
 P
-; accusatif de sens apparenté avec le verbe) Gn 24,9 (+ עַלהַֿדָּבָר הַזֶּה +, ainsi
+; accusatif de sens apparenté au verbe) Gn 24,9 (+ עַלהַֿדָּבָר הַזֶּה +, ainsi
 aussi 1 S
 20,17 (lire
 לְהִשָּׁבֵעַ
@@ -125,26 +125,26 @@ aussi 1 S
 
 Th
 We
-Dr et d'autres) ; prêter allégeance par serment (׳
+Dr et autres) ; prêter allégeance (׳
 לי ) Es 19,18 ; Es 45,23 ; So 1,5 ; 2 Ch 5,14, comparer (absolu) v
 
 2 Ch 5,15
 (Jos 23,7
 voir
-Hiphil) ; aussi sq וַיּאֹמֶר
+Hiphil) ; aussi suivi de וַיּאֹמֶר
 2 R 25,24
 , suivi de לֵאמֹר
 2 S 21,17
 ; 1 R
 1,13
 ; Jr 40,9
-suivi deפֶּן = pour que ne pas
+suivi de פֶּן = afin que ne pas
 Jg 15,12
 ,
 suivi de אִם = id.
 1 R 1,51
 +
-אֶל de personne suivi de לֵאמֹר
+אֶל personne suivi de לֵאמֹר
 Jr 38,16
 
 + ׳
@@ -169,13 +169,13 @@ Dn 12,7
 בי suivi de אִם
 2 S 19,8
 +
-ל de personne avec ׳
+ל personne avec ׳
 בי
 Jos 9,18 ;
 Jos 9,19 (
 
 P
-; gage de fidélité), suivi deלֵאמֹר
+; engager la foi), suivi de לֵאמֹר
 1 S 28,10
 ;
 1 R 11,30
@@ -183,13 +183,13 @@ P
 ;
 1 R 2,23
 ,
-suivi de כִּי de proposition complétive Jos 2,12 (
+suivi de כִּי de proposition objet Jos 2,12 (
 J
 
 E
 ),
 1 R
-1,17 + ל de personne avec ׳
+1,17 + ל personne avec ׳
 בא, suivi de אִם
 Gn 21,23
 (
@@ -250,19 +250,19 @@ Es 54,9
 Ps 90,10,
 suivi de לֵאמֹר
 Dt 1,34 ; Es 14,24 ;
-Nb 32,10(
+Nb 32,10 (
 
 P
 ) ; suivi de discours direct Ps 110,4 avec ל
-de personne prêter serment à, Gn 24,7(
+personne prêter serment à, Gn 24,7 (
 J
 ), Ex
 13,11 (
 J
 ), Dt 2,14
-+ 7 t. Deutéronome (accusatif de sens apparenté avec le verbeDt 7,8 ; Dt 9,5), Ez 16,8 (|| בּוֺא
++ 7 t. Deutéronome (accusatif de sens apparenté au verbe Dt 7,8 ; Dt 9,5), Ez 16,8 (|| בּוֺא
 בִבְרִית, Ps 89,4 (|| כָּרַת בְּרִית), Ps 89,50 (בֶּאֱמוּנָתֶ֑ךָ
-), + ; ל de personne + infinitif (habituellement pour donner un pays
+), + ; ל personne + infinitif (habituellement de donner le pays
 Ex 13,5 (
 
 J
@@ -272,8 +272,8 @@ R^
 D
 ^
 ), Jr 11,5
-(+ accusatif de sens apparenté avec le verbe), Jr 32,22
-ל de personne + accusatif de chose (habituellement pays) = promettre par
+(+ accusatif de sens apparenté au verbe), Jr 32,22
+ל personne + accusatif de chose (habituellement pays) = promettre par
 serment à
 Gn 50,24 ;
 Ex 33,1 ; Nb 11,12
@@ -291,10 +291,10 @@ P
 ), Jg 2,1
 ; Mi 7,20
 ; Dt 6,18
-+ 8 t. Deutéronome (objet alliance Dt 4,31 ; Dt 8,18) ; ל de personne omis Dt 31,21.
++ 8 t. Deutéronome (objet alliance Dt 4,31 ; Dt 8,18) ; ל personne omis Dt 31,21.
 
 Hiphil
-Parf. 3 masculin singulier הִשְׁבִּיעַ
+Parfait 3 masculin singulier הִשְׁבִּיעַ
 Ex 13,19
 +, 1 singulier הִשְׁבַּעְתִּי
 Ct 2,7 +, etc. ;
@@ -328,7 +328,7 @@ J
 ), לֵאמֹר
 Gn
 24,37 ; Gn
-50,5 (tous deux
+50,5 (les deux
 J
 ), Gn
 50,25 (
@@ -344,9 +344,9 @@ E
 ), 1 S
 14,28, + וְאָמַר
 Nb 5,19
-et (avec accusatif de sens apparenté avec le verbe) Nb 5,21 (tous deux
+et (avec accusatif de sens apparenté au verbe) Nb 5,21 (les deux
 P
-), + infinitif clause Ne 5,12 ; Esd 10,5 + ׳
+), + clause d'infinitif Ne 5,12 ; Esd 10,5 + ׳
 בי par ׳
 י
 Gn 24,3
@@ -360,7 +360,7 @@ D
 ; mais lire peut-être
 Niphal
 תִּשָּֽׁבְעוּ
-Gr et d'autres ;
+Gr et autres ;
 
 ᵐ5
 
@@ -369,14 +369,14 @@ direct), 2 Ch 36,13.
 
 2.
 adjurer, avec accusatif de personne 1 R 22,16 ;
-2 Ch 18,15 (tous deux + clause אֲשֶׁר) ;
-ailleurs seulement Cantique : Ct 5,9, avec clause מַהֿ interrogatif v
+2 Ch 18,15 (les deux + clause אֲשֶׁר) ;
+ailleurs seulement Cantique : Ct 5,9, avec clause מַהֿ interrogative v
 
 Ct 5,8, avec clause אִם
-pour que ne pas
+afin que ne pas
 
 Ct 2,7 ;
-Ct 3,5 (tous deux + ב de serment), = clause
+Ct 3,5 (les deux + ב de serment), = clause
 מַהֿ
 
 Ct 8,4 (voir

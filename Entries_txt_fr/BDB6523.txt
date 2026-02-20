@@ -1,42 +1,42 @@
 === BDB6523 H6298 ===
 hébreu biblique
 
-[פָּגַשׁ] verb
-meet, encounter (synonym פָּגַע); —
+[פָּגַשׁ] verbe
+rencontrer, faire face (synonyme פָּגַע) ; —
 
 Qal
 Parfait 1 singulier פָּגָ֑שְׁתִּי
 Gn 33,8 3 pluriel
-consecutive וּפָֽגְשׁוּ
+consécutif וּפָֽגְשׁוּ
 Es 34,14
 Imparfait 3 masculin singulier suffixe יִפְגָָֽֿשְׁךָ֫
 Gn 32,18 (
-Gi; Baer
-יִָֽפְגָָֽשְׁךָ֫; van d. H.
+Gi ; Baer
+יִָֽפְגָָֽשְׁךָ֫ ; van d. H.
 יִָֽפְגָָּֽשְׁךָ֫), וַיִּפְגְּשֵׁהוּ
-Ex 4,24; Ex 4,27 3 féminin
+Ex 4,24 ; Ex 4,27 3 féminin
 singulier וַתִּפְגֿשׁ
 1 S 25,20
-(read probablement וַתִּפְגּשׁ
+(lire probablement וַתִּפְגּשׁ
 Ges^«GKC:47k»§ 47k^, comparer
-van d. H), etc.; Infinitif absolu
+van d. H), etc. ; Infinitif absolu
 פָּגוֺש
 Pr 17,12
 construit
 פְּגשׁ
 Jr 41,6 —
-meet, with accusative Gn 33,8; 1 S 25,20; Es 34,14; Jr 41,6, so with suffixe Gn 32,18; Ex 4,24; Ex 4,27; 2 S 2,13
-meet, encounter, of bear, with ב person Pr 17,12, of ׳
-י (like a bear) Os 13,8 (with suffixe person).
+rencontrer, avec accusatif Gn 33,8 ; 1 S 25,20 ; Es 34,14 ; Jr 41,6, ainsi avec suffixe Gn 32,18 ; Ex 4,24 ; Ex 4,27 ; 2 S 2,13
+rencontrer, faire face, d'un ours, avec ב personne Pr 17,12, de ׳
+י (comme un ours) Os 13,8 (avec suffixe personne).
 
-Niph`al
-meet together, each other, Parfait 3 pluriel נִפְגָָּֽשׁוּ
-Pr 22,2; Pr 29,13,
-figuré of חֶסֶד וֶאֱמֶת
+Niphal
+se rencontrer, l'un l'autre, Parfait 3 pluriel נִפְגָָּֽשׁוּ
+Pr 22,2 ; Pr 29,13,
+figuré de חֶסֶד וֶאֱמֶת
 Ps 85,11.
 
-Pi`el intensive Imparfait 3 masculin pluriel יְפַגְּשׁוּ חשֶׁךְ
+Piel intensif Imparfait 3 masculin pluriel יְפַגְּשׁוּ חשֶׁךְ
 Jb 5,14
-they keep encountering darkness in the daytime.
+ils ne cessent de rencontrer les ténèbres en plein jour.
 
 ---

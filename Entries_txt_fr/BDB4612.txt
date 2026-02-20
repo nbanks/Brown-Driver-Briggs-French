@@ -62,7 +62,7 @@ Nb 5,19 ; Nb 5,24 ; 2 R 3,20 + ; avec
 pluriel pronom Nb
 20,13 ; Nb
 27,14 ; 2 R
-2,21 + ; comparer suffixe Jos 4,18 avant verbe pluriel Gn 1,9 ; Gn 1,20 ; Gn 1,21 ; Gn 7,17 + souvent ; après verbe pluriel Jos 3,13 ; Es 28,17 ; Pr 9,17 ; Ez 31,4 + ; rarement avec verbe singulier ; avant, Gn 9,15 ; Lv 11,34 ; Nb 20,2 ; Nb 24,7 ; Nb 33,14 ; 2 R 3,9 après, Nb 19,13 ; Nb 19,20) ; —
+2,21 + ; comparer suffixe Jos 4,18 devant verbe pluriel Gn 1,9 ; Gn 1,20 ; Gn 1,21 ; Gn 7,17 + souvent ; après verbe pluriel Jos 3,13 ; Es 28,17 ; Pr 9,17 ; Ez 31,4 + ; rarement avec verbe singulier ; devant, Gn 9,15 ; Lv 11,34 ; Nb 20,2 ; Nb 24,7 ; Nb 33,14 ; 2 R 3,9 après, Nb 19,13 ; Nb 19,20) ; —
 
 1.
 
@@ -75,20 +75,20 @@ J
 21,19 ;
 Gn 21,25 ; Nb 20,17 ; Nb 21,16 (
 E
-), etc. ; pour boire, aussi Am 4,8 ; Am 8,11 ; Jon 3,7 + souvent ; jaillissant du rocher Ex 17,6 (
+), etc. ; pour boire, aussi Am 4,8 ; Am 8,11 ; Jon 3,7 + souvent ; du rocher Ex 17,6 (
 E
 ), Nb 20,8
 (deux fois dans le verset) ; Nb 20,10 ; Nb 20,11 (
 P
 ), Dt 8,15
-etc. ; מֵי מְרִיבָה (RS^Semitic i. 165 ; 2nd ed.
+etc. ; מֵי מְרִיבָה (RS^Semitic i. 165; 2nd ed.
 181^) Nb 20,13 ; Nb 20,24 ; Nb 27,14 (
 P
 ), Dt 33,8
 ; Ps 81,8
 ; Ps 106,32
 comparer
-Dt 32,51 ; Ez 47,19 ; Ez 48,28 pour le lavage (mains, pieds, corps) Gn 18,4 ; Gn 24,32 ; Gn 43,24 (
+Dt 32,51 ; Ez 47,19 ; Ez 48,28 pour laver (mains, pieds, corps) Gn 18,4 ; Gn 24,32 ; Gn 43,24 (
 
 J
 ), 2 R
@@ -113,7 +113,7 @@ Lv 12,34 (
 P
 ) ; (vêtements) Lv 15,17 ; Nb 19,8 (
 P
-) ; pour la cuisson Ex 12,9 (
+) ; pour cuire Ex 12,9 (
 P
 ), comparer
 Es 64,1 ; Ez 24,3 (symbolique) ; pour la purification Nb 8,7 (מֵי חַטָּאת) Nb 19,9 (
@@ -126,10 +126,10 @@ P
 ),
 Ez 36,25 (figuré).
 
-b. d'un fleuve, Nil Ex 2,10 ; Ex 4,9 (deux fois dans le verset) (
+b. d'une rivière, le Nil Ex 2,10 ; Ex 4,9 (deux fois dans le verset) (
 J
 ), Jr 2,18
-etc. ; Jourdain Jos
+etc. ; le Jourdain Jos
 3,8 (
 D
 ), Jos
@@ -138,11 +138,11 @@ D
 J
 
 E
-), etc. ; Euphrate Es 8,7 (figuré), Jr 2,18 fleuve d'Ézéchiel Ez 47,1 (deux fois dans le verset) ; Ez 47,2 +, etc. ; de cours d'eau,
-canaux, etc., surtout comme condition de fertilité Dt 8,7 ; Dt 10,7 ; Es 1,30 ; Pr 30,16 ; 2 R 3,17 +, etc.
+), etc. ; l'Euphrate Es 8,7 (figuré), Jr 2,18 la rivière d'Ézéchiel Ez 47,1 (deux fois dans le verset) ; Ez 47,2 +, etc. ; de cours d'eau,
+canaux, etc., surtout, comme condition de fertilité Dt 8,7 ; Dt 10,7 ; Es 1,30 ; Pr 30,16 ; 2 R 3,17 +, etc.
 
 c. de la mer
-Am 5,8 ; Am 9,6 mer Rouge
+Am 5,8 ; Am 9,6 la mer Rouge
 Ex 15,8 ; Ex 15,10 ;
 Ex 15,19
 (cantique), Ex
@@ -184,16 +184,16 @@ dans le verset) ; Ps
 104,3 ;
 Ps 148,4, etc.
 
-g. de pluie Jg 5,4 ; 2 S 21,10 ; Dt 11,11 ; Ps 65,10 ; Jb 5,10 (|| מָטָר
+g. de la pluie Jg 5,4 ; 2 S 21,10 ; Dt 11,11 ; Ps 65,10 ; Jb 5,10 (|| מָטָר
 ), etc.
 
-h. de rosée Jg 6,38.
+h. de la rosée Jg 6,38.
 
 i. abîme primordial Gn 1,2 ; Gn 1,6 (
 P
 ).
 
-2. avec des noms propres, de lieu (q. v.), pour désigner sources, cours d'eau ou mers appartenant à, proches de,
+2. avec noms propres, de lieu (q. v.), pour désigner des sources, cours d'eau, ou mers appartenant à, près de,
 ces lieux : מֵימֵי מִצְרַיִם
 Ex 7,19 ; Ex 8,2
 מֵי מְרִיבָה (voir ci-dessus 1.a.) ; מֵי מֵרוֺם
@@ -223,13 +223,13 @@ comparer aussi nom propre, d'un lieu מִשְׂרְפוֺת מַיִם
 Jos 11,8 ;
 Jos 13,6.
 
-3. usages particuliers : מֵי רַגְלַיִם
+3. usages spéciaux : מֵי רַגְלַיִם
 eau des pieds = urine 2 R 18,27 = Es 36,12 comparer מַדְמֵנָה בְּמֵי
 Es 25,10
 
 Kt
 
-dans l'eau d'un tas de fumier (>
+dans l'eau d'un fumier (>
 Qr
 
 בְּמוֺ) ; מַיִם לַחַץ
@@ -267,7 +267,7 @@ Lv 14,50
 19,17, aussi (figuré) Za 14,8 (comparer Ez 47),
 et (figuré) Jr
 2,13 ; Jr
-17,13. Voir aussi ci-dessous (comparer Nb 21,17 ; Nb 21,18 voir RS^Sem.i.127.157 ; 2nd
+17,13. Voir aussi ci-dessous (comparer Nb 21,17 ; Nb 21,18 voir RS^Sem.i.127.157; 2nd
 ed.135,176^).
 
 4. parmi les emplois figurés :
@@ -297,25 +297,25 @@ b.
 2 S 5,20 =
 1 Ch 14,11
 de la
-force impétueuse.
+force qui éclate.
 
 c.
 מַיִם שְׁאוֺן
 Es 17,12 ;
 Es 17,13
-de
-nations impétueuses.
+des
+nations qui se ruent.
 
-d. de ce qui est impétueux, violent, submergeant Es 28,2 ; Es 28,17 ; Os 10,7 ; Jb 27,20 ; Ps 124,4 ; Ps 124,5 ;
+d. de ce qui est impétueux, violent, écrasant Es 28,2 ; Es 28,17 ; Os 10,7 ; Jb 27,20 ; Ps 124,4 ; Ps 124,5 ;
 Ps 88,18
-image de l'impétuosité
+comparaison d'impétuosité
 פַּחַז כַּמַּיִ ם
 Gn 49,4.
 
 e. (comme s'écoulant) du cœur dans la timidité Jos 7,5, comparer Ps 22,16, des genoux Ez 7,17 ; Ez 21,12.
 
 féminin
-de la fugacité
+de ce qui est transitoire
 Jb 11,16 ;
 Jb 24,18 ;
 Ps 58,8.
@@ -328,14 +328,14 @@ Ps 23,2 en
 figure
 de repos et de paix, comparer Jr 31,9.
 
-i. de l'effusion de sang inconsidérée (répandu comme de l'eau)
+i. de l'effusion inconsidérée de sang (répandu comme de l'eau)
 Ps 79,3 comparer
-le fait de verser (et non manger) le sang Dt 12,16 ; Dt 12,24 ; Dt 15,23.
+verser (et ne pas manger) le sang Dt 12,16 ; Dt 12,24 ; Dt 15,23.
 
 j.
 בְּאֵר מַיִם חַיִּים
 Ct 4,15
-figuré de l'épouse ; מַיִם מִבּוֺרֶ֑ךָ
+figuré de la fiancée ; מַיִם מִבּוֺרֶ֑ךָ
 Pr 5,15 de la
 jouissance de sa propre femme ; de la prostitution מַיִם גְּנוּבִים
 Pr 9,17

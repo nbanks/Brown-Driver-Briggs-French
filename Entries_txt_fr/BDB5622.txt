@@ -1,43 +1,77 @@
 === BDB5622 H5553 ===
 hébreu biblique
 
-סֶ֫לַע
-nom masculin
-crag, rocher escarpé (NH id. ;
+I. סֶ֫לַע_61_
+nom masculin^
+Jg 6,20
+^
+rocher, falaise, synonyme צוּר ; — absolu ׳
+ס
+Jg 6,20 +,
+סָ֑לַע
+Nb 20,10 + ;
+construit סֶ֫לַע
+1 S 23,28
+suffixe סַלְעִי
+2 S 22,2 +,
+סַלְעוֺ
+Es 31,9 pluriel
+סְלָעִים
+Es 2,21 + ; —
 
-ᵑ7
+1. littéralement falaise, rocher
+Jg 6,20 ; Es 2,21 ; Es 7,19 ; Am 6,12 ; Nb 20,8 (deux fois dans le
+verset) ; Nb 20,10
+(deux fois dans le verset) ; Nb 20,11 (comparer Ne 9,15 ; Ps 78,16, et contraster le צוּר de Ex 17,6), Nb 24,21 ; Dt 32,13 (pas ailleurs dans l'
+Hexateuque), + 10 t. ; ׳
+שֵׁן הַסּ
+1 S 14,4 (deux fois dans le
+verset) dent du rocher, c.-à-d. rocher pointu, ainsi Jb 39,28 creusé dans la falaise comme lieu de sépulture
+Es 22,16
+demeure d'animaux sauvages, ׳
+יַעֲלֵיסֿ Es 22,1, comparer Ps 104,18 ; Pr 30,26, d'oiseaux Jb 39,28 ; Ct 2,14 (au figuré), comparer Jr 48,28, ainsi
+d'Édom Ab 1,3 =
+Jr 49,16
+comparer (Nb 24,21
 
-סַלְעָא
-; syriaque
-[placeholder3589: Placeholders/3589.gif] ; arabe
-[placeholder3590: Placeholders/3590.gif] rocher lisse) — absolu
-׳ס
-Jg 15,8 + ; construit
-סֶ֫לַע
-Jb 39,28 ; —
-
-1.
-rocher escarpé, falaise, dans le désert Jg 15,8 (repaire) ; Jg 15,11 ; Jg 20,45 ; Jg 20,47 (deux fois dans le verset) ; 1 S 23,25 ; 1 S 23,28 (dans la nature sauvage) ; rocher escarpé abrupt Jb 39,28 (nid de l'aigle), comparer Es 22,16 ; surface abrupte de la falaise 1 S 14,4 (deux fois dans le verset) ; sommet du rocher 2 Ch 25,12 (deux fois dans le verset) ; fentes du rocher Jr 49,16 ; Ab 3 ; Ct 2,14 ; comparer Jr 48,28 ; crevasse du rocher Ex 33,22
-(E ;
-׳י
-passe devant Moïse) ; Es 2,21 ; nommé, הַסֶּ֫לַע
-probablement rocher près de Mitspa de Benjamin Jg 20,45 ; Jg 20,47 ; Jg 21,13 ; סֶ֫לַע הַמַּחְלְקוֺת
-rocher de la fuite 1 S 23,28 ; עֵיטַם ׳ס
-Jg 15,8 ; Jg 15,11 ; סֶ֫לַע רִמּוֺן
-(q.v.) Jg 20,45 ; Jg 20,47 ; Jg 21,13 ; סֶ֫לַע הָעֵזֶר
-(q.v.).
+ci-dessus et) Es 42,11 des rochers particuliers sont : עֵיטָם
+׳
+ס
+Jg 15,8 ; Jg 15,11
+comparer Jg 15,13
+, (הָ)רִמּוֺן
+׳
+ס
+Jg 20,45 ;
+Jg 20,47
+(deux fois dans le verset) ;
+Jg 21,13
+הַמַּחְלְקוֺת
+׳
+ס
+1 S 23,28
+comparer 1 S 23,25
+voir aussi II.
+סֶלַע
+.
 
 2.
-figuré, de ׳י
-comme refuge et défense, ״ צוּרִי וּמְצוּדָתִי
-2 S 22,2 = Ps 18,3, comparer Ps 31,4 ; Ps 42,10 ; Ps 71,3 ; ici synonyme de צוּר.
-
-3.
-comme nom propre [d'un lieu] (probablement = Pétra)
-a.
-2 R 14,7 comparer Es 42,11 (Qr ; Kt שלע q.v.).
-b.
-probablement aussi Es 16,1.
+figuré, surtout סַלְעִי de ׳
+י (seulement Psaumes), Ps 18,3 = 2 S 22,2 ; Ps 31,4 ; Ps 42,10 ; Ps 71,3 du dieu assyrien Es 31,9 (probablement ; comparer צוּר
+Dt 32,31 ;
+Dt 32,37) ;
+כָּבֵד
+׳
+צֵל ס
+Es 32,2 (comparaison
+de la protection) ; figuré de la sécurité Ps 40,3 (pieds sur le rocher), מְצָדוֺת סְלָעִים מִשְׂגַּבּוֺ
+Es 33,16
+symbole de l'obstination ׳
+חִזְּקוּ פְנֵיהֶם מִסּ
+Jr 5,3
+׳
+צְחִיחַ ס (rocher nu, littéralement éclat du
+rocher), en figure de l'ouverture, de la flagrance Ez 24,7 ; Ez 24,8, d'une ville rasée Ez 26,4 ; Ez 26,14
+(seulement ici Ézéchiel) ; en figure de la chute de Babylone Jr 51,25.
 
 ---
-

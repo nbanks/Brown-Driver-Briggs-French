@@ -3,7 +3,7 @@ hébreu biblique
 
 I. שָׁאַר
 verbe
-rester, être laissé en reste (synonyme יָתַר (hébreu tardif id. ;
+rester, être de reste (synonyme יָתַר (hébreu tardif id. ;
 
 ᵑ7
 
@@ -12,7 +12,7 @@ restant
 Hom^Chr 124^ ; arabe
 [placeholder5370: Placeholders/5370.gif],
 [placeholder5371: Placeholders/5371.gif]
-être laissé en reste, Lane, comparer Lane, comparer Lag^GGN 1889, 297^
+être de reste, Lane, comparer Lane, comparer Lag^GGN 1889, 297^
 ; ancien araméen שאר
 reste, nabatéen שארית, voir
 Lzb^371^
@@ -27,7 +27,7 @@ plus jeune reste encore.
 Niphal_93_
 Parfait 3 masculin singulier נִשְׁאַר
 Gn 47,18 + ;
-3 féminin singulierנִשְׁאֲרָה
+3 féminin singulier נִשְׁאֲרָה
 Jos 13,1 ; Dn 10,8, etc. ;
 Imparfait 3 masculin singulier יִשָּׁאֵר
 Es 11,11 ;
@@ -58,7 +58,7 @@ Jos 13,2,
 etc. ; —
 
 1.
-être laissé en reste (parfois ||) Ex 8,27 ; Ex 10,19 ; Ex 14,28 (tous
+être de reste (parfois ||) Ex 8,27 ; Ex 10,19 ; Ex 14,28 (tous
 J
 ),
 Jos 11,22 (
@@ -70,25 +70,25 @@ D
 לא נ
 2 R
 24,14
-il ne resta que, etc.,׳
+il ne resta que, etc., ׳
 אדֹנִי בִּלְתִּי אִם וגו
 Gn 47,18
 (
 J
-) ; suivi d'accusatif adverbial (Ges^«GKC:118q»§
-118q^), ou appositif, Dt 4,27 ; Esd 9,15, comparer בִּמְתֵי מְעָ֑ט
+) ; suivi d'un accusatif adverbial (Ges^«GKC:118q»§
+118q^), ou d'une apposition, Dt 4,27 ; Esd 9,15, comparer בִּמְתֵי מְעָ֑ט
 ׳
 נ
 Dt
 28,62 (Ges^«GKC:119i»§ 119i^) ; parfois
-avec ב de lieu Ex 8,5 ; Ex 8,7 (
+avec ב lieu Ex 8,5 ; Ex 8,7 (
 J
 ),
 Jr 38,22 + ; avec אֵת (préposition locale) Jos 23,7
 ;
 Jos 23,12 (
 D
-) ; avec מִן = être laissé de Ex 10,5 (
+) ; avec מִן = rester de Ex 10,5 (
 J
 ),
 Dt 3,11 ; Jos 13,12 (
@@ -104,7 +104,7 @@ Es 11,11 ; Es 11,16 ; Jr 8,3a (participe ; v^b supprimer
 Hi
 Gf
 Gie
-Co), Ne 1,2 ; Ne 1,3,מְעַט מֵהַרְבֵּה
+Co), Ne 1,2 ; Ne 1,3, מְעַט מֵהַרְבֵּה
 ׳
 נ
 Jr 42,2
@@ -116,7 +116,7 @@ Za 9,7 ; 2 Ch 21,17, לָכֶם מִןהַֿבָּרָד
 הַנּ
 Ex 10,5
 , comparer
-2 Ch 30,6 et (ב de lieu pour ל) Jr 21,7
+2 Ch 30,6 et (ב lieu pour ל) Jr 21,7
 avec בְּ
 dans, parmi, de, 1 S 11,11 ; Es 17,6 ; Jr 34,7 ; Jr 37,10 ; Lv 26,36
 ;
@@ -138,14 +138,14 @@ avec infinitif לְרִשְׁתָּהּ
 Jos 13,1
 (
 D
-) ; = être laissé en vie, survivre, Gn 7,23 (
+) ; = rester en vie, survivre, Gn 7,23 (
 J
 ),
 Ez 9,8 (mais sur le texte voir ci-dessus) ; ׳
 הַנּ = les survivants, Gn 14,10 ; 1 S 11,11 ; Ez
-17,21 participe comme terme technique = le reste (purifié)
-, résidu (comparer שְׁאָר, שְׁאֵרִית) Es 4,3 (
-ב de lieu ; ||), 2 Ch 34,21 (ב de lieu). — ׳
+17,21 participe comme terme technique = le (purifié)
+reste, résidu (comparer שְׁאָר, שְׁאֵרִית) Es 4,3 (
+ב lieu ; ||), 2 Ch 34,21 (ב lieu). — ׳
 
 הַנּ
 1 S 9,24
@@ -164,11 +164,11 @@ E
 Gn 42,38
 (
 J
-), comparer Es 49,21 ; Dn 10,8 de veuve Rt 1,3 + מִן des morts
+), comparer Es 49,21 ; Dn 10,8 d'une veuve Rt 1,3 + מִן du mort
 Rt 1,5.
 
 Hiphil
-Parfait 3 masculin singulierהִשְׁאִיר
+Parfait 3 masculin singulier הִשְׁאִיר
 Ex 10,12
 +, etc. ; Imparfait 3 masculin singulier יַשְׁאִיר
 Dt 28,51
@@ -180,7 +180,7 @@ Esd 9,8, voir
 aussi ci-dessous ; —
 
 1.
-laisser en reste, épargner, avec accusatif Ex 10,12(
+laisser de reste, épargner, avec accusatif Ex 10,12 (
 E
 ),
 2 R 25,22 ; Jr 49,9 = Ab 1,5 ; Jos 11,14 (
@@ -200,15 +200,15 @@ D
 ), ainsi ׳
 שׂ
 ׳
-דְַבִּֿלְתִּי הִשׁ (parfois avec ל de personne) Nb 21,35(
+דְַבִּֿלְתִּי הִשׁ (parfois avec ל personne) Nb 21,35 (
 E
 ) =
-Dt 3,3, comparer Dt 2,34 ; Jos 8,22 ; Jos 11,8 (tous deux
+Dt 3,3, comparer Dt 2,34 ; Jos 8,22 ; Jos 11,8 (les deux
 J
 
 E
 ),
-Jos 10,33(
+Jos 10,33 (
 D
 ),
 2 R 10,11, et מִבְּלִי
@@ -222,18 +222,18 @@ Dt
 Dt
 3,3 ; Dt 7,24
 ^) ; avec ב, parmi, de, 1 S
-14,36, ב de lieu 1 R 19,18 ; So 3,12 (dans les deux cas de
-préservation d'un reste pieux, comparer שְׁאָר, שְׁאֵרִית), aussi 2 R
+14,36, ב lieu 1 R 19,18 ; So 3,12 (dans les deux de
+la préservation d'un reste pieux, comparer שְׁאָר, שְׁאֵרִית), aussi 2 R
 3,25 (Bur lit בָּנֶיהָ pour
 אֲבָנֶיהָ, Kit
 אֲנָשִׁים, comparer Klo
-Benz) ; avec לְ de personne Dt
+Benz) ; avec לְ personne Dt
 28,51 ; 1 R 15,29 ; 1 R 16,11 ; 2 R 13,7 ; Esd 9,8
 avec מִן, de, 2 R 10,14,
 מִן particule 1 S 25,22 ; 2 R 25,12 = Jr 52,16 ; Jr
 39,10.
 
-2., laisser ou garder en reste (מִן
+2., laisser ou garder de reste (מִן
 particule) jusqu'au matin Nb 9,12 (
 P
 ).
@@ -243,7 +243,7 @@ P
 ׳
 תַּשׁ
 Am 5,3
-la ville aura 100 restants, comparer Am 5,3.
+la ville aura 100 de reste, comparer Am 5,3.
 
 4.
 laisser comme don, אַחֲרָיו בְּרָכָה

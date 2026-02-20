@@ -2,12 +2,12 @@
 hébreu biblique
 
 [חָמַם] verbe
-être ou devenir chaud (hébreu tardif id., Piel, réchauffer
+être ou devenir chaud (hébreu tardif id., Piël, rendre chaud
 , araméen
 [placeholder1806: Placeholders/1806.gif], חֲמַם
 être chaud ; arabe
 [placeholder1807: Placeholders/1807.gif]
-devenir chaud, de l'eau ; aussi chauffer, allumer du feu dans) —
+devenir chaud, de l'eau ; aussi chauffer, allumer du feu) —
 
 Qal
 Parfait
@@ -33,14 +33,14 @@ Ez 24,11
 Os 7,7
 וַיֶּחֱמוּ
 Gn 30,39
-וַיֵּחַמְנָה Gn 30,38 (les sept dernières formes pourraient aussi venir de
+וַיֵּחַמְנָה Gn 30,38 (les sept dernières formes pourraient aussi provenir de
 יחם
 q. v. ; mais pas de preuve décisive que cette √ est utilisée au Qal ; elles sont placées sous חמם par
 Thes
 Ew^§ 193 a^
 Ol^§ 243 b^ ; voir aussi Kö^i. 365,
-417 ss.^, qui à cause de יחם Piel Infinitif Gn 30,41 ; Gn 31,10, dérive les deux dernières,
-sans nécessité, de יחם) ; Infinitif
+417 ff.^, qui à cause de יחם Piël Infinitif Gn 30,41 ; Gn 31,10, dérive les deux derniers,
+inutilement, de יחם) ; Infinitif
 לַחְמָם
 Es 47,14,
 comparer Jb 30,4
@@ -48,7 +48,7 @@ comparer Jb 30,4
 ל est de לֶחֶם
 Mich
 Di à moins que (Luzz
-Che) on ne lise לְחַמֵּם Piel Infinitif dans les deux) ;
+Che) on ne lise לְחַמֵּם Piël Infinitif dans les deux) ;
 חֹם
 1 S 11,9 ; Ag 1,6 ; Ne 7,3 suffixe
 חֻמּוֺ
@@ -79,13 +79,13 @@ Es 57,5 (
 Kö^i. 371^), s'enflammer avec, de
 l'idolâtrie.
 
-Piel
+Piël
 Imparfait 3 féminin singulier תְּחַמֵּם
 Jb 39,14
 
 garder les œufs au chaud (de l'autruche).
 
-Hithpael
+Hithpaël
 Imparfait
 יִתְחַמָּם
 se réchauffer

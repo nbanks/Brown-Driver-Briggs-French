@@ -3,10 +3,10 @@ hébreu biblique
 
 II. אַמָּה_246_
 nom féminin
-aune, coudée (
+coudée (
 SI
 
-אמה ; ainsi sabéen DHM^ZMG 1865, 613^ ; araméen
+אמה ; de même sabéen DHM^ZMG 1865, 613^ ; araméen
 [placeholder268: Placeholders/268.gif], אַמָּא ; assyrien
 ammatu
 
@@ -17,7 +17,7 @@ brachii, c.-à-d. longueur de l'avant-bras ; d'autres dérivent de √ אמם,
 précéder, être devant, et donc avant-bras comparer Di
 Es 6,4
 Dl^Pr 109^
-MV dérivent immédiatement de √אמם être large (voir ci-dessus),
+MV dérivent directement de √אמם être large (voir ci-dessus),
 אַמָּה = distance, et donc une distance particulière, aune, coudée
 ) — ׳
 א absolu Gn 6,15 + ; construit אַמַּת
@@ -30,29 +30,29 @@ pluriel
 Ex 26,16 + ; —
 
 1.
-coudée, ainsi אַמַּתאִֿישׁ c.-à-d. coudée ordinaire, Dt 3,11 (comparer Es 8,1) ; en Ez 40,5 ; Ez 43,13
-il s'agit d'une coudée plus longue d'une paume, comparer 2 Ch 3,3
+coudée, ainsi אַמַּתאִֿישׁ c.-à-d. coudée ordinaire, Dt 3,11 (comparer Es 8,1) ; dans Ez 40,5 ; Ez 43,13
+est une coudée plus longue d'un palme, comparer 2 Ch 3,3
 בַּמִּחָה הָרִאשׁוֺנָה
 ׳
-א ; longueur absolue douteuse, comparer Smith^Dict. Bib.,
+א ; longueur absolue incertaine, comparer Smith^Dict. Bib.,
 article Poids et Mesures^ ; Lepsius^Längenmaasse der Alten, SBAk 1883,1195 s.^
-identification avec la coudée égyptienne, la plus longue .525 m., la plus courte .450 m. ; voir aussi Id.
-^Babylonian-Assyr. Längenmaasse 1877 ; MBAk 1877, 741^
-Oppert^GGA 1878, 1055 ; Rev. d'Assyr. i. 124^ (aussi sur la
+identification avec la coudée égyptienne, plus longue .525m., plus courte .450m. ; voir aussi Id.
+^Babylonian-Assyr. Längenmaasse 1877; MBAk 1877, 741^
+Oppert^GGA 1878, 1055; Rev. d'Assyr. i. 124^ (aussi sur la
 « demi-coudée » babylonienne = .270 m. Hpt
 ^AJPh 1888, 419^
 Hom^Semiten i. 501^) ; sur אַצִּילָה
 ׳
 א
 Ez 41,8
-comparer Sm et Co (Co supprime) ; חֲמֵשׁ אמות קָנִים
+comparer Sm & Co (Co supprime) ; חֲמֵשׁ אמות קָנִים
 Ez 42,16
 
 Kt
 , lire מֵאוֺת ainsi
 Qr
 
-Co ; principalement en Ex 25-27. 36-38 (56 t.) 1 R 6. 7 (45 t.) 2 Ch 3.4 (21 t.) Ez 40-43 (86
+Co ; principalement dans Ex 25-27. 36-38 (56 t.) 1 R 6. 7 (45 t.) 2 Ch 3.4 (21 t.) Ez 40-43 (86
 t.) ; une coudée = אַמָּה
 Gn 6,16 ; Ex 25,10 ;
 Ex 25,23
@@ -78,9 +78,9 @@ Ez 41,3 ;
 Ez 41,22
 ; Ez
 43,14 avec les nombres 1-10 ׳
-א suit le plus souvent le nombre au pluriel Ex 26,16 ; Ex 27,1 (3 t. dans le verset) ; 1 R 6,10 ; Ez 40,5 ; Ez 40,7 ;
+א suit généralement le nombre au pluriel Ex 26,16 ; Ex 27,1 (3 t. dans le verset) ; 1 R 6,10 ; Ez 40,5 ; Ez 40,7 ;
 Ez 40,9 + ;
-avec les nombres 11-1000 +, il suit le plus souvent le nombre au singulier Gn 6,15 (3 t. dans le verset) ; Ex 27,12 ; Ex 27,13 ; Ex 38,13 ;
+avec les nombres 11-1000 +, il suit généralement le nombre au singulier Gn 6,15 (3 t. dans le verset) ; Ex 27,12 ; Ex 27,13 ; Ex 38,13 ;
 Ex 38,14 ;
 Ex 38,15 ;
 Nb 35,4 ; Jos 3,4 ; 1 R 6,2 (deux fois dans le
@@ -88,8 +88,8 @@ verset) ; 1 R 6,3 ;
 1 R 7,15
 (deux fois dans le verset) ; Jr 52,21 ; Jr 52,22 ; Ez 40,49 (deux fois dans le verset) + ; rarement suivant, au pluriel
 Ez 40,11
-(supprimer Co) Ez 40,27 (Co
-singulier) Ez 42,2 ainsi aussi עֶשְׂרִים וְחָמֵשׁ אַמּוֺת
+(supprime Co) Ez 40,27 (Co
+singulier) Ez 42,2 de même עֶשְׂרִים וְחָמֵשׁ אַמּוֺת
 Ez 40,13
 ; Ez
 40,29 mais חָמֵשׁ וְעֶשְׂרִים
@@ -136,7 +136,7 @@ Jos 3,4 ; 2 Ch 3,3.
 
 2.
 mesure, pleine mesure, limite, seulement אַמַּת בִּצְעֵךְ
-la mesure de ton gain
+la mesure de tes gains
 Jr 51,13
 (|| קִצֵּךְ).
 

@@ -1,15 +1,15 @@
 === BDB1993 H1854 ===
 hébreu biblique
 
-[דָּקַק] verb
-crush, pulverise, thresh; be fine (Arabic
+[דָּקַק] verbe
+écraser, pulvériser, battre le grain ; être fin (arabe
 [placeholder1182: Placeholders/1182.gif]
-be or become thin, minute; Ethiopic
-[placeholder1183: Placeholders/1183.gif] Assyrian
+être ou devenir mince, menu ; éthiopien
+[placeholder1183: Placeholders/1183.gif] assyrien
 da‡â‡u
-Pa`el break in pieces
-COT^Gloss^; Phoenician דק
-id., Aramaic דַּקֵּק Pa`el id.,
+Pael briser en morceaux
+COT^Gloss^ ; phénicien דק
+id., araméen דַּקֵּק Pael id.,
 [placeholder1184: Placeholders/1184.gif]) —
 
 Qal
@@ -23,72 +23,72 @@ masculin singulier תָּדֹק
 Es 41,15 —
 
 1.
-crush (transitive) suivi de accusative לֶחֶם
-bread-stuff, corn
+écraser (transitif) suivi de accusatif לֶחֶם
+grain, blé
 Es 28,28
-of threshing || דּוּשׁ
+du battage || דּוּשׁ
 Es 41,15
-(figuré of pulverizing mountains)
+(figuré de la pulvérisation des montagnes)
 
-2. seulement Parfait; be fine, of state to which Moses reduced the golden calf by
-grinding וַיִּטְחַן עַד אֲשֶׁרדָּֿק֑
+2. seulement Parfait ; être fin, de l'état auquel Moïse réduisit le veau d'or en le
+broyant וַיִּטְחַן עַד אֲשֶׁרדָּֿק֑
 Ex 32,20
 וָאֶכֹּת אֹתוֺ טָחוֺן
 הֵיטֵב עַד אֲשֶׁרדַּֿק לְעָפָר
 Dt 9,21.
 
-Hiph`il
+Hiphil
 Parfait
 הֵדַק
 2 R 23,15
 ; 2 Ch 34,4
-2 féminin singulier וַהֲדִקּוֺתְ consecutive Mi 4,13
+2 féminin singulier וַהֲדִקּוֺתְ consécutif Mi 4,13
 Imparfait
 וַיָּ֫דֶק
-2 R 23,6;
+2 R 23,6 ;
 2 Ch 15,16
 1 singulier suffixe אֲדִקֵּם
 2 S 22,43
-(but אֲרִיקֵם || Ps 18,43); Infinitif absolu
+(mais אֲרִיקֵם || Ps 18,43) ; Infinitif absolu
 הָדֵק
 Ex 30,36
 construit
 לְהֵדַק
 2 Ch 34,7
-(form anomalous comparer Ew^§ 238 d^
+(forme anormale comparer Ew^§ 238 d^
 Ol^§ 258 b^
-Be; read peut-être לְהָדֵק
-Ki; or לָדַק [see כַּדַּק
+Be ; lire peut-être לְהָדֵק
+Ki ; ou לָדַק [voir כַּדַּק
 Es 40,15]
-comparer Öttli); — make dust of, pulverize
+comparer Öttli) ; — réduire en poussière, pulvériser
 וַיָּ֫דֶק לְעָפָר
 2 R 23,6
-(c.-à-d. the Ashera), ||
-2 Ch 34,4;
-2 Ch 34,7 (כִּתַּת לְהֵדַק); so of the
+(c.-à-d. l'Ashéra), ||
+2 Ch 34,4 ;
+2 Ch 34,7 (כִּתַּת לְהֵדַק) ; ainsi de la
 bamah
 הֵדַק
 לְעָפָר
 2 R 23,15
-of the מִפְלֶצֶת
+du מִפְלֶצֶת
 2 Ch 15,16
 figuré
-Mi 4,13 (object עַמִּים רַבִּים); Ex 30,36 (
+Mi 4,13 (objet עַמִּים רַבִּים) ; Ex 30,36 (
 P
-) has וְשָׁחַקְתָּ֫
+) a וְשָׁחַקְתָּ֫
 מִמֶּנָּה הָדֵק
-and thou shalt beat some of it fine (c.-à-d. the incense); 2 S 22,43 read אֲרִיקֵם
+et tu en broyeras une partie finement (c.-à-d. l'encens) ; 2 S 22,43 lire אֲרִיקֵם
 (|| Ps
-18,43) for אֲדִקֵּם.
+18,43) pour אֲדִקֵּם.
 
-Hoph`al
+Hophal
 Imparfait
 יוּדָ֑ק
 Es 28,28
 
-be crushed, subject לֶחֶם
-bread corn (comparer above
-Qal); — on sense comparer Che
+être écrasé, sujet לֶחֶם
+grain (comparer ci-dessus
+Qal) ; — sur le sens comparer Che
 Di.
 
 ---

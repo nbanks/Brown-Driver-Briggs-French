@@ -1,0 +1,141 @@
+# Expected results for LLM verification test suite
+# Format: filename  expected_verdict
+# Verdicts: ERROR, CORRECT, WARN (WARN accepted for borderline cases)
+#
+# Source: manual audit of all *0.txt entries from Entries_txt_fr
+# 35 bad (franglais/untranslated), 78 good
+
+# === BAD (should be ERROR, WARN also acceptable) ===
+BDB590.txt   ERROR
+BDB790.txt   ERROR
+BDB840.txt   ERROR
+BDB850.txt   ERROR
+BDB1030.txt  ERROR
+BDB1050.txt  ERROR
+BDB1150.txt  ERROR
+BDB1260.txt  ERROR
+BDB1630.txt  ERROR
+BDB1810.txt  ERROR
+BDB1900.txt  ERROR
+BDB2180.txt  ERROR
+BDB2230.txt  ERROR
+BDB2870.txt  ERROR
+BDB3270.txt  ERROR
+BDB3770.txt  ERROR
+BDB5050.txt  ERROR
+BDB5820.txt  ERROR
+BDB6090.txt  ERROR
+BDB6110.txt  ERROR
+BDB6570.txt  ERROR
+BDB6710.txt  ERROR
+BDB6790.txt  ERROR
+BDB7100.txt  ERROR
+BDB7190.txt  ERROR
+BDB7580.txt  ERROR
+BDB8370.txt  ERROR
+BDB8390.txt  ERROR
+BDB8510.txt  ERROR
+BDB8600.txt  ERROR
+BDB8740.txt  ERROR
+BDB8790.txt  ERROR
+BDB8800.txt  ERROR
+BDB8830.txt  ERROR
+BDB9370.txt  ERROR
+
+# === GOOD (should be CORRECT, WARN also acceptable) ===
+BDB10.txt    CORRECT
+BDB20.txt    CORRECT
+BDB30.txt    CORRECT
+BDB40.txt    CORRECT
+BDB50.txt    CORRECT
+BDB60.txt    CORRECT
+BDB70.txt    CORRECT
+BDB80.txt    CORRECT
+BDB90.txt    CORRECT
+BDB100.txt   CORRECT
+BDB110.txt   CORRECT
+BDB120.txt   CORRECT
+BDB150.txt   CORRECT
+BDB160.txt   CORRECT
+BDB170.txt   CORRECT
+BDB180.txt   CORRECT
+BDB190.txt   CORRECT
+BDB200.txt   CORRECT
+BDB210.txt   CORRECT
+BDB220.txt   CORRECT
+BDB230.txt   CORRECT
+BDB240.txt   CORRECT
+BDB250.txt   CORRECT
+BDB260.txt   CORRECT
+BDB270.txt   CORRECT
+BDB280.txt   CORRECT
+BDB300.txt   CORRECT
+BDB310.txt   CORRECT
+BDB330.txt   CORRECT
+BDB340.txt   CORRECT
+BDB350.txt   CORRECT
+BDB360.txt   CORRECT
+BDB370.txt   CORRECT
+BDB380.txt   CORRECT
+BDB400.txt   CORRECT
+BDB410.txt   CORRECT
+BDB460.txt   CORRECT
+BDB480.txt   CORRECT
+BDB490.txt   CORRECT
+BDB500.txt   CORRECT
+BDB510.txt   CORRECT
+BDB540.txt   CORRECT
+BDB550.txt   CORRECT
+BDB560.txt   CORRECT
+BDB570.txt   CORRECT
+BDB580.txt   CORRECT
+BDB600.txt   CORRECT
+BDB910.txt   CORRECT
+BDB1570.txt  CORRECT
+BDB2160.txt  CORRECT
+BDB2570.txt  ERROR
+BDB2580.txt  CORRECT
+BDB2660.txt  CORRECT
+BDB2790.txt  CORRECT
+BDB3630.txt  CORRECT
+BDB3780.txt  CORRECT
+BDB4190.txt  CORRECT
+BDB4860.txt  CORRECT
+BDB5250.txt  CORRECT
+BDB5690.txt  CORRECT
+BDB5710.txt  CORRECT
+BDB6230.txt  CORRECT
+BDB6290.txt  CORRECT
+BDB6340.txt  ERROR
+BDB6430.txt  CORRECT
+BDB6520.txt  CORRECT
+BDB6860.txt  CORRECT
+BDB6870.txt  CORRECT
+BDB7080.txt  CORRECT
+BDB7500.txt  CORRECT
+BDB8070.txt  CORRECT
+BDB8700.txt  CORRECT
+BDB8710.txt  CORRECT
+BDB8750.txt  ERROR
+BDB8950.txt  CORRECT
+BDB9520.txt  CORRECT
+BDB9840.txt  ERROR
+BDB9970.txt  CORRECT
+
+# === FABRICATED ERROR TEST CASES ===
+# These use real BDB entries with deliberately incorrect French translations
+# to test specific failure modes. The English source is always identical to
+# the original entry.
+
+BDB3526.txt  ERROR    # "hebreu" and "genealogie" missing accents
+BDB1136.txt  ERROR    # "Esau" missing accent (should be "Ésaü")
+BDB1021.txt  ERROR    # בטחות stripped of nikkud (should be בַּטֻּחוֺת)
+BDB22.txt    ERROR    # "Num 1:11" instead of "Nb 1,11" (English bible refs)
+BDB32.txt    ERROR    # sense 3 missing (truncated)
+BDB36.txt    CORRECT  # properly translated entry
+BDB1352.txt  ERROR    # "corn" translated as "maïs" instead of "blé" (Victorian English)
+BDB1553.txt  ERROR    # entire description left in English (franglais)
+BDB1233.txt  ERROR    # "represented as king of Babylon, successor..." left in English
+BDB178.txt   ERROR    # "meat" translated as "viande" instead of "nourriture" (Victorian English)
+BDB6398.txt  ERROR    # "sensible" left as "sensible" (faux ami: should be "avisé/prudent")
+BDB2723.txt  ERROR    # "the quick" translated as "le rapide" (should be "la chair vive")
