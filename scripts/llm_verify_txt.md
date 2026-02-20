@@ -20,7 +20,7 @@ Ces textes contiennent un mélange de langues — c'est **parfaitement normal** 
 
 ## Ce qui constitue une ERREUR
 
-Signalez ERROR **uniquement** si vous trouvez un problème **clair et indéniable** parmi :
+Signalez ERROR si vous trouvez un problème parmi :
 
 ### A. Anglais non traduit (franglais)
 Des mots anglais courants qui auraient dû être traduits en français. Soyez particulièrement vigilants sur les **structures mixtes** :
@@ -32,9 +32,27 @@ Des mots anglais courants qui auraient dû être traduits en français. Soyez pa
 - **Glose & Notes** : "see", "compare", "above", "below", "following", "doubtful", "perhaps", "meaning", "name".
 
 ### B. Accents manquants et typographie
+
+**RÈGLE ABSOLUE — noms bibliques accentués :**
+Les noms propres bibliques DOIVENT porter leurs accents et diacritiques français.
+L'absence d'accent sur un nom biblique est **TOUJOURS** une ERROR, sans exception.
+Ne rationalisez jamais « les deux formes existent » — seule la forme française accentuée est correcte :
+
+| FAUX (= ERROR)  | CORRECT         |
+|------------------|-----------------|
+| Esau             | Ésaü            |
+| Esaie            | Ésaïe           |
+| Egypte           | Égypte          |
+| Ezechiel         | Ézéchiel        |
+| Ethiopien        | Éthiopien       |
+| Ephraim          | Éphraïm         |
+| Ephraïmite       | Éphraïmite      |
+| Edom (adj.)      | édomite         |
+
+Seuls les noms de **savants modernes** (Robinson, Smith, Driver, etc.) restent sans accents français.
+
 - **Minuscules** : "etre" (être), "hebreu" (hébreu), "feminin" (féminin), "genealogie" (généalogie), "poetique" (poétique), "abime" (abîme), "epee" (épée).
 - **Mots de prose** : "ou" (quand c'est l'adverbe "où"), "a" (quand c'est la préposition "à"), "la" (quand c'est l'adverbe "là"), "c.-a-d." (c.-à-d.).
-- **Majuscules** : "Esaie" (Ésaïe), "Egypte" (Égypte), "Ethiopien" (Éthiopien), "Esau" (Ésaü), "Ezechiel" (Ézéchiel).
 - **Typographie** : L'absence d'espace insécable avant une ponctuation double (`:`, `;`, `?`, `!`) ou à l'intérieur des guillemets (`« texte »`). Exemple d'erreur : « prophète: Es 1,1 ».
 
 ### C. Contenu manquant ou altéré
@@ -47,16 +65,24 @@ Des mots anglais courants qui auraient dû être traduits en français. Soyez pa
 - Les noms de **savants modernes** (Robinson, Smith, Driver, etc.) cités dans les notes ne doivent **pas** être traduits.
 - Si un lieu biblique est resté en anglais (ex: "city of Judah"), c'est une ERROR.
 
-## Biais de détection
+### E. Anglais victorien mal traduit (faux amis)
+Le BDB (1906) utilise un anglais victorien. Si un mot est traduit selon son sens
+moderne plutôt que son sens victorien, c'est une erreur. Exemple :
+- "corn" = grain/blé (PAS maïs) — "grain, corn" → « grain, blé »
+- "meat" = nourriture (PAS viande) — "for meat" → « pour la nourriture »
+- "sensible" = avisé/prudent (PAS sensible) — "a sensible man" → « un homme avisé »
 
-1. **Rigueur sur le Franglais** : Le mélange de langues ("père of") est une ERROR systématique. C'est le signe d'une traduction par script ou d'un manque d'attention.
-2. **Tolérance sur les Abréviations** : Si vous voyez une abréviation inconnue qui ressemble à un code savant (ex: `Dl`, `Co`, `Ki`, `We`), ne la signalez pas.
-3. **Évaluation globale** :
-   - Un faux positif coûte quelques secondes de vérification manuelle.
-   - Un faux négatif laisse une traduction cassée dans le corpus.
-   - En cas de **doute raisonnable** (ex: un accent manquant sur un mot rare), répondez **WARN**.
-   - Ne répondez **CORRECT** que si la traduction est impeccable sur tous les critères.
-   - Ne répondez **ERROR** que si vous avez trouvé un problème **concret, spécifique et indéniable**.
+## Biais de détection — PRÉFÉRER ERROR/WARN À CORRECT
+
+1. **Rigueur sur le Franglais** : Le mélange de langues ("père of") est une ERROR systématique.
+2. **Rigueur sur les accents** : Un accent manquant sur un nom biblique (Esau, Egypte, Ezechiel) est une ERROR systématique. Ne rationalisez jamais que « les deux formes existent ».
+3. **Tolérance sur les Abréviations** : Si vous voyez une abréviation inconnue qui ressemble à un code savant (ex: `Dl`, `Co`, `Ki`, `We`), ne la signalez pas.
+4. **Biais asymétrique** :
+   - Un faux positif (CORRECT marqué ERROR) coûte quelques secondes de vérification manuelle.
+   - Un faux négatif (ERROR marqué CORRECT) laisse une traduction cassée dans le corpus.
+   - **En cas de doute, répondez WARN ou ERROR — jamais CORRECT.**
+   - Ne répondez **CORRECT** que si vous êtes **certain** qu'il n'y a aucun problème.
+   - Répondez **ERROR** dès qu'un problème concret est identifié.
 
 Ces tables vous aident à vérifier les traductions. Un mot resté en anglais au lieu de sa forme française est une erreur (catégorie A).
 
@@ -102,21 +128,6 @@ Infinitive absolute → Infinitif absolu, feminine → féminin,
 masculine → masculin, singular → singulier, plural → pluriel,
 construct → construit, absolute → absolu, see → voir, compare → comparer,
 above → ci-dessus, below → ci-dessous
-
-### E. Anglais victorien mal traduit (faux amis)
-Le BDB (1906) utilise un anglais victorien. Si un mot est traduit selon son sens
-moderne plutôt que son sens victorien, c'est une erreur. Exemple :
-- "corn" = grain/blé (PAS maïs) — "grain, corn" → « grain, blé »
-- "meat" = nourriture (PAS viande) — "for meat" → « pour la nourriture »
-- "sensible" = avisé/prudent (PAS sensible) — "a sensible man" → « un homme avisé »
-
-## Biais de détection
-
-- Un faux positif coûte quelques secondes de vérification manuelle.
-- Un faux négatif laisse une traduction cassée dans le corpus.
-- En cas de **doute**, répondez **WARN**.
-- Ne répondez **CORRECT** que si la traduction est bien faite sur tous les critères.
-- Ne répondez **ERROR** que si vous avez trouvé un problème **concret et spécifique** — pas un vague soupçon.
 
 ## Exemples
 
@@ -342,6 +353,37 @@ Ct 6,4 ; Ct 6,10.
 
 Analyse : « terrible » est identique en anglais et en français — ce n'est pas du franglais. « dreadful » → « redoutable », « dignified » → « digne », « awe-inspiring » → « imposante ». Refs ok (Ha, Ct).
 >>> CORRECT
+
+### Exemple 11
+
+ENGLISH:
+```
+=== BDB956 H941 ===
+Biblical Hebrew
+
+II. בוּזִי
+proper name, masculine
+father of Ezekiel
+Ezek 1:3.
+
+---
+```
+
+FRENCH:
+```
+=== BDB956 H941 ===
+hébreu biblique
+
+II. בוּזִי
+nom propre, masculin
+père d'Ezechiel
+Ez 1,3.
+
+---
+```
+
+Analyse : Accent manquant sur « Ezechiel » — doit être « Ézéchiel ». Les noms bibliques doivent toujours porter leurs accents français.
+>>> ERROR
 
 ## Votre tâche
 

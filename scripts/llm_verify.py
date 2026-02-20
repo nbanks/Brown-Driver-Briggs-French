@@ -84,8 +84,9 @@ def save_result(results_path: Path, filename: str, verdict: str, timestamp: str,
     if explanation:
         clean = explanation.replace("\n", " ").replace("\t", " ").strip()
         clean = clean.replace('"', "'")
-        if len(clean) > 200:
-            clean = clean[:197] + "..."
+        # Prompt asks for max 200 chars, but allow breathing room in output
+        if len(clean) > 1024:
+            clean = clean[:1021] + "..."
         line += f', "{clean}"'
     with open(results_path, "a") as f:
         f.write(line + "\n")
@@ -150,6 +151,8 @@ def parse_response(raw: str) -> tuple[str, str]:
     Falls back to scanning for bare verdict words if no ">>> " prefix found.
     Returns (verdict_str, explanation_str).
     """
+    # Empty content means the model exhausted its token budget on reasoning
+    # without producing a final answer — treated as a non-verdict.
     if not raw.strip():
         return "OVERFLOW", ""
     lines = [l.strip() for l in raw.strip().splitlines() if l.strip()]
@@ -163,7 +166,8 @@ def parse_response(raw: str) -> tuple[str, str]:
                     explanation = "\n".join(explanation_lines).strip()
                     return v, explanation
         explanation_lines.append(line)
-    # Fallback: scan lines from the end for a bare verdict word
+    # Fallback: some models omit the ">>> " prefix and just write the verdict
+    # on its own line. Scan from the end to find the last bare verdict word.
     for line in reversed(lines):
         upper = line.upper().strip("*").strip()
         for v in ("CORRECT", "ERROR", "WARN"):
@@ -281,9 +285,13 @@ Modes and their defaults:
 
     to_check = []
     for filename, en_path, fr_path in pairs:
+        # Skip files whose content hash matches an existing result — this
+        # means the file was already verified and hasn't been modified since.
+        # If the file changes (e.g. re-translated), the hash won't match and
+        # it will be re-checked.
         fhash = file_hash(fr_path)
         if filename in existing and existing[filename][2] == fhash:
-            continue  # already checked and file hasn't changed
+            continue
         to_check.append((filename, en_path, fr_path, fhash))
 
     if args.count:
@@ -341,6 +349,8 @@ Modes and their defaults:
         save_result(results_path, filename, verdict, timestamp, fhash, explanation)
 
         counts[verdict] = counts.get(verdict, 0) + 1
+        # Progress: one char per file — compact enough to fit 80 per line.
+        # . = ok, W = warning, X = error, O = model ran out of tokens, ? = unknown
         symbol = {"CORRECT": ".", "WARN": "W", "ERROR": "X", "OVERFLOW": "O"}.get(verdict, "?")
         sys.stdout.write(symbol)
         sys.stdout.flush()

@@ -54,6 +54,9 @@ inacceptable. Exemples :
 - « phénicien » et non « phenicien », « éthiopien » et non « ethiopien »
 - « fraîcheur » et non « fraicheur », « première » et non « premiere »
 - « Ésaïe » et non « Esaie », « Ézéchiel » et non « Ezechiel »
+- « Ésaü » et non « Esau », « Éphraïm » et non « Ephraim »
+- « Égypte » et non « Egypte », « Éthiopien » et non « Ethiopien »
+- « Éphraïmite » et non « Ephraïmite », « édomite » et non « Edomite »
 - « À partir de » et non « A partir de », « État » et non « Etat »
 
 Tous les fichiers de sortie (JSON et HTML) sont en UTF-8. Chaque caractère
@@ -458,12 +461,18 @@ sens moderne du mot anglais.
 ### Traduction des noms propres et lieux
 
 1. **Noms bibliques et lieux géographiques** : Doivent être traduits par leur
-   équivalent français standard (voir la table des livres bibliques).
+   équivalent français standard, **y compris les accents sur les majuscules**.
    - "Isaiah" -> "Ésaïe"
+   - "Ezekiel" -> "Ézéchiel"
+   - "Esau" -> "Ésaü"
    - "Egypt" -> "Égypte"
+   - "Ephraim" -> "Éphraïm"
+   - "Ephraimite" -> "Éphraïmite"
+   - "Ethiopian" -> "Éthiopien"
    - "Moabite" -> "Moabite"
+   - "Edomite" -> "édomite"
    - "Euphrates" -> "Euphrate"
-   - "Judah" -> "Juda" (ou "Judaïte")
+   - "Judah" -> "Juda"
 
 2. **Noms de savants et auteurs modernes** : Ne PAS traduire. Ces noms (souvent
    cités dans les abréviations savantes ou les notes) doivent rester tels quels.
@@ -604,6 +613,16 @@ fichier est incorrect — recommencez en utilisant le texte de `Entries_txt_fr/`
 si elle semble vide ou redondante. Le fichier `Entries_fr/` doit avoir la même
 arborescence de balises que le fichier anglais original.
 
+**Traduction `txt_fr` défectueuse :** Si vous constatez que le fichier
+`Entries_txt_fr/` contient des erreurs évidentes (franglais, accents manquants,
+texte anglais non traduit, faux ami victorien), **corrigez la traduction** dans
+votre sortie HTML en vous basant sur le texte anglais original (`Entries_txt/`).
+Produisez toujours le fichier `Entries_fr/` (sinon `untranslated.py` le
+signalera comme non fait), mais consignez le problème dans `errata-N.txt` (voir
+la section « Gestion des erreurs ») pour qu'il puisse être vérifié. Un modèle
+moins puissant est souvent utilisé pour l'étape 3 — faites de votre mieux, mais
+ne bloquez jamais sur une entrée problématique.
+
 **Étape 4 : Validation** (`scripts/validate_html.py`, déterministe)
 Vérifie que le HTML français contient tous les éléments préservés de l'original
 (hébreu, placeholders, attributs ref, abréviations) et que le texte français
@@ -619,19 +638,6 @@ python3 scripts/validate_html.py            # tout valider
 python3 scripts/validate_html.py BDB17      # une seule entrée
 python3 scripts/validate_html.py --summary  # totaux seulement
 ```
-
-### Consultation des images Placeholders
-
-Dans les fichiers `Entries_txt/`, les placeholders apparaissent sous la forme :
-```
-[placeholder8: Placeholders/8.gif]
-```
-Le chemin est relatif à la racine du projet. Pour voir l'image du mot apparenté
-(arabe, syriaque, éthiopien, etc.), ouvrir le fichier GIF correspondant. Cela
-peut aider à comprendre le contexte étymologique lors de la traduction.
-
-Le fichier `placeholders.csv` associe chaque numéro à sa langue source et son
-contexte HTML d'origine.
 
 ### Script utilitaire : `scripts/untranslated.py`
 
@@ -697,7 +703,9 @@ Le BDB cite des mots apparentés d'autres langues sémitiques (arabe, syriaque,
 
 Dans le HTML, elles apparaissent comme `<placeholder1 />`, `<placeholder8 />`,
 etc. Le numéro correspond au fichier GIF. Le fichier `placeholders.csv` associe
-chaque numéro à sa langue source et son contexte.
+chaque numéro à sa langue source et son contexte. Dans `Entries_txt/`, ils
+apparaissent sous la forme `[placeholder8: Placeholders/8.gif]` — ouvrir
+l'image peut aider à comprendre le contexte étymologique lors de la traduction.
 
 ### Traitement en traduction
 
@@ -758,10 +766,6 @@ Sabean / Sabaean     sabéen
 Syriac               syriaque
 Targum               targoum
 ```
-
-La balise `<language>` dans les entrées HTML n'a que deux valeurs : "Biblical
-Hebrew" et "Biblical Aramaic". Les traduire respectivement par « hébreu
-biblique » et « araméen biblique ».
 
 ## Renvois
 
@@ -863,9 +867,16 @@ gaspille du contexte et réduit le nombre d'entrées traduites par session.
 ## Gestion des erreurs (errata)
 
 Si vous rencontrez une entrée anormale (HTML source malformé, texte illisible,
-fichier `Entries_txt_fr/` manifestement erroné ou incomplet, cas non couvert par
-ces règles), faites de votre mieux pour la traduire, MAIS consignez le problème
-dans un fichier errata à la racine du projet, nommé d'après votre tranche :
+fichier `Entries_txt_fr/` manifestement erroné ou incomplet, traduction
+défectueuse avec franglais ou accents manquants, cas non couvert par ces
+règles) :
+
+1. **Produisez toujours le fichier de sortie** (`Entries_fr/`, `json_output_fr/`,
+   etc.) — même imparfait — sinon `untranslated.py` le signalera comme non fait.
+   Si la traduction `txt_fr` est défectueuse, corrigez-la de votre mieux en vous
+   basant sur le texte anglais original.
+2. **Consignez le problème** en ajoutant une ligne (**append**, ne pas écraser
+   les entrées existantes) au fichier errata de votre tranche :
 
 ```
 errata-0.txt   # pour les entrées finissant par 0
@@ -879,9 +890,11 @@ une brève description :
 BDB3370 txt_fr  Texte source Entries_txt/ tronqué après le Qal
 BDB5900 html    Placeholder manquant dans Entries/ -- balise fermante orpheline
 BDB7240 json    Champ pos contient 500+ caractères de prose, voir section pos débordants
+BDB1136 html    txt_fr avait "Esau" sans accents, corrigé en "Ésaü" dans Entries_fr/
 ```
 
-Ne bloquez pas sur une entrée problématique — consignez et passez à la suivante.
+3. **Passez à l'entrée suivante.** Ne bloquez jamais sur une entrée
+   problématique. Les fichiers errata seront revus manuellement.
 
 ## Notes de qualité
 

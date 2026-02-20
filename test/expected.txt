@@ -89,7 +89,7 @@ BDB210.txt   CORRECT
 BDB220.txt   CORRECT
 BDB230.txt   CORRECT
 BDB260.txt   CORRECT
-BDB270.txt   CORRECT
+BDB270.txt   WARN     # source has OCR artifact "JudÊan" (from Judæan); translation correctly renders "Judéen"
 BDB280.txt   CORRECT
 BDB300.txt   CORRECT
 BDB310.txt   CORRECT
