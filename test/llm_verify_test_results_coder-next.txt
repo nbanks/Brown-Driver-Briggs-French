@@ -1,0 +1,6 @@
+BDB10.txt,     CORRECT, 2026-02-20T09:43:41, 3bb83cfe, "Analyse : Tout est correctement traduit : 'construct' → 'construit', 'Syriac' → 'syriaque', 'see' → 'voir', 'on form' → 'sur la forme'. Les références bibliques (Est) et les abréviations savantes s..."
+BDB100.txt,    CORRECT, 2026-02-20T09:44:15, 30370a85, "Analyse : Tout est correctement traduit : termes grammaticaux (nom féminin, absolu, construit), références bibliques (Ne, Est, 2 Ch), et le mot « letter » est bien rendu par « lettre » (pas de fran..."
+BDB1021.txt,   ERROR,   2026-02-20T09:44:33, 2b27cf14, "Analyse : Le mot hébreu a perdu ses voyelles (בַּטֻּחוֺת → בטחות). C'est une altération du texte hébreu (catégorie D)."
+BDB1030.txt,   ERROR,   2026-02-20T09:44:51, f0bb6a05, "Analyse : Franglais — « asumed » et « follwing » (fautes d'orthographe anglaises) non traduits en français (« supposé », « suivant »)."
+BDB1050.txt,   ERROR,   2026-02-20T09:45:07, 2247c965, "Analyse : Franglais — « in » et « Juda » non traduits (devrait être « en Juda » ou « dans le Juda »)."
+BDB110.txt,    CORRECT, 2026-02-20T09:45:26, 2fd747cd, "Analyse : Tout est correctement traduit : catégorie grammaticale, glose, et références bibliques (Gen → Gn, Deut → Dt, Hos → Os). Aucun franglais ni erreur d'accentuation."

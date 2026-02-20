@@ -1,0 +1,718 @@
+=== BDB844 H834 ===
+hébreu biblique
+
+אֲשֶׁר
+particule de relation (moabite id. ; origine douteuse) :
+1. selon Tsepreghi^Diss. Lugd. p. 171^ Mühlau^Bö. Lb. ii. 79 n.^
+Sta^Morg. Forsch. 1875, 188; Lb. § 167^
+Hom^ZMG 1878, 708 ss.^
+Müll^§ 153^
+Sayce^Hebraica. ii. 51^
+Lag^M. i. 255 &^ surtout
+Krae^Hebraica. vi. 298 ss^, à l'origine un substantif « lieu » =
+[placeholder452: Placeholders/452.gif]
+trace, marque,
+[placeholder453: Placeholders/453.gif] (id.), אֲתַר,
+[placeholder454: Placeholders/454.gif]
+lieu, assyrien
+ašru
+, employé (voir Kraetz.) à la fois comme substantif « là,
+où » et comme relatif de lieu « où » : en hébreu ce développement est allé plus loin, et il est devenu un
+signe relatif en général. L'objection principale à cette explication est qu'elle isolerait l'hébreu des autres
+langues sémitiques, dans lesquelles les pronoms sont formés régulièrement à partir de racines démonstratives (comparer
+aussi Nö^ZMG 1886, 738^).
+2. selon Phi^St. C. 73^ Sperling^Nota
+Rel. im Hebr. 1876, 15-22^ pour אֲשֶׁל, développé à partir du relatif
+שׁ
+(q.v.) par (1) la préfixation soit d'un א simplement prosthétique, soit, mieux, d'un א
+pronominal (donnant אש, la forme du relatif en phénicien), et (2) l'addition
+de la racine démonstrative ל [que l'on retrouve aussi dans
+אֵל
+, אֵלָּה, הַלָּזֶה (q.v.),
+[placeholder455: Placeholders/455.gif]
+celui qui,
+[placeholder456: Placeholders/456.gif]
+qui (pluriel)] : l'objection principale à cette explication est le changement de ל en
+ר, que la comparaison du syriaque
+[placeholder457: Placeholders/457.gif] à côté de
+
+ᵑ7
+
+הָלְכָּא ne rend guère probable. 1
+semble préférable, la racine primitive ayant acquis des significations différentes dans les différentes
+langues sémitiques, et s'étant affaiblie en hébreu en une simple particule de relation). Signe de
+relation,
+mettant la proposition qu'il introduit en rapport avec une proposition antécédente. En règle générale אֲשֶׁר
+est un
+simple lien de connexion, et nécessite d'être complété (voir les grammaires) par un affixe
+pronominal, ou un autre
+mot, tel que שָׁם, définissant la nature de la relation plus précisément : p. ex. Gn 1,11
+אֲשֶׁר זַרֵעוֺבֿוֺ littéralement quant auquel, sa semence est en lui = dans lequel est
+sa semence, Ps 1,4 comme
+la bale אֲשֶׁרתִּֿדְּפֶנּוּ רוּחַ
+quant à laquelle, le vent la chasse = que le vent chasse, etc. ; & ainsi אֲשֶׁרשָׁ֗֗֗ם
+= où, אֲשֶׁרמִ֗֗֗שָּׁם = d'où, Gn 2,11 ; Gn 3,23 ; Gn 20,13 etc.
+Parfois aussi (voir ci-dessous) la relation qu'il exprime est spécifiquement temporelle, locale, causale, etc. Plus
+particulièrement
+
+1.
+il inclut son antécédent pronominal, que ce soit au nominatif ou aux cas obliques, comme Nb 22,6
+וַאֲשֶׁר תָּאֹר יוּאָר et celui que tu maudis est maudit, Ex 4,12 et je
+t'enseignerai אֲשֶׁר תְּדַבֵּר
+ce que tu diras ; et avec des particules ou prépositions, comme אֵת אֲשֶׁר
+(selon le contexte) celui qui . . ., ceux qui . . ., ce que . . . ; לַאֲשֶׁר
+à celui qui . . .
+Gn 43,16, à
+ceux qui . . .
+Gn 47,24, à
+ce que
+Gn 27,8
+מֵאֲשֶׁר
+Jg 16,30 ;
+2 S 18,18
+que ceux que ; Lv 27,24
+לַאֲשֶׁר
+קָנָהוּ מֵאִתּוֺ
+à celui de qui il l'a acheté, Nb 5,7 ; Es 24,2
+כַּאֲשֶׁר נשֶׁא בוֺ
+comme celui contre qui il y a un créancier.
+
+2.
+les cas de אֲשֶׁר suivi d'un affixe pronominal, ou de שָׁם,
+שָֽׁמָּה, מִשָּׁם, sont si courants que les exemples cités ci-dessus suffiront
+.
+Très rarement on trouve la construction anomale עִם אֲשֶׁר
+Gn 31,32 pour
+אֲשֶׁר עִמּוֺ (voir Gn 44,9), בַּאֲשֶׁר
+Es 47,12 pour
+אֲשֶׁר בָּהֶם, לַאֲשֶׁר pour אֲשֶׁרלָ֗֗֗הֶם
+Ez 23,40 :
+Ps 119,49
+voir sous על אשׁר. Il est suivi du pronom au nominatif,
+dans les
+cas suivants : —
+
+a.
+immédiatement, surtout devant un adjectif ou participe, Gn 9,3 tout être qui se meut
+אֲשֶׁר הוּאחַֿי qui est vivant, Lv 11,26 ; Nb 9,13 ; Nb 14,8 ; Nb 14,27 ; Nb 35,31 ; Dt 20,20 ; 1 S 10,19 (voir Dr) 2 R 25,19 (||
+Jr 52,25
+היה)
+Jr 27,9 ; Ez 43,19 ; Ag 1,9 ; Rt 4,15 ; Ne 2,18 ; Qo 7,26 devant un verbe 2 R 22,13 (omis 2 Ch 34,21).
+
+b.
+dans une
+phrase négative, à la fin
+: Gn 7,2 ;
+Gn 17,12 ;
+Nb 17,5 ; Dt 17,15
+אֲשֶׁר לֹא אָחִיךָ הוּא qui n'est pas ton frère, Dt 20,15 ; Jg 19,12 ; 1 R 8,41 || 1 R 9,20 ||.
+
+N.B.
+Ps 16,3
+אֲשֶׁר בָּאָרֶץ הֵ֑מָּה est une expression sans parallèle pour « qui sont dans le pays » ; lire ׳
+
+אֲשֶׁר בָּאָ֑רֶץ הֵמָּה אַדִּירֵי וג « les saints qui sont dans le pays, eux (המה
+)
+sont les nobles, en qui, » etc.
+
+3.
+parfois (quoique rarement) l'adjoint de définition est un pronom de 1re ou 2e personne aussi bien que de 3e
+personne. Dans de tels cas il faut rendre strictement moi qui . . ., toi qui, etc.
+; Os 14,4
+אֲשֶׁרבְּֿךָ יְרֻחַם יָתוֺם
+toi par qui l'orphelin est pris en pitié ! Jr 31,32
+moi, dont ils ont rompu l'alliance, Jr 32,19 ; Es 49,23 ; Jb 37,17 s. toi dont les
+vêtements sont chauds . . .,
+peux-tu ? etc., Ps
+71,19 ;
+Ps
+71,20 ;
+Ps 144,12
+nous dont les fils, etc., Ps 139,15 ma structure ne t'était pas cachée,
+אֲ֯שֶׁרעֻֿשֵּׂיתִי
+בַסֵּתֶר
+moi qui ai été façonné dans le secret (= bien que j'aie été façonné dans le secret),
+Ex 14,13
+car
+vous qui avez vu les Égyptiens aujourd'hui, — vous ne les verrez plus jamais ! (comparer
+Ps 41,9).
+
+4.
+l'adjoint pronominal de définition est supprimé
+—
+
+a.
+quand
+אֲשֶׁר représente le simple sujet d'une phrase, ou l'objet direct d'un verbe
+: ainsi
+constamment,
+comme Gn 2,1 l'œuvre
+אֲשֶׁר עָשָׂה
+qu'il fit, Gn 3,3 l'arbre אֲשֶׁר בְּתוֺךְ הַגָּן
+qui est au milieu du jardin, etc.
+
+b.
+après des mots dénotant
+le temps,
+le lieu, ou la manière, de sorte que אֲשֶׁר devient alors équivalent à quand, où, pourquoi
+
+: (α) Gn 6,4
+אַחֲרֵי כֵן אֲשֶׁר après que, quand, etc. (comparer 2 Ch 35,20
+) Gn 45,6
+il reste encore
+5 ans
+אֲשֶׁר אֵין חָרִישׁ
+où il n'y aura pas de labour, Jos 14,10 ; 1 R 22,25 après יוֺם ou
+הַיּוֺם
+
+Dt 4,10 ;
+Jg 4,14 ;
+1 S 24,5
+(voir
+Dr) 2 S 19,25 ; Jr 20,14 et ailleurs ; de même Gn 40,13
+. (β)
+Gn 35,13
+
+בַּמָּקוֺם אֲשֶׁר דִּבֶּר אִתּוֺ dans le lieu où il parla avec
+lui, v.
+Gn 35,14
+;
+Gn 39,20
+;
+Nb 13,27
+;
+Nb 22,26
+;
+Dt 1,31
+dans
+le
+désert que tu as vu, où (accents Ke
+Di), Dt 8,15 ; 1 R 8,9 (à moins que לוּחוֺת הַבְּרִית ne soit
+ici tombé
+: voir
+
+ᵐ5
+
+& Dt
+9,9
+) Es
+55,11
+; Es
+64,10
+; Ps 84,4
+
+. Ainsi
+(γ) dans אֶל אֲשֶׁר
+vers (le lieu) qui (ou où) Ex 32,34
+;
+Rt 1,16
+אֶלכָּֿלאֲֿשֶׁר
+vers tout (lieu) où
+Jos 1,16 ;
+Pr 17,8
+בַּאֲשֶׁר
+dans (le lieu) où
+Jg 5,27 ;
+Jg 17,8 ;
+Jg 17,9 ;
+1 S 23,13
+;
+2 R 8,1 ;
+Rt 1,16 ;
+Rt 1,17 ;
+Jb 39,30
+,
+une seule fois
+avec שָׁם
+Gn 21,17
+
+בְּכֹל אֲשֶׁר
+partout où
+Jos 1,7 ; Jos 1,9 ; Jg 2,15 ;
+1 S 14,47
+;
+1 S 18,5 ;
+2 S 7,7 ;
+2 R 18,7
+מֵאֲשֶׁר
+de (l'endroit) où = d'où que ce soit
+Ex 5,11 ;
+Rt 2,9
+עַלאֲֿשֶׁר
+vers (le lieu) où (ou que) 2 S 15,20
+
+;
+1 R 18,12
+
+עַלכָּֿלאֲֿשֶׁר
+Jr 1,7. (
+δ
+
+) זֶה הַדָּבָר אֲשֶׁר ֗֗֗ voici la raison que ou pourquoi
+. .
+.
+
+Jos 5,4 ; 1 R 11,27
+
+.
+
+c.
+cas plus extrêmes
+Lv 14,22 ;
+Lv 14,30 ;
+Lv 14,31 ;
+Nb 6,21 ; Dt 7,19
+(par quoi), Dt
+28,20
+; 1 S 2,32
+
+(dans quoi), 1 R
+2,26 ;
+Jg
+8,15 (au sujet de qui), Es 8,12 (où יאמר
+serait normalement suivi de לוֺ), Es 31,6 retournez à (celui) contre qui ils se sont profondément
+rebellés,
+Es 47,15 ;
+So 3,11
+;
+Qo 3,9 ;
+1 R 14,19
+
+(=
+comment).
+
+d.
+il n'est supprimé qu'en apparence après ׅ
+׳
+אֲשֶׁר אָמַר (אָמַרְתִּי וג suivi des paroles prononcées, sa place étant en réalité prise par un
+pronom
+dans le discours qui suit
+, comme Gn
+3,17 l'arbre au sujet duquel je t'ai ordonné
+en disant,
+Tu
+n'en mangeras pas, Ex 22,8 ; Dt 28,68 ; Jg 7,4 (זֶה) Jg 8,15
+(où le nom répété
+prend la place du
+pronom, comparer Dt
+9,2
+) 1 S 9,17
+(
+זֶה) :23 + ; comparer 2 S 11,16 ; 2 R 17,12 ; 2 R 21,4.
+
+5.
+אֲשֶׁר
+parfois en poésie = celui qui, un homme qui (des hommes qui
+), ὅστις, οἵτινες, Ps 24,4 ; Ps 55,20 ; Ps 95,4 ; Ps 95,5 ; Jb 4,19 ;
+Jb 5,5 ; Jb 9,5 (
+Hi) Jb 15,17.
+
+6.
+אֲשֶׁר
+reçoit parfois sa définition plus précise d'un substantif qui le suit,
+en d'autres termes, son antécédent logique est inséré dans la proposition relative :
+(
+a
+)
+dans la formule propre à Jérémie, ׳
+אֶל יר
+׳
+אֲשֶׁר הָיָה דְבַר י ce qui advint (de) la parole de ׳
+י à Jérémie Jr 14,1 ; Jr 46,1 ; Jr 47,1 ; Jr 49,34 (comparer Ew^§ 334^
+) ;
+
+(
+b)
+Ex 25,9 ;
+Nb
+33,4 ;
+1 S
+25,30 ;
+2 R
+8,12 ;
+2 R
+12,6
+לְכֹל
+אֲשֶׁריִֿמָּצֵא שָׁם בָּֽדֶק׃
+Ez 12,25
+
+comparer l'usage éthiopien Di^§ 201^ ;
+
+(c
+)
+(antécédent répété) Gn 49,30 = Gn 50,13, 1 S 25,30 (׳
+י répété), Es 54,9 (probablement) quant auquel j'ai juré que, etc.,
+Am 5,1
+que je
+prononce
+sur vous (comme) une lamentation.
+
+7.
+
+׳
+אֲשֶׁר ל
+ce qui (appartient, appartenait) à, est employé
+
+a.
+soit seul soit précédé de כָּלֿ pour exprimer (tout) ce qui (appartient) à
+
+, comme
+Gn 14,23
+
+מִכָּלאֲֿשֶׁרלְֿךָ de tout ce qui est à toi, Gn 31,1
+מֵאֲשֶׁר
+לְאָבִינוּ de ce qui était à notre père, Gn 32,24 & envoya
+
+אֶתאֲֿשֶׁרלֿוֺ
+ce qu'il avait, + souvent
+
+b.
+comme périphrase du génitif, comme
+Gn 29,9
+עִםהַֿצּאֹן אֲשֶׁר לְאָבִיהָ avec le troupeau qui était à son père,
+Gn 40,5 ;
+Gn 47,4 ;
+Lv 9,8 ; Jg 6,11 ;
+1 S 25,7
+הָרֹעִים
+אֲשֶׁרלְֿךָ, 2 S 14,31
+אֶתהַֿחֶלְקָה אֲשֶׁרלִֿי, 2 S 23,8 ; 1 R 1,8 ; 1 R 1,33
+עַל הַפִּרְדָּה אֲשֶׁרלִֿי sur ma propre mule, 1 R 1,49 ; 1 R 4,2 ; 2 R 11,10 ; 2 R 16,13
+; Rt 2,21
+et surtout dans le
+cas d'une expression
+composée dépendant d'un seul génitif, comme Gn 23,9 ; Gn 40,5 ; Gn 41,43
+מִרְכֶּבֶת הַמִּשְׁנֶה אֲשֶׁרלֿוֺ le char du second rang qu'il avait
+,
+Ex
+38,30 ;
+Jg
+3,20 ;
+Jg
+6,25
+; 1 S
+17,40
+; 1 S 21,8
+
+אֲבִיר הָרֹעִים אֲשֶׁר
+לְשָׁאוּל le plus puissant des bergers de Saül, 1 S 24,5
+אֶתכְּֿנַףהַֿמְּעִיל אֲשֶׁרלְֿשָׁאוּל, 2 S 2,8 le chef de l'armée de Saül, 1 R 10,28 ; 1 R 15,20
+
+; 1 R
+22,31
+;
+Jr 52,17
+;
+Rt 4,3.
+
+c.
+
+avec des noms de lieux (surtout ceux qui n'admettent pas facilement le construit statif)
+Jg 18,28
+;
+Jg 19,14
+
+הַגִּבְעָה אֲשֶׁר לְבִנְיָמִין Guibéa (la colline) de Benjamin, Jg 20,4 ; 1 S 17,1 ; 1 R 15,27
+;
+1 R 16,15
+; 1 R 17,9
+;
+1 R 19,3
+;
+2 R 14,11
+.
+comparer
+שֶׁל
+(q.v.) qui en
+Rabb
+, comme l'araméen -דִּיל,
+[placeholder458: Placeholders/458.gif], est d'usage habituel comme marque du génitif. — N.B. En araméen aussi דּי
+
+,
+[placeholder459: Placeholders/459.gif], sans ל, exprime la relation génitivale, comme מִלְּתָא
+דִימַֿלְכָּא
+, littéralement le mot, celui du roi = le mot du roi. Les quelques
+cas apparents
+d'un usage similaire de אשׁר sont cependant trop étrangers à l'usage général de la
+langue
+pour être
+considérés autrement que comme dus à une erreur textuelle : 1 S 13,8 lire אֲשֶׁר אָמַר (ou שָׂם
+
+Ex 19,5)
+
+שְׁמוּאֵל (
+
+ᵐ5
+
+εἶπε) ;
+1 R 11,25 suppléer עָשָׂה (
+
+ᵐ5
+
+ἣν ἐποίησεν) ; 2 R 25,10 suppléer אֵת
+avec (comme || Jr 52,14) ; 2 Ch 34,22 lire וַאֲשֶׁר אָמַר הַמֶּלֶךְ
+(comparer
+
+ᵐ5
+
+) et ceux que le roi avait désignés (abrégé de 2 R 22,14) ; comparer Ew^§
+292 a, b^ avec note.
+
+8.
+
+אֲשֶׁר devient, comme l'araméen דּי,
+[placeholder460: Placeholders/460.gif], une conjonction se rapprochant dans l'usage de
+כִּי
+: ainsi
+
+a. = quod, ὅτι,
+
+que
+, subordonnant une phrase entière à un verbe de savoir, se souvenir, etc. (
+α
+)
+avec
+אֵת
+Dt 9,7 n'oublie
+pas
+אֵת אֲשֶׁר הִקְצַפְתָּ
+le fait que (= comment) tu as provoqué, etc., Dt 29,15
+; Jos 2,10
+; 1 S
+24,11 ;
+1 S 24,19
+;
+2 S 11,20
+ne savez-vous pas
+אֵת אֲשֶׁריֹֿרוּ
+comment on tire du haut de la muraille ? 2 R 8,12 ; Es 38,3 + souvent Comme sujet (rare) 1 R 14,19
+;
+2 R 14,15
+; 2 R
+20,20
+. De
+temps (de façon particulière)
+2 S 14,15
+עַתָּה אֲשֶׁר maintenant (il en est) que . . .
+Za 8,20
+(probablement) encore (il adviendra) que . . .
+Za 8,23
+comparer כִּמְעַט שֶׁ
+
+Ct 3,4. (
+β
+) sans אֵת (peu fréquent, כִּי étant habituellement employé) : après
+
+יָדַע
+Ex 11,7 ;
+Ez 20,26
+
+(très étrange chez Ézéchiel : voir Hi) Jb 9,5 (Ew
+De
+Di) Qo 8,12, רָאָה
+Dt 1,31 (
+
+RV
+)
+1 S
+18,15
+, הִתְוַדָּה confesser Lv 5,5 ; Lv 26,40 b, הִשְׁבִּיעַ
+1 R 22,16
+
+(fit jurer que . . .) ; après un nom Es 38,7
+הָאוֺת אֲשֶׁר le signe que . . . (|| 2 R 20,9
+כִּי) : avec une fréquence croissante en hébreu tardif, 2 Ch 2,7, et surtout Néhémie, Esther : Ne 2,5 ; Ne 2,10 ;
+Ne 7,65
+(= Esd 2,63
+)
+Ne 8,14 ;
+Ne 8,15 ;
+Ne 10,31
+;
+Ne 13,1 ;
+Ne 13,19
+;
+Ne 13,22
+;
+
+Ne 2,10 ;
+Ne 3,4 ; Ne 4,11 ;
+Ne 6,2 ; Ne 8,11 ;
+
+(מֵאֲשֶׁר) Qo 5,4 ; Qo 7,18 (avec טוֺב :
+contraste Rt
+2,22)
+Rt 2,22 v.
+
+Rt 2,29 ;
+
+Rt 8,12 ;
+
+Rt 8,14 ;
+
+Rt 9,1 ; Dn 1,8 (deux fois
+dans le
+verset). (γ) préfixé à une citation directe, comme
+כִּי
+q.v. (= ὅτι
+recitativum) (rare) 1 S 15,20 ; 2 S 1,4 ; 2 S 2,4 (voir Dr)
+Ps 10,6
+(probablement), Ne 4,6
+.
+
+b.
+il
+se résout en de sorte que
+:
+Gn 11,7
+אֲשֶׁר לֹא יִשְׁמְעוּ
+de sorte qu'ils ne comprennent pas, etc., Gn 13,16 ; Gn 22,14
+אֲשֶׁר יֵאָמֵר de sorte que l'on dit, Ex 20,26 ; Dt 4,10 ; Dt 4,40
+אֲשֶׁר יִיטַב לְךָ
+Dt 6,3 ; Dt 28,27
+;
+Dt 28,51
+;
+1 R 3,12
+;
+1 R 3,13
+;
+2 R 9,37
+;
+Ml 3,19.
+
+c.
+il a une force causale, vu que, en ce que, puisque
+:
+Gn 30,18
+;
+Gn 31,49
+
+et
+Mitspa, אֲשֶׁר אָמַר
+parce qu'il dit, Gn 34,13 ; Gn 34,27 ; Gn 42,21 nous sommes coupables, אֲשֶׁר
+רָאִינוּ
+nous qui avons vu (ou, en ce que nous avons vu), Nb 20,13 Meriba,
+parce qu'
+ils contestèrent là, Dt 3,24 ; Jos 4,7 ; Jos 4,23 ; Jos 22,31 ; Jg 9,17 ; 1 S 2,23 ; 1 S 15,15 ; 1 S 20,42
+va en paix,
+אֲשֶׁר נִשְׁבַּעְנוּ
+vu que nous avons juré, 1 S 25,26
+toi que (= ou, vu que) ׳
+י a retenu, 2 S 2,5 bénis soyez-vous de ׳
+י, אֲשֶׁר עֲשִׂיתֶם, qui (οἵτινες) avez
+fait
+(ou
+en ce que vous avez fait), 1 R 3,19 ; 1 R 15,5 ; 2 R 12,3 ; 2 R 17,4 ; 2 R 23,26 ;
+
+(Hi
+De
+Now). Ici aussi appartient son emploi dans אֲשֶׁר לָמָּה
+puisque pourquoi . . . ? (= de peur que) Dn 1,10 : voir ci-dessous
+לָמָּה. Sur
+אֲשֶׁר עַל כֵּן
+vu que
+Jb 34,27
+
+voir
+ci-dessous כִּי עַל כֵּן.
+
+d.
+il exprime une condition
+
+(rare
+& particulier) :
+Lv
+4,22
+
+אֲשֶׁר נָשִׂיא יֶחֱטָא au cas que = quand (ou si
+)
+un chef pèche (Lv
+4,3
+
+Lv 4,13 v.
+
+Lv 4,37
+אִם), Nb
+5,29 (expliqué différemment par Ew^§ 334 a^), Dt 11,27
+
+et
+la bénédiction אֲשֶׁר תִּשְׁמְעוּ
+si vous obéissez (Dt 11,28
+אִם), Dt 18,22
+Ges, Jos 4,21
+אֲשֶׁר יִשְׁאָלוּן ֗֗֗
+quand ils demanderont . . ., alors . . . (Jos 4,6
+כִּי),
+Es 31,4. Dans
+1 R 8,33 (|| 2 Ch 6,24
+כִּי, comparer Rois 2 Ch 6,35
+2 Ch 6,37)
+אֲשֶׁר peut être rendu indifféremment
+parce que
+ou quand. Une fois, de même, אֵת אֲשֶׁר
+1 R 8,31
+(||
+אִם).
+
+e.
+peut-être (exceptionnellement) = כַּאֲשֶׁר,
+
+comme
+
+,
+Jr
+33,22 ; Es
+54,9 (suivi de כֵּן ; mais
+כֵּן
+q.v. s'emploie parfois sans כאשׁר, & אשׁר peut dans ces
+passages
+se rattacher à ce qui précède) ; selon certains aussi Jr 48,8 ; Ps 106,34 (dans un contexte où
+כַּאֲשֶׁר
+serait
+plus usuel : אֲשֶׁר peut cependant être l'objet de אָמַר). Dans 1 S 16,7
+אֲשֶׁר יִרְאֶה
+הָאָדָם lire כַּאֲשֶׁר, voir Dr.
+
+f. combiné avec des prépositions, אֲשֶׁר les transforme en conjonctions : voir
+ci-dessous,
+בַּאֲשֶׁר, כַּאֲשֶׁר, מֵאֲשֶׁר. Sur son emploi semblable avec
+(אַחֲרֵי) אַחַר, מִבְּלִי, בַּעֲבוּר, עַל דְּבַר
+
+, יַעַן, לְמַעַן, כְּפִי, עַד,
+עַל
+, עֵקֶב, מִפְּנֵי, תַּחַת, voir ces mots. —
+
+הַאֲשֶׁר, avec ה
+interrogatif, une seule fois, 2 R 6,22. Dans Dt 15,14 lire aussi כַּאֲשֶׁר
+: noter
+
+ברכך avant.
+
+Note. 1. אֲשֶׁר étant un lien de connexion, sans équivalent
+parfaitement correspondant en français, sa force peut fréquemment être rendue de plus d'une manière. Voir
+p. ex.
+2 S 2,5
+(ci-dessus
+8
+c), Es 28,12 à qui il dit, ou
+parce
+qu'il leur dit.
+
+Note. 2. L'opinion que אֲשֶׁר a une force assévérative (comme
+כִּי
+, q.v.), ou introduit l'apodose, n'est pas probable, étant à la fois étrangère à son usage général &
+non
+requise par les passages allégués. Rendre Es 8,20 soit « Assurément selon cette parole parleront
+ceux qui
+n'ont pas d'aurore, » soit « . . . parleront-ils quand (comparer ci-dessus 8
+
+d
+Dt
+11,27
+;
+Jos
+4,21
+) ils n'ont pas d'aurore. »
+
+---

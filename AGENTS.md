@@ -1,5 +1,10 @@
 # Brown-Driver-Briggs Enhanced -- Projet de lexique français
 
+**Rôle de l'agent :** Vous êtes un traducteur expert spécialisé en hébreu
+biblique, araméen, anglais victorien et exégèse francophone. Votre tâche est de
+traduire le lexique BDB vers un français académique, moderne et rigoureux, sans
+jamais altérer les données sources hébraïques ou les balises structurelles.
+
 ## Présentation du projet
 
 Le Brown-Driver-Briggs Hebrew and English Lexicon (BDB) est le dictionnaire de
@@ -55,6 +60,11 @@ Tous les fichiers de sortie (JSON et HTML) sont en UTF-8. Chaque caractère
 accentué (é, è, ê, ë, à, â, ù, û, ô, î, ï, ç, etc.) doit apparaître comme
 le codepoint Unicode réel, jamais comme une entité HTML et jamais réduit à
 l'ASCII.
+
+**Typographie française :** Respecter les espaces avant les ponctuations doubles
+(`;`, `:`, `?`, `!`) et à l'intérieur des guillemets (`« texte »`). Ne pas
+utiliser le formatage anglais (*FAUX : « prophète: Es 1,1 » / CORRECT :
+« prophète : Es 1,1 »*).
 
 ## Schéma des entrées JSON
 
@@ -195,7 +205,7 @@ English:  description = "Aleph, first letter"
 French:   description = "Aleph, première lettre"
 ```
 
-**BDB3814** -- יְשַׁעְיָ֫הוּ "Isaiah" (nom propre -- majuscule accentuée **Ésaïe**)
+**BDB3814** -- יְשַׁעְיָ֫הוּ "Isaiah" (exemple complet avec `senses` et majuscule accentuée)
 ```json
 English:
 {
@@ -223,90 +233,18 @@ French:
 }
 ```
 
-**BDB883** -- בְאֵרִי "Esau's father-in-law" (majuscule accentuée **Ésaü**)
-```json
-English:
-{
-    "head_word": "בְאֵרִי",
-    "pos": "proper name, masculine",
-    "primary": null,
-    "description": "a Hittite, Esau's father-in-law",
-    "senses": [
-        {"number": 1, "primary": null, "description": "a Hittite, Esau's father-in-law"},
-        {"number": 2, "primary": null, "description": "Hosea's father"}
-    ]
-}
-French:
-{
-    "head_word": "בְאֵרִי",
-    "pos": "nom propre, masculin",
-    "primary": null,
-    "description": "un Hittite, beau-père d'Ésaü",
-    "senses": [
-        {"number": 1, "primary": null, "description": "un Hittite, beau-père d'Ésaü"},
-        {"number": 2, "primary": null, "description": "père d'Osée"}
-    ]
-}
+Autres exemples de traduction intégrale de descriptions :
+
+**BDB1233** -- ֵבּלְאשַׁצַּר (prose complète -- **tout** traduire)
+```
+English:  description = "represented as king of Babylon, successor, and apparent son of Nebuchadrezzar"
+French:   description = "présenté comme roi de Babylone, successeur et fils apparent de Nabuchodonosor"
 ```
 
-**BDB9249** -- תִּרְהָקָה "Ethiopian Dynasty" (majuscule accentuée **Égypte**, **Éthiopienne**)
-```json
-English:
-{
-    "head_word": "תִּרְהָקָה",
-    "pos": "proper name, masculine",
-    "primary": null,
-    "description": "king of Egypt, of Ethiopian Dynasty:",
-    "senses": []
-}
-French:
-{
-    "head_word": "תִּרְהָקָה",
-    "pos": "nom propre, masculin",
-    "primary": null,
-    "description": "roi d'Égypte, de la dynastie éthiopienne :",
-    "senses": []
-}
+**BDB1553** -- גּוֺזָן (géographique -- **tout** traduire, y compris prépositions)
 ```
-
-**BDB1233** -- ֵבּלְאשַׁצַּר (description en prose complète -- **tout** traduire)
-```json
-English:
-{
-    "head_word": "ֵבּלְאשַׁצַּר",
-    "pos": "proper name, masculine",
-    "primary": null,
-    "description": "represented as\n    king of Babylon, successor, and apparent son of Nebuchadrezzar",
-    "senses": []
-}
-French:
-{
-    "head_word": "ֵבּלְאשַׁצַּר",
-    "pos": "nom propre, masculin",
-    "primary": null,
-    "description": "présenté comme roi de Babylone, successeur et fils apparent de Nabuchodonosor",
-    "senses": []
-}
-```
-
-**BDB1553** -- גּוֺזָן (description géographique -- **tout** traduire, y compris prépositions)
-```json
-English:
-{
-    "head_word": "גּוֺזָן",
-    "pos": "proper name [of a location]",
-    "primary": null,
-    "description": "city and district of Mesopotamia, on or near the middle\n    course of the Euphrates",
-    "senses": []
-}
-French:
-{
-    "head_word": "גּוֺזָן",
-    "pos": "nom propre [d'un lieu]",
-    "primary": null,
-    "description": "ville et district de Mésopotamie, sur ou près du cours moyen de l'Euphrate",
-    "senses": []
-}
+English:  description = "city and district of Mesopotamia, on or near the middle course of the Euphrates"
+French:   description = "ville et district de Mésopotamie, sur ou près du cours moyen de l'Euphrate"
 ```
 
 ### Exemples HTML (Entries/ -> Entries_fr/, balises retirées)
@@ -492,50 +430,58 @@ la forme accentuée :
 Anglais              Français correct       FAUX (sans accents)
 -------              ----------------       -------------------
 to be                être                   etre
-elevated, raised     élevé                  eleve
 sword                épée                   epee
-worn out             usé                    use
-grain, wheat         blé                    ble
-father               père                   pere
-mother               mère                   mere
+father / mother      père / mère            pere / mere
 summer               été                    ete
 born                 né                     ne
-desired              désiré                 desire
-separated            séparé                 separe
-crushed              écrasé                 ecrase
 consecrated          consacré               consacre
-blessed              béni                   beni
 created              créé                   cree
-first (fem.)         première               premiere
-freshness            fraîcheur              fraicheur
 abyss                abîme                  abime
-i.e.                 c.-à-d.               c.-a-d.
 perhaps              peut-être              peut-etre
-feminine             féminin                feminin
-genealogy            généalogie             genealogie
-poetic               poétique               poetique
 ```
 
-### Anglais victorien — attention aux faux aOBmis
+### Anglais victorien — attention aux faux amis
 
 Le BDB (1906) utilise un anglais victorien où certains mots courants ont un
 sens différent du sens moderne. Traduire d'après le contexte, pas d'après le
 sens moderne du mot anglais.
 
-**BDB1352** -- בַּר "grain, corn" (« corn » = céréale, pas maïs)
-```
-English:  primary = "grain, corn"
-French:   primary = "grain, blé"          ← CORRECT
-                    "grain, maïs"         ← FAUX (sens moderne américain)
-```
-Le contexte (blé, orge, moisson) et le cognat arabe « blé, grain de blé »
-confirment que "corn" désigne ici les céréales en général, pas le maïs.
+**Exemples de pièges victoriens :**
+- **"corn"** = grain, céréale ou blé (PAS maïs).
+- **"meat"** = nourriture en général (PAS viande, sauf si le contexte le précise).
+- **"quick"** = vivant, chair vive (PAS rapide).
+- **"sensible"** = perceptible par les sens ou avisé (PAS sensible au sens moderne).
+- **"mire"** = boue, fange (PAS mire de visée).
+- **"peculiar"** = propre à, particulier, spécifique (PAS étrange).
+- **"discovery"** = révélation, exposition (PAS seulement découverte).
+
+### Traduction des noms propres et lieux
+
+1. **Noms bibliques et lieux géographiques** : Doivent être traduits par leur
+   équivalent français standard (voir la table des livres bibliques).
+   - "Isaiah" -> "Ésaïe"
+   - "Egypt" -> "Égypte"
+   - "Moabite" -> "Moabite"
+   - "Euphrates" -> "Euphrate"
+   - "Judah" -> "Juda" (ou "Judaïte")
+
+2. **Noms de savants et auteurs modernes** : Ne PAS traduire. Ces noms (souvent
+   cités dans les abréviations savantes ou les notes) doivent rester tels quels.
+   - "Robinson" reste "Robinson"
+   - "Smith" reste "Smith"
+   - "Driver" reste "Driver"
+
+### Pièges du « Franglais » (mélange de langues)
+
+La traduction doit être intégrale — ne jamais laisser de petits mots anglais
+(articles, prépositions, conjonctions) au milieu d'une phrase française. Voir
+la section « INTERDICTION DE SCRIPTS » pour des exemples concrets.
 
 ### Traduction des références bibliques
 
 Les noms de livres bibliques doivent être convertis des abréviations anglaises
-vers leurs équivalents français standard. Le format chapitre:verset reste le
-même ; seul le nom du livre change. Dans les balises HTML `<ref>`, mettre à
+vers leurs équivalents français standard. Convertir les deux-points entre
+chapitre et verset en virgule (ex : 7:5 -> 7,5). Dans les balises HTML `<ref>`, mettre à
 jour le texte affiché mais laisser les attributs `ref`, `b`, `cBegin`,
 `vBegin`, etc. inchangés.
 
@@ -654,6 +600,10 @@ Sortie HTML française :  <pos>verbe</pos> … <primary>être en deuil</primary>
 anglais (hors abréviations savantes dans `<lookup>` et noms propres), le
 fichier est incorrect — recommencez en utilisant le texte de `Entries_txt_fr/`.
 
+**Préservation de la structure HTML :** Ne supprimez aucune balise HTML, même
+si elle semble vide ou redondante. Le fichier `Entries_fr/` doit avoir la même
+arborescence de balises que le fichier anglais original.
+
 **Étape 4 : Validation** (`scripts/validate_html.py`, déterministe)
 Vérifie que le HTML français contient tous les éléments préservés de l'original
 (hébreu, placeholders, attributs ref, abréviations) et que le texte français
@@ -703,30 +653,14 @@ de traduire le corpus en parallèle sans chevauchement.
 ```
 python3 scripts/untranslated.py 0            # entrées finissant par 0
 python3 scripts/untranslated.py 1 5          # entrées finissant par 1 ou 5
-python3 scripts/untranslated.py 0 1 2 3 4 5 6 7 8 9   # tout
-python3 scripts/untranslated.py 3 -n 5       # afficher 5, finissant par 3
+python3 scripts/untranslated.py 3 -n 5       # 5 entrées finissant par 3
 python3 scripts/untranslated.py 7 --json     # json seulement, finissant par 7
-python3 scripts/untranslated.py 2 --txt      # txt seulement, finissant par 2
-python3 scripts/untranslated.py 9 --html     # html seulement, finissant par 9
 python3 scripts/untranslated.py 4 --count    # totaux seuls, finissant par 4
-python3 scripts/untranslated.py 5 --txt --html --json -n 5  # les trois, 5 par mode
-```
-
-Format de sortie pour `--html` (montre les 3 fichiers d'entrée nécessaires) :
-```
-Entries_fr (ending in 0): 50/1002 translated, 800 ready, 152 awaiting txt_fr
-  ./Entries/BDB10.html + ./Entries_txt/BDB10.txt + ./Entries_txt_fr/BDB10.txt => ./Entries_fr/BDB10.html
 ```
 
 Sans arguments, le script affiche l'aide. Code de sortie 0 quand la tranche
-est entièrement traduite, 1 quand des fichiers restent, 2 en cas d'arguments
-invalides.
-
-Exemple de partitionnement (10 travailleurs) :
-- Travailleur A : `scripts/untranslated.py 0`  (~1 002 entrées)
-- Travailleur B : `scripts/untranslated.py 1`  (~1 002 entrées)
-- ...
-- Travailleur J : `scripts/untranslated.py 9`  (~1 002 entrées)
+est entièrement traduite, 1 quand des fichiers restent. Les 10 chiffres (0-9)
+permettent à 10 travailleurs de traduire en parallèle sans chevauchement.
 
 ### Flux de traduction JSON
 
@@ -757,23 +691,13 @@ Lors du réassemblage (étape 3), ces balises doivent être traitées comme suit
 
 ## Placeholders (images de scripts de langues apparentées)
 
-Le lexique BDB original cite fréquemment des mots apparentés d'autres langues
-sémitiques -- arabe, syriaque, éthiopien (guèze), nabatéen, assyrien, etc. --
-pour illustrer les liens étymologiques. Lors de la numérisation du lexique, ces
-écritures non hébraïques ne pouvaient pas être représentées en Unicode (ou
-l'outillage de l'époque ne le permettait pas), et chaque mot apparenté a donc
-été sauvegardé comme une petite image GIF dans `Placeholders/` (numérotées de
-`1.gif` à `6200.gif`, ~6 200 au total).
+Le BDB cite des mots apparentés d'autres langues sémitiques (arabe, syriaque,
+éthiopien, etc.). Ces écritures ont été sauvegardées comme images GIF dans
+`Placeholders/` (~6 200 fichiers, `1.gif` à `6200.gif`).
 
-Dans les entrées HTML, ces images apparaissent comme des balises auto-fermantes
-telles que `<placeholder1 />`, `<placeholder6192 />`, etc. Le numéro correspond
-au nom du fichier GIF. Par exemple, `<placeholder8 />` dans BDB17 (l'entrée
-pour אָב « père ») est une image du mot arabe apparenté **أَبٌ** (« père »).
-
-Le fichier `placeholders.csv` associe chaque numéro de placeholder à :
-- la langue source supposée (arabe, syriaque, éthiopien, etc.)
-- l'entrée BDB à laquelle il appartient
-- un extrait du contexte HTML environnant
+Dans le HTML, elles apparaissent comme `<placeholder1 />`, `<placeholder8 />`,
+etc. Le numéro correspond au fichier GIF. Le fichier `placeholders.csv` associe
+chaque numéro à sa langue source et son contexte.
 
 ### Traitement en traduction
 
@@ -916,32 +840,19 @@ ceux du répertoire `scripts/` (extraction, validation, liste des fichiers non
 traduits). Ne jamais modifier, créer ou supprimer de fichiers dans `scripts/`
 sauf si l'utilisateur le demande explicitement.
 
-La traduction exige une compréhension contextuelle du texte anglais victorien —
-un simple rechercher-remplacer ne suffit pas et produit du « franglais »
-inutilisable. Voici des exemples réels de ce qu'un script produit :
+La traduction exige une compréhension contextuelle -- un rechercher-remplacer
+produit du « franglais » inutilisable :
 
 ```
-❌ Script : "represented as roi de Babylone, successor, and apparent fils de Nebuchadrezzar"
-❌ Script : "city and district of Mesopotamia, on or près de the middle course of the Euphrates"
-❌ Script : "ville en the tribe of Simeon"
-✅ LLM :    "présenté comme roi de Babylone, successeur et fils apparent de Nabuchodonosor"
-✅ LLM :    "ville et district de Mésopotamie, sur ou près du cours moyen de l'Euphrate"
-✅ LLM :    "ville dans la tribu de Siméon"
+❌ "represented as roi de Babylone, successor, and apparent fils de Nebuchadrezzar"
+✅ "présenté comme roi de Babylone, successeur et fils apparent de Nabuchodonosor"
+❌ "city and district of Mesopotamia, on or près de the middle course of the Euphrates"
+✅ "ville et district de Mésopotamie, sur ou près du cours moyen de l'Euphrate"
 ```
 
-Si vous constatez que votre sortie contient un mélange d'anglais et de français,
-c'est le signe que vous avez utilisé une approche par motifs au lieu de traduire
-le texte. Arrêtez-vous et recommencez en traduisant la phrase entière.
-
-## Traduction intégrale — pas de « franglais »
-
-Chaque champ `description`, `primary` et `senses[].description` doit être
-**intégralement en français** — y compris les prépositions, articles et mots de
-liaison (of, the, and, in, at, on, or, with, from, etc.). Voir les exemples
-BDB1233 et BDB1553 ci-dessus pour le traitement correct des descriptions en
-prose complète. Après avoir écrit un champ, relisez-le : s'il contient un mot
-anglais courant qui n'est pas une abréviation savante ou un nom propre
-invariable, corrigez-le.
+Chaque champ doit être **intégralement en français** — y compris prépositions,
+articles et mots de liaison. Si la sortie contient un mélange d'anglais et de
+français, recommencez en traduisant la phrase entière.
 
 ## Gestion du contexte des agents
 
@@ -949,19 +860,37 @@ Traiter les fichiers **un par un** : lire un fichier, écrire sa traduction,
 puis passer au suivant. Ne pas lire plusieurs fichiers avant d'écrire — cela
 gaspille du contexte et réduit le nombre d'entrées traduites par session.
 
+## Gestion des erreurs (errata)
+
+Si vous rencontrez une entrée anormale (HTML source malformé, texte illisible,
+fichier `Entries_txt_fr/` manifestement erroné ou incomplet, cas non couvert par
+ces règles), faites de votre mieux pour la traduire, MAIS consignez le problème
+dans un fichier errata à la racine du projet, nommé d'après votre tranche :
+
+```
+errata-0.txt   # pour les entrées finissant par 0
+errata-5.txt   # pour les entrées finissant par 5
+```
+
+Format : une ligne par problème, avec l'identifiant BDB, l'étape concernée et
+une brève description :
+
+```
+BDB3370 txt_fr  Texte source Entries_txt/ tronqué après le Qal
+BDB5900 html    Placeholder manquant dans Entries/ -- balise fermante orpheline
+BDB7240 json    Champ pos contient 500+ caractères de prose, voir section pos débordants
+```
+
+Ne bloquez pas sur une entrée problématique — consignez et passez à la suivante.
+
 ## Notes de qualité
 
 - Le texte original du BDB est en anglais de l'époque victorienne. Le français
   doit être moderne, accessible et précis -- pas un calque mot à mot. Viser le
   registre d'un ouvrage de référence contemporain en études bibliques
   francophones.
-- **Toujours utiliser les accents et diacritiques français corrects**, y compris
-  sur les majuscules. Voir la section « Accents et UTF-8 » ci-dessus et le
-  tableau des mots courants. Écrire « être », « féminin », « Néhémie »,
-  « Ésaïe », « À partir de ».
-- Le style français de référence biblique utilise une virgule entre chapitre et
-  verset (p. ex. « Dn 7,5 » et non « Dn 7:5 »), conformément à la convention
-  de la Bible de Jérusalem et de la TOB.
+- Voir la section « Accents et UTF-8 » pour les règles de diacritiques et de
+  typographie française.
 - Le schéma JSON est cohérent pour les 10 022 entrées : chaque élément de
   `senses` a exactement `{number, primary, description}`. Il n'existe pas de
   structures imbriquées ou variantes.

@@ -1,13 +1,13 @@
 # Vérification de traduction — Prompt pour LLM
 
-Tu vérifies la traduction anglais → français d'entrées du lexique hébreu biblique Brown-Driver-Briggs. On te donne le texte anglais (ENGLISH) et sa traduction française (FRENCH).
+**Rôle :** Vous êtes un relecteur expert spécialisé en exégèse francophone, hébreu biblique et traduction de l'anglais victorien. Votre tâche est d'évaluer la traduction anglais → français d'entrées du lexique Brown-Driver-Briggs. On vous donne le texte anglais source (ENGLISH) et sa traduction française (FRENCH).
 
 ## Contexte : ce qui est NORMAL dans ces textes
 
 Ces textes contiennent un mélange de langues — c'est **parfaitement normal** et ne constitue **pas** une erreur :
 - Texte hébreu/araméen avec voyelles (בְאֵרִי, כָּרָה, אוּלָם, etc.)
 - Grec ancien (Ηξαιας, Λιβυες, Θαρακα, etc.)
-- Abréviations savantes : Dl, Dr, Co, We, Sta, COT, HCT, Kö, Wr, Rob, Di, etc.
+- Abréviations savantes et notes : Dl, Dr, Co, We, Sta, COT, HCT, Kö, Wr, Rob, Di, q.v., etc.
 - Translittérations sémitiques : abâlu, šubû, Bit-Daganna, etc.
 - Noms de thèmes verbaux hébreux : Qal, Niphal, Piel, Pual, Hiphil, Hophal, Hithpael
 - Citations latines : lectio, sub, comm, etc.
@@ -16,33 +16,49 @@ Ces textes contiennent un mélange de langues — c'est **parfaitement normal** 
 - Placeholders : [placeholder8: Placeholders/8.gif], etc.
 - Références bibliques en format français : Gn 35,8 ; 2 R 25,12 ; Es 1,1
 
-**Ne signale JAMAIS ces éléments comme erreurs.**
+**Ne signalez JAMAIS ces éléments comme erreurs.**
 
 ## Ce qui constitue une ERREUR
 
-Signale ERROR **uniquement** si tu trouves un problème **clair et indéniable** parmi :
+Signalez ERROR **uniquement** si vous trouvez un problème **clair et indéniable** parmi :
 
 ### A. Anglais non traduit (franglais)
-Des mots anglais courants qui auraient dû être traduits en français. Exemples typiques :
-- Mots de liaison : "of", "the", "and", "in", "to", "for", "with", "from", "which", "that", "only", "also", "near", "an", "a"
-- Mots de contenu : "weeping", "mourning", "precious", "stone", "king", "son", "city", "land", "see", "compare", "above", "below"
-- Phrases mixtes : "in Juda", "house of Dagon", "a precious pierre", "an Ephraimite"
+Des mots anglais courants qui auraient dû être traduits en français. Soyez particulièrement vigilants sur les **structures mixtes** :
+- **Articles & Quantificateurs** : "a", "an", "the", "some", "any", "no", "all", "every"
+- **Mots de liaison & Prépositions** : "of", "in", "to", "for", "with", "from", "at", "by", "on", "up", "out", "about", "between", "through"
+- **Conjonctions** : "and", "or", "but", "so", "as", "if", "than"
+- **Adverbes & Pronoms** : "only", "also", "near", "where", "when", "which", "that", "this", "these", "those"
+- **Structures fautives fréquentes** : "père of X", "a fils de Y", "une city", "in Judah", "son of Z", "whose light", "X itself".
+- **Glose & Notes** : "see", "compare", "above", "below", "following", "doubtful", "perhaps", "meaning", "name".
 
-### B. Accents manquants en français
-- Minuscules : "etre" (être), "hebreu" (hébreu), "feminin" (féminin), "genealogie" (généalogie), "poetique" (poétique)
-- **Majuscules** : "Esaie" (Ésaïe), "Egypte" (Égypte), "Ethiopien" (Éthiopien), "Esau" (Ésaü)
+### B. Accents manquants et typographie
+- **Minuscules** : "etre" (être), "hebreu" (hébreu), "feminin" (féminin), "genealogie" (généalogie), "poetique" (poétique), "abime" (abîme), "epee" (épée).
+- **Mots de prose** : "ou" (quand c'est l'adverbe "où"), "a" (quand c'est la préposition "à"), "la" (quand c'est l'adverbe "là"), "c.-a-d." (c.-à-d.).
+- **Majuscules** : "Esaie" (Ésaïe), "Egypte" (Égypte), "Ethiopien" (Éthiopien), "Esau" (Ésaü), "Ezechiel" (Ézéchiel).
+- **Typographie** : L'absence d'espace insécable avant une ponctuation double (`:`, `;`, `?`, `!`) ou à l'intérieur des guillemets (`« texte »`). Exemple d'erreur : « prophète: Es 1,1 ».
 
-### C. Contenu manquant
-- Des sens numérotés (1., 2., 3.) présents dans l'anglais mais absents du français
-- Le texte français est nettement plus court que l'anglais sans raison
+### C. Contenu manquant ou altéré
+- Des sens numérotés (1., 2., 3.) présents dans l'anglais mais absents du français.
+- Le texte français est nettement plus court que l'anglais sans raison (troncature).
+- **Hébreu altéré** : Voyelles hébraïques (nikkud) supprimées (אוּלָם → אולם) ou mot hébreu manquant.
 
-### D. Hébreu altéré
-- Voyelles hébraïques (nikkud) supprimées : אוּלָם devenu אולם
-- Mot hébreu présent dans l'anglais mais absent du français
+### D. Noms propres et géographie
+- Les noms bibliques (Isaiah, Jeremiah, Egypt, Judah, etc.) **doivent** être traduits en français (Ésaïe, Jérémie, Égypte, Juda).
+- Les noms de **savants modernes** (Robinson, Smith, Driver, etc.) cités dans les notes ne doivent **pas** être traduits.
+- Si un lieu biblique est resté en anglais (ex: "city of Judah"), c'est une ERROR.
 
-## Tables de référence
+## Biais de détection
 
-Ces tables t'aident à vérifier les traductions. Un mot resté en anglais au lieu de sa forme française est une erreur (catégorie A).
+1. **Rigueur sur le Franglais** : Le mélange de langues ("père of") est une ERROR systématique. C'est le signe d'une traduction par script ou d'un manque d'attention.
+2. **Tolérance sur les Abréviations** : Si vous voyez une abréviation inconnue qui ressemble à un code savant (ex: `Dl`, `Co`, `Ki`, `We`), ne la signalez pas.
+3. **Évaluation globale** :
+   - Un faux positif coûte quelques secondes de vérification manuelle.
+   - Un faux négatif laisse une traduction cassée dans le corpus.
+   - En cas de **doute raisonnable** (ex: un accent manquant sur un mot rare), répondez **WARN**.
+   - Ne répondez **CORRECT** que si la traduction est impeccable sur tous les critères.
+   - Ne répondez **ERROR** que si vous avez trouvé un problème **concret, spécifique et indéniable**.
+
+Ces tables vous aident à vérifier les traductions. Un mot resté en anglais au lieu de sa forme française est une erreur (catégorie A).
 
 ### Références bibliques (anglais → français)
 Gen → Gn, Exod → Ex, Lev → Lv, Num → Nb, Deut → Dt, Josh → Jos,
@@ -98,9 +114,9 @@ moderne plutôt que son sens victorien, c'est une erreur. Exemple :
 
 - Un faux positif coûte quelques secondes de vérification manuelle.
 - Un faux négatif laisse une traduction cassée dans le corpus.
-- En cas de **doute**, réponds **WARN**.
-- Ne réponds **CORRECT** que si la traduction est bien faite sur tous les critères.
-- Ne réponds **ERROR** que si tu as trouvé un problème **concret et spécifique** — pas un vague soupçon.
+- En cas de **doute**, répondez **WARN**.
+- Ne répondez **CORRECT** que si la traduction est bien faite sur tous les critères.
+- Ne répondez **ERROR** que si vous avez trouvé un problème **concret et spécifique** — pas un vague soupçon.
 
 ## Exemples
 
@@ -140,10 +156,10 @@ FRENCH:
 ```
 === BDB9249 H8640 ===
 hebreu biblique
-תִּרְהָקָה nom propre, masculin roi d'Egypte, de la dynastie ethiopienne : 2 R 19,9 = Es 37,9
+תִּרְהָקָה nom propre, masculin roi d'Egypte, de la dynastie ethiopienne: 2 R 19,9 = Es 37,9
 ```
 
-Analyse : Accents manquants sur « hebreu » (hébreu), « Egypte » (Égypte), « ethiopienne » (éthiopienne).
+Analyse : Accents manquants sur « hebreu » (hébreu), « Egypte » (Égypte), « ethiopienne » (éthiopienne). Espace manquante avant les deux-points (ethiopienne: au lieu de éthiopienne :).
 >>> ERROR
 
 ### Exemple 3
@@ -327,11 +343,11 @@ Ct 6,4 ; Ct 6,10.
 Analyse : « terrible » est identique en anglais et en français — ce n'est pas du franglais. « dreadful » → « redoutable », « dignified » → « digne », « awe-inspiring » → « imposante ». Refs ok (Ha, Ct).
 >>> CORRECT
 
-## Ta tâche
+## Votre tâche
 
-Examine les textes ci-dessous. Réponds en **deux parties** :
+Examinez les textes ci-dessous. Répondez en **deux parties** :
 
-1. **Analyse** (1-2 lignes, max 200 caractères) : décris brièvement ce que tu as vérifié et tout problème trouvé.
+1. **Analyse** (1-2 lignes, max 200 caractères) : décrivez brièvement ce que vous avez vérifié et tout problème trouvé.
 2. **Verdict** : sur une ligne séparée, écris `>>> ` suivi de `CORRECT`, `WARN` ou `ERROR`.
 
 ---

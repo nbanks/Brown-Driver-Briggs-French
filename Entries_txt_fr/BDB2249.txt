@@ -1,0 +1,650 @@
+=== BDB2249 ===
+hébreu biblique
+
+וְ, וּ, וָ
+adverbe démonstratif et conjonction
+ainsi, alors, et (phénicien, moabite, araméen ו ; arabe
+[placeholder1343: Placeholders/1343.gif] ; éthiopien
+[placeholder1344: Placeholders/1344.gif] assyrien
+u
+
+Dl^W^ (mais entre les verbes le connecteur habituel est l'enclitique
+ma
+KAT^2. 508^, Dl^§§ 82,
+150^). L'usage en hébreu montre que le וְ originel n'était pas une simple conjonction copulative, mais qu'il possédait une force démonstrative (comparer Dr^§ 122^), souvent perceptible comme telle, bien que dans d'autres cas,
+du fait de son emploi pour indiquer la simple juxtaposition ou connexion [comparer grec τε, et latin
+tum …. tum = « à la fois …. et », tous deux proprement démonstratifs : assyrien
+
+ma
+a aussi une force démonstrative, Dl^§ 79^], elle est
+moins palpable) — וְ devant shwa' mobile ou une labiale est vocalisé וּ ; souvent devant
+une syllabe tonique, quand le mot lui-même porte un accent disjonctif, וָ (comme וַָמתִּי׃
+Gn 19,19
+וָמֵ֖תוּ
+Gn 33,13
+וָמֵ֑ת
+Gn 44,9
+וָחָֽיָה׃
+Ex 1,16
+וָיָ֑מָּה
+Jos 15,46
+וָ֔לֹ֕א
+2 S 13,26
+וָאָ֖רֶץ
+Es 26,19
+וָקָ֔מוּ
+Es 49,7
+וָחָֽתָּה׃
+Jr 48,1
+וָרָֹע
+Ps 10,15) ;
+surtout quand il forme avec le mot précédent une paire, que ce soit d'idées parallèles ou opposées
+(comme כֹּה וָכֹה
+Ex 2,12,
+מִי וָמִ֖י
+Ex 10,8,
+אֶבֶן וָאָ֑בֶן
+Dt 25,13
+דֹּר וָדֹ֑ר
+Dt 32,7 + ;
+תֹּהוּ וָבֹ֔הוּ
+Gn 1,2,
+בְּהֵמָה וָרֶמֶ֛שׂ
+Gn 1,24,
+טוֺב וָרָֽע׃
+Gn 2,19,
+נָע וָנָ֖ד
+Gn 4,12,
+וְקַיִץ וָחֹ֛רֶף וְיוֺם וָלָ֖יְלָה
+Gn 8,22,
+קַח וֵָלךְ׃
+Gn 12,19,
+שָׁמַיִם וָאָֽרֶץ׃
+Gn 14,19,
+אֲנִי וָאָ֑תָּה
+Gn 31,44,
+אֲנִי וָה֑וּא
+Gn 41,11,
+עִבְרוּ וָשׁוּבוּ
+Ex 32,27,
+אַתָּה וָהֵ֛ם
+Nb 16,16,
+אֱלֹהִים וָמֶ֑לָךְ
+1 R 21,13,
+נִין וָנֶ֖כֶד
+Es 14,22,
+שֹׁד וָשֶׁ֖בֶר
+Es 59,7 et
+souvent : voir plus complètement Bö^§ 600^) ; occasionnellement aussi avec un accent conjonctif (comme וָשַחי לְעֹלָֽם׃
+Gn 3,22 comparer
+Lv 18,5,
+וָמַ֣תְנוּ שָׁם
+2 R 7,4,
+וָאָ֣רֶץ חֲדָשָׁ֑ה
+Es 65,17 ;
+Pr 25,3,
+שֹׁ֖ד וָשֶשׁבֶר גָּדוֺל׃
+Jr 48,3, comparer
+Jr 32,29). —
+וְ est employé très librement et largement en hébreu, mais aussi avec beaucoup de finesse, pour exprimer des relations et des nuances de sens que les langues occidentales indiqueraient habituellement par des particules distinctes. Mais en hébreu les particules comme
+אוֺ, אָז, אַךְ, אָכֵן, אוּלָם
+, בַּעֲבוּר, לְמַעַן, לָכֵן, etc., étaient réservées aux
+cas où l'on souhaitait une emphase ou une précision particulière : leur emploi fréquent était instinctivement perçu comme
+incompatible avec la légèreté et la grâce de mouvement que l'oreille hébraïque affectionnait ; et ainsi dans la
+AV
+,
+RV
+, des mots comme ou, alors, mais, néanmoins, cependant, ainsi, donc, que,
+apparaissent constamment là où l'hébreu a simplement וְ.
+
+1.
+Et, reliant à la fois des mots (voir ci-dessus) et des phrases (Gn 1,5
+׳
+וְלַחשֶׁךְ קָרָא וג). Quand trois, quatre mots ou plus suivent, la conjonction peut les relier
+tous, comme Gn 7,21
+; Gn 10,2 (6
+t.) Gn 24,35
+(7 t.) Jos
+7,24 (10 t.) 2 S 17,28s. : souvent cependant elle n'est préfixée qu'au dernier, comme Gn 5,32 ; Gn 10,1 ; Dt 18,10
+etc. ; occasionnellement même elle ne relie que les deux premiers, 1 R 8,47 ; Es 1,13 ; Ps 45,9 ; Jb 42,9. Remarquablement, cependant, וְ comme
+simple conjonction n'est, en règle générale, pas rattaché directement aux verbes en hébreu classique
+(surtout au parfait), la construction avec וְ consécutif (voir 2
+) étant (comme en moabite) préférée : ainsi on dit יָצָא וַיִּבֶן, non יָצָא
+וּבָנָה. Les exceptions en hébreu classique sont (a) parfois quand des
+synonymes sont couplés, comme Nb 23,19
+אָמַר ֗֗֗ וְדִבֶּר, Dt 2,30 ; Jg 5,26 ; 1 S 12,2 ; Es 1,2
+גדּלתי ורוממתי
+Es 2,11 ; Es 5,14 ; Es 8,8 ; Es 19,6 ; Es 29,20 (
+b) cas isolés, difficiles à réduire à une règle (peut-être parfois dus à une erreur textuelle), comme
+Gn 28,6 ; Gn 38,5 ; Jg 3,23 ; Jg 7,13 ; Jg 16,18 ;
+1 S 1,12 ; 1 S 3,13 ; 1 S 4,19 ; 1 S 5,7 ; 1 S 10,9 ; 1 S 17,38 ;
+1 S 17,48 ;
+1 S 25,20
+et ailleurs (dans d'autres passages, apparemment similaires, le parfait avec וְ a une valeur fréquentative
+(voir 2), comme Gn 37,3 ; Ex 36,29s. ; Nb 10,17s. Nb 21,15 ; Nb 21,20 ; 1 S 2,22 ; 1 S 16,14 ; 1 S 17,34s.
+(voir Dr) 1 S 27,9 ; 2 S 16,13 ; 2 S 17,17, peut-être aussi Gn 15,6 ; Gn 21,25 ; Gn 34,5). Dans les
+parties tardives de l'AT, probablement sous influence araméenne, le parfait avec simple וְ apparaît plus
+fréquemment : ainsi surtout dans Qohéleth, où il est quasi universel (p. ex. Gn 2,11 ; Gn 2,12 ; Gn 2,13 ; Gn 2,15 etc.). Avec l'imparfait,
+le simple וְ n'est pas aussi contraire à l'usage, même en hébreu classique (comparer 3) ; voir
+Gn 1,9 ; Gn 1,26 ; Gn 9,27 ; Gn 17,2 ; Gn 22,17 ;
+Gn 27,29 ;
+Ex 23,8
+(fréquemment) Ex
+24,7 ;
+Nb 14,12 ;
+Dt 17,13 ; Dt 30,12 ; Dt 30,13 ; Jos 3,13 ; Jos 7,3 ; Jg 7,3 ; Jg 13,8 ; Es 5,29 ; Es 14,10 souvent aussi chez Jérémie,
+Es^2^, Jb, Ps, p. ex. Es 40,30 ; Es 41,20 (Dr^§
+116^ : contraster Es 28,13). Voir plus complètement Dr^§ 130-4^
+
+Ges^«GKC:112»§ 112^. 6. Sens spéciaux : —
+
+a.
+il signifie parfois = et spécialement, Gn 3,16 ; 1 R 11,1 de nombreuses femmes étrangères, et
+spécialement la fille de Pharaon, Es 1,1 Juda et (= et particulièrement
+) Jérusalem, Es 2,1 ; Es 9,7 ; Ps 18,1.
+
+b.
+et en particulier (« und zwar »), et ce (explicatif), Gn 4,4 ; Jg 7,22 ;
+1 S 17,40
+
+וּבַיַּלְקוּט, 1 S 28,3 à Rama, et ce dans sa ville (inhabituel :
+texte suspect), 2 S 13,20
+וְשֹׁמֵמָה
+et ce désolée, Es 57,11 je me suis tu וּמֵעוֺלָם
+et ce depuis toujours, Es 32,7 ; Jr 15,13 ; Am 3,11 (si vera lectio), Am 4,10 ;
+Za 9,9b
+Ml 1,11 ;
+Ps 68,10
+; Pr
+3,12 ;
+Lm 3,26 ;
+Qo 8,2 ; Dn
+1,3 ; Dn
+8,10 ; Dn
+9,25 ; Dn
+9,27 ; Ne
+8,13 ;
+1 Ch 9,27 ; 2 Ch 8,13 ;
+2 Ch 29,27
+(mais « même » pour ו, devant ל et infinitif, p. ex. dans Es 44,28
+; Jr
+17,10 ; Jr 19,12, est erroné ; voir Ew^§ 351
+c^, Dr^§ 206^).
+
+c.
+parfois il introduit une idée qui dépasse ou ajoute tellement à ce qui précède qu'il équivaut presque
+à aussi, 1 S 25,43 ; 1 R 2,22 demande aussi le royaume
+pour lui ; de manière inhabituelle
+Os 8,6
+כי מישׂראל והוא car d'Israël est-il aussi, Qo 5,6
+והבלים (voir De) 2 Ch 27,5 (mais voir
+
+ᵐ5
+
+). Ou il peut être rendu par oui : ainsi surtout dans les numérations ascendantes 3-4
+Am 1,3 ;
+Am 1,6 ;
+Am 1,9 ;
+Am 1,11
+; Am 1,13
+; Am 2,1
+; Am 2,4
+; Am 2,6
+;
+Pr 30,18 ; Pr 30,21 ; Pr 30,29 ; Pr 30,6-7 ; Pr 6,16 ; Jb 5,19 ; Jb 5,7-8 ; Mi 5,4 — le premier nombre
+étant aggravé, ou augmenté, par un plus élevé. Dans un tour וּגְבוּל, apparaissant dans les descriptions
+géographiques, il est employé de manière particulière, semblant signifier = en même temps :
+Nb 34,6 et
+quant à la frontière occidentale, וְהָיָה לָכֶם הַיָּם הַגָּדוֺל וּגְבוּל la grande mer sera
+pour vous aussi (allemand « zugleich ») une frontière, Dt 3,16
+תּוֺךְ הַנַּחַל וּגְבוּל le milieu du torrent étant en même temps
+la frontière, Dt 3,17 ; Jos 13,23 ; Jos 13,27 ; Jos 15,12 ; Jos 15,47 (mais ceux-ci, sauf
+Nb 34,6,
+pourraient être des cas de 5.c.
+γ).
+
+d. il relie des cas alternatifs, de sorte que
+il = ou :
+Ex
+20,10 ;
+Ex 20,17 ; Ex 21,16 celui qui dérobe un homme
+וּמְכָרוֺ וְנִמְצָא בְיָדוֺ et le vend, et (=
+ou si) il est trouvé en sa main, Ex 21,17 ; Lv 21,14 ; Lv
+22,23 ;
+Lv 22,24 ; Pr 29,9 (Fl
+
+Ew
+
+RV
+: soit . . . soit) Jb 31,13 ; Jb 31,16 ; Jb
+31,26, etc.
+
+e. il relie des idées contrastées,
+là où dans notre idiome le contraste serait exprimé explicitement par mais ; en de tels
+cas l'importance est habituellement donnée à l'idée contrastée en la plaçant immédiatement après la
+conjonction : Gn 2,17
+
+mais de l'arbre de la connaissance . . . tu ne mangeras pas, Gn 4,2 ; Gn 4,5 ;
+Gn 6,8 ;
+Gn
+17,21 ;
+Gn 31,10 etc., 1 R 2,26 ; 1 R 10,7 ; 1 R
+11,32 ; 1 R 11,34 ; 1 R 15,14 ; Pr 10,1 ; Pr
+10,2 ;
+Pr 10,3 ; Pr 10,4 + souvent ; même après לֹא
+(où כִּי ou כִּי אִם serait attendu), comme Gn
+42,10 ;
+Ex 21,18 ; Lv 26,45 ; Dt 11,11 ; Jg
+19,12 ;
+1 R 3,11.
+
+f. il introduit une idée contrastée de
+telle manière qu'il suggère une question, surtout devant un pronom, Jg
+14,16 je ne l'ai pas dit à mon père ni à ma mère, וְלָךְ אַגִּיד et à toi je le
+dirais ?
+
+2 S 11,11 ; Jr 25,29
+וְאַתֶּם הִנָּקֵה תִנָּקוּ et vous resteriez impunis ? Jr 45,5
+; Ez
+20,31 ; Ez 33,25b Jon 4,11. Ainsi le
+וְ consécutif avec le parfait (voir 2.a.),
+Ex 5,5
+וְהִשְׁבַּתֶּם
+et vous les feriez reposer de leurs fardeaux ? Nb 16,10
+וּבִקַּשְׁתֶּם
+et vous chercheriez aussi le sacerdoce ? 1 S 25,11 ;
+
+Es 66,9 ; Ps 50,21
+et je garderais le silence ? Jb 32,16 (comparer Dr^§ 119^
+
+γ).
+
+g. rattachant un nouveau sujet (ou objet) à une proposition
+déjà grammaticalement complète, il = et aussi, Gn 2,9b Nb
+16,2 ;
+Nb 16,18 et ils se tinrent à l'entrée de la tente de
+la rencontre, ומשׁה ואהרן
+et Moïse et Aaron (se tinrent aussi), Nb 16,27 ; Ex 35,22 ; Jg 6,5 ; Gn 1,16 b Gn 12,17 ; Gn 44,2 ; Gn 46,15 ;
+Ex 29,3 ; Jr 32,29 (comparer
+Dr^Sm. i. 6, 11, & p. 293^) : quand l'idée ainsi rattachée est
+subordonnée, ou non logiquement englobée dans le prédicat principal, il se rapproche du
+waw arabe
+[placeholder1345: Placeholders/1345.gif] ou « waw d'association » (suivi d'un accusatif :
+
+W^AG ii. § 37^), Est 4,16
+אֲנִי וְנַעֲרֹתַי אָצוּם je jeûnerai (singulier) et
+(= avec) mes servantes,
+Ex 21,4 ; 1 S 25,42 ; 1 S 29,10b (mais insérer ici אַתָּה avec
+
+ᵐ5
+
+) 2 S
+12,30 (mais lire וּבָהּ, comme
+1 Ch 20,2) 1 S 20,10 ; Ne 6,12 ; Gn
+4,20 ; Es
+42,5 ; Jr
+19,1 (mais lire וְלָקַחְתָּ֫
+מזקני avec
+
+ᵐ5
+
+) 2 Ch 2,3
+; 2 Ch
+13,11 comparer
+Jr 22,7 (אִישׁ וְכֵלָיו), Jb 41,12.
+Si Es
+48,16
+וְרוּחוֺ appartient ici, c'est douteux
+
+h.
+וְ répété = à la fois . . . et (mais גַּם ֗֗֗
+גַּם) est plus usuel dans ce sens) ; Gn 34,28 ; Nb
+9,14 ; Jos
+9,23 ; 2 S
+5,8 (texte douteux),
+Es 16,5 ; Es 38,15 ; Jr 13,14 ;
+Jr 21,6 ; Jr 32,14 (texte douteux) Jr 32,20 ;
+
+Jr 40,8 ;
+Ps 76,7 ; Jb 34,29 ;
+Dn 8,13 ; Ne 12,28.
+
+i. une répétition du
+même mot avec וְ interposé exprime (a
+) la diversité (rare), Dt 25,13
+אֶבֶן וָאֶבֶן un poids et un poids, c.-à-d. des poids différents
+(expliqué par גְּדֹלָה וּקְטַנָּה), Dt 25,14 ;
+Pr 20,23
+; Ps 12,3
+בְּלֵב וָלֵב avec un cœur et un cœur = avec un cœur double, 1 Ch 12,33
+בְּלֹא לֵב וָלֵב ; (b) la distribution
+(sauf dans דֹּר וָדֹר
+
+Dt 32,7 ; Es 13,20 + souvent exclusivement un usage tardif : comparer
+Dr^Intr. 505^) Ps 87,5 ; 1 Ch 26,13
+לְשַׁעַר וָשָֽׁעַר׃ = pour chaque porte, 1 Ch 28,14 (deux fois dans le verset) ; 2 Ch 8,14 ;
+2 Ch 34,13
+; 2 Ch
+35,15 ; Esd 10,14
+זִקְנֵי עִיר וָעִיר anciens de chaque ville, Ne 13,24 ; Est 1,8 ; Est 1,22
+(deux fois dans le verset) ;
+Est 2,12 ;
+Est 3,4 ; Est 3,12 (4 t.
+dans le verset) ; Est 8,9
+(deux fois dans le verset) ; renforcé par כָּלֿ
+
+2 Ch 11,12
+
+בכל עיר ועיר dans chaque ville séparément,
+2 Ch 19,5 ; 2 Ch 28,25 ; 2 Ch 31,19 ;
+2 Ch 32,28
+; Est 2,11
+
+בכליֿום ויום, Est 3,14 ; Est 4,3 ; Est 8,11 ;
+Est 8,13 ;
+Est 8,17
+(deux fois dans le verset) ;
+Est 9,21 ;
+Est 9,27 ;
+
+Est 9,28 ; Ps 45,18 ; Ps 145,13 (courant en
+hébreu post-biblique, surtout avec כל).
+
+j. il est
+employé dans la formulation des proverbes (le Vav adaequationis,
+וָו הִשְׁתַּוָּאָה) comme Pr 17,3 ; Pr 25,3 ; Pr 25,20 ; Pr 25,25 des eaux fraîches pour
+une âme assoiffée et une bonne nouvelle d'un pays lointain (c.-à-d. ils se ressemblent), Pr
+26,3 ;
+Pr 26,9 ; Pr 26,14 ; Pr 26,20 ; Pr 27,21 ; Qo 5,2 ; Qo 7,1 ;
+
+Qo 8,8 comparer Qo 9,11 ; Ps 19,5 ; Ps 125,2
+; Jb
+14,11s. ; Jb 14,19 (comparer en
+arabe « chaque homme et ses soucis [accusatif] »,
+« chaque chose et son prix », c.-à-d. ils vont ensemble : « les marchands
+et les chiens [accusatif] de Séleucie », c.-à-d. ils
+se ressemblent : voir Fl^Kl. Schr. iii. 535 f.^
+). Plus rarement dans l'ordre inverse, Jb 5,7 ; Jb 12,11
+. Mais 1 S
+12,15b ne peut pas être ainsi expliqué : lire avec
+
+ᵐ5
+
+וּבְמַלְכְּכֶם, et voir Dr.
+
+k. dans les propositions circonstancielles וְ
+introduit un énoncé des conditions concomitantes sous lesquelles
+l'action dénotée par le verbe principal a lieu : en de tels cas, la relation exprimée par
+וְ doit souvent en français être indiquée explicitement par une conjonction, comme
+quand, puisque, vu que, bien que, etc., selon le cas. Ainsi très
+souvent, comme Gn 11,4
+bâtissons une tour וְראֹשׁוֺ בַשָּׁמַיִם
+
+et son sommet dans les cieux (= avec son sommet dans
+etc.), Gn 18,12
+aurai-je du plaisir, וַאדֹנִי זָקֵן
+
+et mon seigneur est vieux (= mon seigneur étant vieux) ? Jg 16,15 Comment dis-tu, je
+t'aime, וְלִבְּךָ
+אֵין אִתִּי
+et (= quand) ton cœur n'est pas avec moi ? et
+surtout avec un pronom personnel, Gn 15,2 que me donneras-tu וְאָנֹכִי
+
+הֹלֵךְ עֲרִירִי
+et moi (= le cas étant que moi) je m'en vais
+sans enfant ? Gn
+18,13 ; Gn
+20,3 voici, tu mourras à cause de la
+femme que tu as prise וְהִוא בְּעֻלַת בָּֽעַל׃ = vu qu'
+elle est mariée, Gn 24,62
+וְהוּא ישֵׁב = puisque ou car
+il habitait (différent de וַיֵּשֶׁב = et il se mit
+à habiter), Gn 26,27
+וְאַתֶּם
+vu que vous me haïssez, Jg 13,9 et vint à elle וְהִיא
+ישֶׁבֶת = alors qu'elle était assise, 1 S 18,23
+; 1 R
+19,19 + souvent d'un type plus exceptionnel sont Ps 72,12 le malheureux וְאֵיןעֹֿזֵר
+לוֺ
+et (= quand) il n'a pas de secours (comparer Jb 29,12),
+
+Jb 104,25
+
+וְאֵין מִסְפָּר,
+
+Jb 105,34
+; Jb 5,9.
+Voir plus complètement Dr^§ 156-60^
+Ges^«GKC:141»§ 141^, R 2. (L'usage
+analogue du
+[placeholder1346: Placeholders/1346.gif] est très courant en arabe : W^ii. §
+183^.) Introduisant un appel à un fait confirmatif
+d'un énoncé ou d'une promesse, il équivaut presque à aussi vrai que
+(comparer Ew^§ 340 c^) Os 12,6
+et Yahvé est le Dieu des armées, Yahvé est son nom ! Jl 4,20 ;
+Am 9,5-6 ; Es 51,15
+et moi [qui promets cela] je suis Yahvé ton Dieu, qui . . . . ! Jr 29,23 ; Ps 89,38b (comparer dans le
+Coran le fréquent « Et Dieu est . . . . [le puissant, le miséricordieux, etc.] »).
+
+2. Le ו consécutif (autrefois appelé le Waw « conversif ») ; —
+
+a.
+avec l'imparfait (וַּ avec dagesh suivant ; devant א
+
+, וָ), comme וַיּאֹמֶר proprement = et il procéda à dire,
+principalement en continuation d'un Parfait précédent (ainsi en moabite) ;
+
+b. avec le
+
+parfait (וְ, — aux 1re et 2e personnes du singulier, l'accent, avec certaines exceptions [voir Dr^§ 110^], étant reporté sur l'ultima), comme
+וְיָָֽשַׁבְתָּ֫ proprement ainsi [à savoir, comme limité par un verbe ou un autre terme
+précédent] tu t'étais assis, principalement en continuation d'un Imparfait
+précédent, dans ses divers sens de futur, jussif ou fréquentatif. L'analyse ultérieure de ces idiomes appartient
+à
+la grammaire ; voir sur a.
+Dr^Ch. vi.^, Ges
+^«GKC:111»§ 111^, et sur b.
+Dr^Ch. viii.^
+Ges^«GKC:112»§ 112^. Ici il suffit de noter — (
+a) le ו consécutif (surtout avec l'imparfait) couple fréquemment deux
+
+verbes
+de telle manière que le premier, indiquant le caractère général de l'action,
+reçoit sa détermination plus précise dans le second : en de tels cas, le premier peut souvent être rendu en français par un
+adverbe, comme Gn 26,18
+וַיָּשָׁב וַיַּחְפֹּר et il retourna et creusa = et il creusa
+de nouveau
+; ainsi souvent ; et de même avec הוֺסִיף
+Gn 25,1,
+
+מִהַר
+Gn 24,18,
+הוֺאִיל
+Jos 7,7, etc. ;
+plus
+exceptionnellement, Gn
+30,27 ; Est
+8,6
+, et (non consécutif) Gn 47,6 ; Jb 23,3 ; Ct 2,3 ; Lm 3,26 (voir Ges^«GKC:120»§
+120^, 2 a ; comparer en syriaque Nö^§ 335-6^
+. En arabe la forme renforcée de la conjugaison
+[placeholder1347: Placeholders/1347.gif] correspond ici : W^ii. § 140^). (
+b) וַּ avec l'imparfait exprime parfois un contraste = et pourtant
+, Gn
+32,31 j'ai vu Dieu face à face וַתִּנָּצֵל
+et pourtant mon âme est sauvée, Dt 4,33 ; 2 S 3,8 ; 2 S 19,29 ; Es 51,12 ; Ps 73,14 ; Ps 144,3 ; Jb 10,8 +
+(comparer Dr^§
+74^
+β). (c) il y a une tendance dans les livres tardifs de l'AT à employer le parfait avec
+simple וְ, là où la langue classique emploierait l'imparfait avec וַּ
+(comparer ci-dessus 1) ; ainsi surtout dans Qohéleth, où וַּ n'apparaît que trois fois,
+Jb 1,17 ; Jb 4,1 ; Jb 4,7. (
+d
+) un double parfait avec ו consécutif est parfois employé, de manière informelle mais élégante, avec
+une
+valeur hypothétique ; ainsi (α) au temps passé ou présent Ex 16,21
+וְחַם הַשֶּׁמֶשׁ וְנָמָֽס׃ et le soleil devenait chaud, et il fondait = et si
+(ou quand) le soleil était chaud, il fondait, Ex 33,10 ; 1 R 18,10 ; Jr 18,4 ; Jr 18,8
+וְֹשָׁב וְנִחַמְתִּ֫י = et s'il se repent, je me repens, Jr 20,9 (voir
+RV
+) ; (β) au temps futur, Gn 44,22
+ועזב אביו ומת et il quittera son père, et il mourra = et s'il
+quitte son père, il mourra, Gn 33,13 ; Gn 42,38 ; Ex 4,14 ; Ex 12,13 ; 1 S 16,2 ; 1 S 19,3 ; Ez 33,3 ; Ez 39,15 etc. (Dr^§ 147-9^,
+Ges^«GKC:159»§ 159^. 2 e).
+
+3. Avec un volontatif (cohortatif ou jussif) וְ exprime
+une intention,
+que ou afin que (une élégance par laquelle l'emploi trop fréquent de לְמַעַן ou בַּעֲבוּר
+
+est évité) : Ex
+10,17 supplie Dieu, וְיָסֵר
+qu'il ôte (= afin qu'il ôte) cette mort, Gn 27,4 et
+apporte-le-
+moi וְאֹכֵ֑לָה
+que je mange (= afin que je mange) ; et sans que la forme modale soit
+extérieurement indiquée,
+Ex 14,1 dis . . . וְיָשֻׁבוּ
+qu'ils retournent, Ex 14,15 et souvent parfois même au temps passé, comme 1 R 13,33 qui il voulait,
+il le
+consacrait וִיהִי
+afin qu'il y eût des prêtres des hauts lieux, 2 R 19,25 ; Es 25,9 a Lm 1,19. Après une négation, Ps 51,18
+tu ne désires pas
+de sacrifice, וְאֶתֵּ֑נָה
+alors (= en ce cas) je le donnerais (ou, afin que je le
+donne), Ps 55,13
+וְאֶשָּׂא
+alors je pourrais le supporter (ou, afin que je le supporte), Es 53,2
+
+RVm
+
+Nb 23,19 ;
+Jr 5,28
+
+RV
+. Parfois aussi devant un impératif, Gn 12,2
+et sois (= afin que tu sois) une bénédiction, 2 S 21,3 +. Voir plus complètement
+Dr^§ 59-65^, Ges^«GKC:108»§ 108^. 2 ;
+109. 2 ;
+110. 2. (En arabe
+[placeholder1348: Placeholders/1348.gif] avec le subjonctif est employé de même :
+W^ii. § 15 d^.) Un volontatif est aussi parfois rattaché par וְ à un
+volontatif ou impératif précédent, de manière à former une phrase virtuellement hypothétique, comme Gn 42,18
+זֹאת עֲשׂוּ וִחְיוּ = si vous faites cela, vous vivrez, Gn 30,28 ;
+Gn 34,12 ;
+Pr 3,9s. Pr 4,4 ; Pr 4,8 ; Es 55,2 : voir
+Dr^§ 152^.
+
+4. Il exprime souvent une déduction informelle, ou une conséquence, ainsi, alors, surtout au début
+d'un discours : Gn 27,8
+;
+Ps 2,10 et
+souvent
+וְעַתָּה maintenant, donc ; וְלָמָּה et
+וּמַדּוּעַ
+pourquoi, alors ?
+Gn 29,25 ;
+Nb 12,8 ; Nb 16,3 + ; Ex 2,20
+וְאַיּוֺ où est-il, alors ? Gn 34,21 ; 1 S 15,14 ; 1 S 26,22
+וְיַעֲבֹר qu'il vienne, alors, 2 S 24,3 ; 2 R 4,41
+וּקְחוּ קֶמַח
+alors apportez de la farine, Ez 18,32. Ainsi le וְ consécutif avec le parfait, comme Dt 2,4
+וְנִשְׁמַרְתֶּם prenez garde, donc, Dt 4,15 ; Dt 7,9
+וְיָָֽדַעְתָּ֫ sache, donc, Dt 30,19 ; 1 S 6,5 ; 1 R 2,6 ; Rt 3,9 ; Jos 15,19 ; Es 40,6b (Dr^§
+119^
+δ).
+
+5.
+ו introduit le prédicat ou l'apodose : à savoir
+
+a.
+וְ consécutif avec le Parfait — en réponse à אִם ou כִּי
+constamment, comme
+Ex 19,5 ;
+Ex 23,22 si tu écoutes ma voix, וְאָֽיַבְתִּ֫י
+alors je suis (= je serai) l'ennemi de tes ennemis (voir Dr^§
+136-8^) ; après le casus pendens, Ex 12,44 tout serviteur qui est
+acheté
+pour de l'argent, וּמַלְתָּ֫ה tu le circonciras, etc. Nb 14,31 ; Nb 24,24 ; 1 S 25,27 ; 2 S 14,10
+celui qui t'a parlé,
+וַהֲבֵאתוֺ אֵלַי
+alors tu l'as amené (= tu l'amèneras) vers moi, Es 9,4 ; Es 56,6s. + ;
+Ex 12,15 ;
+Ex 31,14 ;
+Dt 17,12
++ ;
+après diverses déterminations temporelles, comme Gn 3,5 le jour où vous en mangerez וְנִפְקְחוּ
+alors vos yeux s'ouvriront, Ex 16,6
+עֶרֶב וִידַעְתֶּם au soir, alors vous saurez, Ex 16,7 ; Ex 32,34 ; 2 S 15,10
+; 1 R 13,31
+
+בְּמוֺתִי וּקְבַרְתֶּם אֹתִי quand je mourrai, alors vous m'ensevelirez, etc., +
+souvent ;
+après des conjonctions, comme כִּי
+Gn 29,15,
+יַעַן
+1 R 20,28
+;
+Es 3,16s.,
+תַּחַת
+Es 60,15,
+etc., (voir Dr^§ 123^).
+
+b.
+וַּ consécutif avec l'Imparfait (mais beaucoup moins fréquemment que le parfait), comme
+Gn 30,30
+le
+peu que tu avais, וַיִּפְרֹץ
+il s'est accru, Ex 9,21 ; 2 S 4,10 ; 1 R 9,20s. 1 R 15,13 + ; après des déterminations temporelles, Gn 22,4 le
+troisième jour
+וַיִּשָּׂא
+alors Abraham leva les yeux, Gn 19,15 ; Gn 27,34 ; Gn 37,18 ; 1 S 6,6 ; 1 S 12,8 ; Es 6,1 ; Os 11,1 quand Israël était
+enfant, וָאֹהֲבֵהוּ
+alors je l'aimai, + ; occasionnellement après des conjonctions, comme כַּאֲשֶׁר
+Ex 16,34,
+יַעַן
+1 S 15,23,
+לְמַעַן
+Es 45,4,
+
+אִם
+Ps 59,16 (
+Dr^§ 127^).
+
+c. dans d'autres cas (non
+« consécutifs ») — tous plus ou moins rares : à savoir α.
+וְ étroitement joint à l'imparfait Gn 13,9 si à gauche, וְאֵימִינָה
+alors je prendrai la droite (comparer 2 S 12,8) Ex 12,3 le 10 du mois וְיִקְחוּ
+alors qu'ils prennent, Nb 16,5 ; Es 43,4 ; Os 4,6 ; Os 10,10 ; Ps 69,33 ; Jb 15,17 ; 2 S 22,41 ; Pr 23,24
+
+Kt
+(Dr^§ 125^) ; β. séparé du verbe,
+Ex 8,22 ; Lv 7,16
+וּמִמָּחֳרָת
+וְהַנּוֺתָר יֵאָכֵל et le lendemain, alors le reste sera
+mangé,
+Jos 3,3 ; 1 R 8,32 ;
+Es 8,7 ; Es 48,7 ; Jb 14,7 ; Jb 20,18 b
+Jb 23,12 ;
+Jb 25,5 ; Jb 32,14
++ ;
+γ. sans verbe, Gn 40,9
+בַּחֲלֹמִי וְהִנֵּה dans mon songe, voici, une vigne était devant moi, Gn 40,16 ;
+2 S 23,3s. ;
+Pr 10,25
+,
+et les cas extrêmes 2 S 15,34 esclave de ton père, וַאֲנִי מֵאָז je l'étais
+
+autrefois, — mais maintenant וַאֲנִי עַבְדְּךָ
+eh bien, je serai le tien, Es 34,12 (si vera lectio), Jb 4,6b תִּקְוָָֽתְךָ וְתֹם דְּרָכֶיךָ
+ta confiance — c'est l'intégrité de tes voies, Jb 36,26
+מִסְפַּר שָׁנָיו וְלֹא חֵקֶר
+Ges. ses années, on ne saurait les compter (comparer
+Dr^§ 124-5, 128-9^). — Avec 4, 5
+comparer l'arabe
+[placeholder1349: Placeholders/1349.gif], W^i. § 366^
+b, 367 c ; ii. § 187 ; Dr^§
+185^
+
+fin.
+
+---
