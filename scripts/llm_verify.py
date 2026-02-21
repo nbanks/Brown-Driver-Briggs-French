@@ -96,7 +96,7 @@ def build_prompt(template: str, english: str, french: str) -> str:
     return template.replace("{{ENGLISH}}", english).replace("{{FRENCH}}", french)
 
 
-def query_llm(prompt: str, server_url: str, retries: int = 3) -> str:
+def query_llm(prompt: str, server_url: str, retries: int = 5) -> str:
     """Send a chat completion request and return the content (verdict).
 
     Uses /v1/chat/completions which separates reasoning_content from
@@ -110,14 +110,14 @@ def query_llm(prompt: str, server_url: str, retries: int = 3) -> str:
     """
     payload = {
         "messages": [{"role": "user", "content": prompt}],
-        "max_tokens": 16384,
+        "max_tokens": 2048,
         "temperature": 0,
         "reasoning_effort": "low",  # reduce thinking budget on reasoning models
     }
     for attempt in range(retries):
         try:
             resp = requests.post(f"{server_url}/v1/chat/completions",
-                                 json=payload, timeout=300)
+                                 json=payload, timeout=5400)
             resp.raise_for_status()
             data = resp.json()
             msg = data["choices"][0]["message"]
@@ -332,31 +332,45 @@ Modes and their defaults:
     print()
 
     counts = {"CORRECT": 0, "WARN": 0, "ERROR": 0}
+    total_time = 0.0
     for i, (filename, en_path, fr_path, fhash) in enumerate(to_check, 1):
         english = en_path.read_text()
         french = fr_path.read_text()
         prompt = build_prompt(template, english, french)
+        prompt_kb = len(prompt.encode("utf-8")) / 1024
 
+        # Print entry info before sending to LLM
+        prefix = f"{i}/{len(to_check)} {filename:<16s} {prompt_kb:5.0f}KB"
+        sys.stdout.write(prefix)
+        sys.stdout.flush()
+
+        t0 = time.monotonic()
         try:
             raw = query_llm(prompt, args.server)
         except Exception as e:
             print(f"\n  fatal: LLM request failed for {filename}: {e}", file=sys.stderr)
             print(f"  Processed {i - 1}/{len(to_check)} files before error.", file=sys.stderr)
             sys.exit(1)
+        elapsed = time.monotonic() - t0
+        total_time += elapsed
 
         verdict, explanation = parse_response(raw)
         timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S")
         save_result(results_path, filename, verdict, timestamp, fhash, explanation)
 
         counts[verdict] = counts.get(verdict, 0) + 1
-        # Progress: one char per file — compact enough to fit 80 per line.
-        # . = ok, W = warning, X = error, O = model ran out of tokens, ? = unknown
-        symbol = {"CORRECT": ".", "WARN": "W", "ERROR": "X", "OVERFLOW": "O"}.get(verdict, "?")
-        sys.stdout.write(symbol)
-        sys.stdout.flush()
-        if i % 80 == 0:
-            sys.stdout.write(f"  [{i}/{len(to_check)}]\n")
-            sys.stdout.flush()
+        avg = total_time / i
+        remaining = avg * (len(to_check) - i)
+        eta_m, eta_s = divmod(int(remaining), 60)
+        eta_h, eta_m = divmod(eta_m, 60)
+        if eta_h:
+            eta_str = f"{eta_h}h{eta_m:02d}m"
+        else:
+            eta_str = f"{eta_m}m{eta_s:02d}s"
+        # Complete the line with verdict and stats
+        pad = max(1, 42 - len(prefix))
+        print(f"{' ' * pad}{verdict:<7s} {elapsed:6.1f}s "
+              f"avg={avg:5.1f}s ETA {eta_str}")
 
     print()
     print()
