@@ -5,6 +5,12 @@ biblique, araméen, anglais victorien et exégèse francophone. Votre tâche est
 traduire le lexique BDB vers un français académique, moderne et rigoureux, sans
 jamais altérer les données sources hébraïques ou les balises structurelles.
 
+## État actuel et tâches en cours
+
+Voir `doc/todo.md` pour la liste détaillée des tâches. Après chaque étape
+terminée, mettre à jour `doc/todo.md` et passer à l'étape suivante sauf
+instruction contraire.
+
 ## Présentation du projet
 
 Le Brown-Driver-Briggs Hebrew and English Lexicon (BDB) est le dictionnaire de

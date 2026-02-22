@@ -11,8 +11,12 @@ file in aligned CSV format (readable as both CSV and plain text):
 
 import argparse
 import hashlib
+import random
+import signal
 import sys
+import threading
 import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -96,6 +100,10 @@ def build_prompt(template: str, english: str, french: str) -> str:
     return template.replace("{{ENGLISH}}", english).replace("{{FRENCH}}", french)
 
 
+class ContextOverflow(Exception):
+    """Raised when the prompt exceeds the server's context window."""
+
+
 def query_llm(prompt: str, server_url: str, retries: int = 5) -> str:
     """Send a chat completion request and return the content (verdict).
 
@@ -118,6 +126,8 @@ def query_llm(prompt: str, server_url: str, retries: int = 5) -> str:
         try:
             resp = requests.post(f"{server_url}/v1/chat/completions",
                                  json=payload, timeout=5400)
+            if resp.status_code == 400:
+                raise ContextOverflow(f"prompt too large for context window ({len(prompt)} chars)")
             resp.raise_for_status()
             data = resp.json()
             msg = data["choices"][0]["message"]
@@ -217,7 +227,7 @@ Modes and their defaults:
         formatter_class=argparse.RawDescriptionHelpFormatter,
     )
     parser.add_argument(
-        "digits", nargs="*", type=int, choices=range(10), metavar="DIGIT",
+        "digits", nargs="*", type=int, metavar="DIGIT",
         help="Filter by last digit of BDB number (0-9). Default: all.",
     )
     parser.add_argument(
@@ -251,6 +261,18 @@ Modes and their defaults:
     parser.add_argument(
         "-n", "--max", type=int, default=0, metavar="N",
         help="Stop after N files (0 = unlimited).",
+    )
+    parser.add_argument(
+        "-j", "--parallel", type=int, default=1, metavar="J",
+        help="Number of parallel LLM requests (requires server started with -np J). Default: 1.",
+    )
+    parser.add_argument(
+        "--shuffle", action="store_true", default=False,
+        help="Randomize file order.",
+    )
+    parser.add_argument(
+        "--no-shuffle", action="store_false", dest="shuffle",
+        help="Process files in sorted order.",
     )
     args = parser.parse_args()
 
@@ -324,6 +346,8 @@ Modes and their defaults:
         sys.exit(1)
 
     limit = args.max if args.max > 0 else len(to_check)
+    if args.shuffle:
+        random.shuffle(to_check)
     to_check = to_check[:limit]
 
     print(f"Checking {len(to_check)} {args.mode} files via {args.server} ...")
@@ -333,44 +357,123 @@ Modes and their defaults:
 
     counts = {"CORRECT": 0, "WARN": 0, "ERROR": 0}
     total_time = 0.0
-    for i, (filename, en_path, fr_path, fhash) in enumerate(to_check, 1):
+    completed = 0
+    print_lock = threading.Lock()
+    file_lock = threading.Lock()
+    shutdown_requested = threading.Event()
+    futures = {}  # shared with signal handler for in-flight count
+
+    def handle_sigint(signum, frame):
+        if shutdown_requested.is_set():
+            print("\nForced exit.", file=sys.stderr)
+            sys.exit(1)
+        shutdown_requested.set()
+        in_flight = len(futures) if args.parallel > 1 else 1
+        print(f"\n\nCtrl+C received -- waiting for {in_flight} in-flight "
+              f"request{'s' if in_flight != 1 else ''} to finish. "
+              "Press Ctrl+C again to force quit.", file=sys.stderr)
+
+    signal.signal(signal.SIGINT, handle_sigint)
+
+    def process_one(i, filename, en_path, fr_path, fhash, show_progress=False):
+        nonlocal completed, total_time
         english = en_path.read_text()
         french = fr_path.read_text()
         prompt = build_prompt(template, english, french)
         prompt_kb = len(prompt.encode("utf-8")) / 1024
 
-        # Print entry info before sending to LLM
         prefix = f"{i}/{len(to_check)} {filename:<16s} {prompt_kb:5.0f}KB"
-        sys.stdout.write(prefix)
-        sys.stdout.flush()
+        if show_progress:
+            sys.stdout.write(prefix)
+            sys.stdout.flush()
 
         t0 = time.monotonic()
         try:
             raw = query_llm(prompt, args.server)
-        except Exception as e:
-            print(f"\n  fatal: LLM request failed for {filename}: {e}", file=sys.stderr)
-            print(f"  Processed {i - 1}/{len(to_check)} files before error.", file=sys.stderr)
-            sys.exit(1)
+        except ContextOverflow:
+            with print_lock:
+                completed += 1
+                counts["SKIPPED"] = counts.get("SKIPPED", 0) + 1
+                if show_progress:
+                    pad = max(1, 42 - len(prefix))
+                    print(f"{' ' * pad}SKIPPED (too large)")
+                else:
+                    pad = max(1, 42 - len(prefix))
+                    print(f"{prefix}{' ' * pad}SKIPPED (too large)")
+            return filename, "SKIPPED"
         elapsed = time.monotonic() - t0
-        total_time += elapsed
 
         verdict, explanation = parse_response(raw)
         timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S")
-        save_result(results_path, filename, verdict, timestamp, fhash, explanation)
 
-        counts[verdict] = counts.get(verdict, 0) + 1
-        avg = total_time / i
-        remaining = avg * (len(to_check) - i)
-        eta_m, eta_s = divmod(int(remaining), 60)
-        eta_h, eta_m = divmod(eta_m, 60)
-        if eta_h:
-            eta_str = f"{eta_h}h{eta_m:02d}m"
-        else:
-            eta_str = f"{eta_m}m{eta_s:02d}s"
-        # Complete the line with verdict and stats
-        pad = max(1, 42 - len(prefix))
-        print(f"{' ' * pad}{verdict:<7s} {elapsed:6.1f}s "
-              f"avg={avg:5.1f}s ETA {eta_str}")
+        with file_lock:
+            save_result(results_path, filename, verdict, timestamp, fhash, explanation)
+
+        with print_lock:
+            completed += 1
+            total_time += elapsed
+            counts[verdict] = counts.get(verdict, 0) + 1
+            avg = total_time / completed
+            remaining = avg / max(args.parallel, 1) * (len(to_check) - completed)
+            eta_m, eta_s = divmod(int(remaining), 60)
+            eta_h, eta_m = divmod(eta_m, 60)
+            if eta_h:
+                eta_str = f"{eta_h}h{eta_m:02d}m"
+            else:
+                eta_str = f"{eta_m}m{eta_s:02d}s"
+            if show_progress:
+                pad = max(1, 42 - len(prefix))
+                print(f"{' ' * pad}{verdict:<7s} {elapsed:6.1f}s "
+                      f"avg={avg:5.1f}s ETA {eta_str}")
+            else:
+                pad = max(1, 42 - len(prefix))
+                print(f"{prefix}{' ' * pad}{verdict:<7s} {elapsed:6.1f}s "
+                      f"avg={avg:5.1f}s ETA {eta_str}")
+
+        return filename, verdict
+
+    if args.parallel <= 1:
+        for i, (filename, en_path, fr_path, fhash) in enumerate(to_check, 1):
+            if shutdown_requested.is_set():
+                print(f"\nStopping: {completed}/{len(to_check)} files completed.", file=sys.stderr)
+                break
+            try:
+                process_one(i, filename, en_path, fr_path, fhash, show_progress=True)
+            except Exception as e:
+                print(f"\n  fatal: LLM request failed for {filename}: {e}", file=sys.stderr)
+                print(f"  Processed {completed}/{len(to_check)} files before error.", file=sys.stderr)
+                sys.exit(1)
+    else:
+        with ThreadPoolExecutor(max_workers=args.parallel) as pool:
+            futures.clear()
+            it = iter(enumerate(to_check, 1))
+
+            # Seed the pool with at most args.parallel tasks
+            for _ in range(args.parallel):
+                item = next(it, None)
+                if item is None:
+                    break
+                i, (filename, en_path, fr_path, fhash) = item
+                fut = pool.submit(process_one, i, filename, en_path, fr_path, fhash)
+                futures[fut] = filename
+
+            # As each completes, submit the next one (unless shutting down)
+            while futures:
+                done = next(as_completed(futures))
+                fn = futures.pop(done)
+                try:
+                    done.result()
+                except Exception as e:
+                    print(f"\n  fatal: LLM request failed for {fn}: {e}", file=sys.stderr)
+                    print(f"  Processed {completed}/{len(to_check)} files before error.", file=sys.stderr)
+                    pool.shutdown(wait=False, cancel_futures=True)
+                    sys.exit(1)
+                if not shutdown_requested.is_set():
+                    item = next(it, None)
+                    if item is not None:
+                        i, (filename, en_path, fr_path, fhash) = item
+                        fut = pool.submit(process_one, i, filename, en_path, fr_path, fhash)
+                        futures[fut] = filename
 
     print()
     print()
