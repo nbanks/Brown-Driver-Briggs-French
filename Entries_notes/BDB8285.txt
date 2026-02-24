@@ -1,0 +1,2 @@
+Signalé : numéro Strong incorrect (H8172 au lieu de H8167), contenu manquant.
+Correction : entrée entièrement retraduite avec Strong corrigé et contenu complet (localisation, Thes, variantes grecques).

@@ -1,0 +1,1 @@
+Essentiellement faux positif. Corrigé « & » → « et » (ligne 7). « absent de 2 S 23 » est correct pour « not in 2Sam 23 ». « en vue de » traduit correctement « in view of ».

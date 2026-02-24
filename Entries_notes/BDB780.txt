@@ -1,0 +1,1 @@
+Faux positif. Traduction correcte pour cette longue entrée. Refs converties, « & » → « et ».

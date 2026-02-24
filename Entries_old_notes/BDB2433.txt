@@ -1,0 +1,1 @@
+False positive. "senescere" is Latin scholarly terminology, not untranslated English. The French already explains "vieillir" in context. No change needed.

@@ -1,0 +1,2 @@
+Flag: "comparer 1 S Pr 26,23" flagged as franglais spacing issue.
+False positive: The odd formatting ("compare1 Sam / Prov / 26:23") is in the English original. The French correctly renders it as "comparer 1 S / Pr / 26,23". No changes needed.

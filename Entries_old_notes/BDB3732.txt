@@ -1,0 +1,2 @@
+Flag: "Feb. 7, 1891" and "Higher Crit." not translated.
+False positive: These are inside bibliographic references that stay as-is. No changes needed.

@@ -1,0 +1,2 @@
+Flag: "seulement pluriel suffixe" flagged as franglais.
+False positive: This is terse morphological notation consistent with BDB style. No changes needed.

@@ -1,0 +1,2 @@
+Signalé : nombreux mots français confondus avec de l'anglais.
+Verdict : le vérificateur a confondu des mots français courants (pot, jarre, absolu, pluriel, etc.) avec de l'anglais. Traduction correcte.

@@ -1,0 +1,2 @@
+Flag: English phrases in translation.
+False positive: All English properly translated ("not identified" -> "non identifié", "mountain of littleness" -> "montagne de petitesse", etc.). No changes needed.

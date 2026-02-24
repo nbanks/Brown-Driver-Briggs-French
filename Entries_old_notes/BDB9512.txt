@@ -1,0 +1,2 @@
+Flag: "M^§ 65 c^" and "v" for verse.
+False positive: "M^§ 65 c^" is a scholarly grammar reference in superscript. "v" is a standard abbreviation for verse in both languages. No changes needed.

@@ -1,0 +1,1 @@
+False positive. "Baer's Ezech." is a bibliographic reference (book title) inside a scholarly superscript. No change needed.

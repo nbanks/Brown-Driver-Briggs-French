@@ -1,0 +1,2 @@
+Flag: Book titles "Travels in Syria", "Skizze" not translated.
+False positive: These are scholarly reference titles that stay as-is. "milles" is correct French for "miles". Translation is accurate throughout.

@@ -1,0 +1,2 @@
+Signalé : « Participe passif » casse incorrecte.
+Verdict : la majuscule sur « Participe » suit la convention du BDB. Traduction correcte.

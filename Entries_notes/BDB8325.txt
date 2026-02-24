@@ -1,0 +1,2 @@
+Signalé : « ci-dessus » collé après le point final.
+Verdict : problème de typographie mineur dans le formatage du fichier source, pas une erreur de traduction. Traduction correcte.

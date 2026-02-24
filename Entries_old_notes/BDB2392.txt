@@ -1,0 +1,2 @@
+Flag: "autres chant" awkward.
+Minor fix: Added "d'" -- "d'autres chant" (BDB notation meaning "others [translate as] singing").

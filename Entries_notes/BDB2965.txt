@@ -1,0 +1,2 @@
+Signalé : « Psaume » non traduit, espaces manquantes.
+Verdict : « Psaume » EST le mot français (c'est la traduction de « Psalm »). La référence « Es 89,50 » est une erreur dans la source BDB (il s'agit du Ps 89,50, pas d'Ésaïe), fidèlement reproduite. Traduction correcte.

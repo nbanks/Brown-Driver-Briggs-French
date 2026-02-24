@@ -1,0 +1,1 @@
+Signalé : « & » non traduit. Verdict : tous les « & » sont correctement traduits par « et » (lignes 9, 40, 41).

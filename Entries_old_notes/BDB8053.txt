@@ -1,0 +1,1 @@
+Source data error. English has "Perfect 1 south of couch" which makes no sense. French faithfully translates as "sud de couche". Not a translation error.

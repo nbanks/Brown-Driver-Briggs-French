@@ -1,0 +1,1 @@
+Minor fix. "and in proper name, Id. in" inside a bibliographic reference was English. Changed to "et dans nom propre, Id. dans".

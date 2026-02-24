@@ -1,0 +1,2 @@
+Flag: "qui fait le pretre" flagged as bad translation.
+False positive: "qui fait le pretre" is acceptable French for the BDB gloss explaining the Hebrew metaphor. The entry is about a bridegroom adorning himself like a priest. No changes needed.

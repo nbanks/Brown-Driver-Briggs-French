@@ -1,0 +1,2 @@
+Flag: "beugt" (German) flagged as untranslated.
+False positive: "beugt" is a German word in the original BDB, part of scholarly citation (Ew beugt:). Stays as-is. No changes needed.

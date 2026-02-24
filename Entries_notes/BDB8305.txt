@@ -1,0 +1,2 @@
+Signalé : contenu massivement tronqué (araméen, ᵑ7, Job, ᵑ6, placeholder, 1 S, renvoi שַׂר manquants).
+Correction : entrée entièrement retraduite avec tout le contenu de la source.

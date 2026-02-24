@@ -1,0 +1,5 @@
+Faux positif. Le verifier a signalé « est père » comme traduction trop
+littérale de « is father », mais il s'agit d'une note étymologique expliquant
+les composants du nom אֲבִימֶ֫לֶךְ (Abi-mélek = « mon père est roi »).
+La formulation littérale est appropriée ici. Traduction correcte dans
+l'ensemble -- aucune modification nécessaire.

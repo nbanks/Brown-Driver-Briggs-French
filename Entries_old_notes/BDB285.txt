@@ -1,0 +1,1 @@
+Erreur réelle partielle. Remplacé tous les « & » par « et ». « strike out » était déjà correctement traduit par « supprimer ». Reste de la traduction correct.

@@ -1,0 +1,2 @@
+Flag: "Jos 216" missing comma.
+Real error: Source has "Josh 216" (formatting artifact for Josh 2:16). Fixed French to "Jos 2,16". Also noted: line 34 has "d'Ésaü = Édom" for "of Esau = Edom" -- this seems wrong in context (1Kgs 22:25 is about Micaiah, not Esau). This may be an error in the source or a misreading, but matches the English.

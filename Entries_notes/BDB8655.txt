@@ -1,0 +1,2 @@
+Signalé : « Qo 47,23 », « Qo 40,5 », « Qo 46,19 » références impossibles pour Qohéleth.
+Verdict : la source BDB utilise « Eccl » pour le Siracide/Ben Sira (Ecclesiasticus), pas pour Qohéleth (Ecclesiastes). Le traducteur a converti Eccl → Qo, ce qui est correct pour Ecclesiastes mais ambigu pour Ecclesiasticus. Les numéros de chapitres impossibles viennent de la source.

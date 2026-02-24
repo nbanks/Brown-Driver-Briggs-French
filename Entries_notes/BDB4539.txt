@@ -1,0 +1,1 @@
+Signalé : contenu tronqué (9 lignes vs 8 en source). Verdict : taille similaire, pas de troncature significative.

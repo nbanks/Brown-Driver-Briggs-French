@@ -1,0 +1,2 @@
+Flag: German glosses "leutseliger Mann", "ruhig, still" and English "plain man" untranslated.
+False positive: These are cited glosses from specific scholars (De, Di) and versions (AV, RV). They preserve the original language of each source. No changes needed.

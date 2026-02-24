@@ -1,0 +1,1 @@
+Corrigé « & » → « et » dans le texte courant (6 occurrences). Les « & » dans les sigles savants sont conservés.

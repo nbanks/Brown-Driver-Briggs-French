@@ -1,0 +1,2 @@
+Flag: "balances" and "pour peser" flagged as untranslated.
+False positive: "balances" is identical in French and English. "pour peser" is correct French. Translation is accurate throughout.

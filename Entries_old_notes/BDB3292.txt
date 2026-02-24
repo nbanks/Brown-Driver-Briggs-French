@@ -1,0 +1,2 @@
+Flag: "voir Lag" and "du roi" flagged as English.
+False positive: "voir" IS French for "see", "du roi" IS French for "of the king". No changes needed.

@@ -1,0 +1,2 @@
+Signalé : « Qo 42,8 » référence impossible, « marge » pour « margin ».
+Verdict : « Eccl 42:8 » est dans la source anglaise (erreur BDB, probablement Siracide/Ben Sira 42,8). Le traducteur a fidèlement converti Eccl → Qo. « marge » est la traduction correcte de « margin ». Erreur de la source.

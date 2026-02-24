@@ -1,0 +1,2 @@
+Flag: "2Sam" not translated, "Perzische Tijdvak" not translated.
+False positive on both: The French correctly has "2 S" (not "2Sam"). "Perzische Tijdvak" is a Dutch book title by Kuenen -- scholarly references stay as-is. No changes needed.

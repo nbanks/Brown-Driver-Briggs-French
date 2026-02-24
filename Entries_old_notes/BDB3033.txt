@@ -1,0 +1,1 @@
+Real error. "and^" left in English inside superscript. Fixed to "et^".

@@ -1,0 +1,2 @@
+Flag: "suffixe référence à" flagged as awkward.
+Minor fix: Changed "suffixe référence à" to "suffixe renvoyant à" for better French.

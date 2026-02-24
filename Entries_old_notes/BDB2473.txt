@@ -1,0 +1,1 @@
+False positive. Hebrew formatting is from the source text. Translation is correct. No change needed.

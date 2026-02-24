@@ -1,0 +1,1 @@
+False positive. "gL'Pi`el" is corrupted Hebrew form in source data, not a translation error. French preserves it faithfully.

@@ -1,0 +1,2 @@
+Flag: "&" not translated, "t." questioned.
+Minor fix: Changed two "&" to "et". "t." is a standard BDB abbreviation (for "times"/occurrences) preserved throughout the project.

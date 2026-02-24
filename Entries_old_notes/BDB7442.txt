@@ -1,0 +1,2 @@
+Flag: "Line" and "Shebna" flagged as untranslated English.
+False positive: "Line" is a scholarly author name. "Shebna" is a proper name with no French equivalent. No changes needed.

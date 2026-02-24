@@ -1,0 +1,2 @@
+Flag: "Mi 25,34" is impossible reference (Micah has 7 chapters).
+False positive for translation: English source also has "Mic 25:34" -- pre-existing error in source data. No changes needed.

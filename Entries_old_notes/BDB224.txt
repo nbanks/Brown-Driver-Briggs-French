@@ -1,0 +1,1 @@
+False positive. "comparer" followed by a reference is standard French scholarly usage (equivalent to "cf."). Translation is correct.

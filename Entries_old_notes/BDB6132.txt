@@ -1,0 +1,2 @@
+Flag: "office" flagged as untranslated English.
+False positive: "office" is also a French word meaning position/function. No changes needed.

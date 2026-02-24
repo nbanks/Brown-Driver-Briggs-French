@@ -1,0 +1,2 @@
+Signalé : ponctuation mal gérée avec retours à la ligne.
+Verdict : le formatage reproduit celui du texte source. Avertissement mineur, pas d'erreur de traduction.

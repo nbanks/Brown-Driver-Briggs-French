@@ -1,0 +1,2 @@
+Flag: "AV", "meat offering", "RV", "meal-offering" flagged as untranslated.
+False positive: AV and RV are scholarly abbreviations for Authorized Version and Revised Version. "meat offering" and "meal-offering" are the actual English version translation names being discussed as terminology choices. They stay in English as cited terms. No changes needed.

@@ -1,0 +1,1 @@
+False positive. "comparer arabe" is correct French (no article needed before language adjective). Translation is faithful.

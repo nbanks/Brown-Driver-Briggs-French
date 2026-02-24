@@ -1,0 +1,2 @@
+Flag: Accents on "égyptien" and "assyrien".
+False positive: Both words correctly have accents in the French translation. No changes needed.

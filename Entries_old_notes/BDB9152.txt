@@ -1,0 +1,2 @@
+Flag: "COLOURS" in "Thatcher^Hast. DB COLOURS^".
+False positive: Scholarly citation in superscript. Stays as-is. No changes needed.

@@ -1,0 +1,2 @@
+Flag: "information", "self-sacrifice", "perfect sanctification" flagged as franglais.
+False positive: "information" is a valid French word, "sacrifice de soi" and "sanctification parfaite" are correct French. The translation is thorough and accurate throughout this long entry.

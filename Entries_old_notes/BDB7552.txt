@@ -1,0 +1,2 @@
+Flag: "Jg 26,1" impossible reference (Judges has 21 chapters).
+False positive: English source also has "Judg 26:1" -- pre-existing source data error. No changes needed.

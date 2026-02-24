@@ -1,0 +1,1 @@
+False positive. All references properly converted. "Jg 52,6" is a source data error (Judges has no chapter 52), faithfully preserved.

@@ -1,0 +1,2 @@
+Flag: "Wars of the Jews" not translated.
+False positive: Part of a structured Josephus citation inside a reference tag ("JOSEPHUS:Wars of the Jews"). Stays as-is. No changes needed.

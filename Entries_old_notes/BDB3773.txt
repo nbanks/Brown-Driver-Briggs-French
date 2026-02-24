@@ -1,0 +1,1 @@
+False positive. "allemand es gibt" is a deliberate cross-linguistic citation -- the German phrase is being quoted, not left untranslated. "en français" correctly adapts "in English". No change needed.

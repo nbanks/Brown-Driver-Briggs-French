@@ -1,0 +1,1 @@
+Minor style. "actif à" on line 71 is a literal calque of unclear English "active to". Source text itself is ambiguous. Not worth fixing.

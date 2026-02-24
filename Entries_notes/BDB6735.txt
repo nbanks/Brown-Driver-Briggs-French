@@ -1,0 +1,2 @@
+Signalé : « fonctionnaire » pour « office », « Nb 109,8 » référence invalide.
+Verdict : le fichier dit « fonction » (pas « fonctionnaire »), traduction correcte de « office ». « Nb 109,8 » vient de la source (« Num 109:8 »), erreur BDB. Traduction correcte.

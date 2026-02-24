@@ -1,0 +1,2 @@
+Flag: "notre contre" flagged as franglais.
+False positive: English source has "= our against" which is itself cryptic/garbled. French faithfully reproduces the pre-existing source issue. No changes needed.

@@ -1,0 +1,1 @@
+Source data errors, not translation errors. "John 54:15" (line 417) is impossible -- John has only 21 chapters. Likely Isa 54:15 (Es 54,15). "John 30:1" (line 422) is also impossible -- likely Job 30:1 (Jb 30,1). "John 5:30" (line 411) is a valid NT reference. The translator faithfully preserved the source errors. Otherwise, the translation of this very long entry is excellent.

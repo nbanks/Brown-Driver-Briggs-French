@@ -1,0 +1,1 @@
+False positive. "avions coutume de marcher" is a valid French translation for "used to walk". No change needed.

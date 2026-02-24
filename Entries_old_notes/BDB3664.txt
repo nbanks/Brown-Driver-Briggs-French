@@ -1,0 +1,1 @@
+False positive. "issue" exists in French and means "outcome/exit". Translation is correct.

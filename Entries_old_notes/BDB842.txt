@@ -1,0 +1,2 @@
+Flag: "RV" and "Others" flagged.
+False positive: "RV" is a scholarly abbreviation (Revised Version) -- stays as-is. "D'autres" is correct French for "Others". No changes needed.

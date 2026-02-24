@@ -1,0 +1,2 @@
+Signalé : « 1 R 29,20 » référence invalide, « I Chron » non traduit.
+Correction : « I Chron » → « 1 Ch ». Verdict : « 1 R 29,20 » vient de la source (« 1Kgs 29:20 »), erreur BDB.

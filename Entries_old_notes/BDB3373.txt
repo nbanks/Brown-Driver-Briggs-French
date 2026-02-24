@@ -1,0 +1,1 @@
+Minor fix. "les deux comparaison" was missing a comma. Fixed to "les deux, comparaison" to match English "both simile" pattern.

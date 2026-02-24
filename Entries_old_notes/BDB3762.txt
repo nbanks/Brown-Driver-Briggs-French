@@ -1,0 +1,2 @@
+Flag: "critical note" not translated.
+False positive: "critical note" is inside a scholarly superscript citation (Che^critical note^) which is a bibliographic reference. No changes needed.

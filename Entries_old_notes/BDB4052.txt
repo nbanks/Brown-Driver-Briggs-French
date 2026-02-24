@@ -1,0 +1,2 @@
+Flag: Structure issue with "pour toi".
+False positive: "defaillir (de desir) pour toi" is correct French. No changes needed.

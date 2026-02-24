@@ -1,0 +1,1 @@
+Real error. "Job être éprouvé" used infinitive instead of subjunctive. Fixed to "Job soit éprouvé" to correctly translate "Job were tried".

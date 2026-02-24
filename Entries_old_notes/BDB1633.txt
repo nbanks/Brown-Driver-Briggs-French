@@ -1,0 +1,1 @@
+False positive. All flagged terms are properly translated: "mountain-ridge" -> "chaîne de montagnes", "plain of Jezreel" -> "plaine de Jizréel", "where...killed" -> "où...furent tués". No change needed.

@@ -1,0 +1,1 @@
+Source data error. English has "Eccl 14:22" but Ecclesiastes only has 12 chapters. Probably Ecclesiasticus (Siracide). French "Qo 14,22" faithfully converts "Eccl" per project rules. Not a translation error.

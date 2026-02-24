@@ -1,0 +1,2 @@
+Signalé : problèmes de typographie et formatage.
+Verdict : le formatage (sauts de ligne dans les références, parenthèse « séjour( -lieu) ») reproduit fidèlement l'original anglais. Traduction correcte.

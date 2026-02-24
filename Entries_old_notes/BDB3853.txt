@@ -1,0 +1,1 @@
+False positive. "suffix" is correctly translated as "suffixe", "opposed to" as "opposé à". No change needed.

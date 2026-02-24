@@ -1,0 +1,2 @@
+Flag: "Manuscripts" flagged as untranslated.
+False positive: French correctly has "Manuscrits". No changes needed.

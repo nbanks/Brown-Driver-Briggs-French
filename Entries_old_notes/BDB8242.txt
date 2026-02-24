@@ -1,0 +1,2 @@
+Flag: "and modern", "bind legs of beast", "plait locks of hair" flagged.
+False positive: All correctly translated to French ("et modernes", "lier les pattes d'un animal", "tresser des mèches de cheveux"). No changes needed.

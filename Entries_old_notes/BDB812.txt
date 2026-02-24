@@ -1,0 +1,2 @@
+Flag: "comparer Di" flagged.
+False positive: "Di" is a scholarly abbreviation (Dillmann). "comparer Di" is correct French. No changes needed.

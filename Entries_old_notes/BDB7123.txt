@@ -1,0 +1,1 @@
+False positive. "conjecture" is a valid French verb. "Piel" is a Hebrew verbal theme name. No change needed.

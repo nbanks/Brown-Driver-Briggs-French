@@ -1,0 +1,1 @@
+Faux positif. Entrée longue (שָׂדֶה, champ). Traduction complète et correcte.

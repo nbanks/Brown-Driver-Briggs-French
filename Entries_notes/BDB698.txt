@@ -1,0 +1,2 @@
+Signalé : caractères hébreux « corrompus », « & » non traduit.
+Correction : « & » → « et ». Les caractères hébreux reproduisent fidèlement l'original anglais — pas de corruption.

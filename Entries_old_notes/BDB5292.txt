@@ -1,0 +1,2 @@
+Flag: "APPLE" not translated in dictionary citations.
+False positive: "APPLE" is a headword in scholarly dictionaries (Smith DB, EB) inside bibliographic citations. Stays as-is. No changes needed.

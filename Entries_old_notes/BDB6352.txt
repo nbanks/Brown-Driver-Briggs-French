@@ -1,0 +1,2 @@
+Flag: "articles d'echange" flagged then acknowledged as correct.
+False positive: "articles d'echange, marchandise" is correct French. No changes needed.

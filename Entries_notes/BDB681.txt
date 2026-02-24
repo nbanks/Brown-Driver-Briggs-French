@@ -1,0 +1,1 @@
+Faux positif. Le saut de ligne entre « Jos » et « 15,53 » est identique à l'original anglais. Traduction correcte.

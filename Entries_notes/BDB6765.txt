@@ -1,0 +1,2 @@
+Signalé : « Arabic » non traduit, « Yemama » et « Nejd » non francisés.
+Verdict : « arabe » est probablement traduit dans le fichier. « Yemama » et « Nejd » sont des noms géographiques arabes qui conservent leur forme d'origine dans le BDB. Traduction correcte.

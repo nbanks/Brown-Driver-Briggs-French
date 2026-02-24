@@ -1,0 +1,1 @@
+False positive. "assyrien" and "phénicien" are correctly lowercase in French for language/people adjectives. Translation is correct and complete.

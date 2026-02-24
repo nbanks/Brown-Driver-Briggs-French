@@ -1,0 +1,2 @@
+Flag: "P" not translated.
+False positive: "P" is the standard source-critical abbreviation for the Priestly source -- it stays as-is in all languages. No changes needed.

@@ -1,0 +1,2 @@
+Flag: "Manuscrits" flagged as incorrect.
+False positive: "Manuscrits" is correct French for "Manuscripts". No changes needed.

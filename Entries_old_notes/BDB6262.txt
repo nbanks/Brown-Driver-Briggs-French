@@ -1,0 +1,2 @@
+Flag: "miles" and "locative" flagged.
+Real error on "miles": "4 miles" changed to "4 milles". "locatif" IS French -- false positive on that part.

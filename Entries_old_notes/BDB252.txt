@@ -1,0 +1,2 @@
+Flag: "miles" untranslated, "Euphrates" untranslated.
+Partially valid: "miles" changed to "milles". "Euphrates" flag is false positive -- translation already has "l'Euphrate" (correct French). Also "f^" correctly changed to "s^" (for "suivant").

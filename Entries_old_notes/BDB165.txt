@@ -1,0 +1,1 @@
+Faux positif. La traduction est correcte. « comparer » est l'équivalent standard de « compare » dans le BDB. Corrigé un point-virgule sans espace française (504; -> 504 ;).

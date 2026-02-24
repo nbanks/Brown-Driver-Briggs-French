@@ -1,0 +1,1 @@
+False positive. All biblical references are correctly translated (2Sam -> 2 S, Judg -> Jg). No change needed.

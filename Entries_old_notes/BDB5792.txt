@@ -1,0 +1,2 @@
+Flag: "Eglath" should have accent.
+Real error: "Eglath" changed to "Eglath" for French accentuation consistency.

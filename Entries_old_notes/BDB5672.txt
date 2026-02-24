@@ -1,0 +1,2 @@
+Flag: "Qor 6:146" not converted to French format.
+False positive: "Qor" is a Quran reference, not a biblical book. It stays as-is. No changes needed.

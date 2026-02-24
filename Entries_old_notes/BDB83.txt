@@ -1,0 +1,1 @@
+False positive. "anglais band" is a cross-linguistic citation -- the English word "band" is being referenced as an etymological note, not left untranslated. The parenthetical "(comparer חֶבֶל. anglais band)" correctly notes the English cognate. No change needed.

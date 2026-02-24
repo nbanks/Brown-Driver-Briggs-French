@@ -1,0 +1,1 @@
+False positive. "Éhud" already has the correct accent. "Benjaminite" is the standard French form. Translation is correct. No change needed.

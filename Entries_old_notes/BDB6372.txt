@@ -1,0 +1,2 @@
+Flag: "Benjaminite" flagged.
+False positive: "Benjaminite" is acceptable in French. No changes needed.

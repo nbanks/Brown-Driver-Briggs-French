@@ -1,0 +1,2 @@
+Flag: "Asher" not translated to "Aser".
+Real error: "dans Asher" on line 6 not francized. Fixed to "dans Aser".

@@ -1,0 +1,2 @@
+Faux positif. « comparer » est le terme standard du projet pour « compare »
+(cf. CLAUDE.md). Ce n'est pas un faux ami dans ce contexte lexicographique.

@@ -1,0 +1,1 @@
+False positive. "infinitif" is correct French for "infinitive".

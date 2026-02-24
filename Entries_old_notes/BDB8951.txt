@@ -1,0 +1,1 @@
+Erreur grave. Le fichier français contient la traduction d'une autre entrée (שְׁפַתַּ֫יִם / 1 S 2,14 au lieu de מִשְׁפְּתַ֫יִם / Jg 5,16 et Gn 49,14). Le numéro Strong est aussi différent (H8240 vs H4942). Nécessite une retranslation complète.

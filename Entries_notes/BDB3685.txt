@@ -1,0 +1,2 @@
+Signalé : structure de phrase problématique.
+Verdict : le style lexicographique abrégé est cohérent avec la source BDB. Traduction correcte.

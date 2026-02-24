@@ -1,0 +1,1 @@
+False positive. "&" is a typographical convention preserved from the BDB original. "q.v." is a Latin abbreviation used in French scholarship. Translation is correct.

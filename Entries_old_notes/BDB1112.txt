@@ -1,0 +1,2 @@
+Flag: Verse order incoherent (Gn 9,33).
+False positive: "Gen 9:33" is in the English source itself (likely a typo for Gen 19:33 but it's in the original BDB). The French faithfully renders the source. No changes needed.

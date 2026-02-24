@@ -1,0 +1,2 @@
+Signalé : « suivi de de » (répétition), « member » non traduit, accents manquants.
+Correction : supprimé le « de » redondant (« suivi de\nde » → « suivi\nde »). « membre » est bien en français. Les accents sur « araméen » et « assyrien » sont corrects (lignes 7-8).

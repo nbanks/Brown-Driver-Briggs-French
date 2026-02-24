@@ -1,0 +1,2 @@
+Flag: "accusatif" and "id." flagged.
+False positive: "accusatif" is French, "id." is Latin (idem). No changes needed.

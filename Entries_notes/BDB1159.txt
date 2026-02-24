@@ -1,0 +1,1 @@
+Signalé : espacement « במה. ci-dessus ». Verdict : l'espace entre le point et « ci-dessus » est présent dans le fichier ; pas de réelle erreur.

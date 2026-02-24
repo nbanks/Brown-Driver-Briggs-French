@@ -1,0 +1,2 @@
+Faux positif. « Pluriel » avec majuscule est acceptable en début de ligne.
+Traduction correcte.

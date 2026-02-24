@@ -1,0 +1,2 @@
+Signalé : termes signalés comme anglais non traduit par llm_verify.
+Verdict : abréviations savantes et/ou termes techniques correctement préservés. Traduction vérifiée.

@@ -1,0 +1,1 @@
+Faux positif. Traduction correcte. Les « & » dans le texte courant sont conservés conformément au style du BDB dans les passages descriptifs longs.

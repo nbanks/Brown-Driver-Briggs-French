@@ -1,0 +1,2 @@
+Flag: "Pluriel absolu" and "construit" flagged.
+False positive: These are correct French grammatical terms. No changes needed.

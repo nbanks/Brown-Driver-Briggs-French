@@ -1,0 +1,1 @@
+False positive. "Another form is" is correctly translated as "Une autre forme est" on line 7. Translation is correct.

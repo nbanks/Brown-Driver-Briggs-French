@@ -1,0 +1,2 @@
+Flag: "Pluriel construit" flagged.
+False positive: "Pluriel construit" is correct French grammatical terminology. No changes needed.

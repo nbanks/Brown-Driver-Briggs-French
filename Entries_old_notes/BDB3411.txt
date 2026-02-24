@@ -1,0 +1,3 @@
+Faux positif. « viande » est correct ici : le contexte (Nb 11,6) concerne
+bien la viande/chair (בָּשָׂר), pas la « nourriture » au sens victorien
+général. Le verifier a appliqué la règle victorienne à tort.

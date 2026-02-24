@@ -1,0 +1,2 @@
+Flag: franglais detected -- "signer" is a faux-sens.
+Real error: "sign, mark" (English: to designate/mark) was translated as "signer" (to sign a document). Fixed to "désigner, marquer". Also fixed "marquez-vous, mesurez" to "tracez pour vous, mesurez" for "mark you out, measure".

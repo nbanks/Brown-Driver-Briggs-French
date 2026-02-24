@@ -1,0 +1,2 @@
+Signalé : numéro Strong incorrect (H5765 au lieu de H8014), hébreu altéré (שַׂמְלַי → שַׂלְמַי).
+Correction : numéro Strong corrigé et hébreu rétabli selon la source.

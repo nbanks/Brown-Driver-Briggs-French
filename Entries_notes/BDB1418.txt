@@ -1,0 +1,2 @@
+Signalé : divers problèmes de syntaxe.
+Correction : « & » → « et » dans « preuve suffisante, et inutile ».

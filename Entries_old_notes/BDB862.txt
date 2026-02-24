@@ -1,0 +1,2 @@
+Flag: "appy." flagged as untranslated.
+False positive: The French correctly translates "appy." (apparently) as "apparemment". No changes needed.

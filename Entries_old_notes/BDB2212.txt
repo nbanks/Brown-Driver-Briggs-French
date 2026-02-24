@@ -1,0 +1,2 @@
+Flag: "&" not translated.
+Minor fix: Changed "&" to "et" on line 18. Rest of translation is correct.

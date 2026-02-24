@@ -1,0 +1,1 @@
+False positive. "n'apparaît pas" is correct French for "does not appear". Not a word-for-word calque -- it's natural French. No change needed.

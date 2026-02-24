@@ -1,0 +1,1 @@
+False positive. "article de commerce" is correct French for "article of trade". No change needed.

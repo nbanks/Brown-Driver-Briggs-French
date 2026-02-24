@@ -1,0 +1,2 @@
+Flag: "Participe" capitalized.
+False positive: Grammatical terms like Participe, Parfait, Imparfait are conventionally capitalized in BDB entries (matching the English convention). This is consistent with project examples in CLAUDE.md. No changes needed.

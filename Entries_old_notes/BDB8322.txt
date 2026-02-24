@@ -1,0 +1,2 @@
+Flag: "sabéen" lowercase and "Asher" not francized.
+Partial real error: "Asher" on line 9 not francized. Fixed to "Aser". "sabéen" lowercase is correct French for the adjective.

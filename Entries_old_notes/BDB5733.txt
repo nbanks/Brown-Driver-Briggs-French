@@ -1,0 +1,1 @@
+False positive. Translation looks correct. "toit en saillie" is proper French for projecting roof. No change needed.

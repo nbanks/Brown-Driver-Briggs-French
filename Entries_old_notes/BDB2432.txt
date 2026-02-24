@@ -1,0 +1,2 @@
+Flag: "comparer" usage questioned.
+False positive: "comparer" is correct French. No changes needed.

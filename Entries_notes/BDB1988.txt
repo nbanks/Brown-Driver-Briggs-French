@@ -1,0 +1,2 @@
+Signalé : « Ps 50:20 » non converti, caractère de contrôle dans l'hébreu.
+Verdict : « Ps 50,20 » est correctement converti (l. 8). Le caractère dans תִּתֶּןֿדֹּפִי est un caractère hébreu (maqaf), fidèle à l'original.

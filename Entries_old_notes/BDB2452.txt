@@ -1,0 +1,2 @@
+Flag: "les deux Psaumes" flagged.
+Real error: "both P" (= both Priestly source) was mistranslated as "les deux Psaumes". Fixed to "les deux P". P is a source-critical abbreviation, not Psalms.

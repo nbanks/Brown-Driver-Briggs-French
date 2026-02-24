@@ -1,0 +1,3 @@
+Signalé : « Excursus » et « Gn 188 7 » mal formaté.
+Verdict : « Excursus » est un terme latin international, correct tel quel. « Gn 188\n7 » reproduit le formatage de l'original anglais (« Gen 188\n7 ») — artefact de la source, pas une erreur de traduction.
+Correction : « June 23 » → « 23 juin ».

@@ -1,0 +1,3 @@
+Faux positif. Le verifier a signalé « loan-word » comme non traduit, mais
+le français a correctement « emprunt » (ligne 5). Traduction correcte dans
+l'ensemble -- aucune modification nécessaire.

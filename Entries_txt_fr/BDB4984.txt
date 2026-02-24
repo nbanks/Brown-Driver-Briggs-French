@@ -1,15 +1,23 @@
-=== BDB4984 H5074 ===
+=== BDB4984 H5077 ===
 hébreu biblique
 
-[נָדָא]
-verbe chasser (= נדה ; araméen
-נְדָא
-chasser ; comparer arabe
-[placeholder3105: Placeholders/3105.gif]
-) — seulement
-Qal Participe passif féminin נְדָאָ֑ה
-Es 19,7.
+[נָדָא] verbe
+chasser, repousser (|| forme de
+נדה
+, q.v., ou erreur textuelle ; éthiopien
+[placeholder3178: Placeholders/3178.gif]
+conduire le bétail, etc.) ; — seulement
+
+Hiphil
+Imparfait 3 masculin singulier ׳
+וידא ֗֗֗ אֶתיִֿשְׂרָאֵל מֵאַחֲרֵי י
+2 R 17,21
+
+Kt
+(
+Qr
+
+וַיַדַּח √ נדח
+Hiphil).
 
 ---
-
-

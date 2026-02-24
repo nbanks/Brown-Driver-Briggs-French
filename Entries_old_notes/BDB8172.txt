@@ -1,0 +1,2 @@
+Flag: "pas au pluriel" flagged.
+False positive: Acceptable French for "not in plural". No changes needed.

@@ -1,0 +1,1 @@
+Faux positif. Le caractère hébreu « אַָצל » est identique dans l'original anglais (ligne 10). Pas d'erreur d'encodage introduite par la traduction.

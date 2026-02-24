@@ -1,0 +1,2 @@
+Signalé : « Lev » converti en « Za » au lieu de « Lv ».
+Verdict : le texte source BDB contient « Zech » (pas « Lev ») pour toutes ces références, malgré les numéros de chapitres impossibles pour Zacharie. Le traducteur a fidèlement converti Zech → Za. Erreur de la source BDB, pas de la traduction.

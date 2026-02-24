@@ -1,0 +1,2 @@
+Flag: "feindre d'etre une etrangere" flagged.
+False positive: This is correct French translation. No changes needed.

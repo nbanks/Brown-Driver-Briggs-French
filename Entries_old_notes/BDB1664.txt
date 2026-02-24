@@ -1,0 +1,1 @@
+Source data issue. "Ze" in original (line 14) appears between Ezek refs -- likely a source artifact. Translator rendered as "Za" (Zacharie). Not a translation error.

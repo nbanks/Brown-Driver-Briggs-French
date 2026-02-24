@@ -1,0 +1,1 @@
+Erreur réelle. Article manquant « dans nom propre » -> « dans le nom propre ». Corrigé. Les « & » dans les références CIS avaient déjà été traduits en « et ».

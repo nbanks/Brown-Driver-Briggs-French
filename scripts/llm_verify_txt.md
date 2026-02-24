@@ -7,14 +7,16 @@
 Ces textes contiennent un mélange de langues — c'est **parfaitement normal** et ne constitue **pas** une erreur :
 - Texte hébreu/araméen avec voyelles (בְאֵרִי, כָּרָה, אוּלָם, etc.)
 - Grec ancien (Ηξαιας, Λιβυες, Θαρακα, etc.)
-- Abréviations savantes et notes : Dl, Dr, Co, We, Sta, COT, HCT, Kö, Wr, Rob, Di, q.v., etc.
+- Abréviations savantes et notes : Dl, Dr, Co, We, Sta, COT, HCT, Kö, Wr, Rob, Di, Now, Hi, Gie, Be, Ke, Ew, Du, Klo, Vrss, Bev, Kau, Tg, Aq, Symm, Theod, AV, RV, RVm, Thes, MV, MI, etc.
 - Translittérations sémitiques : abâlu, šubû, Bit-Daganna, etc.
 - Noms de thèmes verbaux hébreux : Qal, Niphal, Piel, Pual, Hiphil, Hophal, Hithpael
-- Citations latines : lectio, sub, comm, etc.
+- Citations et expressions latines : lectio, sub, comm, id., ib., vera lectio, si vera l., q.v., futurum instans, imber vehemens, in doctrina, idem, senescere, etc.
 - Sigles de manuscrits : ᵐ5, ᵑ9, Theod, etc.
 - Noms propres de personnes et lieux en graphie conventionnelle
 - Placeholders : [placeholder8: Placeholders/8.gif], etc.
 - Références bibliques en format français : Gn 35,8 ; 2 R 25,12 ; Es 1,1
+- Titres d'ouvrages savants en langue originale (anglais, allemand) : *Survey*, *Desert of Exodus*, *Comm.*, *Higher Crit.*, *Entstehung*, *Reisebericht*, *Landwirthschaft*, etc.
+- **Mots français identiques ou quasi-identiques à l'anglais** — ce ne sont PAS du franglais : village, instruments, obscure, terrible, conjectural, pot, aversion, information, destruction, ruine, sanctification, ordinal, balances, raisons (≠ reasons), milles (≠ miles), comparer (≠ compare), Ps (même abréviation en français et en anglais)
 
 **Ne signalez JAMAIS ces éléments comme erreurs.**
 
@@ -30,6 +32,8 @@ Des mots anglais courants qui auraient dû être traduits en français. Soyez pa
 - **Adverbes & Pronoms** : "only", "also", "near", "where", "when", "which", "that", "this", "these", "those"
 - **Structures fautives fréquentes** : "père of X", "a fils de Y", "une city", "in Judah", "son of Z", "whose light", "X itself".
 - **Glose & Notes** : "see", "compare", "above", "below", "following", "doubtful", "perhaps", "meaning", "name".
+- **`&` au lieu de `et`** : Le symbole `&` dans le texte courant français est une ERROR — il doit être remplacé par `et`. (Exception : à l'intérieur de sigles savants comme `B & Co`.)
+- **`miles` au lieu de `milles`** : L'unité anglaise "miles" doit être francisée en "milles". Attention : "milles" (avec double l) est correct en français.
 
 ### B. Accents manquants et typographie
 
@@ -82,7 +86,12 @@ moderne plutôt que son sens victorien, c'est une erreur. Exemple :
    - Un faux négatif (ERROR marqué CORRECT) laisse une traduction cassée dans le corpus.
    - **En cas de doute, répondez WARN ou ERROR — jamais CORRECT.**
    - Ne répondez **CORRECT** que si vous êtes **certain** qu'il n'y a aucun problème.
-   - Répondez **ERROR** dès qu'un problème concret est identifié.
+
+### Quand utiliser ERROR vs WARN
+
+- **ERROR** : Problème **certain et concret** — mot anglais non traduit, accent manquant sur un nom biblique, sens supprimé, référence non convertie, `&` au lieu de `et`.
+- **WARN** : Problème **probable mais pas certain** — formulation maladroite qui pourrait être du franglais ou du français correct, mot qui ressemble à de l'anglais mais pourrait être un terme technique légitime, convention possiblement non appliquée mais contexte ambigu, traduction légèrement libre mais pas incorrecte.
+- **CORRECT** : Vous êtes **certain** qu'il n'y a aucun problème.
 
 Ces tables vous aident à vérifier les traductions. Un mot resté en anglais au lieu de sa forme française est une erreur (catégorie A).
 
@@ -218,19 +227,49 @@ Analyse : Références « Ezek 40,16 » et « Ezek 40,21 » non traduites — de
 
 ENGLISH:
 ```
-=== BDB4348 H3864 ===
-Biblical Hebrew
-[לוּב], לוּבִים, לֻבִֿים noun, [of a people], plural Libyans, in North Africa, west of Egypt; — Nah 3:9 (+ פּוּט), 2Chr 12:3 (ᵐ5 Λιβυες; + מִצְרַיִם, סֻכִּיִּים, כּוּשִׁים), 2Chr 16:8 ᵐ5 Λιβυες; (+ כּוּוִים);
+=== BDB10012 H8254 H8625 ===
+Biblical Aramaic
+
+[תְּקַל] verb
+weigh (
+
+ᵑ7
+
+Syriac; Biblical Hebrew
+שָׁקַל
+, שֶׁקֶל); —
+
+Pe`il
+Perfect 2 masculine singular תְּקִלְתָּא (W^CG
+224^) Dan 5:27
+thou hast been weighed, ב of scales.
+
+---
 ```
 
 FRENCH:
 ```
-=== BDB4348 H3864 ===
-hébreu biblique
-[לוּב], לוּבִים, לֻבִֿים nom, [d'un peuple], pluriel Libyens, en Afrique du Nord, à l'ouest de l'Égypte ; — Na 3,9 ( + פּוּט), 2 Ch 12,3 (ᵐ5 Λιβυες ; + מִצְרַיִם, סֻכִּיִּים, כּוּשִׁים), 2 Ch 16,8 ᵐ5 Λιβυες ; (+ כּוּוִים) ;
+=== BDB10012 H8254 H8625 ===
+araméen biblique
+
+[תְּקַל] verbe
+peser (
+
+ᵑ7
+
+syriaque ; hébreu biblique
+שָׁקַל
+, שֶׁקֶל) ; —
+
+Peil
+Parfait 2 masculin singulier תְּקִלְתָּא (W^CG
+224^) Dn 5,27
+tu as été pesé, ב de balances.
+
+---
 ```
 
-Analyse : Tout traduit : pos, glose, refs (Na, 2 Ch), accents ok (Égypte), hébreu/grec préservés. Λιβυες est du grec ancien, pas de l'anglais.
+Analyse : « Peil » est un thème verbal araméen (comme Qal, Piel) — pas de l'anglais. « ב de balances » est du français correct (« de » ≠ « of »). « balances » est identique en français et en anglais. Refs ok (Dn). ᵑ7 et W sont des sigles savants.
 >>> CORRECT
 
 ### Exemple 6
@@ -319,42 +358,95 @@ Analyse : Ephraimite → Éphraïmite (accents ok sur majuscule). « God has ado
 
 ENGLISH:
 ```
-=== BDB381 H366 ===
+=== BDB475 H499 ===
 Biblical Hebrew
 
-אָיֹם
-adjective
-terrible, dreadful — terrible, of Chaldeans אָיֹם וְנוֺרָא הוּא
-
-Hab 1:7 of dignified
-woman, awe-inspiring
-אֲיֻמָּה כַּנִּדְגָלוֺת
-Song 6:4; Song 6:10.
+אֶלְעָזָר
+proper name, masculine (God has helped) —
+1. son of Aaron, and chief priest after him Exod 6:23 + often; ᵐ5 Ελεαζαρ.
+2. son of Abinadab 1Sam 7:1.
+3. one of David's heroes 2Sam 23:9; 1Chr 11:12.
+4. a Levite, son of Mahli 1Chr 23:21; 1Chr 23:22; 1Chr 24:28.
+5. a priest Neh 12:42.
+6. an ancestor of Joseph Mt 1:15.
+compare Nowack HCT ch. vi.
 
 ---
 ```
 
 FRENCH:
 ```
-=== BDB381 H366 ===
+=== BDB475 H499 ===
 hébreu biblique
 
-אָיֹם
-adjectif
-terrible, redoutable — terrible, des Chaldéens אָיֹם וְנוֺרָא הוּא
-
-Ha 1,7 d'une femme
-digne, imposante
-אֲיֻמָּה כַּנִּדְגָלוֺת
-Ct 6,4 ; Ct 6,10.
+אֶלְעָזָר
+nom propre, masculin (Dieu a aidé) —
+1. fils d'Aaron, et grand prêtre après lui Ex 6,23 + souvent ; ᵐ5 Ελεαζαρ.
+2. fils d'Abinadab 1 S 7,1.
+3. un des héros de David 2 S 23,9 ; 1 Ch 11,12.
+4. un lévite, fils de Mahli 1 Ch 23,21 ; 1 Ch 23,22 ; 1 Ch 24,28.
+5. un prêtre Ne 12,42.
+6. un ancêtre de Joseph Mt 1,15.
+comparer Nowack HCT ch. vi.
 
 ---
 ```
 
-Analyse : « terrible » est identique en anglais et en français — ce n'est pas du franglais. « dreadful » → « redoutable », « dignified » → « digne », « awe-inspiring » → « imposante ». Refs ok (Ha, Ct).
->>> CORRECT
+Analyse : Traduction correcte dans l'ensemble, refs converties (Ex, 1 S, 1 Ch, Ne). Toutefois « ch. vi » (chapter six) est une abréviation anglaise — en français on attendrait « chap. vi » ou « ch. vi » pourrait être conservé comme référence savante. Ambigu.
+>>> WARN
 
 ### Exemple 11
+
+ENGLISH:
+```
+=== BDB1094 H1055 ===
+Biblical Hebrew
+
+בִּיתָן
+noun [masculine]
+house, palace — absolute הַבִּיתָן
+Esth 7:7; Esth 7:8 (׳
+
+גִּנַּת הב); construct בִּיתַן
+Esth 1:5 (
+הַמֶּלֶךְ
+׳
+גִּנַּת ב), all garden of
+׳
+בּ; according to Dieulafoy^RŠJ 1888, cclxxvii.^
+throne-room, synonym of apadâna in meaning, but compare
+אַפֶּדֶן.
+
+---
+```
+
+FRENCH:
+```
+=== BDB1094 H1055 ===
+hébreu biblique
+
+בִּיתָן
+nom [masculin]
+maison, palais — absolu הַבִּיתָן
+Est 7,7 ; Est 7,8 (׳
+
+גִּנַּת הב) ; construit בִּיתַן
+Est 1,5 (
+הַמֶּלֶךְ
+׳
+גִּנַּת ב), tous jardin du
+׳
+בּ ; selon Dieulafoy^RŠJ 1888, cclxxvii.^
+salle du trône, synonyme d'apadâna en sens, mais comparer
+אַפֶּדֶן.
+
+---
+```
+
+Analyse : « synonyme » et « comparer » sont du français, pas de l'anglais. « en sens » = « in meaning » (français correct, pas franglais « in sense »). « apadâna » est une translittération persane. Dieulafoy et RŠJ sont des références savantes. Refs ok (Est).
+>>> CORRECT
+
+### Exemple 12
 
 ENGLISH:
 ```

@@ -1,0 +1,2 @@
+Flag: "en anglais" flagged as franglais.
+Partially valid: "comparer en anglais" was awkward French. Changed to "comparer les mots anglais". The English loanwords (algebra, Alhambra, etc.) are examples and stay as-is.

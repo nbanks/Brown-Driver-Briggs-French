@@ -1,0 +1,2 @@
+Flag: "ainsi des veaux" flagged as bad translation.
+False positive: "ainsi des veaux" is correct French for "so calves". No changes needed.

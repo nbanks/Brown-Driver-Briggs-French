@@ -1,0 +1,1 @@
+False positive. "Egypt" appears in a scholarly reference title (Baedeker's Egypt), not as untranslated running text.

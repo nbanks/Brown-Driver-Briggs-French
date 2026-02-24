@@ -1,0 +1,2 @@
+Flag: "moderne Dîbân" flagged.
+False positive: "moderne" IS French, and "Dîbân" is the modern Arabic place name. Translation is accurate throughout.

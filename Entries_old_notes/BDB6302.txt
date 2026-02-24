@@ -1,0 +1,2 @@
+Flag: "tabou" flagged as wrong.
+False positive: "tabou" IS the correct French word for "taboo". No changes needed.

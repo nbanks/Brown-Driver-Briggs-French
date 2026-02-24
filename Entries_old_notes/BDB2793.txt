@@ -1,0 +1,1 @@
+False positive. "Comm." is a scholarly abbreviation for Commentators, not translatable. "le sens de jaune" is contextually clear (refers to "jaune d'œuf"). No change needed.

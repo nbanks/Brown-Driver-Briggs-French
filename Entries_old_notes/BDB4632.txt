@@ -1,0 +1,2 @@
+Flag: "pressureur" flagged as anglicism.
+False positive: While "pressureur" is unusual, the meaning is clarified by "c.-a-d. extorqueur, oppresseur". Acceptable translation of "squeezer". No changes needed.

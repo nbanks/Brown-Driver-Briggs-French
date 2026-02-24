@@ -1,0 +1,2 @@
+Flag: "Id^ib^" not translated.
+False positive: "Id." and "ib." are Latin abbreviations (idem, ibidem). No changes needed.

@@ -1,0 +1,2 @@
+Flag: "arabe nom propre" word order.
+False positive: "arabe" is a language label preceding "nom propre", following the source structure "Arabic proper name". Acceptable. No changes needed.

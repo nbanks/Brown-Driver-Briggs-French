@@ -1,0 +1,2 @@
+Flag: "dans un figuré" flagged as franglais.
+False positive: Acceptable French elliptical expression (for "dans un [sens] figuré"). No changes needed.

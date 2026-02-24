@@ -1,0 +1,2 @@
+Signalé : « & » résiduels et accents manquants.
+Correction : « & » → « et » (2 occurrences). Les noms propres (Abimélek, Agar, etc.) sont correctement écrits en français.

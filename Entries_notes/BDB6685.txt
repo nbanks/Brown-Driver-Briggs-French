@@ -1,0 +1,2 @@
+Signalé : hébreu altéré (ִפּנְחָס → פִּנְחָס), références non traduites.
+Verdict : le traducteur a corrigé un mot hébreu mal encodé dans la source. Les références Num→Nb, Josh→Jos, 1Chr→1 Ch sont toutes correctement converties. Traduction correcte.

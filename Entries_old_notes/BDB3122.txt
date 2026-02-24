@@ -1,0 +1,2 @@
+Flag: "De" and "RVm" not translated.
+False positive: "De" (Delitzsch) and "RVm" (Revised Version margin) are scholarly abbreviations -- stay as-is. No changes needed.

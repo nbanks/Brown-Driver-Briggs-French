@@ -1,0 +1,2 @@
+Flag: "comparer" usage questioned.
+False positive: "comparer" is correct French for "compare" in scholarly context. Translation is accurate throughout. No changes needed.

@@ -1,0 +1,1 @@
+Minor fix. "2nd ed.149" in bibliographic reference changed to "2e éd. 149" for proper French abbreviation of "edition".

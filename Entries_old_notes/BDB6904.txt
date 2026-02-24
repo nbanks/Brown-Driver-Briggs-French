@@ -1,0 +1,1 @@
+Real error. "armée, host" had untranslated English "host". Fixed to "armée, troupe".

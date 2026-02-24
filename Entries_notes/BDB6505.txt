@@ -1,0 +1,2 @@
+Signalé : « absolute », « plural suffix », « plural absolute » non traduits.
+Verdict : le fichier contient « absolu », « pluriel suffixe », « pluriel absolu » — tous traduits. Le vérificateur a mal lu. Traduction correcte.

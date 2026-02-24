@@ -1,0 +1,2 @@
+Faux positif. Le saut de ligne entre « Jos » et « 15,53 » est hérité de
+l'original anglais (même structure). Pas une erreur de traduction.

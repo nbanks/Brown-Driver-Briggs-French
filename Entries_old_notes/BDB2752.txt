@@ -1,0 +1,2 @@
+Flag: "Assyrian" not translated, "Achzib" not francized.
+False positive: "assyrien" IS present (line 13). "Akzib" is an acceptable French transliteration of Achzib. No changes needed.

@@ -1,0 +1,2 @@
+Flag: "implicit" and "their" not translated.
+False positive: "implicite" IS French for "implicit". "leurs" IS French for "their". Translation is correct throughout.

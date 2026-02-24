@@ -1,0 +1,2 @@
+Flag: "Assyrian Dict." in superscript citation.
+False positive: "Muss-Arn^Assyrian Dict. 436 a^" is a scholarly citation (book title). Stays as-is. No changes needed.

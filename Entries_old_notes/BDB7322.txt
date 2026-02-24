@@ -1,0 +1,2 @@
+Flag: "Ézéchiel" accent issue.
+False positive: "Ézéchiel" correctly accented throughout the file. No changes needed.

@@ -1,0 +1,2 @@
+Signalé : ERROR sans détail (probable problème du vérificateur).
+Verdict : traduction correcte. Toutes les références sont converties. Aucun anglais résiduel.

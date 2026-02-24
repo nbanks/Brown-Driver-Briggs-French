@@ -1,0 +1,1 @@
+Essentiellement faux positif. Corrigé « & » → « et » (ligne 39). « Flood » est un titre savant (tablette du Déluge). « Duel » est le terme grammatical français correct. « comparer » est correct.

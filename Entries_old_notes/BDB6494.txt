@@ -1,0 +1,1 @@
+False positive. "personne" is correct French for "person". Not an English word.

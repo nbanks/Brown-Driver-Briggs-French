@@ -1,0 +1,2 @@
+Flag: "id." and "si vera lectio" flagged as untranslated.
+False positive: Both are Latin scholarly abbreviations. No changes needed.

@@ -1,0 +1,2 @@
+Flag: "Sabean" and "Arabic" not translated.
+False positive: The French correctly has "sabéen" and "arabe". No changes needed.

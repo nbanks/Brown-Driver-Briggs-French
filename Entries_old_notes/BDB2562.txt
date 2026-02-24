@@ -1,0 +1,2 @@
+Flag: "Now" flagged as untranslated English.
+False positive: "Now" is a scholarly abbreviation (Nowack) -- stays as-is. No changes needed.

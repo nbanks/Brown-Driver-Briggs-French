@@ -28,7 +28,7 @@ Gn 31,35 ; Gn 32,19 ; Gn 42,10 ; Ex 21,5 dans
 P
 
 Gn 23,6 ; Gn 23,11 ; Gn 23,15 ; Nb 36,2 (deux fois dans le
-verset) ; souvent Samuel & Rois ; dans Chroniques seulement dans les sources, 1 Ch 21,3 (3 t. dans le verset) ; 1 Ch 21,23 (= 2 S 24,3 ; 2 S 24,22) 2 Ch 2,13 ; 2 Ch 2,14 Ésaïe
+verset) ; souvent Samuel et Rois ; dans Chroniques seulement dans les sources, 1 Ch 21,3 (3 t. dans le verset) ; 1 Ch 21,23 (= 2 S 24,3 ; 2 S 24,22) 2 Ch 2,13 ; 2 Ch 2,14 Ésaïe
 & Jérémie seulement dans les parties historiques Es 36,8 ; Es 36,9 ; Es 36,12 ; Jr 37,20 ; Jr 38,9 ailleurs Dn 1,10 ; Dn 10,16 ; Dn 10,17 ; Dn 10,19 ; Dn 12,8 ; Za 1,9 ; Za 4,4 ; Za 4,5 ; Za 4,13 ; Za 6,4 ; Ps 110,1 ; Jg 4,18 ; Jg 6,13 ; Rt 2,13
 בִּי אֲדנָי
 Ex 4,10 ; Ex 4,13 ; Jos 7,8 (
@@ -121,7 +121,7 @@ Ex
 21,32 (code de l'Alliance) Gn 24,9 + (
 J
 , 11 t.)
-Dt 23,16 ; Jg 19,11 ; Jg 19,12 + 13 t. Samuel & Rois ; Jb 3,19 ; Ps 123,2 ; Pr 25,13
+Dt 23,16 ; Jg 19,11 ; Jg 19,12 + 13 t. Samuel et Rois ; Jb 3,19 ; Ps 123,2 ; Pr 25,13
 ;
 Pr 27,18 ; Pr 30,10 ; Es 24,2 ; Am 4,1 ; So 1,9 ; Ml 1,6 (deux fois dans le verset) ;
 
@@ -165,7 +165,7 @@ Gn 40,1 (
 E
 ) Jg
 3,25
-+ 40 t. Samuel & Rois ; Chroniques seulement dans les sources 1 Ch 12,19 comparer 1 S 29,4 ; 2 Ch 13,6 ;
++ 40 t. Samuel et Rois ; Chroniques seulement dans les sources 1 Ch 12,19 comparer 1 S 29,4 ; 2 Ch 13,6 ;
 2 Ch 18,16
 =
 1 R 22,17 ;
@@ -283,7 +283,7 @@ Jg
 22,12
 
 +
-(Samuel & Rois 75 t.) ;
+(Samuel et Rois 75 t.) ;
 
 (f) père
 Gn

@@ -1,0 +1,2 @@
+Signalé : « et^ » au lieu de « et », accents manquants sur « assyrien » et « féminin ».
+Verdict : « et^ » est probablement une notation d'exposant dans le formatage BDB. « assyrien » et « féminin » n'ont pas d'accents manquants en français. Traduction correcte.

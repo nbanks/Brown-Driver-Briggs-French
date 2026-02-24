@@ -1,0 +1,2 @@
+Flag: "Psalm 32:4" not translated in reference.
+False positive: This is inside a scholarly superscript citation (Hup-Now^Psalm 32,4^). The colon was correctly changed to comma. "Psalm" inside a bibliographic reference is acceptable. No changes needed.

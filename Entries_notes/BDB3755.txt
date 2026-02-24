@@ -1,0 +1,2 @@
+Signalé : « Am 1,37 » inexistant, « (des céréales) » ajouté.
+Correction : supprimé « (des céréales) » absent de la source. « Am 1,37 » est une erreur dans la source BDB elle-même, fidèlement reproduite.

@@ -1,0 +1,2 @@
+Flag: Psalm references flagged as untranslated.
+False positive: References like "Ps 109,24" are correctly formatted French biblical references (comma instead of colon). No changes needed.

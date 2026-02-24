@@ -1,0 +1,2 @@
+Flag: "shoulder-cape" translation and other issues.
+False positive: "cape d'épaule" is an appropriate rendering of "shoulder-cape". The entire long entry is thoroughly and accurately translated. No changes needed.

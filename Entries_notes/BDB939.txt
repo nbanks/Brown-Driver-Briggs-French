@@ -1,0 +1,1 @@
+Signalé : « & » non traduit. Correction : deux « & » → « et » (lignes 9 et 24). Le vérificateur mentionne aussi « arabe » sans majuscule : c'est correct en français (nom de langue en minuscule).

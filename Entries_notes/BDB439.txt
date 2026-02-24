@@ -1,0 +1,1 @@
+Signalé : double « c. » dans la numérotation. Verdict : identique à l'original anglais qui a aussi deux « c. » (erreur dans la source BDB).

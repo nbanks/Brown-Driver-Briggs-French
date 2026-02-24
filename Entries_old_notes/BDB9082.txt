@@ -1,0 +1,2 @@
+Flag: "dans J E" flagged as franglais.
+False positive: J and E are source-critical abbreviations (Jahwist, Elohist). "dans J E" is correct French. No changes needed.

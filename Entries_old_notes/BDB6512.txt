@@ -1,0 +1,2 @@
+Flag: "Desert of Exodus" not translated.
+False positive: This is a book title inside a scholarly citation (Palmer^Desert of Exodus^). No changes needed.

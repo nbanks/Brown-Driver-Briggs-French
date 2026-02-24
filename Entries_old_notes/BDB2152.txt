@@ -1,0 +1,2 @@
+Flag: "comparer" and "selon" flagged.
+False positive: "comparer" and "selon" are standard French scholarly terms (for "compare" and "according to"). No changes needed.

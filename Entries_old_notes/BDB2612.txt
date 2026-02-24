@@ -1,0 +1,2 @@
+Flag: AV/RV not translated.
+False positive: AV and RV are scholarly abbreviations (Authorized/Revised Version). They stay as-is. No changes needed.

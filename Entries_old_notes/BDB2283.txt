@@ -1,0 +1,1 @@
+False positive. "texte douteux" is perfectly correct French for "dubious text". No change needed.

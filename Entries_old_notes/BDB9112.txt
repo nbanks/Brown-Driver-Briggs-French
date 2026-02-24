@@ -1,0 +1,2 @@
+Flag: "inane, vacuum, vanum" Latin terms untranslated.
+False positive: Latin words from the Versions (Vulgate etc.) cited in the original. They stay as-is. No changes needed.

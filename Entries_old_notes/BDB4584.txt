@@ -1,0 +1,1 @@
+Minor style. "phénicien nom propre" could be "nom propre phénicien" but preserves source structure. Acceptable.

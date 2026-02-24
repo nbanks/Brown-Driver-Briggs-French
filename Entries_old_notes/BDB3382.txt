@@ -1,0 +1,2 @@
+Flag: "J E" and "Che^critical note^" flagged.
+False positive: J and E are source-critical abbreviations. Scholarly references stay as-is. No changes needed.

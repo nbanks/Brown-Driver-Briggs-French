@@ -1,0 +1,1 @@
+False positive. "cedar" is correctly translated as "cèdre" (line 9). Translation is thorough and correct.

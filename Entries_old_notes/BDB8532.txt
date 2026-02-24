@@ -1,0 +1,2 @@
+Flag: "compare" translated as "comparer".
+False positive: "comparer" (infinitive) is the standard French form used throughout the BDB translation. No changes needed.

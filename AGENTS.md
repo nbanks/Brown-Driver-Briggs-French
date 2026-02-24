@@ -34,6 +34,7 @@ Brown-Driver-Briggs-Enhanced/
     Entries_txt/        # Texte brut extrait des entrées HTML (généré par script)
     Entries_txt_fr/     # Texte brut traduit en français (par LLM)
     Entries_fr/         # Entrées HTML en français (réassemblé par LLM)
+    Entries_notes/      # Notes de revue des erreurs signalées par llm_verify
     json_output/        # JSON anglais, un fichier par entrée BDB (source)
     json_output_fr/     # JSON français, un fichier par entrée BDB (cible)
     Placeholders/       # ~6 200 images GIF de scripts de langues apparentées
@@ -43,6 +44,7 @@ Brown-Driver-Briggs-Enhanced/
         validate_html.py # Vérification de Entries_fr/ contre originaux
         untranslated.py # Liste les fichiers non encore traduits
         llm_verify.py   # Vérification par LLM local des traductions txt_fr
+        review_errors.py # Liste les entrées signalées non encore revues
     test/               # Données de test pour llm_verify (rarement modifié)
     llm_verify_txt_results.txt  # Résultats de vérification LLM des Entries_txt_fr/
     bdbToStrongsMapping.csv
@@ -66,11 +68,10 @@ inacceptable. Exemples :
 - « consacré » et non « consacre », « créé » et non « cree », « abîme » et non « abime »
 - « père » et non « pere », « mère » et non « mere », « peut-être » et non « peut-etre »
 - « fraîcheur » et non « fraicheur », « première » et non « premiere »
-- « Ésaïe » et non « Esaie », « Ézéchiel » et non « Ezechiel »
-- « Ésaü » et non « Esau », « Éphraïm » et non « Ephraim »
-- « Égypte » et non « Egypte », « Éthiopien » et non « Ethiopien »
-- « Éphraïmite » et non « Ephraïmite », « édomite » et non « Edomite »
 - « À partir de » et non « A partir de », « État » et non « Etat »
+
+Pour les majuscules accentuées sur les noms propres (Ésaïe, Égypte, etc.),
+voir la section « Traduction des noms propres et lieux ».
 
 Tous les fichiers de sortie (JSON et HTML) sont en UTF-8. Chaque caractère
 accentué (é, è, ê, ë, à, â, ù, û, ô, î, ï, ç, etc.) doit apparaître comme
@@ -439,11 +440,7 @@ French:
 
 ### Anglais victorien — attention aux faux amis
 
-Le BDB (1906) utilise un anglais victorien où certains mots courants ont un
-sens différent du sens moderne. Traduire d'après le contexte, pas d'après le
-sens moderne du mot anglais.
-
-**Exemples de pièges victoriens :**
+Le BDB (1906) utilise un anglais victorien. Traduire d'après le contexte :
 - **"corn"** = grain, céréale ou blé (PAS maïs).
 - **"meat"** = nourriture en général (PAS viande, sauf si le contexte le précise).
 - **"quick"** = vivant, chair vive (PAS rapide).
@@ -451,6 +448,32 @@ sens moderne du mot anglais.
 - **"mire"** = boue, fange (PAS mire de visée).
 - **"peculiar"** = propre à, particulier, spécifique (PAS étrange).
 - **"discovery"** = révélation, exposition (PAS seulement découverte).
+- **"contracted"** = abrégé, raccourci (PAS contracté physiquement).
+- **"sign"** (verbe) = marquer, désigner (PAS signer un document).
+- **"rule over"** = régner sur (PAS « dominer sur » — calque).
+
+### Erreurs fréquentes à éviter
+
+Ces erreurs ont été les plus courantes lors de la première passe de traduction
+(identifiées par revue de ~1 000 entrées signalées) :
+
+- **`&` → `et`** : Le BDB utilise `&` comme raccourci. En français, toujours
+  écrire `et` dans le texte courant. Exception : dans les sigles savants
+  (p. ex. `B & Co`), conserver tel quel.
+- **`miles` → `milles`** : Unité de distance, toujours franciser.
+- **Conventions de numérotation** : `1st` → `1ᵉʳ`, `2nd` → `2ᵉ`, `3rd` → `3ᵉ`,
+  `ed.` → `éd.`
+- **Abréviations savantes anglaises courantes** :
+  `ff.` → `ss.`, `Eng. Tr.` → `trad. angl.`, `viz.` → `c.-à-d.`,
+  `i.e.` → `c.-à-d.`, `e.g.` → `p. ex.` (`cf.` reste `cf.`)
+- **Noms propres géographiques et ethniques** courants mal francisés :
+  `Nephthali` → `Nephtali`, `Philadelphia` → `Philadelphie`,
+  `Bashan` → `Basan`, `Cushite` → `Koushite`,
+  `Gershonites` → `Guershonites`, `Esarhaddon` → `Assarhaddon`
+- **Petits mots anglais oubliés** : Vérifier qu'aucun article (`a`, `an`,
+  `the`), préposition (`in`, `of`, `on`, `for`) ou conjonction (`and`, `but`,
+  `or`) anglais ne subsiste dans le texte français. C'est l'erreur la plus
+  insidieuse — elle échappe à une relecture rapide.
 
 ### Traduction des noms propres et lieux
 
@@ -468,17 +491,8 @@ sens moderne du mot anglais.
    - "Euphrates" -> "Euphrate"
    - "Judah" -> "Juda"
 
-2. **Noms de savants et auteurs modernes** : Ne PAS traduire. Ces noms (souvent
-   cités dans les abréviations savantes ou les notes) doivent rester tels quels.
-   - "Robinson" reste "Robinson"
-   - "Smith" reste "Smith"
-   - "Driver" reste "Driver"
-
-### Pièges du « Franglais » (mélange de langues)
-
-La traduction doit être intégrale — ne jamais laisser de petits mots anglais
-(articles, prépositions, conjonctions) au milieu d'une phrase française. Voir
-la section « INTERDICTION DE SCRIPTS » pour des exemples concrets.
+2. **Noms de savants modernes** (Robinson, Smith, Driver, etc.) : ne PAS
+   traduire.
 
 ### Traduction des références bibliques
 
@@ -609,23 +623,16 @@ arborescence de balises que le fichier anglais original.
 
 **Traduction `txt_fr` défectueuse :** Si vous constatez que le fichier
 `Entries_txt_fr/` contient des erreurs évidentes (franglais, accents manquants,
-texte anglais non traduit, faux ami victorien), **corrigez la traduction** dans
-votre sortie HTML en vous basant sur le texte anglais original (`Entries_txt/`).
-Produisez toujours le fichier `Entries_fr/` (sinon `untranslated.py` le
-signalera comme non fait), mais consignez le problème dans `errata-N.txt` (voir
-la section « Gestion des erreurs ») pour qu'il puisse être vérifié. Un modèle
-moins puissant est souvent utilisé pour l'étape 3 — faites de votre mieux, mais
-ne bloquez jamais sur une entrée problématique.
+texte anglais non traduit, faux ami victorien — voir « Erreurs fréquentes »),
+**corrigez les deux fichiers** : d'abord `Entries_txt_fr/BDBnnn.txt` (le
+source), puis utilisez la version corrigée pour produire `Entries_fr/`. Cela
+garde les deux fichiers synchronisés et les corrections sont traçables via git.
+Consignez le problème dans `errata-N.txt` (voir « Gestion des erreurs »).
+Ne bloquez jamais sur une entrée problématique.
 
 **Étape 4 : Validation** (`scripts/validate_html.py`, déterministe)
-Vérifie que le HTML français contient tous les éléments préservés de l'original
-(hébreu, placeholders, attributs ref, abréviations) et que le texte français
-de l'étape 2 apparaît dans le résultat.
-
-Cette étape est exécutée **en lot après que tous les travailleurs ont terminé**,
-pas par chaque agent individuellement. Les agents de l'étape 3 doivent produire
-leurs fichiers `Entries_fr/` et passer à l'entrée suivante — la validation et
-la correction des erreurs se font dans une passe séparée.
+Vérifie que le HTML français préserve tous les éléments de l'original. Exécutée
+**en lot** après les travailleurs — les agents ne valident pas individuellement.
 
 ```
 python3 scripts/validate_html.py            # tout valider
@@ -658,17 +665,13 @@ python3 scripts/untranslated.py 7 --json     # json seulement, finissant par 7
 python3 scripts/untranslated.py 4 --count    # totaux seuls, finissant par 4
 ```
 
-Sans arguments, le script affiche l'aide. Code de sortie 0 quand la tranche
-est entièrement traduite, 1 quand des fichiers restent. Les 10 chiffres (0-9)
-permettent à 10 travailleurs de traduire en parallèle sans chevauchement.
+Sans arguments, le script affiche l'aide. Les 10 chiffres (0-9) permettent à
+10 travailleurs de traduire en parallèle sans chevauchement.
 
 ### Flux de traduction JSON
 
-La conversion se fait par lots. Un LLM lit chaque fichier de `json_output/`,
-traduit les champs anglais pertinents (y compris les noms de livres bibliques
-dans `description` et `senses[].description`), et écrit le résultat dans
-`json_output_fr/` avec le même nom de fichier. Le JSON est assez simple pour
-ne pas nécessiter le pipeline d'extraction intermédiaire.
+Un LLM lit chaque fichier de `json_output/`, traduit les champs anglais, et
+écrit le résultat dans `json_output_fr/` avec le même nom de fichier.
 
 ### Balises HTML et leur traitement
 
@@ -691,50 +694,24 @@ Lors du réassemblage (étape 3), ces balises doivent être traitées comme suit
 
 ## Placeholders (images de scripts de langues apparentées)
 
-Le BDB cite des mots apparentés d'autres langues sémitiques (arabe, syriaque,
-éthiopien, etc.). Ces écritures ont été sauvegardées comme images GIF dans
-`Placeholders/` (~6 200 fichiers, `1.gif` à `6200.gif`).
-
-Dans le HTML, elles apparaissent comme `<placeholder1 />`, `<placeholder8 />`,
-etc. Le numéro correspond au fichier GIF. Le fichier `placeholders.csv` associe
-chaque numéro à sa langue source et son contexte. Dans `Entries_txt/`, ils
-apparaissent sous la forme `[placeholder8: Placeholders/8.gif]` — ouvrir
-l'image peut aider à comprendre le contexte étymologique lors de la traduction.
+Le BDB cite des mots apparentés (arabe, syriaque, éthiopien, etc.) sauvegardés
+comme images GIF dans `Placeholders/` (~6 200 fichiers). En HTML :
+`<placeholder1 />`, `<placeholder8 />`, etc. En texte brut :
+`[placeholder8: Placeholders/8.gif]`. Le fichier `placeholders.csv` associe
+chaque numéro à sa langue.
 
 ### Traitement en traduction
 
-Les balises placeholder **ne sont pas du contenu traduisible**. Ce sont des
-références opaques à des images de scripts. Lors de la traduction :
-
-- **HTML** : Copier chaque balise `<placeholder* />` telle quelle à sa position
-  exacte. Ne pas les supprimer, renuméroter ou modifier. Elles font partie de
-  l'appareil savant, pas du texte anglais.
-- **JSON** : Les balises placeholder n'apparaissent pas dans les fichiers JSON
-  (l'extraction JSON les a retirées), elles ne concernent donc que la
-  traduction HTML.
-- **Texte anglais environnant** : Les mots anglais autour d'un placeholder
-  (p. ex. "Arabic `<placeholder7 />`, Assyrian ...") doivent être traduits en
-  français ("arabe `<placeholder7 />`, assyrien ...") mais la balise elle-même
-  reste inchangée.
+Copier chaque balise `<placeholder* />` telle quelle à sa position exacte — ne
+pas supprimer, renuméroter ou modifier. Traduire le texte anglais environnant
+(p. ex. "Arabic `<placeholder7 />`" → "arabe `<placeholder7 />`"). Les
+placeholders n'apparaissent pas dans les fichiers JSON.
 
 ## Entrées squelettiques (fichiers vides)
 
-872 entrées (~8,7 %) n'ont aucun contenu traduisible : `pos`, `primary` et
-`description` sont tous `null` et `senses` est `[]`. Le seul champ non nul est
-`head_word`. Il s'agit généralement de stubs de redirection ou de racines
-servant de repères dans la structure du dictionnaire, sans définition.
-
-Ces entrées ont été prétraitées en créant des **fichiers de zéro octet** dans
-`json_output_fr/` afin que `untranslated.py` les ignore. Pour les retrouver :
-
-```bash
-find json_output_fr/ -empty -name '*.json'   # lister les placeholders vides
-find json_output_fr/ -empty | wc -l          # les compter (872 attendus)
-```
-
-**Ne pas** écrire de contenu dans ces fichiers. Si une entrée squelettique
-acquiert ultérieurement du contenu dans la source anglaise, supprimer le fichier
-vide et traduire normalement.
+872 entrées (~8,7 %) n'ont aucun contenu traduisible (tous champs `null`,
+`senses` vide). Des fichiers de zéro octet dans `json_output_fr/` les marquent
+comme traitées. Ne pas écrire de contenu dans ces fichiers.
 
 ## Noms de langues
 
@@ -779,9 +756,7 @@ which see                    q.v.
 
 ## Noms de thèmes verbaux
 
-Les thèmes verbaux hébreux apparaissent tout au long du BDB. Ce sont des
-translittérations conventionnelles utilisées également en exégèse biblique
-francophone -- les conserver tels quels :
+Translittérations conventionnelles, conserver tels quels :
 
 - Qal, Niph'al (Niphal), Pi'el (Piel), Pu'al (Pual)
 - Hiph'il (Hiphil), Hoph'al (Hophal), Hithpa'el (Hithpael)
@@ -795,57 +770,32 @@ Les étiquettes anglaises environnantes doivent être traduites :
 
 ## Abréviations savantes
 
-Le BDB utilise ~337 codes d'abréviation uniques pour les auteurs, les revues et
-les versions anciennes (p. ex. Dl, Dr, Bev, Kau, Tg, Aq, Symm, Theod). Ceux-ci
-apparaissent dans les balises `<lookup>` en HTML et parfois en ligne dans les
-descriptions JSON. **Ne jamais les traduire.** Ce sont des références
-standardisées à des ouvrages savants, indépendantes de la langue. Les préserver
-exactement, y compris toute notation en exposant.
+~337 codes d'abréviation (Dl, Dr, Bev, Kau, Tg, Aq, Symm, Theod, etc.) pour
+auteurs, revues et versions anciennes. Balises `<lookup>` en HTML, parfois en
+ligne dans les descriptions JSON. **Ne jamais les traduire.** Préserver
+exactement, y compris les notations en exposant.
 
-## Sauts de ligne intégrés
+## Artefacts JSON (sauts de ligne et champs `pos` débordants)
 
-~10 % des entrées contiennent des caractères `\n` dans les champs `pos`,
-`primary` ou `description` -- artefacts de l'extraction HTML-vers-JSON. Lors de
-la traduction :
+~10 % des entrées contiennent des `\n` parasites dans `pos`, `primary` ou
+`description` (artefacts d'extraction). Réduire en un seul espace sauf si le
+saut sépare clairement des éléments distincts.
 
-- Supprimer les espaces en début/fin et réduire les séquences de `\n` + espaces
-  en un seul espace, sauf si le saut de ligne sépare clairement des éléments
-  distincts.
-- Exception : si un champ `pos` contient un paragraphe entier de notes d'usage
-  (p. ex. BDB2204), ne traduire que l'étiquette grammaticale au début et
-  préserver le reste comme contenu de type `description`. Signaler ces cas pour
-  révision.
-
-## Champs `pos` débordants
-
-Un petit nombre d'entrées (~2) ont des valeurs `pos` qui débordent en notes
-d'usage complètes ou en définitions (centaines de caractères avec de l'hébreu
-intégré, des références et de la prose). Pour celles-ci :
-
-- Extraire et traduire uniquement l'étiquette grammaticale (p. ex. "adverb or
-  interjection" -> "adverbe ou interjection").
-- Le contenu excédentaire appartient sémantiquement à `description`. Dans la
-  sortie française, le déplacer là si possible, ou le préserver dans `pos` avec
-  un commentaire signalant l'irrégularité.
+Quelques rares entrées (~2) ont un `pos` contenant de la prose longue. Traduire
+uniquement l'étiquette grammaticale au début ; déplacer le reste vers
+`description` si possible, ou le conserver dans `pos` en signalant
+l'irrégularité.
 
 ## Méthode de traduction obligatoire — INTERDICTION DE SCRIPTS
 
 **Chaque entrée doit être traduite individuellement par le LLM.** Il est
-**strictement interdit** d'écrire des scripts de remplacement par motifs (sed,
-awk, dictionnaire Python, boucle avec `str.replace()`, expressions régulières,
-etc.) pour traduire en masse ou partiellement. Les seuls scripts autorisés à **exécuter** sont
-ceux du répertoire `scripts/` (extraction, validation, liste des fichiers non
-traduits). Ne jamais modifier, créer ou supprimer de fichiers dans `scripts/`
-sauf si l'utilisateur le demande explicitement.
-
-La traduction exige une compréhension contextuelle -- un rechercher-remplacer
-produit du « franglais » inutilisable :
+interdit d'écrire des scripts de remplacement (sed, awk, `str.replace()`,
+regex, etc.) pour traduire. Les seuls scripts autorisés sont ceux de `scripts/`.
+Ne jamais modifier `scripts/` sauf demande explicite de l'utilisateur.
 
 ```
 ❌ "represented as roi de Babylone, successor, and apparent fils de Nebuchadrezzar"
 ✅ "présenté comme roi de Babylone, successeur et fils apparent de Nabuchodonosor"
-❌ "city and district of Mesopotamia, on or près de the middle course of the Euphrates"
-✅ "ville et district de Mésopotamie, sur ou près du cours moyen de l'Euphrate"
 ```
 
 Chaque champ doit être **intégralement en français** — y compris prépositions,
@@ -854,67 +804,89 @@ français, recommencez en traduisant la phrase entière.
 
 ## Gestion du contexte des agents
 
-Traiter les fichiers **un par un** : lire un fichier, écrire sa traduction,
-puis passer au suivant. Ne pas lire plusieurs fichiers avant d'écrire — cela
-gaspille du contexte et réduit le nombre d'entrées traduites par session.
+Traiter les fichiers **un par un** — que ce soit pour traduire ou pour revoir
+des erreurs : lire, traiter, écrire, passer au suivant.
 
 ## Gestion des erreurs (errata)
 
-Si vous rencontrez une entrée anormale (HTML source malformé, texte illisible,
-fichier `Entries_txt_fr/` manifestement erroné ou incomplet, traduction
-défectueuse avec franglais ou accents manquants, cas non couvert par ces
-règles) :
+Si vous rencontrez une entrée anormale :
 
-1. **Produisez toujours le fichier de sortie** (`Entries_fr/`, `json_output_fr/`,
-   etc.) — même imparfait — sinon `untranslated.py` le signalera comme non fait.
-   Si la traduction `txt_fr` est défectueuse, corrigez-la de votre mieux en vous
-   basant sur le texte anglais original.
-2. **Consignez le problème** en ajoutant une ligne (**append**, ne pas écraser
-   les entrées existantes) au fichier errata de votre tranche :
-
-```
-errata-0.txt   # pour les entrées finissant par 0
-errata-5.txt   # pour les entrées finissant par 5
-```
-
-Format : une ligne par problème, avec l'identifiant BDB, l'étape concernée et
-une brève description :
-
-```
-BDB3370 txt_fr  Texte source Entries_txt/ tronqué après le Qal
-BDB5900 html    Placeholder manquant dans Entries/ -- balise fermante orpheline
-BDB7240 json    Champ pos contient 500+ caractères de prose, voir section pos débordants
-BDB1136 html    txt_fr avait "Esau" sans accents, corrigé en "Ésaü" dans Entries_fr/
-```
-
-3. **Passez à l'entrée suivante.** Ne bloquez jamais sur une entrée
-   problématique. Les fichiers errata seront revus manuellement.
+1. **Produisez toujours le fichier de sortie** — même imparfait — sinon
+   `untranslated.py` le signalera comme non fait.
+2. **Consignez le problème** (append) dans `errata-N.txt` (N = dernier chiffre
+   du BDB). Format : `BDB3370 txt_fr  description courte du problème`.
+3. **Passez à l'entrée suivante.** Ne bloquez jamais.
 
 ## Vérification par LLM local (llm_verify)
 
-Le script `scripts/llm_verify.py` utilise un LLM local (typiquement Qwen 3.5)
-pour vérifier automatiquement les traductions `Entries_txt_fr/` contre les
-originaux `Entries_txt/`. Les résultats sont écrits dans
-`llm_verify_txt_results.txt` -- chaque ligne indique si une entrée est correcte
-ou signale des erreurs spécifiques (accents manquants, franglais, faux amis,
-etc.).
+`scripts/llm_verify.py` utilise un LLM local (Qwen 3.5) pour vérifier les
+traductions `Entries_txt_fr/` contre `Entries_txt/`. Résultats dans
+`llm_verify_txt_results.txt`. Beaucoup de signalements sont bénins
+(abréviations savantes, mots français ressemblant à l'anglais comme
+« raisons », termes latins), mais chaque signalement mérite une vérification
+attentive. Les vrais problèmes sont surtout des petits mots anglais oubliés et
+des conventions non appliquées (voir « Erreurs fréquentes »).
+Le répertoire `test/` contient des données de référence pour le prompt.
 
-Ce fichier sert de base pour la révision manuelle : nathan passe en revue les
-entrées signalées comme erronées et corrige les traductions `Entries_txt_fr/`
-si nécessaire. Environ 20 % des signalements sont des faux négatifs (le LLM
-local signale une erreur là où il n'y en a pas).
+### Revue des erreurs (review_errors)
 
-Le répertoire `test/` contient des données de référence pour valider le
-comportement du prompt de llm_verify.
+Le script `scripts/review_errors.py` liste les entrées signalées par llm_verify
+(ERROR, WARN, UNKNOWN) qui n'ont pas encore été revues. Une entrée est
+considérée comme revue dès qu'un fichier `Entries_notes/BDBnnn.txt` existe.
+
+```
+python3 scripts/review_errors.py 0            # entrées finissant par 0
+python3 scripts/review_errors.py 1 5          # entrées finissant par 1 ou 5
+python3 scripts/review_errors.py 3 -n 5       # 5 entrées finissant par 3
+python3 scripts/review_errors.py 4 --count    # totaux seuls, finissant par 4
+python3 scripts/review_errors.py 7 --status   # avec statut et raison
+```
+
+**Flux de travail de revue :**
+
+1. Lancer `review_errors.py` pour obtenir les prochaines entrées à revoir.
+2. Pour chaque entrée, lire `Entries_txt/BDBnnn.txt` (original anglais) et
+   `Entries_txt_fr/BDBnnn.txt` (traduction française).
+3. Comparer avec le diagnostic de llm_verify dans `llm_verify_txt_results.txt`.
+4. Écrire une note dans `Entries_notes/BDBnnn.txt` (voir format ci-dessous).
+5. Si la traduction a de vrais problèmes, corriger `Entries_txt_fr/BDBnnn.txt`
+   et décrire les corrections dans la note.
+6. Si la traduction peut être améliorée (formulation, accents, etc.), apporter
+   l'amélioration et le noter. Ne modifier que si c'est une réelle amélioration.
+7. Passer à l'entrée suivante.
+
+**Format des notes — être précis et détaillé :**
+
+Ne jamais écrire de verdict générique comme « Faux positif. Traduction
+correcte. » ou « Le vérificateur signale des abréviations savantes. » — ces
+notes ne servent à personne relisant le journal plus tard.
+
+**Obligatoire :** commencer par lire le diagnostic exact de llm_verify dans
+`llm_verify_txt_results.txt` (chercher `BDBnnn.txt`), puis répondre point par
+point. Toujours suivre ce format en deux parties :
+
+- **Signalé :** citer textuellement ce que llm_verify a signalé (les termes
+  exacts entre guillemets).
+- **Verdict/Correction :** pour chaque terme signalé, expliquer précisément
+  pourquoi c'est correct (avec la raison : abréviation savante de quel auteur,
+  mot français valide dans quel sens, etc.) ou décrire ce qui a été corrigé.
+
+Exemples :
+- `Signalé : « Dl » comme anglais non traduit. Verdict : abréviation savante
+  pour Delitzsch — à conserver tel quel.`
+- `Signalé : « id. » et « v » non traduits. Verdict : « id. » = latin (idem),
+  « v » = abréviation de verset — tous deux corrects.`
+- `Signalé : « in Juda » comme anglais résiduel. Correction : « in » → « en »
+  dans Entries_txt_fr.`
+- `Signalé : « homer » non traduit. Verdict : translittération standard de la
+  mesure hébraïque חֹמֶר, utilisée telle quelle en français savant.`
+
+Les fichiers `Entries_notes/` servent à la fois de journal de revue et de
+marqueurs de progression — `review_errors.py` les ignore automatiquement.
 
 ## Notes de qualité
 
-- Le texte original du BDB est en anglais de l'époque victorienne. Le français
-  doit être moderne, accessible et précis -- pas un calque mot à mot. Viser le
-  registre d'un ouvrage de référence contemporain en études bibliques
-  francophones.
-- Voir la section « Accents et UTF-8 » pour les règles de diacritiques et de
-  typographie française.
+- Viser le registre d'un ouvrage de référence contemporain en études bibliques
+  francophones — pas un calque mot à mot du victorien.
 - Le schéma JSON est cohérent pour les 10 022 entrées : chaque élément de
-  `senses` a exactement `{number, primary, description}`. Il n'existe pas de
-  structures imbriquées ou variantes.
+  `senses` a exactement `{number, primary, description}`.

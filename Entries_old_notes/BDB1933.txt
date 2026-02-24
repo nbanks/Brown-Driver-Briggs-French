@@ -1,0 +1,1 @@
+False positive. "objet référence à" mirrors the terse BDB style for "object reference to". Acceptable in this scholarly context. No change needed.

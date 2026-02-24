@@ -1,0 +1,2 @@
+Flag: "found in P" flagged as calque.
+False positive: "trouvés dans P" is correct French. "P" is the Priestly source abbreviation. No changes needed.

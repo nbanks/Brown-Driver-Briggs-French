@@ -1,0 +1,2 @@
+Flag: "vue radicale", "rapports", "émendations textuelles" flagged.
+False positive: All are correct French translations ("radical view" -> "vue radicale", "relations" -> "rapports", "textual emendations" -> "émendations textuelles"). No changes needed.

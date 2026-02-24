@@ -1,0 +1,2 @@
+Flag: "comparer" and "Shéol" flagged.
+False positive: "comparer" is correct French. "Shéol" is the standard French spelling. No changes needed.

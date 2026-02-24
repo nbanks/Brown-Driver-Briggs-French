@@ -1,0 +1,1 @@
+Minor issue. "Eccl 40,21" in source refers to Ecclesiasticus (Sirach), not Ecclesiastes. French converted to "Qo 40,21" which is wrong (Qohéleth has only 12 chapters). Should be "Si 40,21" or left as "Eccl 40,21". Systematic issue across all Sirach citations.

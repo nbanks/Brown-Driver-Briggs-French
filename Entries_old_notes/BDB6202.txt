@@ -1,0 +1,2 @@
+Flag: "but" flagged as untranslated English.
+False positive: "but" IS a French word meaning goal/purpose. No changes needed.

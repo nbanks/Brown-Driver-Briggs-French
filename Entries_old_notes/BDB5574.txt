@@ -1,0 +1,1 @@
+False positive. "masculne" is a typo in the English source. French correctly has "masculin". Translation is faithful.

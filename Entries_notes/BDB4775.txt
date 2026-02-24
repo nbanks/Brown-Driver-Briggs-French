@@ -1,0 +1,2 @@
+Signalé : erreur de référence biblique.
+Verdict : si erreur de référence, elle provient de la source BDB. Traduction fidèle à la source.

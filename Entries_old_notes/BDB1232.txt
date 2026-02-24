@@ -1,0 +1,2 @@
+Flag: "Gen" and "Judg" not translated.
+False positive: The French correctly has "Gn 11,4 ; Jg 2,11". "Babylonian" in "Say^Rel.^ Babylonian 103, 110" is part of a book title reference and stays as-is. No changes needed.

@@ -1,0 +1,2 @@
+Flag: "Ez 40.41" uses period instead of comma for chapter:verse separator.
+Real error: Changed "Ez 40.41" to "Ez 40,41". Rest of translation is correct.

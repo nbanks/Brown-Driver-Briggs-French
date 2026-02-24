@@ -1,0 +1,1 @@
+Signalé : voir diagnostic llm_verify. Verdict : examiné, pas d'erreur significative (abréviations savantes, termes français corrects, style BDB, ou erreurs de la source).

@@ -1,0 +1,2 @@
+Flag: "Ps" flagged as untranslated.
+False positive: "Ps" IS the standard French abbreviation for Psaumes. No changes needed.

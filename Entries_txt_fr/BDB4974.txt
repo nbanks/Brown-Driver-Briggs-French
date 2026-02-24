@@ -1,26 +1,33 @@
 === BDB4974 H5058 ===
 hébreu biblique
 
-[נְגִינָה]
-nom féminin
-musique, chant moqueur ; — pluriel נְגִינוֹת
-Ps 77,7 ;
-Lm 3,14 ;
-Lm 5,14 constructif ; singulier suffixe נְגִינָתִי
-Jb 30,9 ;
-pluriel suffixe נְגִינֹתָי
-Es 38,20 ; —
+[נְגִינָה] nom féminin
+musique ; — absolu נְגִינַת
+Ps 61,1 (voir
+ci-dessous) ; suffixe נְגִינָתִי
+Ps 77,7
+נְגִינָתָם
+Jb 30,9 + 2 t. ;
+pluriel נְגִינוֺת
+Ps 4,1 + 6 t. ;
+נְגִינָתַי
+Es 38,20
+תָ֑י-
+Ha 3,19 —
 
-1. musique d'instruments à cordes Ps 77,7.
+1.
+musique (d'instrument à cordes) accusatif de sens apparenté avec verbe Es 38,20 comme occupation
+Lm 5,14
+surtout בִּנְגִינוֺת dans les titres de Psaumes ; Ps 4,1 ; Ps 6,1 ; Ps 54,1 ; Ps 55,1 ; Ps 67,1 ; Ps 76,1 ainsi Ha 3,19 comparer עַלנְֿגִינַת
+Ps 61,1 (lire
+peut-être pluriel Ges^«GKC:80f»§ 80f^.).
 
-2. chant moqueur, sujet de raillerie, avec לְ de la personne Jb 30,9 ;
-Lm 3,14.
-
-3. dans l'inscription de Ps 4,1 ; Ps 6,1 ; Ps 54,1 ; Ps 55,1 ; Ps 61,1 ;
-Ps 67,1 ; Ps 76,1 ;
-Ha 3,19 — probablement musique d'accompagnement ;
-Es 38,20 (notre musique).
+2.
+chant (avec accompagnement de cordes ?) Ps 77,7
+sujet de chant moqueur
+Jb 30,9 (||
+מִלָּה), Ps 69,13 (שׁוֺתֵי שֵׁכָר
+׳
+נ), Lm 3,14 (|| שְׂחֹק).
 
 ---
-
-

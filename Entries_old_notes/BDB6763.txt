@@ -1,0 +1,1 @@
+False positive. "fruit du sol" and "fruit de la vigne" are correct French translations. No change needed.

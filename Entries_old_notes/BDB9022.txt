@@ -1,0 +1,2 @@
+Flag: "cérémoniallement" flagged.
+False positive: Unusual but not incorrect French adverb. "rituellement impur" would be more standard but the translation is understandable. No changes needed.

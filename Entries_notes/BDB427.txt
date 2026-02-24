@@ -1,0 +1,2 @@
+Signalé : « Shemitic » non traduit.
+Correction : « Shemitic » était déjà traduit en « sémitique ». Vrais problèmes corrigés : espaces manquantes après « et » devant hébreu (×8 occurrences : « etles », « etאֱלֹהִים », « etobjet », « ettous », « etbrièvement », « etcommun », « etאֱלֹהַּ »). « possiblement » → « peut-être ».

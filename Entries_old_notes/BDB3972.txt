@@ -1,0 +1,2 @@
+Flag: "territory" flagged as untranslated.
+False positive: The French text does not contain "territory". The translation is correct. No changes needed.

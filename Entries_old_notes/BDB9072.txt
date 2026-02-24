@@ -1,0 +1,2 @@
+Flag: "modernes" and "infra" flagged.
+False positive: "modernes" is correct French for "modern". "infra" is Latin scholarly term used in both languages. No changes needed.

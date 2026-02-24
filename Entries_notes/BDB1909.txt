@@ -1,0 +1,1 @@
+Signalé : saut de ligne dans « à cause de ». Verdict : artefact de formatage, pas d'erreur de traduction.

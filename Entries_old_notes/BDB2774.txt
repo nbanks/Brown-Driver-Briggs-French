@@ -1,0 +1,1 @@
+False positive. "Hiph`il" is an accepted variant spelling of the verbal theme name. Per CLAUDE.md, verbal theme names are kept as transliterations.

@@ -1,0 +1,2 @@
+Flag: "DHM in MV" not translated.
+Partially valid: "DHM" and "MV" are scholarly abbreviations (keep as-is), but "in" is English. Changed "in" to "dans". Rest of translation is correct.

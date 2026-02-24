@@ -1,0 +1,2 @@
+Flag: "AV" not translated, "Assyrian" not translated.
+False positive: AV is a scholarly abbreviation. "assyrien" IS the translation (line 29). No changes needed.

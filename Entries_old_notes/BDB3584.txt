@@ -1,0 +1,1 @@
+False positive. "suivi de accusatif" is acceptable French grammatical shorthand. Translation is correct.

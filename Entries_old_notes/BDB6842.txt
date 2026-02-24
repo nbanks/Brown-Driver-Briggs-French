@@ -1,0 +1,2 @@
+Flag: Parenthesis formatting issue.
+False positive: Short entry, translation is correct. No changes needed.

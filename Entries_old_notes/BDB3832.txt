@@ -1,0 +1,2 @@
+Flag: "after" and "level" flagged as untranslated.
+False positive: "after" is inside scholarly superscript (Ges^12 after^). "level" was translated as "niveau" on line 12. No changes needed.

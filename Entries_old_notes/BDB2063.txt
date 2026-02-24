@@ -1,0 +1,1 @@
+Minor fix. "and n.pr" in a bibliographic reference changed to "et n.pr". Rest of entry is well translated -- the llm_verify flag was mostly false positives triggered by scholarly abbreviations.

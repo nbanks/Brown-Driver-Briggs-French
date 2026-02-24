@@ -1,0 +1,2 @@
+Flag: "aussi" flagged.
+False positive: "aussi" IS a French word. No changes needed.

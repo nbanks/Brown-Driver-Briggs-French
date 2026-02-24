@@ -1,0 +1,1 @@
+Minor fix. "July" in bibliographic reference changed to "juillet". Borderline since it's inside a scholarly citation.

@@ -1,0 +1,2 @@
+Flag: "Exod" not translated to "Ex", "Egyptian" issues.
+False positive: French correctly uses "Ex 6,11" etc. "égyptien" is correct French. E and P are source-critical abbreviations. No changes needed.

@@ -1,0 +1,3 @@
+Faux positif. « égyptien » en minuscule est correct en français (les adjectifs
+de nationalité/langue prennent la minuscule). Cf. tableau des langues dans
+CLAUDE.md : « éthiopien », « phénicien », etc. Traduction correcte.

@@ -1,0 +1,1 @@
+Minor error. "inadvertant" is not a French word. Changed to "étourdi". Rest of translation is correct.

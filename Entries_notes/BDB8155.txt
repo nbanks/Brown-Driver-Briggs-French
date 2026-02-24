@@ -1,0 +1,2 @@
+Signalé : sauts de ligne erronés dans les références.
+Verdict : la structure du fichier français est identique à celle du fichier anglais. Pas de problème de formatage. Traduction correcte.

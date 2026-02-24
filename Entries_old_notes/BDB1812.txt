@@ -1,0 +1,2 @@
+Flag: "id." and "literal" flagged.
+"id." is Latin (idem), standard in scholarly texts -- stays as-is. "littéral" is correct French. Fixed gender agreement: "est fait adhérer" -> "est faite adhérer" (langue is feminine). This long entry is otherwise excellently translated.

@@ -1,0 +1,2 @@
+Flag: "in CIS", "Ren in", "al^" flagged.
+False positive: All inside scholarly citations (CIS = Corpus Inscriptionum Semiticarum, Ren = scholar). No changes needed.

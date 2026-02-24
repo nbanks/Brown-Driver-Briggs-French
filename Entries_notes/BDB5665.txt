@@ -1,0 +1,2 @@
+Signalé : « Jr 107,25 », « Jr 148,8 », « Jr 107,29 » inexistants.
+Verdict : erreurs dans la source BDB (ce sont des références aux Psaumes, pas à Jérémie). La traduction reproduit fidèlement les références erronées de la source.

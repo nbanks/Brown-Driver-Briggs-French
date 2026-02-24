@@ -1,0 +1,1 @@
+False positive. "&" is a conventional scholarly symbol used throughout the BDB. "B.H." abbreviates Beth Horon (the headword), not English text. No change needed.

@@ -1,0 +1,2 @@
+Flag: "si vera l." flagged.
+False positive: "si vera l." is Latin (si vera lectio = "if the reading is correct") -- stays as-is in scholarly text. No changes needed.

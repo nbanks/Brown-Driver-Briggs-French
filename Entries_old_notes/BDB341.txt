@@ -1,0 +1,4 @@
+Faux positif. Le verifier a signalé des problèmes d'articles et « comparer »
+vs « cf. », mais « comparer » est la forme standard utilisée dans tout le
+projet (cf. CLAUDE.md). Les articles sont corrects. Traduction de haute
+qualité -- aucune modification nécessaire.

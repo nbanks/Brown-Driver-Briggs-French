@@ -1,0 +1,1 @@
+Real error. "Gn Nb 23,16" was a corrupted reference; English has "Exod 23:16". Fixed to "Ex 23,16".

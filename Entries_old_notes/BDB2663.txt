@@ -1,0 +1,1 @@
+False positive. "see" is correctly translated as "voir". "2Chr" is correctly rendered as "2 Ch". No change needed.

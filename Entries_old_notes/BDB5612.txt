@@ -1,0 +1,2 @@
+Flag: "Babylone" and "estime" flagged.
+False positive: "Babylone" is correct French. "estime hautement, prise" is correct French for "esteem highly, prize". No changes needed.

@@ -1,0 +1,1 @@
+False positive. "ils se rassemblèrent", "ils se combinèrent" ARE the French translations of "they assembled", "they combined". The verifier incorrectly flagged these as untranslated.

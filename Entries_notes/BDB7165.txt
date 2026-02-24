@@ -1,0 +1,2 @@
+Signalé : sauts de ligne erronés dans les références.
+Verdict : les sauts de ligne reflètent la structure du fichier source. Pas une erreur de traduction. Traduction correcte.

@@ -1,0 +1,1 @@
+Faux positif. Le vérificateur signale « miles » mais le texte utilise « milles » (correct). « district » est un mot français valide. Traduction correcte.

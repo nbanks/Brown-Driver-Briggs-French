@@ -1,0 +1,2 @@
+Signalé : « [person] » non traduit.
+Verdict : « [personne] » est bien présent dans la traduction (l. 7). Sauts de ligne dans les références reproduisent le formatage source.

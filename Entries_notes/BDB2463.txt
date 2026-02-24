@@ -1,0 +1,1 @@
+Faux positif. « Jg 31,8 » est une erreur dans les données sources, pas dans la traduction. Les abréviations sabéennes sont correctement traitées.

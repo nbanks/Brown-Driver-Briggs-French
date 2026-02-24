@@ -1,0 +1,2 @@
+Flag: "Naomi" not translated to French.
+Real error: "Naomi" should be "Noemi" in French biblical usage. Changed to "Noemi".

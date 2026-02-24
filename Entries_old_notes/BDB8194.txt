@@ -1,0 +1,1 @@
+False positive. "exultation" is a valid French word (same spelling as English). Not untranslated.
