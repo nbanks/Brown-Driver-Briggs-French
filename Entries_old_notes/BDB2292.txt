@@ -1,2 +1,1 @@
-Flag: French grammatical terms flagged as franglais.
-False positive: "un démonstratif", "un relatif", "avec un antécédent pluriel" are all correct French grammatical terminology. No changes needed.
+Faux positif. Traduction correcte et complète.

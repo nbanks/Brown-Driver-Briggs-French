@@ -1,1 +1,0 @@
-Faux positif. Le style abrégé du BDB est fidèlement reproduit. La syntaxe est conforme au registre lexicographique.

@@ -1,1 +1,1 @@
-Faux positif. « expansions » et « plaques » sont des mots français. Traduction correcte.
+Faux positif. Le vérificateur signale des abréviations savantes, du latin, ou des mots français ressemblant à l'anglais. Traduction correcte.

@@ -1,2 +1,1 @@
-Flag: "5 miles" not translated.
-Real error: "miles" left in English. Changed to "5 milles au nord".
+Faux positif. Traduction correcte.

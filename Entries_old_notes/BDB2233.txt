@@ -1,1 +1,1 @@
-False positive. RV and AV are scholarly abbreviations. "jetez [vous-mêmes]" correctly translates "cast [yourselves]". No change needed.
+Faux positif. RV est une abréviation savante. « Arménie » s'écrit bien avec accent en français (vérifier).

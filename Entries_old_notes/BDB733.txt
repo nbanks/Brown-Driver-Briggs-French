@@ -1,1 +1,1 @@
-False positive. "anglais head" is a cross-linguistic note citing the English counting unit "head" (as in "head of cattle"). The word "head" is deliberately in English as the cited term. No change needed.
+Faux positif. « anglais head » est une note linguistique expliquant le terme anglais de comptage, comme dans l'original « English head ».

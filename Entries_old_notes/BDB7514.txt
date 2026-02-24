@@ -1,1 +1,1 @@
-False positive. "Apr." is in a bibliographic citation date. "ad. Fin" is Latin (ad finem). Both are scholarly references.
+Faux positif. Traduction correcte.

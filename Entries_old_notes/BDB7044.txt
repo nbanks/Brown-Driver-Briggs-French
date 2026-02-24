@@ -1,1 +1,1 @@
-False positive. "ainsi la plupart", "en tout cas", "apparemment" are all correct French translations.
+Faux positif. Traduction correcte.

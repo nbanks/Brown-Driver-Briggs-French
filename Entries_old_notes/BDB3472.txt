@@ -1,2 +1,1 @@
-Flag: Repetition flagged.
-False positive: Mirrors the source structure. No changes needed.
+Faux positif. Traduction correcte.

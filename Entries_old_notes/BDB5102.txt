@@ -1,2 +1,1 @@
-Flag: "Arab. Heidenthum", "RS^Semitic", "2d ed." flagged as untranslated.
-False positive: All are inside scholarly bibliographic citations/superscripts. No changes needed.
+Faux positif. Traduction correcte.

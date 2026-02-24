@@ -1,2 +1,1 @@
-Flag: "hiphil" at end not translated.
-False positive: "hiphil" is a standard Hebrew verbal stem name preserved as-is per project rules. No changes needed.
+Faux positif. Traduction correcte.

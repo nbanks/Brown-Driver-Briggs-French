@@ -1,1 +1,1 @@
-False positive. "adjective" is correctly translated as "adjectif" on line 16. No change needed.
+Faux positif. « adjectif » est bien traduit de « adjective ».

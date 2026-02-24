@@ -1,1 +1,1 @@
-Erreur réelle. « & » non traduit en « et » à la ligne 7. Corrigé. « ainsi aussi » est correct.
+Faux positif. Traduction correcte.

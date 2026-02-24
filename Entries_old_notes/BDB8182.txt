@@ -1,2 +1,1 @@
-Flag: "Door" flagged as untranslated English.
-False positive: "Door" is a scholarly abbreviation/author name, not the English word "door". No changes needed.
+Faux positif. Traduction correcte. « Door » est une abréviation savante (Doorninck).

@@ -1,1 +1,1 @@
-Source data errors. "2Sam 81:8", "Deut 38:16", "Deut 40:15", "Deut 48:16" are all impossible references in the English source (Deut has only 34 chapters). French faithfully preserves these source errors. Not translation errors.
+Faux positif. Traduction correcte.

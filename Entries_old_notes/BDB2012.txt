@@ -1,2 +1,1 @@
-Flag: "anglais" flagged.
-False positive: "anglais" IS French -- used correctly in context of English measurement terms (grains, pence, shillings). Translation is accurate.
+Faux positif. Traduction correcte. Les termes monétaires et métriques anglais sont traduits ou conservés correctement.

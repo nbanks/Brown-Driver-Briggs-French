@@ -7,8 +7,9 @@ For each file in Entries_fr/, this script checks:
 3. All <ref> attributes are preserved (ref, b, cBegin, vBegin, etc.).
 4. All <lookup>/<reflink> abbreviations are preserved.
 5. All <entry> IDs are preserved.
-6. The French .txt content (from Entries_txt_fr/) appears in the output
-   (character-level check, ignoring whitespace differences).
+6. The French .txt content (from Entries_txt_fr/) appears verbatim in the
+   HTML's visible text (whitespace-normalized comparison of each text
+   fragment).
 7. No obvious English remnants (common English words not inside preserved tags).
 
 Usage:
@@ -22,18 +23,25 @@ Requires: beautifulsoup4, lxml
 import os
 import re
 import sys
-from bs4 import BeautifulSoup
+import warnings
+from collections import Counter
+from bs4 import BeautifulSoup, XMLParsedAsHTMLWarning
 
+warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
 
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ENTRIES_DIR = os.path.join(BASE, "Entries")
 ENTRIES_FR_DIR = os.path.join(BASE, "Entries_fr")
 TXT_FR_DIR = os.path.join(BASE, "Entries_txt_fr")
 
+# Regex to strip placeholder notation from txt_fr lines
+_PLACEHOLDER_RE = re.compile(r"\[placeholder\d+:\s*Placeholders/\d+\.gif\]")
 
-def extract_preserved(html_content):
+
+def extract_preserved(html_content, soup=None):
     """Extract all elements that must be preserved from HTML."""
-    soup = BeautifulSoup(html_content, "lxml")
+    if soup is None:
+        soup = BeautifulSoup(html_content, "lxml")
     result = {
         "hebrew_texts": [],
         "placeholder_tags": [],
@@ -74,6 +82,17 @@ def normalize_ws(text):
     return re.sub(r"\s+", " ", text).strip()
 
 
+def normalize_for_compare(text):
+    """Strip all whitespace for content comparison.
+
+    Tag-stripping and superscript handling introduce unpredictable spaces
+    (e.g. <lookup>Dl<sup>W</sup></lookup> -> "Dl W" vs txt "DlW").
+    Removing all whitespace avoids these false positives while still
+    catching genuinely missing content.
+    """
+    return re.sub(r"\s+", "", text)
+
+
 def validate_file(bdb_id, errors):
     """Validate one translated entry. Appends issues to errors list."""
     orig_path = os.path.join(ENTRIES_DIR, bdb_id + ".html")
@@ -88,8 +107,10 @@ def validate_file(bdb_id, errors):
     with open(fr_path, "r", encoding="utf-8") as f:
         fr_html = f.read()
 
-    orig = extract_preserved(orig_html)
-    fr = extract_preserved(fr_html)
+    orig_soup = BeautifulSoup(orig_html, "lxml")
+    fr_soup = BeautifulSoup(fr_html, "lxml")
+    orig = extract_preserved(orig_html, orig_soup)
+    fr = extract_preserved(fr_html, fr_soup)
 
     # 1. Hebrew/Aramaic text preserved
     orig_heb = set(orig["hebrew_texts"])
@@ -104,12 +125,12 @@ def validate_file(bdb_id, errors):
     if orig_ph != fr_ph:
         errors.append((bdb_id, f"placeholder mismatch: orig={orig_ph} fr={fr_ph}"))
 
-    # 3. Ref attributes preserved
-    orig_refs = set(a.get("ref", "") for a in orig["ref_attrs"] if a.get("ref"))
-    fr_refs = set(a.get("ref", "") for a in fr["ref_attrs"] if a.get("ref"))
+    # 3. Ref attributes preserved (counted — catches duplicates changed)
+    orig_refs = Counter(a.get("ref", "") for a in orig["ref_attrs"] if a.get("ref"))
+    fr_refs = Counter(a.get("ref", "") for a in fr["ref_attrs"] if a.get("ref"))
     missing_refs = orig_refs - fr_refs
-    for r in missing_refs:
-        errors.append((bdb_id, f"missing ref attribute: {r}"))
+    for r, count in sorted(missing_refs.items()):
+        errors.append((bdb_id, f"missing ref attribute: {r} (×{count})"))
 
     # 4. Lookup/reflink abbreviations preserved
     orig_lu = set(orig["lookup_texts"])
@@ -125,24 +146,71 @@ def validate_file(bdb_id, errors):
     for t in missing_ent:
         errors.append((bdb_id, f"missing entry ID: {t}"))
 
-    # 6. French text content present (if .txt.fr exists)
+    # 6. French text content present verbatim (if txt_fr exists)
     if os.path.isfile(txt_fr_path):
         with open(txt_fr_path, "r", encoding="utf-8") as f:
             txt_fr = f.read()
-        lines = txt_fr.strip().split("\n")
-        for line in lines:
+
+        # Extract visible text from the French HTML (strip all tags)
+        fr_visible = re.sub(r"<[^>]+>", " ", fr_html)
+        fr_visible_cmp = normalize_for_compare(fr_visible)
+
+        for line in txt_fr.strip().split("\n"):
             line = line.strip()
+            # Skip headers, separators, blank lines
             if not line or line.startswith("===") or line == "---":
                 continue
-            if re.match(r"^[\u0590-\u05FF\u0600-\u06FF\s\[\]:./, ]+$", line):
+            # Strip placeholder notation, keep surrounding text
+            line = _PLACEHOLDER_RE.sub("", line).strip()
+            # Strip caret superscript markers (from extract_txt.py)
+            line = line.replace("^", "")
+            if not line:
                 continue
-            words = re.findall(r"[a-zA-Z\u00C0-\u024F]{3,}", line)
-            for word in words:
-                if word not in fr_html:
-                    errors.append((bdb_id, f"French text missing from HTML: '{word}'"))
-                    break
+            # Skip lines that are purely Hebrew/Aramaic + punctuation/spaces
+            if re.match(
+                r"^[\u0590-\u05FF\u0600-\u06FF\s\[\]:.,;/\-—–()+|=^'\"]+$",
+                line,
+            ):
+                continue
+            # Normalize and check if this fragment appears in the HTML text
+            frag = normalize_for_compare(line)
+            if not frag:
+                continue
+            if frag not in fr_visible_cmp:
+                # Show the readable (whitespace-normalized) version
+                display = normalize_ws(line)
+                if len(display) > 80:
+                    display = display[:77] + "..."
+                errors.append(
+                    (bdb_id, f"French text missing from HTML: \"{display}\"")
+                )
 
-    # 7. English remnant check (heuristic)
+    # 7. Extra refs in French not in original (fabricated/duplicated)
+    extra_refs = fr_refs - orig_refs
+    for r, count in sorted(extra_refs.items()):
+        errors.append((bdb_id, f"extra ref attribute not in original: {r} (×{count})"))
+
+    # 8. Translated tag content check
+    #    Tags that should be translated: if the original had Latin-script
+    #    content and the French tag is empty, that's a reassembly error
+    #    (content likely floated outside the tag).
+    _TRANSLATED_TAGS = {"pos", "primary", "highlight", "descrip", "meta",
+                        "language", "gloss"}
+    _HAS_LATIN = re.compile(r"[a-zA-Z\u00C0-\u024F]")
+    orig_ttags = [t for t in orig_soup.find_all(_TRANSLATED_TAGS)]
+    fr_ttags = [t for t in fr_soup.find_all(_TRANSLATED_TAGS)]
+    for ot, ft in zip(orig_ttags, fr_ttags):
+        if ot.name != ft.name:
+            continue
+        orig_text = ot.get_text().strip()
+        fr_text = ft.get_text().strip()
+        if orig_text and _HAS_LATIN.search(orig_text) and not fr_text:
+            errors.append(
+                (bdb_id, f"empty <{ft.name}> tag (original had: "
+                 f"\"{orig_text[:50]}\")")
+            )
+
+    # 9. English remnant check (heuristic)
     text_only = re.sub(r"<[^>]+>", " ", fr_html)
     text_only = re.sub(r"[\u0590-\u05FF]+", "", text_only)
     text_only = normalize_ws(text_only).lower()

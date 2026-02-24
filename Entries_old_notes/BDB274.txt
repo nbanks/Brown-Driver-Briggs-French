@@ -1,1 +1,1 @@
-False positive. "accusatif de chose", "accusatif de personne" are correct French grammatical terms. Translation is correct.
+Faux positif. Traduction correcte.

@@ -1,1 +1,1 @@
-Faux positif. « major natu » et « grandoevi » sont du latin savant, présents aussi dans le texte anglais original. Traduction correcte.
+Faux positif. Le vérificateur signale des abréviations savantes, du latin, ou des mots français ressemblant à l'anglais. Traduction correcte.

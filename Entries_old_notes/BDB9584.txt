@@ -1,1 +1,1 @@
-False positive. "infinitif" is correct French for "infinitive".
+Faux positif. Traduction correcte.

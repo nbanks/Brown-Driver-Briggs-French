@@ -1,1 +1,1 @@
-False positive. "see" is correctly translated as "voir". "2Chr" is correctly rendered as "2 Ch". No change needed.
+Faux positif. « voir » traduit correctement « see ». « 4. » est un renvoi au sens 4 de l'entrée.

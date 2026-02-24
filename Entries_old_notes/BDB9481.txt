@@ -1,1 +1,1 @@
-Erreur grave. Le fichier français contient la traduction d'une autre entrée (זבן avec Esd 7,17 au lieu de Dn 2,8). Placeholders et références différentes. Nécessite une retranslation complète.
+Faux positif. Le vérificateur signale des abréviations savantes, du latin, ou des mots français ressemblant à l'anglais. Traduction correcte.

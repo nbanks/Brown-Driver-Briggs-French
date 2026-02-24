@@ -1,2 +1,1 @@
-Flag: "followed by" structure flagged.
-False positive: "suivi de l'Infinitif" is correct French. No changes needed.
+Faux positif. Traduction correcte.

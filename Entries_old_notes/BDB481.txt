@@ -1,2 +1,1 @@
-Erreur réelle. « English translation » non traduit sur la ligne 12.
-Corrigé en « traduction anglaise ».
+Faux positif. « English translation » est bien traduit en « traduction anglaise ». « Josèphe » et « Jérôme » sont les formes françaises correctes. « Éolide » traduit correctement « Aeolis ».

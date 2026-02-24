@@ -1,1 +1,1 @@
-False positive. "below" is translated as "ci-dessous" on the same line. No change needed.
+Faux positif. Les éléments signalés sont des abréviations ou termes savants à conserver.

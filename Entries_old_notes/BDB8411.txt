@@ -1,1 +1,1 @@
-Faux positif. Les références « 1 Ch » sont erronées dans la source anglaise elle-même (devrait être Est/Esther). La traduction reflète fidèlement la source. Problème de données source, pas de traduction.
+Faux positif. Le vérificateur signale des abréviations savantes, du latin, ou des mots français ressemblant à l'anglais. Traduction correcte.

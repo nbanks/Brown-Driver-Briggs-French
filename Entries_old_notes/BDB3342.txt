@@ -1,2 +1,1 @@
-Flag: Empty error message.
-False positive: Translation is correct. No changes needed.
+Faux positif. Traduction correcte.

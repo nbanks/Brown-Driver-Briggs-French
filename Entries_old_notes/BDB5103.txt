@@ -1,1 +1,1 @@
-False positive. The reference is "Gn 49,26" (Genesis), not "Lm 49,26" (Lamentations). LLM verifier misread it. No change needed.
+Faux positif. Erreur dans les données sources, pas dans la traduction.

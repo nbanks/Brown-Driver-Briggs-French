@@ -1,2 +1,1 @@
-Flag: "Sun" flagged as untranslated English.
-False positive: "Sun" here is the Egyptian word for Syene (modern Aswan), not the English word "sun". It stays as-is. No changes needed.
+Faux positif. Traduction correcte. « Reiseber. aus Aegypt. » est un titre savant en allemand.

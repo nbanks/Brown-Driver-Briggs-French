@@ -1,1 +1,1 @@
-False positive. "^critical note, and OP 472 f.^" is a source markup artifact inside a superscript scholarly reference. Translation is correct.
+Faux positif. Traduction correcte.

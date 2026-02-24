@@ -1,1 +1,1 @@
-Source data error. Section 1.c says "in Proverbs" but all references show "Ezek" (rendered as "Ez" in French). These should be "Pr" (Proverbes) -- e.g., "Ez 1,2" should be "Pr 1,2", "Ez 23,23" should be "Pr 23,23", etc. The source itself has this error (likely OCR/extraction confusion between Ezek and Prov).
+Faux positif. Traduction correcte.

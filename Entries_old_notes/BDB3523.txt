@@ -1,1 +1,1 @@
-False positive. "apparemment" IS French. No change needed.
+Faux positif. La traduction est correcte. Les termes signalés sont des abréviations savantes.

@@ -1,1 +1,1 @@
-Faux positif. Entrée longue (שָׂדֶה, champ). Traduction complète et correcte.
+Faux positif. Le vérificateur signale des abréviations savantes, du latin, ou des mots français ressemblant à l'anglais. Traduction correcte.

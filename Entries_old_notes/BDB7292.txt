@@ -1,2 +1,1 @@
-Flag: "Vrss" flagged as untranslated.
-False positive: "Vrss" is a scholarly abbreviation (Versions). No changes needed.
+Faux positif. Traduction correcte. « Semitic I.180 ff. » fait partie de la référence savante RS.

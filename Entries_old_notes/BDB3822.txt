@@ -1,2 +1,1 @@
-Flag: "a opere" flagged as untranslated English.
-False positive: "a opere une grande victoire" is correct French for "wrought a great deliverance/victory". No changes needed.
+Faux positif. Traduction correcte et très complète.

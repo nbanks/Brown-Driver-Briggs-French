@@ -1,2 +1,1 @@
-Flag: "Syriac" not translated.
-False positive: "Syriac Dreschtafel" is inside a scholarly superscript citation. No changes needed.
+Faux positif. Traduction correcte. « Dreschtafel » et « Landwirthschaft in Pal » sont des titres savants en allemand.

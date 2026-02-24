@@ -1,2 +1,1 @@
-Flag: "en divers figurés" flagged as franglais.
-False positive: Acceptable French elliptical expression (for "en divers emplois figurés"). No changes needed.
+Faux positif. Traduction correcte.

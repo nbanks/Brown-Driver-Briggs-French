@@ -1,1 +1,1 @@
-Faux positif. « si vera l. » est du latin savant. « étrange » est un mot français correct pour « strange ». Traduction correcte.
+Faux positif. Le vérificateur signale des abréviations savantes, du latin, ou des mots français ressemblant à l'anglais. Traduction correcte.

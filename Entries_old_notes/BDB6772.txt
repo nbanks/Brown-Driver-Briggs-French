@@ -1,2 +1,1 @@
-Flag: "aussi" flagged.
-False positive: "aussi" IS a French word. No changes needed.
+Faux positif. Traduction correcte. « Perizzite » est un nom de peuple conservé tel quel.

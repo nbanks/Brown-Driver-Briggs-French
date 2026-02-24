@@ -1,2 +1,1 @@
-Flag: "Hittite(s)" not translated.
-False positive: "Hittite" is the same word in French. No changes needed.
+Faux positif. Traduction correcte et très complète.

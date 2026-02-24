@@ -1,1 +1,1 @@
-Real error. "and^" left in English inside superscript. Fixed to "et^".
+Faux positif. « et^ » contient un marqueur d'exposant de la source. La traduction est correcte.

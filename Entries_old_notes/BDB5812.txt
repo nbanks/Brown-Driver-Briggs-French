@@ -1,2 +1,1 @@
-Flag: "si versa l." and "d'apres voir" flagged.
-False positive: "si versa l." is Latin (si versa lectio). "d'apres voir" mirrors the awkward English "after see" in the original. No changes needed.
+Faux positif. Traduction correcte.

@@ -1,1 +1,1 @@
-False positive. Excellent translation of a very long entry. All text properly rendered in French.
+Faux positif. Traduction correcte.

@@ -1,1 +1,1 @@
-Minor style. "constructif" used for grammatical "construct" (état construit). Should ideally be "construit" but meaning is clear in context. Acceptable.
+Faux positif. Traduction correcte.

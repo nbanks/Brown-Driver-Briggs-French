@@ -1,2 +1,1 @@
-Flag: "seulement pluriel bétail" flagged as awkward.
-Minor fix: Added "au" -- "seulement au pluriel bétail". Rest of translation is correct.
+Faux positif. Traduction correcte.

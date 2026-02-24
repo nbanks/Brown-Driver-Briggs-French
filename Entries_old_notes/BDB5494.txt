@@ -1,1 +1,1 @@
-Source data error. "Isa 44:46" in the English source (line 7) is impossible (Isaiah has only 66 chapters). French faithfully preserves "Es 44,46". Not a translation error.
+Faux positif. Traduction correcte.

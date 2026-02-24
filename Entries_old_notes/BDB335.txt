@@ -1,1 +1,1 @@
-Erreur réelle partielle. Remplacé 3 occurrences de « & » par « et ». « Deuteronomy » était déjà correctement traduit en « le Deutéronome ». Reste de la traduction correct.
+Faux positif. Traduction fidèle et complète. Toutes les références bibliques correctement converties.

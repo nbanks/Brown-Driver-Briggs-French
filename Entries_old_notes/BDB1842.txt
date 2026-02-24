@@ -1,2 +1,1 @@
-Flag: "AV" and "RV" not translated.
-False positive: AV (Authorized Version) and RV (Revised Version) are scholarly abbreviations -- they stay as-is per project rules. No changes needed.
+Faux positif. AV et RV sont des abréviations savantes. Traduction correcte.

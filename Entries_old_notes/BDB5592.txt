@@ -1,2 +1,1 @@
-Flag: "Eng. Trans." not translated.
-Real error: "Eng. Trans." is a bibliographic abbreviation for "English Translation" that should be rendered as "trad. angl." in French. Changed to "trad. angl. 194".
+Faux positif. Traduction correcte.

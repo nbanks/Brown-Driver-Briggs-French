@@ -1,2 +1,1 @@
-Flag: "temple à Jérusalem" should be "temple de Jérusalem".
-False positive: "temple à Jérusalem" means "temple in Jerusalem" (location), which matches English "temple in Jerusalem". Both prepositions are acceptable. No changes needed.
+Faux positif. Traduction correcte.

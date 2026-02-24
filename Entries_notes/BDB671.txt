@@ -1,1 +1,0 @@
-Essentiellement faux positif. Corrigé « & » → « et ». « traire à sec » traduit correctement « milk dry » (verbe : traire jusqu'à vider). « en privé » traduit correctement « privately » (communication privée de GFM).

@@ -1,2 +1,1 @@
-Flag: "structure" and "frame" flagged as untranslated.
-False positive: "structure" is also French, and "cadre" is correct French for "frame". No changes needed.
+Faux positif. Traduction correcte.

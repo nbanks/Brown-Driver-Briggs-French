@@ -1,1 +1,1 @@
-False positive. "Hiphil" is acceptable normalization of "Hiph`il". Translation is correct.
+Faux positif. Traduction correcte.

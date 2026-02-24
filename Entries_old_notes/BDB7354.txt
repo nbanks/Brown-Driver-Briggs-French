@@ -1,1 +1,1 @@
-False positive. English "drove of houses" is a source typo for "drove of horses". French correctly translated as "troupeau de chevaux". Good translator judgment.
+Faux positif. Traduction correcte.

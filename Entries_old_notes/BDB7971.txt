@@ -1,1 +1,1 @@
-Faux positif. « en comparaison » est une traduction correcte de « in sim » (in simile). Traduction correcte.
+Faux positif. Le vérificateur signale des abréviations savantes, du latin, ou des mots français ressemblant à l'anglais. Traduction correcte.

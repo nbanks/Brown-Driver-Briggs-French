@@ -1,2 +1,1 @@
-Faux positif. « douteux si de I. ou II. » est du français correct pour
-« dubious whether from I. or II. ». Traduction correcte.
+Faux positif. Le vérificateur signale des abréviations savantes, du latin, ou des mots français ressemblant à l'anglais. Traduction correcte.

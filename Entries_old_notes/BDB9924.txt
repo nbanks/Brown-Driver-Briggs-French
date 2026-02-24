@@ -1,1 +1,1 @@
-False positive. "Christian-Palestinian" is inside bibliographic reference markup, not translatable text.
+Faux positif. Traduction correcte.

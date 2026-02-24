@@ -1,2 +1,1 @@
-Flag: "Participe" flagged as untranslated.
-False positive: "Participe" IS the French grammatical term (English "Participle"). No changes needed. Translation is accurate.
+Faux positif. Traduction correcte. Accent sur Éphraïm correct.

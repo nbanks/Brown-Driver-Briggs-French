@@ -1,2 +1,1 @@
-Faux positif. « fils de Gershon » et « fils de Gershom » sont du français
-correct -- « sons » a été traduit par « fils », les noms propres restent.
+Faux positif. « fils de Gershon » et « fils de Gershom » sont correctement traduits. Les noms propres Gershon/Gershom ne se traduisent pas.

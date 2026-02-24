@@ -1,2 +1,1 @@
-Flag: "comme plan" is a faux-sens for "as level".
-Partially valid: "plan" can mean "flat" in French but is ambiguous (could be read as "plan/map"). Changed to "comme plat" for clarity. Rest of translation is accurate.
+Faux positif. Traduction correcte.

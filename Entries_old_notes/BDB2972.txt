@@ -1,2 +1,1 @@
-Flag: "refuge" and "site" not translated.
-False positive: "refuge" and "site" are French words (identical to English). No changes needed.
+Faux positif. Traduction correcte.

@@ -1,2 +1,1 @@
-Faux positif. « ci-dessus ci-dessous » reproduit fidèlement l'original
-« above below » (renvoi au mot en entrée et ci-dessous comme verbe).
+Faux positif. « voir ci-dessus ci-dessous » suit la structure de l'original « see above below » (renvoi croisé). Traduction correcte.

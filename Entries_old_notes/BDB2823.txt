@@ -1,1 +1,1 @@
-Minor fix. "Mt. Mâdara" changed to "mont Mâdara" (French geographic convention). "ouadi" is correct French.
+Faux positif. « Mt. » dans « Mt. Mâdara » est acceptable comme abréviation de « mont » dans un contexte géographique.

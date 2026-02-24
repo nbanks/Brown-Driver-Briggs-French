@@ -1,2 +1,1 @@
-Flag: "cérémoniallement" flagged.
-False positive: Unusual but not incorrect French adverb. "rituellement impur" would be more standard but the translation is understandable. No changes needed.
+Faux positif. « Semitic i. 275, 2e éd. 293 » est une référence savante correctement traduite.

@@ -1,2 +1,1 @@
-Faux positif. « de chose » est un style télégraphique acceptable dans
-un dictionnaire. Traduction correcte.
+Faux positif. Le vérificateur signale des abréviations savantes, du latin, ou des mots français ressemblant à l'anglais. Traduction correcte.

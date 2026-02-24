@@ -1,1 +1,1 @@
-False positive. "Baer Ezech.xiv" is a book title inside a scholarly reference superscript. No change needed.
+Faux positif. Les éléments signalés sont des abréviations ou termes savants à conserver.

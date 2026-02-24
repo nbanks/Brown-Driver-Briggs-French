@@ -1,2 +1,1 @@
-Flag: "Across the Jordan" not translated.
-False positive: This is a book title (Schumacher's work) inside a scholarly superscript citation. Book titles stay in English. No changes needed.
+Faux positif. Traduction correcte.

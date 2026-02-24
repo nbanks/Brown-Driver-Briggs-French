@@ -1,1 +1,1 @@
-Faux positif. « Now » est le savant Nowack, pas le mot anglais « now ». Traduction correcte.
+Faux positif. Le vérificateur signale des abréviations savantes, du latin, ou des mots français ressemblant à l'anglais. Traduction correcte.

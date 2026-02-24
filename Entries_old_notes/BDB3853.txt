@@ -1,1 +1,1 @@
-False positive. "suffix" is correctly translated as "suffixe", "opposed to" as "opposé à". No change needed.
+Faux positif. Tous les termes anglais sont correctement traduits : cord→corde, bowstring→corde d'arc, tent-cord→corde de tente, tent-peg→piquet de tente, excellency→excellence. RV et AV sont des abréviations savantes.

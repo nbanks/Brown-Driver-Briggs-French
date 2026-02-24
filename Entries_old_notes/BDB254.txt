@@ -1,1 +1,1 @@
-False positive. "AV" (Authorized Version) and "RV" (Revised Version) are scholarly abbreviations for English Bible translations and should not be translated. Translation is excellent.
+Faux positif. Traduction correcte. AV et RV sont des abréviations savantes (Authorized Version, Revised Version).

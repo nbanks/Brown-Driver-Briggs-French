@@ -1,1 +1,1 @@
-False positive. "assume l'honneur" is acceptable French for "takes the honour".
+Faux positif. Traduction correcte.

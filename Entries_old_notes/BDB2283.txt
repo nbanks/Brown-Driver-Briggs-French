@@ -1,1 +1,1 @@
-False positive. "texte douteux" is perfectly correct French for "dubious text". No change needed.
+Faux positif. « Now » est l'abréviation savante de Nowack, pas le mot anglais « now ». « texte douteux » est une traduction acceptable de « text dubious ».

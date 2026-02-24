@@ -1,1 +1,1 @@
-Faux positif partiel. « comparer » est correct pour « compare ». Amélioré « un certain (nom retenu) » en « un tel (nom tu) » pour mieux rendre « a certain one (name withheld) ».
+Faux positif. « comparer » est la traduction correcte de « compare » (cf. AGENTS.md). « un tel (nom tu) » rend bien « a certain one (name withheld) ».

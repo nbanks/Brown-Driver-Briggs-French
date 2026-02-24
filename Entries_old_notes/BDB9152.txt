@@ -1,2 +1,1 @@
-Flag: "COLOURS" in "Thatcher^Hast. DB COLOURS^".
-False positive: Scholarly citation in superscript. Stays as-is. No changes needed.
+Faux positif. « DB COLOURS » dans Thatcher^Hast. DB COLOURS^ est une référence savante conservée telle quelle.

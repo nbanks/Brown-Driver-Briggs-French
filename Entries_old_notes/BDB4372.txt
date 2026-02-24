@@ -1,2 +1,1 @@
-Flag: "racine secondaire" flagged.
-False positive: "racine secondaire" is correct French. The root symbol is used throughout BDB. No changes needed.
+Faux positif. Traduction correcte.

@@ -1,2 +1,1 @@
-Flag: "artemisia Judaica" flagged as untranslated.
-False positive: Latin scientific plant name, stays as-is in French. No changes needed.
+Faux positif. Traduction correcte. « Reisebericht » est un titre savant en allemand.

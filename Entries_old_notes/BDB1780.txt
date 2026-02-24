@@ -1,1 +1,1 @@
-Erreur réelle. « & » non traduit en « et » à la ligne 60. Corrigé. « district en Égypte » est correct.
+Faux positif. Traduction correcte.

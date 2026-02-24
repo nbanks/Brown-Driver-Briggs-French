@@ -1,1 +1,1 @@
-False positive. "refuge" and "mensonge" ARE French words, not English. Translation is correct.
+Faux positif. Traduction correcte.

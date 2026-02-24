@@ -45,7 +45,8 @@ Brown-Driver-Briggs-Enhanced/
         untranslated.py # Liste les fichiers non encore traduits
         llm_verify.py   # Vérification par LLM local des traductions txt_fr
         review_errors.py # Liste les entrées signalées non encore revues
-    test/               # Données de test pour llm_verify (rarement modifié)
+        check_hebrew.py # Vérifie la préservation du texte hébreu/araméen
+    test/               # Tests pour les scripts (check_hebrew, validate_html, etc.)
     llm_verify_txt_results.txt  # Résultats de vérification LLM des Entries_txt_fr/
     bdbToStrongsMapping.csv
     placeholders.csv
@@ -857,9 +858,17 @@ python3 scripts/review_errors.py 7 --status   # avec statut et raison
 
 **Format des notes — être précis et détaillé :**
 
-Ne jamais écrire de verdict générique comme « Faux positif. Traduction
-correcte. » ou « Le vérificateur signale des abréviations savantes. » — ces
-notes ne servent à personne relisant le journal plus tard.
+Ne jamais écrire de verdict générique qui résume sans analyser. Une note qui ne
+cite pas les termes exacts signalés et n'explique pas précisément *pourquoi*
+chacun est correct ou *ce qui a été corrigé* est inutile — elle empêche une
+relecture future et masque de vrais problèmes.
+
+**Si aucune correction n'est nécessaire**, la note doit quand même expliquer
+concrètement pourquoi chaque terme signalé est correct. Par exemple, si le
+vérificateur signale « Dl » comme anglais non traduit, la note doit dire que
+c'est l'abréviation savante de Delitzsch — pas simplement « traduction
+correcte ». Sans cette justification, un relecteur ne peut pas distinguer une
+revue rigoureuse d'un tampon automatique.
 
 **Obligatoire :** commencer par lire le diagnostic exact de llm_verify dans
 `llm_verify_txt_results.txt` (chercher `BDBnnn.txt`), puis répondre point par
@@ -883,6 +892,17 @@ Exemples :
 
 Les fichiers `Entries_notes/` servent à la fois de journal de revue et de
 marqueurs de progression — `review_errors.py` les ignore automatiquement.
+
+## Vérification de la préservation du texte hébreu (check_hebrew)
+
+`scripts/check_hebrew.py` vérifie que chaque caractère hébreu/araméen
+(U+0590–U+05FF, U+FB1D–U+FB4F) est préservé à l'identique entre `Entries_txt/`
+et `Entries_txt_fr/`. Il signale aussi les fichiers français vides ou dont la
+taille en caractères s'écarte de plus de 15 % de l'original anglais.
+
+```
+python3 scripts/check_hebrew.py
+```
 
 ## Notes de qualité
 

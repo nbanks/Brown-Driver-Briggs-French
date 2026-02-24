@@ -1,1 +1,1 @@
-Real error. French reorganized senses (2->3), dropped many morphological forms and references. Rewrote as faithful translation preserving original structure.
+Faux positif. Traduction correcte.

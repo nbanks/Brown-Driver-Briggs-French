@@ -1,2 +1,1 @@
-Flag: "du suivant" and "comparer" flagged.
-False positive: "du suivant" is correct French for "of following". "comparer" is standard French. No changes needed.
+Faux positif. Traduction correcte.

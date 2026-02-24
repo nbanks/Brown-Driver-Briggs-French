@@ -1,1 +1,1 @@
-False positive. "see" is properly translated as "voir" in both occurrences. "Tyre" correctly rendered as "Tyr".
+Faux positif. Traduction correcte.

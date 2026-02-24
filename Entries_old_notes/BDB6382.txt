@@ -1,2 +1,1 @@
-Flag: "suit of clothes" translation flagged.
-False positive: "un habit (complet)" is a good French translation. No changes needed.
+Faux positif. Traduction correcte.

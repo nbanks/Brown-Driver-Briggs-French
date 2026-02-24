@@ -1,2 +1,1 @@
-Flag: "identification par beaucoup" flagged.
-False positive: Correct French. "Palmer^Desert of Exod.^" is a book title in scholarly superscript, stays in English. No changes needed.
+Faux positif. Traduction correcte. « Desert of Exod. » est un titre d'ouvrage savant (Palmer).

@@ -1,2 +1,1 @@
-Faux positif. « moderne » EST le mot français (identique à l'anglais
-« modern »). « Jérusalem » est la forme française correcte.
+Faux positif. Le vérificateur signale des abréviations savantes, du latin, ou des mots français ressemblant à l'anglais. Traduction correcte.

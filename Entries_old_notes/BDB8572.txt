@@ -1,2 +1,1 @@
-Flag: "Post^Hast. DB LILY^" flagged as untranslated.
-False positive: Scholarly citation in superscript (book/article reference). Stays as-is. No changes needed.
+Faux positif. Traduction correcte.

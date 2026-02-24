@@ -1,1 +1,1 @@
-Faux positif. « Israël » est correctement accentué (le tréma ë est présent).
+Faux positif. « Israël » a bien l'accent. « Ps » est l'abréviation française standard pour Psaumes (identique en anglais et français).

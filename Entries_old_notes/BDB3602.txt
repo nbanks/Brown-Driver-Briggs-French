@@ -1,2 +1,1 @@
-Flag: "de l'entraînement des bras" flagged.
-False positive: This is correct French for "of training of arms". No changes needed.
+Faux positif. Traduction correcte et très complète.

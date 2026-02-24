@@ -1,2 +1,1 @@
-Flag: "si vera lectio" Latin phrase.
-False positive: Standard Latin scholarly phrase ("if the reading is correct"). Used in both English and French academic texts. No changes needed.
+Faux positif. Traduction correcte.

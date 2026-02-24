@@ -1,2 +1,1 @@
-Flag: Various French words flagged ("en Moab", "de quelque", "comparer").
-False positive: All are correct French. No changes needed.
+Faux positif. Traduction correcte.

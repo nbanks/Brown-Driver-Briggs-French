@@ -1,2 +1,1 @@
-Flag: "id." flagged as untranslated.
-False positive: "id." is Latin (idem), universal scholarly abbreviation. No changes needed.
+Faux positif. Traduction correcte et très complète.

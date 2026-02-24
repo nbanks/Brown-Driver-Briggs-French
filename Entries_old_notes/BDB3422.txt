@@ -1,2 +1,1 @@
-Flag: "article wine-press" not translated.
-False positive: This is likely inside a bibliographic reference (Smith's Dict. Bib., article wine-press). Scholarly references stay as-is. No changes needed.
+Faux positif. Traduction correcte. « wine-press » dans Smith^DB^ (article wine-press) est un titre d'article savant.

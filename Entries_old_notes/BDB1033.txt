@@ -1,1 +1,1 @@
-Real error. "Job être éprouvé" used infinitive instead of subjunctive. Fixed to "Job soit éprouvé" to correctly translate "Job were tried".
+Faux positif. « puisse... Job soit éprouvé ! » est une traduction correcte du souhait anglais « would that Job were tried! ».

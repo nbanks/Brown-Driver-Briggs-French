@@ -1,1 +1,1 @@
-Source data error. "Lm 19,19" is impossible (Lamentations has only 5 chapters). Probably Ps 119,148 in the source. Not a translation error.
+Faux positif. Erreur dans les données sources, pas dans la traduction.

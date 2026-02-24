@@ -1,1 +1,0 @@
-Faux positif. Les mots signalés (Thes, MV, Klo, Gie, Du, Dr) sont des abréviations savantes. La traduction est correcte.

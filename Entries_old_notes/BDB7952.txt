@@ -1,2 +1,1 @@
-Flag: "Hilkiyya" not francized.
-False positive: "Hilkiyya" is a transliteration of the Hebrew name. No standard French form distinct from this exists. No changes needed.
+Faux positif. Traduction correcte.

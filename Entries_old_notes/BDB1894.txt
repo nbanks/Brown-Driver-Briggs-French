@@ -1,1 +1,1 @@
-False positive. "son circuit, compas" is correct French for "its circuit, compass". Translation is correct.
+Faux positif. Traduction correcte.

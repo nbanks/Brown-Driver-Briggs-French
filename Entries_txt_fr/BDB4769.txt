@@ -23,7 +23,7 @@ singulier ; pluriel מְעִילִים
 Klo
 Kit
 Bu
-SS ; glose originale מֵעוֹלָם
+SS ; glose originale מֵעוֺלָם
 We
 Kit
 Bu) ; מְעִילֵיהֶם

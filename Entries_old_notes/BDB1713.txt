@@ -1,1 +1,1 @@
-Minor fix. "semen" (Latin) replaced with "la semence" for proper French. Rest of translation is correct.
+Faux positif. « la semence » traduit correctement « semen ». « aversion » est le même mot en français et en anglais.

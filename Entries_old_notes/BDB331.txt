@@ -1,2 +1,1 @@
-Faux positif. « en vue de » est une expression française correcte pour
-« in view of ». Traduction correcte -- aucune modification nécessaire.
+Essentiellement faux positif. Corrigé « & » → « et » (ligne 7). « absent de 2 S 23 » est correct pour « not in 2Sam 23 ». « en vue de » traduit correctement « in view of ».

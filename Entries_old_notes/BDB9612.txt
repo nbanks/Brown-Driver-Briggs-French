@@ -1,2 +1,1 @@
-Flag: "Tariff" not translated.
-False positive: "Tariff" refers to the Marseilles Tariff inscription, a proper name for a document. Stays as-is. No changes needed.
+Faux positif. « Tariff » est une référence savante conservée telle quelle.

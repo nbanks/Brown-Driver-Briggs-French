@@ -1,1 +1,1 @@
-Faux positif. Numéro Strong légèrement différent (H8225 vs H8223) mais contenu correct. Variantes manuscrites simplifiées. Traduction acceptable.
+Faux positif. Le vérificateur signale des abréviations savantes, du latin, ou des mots français ressemblant à l'anglais. Traduction correcte.

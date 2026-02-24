@@ -1,2 +1,1 @@
-Flag: "in tribu Iuda" and "moderne" flagged.
-False positive: "in tribu Iuda" is Latin from Lagarde's Onomastica -- it stays as-is. "moderne" IS French. No changes needed.
+Faux positif. « milles » correct. « 2nd ed. » fait partie d'un titre d'ouvrage savant.

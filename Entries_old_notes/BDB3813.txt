@@ -1,1 +1,1 @@
-False positive. "Jerahméel" is correctly accented in the French. No change needed.
+Faux positif. « Jerahmeel » est la translittération standard utilisée dans le BDB.

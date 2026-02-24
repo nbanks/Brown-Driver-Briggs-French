@@ -1,2 +1,1 @@
-Flag: "Hithpa`el" and "gaspeth" flagged.
-False positive: "Hithpa`el" is the standard transliteration used throughout BDB. "gaspeth" does not appear in the French. No changes needed.
+Faux positif. Traduction correcte.

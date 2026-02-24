@@ -1,2 +1,1 @@
-Flag: "comme verbe, avec accusatif de personne" flagged.
-False positive: Correct French translation of "as verb, with accusative of person". No changes needed.
+Faux positif. Traduction correcte.

@@ -1,1 +1,0 @@
-Faux positif. « et^ » contient un marqueur d'exposant de la source. La traduction est correcte.

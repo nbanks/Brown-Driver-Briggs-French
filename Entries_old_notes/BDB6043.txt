@@ -1,1 +1,1 @@
-False positive. "on possibly ident. with" translated as "sur ce sujet possiblement identique à" -- reasonable interpretation. No change needed.
+Faux positif. Les termes signalés sont identiques en français et en anglais.

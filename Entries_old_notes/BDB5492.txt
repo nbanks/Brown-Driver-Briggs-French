@@ -1,2 +1,1 @@
-Flag: "Cush" not translated to French.
-False positive: "Cush" is acceptable in French biblical usage (alternative to "Koush"). No changes needed.
+Faux positif. Traduction correcte.

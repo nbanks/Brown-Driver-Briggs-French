@@ -1,0 +1,145 @@
+# Expected results for LLM verification test suite
+# Format: filename  expected_verdict
+# Verdicts: ERROR, CORRECT, WARN (WARN accepted for borderline cases)
+#
+# Source: manual audit of all *0.txt entries from Entries_txt_fr
+# Final refinement after qwen3.5 v2 revealed deep technical errors (miles/mire/conjectures).
+
+# === BAD (should be ERROR, WARN also acceptable) ===
+BDB590.txt   CORRECT  # previously ERROR but no actual error found in French translation
+BDB94.txt    ERROR    # "de agappu" should be "d'agappu" — missing French elision
+BDB4539.txt  ERROR    # massively truncated — root definition, Arabic, and meaning all missing
+BDB790.txt   ERROR
+BDB840.txt   ERROR
+BDB850.txt   ERROR
+BDB1030.txt  ERROR
+BDB1050.txt  ERROR
+BDB1150.txt  ERROR
+BDB1260.txt  ERROR
+BDB1630.txt  ERROR
+BDB1810.txt  ERROR
+BDB1900.txt  ERROR
+BDB2180.txt  ERROR
+BDB2230.txt  ERROR
+BDB2870.txt  ERROR
+BDB3270.txt  ERROR
+BDB3770.txt  ERROR
+BDB5050.txt  ERROR
+BDB5820.txt  ERROR
+BDB6090.txt  ERROR
+BDB6110.txt  ERROR
+BDB6570.txt  ERROR
+BDB6710.txt  ERROR
+BDB6790.txt  ERROR
+BDB7100.txt  ERROR
+BDB7190.txt  ERROR
+BDB7580.txt  ERROR
+BDB8370.txt  ERROR
+BDB8390.txt  ERROR
+BDB8510.txt  ERROR
+BDB8600.txt  ERROR
+BDB8740.txt  ERROR
+BDB8790.txt  ERROR
+BDB8800.txt  ERROR
+BDB8830.txt  ERROR
+BDB9370.txt  ERROR
+
+# Found by LLM audit
+BDB2570.txt  ERROR    # "an Éphraïmite"
+BDB2580.txt  ERROR    # "a femme", "of Benjamin"
+BDB2790.txt  ERROR    # "a retournered exil"
+BDB3780.txt  ERROR    # "a fils de"
+BDB5250.txt  ERROR    # "à la frontière de Asher" (mixed en/fr)
+BDB5690.txt  ERROR    # "a Philistin"
+BDB6230.txt  ERROR    # "nom propre, masculinsabéen" (missing space)
+BDB6340.txt  ERROR    # "a Tekoan"
+BDB6520.txt  ERROR    # "Asherite" (untranslated)
+BDB8710.txt  ERROR    # "père of Josaphat's mère"
+BDB8750.txt  ERROR    # "mère of king Amon"
+BDB9520.txt  ERROR    # "sin-offrande"
+BDB9840.txt  ERROR    # "neck" (untranslated)
+BDB9970.txt  ERROR    # "sun", "so D^WB^]" (untranslated)
+BDB500.txt   ERROR    # "miles" untranslated
+BDB6860.txt  ERROR    # "conjectures" untranslated
+BDB8070.txt  ERROR    # "mire" translated as target (faux ami)
+
+# === BORDERLINE (WARN acceptable) ===
+BDB240.txt   WARN     # missing accents in prose (feu/fire)
+BDB250.txt   CORRECT
+BDB360.txt   WARN     # "quant a la" (missing accent)
+
+# === GOOD (should be CORRECT, WARN also acceptable) ===
+BDB10.txt    CORRECT
+BDB20.txt    CORRECT
+BDB30.txt    CORRECT
+BDB40.txt    CORRECT
+BDB50.txt    CORRECT
+BDB60.txt    CORRECT
+BDB70.txt    CORRECT
+BDB80.txt    CORRECT
+BDB90.txt    CORRECT
+BDB100.txt   CORRECT
+BDB110.txt   CORRECT
+BDB120.txt   CORRECT
+BDB150.txt   CORRECT
+BDB160.txt   CORRECT
+BDB170.txt   CORRECT
+BDB180.txt   CORRECT
+BDB190.txt   CORRECT
+BDB200.txt   CORRECT
+BDB210.txt   CORRECT
+BDB220.txt   CORRECT
+BDB230.txt   CORRECT
+BDB260.txt   CORRECT
+BDB270.txt   WARN     # source has OCR artifact "JudÊan" (from Judæan); translation correctly renders "Judéen"
+BDB280.txt   CORRECT
+BDB300.txt   CORRECT
+BDB310.txt   CORRECT
+BDB330.txt   CORRECT
+BDB340.txt   CORRECT
+BDB350.txt   CORRECT
+BDB370.txt   CORRECT
+BDB380.txt   CORRECT
+BDB400.txt   WARN     # "consumation" is not a valid French word (English source has typo "consumimg")
+BDB410.txt   CORRECT
+BDB460.txt   CORRECT
+BDB480.txt   CORRECT
+BDB490.txt   CORRECT
+BDB510.txt   CORRECT
+BDB540.txt   CORRECT
+BDB550.txt   CORRECT
+BDB560.txt   CORRECT
+BDB570.txt   CORRECT
+BDB580.txt   CORRECT
+BDB600.txt   CORRECT
+BDB910.txt   CORRECT
+BDB1570.txt  CORRECT
+BDB2160.txt  CORRECT
+BDB2660.txt  CORRECT
+BDB3630.txt  CORRECT
+BDB4190.txt  CORRECT
+BDB4860.txt  CORRECT
+BDB5710.txt  ERROR    # "Num" not converted to "Nb"
+BDB6290.txt  CORRECT
+BDB6430.txt  CORRECT
+BDB6870.txt  CORRECT
+BDB7080.txt  CORRECT
+BDB7500.txt  CORRECT
+BDB8700.txt  CORRECT
+BDB8950.txt  CORRECT
+BDB36.txt    CORRECT
+
+# === FABRICATED ERROR TEST CASES ===
+BDB3526.txt  ERROR    # "hebreu" and "genealogie" missing accents
+BDB1136.txt  ERROR    # "Esau" missing accent (should be "Ésaü")
+BDB1021.txt  ERROR    # בטחות stripped of nikkud (should be בַּטֻּחוֺת)
+BDB22.txt    ERROR    # "Num 1:11" instead of "Nb 1,11" (English bible refs)
+BDB32.txt    ERROR    # sense 3 missing (truncated)
+BDB1352.txt  ERROR    # "corn" translated as "maïs" instead of "blé" (Victorian English)
+BDB1553.txt  ERROR    # entire description left in English (franglais)
+BDB1233.txt  ERROR    # "represented as king of Babylon, successor..." left in English
+BDB178.txt   ERROR    # "meat" translated as "viande" instead of "nourriture" (Victorian English)
+BDB6398.txt  ERROR    # "sensible" left as "sensible" (faux ami: should be "avisé/prudent")
+BDB2723.txt  ERROR    # "the quick" translated as "le rapide" (should be "la chair vive")
+BDB1100.txt  ERROR    # Hebrew vowel changed: אַלּוֺן → אַלּוֹן (holam male → holam)
+BDB1500.txt  ERROR    # Empty French translation — English has real content

@@ -1,2 +1,1 @@
-Flag: "ces peuples étaient des habitants" flagged as franglais.
-False positive: This is correct French. No changes needed.
+Faux positif. Traduction correcte.

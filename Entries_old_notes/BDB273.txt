@@ -1,1 +1,1 @@
-False positive. She'ra is a proper name transliteration, correctly kept. "Éphraïm" is correctly accented. Translation is complete and accurate. No change needed.
+Faux positif. Les références bibliques sont correctement converties (1 Ch 7,24). Éphraïm correctement accentué. Blau^ZMG est une référence savante.

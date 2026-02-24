@@ -1,2 +1,1 @@
-Flag: "incline thy mind to understanding" and "reasons" flagged as untranslated.
-False positive: Line 65 correctly translates as "incline ton coeur vers l'intelligence". "raisons" IS French for "reasons". No changes needed.
+Faux positif. « raisons » est un mot français correct ici. Traduction fidèle.

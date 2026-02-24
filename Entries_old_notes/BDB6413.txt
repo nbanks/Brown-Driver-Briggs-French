@@ -1,1 +1,1 @@
-False positive. "Arkite" is used in French scholarly literature. "Assyrian" and "Egyptian" are correctly translated. No change needed.
+Faux positif. Traduction correcte. Les éléments signalés sont des abréviations savantes ou des termes identiques en français et en anglais.

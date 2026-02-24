@@ -1,1 +1,1 @@
-Source data error, not translation error. English source has "Mal" for Proverbs references. French correctly translates "Mal" to "Ml". The real fix belongs in the English source data.
+Faux positif. Erreur dans les données sources, pas dans la traduction.

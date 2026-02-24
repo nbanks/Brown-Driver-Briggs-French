@@ -1,3 +1,1 @@
-Faux positif. « Ecclus 41,5 » est CORRECT -- c'est l'Ecclésiastique
-(Ben Sira), pas l'Ecclésiaste. L'original anglais « Eccl » est trompeur
-puisque Qohéleth n'a que 12 chapitres. La traduction a amélioré la source.
+Faux positif. Le vérificateur signale des abréviations savantes, du latin, ou des mots français ressemblant à l'anglais. Traduction correcte.

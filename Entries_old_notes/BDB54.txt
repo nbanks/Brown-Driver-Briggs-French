@@ -1,1 +1,1 @@
-False positive. "4th Statement" is part of a scholarly bibliographic reference (Merrill^PESoc. 4th Statement, 89^) and should not be translated. Translation is otherwise correct: Élisée, Égypte, Jourdain all properly accented.
+Faux positif. « 4th Statement » fait partie d'une référence savante (Merrill^PESoc. 4th Statement, 89^) et ne doit pas être traduit.

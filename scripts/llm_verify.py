@@ -201,9 +201,6 @@ def get_file_pairs(fr_dir: Path, en_dir: Path, extensions: tuple[str, ...],
                 continue
         en_path = en_dir / fr_path.name
         if en_path.exists():
-            # Skip empty files (skeleton entries)
-            if fr_path.stat().st_size == 0:
-                continue
             pairs.append((fr_path.name, en_path, fr_path))
     return pairs
 

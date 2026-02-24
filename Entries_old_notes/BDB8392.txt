@@ -1,2 +1,1 @@
-Flag: "appar. conjecture" flagged as franglais.
-False positive: "conjecture" is the same word in French. "appar." is a standard abbreviation. No changes needed.
+Faux positif. Traduction correcte.

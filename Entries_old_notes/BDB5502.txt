@@ -1,2 +1,1 @@
-Flag: "Id^ib^" not translated.
-False positive: "Id." and "ib." are Latin abbreviations (idem, ibidem). No changes needed.
+Faux positif. Traduction correcte. « imber vehemens » est du latin savant.

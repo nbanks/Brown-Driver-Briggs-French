@@ -1,2 +1,1 @@
-Flag: "July" not translated in "Che^Expos. Times, ix. 423 : JQ, July 1899, 562^".
-False positive: Scholarly citation in superscript. Month names in journal citations stay as-is. No changes needed.
+Faux positif. « Expos. Times » et « July 1899 » sont des références savantes conservées telles quelles.

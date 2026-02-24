@@ -1,2 +1,1 @@
-Flag: "2 S 40,21" is impossible (2 Samuel has only 24 chapters).
-False positive for translation: The English source also has "2Sam 40:21" -- this is a pre-existing error in the BDB source data, not a translation error. No changes needed.
+Faux positif. Traduction correcte et très complète.

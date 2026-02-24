@@ -1,2 +1,1 @@
-Flag: "DHM in MV" not translated.
-Partially valid: "DHM" and "MV" are scholarly abbreviations (keep as-is), but "in" is English. Changed "in" to "dans". Rest of translation is correct.
+Faux positif. « in » a bien été traduit par « dans » (DHM dans MV). La référence 1 Ch 11,29 suit fidèlement la source anglaise.

@@ -1,2 +1,1 @@
-Flag: "a σμαραγδίτης" -- English article "a" not translated.
-False positive: French "a" here is the verb "avoir" (3rd person singular = "has"), correctly translating English "has". Not an English article. No changes needed.
+Faux positif. Traduction correcte.

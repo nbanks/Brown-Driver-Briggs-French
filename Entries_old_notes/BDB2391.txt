@@ -1,2 +1,1 @@
-Faux positif. « obscure » est identique en français et en anglais.
-Traduction correcte.
+Faux positif. « obscure » est du français (= incertaine, peu claire). Ce n'est pas de l'anglais résiduel.

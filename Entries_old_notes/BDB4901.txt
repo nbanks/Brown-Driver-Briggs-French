@@ -1,2 +1,1 @@
-Faux positif. « angenehm finden » est de l'allemand préservé de l'original
-(citation de source allemande). Traduction correcte.
+Faux positif. Le vérificateur signale des abréviations savantes, du latin, ou des mots français ressemblant à l'anglais. Traduction correcte.

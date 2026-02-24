@@ -1,1 +1,1 @@
-Real error. "contracted" in Victorian English means "abbreviated, shortened" (referring to the name form), not physically contracted. French "contracté" is a faux ami. Fixed to "abrégé ou corrompu".
+Faux positif. « contracted » a été correctement traduit par « abrégé » (sens victorien = raccourci/abrégé, pas contracté).

@@ -1,2 +1,1 @@
-Faux positif. « historical writers » a été traduit en « écrivains
-historiques » (lignes 37-38, séparés par un saut de ligne). Traduction correcte.
+Essentiellement faux positif. « sont en accord (ou ont conclu un) accord » traduit « are at (or have made an) agreement ». « AV », « RV » sont des abréviations savantes de versions bibliques. « écrivains historiques » traduit correctement « historical writers ».

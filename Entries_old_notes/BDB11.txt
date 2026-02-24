@@ -1,4 +1,1 @@
-Faux positif. Le verifier a signalé « Destruction, Ruine, 'Abaddon » comme
-non traduits, mais « destruction » et « ruine » sont identiques en français.
-'Abaddon est un nom propre/translittération. « Shéol » est correct.
-Traduction conforme -- aucune modification nécessaire.
+Faux positif. « Destruction » et « Ruine » sont les gloses correctes en français (identiques ou quasi-identiques à l'anglais). « Shéol » est la forme française standard. « Littérature sapientielle » traduit correctement « Wisdom Literature ».

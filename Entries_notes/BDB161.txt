@@ -1,1 +1,0 @@
-Faux positif. Tous les éléments signalés sont déjà correctement traduits : « loan-word » → « emprunt », « little tents » → « petites tentes », « perhaps error » → « peut-être erreur », références bibliques converties (Nb, Pr, Ct, Dn).

@@ -1,2 +1,1 @@
-Flag: "ils ont peiné" flagged as literal translation.
-False positive: "peiner" means to grieve/pain in French. Correct translation of "they painEd". No changes needed.
+Faux positif. Traduction correcte.

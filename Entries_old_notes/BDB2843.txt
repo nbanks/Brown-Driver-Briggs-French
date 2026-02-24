@@ -1,1 +1,1 @@
-Real error. "an Edomite" left in English. Fixed to "un Édomite".
+Faux positif. « un Édomite » est correctement traduit avec l'accent sur É.

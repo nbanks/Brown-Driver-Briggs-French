@@ -1,1 +1,1 @@
-Faux positif. « and views in » fait partie d'une référence bibliographique en exposant (Buhl^Geogr. 90, and views in^). Traduction correcte.
+Faux positif. Le vérificateur signale des abréviations savantes, du latin, ou des mots français ressemblant à l'anglais. Traduction correcte.

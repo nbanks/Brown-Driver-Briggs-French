@@ -1,1 +1,1 @@
-Mostly false positive. "village des Ammonites" and "un village de Benjamin" ARE correct French. Fixed "miles" -> "milles".
+Faux positif. Traduction correcte.

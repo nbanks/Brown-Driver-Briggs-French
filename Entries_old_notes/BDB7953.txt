@@ -1,1 +1,1 @@
-False positive. "a relâché" is correct French for "hath loosened". No change needed.
+Faux positif. Le style lexicographique abrégé du BDB est fidèlement reproduit.

@@ -1,2 +1,1 @@
-Flag: Various phrases flagged.
-False positive: Translation is accurate. No changes needed.
+Faux positif. Traduction correcte.

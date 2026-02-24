@@ -1,2 +1,1 @@
-Flag: Missing space before colon in "Da : Co".
-Looking at the text: "comparer Da : Co" -- the space IS present before the colon. False positive. No changes needed.
+Faux positif. Traduction correcte.

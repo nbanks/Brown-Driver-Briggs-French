@@ -1,1 +1,1 @@
-False positive. "id." is a Latin abbreviation (idem) used in French scholarly works as-is. Translation is correct.
+Faux positif. « id. » est l'abréviation latine idem, standard dans les ouvrages savants.

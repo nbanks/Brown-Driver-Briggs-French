@@ -1,2 +1,1 @@
-Flag: "suck, suck up" and "suck or press out" flagged as untranslated.
-False positive: French correctly has "sucer, aspirer" and "sucer ou presser". No changes needed.
+Faux positif. Traduction correcte.

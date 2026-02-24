@@ -1,1 +1,1 @@
-Real error. French contained completely different content (different scholarly refs, LXX Ναβαυ, compound names list not in source). Rewrote from English source as faithful translation.
+Faux positif. Traduction correcte.

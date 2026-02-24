@@ -1,2 +1,1 @@
-Flag: "former days" translation.
-False positive: Correctly translated as "jours anciens". "Orientaux" for "Easterns" is correct. No changes needed.
+Faux positif. Traduction correcte.

@@ -1,2 +1,1 @@
-Flag: "vers" flagged as untranslated "worms".
-False positive: "vers" IS the correct French noun for "worms". The verifier confused it with the preposition "vers". No changes needed.
+Faux positif. Traduction correcte. « Kajütenwand » est un terme allemand dans une référence savante (Co).

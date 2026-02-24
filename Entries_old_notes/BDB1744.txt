@@ -1,1 +1,1 @@
-False positive. "lot" exists in French and means "lot/portion/share". Not an English word left untranslated.
+Faux positif. Traduction correcte de cette longue entrée.

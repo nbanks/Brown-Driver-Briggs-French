@@ -1,1 +1,1 @@
-False positive. Minor formatting issue flagged. Translation is correct.
+Faux positif. Traduction correcte.

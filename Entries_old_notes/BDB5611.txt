@@ -1,1 +1,1 @@
-Erreur réelle. « Bashân » corrigé en « Basan » (forme française standard). « 63 milles » était déjà correct.
+Faux positif. Le vérificateur signale des abréviations savantes, du latin, ou des mots français ressemblant à l'anglais. Traduction correcte.

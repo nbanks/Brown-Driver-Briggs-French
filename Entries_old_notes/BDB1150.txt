@@ -1,1 +1,1 @@
-Erreur réelle. Même problème récurrent : « [of a peuple] of 2 » corrigé en « [d'un peuple] de 2 », ajouté « comme » avant « nom collectif ».
+Faux positif. Traduction correcte.

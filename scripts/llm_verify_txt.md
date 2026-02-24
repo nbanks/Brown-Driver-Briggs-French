@@ -62,7 +62,8 @@ Seuls les noms de **savants modernes** (Robinson, Smith, Driver, etc.) restent s
 ### C. Contenu manquant ou altéré
 - Des sens numérotés (1., 2., 3.) présents dans l'anglais mais absents du français.
 - Le texte français est nettement plus court que l'anglais sans raison (troncature).
-- **Hébreu altéré** : Voyelles hébraïques (nikkud) supprimées (אוּלָם → אולם) ou mot hébreu manquant.
+- **Hébreu altéré** : Voyelles hébraïques (nikkud) supprimées (אוּלָם → אולם), modifiées (אַלּוֺן → אַלּוֹן — holam changé) ou mot hébreu manquant. Comparer chaque mot hébreu caractère par caractère entre l'anglais et le français.
+- **Traduction française absente** : Le fichier français est vide ou ne contient que l'en-tête alors que l'anglais a du contenu réel.
 
 ### D. Noms propres et géographie
 - Les noms bibliques (Isaiah, Jeremiah, Egypt, Judah, etc.) **doivent** être traduits en français (Ésaïe, Jérémie, Égypte, Juda).
@@ -475,6 +476,114 @@ Ez 1,3.
 ```
 
 Analyse : Accent manquant sur « Ezechiel » — doit être « Ézéchiel ». Les noms bibliques doivent toujours porter leurs accents français.
+>>> ERROR
+
+### Exemple 13
+
+ENGLISH:
+```
+=== BDB656 H643 ===
+Biblical Hebrew
+
+אַפֶּ֫דֶן
+noun [masculine]
+palace (Syriac
+[placeholder361: Placeholders/361.gif]; both from Persian
+apadâna
+compare Spieg^Altpers. Keilschr. 128^, but
+this = treasury, armoury, M. Schultze^ZMG 1885, 48 f^
+Dieulafoy^RÉJ xvi {1888}, p. cclxxvf.^ makes apadâna, more
+precisely, throneroom, compare Dr^Du 11, 45^.) אָהֳלֵי אַפַּדְֿנוֺ
+Dan 11:45 of
+the 'king of the north', i.e. Antiochus Epiphanes.
+
+---
+```
+
+FRENCH:
+```
+=== BDB656 H643 ===
+hébreu biblique
+
+אַפֶּ֫דֶן
+nom [masculin]
+palais (syriaque
+[placeholder361: Placeholders/361.gif] ; tous deux du persan
+apadâna
+comparer Spieg^Altpers. Keilschr. 128^, mais
+ceci = trésorerie, arsenal, M. Schultze^ZMG 1885, 48 f^
+Dieulafoy^RÉJ xvi {1888}, p. cclxxvf.^ fait de apadâna, plus
+précisément, salle du trône, comparer Dr^Du 11, 45^.) אָהֳלֵי אַפַּדְֿנוֺ
+Dn 11,45 du
+« roi du nord », c.-à-d. Antiochus Épiphane.
+
+---
+```
+
+Analyse : Élision manquante — « de apadâna » devrait être « d'apadâna ». En français, la préposition « de » s'élide obligatoirement devant un mot commençant par une voyelle. Comparer avec l'exemple 11 qui a correctement « synonyme d'apadâna ».
+>>> ERROR
+
+### Exemple 14
+
+ENGLISH:
+```
+=== BDB1100 H439 ===
+Biblical Hebrew
+
+בָּכוּת
+noun feminine
+weeping. Only in אַלּוֺן בָּכוּת
+Gen 35:8 i.e.
+mourning oak, compare אלון, p. 47.
+
+---
+```
+
+FRENCH:
+```
+=== BDB1100 H439 ===
+hébreu biblique
+
+בָּכוּת
+nom féminin
+pleurs. Seulement dans אַלּוֹן בָּכוּת
+Gn 35,8 c.-à-d.
+chêne du deuil, comparer אלון, p. 47.
+
+---
+```
+
+Analyse : Voyelle hébraïque modifiée — l'anglais a אַלּוֺן (avec holam malé ֺ) mais le français a אַלּוֹן (avec holam ֹ). Les voyelles hébraïques doivent être copiées identiques caractère par caractère.
+>>> ERROR
+
+### Exemple 15
+
+ENGLISH:
+```
+=== BDB1500 ===
+Biblical Hebrew
+
+הַגְּדוֺלִים
+proper name, masculine
+father of Zabdiel
+Neh 11:14 (
+
+RV
+& so most; but
+
+ᵐ5
+
+RVm
+and others the great).
+
+---
+```
+
+FRENCH:
+```
+```
+
+Analyse : Fichier français vide — l'anglais contient une entrée complète (nom propre הַגְּדוֺלִים, père de Zabdiel) mais la traduction française est totalement absente.
 >>> ERROR
 
 ## Votre tâche

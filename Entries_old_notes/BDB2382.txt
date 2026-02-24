@@ -1,2 +1,1 @@
-Flag: "Gershonites" not translated.
-Real error: Changed "Gershonites" to "Guershonites" (French form of the demonym).
+Faux positif. Traduction correcte.

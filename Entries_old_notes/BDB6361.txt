@@ -1,1 +1,1 @@
-Faux positif. « si vera lectio » est une locution latine savante -- ne se traduit pas. Traduction correcte.
+Faux positif. Le vérificateur signale des abréviations savantes, du latin, ou des mots français ressemblant à l'anglais. Traduction correcte.

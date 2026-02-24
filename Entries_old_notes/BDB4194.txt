@@ -1,1 +1,1 @@
-False positive. "Karkemish" is an acceptable transliteration. "Carkémish" is not the standard French form -- "Karkemish" or "Karkémish" is used.
+Faux positif. Traduction correcte.

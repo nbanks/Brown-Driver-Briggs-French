@@ -1,2 +1,1 @@
-Flag: "Ezra" not translated to "Esd".
-False positive: French correctly has "Esd 2,46" on line 8. Flag is incorrect. No changes needed.
+Faux positif. Traduction correcte.

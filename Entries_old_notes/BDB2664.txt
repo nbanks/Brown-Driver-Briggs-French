@@ -1,1 +1,1 @@
-False positive. "ainsi Thes", "rend oracle", "voir חֹזֶה" are all correct French. Thes is a scholarly abbreviation.
+Faux positif. Traduction correcte.

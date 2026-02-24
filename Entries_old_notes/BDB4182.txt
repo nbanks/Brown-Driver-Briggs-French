@@ -1,2 +1,1 @@
-Flag: "certain" flagged as English.
-False positive: "certain" is also a French word. "mais pas certain" is correct French. No changes needed.
+Faux positif. Traduction correcte.

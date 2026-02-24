@@ -1,1 +1,1 @@
-False positive. "de prière poétique, liturgique" is correct French for "of poetical, liturgical prayer".
+Faux positif. Traduction correcte.

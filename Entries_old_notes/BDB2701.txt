@@ -1,2 +1,1 @@
-Faux positif. « Participe » EST la traduction française de « Participle ».
-Le verifier ne l'a pas reconnu comme français. Traduction correcte.
+Faux positif. « Participe » est le mot français correct pour « Participle » (terme grammatical araméen).

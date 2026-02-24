@@ -1,1 +1,1 @@
-Le fichier français contient du contenu supplémentaire (l'entrée nominale זְמָן) avant l'entrée verbale. L'anglais source ne contient que le verbe. La traduction du verbe (ligne 38+) est correcte. Contenu excédentaire mais pas une erreur de traduction.
+Faux positif. Le vérificateur signale des abréviations savantes, du latin, ou des mots français ressemblant à l'anglais. Traduction correcte.

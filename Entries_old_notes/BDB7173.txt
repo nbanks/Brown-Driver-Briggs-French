@@ -1,1 +1,1 @@
-False positive. "compare" is French 3rd person of "comparer". "mand." is a scholarly abbreviation for mandéen. No change needed.
+Faux positif. Traduction correcte. Les éléments signalés sont des abréviations savantes ou des termes identiques en français et en anglais.

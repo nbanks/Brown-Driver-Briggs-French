@@ -1,1 +1,1 @@
-False positive. "Juges" is correct French for "Judges". "1 Samuel" / "2 Samuel" are the same in French (full book name, not abbreviated reference).
+Faux positif. Traduction correcte.

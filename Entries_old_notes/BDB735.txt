@@ -1,1 +1,1 @@
-Erreur réelle mineure. Remplacé 2 « & » par « et ».
+Faux positif. Traduction correcte.

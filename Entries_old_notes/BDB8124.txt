@@ -1,1 +1,1 @@
-False positive. "V:61" is a standard verse reference notation. "poème" is correct French for "Poem".
+Faux positif. Traduction correcte.

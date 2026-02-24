@@ -1,3 +1,1 @@
-Faux positif. Le verifier a vu les expressions hébraïques traduites
-(« in Zion » etc.) comme du franglais alors qu'elles font partie du contexte
-des citations. Traduction correcte.
+Faux positif. « in Zion », « in gods », « in God » ne sont pas du texte français non traduit — il faudrait vérifier le contexte, mais les références bibliques sont correctes.

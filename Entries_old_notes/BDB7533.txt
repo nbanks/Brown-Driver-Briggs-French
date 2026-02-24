@@ -1,1 +1,1 @@
-False positive. "Pual Participe" follows the English word order. "correctement" is valid French. No change needed.
+Faux positif. Traduction correcte. Les éléments signalés sont des abréviations savantes ou des termes identiques en français et en anglais.

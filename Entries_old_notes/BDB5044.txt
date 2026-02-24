@@ -1,1 +1,1 @@
-False positive. English source has "adode" (typo for "abode") on lines 30 and 38. French correctly translates as "demeure". Translation is faithful and complete.
+Faux positif. Traduction correcte.

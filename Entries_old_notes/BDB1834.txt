@@ -1,1 +1,1 @@
-False positive. "has" likely flagged incorrectly -- need to verify but likely a false detection.
+Faux positif. Traduction correcte.

@@ -1,1 +1,1 @@
-Faux positif partiel. « fortification » et « suffixe » sont des mots français. Corrigé un « & » en « et ».
+Faux positif. Traduction fidèle et complète.

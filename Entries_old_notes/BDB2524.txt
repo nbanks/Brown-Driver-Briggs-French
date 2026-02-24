@@ -1,1 +1,1 @@
-False positive. "moderne" IS a French word. Translation is correct.
+Faux positif. Traduction correcte.

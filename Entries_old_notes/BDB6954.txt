@@ -1,1 +1,1 @@
-False positive. "dos" is correct French for "back" in the Tel Amarna context.
+Faux positif. Traduction correcte.

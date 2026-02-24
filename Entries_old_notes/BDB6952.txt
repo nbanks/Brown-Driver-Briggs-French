@@ -1,2 +1,1 @@
-Flag: "Eccl" vs "Qo" and "denominative".
-False positive: "Eccl 43:3" correctly translated to "Qo 43,3". "denominative" correctly rendered as "dénominatif". No changes needed.
+Faux positif. Traduction correcte.

@@ -1,2 +1,1 @@
-Flag: "voir :52" flagged as bad format.
-False positive: The English source also has "see :52" -- this is a reference format in the original data. No changes needed.
+Faux positif. Traduction correcte.

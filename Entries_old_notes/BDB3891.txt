@@ -1,2 +1,1 @@
-Erreur mineure. « 9 miles » corrigé en « 9 milles ». « district » est
-identique en français.
+Faux positif. Le vérificateur signale « miles » mais le texte utilise « milles » (correct). « district » est un mot français valide. Traduction correcte.

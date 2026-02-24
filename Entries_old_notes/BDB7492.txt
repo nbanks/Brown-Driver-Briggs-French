@@ -1,2 +1,1 @@
-Flag: "Che^JQ July, 1897, 578^" not translated.
-False positive: Scholarly citation in superscript (journal name, date, page). Stays as-is. No changes needed.
+Faux positif. Traduction correcte.

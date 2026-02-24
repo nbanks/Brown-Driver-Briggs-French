@@ -1,1 +1,1 @@
-False positive. "vulture" correctly translated as "vautour". No change needed.
+Faux positif. Le style lexicographique abrégé du BDB est fidèlement reproduit.

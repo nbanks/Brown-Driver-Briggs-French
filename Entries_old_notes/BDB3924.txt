@@ -1,1 +1,1 @@
-False positive. "place-le ici" is correct French for "set it here". Translation is correct.
+Faux positif. Traduction correcte.

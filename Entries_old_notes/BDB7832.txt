@@ -1,2 +1,1 @@
-Flag: "Proverbes" not abbreviated to "Pr".
-False positive: English source uses full name "Proverbs" here too. "Proverbes" is the correct French full form. No changes needed.
+Faux positif. Traduction correcte.

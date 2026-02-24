@@ -1,1 +1,1 @@
-Source data error. English source has "Lev 25:12", "Lev 25:5", etc. for a Nazirite law that belongs in Num 6. French faithfully preserves the same wrong refs (Lv 25,x). Not a translation error.
+Faux positif. Traduction correcte.

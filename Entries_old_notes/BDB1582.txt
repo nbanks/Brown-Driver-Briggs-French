@@ -1,2 +1,1 @@
-Flag: "voir ci-dessous גזז. ci-dessous" has repetition.
-False positive: The English original also has "see below גזז. below" -- the repetition is in the source. No changes needed.
+Faux positif. Traduction correcte.

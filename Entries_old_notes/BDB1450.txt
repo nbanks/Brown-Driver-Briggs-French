@@ -1,1 +1,1 @@
-Erreur réelle. « & » non traduit en « et » à la ligne 8. Corrigé. « Moderne » est correct en français.
+Faux positif. Traduction correcte, « f. » → « s. ».

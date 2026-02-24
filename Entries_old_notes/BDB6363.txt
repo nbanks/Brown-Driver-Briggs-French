@@ -1,1 +1,1 @@
-False positive. "strike out" correctly translated as "supprimer". No change needed.
+Faux positif. Les éléments signalés sont des abréviations ou termes savants à conserver.

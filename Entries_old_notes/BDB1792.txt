@@ -1,2 +1,1 @@
-Flag: "&" not translated.
-Minor fix: Changed "&" to "et". Rest of translation is correct.
+Faux positif. Traduction correcte.

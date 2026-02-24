@@ -1,1 +1,1 @@
-False positive. The odd "Esd 9,14" references mirror the English source which has "Ezra 9:14" etc. in context of Ezekiel 21 -- likely a source data issue, not a translation error. No change needed.
+Faux positif. Le style lexicographique abrégé du BDB est fidèlement reproduit.

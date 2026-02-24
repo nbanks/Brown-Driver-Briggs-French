@@ -1,2 +1,1 @@
-Flag: "moderne dibs" flagged as untranslated.
-False positive: "dibs" is the actual modern Arabic term for grape syrup -- it's not English. The translation is thorough and accurate for this long entry.
+Faux positif. Traduction correcte et complète.

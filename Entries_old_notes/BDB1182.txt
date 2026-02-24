@@ -1,2 +1,1 @@
-Flag: "Bathshua" not translated, "mais" flagged.
-False positive: "Bathshua" is a proper name (transliterated Hebrew) and stays as-is. "RV" is a scholarly abbreviation. Translation is correct throughout.
+Faux positif. RV est une abréviation savante. « Bathshua » est un nom propre conservé tel quel. Traduction correcte.

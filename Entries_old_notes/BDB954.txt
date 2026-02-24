@@ -1,1 +1,1 @@
-Minor style issue. "assyrien nom propre, d'un lieu" preserves the source structure. Slightly awkward but faithful and clear. No change needed.
+Faux positif. Traduction correcte.

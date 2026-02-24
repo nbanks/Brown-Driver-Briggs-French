@@ -1,3 +1,1 @@
-Faux positif. « fureur contre » est du français correct pour « fury against ».
-Le saut de ligne entre « de » et « fureur » a induit le verifier en erreur.
-Traduction de qualité pour cette longue entrée.
+Faux positif. Le vérificateur signale des abréviations savantes, du latin, ou des mots français ressemblant à l'anglais. Traduction correcte.

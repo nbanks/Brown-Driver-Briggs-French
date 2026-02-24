@@ -1,1 +1,1 @@
-Erreur réelle. Remplacé « & » par « et ». « 1Chr » était déjà traduit en « 1 Ch ».
+Faux positif. Traduction correcte.

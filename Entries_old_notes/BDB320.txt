@@ -1,1 +1,1 @@
-Faux positif. « 2 Kings, 1 Chronicles » est bien traduit en « 2 Rois, 1 Chroniques ». Traduction correcte, aucune modification.
+Faux positif. « 2 Kings, 1 Chronicles » est bien traduit en « 2 Rois, 1 Chroniques ». « Sm^Listen » est un artefact OCR présent dans la source anglaise.

@@ -1,2 +1,1 @@
-Flag: "accusatif" flagged as untranslated.
-False positive: "accusatif" IS a French grammatical term. No changes needed.
+Faux positif. Traduction correcte et très complète.

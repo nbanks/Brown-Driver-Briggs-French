@@ -1,1 +1,1 @@
-Faux positif. « Now » = abréviation savante de Nowack. Traduction correcte.
+Faux positif. « Os 5,13 » est correctement traduit (le saut de ligne entre « Os » et « 5,13 » a trompé le vérificateur). « Now » est l'abréviation savante de Nowack. « Vrss » est une abréviation standard.

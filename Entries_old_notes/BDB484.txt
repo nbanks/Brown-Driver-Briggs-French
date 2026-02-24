@@ -1,1 +1,1 @@
-False positive. "concret" and "pluriel" are correct French words. Translation is correct.
+Faux positif. Traduction correcte.

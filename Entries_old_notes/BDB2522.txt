@@ -1,2 +1,1 @@
-Flag: "Exod" not translated.
-False positive: The French correctly has "Ex" (not "Exod"). No changes needed.
+Faux positif. Traduction correcte.

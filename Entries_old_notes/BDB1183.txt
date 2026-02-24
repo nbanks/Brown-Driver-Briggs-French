@@ -1,1 +1,1 @@
-Minor fix. "phénicien nom propre, féminin" had English word order. Changed to "nom propre phénicien, féminin" for natural French word order.
+Faux positif. « nom propre phénicien, féminin » est l'ordre correct en français.

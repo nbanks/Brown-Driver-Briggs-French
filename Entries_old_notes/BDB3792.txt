@@ -1,2 +1,1 @@
-Flag: "Jesse" and "Bethlehemite" flagged as untranslated.
-False positive: French correctly has "Jesse le Bethlehemite" on line 21. Both are properly translated. No changes needed.
+Faux positif. Traduction correcte.

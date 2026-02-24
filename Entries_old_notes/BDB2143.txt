@@ -1,1 +1,1 @@
-False positive. "of dogs" IS translated as "de chiens" on line 20. No change needed.
+Faux positif. « de chiens » est la traduction correcte de « of dogs ».

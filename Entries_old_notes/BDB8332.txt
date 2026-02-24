@@ -1,2 +1,1 @@
-Flag: "Arabic Dichter" not translated.
-False positive: "Jacob^Arabic Dichter ii. 93, iv. 10 f.^" is a scholarly book title in superscript. Stays as-is. No changes needed.
+Faux positif. Traduction correcte. « Arabic Dichter » est un titre savant en allemand.

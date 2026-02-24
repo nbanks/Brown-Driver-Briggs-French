@@ -1,2 +1,1 @@
-Faux positif. « Manuscrits comparer » préserve le style télégraphique de
-l'original « Manuscripts compare ». Traduction correcte.
+Faux positif. « Manuscrits comparer » suit la structure de l'original « MSS compare » (liste de sources savantes).

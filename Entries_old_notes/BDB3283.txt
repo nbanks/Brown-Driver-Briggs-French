@@ -1,1 +1,1 @@
-Minor fix. "1st ed." changed to "1re éd." in bibliographic reference.
+Faux positif. « 1st ed. » dans une référence savante (notation bibliographique) reste en anglais par convention.

@@ -1,2 +1,1 @@
-Flag: French translation of biblical citation flagged as franglais.
-False positive: "Ioniens" IS the correct French for "Ionians". Translation is accurate. No changes needed.
+Faux positif. Traduction correcte.

@@ -1,0 +1,4 @@
+=== BDB999 ===
+Biblical Hebrew
+A simple entry with no Hebrew tokens at all.
+Just English text and references Gen 1:1.

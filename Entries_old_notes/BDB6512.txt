@@ -1,2 +1,1 @@
-Flag: "Desert of Exodus" not translated.
-False positive: This is a book title inside a scholarly citation (Palmer^Desert of Exodus^). No changes needed.
+Faux positif. Traduction correcte. « Desert of Exodus » est un titre d'ouvrage savant (Palmer).

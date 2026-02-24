@@ -1,2 +1,1 @@
-Flag: "classifications" and "Bethel" flagged.
-False positive: "classifications" is also a French word. "Bethel" does not appear in the French text. No changes needed.
+Faux positif. Traduction correcte.

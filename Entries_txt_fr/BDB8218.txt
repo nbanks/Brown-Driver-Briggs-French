@@ -1,23 +1,68 @@
 === BDB8218 H7879 ===
 hébreu biblique
 
-שִׂיחַ nom [masculin] plainte, méditation
-(sur √ II. שׂוח ; ou √ I. שׂיח) ; — absolu
-׳שׂ Ps 55,3 + ; construit שִׂיחַ Ps 102,1 ;
+שִׂיחַ
+nom masculin^
+Ps 104,34
 
-1. plainte Ps 55,3 (|| אָרִיד) Jb 7,13 ;
-Jb 9,27 ; Jb 10,1 ; Jb 21,4 ; 1 S 1,16 ;
-Ps 102,1.
+^
+plainte, méditation ; — absolu ׳
+שׂ
+1 R 18,27 ;
+Pr 23,29
+suffixe שִׂיחִי
+1 S 1,16 +,
+שִׂחִי
+Jb 23,2,
+שִׂיחוֺ
+2 R 9,11 ; Ps 102,1 —
 
-2. méditation Ps 104,34 ; Ps 119,97 ;
-Ps 119,99.
+1.
+plainte, lamentation :
+Jb 7,13 ; Jb 9,27 ; Jb 10,1 (||
+מר נפשׁ), Jb 21,4 ; Jb 23,2 ; Pr 23,29 ; Ps 55,3 (|| אָהִימָה) ; קוֺלִי
+בְּשִׁיחי
+Ps 64,2
+׳
+לפני י
+׳
+שָׁפַךְ שׂ
+Ps 102,1 ;
+Ps 142,3.
+Les suivants sont douteux :
 
-3. souci, anxiété (douter Che) Ps 119,148 ;
-Ps 142,3 ; Pr 23,29 (> conversation Str).
+2.
+méditation, 1 R 18,27 (
+E
+) d'un dieu, || שִׂיג לוֺ, (ainsi
+RV
+; SS
+'nachdenken' ; Buhl
+'beschäftigt sein' ;
+AV
 
-4. discours, parole Ps 69,13 sujet de raillerie
-(|| נְגִינוֺת).
+discours) ; Ps 104,34 de l'homme (Buhl
+SS. Bae
+'Rede, oder Gesang'). — Voir aussi [שֵׂחַ] ci-dessous
+
+3.
+anxiété, souci :
+מֵרֹב שִׂיחִי
+1 S 1,16
+(défini dans
+
+ᵑ0
+
+par כַּעַס, comparer HPS ; ainsi Buhl
+SS, mais peut-être = 1).
+
+4.
+discours :
+שִׂיחוֺ
+2 R 9,11 (ainsi
+
+RV
+
+SS, mais sens obscur dans le contexte).
 
 ---
-
-

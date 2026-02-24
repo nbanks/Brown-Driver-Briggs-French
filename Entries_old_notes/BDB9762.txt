@@ -1,2 +1,1 @@
-Flag: "Euseb" not translated to "Eusèbe".
-False positive: French correctly has "Eusèbe" with accent on line 21. Flag is incorrect. No changes needed.
+Faux positif. « Enoch », « Praep. Evang. » et « Atim Licht d. AO » sont des références savantes conservées telles quelles.

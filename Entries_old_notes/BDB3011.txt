@@ -1,2 +1,1 @@
-Faux positif. « Qor » n'est pas une référence coranique mais une abréviation
-savante du BDB. Traduction correcte.
+Faux positif. Le vérificateur signale des abréviations savantes, du latin, ou des mots français ressemblant à l'anglais. Traduction correcte.

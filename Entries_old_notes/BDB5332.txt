@@ -1,2 +1,1 @@
-Flag: "Eccl 40:14" should be Qo, and "doth vanish" untranslated.
-False positive: "Ecclus 40,14" is correct -- ch.40 means this is Ecclesiasticus (Sirach), not Ecclesiastes. "doth vanish" is translated as "s'evanouit". No changes needed.
+Faux positif. Traduction correcte.

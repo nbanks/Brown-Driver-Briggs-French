@@ -1,1 +1,1 @@
-False positive. "épha" is acceptable French for "ephah". No change needed.
+Faux positif. Les éléments signalés sont des abréviations ou termes savants à conserver.

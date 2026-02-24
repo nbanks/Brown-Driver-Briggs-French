@@ -1,15 +1,23 @@
-=== BDB5627 H5559 ===
-araméen biblique
+=== BDB5627 H5266 ===
+hébreu biblique
 
-סְלֵק verbe
-monter (emprunt à l'araméen ; ᵑ7 סְלֵק
-id. ; syriaque
-[placeholder3591: Placeholders/3591.gif]) ; —
+סָלֵק
+verbe
+monter (emprunt à l'araméen סְלֵיק,
+[placeholder3597: Placeholders/3597.gif] ; palmyrénien סלק
+id., Lzb^329^
+Cook^85^ ; hébreu tardif סלק Pi`el
+retirer ; arabe
+[placeholder3598: Placeholders/3598.gif]
+monter, Lane^1410^ (aussi emprunt ?)) ; —
+seulement
 
-Pe`al
-Parfait 3 masculin singulier סְלֵק
-Esd 4,12 il est monté (sujet personne) ; Participe actif סָלֵק
-Dn 7,8 montant.
+Qal
+Imparfait 1 singulier אֶסַּק
+Ps 139,8
+si je monte au ciel (שָׁמַיִם ), tu es là (sur la forme, =
+אֶסְלַק ֗֗֗ , voir Ges^«GKC:66e»§ 66e^
+Kö^i. 301^
+Kau^§ 44^).
 
 ---
-

@@ -1,2 +1,1 @@
-Flag: "Qo 15,4" impossible reference (Ecclesiastes has 12 chapters).
-False positive: English source has "Eccl 15:4" -- pre-existing source data error. Translation correctly renders "Eccl" as "Qo". No changes needed.
+Faux positif. Traduction correcte.

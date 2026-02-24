@@ -1,1 +1,1 @@
-Erreur réelle. Corrigé « & » en « et », « exil Ésaïe » en « Ésaïe de l'exil » (Deutéro-Ésaïe), ajouté l'article « le feu ».
+Faux positif. Tous les « & » sont traduits par « et ». « exile Isaiah » → « Ésaïe de l'exil » est correct.

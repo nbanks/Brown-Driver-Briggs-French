@@ -1,1 +1,1 @@
-False positive. "et voici" is correct French for "and behold".
+Faux positif. Traduction correcte.

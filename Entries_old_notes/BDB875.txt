@@ -1,1 +1,1 @@
-Erreur réelle partielle. Corrigé « & » en « et » et « 2nd éd. » en « 2ᵉ éd. » (numérotation française). Les « milles » étaient déjà corrects.
+Faux positif. Traduction fidèle et complète.

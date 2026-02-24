@@ -1,2 +1,1 @@
-Flag: "Job and Solomon" not translated.
-False positive: "Job and Solomon" is inside a scholarly superscript (Che^Job and Solomon^) -- it's a book title. Stays in English. No changes needed.
+Faux positif. Traduction correcte.

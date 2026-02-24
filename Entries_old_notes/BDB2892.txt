@@ -1,2 +1,1 @@
-Flag: "homer" not translated.
-False positive: "homer" is the standard transliteration of the Hebrew dry measure, used in French biblical scholarship. No changes needed.
+Faux positif. Traduction correcte. « 2e éd. » correct pour « 2nd ed. ».

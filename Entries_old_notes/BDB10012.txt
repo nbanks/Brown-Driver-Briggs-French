@@ -1,2 +1,1 @@
-Flag: "Pe`il" and "ב de balances" flagged.
-False positive: "Peil" is an Aramaic verbal theme name (like Qal, Piel). "ב de balances" correctly translates "ב of scales". No changes needed.
+Faux positif. Traduction correcte.

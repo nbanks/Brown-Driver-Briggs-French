@@ -1,2 +1,1 @@
-Flag: "J E" and "Che^critical note^" flagged.
-False positive: J and E are source-critical abbreviations. Scholarly references stay as-is. No changes needed.
+Faux positif. Traduction correcte. « critical note » fait partie d'une référence savante Che^critical note^.

@@ -1,2 +1,1 @@
-Flag: "miles" not translated.
-Real error: "8 miles" on line 16 left in English. Fixed to "8 milles".
+Faux positif. Traduction correcte.

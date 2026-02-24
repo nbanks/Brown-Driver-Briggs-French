@@ -1,1 +1,1 @@
-False positive. "comparer anglais be in bad odour" is a cross-linguistic note citing the English idiom as a parallel. The English expression is deliberately kept as the cited term. No change needed.
+Faux positif. Traduction correcte. Les éléments signalés sont des abréviations savantes ou des termes identiques en français et en anglais.

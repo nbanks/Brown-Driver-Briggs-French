@@ -1,1 +1,1 @@
-False positive. "est courir follement", "figuré être éperdu", "murmureront d'hommes" are correct French renderings of BDB shorthand. Translation is correct.
+Faux positif. Traduction correcte.

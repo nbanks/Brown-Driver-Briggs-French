@@ -1,1 +1,1 @@
-False positive. "Joiakîn" already has circumflex. "Pedaja" is an acceptable French transliteration of פְּדָיָה. Translation is correct.
+Faux positif. Traduction correcte.

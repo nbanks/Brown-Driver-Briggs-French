@@ -1,1 +1,1 @@
-Real error. Word order: "phénicien nom propre", "sabéen nom propre", "palmyrénien nom propre" fixed to "nom propre phénicien/sabéen/palmyrénien".
+Faux positif. Les éléments signalés sont des abréviations ou termes savants à conserver.

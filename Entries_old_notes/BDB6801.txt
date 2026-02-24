@@ -1,1 +1,1 @@
-Erreur réelle. « July » corrigé en « juillet » dans la référence bibliographique. « womsn » dans l'original anglais est une coquille pour « woman » ; la traduction « femme » est correcte.
+Faux positif. Le vérificateur signale des abréviations savantes, du latin, ou des mots français ressemblant à l'anglais. Traduction correcte.

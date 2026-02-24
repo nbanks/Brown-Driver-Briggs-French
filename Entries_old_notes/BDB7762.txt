@@ -1,2 +1,1 @@
-Flag: "araméen biblique araméen" redundant.
-False positive: English source has "Biblical Aramaic Aramaic" -- pre-existing redundancy in source data. French faithfully reproduces it. No changes needed.
+Faux positif. Traduction correcte.

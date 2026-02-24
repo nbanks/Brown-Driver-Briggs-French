@@ -1,1 +1,1 @@
-Faux positif. Les références sont bien traduites (Jos, Os, etc.). Traduction correcte.
+Faux positif. Le vérificateur signale des abréviations savantes, du latin, ou des mots français ressemblant à l'anglais. Traduction correcte.

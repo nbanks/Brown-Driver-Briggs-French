@@ -1,1 +1,1 @@
-False positive. "instruments" is the same word in French. All scholarly abbreviations are correctly preserved. No change needed.
+Faux positif. « instruments » est le même mot en français et en anglais. « comparer » est le style standard du BDB.

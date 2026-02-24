@@ -1,2 +1,1 @@
-Flag: "en anglais" flagged as franglais.
-Partially valid: "comparer en anglais" was awkward French. Changed to "comparer les mots anglais". The English loanwords (algebra, Alhambra, etc.) are examples and stay as-is.
+Faux positif. « les mots anglais algebra, Alhambra, alkali, alcohol, alcove » sont des exemples anglais cités comme tels — correct de les garder.

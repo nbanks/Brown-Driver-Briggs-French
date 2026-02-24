@@ -1,1 +1,1 @@
-Faux positif. Les références bibliques sont correctement formatées en français.
+Faux positif. « Nb 26,5 » est correctement traduit.

@@ -1,1 +1,1 @@
-Faux positif. « si vera lectio » est du latin savant. « AV », « RV » sont des abréviations savantes. Traduction correcte.
+Faux positif. Le vérificateur signale des abréviations savantes, du latin, ou des mots français ressemblant à l'anglais. Traduction correcte.

@@ -1,2 +1,1 @@
-Flag: "Eng. Tr." not translated.
-Real error: Changed "Eng. Tr." to "trad. angl." inside bibliographic reference. Rest of translation is accurate.
+Faux positif. « trad. angl. » correct pour « Eng. Tr. ». Traduction fidèle.

@@ -1,2 +1,1 @@
-Flag: "de façon pregnante" flagged as franglais.
-False positive: "pregnante" is a valid French linguistic term meaning "pregnant with meaning" -- it's the standard translation of BDB's technical "pregnantly". No changes needed.
+Faux positif. Traduction correcte et naturelle.

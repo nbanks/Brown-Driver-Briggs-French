@@ -1,2 +1,1 @@
-Faux positif. « part, portion » sont des mots français identiques à
-l'anglais. Traduction correcte.
+Faux positif. Le vérificateur signale des abréviations savantes, du latin, ou des mots français ressemblant à l'anglais. Traduction correcte.

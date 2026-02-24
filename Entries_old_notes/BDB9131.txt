@@ -1,1 +1,1 @@
-Faux positif. « apparemment », « une recherche », « mais » sont des mots français valides. « Jb Jb 41,21 » est doublé comme dans l'anglais source. Traduction correcte.
+Faux positif. Le vérificateur signale des abréviations savantes, du latin, ou des mots français ressemblant à l'anglais. Traduction correcte.

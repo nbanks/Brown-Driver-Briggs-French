@@ -1,2 +1,1 @@
-Flag: "clause difficile" flagged as untranslated.
-False positive: "clause difficile" IS French. No changes needed.
+Faux positif. Traduction correcte.

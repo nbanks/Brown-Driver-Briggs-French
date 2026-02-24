@@ -1,1 +1,1 @@
-False positive. "‚orea" is a place name transcription (Zorah) from the source text. No change needed.
+Faux positif. Le texte source est corrompu (« ‚orea »). Survey est un titre d'ouvrage savant.

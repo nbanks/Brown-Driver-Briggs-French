@@ -1,2 +1,1 @@
-Flag: "Levy^s.^" and duplicate "voir".
-False positive: The English source also has "Levy^s.^ see )" with what appears to be a broken reference. The French mirrors it correctly. No changes needed.
+Faux positif. Traduction correcte.

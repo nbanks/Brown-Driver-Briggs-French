@@ -1,1 +1,1 @@
-Minor fix. "Philadelphia" changed to "Philadelphie" (3 occurrences). "miles" and "East of Jordan" (book title) left as-is.
+Faux positif. Traduction correcte. Les éléments signalés sont des abréviations savantes ou des termes identiques en français et en anglais.

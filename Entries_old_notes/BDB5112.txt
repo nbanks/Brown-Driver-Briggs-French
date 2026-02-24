@@ -1,2 +1,1 @@
-Flag: "la vue differente de Wkl" flagged as bad translation.
-False positive: "vue" for "view" (opinion) is correct French. No changes needed.
+Faux positif. Traduction correcte et très complète.

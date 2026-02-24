@@ -1,1 +1,0 @@
-Faux positif. Traduction correcte. Les « & » restants sont dans un contexte de liste savante dense.

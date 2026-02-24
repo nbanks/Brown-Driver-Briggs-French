@@ -1,2 +1,1 @@
-Flag: "SI" and "article Poids et Mesures" flagged.
-False positive: "SI" is a scholarly abbreviation (Siloam Inscription) -- kept as-is per rules. "article Poids et Mesures" is correct French for "article Weights and Measures". Translation is thorough and accurate for this very long entry.
+Faux positif. Traduction correcte. Les titres d'ouvrages savants en allemand et les sigles sont conservés tels quels.

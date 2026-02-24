@@ -1,1 +1,1 @@
-False positive. "enjoying" was correctly translated as "jouissant". "rab." is a scholarly abbreviation kept as-is. No change needed.
+Faux positif. « enjoying » a été correctement traduit par « jouissant ». « rab. » est une abréviation acceptable.

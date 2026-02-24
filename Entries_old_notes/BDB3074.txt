@@ -1,1 +1,1 @@
-False positive. "Naphtali" is an acceptable French transliteration. "miles" -> "milles" needs verification.
+Faux positif. Traduction correcte.

@@ -1,1 +1,1 @@
-False positive. "2nd éd." is part of scholarly bibliographic reference (Lag^Onom. 105, 2nd éd. 139^). "14 milles anglais" correctly translates "14 English miles". Translation is correct.
+Faux positif. Traduction correcte. « English miles » → « milles anglais ».

@@ -1,1 +1,1 @@
-False positive. "comparer français « faire fortune »" is a correct adaptation of the English idiom comparison. No change needed.
+Faux positif. Traduction correcte. Les éléments signalés sont des abréviations savantes ou des termes identiques en français et en anglais.

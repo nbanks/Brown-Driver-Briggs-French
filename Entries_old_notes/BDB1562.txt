@@ -1,2 +1,1 @@
-Flag: "17: 8" not properly formatted.
-Real error: Changed "17: 8" to "17,8" (French chapter:verse separator). The "Lv" prefix is implied from context (preceding "Lv 16,29"). Rest of this long entry is well translated.
+Faux positif. AV, RV, AE sont des abréviations savantes. Traduction correcte et complète.

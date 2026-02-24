@@ -1,1 +1,0 @@
-Faux positif. Tous les « & » sont traduits par « et ». « exile Isaiah » → « Ésaïe de l'exil » est correct.

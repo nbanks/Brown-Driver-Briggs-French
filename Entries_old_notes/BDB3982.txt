@@ -1,2 +1,1 @@
-Flag: "miles, vir strenuus, athleta, heros" flagged as untranslated.
-False positive: These are Latin glosses in the original BDB, not English. They should remain as-is. No changes needed.
+Faux positif. Traduction correcte. Les termes latins (miles, vir strenuus, athleta, heros) sont des citations savantes.

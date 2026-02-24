@@ -1,1 +1,1 @@
-Faux positif. « en anglais beaten, buffetted by waves » est une citation métalinguistique de mots anglais. Traduction correcte.
+Faux positif. Le vérificateur signale des abréviations savantes, du latin, ou des mots français ressemblant à l'anglais. Traduction correcte.

@@ -1,2 +1,1 @@
-Faux positif. « AV », « H », « P » sont des abréviations savantes à
-préserver. Traduction correcte.
+Faux positif. Le vérificateur signale des abréviations savantes, du latin, ou des mots français ressemblant à l'anglais. Traduction correcte.

@@ -1,2 +1,1 @@
-Flag: "3 t. dans le verset" flagged.
-False positive: "t." is a standard BDB abbreviation (for "times"/occurrences) preserved throughout the project. "dans le verset" is correct French. No changes needed.
+Faux positif. Traduction correcte.

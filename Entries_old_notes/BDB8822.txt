@@ -1,2 +1,1 @@
-Flag: "sur la forme comparer" flagged.
-False positive: "comparer" is the standard French infinitive used throughout the translation. No changes needed.
+Faux positif. Traduction correcte.

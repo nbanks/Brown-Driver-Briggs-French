@@ -1,0 +1,4 @@
+=== BDB999 ===
+hébreu biblique
+Une entrée simple sans aucun token hébreu.
+Juste du texte français et des références Gn 1,1.

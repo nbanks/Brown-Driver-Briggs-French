@@ -1,1 +1,1 @@
-False positive. "Jos" is the correct French abbreviation for Josué. "miles" -> "milles" needs verification.
+Faux positif. Traduction correcte.

@@ -1,2 +1,1 @@
-Flag: "RV" and "Others" flagged.
-False positive: "RV" is a scholarly abbreviation (Revised Version) -- stays as-is. "D'autres" is correct French for "Others". No changes needed.
+Faux positif. RV est une abréviation savante. « pieds » acceptable pour « feet » dans un contexte de mesure historique.

@@ -1,2 +1,1 @@
-Flag: "miles" untranslated, "Euphrates" untranslated.
-Partially valid: "miles" changed to "milles". "Euphrates" flag is false positive -- translation already has "l'Euphrate" (correct French). Also "f^" correctly changed to "s^" (for "suivant").
+Faux positif. « milles » est correct (francisation de « miles »). « l'Euphrate » et « Babylone » sont bien traduits. « s^ » pour « f^ » (suivant/following) est acceptable.

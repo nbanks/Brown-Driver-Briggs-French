@@ -1,2 +1,1 @@
-Flag: "suffixe" flagged.
-False positive: "suffixe" is standard BDB morphological notation. No changes needed.
+Faux positif. Traduction correcte.

@@ -1,1 +1,1 @@
-False positive. "opposé à cela" is reasonable French. No change needed.
+Faux positif. Les éléments signalés sont des abréviations ou termes savants à conserver.

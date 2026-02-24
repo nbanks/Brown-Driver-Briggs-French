@@ -1,2 +1,1 @@
-Flag: "district" flagged as untranslated English.
-False positive: "district" IS a French word. No changes needed.
+Faux positif. Traduction correcte.

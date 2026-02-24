@@ -1,2 +1,1 @@
-Flag: "Chatti" flagged as untranslated.
-False positive: "Chatti" is the Assyrian proper name for a people, used in its original scholarly context. It must remain as-is. Translation is thorough and accurate.
+Faux positif. Traduction correcte.

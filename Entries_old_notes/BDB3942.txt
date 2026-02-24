@@ -1,2 +1,1 @@
-Flag: "II. est entasser" flagged as bad structure.
-Real error: "II. est entasser" calques English "II. is heap up". Removed "est" to get "II. entasser".
+Faux positif. Traduction correcte.

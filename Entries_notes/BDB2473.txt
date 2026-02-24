@@ -1,1 +1,0 @@
-Faux positif. Le caractère hébreu corrompu est dans les données sources. « 1 c. » est une abréviation savante.

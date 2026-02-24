@@ -1,1 +1,1 @@
-False positive. "les premiers fruits du grain" is an acceptable rendering of "the first of grain". The term "prémices" is already used in the heading. Translation is correct.
+Faux positif. Traduction correcte.

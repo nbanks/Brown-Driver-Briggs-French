@@ -1,2 +1,1 @@
-Flag: "Hi EW Kn", "Vrss", "AV" not translated.
-False positive: All are scholarly abbreviations that stay as-is per project rules. No changes needed.
+Faux positif. AV est une abréviation savante. Traduction correcte.

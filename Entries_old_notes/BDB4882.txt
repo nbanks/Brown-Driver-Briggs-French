@@ -1,2 +1,1 @@
-Flag: "Ezech. xiv" should have accent.
-False positive: "Ezech. xiv" is inside a bibliographic reference (Dl^Baer, Ezech. xiv^), not running text. No changes needed.
+Faux positif. Traduction correcte.

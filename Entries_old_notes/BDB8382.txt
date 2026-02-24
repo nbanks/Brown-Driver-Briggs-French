@@ -1,2 +1,1 @@
-Flag: "Semitic W." flagged as untranslated.
-False positive: "Nö^Beitr. r. Semitic W. 30^" is a scholarly citation in superscript. Stays as-is. No changes needed.
+Faux positif. Traduction correcte. « Beitr. r. Semitic W. » et « Beiträge » sont des titres savants.

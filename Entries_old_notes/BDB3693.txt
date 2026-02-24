@@ -1,1 +1,1 @@
-False positive. "above" is correctly translated as "ci-dessus". No change needed.
+Faux positif. « ci-dessus » traduit correctement « above ».

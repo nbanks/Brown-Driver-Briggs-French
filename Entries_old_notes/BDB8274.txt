@@ -1,1 +1,1 @@
-False positive. "identification" is the same word in French and English. Translation is correct.
+Faux positif. Traduction correcte.

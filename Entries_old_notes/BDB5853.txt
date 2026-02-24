@@ -1,1 +1,1 @@
-False positive. "Og" is a proper name, same in French. "peculiarly" correctly translated as "singulièrement". No change needed.
+Faux positif. Les éléments signalés sont des abréviations ou termes savants à conserver.

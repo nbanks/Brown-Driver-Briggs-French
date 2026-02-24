@@ -1,2 +1,1 @@
-Flag: "Albr^ZAW xvi (1896) 75" flagged.
-False positive: Scholarly citation (Albright, ZAW journal). No changes needed.
+Faux positif. Traduction correcte.

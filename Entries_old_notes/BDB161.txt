@@ -1,3 +1,1 @@
-Faux positif. Le verifier a signalé « loan-word » comme non traduit, mais
-le français a correctement « emprunt » (ligne 5). Traduction correcte dans
-l'ensemble -- aucune modification nécessaire.
+Faux positif. Tous les éléments signalés sont déjà correctement traduits : « loan-word » → « emprunt », « little tents » → « petites tentes », « perhaps error » → « peut-être erreur », références bibliques converties (Nb, Pr, Ct, Dn).

@@ -1,2 +1,1 @@
-Flag: "fine poussière" flagged as franglais.
-False positive: "fine poussière" is acceptable literary French (for "fine dust"). No changes needed.
+Faux positif. Traduction correcte.

@@ -1,1 +1,1 @@
-False positive. "3te Aufl." is German inside a scholarly reference superscript. "et elle appela la servante" is correct French. No change needed.
+Faux positif. Les éléments signalés sont des abréviations ou termes savants à conserver.

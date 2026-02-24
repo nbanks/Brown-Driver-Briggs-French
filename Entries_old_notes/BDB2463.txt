@@ -1,1 +1,1 @@
-Minor fix. "and in proper name, Id. in" inside a bibliographic reference was English. Changed to "et dans nom propre, Id. dans".
+Faux positif. « Jg 31,8 » est une erreur dans les données sources, pas dans la traduction. Les abréviations sabéennes sont correctement traitées.

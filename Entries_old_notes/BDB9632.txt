@@ -1,2 +1,1 @@
-Flag: "Teima" missing circumflex.
-Real error: "araméen de Teima" should be "araméen de Têma" (matching English source "Têma"). Fixed.
+Faux positif. « Aramaic Dialektproben » est un titre savant allemand conservé tel quel.

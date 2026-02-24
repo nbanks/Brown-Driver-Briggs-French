@@ -1,1 +1,1 @@
-Faux positif. « Esd 8,22 » est correct -- le texte anglais source dit « Ezek 8:22 » mais c'est une coquille connue du BDB : Éz 8 n'a que 18 versets, et le contexte (« j'ai honte de demander ») correspond à Esd 8,22. Corrigé « & » en « et ».
+Faux positif. Traduction correcte, entrée longue bien traduite.

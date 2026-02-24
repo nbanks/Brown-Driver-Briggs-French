@@ -1,1 +1,1 @@
-False positive. "s'assembler en tant que" is correct French for "assemble as". No change needed.
+Faux positif. Le style lexicographique abrégé du BDB est fidèlement reproduit.

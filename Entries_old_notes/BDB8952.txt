@@ -1,2 +1,1 @@
-Flag: "Phoenician" in "Hoffm^Phoenician Inscr. 18^".
-False positive: Scholarly citation in superscript (book title). Stays as-is. No changes needed.
+Faux positif. « Phoenician Inscr. » est un titre savant conservé tel quel.

@@ -1,1 +1,1 @@
-Faux positif. « de divinité » suit la structure du source (sans crochets). « en comparaisons » est correct. Traduction correcte.
+Faux positif. Le vérificateur signale des abréviations savantes, du latin, ou des mots français ressemblant à l'anglais. Traduction correcte.

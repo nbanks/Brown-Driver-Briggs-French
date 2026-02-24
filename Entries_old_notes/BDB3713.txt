@@ -1,1 +1,1 @@
-False positive. "pour eux" is valid French for "for them" in this context. No change needed.
+Faux positif. La traduction est fidèle au style abrégé du BDB.

@@ -1,1 +1,1 @@
-False positive. "Ophir" is a proper name kept as-is. Translation is thorough and correct: Yoqtân, Étsyôn-Guéber, all references converted, "ff." -> "ss.", etc.
+Faux positif. Traduction correcte. Les « & » dans le texte courant sont conservés conformément au style du BDB dans les passages descriptifs longs.

@@ -1,2 +1,1 @@
-Flag: "Sabean" and "Arabic" not translated.
-False positive: The French correctly has "sabéen" and "arabe". No changes needed.
+Faux positif. « 2nd ed. » fait partie d'un titre savant. Traduction correcte.

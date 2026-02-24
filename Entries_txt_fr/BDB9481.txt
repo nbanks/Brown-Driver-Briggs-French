@@ -1,18 +1,23 @@
 === BDB9481 H2084 ===
 araméen biblique
 
-[זְבַן] verbe acheter, acquérir (hébreu biblique
-זבן
-inusité ; ᵑ7 זְבַן
-acheter ; syriaque
-[placeholder5593: Placeholders/5593.gif]
-id. ; mandéen זבן ; arabe
-[placeholder5594: Placeholders/5594.gif]
-, éthiopien
-[placeholder5595: Placeholders/5595.gif]
-) ; — Qal Parfait 3 pluriel
-זְבַ֫נוּ
-Esd 7,17.
+ז
+
+[זְבַן] verbe
+acheter, acquérir (
+
+ᵑ7
+
+id., acheter, syriaque
+[placeholder6000: Placeholders/6000.gif] ancien araméen, nabatéen, palmyrénien זבן (souvent)
+Lzb^266^
+SAC^47^, comparer assyrien
+zibânîtu
+, balances) ; —
+
+Peal
+Participe
+actif pluriel זָבְנִין
+Dn 2,8 du temps vous (cherchez à) gagner.
 
 ---
-

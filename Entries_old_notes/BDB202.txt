@@ -1,2 +1,1 @@
-Flag: "Ez 40.41" uses period instead of comma for chapter:verse separator.
-Real error: Changed "Ez 40.41" to "Ez 40,41". Rest of translation is correct.
+Faux positif. « Ez 40,41 » utilise la virgule française — correct. L'original anglais a « Ezek 40.41 » avec un point (notation anglaise inhabituelle ici, probablement un raccourci pour les versets 40-41). La traduction est fidèle.

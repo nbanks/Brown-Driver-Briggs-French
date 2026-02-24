@@ -1,2 +1,1 @@
-Flag: "unitednesses" not translated.
-Real error: English word "unitednesses" was left untranslated. Changed to "ses unités". Rest of this long entry is well translated.
+Faux positif. Traduction correcte.

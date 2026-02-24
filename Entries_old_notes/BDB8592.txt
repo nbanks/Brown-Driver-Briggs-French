@@ -1,2 +1,1 @@
-Flag: "AV" and "ONYCHA" flagged as untranslated.
-False positive: "AV" is a scholarly abbreviation (Authorized Version). "ONYCHA" is inside superscript "Shipley-Cook^Ency. Bib. ONYCHA^". No changes needed.
+Faux positif. Traduction correcte.

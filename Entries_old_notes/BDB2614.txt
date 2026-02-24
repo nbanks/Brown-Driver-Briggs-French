@@ -1,1 +1,1 @@
-False positive. Scholarly abbreviations (Th) not to be translated. Translation is correct.
+Faux positif. Traduction correcte.

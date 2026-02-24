@@ -1,1 +1,1 @@
-False positive. "comme parfois en français" is a good adaptation of "as sometimes in English". No change needed.
+Faux positif. Traduction correcte. Les éléments signalés sont des abréviations savantes ou des termes identiques en français et en anglais.

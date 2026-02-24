@@ -1,2 +1,1 @@
-Faux positif. « Ke Or » sont deux abréviations savantes séparées
-(Keil et Orelli). Traduction correcte.
+Faux positif. Le vérificateur signale des abréviations savantes, du latin, ou des mots français ressemblant à l'anglais. Traduction correcte.

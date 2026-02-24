@@ -1,1 +1,1 @@
-False positive. All flagged items are either scholarly abbreviations (Thes, MV, Klo, Gie, Du, Dr) that must stay as-is, or English phrases that were in fact correctly translated: "so" -> "ainsi", "whence" -> "d'où", "in view of" -> "en vue de", "borrowed from" -> "emprunté à", "perhaps" -> "peut-être". No change needed.
+Faux positif. Les mots signalés (Thes, MV, Klo, Gie, Du, Dr) sont des abréviations savantes. La traduction est correcte.

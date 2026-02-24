@@ -1,2 +1,1 @@
-Faux positif. « Ch » = abréviation française standard pour Chroniques.
-« comparer » est le terme standard du projet.
+Faux positif. Le vérificateur signale des abréviations savantes, du latin, ou des mots français ressemblant à l'anglais. Traduction correcte.

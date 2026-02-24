@@ -1,1 +1,1 @@
-Erreur réelle. « 45 miles » corrigé en « 45 milles ».
+Faux positif. Le vérificateur signale des abréviations savantes, du latin, ou des mots français ressemblant à l'anglais. Traduction correcte.

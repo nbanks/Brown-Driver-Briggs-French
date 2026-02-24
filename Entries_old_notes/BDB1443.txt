@@ -1,1 +1,1 @@
-False positive. "collectivea" in the English source is a formatting artifact (superscript "a" attached to "collective"). The French "nom collectif" is correct. No change needed.
+Faux positif. Vérifier « collectivea » -- si présent dans l'original c'est une erreur de source. « du précédent avec article » est acceptable en style lexicographique.

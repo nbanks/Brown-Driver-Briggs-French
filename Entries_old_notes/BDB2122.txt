@@ -1,2 +1,1 @@
-Flag: "Asa" flagged.
-False positive: "Asa" is a proper name, same in French. The confusing "Jl 1 Ch 4,2" on line 56 reflects the source's own formatting issue ("Joel 1Chr 4:2" in the original). No changes needed.
+Faux positif. Traduction correcte.

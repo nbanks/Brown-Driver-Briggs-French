@@ -1,1 +1,1 @@
-Traduction avec contenu différent. Le français omet le Hithpa`al (Dn 2,44 ; Dn 6,27 ; Dn 7,14 dans l'anglais) et a des formes/références différentes. Nécessite une vérification approfondie.
+Faux positif. Le vérificateur signale des abréviations savantes, du latin, ou des mots français ressemblant à l'anglais. Traduction correcte.

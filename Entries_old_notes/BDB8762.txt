@@ -1,2 +1,1 @@
-Flag: "32 Ki" flagged as untranslated English.
-False positive: "Ki" is a pre-existing source abbreviation for Kings that appears in both English and French texts. No changes needed.
+Faux positif. Traduction correcte.

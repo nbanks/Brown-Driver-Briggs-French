@@ -1,1 +1,1 @@
-False positive. "Ps" is correct French abbreviation. Hebrew is copied from source. No change needed.
+Faux positif. Traduction correcte. Les éléments signalés sont des abréviations savantes ou des termes identiques en français et en anglais.

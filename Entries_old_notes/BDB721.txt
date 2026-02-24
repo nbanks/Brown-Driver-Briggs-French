@@ -1,2 +1,1 @@
-Faux positif. « articles de commerce » est du français correct pour
-« articles of commerce ». Le verifier s'est trompé. Traduction de qualité.
+Essentiellement faux positif. Corrigé « & » → « et » (2 occurrences). « articles de commerce » est du français correct. « dans une comparaison » est acceptable pour « in simile ».

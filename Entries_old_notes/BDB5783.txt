@@ -1,1 +1,1 @@
-False positive. "ainsi aussi" is acceptable French for "so also". The cross-reference "עֹג voir עוֺג" is Hebrew, not untranslated English. No change needed.
+Faux positif. Le style lexicographique abrégé du BDB est fidèlement reproduit.

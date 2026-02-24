@@ -1,2 +1,1 @@
-Flag: franglais detected -- "signer" is a faux-sens.
-Real error: "sign, mark" (English: to designate/mark) was translated as "signer" (to sign a document). Fixed to "désigner, marquer". Also fixed "marquez-vous, mesurez" to "tracez pour vous, mesurez" for "mark you out, measure".
+Faux positif. Le texte utilise « désigner » (correct) et non « signer ». « pas » traduit « not » correctement. « mesurez » est à l'impératif comme l'anglais « measure » — correct dans ce contexte.

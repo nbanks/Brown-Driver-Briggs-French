@@ -1,1 +1,1 @@
-False positive. "Ct 19,10" and "Ct 26,1" are impossible Song of Songs references but mirror the source data ("Song 19:10", "Song 26:1"). Source data issue, not translation error.
+Faux positif. Erreur dans les données sources, pas dans la traduction.

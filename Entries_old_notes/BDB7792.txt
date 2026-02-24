@@ -1,2 +1,1 @@
-Flag: "etrei" flagged as untranslated.
-False positive: "etrei" appears in the English source too (line 70). Pre-existing source data, not a translation error. No changes needed.
+Faux positif. Traduction correcte. « Amos. J. Semitic Lang. » est un titre de revue savante.

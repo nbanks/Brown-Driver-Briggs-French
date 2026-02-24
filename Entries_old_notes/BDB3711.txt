@@ -1,2 +1,1 @@
-Erreur mineure. « Nephthali » corrigé en « Nephtali ». « Survey » est une
-abréviation savante (Survey of Western Palestine) à préserver.
+Faux positif. Le vérificateur signale des abréviations savantes, du latin, ou des mots français ressemblant à l'anglais. Traduction correcte.

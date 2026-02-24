@@ -1,1 +1,1 @@
-False positive. "We comparer Dr" and "Dr comparer We" are scholarly abbreviations (Wellhausen, Driver) with French infinitive "comparer" correctly translating the English imperative "compare". "supprimer" correctly translates "strike out". No change needed.
+Faux positif. « We » est l'abréviation savante de Wellhausen, pas le pronom anglais. « We comparer Dr » est correct.

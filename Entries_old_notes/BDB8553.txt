@@ -1,1 +1,1 @@
-False positive. "Ex" and "Ps" are correct French abbreviations. No change needed.
+Faux positif. Traduction correcte. Les éléments signalés sont des abréviations savantes ou des termes identiques en français et en anglais.
