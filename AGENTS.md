@@ -7,7 +7,8 @@ jamais altérer les données sources hébraïques ou les balises structurelles.
 
 ## État actuel et tâches en cours
 
-Voir `doc/todo.md` pour la liste détaillée des tâches. Après chaque étape
+Voir `doc/todo.md` pour la liste détaillée des tâches (actuellement centrée sur
+llm_verify et la correction des traductions signalées). Après chaque étape
 terminée, mettre à jour `doc/todo.md` et passer à l'étape suivante sauf
 instruction contraire.
 
@@ -36,14 +37,17 @@ Brown-Driver-Briggs-Enhanced/
     json_output/        # JSON anglais, un fichier par entrée BDB (source)
     json_output_fr/     # JSON français, un fichier par entrée BDB (cible)
     Placeholders/       # ~6 200 images GIF de scripts de langues apparentées
+    doc/                # Documentation du projet (todo.md, analyses, etc.)
     scripts/            # Outils du pipeline de traduction
         extract_txt.py  # Entries/ -> Entries_txt/ (extraction déterministe)
         validate_html.py # Vérification de Entries_fr/ contre originaux
         untranslated.py # Liste les fichiers non encore traduits
+        llm_verify.py   # Vérification par LLM local des traductions txt_fr
+    test/               # Données de test pour llm_verify (rarement modifié)
+    llm_verify_txt_results.txt  # Résultats de vérification LLM des Entries_txt_fr/
     bdbToStrongsMapping.csv
     placeholders.csv
-    CLAUDE.md           # Instructions spécifiques au projet
-    AGENTS.md           # Ce fichier -- instructions pour les agents LLM
+    AGENTS.md           # Ce fichier (symlinké comme CLAUDE.md et GEMINI.md)
 ```
 
 ## Accents et UTF-8
@@ -58,6 +62,9 @@ inacceptable. Exemples :
 - « c.-à-d. » et non « c.-a-d. », « là » et non « la » (quand c'est l'adverbe)
 - « hébreu » et non « hebreu », « araméen » et non « arameen »
 - « phénicien » et non « phenicien », « éthiopien » et non « ethiopien »
+- « épée » et non « epee », « été » et non « ete », « né » et non « ne »
+- « consacré » et non « consacre », « créé » et non « cree », « abîme » et non « abime »
+- « père » et non « pere », « mère » et non « mere », « peut-être » et non « peut-etre »
 - « fraîcheur » et non « fraicheur », « première » et non « premiere »
 - « Ésaïe » et non « Esaie », « Ézéchiel » et non « Ezechiel »
 - « Ésaü » et non « Esau », « Éphraïm » et non « Ephraim »
@@ -428,25 +435,6 @@ French:
   תְּרוּמָה, תְּרוּמִיָּה voir רום. תְּרוּעָה voir [רוע].
   ---
   תְּרוּפָה voir רוף.
-```
-
-### Mots et expressions courants exigeant des accents
-
-Ces termes apparaissent fréquemment dans les entrées BDB. Toujours utiliser
-la forme accentuée :
-
-```
-Anglais              Français correct       FAUX (sans accents)
--------              ----------------       -------------------
-to be                être                   etre
-sword                épée                   epee
-father / mother      père / mère            pere / mere
-summer               été                    ete
-born                 né                     ne
-consecrated          consacré               consacre
-created              créé                   cree
-abyss                abîme                  abime
-perhaps              peut-être              peut-etre
 ```
 
 ### Anglais victorien — attention aux faux amis
@@ -901,6 +889,23 @@ BDB1136 html    txt_fr avait "Esau" sans accents, corrigé en "Ésaü" dans Entr
 
 3. **Passez à l'entrée suivante.** Ne bloquez jamais sur une entrée
    problématique. Les fichiers errata seront revus manuellement.
+
+## Vérification par LLM local (llm_verify)
+
+Le script `scripts/llm_verify.py` utilise un LLM local (typiquement Qwen 3.5)
+pour vérifier automatiquement les traductions `Entries_txt_fr/` contre les
+originaux `Entries_txt/`. Les résultats sont écrits dans
+`llm_verify_txt_results.txt` -- chaque ligne indique si une entrée est correcte
+ou signale des erreurs spécifiques (accents manquants, franglais, faux amis,
+etc.).
+
+Ce fichier sert de base pour la révision manuelle : nathan passe en revue les
+entrées signalées comme erronées et corrige les traductions `Entries_txt_fr/`
+si nécessaire. Environ 20 % des signalements sont des faux négatifs (le LLM
+local signale une erreur là où il n'y en a pas).
+
+Le répertoire `test/` contient des données de référence pour valider le
+comportement du prompt de llm_verify.
 
 ## Notes de qualité
 

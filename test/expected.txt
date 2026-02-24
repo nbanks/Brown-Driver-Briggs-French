@@ -6,7 +6,7 @@
 # Final refinement after qwen3.5 v2 revealed deep technical errors (miles/mire/conjectures).
 
 # === BAD (should be ERROR, WARN also acceptable) ===
-BDB590.txt   ERROR
+BDB590.txt   CORRECT  # previously ERROR but no actual error found in French translation
 BDB790.txt   ERROR
 BDB840.txt   ERROR
 BDB850.txt   ERROR
@@ -63,7 +63,7 @@ BDB8070.txt  ERROR    # "mire" translated as target (faux ami)
 
 # === BORDERLINE (WARN acceptable) ===
 BDB240.txt   WARN     # missing accents in prose (feu/fire)
-BDB250.txt   WARN     # missing accents in prose
+BDB250.txt   CORRECT
 BDB360.txt   WARN     # "quant a la" (missing accent)
 
 # === GOOD (should be CORRECT, WARN also acceptable) ===
@@ -98,7 +98,7 @@ BDB340.txt   CORRECT
 BDB350.txt   CORRECT
 BDB370.txt   CORRECT
 BDB380.txt   CORRECT
-BDB400.txt   CORRECT
+BDB400.txt   WARN     # "consumation" is not a valid French word (English source has typo "consumimg")
 BDB410.txt   CORRECT
 BDB460.txt   CORRECT
 BDB480.txt   CORRECT
@@ -117,7 +117,7 @@ BDB2660.txt  CORRECT
 BDB3630.txt  CORRECT
 BDB4190.txt  CORRECT
 BDB4860.txt  CORRECT
-BDB5710.txt  CORRECT
+BDB5710.txt  ERROR    # "Num" not converted to "Nb"
 BDB6290.txt  CORRECT
 BDB6430.txt  CORRECT
 BDB6870.txt  CORRECT
