@@ -1,0 +1,2 @@
+Signalé : « Jos Es 4,3 » comme mélange fautif de références.
+Verdict : le texte source anglais (ligne 16) a « standing-place of feetJosh Isa 4:3 » — « Josh » et « Isa » sont collés dans l'original, reflétant une erreur de formatage dans les données BDB. La traduction « Jos Es 4,3 » reproduit fidèlement cette structure source. Ce n'est pas une erreur de traduction mais un artefact du texte d'origine. Aucune correction nécessaire.

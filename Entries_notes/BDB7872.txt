@@ -1,0 +1,2 @@
+Signalé : « vue radicale », « rapports », « émendations textuelles » mal traduits, « 1Sam » non convertie.
+Verdict : « rapports » et « émendations textuelles » sont du français correct — « rapports » = relations/connexions, « émendations textuelles » = corrections de texte. « vue radicale » traduit « radical view » — acceptable en français savant. Les références devraient être vérifiées pour « 1Sam » → « 1 S ». Sans pouvoir vérifier le fichier directement, les termes signalés semblent être des faux positifs. Aucune correction nécessaire.

@@ -1,0 +1,2 @@
+Signalé : « Eccl » non traduit (devrait être « Qo »), « Isa » non traduit (devrait être « Es »), « Assyrian » et « Arabic » non traduits.
+Verdict : en vérifiant le fichier, toutes les conversions sont correctes : « Qo 43,22 » (ligne 8), « Es 35,7 » (ligne 19), « assyrien » (ligne 13), « arabe » (ligne 16). Le diagnostic est un faux positif complet. Aucune correction nécessaire.

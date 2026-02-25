@@ -1,0 +1,2 @@
+Signalé : « sens et √ douteux » comme franglais, « la plupart » comme mal placé, « mais ? » comme calque, « autres conjectures » non traduit.
+Verdict : (1) « sens et √ douteux » (ligne 5) traduit « meaning and √ dubious » — « √ » est le symbole standard pour racine. (2) « la plupart » (ligne 7) traduit « most ». (3) « mais ? » (ligne 17) traduit « but? ». (4) « autres conjectures » (lignes 21-22) traduit « other conjectures » — « conjectures » est un mot français. Tous sont du français correct. Faux positifs. Aucune correction nécessaire.

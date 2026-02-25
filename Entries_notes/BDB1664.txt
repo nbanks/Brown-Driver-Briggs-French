@@ -1,0 +1,2 @@
+Signalé : « Za Ez 5,1 » comme référence biblique invalide.
+Correction : « Za Ez 5,1 » → « Ez 5,1 ». Le source anglais a « Ze Ezek 5:1 » où « Ze » est un artéfact d'extraction (probablement une erreur de numérisation). Le traducteur a interprété « Ze » comme « Zacharie » (Za), ce qui crée une double référence erronée. Suppression de « Za ».

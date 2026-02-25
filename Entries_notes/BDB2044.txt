@@ -1,0 +1,2 @@
+Signalé : accents manquants sur « égyptien », « grec », « latin » ; espaces manquantes.
+Verdict : « égyptien » (ligne 16) porte déjà l'accent. « grec » et « latin » ne portent pas d'accent en français — c'est correct. Les espaces avant ponctuation double sont présentes dans le fichier. Les `&` anglais ont été correctement traduits par « et ». Le vérificateur s'est trompé. Aucune correction nécessaire.

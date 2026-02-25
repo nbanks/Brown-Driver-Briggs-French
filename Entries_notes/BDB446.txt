@@ -1,0 +1,2 @@
+Signalé : « 2Sam » non traduit en « 2 S » dans la première occurrence, « NAMES WITH » en anglais.
+Verdict : les deux occurrences de « 2Sam » sont correctement traduites en « 2 S » (lignes 9 et 12). « AMMI, NAMES WITH » et « NAMES, § 46 » font partie de titres d'articles d'encyclopédie (Ency. Bib.) — les titres d'ouvrages savants ne se traduisent pas. Faux positif complet.

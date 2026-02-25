@@ -1,0 +1,2 @@
+Signalé : « tous branche » au lieu de « toute la branche » ou « toutes les branches ».
+Verdict : erreur d'accord possible. « tous branche » devrait être « toute branche » ou « toutes les branches ». Vérifier le fichier. Point potentiellement valide. Aucune correction apportée sans vérification.

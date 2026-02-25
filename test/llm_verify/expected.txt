@@ -9,6 +9,7 @@
 BDB590.txt   CORRECT  # previously ERROR but no actual error found in French translation
 BDB94.txt    ERROR    # "de agappu" should be "d'agappu" — missing French elision
 BDB4539.txt  ERROR    # massively truncated — root definition, Arabic, and meaning all missing
+BDB160.txt   ERROR    # "after" untranslated inside scholar abbreviation (Kö^I, 373, after^)
 BDB790.txt   ERROR
 BDB840.txt   ERROR
 BDB850.txt   ERROR
@@ -69,11 +70,11 @@ BDB250.txt   CORRECT
 BDB360.txt   WARN     # "quant a la" (missing accent)
 
 # === GOOD (should be CORRECT, WARN also acceptable) ===
-BDB10.txt    CORRECT
+BDB10.txt    ERROR    # "&" instead of "et"
 BDB20.txt    CORRECT
 BDB30.txt    CORRECT
 BDB40.txt    CORRECT
-BDB50.txt    CORRECT
+BDB50.txt    ERROR    # "&" instead of "et"
 BDB60.txt    CORRECT
 BDB70.txt    CORRECT
 BDB80.txt    CORRECT
@@ -83,12 +84,12 @@ BDB110.txt   CORRECT
 BDB120.txt   CORRECT
 BDB150.txt   CORRECT
 BDB160.txt   CORRECT
-BDB170.txt   CORRECT
+BDB170.txt   ERROR    # "&" instead of "et"
 BDB180.txt   CORRECT
 BDB190.txt   CORRECT
 BDB200.txt   CORRECT
 BDB210.txt   CORRECT
-BDB220.txt   CORRECT
+BDB220.txt   ERROR    # "&" instead of "et"
 BDB230.txt   CORRECT
 BDB260.txt   CORRECT
 BDB270.txt   WARN     # source has OCR artifact "JudÊan" (from Judæan); translation correctly renders "Judéen"
@@ -111,7 +112,7 @@ BDB550.txt   CORRECT
 BDB560.txt   CORRECT
 BDB570.txt   CORRECT
 BDB580.txt   CORRECT
-BDB600.txt   CORRECT
+BDB600.txt   ERROR    # "&" instead of "et"
 BDB910.txt   CORRECT
 BDB1570.txt  CORRECT
 BDB2160.txt  CORRECT

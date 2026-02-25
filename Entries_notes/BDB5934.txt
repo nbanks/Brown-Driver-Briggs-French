@@ -1,0 +1,2 @@
+Signalé : « Judah » non traduit ; « Ezra » non traduit ; « see » non traduit.
+Verdict : « Judah » est bien traduit « Juda » (ligne 8). « Ezra » est bien traduit « Esd » (ligne 14). « see » est bien traduit « voir » (lignes 19 et 21). Faux positif intégral — le vérificateur a comparé à tort les formes anglaises avec les traductions françaises. Aucune correction nécessaire.

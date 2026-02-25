@@ -1,0 +1,2 @@
+Signalé : « compare » au lieu de « comparer » dans « Dl^W^ compare » ; traduction incorrecte de « proposes ».
+Verdict : « Dl^W^ comparer » (ligne 8) utilise l'infinitif français, conforme au style BDB où les actions des savants sont souvent rapportées à l'infinitif (« comparer » = cf.). « propose » (ligne 12) est le présent indicatif 3ᵉ personne de « proposer », traduction correcte de « proposes ». Le vérificateur a mal analysé ces formes verbales françaises. Aucune correction nécessaire.

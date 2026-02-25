@@ -1,0 +1,2 @@
+Signalé : « Hiph`il » avec backtick ; « Ps 47:8 » avec deux-points anglais.
+Verdict : le FR a correctement « Hiphil » (ligne 7) sans backtick. « Ps 47,8 » (ligne 9) utilise bien la virgule française. « De », « Ges », « Ew », « Ri », « Pe » sont des abréviations de savants (Delitzsch, Gesenius, Ewald, Riehm, Perowne). Aucune correction nécessaire.

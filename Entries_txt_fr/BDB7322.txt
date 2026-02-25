@@ -332,7 +332,7 @@ Ex
 Lv
 21,22
 ^
-We^comparer 160 f.^
+We^comparer 160 s.^
 Dr^
 Dn 9,24
 .

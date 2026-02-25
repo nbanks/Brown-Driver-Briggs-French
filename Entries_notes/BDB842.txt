@@ -1,0 +1,2 @@
+Signalé : « RV » non traduit, « pieds » non converti, « D'autres » structure lourde.
+Verdict : « RV » (ligne 14) est l'abréviation savante de Revised Version — à conserver tel quel comme toutes les abréviations de versions bibliques. « pieds » (ligne 7, « 20 pieds ») est la traduction correcte de « feet » — c'est l'unité de mesure en français. « D'autres » (ligne 15) traduit correctement « Others ». Tous faux positifs. Aucune correction nécessaire.

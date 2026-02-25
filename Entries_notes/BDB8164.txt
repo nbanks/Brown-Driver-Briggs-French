@@ -1,0 +1,2 @@
+Signalé : « Psaume » au lieu de « Ps » comme abréviation non convertie.
+Verdict : « Psaume » (ligne 8) traduit correctement la forme longue « Psalm » du source anglais (ligne 8). L'anglais utilise « Psalm + » (forme développée, pas l'abréviation « Ps »), donc « Psaume + » est la traduction correcte. Aucune correction nécessaire.

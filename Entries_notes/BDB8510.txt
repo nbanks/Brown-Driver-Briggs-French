@@ -1,0 +1,2 @@
+Signalé : « We et autres » contient « and » non traduit.
+Verdict : « et » dans « We et autres » est du français correct (« et » = and). Le diagnostic a confondu le mot français « et » avec l'anglais « and ». « We » est l'abréviation de Wellhausen. Aucune correction nécessaire.

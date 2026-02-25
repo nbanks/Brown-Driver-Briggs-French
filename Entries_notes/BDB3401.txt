@@ -1,0 +1,2 @@
+Signalé : « AV » non traduit ; « H » et « P » non traduits.
+Verdict : « AV » (ligne 32) est l'abréviation savante pour « Authorized Version », conservée telle quelle dans les balises <lookup> conformément aux conventions du projet. « H » et « P » (lignes 39, 45, 49, 53) sont des sigles de critique des sources (H = Code de Sainteté, P = source sacerdotale) — conventions internationales à conserver. « Di », « Dl », « Benz » sont des abréviations d'auteurs (Dillmann, Delitzsch, Benzinger). Aucune correction nécessaire.

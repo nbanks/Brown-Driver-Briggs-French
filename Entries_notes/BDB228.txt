@@ -1,0 +1,2 @@
+Signale : « city in Benjamin » non traduit, « 1Chr » non traduit.
+Verdict : Le verificateur s'est trompe. « city in Benjamin » est traduit en « ville en Benjamin » (ligne 5-6). « 1Chr » est traduit en « 1 Ch » (ligne 9). Toutes les references bibliques sont correctement converties (Esd, Ne). Aucune correction necessaire.

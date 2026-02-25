@@ -1,0 +1,3 @@
+Signalé : « Jébusiens » orthographe incorrecte.
+Correction : « Jébusiens » → « Jébuséens » dans Entries_txt_fr (ligne 13). La forme française standard est « Jébuséens » (de Jébus).
+Verdict : le reste de la traduction est fidèle et complet. Toutes les références sont correctement converties. Aucune autre correction nécessaire.

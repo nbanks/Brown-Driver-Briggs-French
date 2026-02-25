@@ -1,0 +1,2 @@
+Signalé : « Exod 15,22 » non converti en « Ex 15,22 ».
+Verdict : en vérifiant le fichier, les références sont correctement converties. Le diagnostic est un faux positif. Aucune correction nécessaire.

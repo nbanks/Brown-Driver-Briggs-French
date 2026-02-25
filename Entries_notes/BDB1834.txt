@@ -1,0 +1,2 @@
+Signalé : « has » non traduit, « compare » laissé en anglais.
+Verdict : « has » (ligne 9 anglaise) est traduit par « a » (ligne 9 française) — correct. Les trois occurrences de « compare » dans le français sont « comparer » (lignes 13, 18, 22) — infinitif français correct. Le vérificateur a confondu le français « comparer » avec l'anglais « compare ». Aucune correction nécessaire.

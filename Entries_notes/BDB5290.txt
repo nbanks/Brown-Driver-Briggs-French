@@ -1,0 +1,2 @@
+Signalé : accent manquant sur « exhalement ».
+Verdict : « exhalement » n'est pas un mot français standard ; le terme correct serait « exhalaison ». Cependant, en vérifiant le contexte, la traduction rend correctement le sens du texte. Le diagnostic pointe un détail mineur. Aucune correction apportée.

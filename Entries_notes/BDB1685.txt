@@ -1,0 +1,2 @@
+Signalé : « id. » non traduit, références bibliques non converties.
+Verdict : « id. » est l'abréviation latine d'idem, universelle en français savant. Les références bibliques sont correctement converties dans le fichier (Ex, 1 S, 1 R, 2 R, Es). Le diagnostic ne correspond pas au contenu réel. Aucune correction nécessaire.

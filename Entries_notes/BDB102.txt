@@ -1,0 +1,2 @@
+Signalé : « DHM in MV » non traduit (« in » devrait être « dans »).
+Verdict : La traduction française a bien « DHM dans MV » (ligne 12) — « in » est correctement traduit en « dans ». DHM (D.H. Müller) et MV (Müller, Vienna) sont des abréviations savantes, à conserver telles quelles. Le diagnostic llm_verify est un faux positif. La référence 1 Ch 11,29 reproduit fidèlement la source anglaise (possiblement une coquille pour 1,29 dans l'original BDB). Aucune correction nécessaire.

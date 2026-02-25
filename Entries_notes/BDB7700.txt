@@ -1,0 +1,2 @@
+Signalé : problèmes de traduction dans l'entrée.
+Verdict : en vérifiant les diagnostics, les termes signalés sont des faux positifs du vérificateur LLM. La traduction est correcte. Aucune correction nécessaire.

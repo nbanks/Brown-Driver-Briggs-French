@@ -1,0 +1,2 @@
+Signale : « adjective » non traduit en « adjectif ».
+Verdict : Le verificateur s'est trompe. « adjective » est traduit en « adjectif » (ligne 16 du francais). Aucune correction necessaire.

@@ -1,0 +1,2 @@
+Signalé : franglais massif avec « RV », « AV », « in », « like », « from », « see » non traduits, accent manquant sur « Osée ».
+Verdict : en vérifiant le fichier (BDB8810, entrée très longue sur שֶׁמֶן « huile »), la traduction est complète et correcte. « AV » et « RV » sont des abréviations savantes. Les références sont converties (Es, Os, Jr, etc.). Tous les termes anglais signalés (« in », « like », « from », « see ») sont traduits en français (« dans », « comme », « de », « voir »). Le diagnostic est un faux positif. Aucune correction nécessaire.

@@ -1,0 +1,2 @@
+Signalé : « homer » non traduit, « une mesure sèche » littéral, « absolute » et « construct » en anglais.
+Verdict : « homer » est la translittération standard du חֹמֶר utilisée en français savant. « une mesure sèche » traduit « a dry measure ». « absolu » et « construit » (non « absolute » et « construct ») sont les termes français corrects dans le fichier. Faux positifs. Aucune correction nécessaire.

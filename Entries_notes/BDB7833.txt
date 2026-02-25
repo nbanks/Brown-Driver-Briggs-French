@@ -1,0 +1,2 @@
+Signalé : « Mal » (Malachie) utilisé pour des références aux Proverbes — Malachie n'a que 4 chapitres.
+Correction : le texte source anglais utilise erronément « Mal » pour les Proverbes (l'entrée dit explicitement « only Proverbs »). La traduction avait fidèlement converti « Mal » → « Ml » (Malachie), mais les références (28,19 ; 31,7 ; 13,18 ; etc.) sont clairement des Proverbes. Corrigé toutes les occurrences de « Ml » en « Pr » dans Entries_txt_fr.

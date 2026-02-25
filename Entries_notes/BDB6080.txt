@@ -1,0 +1,2 @@
+Signalé : problèmes de franglais et traduction.
+Verdict : en vérifiant le fichier, la traduction est complète et correcte. Les termes comme « comparer », « figuré », « voir » sont du français standard. Le diagnostic est un faux positif. Aucune correction nécessaire.

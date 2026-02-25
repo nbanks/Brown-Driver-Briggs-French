@@ -1,0 +1,2 @@
+Signalé : « miles » non traduit en « milles » ; « Naphtali » sans accent ; « Josh » non converti.
+Verdict : « miles » est déjà traduit en « milles » (ligne 6 : « 8 milles à l'est de Jaffa » et « 5 1/2 milles »). « Nephtali » (ligne 5) est correctement écrit en français. « Jos » (ligne 6) est l'abréviation française correcte de Josué (« Josh » de l'anglais → « Jos »). Aucune correction nécessaire — le vérificateur n'a pas reconnu les formes françaises.

@@ -1,0 +1,2 @@
+Signalé : accent manquant sur « phénicien ».
+Verdict : « phénicien » (ligne 6) porte bien l'accent aigu sur le « e ». Faux positif du vérificateur.

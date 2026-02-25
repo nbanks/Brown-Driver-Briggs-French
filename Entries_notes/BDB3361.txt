@@ -1,0 +1,2 @@
+Signalé : « ci-dessous » répété après « voir ci-dessous » (traduction de « below below »).
+Verdict : l'anglais dit « טַף see below טפף. below » (lignes 18) — le mot « below » apparaît deux fois dans le texte source. La traduction « טַף voir ci-dessous טפף. ci-dessous » reproduit fidèlement cette duplication, qui est un artefact d'extraction du BDB. Aucune correction nécessaire.

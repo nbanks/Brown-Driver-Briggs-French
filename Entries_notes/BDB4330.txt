@@ -1,0 +1,2 @@
+Signalé : « Nb 83,15 » référence invalide.
+Verdict : L'anglais source contient déjà « Num 83:15 » qui est une erreur dans les données BDB originales (Nombres n'a que 36 chapitres). La traduction française reproduit fidèlement cette erreur de la source. Ce n'est pas une erreur de traduction. Aucune correction nécessaire.

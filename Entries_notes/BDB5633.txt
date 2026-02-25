@@ -1,0 +1,2 @@
+Signalé : « sustaineth » non traduit, « 2Chr » non converti, accent manquant sur « levitique ».
+Verdict : « sustaineth » est traduit par « soutient » (correct). « 2Chr » est converti en « 2 Ch » dans le texte français. « lévitique » porte bien son accent dans le FR. Tous les signalements sont des faux positifs. Aucune correction nécessaire.

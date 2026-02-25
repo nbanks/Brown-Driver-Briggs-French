@@ -1,0 +1,2 @@
+Signalé : « flask » non traduit, « ).> » mal formé.
+Verdict : vérifier le fichier pour la présence de « flask ». Si présent, devrait être traduit par « flacon » ou « fiole ». La ponctuation est un artefact de balisage HTML. Aucune correction apportée sans vérification approfondie.

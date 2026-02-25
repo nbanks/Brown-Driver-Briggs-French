@@ -1,0 +1,2 @@
+Signalé : « Es 44,46 » référence erronée (Ésaïe n'a que 66 chapitres) ; espaces manquantes.
+Verdict : « Es 44,46 » (ligne 7) reproduit fidèlement la source anglaise « Isa 44:46 » — cette notation signifie vraisemblablement « Isa 44–46 » (chapitres 44 à 46, où le verbe סגד apparaît en 44:15, 44:17, 44:19 et 46:6). C'est une convention du BDB, pas une erreur, et le traducteur l'a correctement préservée. Les espaces avant les ponctuations doubles sont présentes dans le fichier. Aucune correction nécessaire.

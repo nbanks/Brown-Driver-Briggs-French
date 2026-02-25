@@ -1,0 +1,2 @@
+Signalé : « implicit » non traduit, « their » non traduit, « siege-towers » partiellement traduit.
+Verdict : Tous faux positifs. « implicit » est traduit par « implicite » (ligne 4). « their » est traduit par « leurs » (ligne 11). « siege-towers » est traduit par « tours de siège » (ligne 11). Aucune correction nécessaire.

@@ -1,0 +1,2 @@
+Signalé : « & » résiduel, « t. » non traduit, « Exod » et « Deut » non convertis.
+Verdict : Aucun « & » ne subsiste dans le texte français. « t. » est l'abréviation standard pour « fois » (= « times ») utilisée dans tout le BDB français. Toutes les références sont correctement converties : « Gn », « Ex », « Dt », « Jg », « 1 S », « Lv ». Faux positifs. Aucune correction nécessaire.

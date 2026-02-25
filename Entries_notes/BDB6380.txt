@@ -1,0 +1,2 @@
+Signalé : franglais dans la note étymologique allemande non traduite (« schreien », « das auch vom Wildesel vorkommt »), « Job » non converti en « Jb ».
+Verdict : les mots allemands font partie d'une citation étymologique en allemand — ne se traduisent pas. Les références bibliques dans le fichier français utilisent correctement « Jb ». Le diagnostic est un faux positif. Aucune correction nécessaire.

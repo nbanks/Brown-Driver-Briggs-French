@@ -1,0 +1,2 @@
+Signalé : « in Asher » non traduit, « 1Chr » non converti.
+Verdict : en vérifiant le fichier, la traduction a « en Aser » (ligne 6), ce qui est correct. « 1 Ch » est correctement utilisé. Le diagnostic est un faux positif. Aucune correction nécessaire.

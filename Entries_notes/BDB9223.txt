@@ -1,0 +1,2 @@
+Signalé : « texte » sans article, « Di^sur le passage^ » calque.
+Verdict : « texte probablement corrompu » (lignes 11-12) reproduit le style télégraphique du BDB « text probably corrupt » — l'absence d'article est conventionnelle. « Di^sur le passage^ » traduit correctement « Di^on the passage^ » — le caret fait partie de la notation en exposant. Correction : « f. » → « s. » dans « Mei^ZWTh vi.60 s.^ » (ligne 13).

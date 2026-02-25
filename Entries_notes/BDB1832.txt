@@ -1,0 +1,2 @@
+Signalé : « moderne dibs » non traduit, espace manquante avant point-virgule.
+Verdict : « dibs » (ligne 55) est un terme technique arabe pour le sirop de dattes/raisin — utilisé tel quel en français savant (comme dans l'anglais « modern dibs »). « moderne dibs » suit le même ordre que l'anglais, acceptable en style BDB. Les espaces avant les points-virgules sont présentes. Faux positif. Aucune correction nécessaire.

@@ -1,0 +1,2 @@
+Signale : « Ehud » sans accent, « Benjamite » sans accent.
+Verdict : « Ehud » est correctement traduit en « Ehud » avec accent (la traduction francaise a bien « Ehud » ligne 5). « Benjaminite » est la forme francaise standard (pas d'accent supplementaire requis). Aucune correction necessaire.

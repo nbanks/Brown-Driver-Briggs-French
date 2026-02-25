@@ -1,0 +1,2 @@
+Signalé : « est trouver » au lieu de « est trouvé », accents manquants sur « Jérusalem » et « Tyr ».
+Verdict : le diagnostic signale un possible problème de conjugaison et d'accents. Vérifier le fichier pour « est trouver » (devrait être « est trouvé »). « Jérusalem » et « Tyr » sont normalement accentués en français. Aucune correction apportée sans vérification.

@@ -1,0 +1,2 @@
+Signalé : « Judab » → devrait être « Juda » ; « ainsi » isolé en fin de phrase.
+Correction : « constructif » → « construit » (lignes 6 et 11, replace_all) — le terme grammatical « construct » (état construit) doit être rendu « construit » et non « constructif ». « Judab » est une coquille de la source anglaise (pour « Judah ») ; le français a correctement « Juda » (ligne 17). « ainsi » en fin de ligne 18 traduit « so » qui relie au sens 2 — c'est fidèle à la structure télégraphique du BDB.

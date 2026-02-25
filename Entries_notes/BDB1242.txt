@@ -1,0 +1,2 @@
+Signalé : « & » non traduit par « et », espaces manquants avant ponctuation double.
+Verdict : Aucun « & » ne subsiste dans le texte français — tous ont été convertis en « et » ou remplacés. Les espaces avant les ponctuations doubles sont présentes (« Ps 92,7 (|| כסיל) ; »). Faux positif. Aucune correction nécessaire.

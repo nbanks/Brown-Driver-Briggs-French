@@ -1,0 +1,2 @@
+Signalé : problèmes de traduction dans l'entrée.
+Verdict : en vérifiant les diagnostics, la traduction est correcte. Le diagnostic est un faux positif. Aucune correction nécessaire.

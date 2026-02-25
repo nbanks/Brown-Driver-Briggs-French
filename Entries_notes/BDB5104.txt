@@ -1,0 +1,2 @@
+Signalé : « Num 6 » → « Nb 6 » correct ; « Lev 25 » erreur pour « Lv 21 » (loi du naziréat).
+Verdict : le texte français a « Nb 6 » (ligne 9, correct) et « Lv 25 » (lignes 11-18) pour les références détaillées. Les références « Lev 25:12, 5, 3, 2, 6 » sont des erreurs dans la source anglaise — la loi du naziréat est en Nombres 6, pas Lévitique 25. Le traducteur a fidèlement converti « Lev » en « Lv » en préservant l'erreur de la source, ce qui est le comportement correct selon la politique du projet. Aucune correction nécessaire — erreur de la source.

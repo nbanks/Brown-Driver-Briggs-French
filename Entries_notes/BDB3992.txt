@@ -1,0 +1,2 @@
+Signalé : Références « Ps » non traduites.
+Verdict : « Ps » est l'abréviation identique en français et en anglais pour les Psaumes. Faux positif. Aucune correction nécessaire.

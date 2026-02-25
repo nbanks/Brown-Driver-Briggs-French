@@ -1,0 +1,2 @@
+Signalé : diagnostic tronqué dans la sortie grep.
+Verdict : après comparaison détaillée de la source anglaise (168 lignes) et de la traduction française (168 lignes), la traduction est complète et fidèle. Toutes les formes verbales (Qal, Niphal, Piel), les sens (1-4 pour Niphal, 1-2 pour Piel), les références bibliques et les abréviations savantes sont correctement rendus. Les termes grammaticaux sont bien traduits : « Infinitif absolu », « Parfait », « Imparfait », « Impératif ». Aucune correction nécessaire.

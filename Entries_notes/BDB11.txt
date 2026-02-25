@@ -1,0 +1,8 @@
+Signalé : « Destruction, Ruine, 'Abaddon » comme non traduits.
+Verdict : « Destruction » et « Ruine » sont identiques en français et en anglais (mots transparents) — la traduction est correcte. « 'Abaddon » est un nom propre hébreu translittéré, à conserver tel quel.
+
+Signalé : « Shéol » devrait être « Séol ».
+Verdict : « Shéol » est la forme standard en français académique et dans les traductions bibliques francophones (TOB, BJ). « Séol » n'est pas la forme conventionnelle. Aucune correction nécessaire.
+
+Signalé : « Wisdom Literature » partiellement traduit.
+Verdict : « Wisdom Literature » a été correctement traduit par « littérature sapientielle » (ligne 26 du fichier français). Faux positif du vérificateur.

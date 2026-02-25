@@ -1,0 +1,2 @@
+Signalé : « July » non traduit, « Num » non converti.
+Verdict : « July » est correctement traduit par « juillet » (ligne 6). « Num » est converti en « Nb » (ligne 8). Le vérificateur s'est trompé sur les deux points. Aucune correction nécessaire.

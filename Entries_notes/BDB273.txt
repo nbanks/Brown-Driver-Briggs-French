@@ -1,0 +1,2 @@
+Signale : « 1Chr » non traduit, artefacts de formatage « ^ ».
+Verdict : « 1Chr 7:24 » est correctement traduit en « 1 Ch 7,24 ». « Blau^ZMG 1873, 296^ » est une reference savante (Blau dans la Zeitschrift der morgenlandischen Gesellschaft) — les « ^ » sont des marqueurs d'exposant, pas des artefacts. « She'ra » est la translitteration du nom hebreu, a conserver. « Ephraim » correctement traduit en « Ephraim ». Aucune correction necessaire.

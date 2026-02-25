@@ -1,0 +1,2 @@
+Signalé : « 5 miles » non traduit, espace manquant.
+Verdict : Faux positif. Le texte français a « 5 milles » (ligne 15) correctement traduit. Aucune correction nécessaire.

@@ -1,0 +1,2 @@
+Signalé : « 6. » isolé à la fin comme numéro de sens inventé, accent manquant sur « c.-à-d. ».
+Verdict : « 6. » (ligne 19) existe dans l'original anglais — c'est une référence au sens 6 du mot אבן (« voir ci-dessous אבן 6. »). Ce n'est pas un numéro de sens ajouté. « c.-à-d. » (ligne 16) porte déjà l'accent sur le « à ». Les deux signalements sont des faux positifs.

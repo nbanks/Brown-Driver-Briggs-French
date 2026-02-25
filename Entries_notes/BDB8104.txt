@@ -1,0 +1,2 @@
+Signalé : « Hiph`il » contient un backtick erroné.
+Verdict : « Hiph`il » (ligne 11) est la notation standard du BDB pour le thème verbal Hiphil, utilisant le backtick pour représenter l'aleph. Cette convention est utilisée uniformément dans tout le corpus (Niph`al, Pi`el, Hiph`il, Hithpa`el, etc.) et n'est pas une coquille. À conserver tel quel. Aucune correction nécessaire.

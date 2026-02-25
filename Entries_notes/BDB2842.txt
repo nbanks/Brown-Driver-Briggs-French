@@ -1,0 +1,2 @@
+Signalé : « Pluriel absolu », « construit » non traduits, références bibliques non converties.
+Verdict : « Pluriel absolu » et « construit » sont des termes grammaticaux français corrects. Les références sont correctement converties dans le fichier actuel. Faux positifs. Aucune correction nécessaire.

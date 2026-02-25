@@ -1,0 +1,2 @@
+Signalé : « incline thy mind to understanding » et « reasons » non traduits, « above » resté en anglais.
+Verdict : Tous faux positifs. « incline thy mind to understanding » est traduit par « incline ton cœur vers l'intelligence » (ligne 65). « reasons » est traduit par « raisons » (ligne 66), mot français correct pour « arguments/raisonnements ». « above » est traduit par « ci-dessus » (ligne 73). Aucune correction nécessaire.

@@ -1,0 +1,2 @@
+Signale : « senescere » non traduit, « 1 S 17,122 S » fusion de references.
+Verdict : « senescere » est un terme latin (= vieillir) utilise dans l'original anglais comme equivalent semantique — a conserver comme toute notation latine savante. « 1 S 17,122 S » reproduit un artefact du texte source anglais (« 1Sam 17:122 Sam ») ou « 1Sam 17:12 » se trouve sur la meme ligne que « 2 Sam » avec un saut de ligne malheureux. Ce n'est pas une erreur de traduction mais un artefact de mise en page deja present dans l'original. Aucune correction necessaire.

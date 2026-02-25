@@ -1,0 +1,2 @@
+Signalé : « du suivant », « comparer » problématiques, « bilitéral » mal accentué.
+Verdict : Tous faux positifs. « du suivant » (ligne 4) traduit correctement « of following ». « comparer » (ligne 4) est la forme standard dans le BDB. « bilitéral » est déjà correctement accentué. Aucune correction nécessaire.

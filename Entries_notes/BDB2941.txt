@@ -1,0 +1,2 @@
+Signalé : « AV », « RV » et « Thes » comme anglais non traduit.
+Verdict : « AV » (Authorized Version), « RV » (Revised Version) et « Thes » (Thesaurus de Gesenius) sont des abréviations savantes standard, conservées telles quelles dans les balises <lookup>. « De Volck », « Da » et « Di » sont également des abréviations d'auteurs. La structure « ainsi AV RV Thes » reproduit fidèlement l'original « so AV RV Thes ». Aucune correction nécessaire.

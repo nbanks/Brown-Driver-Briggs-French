@@ -1,0 +1,2 @@
+Signale : « Armenie » sans accent, « RV » non traduit.
+Verdict : Le verificateur s'est trompe. « Armenie » porte bien l'accent dans le texte francais : « d'Armenie » (ligne 25) et « Armenie » (ligne 28). « RV » et « AV » sont des abreviations savantes de versions bibliques — a conserver. Aucune correction necessaire.

@@ -1,0 +1,2 @@
+Signalé : « père of » anglais non traduit, « femme de Osée » incorrect.
+Verdict : Le fichier français contient « père de Gomer, femme d'Osée » — tout est en français correct. Pas de « père of » ni de « femme de Osée ». Le diagnostic cite du texte qui n'existe pas dans le fichier. Aucune correction nécessaire.

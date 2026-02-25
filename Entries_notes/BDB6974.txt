@@ -1,0 +1,2 @@
+Signalé : « tous provisions » (genre incorrect) ; « nourriture ancienne » comme traduction littérale de « early food ».
+Correction/Verdict : (1) « toutes provisions » (ligne 10) — le fichier français utilise déjà « toutes » (féminin pluriel), ce qui est correct. Le vérificateur a mal lu. (2) « nourriture ancienne » (ligne 11) traduit « early food » — dans le contexte victorien, « early » signifie « primitif, des premiers temps ». Corrigé en « nourriture primitive » pour mieux rendre le sens. (3) Corrigé « 2nd ed. » → « 2e éd. » (ligne 12).

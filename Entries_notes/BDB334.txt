@@ -1,0 +1,2 @@
+Signalé : ERROR sans analyse détaillée.
+Verdict : Revue manuelle effectuée. La traduction est correcte : tous les termes anglais sont traduits (« remain behind » → « rester en arrière », « delay, tarry » → « tarder, s'attarder », « causative » → « causatif », etc.). Les références bibliques sont correctement converties. Les thèmes verbaux (Qal, Piel, Hiphil) sont conservés. Les abréviations savantes (Ol, Sta, Kö, Ges, Dr) sont préservées. Aucune correction nécessaire.

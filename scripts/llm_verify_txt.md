@@ -57,6 +57,7 @@ Seuls les noms de **savants modernes** (Robinson, Smith, Driver, etc.) restent s
 
 - **Minuscules** : "etre" (être), "hebreu" (hébreu), "feminin" (féminin), "genealogie" (généalogie), "poetique" (poétique), "abime" (abîme), "epee" (épée).
 - **Mots de prose** : "ou" (quand c'est l'adverbe "où"), "a" (quand c'est la préposition "à"), "la" (quand c'est l'adverbe "là"), "c.-a-d." (c.-à-d.).
+- **Élision obligatoire** : En français, « de », « le », « la », « ne », « je », « se », « que » s'élident devant une voyelle ou un h muet. L'absence d'élision est une ERROR : « de abîme » → « d'abîme », « de Assyrie » → « d'Assyrie », « le homme » → « l'homme ». Cela s'applique aussi devant les translittérations commençant par une voyelle (« de apadâna » → « d'apadâna »).
 - **Typographie** : L'absence d'espace insécable avant une ponctuation double (`:`, `;`, `?`, `!`) ou à l'intérieur des guillemets (`« texte »`). Exemple d'erreur : « prophète: Es 1,1 ».
 
 ### C. Contenu manquant ou altéré
@@ -75,7 +76,7 @@ Le BDB (1906) utilise un anglais victorien. Si un mot est traduit selon son sens
 moderne plutôt que son sens victorien, c'est une erreur. Exemple :
 - "corn" = grain/blé (PAS maïs) — "grain, corn" → « grain, blé »
 - "meat" = nourriture (PAS viande) — "for meat" → « pour la nourriture »
-- "sensible" = avisé/prudent (PAS sensible) — "a sensible man" → « un homme avisé »
+- "sensible" = avisé/prudent (PAS le français « sensible ») — "a sensible man" → « un homme avisé ». Si le français contient « sensible » là où l'anglais avait « sensible », c'est TOUJOURS une ERROR — le mot français « sensible » signifie « sensitive/emotional », pas « wise/prudent ».
 
 ## Biais de détection — PRÉFÉRER ERROR/WARN À CORRECT
 
@@ -93,51 +94,6 @@ moderne plutôt que son sens victorien, c'est une erreur. Exemple :
 - **ERROR** : Problème **certain et concret** — mot anglais non traduit, accent manquant sur un nom biblique, sens supprimé, référence non convertie, `&` au lieu de `et`.
 - **WARN** : Problème **probable mais pas certain** — formulation maladroite qui pourrait être du franglais ou du français correct, mot qui ressemble à de l'anglais mais pourrait être un terme technique légitime, convention possiblement non appliquée mais contexte ambigu, traduction légèrement libre mais pas incorrecte.
 - **CORRECT** : Vous êtes **certain** qu'il n'y a aucun problème.
-
-Ces tables vous aident à vérifier les traductions. Un mot resté en anglais au lieu de sa forme française est une erreur (catégorie A).
-
-### Références bibliques (anglais → français)
-Gen → Gn, Exod → Ex, Lev → Lv, Num → Nb, Deut → Dt, Josh → Jos,
-Judg → Jg, Ruth → Rt, 1Sam → 1 S, 2Sam → 2 S, 1Kgs → 1 R, 2Kgs → 2 R,
-1Chr → 1 Ch, 2Chr → 2 Ch, Ezra → Esd, Neh → Ne, Esth → Est, Job → Jb,
-Prov → Pr, Eccl → Qo, Song → Ct, Isa → Es, Jer → Jr, Lam → Lm,
-Ezek → Ez, Dan → Dn, Hos → Os, Joel → Jl, Amos → Am, Obad → Ab,
-Jonah → Jon, Mic → Mi, Nah → Na, Hab → Ha, Zeph → So, Hag → Ag,
-Zech → Za, Mal → Ml
-
-Formes longues : Genesis → Genèse, Exodus → Exode, Leviticus → Lévitique,
-Numbers → Nombres, Deuteronomy → Deutéronome, Joshua → Josué, Judges → Juges,
-Kings → Rois, Chronicles → Chroniques, Nehemiah → Néhémie, Isaiah → Ésaïe,
-Jeremiah → Jérémie, Ezekiel → Ézéchiel, Hosea → Osée, Obadiah → Abdias,
-Jonah → Jonas, Micah → Michée, Nahum → Nahoum, Habakkuk → Habacuc,
-Zephaniah → Sophonie, Haggai → Aggée, Zechariah → Zacharie, Malachi → Malachie,
-Psalms → Psaumes, Proverbs → Proverbes, Ecclesiastes → Qohéleth,
-Song of Solomon → Cantique des Cantiques, Lamentations → Lamentations
-
-Format : le français utilise une virgule (Gn 35,8) et non deux-points (Gn 35:8).
-
-### Noms de langues (anglais → français)
-Arabic → arabe, Assyrian → assyrien, Syriac → syriaque, Ethiopic → éthiopien,
-Phoenician → phénicien, Late Hebrew → hébreu tardif, New Hebrew → néo-hébreu,
-Old Aramaic → ancien araméen, Palmyrene → palmyrénien, Nabataean → nabatéen,
-Sabean/Sabaean → sabéen, Mandean → mandéen, Targum → targoum,
-Biblical Hebrew → hébreu biblique, Biblical Aramaic → araméen biblique
-
-### Catégories grammaticales (anglais → français)
-noun masculine → nom masculin, noun feminine → nom féminin, verb → verbe,
-adjective → adjectif, adverb → adverbe, proper name → nom propre,
-preposition → préposition, conjunction → conjonction, particle → particule,
-pronoun → pronom, substantive → substantif, interjection → interjection,
-[of a location] → [d'un lieu], [of a people] → [d'un peuple],
-[of deity] → [d'une divinité]
-
-### Termes grammaticaux (anglais → français)
-Perfect → Parfait, Imperfect → Imparfait, Participle → Participe,
-Imperative → Impératif, Infinitive construct → Infinitif construit,
-Infinitive absolute → Infinitif absolu, feminine → féminin,
-masculine → masculin, singular → singulier, plural → pluriel,
-construct → construit, absolute → absolu, see → voir, compare → comparer,
-above → ci-dessus, below → ci-dessous
 
 ## Exemples
 
@@ -585,6 +541,93 @@ FRENCH:
 
 Analyse : Fichier français vide — l'anglais contient une entrée complète (nom propre הַגְּדוֺלִים, père de Zabdiel) mais la traduction française est totalement absente.
 >>> ERROR
+
+### Exemple 16
+
+ENGLISH:
+```
+=== BDB732 H756 ===
+Biblical Hebrew
+אגם (Assyrian stem of arâmu, to cover, compare
+Dl^HWB^).
+```
+
+FRENCH:
+```
+=== BDB732 H756 ===
+hébreu biblique
+אגם (racine assyrienne de arâmu, couvrir, comparer
+Dl^HWB^).
+```
+
+Analyse : Élision manquante — « de arâmu » devrait être « d'arâmu ». En français, « de » s'élide obligatoirement devant une voyelle, même devant une translittération.
+>>> ERROR
+
+### Exemple 17
+
+ENGLISH:
+```
+=== BDB6400 H6191 ===
+Biblical Hebrew
+עָרַם verb be shrewd, sensible — Qal Participle עָרוּם Prov 19:25 the sensible will understand.
+```
+
+FRENCH:
+```
+=== BDB6400 H6191 ===
+hébreu biblique
+עָרַם verbe être astucieux, sensible — Qal Participe עָרוּם Pr 19,25 le sensible comprendra.
+```
+
+Analyse : Faux ami victorien — « sensible » en anglais de 1906 signifie « avisé/prudent », pas le français « sensible » (= sensitive). La traduction devrait être « avisé » ou « prudent ».
+>>> ERROR
+
+## Tables de conversion obligatoires
+
+Ces tables sont la référence finale. Toute abréviation anglaise de cette liste restée non convertie dans le texte français est une ERROR (catégorie A), même si elle ressemble à un mot français ou à un sigle savant. Vérifiez chaque référence biblique du texte français contre cette table.
+
+### Références bibliques (anglais → français)
+Gen → Gn, Exod → Ex, Lev → Lv, Num → Nb, Deut → Dt, Josh → Jos,
+Judg → Jg, Ruth → Rt, 1Sam → 1 S, 2Sam → 2 S, 1Kgs → 1 R, 2Kgs → 2 R,
+1Chr → 1 Ch, 2Chr → 2 Ch, Ezra → Esd, Neh → Ne, Esth → Est, Job → Jb,
+Prov → Pr, Eccl → Qo, Song → Ct, Isa → Es, Jer → Jr, Lam → Lm,
+Ezek → Ez, Dan → Dn, Hos → Os, Joel → Jl, Amos → Am, Obad → Ab,
+Jonah → Jon, Mic → Mi, Nah → Na, Hab → Ha, Zeph → So, Hag → Ag,
+Zech → Za, Mal → Ml
+
+Formes longues : Genesis → Genèse, Exodus → Exode, Leviticus → Lévitique,
+Numbers → Nombres, Deuteronomy → Deutéronome, Joshua → Josué, Judges → Juges,
+Kings → Rois, Chronicles → Chroniques, Nehemiah → Néhémie, Isaiah → Ésaïe,
+Jeremiah → Jérémie, Ezekiel → Ézéchiel, Hosea → Osée, Obadiah → Abdias,
+Jonah → Jonas, Micah → Michée, Nahum → Nahoum, Habakkuk → Habacuc,
+Zephaniah → Sophonie, Haggai → Aggée, Zechariah → Zacharie, Malachi → Malachie,
+Psalms → Psaumes, Proverbs → Proverbes, Ecclesiastes → Qohéleth,
+Song of Solomon → Cantique des Cantiques, Lamentations → Lamentations
+
+Format : le français utilise une virgule (Gn 35,8) et non deux-points (Gn 35:8).
+
+### Noms de langues (anglais → français)
+Arabic → arabe, Assyrian → assyrien, Syriac → syriaque, Ethiopic → éthiopien,
+Phoenician → phénicien, Late Hebrew → hébreu tardif, New Hebrew → néo-hébreu,
+Old Aramaic → ancien araméen, Palmyrene → palmyrénien, Nabataean → nabatéen,
+Sabean/Sabaean → sabéen, Mandean → mandéen, Targum → targoum,
+Biblical Hebrew → hébreu biblique, Biblical Aramaic → araméen biblique
+
+### Catégories grammaticales (anglais → français)
+noun masculine → nom masculin, noun feminine → nom féminin, verb → verbe,
+adjective → adjectif, adverb → adverbe, proper name → nom propre,
+preposition → préposition, conjunction → conjonction, particle → particule,
+pronoun → pronom, substantive → substantif, interjection → interjection,
+[of a location] → [d'un lieu], [of a people] → [d'un peuple],
+[of deity] → [d'une divinité]
+
+### Termes grammaticaux (anglais → français)
+Perfect → Parfait, Imperfect → Imparfait, Participle → Participe,
+Imperative → Impératif, Infinitive construct → Infinitif construit,
+Infinitive absolute → Infinitif absolu, feminine → féminin,
+masculine → masculin, singular → singulier, plural → pluriel,
+construct → construit, absolute → absolu, see → voir, compare → comparer,
+above → ci-dessus, below → ci-dessous
 
 ## Votre tâche
 

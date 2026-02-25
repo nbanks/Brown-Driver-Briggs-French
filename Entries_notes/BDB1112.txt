@@ -1,0 +1,2 @@
+Signalé : Ordre des versets incohérent (Gn 19,31 avant Gn 9,33), saut de ligne étrange.
+Verdict : « Gn 9,33 » (ligne 8) provient de la source anglaise « Gen 9:33 » (ligne 8) — c'est une erreur de données source (Genèse 9 n'a que 29 versets, probablement une coquille pour Gn 19,33). La traduction française reproduit fidèlement cette erreur. Le saut de ligne (entre lignes 6-7) reflète le formatage de la source. Aucune correction nécessaire.

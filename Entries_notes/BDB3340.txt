@@ -1,0 +1,2 @@
+Signalé par llm_verify comme ERROR.
+Verdict : Vérification effectuée — la traduction est conforme. Les termes signalés sont du français correct ou des abréviations savantes à conserver. Aucune correction nécessaire.

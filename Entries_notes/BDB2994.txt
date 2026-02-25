@@ -1,0 +1,2 @@
+Signalé : « 2 Che Ps 3,8 » comme corruption mélangeant Chroniques et Psaumes.
+Correction : « 2 Ch » → « 2 Che » (ligne 37) — dans le source anglais, « 2 Che » n'est pas « 2 Chronicles » mais le chiffre « 2 » (nombre d'occurrences) suivi de « Che » (abréviation savante du commentateur Cheyne). La traduction avait confondu « Che » avec « Chr » et écrit « 2 Ch ». Rétabli en « 2 Che ».

@@ -1,0 +1,11 @@
+Signalé : « est père » comme traduction littérale maladroite de « is father ».
+Verdict : il s'agit de l'étymologie du nom — « Mélek est père » signifie que le dieu Mélek/Moloch EST le père. Ce n'est pas « dont le père est X » mais une glose étymologique. La formulation est correcte.
+
+Signalé : « Ps » non traduit.
+Verdict : « Ps » est l'abréviation française standard pour Psaumes. Elle est identique en anglais et en français. Faux positif.
+
+Signalé : « sabéen » sans majuscule.
+Verdict : en français, les adjectifs de nationalité ou d'origine s'écrivent en minuscule (« sabéen aussi nom propre »). La minuscule est correcte ici.
+
+Signalé : structure de phrase maladroite « un nom philistin mieux connu... ».
+Verdict : la formulation française « un nom philistin mieux connu substitué à un moins connu » est claire et naturelle. Aucune correction nécessaire.

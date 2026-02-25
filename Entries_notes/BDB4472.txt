@@ -1,0 +1,2 @@
+Signalé : « Psalm 32:4 » non traduit.
+Verdict : Les références sont traduites en « Ps 32,4 » dans le fichier actuel. Faux positif. Aucune correction nécessaire.

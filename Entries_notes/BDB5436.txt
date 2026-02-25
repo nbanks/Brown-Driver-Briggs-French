@@ -1,1 +1,2 @@
-Signale : franglais supposé. Verdict : traduction vérifiée, termes français corrects.
+Signalé : « id. » non traduit en « idem » ; espaces manquants avant ponctuation double.
+Verdict : « id. » est l'abréviation latine standard pour « idem », utilisée telle quelle dans les ouvrages savants français. La conserver est correct. Quant aux espaces avant ponctuation : vérification effectuée, les points-virgules sont précédés d'espaces dans le texte français. « Ps » est la même abréviation en français et en anglais. Aucune correction nécessaire.

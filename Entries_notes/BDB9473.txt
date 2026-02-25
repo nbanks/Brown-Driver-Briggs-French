@@ -1,0 +1,2 @@
+Signalé : « Égyptien^ araméen » ordre des mots incorrect, « en parlant d'hommes » lourd, « marcher dans l'orgueil » littéral.
+Verdict : « Égyptien^ araméen » (ligne 16) — le caret marque la fin du superscript « D^§ 70, 9, Égyptien^ », donc « araméen » commence le texte normal, fidèle à la structure source. « en parlant d'hommes » (ligne 18) est une traduction correcte et naturelle de « of men ». « marcher dans l'orgueil » (ligne 38) est une expression biblique française standard. Aucune correction nécessaire.

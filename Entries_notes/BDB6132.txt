@@ -1,0 +1,2 @@
+Signalé : « office » non traduit, « probably specifically » non traduit, « strictly mode of standing » non traduit.
+Verdict : Faux positifs. « office, fonction, service » (ligne 5) est du français correct — « office » est un mot français (charge, fonction). « probablement spécifiquement » (ligne 20) traduit « probably specifically ». « strictement manière de se tenir » (lignes 20-21) traduit « strictly mode of standing ». Tous les termes sont en français. Aucune correction nécessaire.

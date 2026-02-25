@@ -1,0 +1,2 @@
+Signalé : « 8th cent. B.C. » non traduit, « miles » non traduit, « V:16 » non converti, « Pr 174 » ambigu.
+Verdict : « 8th cent. B.C. » est correctement traduit en « 8e s. av. J.-C. » (ligne 18). « Miles » est correctement traduit en « milles » (ligne 16). « V:16 » (ligne 56) est l'abréviation de « verse 16 » dans le même chapitre d'Ézéchiel — format standard BDB conservé dans les deux langues. « Pr 174 » (ligne 13) fait partie de la référence bibliographique « Dl^PA 275 ss.^Pr 174 » — c'est un numéro de page, pas une référence biblique. Faux positifs du vérificateur.

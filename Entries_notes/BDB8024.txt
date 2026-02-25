@@ -1,0 +1,2 @@
+Signalé : « hast thou clothed », « so most », « but very uncertain » comme franglais non traduit ; « Job » non converti en « Jb ».
+Verdict : (1) « as-tu revêtu » (ligne 7) traduit correctement « hast thou clothed ». (2) « ainsi la plupart » (ligne 8) traduit « so most ». (3) « mais très incertain » (ligne 8) traduit « but very uncertain ». (4) « Jb 39,19 » (ligne 6) — la référence est correctement convertie. Le vérificateur a lu le fichier anglais au lieu du fichier français. Tous les signalements sont des faux positifs. Aucune correction nécessaire.

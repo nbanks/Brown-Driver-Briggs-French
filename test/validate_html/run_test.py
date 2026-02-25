@@ -8,26 +8,28 @@ Usage:
     python3 test/validate_html/run_test.py
 """
 
-import os
 import sys
 from pathlib import Path
 
-# Add project root to path so we can import validate_html internals
+# Add project root to path so we can import validate_html
 TEST_DIR = Path(__file__).resolve().parent
 ROOT = TEST_DIR.parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 
-# Monkey-patch the directory paths before importing
 import validate_html
-validate_html.ENTRIES_DIR = str(TEST_DIR / "Entries")
-validate_html.ENTRIES_FR_DIR = str(TEST_DIR / "Entries_fr")
-validate_html.TXT_FR_DIR = str(TEST_DIR / "Entries_txt_fr")
+
+# Test directory overrides (passed as kwargs instead of monkey-patching)
+TEST_DIRS = {
+    "entries_dir": str(TEST_DIR / "Entries"),
+    "entries_fr_dir": str(TEST_DIR / "Entries_fr"),
+    "txt_fr_dir": str(TEST_DIR / "Entries_txt_fr"),
+}
 
 
 def main():
     # Discover test cases
     fr_files = sorted(
-        Path(validate_html.ENTRIES_FR_DIR).glob("*.html")
+        (TEST_DIR / "Entries_fr").glob("*.html")
     )
     good_ids = []
     bad_ids = []
@@ -47,8 +49,7 @@ def main():
     details = {}
 
     for bdb_id in good_ids + bad_ids:
-        errors = []
-        validate_html.validate_file(bdb_id, errors)
+        errors = validate_html.validate_file(bdb_id, **TEST_DIRS)
         is_good = bdb_id.startswith("GOOD")
         has_errors = len(errors) > 0
         details[bdb_id] = errors

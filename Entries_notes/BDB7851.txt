@@ -1,0 +1,3 @@
+Signalé : « miles » non traduit, « latitude » et « identification » non traduits.
+Verdict : « milles » (ligne 22) est déjà la forme française correcte — le vérificateur a mal lu. « latitude » et « identification » sont des mots français identiques à l'anglais.
+Correction : « f. » → « s. » (ligne 21, Palmer^Desert 296 s.^) — convention française pour « page suivante ».

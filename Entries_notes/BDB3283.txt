@@ -1,0 +1,2 @@
+Signalé : « 1st ed. » non traduit, espace manquante avant point-virgule.
+Verdict : « 1st ed. » est correctement traduit en « 1re éd. » dans le texte français (ligne 20). Les espaces avant les points-virgules sont présentes dans le texte. Le vérificateur s'est trompé. Aucune correction nécessaire.

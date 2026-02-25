@@ -1,0 +1,2 @@
+Signalé : « see » non traduit dans « Tyr see ».
+Verdict : le fichier français dit « Tyr voir » (ligne 5) et « voir » (ligne 7) — les deux occurrences de « see » sont correctement traduites par « voir ». Le vérificateur a lu le fichier anglais. Faux positif. Aucune correction nécessaire.

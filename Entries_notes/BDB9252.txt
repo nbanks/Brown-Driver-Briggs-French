@@ -1,0 +1,2 @@
+Signalé : « portable », « petit », « homme », « taille », « forme », « condamné », « utilisé », « donnant », « vains » non traduits, espace manquante.
+Verdict : Faux positifs massifs. Tous les mots listés (« portable », « petit », « homme », « taille », « forme », « condamné », « utilisé », « donnant », « vains ») sont des mots français, pas anglais. Le vérificateur les a confondus avec de l'anglais résiduel en raison de leur ressemblance graphique avec l'anglais. Aucune correction nécessaire.

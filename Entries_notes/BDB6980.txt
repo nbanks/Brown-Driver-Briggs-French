@@ -1,0 +1,2 @@
+Signalé : problèmes de traduction dans l'entrée.
+Verdict : en vérifiant le fichier, la traduction est correcte. Le diagnostic est un faux positif du vérificateur LLM. Aucune correction nécessaire.

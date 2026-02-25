@@ -1,0 +1,2 @@
+Signalé : « Teima » devrait être « Têma », « Aramaic Dialektproben » non traduit.
+Verdict : Le texte français (vérifié) dit « Têma » (ligne 7) avec l'accent circonflexe correct. « Aramaic Dialektproben » (ligne 40) fait partie du titre d'ouvrage de Dalman « D^Aramaic Dialektproben, p. 1^ » — les titres d'ouvrages ne se traduisent pas. Faux positifs. Aucune correction nécessaire.

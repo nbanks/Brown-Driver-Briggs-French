@@ -1,0 +1,2 @@
+Signalé : « [of a peuple] » franglais, « as collective noun » non traduit.
+Verdict : Le fichier français contient « [d'un peuple] » et « comme nom collectif » (lignes 5-6) — tout est correctement traduit. Le diagnostic cite du texte qui n'existe pas dans le fichier. Aucune correction nécessaire.

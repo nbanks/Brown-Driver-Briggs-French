@@ -1,0 +1,2 @@
+Signalé : « mire » non traduit, resté en anglais.
+Verdict : « mire » est correctement traduit par « boue, fange » (ligne 6). Le diagnostic de llm_verify ne correspond pas au contenu réel du fichier. Aucune correction nécessaire.

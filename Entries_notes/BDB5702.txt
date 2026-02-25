@@ -1,0 +1,2 @@
+Signalé : « a family » non traduit.
+Verdict : Faux positif. Le texte français dit « une famille d'exilés revenus » (lignes 7-8), traduction correcte de « a family of returned exiles ». Aucune correction nécessaire.

@@ -1,0 +1,2 @@
+Signalé : « phénicien nom propre » ordre des mots incorrect ; espace insécable manquante avant point-virgule après « Μαουιηλ ».
+Correction : « comparer phénicien nom propre יאלפעל » → « comparer nom propre phénicien יאלפעל » (ligne 27) — l'ordre anglais « Phoenician proper name » avait été calqué au lieu d'être adapté en français. L'espace avant le point-virgule après « Μαουιηλ » (ligne 20) est déjà présente dans le fichier. Pas d'autre problème.

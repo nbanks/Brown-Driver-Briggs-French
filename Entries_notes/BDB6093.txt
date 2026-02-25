@@ -1,0 +1,2 @@
+Signalé : « Num » non converti en « Nb », accents manquants sur « hebreu ».
+Verdict : « Num » est converti en « Nb » (ligne 51 du FR). « hébreu » porte son accent (ligne 2 « hébreu biblique »). Le vérificateur s'est trompé sur les deux points. Aucune correction nécessaire.

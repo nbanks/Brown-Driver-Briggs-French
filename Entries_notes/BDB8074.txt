@@ -1,0 +1,2 @@
+Signalé : « Now » comme anglais non traduit ; « Ag 77,8 » comme erreur de copie.
+Verdict : (1) « Now » (ligne 193) est l'abréviation savante pour Nowack (exégète allemand), apparaissant aux côtés de « We » (Wellhausen) — à conserver tel quel. (2) « Ag 77,8 » (ligne 65) reproduit fidèlement « Hag 77:8 » du source anglais — c'est une erreur dans le BDB original (Aggée n'a que 2 chapitres), probablement pour « Ag 1,8 » (qui apparaît correctement ligne 63). L'erreur du source est correctement préservée. Aucune correction nécessaire.

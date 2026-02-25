@@ -1,0 +1,2 @@
+Signalé : « adode » (au lieu de « demeure ») répété deux fois ; accents manquants sur « hebreu » et « Ephraim ».
+Verdict : « adode » est une coquille dans la source anglaise (pour « abode ») ; le traducteur a correctement rendu le sens par « demeure » (lignes 30 et 38). « hébreu » porte bien son accent (ligne 2 : « hébreu biblique »). « Éphraïm » porte bien ses accents (ligne 45). Faux positif intégral. Aucune correction nécessaire.

@@ -1,0 +1,2 @@
+Signalé : numéro H incorrect (H5040 vs H5039) ; mot hébreu altéré ; contenu différent (Hos 2,12 vs Jg 19,24).
+Verdict : le numéro H5040 est identique dans la source anglaise et la traduction. Le mot hébreu נַבְלוּת est correctement préservé. La référence Os 2,12 est identique. « impudicité, impudeur, débauche » traduit fidèlement « immodesty, shamelessness, lewdness ». Faux positif intégral — le vérificateur a confondu cette entrée avec une autre.

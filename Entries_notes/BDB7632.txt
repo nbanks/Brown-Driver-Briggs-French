@@ -1,0 +1,2 @@
+Signalé : parenthèse fermante manquante à la fin du texte.
+Verdict : La source anglaise (ligne 11) a « compare Isa 63:7; Ps 145:7). » avec une parenthèse fermante orpheline — il n'y a pas de parenthèse ouvrante correspondante visible. Le texte français (ligne 10) a « comparer Es 63,7 ; Ps 145,7). » qui reproduit fidèlement cette ponctuation source, y compris la parenthèse fermante. C'est une particularité de la source. Aucune correction nécessaire.

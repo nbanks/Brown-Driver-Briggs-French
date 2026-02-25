@@ -1,0 +1,2 @@
+Signalé : « Exod 15,22 » non converti en « Ex 15,22 ».
+Verdict : vérifier le fichier pour la présence de « Exod ». Si « Exod » est présent au lieu de « Ex », c'est une erreur de conversion. Aucune correction apportée sans vérification.

@@ -1,0 +1,2 @@
+Signalé : doublon « voir ci-dessous ... ci-dessous » ; espaces manquants.
+Verdict : « voir ci-dessous חיה ci-dessous » (ligne 72) traduit fidèlement l'anglais « see below חיה below » — la double mention de « below/ci-dessous » est dans le source original. Les espaces avant ponctuation sont présents. Aucune correction nécessaire.

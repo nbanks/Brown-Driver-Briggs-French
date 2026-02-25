@@ -1,0 +1,2 @@
+Signalé : « 4th » non traduit (devrait être « 4e »).
+Verdict : la traduction française a « 4ᵉ » (ligne 6), ce qui est la forme française correcte. Le diagnostic est un faux positif. Aucune correction nécessaire.

@@ -1,0 +1,2 @@
+Signalé : « below » non traduit, espace manquante avant deux-points après le grec.
+Verdict : « below » est traduit par « ci-dessous » (ligne 39 du FR) — le vérificateur s'est trompé. L'espace avant les deux-points après Οζ(ε)ιηλ (ligne 6) est présente dans le FR. Aucune correction nécessaire.

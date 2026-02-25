@@ -1,0 +1,3 @@
+Signalé : « Os 60,9 » et « Os 38,13 » comme références impossibles (Osée n'a que 14 chapitres) ; « AV » non traduit ; « & Chroniques ».
+Correction : « Os 60,9 » → « Es 60,9 » et « Os 38,13 » → « Es 38,13 » (lignes 336, 338) — erreur dans le source anglais qui écrit « Hos » au lieu de « Isa » (Ésaïe 60,9 et 38,13 existent). Aussi « & Chroniques » → « et Chroniques » (ligne 173).
+Verdict : « AV » est l'abréviation savante de l'Authorized Version — à conserver. « Rabb » est l'abréviation pour les sources rabbiniques.

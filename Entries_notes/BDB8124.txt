@@ -1,0 +1,2 @@
+Signalé : « V:61 » comme format non traduit ; « Littérature de Sagesse » comme potentielle erreur.
+Verdict : (1) « V:61 » (ligne 100) reproduit fidèlement le source anglais « V:61 » (ligne 100) — c'est une référence au verset 61 du même psaume (Ps 119). (2) « Littérature de Sagesse » (ligne 138) traduit correctement « Wisdom Literature » — les majuscules sont justifiées car c'est un nom de genre littéraire en français académique biblique. Aucune correction nécessaire.

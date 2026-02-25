@@ -1,0 +1,2 @@
+Signalé : « in » et « Naphtali » non traduits (devrait être « en Nephtali »).
+Verdict : en vérifiant le fichier, la traduction a « en Nephtali » (ligne 6), ce qui est correct. Le diagnostic est un faux positif. Aucune correction nécessaire.

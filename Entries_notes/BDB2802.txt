@@ -1,0 +1,2 @@
+Signalé : « Plural construct » non traduit, terminologie grammaticale anglaise résiduelle.
+Verdict : Le texte français utilise « Pluriel construit » (terminologie grammaticale française correcte). « Plural construct » n'apparaît pas dans le fichier français. Faux positif. Aucune correction nécessaire.

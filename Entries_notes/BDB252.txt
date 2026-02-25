@@ -1,0 +1,2 @@
+Signalé : « miles » non traduit, « Euphrates » non traduit, « Babylon » non traduit, « f^ » mal adapté en « s^ ».
+Verdict : Tous faux positifs. « miles » est traduit par « milles » (ligne 21). « Euphrates » est traduit par « l'Euphrate » (ligne 21). « Babylon » est traduit par « Babylone » (ligne 22). « f^ » (anglais « following ») est correctement rendu par « s^ » (français « suivant »), convention savante standard. Aucune correction nécessaire.

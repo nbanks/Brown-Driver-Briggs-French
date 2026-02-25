@@ -1,0 +1,2 @@
+Signalé : « trouvés dans P » sans article, structure anglaise.
+Verdict : « trouvés dans P » (lignes 4-5) traduit « found in P ». « P » est l'abréviation du code source sacerdotal (Priestly), utilisée sans article dans le BDB tant en anglais qu'en français. Le style télégraphique est cohérent avec l'ensemble du corpus. Faux positif. Aucune correction nécessaire.

@@ -1,0 +1,2 @@
+Signalé : « Na Est 5,14 » mélange de références.
+Verdict : La structure de la référence suit fidèlement la source anglaise. Les abréviations sont correctement converties (Na = Nahoum, Est = Esther). Aucune correction nécessaire.

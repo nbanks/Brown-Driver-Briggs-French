@@ -1,0 +1,2 @@
+Signalé : « miles » non traduit.
+Verdict : le vérificateur s'est trompé. « milles » (lignes 17-18) est la forme française correcte de « miles ». « 5e éd. » (ligne 21) traduit correctement « 5th ed. ». Aucune correction nécessaire.

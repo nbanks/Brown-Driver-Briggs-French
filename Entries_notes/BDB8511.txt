@@ -1,0 +1,2 @@
+Signalé : « We et autres » contient « and » non traduit.
+Verdict : le FR a « We et autres » (ligne 10) — « et » est bien du français, pas « and ». « We » = Wellhausen (abréviation savante). Le vérificateur a mal lu le texte. Aucune correction nécessaire.

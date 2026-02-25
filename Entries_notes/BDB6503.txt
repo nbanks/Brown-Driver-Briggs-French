@@ -1,0 +1,2 @@
+Signalé : « East side », « North side », « South side », « West side » non traduits.
+Verdict : le vérificateur s'est trompé. Le FR a « côté est » (ligne 64), « côté nord » (ligne 74), « côté sud » (ligne 80), « côté ouest » (ligne 85) — tous correctement traduits. Aucune correction nécessaire.

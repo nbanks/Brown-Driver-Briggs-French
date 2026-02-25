@@ -1,0 +1,2 @@
+Signalé : « AV », « RV », « Thes », « al. », « Vrss », « cf » non traduits.
+Verdict : toutes sont des abréviations savantes conservées conformément aux règles du projet : « AV » = Authorized Version (ligne 14), « RV » = Revised Version (ligne 16), « Thes » = Thesaurus de Gesenius (ligne 18), « al. » = latin alii/autres (ligne 18), « Vrss » = Versions anciennes (ligne 20), « cf » = latin confer (ligne 31). Aucune correction nécessaire.

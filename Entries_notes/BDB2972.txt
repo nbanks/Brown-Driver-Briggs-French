@@ -1,0 +1,2 @@
+Signalé : « refuge », « site », « unknown » non traduits.
+Verdict : « refuge », « site » et « inconnu » sont des mots français identiques ou traduits correctement. Faux positifs. Aucune correction nécessaire.

@@ -1,0 +1,2 @@
+Signalé : espaces manquants (« אָחוּ:nom »), « être vert » comme calque de « be green ».
+Verdict : le deux-points dans « אָחוּ:nom » reproduit le format de l'original anglais (« אָחוּ:noun ») — c'est un artefact d'extraction, pas une erreur de traduction. « Être vert » est une traduction correcte de « be green » dans un contexte étymologique (glose du mot égyptien axa). Ce n'est pas un calque maladroit — l'infinitif français correspond exactement à l'infinitif anglais. Aucune correction nécessaire.

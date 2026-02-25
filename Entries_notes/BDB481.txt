@@ -1,0 +1,2 @@
+Signalé : « English translation » laissé en anglais.
+Verdict : faux positif. Le fichier français (ligne 12) contient « traduction anglaise », qui est la traduction correcte de « English translation ». Le vérificateur a probablement mal identifié le texte. Aucune correction nécessaire.

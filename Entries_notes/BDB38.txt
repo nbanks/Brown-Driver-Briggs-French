@@ -1,0 +1,2 @@
+Signale : « OT » non traduit, « Palestinian » non traduit, « Egyptian » non traduit, « geography » non traduit.
+Verdict : Tous ces termes sont correctement traduits dans la version francaise. « OT » → « AT » (ligne 7). « Palestinian » → « palestinien » (ligne 11). « geography » → « geographie » (ligne 11). « Egyptian » → « egyptien » (ligne 13). Le verificateur a commis des faux positifs. Aucune correction necessaire.

@@ -1,0 +1,2 @@
+Signalé : « Another form is » non traduit en fin de texte.
+Verdict : faux positif. La ligne 7 du fichier français dit bien « Une autre forme est » — traduction correcte de « Another form is ». L'entrée se termine de façon abrupte car le texte source lui-même s'interrompt ainsi. Aucune correction nécessaire.

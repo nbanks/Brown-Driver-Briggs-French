@@ -1,0 +1,2 @@
+Signalé : « Exod » non traduit en « Ex ».
+Verdict : Le texte français (vérifié) dit « Ex 8,8 ; Ex 9,33 » (ligne 17) — les références sont correctement converties. Faux positif. Aucune correction nécessaire.

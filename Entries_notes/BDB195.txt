@@ -1,0 +1,2 @@
+Signalé : « seulement » comme calque de « only by », « contrastée » comme calque de « contrasted ».
+Verdict : « seulement » est un adverbe français parfaitement valide pour traduire « only ». Son emploi ici (« seulement Pr 16,22 » et « seulement par la verge ») est naturel et courant en français académique. Quant à « contrastée », le texte actuel utilise en fait « opposée à » (ligne 18), ce qui est une excellente traduction de « contrasted with ». Le diagnostic de llm_verify ne correspond pas au contenu réel du fichier. Aucune correction nécessaire.

@@ -1,0 +1,2 @@
+Signalé : « all J » non traduit.
+Verdict : le texte français (ligne 12) dit « tous J » — « tous » traduit correctement « all ». Le vérificateur a fait une fausse détection. Aucune correction nécessaire.

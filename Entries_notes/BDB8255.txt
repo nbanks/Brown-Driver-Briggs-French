@@ -1,2 +1,2 @@
-Signalé : formes verbales et sens numérotés manquants ou fusionnés.
-Correction : entrée entièrement retraduite. L'ancienne version avait des formes verbales différentes et les 3 sens étaient fusionnés.
+Signalé : formes verbales et références manquantes, sens fusionnés.
+Verdict : Faux positif. Le texte français (vérifié) contient bien les trois sens numérotés (1. aller à gauche, 2. figuré se détourner à gauche, 3. utiliser la main gauche) avec toutes les références (Gn 13,9, Ez 21,21, 2 S 14,19, Es 30,21, 1 Ch 12,2). Les formes verbales (Imparfait cohortatif, Impératif féminin singulier, Infinitif construit, Participe) sont toutes présentes. Aucune correction nécessaire.

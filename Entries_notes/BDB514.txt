@@ -1,0 +1,2 @@
+Signalé : « Anc. Egypt » non traduit ; accent manquant sur « panthéon » ; « Thebes » en anglais.
+Verdict : tous faux positifs. « Rawl.^Hist, Anc. Egypt, i. 322^ » est une référence bibliographique savante (Rawlinson, History of Ancient Egypt) — les titres de publications ne se traduisent pas. « panthéon » (ligne 15) porte déjà l'accent. « Thèbes » (ligne 7) est correctement francisé avec l'accent grave. Aucune correction nécessaire.

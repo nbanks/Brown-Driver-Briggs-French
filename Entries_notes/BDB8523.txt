@@ -1,0 +1,2 @@
+Signalé : espace manquante avant « :a ».
+Verdict : « 36 :a » (ligne 13) suit la convention typographique française (espace avant deux-points). Le source anglais a « p. 36:a » (page 36, colonne a). La traduction est correcte. Aucune correction nécessaire.

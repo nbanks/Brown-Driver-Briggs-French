@@ -1,0 +1,2 @@
+Signalé : « et » anglais résiduel ou coquille dans la parenthèse finale.
+Verdict : vérification effectuée. L'anglais original (ligne 21) dit « I turn… and do not see him ( and || » — la traduction française « je me tourne… et ne le vois pas ( et || » est fidèle. Le « et » dans « ( et || » est bien du français, traduisant « and » de l'anglais. Les abréviations savantes (Ew, Di, De, Bae, Kau, Me, Bu, Du) sont correctement préservées. Aucune correction nécessaire.

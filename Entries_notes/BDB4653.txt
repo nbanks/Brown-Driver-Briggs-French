@@ -1,0 +1,2 @@
+Signalé : « comparer » structure lourde, espace manquante avant deux-points.
+Verdict : « comparer » est la traduction standard de « compare » dans le BDB. L'espace avant les deux-points dans « (des prêtres) : Lv » est présente. Les références bibliques sont correctement converties. Aucune correction nécessaire.

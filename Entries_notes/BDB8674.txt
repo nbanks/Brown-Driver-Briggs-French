@@ -1,0 +1,2 @@
+Signalé : « Hexateuque seulement J E » comme contenant du texte anglais non traduit (« only », « J », « E »).
+Verdict : (1) « Hexateuque » (ligne 26) traduit correctement « Hexateuch ». (2) « seulement » traduit « only ». (3) « J » et « E » sont les sigles de la critique documentaire (Jahviste et Élohiste) — ce ne sont pas des mots anglais. L'expression « Hexateuque seulement J E » traduit fidèlement « Hexateuch only J E ». Le vérificateur a confondu les sigles critiques avec de l'anglais non traduit. Faux positif. Aucune correction nécessaire.

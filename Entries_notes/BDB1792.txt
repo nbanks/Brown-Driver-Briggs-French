@@ -1,0 +1,2 @@
+Signalé : « & » non traduit en « et ».
+Verdict : Faux positif. Le texte français (ligne 8) dit « et syriaque » — le « & » anglais est correctement traduit par « et ». Aucune correction nécessaire.

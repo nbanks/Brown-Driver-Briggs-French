@@ -1,0 +1,2 @@
+Signalé : diagnostic tronqué dans la sortie grep.
+Verdict : après comparaison détaillée, la traduction est complète et fidèle. « Osée » (ligne 27) traduit correctement « Hoshea » (le roi, pas le prophète). Toutes les translittérations assyriennes (Šab-°-ê, Sib-°-ê, Pir°u, Šabaku, Muƒuri) sont préservées. Les abréviations savantes (KB, COT, Wied, Wkl, MVG) sont conservées. « 25e dynastie (éthiopienne) » traduit fidèlement « 25th (Ethiop.) dynasty ». « ff. » correctement converti en « ss. » (ligne 50). Aucune correction nécessaire.

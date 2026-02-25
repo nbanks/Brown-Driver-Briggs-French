@@ -1,0 +1,2 @@
+Signalé : « Eglath » non traduit en « Églath », « Isa » non convertie en « Es ».
+Verdict : Faux positifs. Le texte français dit « Églath » (ligne 7) avec accent. « Es 15,5 » (ligne 8) est la conversion correcte de « Isa 15:5 ». Aucune correction nécessaire.

@@ -1,0 +1,2 @@
+Signalé : « rhinoceros » non traduit en « rhinocéros » ; « Isa 34:7 » non converti.
+Correction/Verdict : (1) « rhinoceros » (ligne 30) est un terme latin de la Vulgate (ᵑ9 = Vulgate), pas un mot anglais — il est préservé tel quel dans le contexte latin « unicornis, et (plus souvent) rhinoceros ». (2) « Es 34,7 » (ligne 25) — la référence est correctement convertie dans le fichier français. Le vérificateur a lu le fichier anglais. (3) Corrigé « ff. » → « ss. » (lignes 12, 13, 14, trois occurrences) conformément aux conventions françaises.

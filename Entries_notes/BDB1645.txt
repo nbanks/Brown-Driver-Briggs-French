@@ -1,0 +1,2 @@
+Signalé : « Palestinian » non traduit, « Syriac » non traduit, espace manquante.
+Verdict : « Palestinian » est traduit en « palestinien » et « Syriac » en « syriaque » dans le fichier français. Les espaces avant ponctuation double sont conformes. Aucune correction nécessaire.

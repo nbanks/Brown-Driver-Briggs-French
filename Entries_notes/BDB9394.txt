@@ -1,0 +1,2 @@
+Signalé : « bath » comme anglais non traduit, « Ezra » non converti en « Esd ».
+Verdict : (1) « bath » (ligne 5) est la translittération standard de la mesure hébraïque בַּת — utilisée telle quelle en français savant (comme « homer », « épha », « hin »). (2) « Esd 7,22 » (ligne 12) — la référence est correctement convertie de « Ezra 7:22 ». Le vérificateur a lu le fichier anglais. Tous les signalements sont des faux positifs. Aucune correction nécessaire.

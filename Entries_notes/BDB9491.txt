@@ -1,0 +1,2 @@
+Signalé : « le texte français correspond à une entrée lexicale différente (nom masculin זְמָן) que celle de l'anglais (verbe [זְמַן]) ».
+Verdict : le vérificateur est erroné. La traduction française est bien celle du verbe [זְמַן] (H2164) : « verbe dénominatif » (ligne 4-5), « Hithpael s'accorder ensemble » (lignes 7-8), « Parfait 3 masculin pluriel Dn 2,9 » (ligne 12). Tous les éléments correspondent exactement à l'original anglais. « 2nd ed. » correctement traduit en « 2e éd. » (ligne 16). Aucune correction nécessaire.

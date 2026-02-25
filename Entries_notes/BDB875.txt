@@ -1,0 +1,2 @@
+Signalé : « 2nd éd. » anglicisme, espace manquante avant « ; », « Es 15,8 » incorrect.
+Verdict : Le fichier français contient « 2ᵉ éd. » (ligne 102-103) — la notation ordinale française correcte est bien utilisée. L'espace avant « ; » est présente dans le fichier. « Es 15,8 » (ligne 100) traduit correctement « Isa 15:8 ». Le diagnostic ne correspond pas au contenu réel. Aucune correction nécessaire.

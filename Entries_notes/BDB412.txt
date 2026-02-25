@@ -1,0 +1,2 @@
+Signalé : « en anglais » serait du franglais.
+Verdict : Faux positif. Le texte français dit « comparer les mots anglais algebra, Alhambra, alkali, alcohol, alcove, etc. » (ligne 6), traduction correcte de l'anglais « compare English algebra, Alhambra, alkali, alcohol, alcove, etc. ». Le mot « anglais » qualifie les emprunts cités — il ne s'agit pas de texte anglais non traduit. Aucune correction nécessaire.

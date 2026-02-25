@@ -60,6 +60,23 @@ review and fix flagged entries. Split work by last digit of BDB number
   flagged translations
 - [ ] Re-run llm_verify on fixed entries to confirm corrections
 
+## Step 6: Validate and fix Entries_fr/ HTML output
+
+The `scripts/validate_html.py` script has been improved and tested (14 test
+cases in `test/validate_html/`). Current corpus results (2,393 files):
+- 1,738 clean (73%), 655 with issues (27%)
+- Most common issues: missing French text, missing refs, missing Hebrew
+
+Known false positives to fix in the validator:
+- [ ] HTML entities not decoded (`&amp;` vs `et` in txt_fr)
+- [ ] Subscript `_N_` notation not stripped from txt_fr comparison
+- [ ] C1 control characters in some HTML files
+
+After fixing false positives:
+- [ ] Re-run validator on full corpus to get accurate error count
+- [ ] Review and fix flagged Entries_fr/ files (or regenerate them)
+- [ ] Generate remaining ~7,600 Entries_fr/ files
+
 ## Notes
 
 - The llama.cpp server must be running before any verification steps

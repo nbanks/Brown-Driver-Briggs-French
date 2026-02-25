@@ -1,0 +1,2 @@
+Signalé : « q.v. » non traduit ; « AV » non traduit ; « id. » non traduit.
+Verdict : « q.v. » est l'abréviation latine « quod vide » — convention lexicographique universelle, à conserver telle quelle (le CLAUDE.md le confirme explicitement : « which see → q.v. »). « AV » est le sigle savant pour « Authorized Version » (King James Bible) — abréviation de référence dans le BDB, à conserver comme Dl, We, etc. « id. » abrège le latin « idem » — standard en lexicographie savante. Aucune correction nécessaire.

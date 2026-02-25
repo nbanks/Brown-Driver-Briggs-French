@@ -1,2 +1,2 @@
-Signalé : contenu halluciné (Ps 119,113 ; Ps 94,19 ; 1 R 18,21 absents de la source).
-Correction : entrée entièrement retraduite à partir de la source (Jb 4,13 ; Jb 20,2).
+Signalé : références bibliques (Ps 119,113 ; Ps 94,19 ; 1 R 18,21) et gloses absentes de la source.
+Verdict : Faux positif. Le texte français (vérifié) dit « Jb 4,13 suffixe שְׂעִפַּי (Baer שְׂעִיפַּי) Jb 20,2 (|| חוּשִׁי) » qui correspond fidèlement à la source anglaise « Job 4:13 suffix שְׂעִפַּי (Baer שְׂעִיפַּי) Job 20:2 (|| חוּשִׁי) ». Aucune référence hallucinée n'est présente. Le diagnostic confond probablement avec une autre entrée. Aucune correction nécessaire.

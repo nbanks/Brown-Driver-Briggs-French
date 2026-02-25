@@ -1,0 +1,2 @@
+Signale : « of dogs » non traduit, « Isa 56:10 » non converti.
+Verdict : Le verificateur s'est trompe. « of dogs » est traduit en « de chiens » (ligne 20). « Isa 56:10 » est converti en « Es 56,10 » (ligne 16). Aucune correction necessaire.

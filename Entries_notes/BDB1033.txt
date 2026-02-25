@@ -1,0 +1,2 @@
+Signale : « Job etre eprouve » serait une construction infinitive incorrecte.
+Verdict : Le verificateur a mal lu. Le texte francais dit « puisse (litteralement je supplie que) Job soit eprouve ! » — le subjonctif « soit eprouve » est correctement employe, pas l'infinitif « etre eprouve ». La traduction rend fidelement le souhait « would that Job were tried ». Aucune correction necessaire.

@@ -1,0 +1,2 @@
+Signale : « comparer » utilise comme imperatif, « objet » et « sujet » sans articles, « les deux P ».
+Verdict : Ce sont des conventions du style telegraphique BDB, utilise uniformement dans tout le projet francais. « comparer » traduit « compare » a l'infinitif (convention du projet). « objet » et « sujet » sont des etiquettes grammaticales concises. « les deux P » traduit « both P » de maniere correcte. Aucune correction necessaire.

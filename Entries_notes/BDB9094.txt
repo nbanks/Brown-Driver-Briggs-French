@@ -1,0 +1,2 @@
+Signalé : « John » non traduit en « Jn », « Greek » non traduit en « grec », « both » non traduit, « of animals » non traduit.
+Verdict : (1) « Jn 20,24 » (ligne 8) — la référence est correctement convertie de « John 20:24 ». (2) « grec » (ligne 7) traduit « Greek ». (3) « les deux » (ligne 12) traduit « both ». (4) « d'animaux » (ligne 15) traduit « of animals ». Toutes les traductions sont correctes. Le vérificateur a lu le fichier anglais au lieu du fichier français. Tous les signalements sont des faux positifs. Aucune correction nécessaire.

@@ -1,0 +1,2 @@
+Signalé : référence tronquée « Gn 40 ; 41 », espace manquante avant deux-points.
+Verdict : les références sont des raccourcis pour les chapitres entiers (Gn 40 et 41), pas des versets tronqués — c'est la convention du BDB quand un chapitre entier est cité. L'espace avant le deux-points est un détail typographique. Aucune correction nécessaire.

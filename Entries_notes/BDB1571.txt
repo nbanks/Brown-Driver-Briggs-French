@@ -1,0 +1,2 @@
+Signalé : « suivi de accusatif » sans article, « Hithpolel » non traduit, « RVm », « AV », « RV » non traduits.
+Verdict : le fichier français a « suivi de l'accusatif » (ligne 49, avec l'article). « Hithpolel » est un nom de conjugaison hébraïque — conservé tel quel conformément aux règles. « AV » (Authorized Version), « RV » (Revised Version), « RVm » (RV marge) sont des abréviations savantes pour des traductions bibliques anglaises — ne se traduisent pas. Faux positif.

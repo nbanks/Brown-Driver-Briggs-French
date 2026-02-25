@@ -1,0 +1,2 @@
+Signalé : « miles » non traduit, « locative » non traduit.
+Verdict : Faux positifs. « milles » (ligne 21) est correct. « locatif » (ligne 31) traduit correctement « locative » — c'est le terme grammatical français. Aucune correction nécessaire.

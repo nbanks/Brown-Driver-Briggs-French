@@ -1,0 +1,2 @@
+Signalé : « Muslim », « Isl¹m » non traduits, accents manquants, « V:28 » non converti.
+Verdict : « Muslim » et « Isl¹m » (lignes 13-14) sont des termes arabes désignant des concepts religieux spécifiques — ne se traduisent pas. « V:28 » (ligne 174) est une référence abrégée au verset 28 du même chapitre, fidèle au source. Correction : « f. » → « s. » (ligne 38) pour « RS^Sem.79 s.^ » — l'abréviation anglaise « f. » (and following) n'avait pas été convertie en « s. » (et suivant).

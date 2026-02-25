@@ -1,0 +1,2 @@
+Signalé : « read » non traduit ; « unless otherwise corrupt » mal traduit.
+Verdict : « lire » (ligne 7) traduit correctement « read ». « à moins que corrompu autrement » traduit « unless otherwise corrupt » — style télégraphique du BDB, fidèlement reproduit. Aucune correction nécessaire.

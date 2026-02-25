@@ -1,0 +1,2 @@
+Signalé : « remnant » non traduit dans la première ligne (« reste, résidu, remnant, reliquat »).
+Verdict : la ligne 6 du fichier français dit « reste, résidu, vestige, reliquat » — quatre synonymes français traduisant les quatre synonymes anglais « rest, residue, remnant, remainder ». Il n'y a aucun mot anglais « remnant » dans le fichier français. « vestige » traduit « remnant » et « reliquat » traduit « remainder ». Le vérificateur a lu le fichier anglais. Faux positif. Aucune correction nécessaire.

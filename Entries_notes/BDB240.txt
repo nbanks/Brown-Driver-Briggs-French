@@ -1,0 +1,2 @@
+Signalé : « & » non traduit, « exile Isaiah » mal traduit, « dont la lumière & flamme » avec symbole anglais.
+Verdict : Tous les « & » de l'original ont bien été traduits en « et » dans le fichier français (ligne 9 : « et ainsi le feu lui-même, dont la lumière et la flamme »). « exile Isaiah » → « Ésaïe de l'exil » est une traduction correcte (désigne les chapitres d'Ésaïe attribués à la période de l'exil). Le diagnostic de llm_verify ne correspond pas au contenu réel du fichier. Aucune correction nécessaire.

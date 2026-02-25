@@ -1,0 +1,3 @@
+Signalé : « Jn 54,15 » et « Jn 30,1 » comme références erronées (Jean n'a que 21 chapitres).
+Verdict : le texte source anglais porte « John 54:15 » et « John 30:1 » — ce sont des erreurs dans le source original (probablement Isa 54:15 et Isa 30:1). La traduction reproduit fidèlement ces erreurs du source. Note : « John 5:30 » (ligne 411-412) est en revanche une référence NT valide (Jean 5,30 contient ἀπ' ἐμαυτοῦ cité dans le texte). La confusion vient du fait que le BDB cite ici un passage du NT puis revient à l'AT.
+Correction : deux « & » remplacés par « et » (lignes 98 et 141).

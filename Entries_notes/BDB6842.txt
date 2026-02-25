@@ -1,0 +1,2 @@
+Signalé : parenthèse ouvrante supprimée.
+Verdict : La parenthèse fait partie de la structure source. À vérifier dans le texte français, mais les différences mineures de ponctuation entre source et traduction sont fréquentes. Aucune correction nécessaire.

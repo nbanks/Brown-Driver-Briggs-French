@@ -1,0 +1,2 @@
+Signalé : « voir ci-dessous גזז. ci-dessous » contient une répétition fautive.
+Correction : Supprimé le « ci-dessous » redondant à la fin de la ligne 33. La source anglaise a aussi « see below גזז. below » avec un « below » dupliqué, mais en français un seul « ci-dessous » suffit.

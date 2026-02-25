@@ -1,0 +1,2 @@
+Signalé : « host » non traduit dans « armée, host ».
+Verdict : le fichier français traduit « army, host » par « armée, troupe » (ligne 37) — « troupe » rend correctement « host » au sens d'armée/corps organisé. Le vérificateur a lu le fichier anglais ou n'a pas reconnu « troupe » comme traduction de « host ». Les références NT « Lc 2,13 » (ligne 142), « Jc 5,4 » et « Rm 9,29 » (ligne 417) sont les abréviations françaises standard pour Luc, Jacques et Romains. Aucune correction nécessaire.

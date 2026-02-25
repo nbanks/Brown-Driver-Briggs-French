@@ -1,0 +1,2 @@
+Signalé : « Josh », « Hos », « Isa » non convertis en français.
+Verdict : vérification effectuée — « Jos » (ligne 8, 12, 17), « Os » (ligne 14), « Es » (ligne 15) sont tous correctement convertis. Faux positif complet du vérificateur. Aucune correction nécessaire.

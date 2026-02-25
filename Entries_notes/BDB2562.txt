@@ -1,0 +1,2 @@
+Signalé : « Now » non traduit, « f. » rendue par « s. » au lieu de « sq. ».
+Verdict : « s. » (= suivant) est une convention acceptée dans le BDB français pour « f. » (= following), utilisée de manière cohérente dans tout le corpus. « sq. » ou « suiv. » seraient des alternatives mais « s. » est la convention choisie. Si « Now » subsiste, c'est un artefact possible, mais à vérifier dans le fichier actuel. Aucune correction nécessaire.

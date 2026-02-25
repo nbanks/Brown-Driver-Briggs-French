@@ -1,0 +1,2 @@
+Signalé : « substantive » non traduit, « Shiloah » non traduit, « qameƒ » non traduit, « pretonic » non traduit.
+Verdict : tous faux positifs. « substantive » est traduit par « substantif » (ligne 5). « Shiloah » est traduit par « Siloé » (ligne 18), forme française standard. « qameƒ » est la translittération technique du nom de voyelle hébraïque (qamets), conservée telle quelle. « pretonic » est traduit par « prétonique » (ligne 19). Aucune correction nécessaire.

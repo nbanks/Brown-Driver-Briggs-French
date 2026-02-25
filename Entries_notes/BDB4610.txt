@@ -1,0 +1,2 @@
+Signalé par llm_verify comme ERROR/WARN.
+Verdict : Vérification effectuée. Les termes signalés sont soit du français correct, soit des abréviations savantes à conserver (« RV », « AV », « id. », « q.v. »), soit des conventions lexicographiques standard. Les références bibliques sont correctement converties. Aucune correction nécessaire.

@@ -1,0 +1,2 @@
+Signalé : « Participle » non traduit en « Participe ».
+Verdict : Le fichier français contient bien « Participe » — correctement traduit. Le diagnostic ne correspond pas au contenu réel. Aucune correction nécessaire.

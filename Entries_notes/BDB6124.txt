@@ -1,0 +1,2 @@
+Signalé : « exulter » serait du franglais ; « joies » non traduit ; « exulter contre moi » mal traduit.
+Verdict : « exulter » est un mot français parfaitement valide (Latin exsultare, entré en français au XVIe siècle) — ce n'est pas un anglicisme. « joies » (ligne 12) traduit « joys » — mot français correct. « exulter contre moi » (ligne 40) traduit « exult at me » — le sens est « se réjouir à mes dépens », ce qui est correctement rendu. Faux positif intégral. Aucune correction nécessaire.

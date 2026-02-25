@@ -1,0 +1,2 @@
+Signalé : « my mouth shall speak... » non traduit.
+Verdict : la glose anglaise est correctement traduite en « ma bouche parlera sagesse, et la méditation de mon cœur sera intelligence » (ligne 11). Faux positif du vérificateur.

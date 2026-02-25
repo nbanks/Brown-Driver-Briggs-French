@@ -1,0 +1,2 @@
+Signalé : « Exod » non traduit en « Ex », « Father's tent » traduit par « tente du Père » avec majuscule injustifiée.
+Verdict : Les deux problèmes sont déjà corrigés dans la version actuelle du fichier. Les références « Exod » sont bien traduites en « Ex » (ligne 7). « Father's tent » est bien rendu par « tente du père » (minuscule, ligne 5). Faux positif — le fichier a été corrigé après la vérification llm_verify. Aucune correction supplémentaire nécessaire.

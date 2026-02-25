@@ -1,0 +1,2 @@
+Signalé : accent manquant sur « Ezechiel » (devrait être « Ézéchiel »).
+Verdict : le texte français a « conception d'Ézéchiel » (ligne 6) avec l'accent correct. Le vérificateur fait erreur — l'accent est bien présent. Aucune correction nécessaire.

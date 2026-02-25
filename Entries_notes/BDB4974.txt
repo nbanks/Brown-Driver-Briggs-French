@@ -1,0 +1,2 @@
+Signalé : contenu altéré — sens 2 « song » devenu sens 1, nouveau sens 3 ajouté, références mélangées.
+Verdict : la structure est identique à la source : sens 1 = musique (d'instrument à cordes), sens 2 = chant (avec accompagnement de cordes). Aucun sens 3 n'a été ajouté. Toutes les références bibliques correspondent exactement. Faux positif intégral — le vérificateur a halluciné une réorganisation inexistante.

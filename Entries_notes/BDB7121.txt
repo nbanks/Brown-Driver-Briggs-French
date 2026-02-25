@@ -1,0 +1,2 @@
+Signalé : « by Assyrian », « Egyptian », « Greek », « according to », « distinct from », « thinks », « compare », « see » comme anglais non traduit.
+Verdict : faux positif complet. Tout est traduit : « par l'assyrien » (by Assyrian), « égyptien » (Egyptian), « grec » (Greek), « selon » (according to), « distinct de » (distinct from), « pense que » (thinks), « comparer » (compare), « voir » (see). Le vérificateur a mal identifié les équivalents français. Aucune correction nécessaire.

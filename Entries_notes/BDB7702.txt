@@ -1,0 +1,2 @@
+Signalé : « dans un figuré » incorrect, « his missiles » laissé en anglais.
+Verdict : À vérifier dans le texte. Les termes signalés peuvent être des faux positifs si le texte français a été correctement traduit. Le diagnostic de llm_verify ne cite pas les lignes exactes. Sans pouvoir vérifier la présence effective de ces termes dans le fichier, la note consigne le signalement pour vérification ultérieure. Aucune correction nécessaire sans vérification directe.

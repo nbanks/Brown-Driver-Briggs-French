@@ -1,0 +1,2 @@
+Signalé : « in », « father of », « only », « where », « always for », « porch », « of », « temple », « see », « following » non traduits, « Ezechiel » sans accent, « Ezek » non converti.
+Verdict : Faux positif. Le fichier BDB8131 (vérifié) est une entrée très courte : « en Éphraïm, 1 Ch 7,25 » suivie de variantes grecques. Tous les termes sont en français. « en » traduit « in ». « Éphraïm » porte l'accent. Le diagnostic confond probablement avec une autre entrée. Aucune correction nécessaire.

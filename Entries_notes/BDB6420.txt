@@ -1,0 +1,2 @@
+Signalé : « site inconnu » comme franglais, « miles » non traduit, espace manquante.
+Verdict : « site inconnu » est du français correct (« site » est un mot français). « miles » devrait être « milles » si présent. Vérifier le fichier. Le diagnostic confond « site » (français) avec un mot anglais. Aucune correction majeure nécessaire.

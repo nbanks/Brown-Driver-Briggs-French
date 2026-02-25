@@ -1,0 +1,2 @@
+Signalé : « comparer Di » serait un calque syntaxique fautif.
+Verdict : « comparer Di » est le style télégraphique standard du BDB, calqué sur l'anglais « compare Di ». Dans le lexique, « comparer » fonctionne comme une instruction abrégée (= « cf. Di »). Cette convention est utilisée de manière cohérente dans tout le corpus français. Aucune correction nécessaire.

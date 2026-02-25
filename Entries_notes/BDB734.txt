@@ -1,0 +1,2 @@
+Signalé : « (avec עמדים erreur de texte selon Klo) :28 » contient un deux-points isolé ; référence cassée.
+Verdict : le texte source anglais a exactement la même structure « (with עמדים text error according to Klo):28 » — le « :28 » fait partie de la référence 1 R 13,28 qui est coupée par la parenthèse. La traduction reproduit fidèlement cette structure du source. La ponctuation inhabituelle est dans l'original. Aucune correction nécessaire.

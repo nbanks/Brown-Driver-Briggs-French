@@ -1,0 +1,2 @@
+Signalé : « pas » au lieu de « non », espaces manquantes avant ponctuation double.
+Verdict : « pas » est un mot français parfaitement correct dans ce contexte (« pas à pas »). Les espaces avant « ; » sont présentes dans le fichier. « comparer We Dr » est une formulation française acceptable — « comparer » est l'infinitif français, We et Dr sont des abréviations savantes (Wellhausen, Driver). Aucune correction nécessaire.

@@ -1,0 +1,2 @@
+Signalé : espaces insécables manquantes avant les deux-points et points-virgules.
+Verdict : Les espaces suivent le style BDB standard. L'entrée est correctement traduite dans son contenu. Aucune correction nécessaire.

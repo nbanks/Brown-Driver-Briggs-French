@@ -1,0 +1,2 @@
+Signalé : « constellations », « station », « demeure », « dieux », « id. », « fortune », « destinée », « inscription », « bilingue », « lexiques », « objet », « culte », « probablement » comme franglais.
+Verdict : tous ces mots sont des mots français parfaitement valides, identiques ou quasi identiques à leurs équivalents anglais. C'est un faux positif massif du vérificateur qui ne reconnaît pas les cognats franco-anglais. Aucune correction nécessaire.

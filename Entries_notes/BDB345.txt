@@ -1,0 +1,2 @@
+Signalé : « & » non traduit, « 1Chr » incomplètement traduit.
+Verdict : « & » est correctement traduit en « et » (ligne 7 : « et sens douteux »). « 1Chr » est correctement converti en « 1 Ch » (ligne 6 : « 1 Ch 4,8 »). Le diagnostic de llm_verify ne correspond pas au contenu réel. Aucune correction nécessaire.

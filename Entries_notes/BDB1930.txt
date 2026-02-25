@@ -1,0 +1,2 @@
+Signalé : espaces manquants, « Egypte » sans accent, structure confuse.
+Verdict : « Égypte » est correctement accentué dans le fichier. Les espaces avant ponctuations doubles sont conformes. La structure suit fidèlement l'original BDB. Aucune correction nécessaire.

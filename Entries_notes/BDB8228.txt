@@ -1,2 +1,2 @@
-Signalé : divers termes comme franglais.
-Verdict : traduction correcte. Les termes signalés sont soit des abréviations savantes, soit des mots français identiques à l'anglais.
+Signalé : numéro Strong incorrect (H7634 → H7798), contenu manquant.
+Correction : Le numéro Strong H7798 dans l'en-tête français était incorrect — la source anglaise a H7634. Corrigé en H7634. Le contenu est complet et fidèle à la source (variantes Baer, Gi, van d. H., Kit, noms grecs et sigles manuscrits sont tous présents).

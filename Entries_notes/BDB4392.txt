@@ -1,0 +1,2 @@
+Signalé : « Manuscripts » non traduit, « read » non traduit.
+Verdict : Les termes sont traduits dans le fichier actuel (« Manuscrits » et « lire/lit »). Faux positifs. Aucune correction nécessaire.

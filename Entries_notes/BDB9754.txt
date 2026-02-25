@@ -1,0 +1,2 @@
+Signalé : « christo-palestinien araméen » comme ordre des mots incorrect, accent manquant sur « araméen ».
+Verdict : « araméen christo-palestinien » (ligne 10) est correctement traduit — l'ordre est langue (araméen) puis qualificatif (christo-palestinien), ce qui est l'ordre normal en français. Le mot « araméen » (ligne 10) porte bien son accent (é). Le vérificateur a mal lu l'ordre des mots. Faux positif. Aucune correction nécessaire.

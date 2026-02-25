@@ -1,0 +1,2 @@
+Signalé : anglais non traduit (« and modern », « bind legs of beast », « plait locks of hair », « Perfect 3 masculine singular »), « Gen » non converti.
+Verdict : Faux positifs. Le texte français (vérifié) dit « et modernes, comparer arabe » (ligne 18), « lier les pattes d'un animal, tresser des mèches de cheveux » (ligne 20), « Parfait 3 masculin singulier » (lignes 20-21), « Gn 48,14 » (ligne 22). Tous les termes signalés sont traduits en français. Le latin « prudentes fecit » (ligne 26) est une citation latine à conserver. Aucune correction nécessaire.

@@ -1,0 +1,2 @@
+Signalé : « nom masculin^ » caractère parasite, « 1 R » incohérent.
+Verdict : Le « ^ » fait partie de la notation du BDB pour les exposants de références. « 1 R » est l'abréviation française standard de 1 Rois. Aucune correction nécessaire.

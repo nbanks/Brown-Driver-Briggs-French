@@ -1,0 +1,2 @@
+Signalé : « Gen », « Judg » non traduits, « Babylonian » non traduit dans la citation.
+Verdict : Les références sont correctement traduites : « Gn » et « Jg » apparaissent aux lignes 13. « Babylonian » dans « Say^Rel.^ Babylonian 103, 110 » (ligne 14) fait partie d'un titre d'ouvrage savant — les titres ne se traduisent pas. Faux positifs. Aucune correction nécessaire.

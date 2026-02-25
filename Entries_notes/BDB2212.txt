@@ -1,0 +1,2 @@
+Signalé : « & » non traduit par « et », espace manquante.
+Verdict : Faux positif — le « & » est traduit par « et » dans le fichier actuel. Aucune correction nécessaire.

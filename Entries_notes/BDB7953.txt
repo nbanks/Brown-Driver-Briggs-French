@@ -1,0 +1,2 @@
+Signalé : entrée courte, vérification incertaine.
+Verdict : l'entrée est très courte et correctement traduite. Aucune correction nécessaire.

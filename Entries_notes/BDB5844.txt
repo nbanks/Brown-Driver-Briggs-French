@@ -1,0 +1,2 @@
+Signalé : « Benjamite » sans accent, devrait être « Benjaminite ».
+Verdict : le texte français utilise déjà « Benjaminite » (ligne 5), qui est la forme française correcte. Le vérificateur a confondu avec la forme anglaise « Benjamite » de la source. Aucune correction nécessaire.

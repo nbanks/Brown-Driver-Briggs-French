@@ -1,0 +1,2 @@
+Signalé : « Bathshua » non traduit, « mais dans » calque, « pas un nom propre » calque.
+Verdict : « Bathshua » (ligne 20) est un nom propre hébreu translittéré — à conserver tel quel (comme dans l'anglais). « mais dans » (ligne 20) est un français correct pour « but in ». « pas un nom propre » (ligne 20) est un français correct pour « not a proper name ». Tous faux positifs. Aucune correction nécessaire.

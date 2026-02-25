@@ -1,0 +1,2 @@
+Signalé : « Ez 40.41 » utilise un point au lieu d'une virgule, structure fragmentée.
+Verdict : La traduction française a correctement « Ez 40,41 » avec une virgule (ligne 33). Le point était dans l'original anglais « Ezek 40.41 » et a été correctement corrigé en virgule. La fragmentation reflète fidèlement la structure de l'original anglais (entrée dense avec de nombreuses références à Ézéchiel 40-41). Faux positif. Aucune correction nécessaire.

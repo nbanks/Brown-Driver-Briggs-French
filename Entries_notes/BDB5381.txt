@@ -1,0 +1,2 @@
+Signalé : « Wilkinson^gypten » comme anglais/allemand non traduit et mal accentué.
+Verdict : « Wilkinson^gypten 323^ » est une référence bibliographique au livre de Wilkinson intitulé « Ägypten » (en allemand). Le « g » dans « gypten » est un artefact d'extraction du « Ä » initial (le « Ä » a été perdu). C'est le titre original allemand, pas un mot à traduire. « Ps » est « Ps » en français aussi. Aucune correction nécessaire.

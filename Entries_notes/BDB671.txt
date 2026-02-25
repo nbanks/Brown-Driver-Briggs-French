@@ -1,0 +1,2 @@
+Signalé : « traire » comme mauvaise traduction de « dry », « en privé » pour « privately ».
+Verdict : l'anglais dit « milk (camel, etc.) dry, empty » où « milk dry » est un verbe composé signifiant « traire à sec ». Le français « traire (chamelle, etc.) à sec, à vide » est une traduction exacte. Le vérificateur a confondu l'adjectif « dry » avec le verbe « milk dry ». « En privé » traduit « privately » (communication privée de GFM) — formulation française correcte. Aucune correction nécessaire.

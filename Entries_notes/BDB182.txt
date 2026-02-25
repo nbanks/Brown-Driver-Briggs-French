@@ -1,0 +1,2 @@
+Signalé : « signer » comme faux-sens, « pas » au lieu de « non », « mesurez » comme impératif au lieu d'infinitif.
+Verdict/Correction : « signer » est un faux positif — le texte français dit « désigner, marquer » (ligne 5), pas « signer ». « mesurez » (ligne 14) traduit l'anglais « measure » qui est bien un impératif dans le contexte BDB (traduction du parfait hébreu הִתְאַוִּיתֶם), donc correct. Correction : « pas » → « non » (ligne 7) dans la parenthèse savante « (non W) », plus naturel en français académique pour une négation elliptique.

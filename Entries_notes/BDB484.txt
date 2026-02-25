@@ -1,0 +1,2 @@
+Signalé : « concret » et « pluriel » comme franglais ; « 1 Ch 97,7 » comme référence erronée.
+Verdict : « concret » (ligne 20, 26) et « pluriel » (ligne 26) sont des mots français corrects — faux positifs. « 1 Ch 97,7 » (ligne 47) est effectivement une référence impossible (1 Chroniques n'a que 29 chapitres ; c'est probablement Ps 97,7), mais cette erreur provient du texte source anglais « 1Chr 97:7 » — la traduction reproduit fidèlement l'original. Aucune correction nécessaire.

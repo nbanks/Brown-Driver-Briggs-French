@@ -1,0 +1,2 @@
+Signalé : « miles » non traduit, numérotation incohérente.
+Verdict : Faux positif. Le texte français dit « 5 milles » (ligne 63), traduction correcte. La double numérotation « 3. » existe aussi dans la source anglaise — erreur de données source. Aucune correction nécessaire.

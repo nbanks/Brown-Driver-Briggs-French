@@ -1,0 +1,2 @@
+Signale : « so Thes », « whence MV », « in view of », « borrowed from », « perhaps also » seraient du franglais residuel.
+Verdict : Tous ces termes sont correctement traduits : « so Thes » → « ainsi Thes » (Thes = abreviation savante de Thesaurus), « whence MV » → « d'ou MV » (MV = abreviation savante), « in view of » → « en vue de », « borrowed from » → « emprunte a », « perhaps also » → « peut-etre aussi ». Le verificateur a commis des faux positifs. Aucune correction necessaire.

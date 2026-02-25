@@ -1,0 +1,2 @@
+Signalé : « Ke Or » segmentation incorrecte.
+Verdict : « Ke » et « Or » sont deux abréviations savantes distinctes (Keil et Orelli), séparées par un retour à la ligne dans le texte source. La traduction reproduit fidèlement la structure. Aucune correction nécessaire.

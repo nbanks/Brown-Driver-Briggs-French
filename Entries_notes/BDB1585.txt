@@ -1,0 +1,2 @@
+Signalé : notes savantes « ZAW 1883, 116 ff. » et « Semitic i. 228 » supprimées.
+Verdict : Les deux références sont présentes dans le fichier français : « RS^Semitic i. 228^ » (ligne 30) et « Hoffm^ZAW 1883, 116 ss.^ » (ligne 32, avec « ff. » correctement converti en « ss. »). Aucun contenu n'a été supprimé. Le diagnostic de llm_verify est erroné. Aucune correction nécessaire.

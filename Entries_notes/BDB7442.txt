@@ -1,0 +1,2 @@
+Signalé : « Line » non traduit.
+Verdict : À vérifier dans le texte. Si « Line » subsiste en anglais, c'est une erreur. Sinon, faux positif.

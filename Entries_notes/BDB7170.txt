@@ -1,0 +1,2 @@
+Signalé : « miles » non traduit, « north-northeast » non traduit.
+Verdict : « miles » devrait être « milles » selon les règles du projet. « north-northeast » devrait être « nord-nord-est ». Ces erreurs potentielles nécessitent une vérification du fichier. Aucune correction apportée sans vérification.

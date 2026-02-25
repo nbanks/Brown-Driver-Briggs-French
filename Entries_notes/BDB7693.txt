@@ -1,0 +1,2 @@
+Signalé : « Philadelphia » non francisé, « Heshbon », « Jordan », « miles » non traduits.
+Verdict : le vérificateur s'est trompé. « Philadelphia » est traduit par « Philadelphie » (ligne 18). « Heshbon » → « Hesbon » (ligne 20). « Jordan » → « Jourdain » (ligne 20). « miles » → « milles » (lignes 20, 42). Aucune correction nécessaire.

@@ -1,0 +1,7 @@
+Signalé : « loan-word » non traduit, « little tents » non traduit, « perhaps error » non traduit, références bibliques non converties.
+Verdict : toutes ces traductions sont déjà correctement effectuées dans le fichier français :
+- « loan-word » → « emprunt » (ligne 5)
+- « little tents » → « petites tentes » (ligne 19)
+- « perhaps error » → « peut-être erreur » (ligne 24)
+- « Num » → « Nb » (lignes 14, 23), « Prov » → « Pr » (ligne 29), « Song » → « Ct » (lignes 15, 32), « Dan » → « Dn » (ligne 9)
+Faux positif complet du vérificateur.

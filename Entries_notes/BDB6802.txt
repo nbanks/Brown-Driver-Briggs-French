@@ -1,0 +1,2 @@
+Signalé : « Exod » non traduit, « Egyptain » sans accent.
+Verdict : À vérifier si « Exod » subsiste dans le texte français. Si les références sont correctement converties en « Ex », c'est un faux positif. Aucune correction nécessaire.

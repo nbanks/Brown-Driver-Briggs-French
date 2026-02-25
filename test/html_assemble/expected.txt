@@ -1,0 +1,31 @@
+# Expected results for html_assemble test suite
+# Format: filename  expected_status
+# Statuses: CLEAN (output matches expected HTML), ERRATA (bad txt_fr, should be caught)
+#
+# CLEAN entries need an Entries_fr_expected/*.html file.
+# ERRATA entries have deliberately bad Entries_txt_fr/ and need no expected HTML.
+
+# === CLEAN (should produce valid HTML matching Entries_fr_expected/) ===
+BDB1.html      CLEAN    # letter entry (Aleph) with cross-reference
+BDB100.html    CLEAN    # large entry with multiple senses
+BDB104.html    CLEAN    # short proper name entry
+BDB106.html    CLEAN    # short proper name entry
+BDB1001.html   CLEAN    # verb entry
+BDB1100.html   CLEAN    # noun entry
+BDB1352.html   CLEAN    # noun with Victorian "corn" -> "blé"
+BDB200.html    CLEAN    # proper name with genealogy
+BDB214.html    CLEAN    # proper name entry
+BDB464.html    CLEAN    # proper name entry
+BDB500.html    CLEAN    # proper name of a location
+BDB551.html    CLEAN    # noun entry
+BDB883.html    CLEAN    # proper name with Esau -> Ésaü
+BDB9249.html   CLEAN    # proper name with Egypt -> Égypte
+BDB956.html    CLEAN    # noun entry
+
+# === ERRATA (deliberately bad txt_fr, should trigger ERRATA status) ===
+BDB105.html    ERRATA   # "see" untranslated (should be "voir")
+BDB10001.html  ERRATA   # English remnants: "as one of three", "the third day"
+BDB10009.html  ERRATA   # English bible ref format "Dan 2:7" instead of "Dn 2,7"
+BDB10019.html  ERRATA   # "see" and "above" untranslated (should be "voir" / "ci-dessus")
+BDB1222.html   ERRATA   # truncated — location description and refs entirely missing
+BDB1567.html   ERRATA   # "Edom" missing accent (should be "Édom")

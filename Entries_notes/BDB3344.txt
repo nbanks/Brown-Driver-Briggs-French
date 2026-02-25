@@ -1,0 +1,2 @@
+Signalé : diagnostic llm_verify tronqué (ERROR sans message détaillé).
+Verdict : La traduction est correcte. « Néguev » (ligne 7) est bien accentué. « portiers » (ligne 16) traduit correctement « porters ». Les abréviations savantes We et Dr sont conservées. Les références bibliques sont correctement converties (Jos 15,24 ; 1 S 15,4 ; 1 S 15,7 ; Esd 10,24). Aucune correction nécessaire.

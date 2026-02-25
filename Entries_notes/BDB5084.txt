@@ -1,0 +1,2 @@
+Signalé : « construct » traduit par « constructif » au lieu de « construit » ; « plural » non traduit ; structure brisée.
+Correction : « constructif » → « construit » (lignes 5 et 11, replace_all) — le terme grammatical hébraïque « construct » (état construit) se traduit « construit » et non « constructif ». « pluriel » est bien présent (ligne 10). La structure de la phrase est fidèle à la source.

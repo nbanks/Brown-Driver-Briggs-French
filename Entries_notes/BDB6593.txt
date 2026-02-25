@@ -1,0 +1,2 @@
+Signalé : « sanskrit » majuscule, « Topaz » non traduit.
+Verdict : « sanskrit » en minuscule (ligne 14) est correct en français — les noms de langues ne prennent pas la majuscule. « Topaz » dans « Sm^DB, Topaz^ » (ligne 21) est le titre d'un article dans le Smith's Dictionary of the Bible — c'est une référence bibliographique, pas du texte à traduire. Aucune correction nécessaire.

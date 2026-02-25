@@ -1,2 +1,2 @@
-Signalé : divers termes comme franglais.
-Verdict : traduction correcte. Les termes signalés sont soit des abréviations savantes, soit des mots français identiques à l'anglais.
+Signalé : numéro H7917 absent, « Exod 14:45 » impossible, structure des sens altérée, références manquantes.
+Verdict : Le texte français (vérifié) contient bien les deux sens numérotés (1 et 2) avec les références Dt 15,18 ; Dt 24,14 ; Lv 19,13, etc. La source anglaise a « Exod 14:45 » (ligne 9) — même référence impossible (Exode 14 n'a que 31 versets). Le texte français reproduit fidèlement « Ex 14,45 ». Le numéro H7917 pour יִשָּׂשׂכָר apparaît dans le renvoi final « יִשָּׂשׂכָר voir ci-dessus » qui est présent. Le diagnostic de llm_verify est largement un faux positif.

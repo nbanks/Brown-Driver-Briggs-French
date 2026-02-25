@@ -1,0 +1,2 @@
+Signalé : « fut grandement alarmé » comme anglais non traduit (« alarmed »).
+Verdict : « alarmé » (ligne 32) est un mot français valide (participe passé du verbe « alarmer »), traduisant correctement « alarmed ». « fut grandement alarmé » est une traduction correcte de « was greatly alarmed ». Le vérificateur a confondu le mot français « alarmé » avec l'anglais « alarmed ». Faux positif. Aucune correction nécessaire.

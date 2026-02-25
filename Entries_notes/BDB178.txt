@@ -1,0 +1,2 @@
+Signale : « meat » (nourriture) traduit par « viande », « t. » laisse en anglais.
+Correction : « meat » au sens victorien = nourriture en general, pas viande. Corrige « de viande » → « de nourriture » dans Entries_txt_fr. « t. » est l'abreviation standard de « times » (occurrences) utilisee dans tout le projet BDB francais — a conserver tel quel.

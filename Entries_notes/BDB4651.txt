@@ -1,0 +1,2 @@
+Signalé : « Exod » et « Deut » non traduits en « Ex » et « Dt ».
+Verdict : le texte français a bien « Ex » (lignes 10, 11) et « Dt » (lignes 8, 15) — toutes les références sont correctement converties. Le vérificateur fait erreur. Aucune correction nécessaire.

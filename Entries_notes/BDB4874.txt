@@ -1,0 +1,2 @@
+Signalé : « comparer » au lieu de « cf. » ; « préfixé » anglicisme.
+Verdict : « comparer » est la traduction standard de « compare » dans le style du BDB selon les conventions du projet (CLAUDE.md : « compare X → comparer X »). « préfixé » (ligne 74) traduit « prefixed » — c'est un mot français parfaitement valide signifiant « placé en tête, ajouté comme préfixe ». Aucune correction nécessaire.

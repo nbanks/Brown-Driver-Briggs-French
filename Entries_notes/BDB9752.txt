@@ -1,0 +1,2 @@
+Signalé : « notre contre » calque, « a haut » calque, espaces manquantes.
+Verdict : Les termes signalés nécessitent vérification directe dans le fichier. « notre contre » pourrait être un faux positif si le contexte est « notre [époque] contre [leur époque] ». Sans vérification directe, le signalement est consigné.

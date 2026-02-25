@@ -1,0 +1,2 @@
+Signalé : « my rock is Shadday » et « a Simeonite » non traduits.
+Verdict : le vérificateur s'est trompé. « my rock is Shadday » est traduit par « mon rocher est Shadday » (ligne 6). « a Simeonite » est traduit par « un Siméonite » (ligne 6). Aucune correction nécessaire.

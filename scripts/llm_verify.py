@@ -10,21 +10,12 @@ file in aligned CSV format (readable as both CSV and plain text):
 """
 
 import argparse
-import hashlib
-import random
-import signal
 import sys
-import threading
-import time
-from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
 from pathlib import Path
 
-try:
-    import requests
-except ImportError:
-    print("error: 'requests' module not found. Install with: pip install requests", file=sys.stderr)
-    sys.exit(1)
+from llm_common import (ContextOverflow, check_server, file_hash,
+                         load_results, query_llm, run_pipeline, save_result)
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 ROOT = SCRIPT_DIR.parent
@@ -48,106 +39,13 @@ MODE_DEFAULTS = {
     ),
 }
 
-
-def file_hash(path: Path) -> str:
-    """Short SHA-256 hex digest (first 8 chars) of file contents."""
-    return hashlib.sha256(path.read_bytes()).hexdigest()[:8]
-
-
-def load_results(results_path: Path) -> dict[str, tuple[str, str, str]]:
-    """Load existing results as {filename: (verdict, timestamp, hash)}.
-
-    Later lines for the same filename overwrite earlier ones (newest wins).
-    """
-    results = {}
-    if not results_path.exists():
-        return results
-    for line in results_path.read_text().splitlines():
-        line = line.strip()
-        if not line or line.startswith("#"):
-            continue
-        fields = [f.strip().strip('"') for f in line.split(",")]
-        if len(fields) >= 4:
-            results[fields[0]] = (fields[1], fields[2], fields[3])
-    return results
-
-
 # Column widths for aligned CSV output.
-# filename: 13 covers BDB10022.html (longest real filename).
-# verdict:  7 covers CORRECT (longest verdict).
 COL_FILENAME = 13
 COL_VERDICT = 7
 
 
-def save_result(results_path: Path, filename: str, verdict: str, timestamp: str,
-                fhash: str, explanation: str = ""):
-    """Append one result line in aligned CSV format."""
-    fn_field = f"{filename},".ljust(COL_FILENAME + 1)
-    vd_field = f"{verdict},".ljust(COL_VERDICT + 1)
-    line = f"{fn_field} {vd_field} {timestamp}, {fhash}"
-    if explanation:
-        clean = explanation.replace("\n", " ").replace("\t", " ").strip()
-        clean = clean.replace('"', "'")
-        # Prompt asks for max 200 chars, but allow breathing room in output
-        if len(clean) > 1024:
-            clean = clean[:1021] + "..."
-        line += f', "{clean}"'
-    with open(results_path, "a") as f:
-        f.write(line + "\n")
-
-
 def build_prompt(template: str, english: str, french: str) -> str:
     return template.replace("{{ENGLISH}}", english).replace("{{FRENCH}}", french)
-
-
-class ContextOverflow(Exception):
-    """Raised when the prompt exceeds the server's context window."""
-
-
-def query_llm(prompt: str, server_url: str, retries: int = 5) -> str:
-    """Send a chat completion request and return the content (verdict).
-
-    Uses /v1/chat/completions which separates reasoning_content from
-    the final content, so we get a clean verdict even with thinking models.
-    Prompt caching still works — llama.cpp matches the common token prefix
-    across requests on the same slot.
-
-    # TODO: investigate reducing thinking budget for faster throughput.
-    # gpt-oss-20b uses ~1000 thinking tokens per file (~11s at 100 t/s).
-    # A non-thinking model or reasoning_effort control could cut this to <1s.
-    """
-    payload = {
-        "messages": [{"role": "user", "content": prompt}],
-        "max_tokens": 2048,
-        "temperature": 0,
-        "reasoning_effort": "low",  # reduce thinking budget on reasoning models
-    }
-    for attempt in range(retries):
-        try:
-            resp = requests.post(f"{server_url}/v1/chat/completions",
-                                 json=payload, timeout=5400)
-            if resp.status_code == 400:
-                raise ContextOverflow(f"prompt too large for context window ({len(prompt)} chars)")
-            resp.raise_for_status()
-            data = resp.json()
-            msg = data["choices"][0]["message"]
-            content = (msg.get("content") or "").strip()
-            if content:
-                return content
-            # Thinking model may exhaust tokens on reasoning with no content.
-            # Try to extract a verdict from reasoning_content as fallback.
-            reasoning = (msg.get("reasoning_content") or "").strip().upper()
-            for v in ("ERROR", "WARN", "CORRECT"):
-                if v in reasoning:
-                    last_pos = reasoning.rfind(v)
-                    return reasoning[last_pos:last_pos + len(v)]
-            return ""
-        except (requests.ConnectionError, requests.Timeout) as e:
-            if attempt < retries - 1:
-                print(f"  connection error, retrying in 5s... ({e})", file=sys.stderr)
-                time.sleep(5)
-            else:
-                raise
 
 
 def parse_response(raw: str) -> tuple[str, str]:
@@ -159,10 +57,7 @@ def parse_response(raw: str) -> tuple[str, str]:
 
     The verdict line starts with ">>> " followed by CORRECT/WARN/ERROR.
     Falls back to scanning for bare verdict words if no ">>> " prefix found.
-    Returns (verdict_str, explanation_str).
     """
-    # Empty content means the model exhausted its token budget on reasoning
-    # without producing a final answer — treated as a non-verdict.
     if not raw.strip():
         return "OVERFLOW", ""
     lines = [l.strip() for l in raw.strip().splitlines() if l.strip()]
@@ -176,8 +71,7 @@ def parse_response(raw: str) -> tuple[str, str]:
                     explanation = "\n".join(explanation_lines).strip()
                     return v, explanation
         explanation_lines.append(line)
-    # Fallback: some models omit the ">>> " prefix and just write the verdict
-    # on its own line. Scan from the end to find the last bare verdict word.
+    # Fallback: scan from the end to find the last bare verdict word.
     for line in reversed(lines):
         upper = line.upper().strip("*").strip()
         for v in ("CORRECT", "ERROR", "WARN"):
@@ -194,7 +88,6 @@ def get_file_pairs(fr_dir: Path, en_dir: Path, extensions: tuple[str, ...],
     for fr_path in sorted(fr_dir.iterdir()):
         if not fr_path.name.endswith(extensions):
             continue
-        # Filter by last digit of BDB number
         if digits is not None:
             num_str = "".join(c for c in fr_path.stem if c.isdigit())
             if num_str and int(num_str[-1]) not in digits:
@@ -267,10 +160,6 @@ Modes and their defaults:
         "--shuffle", action="store_true", default=False,
         help="Randomize file order.",
     )
-    parser.add_argument(
-        "--no-shuffle", action="store_false", dest="shuffle",
-        help="Process files in sorted order.",
-    )
     args = parser.parse_args()
 
     # Apply mode defaults
@@ -304,10 +193,6 @@ Modes and their defaults:
 
     to_check = []
     for filename, en_path, fr_path in pairs:
-        # Skip files whose content hash matches an existing result — this
-        # means the file was already verified and hasn't been modified since.
-        # If the file changes (e.g. re-translated), the hash won't match and
-        # it will be re-checked.
         fhash = file_hash(fr_path)
         if filename in existing and existing[filename][2] == fhash:
             continue
@@ -329,150 +214,46 @@ Modes and their defaults:
         print(f"All {len(pairs)} files already verified (results in {results_path.name}).")
         sys.exit(0)
 
-    # Check that the llama.cpp server is running
-    try:
-        health = requests.get(f"{args.server}/health", timeout=5)
-        health.raise_for_status()
-    except (requests.ConnectionError, requests.Timeout, requests.HTTPError):
-        print("error: cannot connect to llama.cpp server at " + args.server, file=sys.stderr)
-        print("", file=sys.stderr)
-        print("Start a server in another terminal first, e.g.:", file=sys.stderr)
-        print("  llama mistral-small", file=sys.stderr)
-        print("", file=sys.stderr)
-        print("Then re-run this script.", file=sys.stderr)
-        sys.exit(1)
-
-    limit = args.max if args.max > 0 else len(to_check)
-    if args.shuffle:
-        random.shuffle(to_check)
-    to_check = to_check[:limit]
+    check_server(args.server)
 
     print(f"Checking {len(to_check)} {args.mode} files via {args.server} ...")
     print(f"Prompt:  {prompt_path.name}")
     print(f"Results: {results_path.name}")
     print()
 
-    counts = {"CORRECT": 0, "WARN": 0, "ERROR": 0}
-    total_time = 0.0
-    completed = 0
-    print_lock = threading.Lock()
+    import threading
     file_lock = threading.Lock()
-    shutdown_requested = threading.Event()
-    futures = {}  # shared with signal handler for in-flight count
 
-    def handle_sigint(signum, frame):
-        if shutdown_requested.is_set():
-            print("\nForced exit.", file=sys.stderr)
-            sys.exit(1)
-        shutdown_requested.set()
-        in_flight = len(futures) if args.parallel > 1 else 1
-        print(f"\n\nCtrl+C received -- waiting for {in_flight} in-flight "
-              f"request{'s' if in_flight != 1 else ''} to finish. "
-              "Press Ctrl+C again to force quit.", file=sys.stderr)
-
-    signal.signal(signal.SIGINT, handle_sigint)
-
-    def process_one(i, filename, en_path, fr_path, fhash, show_progress=False):
-        nonlocal completed, total_time
+    def process_one(i, total, item):
+        filename, en_path, fr_path, fhash = item
         english = en_path.read_text()
         french = fr_path.read_text()
         prompt = build_prompt(template, english, french)
         prompt_kb = len(prompt.encode("utf-8")) / 1024
 
-        prefix = f"{i}/{len(to_check)} {filename:<16s} {prompt_kb:5.0f}KB"
-        if show_progress:
-            sys.stdout.write(prefix)
-            sys.stdout.flush()
-
-        t0 = time.monotonic()
         try:
             raw = query_llm(prompt, args.server)
         except ContextOverflow:
-            with print_lock:
-                completed += 1
-                counts["SKIPPED"] = counts.get("SKIPPED", 0) + 1
-                if show_progress:
-                    pad = max(1, 42 - len(prefix))
-                    print(f"{' ' * pad}SKIPPED (too large)")
-                else:
-                    pad = max(1, 42 - len(prefix))
-                    print(f"{prefix}{' ' * pad}SKIPPED (too large)")
-            return filename, "SKIPPED"
-        elapsed = time.monotonic() - t0
+            save_result(results_path, filename, "SKIPPED",
+                        datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S"),
+                        fhash, "too large for context window",
+                        col_filename=COL_FILENAME, col_status=COL_VERDICT,
+                        lock=file_lock)
+            return filename, "SKIPPED", prompt_kb
 
         verdict, explanation = parse_response(raw)
         timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S")
+        save_result(results_path, filename, verdict, timestamp, fhash,
+                    explanation, col_filename=COL_FILENAME,
+                    col_status=COL_VERDICT, lock=file_lock)
+        return filename, verdict, prompt_kb
 
-        with file_lock:
-            save_result(results_path, filename, verdict, timestamp, fhash, explanation)
+    counts = run_pipeline(to_check, process_one,
+                          name_fn=lambda item: item[0],
+                          parallel=args.parallel,
+                          shuffle=args.shuffle, limit=args.max,
+                          label="files")
 
-        with print_lock:
-            completed += 1
-            total_time += elapsed
-            counts[verdict] = counts.get(verdict, 0) + 1
-            avg = total_time / completed
-            remaining = avg / max(args.parallel, 1) * (len(to_check) - completed)
-            eta_m, eta_s = divmod(int(remaining), 60)
-            eta_h, eta_m = divmod(eta_m, 60)
-            if eta_h:
-                eta_str = f"{eta_h}h{eta_m:02d}m"
-            else:
-                eta_str = f"{eta_m}m{eta_s:02d}s"
-            if show_progress:
-                pad = max(1, 42 - len(prefix))
-                print(f"{' ' * pad}{verdict:<7s} {elapsed:6.1f}s "
-                      f"avg={avg:5.1f}s ETA {eta_str}")
-            else:
-                pad = max(1, 42 - len(prefix))
-                print(f"{prefix}{' ' * pad}{verdict:<7s} {elapsed:6.1f}s "
-                      f"avg={avg:5.1f}s ETA {eta_str}")
-
-        return filename, verdict
-
-    if args.parallel <= 1:
-        for i, (filename, en_path, fr_path, fhash) in enumerate(to_check, 1):
-            if shutdown_requested.is_set():
-                print(f"\nStopping: {completed}/{len(to_check)} files completed.", file=sys.stderr)
-                break
-            try:
-                process_one(i, filename, en_path, fr_path, fhash, show_progress=True)
-            except Exception as e:
-                print(f"\n  fatal: LLM request failed for {filename}: {e}", file=sys.stderr)
-                print(f"  Processed {completed}/{len(to_check)} files before error.", file=sys.stderr)
-                sys.exit(1)
-    else:
-        with ThreadPoolExecutor(max_workers=args.parallel) as pool:
-            futures.clear()
-            it = iter(enumerate(to_check, 1))
-
-            # Seed the pool with at most args.parallel tasks
-            for _ in range(args.parallel):
-                item = next(it, None)
-                if item is None:
-                    break
-                i, (filename, en_path, fr_path, fhash) = item
-                fut = pool.submit(process_one, i, filename, en_path, fr_path, fhash)
-                futures[fut] = filename
-
-            # As each completes, submit the next one (unless shutting down)
-            while futures:
-                done = next(as_completed(futures))
-                fn = futures.pop(done)
-                try:
-                    done.result()
-                except Exception as e:
-                    print(f"\n  fatal: LLM request failed for {fn}: {e}", file=sys.stderr)
-                    print(f"  Processed {completed}/{len(to_check)} files before error.", file=sys.stderr)
-                    pool.shutdown(wait=False, cancel_futures=True)
-                    sys.exit(1)
-                if not shutdown_requested.is_set():
-                    item = next(it, None)
-                    if item is not None:
-                        i, (filename, en_path, fr_path, fhash) = item
-                        fut = pool.submit(process_one, i, filename, en_path, fr_path, fhash)
-                        futures[fut] = filename
-
-    print()
     print()
     print(f"Done: {len(to_check)} files checked.")
     print(f"  CORRECT: {counts.get('CORRECT', 0)}")

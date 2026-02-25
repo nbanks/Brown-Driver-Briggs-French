@@ -1,0 +1,2 @@
+Signalé : « after » non traduit, « level » mal rendu, espace manquante.
+Verdict : Les termes sont traduits dans le fichier actuel. « niveau » est acceptable dans certains contextes. Aucune correction nécessaire.

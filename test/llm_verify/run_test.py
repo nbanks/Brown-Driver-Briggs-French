@@ -191,6 +191,8 @@ def main():
                         help="Random seed for reproducible sampling.")
     parser.add_argument("--server", default="http://127.0.0.1:8080",
                         help="llama.cpp server URL.")
+    parser.add_argument("-j", "--parallel", type=int, default=1, metavar="J",
+                        help="Number of parallel LLM requests.")
     args = parser.parse_args()
 
     expected = load_expected()
@@ -224,6 +226,7 @@ def main():
             "--source-dir", run_en,
             "--results", str(RESULTS_FILE),
             "--server", args.server,
+            "-j", str(args.parallel),
         ]
 
         print(f"Running llm_verify.py ...")

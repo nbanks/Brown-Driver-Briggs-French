@@ -1,0 +1,2 @@
+Signalé : « consuma » au lieu de « ont consumé » (sujet pluriel), « vaines futilités » non traduit.
+Verdict : « consuma » (ligne 54) a pour sujet implicite Dieu (singulier) — « il consuma leurs jours » traduit « consumed their days ». Le passé simple singulier est correct. « Vaines futilités » (ligne 91) traduit correctement « empty vanities ». Les deux signalements sont des faux positifs.

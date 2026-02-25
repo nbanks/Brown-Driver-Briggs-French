@@ -1,0 +1,2 @@
+Signalé : « Gen 29:6 » non traduit, « Genesis » non abrégé, « 1Sam » non traduit, « Jer » non traduit, « Ruth » non traduit.
+Verdict : en vérifiant le fichier, toutes les références sont correctement converties : « Gn 29,6 » (ligne 6), « Genèse » (ligne 6), « 1 S 10,2 » (ligne 19), « Jr 31,15 » (ligne 23), « Rt 4,11 » (ligne 26). Le diagnostic est un faux positif complet. Aucune correction nécessaire.

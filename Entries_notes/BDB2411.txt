@@ -1,0 +1,2 @@
+Signalé : « Israël » sans accent, « Ps » non traduit.
+Verdict : « Israël » porte bien l'accent (ligne 30). « Ps » est l'abréviation française standard pour Psaumes — identique en anglais et en français. Tous les noms propres sont correctement traduits : « Jéroboam », « Achaz », « Salomon ». Faux positif.

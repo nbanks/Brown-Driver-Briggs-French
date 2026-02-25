@@ -1,1 +1,2 @@
-Signale : problème de référence. Verdict : vérifié, conforme au source anglais.
+Signalé : « Gn 30,83 » référence impossible (Genèse n'a que 50 chapitres, et le chapitre 30 n'a que 43 versets).
+Verdict : La source anglaise a « Gen 30:83 » (ligne 21) — même référence impossible. C'est une erreur de données source (probablement une coquille pour Gn 30,33) fidèlement reproduite dans la traduction. Ce n'est pas une erreur de traduction. Aucune correction nécessaire.

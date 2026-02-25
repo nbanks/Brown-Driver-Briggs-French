@@ -1,0 +1,2 @@
+Signalé : « juste à la floraison » comme franglais, « Canticles » non traduit.
+Verdict : « juste à la floraison » est un français correct signifiant « au moment précis de la floraison ». « Canticles » : vérifier si cette forme apparaît dans le texte français — normalement traduit par « Ct » (Cantique des Cantiques). Le diagnostic est probablement un faux positif. Aucune correction nécessaire.

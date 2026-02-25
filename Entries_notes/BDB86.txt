@@ -1,0 +1,5 @@
+Signalé : « d'ordinaire transitif goutte » comme structure brisée/franglais.
+Verdict : l'anglais source dit « usually transitive drop » qui est lui-même une formulation elliptique et maladroite (artefact probable de l'extraction BDB). La traduction française « d'ordinaire transitif goutte » est un miroir fidèle de l'original anglais. La structure est tout aussi elliptique dans les deux langues. Aucune correction possible sans dénaturer le texte source.
+
+Signalé : « provisions » pour « reserve-supply ».
+Verdict : « provisions » est une traduction acceptable de « reserve-supply » dans ce contexte (réserves, approvisionnements). Le français rend aussi « collections, stores » par « réserves, provisions ». Traduction correcte.

@@ -1,0 +1,2 @@
+Signalé : « sons of Gershon » et « sons of Gershom » non traduits.
+Verdict : les deux expressions sont correctement traduites : « fils de Gershon » (ligne 10) et « fils de Gershom » (ligne 11). Faux positif complet du vérificateur.

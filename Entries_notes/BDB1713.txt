@@ -1,0 +1,2 @@
+Signale : « semen » et « aversion » non traduits.
+Verdict : Le verificateur s'est trompe. « semen » est traduit par « la semence » (ligne 66) et « aversion » est traduit par « l'aversion » (ligne 66). L'espace avant le deux-points est presente. Aucune correction necessaire.

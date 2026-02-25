@@ -1,0 +1,3 @@
+Signalé : « comparer assyrien », « arabe », « sabéen », « phéniciens » comme non traduits en noms de langues ; accent manquant sur « Édom » ; espaces manquants avant ponctuations doubles.
+Verdict : « assyrien », « arabe », « sabéen », « phéniciens » sont les formes françaises correctes de ces noms de langues — faux positif du vérificateur. « Édom » (ligne 111) porte déjà l'accent — faux positif. Les espaces avant ponctuations doubles (`;`, `:`) sont présents dans le fichier — faux positif.
+Correction : « & » remplacé par « et » à la ligne 12 (« sabéens & phéniciens » → « sabéens et phéniciens »).

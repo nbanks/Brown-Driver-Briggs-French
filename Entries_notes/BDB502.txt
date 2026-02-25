@@ -1,0 +1,2 @@
+Signalé : « seulement pluriel bétail » mal structuré, « all » non traduit, espace manquant.
+Verdict : Le texte français dit « seulement au pluriel bétail » (ligne 6), style télégraphique fidèle au BDB « only plural cattle ». « tous » (ligne 12) traduit correctement « all ». L'espace avant « ; » est présent. Faux positifs. Aucune correction nécessaire.

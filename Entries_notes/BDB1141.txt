@@ -1,0 +1,2 @@
+Signalé : « Shaphel » avec backtick manquant (devrait être « Shaph'el » ou « Shaph`el »).
+Verdict : l'anglais a « Shaph`el » et le français a « Shaphel ». Le backtick est une convention de translittération variable. « Shaphel » est une forme acceptable et lisible du nom de cette conjugaison hébraïque. Le changement est mineur et non problématique. Aucune correction nécessaire.

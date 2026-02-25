@@ -1,0 +1,2 @@
+Signalé : « Jesse » non accentué, « Bethlehemite » non traduit, « according to » non traduit.
+Verdict : Faux positifs. Le texte français a « Jessé » (ligne 21, 38) avec accent, « Bethléhémite » (ligne 21) correctement traduit, « selon » (ligne 25) pour « according to ». Aucune correction nécessaire.

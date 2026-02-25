@@ -1,0 +1,2 @@
+Signalé : espaces manquants avant ponctuations doubles, retours à la ligne intempestifs.
+Verdict : les retours à la ligne reflètent la mise en page du source original (qui a les mêmes sauts). Les espaces avant « : » et « ; » sont présents dans le fichier. La traduction est correcte. Aucune correction nécessaire.

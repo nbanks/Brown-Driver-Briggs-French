@@ -1,0 +1,2 @@
+Signale : « 2 Rois » et « 2 Chroniques » non abreges en « 2 R » et « 2 Ch ».
+Verdict : Dans l'original anglais, « 2 Kings » et « Chronicles » apparaissent comme noms de livres en texte courant (« 13 t. 2 Kings », « 8 t. 2 Chronicles »), pas comme references de verset. La forme francaise complete « 2 Rois » et « Chroniques » est correcte dans ce contexte descriptif — cf. l'exemple BDB50 dans AGENTS.md qui utilise aussi les formes completes. Les references de verset individuelles sont bien abregees (2 R 15,38, 1 Ch 3,13, etc.). Aucune correction necessaire.

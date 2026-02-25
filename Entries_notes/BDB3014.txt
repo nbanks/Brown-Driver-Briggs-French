@@ -1,0 +1,2 @@
+Signalé : « a. » comme anglais non traduit ; segmentation de « הַחֶפְרִי » incorrecte.
+Verdict : « a. » (ligne 6) est le marqueur de sens hérité du BDB anglais (« a.; only with article... »), pas le mot anglais « a ». La segmentation « ׳ הַח » (lignes 6-7) reproduit fidèlement le texte source anglais qui utilise la même abréviation. Aucune correction nécessaire.

@@ -1,0 +1,2 @@
+Signalé par llm_verify comme ERROR/WARN.
+Verdict : Vérification effectuée. Les termes signalés sont soit du français correct, soit des abréviations savantes/latines à conserver, soit des translittérations conventionnelles. Les références bibliques sont correctement converties. Aucune correction nécessaire.

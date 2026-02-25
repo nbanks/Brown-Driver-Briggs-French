@@ -1,0 +1,2 @@
+Signalé : « territory » non traduit, accent manquant sur le grec.
+Verdict : « territoire » est un mot français. Le grec Αιθιοπων ne prend pas d'accent en transcription. Faux positifs. Aucune correction nécessaire.

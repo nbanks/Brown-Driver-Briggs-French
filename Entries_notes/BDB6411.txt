@@ -1,0 +1,2 @@
+Signalé : saut de ligne coupant « ׳י ».
+Verdict : le saut de ligne entre ׳ et י est identique dans l'original anglais (lignes 6-7). C'est un artefact de formatage du texte source, fidèlement reproduit. La traduction « choc terrible, fracas » pour « awful shock, crash » et « élagage » pour « lopping off » sont correctes. Aucune correction nécessaire.

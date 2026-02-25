@@ -1,0 +1,2 @@
+Signalé : références bibliques non converties ; « Reuben » non traduit ; « 11 t. 22 » incorrect.
+Verdict : faux positif massif. Toutes les références sont correctement converties : « Gn » (Gen), « Ex » (Exod), « 1 Ch » (1Chr), « Nb » (Num), « Dt » (Deut), « Jg » (Judg), « Ez » (Ezek), « Jos » (Josh). « Ruben » (ligne 6) traduit correctement « Reuben ». « Manassé » (ligne 54) traduit « Manasseh ». « 11 t. 22 » est la notation standard du BDB (11 occurrences dans le chapitre 22). Aucune correction nécessaire.

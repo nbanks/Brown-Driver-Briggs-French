@@ -1,0 +1,2 @@
+Signalé : « app. » non traduit, « & » non traduit, « 3+1 autre », « connexions » non traduit.
+Verdict : « app. » est traduit en « apparemment » (ligne 7). Tous les « & » sont traduits en « et ». « 3+1 autres » (ligne 9) a le pluriel correct. « connections » est traduit par « contextes » (ligne 21). Le diagnostic de llm_verify ne correspond pas au contenu réel du fichier — tout est correctement traduit. Aucune correction nécessaire.

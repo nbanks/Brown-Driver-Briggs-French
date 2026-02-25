@@ -1,0 +1,2 @@
+Signalé : « id. » non traduit, « literal » et « metaphor » non traduits, accent manquant sur « Noémi ».
+Verdict : Tous faux positifs. « id. » (ligne 9) est l'abréviation latine « idem » — universellement utilisée en français savant. « literal » n'apparaît pas — le texte a « littéralement » (ligne 68) et « littéral » (ligne 214). « metaphor » n'apparaît pas — le texte a « métaphore » (ligne 85, 215). « Noémi » (ligne 127) est une forme française attestée de « Naomi » (Ruth). Aucune correction nécessaire.

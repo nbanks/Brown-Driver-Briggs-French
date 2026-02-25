@@ -1,0 +1,2 @@
+Signalé : « Athalie la méchanceté » mal lié.
+Verdict : Faux positif. Le fichier BDB8122 (H7559) concerne le verbe רָשַׁם « inscrire, noter ». Le texte français (vérifié) est correctement traduit — « ce qui est inscrit dans l'écrit de vérité » traduit fidèlement « that which is inscribed in the writing of truth ». Le diagnostic semble confondre avec une autre entrée. Aucune correction nécessaire.

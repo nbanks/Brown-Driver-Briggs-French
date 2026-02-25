@@ -1,0 +1,2 @@
+Signalé : « comme plan » faux-sens, « appositive » non traduit, « dans De^Jes » contient « in » anglais, espaces manquants.
+Verdict : « comme plat » (ligne 24) traduit « as level » — « plat » est correct pour « level » (terrain plat). « appositif » (ligne 29) est le terme grammatical français correct pour « appositive ». « dans De^Jes » (ligne 52) — « dans » est français pour « in », « De^Jes » est l'abréviation savante Delitzsch, Jesaja. Tous faux positifs. Aucune correction nécessaire.

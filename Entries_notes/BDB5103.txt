@@ -1,0 +1,2 @@
+Signalé : « Lm 49,26 » référence erronée (Lamentations n'a que 5 chapitres).
+Verdict : l'original anglais a « Lam 49:26 » qui est une erreur dans le texte source BDB (probablement pour Gen 49:26, vu le contexte). Le français reproduit fidèlement l'erreur du source avec la conversion correcte Lam → Lm. Ce n'est pas un problème de traduction mais une erreur du BDB original. Aucune correction nécessaire.

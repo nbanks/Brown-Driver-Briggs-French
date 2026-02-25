@@ -1,0 +1,2 @@
+Signalé : « l'hilistia » erreur de frappe pour « la Philistie ».
+Verdict : le texte français a bien « la Philistie » (ligne 15) — forme française correcte. Le « l'hilistia » signalé par le vérificateur semble provenir du texte source anglais corrompu (« l'hilistia » dans Entries_txt, probablement un artefact d'extraction). La traduction française a correctement interprété et corrigé le toponyme. Aucune correction nécessaire.

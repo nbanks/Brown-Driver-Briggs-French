@@ -1,0 +1,2 @@
+Signalé : « Israel » sans accent ; « Egypt » non francisé ; franglais dans les références bibliographiques.
+Correction/Verdict : (1) « Israël » (ligne 9) porte déjà l'accent dans le fichier français — le vérificateur a halluciné. (2) « Bäd^Egypt (4). 159^ » (ligne 13) est un titre d'ouvrage bibliographique en anglais (le guide Baedeker « Egypt ») — à conserver tel quel comme référence savante. (3) « Wady Tumilat » (ligne 10) est un toponyme arabe translittéré, à conserver. (4) Corrigé « ff. » → « ss. » (ligne 12) conformément aux conventions françaises.

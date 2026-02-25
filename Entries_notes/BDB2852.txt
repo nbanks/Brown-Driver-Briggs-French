@@ -1,0 +1,2 @@
+Signalé : Ponctuation française mal appliquée, espaces manquantes.
+Verdict : Les espaces avant les ponctuations doubles sont présentes dans le fichier actuel. Faux positif. Aucune correction nécessaire.

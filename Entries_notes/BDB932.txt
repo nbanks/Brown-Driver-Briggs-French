@@ -1,0 +1,2 @@
+Signalé : « a σμαραγδίτης » contient l'article anglais « a » non traduit, accent manquant sur « égyptien ».
+Verdict : Faux positif. « a » dans « a σμαραγδίτης » (ligne 13) est le verbe français « a » (3e personne de « avoir »), traduisant l'anglais « has ». Ce n'est pas l'article anglais « a ». « égyptien » (ligne 6) est correctement écrit avec accent. Aucune correction nécessaire.

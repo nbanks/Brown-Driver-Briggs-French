@@ -1,0 +1,2 @@
+Signalé : « Ruët^Kau^ Wild » non traduites, espace manquante avant point-virgule.
+Verdict : « Ruët », « Kau » et « Wild » sont des abréviations de noms de savants (auteurs) dans la notation BDB standard avec exposants. La structure « Ruët^Kau^ Wild » est conforme au style savant BDB. L'espace avant le point-virgule suit le style BDB. Aucune correction nécessaire.

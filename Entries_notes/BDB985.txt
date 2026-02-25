@@ -1,0 +1,2 @@
+Signalé : « coupent à travers » calque de « cut through », « Isa » non traduit en « Es ».
+Verdict : Le fichier français utilise « sillonnent » (ligne 13 : « les fleuves sillonnent ») — traduction élégante et naturelle de « rivers cut through ». « Isa » est correctement traduit en « Es » (ligne 12 : « Es 18,2 ; Es 18,7 »). Le diagnostic de llm_verify ne correspond pas au contenu réel. Aucune correction nécessaire.

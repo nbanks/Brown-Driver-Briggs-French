@@ -1,0 +1,2 @@
+Signalé : Espace manquante avant deux-points dans « Da : Co ».
+Verdict : Les espaces sont présentes dans le fichier actuel. Faux positif. Aucune correction nécessaire.

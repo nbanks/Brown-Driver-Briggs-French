@@ -1,0 +1,2 @@
+Signalé : « seul seulement » redondant, « dans le » anglicisme, espaces manquants avant deux-points.
+Verdict : le FR dit « seul » (ligne 22), pas « seul seulement » — le vérificateur s'est trompé. L'anglais « alone only » est traduit simplement par « seul ». Pas de « dans le » anglicisé visible. Les deux-points dans les passages grecs suivent la typographie du source. Aucune correction nécessaire.

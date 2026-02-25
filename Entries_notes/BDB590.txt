@@ -1,0 +1,2 @@
+Signalé : « east side » et « little Hermon » en franglais, accent manquant sur « Hermon ».
+Verdict : « côté est » (ligne 9) est la traduction correcte de « east side ». « petit Hermon » (ligne 9) traduit correctement « little Hermon » — c'est un nom géographique local. « Hermon » ne prend pas d'accent en français (c'est un nom propre hébreu). Le diagnostic de llm_verify ne correspond pas au contenu réel — tout est traduit. Aucune correction nécessaire.

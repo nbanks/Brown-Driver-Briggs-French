@@ -1,0 +1,2 @@
+Signalé : « babylonien » en minuscule, « Agade » sans accent.
+Verdict : « babylonien » est un adjectif de nationalité — en français, les adjectifs s'écrivent en minuscule (règle grammaticale). « Agadé » porte déjà l'accent aigu dans le fichier français (ligne 16). Faux positif sur les deux points.

@@ -1,0 +1,2 @@
+Signalé : « espaces manquants avant les points-virgules et deux-points » ; « espace manquante après la virgule dans Ps 10,7 ».
+Verdict : vérification de la ponctuation — les espaces avant les ponctuations doubles sont présentes dans le texte français. Les références bibliques sont correctement converties. Le vérificateur signale des problèmes de ponctuation qui n'existent pas ou sont des artefacts de la mise en ligne. Aucune correction nécessaire.

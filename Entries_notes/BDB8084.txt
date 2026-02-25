@@ -1,0 +1,2 @@
+Signalé : hébreu corrompu « ִרצְפָה » au lieu de « רִצְפָה », voyelles altérées.
+Verdict : la forme « ִרצְפָה » (ligne 4) et « ִרצְפַת » (ligne 9) apparaissent à l'identique dans le fichier source anglais (lignes 4 et 9). Ce sont des artefacts de l'extraction HTML originale, pas des altérations introduites par le traducteur. La traduction française préserve fidèlement le contenu du source. Aucune correction nécessaire.

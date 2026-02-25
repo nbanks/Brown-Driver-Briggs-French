@@ -1,0 +1,2 @@
+Signalé : caractère corrompu dans « אַָצל » par rapport à l'anglais « אַָצֵל ».
+Verdict : le texte hébreu est identique dans les deux fichiers. La ligne 10 a « אַָצל » et la ligne 12 a « אָצֵל » dans les deux versions (EN et FR). Ce sont deux formes distinctes du même mot hébreu citées dans l'original BDB. Le vérificateur a confondu les deux occurrences. Aucune corruption d'encodage. Aucune correction nécessaire.

@@ -1,0 +1,2 @@
+Signalé : « 17: 8 » non traduit, « AV » et « RV » non traduits, « Babylonian power ».
+Verdict : « AV » (ligne 136) et « RV » (ligne 138) sont des abréviations savantes de l'Authorized Version et Revised Version — à conserver telles quelles comme toutes les abréviations de versions bibliques. Aucun « 17: 8 » avec deux-points anglais n'est visible dans le texte français (les références utilisent des virgules). « pouvoir babylonien » (ligne 104) traduit correctement « Babylonian power ». Faux positifs. Aucune correction nécessaire.

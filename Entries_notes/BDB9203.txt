@@ -1,0 +1,2 @@
+Signalé : « Now » isolé par des sauts de ligne, « en figure » traduction faible.
+Verdict : « Now » (ligne 8) est l'abréviation savante de Nowack — correctement conservée. Les sauts de ligne proviennent de l'extraction du source, pas de la traduction. « en figure » (ligne 6) est une forme abrégée acceptable de « au figuré » dans le style télégraphique du BDB. Aucune correction nécessaire.

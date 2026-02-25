@@ -1,0 +1,2 @@
+Signale : « an Edomite » non traduit.
+Verdict : Le verificateur s'est trompe. « an Edomite » est traduit en « un Edomite » avec accent sur le E (ligne 5 du francais). Aucune correction necessaire.

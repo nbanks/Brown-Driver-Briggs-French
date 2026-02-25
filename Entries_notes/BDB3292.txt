@@ -1,0 +1,2 @@
+Signalé : Nombreux termes soi-disant non traduits.
+Verdict : Les termes listés (« du roi », « ôté de sa main », « donné comme signe », etc.) sont tous du français correct. Le diagnostic semble confondre texte français avec texte anglais. Faux positifs. Aucune correction nécessaire.

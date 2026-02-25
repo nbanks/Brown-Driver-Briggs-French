@@ -1,0 +1,2 @@
+Signalé : contenu manquant massif (sens « homme blessé », notes critiques ᵐ5/Co/Berthol, forme plurielle).
+Verdict : tous les éléments signalés sont présents dans la traduction : « d'un homme blessé Ez 30,24 » (ligne 12), ᵐ5 (ligne 14), Co (ligne 16), « mais comparer Berthol » (ligne 21), forme plurielle « נַאֲקוֺת » (ligne 10). Faux positif intégral. Aucune correction nécessaire.

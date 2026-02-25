@@ -1,0 +1,2 @@
+Signalé : « a fils de Asaph » avec article anglais « a » non traduit.
+Verdict : Le fichier français contient « un fils d'Asaph » (ligne 6) — « un » est bien l'article indéfini français, pas l'anglais « a ». Le diagnostic de llm_verify confond les deux langues. Aucune correction nécessaire.

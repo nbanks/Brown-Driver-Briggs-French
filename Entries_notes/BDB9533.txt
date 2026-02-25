@@ -1,0 +1,2 @@
+Signalé : « Esd 16,17 » référence invalide (Esdras n'a que 10 chapitres).
+Verdict : le source anglais contient « Ezra 16:17 » qui est lui-même une erreur (probablement « Ezra 6:17 » avec un « 1 » parasite). Le FR « Esd 16,17 » reproduit fidèlement l'erreur du source. C'est un problème au niveau source, pas de la traduction. Aucune correction nécessaire côté FR.

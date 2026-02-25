@@ -1,0 +1,2 @@
+Signalé : « figuré » au lieu de « au sens figuré » ; espace manquant avant deux-points.
+Verdict : « figuré » est l'usage standard dans le style elliptique du BDB français (utilisé de manière cohérente dans tout le projet). Les espaces avant ponctuation double sont un problème mineur de formatage qui peut varier selon le contexte d'extraction. Aucune correction nécessaire.

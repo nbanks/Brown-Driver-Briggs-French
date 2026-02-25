@@ -1,0 +1,2 @@
+Signalé : « Hab » utilisé pour des références aux Psaumes (Hab 24:10, Hab 46:12, etc.) — Habacuc n'a que 3 chapitres.
+Verdict : c'est une erreur dans le texte source anglais (Entries_txt/BDB5613.txt), pas dans la traduction. Le source anglais utilise « Hab » pour ces références impossibles, puis bascule vers « Ps » plus loin dans l'entrée. La traduction française reproduit fidèlement ce schéma (Ha pour Hab, Ps pour Ps). Aucune correction nécessaire — le projet traduit ce que dit la source.

@@ -1,0 +1,2 @@
+Signalé : problèmes de traduction dans le texte.
+Verdict : en vérifiant les fichiers, la traduction est correcte. Les termes grammaticaux, les références bibliques et les gloses sont bien rendus en français. Le diagnostic est un faux positif. Aucune correction nécessaire.

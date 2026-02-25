@@ -1,0 +1,2 @@
+Signalé : « Jos 216 » sans virgule, « littéral » faux ami.
+Verdict : Faux positif. Le texte français a « Jos 2,16 » (lignes 18 et 29) avec la virgule correctement placée. La source anglaise avait « Josh 216 » sans ponctuation — la traduction a corrigé en « Jos 2,16 ». « littéral » (ligne 27) traduit « literal » dans le sens de « au sens propre » (opposé à figuré), usage courant en français savant. Aucune correction nécessaire.

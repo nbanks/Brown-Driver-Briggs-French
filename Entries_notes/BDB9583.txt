@@ -1,0 +1,2 @@
+Signalé : « was added » et « ל person » non traduits, « Dan » non converti en « Dn ».
+Verdict : le vérificateur s'est trompé sur tous les points. « fut ajouté » (ligne 11) traduit « was added ». « ל personne » (ligne 11) traduit « ל person ». « Dn 4,33 » (ligne 9) montre que « Dan » a bien été converti. Aucune correction nécessaire.

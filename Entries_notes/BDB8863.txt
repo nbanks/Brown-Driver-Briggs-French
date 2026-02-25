@@ -1,0 +1,2 @@
+Signalé : « Lam 19,19 » erronée (Lamentations n'a que 5 chapitres).
+Verdict : le source anglais contient « Lam 19:19 » qui est effectivement impossible pour les Lamentations. Le FR a fidèlement converti en « Lm 19,19 ». C'est une erreur au niveau source (probablement « Ps 119:148 » mal extrait ou référence corrompue), pas un problème de traduction. Aucune correction nécessaire côté FR.

@@ -1,0 +1,3 @@
+Signalé : « de divinité » au lieu de « d'une divinité » ; « trace of light » traduit « trace de vol » au lieu de « trace de lumière ».
+Correction : « trace de vol » → « trace de lumière » dans Entries_txt_fr (ligne 47). L'anglais dit « trace of light », « light » = « lumière », pas « vol » (flight). Corrigé.
+Verdict sur « de divinité » : « nom propre, de divinité » traduit « proper name, of deity » — la formule « de divinité » est acceptable comme calque de la structure du BDB, où « of deity » est une étiquette catégorielle abrégée. « D'une divinité » serait aussi correct mais pas nécessaire ici.

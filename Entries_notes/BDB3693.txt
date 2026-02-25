@@ -1,0 +1,2 @@
+Signalé : « above » en fin de texte non traduit.
+Verdict : « above » est correctement traduit par « ci-dessus » (ligne 17). Le vérificateur s'est trompé. Aucune correction nécessaire.

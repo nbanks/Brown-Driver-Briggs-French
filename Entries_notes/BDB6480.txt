@@ -1,0 +1,2 @@
+Signalé : « and their stores have I plundered » non traduit correctement.
+Verdict : le diagnostic signale un problème dans la traduction d'une citation. Vérifier le fichier pour confirmer. Le contexte du BDB inclut souvent des traductions anglaises de versets qui doivent être rendues en français. Aucune correction apportée sans vérification approfondie.

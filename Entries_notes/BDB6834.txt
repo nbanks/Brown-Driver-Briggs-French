@@ -1,0 +1,2 @@
+Signalé : « si vera lectio » non traduit ; espace manquante avant « comparer » ; ponctuation incohérente.
+Verdict : (1) « si vera lectio » (ligne 54) est une locution latine technique, standard dans la critique textuelle biblique — à conserver telle quelle conformément aux règles du projet. (2) Les espaces et la ponctuation dans le fichier français sont cohérentes avec le source anglais. (3) La parenthèse « Ez 26,7 (+ סוּס), רֶכֶב) » (ligne 71) reproduit fidèlement la structure du BDB original. Aucune correction nécessaire.

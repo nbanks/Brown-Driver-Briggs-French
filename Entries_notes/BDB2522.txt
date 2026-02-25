@@ -1,0 +1,2 @@
+Signalé : « Exod » non traduit en « Ex », espace manquante après « Ps 38,6 ».
+Verdict : Faux positif. Toutes les références « Exod » sont traduites en « Ex » (ligne 20 : « Ex 21,25 »). L'espace avant le deux-points est présente (ligne 15 : « Ps 38,6 : »). Aucune correction nécessaire.

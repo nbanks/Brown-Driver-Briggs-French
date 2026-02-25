@@ -1,0 +1,2 @@
+Signalé : « Dn 1O,16 » avec un O majuscule au lieu de zéro.
+Verdict : l'original anglais a aussi « Dan 1O:16 » avec un O au lieu de 0 (ligne 10). C'est un artefact typographique du texte source, pas une erreur de traduction. La traduction reproduit fidèlement la source. Aucune correction nécessaire.

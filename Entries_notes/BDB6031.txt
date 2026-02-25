@@ -1,0 +1,2 @@
+Signalé : « miles » non traduit ; « Josh » non converti en « Jos ».
+Verdict : « milles » est bien utilisé dans la traduction (ligne 8), francisant correctement « miles ». « Jos 15,50 » (ligne 7) montre que « Josh » a bien été converti. Faux positif du vérificateur. Aucune correction nécessaire.

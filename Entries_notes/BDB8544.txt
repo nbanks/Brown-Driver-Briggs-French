@@ -1,0 +1,2 @@
+Signalé : césures de mots comme « grand\nprêtre », « Ex\n28,33 » et sauts de ligne incohérents.
+Verdict : les sauts de ligne dans le fichier français (lignes 31-33 : « du vêtement du grand\nprêtre Ex\n28,33 ») reproduisent exactement la structure du fichier anglais source (lignes 31-33 : « of high\npriest's robe Exod\n28:33 »). Ce sont des artefacts de l'extraction HTML, pas des erreurs de traduction. Le contenu est correctement traduit : « high priest's robe » → « vêtement du grand prêtre », « skirt » → « pan », « defilement » → « souillure ». Aucune correction nécessaire.

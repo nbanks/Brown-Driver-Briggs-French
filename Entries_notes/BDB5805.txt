@@ -1,2 +1,2 @@
-Signalé : « le fierce lion » non traduit.
-Verdict : le texte dit « lion féroce » (l. 22), qui est français correct. Traduction correcte.
+Signalé : « le fierce lion » non traduit ; « Pr 38,19 » référence incorrecte.
+Verdict : « le lion féroce » dans la traduction française (ligne 21-22) traduit correctement « the fierce lion » — le vérificateur a fait une fausse détection. Quant à « Pr 38,19 » : cette référence impossible (Proverbes n'a que 31 chapitres) est déjà présente dans l'original anglais « Prov 38:19 » (ligne 30). C'est une erreur dans le texte source du BDB, pas un problème de traduction. Aucune correction nécessaire.

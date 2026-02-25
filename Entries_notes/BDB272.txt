@@ -1,0 +1,2 @@
+Signalé : « balances » (2e occurrence) et « pour peser » non traduits, accents manquants sur « arabe », « araméen ».
+Verdict : Tous faux positifs. « balances » est un mot français identique à l'anglais (ligne 5, 16). « pour peser » (ligne 10) est bien du français pour « for weighing ». « arabe » et « araméen » (lignes 5-6) sont correctement écrits en minuscule — les noms de langues en français prennent la minuscule. Aucune correction nécessaire.

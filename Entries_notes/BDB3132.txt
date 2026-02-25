@@ -1,0 +1,2 @@
+Signalé : « Sabean » non traduit, « Arabic » non traduit, « mount Hermon » non traduit, « see » non traduit.
+Verdict : Tous faux positifs. Le texte français a « sabéen » (ligne 6), « arabe » (ligne 7), « mont Hermon » (ligne 24), « voir » (lignes 25, 28). Aucune correction nécessaire.

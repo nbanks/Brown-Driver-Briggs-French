@@ -1,0 +1,2 @@
+Signalé : « du^ persan » typographie cassée, « Ezra » non converti.
+Verdict : « du^ » (ligne 16) — le caret fait partie de la notation en exposant « Andr^M 56* comme traduction du^ persan » (fin de superscript). « Esd 4,8 ; Esd 4,9 ; Esd 4,17 » (ligne 15) montre que « Ezra » a bien été converti en « Esd ». « persan » (ligne 17) traduit correctement « Persian ». Aucune correction nécessaire.

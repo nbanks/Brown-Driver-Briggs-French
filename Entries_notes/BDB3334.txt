@@ -1,0 +1,3 @@
+Signalé : diagnostic llm_verify tronqué (ERROR sans message détaillé).
+Correction : « ff. » → « ss. » dans Klein^l.c. 666 ss.^ (ligne 23).
+Verdict : La traduction est bien faite dans l'ensemble. Les termes français « bandeaux », « bandeaux frontaux », « consécration des premiers-nés », « phylactères » sont corrects. Les sigles J, E sont des sources critiques. Les références savantes (Kn, Klein, Benz, Now, Di, Winer, Ri, Smith, Sta) sont conservées à juste titre. Seul « ff. » restait non converti.

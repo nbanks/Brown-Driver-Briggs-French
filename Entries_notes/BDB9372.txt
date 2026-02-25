@@ -1,0 +1,2 @@
+Signalé : erreurs diverses.
+Verdict : Le diagnostic de llm_verify pour cette entrée d'araméen biblique semble concerner des termes techniques (Pe'al, Parfait, etc.) qui sont correctement traduits. Les références Dn sont correctement converties. Aucune correction nécessaire.

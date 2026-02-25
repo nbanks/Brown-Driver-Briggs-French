@@ -1,0 +1,2 @@
+Signalé : problèmes de franglais et d'accents.
+Verdict : Le diagnostic de llm_verify est confus et auto-contradictoire — il confirme lui-même que « Ézéchiel » est correctement accentué, que les références « Ez » sont correctes, et que les accents sur les mots français sont corrects. Le vérificateur n'identifie pas de problème réel. Aucune correction nécessaire.

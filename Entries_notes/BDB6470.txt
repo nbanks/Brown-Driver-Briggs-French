@@ -1,0 +1,2 @@
+Signalé : « Participe » non traduit, « Ps » non converti.
+Verdict : « Participe » est un mot français correct — c'est la traduction standard de « Participle ». « Ps » est l'abréviation identique en français et en anglais pour les Psaumes. Le diagnostic est un faux positif complet. Aucune correction nécessaire.

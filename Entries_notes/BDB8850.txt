@@ -1,0 +1,2 @@
+Signalé : « Ps 141:3 » non traduit en français (format anglais avec deux-points).
+Verdict : vérifier si le fichier utilise le deux-points anglais au lieu de la virgule française. Si « Ps 141:3 » est présent, devrait être « Ps 141,3 ». Aucune correction apportée sans vérification.

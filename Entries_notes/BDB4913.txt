@@ -1,0 +1,2 @@
+Signalé : « Ct 19,10 » et « Ct 26,1 » références erronées (Cantique n'a que 8 chapitres).
+Verdict : l'original anglais a « Song 19:10 » et « Song 26:1 » — ces références anomales viennent du texte source BDB lui-même (probablement des erreurs dans l'original ou des références à d'autres livres mal attribuées). Le français reproduit fidèlement les références du texte source avec la conversion correcte Song → Ct. Aucune correction nécessaire — l'erreur est dans le BDB source.

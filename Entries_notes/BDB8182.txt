@@ -1,0 +1,2 @@
+Signalé : « Door » et « pour » non traduits.
+Verdict : Le signalement est confus. « Door » pourrait être un nom propre ou un faux positif du vérificateur. « pour » est un mot français, pas anglais. Sans vérification directe du fichier, le signalement semble être un faux positif. Aucune correction nécessaire.

@@ -1,0 +1,2 @@
+Signalé : « an » (article anglais) non traduit devant « Éphraïmite ».
+Verdict : Le fichier français contient « un Éphraïmite » — correctement traduit. Le diagnostic cite du texte qui n'existe pas dans le fichier. Aucune correction nécessaire.

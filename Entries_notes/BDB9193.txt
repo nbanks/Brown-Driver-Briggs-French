@@ -1,0 +1,2 @@
+Signalé : « 2 S 84,12 » référence invalide, « fait » comme traduction de « fact ».
+Verdict : « 2 S 84,12 » (ligne 111) reproduit fidèlement le source anglais « 2Sam 84:12 » qui est lui-même une erreur (2 Samuel n'a que 24 chapitres). C'est un problème au niveau source, pas de la traduction. « fait » traduit correctement « fact » dans « conforme à la vérité et au fait ». Aucune correction nécessaire côté FR.

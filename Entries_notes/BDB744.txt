@@ -1,0 +1,2 @@
+Signalé : « cedar; — » non traduit (ligne 6/9) ; « Jehoash » en anglais ; divers problèmes d'accents.
+Verdict : tous faux positifs. « cedar » est traduit par « cèdre » (ligne 9). « Jehoash » est traduit par « Joas » (ligne 43 : « dans la fable de Joas »). Les accents sont corrects sur « éthiopien », « cèdre ». Les abréviations bibliques sont toutes converties. Aucune correction nécessaire.

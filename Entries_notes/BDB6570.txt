@@ -1,0 +1,2 @@
+Signalé : « [of a peuple] », « a famille », « in Juda ».
+Verdict : en vérifiant le fichier, la traduction a « [d'un peuple] » (correct), « une famille en Juda » (correct). Le diagnostic est un faux positif — le vérificateur LLM a confondu le contenu avec un texte différent. Aucune correction nécessaire.

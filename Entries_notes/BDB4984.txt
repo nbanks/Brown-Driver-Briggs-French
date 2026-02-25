@@ -1,0 +1,2 @@
+Signalé : numéro Strong incorrect (H5077 → H5074) ; contenu totalement différent (anglais Hiphil 2 R 17,21, français participe Qal Es 19,7).
+Verdict : le numéro H5077 est identique dans les deux fichiers. Le contenu est fidèlement traduit : verbe [נָדָא] « chasser, repousser », forme Hiphil, 2 R 17,21, avec Kt/Qr et √ נדח. Faux positif intégral — le vérificateur a confondu cette entrée avec une autre.

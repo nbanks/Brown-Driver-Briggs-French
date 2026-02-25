@@ -1,0 +1,2 @@
+Signalé : « suffixe référence à » calque syntaxique anglais.
+Verdict : Le texte français dit « suffixe renvoyant à נֶשֶׁר » (ligne 14), ce qui est un français correct et naturel pour « suffix reference to נֶשֶׁר ». Il n'y a pas de « suffixe référence à » dans le fichier. Faux positif — le diagnostic porte sur un texte qui n'existe pas dans la version actuelle. Aucune correction nécessaire.

@@ -1,0 +1,2 @@
+Signalé : « & » non traduit, « Deuteronomy » non traduit, « Jeremiah » non traduit, « Kings » non traduit.
+Verdict : Tous ces termes sont correctement traduits dans le fichier français : « & » → « et » (lignes 73, 79), « Deuteronomy » → « le Deutéronome » (ligne 74), « Deuteronomic writers » → « les auteurs deutéronomistes » (ligne 79), « Jeremiah » → « Jérémie » (ligne 79), « Kings » → « Rois » (ligne 79). Le diagnostic de llm_verify est entièrement erroné. Aucune correction nécessaire.

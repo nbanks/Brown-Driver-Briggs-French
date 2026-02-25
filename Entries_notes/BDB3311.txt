@@ -1,0 +1,3 @@
+Signalé : « 12 miles » non traduit, « Sea of Galilee » non traduit, « 1 Macc 5:13 » non converti.
+Correction : « 1 Macc 5:13 » → « 1 Macc 5,13 » (deux-points converti en virgule conformément aux conventions).
+Verdict : « 12 milles » (ligne 18) est déjà correctement francisé (« milles » et non « miles »). « Mer de Galilée » (ligne 19) est correctement traduit en français avec minuscule. « 1 Macc » est conservé car les Maccabées ne figurent pas dans la table de conversion standard du projet. « Conder » est une abréviation savante. « Τούβιον », « Τώβιον » sont des formes grecques à conserver.

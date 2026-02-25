@@ -1,0 +1,2 @@
+Signale : « phenicien nom propre » serait un ordre de mots anglais.
+Verdict : Le verificateur s'est trompe. Le texte francais dit « comparer nom propre phenicien, feminin » (ligne 6) — l'adjectif « phenicien » est bien place apres le nom, conformement a l'ordre francais. Aucune correction necessaire.

@@ -1,0 +1,2 @@
+Signale : « Survey » et « Mem » non traduits, « douteux^ » ponctuation maladroite.
+Verdict : « Survey » fait partie de la reference savante « Survey^i. 365, douteux^ » — c'est le titre abrege du Survey of Western Palestine, a conserver. « Mem » dans « Velde^Mem. 146^ » est l'abreviation du titre Memoir de van de Velde — a conserver. Les carets (^) sont des marqueurs d'exposant du format BDB, pas des artefacts. Aucune correction necessaire.

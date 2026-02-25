@@ -1,0 +1,2 @@
+Signale : « ville dans le sud de Juda » serait du franglais, references coupees sur plusieurs lignes.
+Verdict : « city in southern Judah » → « ville dans le sud de Juda » est une traduction francaise correcte (« dans le sud de » est naturel). Les sauts de ligne dans les references (« Jos\n15,30 ») reproduisent la mise en page de l'original anglais et sont un artefact du format txt, pas une erreur de traduction. Aucune correction necessaire.

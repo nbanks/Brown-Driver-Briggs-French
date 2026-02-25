@@ -1,0 +1,2 @@
+Signalé : « miles » non traduit ; « 2Kgs » non converti en note de bas de page.
+Verdict : « miles » est déjà traduit en « milles » (ligne 10 : « environ 20 milles au nord-est de Babylone »). Les références « 2 R 17,4 » (ligne 8), « 2 R 17,30 » (ligne 9) et « 2 R 17,24 » (ligne 11) sont toutes correctement converties de l'anglais « 2Kgs ». Le vérificateur s'est trompé sur les deux points. Aucune correction nécessaire.

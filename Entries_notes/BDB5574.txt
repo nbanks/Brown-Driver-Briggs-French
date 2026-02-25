@@ -1,0 +1,2 @@
+Signalé : « Shishak » resté en anglais au lieu de « Shishaq ».
+Verdict : le texte français utilise déjà « Shishaq » (ligne 6) — la forme française standard avec q final. « masculne » dans la source anglaise (ligne 5) est une coquille pour « masculine » ; le français a correctement « masculin ». Faux positif. Aucune correction nécessaire.

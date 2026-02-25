@@ -1,0 +1,2 @@
+Signale : « Ashdod » non traduit en « Asdod », accents manquants sur divers termes.
+Verdict : « Ashdod » est la translitteration standard de אַשְׁדּוֺד utilisee dans les traductions francaises modernes (TOB, Bible de Jerusalem). La forme « Asdod » existe mais n'est pas plus standard. Les termes signales comme manquant d'accents sont tous correctement accentues dans le texte francais : « assyrien » (l. 6), « Philistins » (l. 11), « Mediterranee » (l. 11), « Jerusalem » (l. 11), « Juda » (l. 12). Le verificateur a commis des faux positifs. Aucune correction necessaire.

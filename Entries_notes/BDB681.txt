@@ -1,0 +1,2 @@
+Signalé : référence « Jos 15,53 » mal formatée (retour à la ligne), « id. » non traduit.
+Verdict : le retour à la ligne entre « Jos » et « 15,53 » est présent dans le texte anglais original (artefact d'extraction) — le français le reproduit fidèlement. « id. » = latin (idem), abréviation savante standard à conserver. Aucune correction nécessaire.

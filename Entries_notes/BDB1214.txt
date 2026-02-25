@@ -1,0 +1,2 @@
+Signalé : « NT » non traduit ; « modern », « Greek », « compare » restés en anglais.
+Verdict : tous faux positifs. « NT » est l'abréviation de Nouveau Testament, identique en français. « moderne » (ligne 10), « grec » (ligne 10) et « comparer » (ligne 16) sont les traductions françaises correctes. Le vérificateur a confondu ces mots français avec leurs équivalents anglais homophones. Aucune correction nécessaire.

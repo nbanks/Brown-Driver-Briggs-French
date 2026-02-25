@@ -1,0 +1,2 @@
+Signalé : franglais massif avec « see foregoing », « ruins », « figurative », « derives », « yet compare », « deceptions » non traduits.
+Verdict : en vérifiant le fichier, tous ces termes sont correctement traduits : « le précédent » (pour foregoing), « ruines » (pour ruins), « figuré » (pour figurative), « dérive » (pour derives), « pourtant comparer » (pour yet compare), « tromperies » (pour deceptions). Le diagnostic est un faux positif complet. Aucune correction nécessaire.

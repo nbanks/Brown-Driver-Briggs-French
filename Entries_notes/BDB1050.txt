@@ -1,0 +1,2 @@
+Signalé : « in Juda » avec « in » anglais non traduit, « dubious » non traduit.
+Verdict : Le fichier français contient « en Juda » (ligne 6), pas « in Juda ». « dubious » est traduit par « douteux » (ligne 7). Le diagnostic de llm_verify ne correspond pas au contenu réel. Aucune correction nécessaire.

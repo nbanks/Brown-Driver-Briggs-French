@@ -1,0 +1,2 @@
+Signalé : accent manquant sur « Israel » (devrait être « Israël »).
+Verdict : Faux positif. Le texte français dit « par Israël » (ligne 12) avec l'accent correct sur le « ë ». Aucune correction nécessaire.

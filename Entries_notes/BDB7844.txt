@@ -1,0 +1,2 @@
+Signalé : « place ouverte » et « patron » comme anglais non traduit ; « sabéen » en minuscule.
+Verdict : (1) « place ouverte » (ligne 10) traduit correctement « open place » — c'est du français. (2) « patron » (ligne 103) traduit « patron » anglais au sens de protecteur/mécène — le mot existe en français avec le même sens. (3) « sabéen » en minuscule (ligne 8) est correct pour un adjectif de langue en français. Tous les signalements sont des faux positifs. Aucune correction nécessaire.

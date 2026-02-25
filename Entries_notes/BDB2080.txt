@@ -1,0 +1,2 @@
+Signalé : « 1Chr », « 2Chr », « Ps », « Prov » non traduits, « figuré de » calque.
+Verdict : Les références bibliques sont correctement converties dans le fichier (1 Ch, 2 Ch, Ps, Pr). « figuré de » est une construction française correcte (emploi adjectival de « figuré »). Le diagnostic ne correspond pas au contenu réel. Aucune correction nécessaire.

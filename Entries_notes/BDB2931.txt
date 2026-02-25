@@ -1,0 +1,2 @@
+Signalé : « Num 26:5 » non converti en « Nb 26,5 ».
+Verdict : le fichier français a bien « Nb 26,5 » (ligne 7). L'abréviation et le format sont corrects. Faux positif du vérificateur.

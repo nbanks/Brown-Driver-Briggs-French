@@ -1,0 +1,2 @@
+Signalé : « certain » non traduit, « Zeph » non traduit.
+Verdict : « certain » est un mot français identique à l'anglais. « Zeph » est traduit en « So » (Sophonie) dans le fichier actuel. Faux positifs. Aucune correction nécessaire.

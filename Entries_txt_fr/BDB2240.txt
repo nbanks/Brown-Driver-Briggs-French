@@ -105,19 +105,19 @@ comparer (לִפְנֵי נְבוֺ) הָרֵי הָעֲבָרִים
 Nb 33,47 ;
 Nb 33,48
 הַר גְּרִזִּים
-Mt Garizim
+mont Garizim
 Dt 11,29 ;
 Dt 27,12 ;
 Jos 8,33
 ראֹשׁ הַרגְּֿרִזִּים
 Jg 9,7
 הַר עֵֹיבָ֑ל
-Mt Ébal
+mont Ébal
 Dt 11,29 ;
 Dt 27,4 ; Dt 24,13 ;
 Jos 8,30 ; Jos 8,33 aussi
 הַר חֶרְמוֺן
-Mt Hermon
+mont Hermon
 Dt 3,8 ; Jos 11,17 ;
 Jos 12,1 ; Jos 12,5 ; Jos 13,5 ; Jos 13,11 ;
 1 Ch 5,23
@@ -128,7 +128,7 @@ comparer Dt 4,48
 חֶרְמוֺן
 ), et הַר בַּעַל חֶרְמוֺן (voir id., et בעל חרמון
 ci-dessous בעל) ; הַר חַלְּבָנוֺן
-Mt Liban
+mont Liban
 Jg 3,3, comparer
 מְרוֺם הָרִים יַרְכְּתֵי לְבָנוֺן
 2 R 19,23
@@ -136,7 +136,7 @@ Jg 3,3, comparer
 37,24 (voir
 לבנון
 ) ; הַר הַכַּרְמֶ֑ל
-Mt Carmel
+mont Carmel
 1 R 18,19
 ; 1 R
 18,20 ;
@@ -144,7 +144,7 @@ Mt Carmel
 כרמל
 ) ; הָהָר = id., 2 R 4,27, apparemment aussi 2 R 1,9
 הַר תָּבוֺר
-Mt Tabor, Jg 4,6 ; Jg 4,12 ; Jg 4,14, comparer Jr 46,18
+mont Tabor, Jg 4,6 ; Jg 4,12 ; Jg 4,14, comparer Jr 46,18
 תָּבוֺר בֶּהָרִים (opposé à כַּרְמֶל בַּיָּם) ; הַר הַגִּלְבֹּעַ
 
 1 S 31,1 ; 1 S 31,8 ; 2 S 1,6, aussi
@@ -167,7 +167,7 @@ aussi בָּהָר אֲשֶׁר עַלפְּֿנֵי יְרוּשָׁלַםִ
 montagne du destructeur (même combinaison dans un autre sens figuré Jr 51,25),
 d'autres font dériver ׳
 הַמ ici de משׁח
-oindre, et rendent comme = Mt des Oliviers (cité comme הר המשׁחה
+oindre, et rendent comme = mont des Oliviers (cité comme הר המשׁחה
 Talmud, Shabb. 56 b), comparer Hoffm^ZAW 1882, 175^
 ; אַחַד הֶהָרִים au pays de Moriyya Gn 22,2 montagnes autour de Jérusalem en général, יְרוּשָׁלַםִ
 הָרִים סָבִיב לָהּ
@@ -183,7 +183,7 @@ Es 2,2 = Mi 4,1 ; 2 Ch 33,15
 aussi הֲרָרִי בַּשָּׂדֶה
 Jr 17,3
 en outre הַר צִיּוֺן
-Mt Sion
+mont Sion
 Es 4,5 ; Es 8,18 ; Es 10,12 ;
 Es 18,7 ; Es 24,23 ;
 Es 29,8 ; Es 31,4 ; Es 37,32 ;
@@ -304,7 +304,7 @@ mais בְּחֹרֵב
 Ps 106,19
 = au Horeb, בְּהֹר הָהָר
 Nb 33,37
-au Mt Hor ; descendre de la montagne est יָרַד מִןהָֿהָר
+au mont Hor ; descendre de la montagne est יָרַד מִןהָֿהָר
 Ex 32,1 ; Ex 32,15
 (tous deux
 J

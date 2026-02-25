@@ -1,0 +1,2 @@
+Signalé : « sud de couche » comme traduction douteuse.
+Verdict : « sud de couche » reproduit fidèlement le texte anglais « south of couch » qui est lui-même un artefact d'extraction (probable « s[ingular] » mal extrait). C'est un problème au niveau source, pas de la traduction. Aucune correction nécessaire côté FR.

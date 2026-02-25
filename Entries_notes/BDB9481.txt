@@ -1,0 +1,2 @@
+Signalé : formes verbales non correspondantes entre anglais et français.
+Verdict : le vérificateur est erroné. Toutes les formes verbales sont correctement traduites (Parfait, Imparfait, Participe, etc.) et les références sont fidèles. Aucune correction nécessaire.

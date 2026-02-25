@@ -1,0 +1,2 @@
+Signalé : « accusatif », « personne », « seul », « omis » comme anglais non traduit ; « Kings Chronicles » comme traduction littérale.
+Verdict : faux positif. Tous ces mots sont du français : « accusatif » (accusative), « personne » (person), « seul » (alone, ligne 74), « omis » (omitted). « Rois Chroniques » (ligne 90) traduit « Kings Chronicles » — ce sont les noms français des livres bibliques. Aucune correction nécessaire.

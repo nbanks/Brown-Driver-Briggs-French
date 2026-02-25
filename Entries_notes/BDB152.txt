@@ -1,0 +1,2 @@
+Signalé : « AW » non traduit, « 1 singular » mal traduit (« 1re singulier »), « 1 person » (« 1re personne »).
+Verdict/Correction : « AW » est l'abréviation savante pour Authorized Version — à conserver tel quel. « 1re personne » (ligne 29) est correct pour « 1 person ». Correction : « 1re singulier imparfait » → « 1re personne du singulier de l'imparfait » (ligne 26), car l'anglais « 1 singular imperfect » désigne la 1re personne du singulier de l'imparfait.

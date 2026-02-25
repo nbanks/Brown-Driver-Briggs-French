@@ -1,0 +1,2 @@
+Signalé : « Now » non traduit, « Vrss » non traduit, « Hos 5:13 » non converti.
+Verdict : « Now » (ligne 18) est l'abréviation savante pour Nowack (exégète allemand). « Vrss » est l'abréviation standard pour les versions anciennes. « Hos 5:13 » est correctement traduit en « Os 5,13 » (ligne 41-42). Faux positifs.

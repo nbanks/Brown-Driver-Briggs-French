@@ -1,0 +1,2 @@
+Signalé : « Participe » devrait être en minuscule (« participe »).
+Verdict : Dans le BDB, les termes grammaticaux hébraïques comme « Participle », « Perfect », « Imperfect » sont conventionnellement capitalisés. La traduction française suit cette même convention avec « Participe » (ligne 5). C'est cohérent avec l'usage dans tout le lexique (« Parfait », « Imparfait », « Participe »). Aucune correction nécessaire.

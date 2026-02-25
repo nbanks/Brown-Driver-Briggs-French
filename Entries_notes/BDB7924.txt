@@ -1,0 +1,2 @@
+Signalé : « of 1 », « only », « as », « in » comme anglais non traduit ; « Jr 32,3 » comme référence inexistante.
+Verdict : (1) « of 1 » (ligne 4) — le « de 1 » français traduit « of 1 » (renvoi à sens 1 de רֵכָב). (2) « only » → « seulement » (ligne 4), « as » → « comme » (ligne 5), « in » → « dans » (ligne 5) — tous correctement traduits. Le vérificateur a lu le fichier anglais. (3) « Jr 32,3 » (ligne 7) reproduit fidèlement « Jer 32:3 » du source anglais — Jérémie 32,3 existe bien. Tous les signalements sont des faux positifs. Aucune correction nécessaire.

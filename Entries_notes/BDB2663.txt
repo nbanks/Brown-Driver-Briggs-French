@@ -1,0 +1,2 @@
+Signale : « see » non traduit, « 2Chr » non converti.
+Verdict : « see » est traduit en « voir » (ligne 12). « 2Chr » est converti en « 2 Ch » (ligne 8). Le verificateur s'est trompe. Aucune correction necessaire.

@@ -1,0 +1,3 @@
+Signalé : « mine » non traduit ; référence corrompue « Nb 2 Ch 33,2 » ; « Qor 43:37 » non converti.
+Correction : « Nb 2 Ch 33,2 » → « Nb 33,2 » (le « 2 Ch » était un artefact d'extraction présent dans l'anglais source « marchNum 2Chr 33:2 » — la vraie référence est Nb 33,2). « Qor 43:37 » → « Qor 43,37 » (deux-points converti en virgule).
+Verdict : « mine » (ligne 110) est le mot français « mine » (lieu d'extraction), identique à l'anglais — traduction correcte de « mine » (= lieu d'où vient l'argent). « Kt » est l'abréviation savante pour Ketib. « P » est le sigle de la source sacerdotale. « id. » est latin (idem).

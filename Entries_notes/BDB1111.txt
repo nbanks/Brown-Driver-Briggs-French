@@ -1,0 +1,2 @@
+Signalé : « Benjaminite » non traduit ou mal accentué.
+Verdict : « Benjamite » est correctement traduit par « Benjaminite » (ligne 5). Ce gentilé ne porte pas d'accent en français. Faux positif.

@@ -1,0 +1,2 @@
+Signalé : « miles » non traduit, accent manquant sur « Jérusalem ».
+Verdict : Faux positifs. « milles » (ligne 11) est la traduction correcte de « miles ». « Jérusalem » (ligne 11) porte déjà l'accent. Aucune correction nécessaire.

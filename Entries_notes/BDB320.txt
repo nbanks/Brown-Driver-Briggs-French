@@ -1,0 +1,2 @@
+Signalé : « 2 Kings, 1 Chronicles » non traduits, « Sm^Listen » erreur de transcription, espace manquante.
+Verdict : « 2 Kings » et « 1 Chronicles » sont correctement traduits en « 2 Rois » et « 1 Chroniques » (ligne 21). « Sm^Listen, Tafel^ » est une référence savante (Smend, Listen und Tafeln) — à conserver telle quelle. La ponctuation et les espaces sont conformes. Le diagnostic de llm_verify ne correspond pas au contenu réel. Aucune correction nécessaire.

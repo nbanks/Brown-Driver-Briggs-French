@@ -1,0 +1,2 @@
+Signalé : « √ secondaire » non traduit, « d'où le suivant » calque.
+Verdict : « √ secondaire » est du français correct (√ = racine, secondaire = secondary). « d'où le suivant » traduit correctement « whence the following ». Faux positifs. Aucune correction nécessaire.

@@ -1,0 +1,2 @@
+Signalé : « Exod » non traduit, « id. » non traduit.
+Verdict : « Exod » est traduit en « Ex » dans le fichier actuel. « id. » est l'abréviation latine « idem ». Faux positifs. Aucune correction nécessaire.

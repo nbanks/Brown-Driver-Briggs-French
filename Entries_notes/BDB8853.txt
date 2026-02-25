@@ -1,0 +1,2 @@
+Signalé : « in Benjamin » non traduit.
+Verdict : en vérifiant le fichier, la traduction a « en Benjamin » (ligne 6), ce qui est correct. Le diagnostic est un faux positif. Aucune correction nécessaire.

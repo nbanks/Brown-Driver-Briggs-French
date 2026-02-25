@@ -1,0 +1,2 @@
+Signalé : « substantive » non traduit, « Ps » non converti.
+Verdict : Le fichier français utilise « substantif » (ligne 12), pas « substantive ». « Ps » est l'abréviation française standard pour les Psaumes, identique à l'anglais. Aucune correction nécessaire.

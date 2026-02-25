@@ -1,0 +1,2 @@
+Signalé : « Exod » non converti en « Ex ».
+Verdict : toutes les occurrences de « Exod » sont converties en « Ex » dans le FR (lignes 6, 11). Le vérificateur s'est trompé. Aucune correction nécessaire.

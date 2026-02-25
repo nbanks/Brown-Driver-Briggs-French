@@ -1,0 +1,2 @@
+Signalé : « Naphtali » non traduit en « Nephtali ».
+Verdict : le fichier français contient bien « Nephtali » (ligne 6), qui est la forme française correcte. Le vérificateur a signalé un problème déjà résolu. Faux positif.

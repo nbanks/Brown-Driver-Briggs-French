@@ -1,0 +1,2 @@
+Signalé : « Exod » et « Num » non traduits en « Ex » et « Nb ».
+Verdict : le texte français a bien « Ex » (lignes 10, 15) et « Nb » (ligne 11) — toutes les références sont correctement converties. Le vérificateur fait erreur. « H » et « P » sont des sigles de critique des sources (Code de Sainteté, source sacerdotale). « Levy » est une abréviation savante. Aucune correction nécessaire.

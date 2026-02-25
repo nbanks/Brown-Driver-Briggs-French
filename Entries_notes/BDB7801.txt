@@ -1,0 +1,2 @@
+Signalé : « Est 4,14 » non traduit en français (devrait être « Es 4,14 »).
+Verdict : le vérificateur confond Esther (Est) et Ésaïe (Es). L'original anglais a « Esth 4:14 » = Esther, et « Est » est l'abréviation française correcte pour Esther. Aucune correction nécessaire.
