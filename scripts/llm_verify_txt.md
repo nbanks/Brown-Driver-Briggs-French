@@ -634,7 +634,7 @@ above → ci-dessus, below → ci-dessous
 
 Examinez les textes ci-dessous. Répondez en **deux parties** :
 
-1. **Analyse** (1-2 lignes, max 200 caractères) : décrivez brièvement ce que vous avez vérifié et tout problème trouvé.
+1. **Analyse** (43 mots max) : décrivez ce que vous avez vérifié et tout problème trouvé.
 2. **Verdict** : sur une ligne séparée, écris `>>> ` suivi de `CORRECT`, `WARN` ou `ERROR`, puis un espace et un score de gravité entre 0 et 10.
 
 ### Échelle de gravité

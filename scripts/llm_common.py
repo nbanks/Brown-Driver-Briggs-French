@@ -93,7 +93,7 @@ def save_result(results_path: Path, filename: str, status: str,
                 timestamp: str, fhash: str, note: str = "",
                 severity: int = -1,
                 col_filename: int = 16, col_status: int = 7,
-                max_note_len: int = 1024, lock: "threading.Lock | None" = None):
+                max_note_len: int = 16384, lock: "threading.Lock | None" = None):
     """Append one result line in aligned CSV format."""
     fn_field = f"{filename},".ljust(col_filename + 1)
     st_field = f"{status},".ljust(col_status + 1)

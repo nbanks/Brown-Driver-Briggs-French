@@ -851,6 +851,10 @@ taille en caractères s'écarte de plus de 15 % de l'original anglais.
 python3 scripts/check_hebrew.py
 ```
 
+## Mojibake dans le HTML source
+
+Si le HTML source semble compromis, voir `doc/pdf-lookup.md`.
+
 ## Notes de qualité
 
 - Viser le registre d'un ouvrage de référence contemporain en études bibliques

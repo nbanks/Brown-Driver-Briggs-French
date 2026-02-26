@@ -77,6 +77,14 @@ After fixing false positives:
 - [ ] Review and fix flagged Entries_fr/ files (or regenerate them)
 - [ ] Generate remaining ~7,600 Entries_fr/ files
 
+## Data fixes
+
+- [x] BDB1045: `MaÁÁeba` → `Maṣṣeba` (mojibake from HTML extraction;
+  confirmed against PDF page 320). Fixed in Entries/, Entries_txt/,
+  Entries_txt_fr/, Entries_fr/. See `doc/pdf-lookup.md` for the technique.
+- [x] BDB1045: `dans à l'intérieur de` → `à l'intérieur de` in Entries_txt_fr/
+  (pléonasme from literal translation of BDB's compressed "in within").
+
 ## Notes
 
 - The llama.cpp server must be running before any verification steps
