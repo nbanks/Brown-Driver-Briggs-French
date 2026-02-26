@@ -25,7 +25,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 from llm_common import (ContextOverflow, check_server, combined_hash,
-                         query_llm, run_pipeline, save_result)
+                         fmt_kb, query_llm, run_pipeline, save_result)
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 ROOT = SCRIPT_DIR.parent
@@ -102,26 +102,37 @@ def build_chunk_prompt(template: str, html_chunk: str, txt_chunk: str,
     return base + chunk_note
 
 
-def _build_retry_suffix(prev_output: str,
-                        errors: list[str],
+def _build_retry_suffix(history: list[tuple[str, list[str]]],
                         is_chunk: bool = False) -> str:
-    """Build the error-feedback suffix appended to retry prompts."""
-    error_lines = "\n".join(f"- {msg}" for msg in errors)
+    """Build the error-feedback suffix from all previous attempts.
+
+    history is a list of (output, errors) tuples, one per failed attempt.
+    Appending each attempt sequentially keeps the prefix stable for caching.
+    """
     no_errata = "" if is_chunk else ", ne signalez PAS comme ERRATA"
     scope = " pour ce morceau" if is_chunk else ""
+    parts = []
 
-    return "\n".join([
+    for i, (output, errors) in enumerate(history, 1):
+        error_lines = "\n".join(f"- {msg}" for msg in errors)
+        label = f"Tentative {i}" if len(history) > 1 else "Tentative précédente"
+        parts.extend([
+            "",
+            f"## ⚠️ {label} — erreurs{no_errata}",
+            "",
+            f"### Erreurs de validation",
+            f"```\n{error_lines}\n```",
+            "",
+            f"### HTML produit (incorrect)",
+            f"```html\n{output}\n```",
+        ])
+
+    parts.extend([
         "",
-        f"## ⚠️ Nouvel essai — corrigez les erreurs suivantes{no_errata}",
-        "",
-        "### Erreurs de validation",
-        f"```\n{error_lines}\n```",
-        "",
-        "### Votre HTML précédent (incorrect — à corriger)",
-        f"```html\n{prev_output}\n```",
-        "",
-        f"Produisez le HTML complet corrigé{scope}.",
+        f"Produisez le HTML complet corrigé{scope},"
+        " en évitant **toutes** les erreurs listées ci-dessus.",
     ])
+    return "\n".join(parts)
 
 
 # ---------------------------------------------------------------------------
@@ -192,7 +203,9 @@ def _generate_chunk(bdb_id: str, idx: int, n: int,
                     server_url: str, max_retries: int,
                     is_chunked: bool,
                     on_attempt=None, on_chunk=None,
-                    debug: bool = False
+                    debug: bool = False,
+                    smart_server: str | None = None,
+                    smart_retries: int = 1,
                     ) -> tuple[str | None, float, int, list[str], str | None]:
     """Generate (and retry) one chunk.
 
@@ -203,6 +216,7 @@ def _generate_chunk(bdb_id: str, idx: int, n: int,
     output = prev_output
     errors = prev_errors
     prompt_kb_total = 0.0
+    history: list[tuple[str, list[str]]] = []  # (output, errors) per attempt
 
     for attempt in range(1, max_retries + 1):
         # Skip if already clean (warm-start found no errors)
@@ -216,7 +230,8 @@ def _generate_chunk(bdb_id: str, idx: int, n: int,
             base = build_prompt(template, orig_html, txt_fr)
 
         if errors and output is not None:
-            prompt = base + _build_retry_suffix(output, errors,
+            history.append((output, errors))
+            prompt = base + _build_retry_suffix(history,
                                                 is_chunk=is_chunked)
         else:
             prompt = base
@@ -231,7 +246,7 @@ def _generate_chunk(bdb_id: str, idx: int, n: int,
             on_attempt(attempt)
 
         if debug:
-            dbg = f"/tmp/llm-debug-{bdb_id}-try{attempt}"
+            dbg = f"/tmp/llm-html-debug-{bdb_id}-try{attempt}"
             if is_chunked:
                 dbg += f"-chunk{idx}"
             Path(f"{dbg}-prompt.txt").write_text(prompt, encoding="utf-8")
@@ -265,7 +280,47 @@ def _generate_chunk(bdb_id: str, idx: int, n: int,
         if not errors:
             return output, prompt_kb_total, attempt, [], None
 
-    # Exhausted retries for this chunk
+    # Exhausted retries — try smart server if available
+    if smart_retries and errors:
+        for smart_attempt in range(1, smart_retries + 1):
+            if is_chunked:
+                base = build_chunk_prompt(template, orig_html, txt_fr, idx, n)
+            else:
+                base = build_prompt(template, orig_html, txt_fr)
+
+            history.append((output, errors))
+            prompt = base + _build_retry_suffix(history,
+                                                is_chunk=is_chunked)
+            prompt_kb = len(prompt.encode("utf-8")) / 1024
+            prompt_kb_total += prompt_kb
+
+            attempt_num = max_retries + smart_attempt
+            if on_attempt:
+                on_attempt(attempt_num, smart=True)
+
+            if debug:
+                dbg = f"/tmp/llm-html-debug-{bdb_id}-smart{smart_attempt}"
+                if is_chunked:
+                    dbg += f"-chunk{idx}"
+                Path(f"{dbg}-prompt.txt").write_text(prompt, encoding="utf-8")
+
+            try:
+                raw = query_llm(prompt, smart_server, max_tokens=131072)
+            except ContextOverflow:
+                break
+
+            if debug:
+                Path(f"{dbg}-out.txt").write_text(raw, encoding="utf-8")
+
+            errata_reason = check_llm_errata(raw)
+            if errata_reason:
+                return None, prompt_kb_total, attempt_num, [], errata_reason
+
+            output = extract_html(raw)
+            errors = validate_html(orig_html, output, txt_fr)
+            if not errors:
+                return output, prompt_kb_total, attempt_num, [], None
+
     return output, prompt_kb_total, max_retries, errors, None
 
 
@@ -273,7 +328,10 @@ def process_entry(bdb_id: str, orig_path: Path, txt_path: Path,
                   template: str, server_url: str, max_retries: int,
                   results_path: Path, file_lock: threading.Lock,
                   on_attempt=None, on_chunk=None,
-                  debug: bool = False) -> tuple[str, float, int]:
+                  debug: bool = False,
+                  smart_server: str | None = None,
+                  smart_retries: int = 1,
+                  ) -> tuple[str, float, int]:
     """Process one entry. Returns (status, prompt_kb, attempts_used).
 
     Status is one of: CLEAN, FAILED, ERRATA, SKIPPED.
@@ -321,7 +379,8 @@ def process_entry(bdb_id: str, orig_path: Path, txt_path: Path,
             bdb_id, idx, n, orig_parts[idx], txt_parts[idx],
             chunk_prev, chunk_errs, template, server_url, max_retries,
             is_chunked,
-            on_attempt=on_attempt, on_chunk=on_chunk, debug=debug)
+            on_attempt=on_attempt, on_chunk=on_chunk, debug=debug,
+            smart_server=smart_server, smart_retries=smart_retries)
 
         total_prompt_kb += kb
         max_attempts = max(max_attempts, attempts)
@@ -445,7 +504,15 @@ def main():
     )
     parser.add_argument(
         "--debug", action="store_true", default=False,
-        help="Write prompt/response to /tmp/llm-debug-BDBnnn-tryN-{prompt,out}.txt.",
+        help="Write prompt/response to /tmp/llm-html-debug-BDBnnn-tryN-{prompt,out}.txt.",
+    )
+    parser.add_argument(
+        "--smart-server", default=None, metavar="URL",
+        help="Fallback LLM server for entries that fail all retries.",
+    )
+    parser.add_argument(
+        "--smart-retries", type=int, default=1, metavar="R",
+        help="Max retries on the smart server. Default: 1.",
     )
     args = parser.parse_args()
 
@@ -470,7 +537,8 @@ def main():
     template = prompt_path.read_text()
 
     digits = args.digits if args.digits else None
-    entries = get_entries(digits, only=args.entries)
+    only = [e.removesuffix(".html") for e in args.entries] if args.entries else None
+    entries = get_entries(digits, only=only)
 
     # Load errata entries for --skip-errata
     errata_ids = set()
@@ -560,30 +628,64 @@ def main():
 
     check_server(args.server)
 
-    print(f"\nProcessing {len(to_process)} entries via {args.server} ...")
+    print(f"\nProcessing {len(to_process)} entries ...")
     print(f"  Prompt:      {prompt_path.name}")
     print(f"  Log:         {RESULTS_FILE}")
-    print(f"  Max retries: {args.max_retries}")
+    print(f"  Normal:      {args.server} ({args.max_retries} retries)")
+    if args.smart_server:
+        print(f"  Smart:       {args.smart_server} ({args.smart_retries} retries)")
+    else:
+        print(f"  Smart:       N/A")
     print()
 
     file_lock = threading.Lock()
 
     sequential = args.parallel <= 1
-    max_try_str = " try " + " ".join(
+    smart_n = args.smart_retries if args.smart_server else 0
+    max_try_str = (" try " + " ".join(
         str(n) for n in range(1, args.max_retries + 1))
+        + "".join(f" S{n}" for n in range(1, smart_n + 1)))
     max_try_width = len(max_try_str)
+
+    def _is_errata_now(bdb_id):
+        """Re-check errata files on disk (another process may have added it)."""
+        bdb_num = "".join(c for c in bdb_id if c.isdigit())
+        last_digit = bdb_num[-1] if bdb_num else "0"
+        ep = ERRATA_DIR / f"errata-{last_digit}.txt"
+        if ep.exists():
+            for line in ep.read_text().splitlines():
+                if line.startswith(bdb_id + " ") and " html  LLM" in line:
+                    return True
+        return False
 
     def process_one(i, total, item):
         bdb_id, orig_path, txt_path, chash = item
         filename = bdb_id + ".html"
+
+        # Just-in-time guard: another process may have finished this entry
+        fr_path = ENTRIES_FR_DIR / (bdb_id + ".html")
+        if not args.force and fr_path.exists():
+            orig_html = orig_path.read_text()
+            french_txt = txt_path.read_text()
+            errs = validate_html(orig_html, fr_path.read_text(), french_txt)
+            if not errs:
+                return filename, "SKIP", 0.0, "(already clean)"
+            if args.skip_failed:
+                return filename, "SKIP", 0.0, "(already failed)"
+        if args.skip_errata and _is_errata_now(bdb_id):
+            return filename, "SKIP", 0.0, "(errata)"
+
         try_chars = 0
 
-        def on_attempt(n):
+        def on_attempt(n, smart=False):
             nonlocal try_chars
             if sequential:
                 if n == 1:
                     return  # silent on first attempt
-                s = f" try {n}" if n == 2 else f" {n}"
+                if smart:
+                    s = f" S{n - args.max_retries}"
+                else:
+                    s = f" try {n}" if n == 2 else f" {n}"
                 try_chars += len(s)
                 sys.stdout.write(s)
                 sys.stdout.flush()
@@ -593,30 +695,33 @@ def main():
             if not sequential:
                 return
             if is_chunked:
-                s = f" {idx + 1}/{total_chunks} {chunk_kb:.0f}KB"
+                s = f" {idx + 1}/{total_chunks} {fmt_kb(chunk_kb)}KB"
             else:
-                s = f" {chunk_kb:.0f}KB"
+                s = f" {fmt_kb(chunk_kb)}KB"
             try_chars += len(s)
             sys.stdout.write(s)
             sys.stdout.flush()
 
+        smart_retries = args.smart_retries if args.smart_server else 0
         status, prompt_kb, attempts = process_entry(
             bdb_id, orig_path, txt_path, template,
             args.server, args.max_retries, RESULTS_FILE, file_lock,
-            on_attempt=on_attempt, on_chunk=on_chunk, debug=args.debug)
+            on_attempt=on_attempt, on_chunk=on_chunk, debug=args.debug,
+            smart_server=args.smart_server, smart_retries=smart_retries)
 
         # Pad try column to fixed width so status aligns
         if sequential and try_chars < max_try_width:
             sys.stdout.write(" " * (max_try_width - try_chars))
             sys.stdout.flush()
 
-        result_note = (f"attempt {attempts}/{args.max_retries}"
+        total_max = args.max_retries + smart_retries
+        result_note = (f"attempt {attempts}/{total_max}"
                        if attempts > 1 else "")
         timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S")
         save_result(RESULTS_FILE, filename, status, timestamp, chash,
                     result_note, col_filename=COL_FILENAME,
                     col_status=COL_STATUS, lock=file_lock)
-        display_note = (f"({attempts}/{args.max_retries})"
+        display_note = (f"({attempts}/{total_max})"
                         if attempts > 1 else "")
         return filename, status, prompt_kb, display_note
 
@@ -633,10 +738,13 @@ def main():
 
     print()
     print(f"Done: {sum(counts.values())} entries processed.")
-    print(f"  CLEAN:   {counts.get('CLEAN', 0)}")
-    print(f"  FAILED:  {counts.get('FAILED', 0)}")
-    print(f"  ERRATA:  {counts.get('ERRATA', 0)}")
-    print(f"  SKIPPED: {counts.get('SKIPPED', 0)}")
+    from llm_common import _color_status
+    print(f"  {_color_status('CLEAN')}:   {counts.get('CLEAN', 0)}")
+    print(f"  {_color_status('FAILED')}:  {counts.get('FAILED', 0)}")
+    print(f"  {_color_status('ERRATA')}:  {counts.get('ERRATA', 0)}")
+    print(f"  {_color_status('SKIPPED')}: {counts.get('SKIPPED', 0)}")
+    if counts.get('SKIP', 0):
+        print(f"  SKIP:    {counts['SKIP']}  (done by another process)")
 
 
 if __name__ == "__main__":

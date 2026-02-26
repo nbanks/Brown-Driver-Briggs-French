@@ -119,7 +119,7 @@ nom propre [d'un lieu]
 ```
 
 Analyse : Franglais massif — « in », « house », « temple of Dagon », « name appears », « location unsuitable » non traduits.
->>> ERROR
+>>> ERROR 9
 
 ### Exemple 2
 
@@ -138,7 +138,7 @@ hebreu biblique
 ```
 
 Analyse : Accents manquants sur « hebreu » (hébreu), « Egypte » (Égypte), « ethiopienne » (éthiopienne). Espace manquante avant les deux-points (ethiopienne: au lieu de éthiopienne :).
->>> ERROR
+>>> ERROR 6
 
 ### Exemple 3
 
@@ -160,7 +160,7 @@ hébreu biblique
 ```
 
 Analyse : L'anglais a deux sens (1. et 2.) mais le français n'a que le sens 1. Le sens 2 est supprimé.
->>> ERROR
+>>> ERROR 8
 
 ### Exemple 4
 
@@ -179,7 +179,7 @@ hébreu biblique
 ```
 
 Analyse : Références « Ezek 40,16 » et « Ezek 40,21 » non traduites — devrait être « Ez 40,16 » et « Ez 40,21 ».
->>> ERROR
+>>> ERROR 4
 
 ### Exemple 5
 
@@ -228,7 +228,7 @@ tu as été pesé, ב de balances.
 ```
 
 Analyse : « Peil » est un thème verbal araméen (comme Qal, Piel) — pas de l'anglais. « ב de balances » est du français correct (« de » ≠ « of »). « balances » est identique en français et en anglais. Refs ok (Dn). ᵑ7 et W sont des sigles savants.
->>> CORRECT
+>>> CORRECT 0
 
 ### Exemple 6
 
@@ -251,7 +251,7 @@ hébreu biblique
 ```
 
 Analyse : Accents corrects sur Ésaü, édomite. Refs traduites (Gn, 1 Ch). Les deux sens présents. « Oholibama » est un nom propre invariable.
->>> CORRECT
+>>> CORRECT 0
 
 ### Exemple 7
 
@@ -270,7 +270,7 @@ hébreu biblique
 ```
 
 Analyse : Tout traduit, y compris Ezek → Ez. Accents sur Ézéchiel. Co est une abréviation savante (invariable).
->>> CORRECT
+>>> CORRECT 0
 
 ### Exemple 8
 
@@ -291,7 +291,7 @@ père d'Ésaïe ( = suivant) Es 1,1 ; Es 2,1 ; Es 13,1 ; Es 20,2 ; Es 37,2 ; Es 
 ```
 
 Analyse : Isaiah → Ésaïe (accent majuscule ok), Isa → Es, 2Kgs → 2 R, 2Chr → 2 Ch. Toutes les refs converties.
->>> CORRECT
+>>> CORRECT 0
 
 ### Exemple 9
 
@@ -310,7 +310,7 @@ hébreu biblique
 ```
 
 Analyse : Ephraimite → Éphraïmite (accents ok sur majuscule). « God has adorned » → « Dieu a orné ». Ref traduite (1 Ch).
->>> CORRECT
+>>> CORRECT 0
 
 ### Exemple 10
 
@@ -351,7 +351,7 @@ comparer Nowack HCT ch. vi.
 ```
 
 Analyse : Traduction correcte dans l'ensemble, refs converties (Ex, 1 S, 1 Ch, Ne). Toutefois « ch. vi » (chapter six) est une abréviation anglaise — en français on attendrait « chap. vi » ou « ch. vi » pourrait être conservé comme référence savante. Ambigu.
->>> WARN
+>>> WARN 2
 
 ### Exemple 11
 
@@ -402,7 +402,7 @@ salle du trône, synonyme d'apadâna en sens, mais comparer
 ```
 
 Analyse : « synonyme » et « comparer » sont du français, pas de l'anglais. « en sens » = « in meaning » (français correct, pas franglais « in sense »). « apadâna » est une translittération persane. Dieulafoy et RŠJ sont des références savantes. Refs ok (Est).
->>> CORRECT
+>>> CORRECT 0
 
 ### Exemple 12
 
@@ -433,7 +433,7 @@ Ez 1,3.
 ```
 
 Analyse : Accent manquant sur « Ezechiel » — doit être « Ézéchiel ». Les noms bibliques doivent toujours porter leurs accents français.
->>> ERROR
+>>> ERROR 5
 
 ### Exemple 13
 
@@ -478,7 +478,7 @@ Dn 11,45 du
 ```
 
 Analyse : Élision manquante — « de apadâna » devrait être « d'apadâna ». En français, la préposition « de » s'élide obligatoirement devant un mot commençant par une voyelle. Comparer avec l'exemple 11 qui a correctement « synonyme d'apadâna ».
->>> ERROR
+>>> ERROR 5
 
 ### Exemple 14
 
@@ -511,7 +511,7 @@ chêne du deuil, comparer אלון, p. 47.
 ```
 
 Analyse : Voyelle hébraïque modifiée — l'anglais a אַלּוֺן (avec holam malé ֺ) mais le français a אַלּוֹן (avec holam ֹ). Les voyelles hébraïques doivent être copiées identiques caractère par caractère.
->>> ERROR
+>>> ERROR 7
 
 ### Exemple 15
 
@@ -541,7 +541,7 @@ FRENCH:
 ```
 
 Analyse : Fichier français vide — l'anglais contient une entrée complète (nom propre הַגְּדוֺלִים, père de Zabdiel) mais la traduction française est totalement absente.
->>> ERROR
+>>> ERROR 10
 
 ### Exemple 16
 
@@ -562,7 +562,7 @@ Dl^HWB^).
 ```
 
 Analyse : Élision manquante — « de arâmu » devrait être « d'arâmu ». En français, « de » s'élide obligatoirement devant une voyelle, même devant une translittération.
->>> ERROR
+>>> ERROR 5
 
 ### Exemple 17
 
@@ -581,7 +581,7 @@ hébreu biblique
 ```
 
 Analyse : Faux ami victorien — « sensible » en anglais de 1906 signifie « avisé/prudent », pas le français « sensible » (= sensitive). La traduction devrait être « avisé » ou « prudent ».
->>> ERROR
+>>> ERROR 6
 
 ## Tables de conversion obligatoires
 
@@ -635,7 +635,18 @@ above → ci-dessus, below → ci-dessous
 Examinez les textes ci-dessous. Répondez en **deux parties** :
 
 1. **Analyse** (1-2 lignes, max 200 caractères) : décrivez brièvement ce que vous avez vérifié et tout problème trouvé.
-2. **Verdict** : sur une ligne séparée, écris `>>> ` suivi de `CORRECT`, `WARN` ou `ERROR`.
+2. **Verdict** : sur une ligne séparée, écris `>>> ` suivi de `CORRECT`, `WARN` ou `ERROR`, puis un espace et un score de gravité entre 0 et 10.
+
+### Échelle de gravité
+
+| Score | Signification | Exemples |
+|-------|---------------|----------|
+| 0     | Aucun problème | Traduction correcte |
+| 1-2   | Cosmétique, ponctuation mineure | Espace manquante avant `:`, virgule vs point-virgule |
+| 3-4   | Convention non appliquée | `&` au lieu de `et`, `miles` au lieu de `milles`, référence non convertie (Ezek → Ez) |
+| 5-6   | Erreur de traduction modérée | Mot anglais isolé oublié, accent manquant sur un nom biblique, élision manquante |
+| 7-8   | Erreur significative | Plusieurs mots/phrases anglais non traduits, sens numéroté manquant, faux ami victorien |
+| 9-10  | Grave, traduction inutilisable | Franglais massif, fichier vide, troncature majeure, hébreu altéré |
 
 ---
 

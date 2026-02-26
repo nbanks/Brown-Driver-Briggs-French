@@ -468,6 +468,8 @@ correcte est `Éphraïm`. Réponse correcte :
 >>> ERRATA: accent manquant sur majuscule « Ephraïm » (devrait être « Éphraïm »)
 ```
 
+**⚠️** Ne signalez ERRATA que si le problème existe réellement dans le texte français fourni ci-dessous.
+
 ---
 
 ## Mode morceau (chunked)

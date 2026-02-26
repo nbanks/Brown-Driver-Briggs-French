@@ -210,6 +210,32 @@ class TestTagStructure(unittest.TestCase):
             '\u00e9lu</p>'
             '</body></html>'
         )
+        # Adjacent highlights can be merged in French (different word order),
+        # so this should pass — the dedup treats consecutive highlights as one.
+        issues = validate_html(orig, fr)
+        tag_issues = [i for i in issues if "highlight" in i.lower()
+                      and "missing" in i.lower()]
+        self.assertEqual(len(tag_issues), 0,
+                         f"Adjacent highlight merge should be allowed: {issues}")
+
+    def test_highlight_truly_missing_flagged(self):
+        """A highlight separated by other structural tags should be flagged."""
+        orig = (
+            '<html><head></head><body>'
+            '<language>Biblical Hebrew</language>'
+            '<p><highlight>chosen</highlight>'
+            '<bdbheb>אבג</bdbheb>'
+            '<highlight>elect</highlight></p>'
+            '</body></html>'
+        )
+        fr = (
+            '<html><head></head><body>'
+            '<language>h\u00e9breu biblique</language>'
+            '<p><highlight>choisi</highlight>'
+            '<bdbheb>אבג</bdbheb>'
+            '\u00e9lu</p>'
+            '</body></html>'
+        )
         issues = validate_html(orig, fr)
         tag_issues = [i for i in issues if "highlight" in i.lower()
                       and "missing" in i.lower()]

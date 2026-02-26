@@ -332,28 +332,49 @@ def validate_html(orig_html, fr_html, txt_fr_content=None):
     orig_seq = _tag_seq(orig_soup)
     fr_seq = _tag_seq(fr_soup)
 
-    if orig_seq != fr_seq:
-        # Build a map from sequence index to original highlight content,
-        # so error messages can show what text was supposed to be highlighted.
+    # Collapse consecutive highlights — merging adjacent highlights is
+    # acceptable because French word order often differs from English,
+    # making 1:1 highlight splits unnatural.
+    def _dedup_highlights(seq):
+        out = []
+        for tag in seq:
+            if tag == "highlight" and out and out[-1] == "highlight":
+                continue
+            out.append(tag)
+        return out
+
+    orig_seq_cmp = _dedup_highlights(orig_seq)
+    fr_seq_cmp = _dedup_highlights(fr_seq)
+
+    if orig_seq_cmp != fr_seq_cmp:
+        # Build a map from (deduped) sequence index to original
+        # highlight content for error messages.
         _orig_highlights = [
             tag.get_text().strip()
             for tag in orig_soup.find_all("highlight")
         ]
         _highlight_idx = 0
-        _orig_highlight_at = {}  # seq index -> highlight text
+        _orig_highlight_at = {}  # deduped seq index -> highlight text
+        prev_was_hl = False
         for si, key in enumerate(orig_seq):
             if key == "highlight":
-                if _highlight_idx < len(_orig_highlights):
-                    _orig_highlight_at[si] = _orig_highlights[_highlight_idx]
+                if not prev_was_hl and _highlight_idx < len(_orig_highlights):
+                    # Find the deduped index for this highlight
+                    deduped_idx = len(_dedup_highlights(orig_seq[:si + 1])) - 1
+                    _orig_highlight_at[deduped_idx] = (
+                        _orig_highlights[_highlight_idx])
+                prev_was_hl = True
                 _highlight_idx += 1
+            else:
+                prev_was_hl = False
 
         import difflib
-        sm = difflib.SequenceMatcher(None, orig_seq, fr_seq)
+        sm = difflib.SequenceMatcher(None, orig_seq_cmp, fr_seq_cmp)
         for op, i1, i2, j1, j2 in sm.get_opcodes():
             if op == "equal":
                 continue
-            orig_part = orig_seq[i1:i2]
-            fr_part = fr_seq[j1:j2]
+            orig_part = orig_seq_cmp[i1:i2]
+            fr_part = fr_seq_cmp[j1:j2]
             if op == "delete":
                 for k, t in enumerate(orig_part):
                     hint = ""

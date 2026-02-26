@@ -20,7 +20,8 @@ import sys
 from datetime import datetime, timezone
 from pathlib import Path
 
-from llm_common import (ContextOverflow, check_server, file_hash,
+from llm_common import (ContextOverflow, _RESET, _STATUS_COLORS, _USE_COLOR,
+                         check_server, file_hash, fmt_kb,
                          load_results, query_llm, run_pipeline, save_result)
 
 SCRIPT_DIR = Path(__file__).resolve().parent
@@ -79,14 +80,24 @@ def _chunk_note_prefix(chunk: dict) -> str:
     return ""
 
 
+_VERDICT_SHORT = {"CORRECT": "✓", "WARN": "⚠", "ERROR": "✗", "SKIPPED": "–"}
+
+
 def verify_chunked(template: str, english: str, french: str,
                    filename: str,
-                   server_url: str) -> list[tuple[str, str, str, float]] | None:
+                   server_url: str,
+                   on_chunk=None,
+                   on_verdict=None,
+                   debug: bool = False,
+                   ) -> list[tuple[str, str, str, float]] | None:
     """Verify an entry chunk-by-chunk if both sides split consistently.
 
     Returns a list of (csv_key, verdict, explanation, prompt_kb) tuples —
     one per verified chunk. Returns None if chunking isn't applicable
     (fall back to whole-entry).
+
+    on_chunk(idx, total, prompt_kb): called before each LLM query.
+    on_verdict(verdict): called after each chunk verdict.
     """
     en_chunks = split_txt(english)
     fr_chunks = split_txt(french)
@@ -117,30 +128,61 @@ def verify_chunked(template: str, english: str, french: str,
         prompt = build_prompt(template, en_txt, fr_txt)
         prompt_kb = len(prompt.encode("utf-8")) / 1024
 
+        if on_chunk:
+            on_chunk(idx, total, prompt_kb)
+
+        stem = filename.rsplit(".", 1)[0]  # BDB50
+        dbg_base = f"/tmp/llm-verify-debug-{stem}-chunk{idx}"
+
+        if debug:
+            Path(f"{dbg_base}-prompt.txt").write_text(prompt, encoding="utf-8")
+
         try:
             raw = query_llm(prompt, server_url)
         except ContextOverflow:
-            results.append((key, "SKIPPED", f"{prefix}too large", prompt_kb))
+            results.append((key, "SKIPPED", f"{prefix}too large", prompt_kb, -1))
+            if on_verdict:
+                on_verdict("SKIPPED")
             continue
 
-        verdict, explanation = parse_response(raw)
-        results.append((key, verdict, f"{prefix}{explanation}", prompt_kb))
+        if debug:
+            Path(f"{dbg_base}-out.txt").write_text(raw, encoding="utf-8")
+
+        verdict, explanation, severity = parse_response(raw)
+        results.append((key, verdict, f"{prefix}{explanation}", prompt_kb, severity))
+        if on_verdict:
+            on_verdict(verdict)
 
     return results
 
 
-def parse_response(raw: str) -> tuple[str, str]:
-    """Extract (verdict, explanation) from LLM response.
+def _extract_severity(token: str, verdict: str) -> int:
+    """Extract severity score from the token after the verdict word.
+
+    Expected: 'ERROR 7' or 'CORRECT 0'. Returns -1 if not found.
+    """
+    rest = token[len(verdict):].strip()
+    if rest:
+        # Take first word, strip non-digits
+        num = rest.split()[0].strip(".,;")
+        if num.isdigit():
+            return min(int(num), 10)
+    return -1
+
+
+def parse_response(raw: str) -> tuple[str, str, int]:
+    """Extract (verdict, explanation, severity) from LLM response.
 
     Expected format:
         Some analysis text here...
-        >>> CORRECT
+        >>> CORRECT 0
 
-    The verdict line starts with ">>> " followed by CORRECT/WARN/ERROR.
+    The verdict line starts with ">>> " followed by CORRECT/WARN/ERROR and
+    an optional severity score (0-10). Returns severity=-1 if not provided.
     Falls back to scanning for bare verdict words if no ">>> " prefix found.
     """
     if not raw.strip():
-        return "OVERFLOW", ""
+        return "OVERFLOW", "", -1
     lines = [l.strip() for l in raw.strip().splitlines() if l.strip()]
     explanation_lines = []
     # First pass: look for ">>> VERDICT" (preferred format)
@@ -149,17 +191,19 @@ def parse_response(raw: str) -> tuple[str, str]:
             token = line[3:].strip().upper().strip("*").strip()
             for v in ("CORRECT", "ERROR", "WARN"):
                 if token.startswith(v):
+                    severity = _extract_severity(token, v)
                     explanation = "\n".join(explanation_lines).strip()
-                    return v, explanation
+                    return v, explanation, severity
         explanation_lines.append(line)
     # Fallback: scan from the end to find the last bare verdict word.
     for line in reversed(lines):
         upper = line.upper().strip("*").strip()
         for v in ("CORRECT", "ERROR", "WARN"):
             if upper.startswith(v):
+                severity = _extract_severity(upper, v)
                 explanation = "\n".join(l for l in lines if l.strip() != line).strip()
-                return v, explanation
-    return f"UNKNOWN({raw.strip()[:40]})", raw.strip()
+                return v, explanation, severity
+    return f"UNKNOWN({raw.strip()[:40]})", raw.strip(), -1
 
 
 def get_file_pairs(fr_dir: Path, en_dir: Path, extensions: tuple[str, ...],
@@ -240,6 +284,10 @@ Modes and their defaults:
     parser.add_argument(
         "--shuffle", action="store_true", default=False,
         help="Randomize file order.",
+    )
+    parser.add_argument(
+        "--debug", action="store_true", default=False,
+        help="Write prompt/response to /tmp/llm-verify-debug-BDBnnn-{prompt,out}.txt.",
     )
     args = parser.parse_args()
 
@@ -325,26 +373,47 @@ Modes and their defaults:
     import threading
     file_lock = threading.Lock()
 
+    sequential = args.parallel <= 1
+
     def process_one(i, total, item):
         filename, en_path, fr_path, fhash = item
         english = en_path.read_text()
         french = fr_path.read_text()
 
+        def on_chunk(idx, n, prompt_kb):
+            if sequential:
+                s = f" {idx + 1}/{n} {fmt_kb(prompt_kb)}KB"
+                sys.stdout.write(s)
+                sys.stdout.flush()
+
+        def on_verdict(verdict):
+            if sequential:
+                short = _VERDICT_SHORT.get(verdict, "?")
+                color = _STATUS_COLORS.get(verdict, "") if _USE_COLOR else ""
+                reset = _RESET if color else ""
+                sys.stdout.write(f" {color}{short}{reset}")
+                sys.stdout.flush()
+
         # Try chunked verification first (txt mode, 2+ aligned chunks)
         if args.mode == "txt":
             chunk_results = verify_chunked(
-                template, english, french, filename, args.server)
+                template, english, french, filename, args.server,
+                on_chunk=on_chunk, on_verdict=on_verdict,
+                debug=args.debug)
             if chunk_results is not None:
                 timestamp = datetime.now(timezone.utc).strftime(
                     "%Y-%m-%dT%H:%M:%S")
                 worst = "CORRECT"
+                worst_sev = 0
                 total_kb = 0.0
-                for key, verdict, explanation, kb in chunk_results:
+                for key, verdict, explanation, kb, severity in chunk_results:
                     total_kb += kb
                     if _VERDICT_RANK.get(verdict, 2) > _VERDICT_RANK.get(worst, 0):
                         worst = verdict
+                    if severity > worst_sev:
+                        worst_sev = severity
                     save_result(results_path, key, verdict, timestamp,
-                                fhash, explanation,
+                                fhash, explanation, severity=severity,
                                 col_filename=COL_FILENAME,
                                 col_status=COL_VERDICT, lock=file_lock)
                 return filename, worst, total_kb
@@ -352,6 +421,11 @@ Modes and their defaults:
         # Whole-entry fallback (non-chunked txt, json, html)
         prompt = build_prompt(template, english, french)
         prompt_kb = len(prompt.encode("utf-8")) / 1024
+
+        stem = filename.rsplit(".", 1)[0]
+        if args.debug:
+            Path(f"/tmp/llm-verify-debug-{stem}-prompt.txt").write_text(
+                prompt, encoding="utf-8")
 
         try:
             raw = query_llm(prompt, args.server)
@@ -363,32 +437,35 @@ Modes and their defaults:
                         lock=file_lock)
             return filename, "SKIPPED", prompt_kb
 
-        verdict, explanation = parse_response(raw)
+        if args.debug:
+            Path(f"/tmp/llm-verify-debug-{stem}-out.txt").write_text(
+                raw, encoding="utf-8")
+
+        verdict, explanation, severity = parse_response(raw)
         timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S")
         save_result(results_path, filename, verdict, timestamp, fhash,
-                    explanation, col_filename=COL_FILENAME,
+                    explanation, severity=severity, col_filename=COL_FILENAME,
                     col_status=COL_VERDICT, lock=file_lock)
         return filename, verdict, prompt_kb
 
-    def prompt_size_kb(item):
-        """Estimate prompt size in KB before sending to LLM."""
-        _, en_path, fr_path, _ = item
-        size = (len(template.encode("utf-8"))
-                + en_path.stat().st_size + fr_path.stat().st_size)
-        return size / 1024
+    def file_size_kb(item):
+        """French file size in KB (shown before LLM call starts)."""
+        _, _, fr_path, _ = item
+        return fr_path.stat().st_size / 1024
 
     counts = run_pipeline(to_check, process_one,
                           name_fn=lambda item: item[0],
-                          size_fn=prompt_size_kb,
+                          size_fn=file_size_kb,
                           parallel=args.parallel,
                           shuffle=args.shuffle, limit=args.max,
                           label="files")
 
     print()
     print(f"Done: {len(to_check)} files checked.")
-    print(f"  CORRECT: {counts.get('CORRECT', 0)}")
-    print(f"  WARN:    {counts.get('WARN', 0)}")
-    print(f"  ERROR:   {counts.get('ERROR', 0)}")
+    from llm_common import _color_status
+    print(f"  {_color_status('CORRECT')}: {counts.get('CORRECT', 0)}")
+    print(f"  {_color_status('WARN')}:    {counts.get('WARN', 0)}")
+    print(f"  {_color_status('ERROR')}:   {counts.get('ERROR', 0)}")
     other = sum(v for k, v in counts.items() if k not in ("CORRECT", "WARN", "ERROR"))
     if other:
         print(f"  OTHER:   {other}")

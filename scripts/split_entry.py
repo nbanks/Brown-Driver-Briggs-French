@@ -145,22 +145,11 @@ def _build_chunks(html_text, spans, div_type):
         chunks.append({"type": div_type, "html": chunk_html})
         prev_end = end
 
-    # Footer: everything after last div
+    # Footer: everything after last div — fold into last chunk
+    # so chunk counts match txt splits (which also trim trailing ---)
     footer = html_text[prev_end:]
-    if footer.strip():
-        chunks.append({"type": "footer", "html": footer})
-    else:
-        # Check if the last chunk swallowed an <hr> (malformed HTML where
-        # the div is never closed). If so, split from the <hr> onwards.
-        last_html = chunks[-1]["html"]
-        hr_pos = last_html.rfind("<hr")
-        if hr_pos >= 0:
-            chunks[-1]["html"] = last_html[:hr_pos]
-            footer_html = last_html[hr_pos:] + footer
-            chunks.append({"type": "footer", "html": footer_html})
-        elif footer:
-            # Non-empty but whitespace-only — append to last chunk
-            chunks[-1]["html"] += footer
+    if footer:
+        chunks[-1]["html"] += footer
 
     return chunks
 
@@ -310,24 +299,12 @@ def _split_txt_by_senses(lines, txt_text):
 
 
 def _split_footer(chunks):
-    """If the last chunk ends with a --- separator, split it into a
-    separate footer chunk."""
-    if not chunks:
-        return
-    last = chunks[-1]
-    txt = last["txt"]
-    last_lines = txt.split('\n')
-    footer_idx = None
-    for j in range(len(last_lines) - 1, -1, -1):
-        if last_lines[j].strip() == '---':
-            footer_idx = j
-            break
-    if footer_idx is not None and footer_idx > 0:
-        if last_lines[footer_idx - 1].strip() == '':
-            last["txt"] = '\n'.join(last_lines[:footer_idx])
-            footer = '\n'.join(last_lines[footer_idx:])
-            if footer.strip():
-                chunks.append({"type": "footer", "txt": footer})
+    """No-op — the trailing --- stays in the last chunk.
+
+    Previously this split the --- into a separate footer chunk, but that
+    created a useless extra chunk every time. Now it's kept attached to
+    the last real chunk so roundtrip concatenation is preserved."""
+    pass
 
 
 def extract_text_from_html_chunk(chunk_html):

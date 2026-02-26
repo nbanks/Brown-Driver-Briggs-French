@@ -26,6 +26,33 @@ class ContextOverflow(Exception):
     """Raised when the prompt exceeds the server's context window."""
 
 
+# ANSI color helpers (disabled when stdout is not a terminal)
+_USE_COLOR = hasattr(sys.stdout, "isatty") and sys.stdout.isatty()
+
+_STATUS_COLORS = {
+    "CLEAN":   "\033[32m",  # green
+    "CORRECT": "\033[32m",  # green
+    "FAILED":  "\033[31m",  # red
+    "ERROR":   "\033[31m",  # red
+    "ERRATA":  "\033[33m",  # yellow
+    "WARN":    "\033[33m",  # yellow
+    "SKIPPED": "\033[36m",  # cyan
+}
+_RESET = "\033[0m"
+
+
+def _color_status(status: str) -> str:
+    """Wrap status text in ANSI color if outputting to a terminal."""
+    if _USE_COLOR and status in _STATUS_COLORS:
+        return f"{_STATUS_COLORS[status]}{status}{_RESET}"
+    return status
+
+
+def fmt_kb(kb: float) -> str:
+    """Format a KB value as an integer string, minimum 1."""
+    return str(max(1, round(kb)))
+
+
 def file_hash(path: Path) -> str:
     """Short SHA-256 hex digest (first 8 chars) of file contents."""
     return hashlib.sha256(path.read_bytes()).hexdigest()[:8]
@@ -43,6 +70,7 @@ def load_results(results_path: Path) -> dict[str, tuple[str, str, str]]:
     """Load existing results as {filename: (status, timestamp, hash)}.
 
     Later lines for the same filename overwrite earlier ones (newest wins).
+    Handles both old (4-field) and new (5-field with severity) CSV formats.
     """
     results = {}
     if not results_path.exists():
@@ -52,19 +80,25 @@ def load_results(results_path: Path) -> dict[str, tuple[str, str, str]]:
         if not line or line.startswith("#"):
             continue
         fields = [f.strip().strip('"') for f in line.split(",")]
-        if len(fields) >= 4:
+        if len(fields) >= 5 and fields[2].strip().lstrip("-").isdigit():
+            # New format: filename, status, severity, timestamp, hash[, note]
+            results[fields[0]] = (fields[1], fields[3], fields[4])
+        elif len(fields) >= 4:
+            # Old format: filename, status, timestamp, hash[, note]
             results[fields[0]] = (fields[1], fields[2], fields[3])
     return results
 
 
 def save_result(results_path: Path, filename: str, status: str,
                 timestamp: str, fhash: str, note: str = "",
+                severity: int = -1,
                 col_filename: int = 16, col_status: int = 7,
                 max_note_len: int = 1024, lock: "threading.Lock | None" = None):
     """Append one result line in aligned CSV format."""
     fn_field = f"{filename},".ljust(col_filename + 1)
     st_field = f"{status},".ljust(col_status + 1)
-    line = f"{fn_field} {st_field} {timestamp}, {fhash}"
+    sev_field = f"{severity:>3d}," if severity >= 0 else "   ,"
+    line = f"{fn_field} {st_field} {sev_field} {timestamp}, {fhash}"
     if note:
         clean = note.replace("\n", " ").replace("\t", " ").strip()
         clean = clean.replace('"', "'")
@@ -109,6 +143,10 @@ def query_llm(prompt: str, server_url: str, retries: int = 5,
             content = (msg.get("content") or "").strip()
             reasoning = (msg.get("reasoning_content") or "").strip()
             if content:
+                if "<think>" in content:
+                    raise RuntimeError(
+                        "Server returned <think> tags in content. "
+                        "Use --reasoning-budget 0 on the server to disable thinking.")
                 if return_reasoning:
                     return content, reasoning
                 return content
@@ -244,10 +282,13 @@ def run_pipeline(items, process_fn, *, name_fn=None, size_fn=None,
             else:
                 eta_str = f"{eta_m}m{eta_s:02d}s"
 
-            status_str = status
+            status_pad = f"{status:<7s}"
             if note:
-                status_str += f" {note}"
-            suffix = (f"  {status_str:<7s} {elapsed:6.1f}s "
+                status_pad = f"{status} {note}"
+                # Pad to at least 7+len(note) so timing still aligns
+                status_pad = f"{status_pad:<16s}"
+            colored = _color_status(status) + status_pad[len(status):]
+            suffix = (f"  {colored} {elapsed:6.1f}s "
                       f"avg={avg:5.1f}s ETA {eta_str}")
             if show_progress:
                 # Sequential mode: prefix + attempt numbers already on line
@@ -255,7 +296,7 @@ def run_pipeline(items, process_fn, *, name_fn=None, size_fn=None,
             else:
                 # Parallel mode: print full line
                 if prompt_kb > 0:
-                    prefix = f"{i}/{total} {display_name:<16s} {prompt_kb:5.0f}KB"
+                    prefix = f"{i}/{total} {display_name:<16s} {fmt_kb(prompt_kb):>5s}KB"
                 else:
                     prefix = f"{i}/{total} {display_name:<16s}"
                 print(f"{prefix}{suffix}")
@@ -272,7 +313,7 @@ def run_pipeline(items, process_fn, *, name_fn=None, size_fn=None,
             if name_fn:
                 prefix = f"{i}/{total} {name_fn(item):<16s}"
                 if size_fn:
-                    prefix += f" {size_fn(item):5.0f}KB"
+                    prefix += f" {fmt_kb(size_fn(item)):>5s}KB"
                 sys.stdout.write(prefix)
                 sys.stdout.flush()
             try:
