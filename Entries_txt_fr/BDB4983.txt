@@ -5,7 +5,7 @@ hébreu biblique
 verbe
 s'approcher, approcher, synonyme moins fréquent de
 קרב
-q. v. (hébreu tardif id. Hiphil (rare) et dérivés) ; —
+q. v. (hébreu tardif id. Hiph`il (rare) et dérivés) ; —
 
 Qal_68_
 Imparfait
@@ -79,7 +79,7 @@ personne Es 65,5
 ᵑ0
 
 תַּגִּישׁ
-Hiphil comparer We
+Hiph`il comparer We
 GASm
 Dr
 Now ; || קִדֵּם) ; suivi de לַמִּלְחָמָה
@@ -148,7 +148,7 @@ Qal absent de
 D
 .
 
-Niphal
+Niph`al
 Parfait
 נִגַּשׁ
 Gn 33,7
@@ -196,7 +196,7 @@ J
 P
 ), ainsi figuré du culte Es 29,13.
 
-Hiphil
+Hiph`il
 Parfait 3 masculin singulier suffixe consécutif וְהִגִּישׁוֺ
 Ex
 21,6
@@ -319,7 +319,7 @@ celui qui est fait chef de ses compagnons (autres conjectures voir Di
 Bu) ; Am 9,10 lire תִּגַּשׁ
 Qal q. v. ).
 
-Hophal
+Hoph`al
 Parfait 3 masculin pluriel לאֹלִֿנְחֻשְׁתַּיִם הֻגַּ֑שׁוּ
 
 2 S 3,34 (Ginsb
@@ -331,7 +331,7 @@ Ml
 1,11
 il est (impersonnel) offert à mon nom.
 
-Hithpael
+Hithpa`el
 Impératif masculin pluriel הִתְנַגְּשׁוּ
 Es
 45,20

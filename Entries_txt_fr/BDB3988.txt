@@ -4,10 +4,10 @@ hébreu biblique
 [כָּחַד] verbe pas au
 
 Qal ;
-Piel
-Hiphil
+Pi`el
+Hiph`il
 cacher, effacer ;
-Niphal (habituellement) passif (araméen אתכחדו
+Niph`al (habituellement) passif (araméen אתכחדו
 être effacé
 Jb 4,7
 [placeholder2491: Placeholders/2491.gif] est révérer, Participe vénérable, Pael
@@ -15,7 +15,7 @@ couvrir de honte, Ethpaal avoir honte ; éthiopien
 [placeholder2492: Placeholders/2492.gif]
 nier, apostasier) —
 
-Niphal
+Niph`al
 Parfait 3 masculin singulier נִכְחַד
 Os 5,3
 + 2 t. ; 3 pluriel נִכְחָ֑דוּ
@@ -54,7 +54,7 @@ ruine
 
 Za 11,9 ; Za 11,16.
 
-Piel
+Pi`el
 Parfait
 כִּחֵד
 
@@ -103,7 +103,7 @@ désavouer
 
 Jb 6,10.
 
-Hiphil
+Hiph`il
 Parfait 1 singulier consécutif suffixe וְהִכְחַדְתִּיו
 Ex 23,23
 Imparfait 3 masculin singulier וַיַּכְחֵד

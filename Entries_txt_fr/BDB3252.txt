@@ -96,7 +96,7 @@ Qr
 33,16 ; Jb
 37,7 voir ci-dessous 1.
 
-Niphal
+Niph`al
 Parfait 3 masculin singulier [ou Participe ?] נִכְתָּ֔ב
 וְנֶחְתָּ֖ם
 Est 3,12
@@ -110,7 +110,7 @@ Est 8,8
 Qal
 1.
 
-Piel
+Pi`el
 Parfait 3 pluriel יוֺמָם חִתְּמוּלָֿמוֺ
 Jb
 24,16 littéralement le jour ils scellent pour eux-mêmes, c.-à-d. selon
@@ -129,7 +129,7 @@ conjecture de façon plausible ׳
 ils scellent les jours pour eux-mêmes, c.-à-d. le temps diurne est pour eux scellé et
 inutilisé.
 
-Hiphil
+Hiph`il
 Parfait 3 masculin singulier אוֺהֶֿחְתִּים בְּשָׁרוֺ מִזּוֺבוֺ
 Lv 15,3
 

@@ -38,7 +38,7 @@ Dt 7,16 +,
 Ps 35,21 (2 S 20,6 voir
 
 נצל
-Hiphil) ; suffixe 3 masculin pluriel עֵינָם
+Hiph`il) ; suffixe 3 masculin pluriel עֵינָם
 Es 13,18 (
 Za 5,6 lire
 עֲוֺנָם
@@ -184,13 +184,13 @@ E
 שָׁעַע
 Es 32,3 ;
 Es 6,10
-(Hiphil) ;
+(Hiph`il) ;
 avec כָּלָה
 languir, s'épuiser, voir ׳
 כ
 Qal
 2.b.,
-Piel
+Pi`el
 2.b., avec דָּאַב
 
 Ps 88,10
@@ -272,7 +272,7 @@ k.
 
 verbe
 Qal,
-Hiphil ; nom, 10.
+Hiph`il ; nom, 10.
 
 l.
 ׳

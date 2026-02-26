@@ -3,8 +3,8 @@ hébreu biblique
 
 מָלֵא_249_
 verbe
-être plein, remplir (hébreu tardif id. (Piel transitif) ; Zinjirli מלא
-(Piel transitif) DHM^Sendsch. 60^ ; assyrien
+être plein, remplir (hébreu tardif id. (Pi`el transitif) ; Zinjirli מלא
+(Pi`el transitif) DHM^Sendsch. 60^ ; assyrien
 
 malû
 (transitif et intransitif) Dl^HWB 409^ ;
@@ -167,7 +167,7 @@ Jos 3,15
 (comparer
 1 Ch 12,16
 
-Piel) ; figuré
+Pi`el) ; figuré
 remplir le pays de péché Jr 16,18, comparer Jr 19,4 ; Ez 8,17 ; Ez 28,16, comparer Ez 30,11
 מְלָאוֺ לִבּוֺ לַעֲשׂוֺתכֵּֿן
 Est 7,5 (comparer
@@ -179,7 +179,7 @@ sens obscur, voir [שֶׁלֶט] ; Gie propose ׳
 מִרְטוּ הַשּׁ
 polir.
 
-Niphal
+Niph`al
 Parfait
 נִמְלָאֿ
 Ct 5,2
@@ -209,7 +209,7 @@ comparer Ez
 2 S 23,7
 (littéralement être rempli ou se remplir, c.-à-d. sa main, d'une
 arme, comparer
-Piel
+Pi`el
 2) ; être rassasié, sujet נֶפֶשׁ = appétit Qo 6,7
 sujet אֹזֶן
 Qo 1,8
@@ -423,7 +423,7 @@ hommes
 4.
 confirmer des paroles 1 R 1,14.
 
-Pual
+Pu`al
 Participe
 rempli, c.-à-d. serti de joyaux
 מְמֻלָּאִים
@@ -431,7 +431,7 @@ rempli, c.-à-d. serti de joyaux
 
 Ct 5,14.
 
-Hithpael
+Hithpa`el
 Imparfait
 עָלַי יִתְמַלָּא֑וּן
 

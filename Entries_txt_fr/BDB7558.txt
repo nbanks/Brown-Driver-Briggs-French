@@ -170,7 +170,7 @@ Dt 31,14 ;
 1 R
 2,1
 
-Niphal
+Niph`al
 Parfait 3 masculin singulier consécutif וְנִקְרַב אֶלהָֿאֱםהִים
 Ex 22,7
 
@@ -181,7 +181,7 @@ Jos 7,14
 Qal
 h).
 
-Piel
+Pi`el
 Parfait 1 singulier קֵרַכְתִּי
 
 Es 46,13 3 masculin pluriel קֵרְבוּ
@@ -229,7 +229,7 @@ Es 46,13 (de ׳
 Ez 36,8
 ils ont fait approcher la venue, ont rapproché leur venue, c'est imminent
 (comparer
-Hiphil
+Hiph`il
 
 Gn 12,11
 ). —

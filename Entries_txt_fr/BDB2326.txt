@@ -162,7 +162,7 @@ Nb 3,4 ; Nb 26,61
 P
 ).
 
-Niphal
+Niph`al
 Parfait
 נָז֫רֹוּ
 Es 1,4 ; Ez 14,5
@@ -174,7 +174,7 @@ RV
 Ez 14,5
 .
 
-Hophal
+Hoph`al
 Participe
 מוּזָר
 rendu étranger

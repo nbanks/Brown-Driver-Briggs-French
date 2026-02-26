@@ -4,7 +4,7 @@ hébreu biblique
 [נָתַךְ
 verbe
 se répandre (intransitif), être répandu (hébreu tardif id.
-, Niphal couler, Hiphil fondre (transitif) ; assyrien
+, Niph`al couler, Hiph`il fondre (transitif) ; assyrien
 
 natâku
 , couler
@@ -34,7 +34,7 @@ Jr 42,18
 (avec עַלֿ personne), Jr 44,6 (absolu), 2 Ch 12,7 ; 2 Ch 34,25 (tous deux avec בְּ local contre
 ) ; comparer aussi Dn 9,11 Dn 9,27 (tous deux avec עַלֿ personne)
 
-Niphal
+Niph`al
 Parfait 3 masculin singulier נִתַּךְ
 Ex 9,33 + 2
 t. ; 3 féminin singulier נִתְּכָה
@@ -63,7 +63,7 @@ Na 1,6
 י Ez 22,21 (sujet personnes), ainsi Ez 24,11 (sujet impureté, figuré du
 chaudron).
 
-Hiphil
+Hiph`il
 Parfait 3 masculin pluriel הִתִּיכוּ עֲבָדֶיךָ אֶתהַֿכֶּסֶף
 2 R 22,9
 tes serviteurs ont versé l'argent (|| 2 Ch 34,12 ci-dessous) ; 1 singulier
@@ -82,7 +82,7 @@ d'après
 ᵑ6
 
 lit לְהִנָּתֵךְ
-Niphal
+Niph`al
 Infinitif, ainsi Berthol, comparer Toy) ;
 Imparfait 3 masculin pluriel וַיַּתִּיכוּ
 2 Ch 34,17
@@ -94,7 +94,7 @@ Jb 10,10
 ne m'as-tu (= ne m'avais-tu) pas versé comme du lait ? (des commencements
 de la vie).
 
-Hophal
+Hoph`al
 Imparfait 2 masculin pluriel כֵּן תֻּתְּכוּ
 Ez 22,22
 

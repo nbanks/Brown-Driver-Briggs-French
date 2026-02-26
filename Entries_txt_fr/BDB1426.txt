@@ -3,7 +3,7 @@ hébreu biblique
 
 גָּבַהּ
 verbe
-être haut, élevé (hébreu tardif id. (Hiphil), araméen גְּבַהּ
+être haut, élevé (hébreu tardif id. (Hiph`il), araméen גְּבַהּ
 , comparer arabe
 [placeholder775: Placeholders/775.gif]
 front,
@@ -72,7 +72,7 @@ Ez 16,50
 3,11
 .
 
-Hiphil
+Hiph`il
 Parfait
 הִגְבַּהְתִּי
 Ez 17,24

@@ -3,7 +3,7 @@ hébreu biblique
 
 כָּבֵד
 verbe
-être lourd, pesant, accablant, honoré (hébreu tardif Piel honorer, et
+être lourd, pesant, accablant, honoré (hébreu tardif Pi`el honorer, et
 dérivés, כֹּבֶד
 poids ; phénicien nom propre, féminin כבדת = honorée
 , et dans un nom propre composé ; éthiopien
@@ -112,9 +112,9 @@ est חָזַק, q. v.)
 
 3.
 être honoré (comparer βαρύς) d'un homme Jb 14,21 (opposé à יצערו :
-comparer Hiphil 3), de Tyr Ez 27,25, de Yahvé Es 66,5.
+comparer Hiph`il 3), de Tyr Ez 27,25, de Yahvé Es 66,5.
 
-Niphal
+Niph`al
 Parfait
 נִכְבַּד
 2 S 6,20,
@@ -207,7 +207,7 @@ Lv 10,3 (
 P
 ).
 
-Piel
+Pi`el
 Parfait 2 masculin suffixe כִּבַּדְתָּ֫נִי
 Es
 43,23
@@ -302,7 +302,7 @@ e. objet un dieu païen
 Dn
 11,38 (deux fois dans le verset).
 
-Pual
+Pu`al
 être rendu honorable, honoré. Imparfait
 יְכֻבָּ֑ד
 
@@ -313,7 +313,7 @@ Participe
 Es
 58,13.
 
-Hiphil
+Hiph`il
 Parfait
 הִכְבִּיד
 Lm
@@ -379,7 +379,7 @@ Es 8,23, de la nation restaurée Jr 30,19 (||
 לְהַכְבִּיד (dans le || 2 R 14,10
 הִכָּבֵד).
 
-Hithpael
+Hithpa`el
 Impératif
 הִתְכַּבֵּד
 

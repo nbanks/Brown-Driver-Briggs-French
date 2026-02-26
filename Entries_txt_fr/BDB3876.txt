@@ -2,14 +2,14 @@
 hébreu biblique
 
 [כָּאָה] verbe
-Niphal
+Niph`al
 être découragé, intimidé (comparer arabe
 [placeholder2403: Placeholders/2403.gif]
 reculer timidement,
 [placeholder2404: Placeholders/2404.gif]
 s'abstenir, par timidité) —
 
-Niphal
+Niph`al
 Parfait
 וְנִכְאָה consécutif Dn 11,30
 alors il sera intimidé ; Participe
@@ -18,7 +18,7 @@ Ps 109,16
 
 abattu de cœur (|| עָנִי וְאֶבְיוֺן).
 
-Hiphil
+Hiph`il
 Infinitif construit
 הַכְאוֺת לֵב צַדִּיק
 Ez 13,22

@@ -4,7 +4,7 @@ hébreu biblique
 [קָהַל] verbe
 dénominatif (Gerber^107 s.^) s'assembler en tant que קָהָל ; —
 
-Niphal
+Niph`al
 Parfait 3 masculin pluriel נִקְהֲלוּ
 Est 9,2 + 3 t. ;
 Imparfait 3 masculin singulier וַיִּקָּהֵל
@@ -58,7 +58,7 @@ personne
 1 R 8,2 = 2 Ch 5,3
 לְ local 2 Ch 20,26.
 
-Hiphil
+Hiph`il
 Parfait 2 masculin singulier הִקְהַלְתָּ
 Ez 38,13,
 וְהִקְהַלְתָּ֫

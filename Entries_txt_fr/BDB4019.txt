@@ -4,7 +4,7 @@ hébreu biblique
 I. כָּלָה_206_
 verbe
 être complet, à sa fin, achevé, accompli, épuisé (hébreu tardif id.,
-Piel ; phénicien כלה ; assyrien
+Pi`el ; phénicien כלה ; assyrien
 kalû, mettre fin à,
 et cesser, disparaître
 Dl^HWB 329^ ; araméen tardif כְּלָא
@@ -54,7 +54,7 @@ Rt 2,23 +, etc. ;
 a.
 être complet, à sa fin, d'une période de temps Gn 41,53 (
 E
-; opposé à III. חלל Hiphil commencer Gn 41,54), Jr 8,20
+; opposé à III. חלל Hiph`il commencer Gn 41,54), Jr 8,20
 (|| עבר
 ) ; de même d'une action ou d'un événement, avec accent sur le temps Es 10,25 ; Es 24,13 ; Rt 2,23 ; 2 Ch 29,28 (opposé à
 הֵחֵל 2 Ch 29,27), 2 Ch 29,34 ; Dn 12,7 (|| קֵץ Dn 12,6 v
@@ -73,7 +73,7 @@ c.
 être accompli, réalisé, seulement de la colère décidée, ou de la prédiction de ׳
 
 י, Ez 5,13 (|| כַּלּוֺתִי v^b,^ voir
-Piel), Dn 11,36 ; 2 Ch 36,22 = Esd
+Pi`el), Dn 11,36 ; 2 Ch 36,22 = Esd
 1,1.
 
 d. être idéalement complet, être déterminé
@@ -612,7 +612,7 @@ sujet rouleau volant Za 5,4
 
 (objet maison).
 
-Pual
+Pu`al
 Parfait 3 pluriel
 כָּלּוּ
 Ps

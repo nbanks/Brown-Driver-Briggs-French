@@ -1,0 +1,47 @@
+BDB1060 html  1 issues after 3 retries: French text missing from HTML: "Jeromeopp. (ed. Vallarsl). iii. 38 définit comme domus tritici,"
+BDB4370 html  4 issues after 3 retries: French text missing from HTML: "; — toujours avec article ַהלְוִיִּם sauf suffixe לוִיֵּנוּ"; French text missing from HTML: "et la plupart dans Es 66,21 toujours = substantif lévites ;"; extra ref attribute not in original: Isa 66:21 (×1); extra ref attribute not in original: Neh 10:1 (×1)
+BDB5640 html  1 issues after 3 retries: French text missing from HTML: "clouer ; arabe"
+BDB7880 html  1 issues after 3 retries: French text missing from HTML: "2. intransitif se laver, se baigner : Ex 2,5 ("
+BDB9380 html  1 issues after 3 retries: French text missing from HTML: "Parfait 3 masculin singulier וּקצַך שַׂגִּיא"
+BDB2170 html  163 issues after 3 retries: missing Hebrew/Aramaic: הַמִּתְהַלֲלִים; missing Hebrew/Aramaic: תִּתְהַלָּ֑ל; missing Hebrew/Aramaic: בְּיוֺם מָחָר; missing Hebrew/Aramaic: יִתְהַלָּ֑ל; missing Hebrew/Aramaic: שֹׁפְטִים; ... (+158 more)
+BDB3450 html  1 issues after 3 retries: French text missing from HTML: "voir Di. sur Josué, et sur Esdras Öttli"
+BDB4920 html  4 issues after 3 retries: French text missing from HTML: "mépriser, dédaigner (hébreu tardif id., Piel ;"; French text missing from HTML: "Piel"; French text missing from HTML: "Hiphil"; French text missing from HTML: "Hithpoel"
+BDB7720 html  1 issues after 3 retries: French text missing from HTML: "אַרְבָּעִים nom pluriel indéclinable"
+BDB2010 html  799 issues after 3 retries: missing Hebrew/Aramaic: רֵאשִׁית דַּרְכּוֺ; missing Hebrew/Aramaic: עֵדְוֺתֶיךָ; missing Hebrew/Aramaic: וְכָלמִֿלְחֲמֹתָיו וּדְרָכָיו; missing Hebrew/Aramaic: שָׁלוֺם; missing Hebrew/Aramaic: יִשְׁמְרוּ אֶתדַּֿרְכָּם; ... (+794 more)
+BDB2350 html  2 issues after 3 retries: French text missing from HTML: "être clair, brillant, figuré de la splendeur des nobles נְזִירִים מִשֶּׁלֶג"; French text missing from HTML: "figuré de se rendre moralement irréprochable (|| הִתְרָחַצְתִּי)."
+BDB6450 html  1 issues after 3 retries: French text missing from HTML: "dénominatif en arabe hébreu tardif)."
+BDB9520 html  LLM: mots anglais non traduits « sin-offrande » (devrait être « offrande pour le péché » ou « sacrifice d'expiation ») et « penalty » (devrait être « amende » ou « pénalité »)
+BDB1960 html  430 issues after 3 retries: missing Hebrew/Aramaic: וְנִכַּפֵּר לָהֶם הַדָּם; missing Hebrew/Aramaic: וְנִקֵּיתִי ד; missing Hebrew/Aramaic: מָצָה; missing Hebrew/Aramaic: דַּם הַבְּרִית; missing Hebrew/Aramaic: אִישׁ דָּמִים; ... (+425 more)
+BDB6200 html  1 issues after 3 retries: French text missing from HTML: "1. de Juda 1 Ch 2,35 (עַתָּ֑י), 1 Ch 2,36."
+BDB7380 html  1 issues after 3 retries: French text missing from HTML: "formes Hiphil voir"
+BDB500 html  LLM: anglais non traduit « on the passage » (devrait être « sur le passage »)
+BDB980 html  5 issues after 3 retries: missing lookup/abbreviation: Isa; French text missing from HTML: "avoir honte (sabéen בוס ; מהבאס = malfaiteur"; French text missing from HTML: "DHMZMG 1883, 375, || araméen בְּהַת, syriaque"; French text missing from HTML: "; arabe"; French text missing from HTML: "Hiphil"
+BDB7880 html  1 issues after 3 retries: French text missing from HTML: "2. intransitif se laver, se baigner : Ex 2,5 ("
+BDB5110 html  1 issues after 3 retries: missing lookup/abbreviation: Jerome
+BDB2700 html  2 issues after 3 retries: French text missing from HTML: "couper ou ramasser du bois, habituellement du bois de chauffage (hébreu tardi..."; French text missing from HTML: "couper (ou ramasser) du bois de chauffage) —"
+BDB2700 html  2 issues after 3 retries: French text missing from HTML: "couper ou ramasser du bois, habituellement du bois de chauffage (hébreu tardi..."; French text missing from HTML: "couper (ou ramasser) du bois de chauffage) —"
+BDB9980 html  1 issues after 3 retries: French text missing from HTML: "de basse condition ; — construit ׳"
+BDB6820 html  1 issues after 3 retries: French text missing from HTML: "(comme avec) des taureaux, nos lèvres, mais lire פֵּרִי"
+BDB950 html  1 issues after 3 retries: French text missing from HTML: "b. figuré gain"
+BDB8750 html  LLM: anglais non traduit « of king » (devrait être « du roi »)
+BDB8680 html  1 issues after 3 retries: French text missing from HTML: "te donneras-tu en spectacle d'ivresse ?"
+BDB9380 html  1 issues after 3 retries: French text missing from HTML: "Parfait 3 masculin singulier וּקצַך שַׂגִּיא"
+BDB8410 html  3 issues after 3 retries: French text missing from HTML: ") ; figuré du châtiment de ׳"; French text missing from HTML: "figuré de ׳"; French text missing from HTML: "י) ; utilisé pour passer en revue ou compter les brebis Ez 20,37 (figuré), Lv..."
+BDB1010 html  1 issues after 2 retries: French text missing from HTML: "nom propre, masculin (Il (El ou ׳"
+BDB1060 html  LLM: accent manquant sur majuscule « Jérôme » (devrait être « Jérôme »)
+BDB7800 html  LLM: accent manquant sur majuscule «ïe » (devrait être « Ésaïe »)
+BDB1930 html  5 issues after 3 retries: French text missing from HTML: "Niphal"; French text missing from HTML: "Piel"; French text missing from HTML: "Pual"; French text missing from HTML: "Hithpael"; French text missing from HTML: "Piel"
+BDB8490 html  LLM: accent manquant sur majuscule « Ch » (devrait être « Ch » avec espace avant ponctuation double) — correction de la typographie française dans les références bibliques.
+BDB6630 html  LLM: accent manquant sur majuscule «ïe » (devrait être « Ésaïe »)
+BDB6030 html  LLM: accent manquant sur majuscule «ïe » (devrait être « Ésaïe »)
+BDB5630 html  LLM: accent manquant sur majuscule « Ct » (devrait être « Ct » — pas d'erreur ici, mais vérification : « Cantique » est correct, « Ct » est l'abréviation standard. Cependant, le texte français contient « Ct 7,13 » et « Ct 2,13 » — c'est correct. Vérifions les autres erreurs.
+BDB7560 html  LLM: contenu sévèrement tronqué — le texte français ne couvre qu'une fraction de l'entrée originale (manque la fin de la phrase "people that delight in battles" et la fin de la liste des versions "and most.")
+BDB6560 html  1 issues after 3 retries: French text missing from HTML: "chancellement, vacillement ; — figuré pour scrupule de conscience 1 S 25,31 (..."
+BDB8770 html  LLM: accent manquant sur majuscule « E » (devrait être « É ») dans les références aux manuscrits (E → É)
+BDB2760 html  51 issues after 3 retries: English book name in <ref> display text: "Jer 12,13" (in <ref ref="Jer 12:13">); English book name in <ref> display text: "Ezek 34,4" (in <ref ref="Ezek 34:4">); English book name in <ref> display text: "Ezek 34,21" (in <ref ref="Ezek 34:21">); English book name in <ref> display text: "Dan 8,27" (in <ref ref="Dan 8:27">); English book name in <ref> display text: "Jer 5,3" (in <ref ref="Jer 5:3">); ... (+46 more)
+BDB1010 html  1 issues after 3 retries: French text missing from HTML: "nom propre, masculin (Il (El ou ׳"
+BDB8770 html  LLM: accent manquant sur majuscule « E » (devrait être « É ») dans les références aux manuscrits (E → É)
+BDB1230 html  1 issues after 3 retries: French text missing from HTML: "nom propre, masculin (Baal connaît) fils de David 1 Ch 14,7, le nom original ..."
+BDB1280 html  13 issues after 3 retries: French text missing from HTML: "et il pensa les forcer et ainsi se les amener."; French text missing from HTML: "Niphal"; French text missing from HTML: "Piel"; French text missing from HTML: "(souvent plus complet ou plus violent que le Qal), suivi de l'accusatif, de f..."; French text missing from HTML: "c.-à-d. le couper pour le brûler, de même 1 S 6,14 d'ouvrir les femmes encein..."; ... (+8 more)
+BDB1300 html  4 issues after 3 retries: missing lookup/abbreviation: Isa; French text missing from HTML: "COTGloss &"; French text missing from HTML: "Niphal"; French text missing from HTML: "Piel"
+BDB1320 html  4 issues after 3 retries: missing Hebrew/Aramaic: ָ  ה; French text missing from HTML: "avec אֶלֿ et personne 1 S 23,6 ; Gn 27,43 ("; French text missing from HTML: "אַחֲרֵי et personne 1 S 22,20"; &amp; in HTML should be "et" (3 occurrences)

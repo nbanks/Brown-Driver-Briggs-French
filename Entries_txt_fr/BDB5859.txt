@@ -11,13 +11,13 @@ Lm 2,13
 
 Kt
 ; <
-Hiphil
+Hiph`il
 
 Qr
 
 Bu.
 
-Hiphil
+Hiph`il
 Parfait 3 masculin singulier הֵעִיד
 2 R 17,15
 ; Ml 2,14
@@ -96,7 +96,7 @@ enjoindre solennellement, avec בְּ personne + accusatif de chose
 Dt
 32,46.
 
-Hophal
+Hoph`al
 Parfait 3 masculin singulier וְהוּעַד consécutif Ex 21,29 (
 E
 ) impersonnel et protestation être déposée, avec בְּ personne

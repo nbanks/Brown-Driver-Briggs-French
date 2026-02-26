@@ -4,7 +4,7 @@ hébreu biblique
 [נָכָה]_501_
 verbe
 frapper (pas au
-Qal) (hébreu tardif Hiphil id. ; Parfait 3 pluriel הכו
+Qal) (hébreu tardif Hiph`il id. ; Parfait 3 pluriel הכו
 
 SI^4^
 , Infinitif [ת]להכ ib. 2 ; syriaque
@@ -18,12 +18,12 @@ laesit, nocuit ; comparer arabe
 l'infliction d'un dommage à un ennemi Lane^3038^
 ) ; —
 
-Niphal
+Niph`al
 Parfait
 וְנִכָּה וָמֵת consécutif 2 S 11,15
 et il sera frappé [atteint par une arme au combat] et mourra.
 
-Pual
+Pu`al
 Parfait 3 féminin singulier נֻכָּ֑תָה
 Ex 9,31 3
 pluriel נֻכּוּ Ex 9,32 (
@@ -103,7 +103,7 @@ habituellement וַיַּכּוּ
 Gn 14,5
 + (1 S 4,2
 lire probablement
-Hophal q. v.) ; 1 pluriel נַכֶּהֿ
+Hoph`al q. v.) ; 1 pluriel נַכֶּהֿ
 Nb 22,6
 
 וַנַךְ
@@ -237,7 +237,7 @@ instrumental) ; comparer גֵּוִי נָחַתִּי לְמַכִּים
 Es
 50,6 de la grêle, abattant la végétation etc. Ex 9,25 (deux fois dans le
 verset) (comparer
-Pual).
+Pu`al).
 
 c.
 וַיַּכּוּ כַף
@@ -643,7 +643,7 @@ des palais
 Am 3,15 ; Am 6,11 (2
 accusatifs), comparer Za 9,4.
 
-Hophal
+Hoph`al
 Parfait
 הֻכָּה
 

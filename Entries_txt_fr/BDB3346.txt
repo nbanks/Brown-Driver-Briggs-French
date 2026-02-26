@@ -3,7 +3,7 @@ hébreu biblique
 
 I. טָמֵא
 verbe
-être ou devenir impur (hébreu tardif Piel souiller (cérémoniellement) ; araméen
+être ou devenir impur (hébreu tardif Pi`el souiller (cérémoniellement) ; araméen
 טְמָא et surtout dérivés,
 [placeholder2117: Placeholders/2117.gif] Pael souiller ; voir RS^K 307 ss.^
 ) —
@@ -141,7 +141,7 @@ P
 P
 ).
 
-Niphal
+Niph`al
 Parfait 3 masculin singulier נִטְמָא
 Os 5,3 ; Os 6,10 3
 féminin singulier נִטְמְאָה
@@ -178,7 +178,7 @@ P
 
 4.
 être considéré comme impur (comparer
-Piel
+Pi`el
 4), probablement נִטְמִינִוּ
 Jb 18,3
 
@@ -186,7 +186,7 @@ nous sommes considérés comme impurs ; métaphore de ; pour un autre point de v
 טמה
 .
 
-Piel
+Pi`el
 Parfait
 טִמֵּא
 Gn 34,5
@@ -274,13 +274,13 @@ P
 H
 ).
 
-Pual
+Pu`al
 Participe
 נַפְשִׁי לֹא מְטֻמָּאָה
 Ez 4,14
 moi-même n'est pas souillé.
 
-Hithpael
+Hithpa`el
 Imparfait
 יִטַּמָּא
 Lv 21,1

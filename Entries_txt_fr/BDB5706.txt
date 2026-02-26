@@ -3,7 +3,7 @@ hébreu biblique
 
 [סָקַל] verbe
 lapider, mettre à mort par lapidation, aussi (
-Piel) débarrasser des pierres (semble dénominatif, mais nom inconnu ; hébreu tardif
+Pi`el) débarrasser des pierres (semble dénominatif, mais nom inconnu ; hébreu tardif
 סְקִילָא
 exécution par lapidation) ; —
 
@@ -42,7 +42,7 @@ Dt 22,24 ;
 
 Dt 1,13.
 
-Niphal
+Niph`al
 Imparfait 3 masculin singulier יִסָּקֵל
 être lapidé à mort
 Ez 19,13
@@ -54,7 +54,7 @@ J
 E
 ).
 
-Piel
+Pi`el
 Imparfait 3 masculin singulier יְסַקֵּל
 2 S 16,6 ;
 2 S 16,13
@@ -92,7 +92,7 @@ Es
 62,10
 débarrasser (le chemin) des pierres.
 
-Pual
+Pu`al
 Parfait
 סֻקַּל
 être lapidé à mort

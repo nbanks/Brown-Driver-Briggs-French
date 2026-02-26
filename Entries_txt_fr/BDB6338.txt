@@ -4,12 +4,12 @@ hébreu biblique
 [עָקַשׁ] verbe
 tordre (hébreu tardif id. (rare)) ; —
 
-Niphal
+Niph`al
 Participe construit דְּרָכַיִם
 Pr 28,18
 tortueux dans ses voies (< pluriel, comparer Toy).
 
-Piel
+Pi`el
 Parfait 3 pluriel עִקְּשׁז לָהֶם
 Es 59,8
 leurs sentiers ils les ont tordus. Imparfait 3 masculin pluriel יְעַקֵּ֑שׁזּ
@@ -18,9 +18,9 @@ droit ils le rendent tortueux ; Participe
 מְעַקֵּשׁ דְּרָכָיו
 Pr 10,9
 (comparer
-Niphal).
+Niph`al).
 
-Hiphil
+Hiph`il
 Imparfait
 וַיּעְקְשֵׁנִי
 Jb 9,20 (

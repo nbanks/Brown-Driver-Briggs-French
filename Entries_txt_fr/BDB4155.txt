@@ -3,11 +3,11 @@ hébreu biblique
 
 כִּפֶּר
 verbe
-Piel etc.
+Pi`el etc.
 dénominatif
 couvrir (figuré), apaiser, faire propitiation ; —
 
-Piel
+Pi`el
 Parfait
 כִּפֶּר
 Ex 30,10
@@ -281,7 +281,7 @@ Lv 16,24
 (par Aaron),
 Ez 45,17 (par le prince).
 
-Pual
+Pu`al
 Parfait
 כֻּפַּר
 Ex 29,33
@@ -327,16 +327,16 @@ Ex 29,33
 
 par lesquels l'expiation fut faite (bélier de consécration).
 
-Hithpael
+Hithpa`el
 Imparfait
 יִתְכַּפֵּר
 1 S 3,14
 avec בְּ instrumental יִתְכַּפֵּר עֲוֺן בֵּיתעֵֿלִי בְּזֶבַח וּבְמִנְחָה
 אִםֿ
 l'iniquité de la maison d'Éli ne sera pas couverte par le sacrifice de communion ni par l'offrande
-(en d'autres termes il n'y avait pas d'expiation pour elle ; comparer Pual Es 22,14).
+(en d'autres termes il n'y avait pas d'expiation pour elle ; comparer Pu`al Es 22,14).
 
-Niphal
+Niph`al
 Parfait
 וְנִכַּפֵּר לָהֶם הַדָּם
 Dt 21,8

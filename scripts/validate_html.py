@@ -90,6 +90,40 @@ def normalize_ws(text):
     return re.sub(r"\s+", " ", text).strip()
 
 
+def _find_mismatch(frag, haystack, ctx=15):
+    """Find the longest prefix of *frag* that appears in *haystack* and
+    return a message showing where they diverge.
+
+    Both frag and haystack are whitespace-stripped strings (from
+    normalize_for_compare).  Returns None if no partial match is found
+    (less than 40% of frag matches).
+    """
+    # Binary-search for the longest matching prefix
+    lo, hi = 0, len(frag)
+    best_pos = -1
+    while lo <= hi:
+        mid = (lo + hi) // 2
+        prefix = frag[:mid]
+        pos = haystack.find(prefix)
+        if pos != -1:
+            best_pos = pos
+            lo = mid + 1
+        else:
+            hi = mid - 1
+    match_len = lo - 1  # length of the longest matching prefix
+    if match_len < len(frag) * 0.4:
+        return None  # too little overlap — not a near-miss
+
+    # Show context around the divergence point
+    div = best_pos + match_len
+    txt_got = haystack[max(0, div - ctx):div + ctx]
+    txt_exp = frag[max(0, match_len - ctx):match_len + ctx]
+    pct = match_len * 100 // len(frag)
+    return (f"French text nearly matches HTML ({pct}% prefix match). "
+            f"Diverges at: txt_fr has ...{txt_exp}... "
+            f"but HTML has ...{txt_got}...")
+
+
 def normalize_for_compare(text):
     """Strip all whitespace for content comparison.
 
@@ -170,7 +204,34 @@ def validate_file(bdb_id, errors=None, *, entries_dir=None,
     for t in missing_ent:
         found.append((bdb_id, f"missing entry ID: {t}"))
 
-    # 6. French text content present verbatim (if txt_fr exists)
+    # 6. Ref display text: check for untranslated English book abbreviations
+    _ENG_BOOK_ABBREVS = {
+        "Gen", "Exod", "Lev", "Num", "Deut", "Josh", "Judg", "Ruth",
+        "1Sam", "2Sam", "1Kgs", "2Kgs", "1Chr", "2Chr", "Ezra", "Neh",
+        "Esth", "Job", "Prov", "Eccl", "Song", "Isa", "Jer", "Lam",
+        "Ezek", "Dan", "Hos", "Joel", "Amos", "Obad", "Jonah",
+        "Mic", "Nah", "Hab", "Zeph", "Hag", "Zech", "Mal",
+    }
+    _ENG_BOOK_RE = re.compile(
+        r"\b(" + "|".join(re.escape(b) for b in sorted(_ENG_BOOK_ABBREVS, key=lambda x: -len(x))) + r")\b"
+    )
+    for tag in fr_soup.find_all("ref"):
+        display = tag.get_text()
+        display_stripped = normalize_ws(display)
+        ref_attr = tag.get("ref", "")
+        m = _ENG_BOOK_RE.search(display_stripped)
+        if m:
+            found.append(
+                (bdb_id, f"English book name in <ref> display text: "
+                 f"\"{display_stripped}\" (in <ref ref=\"{ref_attr}\">)")
+            )
+        elif ":" in display_stripped and re.search(r"\d+:\d+", display_stripped):
+            found.append(
+                (bdb_id, f"colon in <ref> display text (use comma): "
+                 f"\"{display_stripped}\" (in <ref ref=\"{ref_attr}\">)")
+            )
+
+    # 7. French text content present verbatim (if txt_fr exists)
     if os.path.isfile(txt_fr_path):
         with open(txt_fr_path, "r", encoding="utf-8") as f:
             txt_fr = f.read()
@@ -178,8 +239,6 @@ def validate_file(bdb_id, errors=None, *, entries_dir=None,
         # Extract visible text from the French HTML (strip all tags, decode entities)
         fr_visible = re.sub(r"<[^>]+>", " ", fr_html)
         fr_visible = html.unescape(fr_visible)
-        # Normalize & to "et" so that HTML &amp; matches txt_fr "et"
-        fr_visible = fr_visible.replace("&", " et ")
         fr_visible_cmp = normalize_for_compare(fr_visible)
 
         for line in txt_fr.strip().split("\n"):
@@ -206,26 +265,100 @@ def validate_file(bdb_id, errors=None, *, entries_dir=None,
             if not frag:
                 continue
             if frag not in fr_visible_cmp:
-                # Show the readable (whitespace-normalized) version
-                display = normalize_ws(line)
-                if len(display) > 80:
-                    display = display[:77] + "..."
-                found.append(
-                    (bdb_id, f"French text missing from HTML: \"{display}\"")
-                )
+                # Try to pinpoint where the mismatch occurs by finding
+                # the longest prefix of frag that appears in fr_visible_cmp
+                diff_msg = _find_mismatch(frag, fr_visible_cmp)
+                if diff_msg:
+                    found.append((bdb_id, diff_msg))
+                else:
+                    # No partial match at all — show the full line
+                    display = normalize_ws(line)
+                    if len(display) > 80:
+                        display = display[:77] + "..."
+                    found.append(
+                        (bdb_id,
+                         f"French text missing from HTML: \"{display}\"")
+                    )
 
-    # 7. Extra refs in French not in original (fabricated/duplicated)
+    # 8. Extra refs in French not in original (fabricated/duplicated)
     extra_refs = fr_refs - orig_refs
     for r, count in sorted(extra_refs.items()):
         found.append((bdb_id, f"extra ref attribute not in original: {r} (×{count})"))
 
-    # 8. Translated tag content check
-    #    Tags that should be translated: if the original had Latin-script
-    #    content and the French tag is empty, that's a reassembly error
-    #    (content likely floated outside the tag).
+    # 9. &amp; should be "et" in French text
+    #    The original BDB uses & as shorthand; French output must spell out "et".
+    #    Only flag & that appears in visible text (not inside tag attributes).
+    _AMP_RE = re.compile(r"&amp;", re.IGNORECASE)
+    amp_count = len(_AMP_RE.findall(fr_html))
+    if amp_count:
+        found.append(
+            (bdb_id, f"&amp; in HTML should be \"et\" ({amp_count} occurrence"
+             f"{'s' if amp_count > 1 else ''})"))
+
+    # 10. Tag sequence check
+    #    All structural tags must appear in the same order and count in
+    #    the French HTML as in the original.  This catches dropped,
+    #    duplicated, and reordered tags.
+    _STRUCTURAL_TAGS = {"pos", "primary", "highlight", "descrip", "meta",
+                        "language", "gloss", "sense", "ref", "bdbheb",
+                        "bdbarc", "entry", "lookup", "reflink",
+                        "transliteration"}
+    _HAS_LATIN = re.compile(r"[a-zA-Z\u00C0-\u024F]")
+
+    def _tag_seq(soup):
+        """Extract ordered list of (tag_name,) for structural tags.
+
+        For tags with identifying attributes (ref, entry, sense), include
+        enough info to tell them apart.
+        """
+        seq = []
+        for tag in soup.find_all(True):
+            name = tag.name
+            # Include placeholder tags
+            if re.match(r"placeholder\d+", name):
+                seq.append(name)
+                continue
+            if name not in _STRUCTURAL_TAGS:
+                continue
+            if name == "ref":
+                seq.append(f"ref[{tag.get('ref', '')}]")
+            elif name == "entry":
+                seq.append(f"entry[{tag.get_text().strip()}]")
+            elif name == "sense":
+                seq.append(f"sense[{tag.get_text().strip()}]")
+            else:
+                seq.append(name)
+        return seq
+
+    orig_seq = _tag_seq(orig_soup)
+    fr_seq = _tag_seq(fr_soup)
+
+    if orig_seq != fr_seq:
+        # Use SequenceMatcher to produce a clear diff
+        import difflib
+        sm = difflib.SequenceMatcher(None, orig_seq, fr_seq)
+        for op, i1, i2, j1, j2 in sm.get_opcodes():
+            if op == "equal":
+                continue
+            orig_part = orig_seq[i1:i2]
+            fr_part = fr_seq[j1:j2]
+            if op == "delete":
+                for t in orig_part:
+                    found.append(
+                        (bdb_id, f"missing tag in French: <{t}>"))
+            elif op == "insert":
+                for t in fr_part:
+                    found.append(
+                        (bdb_id, f"extra tag in French: <{t}>"))
+            elif op == "replace":
+                found.append(
+                    (bdb_id,
+                     f"tag sequence mismatch: original has "
+                     f"{orig_part} but French has {fr_part}"))
+
+    # 10b. Empty translated tag content check
     _TRANSLATED_TAGS = {"pos", "primary", "highlight", "descrip", "meta",
                         "language", "gloss"}
-    _HAS_LATIN = re.compile(r"[a-zA-Z\u00C0-\u024F]")
     orig_ttags = [t for t in orig_soup.find_all(_TRANSLATED_TAGS)]
     fr_ttags = [t for t in fr_soup.find_all(_TRANSLATED_TAGS)]
     for ot, ft in zip(orig_ttags, fr_ttags):
@@ -239,7 +372,7 @@ def validate_file(bdb_id, errors=None, *, entries_dir=None,
                  f"\"{orig_text[:50]}\")")
             )
 
-    # 9. English remnant check (heuristic)
+    # 11. English remnant check (heuristic)
     text_only = re.sub(r"<[^>]+>", " ", fr_html)
     text_only = re.sub(r"[\u0590-\u05FF]+", "", text_only)
     text_only = normalize_ws(text_only).lower()

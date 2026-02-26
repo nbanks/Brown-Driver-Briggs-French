@@ -4,7 +4,7 @@ hébreu biblique
 III. [עָנָה] verbe
 être humilié, affligé (hébreu tardif id. ;
 MI
-Piel ויענו
+Pi`el ויענו
 Ps 1,5, אענו
 
 Ps 1,6 assyrien
@@ -31,7 +31,7 @@ Es 25,5 ; Es 31,4, etc. ; —
 
 1.
 être abaissé ou devenir bas, du chant de triomphe Es 25,5 (d'autres comme
-Hiphil
+Hiph`il
 il abaisse, || תַּכְנִיעַ).
 
 2.
@@ -44,7 +44,7 @@ Es 31,4
 Ps
 116,10 ; Ps 119,67 ; Za 10,2.
 
-Niphal
+Niph`al
 Parfait 1 singulier נַעֲניתִי
 Ps
 119,107
@@ -71,7 +71,7 @@ Ps
 119,107 ;
 Es 53,7 ; Es 58,10.
 
-Piel.
+Pi`el.
 Parfait 3 masculin singulier עִנָּה
 Dt
 22,24 + 5 t. ; 2 masculin singulier עִנִּיתָ
@@ -178,7 +178,7 @@ par un vœu Nb
 P
 ).
 
-Pual
+Pu`al
 Parfait 1 singulier עֻנֵּיתִי
 Ps
 119,71
@@ -204,14 +204,14 @@ Es 53,4.
 P
 ).
 
-Hiphil
+Hiph`il
 Imparfait 2 masculin singulier suffixe תַּעֲנֵם
 1 R
 8,35 =
 2 Ch 6,26
 affliger, dans la discipline.
 
-Hithpael
+Hithpa`el
 Parfait 3 masculin singulier הִתְעַנָּה
 1 R
 2,26 2 masculin singulier תִתְעַנִּיתָ

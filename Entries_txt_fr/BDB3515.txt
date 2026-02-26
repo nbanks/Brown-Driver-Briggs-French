@@ -2,13 +2,13 @@
 hébreu biblique
 
 [יָחַל] verbe
-Niphal
+Niph`al
 attendre ;
 Pi`el
 espérer (comparer hébreu tardif יִחוּל
 attente) ; —
 
-Niphal
+Niph`al
 Parfait 3 féminin singulier נוֺחֲלָה
 Ez 19,5
 (mais voir ci-dessous) ; Imparfait
@@ -19,7 +19,7 @@ Gn 8,12 +
 Kt
 (voir Dr ;
 Qr
-Hiphil וַיּוֺחֶל) ; — attendre :
+Hiph`il וַיּוֺחֶל) ; — attendre :
 Gn 8,12
 et il attendit encore sept jours ; de même 1 S 13,18
 
@@ -112,7 +112,7 @@ Ps 71,14.
 Ps
 119,49 (suffixe personne).
 
-Hiphil
+Hiph`il
 Parfait
 הוֺתַ֫לְתִּי
 Jb
@@ -146,7 +146,7 @@ Mi 7,7
 attitude d'attente) : 1 S 10,8 (suivi de עַד בּוֺאִי), 1 S 13,8
 (
 Qr
-; comparer Niphal) ; 2 S 18,14 ; Jb 32,18 ; Jr 4,19 (mais voir
+; comparer Niph`al) ; 2 S 18,14 ; Jb 32,18 ; Jr 4,19 (mais voir
 
 חול
 ) ; attendre, espérer (comme

@@ -155,7 +155,7 @@ qui
 Jg 21,22 ;
 Jr 2,29 ; Jr 12,1 ; Jb 33,13.
 
-Hiphil
+Hiph`il
 Participe suffixe מריבו
 1 S 2,10
 
@@ -184,6 +184,6 @@ Ruben^Crit, Rem. sur le passage^
 
 ארב
 
-Hiphil
+Hiph`il
 
 ---

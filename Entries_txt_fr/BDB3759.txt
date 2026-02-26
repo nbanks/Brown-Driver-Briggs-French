@@ -16,7 +16,7 @@ hériter ; voir aussi sabéen ורתֿ
 hériter, CIS^iv, 37, 3^), surtout
 
 D
-(62 t. Qal, 1 t. Pi, 7 t. Hiphil dans le Deutéronome + 13 t.
+(62 t. Qal, 1 t. Pi, 7 t. Hiph`il dans le Deutéronome + 13 t.
 D
 dans Josué) ; —
 
@@ -291,7 +291,7 @@ Jg 14,15
 
 pour nous appauvrir nous avez-vous appelés ?
 
-Niphal
+Niph`al
 Imparfait
 יִוָּרֵשׁ
 Pr
@@ -315,7 +315,7 @@ E
 ),
 Pr 20,13 ; Pr 23,21 ; Pr 30,9 (opposé à אֶשְׂבַּע).
 
-Piel
+Pi`el
 Imparfait
 פְּרִי אַדְמָתֶ֑ךָ יְיָרֵשׁ הַצְּלַָצל
 Dt
@@ -327,7 +327,7 @@ Os 9,6
 Es 34,11
 ), c.-à-d. dévorera.
 
-Hiphil
+Hiph`il
 Parfait 3 masculin singulier הוֺרִישׁ
 Jg
 1,27

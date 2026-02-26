@@ -557,7 +557,7 @@ Pr
 Qo 8,16
 .
 
-Niphal
+Niph`al
 Parfait
 נוֺדַע
 Gn
@@ -687,10 +687,10 @@ Ps 74,5.
 
 4.
 être instruit (passif du
-Hiphil) Jr 31,19, au sens spirituel, par le
+Hiph`il) Jr 31,19, au sens spirituel, par le
 châtiment.
 
-Piel
+Pi`el
 Parfait 2 masculin singulier יִדַּ֫עְתָּ, seulement
 ידעתה
 שַׁחַר מקֹמוֺ
@@ -742,7 +742,7 @@ Kt
 Qr
 
 מוּדַעַת voir
-Hophal) ; ailleurs comme substantif = connaissance
+Hoph`al) ; ailleurs comme substantif = connaissance
 
 מְיֻדָּעִי
 Ps 55,14
@@ -769,7 +769,7 @@ Qr
 
 מוֺדַע q. voir ci-dessous)
 
-Hiphil
+Hiph`il
 Parfait
 הוֺדִיעַ
 Ps 98,2
@@ -1011,7 +1011,7 @@ qui déclarent, aux nouvelles lunes, parmi (les choses) qui
 doivent
 venir.
 
-Hophal
+Hoph`al
 Parfait
 הוֺדַע
 Lv 4,23
@@ -1044,7 +1044,7 @@ Lv 4,28 (
 P
 ).
 
-Hithpael
+Hithpa`el
 Imparfait
 אֶתְוַדָּ֑ע
 Nb 12,6

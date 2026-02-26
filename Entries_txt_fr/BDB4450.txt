@@ -4,7 +4,7 @@ hébreu biblique
 לָקַח
 verbe
 prendre (hébreu tardif id., surtout acheter, et
-(Niphal) être prise en mariage ;
+(Niph`al) être prise en mariage ;
 MI^17; 20^
 Imparfait ואקח ; phénicien לקח ; assyrien
 li‡û, la‡û
@@ -586,7 +586,7 @@ et nous tirerons vengeance de lui ; absolu נָקָם אֶקַּח
 Es 47,3
 vengeance je tirerai.
 
-Niphal
+Niph`al
 Parfait
 נִלְקַח
 1 S 4,22
@@ -658,13 +658,13 @@ formule de malédiction.
 
 4.
 être enlevé, retiré ( =
-Niphal
+Niph`al
 2 ), de l'enlèvement d'Élie
 
 2 R 2,10 (avec מֵאֵת personne), de la mort Es 53,8 (avec
 מִן, probablement instrumental)
 
-Hophal
+Hoph`al
 Imparfait
 יֻקַּח
 
@@ -685,7 +685,7 @@ Ez 15,3 (מִן partitif)
 être enlevé à Es 49,24 (מִן
 personne) ; absolu Es 49,25.
 
-Hithpael
+Hithpa`el
 Participe féminin singulier אֵשׁ מִתְלַקַּ֫חַת
 littéralement feu se saisissant lui-même, de la foudre
 Ex 9,24 (

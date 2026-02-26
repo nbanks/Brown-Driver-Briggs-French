@@ -757,15 +757,19 @@ which see                    q.v.
 
 ## Noms de thèmes verbaux
 
-Translittérations conventionnelles, conserver tels quels :
+Translittérations conventionnelles, conserver tels quels **y compris la
+notation avec backtick** utilisée dans le HTML source (`Hiph`il`,
+`Niph`al`, `Pi`el`, etc.). Ne pas simplifier en « Hiphil », « Niphal »,
+etc. — reproduire exactement la graphie de l'original.
 
-- Qal, Niph'al (Niphal), Pi'el (Piel), Pu'al (Pual)
-- Hiph'il (Hiphil), Hoph'al (Hophal), Hithpa'el (Hithpael)
+- Qal, Niph\`al, Pi\`el, Pu\`al
+- Hiph\`il, Hoph\`al, Hithpa\`el
+- Po\`el, Hithpo\`el, Hithpa\`al, Nithpa\`el, Pil\`el
 
 Les étiquettes anglaises environnantes doivent être traduites :
 - "Qal Perfect" -> "Qal Parfait"
-- "Hiph'il Imperfect" -> "Hiphil Imparfait"
-- "Niph'al Participle" -> "Niphal Participe"
+- "Hiph\`il Imperfect" -> "Hiph\`il Imparfait"
+- "Niph\`al Participle" -> "Niph\`al Participe"
 - "Infinitive construct" -> "Infinitif construit"
 - "Infinitive absolute" -> "Infinitif absolu"
 

@@ -81,11 +81,14 @@ def save_result(results_path: Path, filename: str, status: str,
 
 
 def query_llm(prompt: str, server_url: str, retries: int = 5,
-              max_tokens: int = 2048) -> str:
+              max_tokens: int = 2048,
+              return_reasoning: bool = False) -> str | tuple[str, str]:
     """Send a chat completion request and return the content.
 
     Uses /v1/chat/completions. On thinking models, if content is empty,
     falls back to scanning reasoning_content for a verdict keyword.
+
+    If return_reasoning is True, returns (content, reasoning_content) tuple.
     """
     payload = {
         "messages": [{"role": "user", "content": prompt}],
@@ -104,14 +107,22 @@ def query_llm(prompt: str, server_url: str, retries: int = 5,
             data = resp.json()
             msg = data["choices"][0]["message"]
             content = (msg.get("content") or "").strip()
+            reasoning = (msg.get("reasoning_content") or "").strip()
             if content:
+                if return_reasoning:
+                    return content, reasoning
                 return content
             # Thinking model may exhaust tokens on reasoning with no content.
-            reasoning = (msg.get("reasoning_content") or "").strip().upper()
+            reasoning_upper = reasoning.upper()
             for v in ("ERROR", "WARN", "CORRECT"):
-                if v in reasoning:
-                    last_pos = reasoning.rfind(v)
-                    return reasoning[last_pos:last_pos + len(v)]
+                if v in reasoning_upper:
+                    last_pos = reasoning_upper.rfind(v)
+                    fallback = reasoning_upper[last_pos:last_pos + len(v)]
+                    if return_reasoning:
+                        return fallback, reasoning
+                    return fallback
+            if return_reasoning:
+                return "", reasoning
             return ""
         except (requests.ConnectionError, requests.Timeout) as e:
             if attempt < retries - 1:
@@ -134,8 +145,8 @@ def check_server(server_url: str):
         sys.exit(1)
 
 
-def run_pipeline(items, process_fn, *, name_fn=None, parallel=1, shuffle=False,
-                 limit=0, label="files"):
+def run_pipeline(items, process_fn, *, name_fn=None, size_fn=None,
+                 parallel=1, shuffle=False, limit=0, label="files"):
     """Execute process_fn over items with progress, ETA, and graceful shutdown.
 
     items: list of work items (any type — passed to process_fn).
@@ -146,6 +157,8 @@ def run_pipeline(items, process_fn, *, name_fn=None, parallel=1, shuffle=False,
     name_fn(item) -> str: optional callback to extract a display name from an
         item. In sequential mode this is called *before* process_fn so the
         filename is visible while the LLM is working.
+    size_fn(item) -> float: optional callback returning prompt size in KB,
+        shown in the sequential-mode prefix before the LLM call starts.
     parallel: number of concurrent workers.
     shuffle: randomize order before processing.
     limit: stop after this many (0 = unlimited).
@@ -167,15 +180,18 @@ def run_pipeline(items, process_fn, *, name_fn=None, parallel=1, shuffle=False,
     # parallelism isn't needed here — the LLM server call dominates wall time
     # (>99%), so Python threads just manage concurrent I/O waits.
     counts = {}
-    elapsed_times = []  # all individual times, for avg display
+    elapsed_times = []  # post-warmup times only, for avg/ETA
     completed = 0
     print_lock = threading.Lock()
     shutdown_requested = threading.Event()
     futures = {}
 
-    # The first `parallel` entries fill the prompt cache and are much slower.
-    # Exclude them from ETA once we have enough cached-speed samples.
-    warmup = parallel
+    # The first `parallel` items fill the prompt cache and are slower.
+    # Track them by original index; once all have completed, discard
+    # everything accumulated so far and start fresh.
+    warmup_indices = set(range(1, parallel + 1))  # 1-based
+    warmup_done = (parallel <= 1)  # no warmup needed for single worker
+    warmup_pending = set(warmup_indices) if not warmup_done else set()
 
     def handle_sigint(signum, frame):
         if shutdown_requested.is_set():
@@ -201,17 +217,24 @@ def run_pipeline(items, process_fn, *, name_fn=None, parallel=1, shuffle=False,
         note = result[3] if len(result) > 3 else ""
 
         with print_lock:
+            nonlocal warmup_done
             completed += 1
-            elapsed_times.append(elapsed)
             counts[status] = counts.get(status, 0) + 1
 
-            # ETA: use all times initially, drop warmup batch once we
-            # have post-warmup samples (prompt cache is hot by then).
-            if completed > warmup:
-                cached_times = elapsed_times[warmup:]
-                avg = sum(cached_times) / len(cached_times)
-            else:
+            # Track warmup: once all initial `parallel` indices finish,
+            # discard accumulated times and start fresh.
+            if not warmup_done:
+                warmup_pending.discard(i)
+                if not warmup_pending:
+                    warmup_done = True
+                    elapsed_times.clear()
+            if warmup_done:
+                elapsed_times.append(elapsed)
+
+            if elapsed_times:
                 avg = sum(elapsed_times) / len(elapsed_times)
+            else:
+                avg = elapsed
             items_left = total - completed
             remaining = avg / max(parallel, 1) * items_left
             eta_m, eta_s = divmod(int(remaining), 60)
@@ -248,6 +271,8 @@ def run_pipeline(items, process_fn, *, name_fn=None, parallel=1, shuffle=False,
             # Print filename before LLM call so user sees what's in progress
             if name_fn:
                 prefix = f"{i}/{total} {name_fn(item):<16s}"
+                if size_fn:
+                    prefix += f" {size_fn(item):5.0f}KB"
                 sys.stdout.write(prefix)
                 sys.stdout.flush()
             try:

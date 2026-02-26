@@ -7,7 +7,7 @@ fermer, clore (hébreu tardif id., araméen סְגַר,
 [placeholder3522: Placeholders/3522.gif]
 id. ; Zinjirli מסגרת
 prison
-Lzb^328^ ; phénicien סגר Piel ou Hiphil
+Lzb^328^ ; phénicien סגר Pi`el ou Hiph`il
 livrer ; possiblement éthiopien
 [placeholder3523: Placeholders/3523.gif] garde (de prison)
 Prä^BAS i. 371^) ; —
@@ -171,7 +171,7 @@ Du) : comparer assyrien
 —urâƒu sakru
 , Dl^HWB 499^.
 
-Niphal
+Niph`al
 Parfait 3 masculin singulier נִסְגַּר
 1 S 23,7
 Imparfait 3 masculin singulier יִסָּגֵר
@@ -212,7 +212,7 @@ Ne
 13,19
 .
 
-Piel
+Pi`el
 Parfait 3 masculin singulier סִגַּר
 1 S 26,8
 ;
@@ -237,9 +237,9 @@ personne +
 24,19 ;
 1 S 26,8
 בְּיַד omis 2 S 18,28 (voir aussi
-Hiphil). p. 698
+Hiph`il). p. 698
 
-Pual
+Pu`al
 Parfait 3 masculin singulier סֻגַּר
 
 Es
@@ -267,7 +267,7 @@ Es
 
 3. des portes Qo 12,14.
 
-Hiphil
+Hiph`il
 Parfait 3 masculin singulier הִסְגִּיר
 
 Lv 14,46 + ; 2 masculin singulier suffixe הִסְגַּרְתַּ֫נִי
@@ -298,7 +298,7 @@ Am
 
 1.
 livrer à (comparer
-Piel), avec accusatif de personne + בְּיַד
+Pi`el), avec accusatif de personne + בְּיַד
 
 1 S 23,11 ; 1 S 23,12 ; 1 S 23,20 ; 1 S 30,15 ;
 Jos 20,5 (

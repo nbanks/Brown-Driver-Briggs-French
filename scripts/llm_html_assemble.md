@@ -394,44 +394,41 @@ sens. Réponse correcte :
 >>> ERRATA: contenu tronqué — le texte français ne couvre qu'une fraction de l'entrée originale
 ```
 
-### Exemple 3 — accent manquant sur une majuscule (BDB551)
+### Exemple 3 — accent manquant sur une majuscule (BDB8062)
 
 HTML anglais original :
 ```html
 <html><head><link rel="stylesheet" href="style.css"></head>
 <h1>
-    <entry onclick="bdbid('BDB551')">BDB551</entry> [<entry onclick="sn('H531')">H531</entry>]
+    <entry onclick="bdbid('BDB8062')">BDB8062</entry> [<entry onclick="sn('H7506')">H7506</entry>]
 </h1>
 <language>Biblical Hebrew</language>
 <p>
-    <bdbheb>אָמוֺץ</bdbheb>
-    <pos>proper name, masculine</pos>
-    <descrip>father of Isaiah</descrip> ( = follow-ing) <ref ref="Isa 1:1" b="23" cBegin="1" vBegin="1" cEnd="1"
-        vEnd="1" onclick="bcv(23,1,1)">Isa 1:1</ref>; <ref ref="Isa 2:1" b="23" cBegin="2" vBegin="1" cEnd="2" vEnd="1"
-        onclick="bcv(23,2,1)">Isa 2:1</ref>; ...
+    <bdbheb>רֶ֫פַח</bdbheb>
+    <pos>proper name, masculine</pos> <descrip>in Ephraim</descrip>, <ref ref="1Chr 7:25" b="13" cBegin="7" vBegin="25" cEnd="7"
+        vEnd="25" onclick="bcv(13,7,25)">1Chr 7:25</ref>, <grk>Ραφη[α]</grk>.
 </p>
 <hr>
 
 </html>
 ```
 
-Texte français (avec erreur — `Esaïe` au lieu de `Ésaïe`) :
+Texte français (avec erreur — `Ephraïm` au lieu de `Éphraïm`) :
 ```
-=== BDB551 H531 ===
+=== BDB8062 H7506 ===
 hébreu biblique
 
-אָמוֺץ
-nom propre, masculin
-père d'Esaïe ( = suivant) Es 1,1 ; Es 2,1 ; ...
+רֶ֫פַח
+nom propre, masculin en Ephraïm, 1 Ch 7,25, Ραφη[α].
 
 ---
 ```
 
-Le texte français contient `Esaïe` sans accent sur le É majuscule — la forme
-correcte est `Ésaïe`. Réponse correcte :
+Le texte français contient `Ephraïm` sans accent sur le É majuscule — la forme
+correcte est `Éphraïm`. Réponse correcte :
 
 ```
->>> ERRATA: accent manquant sur majuscule « Esaïe » (devrait être « Ésaïe »)
+>>> ERRATA: accent manquant sur majuscule « Ephraïm » (devrait être « Éphraïm »)
 ```
 
 ---

@@ -59,7 +59,7 @@ Ps 37,5, comparer
 Ps 22,9 ; Pr 16,3 (tous deux
 suivis de אֶלֿ).
 
-Niphal
+Niph`al
 Parfait
 וְנָגֹלּוּ consécutif Es 34,4
 Imparfait
@@ -84,7 +84,7 @@ Participe
 Es 9,4
 vêtement roulé (souillé, roulé de part et d'autre) dans le sang.
 
-Hithpoel
+Hithpo`el
 Infinitif
 לְהִתְגֹּלֵל
 Gn 43,8
@@ -109,10 +109,10 @@ Hithpalpel
 Parfait
 הִתְגַּלְגָּ֑לוּ
 Jb
-30,14 (absolu ; || כְּפֶרֶץ רָחָב יֶאֱתָ֑יוּ) comparer Hithpoel Gn 43,8
+30,14 (absolu ; || כְּפֶרֶץ רָחָב יֶאֱתָ֑יוּ) comparer Hithpo`el Gn 43,8
 .
 
-Hiphil
+Hiph`il
 Imparfait
 וַיָּ֫גֶל
 

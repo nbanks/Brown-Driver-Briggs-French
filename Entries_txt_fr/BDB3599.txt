@@ -3,7 +3,7 @@ hébreu biblique
 
 יָסַף_214_
 verbe
-ajouter (hébreu tardif id., Hiphil ; araméen Aphel אוֺסִיף,
+ajouter (hébreu tardif id., Hiph`il ; araméen Aphel אוֺסִיף,
 [placeholder2240: Placeholders/2240.gif] phénicien יסף ;
 MI^29^
 
@@ -65,7 +65,7 @@ Dt 20,8 ; Jg
 contexte ; les deux avec לֹא
 et ne le fit plus.
 
-Niphal
+Niph`al
 Parfait
 נוֺסַף
 Jr 36,32
@@ -88,7 +88,7 @@ participe féminin pluriel = choses ajoutées, additions (c.-à-d. calamités
 supplémentaires) Es
 15,9.
 
-Hiphil 172 Parfait
+Hiph`il 172 Parfait
 הֹסִיף
 2 R 24,7
 הוֺסַ֫פְתָּ

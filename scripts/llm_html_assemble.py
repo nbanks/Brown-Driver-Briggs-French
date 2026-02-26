@@ -25,7 +25,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 from llm_common import (ContextOverflow, check_server, combined_hash,
-                         load_results, query_llm, run_pipeline, save_result)
+                         query_llm, run_pipeline, save_result)
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 ROOT = SCRIPT_DIR.parent
@@ -38,7 +38,7 @@ ENTRIES_DIR = ROOT / "Entries"
 ENTRIES_FR_DIR = ROOT / "Entries_fr"
 TXT_FR_DIR = ROOT / "Entries_txt_fr"
 ERRATA_DIR = Path(".")
-RESULTS_FILE = ROOT / "llm_html_assemble_results.txt"
+RESULTS_FILE = Path("/tmp/llm_html_assemble_results.txt")
 PROMPT_FILE = SCRIPT_DIR / "llm_html_assemble.md"
 
 # Column widths for aligned CSV output
@@ -80,17 +80,37 @@ def build_retry_prompt(template: str, orig_html: str, french_txt: str,
     """Build a retry prompt with previous errors appended."""
     base = build_prompt(template, orig_html, french_txt)
     error_lines = "\n".join(f"- {msg}" for _, msg in errors)
-    return (f"{base}\n\n---\n"
-            f"Your previous output had these validation errors:\n"
-            f"{error_lines}\n\n"
-            f"Here was your previous (incorrect) output for reference:\n"
-            f"```\n{prev_output[:4000]}\n```\n\n"
-            f"Please fix these issues and output the corrected HTML.")
+    return (f"{base}\n\n"
+            f"## ⚠️ Nouvel essai — corrigez votre HTML précédent, ne signalez PAS comme ERRATA\n\n"
+            f"### Erreurs de validation\n"
+            f"```\n{error_lines}\n```\n\n"
+            f"### Texte français correct (référence)\n"
+            f"```\n{french_txt}\n```\n\n"
+            f"### Votre HTML précédent (incorrect)\n"
+            f"```html\n{prev_output[:4000]}\n```\n\n"
+            f"Corrigez les erreurs ci-dessus et produisez un HTML parfait.")
 
 
-def get_entries(digits: list[int] | None) -> list[tuple[str, Path, Path]]:
+def get_entries(digits: list[int] | None,
+                only: list[str] | None = None) -> list[tuple[str, Path, Path]]:
     """Get sorted list of (bdb_id, orig_html_path, txt_fr_path)."""
     entries = []
+    if only is not None:
+        only_set = set(only)
+        for bdb_id in sorted(only_set):
+            txt_path = TXT_FR_DIR / (bdb_id + ".txt")
+            orig_path = ENTRIES_DIR / (bdb_id + ".html")
+            if txt_path.exists() and orig_path.exists():
+                entries.append((bdb_id, orig_path, txt_path))
+            else:
+                missing = []
+                if not txt_path.exists():
+                    missing.append(str(txt_path))
+                if not orig_path.exists():
+                    missing.append(str(orig_path))
+                print(f"warning: {bdb_id} skipped, missing: {', '.join(missing)}",
+                      file=sys.stderr)
+        return entries
     for txt_path in sorted(TXT_FR_DIR.iterdir()):
         if not txt_path.name.endswith(".txt"):
             continue
@@ -108,7 +128,7 @@ def get_entries(digits: list[int] | None) -> list[tuple[str, Path, Path]]:
 def process_entry(bdb_id: str, orig_path: Path, txt_path: Path,
                   template: str, server_url: str, max_retries: int,
                   results_path: Path, file_lock: threading.Lock,
-                  on_attempt=None) -> tuple[str, float, int]:
+                  on_attempt=None, debug: bool = False) -> tuple[str, float, int]:
     """Process one entry: generate HTML, validate, retry on failure.
 
     on_attempt(attempt_num): optional callback called at the start of each
@@ -126,18 +146,43 @@ def process_entry(bdb_id: str, orig_path: Path, txt_path: Path,
     output_html = None
     last_errors = []
 
+    # If a previous (failed) attempt exists on disk, use it as context
+    # for the first try so the new model can learn from the old output.
+    if fr_path.exists():
+        prev = fr_path.read_text()
+        prev_errors = validate_file(
+            bdb_id, entries_dir=str(ENTRIES_DIR),
+            entries_fr_dir=str(ENTRIES_FR_DIR), txt_fr_dir=str(TXT_FR_DIR))
+        if prev_errors:
+            output_html = prev
+            last_errors = prev_errors
+
     for attempt in range(1, max_retries + 1):
         if on_attempt:
             on_attempt(attempt)
-        if attempt == 1:
+        if attempt == 1 and not last_errors:
             p = prompt
         else:
             p = build_retry_prompt(template, orig_html, french_txt,
                                    output_html, last_errors)
+        if debug:
+            dbg_prefix = f"/tmp/llm-debug-{bdb_id}-try{attempt}"
+            Path(f"{dbg_prefix}-prompt.txt").write_text(p, encoding="utf-8")
+
         try:
-            raw = query_llm(p, server_url, max_tokens=16384)
+            if debug:
+                raw, thinking = query_llm(p, server_url, max_tokens=131072,
+                                          return_reasoning=True)
+            else:
+                raw = query_llm(p, server_url, max_tokens=131072)
         except ContextOverflow:
             return "SKIPPED", prompt_kb, attempt
+
+        if debug:
+            Path(f"{dbg_prefix}-out.txt").write_text(raw, encoding="utf-8")
+            if thinking:
+                Path(f"{dbg_prefix}-think.txt").write_text(
+                    thinking, encoding="utf-8")
 
         # Check if LLM flagged the French input as errata
         errata_reason = check_llm_errata(raw)
@@ -171,7 +216,7 @@ def process_entry(bdb_id: str, orig_path: Path, txt_path: Path,
             f.write(f"{bdb_id} html  {len(last_errors)} issues after "
                     f"{max_retries} retries: {error_summary}\n")
 
-    return "ERRATA", prompt_kb, max_retries
+    return "FAILED", prompt_kb, max_retries
 
 
 def main():
@@ -184,7 +229,8 @@ def main():
   %(prog)s -j 4                         # 4 parallel LLM requests
   %(prog)s --max-retries 5              # up to 5 validation retries
   %(prog)s --force                      # regenerate even if existing is clean
-  %(prog)s --count                      # show remaining count""",
+  %(prog)s --count                      # show remaining count
+  %(prog)s --entries BDB8226 BDB7519    # specific entries only""",
         formatter_class=argparse.RawDescriptionHelpFormatter,
     )
     parser.add_argument(
@@ -234,8 +280,24 @@ def main():
         help="Randomize file order.",
     )
     parser.add_argument(
+        "--skip-failed", action="store_true", default=False,
+        help="Skip entries that previously FAILED validation (default: retry).",
+    )
+    parser.add_argument(
+        "--skip-errata", action="store_true", default=False,
+        help="Skip entries that LLM flagged as ERRATA (default: retry).",
+    )
+    parser.add_argument(
         "--force", action="store_true", default=False,
         help="Regenerate even if existing file validates clean.",
+    )
+    parser.add_argument(
+        "--entries", nargs="+", metavar="BDB_ID",
+        help="Process only these specific entries (e.g. BDB8226 BDB7519).",
+    )
+    parser.add_argument(
+        "--debug", action="store_true", default=False,
+        help="Write prompt/response to /tmp/llm-debug-BDBnnn-tryN-{prompt,out}.txt.",
     )
     args = parser.parse_args()
 
@@ -260,45 +322,101 @@ def main():
     template = prompt_path.read_text()
 
     digits = args.digits if args.digits else None
-    entries = get_entries(digits)
+    entries = get_entries(digits, only=args.entries)
 
-    # Determine what needs processing
-    existing = load_results(RESULTS_FILE)
-    to_process = []
+    # Load errata entries for --skip-errata
+    errata_ids = set()
+    if args.skip_errata:
+        for i in range(10):
+            ep = ERRATA_DIR / f"errata-{i}.txt"
+            if ep.exists():
+                for line in ep.read_text().splitlines():
+                    if " html  LLM: " in line:
+                        errata_ids.add(line.split()[0])
+
+    # Split entries into existing (need validation) and new (no Entries_fr yet)
+    existing = []
+    new_entries = []
     for bdb_id, orig_path, txt_path in entries:
-        filename = bdb_id + ".html"
-        chash = combined_hash(orig_path, txt_path)
+        fr_path = ENTRIES_FR_DIR / (bdb_id + ".html")
+        if not args.force and fr_path.exists():
+            existing.append((bdb_id, orig_path, txt_path))
+        else:
+            new_entries.append((bdb_id, orig_path, txt_path))
 
-        if not args.force:
-            if filename in existing:
-                status, _, prev_hash = existing[filename]
-                if status == "CLEAN" and prev_hash == chash:
-                    continue
+    # Validate existing Entries_fr/ files
+    counts = {"clean": 0, "invalid": 0, "errata": 0, "new": len(new_entries)}
+    skipped_failed = []
+    skipped_errata = []
+    to_process = []
+    n_exist = len(existing)
+    if n_exist:
+        sys.stdout.write(f"Validating {n_exist} existing Entries_fr ")
+        sys.stdout.flush()
+        dot_interval = max(1, n_exist // 40)
+        for idx, (bdb_id, orig_path, txt_path) in enumerate(existing):
+            if idx % dot_interval == 0:
+                sys.stdout.write(".")
+                sys.stdout.flush()
+            chash = combined_hash(orig_path, txt_path)
+
+            if bdb_id in errata_ids:
+                counts["errata"] += 1
+                skipped_errata.append(bdb_id)
+                continue
+            errors = validate_file(
+                bdb_id, entries_dir=str(ENTRIES_DIR),
+                entries_fr_dir=str(ENTRIES_FR_DIR),
+                txt_fr_dir=str(TXT_FR_DIR))
+            if not errors:
+                counts["clean"] += 1
+                continue
+            counts["invalid"] += 1
+            if args.skip_failed:
+                skipped_failed.append(bdb_id)
+                continue
+            to_process.append((bdb_id, orig_path, txt_path, chash))
+        print(" done")
+    else:
+        print("No existing Entries_fr to validate.")
+
+    # Add new entries to processing list
+    for bdb_id, orig_path, txt_path in new_entries:
+        chash = combined_hash(orig_path, txt_path)
         to_process.append((bdb_id, orig_path, txt_path, chash))
 
+    # Build summary with * marking skipped categories
+    clean_s = f"{counts['clean']} clean*"
+    invalid_s = f"{counts['invalid']} invalid"
+    if args.skip_failed:
+        invalid_s += "*"
+    errata_s = f"{counts['errata']} errata"
+    if args.skip_errata:
+        errata_s += "*"
+    print(f"Entries_fr: {n_exist}/{len(entries)} exist: "
+          f"{clean_s}, {invalid_s}, {errata_s}")
+    n_skipped = counts["clean"]
+    if args.skip_failed:
+        n_skipped += len(skipped_failed)
+    if args.skip_errata:
+        n_skipped += len(skipped_errata)
+    if n_skipped:
+        print(f"  * {n_skipped} skipped")
+
     if args.count:
-        total = len(entries)
-        done = total - len(to_process)
-        print(f"{total} total, {done} done, {len(to_process)} remaining")
-        if existing:
-            counts = {}
-            for v, _, _ in existing.values():
-                counts[v] = counts.get(v, 0) + 1
-            parts = [f"{k}: {v}" for k, v in sorted(counts.items())]
-            print(f"  Results so far: {', '.join(parts)}")
+        print(f"To process: {len(to_process)}")
         sys.exit(0)
 
     if not to_process:
-        print(f"All {len(entries)} entries already processed "
-              f"(results in {RESULTS_FILE.name}).")
+        print(f"Nothing to process — all {counts['clean']} entries are clean.")
         sys.exit(0)
 
     check_server(args.server)
 
-    print(f"Processing {len(to_process)} entries via {args.server} ...")
-    print(f"Prompt:      {prompt_path.name}")
-    print(f"Results:     {RESULTS_FILE.name}")
-    print(f"Max retries: {args.max_retries}")
+    print(f"\nProcessing {len(to_process)} entries via {args.server} ...")
+    print(f"  Prompt:      {prompt_path.name}")
+    print(f"  Log:         {RESULTS_FILE}")
+    print(f"  Max retries: {args.max_retries}")
     print()
 
     file_lock = threading.Lock()
@@ -325,7 +443,7 @@ def main():
         status, prompt_kb, attempts = process_entry(
             bdb_id, orig_path, txt_path, template,
             args.server, args.max_retries, RESULTS_FILE, file_lock,
-            on_attempt=on_attempt)
+            on_attempt=on_attempt, debug=args.debug)
 
         # Pad try column to fixed width so status aligns
         if sequential and try_chars < max_try_width:
@@ -340,8 +458,15 @@ def main():
         display_note = f"({attempts}/{args.max_retries})" if attempts > 1 else ""
         return filename, status, prompt_kb, display_note
 
+    def prompt_size_kb(item):
+        _, orig_path, txt_path, _ = item
+        size = (len(template.encode("utf-8"))
+                + orig_path.stat().st_size + txt_path.stat().st_size)
+        return size / 1024
+
     counts = run_pipeline(to_process, process_one,
                           name_fn=lambda item: item[0] + ".html",
+                          size_fn=prompt_size_kb,
                           parallel=args.parallel,
                           shuffle=args.shuffle, limit=args.max,
                           label="entries")
@@ -349,6 +474,7 @@ def main():
     print()
     print(f"Done: {sum(counts.values())} entries processed.")
     print(f"  CLEAN:   {counts.get('CLEAN', 0)}")
+    print(f"  FAILED:  {counts.get('FAILED', 0)}")
     print(f"  ERRATA:  {counts.get('ERRATA', 0)}")
     print(f"  SKIPPED: {counts.get('SKIPPED', 0)}")
 

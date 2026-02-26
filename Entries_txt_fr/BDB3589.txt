@@ -3,7 +3,7 @@ hébreu biblique
 
 יָסַד
 verbe
-établir, fonder, fixer (hébreu tardif id., surtout Piel ; araméen
+établir, fonder, fixer (hébreu tardif id., surtout Pi`el ; araméen
 יְסַד ; peut-être à l'origine fixer fermement ou étroitement ; arabe
 [placeholder2238: Placeholders/2238.gif]
 oreiller ; verbe dénominatif II. fixer comme un oreiller contre ; voir
@@ -72,7 +72,7 @@ Esd 7,9 corrigé (voir
 ) ; fonder, commencer, des tas d'offrandes dans la maison de ׳
 י 2 Ch 31,7.
 
-Niphal
+Niph`al
 Parfait 3 pluriel נוֺסְְדוּ
 Ps 2,2
 Imparfait 2 masculin singulier תִּוָּסֵד
@@ -93,7 +93,7 @@ Ps 2,2 ; Ps 31,14
 2.
 être fondé, Es 44,28 (temple), Ex 9,18 (Égypte).
 
-Piel
+Pi`el
 Parfait
 יִסַּד
 Es
@@ -134,7 +134,7 @@ Ps
 9,22 (suivi de l'accusatif), Est 1,8
 (absolu)
 
-Pual
+Pu`al
 Parfait, יֻסַּד
 1 R
 6,37 + 2 t. ; יֻסָּ֑ד
@@ -156,7 +156,7 @@ Participe = substantif fondation 1 R 7,10, comparer
 מוסד ci-dessous ; colonnes posées sur des bases, comparaison de jambes Ct 5,15
 .
 
-Hophal
+Hoph`al
 être fondé : Infinitif
 הוּסַד
 2 Ch 3,3

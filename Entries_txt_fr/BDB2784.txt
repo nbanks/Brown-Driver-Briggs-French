@@ -2,18 +2,18 @@
 hébreu biblique
 
 III. [חָלַל] verbe
-polluer, souiller, profaner ; Hiphil aussi commencer (littéralement délier, desserrer,
+polluer, souiller, profaner ; Hiph`il aussi commencer (littéralement délier, desserrer,
 ouvrir, voir arabe) (arabe
 [placeholder1767: Placeholders/1767.gif]
 délier, défaire, devenir libre, licite, libre d'obligation ou de lien ; IV.
 rendre licite ; x. estimer licite ou libre, profaner, désacraliser,
 violer ; hébreu tardif חלל
-être profane, désacralisé (aussi Piel Hiphil transitif), comparer araméen חֲלַל
+être profane, désacralisé (aussi Pi`el Hiph`il transitif), comparer araméen חֲלַל
 
 [placeholder1768: Placeholders/1768.gif] Pael est purifier,
 [placeholder1769: Placeholders/1769.gif] Aphel est profaner) —
 
-Niphal
+Niph`al
 Parfait
 נִחָ֑ל
 Ez 25,3,
@@ -58,7 +58,7 @@ et
 même Dieu lui-même
 Ez 22,16 ; Ez 22,26.
 
-Piel
+Pi`el
 Parfait
 חִלֵּל
 Lv 19,8 + 3
@@ -238,14 +238,14 @@ Lv
 H
 ).
 
-Pual
+Pu`al
 Participe
 בַּגּוֺיִם שְׁמִי הַגָּדוֺל הַמְֿחֻלָּל
 Ez
 36,23
 mon grand nom qui est profané parmi les nations.
 
-Hiphil
+Hiph`il
 
 1.
 a.
@@ -452,7 +452,7 @@ commençant et achevant
 (c.-à-d.
 accomplissant tout mon dessein, voir Dr).
 
-Hophal
+Hoph`al
 Parfait
 ׳
 אָז הוּחַל לִקְראֹ בְּשֵׁם י

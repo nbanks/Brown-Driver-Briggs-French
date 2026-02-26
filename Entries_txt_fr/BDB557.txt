@@ -399,7 +399,7 @@ Est
 11,18 = menacer suivi de l'infinitif Dt 9,25 ; Ps
 106,23.
 
-Niphal
+Niph`al
 Parfait
 נֶאֱמַר
 Dn
@@ -457,7 +457,7 @@ Gn
 Rabb
 (comparer
 AV
-) traitent הֵאָמַר comme Infinitif Niphal pour לְהֵאָמֵר,
+) traitent הֵאָמַר comme Infinitif Niph`al pour לְהֵאָמֵר,
 mais
 contraire à la grammaire ; la forme telle quelle est Qal Parfait, אֶלאֵֿל étant préfixé
 à
@@ -469,7 +469,7 @@ Di et autres ; Hoffm
 on
 parler (être parlé) à Dieu. »
 
-Hiphil
+Hiph`il
 Parfait
 déclarer solennellement, affirmer
 

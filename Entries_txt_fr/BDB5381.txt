@@ -7,7 +7,7 @@ frapper, heurter seulement au sens spécifique d'atteindre, frapper ou abattre (
 
 Ecclus 41,2 c
 frappe contre (ב ; marge ונוקש), ainsi נוקש ב
-13,2c ; hébreu tardif frapper, heurter p. ex. les genoux, ou une porte (ainsi Hiphil) ; araméen
+13,2c ; hébreu tardif frapper, heurter p. ex. les genoux, ou une porte (ainsi Hiph`il) ; araméen
 (y compris araméen biblique) נְקַשׁ
 id.,
 [placeholder3449: Placeholders/3449.gif]
@@ -35,14 +35,14 @@ Bae
 Kau
 We
 Buhl^Lex^ lisent נוֺקַשׁ,
-Niphal de יקשׁ.
+Niph`al de יקשׁ.
 
-Niphal
+Niph`al
 Imparfait 2 masculin singulier תִּנָּקֵשׁ אַחֲרֵיהֶם
 Dt 12,30
 de peur que tu sois poussé (entraîné) après eux.
 
-Piel
+Pi`el
 Imparfait
 יְנַקֵּשׁ
 Ps
@@ -51,7 +51,7 @@ Ps
 Ps 38,13
 (absolu).
 
-Hithpael
+Hithpa`el
 Participe
 מִתְנַקֵּשׁ בְּנַפְשִׁי
 1 S 28,9

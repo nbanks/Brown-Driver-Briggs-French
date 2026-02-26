@@ -9,8 +9,8 @@ tonner ; surtout Aphel Ithpaal proférer des plaintes (bruyantes)
 ;
 [placeholder5127: Placeholders/5127.gif],
 [placeholder5128: Placeholders/5128.gif] nom tonnerre,
-[placeholder5129: Placeholders/5129.gif] verbe tonner, se lamenter, comparer hébreu tardif רָעַם Hiphil
-tonner, Hithpael se plaindre ; éthiopien
+[placeholder5129: Placeholders/5129.gif] verbe tonner, se lamenter, comparer hébreu tardif רָעַם Hiph`il
+tonner, Hithpa`el se plaindre ; éthiopien
 [placeholder5130: Placeholders/5130.gif] : nom tonnerre, assyrien
 rîmu
 , id. ; arabe

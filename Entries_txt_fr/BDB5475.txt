@@ -3,7 +3,7 @@ hébreu biblique
 
 סָבַב
 verbe
-tourner, faire le tour, entourer (hébreu tardif id., Piel Hiphil, et
+tourner, faire le tour, entourer (hébreu tardif id., Pi`el Hiph`il, et
 dérivés ; araméen סוֺבְבָא
 rebord, bordure ; arabe
 [placeholder3510: Placeholders/3510.gif]
@@ -97,7 +97,7 @@ mais
 omet v^a^ comparer Gie), Qo 1,6 (deux fois dans le verset) ; de la
 porte, Pr
 26,14
-tourner sur (עַל) son gond (comparer Niphal Ez 26,2
+tourner sur (עַל) son gond (comparer Niph`al Ez 26,2
 ) ; tourner (vers quelqu'un) 1 S 22,17 ; 1 S 22,18 (deux fois dans le verset) ; 2 S 18,30 (deux fois dans le
 verset) ; Ct
 2,17 (voir Bu) ; aussi avec אֶלֿ
@@ -129,7 +129,7 @@ ainsi de l'héritage Nb 36,7 il ne passera pas d'une (מִן
 לְאָתִי
 1 R 2,15
 (comparer
-Hiphil
+Hiph`il
 1.b.) ; = être amené, avec accusatif de
 lieu 1 S 5,8
 (de
@@ -138,7 +138,7 @@ l'arche).
 b.
 tourner = changer, seulement Za 14,10 (du pays, changé comme
 [כְּ, c.-à-d. en] une plaine), comparer
-Hiphil
+Hiph`il
 1.c.
 
 c. figuré tourner (dans une nouvelle direction) pour faire
@@ -214,7 +214,7 @@ Es
 3,9 (avec accusatif דֶּרֶךְ).
 — Voir aussi 2 S
 5,23 ; 1 Ch 14,14
-Hiphil
+Hiph`il
 2.a.
 
 d.
@@ -282,7 +282,7 @@ Kit
 Bu Löhr HPS
 .
 
-Niphal
+Niph`al
 Parfait 3 masculin singulier נָסַב
 
 Jos 15,3 + ; 3 féminin singulier
@@ -359,7 +359,7 @@ contourner, longer, avec accusatif Jos
 2. passif être livré à (לְ
 ), au pouvoir de, Jr 6,12.
 
-Piel
+Pi`el
 Infinitif construit
 סַבֵּב אֶתפְּֿנֵי הַדָּבָר
 2 S
@@ -422,7 +422,7 @@ enfermer, envelopper, avec accusatif de personne Jon 2,4 ;
 Jon 2,6
 (des eaux).
 
-Hiphil
+Hiph`il
 Parfait 3 masculin singulier הֵסֵב
 
 2 R 16,18 + ; 2 masculin singulier
@@ -596,7 +596,7 @@ Ps
 ceux qui m'encerclent (d'autres
 sous מֵסַב ci-dessous).
 
-Hophal
+Hoph`al
 Imparfait 3 masculin singulier
 יוּסָּ֑ב
 

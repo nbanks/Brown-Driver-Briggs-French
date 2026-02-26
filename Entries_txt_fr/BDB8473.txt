@@ -3,7 +3,7 @@ hébreu biblique
 
 [שָׁדַד]_56_
 verbe
-traiter violemment, dépouiller, dévaster, ruiner (hébreu tardif id., Niphal ;
+traiter violemment, dépouiller, dévaster, ruiner (hébreu tardif id., Niph`al ;
 arabe
 [placeholder5415: Placeholders/5415.gif]
 boucher, obstruer, arrêter, rendre ferme ; éthiopien
@@ -68,7 +68,7 @@ Ba^NB 179^, mais douteux ; < Du
 שְׁדוּדָה) ; = dépouiller, accusatif de personne Jr 49,28 = amener
 une personne à la ruine
 Mi 2,4 (Infinitif
-absolu + Niphal q. v.), Pr 11,3 plus faible, assaillir
+absolu + Niph`al q. v.), Pr 11,3 plus faible, assaillir
 Ps 17,9 ailleurs
 Participe
 actif comme substantif dévastateur (pillard ?) : d'ennemis nationaux Es 16,4 ; Es 21,2 ; Es 33,1 ; Jr 6,26 + 8 t.
@@ -78,12 +78,12 @@ Ab 1,5 (||
 GASm ; ennemi personnel Jb 15,21 représentant le méchant en général Jb 12,6 (|| מַרְגִּיזֵי
 אֵל).
 
-Niphal
+Niph`al
 Parfait 1 pluriel שָׁדוֺד נְשַׁדֻּנוּ (Ges
 ^«GKC:67u»§ 67u^
 Kö^i. 342 s.^) nous sommes totalement ruinés.
 
-Piel
+Pi`el
 Imparfait 2 masculin singulier אַלתְּֿשַׁדֵּד רִבְצוֺ
 Pr 24,15
 
@@ -93,7 +93,7 @@ Pr 19,26
 
 celui qui assaille, maltraite (son) père (|| יַבְרִיחַ אֵם).
 
-Pual
+Pu`al
 Parfait 3 masculin singulier שֻׁדַּד
 Es 15,1 +, 3
 féminin singulier שֻׁדְּדָה
@@ -106,12 +106,12 @@ des demeures (אֹהֶל) Jr 4,20 ; Jr 10,20, des arbres Za 11,2 (supprimer
 Sta^ZAW 1 (1881), 25^), comparer v
 
 Za 11,33
-, la puissance des navires Es 23,14, le champ (par la sécheresse) Jl 1,10, la récolte Jl 1,10. Poel. détruire
+, la puissance des navires Es 23,14, le champ (par la sécheresse) Jl 1,10, la récolte Jl 1,10. Po`el. détruire
 violemment : Imparfait 3 masculin singulier יְשֹׁרֵד מַצֵּבוֺתָם
 Os 10,2 (||
 יַעֲרֹף מִוְבְּחֹתָם).
 
-Hophal
+Hoph`al
 Imparfait (ou
 Qal
 passif) Imparfait ? comparer Ges

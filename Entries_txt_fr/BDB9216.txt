@@ -3,10 +3,10 @@ hébreu biblique
 
 [תָּעַב] verbe
 dénominatif
-Niphal
-Piel :
+Niph`al
+Pi`el :
 
-Niphal
+Niph`al
 Parfait 3 masculin singulier נִתְעַב
 1 Ch 21,6
 Participe
@@ -28,7 +28,7 @@ abhorré et corrompu, par la maladie (נאלח ailleurs Ps 14,3
 
 2. éthiquement : le recensement de David, selon 1 Ch 21,6.
 
-Piel
+Pi`el
 Parfait 3 pluriel suffixe תִּעֲבוּנִי
 Jb 9,31
 + 2 t. ; Imparfait
@@ -89,13 +89,13 @@ Job, des vêtements souillés Jb 9,31
 מְתָעֵב גּוֺי
 Es
 49,7 (|| בְּזִה נֶפֶשׁ) (lire probablement
-Pual
+Pu`al
 מְתִעַב, comme Oort
 SS
 Bu
 Du).
 
-Hiphil
+Hiph`il
 Parfait 2 féminin singulier הִתְעַבְתְּ
 
 Ez 16,52 3 masculin pluriel הִתְעִיבוּ

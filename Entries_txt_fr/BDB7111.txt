@@ -71,7 +71,7 @@ barbe) ; Infinitif construit
 Jg 16,22
 (cheveux de Samson).
 
-Hiphil
+Hiph`il
 Parfait 3 masculin singulier suffixe וְהִצְמִיחָהּ
 Es 55,10
 Imparfait 3 masculin singulier יַצְמִיחַ

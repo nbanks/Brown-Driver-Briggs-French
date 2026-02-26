@@ -244,10 +244,10 @@ J
 
 E
 ; comparer
-Niphal
+Niph`al
 3) ; ne pas imputer l'iniquité à quelqu'un Ps 32,2.
 
-Niphal
+Niph`al
 Parfait
 נֶחְשַׁב
 Nb 18,27
@@ -333,7 +333,7 @@ Qal
 II
 3).
 
-Piel
+Pi`el
 Parfait 3 masculin singulier חִשַּׁב
 
 Lv 25,27 + 4 t. ; féminin חִשְּׁבָה
@@ -395,7 +395,7 @@ P
 2 R
 12,16.
 
-Hithpael
+Hithpa`el
 Imparfait
 בַּגּוֺיִם לֹא יִתְחַשָּׁ֑ב
 Nb

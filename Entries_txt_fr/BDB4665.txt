@@ -13,7 +13,7 @@ secours ;
 ; [s'esquiver, échapper de la main est
 [placeholder2996: Placeholders/2996.gif]]) ; —
 
-Niphal
+Niph`al
 Parfait 3 masculin singulier נִמְלַט
 Jg 3,26 + 6
 t. ; 3 féminin singulier נִמְלְטָה
@@ -67,7 +67,7 @@ laisse-moi m'esquiver pour voir mes frères ; se glisser à travers ou au-delà
 HPS et
 Pi`el
 1,
-Hiphil
+Hiph`il
 2 ; > Klo *נִלְאָ֑טוּ, √
 לאט, d'après
 
@@ -195,7 +195,7 @@ Am 2,15 ; Ps 89,49 ; Ps 116,4
 forme absente de l'Hexateuque, Juges,
 Chroniques, Es^1^)
 
-Hiphil
+Hiph`il
 Parfait 3 masculin singulier הִמְלִיט
 Es
 31,5 3 féminin singulier הִמְ֫לִיטָה

@@ -7,7 +7,7 @@ id. ; arabe
 [placeholder2568: Placeholders/2568.gif] est être contracté, ridé ; aussi replier les ailes (de
 l'aigle)) —
 
-Niphal
+Niph`al
 Parfait 3 masculin singulier נִכְנַע
 1 R 21,29 +
 3 t. ; 3 pluriel נִכְנְעוּ
@@ -71,7 +71,7 @@ sous quelqu'un תַּחַת
 Jg 3,30 ; Ps 106,42
 .
 
-Hiphil
+Hiph`il
 Parfait 3 masculin singulier הִכְנִיעַ
 2 Ch 28,19
 1 singulier הִכְנַעְתִּי

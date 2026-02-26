@@ -157,7 +157,7 @@ Es
 Qr
 (
 Kt
-Hiphil q. v.) Ps 77,12 ; Ps 105,5 ; Ps 143,5 (||
+Hiph`il q. v.) Ps 77,12 ; Ps 105,5 ; Ps 143,5 (||
 
 הגיתי, אֲשׂוֺחֵחַ) 1 Ch 16,12 négativement,
 Es
@@ -449,7 +449,7 @@ de Jérusalem) Ps
 137,7 (+ לִבְנֵי אֱדוֺם
 , c.-à-d. contre eux).
 
-Niphal
+Niph`al
 Parfait 2 masculin pluriel consécutif וְנִזְכַּרְתֶּם
 Nb 10,9
 Imparfait 3 masculin singulier יִזָּכֵר
@@ -557,7 +557,7 @@ Ez 25,10.
 (suivi de וְנַעֲשִׂים
 observer, célébrer).
 
-Hiphil
+Hiph`il
 Parfait 3 masculin singulier הִזְכִּיר
 Es 49,1
 2 masculin singulier suffixe 1 singulier וְהִזְכַּרְתַּנִי consécutif Gn

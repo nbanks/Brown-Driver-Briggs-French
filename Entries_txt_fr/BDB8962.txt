@@ -173,7 +173,7 @@ Ps 102,1
 Ez
 16,15, comparer Ez 23,8.
 
-Niphal
+Niph`al
 Parfait 3 masculin singulier נִשְׁפַּח
 Lm 2,11,
 etc. ; Imparfait 3 masculin singulier יִשָּׁפֵח
@@ -202,7 +202,7 @@ Ez
 Qal
 2.b.).
 
-Pual
+Pu`al
 Parfait 3 masculin singulier consécutif וְשֻׁפַּח
 So
 1,17
@@ -222,7 +222,7 @@ Qr
 
 שֻׁפְּכוּ).
 
-Hithpael
+Hithpa`el
 Imparfait 3 féminin singulier עָלַי
 תִּשְׁתַּפֵח נַפְשׁי
 Jb

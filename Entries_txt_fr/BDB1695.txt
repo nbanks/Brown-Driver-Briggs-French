@@ -70,7 +70,7 @@ objet personne Ex
 Dt 5,17 ; Lv 19,11 ; Jos 7,11 ; Pr 6,30 ; Pr 30,9 ; Ab 1,5 ; Za 5,3, comparer
 Infinitif absolu
 Os 4,2 ; Jr 7,9 et (c.
-Niphal) Ex 22,11
+Niph`al) Ex 22,11
 
 גנב לֵב = tromper
 Gn 31,20 ; Gn 31,26 cf
@@ -80,18 +80,18 @@ Di ; אֹתִי
 Gn 31,27
 id. ; d'un enlèvement soudain par la tempête, en comparaison Jb 21,18 figuré de la destruction du méchant Jb 27,20.
 
-Niphal
+Niph`al
 être volé, sujet chose גָּנֹב יִגָּנֵב
 Ex 22,11.
 
-Pi'el
+Pi`el
 dérober (transitif) וַיְגַגֵּב אבשׁלום אתלֵֿב
 2 S 15,6
 מְגַנְּבֵי דְּבָרַי
 Jr 23,30
 .
 
-Pu'al
+Pu`al
 être dérobé sujet personne גֻּנֹּב גֻּנַּבְתִּי
 Gn 40,15
 sujet chose וְגֻנַּב consécutif Ex 22,6
@@ -99,7 +99,7 @@ sujet chose וְגֻנַּב consécutif Ex 22,6
 Jb 4,12.
 יְגֻנָּ֑ב.
 
-Hithpa'el
+Hithpa`el
 aller furtivement, s'esquiver
 יִתְגַּנֵּב
 2 S 19,4

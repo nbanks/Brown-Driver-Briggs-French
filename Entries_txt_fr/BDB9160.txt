@@ -3,7 +3,7 @@ hébreu biblique
 
 תָּלָה
 verbe
-pendre, suspendre (hébreu tardif id. ; assyrien Piel
+pendre, suspendre (hébreu tardif id. ; assyrien Pi`el
 tullû
 , suspendre ; arabe
 [placeholder5817: Placeholders/5817.gif]
@@ -93,7 +93,7 @@ Est 7,9 ; Est 7,10 ;
 Est 8,7 ; Est 9,13 ;
 Est 9,25.
 
-Niphal
+Niph`al
 Parfait 3 pluriel שָׂרִים בְּיָדָם נִתְלוּ
 Lm 5,12
 des princes ont été pendus par les mains ; Imparfait 3 masculin pluriel וַיִּתָּלוּ
@@ -104,9 +104,9 @@ ils furent pendus à un arbre ; + 3 masculin singulier avec apocope וַיִּת
 וַיּתַֻּן voir
 נתן
 
-Hophal).
+Hoph`al).
 
-Piel
+Pi`el
 suspendre pour exposer, avec accusatif de chose : Parfait 3 pluriel
 תִּלּוּ
 Ez 27,10

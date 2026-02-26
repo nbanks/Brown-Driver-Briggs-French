@@ -102,7 +102,7 @@ un exilé
 ; 2 R
 24,14 ; Es 49,21 ; Am 6,7.
 
-Niphal
+Niph`al
 Parfait
 נִגְלָה
 1 S 3,21 +
@@ -411,7 +411,7 @@ Am 1,6 ;
 Am 5,27
 .
 
-Hophal
+Hoph`al
 Parfait
 הָגְלָה
 Est 2,6
@@ -431,7 +431,7 @@ Participe passif מֻגְלִים
 Jr 40,1
 emmené en exil.
 
-Hithpael
+Hithpa`el
 
 1.
 Imparfait

@@ -3,7 +3,7 @@ hébreu biblique
 
 [נָדַח] verbe
 pousser, chasser, bannir (surtout Deutéronome, Jérémie et plus tard) (hébreu tardif id.,
-séduire, Hiph, Niphal ; araméen נְדַח (rare) = hébreu biblique ; éthiopien
+séduire, Hiph, Niph`al ; araméen נְדַח (rare) = hébreu biblique ; éthiopien
 [placeholder3188: Placeholders/3188.gif] ; pousser ; arabe
 [placeholder3189: Placeholders/3189.gif] est pousser un navire vers le rivage) ; —
 
@@ -24,7 +24,7 @@ repousser, bannir suivi de מִןֿ
 2 S 14,14
 .
 
-Niphal
+Niph`al
 Parfait 3 féminin singulier נִדְּחָה
 Jb 6,13,
 etc. ; (Imparfait
@@ -114,7 +114,7 @@ Es 8,22
 
 poussé dans les ténèbres.
 
-Hiphil
+Hiph`il
 Parfait
 וְהִדִּיחַ consécutif 2 S 15,14
 הִדַּ֫חְתִּי
@@ -189,7 +189,7 @@ voir
 contraindre, forcer, sujet l'adultère (par flatterie), suivi d'accusatif Pr
 7,21 (|| הִטָּה).
 
-Hophal
+Hoph`al
 Participe
 מֻדָּח
 chassé, pourchassé, ׳

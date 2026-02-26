@@ -4,16 +4,16 @@ hébreu biblique
 
 [כָּלַם] verbe seulement
 
-Niphal,
-Hophal
+Niph`al,
+Hoph`al
 être humilié,
-Hiphil
-humilier (hébreu tardif Hiphil, id. ; araméen כְּלַם
+Hiph`il
+humilier (hébreu tardif Hiph`il, id. ; araméen כְּלַם
 Aphel, Ithpeel ; arabe
 [placeholder2537: Placeholders/2537.gif] est blesser ;
 [placeholder2538: Placeholders/2538.gif] aussi parler à, converser avec) ; —
 
-Niphal
+Niph`al
 Parfait 2 féminin singulier וְנִכְלַמְתְּ consécutif Jr 22,22 + 2 t. ; 1
 singulier נִכְלַמְתִּי
 Jr
@@ -76,7 +76,7 @@ Ps
 40,15 ; Ps
 70,3.
 
-Hiphil
+Hiph`il
 Parfait 3 masculin singulier suffixe הִכְּלִמוֺ
 1 S
 20,34 3 masculin pluriel suffixe הֶכְלַמְנוּם (Ges
@@ -105,7 +105,7 @@ Jb 11,3
 
 1.
 couvrir de honte = insulter, humilier, avec accusatif
-1 S 20,34 ; 1 S 25,7 (comparer Hophal 1 S 25,15) Rt
+1 S 20,34 ; 1 S 25,7 (comparer Hoph`al 1 S 25,15) Rt
 2,15 ;
 Jb 19,3
 humilier par la réprimande Jb 11,3
@@ -134,14 +134,14 @@ montrer de la honte
 Jr
 6,15 (|| בוֺשׁ).
 
-Hophal
+Hoph`al
 Parfait
 
 1. 1 pluriel לֹא הָכְלַמְנוּ
 1 S
 25,15
 nous n'avons pas été insultés, humiliés (comparer
-Hiphil
+Hiph`il
 1).
 
 2. 3 pluriel חָכְלְמוּ

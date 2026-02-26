@@ -69,7 +69,7 @@ Ez 7,12
 comparer Dn 10,2
 .
 
-Hiphil
+Hiph`il
 Parfait
 הֶאֱבַלְתִּי
 Ez 31,15

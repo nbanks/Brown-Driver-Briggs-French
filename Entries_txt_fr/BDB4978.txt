@@ -52,7 +52,7 @@ Jg 20,35 ;
 1 S 4,3 ; 2 Ch 13,15 ;
 2 Ch 14,11.
 
-Niphal
+Niph`al
 Parfait
 נִגַּף
 2 S 10,15
@@ -88,9 +88,9 @@ Dt 28,25
 . voir
 נָגַע
 
-Niphal
+Niph`al
 
-Hithpael
+Hithpa`el
 Imparfait
 יִתְנַגְּפוּ
 Jr

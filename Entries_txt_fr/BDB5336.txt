@@ -4,17 +4,17 @@ hébreu biblique
 [נָצַל_212_
 verbe pas au
 Qal ;
-Piel
+Pi`el
 dépouiller, piller ;
-Niphal
+Niph`al
 se délivrer, être délivré ;
-Hiphil
-arracher, délivrer (Ecclus Hiphil Participe מצלת
+Hiph`il
+arracher, délivrer (Ecclus Hiph`il Participe מצלת
 délivrant
 (Levi conjecture יציל
 
 Eccl
-40,24a)) ; hébreu tardif Hiphil = hébreu biblique ; araméen biblique Haphel id.
+40,24a)) ; hébreu tardif Hiph`il = hébreu biblique ; araméen biblique Haphel id.
 ; syriaque
 [placeholder3407: Placeholders/3407.gif]
 verser ; arabe
@@ -24,7 +24,7 @@ Frey ; éthiopien III.
 [placeholder3409: Placeholders/3409.gif]
 evulsum ou abruptum excidere e suo loco, Di^698^) ; —
 
-Niphal
+Niph`al
 Parfait 1 pluriel נִצַּלְנוּ
 Jr 7,10
 
@@ -68,7 +68,7 @@ Ha 2,9
 Ps
 69,15.
 
-Piel
+Pi`el
 Parfait 2 masculin pluriel נִצַּלְתֶּם
 Ex
 3,22
@@ -254,7 +254,7 @@ délivre-nous et couvre tous nos péchés ; probablement aussi
 
 Ps 119,170.
 
-Hophal
+Hoph`al
 Participe
 מֻצּל ; — כְּאוּד מֻצָּל מִשְּׂרֵטָה
 
@@ -264,7 +264,7 @@ Za
 3,2
 du feu.
 
-Hithpael
+Hithpa`el
 וַיִּתְנַצְּלוּ אֶתעֶֿדְיָם
 
 Ex 33,6 (

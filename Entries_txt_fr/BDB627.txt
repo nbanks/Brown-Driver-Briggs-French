@@ -39,7 +39,7 @@ Ps 50,5 + ;
 Infinitif absolu
 אָסֹף
 Jr 8,13 +
-(Hiphil, de סוף selon Ba^NB 73^) ;
+(Hiph`il, de סוף selon Ba^NB 73^) ;
 construit
 אֱסֹף
 2 R 5,7 + ;
@@ -54,7 +54,7 @@ Nb 19,10
 אֹסִפְךָ
 2 R 22,20 ;
 2 Ch 34,28
-(pointé אִֹספְךָ c.-à-d. Hiphil ; comparer Kö^l.c^
+(pointé אִֹספְךָ c.-à-d. Hiph`il ; comparer Kö^l.c^
 .) ; אֹסְפָם
 Ps 39,7
 passif pluriel construit אֲסֻפֵי
@@ -104,7 +104,7 @@ Pr 30,4
 rassembler un individu dans la compagnie d'autres : (a) objet personne surtout
 recueillir auprès de ses pères
 2 R 22,20
-(עַלאֲֿבֹתֶיךָ) = 2 Ch 34,28 (אֶלֿ ; tous deux || Niphal du même verbe q.
+(עַלאֲֿבֹתֶיךָ) = 2 Ch 34,28 (אֶלֿ ; tous deux || Niph`al du même verbe q.
 v. ) ; d'où aussi (b) amener, objet personne 1 S 14,52 (sur la forme ici voir
 Dr) 2 S 11,27 (tous deux suivis de אֶלֿ), l'association,
 la responsabilité, la protection étant impliquées ; aussi du bœuf ou de la brebis égarée Dt 22,2 (suivi de אֶלתּֿוֺח
@@ -143,10 +143,10 @@ Ez 34,29
 aussi Infinitif absolu
 Jr 8,13 ; So 1,2 (joint
 à הֵסִיף de סוף, voir Kö^i. 445^
-; considéré comme Infinitif absolu Hiphil par Ba^NB 73^
+; considéré comme Infinitif absolu Hiph`il par Ba^NB 73^
 voir ci-dessus)
 
-Niphal
+Niph`al
 Parfait
 נֶאֱסַף
 Nb 27,13

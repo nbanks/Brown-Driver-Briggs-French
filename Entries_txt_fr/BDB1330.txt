@@ -16,7 +16,7 @@ Imparfait
 נִבְרְכָה
 Ps 95,6
 בָּרוֺךְ (voir
-Piel) ; Participe passif
+Pi`el) ; Participe passif
 בָּרוּךְ
 Gn 9,26 + 70
 t. ; —
@@ -146,7 +146,7 @@ comparer Dt 28,5
 ; 1 S
 25,33 ; Pr 5,18.
 
-Niphal
+Niph`al
 Parfait
 נִבְרְכוּ
 Gn 12,3
@@ -155,7 +155,7 @@ Gn 12,3
 28,14 (
 J
 ) se bénir soi-même (comparer
-Hithpael).
+Hithpa`el).
 
 Piel_233_
 Parfait
@@ -480,7 +480,7 @@ ainsi que dans les langues sémitiques apparentées : 1 R 21,10 ; 1 R 21,13
 2,9 ; Ps
 10,3.
 
-Pual
+Pu`al
 Imparfait
 יְבֹרַךְ
 2 S 7,29
@@ -529,7 +529,7 @@ Pr 22,9
 
 .
 
-Hiphil
+Hiph`il
 וַיַּבְרֵךְ חַגְּמַלִּים
 et il fit agenouiller ses chameaux
 Gn
@@ -538,7 +538,7 @@ Gn
 J
 ).
 
-Hithpael
+Hithpa`el
 הִתְבָּרֵךְ
 Dt
 29,18 + 3 t. ; Imparfait

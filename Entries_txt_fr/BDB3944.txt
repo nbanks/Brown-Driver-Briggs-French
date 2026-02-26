@@ -17,7 +17,7 @@ DHM^ZMG 1875, 599, phénicien^
 כון
 être (souvent)) ; —
 
-Niphal
+Niph`al
 Parfait (sur 3 masculin singulier voir Participe ci-dessous), 3 féminin singulier
 נָכּ֫וֺנָה
 1 R 2,46 3
@@ -44,7 +44,7 @@ Kt
 (
 Qr
 
-הָכִינוּ Hiphil) ; Participe
+הָכִינוּ Hiph`il) ; Participe
 נָכוֺן
 Gn 41,32 + (dans
 Ps 93,2 et peut-être
@@ -131,7 +131,7 @@ selon (ce qui est) certain, = certainement, assurément
 (voir Dr).
 
 2. au sens moral, être dirigé correctement, de voies Pr 4,26 ; Ps 119,5
-(comparer Hiphil 3
+(comparer Hiph`il 3
 ) ; être fixé correctement, ferme
 נָכוֺן
 לִבִּי
@@ -171,7 +171,7 @@ Ez 38,7
 Kt
 (
 Qr
-Hiphil) ; participe comme adjectif = préparé, prêt
+Hiph`il) ; participe comme adjectif = préparé, prêt
 ,
 souvent avec הָוָה, de personnes Ex 19,11 ; Ex 19,15 ; Ex 34,2 ; Jos 8,4 (tous
 J
@@ -195,7 +195,7 @@ comme encens) ; être arrangé, ordonné, du service du temple 2 Ch 29,35 ; 2 Ch
 ;
 2 Ch 35,16.
 
-Hiphil
+Hiph`il
 Parfait
 הֵכִין
 Jos 4,4 + ;
@@ -476,7 +476,7 @@ arranger, ordonner
 (de vases sacrés ; + הִקְדַּשְׁנוּ), 2 Ch 35,20 (du
 temple).
 
-Hophal
+Hoph`al
 Parfait
 הוּכַן
 Es
@@ -647,7 +647,7 @@ B
 
 et d'autres
 
-Hithpoʿel
+Hithpo`el
 Imparfait ; être établi, d'une maison, 3 masculin
 singulier
 יִתְכּוֺנָ֑ן

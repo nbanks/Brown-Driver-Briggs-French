@@ -23,7 +23,7 @@ Dl^HWB 244^ ; arabe
 sauter, bondir, dialecte himyarite être assis,
 Lane^2919^ ; éthiopien
 [placeholder2338: Placeholders/2338.gif] II. 1 secum cohabitare facere, épouser, consommer le mariage, comparer
-Hiphil
+Hiph`il
 4) —
 
 Qal
@@ -619,13 +619,13 @@ est תישׁבנה,
 Qr
 
 תָּשׁוֺבְנָה ; Co
-תושׁבנה, c.-à-d. Niphal תִּוָּשַׁבְנָה (comparer Ez 36,10), ou Hophal
+תושׁבנה, c.-à-d. Niph`al תִּוָּשַׁבְנָה (comparer Ez 36,10), ou Hoph`al
 
 תּוּשַׁבְנָה (comparer Es 44,26) ; du palais, וְאַרְמוֺן עַלמִֿשְׁפָּטוֺ יֵשֵׁב
 Jr 30,18
 .
 
-Niphal
+Niph`al
 Parfait 3 féminin singulier נוֺשָׁ֑בָה
 Jr 6,8 3
 pluriel וְנָֽשְׁבוּ consécutif Ez 36,10, נוֺשָׂ֑בוּ
@@ -662,7 +662,7 @@ Ez 26,17 voir ci-dessus ; Ez 35,9 voir
 Qal
 4.
 
-Piʿel
+Pi`el
 Parfait 3 masculin pluriel וְיִשְּׁבוּ טִירוֺתֵיהֶם בָּ֑ךְ
 Ez
 25,4
@@ -677,7 +677,7 @@ Co
 וְיֵשְׁבוּ
 habiter.
 
-Hiphil
+Hiph`il
 Parfait 3 masculin singulier השִׁיב
 
 Esd 10,14, suffixe הוֺשַׁיבַנִי
@@ -815,7 +815,7 @@ Esd 10,17 ; Esd 10,18 ; Ne 13,27 de même השִׁיבוּ
 
 Ne 13,23.
 
-Hophal
+Hoph`al
 Parfait
 וְהוּשַׁבְתֶּם לְבַדְּכֶם בְּקֶרֶב הָאָ֑רֶץ
 Es

@@ -3,7 +3,7 @@ hébreu biblique
 
 II. [נָעַר] verbe
 secouer, faire tomber en secouant (hébreu tardif נָעַר
-secouer, agiter, surtout Piel, Niphal ;
+secouer, agiter, surtout Pi`el, Niph`al ;
 
 ᵑ7
 
@@ -36,7 +36,7 @@ participe secoué, vidé
 Ne 5,13 (c.-à-d.
 dépouillé de ses biens) ; faire tomber (des feuilles) Es 33,9 (comparer || proposition).
 
-Niphal
+Niph`al
 Parfait 1 singulier נַנְעַ֫רְתִּי כָאַרְבֶּה
 Ps 109,23
 
@@ -46,10 +46,10 @@ Jb 38,13
 saisir les extrémités de la terre pour que les méchants en soient secoués ; 1 singulier
 אִנָּעֵר
 Jg 16,20
-je me secouerai (libre ? comparer Hithpael et GFM
+je me secouerai (libre ? comparer Hithpa`el et GFM
 ).
 
-Piel
+Pi`el
 Imparfait 3 masculin singulier jussif יְנַעֵר
 Ne 5,13
 ainsi Dieu secoue entièrement tout homme hors de (מִן
@@ -64,7 +64,7 @@ précipita les Égyptiens dans (ב) la mer, = Parfait
 Ps 136,15
 (aussi avec accusatif + ב).
 
-Hithpael
+Hithpa`el
 Impératif féminin singulier הִתְנַעֲרִי מֵעָפָר
 Es 52,2
 

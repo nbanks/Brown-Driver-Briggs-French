@@ -4,7 +4,7 @@ hébreu biblique
 [נָקַם] verbe
 venger, exercer la vengeance (
 
-להנקם נקמי אויב (Niphal + accusatif de sens apparenté au verbe) ; נקם, nom
+להנקם נקמי אויב (Niph`al + accusatif de sens apparenté au verbe) ; נקם, nom
 aussi Qo 12,6
 (comparer Dt 32,41
 ),
@@ -113,7 +113,7 @@ Lv 19,18
 H
 ).
 
-Niphal
+Niph`al
 Parfait 1 singulier נִקַּ֫מְתִּי
 Jg 15,7 ;
 1 S 14,24
@@ -180,7 +180,7 @@ Ez
 2.
 subir la vengeance (de la loi contre le meurtre) Ex 21,20 (
 E
-). Piel
+). Pi`el
 Parfait 1 singulier נִקַּ֫מְתִּי
 2 R 9,7 ;
 Jr
@@ -196,7 +196,7 @@ Jr
 
 exercer la vengeance pour toi.
 
-Hophal
+Hoph`al
 Imparfait
 יֻקַּם
 Gn 4,24
@@ -207,7 +207,7 @@ Ex
 Gn 4,15
 être vengé, vengeance être prise (pour le sang).
 
-Hithpael
+Hithpa`el
 Imparfait
 תִּתְנַקֵּם
 Jr 5,9

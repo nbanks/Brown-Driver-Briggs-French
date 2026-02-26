@@ -1,0 +1,37 @@
+BDB1032 html  1 issues after 3 retries: French text missing from HTML: "comparer LagOnom. 294, 2nd ed. 247."
+BDB1072 html  1 issues after 3 retries: missing Hebrew/Aramaic: ָ  ה
+BDB1122 html  2 issues after 3 retries: missing Hebrew/Aramaic: בָּלְתָה; missing Hebrew/Aramaic: ַבּלּוֺתֹּי
+BDB1362 html  2 issues after 3 retries: French text missing from HTML: "être doux, agréable, Pael"; French text missing from HTML: "Pael rendre fin, beau"
+BDB7162 html  1 issues after 3 retries: French text missing from HTML: "crier, pousser des cris, appeler au secours, habituellement avec אֶל personne..."
+BDB2022 html  1 issues after 3 retries: French text missing from HTML: "porte du sud 40,[27] ; Ez 40,28 comparer Co ci-dessus, Ez 40,44"
+BDB6072 html  60 issues after 3 retries: missing Hebrew/Aramaic: עֹלָתָה; missing Hebrew/Aramaic: הִקְרִיב ע; missing Hebrew/Aramaic: הקטְיר ע; missing Hebrew/Aramaic: הביא ע; missing Hebrew/Aramaic: עַוְלָה; ... (+55 more)
+BDB5042 html  1 issues after 3 retries: French text missing from HTML: "SS ; comparer hébreu tardif נוה Niphal se montrer"
+BDB7772 html  1 issues after 3 retries: French text missing from HTML: "θάμβος, résultat de la paresse (על et personne omis) Pr 19,15 figuré pour"
+BDB242 html  1 issues after 3 retries: French text missing from HTML: "We & RSOTJC Lect x. N 4"
+BDB5302 html  LLM: anglais non traduit « roi » (devrait être « id. » ou « idem ») et « figure » (devrait être « figure » ou « métaphore ») — le texte français contient des anglicismes ou des traductions approximatives (« roi » pour « id. » dans le contexte de Ezekiel, « figure » pour « figurative ») qui ne correspondent pas aux conventions françaises standard pour ce type de lexique. De plus, « id. » est utilisé en français mais « roi » est clairement une erreur de traduction pour « id. » (idem).
+BDB6172 html  1 issues after 3 retries: French text missing from HTML: "ע absolu Dt 24,19 ; Lv 23,11 ; Lv 23,12 ; Lv 23,15, construit Lv 23,10 figuré..."
+BDB9082 html  2 issues after 3 retries: French text missing from HTML: ") l'homme ouvert de l'œil [mental], ainsi"; French text missing from HTML: "Di et autres rendent fermé de l'œil [corporel]"
+BDB1282 html  1 issues after 3 retries: missing Hebrew/Aramaic: יַעֲלוּ הָרִים יֵרְדוּ בְקָעוֺת
+BDB4982 html  1 issues after 3 retries: French text missing from HTML: "naga&198;šu"
+BDB1662 html  1 issues after 3 retries: French text missing from HTML: "& manuscrits Γοειμ τῆς Γελγελ) ; Di comparer Es 8,23."
+BDB7792 html  2 issues after 3 retries: French text missing from HTML: "Hiphil"; French text missing from HTML: "Hophal"
+BDB9522 html  1 issues after 3 retries: French text missing from HTML: "vivant (hébreu biblique id.) ; —"
+BDB2872 html  1 issues after 3 retries: French text missing from HTML: "ainsi, figuré, de la vigne, faire tort, c.-à-d. ne pas nourrir, tuer כַּגֶּפֶן"
+BDB9762 html  1 issues after 3 retries: missing lookup/abbreviation: Euseb
+BDB6382 html  1 issues after 3 retries: French text missing from HTML: "un habit (complet) (disposé en ordre),"
+BDB2332 html  1 issues after 3 retries: French text missing from HTML: "plaie (comme nécessitant qu'on en exprime la matière) — figuré de la blessure"
+BDB7562 html  1 issues after 3 retries: French text missing from HTML: "la lumière (disent-ils) est proche (s'éloignant) des ténèbres"
+BDB6352 html  1 issues after 3 retries: French text missing from HTML: "peut-être tes marchandises (diverses) ("
+BDB7762 html  3 issues after 1 retries: French text missing from HTML: "Ithpeel souvent pour הָמָה, comme Ps 46,6, שָׁאָה"; French text missing from HTML: "ibid.) ; mais syriaque habituellement percevoir, ainsi hébreu tardif Hiphil, ..."; French text missing from HTML: "Hithpael se jeter impétueusement sur) ; —"
+BDB4302 html  LLM: accent manquant sur majuscule « Ex » (devrait être « Ex » — pas d'accent attendu ici, mais vérification : « Exod » → « Ex » est correct. Vérifions les autres erreurs.)
+BDB1052 html  LLM: accent manquant sur majuscule «ïe » (devrait être « Ésaïe »)
+BDB1072 html  2 issues after 3 retries: missing Hebrew/Aramaic: ָ  ה; French text missing from HTML: "Abel de Beth-Maaka ; avec ָ ה locatif ; הַמַּעֲכָה"
+BDB1122 html  LLM: accent manquant sur majuscule « Shéol » (devrait être « Shéol » ou « Sheol » selon la convention, mais le texte français original ne porte pas d'accent sur le S majuscule, ce qui est acceptable pour un terme hébraïque translittéré, mais vérifiez si « Shéol » est attendu avec accent. Cependant, le texte fourni dit « le Shéol », ce qui est correct. L'erreur principale est ailleurs.)
+BDB5062 html  LLM: contenu tronqué — le texte français ne couvre qu'une fraction de l'entrée originale (manque "adjectif [d'un peuple]" dans le HTML)
+BDB4672 html  2 issues after 3 retries: French text missing from HTML: "Hiphil"; French text missing from HTML: "Hophal"
+BDB5842 html  LLM: accent manquant sur majuscule «ïe » (devrait être « Ésaïe »)
+BDB4542 html  12 issues after 3 retries: missing Hebrew/Aramaic: יַמְטִיר; French text missing from HTML: "GerberVerb. denominative 195 s., comparer Buhl) ; —"; French text missing from HTML: "אֶרֶץ (= pays) Ps 60,4 comparer Es 24,19 (voir ci-dessous Hithpael)"; French text missing from HTML: "Niphal"; French text missing from HTML: "; mais le sens du Niphal ne convient pas ;"; ... (+7 more)
+BDB1212 html  8 issues after 3 retries: English book name in <ref> display text: "Prov 12,4" (in <ref ref="Prov 12:4">); English book name in <ref> display text: "Prov 31,11" (in <ref ref="Prov 31:11">); English book name in <ref> display text: "Prov 31,23" (in <ref ref="Prov 31:23">); English book name in <ref> display text: "Prov 31,28" (in <ref ref="Prov 31:28">); French text missing from HTML: "_1._ avec DlGram. Glossary ; arabe"; ... (+3 more)
+BDB4532 html  LLM: accent manquant sur majuscule « E » (devrait être « É ») dans « É » (devrait être « É ») — le texte français contient « E » au lieu de « É » pour la référence à la source E (Élohist). De plus, la ponctuation dans les références bibliques utilise des deux-points au lieu de virgules dans certains cas (ex: « Dt 22,23 » est correct, mais « 1 S 18,25 » devrait être « 1 S 18,25 » — en fait c'est correct, mais il faut vérifier la cohérence). Cependant, l'erreur principale est l'absence d'accent sur « É » dans « É » (devrait être « É »).
+BDB2472 html  LLM: contenu sévèrement tronqué — le texte français ne couvre qu'une fraction de l'entrée originale (manque les références bibliques complètes, les notes de bas de page, les marqueurs de vérification, et une grande partie du contenu des sens 1, 2 et 3)
+BDB9782 html  LLM: accent manquant sur majuscule « Esd » (devrait être « Esdras » ou « Esd » avec accent si applicable, mais ici « Esd » est correct, vérification : « Esd » est l'abréviation standard pour Esdras en français biblique, pas d'accent requis. Vérification des autres erreurs : « SS » est une abréviation savante, « Cowley » nom propre, « RES » sigle, « S-C » sigle, « MT » sigle, « ᵑ0 » sigle manuscrit, « καὶ νῦν » grec, « 2 Macc » abrégé biblique. Aucune erreur évidente détectée dans le texte français fourni. Le texte semble correct.)

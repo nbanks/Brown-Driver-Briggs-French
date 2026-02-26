@@ -1,0 +1,35 @@
+BDB1084 html  1 issues after 3 retries: French text missing from HTML: "LagOnom. 232. 2nd ed. 246 CondHeth & Moab 142 s."
+BDB1154 html  1 issues after 3 retries: French text missing from HTML: "Pual"
+BDB5394 html  1 issues after 3 retries: French text missing from HTML: "reproche, figuré)."
+BDB8204 html  1 issues after 3 retries: French text missing from HTML: "garder rancune, nourrir de l'animosité, contre (hébreu tardif שָׂטַם Niphal,"
+BDB8794 html  9 issues after 3 retries: French text missing from HTML: "laisser tomber (hébreu tardif id., desserrer, détacher, retirer, Niphal"; French text missing from HTML: "glisser ; araméen שְׁמַטּ"; French text missing from HTML: "tirer l'épée, tirer ou arracher ; arabe"; French text missing from HTML: "masculin singulier suffixe וַיִּשְׁמְטוּהָ (ו final dittographie) שִׁמְטוּהָו"; French text missing from HTML: "2 R 9,33 il"; ... (+4 more)
+BDB3374 html  1 issues after 3 retries: French text missing from HTML: "un fils de Mézahab, c.-à-d. nom propre, masculin) = 1 Ch 1,50,"
+BDB4224 html  17 issues after 3 retries: French text missing from HTML: "Ethpeel Aphel), voir PS"; French text missing from HTML: "(mais lire Hiphil, q.v., ainsi"; French text missing from HTML: "Niphal Imparfait) ; Participe"; French text missing from HTML: "כ Ps Jr 27,2 ; Es 3,8 ; Es 31,3 (tous deux || נפל) ; de אֱמֶת"; French text missing from HTML: "en métaphore d'angoisse, détresse Es 59,10, Ps"; ... (+12 more)
+BDB5744 html  1 issues after 3 retries: French text missing from HTML: ") ; figuré de l'homme, הַצְּדָקָה"
+BDB3774 html  501 issues after 3 retries: missing Hebrew/Aramaic: ישְׁבֶיהָ; missing Hebrew/Aramaic: וַהֲשִׁבֹתִים; missing Hebrew/Aramaic: מְכוֺן שׁ; missing Hebrew/Aramaic: יוֺשְׁבֵי חָ֑דֶל; missing Hebrew/Aramaic: תּוּשַׁבְנָה; ... (+496 more)
+BDB7804 html  1 issues after 3 retries: French text missing from HTML: "construit רוּם עֵינַיִם figuré d'arrogance"
+BDB5514 html  1 issues after 3 retries: French text missing from HTML: "conjecture de Wkl sur סוא ="
+BDB4294 html  171 issues after 3 retries: missing Hebrew/Aramaic: רוּחַ; missing Hebrew/Aramaic: נֶפֶשׁ; missing Hebrew/Aramaic: אמר בל; missing Hebrew/Aramaic: דבּר; missing Hebrew/Aramaic: רָם ל; ... (+166 more)
+BDB6594 html  1 issues after 3 retries: French text missing from HTML: "פ absolu Es 41,7 ; Jr 23,29 construit Jr 50,23 figuré de Babylone comme destr..."
+BDB404 html  1 issues after 3 retries: French text missing from HTML: "couteau (comme instrument tranchant, ou instrument pour diviser, rendre petit,"
+BDB8734 html  1 issues after 3 retries: missing Hebrew/Aramaic: שֹׁלְמָיו
+BDB4494 html  3 issues after 3 retries: missing Hebrew/Aramaic: וְאֶמְאסְךָ; French text missing from HTML: "30,1 les idoles Es 31,7, le mal Ps 36,5, la connaissance Os 4,6, la תורה divine"; French text missing from HTML: "les hommes rejettent le mal Es 7,15 ; Es 7,16, la תורה divine"
+BDB2784 html  8 issues after 3 retries: French text missing from HTML: "être profane, désacralisé (aussi Piel Hiphil transitif), comparer araméen חֲלַל"; French text missing from HTML: "Pael est purifier,"; French text missing from HTML: "Aphel est profaner) —"; French text missing from HTML: "Niphal"; French text missing from HTML: "Piel"; ... (+3 more)
+BDB2464 html  215 issues after 3 retries: missing Hebrew/Aramaic: בית אבותם וְזַרְעָם; missing Hebrew/Aramaic: מַשְׁחִיתִים; missing Hebrew/Aramaic: צַדִּיקִים; missing Hebrew/Aramaic: שָֿׁ֑קֶר; missing Hebrew/Aramaic: בית; ... (+210 more)
+BDB8314 html  1 issues after 3 retries: French text missing from HTML: "nom [masculin] peut-être ouvrage tressé ou natté en araméen (comparer alors a..."
+BDB174 html  2 issues after 3 retries: missing lookup/abbreviation: Isa; French text missing from HTML: ") côte, région (contracté de אֱוִי ainsi"
+BDB3534 html  2 issues after 3 retries: French text missing from HTML: "raisins (noirs), voir HomZMG 1889, 654 ; sabéen וין"; French text missing from HTML: "1 S 1,15 ; Mi 2,11 ; Es 24,9 ; Es 28,7 (deux fois dans le"
+BDB1944 html  2 issues after 3 retries: French text missing from HTML: "Di (sur la forme doly¹w comparer Ew§ 180 a & Anm. 3, aussi"; French text missing from HTML: "Sta§ 52 a) ; figuré de la prospérité d'Israël."
+BDB4364 html  1 issues after 3 retries: French text missing from HTML: "est enveloppée dans un vêtement (de l'épée de Goliath) ; figuré de couverture..."
+BDB4244 html  1 issues after 3 retries: French text missing from HTML: "transformer en blocs ou masses fermes, rendre compact ; Frey aussi lier, empr..."
+BDB3324 html  1 issues after 3 retries: missing lookup/abbreviation: Joseph, 3 ed. Niese
+BDB2204 html  3 issues after 3 retries: missing lookup/abbreviation: Isa; French text missing from HTML: "II. הֵן (הֶןֿ"; French text missing from HTML: "comme particule"
+BDB4804 html  1 issues after 3 retries: missing lookup/abbreviation: Baer's
+BDB6904 html  108 issues after 3 retries: missing Hebrew/Aramaic: אֲדֹנָי י; missing Hebrew/Aramaic: האדון י; missing Hebrew/Aramaic: צְבָאִים; missing Hebrew/Aramaic: אָדוֺן; missing Hebrew/Aramaic: צְבֹיִים; ... (+103 more)
+BDB2694 html  219 issues after 3 retries: missing Hebrew/Aramaic: חִטְּאוֺ; missing Hebrew/Aramaic: את אשׁר ח; missing Hebrew/Aramaic: חטאת; missing Hebrew/Aramaic: אֶלהַֿשַּׂעְרָה וְלֹא יַחֲטִא; missing Hebrew/Aramaic: חִטְּאוּ; ... (+214 more)
+BDB1084 html  1 issues after 3 retries: French text missing from HTML: "LagOnom. 232. 2nd ed. 246 CondHeth & Moab 142 s."
+BDB6114 html  LLM: accent manquant sur majuscule «ïe » (devrait être « Ésaïe »)
+BDB5674 html  LLM: accent manquant sur majuscule « Lex » (devrait être « Lex » — pas d'erreur ici, mais vérification : « Buhl » est correct, « Lex » est une abréviation savante, pas un nom propre nécessitant accent. Vérification des autres erreurs : « répandus » dans le texte français est correct, mais dans la sortie précédente j'avais écrit « répus » — erreur de frappe. De plus, le texte français dit « pousse supplémentaire » mais la sortie précédente avait « supplémentaire pousse » — ordre des mots inversé. Enfin, le texte français dit « √ I. ספח » mais la sortie précédente avait « √ I. <bdbheb>ספח</bdbheb> » — correct. Vérification des références : « 2 R 19,29 » et « Es 37,30 » sont corrects. Vérification de la ponctuation : espace avant « ; » et « : » — correct. Vérification des balises : toutes les balises sont présentes. Vérification du contenu manquant : le texte français dit « pousse de grains tombés » mais la sortie précédente avait « pousse de grains tombés » — correct. Le problème principal est l'ordre des mots dans « supplémentaire pousse » vs « pousse supplémentaire » et la faute de frappe « répus » vs « répandus ». Je vais corriger ces erreurs.
+BDB5914 html  LLM: accent manquant sur majuscule «ïe » (devrait être « Ésaïe »)
+BDB304 html  LLM: accent manquant sur majuscule « E » (devrait être « Ésaïe ») — correction nécessaire dans le texte français fourni pour les noms propres.
+BDB124 html  1 issues after 3 retries: French text missing from HTML: "3. piédestaux (en métal), bases, ou socles dans lesquels les tenons"

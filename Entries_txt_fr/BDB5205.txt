@@ -2,7 +2,7 @@
 hébreu biblique
 
 I. [נָכַר] verbe (pas au
-Qal) considérer, reconnaître (hébreu tardif Hiphil connaître, être familier avec
+Qal) considérer, reconnaître (hébreu tardif Hiph`il connaître, être familier avec
 ;
 
 ᵑ7
@@ -17,7 +17,7 @@ arabe
 [placeholder3319: Placeholders/3319.gif]
 rusé Lane^2850 a^. —
 
-Niphal
+Niph`al
 Parfait 3 masculin pluriel לֹא
 נִכְּרוּ
 Lm 4,8
@@ -35,7 +35,7 @@ Jb 21,29
 
 ne reconnaissez-vous pas leurs signes.
 
-Hiphil
+Hiph`il
 Parfait
 הִכִּיר
 Dt 33,9

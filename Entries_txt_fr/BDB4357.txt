@@ -2,7 +2,7 @@
 hébreu biblique
 
 [לוּז] verbe (en poésie, surtout littérature sapientiale) se détourner, s'écarter
-(hébreu tardif Niphal, Hiphil ; arabe
+(hébreu tardif Niph`al, Hiph`il ; arabe
 [placeholder2777: Placeholders/2777.gif]
 avoir recours à, se réfugier dans) ; —
 
@@ -12,9 +12,9 @@ Imparfait
 Pr 3,21
 qu'ils ne s'écartent pas (c.-à-d. la sagesse saine, etc., si vera l., comparer
 VB
-) de tes yeux (voir Hiphil).
+) de tes yeux (voir Hiph`il).
 
-Niphal
+Niph`al
 Participe
 נָלוֺז
 Pr 3,32 ;
@@ -38,7 +38,7 @@ comparer De
 Che
 Di.
 
-Hiphil
+Hiph`il
 Imparfait
 אַליַֿלִּיזוּ מֵעֵינֶיךָ
 Pr 4,21

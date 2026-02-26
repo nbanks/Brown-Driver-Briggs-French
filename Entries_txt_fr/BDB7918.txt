@@ -114,7 +114,7 @@ Est 8,10 ;
 Est 8,14
 suffixe de char Jr 51,21b Ag 2,22.
 
-Hiphil
+Hiph`il
 Parfait 2 masculin singulier הִרְכַּבְתָּ
 Ps 66,12,
 etc. ; Imparfait 3 masculin singulier וַיַדְכֵּב

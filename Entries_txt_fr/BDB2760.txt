@@ -28,7 +28,7 @@ Es 38,9
 חֲלוֺתִי
 Ps 77,11
 comparer ci-dessous
-Piel ; חֲלוֺתָם
+Pi`el ; חֲלוֺתָם
 Ps 35,13
 Participe
 חֹלֶה
@@ -94,7 +94,7 @@ Ct 5,8
 ) du peuple, insensible aux châtiments de ׳
 י ; tu les as frappés, mais ils ne sont pas malades
 (comparer
-Niphal
+Niph`al
 Am 6,6
 ) ; de la maladie de l'esprit dans
 
@@ -116,7 +116,7 @@ Qo 5,15 — sur Jr 4,31 voir
 חול
 .
 
-Niphal
+Niph`al
 Parfait 1 singulier נֶחֱלֵיתִי
 Dn 8,27
 3 pluriel נֶחְלוּ
@@ -152,7 +152,7 @@ Jr
 14,17 ; Jr 30,12 aussi (
 מַכָּה omis) Es 17,11.
 
-Piel
+Pi`el
 Parfait
 חִלָּה
 rendre malade, avec accusatif interne +
@@ -165,17 +165,17 @@ Infinitif Qal ; ma maladie, ainsi Bi
 
 Che (d'autres dérivent de חלל
 ma blessure, voir De). —
-Pour d'autres formes du Piel voir II.
+Pour d'autres formes du Pi`el voir II.
 חלה
 .
 
-Pual
+Pu`al
 Parfait
 être rendu faible, 2 masculin singulier חֻלֵּיתָ
 Es
 14,10.
 
-Hithpael
+Hithpa`el
 Imparfait
 וַיִּתְחָ֑ל
 2 S 13,6
@@ -195,7 +195,7 @@ maladie simulée du corps
 2 S 13,6
 .
 
-Hiphil
+Hiph`il
 Parfait 3 masculin singulier הֶחֱלִי
 Es
 53,10 1 singulier הֶחֱלֵתִי
@@ -215,7 +215,7 @@ ta blessure
 הַכּוֺתֶ֑ךָ
 Mi 6,13
 (comparer
-Na 3,19, Niphal) ; objet (implicite) une
+Na 3,19, Niph`al) ; objet (implicite) une
 personne, חָפֵץ דַּכְּאוֺ
 ׳
 וי
@@ -253,7 +253,7 @@ Hi-St qui lisent
 
 ils commencent la journée par la fièvre du vin).
 
-Hophal
+Hoph`al
 Parfait
 être rendu malade = blessé
 הָֽחָלֵיתִי

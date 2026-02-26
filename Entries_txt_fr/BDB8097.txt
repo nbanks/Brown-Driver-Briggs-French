@@ -30,12 +30,12 @@ Ex 30,35 ;
 Ex 37,29 ;
 Qo 10,1.
 
-Pual
+Pu`al
 Participe masculin pluriel מְרֻקָּחִים
 2 Ch 16,14
 mélangé en onguent.
 
-Hiphil
+Hiph`il
 Infinitif absolu
 הַרְקַח
 הַמֶּרְקָחָה

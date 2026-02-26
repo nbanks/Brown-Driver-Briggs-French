@@ -89,7 +89,7 @@ Pr 29,24
 diviser = piller le temple, suivi d'accusatif 2 Ch 28,21
 (voir Be).
 
-Niphal
+Niph`al
 Imparfait
 יֵחָלֵק
 Nb 26,55
@@ -105,7 +105,7 @@ Nb 26,53
 ; Nb
 26,56
 וֶַיּחָלְקֵם (Baer) 1 Ch 23,6 ; 1 Ch 24,3 comparer Be et ci-dessous
-Piel ; —
+Pi`el ; —
 
 1. réfléchi, se diviser
 Gn 14,15
@@ -129,9 +129,9 @@ Jb
 3. transitif assigner, distribuer
 1 Ch 23,6
 ;
-1 Ch 24,3, mais le transitif Niphal est improbable, voir ci-dessous
+1 Ch 24,3, mais le transitif Niph`al est improbable, voir ci-dessous
 
-Piel
+Pi`el
 Parfait 3 pluriel חִלְּקוּ Jl 1 Ch 4,2
 וְחִלַּקְתֶּם consécutif Ez 47,21 suffixe חִלְּקָם
 Lm 4,16
@@ -146,7 +146,7 @@ Gn
 1 Ch
 23,6 ;
 1 Ch 24,3 (voir ci-dessus
-Niphal), etc. ; Impératif
+Niph`al), etc. ; Impératif
 חַלֵּק
 Jos
 13,7
@@ -191,7 +191,7 @@ disperser, suivi d'accusatif Gn 49,7 (poème) (||
 הפיץ),
 Lm 4,16.
 
-Pual
+Pu`al
 Parfait
 חֻלַּק
 Es
@@ -202,12 +202,12 @@ Am 7,17
 
 être divisé, de la terre Am 7,17 butin Es 33,23 ; Za 14,1.
 
-Hithpael
+Hithpa`el
 Parfait
 וְהִתְחַלְּקוּ consécutif Jos 18,5
 diviser (la terre) entre eux.
 
-Hiphil
+Hiph`il
 Infinitif
 לַחֲלִק
 

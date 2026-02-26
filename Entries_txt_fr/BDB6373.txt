@@ -4,7 +4,7 @@ hébreu biblique
 [עָרָה] verbe
 être nu, dénudé (arabe
 [placeholder4068: Placeholders/4068.gif]
-être nu ; phénicien ערה [Piel] mettre à nu (comparer
+être nu ; phénicien ערה [Pi`el] mettre à nu (comparer
 Bloch
 Lzb) ; assyrien
 ûru
@@ -17,7 +17,7 @@ hébreu biblique,
 עִירְיְתָא ; syriaque
 [placeholder4069: Placeholders/4069.gif] dans les lexiques) ; —
 
-Piel
+Pi`el
 Parfait 3 masculin singulier עֵרָה
 Es 22,6 ; So 2,14
 Imparfait 3 masculin singulier יְעָרֶה
@@ -53,7 +53,7 @@ répandre, אַלתְּֿעַר נַפְּשִׁי
 Ps 141,8
 (c.-à-d. tuer).
 
-Hiphil
+Hiph`il
 Parfait 3 masculin singulier ׃ הֶעֱרָה
 
 1.
@@ -68,13 +68,13 @@ Es 53,12
 Qal
 3).
 
-Niphal passif de
-Hiphil
+Niph`al passif de
+Hiph`il
 2 : 3 masculin singulier יֵעָרֶה עָלֵינוּ רוּחַ
 Es
 32,15 (figuré) jusqu'à ce qu'un esprit d'en haut soit répandu sur nous.
 
-Hithpael
+Hithpa`el
 
 1.
 Imparfait 2 féminin singulier תִּתְעָרִ֑י

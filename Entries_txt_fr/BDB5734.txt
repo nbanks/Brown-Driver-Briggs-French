@@ -31,7 +31,7 @@ esclave, adorateur ; sabéen עבד
 id.
 DHM^Südar. Alt. p. 18^ ;
 Gerber^Verb. Denom. 14 ss.^ pense que être esclave, servir (Qal) et
-réduire en esclavage (Hiphil) sont dénominatifs, comparer aussi Nö^ZMG xl
+réduire en esclavage (Hiph`il) sont dénominatifs, comparer aussi Nö^ZMG xl
 (1886), 741^) ; —
 
 Qal_272_
@@ -59,7 +59,7 @@ Ex 3,12,
 תַּעֲבֹד֑וּן
 Jos 24,15, +
 99 t. Imparfait ; (תָּעָבְדֵם, נָָֽעָבְדֵם voir
-Hophal) ; Impératif
+Hoph`al) ; Impératif
 עֲבֹד
 1 S 26,19
 suffixe עָבְדֵהוּ
@@ -299,7 +299,7 @@ accusatif omis Nb 4,24 ; Nb 4,26 ; Nb 4,37 ; Nb 4,41 ; Nb 8,15 (mais
 
 עבדה), Nb 8,25 ; Nb 18,7.
 
-Niphal
+Niph`al
 Parfait 3 masculin singulier נֶעְבָּ֑ד
 Qo 5,8 2
 masculin pluriel נֶעֱבַדְתֶּם
@@ -320,7 +320,7 @@ cultivé (Hi) ; un roi qui se fait
 serviteur du champ (voué à l'agriculture), De^voir
 Commentaires^, surtout De.
 
-Pual
+Pu`al
 Parfait 3 masculin singulier עֻבַּד
 Dt 21,3
 ; Es
@@ -331,7 +331,7 @@ fait travailler les captifs
 Es 14,3
 .
 
-Hiphil
+Hiph`il
 Parfait 3 masculin singulier הֶעֱבִיד
 
 Ez 29,18 2 masculin singulier suffixe הֶעֱבַדְתַּ֫נִי
@@ -363,7 +363,7 @@ P
 à ; sur ces deux voir
 עבר
 
-Hiphil vers la fin) ; faire servir, d'un service
+Hiph`il vers la fin) ; faire servir, d'un service
 militaire contre, avec accusatif + (על)אל
 
 Ez 29,18
@@ -378,13 +378,13 @@ faire servir comme sujets, avec 2 accusatifs Jr 17,4
 voir
 עבר
 
-Hiphil vers la fin).
+Hiph`il vers la fin).
 
 3.
 faire servir Dieu 2 Ch 34,33
 .
 
-Hophal
+Hoph`al
 Imparfait 2 masculin singulier suffixe תָּֽעָבְדֵם
 
 Ex 20,5 = Dt
@@ -399,7 +399,7 @@ Thes ; <
 Nes^Marg. 12 s.^ Qal à la vocalisation anormale (comparer W^AG. éd. 2, i, 62 n.^
 
 Fl^Kl. Schr. i. 98^) ; Ges
-^«GKC:60»§ 60^ R. 1 Dr Qal faussement vocalisé comme Hophal) ; —
+^«GKC:60»§ 60^ R. 1 Dr Qal faussement vocalisé comme Hoph`al) ; —
 être amené ou poussé à servir d'autres
 dieux
 Ex 20,5 = Dt

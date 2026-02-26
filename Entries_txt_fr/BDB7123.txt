@@ -4,7 +4,7 @@ hébreu biblique
 [צָמַת] verbe
 mettre fin à, exterminer, en poésie et (au
 Qal,
-Piel) hyperbolique (proprement comprimer, hébreu tardif id., presser
+Pi`el) hyperbolique (proprement comprimer, hébreu tardif id., presser
 ensemble ; arabe
 [placeholder4566: Placeholders/4566.gif] est se taire, II, IV. rendre muet, faire taire ;
 syriaque
@@ -15,9 +15,9 @@ Qal
 Parfait 3 pluriel צָֽמְתוּ ֗֗֗ חַיָּ֑י
 Lm 3,63 =
 ils ont mis fin à ma vie (Bu
-conjecture Piel).
+conjecture Pi`el).
 
-Niphal
+Niph`al
 être achevé, anéanti ; Parfait 1 singulier נִצְמַתִּת מִפְּנֵיאחשֶׁךְ
 Jb 23,17
 
@@ -26,7 +26,7 @@ je ne suis [pas] anéanti à cause des ténèbres
 Jb 6,17
 (de ruisseaux asséchés).
 
-Piel
+Pi`el
 Parfait 3 féminin singulier suffixe צִמְּתַתְנִי
 Ps
 119,139
@@ -40,7 +40,7 @@ Hi [Ges^«GKC:145k»§
 145k^] ; comparer Bae) Ps 88,17 tes terreurs
 m'ont anéanti.
 
-Hiphil
+Hiph`il
 Parfait 2 masculin singulier הִצְמַתָּה
 Ps 73,27
 

@@ -114,7 +114,7 @@ Ps 119,99
 ;
 Pr 5,13.
 
-Pual
+Pu`al
 Parfait 3 masculin singulier לֻמָּ֑ד
 Jr 31,18
 

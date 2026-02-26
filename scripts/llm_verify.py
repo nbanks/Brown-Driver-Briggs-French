@@ -248,8 +248,16 @@ Modes and their defaults:
                     col_status=COL_VERDICT, lock=file_lock)
         return filename, verdict, prompt_kb
 
+    def prompt_size_kb(item):
+        """Estimate prompt size in KB before sending to LLM."""
+        _, en_path, fr_path, _ = item
+        size = (len(template.encode("utf-8"))
+                + en_path.stat().st_size + fr_path.stat().st_size)
+        return size / 1024
+
     counts = run_pipeline(to_check, process_one,
                           name_fn=lambda item: item[0],
+                          size_fn=prompt_size_kb,
                           parallel=args.parallel,
                           shuffle=args.shuffle, limit=args.max,
                           label="files")

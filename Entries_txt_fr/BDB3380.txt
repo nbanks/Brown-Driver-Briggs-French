@@ -37,12 +37,12 @@ J
 ), Gn 44,28
 (
 J
-; infinitif absolu avec Pual q. v.), Ex 22,12 (
+; infinitif absolu avec Pu`al q. v.), Ex 22,12 (
 J
 
 E
 ; infinitif absolu avec
-Niphal q. v.) Ailleurs seulement en comparaison et métaphore ; comparaison de la férocité de Gad Dt 33,20
+Niph`al q. v.) Ailleurs seulement en comparaison et métaphore ; comparaison de la férocité de Gad Dt 33,20
 (comme une lionne, poème) ; ainsi de Benjamin Gn 49,27 (comme un loup, poème) ; du reste de Jacob, comme un jeune lion parmi les
 brebis, רָמַס וְטָרַף
 Mi 5,7 des
@@ -65,7 +65,7 @@ et il garda sa colère à perpétuité, ainsi Ol sur Ps 103,9
 We ; טֹרֵף נַפְשׁוֺ בְּאַפּוֺ, dit de Job par Bildad
 Jb 18,4.
 
-Niphal
+Niph`al
 Imparfait d'un animal déchiré (par des bêtes sauvages) טָרֹף יִטָּרֵף
 
 Ex 22,12
@@ -75,7 +75,7 @@ J
 E
 ) ; יִטָּרֵף aussi dans la prédiction du jugement sur les habitants de Jérusalem Jr 5,6.
 
-Pual
+Pu`al
 Parfait
 טָרֹף טֹרַף יוֺסֵף
 Gn 37,33
@@ -90,7 +90,7 @@ Gn 44,28
 J
 ).
 
-Hiphil
+Hiph`il
 Impératif masculin singulier suffixe, noter surtout 2e accusatif לֶחֶם
 , הַטְרִפֵנִי לָחֶם חֻקִּי
 Pr

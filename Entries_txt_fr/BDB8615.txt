@@ -3,7 +3,7 @@ hébreu biblique
 
 [שָׁחַת]_151_
 verbe
-aller à la ruine (?), seulement espèces dérivées (hébreu tardif Hiphil = hébreu biblique, Ecclus.
+aller à la ruine (?), seulement espèces dérivées (hébreu tardif Hiph`il = hébreu biblique, Ecclus.
 שחיתה
 
 Qo 30,11
@@ -25,7 +25,7 @@ Lzb^374^, araméen שְׁחַת,
 [placeholder5503: Placeholders/5503.gif]), mutiler ; — très improbable
 Gerber^179 dénominatif^ de שַׁחַת) ; —
 
-Niphal
+Niph`al
 être gâté, abîmé, Parfait 3 masculin singulier נִשְׁחַת, d'une
 ceinture
 Jr 13,7, d'un vase
@@ -46,7 +46,7 @@ P
 ) ; ainsi Participe féminin pluriel comme adjectif נִשְׁחָתוֺת
 Ez 20,44.
 
-Piel
+Pi`el
 Parfait 3 masculin singulier שִׁחֵת
 Ex 32,7 +, suffixe
 שִׁחֶתְךָ
@@ -78,7 +78,7 @@ Ez 43,3
 ; Lm 2,5,
 ruiner le temple Lm 2,6, une nation Os 11,9 ; Os 13,9 (lire peut-être שִׁחַתִּךָ
 Oort
-Now), le pays 2 R 19,12 (Hiphil dans || Es 37,12), Jg 6,5 ; Jos 22,33
+Now), le pays 2 R 19,12 (Hiph`il dans || Es 37,12), Jg 6,5 ; Jos 22,33
 (
 P
 ),
@@ -191,7 +191,7 @@ J
 , accusatif omis), Gn 19,13 ; Gn 19,14 (
 J
 ),
-Es 37,12 (Piel dans || 2 R 19,12),
+Es 37,12 (Pi`el dans || 2 R 19,12),
 
 2 R
 36,10 (deux fois dans le verset) = 2 R 18,25 (deux fois dans le verset) + 11 t. + (Israël personnifié)
@@ -266,7 +266,7 @@ Pr 59,1
 Pr 75,1
 .
 
-Hophal
+Hoph`al
 Participe
 מָשְׁחָת
 gâté, ruiné, d'une source, מָקוֺר

@@ -162,7 +162,7 @@ J
 ) ; sujet péché Ps 101,3 (suivi de בְּ personne)
 
 Poual
-Imparfait 3 masculin pluriel יְדֻבָּ֑קוּ passif du Hiphil 1
+Imparfait 3 masculin pluriel יְדֻבָּ֑קוּ passif du Hiph`il 1
 
 suivi de בְּ, des écailles du crocodile, elles sont jointes ensemble
 
@@ -170,7 +170,7 @@ Jb 41,9
 
 (|| יִתְלַכְּדוּ) ; absolu des mottes de terre Jb 38,38.
 
-Hiphil
+Hiph`il
 Parfait 3 féminin singulier suffixe הִדְבִּיקָ֑תְהוּ
 Jg
 20,42 3 pluriel suffixe הִדְבִּיקֻהוּ
@@ -237,7 +237,7 @@ E
 18,22 comparer Jg 20,42 (sujet
 הַמִּלְחָמַה).
 
-Hophal
+Hoph`al
 Participe
 וּלְשׁוֺנִי מֻדְבָּק מַלְקוֺחָ֑י
 

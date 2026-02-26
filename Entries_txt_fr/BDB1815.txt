@@ -53,7 +53,7 @@ dire, comme araméen מַלֵּל avec אֲמַר ; grec λαλεῖν,
 λέγειν ; lat. loqui, dicere ; allemand reden, sagen) —
 
 Qal_41_ seulement infinitif (une fois ?) et participe : Infinitif suffixe
-בְּדָבְרֶ֑ךָ (par attraction vers בְּשָׁפְטֶ֑ךָ pour le Piel habituel) Ps 51,6
+בְּדָבְרֶ֑ךָ (par attraction vers בְּשָׁפְטֶ֑ךָ pour le Pi`el habituel) Ps 51,6
 Participe
 דֹּבֵר
 Ex 6,29 + 30 t. ;
@@ -718,7 +718,7 @@ Rob ; mais comparer
 VB
 . —
 
-Pual
+Pu`al
 Imparfait
 בַּיּוֺם שֶׁיְּדֻבַּרבָּֿהּ
 le jour où l'on parlera en sa faveur
@@ -759,10 +759,10 @@ Nb
 
 ᵐ5
 
-; le sens ne diffère pas sensiblement du Piel ; le Hithpa`el difficile à concilier
+; le sens ne diffère pas sensiblement du Pi`el ; le Hithpa`el difficile à concilier
 avec אֶל).
 
-Hiphil
+Hiph`il
 Imparfait
 וַיַּדְבֵּר עַמִּים תַּחְתָּי
 Ps

@@ -42,7 +42,7 @@ Ps 44,10 ; Ps 60,12 ; Ps 108,12
 Lm 3,17 roi Ps 89,39 autel
 Lm 2,7.
 
-Hiphil
+Hiph`il
 Parfait
 הִזְנִיחַ
 2 Ch 29,19

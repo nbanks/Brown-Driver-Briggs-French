@@ -3,7 +3,7 @@ hébreu biblique
 
 נָאַץ
 verbe
-mépriser, dédaigner (hébreu tardif id., Piel ;
+mépriser, dédaigner (hébreu tardif id., Pi`el ;
 
 ᵑ7
 
@@ -38,7 +38,7 @@ Dt 32,19 ;
 Jr 14,21 ;
 Lm 2,6.
 
-Piel
+Pi`el
 Parfait
 נִאֵץ
 Ps 10,3 ; Ps 10,13
@@ -84,12 +84,12 @@ RV
 ) 2 S
 12,14 (deux fois dans le verset) (mais אֹיְבֵי probablement interp. ; voir Comm).
 
-Hiphil
+Hiph`il
 Imparfait
 יָנֵ֯אץ voir
 נצץ
 
-Hithpoel
+Hithpo`el
 Participe
 כלהֿיום שְׁמִי מִנֹּאָץ
 Es 52,5

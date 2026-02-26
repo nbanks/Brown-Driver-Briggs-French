@@ -1,8 +1,8 @@
 === BDB4351 H3867 ===
 hébreu biblique
 
-I. [לָוָה] se joindre (intransitif), être joint (hébreu tardif Piel
-לִוָּה (ליוה) transitif, Hithpael intransitif ; araméen לַוִּי
+I. [לָוָה] se joindre (intransitif), être joint (hébreu tardif Pi`el
+לִוָּה (ליוה) transitif, Hithpa`el intransitif ; araméen לַוִּי
 accompagner ; ainsi
 [placeholder2773: Placeholders/2773.gif]
 Ba^ES 12^ comparer arabe
@@ -11,7 +11,7 @@ Ba^ES 12^ comparer arabe
 Qal (tardif) Imparfait 3 masculin singulier suffixe יִלְוֶנּוּ EC Gn 8,13,
 être joint à, accompagner (de la joie).
 
-Niphal
+Niph`al
 נִלְוָה
 Ps 83,9 ; Es 14,1 3
 masculin pluriel consécutif וְנִלְווּ
