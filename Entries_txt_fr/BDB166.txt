@@ -11,11 +11,13 @@ t. ; pluriel אֹבוֺת
 Lv 19,31 + 7 t.
 —
 
+@@SPLIT:sense@@
 1.
 outre, seulement pluriel אֹבוֺת חֲדָשִׁים
 outres neuves (à vin)
 Jb 32,19.
 
+@@SPLIT:sense@@
 2.
 nécromancien, dans l'expression אוֺב אוֺ יִדְּעֹנִי
 nécromancien ou devin
@@ -50,6 +52,7 @@ obtenir des instructions, probablement ventriloquie, et ainsi
 ) Es 19,3
 .
 
+@@SPLIT:sense@@
 3. revenant, Es 29,4
 וְהָיָה כְּאוֺב מֵאֶרֶץ קוֺלֵח וּמֵעָפָר
 אִמְרָתֵח תְּצַפְצֵף
@@ -59,6 +62,7 @@ Ew
 De
 Che et autres, mais le gazouillement pourrait être celui du nécromancien, comme Es 8,19).
 
+@@SPLIT:sense@@
 4.
 nécromancie
 אֵשֶׁת בַּעֲלַתאֿוֺב

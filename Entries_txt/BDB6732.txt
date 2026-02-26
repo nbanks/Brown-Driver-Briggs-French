@@ -9,6 +9,8 @@ parƒu
 , command, compare Ba^ZMG xliii (1889),
 188^); —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 3 masculine singular וַיִּפְצַרֿ
 Gen 19:3 +, 3
@@ -27,6 +29,8 @@ physically Gen 19:2
 Kit^id.^
 Bu
 HPS Löhr.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Infinitive absolute

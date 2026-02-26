@@ -18,6 +18,8 @@ Arabic
 Di^641, pos. akin to II.^
 נשׁק); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular ׳
 נ
@@ -81,6 +83,8 @@ Buhl^Lex^, but this meaning uncertain, and text perhaps corrupt,
 see Di
 Holz).
 
+@@SPLIT:stem@@
+
 Pi`el
 Imperfect 3 masculine singular וַיְנַשֵּׁק
 Gen 32:1; Gen 45:15,
@@ -102,6 +106,8 @@ E
 ); נַשְּׁקובַֿר
 Ps 2:12 is
 dubious, compare I. בַּר a above
+
+@@SPLIT:stem@@
 
 Hiph`il
 Participle

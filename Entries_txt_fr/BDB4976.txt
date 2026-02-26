@@ -7,6 +7,7 @@ toucher, atteindre, frapper (hébreu tardif id. ; arabe
 araméen נְגַע Ithpa`al être frappé (c.-à-d. de la lèpre), comparer Pi`el
 ci-dessous) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 ׳
@@ -139,6 +140,7 @@ de l'épée Jr 4,10
 Jon 3,6
 arriver (du temps), absolu Esd 3,1 ; Ne 7,73.
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait
 וַיִּנָָּֽנְעוּ
@@ -149,6 +151,7 @@ Jos 8,15
 
 Niph`al
 
+@@SPLIT:stem@@
 Pi`el
 Parfait suffixe נִגְּעוֺ
 2 Ch
@@ -161,6 +164,7 @@ frapper (de la lèpre, 2 accusatifs), sujet ׳
 Gn 12,17 (sujet ׳
 י ; accusatif de personne + accusatif de sens apparenté).
 
+@@SPLIT:stem@@
 Pu`al
 Imparfait
 יְנֻגָּע֑וּ
@@ -168,6 +172,7 @@ Imparfait
 Pi`el et נֶגַע
 2, 3, surtout 2 S 7,14) Ps 73,5.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait
 הִגִּיעַ

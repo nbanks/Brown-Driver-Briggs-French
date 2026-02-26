@@ -12,6 +12,7 @@ t. ; בְּלִיָּ֑עַל
 Ps 101,3 + 5
 t. ; — la qualité d'être inutile, bon à rien.
 
+@@SPLIT:sense@@
 1. abstrait אִישׁ
 (ה)בליעל, אַנְשֵׁי הבליעל, sans valeur, bon à rien, vauriens
 
@@ -48,6 +49,7 @@ We
 Dr) ; ׳
 דָּבָרב֗֗֗ (elliptique et en apposition) Dt 15,9.
 
+@@SPLIT:sense@@
 2. concret elliptique de ׳
 אישׁ ב
 2 S 23,6 ; Jb 34,18
@@ -56,6 +58,7 @@ Dr) ; ׳
 אָדָם בְּלִיַּעַל
 Pr 6,12.
 
+@@SPLIT:sense@@
 3.
 ruine, destruction : ainsi Ps 41,9 selon De
 Che et autres, mais voir ci-dessus ; ׳

@@ -4,9 +4,12 @@ hébreu biblique
 מִבְשָׂם
 nom propre, masculin
 
+@@SPLIT:sense@@
 1.
 un fils d'Ismaël
 Gn 25,13 = 1 Ch 1,29.
+
+@@SPLIT:sense@@
 
 2. un descendant de Siméon 1 Ch 4,25.
 

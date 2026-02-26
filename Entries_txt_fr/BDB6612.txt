@@ -4,6 +4,7 @@ hébreu biblique
 פָּכָה
 verbe
 
+@@SPLIT:stem@@
 Pi`el
 couler goutte à goutte, peut-être dénominatif ; — Participe pluriel מַיִם מְפַכִּים מִן
 

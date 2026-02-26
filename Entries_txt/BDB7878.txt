@@ -6,6 +6,8 @@ grow soft, relax (compare Arabic
 [placeholder5036: Placeholders/5036.gif]
 be soft); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 plural רָֽחֲפוּ
 Jer 23:9 (bones of

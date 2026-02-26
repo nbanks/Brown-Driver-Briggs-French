@@ -11,6 +11,8 @@ Hpt^KAT 499, éthiopien^
 [placeholder527: Placeholders/527.gif]
 revenir) —
 
+@@SPLIT:stem@@
+
 Qal
 Parfait
 בָּא
@@ -530,6 +532,8 @@ un navire allant à Tarsis ; aller à la guerre
 Nb 32,6
 .
 
+@@SPLIT:stem@@
+
 Hiph`il
 Parfait
 הֵבִיא
@@ -920,6 +924,8 @@ amener, procurer
 בְּנַפְשֵׁנוּ נָבִיא לַחְמֵנוּ
 
 Lm 5,9.
+
+@@SPLIT:stem@@
 
 Hoph`al
 Parfait

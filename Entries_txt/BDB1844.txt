@@ -5,6 +5,8 @@ Biblical Hebrew
 denominative
 carry, or set up standard, banner —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 1 plural נִדְנֹּל
 Ps 20:6 (Gr
@@ -19,6 +21,8 @@ Che
 ; Now
 נִגְדַּל; possibly נַגְדִּל ?) set up standard in battle,
 compare Dl^Pr 61.^
+
+@@SPLIT:stem@@
 
 Niph`al
 Participle feminine plural נִדְגָּלוֺת

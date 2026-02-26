@@ -50,6 +50,7 @@ t., מִצְרָ֑יְמָה
 Gn 12,11 + 14
 t. ; —
 
+@@SPLIT:sense@@
 1.
 
 a.
@@ -177,6 +178,7 @@ Ps 68,32
 קָרָא מִמּ
 Os 11,1.
 
+@@SPLIT:sense@@
 2. du peuple :
 
 a. dans la table des nations, personnifié comme deuxième fils de Cham Gn 10,6 =

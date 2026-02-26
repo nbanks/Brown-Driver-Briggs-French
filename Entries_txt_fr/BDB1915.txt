@@ -27,6 +27,7 @@ jugement,
 ville ; — sur √ עי֞ voir Nö^ZMG 1883,
 533^), synonyme שָׁפַט —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 דָּן
@@ -117,6 +118,7 @@ Za 3,7.
 לֹאיֿוּכַל לָדִין עִם
 il ne peut contester avec plus puissant que lui Qo 6,10.
 
+@@SPLIT:stem@@
 Niph`al
 Participe
 וַיְהִי כָלהָֿעָם נָדוֺן בְּכָלשִֿׁבְטֵי יִשְׂרָאֵל

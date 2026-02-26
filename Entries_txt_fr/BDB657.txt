@@ -8,6 +8,7 @@ cuire (assyrien
 , Zim^ BP 43^ araméen אֲפָא
 [placeholder362: Placeholders/362.gif]) —
 
+@@SPLIT:stem@@
 Qal
 Parfait, ׳
 א
@@ -73,6 +74,7 @@ Os 7,6 ; Jr 37,21
 de la rue des boulangers ; aussi 1 S 8,13 (|| טַבָּחוֺת, רַקָּחוֺת seulement
 ici féminin) Nulle part comme office servile, pas même 1 S 8,13 où le pouvoir despotique et la croissance de la cour sont soulignés.
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait 3 féminin singulier תֵּאָפֶה
 Lv 6,10 ; Lv 7,9 3 féminin

@@ -4,6 +4,7 @@ hébreu biblique
 רָ(א)מוֺת_26_
 nom propre
 
+@@SPLIT:sense@@
 1. lieu Hauteurs, Ramôth ; —
 
 a.
@@ -80,6 +81,7 @@ Jos
 
 ^).
 
+@@SPLIT:sense@@
 2.
 masculin
 (וְ)רָמוֺת

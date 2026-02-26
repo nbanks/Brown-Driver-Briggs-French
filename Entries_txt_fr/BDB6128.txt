@@ -23,6 +23,7 @@ DHM^ZMG xxxvii (1883), 5^), pluriel אעמדן
 piliers
 DHM^Epigr. Denkm. sus Abess. 80^) ; —
 
+@@SPLIT:stem@@
 Qal_435_
 Parfait
 ׳
@@ -508,6 +509,7 @@ a ; ainsi Bev
 Behrm
 Marti^Kau^.
 
+@@SPLIT:stem@@
 Hiphil_83_ (comparer Dr^Intr. (6) 535^
 )
 Parfait 3 masculin singulier הֶעֱמִיד
@@ -712,6 +714,7 @@ Ez 29,7 voir
 מָעַד
 .
 
+@@SPLIT:stem@@
 Hoph`al
 Imparfait 3 masculin singulier יָעֳמַדֿ
 

@@ -5,6 +5,7 @@ hébreu biblique
 nom propre [d'un lieu]
 en Juda :
 
+@@SPLIT:sense@@
 1. dans la Shephelah, שׂוֺכֹה
 Jos 15,35 ;
 1 S 17,1 (deux fois dans
@@ -26,6 +27,7 @@ Eš-Šuw¢ke
 Rob^BR 1. 494^
 Buhl^Geogr. 194^ ; Σωχω, Σοκχωθ, etc.
 
+@@SPLIT:sense@@
 2. dans la montagne, Jos 15,48 (
 Kt
 

@@ -4,6 +4,7 @@ hébreu biblique
 [קוֺנֵן] verbe
 dénominatif
 
+@@SPLIT:stem@@
 Po`lel. entonner une
 קִינָה ; — Parfait 3 pluriel consécutif וְקוֺנְנוּ
 Ez 27,32 (

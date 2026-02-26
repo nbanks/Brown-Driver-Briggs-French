@@ -14,6 +14,8 @@ spring or shine forth,
 shining, also sprout; Phoenician צמח
 posterity); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular צָֽמַחבּֿוֺ
 Lev 13:37 3
@@ -60,6 +62,8 @@ P
 ; compare
 Pi`el).
 
+@@SPLIT:stem@@
+
 Pi`el
 grow abunduntly, always of hair; — Perfect 3 masculine singular צִמֵּחַ
 Ezek 16:7 (in
@@ -70,6 +74,8 @@ beard); Infinitive construct
 לְצַמֵּחַ
 Judg 16:22
 (Samson's hair).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 masculine singular suffix וְהִצְמִיחָהּ

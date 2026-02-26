@@ -11,6 +11,8 @@ high, elevated; Ethiopic
 [placeholder4067: Placeholders/4067.gif]
 ascend; Late Hebrew עֲרוּגָה = Biblical Hebrew); —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 3 feminine singular תַּעֲרֹג
 Ps 42:2 (of stag,

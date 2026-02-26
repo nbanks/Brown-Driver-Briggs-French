@@ -15,10 +15,12 @@ Jg 15,1 + ; suffixe
 Lv 19,9 +, etc. ; —
 moisson :
 
+@@SPLIT:sense@@
 1. processus de la moisson, Gn 45,6 (
 E
 ; + חָרִישׁ), Rt 2,21.
 
+@@SPLIT:sense@@
 2.
 ce qui est moissonné, récolté, la récolte, spécifiquement de grain : Gn 8,22 (+זֶרַע ;
 J
@@ -74,6 +76,7 @@ Es 4,13 (
 בָּשַׁל ק) ; figuré du châtiment Os 6,11 de la vendange Es 16,9 (|| קַיִץ ; lire probablement
 בָּצִיר comme || Jr 48,32, Buhl^Lex 13^).
 
+@@SPLIT:sense@@
 3.
 temps de la moisson, Ex 34,21 (+ חָרִישׁ ;
 J

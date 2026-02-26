@@ -10,6 +10,7 @@ vivre (hébreu tardif phénicien id. ; arabe
 [placeholder1739: Placeholders/1739.gif], חֲיָא ; palmyrénien חיי
 vie, durée de vie, Vog^32, 74^) —
 
+@@SPLIT:stem@@
 Qal_203_
 Parfait
 חָיָה
@@ -263,6 +264,7 @@ Ez 37,10
 Ez
 37,14 (et ainsi Jg 15,19 c).
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 3 masculin singulier חִיָּה
 Ps 22,30
@@ -362,6 +364,7 @@ vivifier, le peuple de ׳
 119,93 ; Ps 119,107 ; Ps 119,149 ; Ps 119,154 ; Ps
 119,156 ; Ps 119,159 ; Ps 143,11 ; Qo 7,12.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait
 הֶחֱיָה

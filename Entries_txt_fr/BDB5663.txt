@@ -21,6 +21,7 @@ Frä^189^ comparer arabe
 [placeholder3632: Placeholders/3632.gif]
 allumer un feu, exciter, enflammer, avoir faim et soif véhémentement, être fou, insensé, etc. Lane^1363^) ; —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 3 masculin pluriel figuré, יִסְעֲרוּ
 Ha 3,14
@@ -33,16 +34,19 @@ féminin סֹעֲרָה
 Es 54,11
 battue par la tempête (figuré de Jérusalem).
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait 3 masculin singulier וַיִּסָּעֵר
 2 R 6,11 et le
 cœur du roi . . . fut enragé à cause de (עַלֿ) cette chose.
 
+@@SPLIT:stem@@
 Pi`el
 Imparfait 1 singulier suffixe וְאֵסָֽעֲרֵם עַלֿ
 Za 7,14 (sur la
 forme voir Ges^«GKC:23h»§§ 23h^, «GKC:52n»52n) et les emporter par la tempête (les projeter par un vent de tempête) sur les nations.
 
+@@SPLIT:stem@@
 Po.
 Imparfait 3 masculin singulier כְּמֹץ יְסֹעֵר
 Os 13,3 sera

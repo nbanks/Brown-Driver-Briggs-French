@@ -8,6 +8,8 @@ rejoice (Assyrian
 Dl^Pr 153^; Aramaic
 [placeholder1632: Placeholders/1632.gif], חֲדָא) —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 3 masculine singular וַיִּ֫חַדְּ
 Exod 18:9 (
@@ -20,6 +22,8 @@ joyfully among them (figurative of day of Job's birth). — Klo proposes
 וְלֹא חָדוּבְּ֗֗֗
 1Sam 6:19 for
 וַיַּךְבְּ֗֗֗ compare also Dr
+
+@@SPLIT:stem@@
 
 Pi`el
 Imperfect suffix (causative) תְּחַדֵּהוּ בְשִׂמְחְה

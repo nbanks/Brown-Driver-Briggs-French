@@ -3,6 +3,8 @@ Biblical Hebrew
 
 [שָׁסַס] verb id. (|| from of שׁסה); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 plural שַׁסֻּ֫הוּ
 Ps 89:42 they
@@ -18,6 +20,8 @@ Qr
 see
 שׁסה
 ), Aramaic form, Ges^«GKC:67s»§ 67s^.
+
+@@SPLIT:stem@@
 
 Niph`al
 be plundered, rifled, of houses: Perfect 3 plural consecutive

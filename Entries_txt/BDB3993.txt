@@ -6,8 +6,12 @@ noun masculine^
 Job 16:8
 ^
 
+@@SPLIT:sense@@
+
 1.
 lying.
+
+@@SPLIT:sense@@
 
 2.
 leanness;
@@ -21,6 +25,8 @@ Job 16:8 plural
 suffix כַּחֲשֵׁיהֶם
 Hos 7:3 —
 
+@@SPLIT:sense@@
+
 1.
 lying, אֲכַלְתֶּם
 ׳
@@ -33,6 +39,8 @@ ye have eaten the fruit of lying; Hos 7:3 (|| רָעָה), Hos 12:1 of Nineveh,
 Nah 3:1
 of lying (and) robbery it is full; Ps 59:13 (||
 אָלָה).
+
+@@SPLIT:sense@@
 
 2. of Job's affliction Job 16:8
 my leanness hath risen up against me (compare Ps 109:24

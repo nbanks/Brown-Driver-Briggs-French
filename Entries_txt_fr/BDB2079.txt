@@ -31,6 +31,7 @@ Gr
 Bi
 Che) ; —
 
+@@SPLIT:sense@@
 1.
 ornement
 Pr 20,29
@@ -58,6 +59,7 @@ comparer
 RVm
 ; mais lire probablement sur les montagnes saintes, voir ci-dessus
 
+@@SPLIT:sense@@
 2.
 splendeur, majesté
 Dt 33,17
@@ -89,6 +91,7 @@ Ps 145,5
 הֲדַר גְּאֹנוֺ
 Es 2,10 ; Es 2,19 ; Es 2,21.
 
+@@SPLIT:sense@@
 3.
 honneur, gloire
 Ps 149,9

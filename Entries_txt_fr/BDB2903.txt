@@ -26,6 +26,7 @@ Co pour חמּשׁה) ; suffixe חֲמִשֶּׁיךָ
 חֲמִשֵּׁיהֶם
 2 R 1,14 —
 
+@@SPLIT:sense@@
 1. absolu
 
 a.
@@ -42,6 +43,7 @@ Baer, van d. H. v.1 Ch 12,33
 ח suivant Ex 38,26 + 10 t. ; (4) ׳
 ח entre d'autres nombres Nb 1,23 + 23 t.
 
+@@SPLIT:sense@@
 2.
 חֲמִשִּׁים sans autre nombre :
 
@@ -53,6 +55,7 @@ Ex 38,12.
 
 b. après le nom 2 S 24,24 ; Ex 26,11 + 4 t. Chroniques
 
+@@SPLIT:sense@@
 3.
 ׳
 ח avant d'autres nombres :
@@ -64,6 +67,7 @@ précédé du nom
 1 Ch
 5,21.
 
+@@SPLIT:sense@@
 4.
 ׳
 ח après un autre nombre, et
@@ -76,6 +80,7 @@ répété p. ex. Gn 9,28
 ; Gn 9,29
 .
 
+@@SPLIT:sense@@
 5.
 ׳
 ח précédé d'un construit p. ex. שָׁנָה
@@ -88,6 +93,7 @@ répété p. ex. Gn 9,28
 Lv 15,10 ;
 Lv 15,11.
 
+@@SPLIT:sense@@
 6.
 ׳
 ח = ordinal, cinquantième

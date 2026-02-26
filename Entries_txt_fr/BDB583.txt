@@ -7,6 +7,7 @@ III. [אָנָה] verbe
 le moment juste est venu, ou il est arrivé au moment juste, ou
 à maturité, ou est opportun).
 
+@@SPLIT:stem@@
 Pi`el
 Parfait
 אִנָּה
@@ -16,6 +17,7 @@ faire (ou permettre de) rencontrer dans בְיָדוֺ
 ׳
 הָאֱלֹהִים א (objet omis), c.-à-d. sans aucune intention de l'homme auquel réf. du suffixe.
 
+@@SPLIT:stem@@
 Pu`al
 être permis de rencontrer, être envoyé, Imparfait
 יְאֻנֶּה
@@ -24,6 +26,7 @@ Pr 12,21
 Ps 91,10
 (avec אֶל), sujet le mal.
 
+@@SPLIT:stem@@
 Hithpa`el
 se faire rencontrer soi-même, chercher l'occasion (= chercher querelle à) suivi de ל
 

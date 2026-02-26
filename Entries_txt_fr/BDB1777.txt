@@ -4,6 +4,7 @@ hébreu biblique
 [גשׁם] verbe
 dénominatif (comparer hébreu tardif Qal Participe passif et Hoph`al) —
 
+@@SPLIT:stem@@
 Pu`al
 Parfait 3 féminin singulier גֻּשְׁמָ֯ה
 Ez 22,24
@@ -11,6 +12,7 @@ Ez 22,24
 Baer, mais voir Ke
 Sm).
 
+@@SPLIT:stem@@
 Hiph`il
 faire ou envoyer la pluie, Participe
 מַגְשִׁמִים

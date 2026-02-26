@@ -4,12 +4,14 @@ hébreu biblique
 [בָּטָה, בָּטָא] verbe
 parler à la légère, inconsidérément (hébreu tardif id., בטי) —
 
+@@SPLIT:stem@@
 Qal
 Participe
 בּוֺטֶה
 Pr 12,18
 celui qui parle étourdiment (opposé à לְשׁוֺן חֲכָמִים).
 
+@@SPLIT:stem@@
 Pi`el
 Imparfait
 יְבַטֵּא בִשְׁבוּעָה

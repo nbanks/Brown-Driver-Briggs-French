@@ -14,6 +14,7 @@ t. ; תְּחִנֹּתֵיהֶם
 2 Ch 6,39 etc. +
 10 t. suffixe ; —
 
+@@SPLIT:sense@@
 1.
 faveur, montrée par Israël
 
@@ -23,6 +24,7 @@ D
 ) ; מאת יהוה
 Esd 9,8.
 
+@@SPLIT:sense@@
 2.
 supplication pour obtenir faveur, de Dieu 1 R 8,52 (deux fois dans le verset) ; 2 Ch 33,13 ; Ps 119,170 ||
 תְּפִלָּה

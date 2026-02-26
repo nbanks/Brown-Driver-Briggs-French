@@ -13,6 +13,8 @@ Eccl 6:36 is
 go often (wear by treading), Str compare
 iter terere); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 plural אֲבָּנִים שָֽׁחֲקוּ מַיִם
 Job 14:19
@@ -22,6 +24,8 @@ Exod 30:36 (
 P
 ; of pulverizing incense, see
 דקק
+
+@@SPLIT:stem@@
 
 Hiph`il); figurative, accusative of foes, Imperfect 1 singular suffix
 וְאֶשְׁחָקֵם

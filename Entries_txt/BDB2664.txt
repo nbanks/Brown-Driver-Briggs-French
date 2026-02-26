@@ -11,6 +11,8 @@ Isa 29:11
 suffix חָזוּתְכֶם
 Isa 28:18 —
 
+@@SPLIT:sense@@
+
 1.
 vision, oracle of a prophet
 חָזוּת קָשָׁה הֻגַּדלִֿי
@@ -34,6 +36,8 @@ Vrss
 חֹזֶה
 
 2.
+
+@@SPLIT:sense@@
 
 2.
 conspicuousness in appearance:

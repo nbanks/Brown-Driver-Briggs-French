@@ -4,6 +4,7 @@ hébreu biblique
 לִבְנָה
 nom propre [d'un lieu]
 
+@@SPLIT:sense@@
 1.
 ville dans le sud-ouest de Juda, site exact inconnu, prise par Josué, selon
 D
@@ -27,6 +28,7 @@ Es 37,8; 2 R 23,31; 2 R 24,18 = Jr 52,1
 Λεβνα. Voir Lag^Onom. 274, 135, 26; 2nd ed. 273^
 Λεβνα; Buhl^Geogr. 193.^
 
+@@SPLIT:sense@@
 2. station d'Israël dans le désert, entre רִמֹּן פָּ֑רֶץ et רִסָּה
 
 Nb 33,20; Nb 33,21

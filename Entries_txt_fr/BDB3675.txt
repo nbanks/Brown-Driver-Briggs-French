@@ -16,6 +16,7 @@ alliance, contrat ; assyrien
 êƒêru,
 comme en hébreu, Dl^HWB 309^) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 ׳
@@ -143,6 +144,7 @@ Jr 18,11
 il l'a conçu pour l'établir
 Jr 33,2.
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 לְפָנַי לֹאנֿוֺצַר אֵל
@@ -150,6 +152,7 @@ Es
 43,10
 avant moi aucun dieu n'a été formé (créé).
 
+@@SPLIT:stem@@
 Pu`al
 Parfait
 יָמִים יצָֻּ֑רוּ
@@ -158,6 +161,7 @@ jours (qui) ont été préordonnés (dans le dessein divin) Ps
 (comparer
 Qal, 2.b.).
 
+@@SPLIT:stem@@
 Hoph`al
 Imparfait
 כָּלכְּֿלִי יוּצַר עָלַיִךְ לֹא יִצְלָ֑ח

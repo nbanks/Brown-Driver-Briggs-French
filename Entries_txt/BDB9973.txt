@@ -4,6 +4,8 @@ Biblical Aramaic
 [שְׁנָא] verb
 change (see Biblical Hebrew I. שׁנה); —
 
+@@SPLIT:stem@@
+
 Pe`al
 Perfect 3 masculine plural שְׁנוֺ
 Dan 3:27, suffix
@@ -24,6 +26,8 @@ Dan 7:3 — intransitive
 change, be changed: of garment, by fire Dan 3:27, brightness (זִיו) of face Dan 5:6; Dan 5:9, purpose Dan 6:18
 be different from (מִן) Dan 7:3; Dan 7:19; Dan 7:23; Dan 7:24.
 
+@@SPLIT:stem@@
+
 Pa`el
 Perfect 3 masculine plural שַׁנִּי (K^§ 47 e),
 and Beisp. 3^) Dan Dan 3:28
@@ -37,6 +41,8 @@ Dan 4:13 (
 intransitive different
 Dan 7:7 (
 מִן).
+
+@@SPLIT:stem@@
 
 Ithpa`al
 Perfect 3 masculine plural אִשְׁתַּנּוֺ
@@ -63,6 +69,8 @@ be changed: of זִיו Dan Dan 5:10; Dan 7:28 (see
 Pe`al; עַל person); צְלֵם אַנְפּוֺהִי
 Dan 3:19 (
 id.); of time, conditions Dan 2:9.
+
+@@SPLIT:stem@@
 
 Haph`el
 Imperfect 3 masculine singular יְהַשְׁנֵא

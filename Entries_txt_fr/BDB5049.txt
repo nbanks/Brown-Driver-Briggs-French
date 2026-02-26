@@ -16,6 +16,7 @@ nâhu, repos (inûh)
 lieu de repos du chameau, comparer Doughty^Arab. Des. i,
 397, ii, 63, 486, 642^) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 féminin singulier נָ֫חָה
 Es 7,2 + 2 t.,
@@ -123,6 +124,7 @@ Hi-St
 SS, ainsi Now, avec doute ; We conjecture אֶנָּחֵם comme Es 1,24
 je m'apaiserai, GASm laisse sans traduction
 
+@@SPLIT:stem@@
 Hiph`il
 
 A.
@@ -421,6 +423,7 @@ Ps
 Qo 5,11
 .
 
+@@SPLIT:stem@@
 Hoph`al
 
 A.

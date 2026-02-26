@@ -10,6 +10,7 @@ pašât‰u
 [placeholder4373: Placeholders/4373.gif], sont étendre, déployer, rendre clair, de même arabe
 [placeholder4374: Placeholders/4374.gif]) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier ׳
 פ
@@ -61,6 +62,7 @@ avec בְּ
 אַלֿ) We
 Dr et autres
 
+@@SPLIT:stem@@
 Pi`el
 Infinitif construit
 לְפַשֵּׁט, avec accusatif de personne 1 S 31,8
@@ -69,6 +71,7 @@ les morts) 2 S
 23,10 (insérer aussi || 1 Ch 11,13
 Dr).
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 masculin singulier הִפְשִׁיט
 Jb 19,9
@@ -120,6 +123,7 @@ Lv 1,6
 ; 2 Ch
 29,4 accusatif omis 2 Ch 35,11.
 
+@@SPLIT:stem@@
 Hithpa`el
 Imparfait 3 masculin singulier וַיִּתְפַּשֵּׁט
 1 S 18,4

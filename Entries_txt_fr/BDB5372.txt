@@ -12,6 +12,7 @@ tardif נֶקַע fente, syriaque
 [placeholder3441: Placeholders/3441.gif]
 id.) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 féminin singulier נָָֽקְעָה נַפְשִׁי מֵעַל
 Ez 23,18

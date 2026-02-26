@@ -35,6 +35,8 @@ Fl^Kl. Schr. i. 402 f.^):
 I.
 preposition
 
+@@SPLIT:sense@@
+
 1. of space; —
 
 a.
@@ -133,6 +135,8 @@ Lev
 even to (i. e. including) it base and its flower, compare
 1Sam
 18:4.
+
+@@SPLIT:sense@@
 
 2. Of time:
 
@@ -291,6 +295,8 @@ during their delaying, Exod 33:22; Job 7:19
 Jonah 4:2
 .
 
+@@SPLIT:sense@@
+
 3. Of degree, to suggest a higher or the highest; as עַד מְאֹד
 
 even to muchness, i.e. exceedingly (see
@@ -332,6 +338,8 @@ three.
 
 II.
 conjunction
+
+@@SPLIT:sense@@
 
 1.
 until; —
@@ -456,6 +464,8 @@ al.
 עֹד he will yet, etc., understanding Job 8:20 as present, not
 future).
 
+@@SPLIT:sense@@
+
 2.
 While (rare: compare 12 b): —
 
@@ -493,6 +503,8 @@ Matt
 (compare Talmud
 עַד דְּלָא, Mishna שֶׁלּאֹ עַד).
 
+@@SPLIT:sense@@
+
 3. Of degree, to the point that, so that even (rare), Isa 47:7
 
 Thou saidst, I shall be
@@ -518,7 +530,7 @@ Isa
 Du). In Josh 17:14
 עַד אֲשֶׁר
 ׳
-עַד כֹּה ֵבּרְכַנִי י, read עַל אֲשֶׁר
+עַד כֹּה ֵבּרְכַנִי י, read עַל אֲשֶׁר
 because that (Ges
 Buhl; compare Di).
 
@@ -526,6 +538,8 @@ III.
 עַד לְ, a strengthened form for עַד, found chiefly in Chronicles,
 Ezra, and
 occurring in most of the above senses. Thus
+
+@@SPLIT:sense@@
 
 1. of space:
 לְבוֺא חֲמָת עַד
@@ -561,6 +575,8 @@ Judg 3:3;
 
 ; Ezra 9:6
 .
+
+@@SPLIT:sense@@
 
 2. Of time:
 עד לעולם
@@ -615,6 +631,8 @@ with regard to, strengthened for לְ); followed by infinitive
 
 לָמוּת alone); Ezra 10:14
 עד להשׁיב.
+
+@@SPLIT:sense@@
 
 3. Of degree:
 עַד לְמַחֲנֶה גָדוֺל

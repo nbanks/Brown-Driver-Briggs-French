@@ -6,9 +6,11 @@ nom masculin^
 Gn 21,8
 ^
 
+@@SPLIT:sense@@
 1.
 festin ;
 
+@@SPLIT:sense@@
 2.
 boisson ;
 — absolu ׳
@@ -19,6 +21,7 @@ construit מִשְׁתֵּה
 suffixe מִשְׁתָּיו
 Dn 1,5 + (Ges^«GKC:93ss»§§ 93 ss^), etc. ; —
 
+@@SPLIT:sense@@
 1.
 festin, banquet (occasion de boire, beuverie), 1 S 25,36 (deux fois dans le verset) ;
 Es 5,12 ;
@@ -77,6 +80,7 @@ Est 9,17
 Pr 15,15
 .
 
+@@SPLIT:sense@@
 2.
 boisson (tardif) : וָשֶׁמֶן
 ׳

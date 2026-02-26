@@ -71,6 +71,7 @@ Os 5,15 ; Os 10,2 ; Os 14,1 ; Za 11,5 ;
 Ez 6,6 (mais
 comparer שָׁמֵם).
 
+@@SPLIT:stem@@
 Niph`al
 נֶאְשָׁמוּ
 subir la punition
@@ -78,6 +79,7 @@ Jl 1,18
 (si vera lectio ; Me We et d'autres נָשַׁמּוּ, √ שׁמם, comparer Dr^sur le
 passage^).
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait suffixe הַאֲשִׁימֵם
 les déclarer coupables

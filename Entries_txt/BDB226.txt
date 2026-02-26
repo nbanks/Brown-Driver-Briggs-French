@@ -8,6 +8,8 @@ Gen 49:3 + etc.;
 plural אוֺנִים
 Ps 78:51 +.
 
+@@SPLIT:sense@@
+
 1.
 manly vigour
 בְּאוֺנוֺ שָׂרָה אֶתאֱֿלֹהִים
@@ -18,6 +20,8 @@ Gen 49:3 (of
 Reuben, first-born of Jacob); Deut 21:17; Ps 105:36 (firstborn Egyptians), so Ps 78:51, רֵאשִׁית אוֺנִים
 where ׳
 א is assimilated to מִצְרַיִם, or intensive plural
+
+@@SPLIT:sense@@
 
 2.
 strength of man Job 18:7; Job 18:12 behemoth Job 40:16 plural intensive מֵרֹב
@@ -34,6 +38,8 @@ RV
 
 AV
 ).
+
+@@SPLIT:sense@@
 
 3.
 wealth

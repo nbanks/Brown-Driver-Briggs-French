@@ -22,6 +22,7 @@ secouer,
 מַקֵּל
 ) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 2 masculin singulier קַלּוֺתָ
 Na 1,14 1
@@ -53,6 +54,7 @@ insignifiant, c.-à-d. de peu d'importance, d'une personne, Gn 16,4 ; Gn 16,5 (
 J
 ; les deux avec בְּעֵינֶיהָ ; 1 S 2,30 (opposé à אֲכַבֵּד).
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 masculin singulier נָקֵל (Ges
 §67 t.)
@@ -93,6 +95,7 @@ légèrement c.-à-d. superficiellement, Jr 6,14 ; Jr 8,11.
 2 S 6,22
 (|| שָׁפָל ; opposé à אִכָּכֵ֑דָה).
 
+@@SPLIT:stem@@
 Piel_40_
 Parfait 3 masculin singulier קִלֵּל
 2 S 19,22
@@ -152,6 +155,7 @@ Comm.), + (objet omis) Lv 24,11 ; Lv 24,14 ; Lv 24,23
 3. avec accusatif de chose Gn 8,21 (׳
 י sujet), Jb 3,1.
 
+@@SPLIT:stem@@
 Pu`al
 Imparfait 3 masculin singulier יְקֻלָּ֑ל
 Es 65,20
@@ -163,6 +167,7 @@ leur part est maudite ; Participe pluriel suffixe
 Ps 37,22
 = ceux maudits par lui (opposé à מְברָכָיו).
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 masculin singulier הֵקַל
 Es 8,23 2
@@ -197,6 +202,7 @@ traiter avec mépris, accusatif de personne 2 S 19,44 ; Es 23,9 ; Ez
 Es 8,23
 (opposé à הִכְבִּיד).
 
+@@SPLIT:stem@@
 Pilpel
 Parfait 3 masculin singulier
 
@@ -210,6 +216,7 @@ Ez 21,26 (dans la divination).
 Qo
 10,10 (proprement mouvoir rapidement de part et d'autre).
 
+@@SPLIT:stem@@
 Hithpalpel réfléchi de
 1. : Parfait 3 pluriel הִחְקַלְקָ֑לוּ
 Jr 4,24

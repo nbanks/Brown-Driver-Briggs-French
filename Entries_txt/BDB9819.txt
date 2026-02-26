@@ -4,6 +4,8 @@ Biblical Aramaic
 [פְּרַס] verb
 break in two (see Biblical Hebrew פרס); —
 
+@@SPLIT:stem@@
+
 Peîl (W^CG224^) Perfect 3
 feminine singular פְּרִיסַת מַלְכוּתָח
 Dan 5:28.

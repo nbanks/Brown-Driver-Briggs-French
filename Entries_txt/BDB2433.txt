@@ -10,6 +10,8 @@ Lane^968^;
 [placeholder1542: Placeholders/1542.gif]
 decrepit man) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular זָקֵן
 Gen 18:12 + 14
@@ -46,6 +48,8 @@ Gen 24:1 (||
 נער); note especially זָקַנְתִּי מִהְיוֺת לאישׁ
 Ruth 1:12
 I am too old to belong to a man (husband).
+
+@@SPLIT:stem@@
 
 Hiph`il only Imperfect 3 masculine singular יַזְקִין inchoate
 shew age, grow old = senescere

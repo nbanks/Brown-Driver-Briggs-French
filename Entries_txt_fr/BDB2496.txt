@@ -6,6 +6,7 @@ battre, gauler (hébreu tardif id. ; frapper, battre, arabe
 [placeholder1586: Placeholders/1586.gif], araméen
 [placeholder1587: Placeholders/1587.gif], חֲבַט) —
 
+@@SPLIT:stem@@
 Qal
 Imparfait
 יַחְבֹּט
@@ -36,6 +37,7 @@ Brd placent ci-dessous 1 ;
 VB
 indécis.
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait
 יֵחָ֫בֶט

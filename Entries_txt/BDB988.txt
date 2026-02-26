@@ -11,6 +11,8 @@ spoil, plunder (Arabic
 rescue
 Prä^BAS i. 33^) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular וּבָזַז (consecutive) Ezek 29:19 3 plural בָּֽזְַזוּ
 
@@ -42,14 +44,14 @@ Isa 10:6 + 3 t.;
 בּוֺז
 Esth 3:13; Esth 8:11
 Participle
-active plural בְֹּזַזִים
+active plural בְֹּזַזִים
 Isa 42:24;
 2Chr 20:25
-suffix בְֹּזַזַיִךְ
+suffix בְֹּזַזַיִךְ
 Jer 30:16,
-בְֹּזַזֵינוּ
+בְֹּזַזֵינוּ
 Isa 17:14,
-בְֹּזַזֵיהֶם
+בְֹּזַזֵיהֶם
 Ezek 39:10
 passive בָּזוּז
 Isa 42:22 —
@@ -78,6 +80,8 @@ accusative of person robbed Isa 10:2; Isa 11:14; Isa 17:14 (שׁסה) Isa 42:22 
 absolute
 Num 31:53; Isa 42:24.
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect
 וְנָבֹ֫זוּ consecutive Amos 3:11
@@ -91,6 +95,8 @@ Amos 3:11
 הארץ
 Isa 24:3
 הִבּוֺז תִּבּוֺז (|| הִבּוֺק תִּבּוֺק).
+
+@@SPLIT:stem@@
 
 Pu`al
 Perfect

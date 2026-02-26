@@ -18,6 +18,7 @@ zalâlu
 facile ; mais זְלַל,
 [placeholder1490: Placeholders/1490.gif], sont plus courants (tous intransitifs)) —
 
+@@SPLIT:stem@@
 Qal seulement Participe actif זוֺלֵל
 Dt 21,20 + 2
 t. ; זוֺלֵלָ֑ה
@@ -42,6 +43,7 @@ Pr 23,20
 
 (|| סֹבְאֵי יַיִן), absolu Pr 23,21 ; Dt 21,20 (les deux || סֹבֵא), Pr 28,7.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait suffixe הִזִּילוּהָ
 Lm 1,8

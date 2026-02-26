@@ -12,6 +12,7 @@ verbe
 [placeholder2160: Placeholders/2160.gif] ; éthiopien
 [placeholder2161: Placeholders/2161.gif]) —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier יָבֵשׁ
 Jos 9,5 + 8 t. ;
@@ -106,6 +107,7 @@ J
 50,38 ;
 Jl 1,20 ; Jb 12,15 ; Jb 14,11.
 
+@@SPLIT:stem@@
 Pi`el
 rendre sec, dessécher, seulement Imparfait 3 masculin singulier suffixe
 וַיַּבְּשֵׁהוּ
@@ -118,6 +120,7 @@ la flamme desséchera ses branches (figuré du méchant) ; figuré
 Pr 17,22
 un esprit abattu dessèche les os.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 masculin singulier הוֺבִישׁ
 Jos 2,10

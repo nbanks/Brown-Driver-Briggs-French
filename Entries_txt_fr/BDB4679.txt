@@ -16,6 +16,7 @@ Dt 3,21 + ;
 construit מַמְלְכוֺת
 Dt 28,25 + ; —
 
+@@SPLIT:sense@@
 1.
 royaume, domaine, principalement non-israélite : Gn 10,10 (
 J
@@ -75,6 +76,7 @@ Ex 19,6 (||
 מִשְׁפְּחֹת מַמְלְכוֺת צָפ֫וֺנָה
 Jr 1,15.
 
+@@SPLIT:sense@@
 2.
 souveraineté, domination
 1 S 13,14
@@ -160,6 +162,7 @@ comparer 1 S 27,5
 זֶרַע הַמּ
 semence royale, enfants, 2 R 11,1 = 2 Ch 22,10.
 
+@@SPLIT:sense@@
 3.
 règne, ׳
 בְּרֵאשִׁית מ

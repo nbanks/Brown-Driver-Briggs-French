@@ -73,6 +73,8 @@ Esd 8,20 ; 1 Ch 5,20 ; 1 Ch
 et מְתוּשָׁאֵל. — Dans l'usage, שֶּׁ est dans l'ensemble
 parallèle à אֲשֶׁר, à savoir
 
+@@SPLIT:sense@@
+
 1. comme pronom
 qui, lequel, que, Jg 7,12
 כַּהוֺל שֶׁעַל שְׂפַת הַיָּם (comparer חוֺל
@@ -97,6 +99,8 @@ dans Qo = quoi que ce soit, quoi, voir
 1.e.
 b.
 
+@@SPLIT:sense@@
+
 2. comme lien de connexion ; = où (comparer אֲשֶׁר
 p. 81, et 4.b.
 β), מְקוֺם שֶּׁ
@@ -112,6 +116,8 @@ Ct 8,8 ; Qo 12,3
 בַּיּוֺם שֶּׁ  (comparer ib.
 4.b.
 a).
+
+@@SPLIT:sense@@
 
 3. comme conjonction (comparer אֲשֶׁר
 8) ; —
@@ -177,6 +183,8 @@ puisque pourquoi ? = de peur que (voir
 
 4.d.
 b).
+
+@@SPLIT:sense@@
 
 4. composés :
 

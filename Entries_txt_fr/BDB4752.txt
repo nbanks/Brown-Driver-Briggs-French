@@ -26,6 +26,7 @@ Gn 25,23 ; Nb 5,22
 5 t. ; מֵעֵיהֶם
 Ez 7,19 —
 
+@@SPLIT:sense@@
 1. littéralement :
 
 a.
@@ -48,6 +49,7 @@ précision, presque = estomac, ventre, Jb 20,14 ; Ez 3,3 (|| בֶּטֶן
 7,19 (||
 נֶפֶשׁ ; les deux avec מָלֵא), Nb 5,22 ainsi du poisson qui avala Jonas Jon 2,1 ; Jon 2,2.
 
+@@SPLIT:sense@@
 2. source de procréation : אשׁר יצא
 ׳
 מִמּ (dit de la progéniture) Gn 15,4 (
@@ -66,6 +68,7 @@ id.) ; ׳
 2 Ch 32,21
 .
 
+@@SPLIT:sense@@
 3. = sein maternel, שְׁנֵי לְאֻמִּים מִמֵּעַיִח יִפָּרֵ֑דוּ
 Gn 25,23 (
 
@@ -74,6 +77,7 @@ J
 ), Rt
 1,11.
 
+@@SPLIT:sense@@
 4. en général = intérieur, partie interne, ׳
 לִבִּי ֗֗֗ נָמֵס בְּתוֺךְ מ
 Ps 22,15,
@@ -81,6 +85,7 @@ comparer ׳
 תּוֺרָֽתְךָ בְּתוֺךְ מ
 Ps 40,9.
 
+@@SPLIT:sense@@
 5.
 figuré = siège des émotions : pitié, Es 16,11 (|| קֶרֶב) ; de la compassion de Dieu, Jr 31,20
 (||
@@ -97,6 +102,7 @@ Jb 30,27
 (douteux, voir Bu) ; amour, מֵעַי הָמוּ עָלָיו
 Ct 5,4.
 
+@@SPLIT:sense@@
 6. le ventre externe, מֵעָיו עֶשֶׁת שֵׁן
 Ct 5,14.
 

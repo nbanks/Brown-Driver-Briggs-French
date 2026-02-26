@@ -20,6 +20,7 @@ Ps 2,3 pluriel
 Jg 15,13 +,
 עֲבֹתֹת +, Ex 28,14 +, etc. ; —
 
+@@SPLIT:sense@@
 1.
 corde, cordage :
 
@@ -66,6 +67,7 @@ les chaînes de cordes (chaînes en forme de cordes) ; שְׁתֵּי (הָ)עֲ
 les deux cordes Ex 28,24 Ex 28,25 ; Ex 39,17 ; Ex 39,18
 .
 
+@@SPLIT:sense@@
 2.
 feuillage entrelacé (?) dans l'expression (עַלֿ)בֵּין עֲבֹתִים du sommet d'une vigne
 Ez

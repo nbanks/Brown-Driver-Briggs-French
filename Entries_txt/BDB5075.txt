@@ -15,6 +15,8 @@ kind, species, variety; Di compare Ethiopic
 [placeholder3240: Placeholders/3240.gif]
 hunt); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 נָ֫עוּ
@@ -77,12 +79,16 @@ vagabond
 Gen 4:12; Gen 4:14 (both ||
 נָד); figurative = err, sin, Jer 14:10.
 
+@@SPLIT:stem@@
+
 Niph`al
 Imperfect
 יִנּוֺעַ
 Amos 9:9
 be tossed about (of corn) in a sieve; יִנּוֺעוּ
 id., of bulwarks as fig-trees Nah 3:12 (|| נפל).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 feminine singular הֵנִ֫יעָה

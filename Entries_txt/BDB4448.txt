@@ -9,11 +9,15 @@ lapâtu
 , overthrow, Dl^HWB 382^);
 —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect
 וַיִּלְפֹּת
 Judg 16:29
 followed by accusative, Samson grasped the two middle columns.
+
+@@SPLIT:stem@@
 
 Niph`al
 Imperfect 3 masculine singular וַיִּלָּפֵת

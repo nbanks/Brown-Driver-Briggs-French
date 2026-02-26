@@ -14,6 +14,8 @@ Job 13:11;
 etc.; plural פְּחָדִים
 Job 15:21: —
 
+@@SPLIT:sense@@
+
 1.
 dread, ׳
 י
@@ -41,6 +43,8 @@ Ps 14:5 + (see
 פָּחַד
 ); c. genitive subject Prov 1:26; Prov 1:27 (both || אֵיד) Deut 28:67.
 
+@@SPLIT:sense@@
+
 2. = object of dread
 Ps 31:12; Ps 36:2,
 אֵלַי
@@ -59,6 +63,8 @@ sound of terrors; ׳
 פִּתְאֹם
 Job 22:10;
 Prov 3:25.
+
+@@SPLIT:sense@@
 
 3. as designation of deity יִצְחָק
 ׳

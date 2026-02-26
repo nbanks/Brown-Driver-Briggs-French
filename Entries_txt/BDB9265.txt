@@ -4,9 +4,13 @@ Biblical Aramaic
 [אֲבַד] verb
 perish (Biblical Hebrew); —
 
+@@SPLIT:stem@@
+
 Pe`al
 mpl. 3 masculine plural יֵאבַ֫דוּ (not וּן- see K^§ 26, 1^) Jer 10:11
 they shall perish, pass away.
+
+@@SPLIT:stem@@
 
 Haph`el (Old Aramaic האבד
 Lzb^205^
@@ -21,6 +25,8 @@ Dan 2:12
 Dan 2:24 (both
 with ל person), דָה- Dan 7:26
 (absolute).
+
+@@SPLIT:stem@@
 
 Hoph`al (K^§ 41 c^
 W^CG 225^) be destroyed:

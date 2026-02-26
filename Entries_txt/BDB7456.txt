@@ -5,6 +5,8 @@ Biblical Hebrew
 mock, scoff (Eccl 11:4
 תקלס, text by Adler^JQ xii (1900), 470^); —
 
+@@SPLIT:stem@@
+
 Pi`el
 Infinitive construct
 לְקַלֵּס
@@ -21,6 +23,8 @@ Symm
 collect, read לִקְבֹּץ
 Gr Toy Krae (or לְלַקֵּט
 , Co).
+
+@@SPLIT:stem@@
 
 Hithpa`el
 mock, deride, with ב person, Imperfect 3 masculine singular

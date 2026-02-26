@@ -30,6 +30,7 @@ Jb 16,10,
 etc. ; לְחֵיהֶם
 Os 11,4 —
 
+@@SPLIT:sense@@
 1.
 mâchoire, os de la mâchoire, d'un animal, Jg 15,15 ; Jg 15,16 (deux fois dans le verset) ; Jg 15,17 (mâchoire inférieure d'un âne), comparer nom
 propre, d'un lieu רָכַת לֶ֑חִי Jg 15,17 dans une comparaison עַלּלְֿחֵיהֶם
@@ -43,6 +44,7 @@ Ez 29,4
 ) ; comparer
 Ez 38,4 ; Es 30,28.
 
+@@SPLIT:sense@@
 2.
 joue, de l'homme 1 R 22,24 = 2 Ch 18,23 ; Jb 16,10 ; Ps 3,8 ; Ct 5,13 ; Es 50,6 ; Lm 3,30 ; Mi 4,14 de la femme Ct 1,10 ; Lm 1,2 (figuré de Jérusalem).
 

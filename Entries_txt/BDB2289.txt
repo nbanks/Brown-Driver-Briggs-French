@@ -107,6 +107,8 @@ lo! prefixed,
 [placeholder1407: Placeholders/1407.gif] forms its own plural
 [placeholder1408: Placeholders/1408.gif]. V. further W^SG 107 ff.^) —
 
+@@SPLIT:sense@@
+
 1. standing alone:
 
 a.
@@ -182,6 +184,8 @@ the other or (if indefinite) another, Gen 29:27 (זֹאת
 וְלֹא קָרַב זֶה אֶל זֶה, 1Kgs 3:23; 1Kgs 22:20; Isa 6:3; Isa 44:5 (3 t.), Ps 75:8
 זֶה יַשְׁפִּיל וְזֶה יָרִים, Job 1:16-18; Job 21:23; Job 21:25 +.
 
+@@SPLIT:sense@@
+
 2. In apposition to a substantive:
 
 a. preceding it (rare) Exod 32:1; Exod 32:23
@@ -245,6 +249,8 @@ affix (Josh 2:17
 הַזֶּה the gender of הזה shews that the text is in error: see Dr^§ 209^
 Obs.).
 
+@@SPLIT:sense@@
+
 3. More often as predicate, as 1Sam 24:17
 הֲקוֺלְךָ זֶה, 2Kgs 3:23
 דָּם זֶה
@@ -297,6 +303,8 @@ Ps 24:6; Ps 48:15
 such (= such a one) is God, our God, for ever (Hi
 De) Zeph 2:15 compare Job 14:3
 אַףעַֿלזֶֿה upon one such as this (Job 14:1 Job 14:2) dost thou open thy eyes?
+
+@@SPLIT:sense@@
 
 4. It is attached enclitically, almost as an adverb, to certain words, especially interrogative
 pronouns, to impart, in a manner often not reproducible in English idiom, directness and force, bringing the
@@ -385,7 +393,7 @@ Gen 3:13
 Lane^p. 948^.)
 
 e.
-לָמָּהזֶּֿה
+לָמָּהזֶּֿה
 wherefore, now ?
 Gen 18:13
 ; Gen
@@ -436,6 +444,8 @@ now ten times, Num 22:28; Num 22:32
 זֶה כַּמָּה שָׁנִים
 already how many years! compare Ruth 2:7.
 
+@@SPLIT:sense@@
+
 5. In poetry, as a relative pronoun (rare: but see also זוֺ
 ,
 זוּ): Ps
@@ -456,10 +466,12 @@ once, Exod 13:8
 ,
 even in prose). In some of the passages cited the punctuators, by coupling זה with the
 preceding
-substantive, and separating it from what follows by a disj. accent (as הַרֶֿזה), appear not to
+substantive, and separating it from what follows by a disj. accent (as הַרֶֿזה), appear not to
 have recognised its relative sense, but to have construed, 'this mountain, (which) thy
 right
 hand,' etc.
+
+@@SPLIT:sense@@
 
 6. With prefixes (in special senses): —
 

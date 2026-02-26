@@ -6,6 +6,7 @@ nom [masculin]
 un peu (forme diminutive Ol^§ 180^
 Lag^BN 85^) —
 
+@@SPLIT:sense@@
 1. de quantité, mesure (d'instruction) שָׁם
 ׳
 שָׁם ז
@@ -15,6 +16,7 @@ Es 28,10 ;
 Es 28,13 (dans
 les deux || צַו, קַו).
 
+@@SPLIT:sense@@
 2. de temps, וַאֲחַוֶּ֑ךָּ
 ׳
 כַּתַּרלִֿי ז

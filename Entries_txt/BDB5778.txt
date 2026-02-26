@@ -4,6 +4,8 @@ Biblical Hebrew
 [מַעֲבָר] noun [masculine]
 ford, pass, passing; — only construct:
 
+@@SPLIT:sense@@
+
 1.
 מַעֲבַר יַבֹּק
 Gen 32:23 (
@@ -11,10 +13,14 @@ Gen 32:23 (
 J
 ) the ford of (the) Jabbok.
 
+@@SPLIT:sense@@
+
 2.
 pass, מַעֲבַר מִכְמָשׂ
 1Sam 13:23
 the pass of M.
+
+@@SPLIT:sense@@
 
 3.
 passing, sweep, כָּלמַֿעֲבַר

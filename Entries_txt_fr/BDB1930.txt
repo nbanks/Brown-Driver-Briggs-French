@@ -7,12 +7,14 @@ dakû
 , écraser, Muss-Arn^Hebraica. Oct. 1890,
 66^) pas au Qal ; —
 
+@@SPLIT:stem@@
 Niph`al
 Participe
 נִדְכָּאִים
 Es 57,15
 — écrasés, figuré = les contrits.
 
+@@SPLIT:stem@@
 Pi`el
 Parfait
 דִּכָּא
@@ -61,6 +63,7 @@ Jb 19,2
 , mais plutôt à שֹׁכְנֵי, c.-à-d. les hommes habitant les maisons d'argile, les corps, comparer
 Di.
 
+@@SPLIT:stem@@
 Pu`al
 Parfait
 דֻּכְּאוּ
@@ -82,6 +85,7 @@ nobles) ; figuré du serviteur de ׳
 Es 53,5
 rendu humble, contrit Jr 44,10.
 
+@@SPLIT:stem@@
 Hithpa`el
 Imparfait
 יִדַּכְּאוּ

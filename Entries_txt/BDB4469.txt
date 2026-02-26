@@ -22,6 +22,8 @@ Ezek 40:17 +;
 construct לִשְׁכוֺת
 Neh 10:38 +; —
 
+@@SPLIT:sense@@
+
 1.
 
 a.
@@ -95,6 +97,8 @@ used by individuals Ezra 10:6; Neh 13:5 (
 ׳
 ל),
 Neh 13:8, in general Neh 13:4 Neh 13:9.
+
+@@SPLIT:sense@@
 
 2. of scribe's room in royal palace Jer 36:12; Jer 36:20; Jer 36:21.
 

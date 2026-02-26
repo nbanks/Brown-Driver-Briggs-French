@@ -5,6 +5,7 @@ hébreu biblique
 nom propre [d'une divinité]
 Yahvé, le nom propre du Dieu d'Israël — (
 
+@@SPLIT:sense@@
 1.
 
 ᵑ0
@@ -45,6 +46,7 @@ Dr^Stud.Bib.i.1 ss.^ Pour Jeve voir
 Sta^ZAW 1881, 346^
 De^ib.1882, 173 s. et Gn. Excurs. ii.^
 
+@@SPLIT:sense@@
 2. sur la littérature des interprétations voir Nes^Eg.67^
 Dr^l.c. — Beaucoup de savants récents expliquent^
 יַהְוֶה comme Hiph`il de היה (=היה) celui qui fait exister,
@@ -131,6 +133,7 @@ Dr^Stud. Bib. i. 7 ss^.
 
 II.
 
+@@SPLIT:sense@@
 1.
 יהוה est aussi utilisé avec אלהים et suffixes, surtout dans
 D
@@ -546,6 +549,7 @@ Pour
 les
 combinaisons avec d'autres noms divins voir ces noms.
 
+@@SPLIT:sense@@
 2. la formule אֲנִי יהוה est remarquable : —
 
 a. après
@@ -855,6 +859,7 @@ Es
 51,15
 .
 
+@@SPLIT:sense@@
 3.
 יהוה est aussi utilisé avec plusieurs prédicats, pour former des noms sacrés de lieux saints de Yahvé
 

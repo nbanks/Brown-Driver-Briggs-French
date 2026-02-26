@@ -4,6 +4,8 @@ Biblical Hebrew
 I. [בּוּז] verb
 despise (Late Hebrew id.) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular בַּז
 Zech 4:10

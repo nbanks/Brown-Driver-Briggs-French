@@ -14,6 +14,7 @@ reposer, habiter, comparer assyrien
 demeure), intransitif être situé (d'une ville), maškanu, lieu, demeure
 ) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier ׳
 שׁ
@@ -227,6 +228,7 @@ Es
 Pr 8,12
 .
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 3 masculin singulier שִׁכֵּן
 Ps 78,60
@@ -271,6 +273,7 @@ J
 Jr 7,3 ;
 Jr 7,7.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 1 singulier הִשְׁכַּ֫נְתִּי
 Ez 3,24

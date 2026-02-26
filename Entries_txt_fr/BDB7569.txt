@@ -13,6 +13,8 @@ malheur spécifiquement pollution (nocturne), et ainsi araméen
 [placeholder4858: Placeholders/4858.gif]
 présenter, offrir en sacrifice) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Parfait 3 masculin singulier suffixe קָֽרְךָ
 Dt 25,18,
@@ -63,6 +65,8 @@ Qo 2,14
 comparer Qo
 2,15.
 
+@@SPLIT:stem@@
+
 Niph`al
 Parfait 3 masculin singulier נִקְרָה
 Ex 3,18 1
@@ -91,6 +95,8 @@ E
 2.
 se trouver par hasard, ב lieu, 2 S 1,6 (+ Infinitif absolu נִקְרֹא
 ).
+
+@@SPLIT:stem@@
 
 Hiph`il
 

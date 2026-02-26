@@ -12,6 +12,8 @@ lisse (comparer aussi
 [placeholder5659: Placeholders/5659.gif]
 enduire, boucher) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Impératif +
 Hithpalpel
@@ -24,6 +26,8 @@ regarder autour de soi (2 S 22,42) ; Es 32,3 lire probablement 3 féminin plurie
 , des yeux, être aveuglés (voir
 שׁעה
 ).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Impératif masculin singulier וְעֵינָיו הָשַׁ֑ע

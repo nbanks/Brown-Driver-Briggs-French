@@ -13,6 +13,8 @@ Esd 4,20,
 מִן-
 Dn 4,23 —
 
+@@SPLIT:sense@@
+
 1.
 ayant, exerçant, la maîtrise :
 
@@ -20,9 +22,13 @@ a. de Dieu, suivi de ב, Dn 4,14 ; Dn 4,22 ; Dn 4,29 ; Dn 5,21 absolu, des cieux
 
 b. de rois Esd 4,20 (ב).
 
+@@SPLIT:sense@@
+
 2. comme nom = souverain
 Dn 2,10,
 capitaine Dn 2,15.
+
+@@SPLIT:sense@@
 
 3.
 ayant autorité pour faire une chose (Infinitif), d'où impersonnel = c'est autorisé

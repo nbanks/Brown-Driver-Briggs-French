@@ -30,6 +30,8 @@ Nah 2:1
 Amos 5:21 + 2 t.;
 —
 
+@@SPLIT:sense@@
+
 1.
 feast, especially one observed by a pilgrimage (Exod 23:14; Exod 23:17):
 
@@ -166,6 +168,8 @@ Deut 16:10; Deut 16:13; 1Kgs 8:65; 1Kgs 12:32; 1Kgs 12:33; 2Chr 7:8; 2Chr 7:9; 2
 ;
 2Chr 35:17;
 Ezra 3:4; Ezra 6:22; Neh 8:18.
+
+@@SPLIT:sense@@
 
 2.
 festival sacrifice (compare Late Hebrew חֲגִיגָה) Ps 118:27 (see

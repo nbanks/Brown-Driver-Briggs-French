@@ -4,6 +4,7 @@ hébreu biblique
 [שָׁמַד]_90_
 verbe
 
+@@SPLIT:stem@@
 Niph`al
 être exterminé, détruit (hébreu tardif espèces dérivées ; araméen שְׁמַד Pael
 faire apostasier (Jastr) ; syriaque
@@ -52,6 +53,7 @@ Es 48,19
 être détruit, des bamoth, Os 10,8, comparer (בֵּית רְשָׁעִים) Pr 14,11
 être dévasté, de la terre, Jr 48,8 (|| אבר).
 
+@@SPLIT:stem@@
 Hiphil_69_
 Parfait 3 masculin singulier הִשְׁמִיד
 Dt 2,22 +,

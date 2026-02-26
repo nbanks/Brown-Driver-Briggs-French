@@ -19,6 +19,8 @@ Gen 41:3,
 דַּקֹּת Gen
 41:4 —
 
+@@SPLIT:sense@@
+
 1.
 thin, of kine בָּשָׂר
 ׳
@@ -39,6 +41,8 @@ E
 ); thin, shrunk, withered, of man Lev 21:20 (
 H
 ).
+
+@@SPLIT:sense@@
 
 2.
 small, fine, of the manna דַּק מְחֻסְפָּס דַּק כַּכְּפֹר

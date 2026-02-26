@@ -6,6 +6,8 @@ nom [masculin]
 hauteur, arrogance (proprement infinitif) ; — absolu ׳
 ר,
 
+@@SPLIT:sense@@
+
 1.
 hauteur, élévation, שָׁמַיִם
 וָאָרֶץ לָעֹמֶק
@@ -17,6 +19,8 @@ Es 10,12
 (|| גֹּדֶל לֵבָב), Pr 21,4 (|| רְחַבלֵֿב) ; ainsi רֻם לִבּוֺ
 Jr 48,29
 (|| גַּאֲוָה, גָּאוֺן, גֹּבַהּ) ; puis seul :
+
+@@SPLIT:sense@@
 
 2.
 arrogance, רוּם אֲנָשִׁים

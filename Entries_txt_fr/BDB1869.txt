@@ -14,6 +14,7 @@ Zim^BP 96, 97^ ; araméen דְּוִי, דְּוָא
 [placeholder1104: Placeholders/1104.gif],
 [placeholder1105: Placeholders/1105.gif], être triste) —
 
+@@SPLIT:stem@@
 Qal
 Infinitif construit
 אִשָּׁה ֗֗֗ כִּימֵי נִדַּת דְּוֺתָהּ

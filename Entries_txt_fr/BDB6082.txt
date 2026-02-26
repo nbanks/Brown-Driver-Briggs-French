@@ -11,6 +11,7 @@ Es 38,8 +, suffixe
 מַעֲלֹתָו֯
 Am 9,6, etc. ; —
 
+@@SPLIT:sense@@
 1.
 marche, escalier
 du temple
@@ -22,21 +23,25 @@ Ez 43,17
 (prescrit) ; de la maison 2 R 9,13, du trône 1 R 10,19 ; 1 R 10,20 ; 2 Ch 9,18 ; 2 Ch 9,19 vers la cité de David
 Ne 3,15 ; Ne 12,37.
 
+@@SPLIT:sense@@
 2.
 marches (formant cadran solaire, comparer Di^Is^) 2 R 20,9
 (deux fois dans le verset) ;
 2 R 20,10 (deux fois dans le verset) ; 2 R 20,11 (3 t. dans le verset) = Es 38,8 (5 t.
 dans le verset)
 
+@@SPLIT:sense@@
 3.
 étages
 du ciel
 Am 9,6.
 
+@@SPLIT:sense@@
 4.
 montée, מִבָּבֶל
 Esd 7,9.
 
+@@SPLIT:sense@@
 5. (ל)הַמַּעֲלוֺת
 שִׁיר cantique des montées, vers les trois grandes fêtes de pèlerinage, c.-à-d. à chanter en montant vers
 Jérusalem, titres des Psaumes 120-134 + Ps 84,6

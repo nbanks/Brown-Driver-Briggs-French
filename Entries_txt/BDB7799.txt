@@ -4,6 +4,8 @@ Biblical Hebrew
 [רִיחַ] verb
 denominative
 
+@@SPLIT:stem@@
+
 Hiph`il (?),smell, perceive odour; -Imperfect 3 masculine singular
 יָרִיחַ
 Job 39:25,

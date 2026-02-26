@@ -13,6 +13,7 @@ chausser de sandales, ferrer un cheval ou un chameau ; syriaque
 [placeholder3356: Placeholders/3356.gif]
 ferrer un cheval) ; —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 1 singulier suffixe וָאֶנְעֲלֵךְ
 תָּ֑חַשׁ
@@ -20,6 +21,7 @@ Ez 16,10
 et je te chaussai de
 תחשׁ (q. v.).
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait 3 masculin pluriel suffixe וַיַּנְעִלוּם
 2 Ch 28,15

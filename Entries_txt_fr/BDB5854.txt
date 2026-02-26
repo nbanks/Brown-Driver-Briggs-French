@@ -33,6 +33,7 @@ fête,
 affirmé
 Dl^HWB 32^) ; — seulement intensif :
 
+@@SPLIT:stem@@
 Pi`el
 entourer (comparer éthiopien), Parfait 3 masculin singulier suffixe
 עִוְּדֻנִי
@@ -40,11 +41,13 @@ Ps 119,61
 (comparer סְבָבוּנִי
 Ps 18,6).
 
+@@SPLIT:stem@@
 Polel, restaurer, soulager (comparer arabe IV.), Imparfait 3
 masculin
 singulier יְעוֺדֵד, avec accusatif de personne Ps 146,9 (|| שָׁמַר, opposé à
 עִוֵּת), Ps 147,6 (opposé à הִשְׁפִּיל).
 
+@@SPLIT:stem@@
 Hithpolel
 être restauré, Imparfait 1 pluriel וַנִּתְעוֺדָּ֑ד
 Ps 20,9 (+

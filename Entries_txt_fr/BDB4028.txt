@@ -32,6 +32,7 @@ Gn 43,11 + ;
 כְּלֵיהֶם
 Jos 7,11 + ; —
 
+@@SPLIT:sense@@
 1. en général, article, objet, fait de tout matériau, chose
 , spécialement chose de valeur זָהָב
 ׳
@@ -125,6 +126,7 @@ Lv 13,49
 P
 ).
 
+@@SPLIT:sense@@
 2.
 ustensile, instrument, appareil :
 
@@ -309,6 +311,7 @@ Nb
 
 2 R 23,4.
 
+@@SPLIT:sense@@
 3.
 récipient, contenant, de divers matériaux et pour divers usages Gn 43,11 (
 J
@@ -379,6 +382,7 @@ les récipients de petitesse (Da^Synt. § 32, R.
 5^
 ), depuis les récipients-bassins jusqu'à tous les récipients-cruches.
 
+@@SPLIT:sense@@
 4. spécifiquement כְּלֵיגֹֿמֶא
 Es 18,2
 vaisseaux (bateaux) de papyrus.

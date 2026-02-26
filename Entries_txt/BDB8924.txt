@@ -12,6 +12,8 @@ smooth (compare also
 [placeholder5659: Placeholders/5659.gif]
 smear over, close up); —
 
+@@SPLIT:stem@@
+
 Qal
 Imperative +
 Hithpalpel
@@ -24,6 +26,8 @@ look about (2Sam 22:42); Isa 32:3 read probably 3 feminine plural תְּשֹׁע
 , of eyes, be blinded (see
 שׁעה
 ).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imperative masculine singular וְעֵינָיו הָשַׁ֑ע

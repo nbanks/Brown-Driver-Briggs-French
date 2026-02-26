@@ -30,6 +30,7 @@ Ps 21,11,
 Jr 29,28,
 פִּרְיָן Jr 29,5, etc. ; —
 
+@@SPLIT:sense@@
 1.
 פְּרִי הָאֲרָמָה
 Gn 4,3 (
@@ -67,9 +68,11 @@ fruit de (consistant en) une récolte ; Ps 72,16 est douteux ; Che
 Du interprètent comme 2 ; Bae
 propose יִפְרוּ.
 
+@@SPLIT:sense@@
 2. = progéniture : fruit des entrailles (בֶּטֶן) Gn 30,2 ; Dt 7,13 + 9 t., comparer Lm 2,20 ; Ps 21,11 du
 bétail (בְּהֵמָה) Dt 28,4 ; Dt 28,11 ; Dt 28,51 ; Dt 30,9 du serpent, figuré de la puissance conquérant la Philistie Es 14,29.
 
+@@SPLIT:sense@@
 3.
 figuré du fruit des actions, c.-à-d. leurs conséquences : bon Es 3,10 ; Ps 58,12 mauvais Os 10,13 ;
 Pr 1,31 ;

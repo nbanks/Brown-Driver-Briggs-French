@@ -4,11 +4,13 @@ hébreu biblique
 I. [תָּנָה] verbe
 louer (si vera lectio, apparenté à נתן) ; —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 3 masculin pluriel יִתְּנוּ בַגּוֺיִם
 Os 8,10
 louer (des alliés) parmi les nations ;
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 pluriel הִתְנוּ Os 8,9
 ont loué des amants. — We dans les deux יִתְּנוּ

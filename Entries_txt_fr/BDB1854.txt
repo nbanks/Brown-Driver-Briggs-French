@@ -6,6 +6,7 @@ hébreu biblique
 [placeholder1090: Placeholders/1090.gif],
 [placeholder1091: Placeholders/1091.gif]) —
 
+@@SPLIT:stem@@
 Niph`al
 Participe
 כְּאִישׁ נִדְהָם

@@ -17,6 +17,8 @@ Isa 8:12
 מוֺרַאֲכֶם Isa 8:13 + 2 t.; plural מוֺרָאִים
 Deut 4:34 —
 
+@@SPLIT:sense@@
+
 1.
 fear, terror, || חַת
 Gen 9:2 (
@@ -24,15 +26,21 @@ P
 ); || פַּחַד
 Deut 11:25.
 
+@@SPLIT:sense@@
+
 2.
 reverence:
 אַיֵּה מוֺרָאִי
 where is the reverence due to me
 Mal 1:6.
 
+@@SPLIT:sense@@
+
 3.
 object of reverence, especially God Isa 8:12; Isa 8:13; Ps 76:12 || בְּרִית
 Mal 2:5.
+
+@@SPLIT:sense@@
 
 4.
 awe-inspiring spectacle or deed

@@ -7,6 +7,7 @@ chanter (dénominatif selon Nö^ZMG xxxvii (1883),
 537^
 Gerb^172^, mais, si c'est le cas, un ancien) ; —
 
+@@SPLIT:stem@@
 Qal_49_
 Parfait 3 masculin singulier שָׁר
 Ps 7,1
@@ -113,6 +114,7 @@ etc. ; — chanter : oiseaux So 2,14 hommes Jb 36,24 ailleurs participe des chan
 pluriel Esd 2,65
 chanteuses = Ne 7,67.
 
+@@SPLIT:stem@@
 Hoph`al
 être chanté : Imparfait
 יוּשַׁר הַשִׁיר הַזֶּה

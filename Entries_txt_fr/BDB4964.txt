@@ -19,6 +19,7 @@ Jb 29,10 ;
 Jb 31,37 (en
 comparaison). Surtout
 
+@@SPLIT:sense@@
 1. du roi d'Israël : de Saül עַל
 ׳
 מָשַׁח לְנ (+ accusatif de personne), 1 S 9,16 (sujet prophète), comparer de Salomon, sujet peuple, 1 Ch 29,22 ;
@@ -66,9 +67,11 @@ Salomon צִוָּה אֹתוֺ
 ׳
 לְנ (+ accusatif de personne) 2 Ch 11,22 (d'Abija, sujet Rehob.) ; de Juda 1 Ch 28,4.
 
+@@SPLIT:sense@@
 2. d'un dirigeant ou prince étranger
 Ez 28,2 ; Dn 9,25 ; Dn 9,26.
 
+@@SPLIT:sense@@
 3. titre d'un haut fonctionnaire lié au temple Jr 20,1 (de Pashhur) וְהוּא פָקִיד נָגִיד
 
 ׳
@@ -85,6 +88,7 @@ Ez 28,2 ; Dn 9,25 ; Dn 9,26.
 ׳
 בְּרִית נ.
 
+@@SPLIT:sense@@
 4.
 dirigeant en d'autres fonctions (tardif) : de tribu 1 Ch 27,16 ; 2 Ch 19,11 des Qoréites 2 Ch 9,20 des guerriers aaronites
 
@@ -97,6 +101,7 @@ assyrienne : || שַׂר) ; des trésors du temple 1 Ch 26,24, comparer 2 Ch 31,
 2 Ch 28,7
 (c.-à-d. du palais ?).
 
+@@SPLIT:sense@@
 5.
 choses princières, pluriel abstrait Pr 8,6.
 

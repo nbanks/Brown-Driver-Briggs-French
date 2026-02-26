@@ -6,9 +6,11 @@ nom masculin^
 Es 29,17
 ^
 
+@@SPLIT:sense@@
 1.
 plantation, terre cultivée.
 
+@@SPLIT:sense@@
 2.
 fruit, produit du jardin
 (ל + כֶּרֶם, comparer Ges^«GKC:85»§
@@ -20,6 +22,7 @@ t.; suffixe כַּדְמִלּוֺ
 Es 10,18 + 2
 t.; —
 
+@@SPLIT:sense@@
 1.
 terre cultivée, Es 16,10
 ׅ || ( כְּרָמִים, Es 10,18
@@ -36,6 +39,7 @@ le pays de terre cultivée, c.-à-d. fertile; יַעַָר כַּרְמִלּו�
 כַּרְמֶל
 .
 
+@@SPLIT:sense@@
 2. par métonymie fruit (frais), produit du jardin, 2 R 4,42 (+
 לֶחֶם שְׂעוֺרִים
 Lv 2,14 (+

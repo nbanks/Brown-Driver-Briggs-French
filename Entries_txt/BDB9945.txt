@@ -9,6 +9,8 @@ corrupt (
 (once), Syriac
 [placeholder6169: Placeholders/6169.gif]; Biblical Hebrew [שָׁחַת]); —
 
+@@SPLIT:stem@@
+
 Pe`al
 Passive participle feminine singular שְׁחִיתָה
 Dan 2:9

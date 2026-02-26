@@ -5,6 +5,8 @@ Biblical Hebrew
 noun masculine
 mildew, paleness, lividnees;
 
+@@SPLIT:sense@@
+
 1.
 mildew
 Amos 4:9;
@@ -13,6 +15,8 @@ Amos 1:37;
 
 2Chr 6:28
 (all || שִׁדָּפוֺן).
+
+@@SPLIT:sense@@
 
 2.
 paleness (of face) Jer 30:6.

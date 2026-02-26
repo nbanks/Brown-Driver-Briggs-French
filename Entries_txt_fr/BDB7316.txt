@@ -15,6 +15,8 @@ verbe
 קְדַר
 être sombre) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Parfait consécutif וְקָדַר
 Mi 3,6 1 singulier
@@ -38,6 +40,8 @@ comparer 2 S 19,25
 Jr 14,2 (
 לָאָרֶץ, métaphore des portes) ; Jb 5,11 ; Jb 30,28 (בְּלֹא חַמָּה), Ps 35,14 ; Ps 38,7 ; Ps 42,10 ; Ps 43,2.
 
+@@SPLIT:stem@@
+
 Hiph`il
 
 1.
@@ -51,6 +55,8 @@ faire porter le deuil
 וָאַקְדִּר עָלָיו לְבָנוֺן
 Ez 31,15
 .
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Parfait 3 pluriel וְהַשָּׁמַיִם הִתְקַדְּרוּ עָבִים

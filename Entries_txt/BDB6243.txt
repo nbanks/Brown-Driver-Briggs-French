@@ -5,6 +5,8 @@ Biblical Hebrew
 denominative (Gerber^61 f.^) fine, mulct
 ; —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect consecutive וְעָֽנְשׁוּ
 Deut 22:19 (2
@@ -21,6 +23,8 @@ Passive participle
 עֲנוּשִׁם
 Amos 2:8
 those fined, mulcted.
+
+@@SPLIT:stem@@
 
 Niph`al
 Imperfect +

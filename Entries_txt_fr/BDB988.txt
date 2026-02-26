@@ -11,6 +11,7 @@ piller, dépouiller (arabe
 sauver
 Prä^BAS i. 33^) —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier וּבָזַז (consécutif) Ez 29,19 3 pluriel בָּֽזְַזוּ
 
@@ -78,6 +79,7 @@ accusatif de personne dépouillée Es 10,2 ; Es 11,14 ; Es 17,14 (שׁסה) Es 4
 absolu
 Nb 31,53 ; Es 42,24.
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 וְנָבֹ֫זוּ consécutif Am 3,11
@@ -92,6 +94,7 @@ Am 3,11
 Es 24,3
 הִבּוֺז תִּבּוֺז (|| הִבּוֺק תִּבּוֺק).
 
+@@SPLIT:stem@@
 Pu`al
 Parfait
 וּבֻזָּ֑זוּ consécutif Jr 50,37 — être pris comme butin, sujet

@@ -8,6 +8,7 @@ tremper, baigner ; comparer peut-être arabe
 [placeholder2061: Placeholders/2061.gif]
 saturavit tinctura vestem, Frey) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 וְטָבַל consécutif Lv 4,6 + 5 t. ; וְטָבַלְתְּ consécutif Rt 2,14
@@ -50,6 +51,7 @@ Lv 14,16
 2. intransitif, se tremper (soi-même), suivi de בְּ, 2 R 5,14 dans
 le Jourdain (|| רָחַץ בְּ 2 R 5,10 2 R 5,12).
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 masculin pluriel נִּטְבְּלוּ
 Jos 3,15

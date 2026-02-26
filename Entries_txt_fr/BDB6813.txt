@@ -14,6 +14,7 @@ fendre, diviser ;
 se retirer (intransitif), aussi enlever, secourir ; éthiopien
 [placeholder4345: Placeholders/4345.gif] : libérer) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 2 masculin singulier וּפָרַקְדָמתּ֫
 Gn 27,40
@@ -40,6 +41,7 @@ Du
 We), > Hup
 Bae et autres arracher comme proie.
 
+@@SPLIT:stem@@
 Pi`el
 Imparfait 3 masculin singulier יְפָרֵק
 Za 11,16
@@ -52,6 +54,7 @@ E
 1 R 19,11 un
 grand vent fendant les montagnes (|| מְשַׁבֵּר).
 
+@@SPLIT:stem@@
 Hithpa`el
 arracher (pour, c.-à-d. de, soi-même Ges^«GKC:54f»§
 54f^) ; Imparfait 3 masculin pluriel וַיִּתְפָּֽרְקוּ

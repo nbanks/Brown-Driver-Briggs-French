@@ -8,6 +8,8 @@ be wroth (Late Hebrew id., Hiph`il make wrathful
 [placeholder4828: Placeholders/4828.gif]
 be wrathful, also be anxious, fearful);-
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular ׳
 ק
@@ -50,6 +52,8 @@ P
 37:15; 1Sam
 29:4; 2Kgs 13:19.
 
+@@SPLIT:stem@@
+
 Hiph`il
 Perfect 2 masculine singular הִקְצַפְתָּ
 Deut 9:7 2
@@ -66,6 +70,8 @@ provoke to wrath, with accusative ׳
 י
 Deut 9:7; Deut 9:8; Deut 9:22; Zech 8:14 so
 (accusative omitted) Ps 106:32.
+
+@@SPLIT:stem@@
 
 Hithpa`el
 put oneself in a rage: Perfect 3 masculine singular consecutive וְהִתְקַצַּף

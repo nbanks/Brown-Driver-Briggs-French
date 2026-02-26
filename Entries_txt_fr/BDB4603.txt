@@ -10,6 +10,7 @@ ma—ru
 , devant, souvent du temps, quoique toujours du temps passé, jadis
 , Dl^HWB 402^) ; —
 
+@@SPLIT:sense@@
 1.
 demain (le jour suivant le jour présent),
 
@@ -60,6 +61,7 @@ Ex
 
 כִּי מָחָר נָמוּת.
 
+@@SPLIT:sense@@
 2. = dans le temps à venir, Ex 13,14
 כִּי יִשְׁאָֽלְךָ בִנְךָ מָחָר לֵאמֹר = Dt 6,20 ; Jos 4,6 ; Jos 4,21 ; Jos 22,24 ; Jos 22,27 ; Jos 22,28 ainsi בְּיוֺם
 מָחָר

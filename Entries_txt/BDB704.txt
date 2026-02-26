@@ -7,6 +7,8 @@ lay up, store up (Mishna id., Aramaic אֲצַר,
 [placeholder390: Placeholders/390.gif]
 confine, restrict) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 plural אָֽצְרוּ
 2Kgs 20:17;
@@ -18,10 +20,14 @@ store up treasure 2Kgs 20:17 = Isa 39:6 object חָמָס וָשֹׁד
 Amos 3:10, i.e.
 treasure gained by violence robbery.
 
+@@SPLIT:stem@@
+
 Niph`al
 Imperfect
 יֵאָצֵר
 be stored up, of the merchandise of Tyre Isa 23:18.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imperfect

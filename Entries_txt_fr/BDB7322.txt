@@ -30,6 +30,7 @@ Nb 5,10 ; 2 R 12,19,
 2 Ch 15,18,
 etc. ; —
 
+@@SPLIT:sense@@
 1.
 séparation, sacralité, sainteté, de Dieu :
 
@@ -72,6 +73,7 @@ Es 63,11,
 comparer Ps 51,13
 .
 
+@@SPLIT:sense@@
 2. de lieux mis à part comme sacrés par la présence de Dieu :
 
 a. demeure céleste ; ׳
@@ -245,6 +247,7 @@ Ez 45,3
 Ez 48,14
 .
 
+@@SPLIT:sense@@
 3. choses consacrées dans les lieux sacrés :
 
 a. mobilier du tabernacle
@@ -338,6 +341,7 @@ Dn 9,24
 .
 ^
 
+@@SPLIT:sense@@
 4. personnes sacrées par leur lien avec les lieux sacrés :
 
 a. prêtres Lv 21,6 ; 2 Ch 23,6 ;
@@ -399,6 +403,7 @@ Dn 11,28
 ; Dn
 11,30 (deux fois dans le verset).
 
+@@SPLIT:sense@@
 5. temps consacrés au culte : שׁבת
 Ex 16,23 ;
 Ex 31,14 ;
@@ -426,6 +431,7 @@ Lv 23 ; Nb
 P
 ).
 
+@@SPLIT:sense@@
 6. de choses et de personnes purifiées rituellement, et ainsi mises à part comme sacrées ; choses 1 S 21,6 chair
 Jr 11,15 ;
 Ml 2,11

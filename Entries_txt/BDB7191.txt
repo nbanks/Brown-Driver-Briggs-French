@@ -7,6 +7,8 @@ hide, treasure up (Late Hebrew id.; Tel Amarna
 ƒapânu
 ; set, of sun); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular ׳
 צ
@@ -80,6 +82,8 @@ person Prov 1:11
 ; Prov 1:18
 and (of eyes of wicked) Ps 10:8.
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect 3 masculine singular נִצְפֵּן
 Jer 16:17
@@ -88,6 +92,8 @@ be hidden from before (מִנֶּנֶד) ׳
 Job 24:1 +
 מִשַׁדַּי
 stored up on the part of shadday; stored up for (ל) one Job 15:20.
+
+@@SPLIT:stem@@
 
 Hiph`il
 hide, =

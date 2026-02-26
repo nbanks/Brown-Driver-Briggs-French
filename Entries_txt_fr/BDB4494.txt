@@ -11,6 +11,7 @@ ma°âsu
 est peut-être détruire
 Meissn^Suppl. 55^) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier מָאַס
 Es 8,6 + 4 t ; suffixe
@@ -183,6 +184,7 @@ Symm
 Bö
 אֶמָּאֵס) Ez 21,18 (mais voir ci-dessus). —
 
+@@SPLIT:stem@@
 Niph`al
 être rejeté : Imparfait
 תִּמָּאֵם

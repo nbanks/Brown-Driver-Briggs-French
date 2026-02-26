@@ -4,6 +4,7 @@ hébreu biblique
 נֹב
 nom propre [d'un lieu]
 
+@@SPLIT:sense@@
 1.
 ancienne ville sacerdotale
 1 S 22,19
@@ -22,6 +23,7 @@ avec Nobe près de Lydda comparer Buhl^Geogr.
 189^ ; un B¢t N¥b¹ se trouve à environ 13 milles ouest-nord-ouest
 de Jérusalem, environ 10 milles sud-est de Lydda.
 
+@@SPLIT:sense@@
 2.
 Es 10,32 juste
 au nord de Jérusalem, étape dans la marche assyrienne (idéale) ; comparer Ne 11,32 (habitants parmi les Benjaminites) ; peut-être =

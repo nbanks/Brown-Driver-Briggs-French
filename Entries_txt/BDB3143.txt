@@ -4,6 +4,8 @@ Biblical Hebrew
 II. [חֶ֫רֶס]
 proper name [of a location]
 
+@@SPLIT:sense@@
+
 1.
 abode of Amorites, בְּהַרחֶֿרֶס בְּאַיָּלוֺן וּבְשַׁעַלְבִֿים
 Judg 1:35, since
@@ -19,6 +21,8 @@ Bla;
 ᵐ5
 
 ἐν τῷ [ὄρει τοῦ] Μυρσινῶνι (-ος) = הַר הֲדַס.
+
+@@SPLIT:sense@@
 
 2. place east of Jordan מִלְמַעֲלֵה הֶחָ֑רֶס
 Judg 8:13

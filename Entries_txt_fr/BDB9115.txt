@@ -24,6 +24,7 @@ Ps 106,9
 Ps 71,20 (mais
 voir 5 infra) ; —
 
+@@SPLIT:sense@@
 1.
 profondeur, des eaux souterraines, Gn 49,25 (poème dans
 J
@@ -47,6 +48,7 @@ Pr 8,24 (||
 מַעְיָנוֺת), Pr 3,20 (opposé à שְׁחָקִים), et probablement Ps 33,7 (||
 מֵי הַיָּם), Ps 135,6 ( + יַמִּים).
 
+@@SPLIT:sense@@
 2. (profonde) mer, submergeant Tyr Ez 26,19 (|| הַמַּיִם הָרַבִּים
 ), rugissant à la théophanie
 Ha 3,10 en général, || יָם, Jb 38,30 (׳
@@ -63,6 +65,7 @@ pluriel = abîmes de la mer, Ex 15,5 ; Ex 15,8 (de la mer Rouge, ainsi) Es 63,13
 (poétique des creux des grandes vagues, opposé à שָׁמַיִם) ; vaguement, כָּלתְּֿהֹמוֺת
 Ps 135,6 ; Ps 148,7.
 
+@@SPLIT:sense@@
 3.
 océan primordial, profondeur, dans la cosmogonie hébraïque, ׳
 פְּנֵי ת
@@ -73,6 +76,7 @@ Gunk^Schöpfung u. Chaos 21 ss.^ OCWhitehouse^Hast. DB
 COSMOGONY^
 Zim^KAT3. 492 s., 509 s., 585^).
 
+@@SPLIT:sense@@
 4.
 profondeur, d'un fleuve Ez 31,4 (Nil ; || מַיִם, + נַהֲרוֺתֶיהָ), v
 Ez 31,15
@@ -82,6 +86,7 @@ Ez 31,15
 Dt 8,7 ( +
 עֲיָנֹת, נַחֲלֵי מַיִם). — Sur Ps 42,8 voir 2.
 
+@@SPLIT:sense@@
 5.
 abîme (si vera lectio) : תְּהוֺמוֺת הָאָרֶץ = Shéol
 , Ps

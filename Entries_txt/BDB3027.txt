@@ -9,6 +9,8 @@ SI^4. 6^
 participle plural החצבם; compare Phoenician מחצב = Hebrew id.
 ) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 חָצֵב
@@ -81,10 +83,14 @@ cleave subject ׳
 sends
 forked lightnings (but on text compare Che and critical note)
 
+@@SPLIT:stem@@
+
 Niph`al
 Imperfect
 יֵחָצְבוּן
 be cut, hewn, graven (words on rock) Job 19:24.
+
+@@SPLIT:stem@@
 
 Pu`al
 Perfect
@@ -92,6 +98,8 @@ Perfect
 Isa 51:1
 
 figurative, hewn out of rock (of Israel's origin; || נֻקַּר).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Participle

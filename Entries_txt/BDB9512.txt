@@ -9,6 +9,8 @@ Haph`el (M^§ 65 c^) declare (
 
 Syriac; Biblical Hebrew III. [חָוָה] (late)); —
 
+@@SPLIT:stem@@
+
 Pa`el with accusative פִּשְׁרָא (or equivalent ): Imperfect 3
 masculine singular suffix יְחַוִּנַּ֫נִי (suffix person Indirect object) Dan 5:7,
 יְּחֵוִנֵּהּ
@@ -16,6 +18,8 @@ Dan 2:11
 (קֳדָּם person); 1 singular אֲחַוֶה
 Dan 2:24
 (ל of person), 1 plural אְחַוֶּה Dan 2:4.
+
+@@SPLIT:stem@@
 
 Haph`el usually with accusative פִשְׁרָא (or equivalent ):
 Imperfect 3 masculine singular יְהַחֲוֶה

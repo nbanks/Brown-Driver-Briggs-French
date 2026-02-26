@@ -5,6 +5,7 @@ hébreu biblique
 être écrasé (araméen
 [placeholder1021: Placeholders/1021.gif] [être écrasé,] périr) —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 féminin singulier גָָּֽרְסָה
 Ps 119,20
@@ -14,6 +15,7 @@ figuré נַפְשִׁי לְ
 mon âme est écrasée (c.-à-d. périt : comparer syriaque) de désir pour
 (comparer כָּלָה לְ).
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait
 וַיַּגְרֵס בֶּחָצָץ שִׁנָּ֑י

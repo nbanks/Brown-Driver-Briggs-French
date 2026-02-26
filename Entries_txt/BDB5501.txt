@@ -4,12 +4,18 @@ Biblical Hebrew
 מַסְגֵּר
 noun [masculine]
 
+@@SPLIT:sense@@
+
 1.
 locksmith, smith.
+
+@@SPLIT:sense@@
 
 2.
 dungeon:
 — always absolute:
+
+@@SPLIT:sense@@
 
 1.
 collective
@@ -21,6 +27,8 @@ compare 2Kgs
 24:16, Jer
 24:1; Jer 29:2
 .
+
+@@SPLIT:sense@@
 
 2.
 dungeon

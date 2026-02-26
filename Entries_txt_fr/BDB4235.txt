@@ -7,6 +7,7 @@ verbe
 araméen כְּשָׁר,
 [placeholder2675: Placeholders/2675.gif]) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier וְכָשֵׁר הַדָּבָר לִפְנֵי הַמֶּלֶךְ
 Est 8,5
@@ -15,6 +16,7 @@ et que la chose soit convenable aux yeux du roi ; Imparfait
 Qo 11,6 tu
 ne sais pas si ceci réussira, ou cela.
 
+@@SPLIT:stem@@
 Hiph`il
 Infinitif construit
 וְיִתְרוֺן הַכְשֵׁיר חָכְמָה

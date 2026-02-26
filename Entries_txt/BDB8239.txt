@@ -18,6 +18,8 @@ understand, make wise;
 , cleverness, Meissn^Suppl.93^
 ); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular ׳
 שׂ
@@ -26,6 +28,8 @@ be prudent, circumspect (SS
 HPS); Kit
 Buhl
 Gerber and others prosper.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 masculine singular הִשְׂכִּיל

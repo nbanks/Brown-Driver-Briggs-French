@@ -33,6 +33,8 @@ Zech 11:1
 Isa 37:24 =
 2Kgs 19:23 —
 
+@@SPLIT:sense@@
+
 1.
 cedar-tree,
 (a) as growing
@@ -56,6 +58,8 @@ of individuals Jer
 22:7;
 Ps 92:13; Ezek 17:22; Ezek 17:23 compare other examples of figurative use, above; simile
 of straightness & strength Job 40:17 (tail of hippopotamus).
+
+@@SPLIT:sense@@
 
 2.
 cedar-timber, cedar-wood for building, עֲצֵי אֲרָזִים
@@ -85,6 +89,8 @@ Isa 44:14;
 1Kgs 5:20;
 Ezek 27:5; Ezra
 3:7 above)
+
+@@SPLIT:sense@@
 
 3.
 cedar-wood used in purifications, with עֵץ

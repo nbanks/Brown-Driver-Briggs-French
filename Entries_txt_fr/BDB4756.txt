@@ -5,6 +5,7 @@ hébreu biblique
 nom propre, masculin
 de prêtres.
 
+@@SPLIT:sense@@
 1.
 1 Ch 24,18
 attribué à l'époque de David,
@@ -19,6 +20,7 @@ L
 
 Μοοζια.
 
+@@SPLIT:sense@@
 2.
 Ne 10,9,
 époque de Néhémie,

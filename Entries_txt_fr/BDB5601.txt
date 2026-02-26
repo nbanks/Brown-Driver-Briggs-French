@@ -13,6 +13,7 @@ mépriser,
 [placeholder3586: Placeholders/3586.gif]
 rejeter) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 2 masculin singulier סָלִיתָ
 Ps 119,118
@@ -20,6 +21,7 @@ Ps 119,118
 tu fais peu de cas de tous ceux qui s'égarent de tes statuts. — comparer aussi סַלּוֺן
 ci-dessous
 
+@@SPLIT:stem@@
 Pi`el
 intensif
 Parfait 3 masculin singulier סִלָּה

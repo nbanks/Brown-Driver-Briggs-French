@@ -5,6 +5,7 @@ hébreu biblique
 nom propre, masculin et [d'un lieu]
 Mamré, seulement dans la Genèse :
 
+@@SPLIT:sense@@
 1. dans
 J
 seulement אֵלֹנֵי מַמְרֵא
@@ -12,11 +13,13 @@ térébinthes de Mamré (nom propre, masculin ?), Gn 13,18 (défini par אֲשֶ
 ), Gn 18,1
 (dans les deux, lieu d'habitation d'Abraham).
 
+@@SPLIT:sense@@
 2.
 nom propre, masculin dans Gn 14,13 (הָאֱמֹרִי
 ׳
 אֵלֹנֵי מ), comparer Gn 14,24 (où allié d'Abraham)
 
+@@SPLIT:sense@@
 3.
 nom propre [d'un lieu] dans
 P

@@ -9,6 +9,7 @@ Dn 2,31+ ;
 féminin singulier חֲדָה
 Esd 4,8 + ; —
 
+@@SPLIT:sense@@
 1.
 un côté
 Dn 7,5 nom omis Dn 6,3
@@ -29,6 +30,7 @@ Esd 6,3
 ח = un certain (τινὰ) Dn 7,16 (avec מִן
 partitif).
 
+@@SPLIT:sense@@
 2.
 un (article indéfini) avec substantif Dn 2,31 ; Dn 6,18 ; Dn 4,16 (voir
 שָׁעָה

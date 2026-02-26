@@ -17,6 +17,8 @@ acquire, possess, CIS^iv,no.89,5.6^,
 acquire, subjugate; Aramaic קְנָא,
 [placeholder4785: Placeholders/4785.gif] (accquire); —
 
+@@SPLIT:stem@@
+
 Qal_81_
 Perfect 3 masculine singular ׳
 ק
@@ -103,10 +105,14 @@ P
 ; Zech 11:5
 +.
 
+@@SPLIT:stem@@
+
 Niph`al
 be bought: Perfect 3 masculine singular נִקְנָה
 Jer 32:43
 Imperfect 3 masculine plural יִקָּנוּ Jer 32:15.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 masculine singular suffix אָדָם חִקְנַנִי

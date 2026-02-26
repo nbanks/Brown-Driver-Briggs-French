@@ -5,6 +5,7 @@ araméen biblique
 verbe
 connaître (voir hébreu biblique) ; —
 
+@@SPLIT:stem@@
 Peal
 Parfait 3 masculin singulier ׳
 י
@@ -41,6 +42,7 @@ personne Dn
 4,13 ; Esd 5,8
 .
 
+@@SPLIT:stem@@
 Haphel
 Parfait 3 masculin singulier הוֺדַע
 Dn 2,15 +,

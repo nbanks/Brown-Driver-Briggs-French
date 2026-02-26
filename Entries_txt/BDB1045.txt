@@ -57,6 +57,8 @@ Num 16:32 +; (
 Ps 49:12),
 etc.; —
 
+@@SPLIT:sense@@
+
 1.
 house,
 
@@ -474,6 +476,8 @@ Hos 8:1; Hos 9:15
 אֶרֶץ י
 Hos 9:3).
 
+@@SPLIT:sense@@
+
 2.
 place, of Jerusalem בֵּית קִבְרוֺת אֲבֹתַי
 Neh 2:3 (||
@@ -495,6 +499,8 @@ on
 both these see
 בֵּית
 below [בַּיִן] בֵּין p. 108.
+
+@@SPLIT:sense@@
 
 3.
 receptacle, תְּעָלָה כְּבֵית סָאתַיִם
@@ -525,6 +531,8 @@ B
 Hi
 Co).
 
+@@SPLIT:sense@@
+
 4. of house as containing a family, hence in phrase of slaves belonging to household
 יְלִידֵי
 בֵיתוֺ
@@ -552,6 +560,8 @@ Gen 36:6
 לְבֵיתיַֿעֲקֹב
 Gen 46:27.
 Hence
+
+@@SPLIT:sense@@
 
 5.
 household, family (592 t.)
@@ -936,6 +946,8 @@ Jeush and Beriah had not many sons, therefore they became
 לְבֵית אָב לִפְקֻדָּה אֶחָ֑ת (compare ראשׁי אבות, below אב
 ).
 
+@@SPLIT:sense@@
+
 6. house, including household affairs, persons, property, etc.
 וַיַּפְקִדֵהוּ עַלבֵּֿיתוֺ
 Gen 39:4 compare
@@ -967,6 +979,8 @@ personal property
 13:8
 אִםתִּֿתֶּןלִֿי אֶתחֲֿצִי בֵּיתֶ֑ךָ; family and property (everything on which one depends) Job 8:15.
 
+@@SPLIT:sense@@
+
 7.
 בַּ֫יְתָה, בָּ֑יְתָה, literally housewards, hence
 metaphor
@@ -975,6 +989,8 @@ of oxen
 supporting the molten sea); 2Sam 5:9
 מִןהַֿמִּלּוֺא וָבָ֑יְתָה from the Millo and inward, Ezek 44:17
 .
+
+@@SPLIT:sense@@
 
 8.
 מִבַּיִת

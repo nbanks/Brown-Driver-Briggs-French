@@ -18,6 +18,7 @@ construit id., 1 R 6,5 + ; suffixe קִירֹתָיו
 Ex 30,3 +, etc. ;
 — mur, surtout comme surface plate :
 
+@@SPLIT:sense@@
 1. habituellement d'une maison ou d'une chambre :
 
 a. surface intérieure, Am 5,19 ; 1 S 18,11 + 9 t., + (du temple) 1 R 6,15 a + v
@@ -61,6 +62,7 @@ comme clôturant, 2 R 4,10 (de
 עֲלִיָּה
 , q.v.) ; comme séparant Ez 43,8.
 
+@@SPLIT:sense@@
 2.
 mur de la cour (du temple) Ez 8,7 ; Ez 8,8 (deux fois dans le verset) (en vision) ; de vigne Nb 22,25 (deux fois dans le verset) (
 J
@@ -77,6 +79,7 @@ J
 E
 ) la surface (intérieure) du mur.
 
+@@SPLIT:sense@@
 3. plus généralement, 1 R 5,13, et (dans l'expression מַשְׁתִּין בְּקִיר) 1 S 25,22 ; 1 S 25,34 ; 1 R 14,10 ;
 1 R 16,11 ;
 1 R 21,21 ;
@@ -111,10 +114,12 @@ Brd
 Wkl^Alttest. Unters. 177^
 קוֺע, ainsi WMM^Hast. DB KIR^, mais voir Dr^ib.KOA.^
 
+@@SPLIT:sense@@
 4. de la surface plate de l'autel Ez 41,22 ; Ex 30,3 ; Ex 37,26 ; Lv 1,15 ; Lv 5,9 (tous
 P
 ).
 
+@@SPLIT:sense@@
 5.
 קִירוֺת
 לִכִּי

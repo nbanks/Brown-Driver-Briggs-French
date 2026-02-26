@@ -35,6 +35,8 @@ Num 24:5 +;
 אָהֳלֵיכֶם
 Josh 22:8 +, etc. —
 
+@@SPLIT:sense@@
+
 1.
 tent of nomad Song 1:5; Jer 6:3; Jer 49:29
 ׳
@@ -56,6 +58,8 @@ of soldier 1Sam 17:54 compare Dr, Jer 37:10;
 ); of pleasure-tent on house-top 2Sam 16:22 (= bridal-tent, bridal pavilion, compare חֻפָּה
 Ps 19:5; Joel 2:16 see
 RS^Kinship 168^).
+
+@@SPLIT:sense@@
 
 2.
 dwelling, habitation; Ps 91:10
@@ -116,6 +120,8 @@ Ps 120:5
 ׳
 א
 Hab 3:7.
+
+@@SPLIT:sense@@
 
 3.
 the sacred tent used in worship of God; הָאֹהֶל

@@ -5,6 +5,7 @@ hébreu biblique
 dénominatif
 tonner ; —
 
+@@SPLIT:stem@@
 Qal
 produire le bruit du tonnerre, tonner : Imparfait 3 masculin singulier יִרְעַם
 que la mer tonne (en louange, || שׂמה, גיל
@@ -28,6 +29,7 @@ sont troublés) dans le visage, manque de fondement étymologique (autrement Ger
 Co
 דָּֽמְעוּ פְּנֵיהֶם.
 
+@@SPLIT:stem@@
 Hiph`il (Gerbe^47^) tonner, faire tonner ; — Parfait 3 masculin
 singulier הִרְעִים
 Ps 29,3

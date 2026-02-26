@@ -75,6 +75,7 @@ Dt 2,12 +
 Jr 28,13
 —
 
+@@SPLIT:sense@@
 1.
 sous, dessous, Gn 7,19
 הַשָּׁמַיִם תַּחַת כָּלֿ
@@ -191,6 +192,7 @@ e.
 Ml 3,31
 .
 
+@@SPLIT:sense@@
 2.
 ce qui est sous quelqu'un, le lieu où l'on se tient : d'où comme
 accusatif,
@@ -281,6 +283,7 @@ Jr 22,8
 Dt 29,23 ; 1 R 9,8). Ainsi suivi d'infinitif Ps
 38,21b.
 
+@@SPLIT:sense@@
 3. comme conjonction :
 
 a.
@@ -317,6 +320,7 @@ Dt 4,37
 III.
 composés : —
 
+@@SPLIT:sense@@
 1.
 אֶלתַּֿחַת, après un verbe de mouvement :
 
@@ -342,6 +346,7 @@ Ez
 b.
 à la place de, Lv 14,42.
 
+@@SPLIT:sense@@
 2.
 מִתַּחַת (= ὑπ' ἐκ) :
 

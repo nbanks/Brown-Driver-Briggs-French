@@ -13,6 +13,7 @@ changer, tourner ; assyrien
 [placeholder1666: Placeholders/1666.gif] voir DHM^ZK i. 357^) ; sur la forme du verbe
 hébreu voir Nö^ZMG. 1883, 536^) —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 féminin singulier חָ֫לָה
 Mi 1,12 + 2 t. ;
@@ -170,6 +171,7 @@ Jr
 23,19 (v:a סער
 מִתְחוֺלֵל) = Jr 30,23 (v:a סַעַר מִתְגּוֺרֵר).
 
+@@SPLIT:stem@@
 Po'lel.
 Imparfait
 יְחוֺלֵל
@@ -249,6 +251,7 @@ Qal
 
 Jb 35,14 (Élihu).
 
+@@SPLIT:stem@@
 Po'lal.
 Parfait
 חוֺלָ֑לתִּי
@@ -275,6 +278,7 @@ Pr
 8,24 ;
 Pr 8,25.
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait
 יָחִיל
@@ -284,6 +288,7 @@ angoisse, avec accusatif מִדְבָּר, sujet
 ׳
 י.
 
+@@SPLIT:stem@@
 Hoph`al
 Imparfait
 יוּחַל
@@ -293,6 +298,7 @@ Es
 Che), sujet אֶרֶץ (||
 יִוָּלֵד גוי).
 
+@@SPLIT:stem@@
 Hithpo`el
 
 1.
@@ -319,6 +325,7 @@ Ps
 attendre avec ardeur suivi de לְ
 pour, || דּוֺם.
 
+@@SPLIT:stem@@
 Hithpalpel
 Imparfait 3 féminin singulier וַתִּתְחַלְחַל
 Est

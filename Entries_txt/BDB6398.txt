@@ -5,6 +5,8 @@ Biblical Hebrew
 adjective
 crafty, shrewd, sensible; —
 
+@@SPLIT:sense@@
+
 1.
 crafty, ׳
 ע as predicate, of serpent Gen 3:1 plural as substantive מַחְשְׁבוֺת עֲרוּמִים
@@ -12,6 +14,8 @@ Job 5:12,
 ׳
 לְשׁוֺן ע
 Job 15:5.
+
+@@SPLIT:sense@@
 
 2. in Proverbs, in good sense (opposed to אֱוִיל, כְּסִיל,
 פֶּתִי); as attributive אָדָם עָרוּם

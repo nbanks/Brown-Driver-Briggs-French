@@ -29,6 +29,8 @@ as orig √ meaning, and compare Arabic
 [placeholder2638: Placeholders/2638.gif]
 the leg is round); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular כָּרָה
 2Chr 16:14;
@@ -81,6 +83,8 @@ one digging a calamity; לִי
 Ps 40:7 ears
 hast thou dug (with allusion to the cavity of the ear) for me, thou
 hast given me the means of hearing and obeying thy will. — On Ps 22:17 verse. II. כּוּר.
+
+@@SPLIT:stem@@
 
 Niph`al
 Imperfect 3 masculine singular עַד יִכָּרֶה שַׁהַּת

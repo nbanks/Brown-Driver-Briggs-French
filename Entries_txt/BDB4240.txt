@@ -13,8 +13,12 @@ Esth 1:22 + 2 t.;
 Ezra 2:62 + 3 t.;
 — writing:
 
+@@SPLIT:sense@@
+
 1.
 register, enrolement, Ezek 13:9; Ezra 2:62 = Neh 7:64.
+
+@@SPLIT:sense@@
 
 2. = mode of writing, character, letter, הִנִּשְׁתְּוָן כָּתוּב
 אֲרָמִית
@@ -24,10 +28,16 @@ Ezra 4:7
 and the writing of the letter was written in Aramaic (characters; so probably, see BeRy Ryle, compare Late Hebrew Hoffm^ZAW
 i.(1881), 334 ff.^); compare Esth 1:22; Esth 3:12; Esth 8:9 (twice in verse).
 
+@@SPLIT:sense@@
+
 3. = letter, 2Chr 2:10; Esth 9:27.
+
+@@SPLIT:sense@@
 
 4. of a royal enactment, edict 2Chr 35:4 (|| מִכְתָּב), Esth 3:14; Esth 8:8; Esth 8:13 more fully כְּתָבהַֿדָּת
 Esth 4:8.
+
+@@SPLIT:sense@@
 
 5. of a writing with divine authority 1Chr 28:19
 אֱמֶת

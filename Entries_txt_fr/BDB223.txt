@@ -10,6 +10,7 @@ pluriel
 אוֺנִים
 Os 9,4 —
 
+@@SPLIT:sense@@
 1.
 trouble, chagrin
 בֶּןאֿוֺנִי
@@ -42,6 +43,7 @@ intensif לֶחֶם אוֺנִים
 pain de trouble, chagrin ou deuil
 Os 9,4.
 
+@@SPLIT:sense@@
 2.
 idolâtrie
 Os 12,12 ;
@@ -63,6 +65,7 @@ Am 1,5
 — abstrait pour concret = idoles
 Es 66,3.
 
+@@SPLIT:sense@@
 3.
 trouble d'iniquité, méchanceté, מְתֵי אָוֶן
 Jb 22,15

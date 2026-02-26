@@ -12,6 +12,7 @@ Thes,
 Fl
 MV) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 בָּטַח
@@ -308,6 +309,7 @@ Es
 32,11
 .
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait
 הִבְטַחְתָּ

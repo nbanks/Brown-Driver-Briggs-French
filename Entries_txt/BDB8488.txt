@@ -12,6 +12,8 @@ t. (6 + 10 = 16 are additional); — six (Hexateuch chiefly
 P
 ):
 
+@@SPLIT:sense@@
+
 1. no other number:
 
 a. before plural noun 75 t.: e.g.
@@ -53,6 +55,8 @@ b. = ordinal ׳
 (
 Ges^«GKC:134o»§ 134o^).
 
+@@SPLIT:sense@@
+
 2. 16, with noun feminine: שֵׁשׁ עֶשְׂרֵה, before נָ֑פֶשׁ
 Gen 46:18 (
 
@@ -85,6 +89,8 @@ P
 יוֺם שׁ
 2Chr 29:27.
 
+@@SPLIT:sense@@
+
 3. 600 = שֵׁשׁ מֵאוֺת, Gen 7:6 (
 P
 ) + 63 t.; 6000 = שֵׁשֶׁת אֲלָפִים
@@ -96,10 +102,14 @@ P
 Judg 20:15 + 2
 t.
 
+@@SPLIT:sense@@
+
 4. with tens, ׳
 שׁ following Gen 46:26 + 13 t., precedes Num 31:44 (
 P
 ).
+
+@@SPLIT:sense@@
 
 5.
 ׳

@@ -4,6 +4,7 @@ hébreu biblique
 [עָרַךְ] verbe
 dénominatif
 
+@@SPLIT:stem@@
 Hiph`il
 évaluer (pour la taxation), taxer (de עֵרֶח
 2.) ; — Parfait 3 masculin singulier הֶעֶרִיח

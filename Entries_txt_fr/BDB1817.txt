@@ -10,6 +10,7 @@ Ha 3,5 suffixe
 דְּבָרֶיךָ
 Os 13,14 —
 
+@@SPLIT:sense@@
 1.
 peste, pestilence, en général Ex 5,3 ; Ex 9,15 ; Nb 14,12 (
 J
@@ -33,6 +34,7 @@ Ez 5,12 + 11 t. Ézéchiel ; Os 13,14 ; Am 4,10 ; Ha 3,5. Lire וּבַדָּ֑�
 Klo
 Dr.
 
+@@SPLIT:sense@@
 2.
 épizootie, peste du bétail
 Ex 9,3 (

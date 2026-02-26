@@ -5,6 +5,8 @@ Biblical Hebrew
 proper name [of a location]
 in Judah:
 
+@@SPLIT:sense@@
+
 1. in Shephelah, שׂוֺכֹה
 Josh 15:35;
 1Sam 17:1 (twice in
@@ -25,6 +27,8 @@ Eš-Šuw¢ke
 , south-southeast from Beth Shemesh, in Wady-es-San‰
 Rob^BR 1. 494^
 Buhl^Geogr. 194^; Σωχω, Σοκχωθ, etc.
+
+@@SPLIT:sense@@
 
 2. in hill-country, Josh 15:48 (
 Kt

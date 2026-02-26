@@ -4,13 +4,16 @@ hébreu biblique
 טֶ֫פַח
 nom [masculin]
 
+@@SPLIT:sense@@
 1.
 un empan, largeur de main ;
 
+@@SPLIT:sense@@
 2.
 couronnement (?) ;
 —
 
+@@SPLIT:sense@@
 1.
 un empan, largeur de main, טֶ֫פַח
 1 R 7,26 =
@@ -19,6 +22,7 @@ l'épaisseur de la mer de fonte ; pluriel טְפָחוֺת
 Ps 39,6 (quelques)
 largeurs de main sont mes jours.
 
+@@SPLIT:sense@@
 2. terme architectural, peut-être couronnement, וּמִמַּסַּד עַדהַֿטְּפָחוֺת
 
 1 R 7,9.

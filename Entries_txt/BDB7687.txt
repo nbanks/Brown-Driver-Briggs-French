@@ -6,6 +6,8 @@ noun masculine^
 Deut 32:33
 ^ a bitter and poisonous herb, them venom, always figurative; —
 
+@@SPLIT:sense@@
+
 1. a bitter and poisonous herb, + (or ||) לַעֲנָה
 Deut 29:17;
 Lam 3:19, so (
@@ -26,6 +28,8 @@ Hos 10:4,
 ׳
 הְפַכְתֶּם לר
 Amos 6:12.
+
+@@SPLIT:sense@@
 
 2.
 venom, of serpents, פְּתָנִים

@@ -26,6 +26,7 @@ Dt 22,1,
 1 S 14,34 pas
 au pluriel ; —
 
+@@SPLIT:sense@@
 1.
 un mouton, ou une chèvre, nom d'individu de צאֹן : comme
 propriété Gn 32,32
@@ -96,6 +97,7 @@ P
 ),
 Ez 34,20 Ez 34,20 Ez 34,22 Ez 34,22.
 
+@@SPLIT:sense@@
 2.
 collectif
 troupeau :

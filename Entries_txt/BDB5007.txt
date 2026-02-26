@@ -21,6 +21,8 @@ Lev 2;
 Lev 2:18 + 24 t.
 suffixes;-vow:
 
+@@SPLIT:sense@@
+
 1. of personal service to ׳
 י
 Gen 28:20; Gen 31:13 (of
@@ -30,6 +32,8 @@ Jacob at Bethel), 2Sam
 P
 , any one), of Nazirite Num 6:2; Num 6:5; Num 6:21 Hannah's consecration of her son 1Sam 1:11, compare בר נדרי
 Prov 31:2.
+
+@@SPLIT:sense@@
 
 2. in general of any kind of votive offerings or promised gifts to
 ׳
@@ -51,14 +55,20 @@ Prov 20:25;
 Job 22:27;
 Eccl 5:3.
 
+@@SPLIT:sense@@
+
 3. Jephthah's daughter as עולה
 Judg 11:30;
 Judg 11:39.
+
+@@SPLIT:sense@@
 
 4. the ban
 Num 21:2 (
 E
 ).
+
+@@SPLIT:sense@@
 
 5. || עוֺלָה
 Ps 66:13
@@ -80,6 +90,8 @@ H
 ; Deut 12:17
 ; 1Sam 1:21;
 Jonah 1:16.
+
+@@SPLIT:sense@@
 
 6. once of idolatry Jer 44:25 (לְקַטֵּר לִמְלֶכֶת הַשָּׁמַיִם
 ׳

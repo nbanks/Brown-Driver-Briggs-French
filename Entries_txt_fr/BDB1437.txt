@@ -26,6 +26,7 @@ t., etc. ; pluriel (8 t.) seulement suffixe גְּבוּלֶיךָ
 Jr 15,13 ;
 Jr 17,3, etc. ; —
 
+@@SPLIT:sense@@
 1.
 frontière, limite,
 
@@ -155,6 +156,7 @@ Che ; De
 Brd
 territoire, Di indécis).
 
+@@SPLIT:sense@@
 2.
 territoire (enclos dans une frontière),
 

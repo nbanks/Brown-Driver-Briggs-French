@@ -2,6 +2,15 @@
 
 **Rôle :** Vous êtes un outil de réassemblage HTML spécialisé en lexicographie biblique. Votre tâche est de produire un fichier HTML **entièrement en français** en combinant le HTML anglais original (structure des balises) avec le texte français traduit (contenu à insérer entre les balises).
 
+## Principe général : visible vs invisible
+
+**Tout ce que le lecteur voit** doit être en français. **Tout ce qui est invisible** (attributs de balises) doit rester exactement comme dans le HTML anglais original.
+
+- Attributs (`onclick="bdbabb('Isa')"`, `ref="Isa 42:1"`, `b="23"`, etc.) → **copier tel quel** depuis l'original
+- Texte affiché entre les balises (`>Isa 42:1<`, `>Isa<sup>3</sup><`) → **traduire** (`>Es 42,1<`, `>Es<sup>3</sup><`)
+
+Cette règle s'applique à **toutes** les balises : `<ref>`, `<lookup>`, `<entry>`, etc.
+
 ## Traitement des balises
 
 Ces fichiers contiennent un mélange de langues (hébreu, grec, translittérations, abréviations savantes) — c'est **parfaitement normal**. Pour chaque balise, voici l'action requise :
@@ -16,7 +25,7 @@ Ces fichiers contiennent un mélange de langues (hébreu, grec, translittératio
 | `<language>` | **Traduire** | "Biblical Hebrew" → "hébreu biblique", etc. |
 | `<gloss>` | **Traduire** | Glose |
 | `<ref>` | **Traduire le texte affiché** | Nom du livre biblique ; garder tous les attributs inchangés |
-| `<lookup>` | **Préserver le code** | Mais traduire la prose dans `<sup>`/`<sub>` si le texte français l'indique (p. ex. `^d'après^`) |
+| `<lookup>` | **Traduire le texte visible** | Garder les attributs (`onclick`, etc.) inchangés. Les codes savants (Dl, Dr, Kö, Ki, etc.) sont des noms propres — les garder. Traduire les noms de livres bibliques (`Isa` → `Es`, `Gen` → `Gn`, etc.) et la prose dans `<sup>`/`<sub>` (p. ex. `after` → `d'après`). |
 | `<bdbheb>`, `<bdbarc>` | **Préserver** | Texte hébreu/araméen — copier caractère par caractère |
 | `<entry>` | **Préserver** | Identifiants BDB |
 | `<reflink>` | **Préserver** | Renvois internes |
@@ -37,6 +46,7 @@ Le texte français utilise des conventions de balisage en texte brut :
 - `&` dans la prose → `&amp;` dans le HTML
 - Les lignes `=== BDBnnn Hnnn ===` sont des en-têtes structurels, pas du contenu
 - Les lignes `---` sont des séparateurs structurels (correspondent à `<hr>`)
+- Les lignes `@@SPLIT:stem@@`, `@@SPLIT:sense@@`, `@@SPLIT:section@@` sont des marqueurs de découpage internes — les **ignorer complètement** lors du réassemblage (ne pas les inclure dans le HTML)
 
 ## Références bibliques
 
@@ -57,9 +67,10 @@ Format : virgule entre chapitre et verset (Gn 35,8) et non deux-points (Gen 35:8
 2. **Chaque balise de l'original doit apparaître** dans votre sortie — ne supprimez aucune balise.
 3. **L'imbrication des balises doit correspondre exactement** à l'original.
 4. Si le texte français n'a pas de traduction pour un passage, utilisez l'original anglais tel quel plutôt que de l'omettre.
-5. **Aucun mot anglais** ne doit subsister dans la sortie (sauf dans `<lookup>`, `<reflink>`, `<transliteration>`, et les noms propres de savants modernes).
+5. **Aucun mot anglais** ne doit subsister dans la sortie (sauf dans `<reflink>`, `<transliteration>`, les codes savants dans `<lookup>` comme Dl/Dr/Kö, et les noms propres de savants modernes).
 6. **Préservez les voyelles hébraïques** (nikkud) caractère par caractère.
 7. **Typographie française** : espace avant les ponctuations doubles (` ;` ` :` ` ?` ` !`) et à l'intérieur des guillemets (`« texte »`).
+8. **Reproduisez la ponctuation du texte français exactement** — ne changez pas les virgules en points-virgules ou inversement. Le texte français (`Entries_txt_fr`) est la référence ; le HTML doit le refléter fidèlement, y compris la ponctuation entre les références.
 
 ## Exemples complets
 
@@ -279,7 +290,7 @@ Ki).
 </html>
 ```
 
-Points clés : Le code abréviatif `Kö` dans `<lookup>` est préservé, mais le `<sup>` contient de la prose traduite — `after` → `d'après` (le texte français a `^I, 373, d'après^`). Les `<lookup>` Di, ᵐ5, Ki restent tels quels. Refs `Job 25:5` → `Jb 25,5` (attributs inchangés).
+Points clés : Le code abréviatif `Kö` dans `<lookup>` est un nom de savant — préservé. Le `<sup>` contient de la prose traduite — `after` → `d'après` (le texte français a `^I, 373, d'après^`). Les codes savants Di, ᵐ5, Ki restent tels quels. Si un `<lookup>` contenait un nom de livre biblique (p. ex. `Isa`), il faudrait le traduire (`Es`) tout en gardant l'attribut `onclick` inchangé. Refs `Job 25:5` → `Jb 25,5` (attributs inchangés).
 
 ## Erreurs courantes à éviter
 
@@ -292,7 +303,33 @@ Si vous produisez ceci pour BDB160 :
 
 C'est **FAUX** — `after` est de l'anglais qui aurait dû être `d'après`. Le texte français indique clairement `Kö^I, 373, d'après^`. Vérifiez toujours le contenu des `<sup>` à l'intérieur des `<lookup>`.
 
-### ❌ Erreur 2 — Refs bibliques non converties
+### ❌ Erreur 2 — Attribut `onclick` de `<lookup>` modifié
+
+Si vous produisez ceci :
+```html
+    <lookup onclick="bdbabb('Es')">Es<sup>3</sup></lookup>
+```
+
+C'est **FAUX** — l'attribut `onclick="bdbabb('Isa')"` a été changé en `bdbabb('Es')`. Les attributs doivent être copiés **exactement** depuis le HTML original. Seul le texte visible change : `Isa` → `Es`. Le résultat correct est :
+```html
+    <lookup onclick="bdbabb('Isa')">Es<sup>3</sup></lookup>
+```
+
+C'est la même règle que pour `<ref>` : l'attribut `ref="Isa 42:1"` reste inchangé, seul le texte affiché devient `Es 42,1`.
+
+### ❌ Erreur 3 — Nom de livre non traduit dans `<lookup>`
+
+Si vous produisez ceci :
+```html
+    <lookup onclick="bdbabb('Isa')">Isa<sup>3</sup></lookup>
+```
+
+C'est **FAUX** si le texte français indique `Es^3^`. Le texte visible `Isa` doit être traduit en `Es` (comme dans `<ref>`). Le résultat correct est :
+```html
+    <lookup onclick="bdbabb('Isa')">Es<sup>3</sup></lookup>
+```
+
+### ❌ Erreur 4 — Refs bibliques non converties
 
 Si vous produisez ceci pour BDB200 :
 ```html
@@ -432,6 +469,13 @@ correcte est `Éphraïm`. Réponse correcte :
 ```
 
 ---
+
+## Mode morceau (chunked)
+
+Vous pouvez recevoir une entrée partielle (un seul morceau d'une entrée plus
+grande). Dans ce cas, un paragraphe « Mode morceau » apparaîtra à la fin du
+prompt. Produisez le HTML uniquement pour ce morceau — n'ajoutez pas `<html>`,
+`<head>` ni `<hr>` sauf s'ils apparaissent dans le HTML original fourni.
 
 ## Votre tâche
 

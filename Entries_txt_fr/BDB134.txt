@@ -4,6 +4,7 @@ hébreu biblique
 [אָדַר] verbe (poésie) large, grand, (de là) haut, noble (? assyrien
 adâru Dl^W^) —
 
+@@SPLIT:stem@@
 Niph`al
 Participe
 majestueux, glorieux, de ׳
@@ -11,6 +12,7 @@ majestueux, glorieux, de ׳
 Ex 15,11
 construit נֶאְדָּרִי Ex 15,6 (voir Di) ;
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait
 יַאְדִּיר

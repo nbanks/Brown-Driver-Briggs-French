@@ -13,6 +13,8 @@ alâdu,
 
 COT^Gloss^) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 יָלַד
@@ -47,7 +49,7 @@ Gen 3:16
 Gen 18:13
 וָאֵלֵד
 1Kgs 3:17
-יֵלְדוּ
+יֵלְדוּ
 Isa 65:23 3
 feminine plural תֵּלַדְנָה
 Jer 29:6
@@ -206,6 +208,8 @@ Zech
 3:27
 where mother is named, 1Chr 14:4 where father named.
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect
 נוֺלַד
@@ -236,7 +240,7 @@ Gen 21:5
 הִוָָּֽלְדוֺ
 Eccl 7:1
 
-הִוָּלְדָהּ
+הִוָּלְדָהּ
 Hos 2:5
 
 Participle
@@ -291,7 +295,7 @@ Ps 78:6;
 Eccl 7:1 (
 טוֺב שֵׁם מִשֶּׁמֶן טוֺב
 
-וְיוֺם הַמָּוֶת מִיּוֺם הִוָָּֽלְדוֺ׃); metaphor of Israel (under figure of
+וְיוֺם הַמָּוֶת מִיּוֺם הִוָָּֽלְדוֺ׃); metaphor of Israel (under figure of
 unfaithful
 wife) Hos
 2:5
@@ -320,6 +324,8 @@ Prov
 Job
 11:12; Job
 15:7.
+
+@@SPLIT:stem@@
 
 Pi`el
 Infinitive
@@ -354,6 +360,8 @@ Exod 1:20;
 Exod 1:21 (
 E
 ).
+
+@@SPLIT:stem@@
 
 Pu`al
 Perfect
@@ -429,6 +437,8 @@ Jer 22:26, compare Judg 13:8 (see above); figurative of foreigners
 incorporated in spiritual Zion Ps 87:4; Ps 87:5; Ps 87:6 of
 production of mountains
 Ps 90:2.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect
@@ -509,6 +519,8 @@ bear, only figurative Isa 59:4 (||
 הָרוֺ), of wicked, bringing forth iniquity (this favoured by
 context others, beget).
 
+@@SPLIT:stem@@
+
 Hoph`al
 Infinitive
 חֻלֶּ֫דֶת
@@ -526,6 +538,8 @@ Gen
 16:4; Ezek
 16:5
 day of one's being born = birthday.
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Imperfect

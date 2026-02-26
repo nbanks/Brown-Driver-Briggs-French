@@ -33,6 +33,7 @@ Ez 24,11,
 Jg 16,21 + 6
 t. ; —
 
+@@SPLIT:sense@@
 1.
 cuivre, comme minerai Dt 8,9, comparer Za 6,8 travaillé par un artisan Gn 4,22 (
 J
@@ -65,6 +66,7 @@ Ez 1,7 ; Dn 10,6 voir
 ; ׳
 נ comme butin de guerre 2 S 8,8 ; 2 R 25,13 = Jr 52,17 ; Jr 52,20 etc.
 
+@@SPLIT:sense@@
 2.
 entraves de cuivre ou de bronze, habituellement duel Jg 16,21 ; 2 S 3,34 ; 2 R 25,7 =
 Jr 39,7 ; Jr 52,11 ;
@@ -73,6 +75,7 @@ aussi 2 Ch 33,11
 singulier seulement Lm
 3,7 (figuré de l'oppression).
 
+@@SPLIT:sense@@
 3. de moindre valeur que l'or mais supérieur au bois Es 60,17 (deux fois dans le verset) ; figuré de gens sans valeur
 Jr 6,28 (+
 בַּרְזֶל), id. (comme scories d'argent) Ez 22,18 (+ בְּדִיל,
@@ -80,6 +83,7 @@ Jr 6,28 (+
 נחשׁ
 .
 
+@@SPLIT:sense@@
 4.
 figuré du ciel impitoyable Dt 28,23.
 

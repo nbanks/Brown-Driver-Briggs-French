@@ -11,9 +11,11 @@ veiller, être éveillé (phénicien שקר
 
 שְׁקֵד = hébreu biblique) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier
-׳שׁ
+׳
+שׁ
 Ps 127,1,
 שָׁקַ֫דְתִּי
 Jr 31,28 ;
@@ -40,7 +42,8 @@ Es 29,20 —
 
 1.
 veiller sur, être vigilant au sujet de,
-׳י sujet, עַל personne, pour le bien ou le mal Jr 31,28 (deux fois dans le verset) ;
+׳
+י sujet, עַל personne, pour le bien ou le mal Jr 31,28 (deux fois dans le verset) ;
 Jr 44,27
 
 עַל chose, pour l'accomplir Jr 1,12 ; Dn 9,14 ainsi (hommes sujet) שֹׁקְדֵי אָוֶן
@@ -54,7 +57,8 @@ portes de la sagesse
 Pr 8,34 (|| שָׁמַר) ; = monter la garde sur (עַל
 )
 Jb 21,32, comparer (absolu) וְשִׁמְרוּ
-׳שׁ
+׳
+שׁ
 Esd 8,29
 et (du gardien, שֹׁמֵר) Ps 127,1.
 
@@ -72,8 +76,10 @@ Bu) on a veillé sur mes transgressions
 
 ᵑ0
 
-׳נִשְׂקַד עֹל פ. —
+׳
+נִשְׂקַד עֹל פ. —
 
+@@SPLIT:stem@@
 Pu`al
 dénominatif voir ci-dessous.
 

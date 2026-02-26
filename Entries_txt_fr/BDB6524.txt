@@ -10,6 +10,7 @@ padû
 [placeholder4168: Placeholders/4168.gif] ; minéen פדית
 terre rachetée ou achetée Mordt^Beitr. 23^) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier פָּדָה
 Lv 27,27 + ;
@@ -143,6 +144,7 @@ Ps
 Jr 15,21
 .
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 féminin singulier (+
 Hoph`al
@@ -154,11 +156,13 @@ Lv 27,29
 (de l'interdit) ; 3 féminin singulier צִיּוֺן בְּמִשְׁפָּט תִּפָּדֶ֑ה
 Es 1,27.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 masculin singulier suffixe וְהֶפְדָּהּ
 Ex 21,8
 il la fera racheter.
 
+@@SPLIT:stem@@
 Hoph`al
 Infinitif absolu voir
 Niph`al

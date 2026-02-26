@@ -11,6 +11,7 @@ nom propre, masculin
 élève ; comparer אֶלְיָקִים et références ; aussi יָקִים
 , יְקַמְיָה —
 
+@@SPLIT:sense@@
 1.
 ׳
 יְהוֺ un des derniers rois de Juda, fils de Josias 2 R 23,34 ; 2 R 23,35 ; 2 R 23,36 ; 2 R 24,1 ; 2 R 24,5 ; 2 R 24,6 ; 2 R 24,19 ;
@@ -21,9 +22,11 @@ de l'original אֶלְיָקִים
 2 R 23,34 =
 2 Ch 36,4.
 
+@@SPLIT:sense@@
 2.
 יוֺיָקִים prêtre, fils de Josué Ne 12,10 (deux fois dans le verset) ; Ne 12,12 ; Ne 12,26.
 
+@@SPLIT:sense@@
 3.
 יוֺקִים un Judéen 1 Ch 4,22.
 

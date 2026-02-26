@@ -12,6 +12,8 @@ toss, rage (of sea); Arabic
 rêšu
 , exult); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 feminine singular רָעֲשָׁה
 Jer 8:16; Jer 49:21,
@@ -42,10 +44,14 @@ Amos 9:1 all living
 things Ezek 38:20
 (מִפָּנַי causative ); of waving grain Ps 72:16.
 
+@@SPLIT:stem@@
+
 Niph`al
 נִרְעֲשָׁה הָאָרֶץ
 Jer 50:46
 is made to quake (מִקּוֺל).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 2 masculine singular הִרְעַשְׁתָּה

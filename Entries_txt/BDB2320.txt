@@ -8,6 +8,8 @@ feed (Late Hebrew Biblical Aramaic id.; Syriac
 [placeholder1443: Placeholders/1443.gif],
 [placeholder1444: Placeholders/1444.gif]); —
 
+@@SPLIT:stem@@
+
 Hoph`al
 Participle
 סוּסִים מוזנים

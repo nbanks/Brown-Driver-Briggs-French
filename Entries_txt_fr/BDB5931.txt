@@ -9,6 +9,7 @@ hébreu biblique
 tromper
 PS^3008^) ; —
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 3 masculin singulier suffixe עִוְּתָ֑נִי
 Jb 19,6,
@@ -47,12 +48,14 @@ Ps 146,9
 (׳
 י sujet) ; en général Qo 7,13 (Dieu sujet ; opposé à תִּקֵּן).
 
+@@SPLIT:stem@@
 Pu`al
 Participe
 מְעֻוָּת
 Qo 1,15
 ce qui est tordu (opposé à תְּקֹן).
 
+@@SPLIT:stem@@
 Hithpa`el
 Parfait 3 pluriel consécutif וְהִתְעַוְּתוּ
 Qo 12,3

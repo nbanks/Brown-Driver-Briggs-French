@@ -5,10 +5,13 @@ hébreu biblique
 nom propre, masculin
 Μεσουλαμ, Μοσολλαμ, etc. :
 
+@@SPLIT:sense@@
 1. grand-père de Shaphan 2 R 22,3.
 
+@@SPLIT:sense@@
 2. fils de Zorobabel 1 Ch 3,19.
 
+@@SPLIT:sense@@
 3. dans Benjamin :
 
 a.
@@ -25,8 +28,10 @@ c. 1 Ch
 d.
 Ne 11,7.
 
+@@SPLIT:sense@@
 4. dans Gad 1 Ch 5,13.
 
+@@SPLIT:sense@@
 5. bâtisseurs de muraille :
 
 a.
@@ -35,8 +40,10 @@ Ne 3,4 ; Ne 3,30.
 b.
 Ne 3,6.
 
+@@SPLIT:sense@@
 6. un chef Ne 10,21.
 
+@@SPLIT:sense@@
 7. prêtres (distinctions en partie obscures) :
 
 a.
@@ -57,6 +64,7 @@ Ne 12,6.
 
 e. Ne 12,33.
 
+@@SPLIT:sense@@
 8. lévites : a.
 2 Ch 34,12
 .
@@ -72,6 +80,7 @@ Ne 12,25
 12
 a).
 
+@@SPLIT:sense@@
 9.
 Esd 10,29
 .

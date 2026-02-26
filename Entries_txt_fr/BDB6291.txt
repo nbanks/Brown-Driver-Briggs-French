@@ -15,6 +15,7 @@ os ; arabe
 [placeholder4015: Placeholders/4015.gif]
 cuisse) : —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier וְעָצַם consécutif Dn 8,24 ; Dn 11,23 2 masculin singulier עָצַמְתָּ
 
@@ -54,6 +55,7 @@ Ps 69,5 avec מִן comparer Jr 15,8 ; Ps 40,6 ; Ps 40,13
 seul Ps
 139,17.
 
+@@SPLIT:stem@@
 Hiph`il
 rendre fort, Imparfait 3 masculin singulier : suffixe וַיַּעֲצִימֵחוּ
 Ps 105,24

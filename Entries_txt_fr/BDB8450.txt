@@ -5,6 +5,8 @@ hébreu biblique
 dénominatif
 acheter du grain ; —
 
+@@SPLIT:stem@@
+
 Qal
 Imparfait 2 masculin pluriel תִּשְׁבְּרוּ
 Dt 2,6, 1 pluriel
@@ -32,6 +34,8 @@ Gn 42,3,
 Gn 47,14
 figuré Es 55,1
 , avec accusatif יַיִן וְחָלָב Es 55,1.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imparfait 1 pluriel נַשְׁבִּיר

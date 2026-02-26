@@ -22,6 +22,7 @@ sortir, DHM dans MV
 [placeholder2271: Placeholders/2271.gif] est être ou devenir beau, élégant, propre, net,
 comparer Nö^ZMG 1886, 725^) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 יָצָא
@@ -809,6 +810,7 @@ Es 37,28
 +
 שִׁבְתְּךָ) = 2 R 19,27 ; Ps 121,8.
 
+@@SPLIT:stem@@
 Hiphil_278_
 Parfait
 הוֺצִיא
@@ -1463,6 +1465,7 @@ serviteur de
 Es 42,1 ;
 Es 42,3.
 
+@@SPLIT:stem@@
 Hoph`al
 Parfait 3 féminin singulier הוּצָ֑אָה
 

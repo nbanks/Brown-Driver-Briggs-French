@@ -10,6 +10,7 @@ ou le profit de), suffixe בַּעֲבוּרִי
 1 S 23,10,
 etc. ; —
 
+@@SPLIT:sense@@
 1. comme préposition :
 
 a.
@@ -75,6 +76,7 @@ Ex 20,20 ;
 2 S 10,3, pas de
 לְ).
 
+@@SPLIT:sense@@
 2. comme conjonction
 Gn 27,10
 אֲשֶׁר יְבָרֶכְךָ

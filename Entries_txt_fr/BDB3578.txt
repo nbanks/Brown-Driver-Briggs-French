@@ -20,6 +20,7 @@ locatif תֵּימָ֫נָה
 Ex 26,18 + 12
 t. ; —
 
+@@SPLIT:sense@@
 1.
 
 a.
@@ -84,6 +85,7 @@ Dt 3,27
 Ez 21,2
 tourne ta face vers le sud (|| דָּרוֺם et נֶגֶב).
 
+@@SPLIT:sense@@
 2.
 vent du sud
 Ps 78,26

@@ -8,6 +8,8 @@ get or take as a possession (compare Gerber^236 ff.^
 ; Ecclus נחל
 +; Late Hebrew id. (rare)); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 ׳
@@ -97,6 +99,8 @@ divide the land for a possession, Num 34:17; Num 34:18; Josh 19:49 (all
 P
 ; incorrect pointing for Piel, so SS).
 
+@@SPLIT:stem@@
+
 Pi`el
 divide for a possession: Perfect 3 masculine singular נִחַל
 Josh 13:32
@@ -113,6 +117,8 @@ Num 34:18;
 Josh 19:49 (see
 Qal
 3).
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Perfect 3 plural suffix הִתְנַחֲלוּם
@@ -150,6 +156,8 @@ P
 ); all with לְ person (for whose benefit), except Num 32:18; Num 34:13
 ; Isa
 14:2.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 1 singular הִנְחַ֫לְתִּי
@@ -205,6 +213,8 @@ cause to inherit, give as an inheritance, with accusative of person and thing,
 Deut 21:16 accusative of person + מן thing, Ezek 46:18
 accusative of person Prov 13:22
 ל person 1Chr 28:8.
+
+@@SPLIT:stem@@
 
 Hoph`al
 Perfect 1 singular הָנְחַלְתּי

@@ -10,6 +10,7 @@ Lzb^328^ ; arabe
 [placeholder3561: Placeholders/3561.gif], éthiopien
 [placeholder3562: Placeholders/3562.gif]) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 1 pluriel וְסָחַ֫בְנוּ consécutif 2 S 17,13
 Imparfait 3 masculin singulier suffixe יִסְחָבוּם

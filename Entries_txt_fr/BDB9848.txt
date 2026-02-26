@@ -5,6 +5,7 @@ araméen biblique
 verbe
 dénominatif
 
+@@SPLIT:stem@@
 Pa`el
 recevoir (hébreu biblique (tardif), (q. v. ;
 

@@ -8,6 +8,8 @@ arâku
 COT^Gloss^, Aramaic אֲרַךְ,
 [placeholder415: Placeholders/415.gif]) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 אָֽרְכוּ
@@ -31,6 +33,8 @@ Gen 1:1); of delayed
 fulfillment of prophecy Ezek 12:22 subject פּאֹרֹת
 Ezek 31:5 (but
 compare above)
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect

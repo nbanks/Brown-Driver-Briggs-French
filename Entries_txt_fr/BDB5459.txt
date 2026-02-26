@@ -16,6 +16,7 @@ arracher, extraire, secouer ; Di^660^ comparer
 [placeholder3496: Placeholders/3496.gif]
 detrahere, etc.) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 1 pluriel suffixe וּנְתַקְּנוּהוּ consécutif Jg 20,32 (sur le daguesh forte dirimens
 voir Ges^«GKC:20h»§ 20h^) ; Imparfait 1 singulier suffixe
@@ -39,6 +40,7 @@ tirer, arracher
 Lv 22,24
 (passif, des testicules, + מָעוּךְ, כָּתוּת, כָּרוּת).
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 masculin singulier נִתַּק
 Es 5,27 3 pluriel
@@ -75,6 +77,7 @@ Jb
 Jr 6,29
 .
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 1 singulier נִתַּקְתִּי
 Jr 2,20
@@ -121,6 +124,7 @@ détacher
 , avec accusatif seins Ez 23,34 (en figuré violent de Jérusalem comme
 femme ivre).
 
+@@SPLIT:stem@@
 Hiph`il
 
 1.
@@ -134,6 +138,7 @@ Impératif masculin singulier suffixe הַתִּקֵם
 traîne-les comme des moutons à l'abattoir Jr 12,3 (du traitement de ׳
 י envers les méchants).
 
+@@SPLIT:stem@@
 Hoph`al
 Parfait (si vera lectio) הָנְתְּקוּ מִןהָֿעִיר
 Jg

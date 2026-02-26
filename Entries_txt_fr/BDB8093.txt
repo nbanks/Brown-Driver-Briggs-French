@@ -4,6 +4,7 @@ hébreu biblique
 [רָקֵב] verbe
 pourrir (hébreu tardif id. ; araméen רקב dans les dérivés) ; —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 3 masculin singulier יִרְקַב
 Es 40,20 (d'un

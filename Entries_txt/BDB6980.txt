@@ -8,7 +8,7 @@ commandment; — ׳
 Prov 6:23 +;
 construct מִצְוִת
 Josh 22:3 +; suffix
-מִצְוָתְךָ
+מִצְוָתְךָ
 Deut 26:13;
 Ps 119:96
 מִצְוָתוֺ
@@ -22,6 +22,8 @@ Gen 26:5 +, etc.; —
 not used before
 D
 and Jeremiah; in Jeremiah only of man's commands; not Ezekiel nor Minor Prophets, except Malachi; —
+
+@@SPLIT:sense@@
 
 1.
 commandment, of man: king, 1Kgs 2:43; 2Kgs 18:36 = Isa 36:21; 2Chr 8:15 + 14 t.; אב
@@ -39,6 +41,8 @@ plural only Jer
 35:18;
 Prov 10:8; Neh 10:33
 המצוה, the order (title of property) Jer 32:11.
+
+@@SPLIT:sense@@
 
 2. of God:
 
@@ -212,6 +216,8 @@ Neh 9:34.
 c. of special commands of God 1Sam 13:13; 1Kgs 13:21; 2Chr 29:25
 ; Neh 13:5;
 Mal 2:1; Mal 2:4; Job 23:12.
+
+@@SPLIT:sense@@
 
 3.
 commandment, singular, of code of wisdom Prov 19:16, || תורה

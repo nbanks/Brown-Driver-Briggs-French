@@ -11,6 +11,8 @@ syriaque ; comparer [נְדַד] ci-dessus et hébreu biblique
 
 1.a.) ; —
 
+@@SPLIT:stem@@
+
 Pe`al
 Imparfait 3 féminin singulier תְּנֻד מִן
 Dn 4,11

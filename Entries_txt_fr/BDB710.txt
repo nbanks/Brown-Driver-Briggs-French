@@ -4,9 +4,13 @@ hébreu biblique
 [אֶ֫רֶב] אָ֑רֶב
 nom [masculin] —
 
+@@SPLIT:sense@@
+
 1.
 embuscade
 Jb 38,40.
+
+@@SPLIT:sense@@
 
 2.
 repaire, tanière

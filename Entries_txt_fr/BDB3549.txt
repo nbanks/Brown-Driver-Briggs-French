@@ -10,6 +10,7 @@ etc. ; pluriel suffixe מוֺלְדוֺתַיִךְ
 Ez 16,4
 מֹלְדֹתַיִךְ Ez 16,3 —
 
+@@SPLIT:sense@@
 1.
 parenté
 Gn 12,1 (||
@@ -34,6 +35,7 @@ E
 ), Jr
 22,10 ; Jr 46,16 ; Ez 23,15 ; Rt 2,11.
 
+@@SPLIT:sense@@
 2. pluriel circonstances de naissance, naissance (figuré de l'origine de Jérusalem)
 מֵאֶרֶץ הַכְּנַעֲנִי
 ׳
@@ -42,6 +44,7 @@ Ez 16,3,
 comparer Ez 16,4
 .
 
+@@SPLIT:sense@@
 3. (féminin) progéniture, une née
 Lv 18,9 (deux fois dans le
 verset), engendrée Lv 18,11 (tous

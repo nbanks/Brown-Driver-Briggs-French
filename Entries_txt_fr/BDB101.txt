@@ -4,6 +4,7 @@ hébreu biblique
 [אָדַב] verbe
 affliger ;
 
+@@SPLIT:stem@@
 Hiph`il
 Infinitif
 לַאֲדִיב (= לְהַאֲדִיב

@@ -21,6 +21,8 @@ Dt 33,22,
 courants
 Es 44,4 +) ; —
 
+@@SPLIT:stem@@
+
 Pe`al
 Participe
 Dn 7,10

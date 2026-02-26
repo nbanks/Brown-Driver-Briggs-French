@@ -8,6 +8,7 @@ s'abstenir de nourriture, jeûner (hébreu tardif id. ; arabe (
 [placeholder4473: Placeholders/4473.gif] araméen צוּם,
 [placeholder4474: Placeholders/4474.gif]) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 2 masculin singulier צַמְתָּ
 2 S 12,21 2

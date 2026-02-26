@@ -5,6 +5,7 @@ hébreu biblique
 commettre l'adultère (hébreu tardif id. ; araméen נְאַף (rare)) :
 —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 3 masculin singulier יִנְאַף
 Lv 20,10 (deux fois
@@ -52,6 +53,7 @@ Ez 23,45 (deux fois dans le verset).
 figuré du culte idolâtre, את האבן ואת העץ
 Jr 3,9.
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 3 féminin singulier נִאֲפָה
 Jr 3,8 3

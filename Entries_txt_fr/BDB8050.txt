@@ -4,6 +4,8 @@ hébreu biblique
 רְפָיָה
 nom propre, masculin
 
+@@SPLIT:sense@@
+
 1.
 dans la famille de David
 1 Ch 3,21,
@@ -16,7 +18,11 @@ A
 
 Ραφαια.
 
+@@SPLIT:sense@@
+
 2. en Siméon, 1 Ch 4,42, Ραφαια(ς).
+
+@@SPLIT:sense@@
 
 3. en Issacar, 1 Ch 7,2, Ραφαρα,
 A
@@ -27,6 +33,8 @@ A
 
 Ραφαια.
 
+@@SPLIT:sense@@
+
 4. descendant de Saül 1 Ch 9,43, Ραφαια,
 
 ᵐ5
@@ -35,6 +43,8 @@ A
 
 Αραχα (= רָפָה
 1 Ch 8,37).
+
+@@SPLIT:sense@@
 
 5. nom post-exilique Ne 3,9, Ραφαια(ς).
 

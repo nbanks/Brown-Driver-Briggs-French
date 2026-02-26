@@ -11,6 +11,8 @@ idû
 Sabean ידע, especially in compound proper name DHM^ZMG 1875,
 612^) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 יָדַע
@@ -43,7 +45,7 @@ Jer 50:24
 
 ) + Ezek
 28:22
-Co (for וְיָדְעוּ), so
+Co (for וְיָדְעוּ), so
 
 ᵐ5
 
@@ -76,9 +78,9 @@ Ps 138:6 (read
 probably יֵידָ֑ע see Ges^«GKC:69»§ 69^, 2 R, 3);
 וַיֵּ֫דַע
 Gen 4:17 +; suffix
-יֵדָעֶנּוּ
+יֵדָעֶנּוּ
 Jer 17:9
-וְיֵדָעֵם
+וְיֵדָעֵם
 Hos 14:10
 Imperative
 דַּע
@@ -259,7 +261,7 @@ d.
 discriminate, distinguish
 הַאֵדַע בֵּיןטֿוֺב לְרָ֑ע
 
-2Sam 19:36, compare Deut 1:29 (no בֵּין); לֹא יָדְעוּ
+2Sam 19:36, compare Deut 1:29 (no בֵּין); לֹא יָדְעוּ
 בֵיןיְֿמִינוֺ לִשְׂמאֹלוֺ
 Jonah
 4:11
@@ -446,7 +448,7 @@ Judg
 מִשְׁכַּב זָכָר
 Judg
 21:11
-לֹא יָדְעָה אִישׁ לְמִשְׁכַּב זָכָר Judg 21:12 man subject and object
+לֹא יָדְעָה אִישׁ לְמִשְׁכַּב זָכָר Judg 21:12 man subject and object
 (of sodomy)
 Gen 19:5 (
 J
@@ -459,7 +461,7 @@ Judg
 a.
 know how to do a thing, be able to do it, often with לֹא and
 followed by
-infinitive לֹא יָדְעוּ עֲשׂוֺתֿ
+infinitive לֹא יָדְעוּ עֲשׂוֺתֿ
 נְכֹחָה
 Amos
 3:10
@@ -558,6 +560,8 @@ Prov
 Eccl 8:16
 .
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect
 נוֺדַע
@@ -581,13 +585,13 @@ Esth
 feminine singular תִּוָּדֵ֑עַ
 
 Prov 14:33
-2 feminine singular תִּוָּדְעִי
+2 feminine singular תִּוָּדְעִי
 Ruth 3:3
 
 וָאִוָּדַע
 Ezek
 20:5
-Infinitive suffix הִוָּדְעִי
+Infinitive suffix הִוָּדְעִי
 Jer
 31:19
 Participle
@@ -691,6 +695,8 @@ be instructed (passive of
 Hiph`il) Jer 31:19, in spiritual sense, through
 chastisement.
 
+@@SPLIT:stem@@
+
 Pi`el
 Perfect 2 masculine singular יִדַּ֫עְתָּ, only
 ידעתה
@@ -713,6 +719,8 @@ Aq
 Symm
 .
 
+@@SPLIT:stem@@
+
 Po.
 Perfect
 יוֺדַעְתִּי
@@ -729,6 +737,8 @@ read יוֺעַדְתִּי or יָעַדְתִּי, from
 
 We
 Dr.
+
+@@SPLIT:stem@@
 
 Pu`al
 Participle
@@ -769,6 +779,8 @@ Ruth
 Qr
 
 מוֺדַע q.see below)
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect
@@ -1013,6 +1025,8 @@ who declare, at the new moons, of (the things) which are
 to
 come.
 
+@@SPLIT:stem@@
+
 Hoph`al
 Perfect
 הוֺדַע
@@ -1045,6 +1059,8 @@ Lev 4:23
 Lev 4:28 (
 P
 ).
+
+@@SPLIT:stem@@
 
 Hitph.
 Imperfect

@@ -5,6 +5,8 @@ Biblical Aramaic
 verb
 hear (see Biblical Hebrew); —
 
+@@SPLIT:stem@@
+
 Pe`al
 Perfect 3 masculine singular ׳
 שׁ
@@ -24,6 +26,8 @@ Dan 5:23 with
 accusative of sound Dan 3:5
 ; Dan 3:7; Dan 3:10; Dan 3:15, word Dan 6:15 with
 clause דִּי + עַל person concerning, Dan 5:14; Dan 5:16.
+
+@@SPLIT:stem@@
 
 Hithpe`el
 shew oneself obedient: Imperfect 3 masculine plural יִשְׁתַּמְעוּן

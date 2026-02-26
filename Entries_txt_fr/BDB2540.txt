@@ -30,6 +30,7 @@ Na 2,1
 Am 5,21 + 2 t. ;
 —
 
+@@SPLIT:sense@@
 1.
 fête, spécialement celle observée par un pèlerinage (Ex 23,14 ; Ex 23,17) :
 
@@ -167,6 +168,7 @@ Dt 16,10 ; Dt 16,13 ; 1 R 8,65 ; 1 R 12,32 ; 1 R 12,33 ; 2 Ch 7,8 ; 2 Ch 7,9 ; 2
 2 Ch 35,17 ;
 Esd 3,4 ; Esd 6,22 ; Ne 8,18.
 
+@@SPLIT:sense@@
 2.
 sacrifice de fête (comparer hébreu tardif חֲגִיגָה) Ps 118,27 (voir
 מזבח

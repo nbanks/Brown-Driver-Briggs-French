@@ -8,6 +8,8 @@ smooth, empty, Arabic
 [placeholder1791: Placeholders/1791.gif]
 make smooth, lie, forge, fabricate) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 ׳
@@ -39,6 +41,8 @@ heart;
 Ps 55:22 i.e.
 deceptive (|| רַכּוּ דְבָרָיו
 מִשֶּׁמֶן).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect

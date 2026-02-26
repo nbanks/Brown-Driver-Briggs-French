@@ -6,6 +6,8 @@ verb
 denominative
 use of proverb, speak in parables or sentences of poetry, especially Ezekiel; —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect
 יִמְשֹׁל
@@ -43,6 +45,8 @@ J
 
 E
 ).,
+
+@@SPLIT:stem@@
 
 Pi`el
 Participle

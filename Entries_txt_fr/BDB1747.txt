@@ -14,11 +14,13 @@ t. ; construit גֶּרֶם
 גְּרָמָיו
 Jb 40,18
 
+@@SPLIT:sense@@
 1.
 os
 Pr 17,22
 (collectif) Pr 25,15 du béhémoth (hippopotame) Jb 40,18 (|| עצם q.v.)
 
+@@SPLIT:sense@@
 2.
 force
 Gn 49,14
@@ -27,6 +29,7 @@ Gn 49,14
 VB
 ).
 
+@@SPLIT:sense@@
 3.
 soi (comparer עצם), 2 R 9,13
 גֶּרֶם הַמַּעֲלוֺת ainsi Ges

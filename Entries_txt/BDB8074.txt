@@ -15,6 +15,8 @@ others, of a coin, good, Id^ib. no. 21, 5^; Aramaic רְעָא,
 [placeholder5159: Placeholders/5159.gif]
 have pleasure in, compare II. רָעָה above); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular ׳
 ר
@@ -129,6 +131,8 @@ Lev 26:43 ( < point all these as
 Hiph`il, so SS
 Gerber).
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect 3 masculine singular נִרְצָה
 Lev 1:4;
@@ -161,6 +165,8 @@ Qal
 Isa 40:2
 her punishment is accepted (as satisfactory).
 
+@@SPLIT:stem@@
+
 Pi`el
 Imperfect 3 masculine plural יְרַצּוּ
 Job
@@ -171,12 +177,16 @@ Bu
 SS
 Gerber from רצץ).
 
+@@SPLIT:stem@@
+
 Hiph`il
 Perfect 3 feminine singular וְהִרְצָת (Ges
 ^«GKC:75m»§ 75m^) consecutive Lev 26:34
 the land shall pay off her sabbaths (accusative), compare
 Qal
 4.
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Imperfect 3 masculine singular יִתְרַצֵּה

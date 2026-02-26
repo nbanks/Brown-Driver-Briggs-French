@@ -32,6 +32,8 @@ Gen 43:11 +;
 כְּלֵיהֶם
 Josh 7:11 +; —
 
+@@SPLIT:sense@@
+
 1. in general, article, object, made of any material, thing
 , especially thing of value זָהָב
 ׳
@@ -124,6 +126,8 @@ Lev 13:49
 (compare מְלֶאכֶת עוֺר Lev 13:48), Lev 13:52 Lev 13:53 Lev 13:57 Lev 13:58 Lev 13:59 (all
 P
 ).
+
+@@SPLIT:sense@@
 
 2.
 utensil, implement, apparatus:
@@ -309,6 +313,8 @@ Num
 
 2Kgs 23:4.
 
+@@SPLIT:sense@@
+
 3.
 vessel, receptacle, of various materials and for various purposes Gen 43:11 (
 J
@@ -378,6 +384,8 @@ Isa 22:24
 the vessels of smallness (Da^Synt. § 32, R.
 5^
 ), from the basin-vessels to all the pitcher-vessels.
+
+@@SPLIT:sense@@
 
 4. specifically כְּלֵיגֹֿמֶא
 Isa 18:2

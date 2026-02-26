@@ -15,6 +15,7 @@ Es 38,20
 תָ֑י-
 Ha 3,19 —
 
+@@SPLIT:sense@@
 1.
 musique (d'instrument à cordes) accusatif de sens apparenté avec verbe Es 38,20 comme occupation
 Lm 5,14
@@ -22,6 +23,7 @@ surtout בִּנְגִינוֺת dans les titres de Psaumes ; Ps 4,1 ; Ps 6,1 ; 
 Ps 61,1 (lire
 peut-être pluriel Ges^«GKC:80f»§ 80f^.).
 
+@@SPLIT:sense@@
 2.
 chant (avec accompagnement de cordes ?) Ps 77,7
 sujet de chant moqueur

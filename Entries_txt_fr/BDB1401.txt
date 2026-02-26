@@ -5,6 +5,7 @@ hébreu biblique
 nom féminin
 majesté, Ps 93,1 + 7 t. ; —
 
+@@SPLIT:sense@@
 1.
 élévation
 גֵּאוּת עָשָׁן
@@ -14,6 +15,7 @@ Es 9,17
 houle de la mer
 Ps 89,10.
 
+@@SPLIT:sense@@
 2.
 majesté de Dieu Ps 93,1 ; Es 26,10
 גֵּאוּת עָשָׂה
@@ -24,6 +26,7 @@ couronne de majesté
 Es 28,1 ; Es 28,3
 (Samarie, sur une colline ronde dominant majestueusement le pays).
 
+@@SPLIT:sense@@
 3.
 orgueil
 דִּבְּרוּ בְגֵאוּת

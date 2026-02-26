@@ -10,6 +10,7 @@ apaiser, satisfaire l'oreille (ainsi apparemment Dalm), c.-à-d. lui permettre d
 ) ; — arabe
 [placeholder5529: Placeholders/5529.gif] voir s'humilier, Wahrm humilier) ; —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 3 masculin pluriel וַיָּשֹׁכוּ
 Gn 8,1 les eaux
@@ -29,6 +30,7 @@ Du supprime ישׁור כשׁ, puis lit יִלְכֹּדוּ׃
 ׳
 מוֺקְשִׁים הִצִּיבוּ בַּשַּׁחַת א).
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 1 singulier consécutif וַהֲשִׁכֹּתִ֫י מֵעָלַי
 Nb 17,20

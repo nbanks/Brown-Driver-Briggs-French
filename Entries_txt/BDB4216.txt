@@ -8,6 +8,8 @@ karâtu
 , II. hew off
 Dl^HWB 357^); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 ׳
@@ -248,6 +250,8 @@ for מֵהֶם, this is easiest and gives the usual construction; Du
 followed by Buhl, reads וַתִּכְרִי after
 Hos 3:2.
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect 3 masculine singular נִכְרַת
 Joel 1:5 + 5
@@ -421,6 +425,8 @@ J
 2Sam
 3:29.
 
+@@SPLIT:stem@@
+
 Pual
 Perfect
 כָּרַּת
@@ -435,6 +441,8 @@ be cut off, navel string Ezek 16:4.
 
 2.
 be cut down, Asherah Judg 6:28.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect
@@ -452,7 +460,7 @@ Deut
 12:29 + 2 t.; jussive יַכְרֵת
 Ps 12:4
 
-+ 4 t.; 1 singular וָאַכְרִ֫תָה
++ 4 t.; 1 singular וָאַכְרִ֫תָה
 2Sam 7:9
 
 1 plural suffix וְנַכְרִיתֶנָּה
@@ -634,6 +642,8 @@ permit to perish, מֵהַבְּהֵמָה (some) of the cattle
 
 1Kgs
 18:5.
+
+@@SPLIT:stem@@
 
 Hoph`al
 Perfect

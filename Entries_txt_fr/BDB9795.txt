@@ -10,11 +10,13 @@ mélanger (
 ערב
 ) ; —
 
+@@SPLIT:stem@@
 Pa`el
 Participe passif
 מְעָרַב
 mélangé avec (ב) Dn 2,41 ; Dn 2,43.
 
+@@SPLIT:stem@@
 Hithpa`al
 Participe
 id. :

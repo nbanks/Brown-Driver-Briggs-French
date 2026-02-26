@@ -9,6 +9,8 @@ dash in pieces (compare
 
 רְטַשׁ cast away, reject; but possibly akin to לָטַשׁ); —
 
+@@SPLIT:stem@@
+
 Pi`el
 Imperfect 2 masculine singular תְּרַטֵּשׁ
 2Kgs 8:12
@@ -17,6 +19,8 @@ their children thou will dash in pieces; 3 feminine plural קְשָׁתוֺת
 Isa 13:18,
 but probably corrupt, Du conjecture נְעָרוֺת תְּרֻטַּשְׁנָה
 compare Che.
+
+@@SPLIT:stem@@
 
 Pu`al
 Perfect 3 feminine singular אֵם עַלֿ

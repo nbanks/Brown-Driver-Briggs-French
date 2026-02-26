@@ -4,6 +4,7 @@ hébreu biblique
 [נָחַץ] verbe
 presser (?), d'où (si vera lectio) ; —
 
+@@SPLIT:stem@@
 Qal
 Participe passif (Participe actif en u,
 selon Ba^NB 175^), דְּבַד הַמֶּל֛ח נָחוּץ

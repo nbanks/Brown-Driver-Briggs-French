@@ -13,6 +13,7 @@ Ex 10,29 +
 (sur un éventuel construit voir 2 vers la fin) ; pluriel כֵּנִים
 Gn 42,11 ; Gn 42,19 ; Gn 42,31 ; Gn 42,33 ; Gn 42,34 —
 
+@@SPLIT:sense@@
 1.
 juste, habituellement indécl., souvent comme
 substantif
@@ -53,6 +54,7 @@ agendi
 2 R 7,9
 ce qui n'est pas juste nous le faisons, Jr 48,30 b.
 
+@@SPLIT:sense@@
 2.
 véritable, vrai, כֵּןצְֿדָקָה
 Pr 11,19
@@ -69,6 +71,7 @@ Gie et d'autres) la fausseté de leurs vantardises (
 Juste ! Correct ! Vrai !
 Jos 2,4.
 
+@@SPLIT:sense@@
 3. pluriel concret honnêtes (hommes) Gn 42,11 ; Gn 42,19 ; Gn 42,31 ; Gn 42,33 ; Gn 42,34
 (tous
 E

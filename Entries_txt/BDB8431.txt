@@ -16,6 +16,8 @@ Kö^Hast. DB NUMBER, 565^
 RS^Semitic i. 166, 2nd ed., 182^
 We^Reste^ Arabic Heid. 2, 186); —
 
+@@SPLIT:stem@@
+
 Qal (according to Thes
 Rob Ges) Passive participle
 שְׁבֻעֵי שְׁבֻעוֺת
@@ -35,6 +37,8 @@ Sm
 ׳
 שׁ
 weeks on weeks (plenty of time).
+
+@@SPLIT:stem@@
 
 Niph`al
 Perfect, 3 masculine singularנִשְׁבַּע
@@ -126,9 +130,8 @@ also 1Sam
 Th
 We
 Dr and others); oath allegiance (׳
-לי ) Isa 19:18; Isa 45:23; Zeph 1:5; 2Chr 5:14, compare(absolute) v
-
-2Chr 5:15
+לי ) Isa 19:18; Isa 45:23; Zeph 1:5; 2Chr 15:14, compare(absolute) v
+2Chr 15:15
 (Josh 23:7
 see
 Hiph`il); also sq וַיּאֹמֶר
@@ -210,7 +213,7 @@ Jer 5:7,
 Jer 12:16
 ,
 בְּמַלְכָּם
-Zeph 1:3,
+Zeph 1:5,
 compare
 Amos 8:14
 (+
@@ -236,7 +239,7 @@ E
 Amos 4:2 (
 id.), compare Ps 89:36 (|| אִם אֲכַזֵּב), compare also Amos 6:8;
 
-Amos 8:17;
+Amos 8:7;
 Jer 44:26;
 Jer 51:14;
 Isa 62:8
@@ -247,7 +250,7 @@ Gi), followed by מִן infinitive= not to
 
 Isa 54:9
 (twice in verse) followed by אִם
-Ps 90:10,
+Ps 95:11,
 followed by לֵאמֹר
 Deut 1:34; Isa 14:24;
 Num 32:10(
@@ -292,6 +295,8 @@ P
 ; Mic 7:20
 ; Deut 6:18
 + 8 t. Deuteronomy (object covenant Deut 4:31; Deut 8:18); ל person omitted Deut 31:21.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perf. 3 masculine singular הִשְׁבִּיעַ

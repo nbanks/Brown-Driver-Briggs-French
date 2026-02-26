@@ -5,6 +5,8 @@ Biblical Hebrew
 be desoleted, appalled (connection of meanings not clear) (Late Hebrew id
 .; Jewish-Aramaic שְׁמַם Ithpe`el be dazed); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 feminine singular שָׁמֵ֑מָה
 Ezek 35:15,
@@ -74,6 +76,8 @@ Ezek 26:16; Ezek 27:35; Ezek 28:19; Isa 52:14; Job 17:8, compare 1Kgs 9:8 =
 49:17; Jer 50:13 on oneself Ps 40:16 (עַלעֵֿקֶב). — Isa 42:14
 see [נשׁם].
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect 3 feminine singular נָשַׁ֫מָּה
 Jer 12:11
@@ -110,11 +114,13 @@ Jer 4:9; Lam 4:5; Ezek 4:17;
 Ezek 30:7
 , with עַל of thing Job 18:20.
 
+@@SPLIT:stem@@
+
 Po`
 Participle
 
 1.
-וֵָאשְׁבָה מְשׁוֺמֵם
+וֵָאשְׁבָה מְשׁוֺמֵם
 Ezra 9:3
 I sat appalled, compare Ezra 9:4
 
@@ -138,6 +144,8 @@ Dan 12:11
 Dan 8:13
 the crime causing horror, and ׳
 שׁ as noun horror-causer, appaller, Dan 9:27b.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 2 masculine singular הֲשִׁמּ֫וֺתָ
@@ -186,6 +194,8 @@ Ezek 3:15
 shewing horror, Job 21:5 (Bu Niph`al
 הִשַּׁמוּ).
 
+@@SPLIT:stem@@
+
 Hoph`al
 Infinitive construct
 כָּליְֿמֵי הָשַּׁמָּה (that is הָאָרֶץ) Lev 26:34 (
@@ -194,6 +204,8 @@ H
 ; 2Chr
 36:21 Aramaizing, בָּהְשַׁמָּה (Ges
 ^«GKC:67y»§ 67y^) Lev 26:43.
+
+@@SPLIT:stem@@
 
 Hithpo`el
 Imperfect 3 masculine singular יִשְׁתּוֺמֵם

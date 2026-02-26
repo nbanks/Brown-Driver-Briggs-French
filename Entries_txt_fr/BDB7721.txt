@@ -5,6 +5,7 @@ hébreu biblique
 dénominatif, seulement Participe passif
 carré, quadrangulaire ; —
 
+@@SPLIT:stem@@
 Qal
 Participe passif
 רָבוּעַ
@@ -20,6 +21,7 @@ Krae lit מְזוּזתֹ רְבֻעֹת, comparer 1 R 6,33, רְבִייְִ
 
 2.).
 
+@@SPLIT:stem@@
 Poual
 Participe carré, מְרֻבַּע
 Ez 45,2, d'un

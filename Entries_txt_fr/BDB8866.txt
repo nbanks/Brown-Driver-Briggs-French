@@ -15,6 +15,8 @@ Ne 7,3 suffixe
 רוֺתָם-
 2 Ch 7,6 +, תֵיהֶם- 2 Ch 31,17 —
 
+@@SPLIT:sense@@
+
 1.
 garde, veille :
 ׳
@@ -35,6 +37,8 @@ monter la garde
 gardes
 Ne 7,3 ; 1 Ch 9,23.
 
+@@SPLIT:sense@@
+
 2.
 conservation, préservation, ׳
 וְהָיָה לָכֶם לְמ
@@ -47,6 +51,8 @@ comparer Ex
 Ex 16,33 Ex 16,34 ; Nb 19,9 (tous
 P
 ).
+
+@@SPLIT:sense@@
 
 3.
 charge, injonction de ׳
@@ -61,6 +67,8 @@ D
 ^
 ), Ml 3,14
 d'injonctions spécifiques Lv 18,30 ; Nb 9,19 ; Nb 9,23.
+
+@@SPLIT:sense@@
 
 4.
 

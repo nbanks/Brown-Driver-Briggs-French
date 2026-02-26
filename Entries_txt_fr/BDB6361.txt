@@ -15,6 +15,7 @@ Jr 5,6 ; Ps 68,5, construit
 עַרְבֹת
 Jr 52,8 —
 
+@@SPLIT:sense@@
 1. usage le plus ancien :
 
 a. steppe aride à l'ouest de la mer Morte (dans le sud de Juda) 1 S 23,24, aussi
@@ -60,6 +61,7 @@ Dt
 
 c. vallée du Jourdain à l'est du fleuve 2 S 4,7.
 
+@@SPLIT:sense@@
 2. dans
 D
 :
@@ -74,6 +76,7 @@ Jourdain seulement
 Jos
 12,8 dépression au sud de la mer Morte (moderne Wady el-'Arabah) Dt 2,8.
 
+@@SPLIT:sense@@
 3. dans
 P
 toujours pluriel construit עַרְבוֺת מוֺאָב (Transjordanie) Nb 22,1 + 11 t. (voir
@@ -82,8 +85,10 @@ toujours pluriel construit עַרְבוֺת מוֺאָב (Transjordanie) Nb 22,1
 ׳
 ע (Cisjordanie) Jos 4,13 ; Jos 5,10, aussi 2 R 25,5 = Jr 39,5 = Jr 52,8.
 
+@@SPLIT:sense@@
 4. apparemment le désert du nord de l'Arabie Es 40,3 ; Es 41,19.
 
+@@SPLIT:sense@@
 5. en général la steppe (souvent || מִדְבָּר), Jr 17,6 ; Jr 50,12 ; Es 33,9 ; Es 35,1 ; Es 35,6 ; Jb 24,5 ; Jb 39,6 ; Ps 68,5
 זְאֵב עֲרָבוֺת
 Jr 5,6 (figuré de l'

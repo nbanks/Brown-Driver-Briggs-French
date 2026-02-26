@@ -8,6 +8,7 @@ araméen biblique
 
 syriaque (souvent) ; voir hébreu biblique) ; —
 
+@@SPLIT:stem@@
 Pe`al
 Parfait 3 féminin singulier מִלְּתָא סָ֫פַת
 Dn 4,30 (comparer
@@ -18,6 +19,7 @@ Qal
 1
 c).
 
+@@SPLIT:stem@@
 Haph`el
 mettre fin à : Imparfait 3 féminin singulier תָּסֵף
 Dn 2,44

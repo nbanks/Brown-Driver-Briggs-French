@@ -3,6 +3,8 @@ Biblical Hebrew
 
 אֲרִיאֵל
 
+@@SPLIT:sense@@
+
 1.
 proper name, feminine (probably, see Ew) Ariel
 (
@@ -13,10 +15,14 @@ Di and others; Tagum De
 Brd Or and others say hearth of El, compare
 אֲרִאֵיל).
 
+@@SPLIT:sense@@
+
 2.
 proper name, masculine
 a chief man among returning exiles
 Ezra 8:16.
+
+@@SPLIT:sense@@
 
 3.
 אֲרִאֵל מוֺאָב
@@ -41,6 +47,8 @@ MI^12^
 א
 altar-hearths of Moab.
 
+@@SPLIT:sense@@
+
 4.
 Ezek 43:15
 &
@@ -52,6 +60,8 @@ Ezek 43:16 see below אֲרִיאֵיל.
 Du^
 Isa 29:1
 ^ (q. v.) makes
+
+@@SPLIT:sense@@
 
 1. = אֲרִיאֵיל, from אָרָה + ל afformative,
 hearth (not + אֵל

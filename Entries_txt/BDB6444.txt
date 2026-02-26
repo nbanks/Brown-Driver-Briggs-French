@@ -5,6 +5,8 @@ Biblical Hebrew
 noun [masculine]
 a ten, decade; —
 
+@@SPLIT:sense@@
+
 1. usually of days:
 
 a.
@@ -27,6 +29,8 @@ P
 25:1 = Jer
 52:4;
 Jer 52:12 (seventh day in || 2Kgs 25:8).
+
+@@SPLIT:sense@@
 
 2. of strings of instrument: ׳
 נֵבֶל ע

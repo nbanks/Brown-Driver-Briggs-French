@@ -4,6 +4,8 @@ hébreu biblique
 בּוּר
 verbe
 
+@@SPLIT:stem@@
+
 Qal
 Infinitif construit
 לָבוּר

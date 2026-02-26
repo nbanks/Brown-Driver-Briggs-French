@@ -19,7 +19,7 @@ tum …. tum = 'both …. and,' both properly demonstratives: Assyrian
 ma
 has also a demonstrative force, Dl^§ 79^], it is
 less palpable) — וְ before shwa' mobile or a labial is vocalized וּ; often before
-a tone-syll., when the word itself has a disj. accent, וָ (as וַָמתִּי׃
+a tone-syll., when the word itself has a disj. accent, וָ (as וַָמתִּי׃
 Gen 19:19
 וָמֵ֖תוּ
 Gen 33:13
@@ -58,7 +58,7 @@ Gen 2:19,
 Gen 4:12,
 וְקַיִץ וָחֹ֛רֶף וְיוֺם וָלָ֖יְלָה
 Gen 8:22,
-קַח וֵָלךְ׃
+קַח וֵָלךְ׃
 Gen 12:19,
 שָׁמַיִם וָאָֽרֶץ׃
 Gen 14:19,
@@ -66,7 +66,7 @@ Gen 14:19,
 Gen 31:44,
 אֲנִי וָה֑וּא
 Gen 41:11,
-עִבְרוּ וָשׁוּבוּ
+עִבְרוּ וָשׁוּבוּ
 Exod 32:27,
 אַתָּה וָהֵ֛ם
 Num 16:16,
@@ -85,7 +85,7 @@ Lev 18:5,
 וָאָ֣רֶץ חֲדָשָׁ֑ה
 Isa 65:17;
 Prov 25:3,
-שֹׁ֖ד וָשֶשׁבֶר גָּדוֺל׃
+שֹׁ֖ד וָשֶשׁבֶר גָּדוֺל׃
 Jer 48:3, compare
 Jer 32:29). —
 וְ is used very freely and widely in Hebrew, but also with much delicacy, to express relations and
@@ -99,6 +99,8 @@ AV
 RV
 , words like or, then, but, notwithstanding, howbeit, so, thus, therefore, that,
 constantly appear, where the Hebrew has simply וְ.
+
+@@SPLIT:sense@@
 
 1.
 And, connecting both words (see above), and sentences (Gen 1:5
@@ -430,6 +432,8 @@ Amos 9:5-6; Isa 51:15
 and I [who promise this] am J. thy God, who . . . . ! Jer 29:23; Ps 89:38b (compare in
 Qoran the frequently 'And God is . . . . [the mighty, the merciful, etc.]').
 
+@@SPLIT:sense@@
+
 2. The ו consecutive (formerly called the Waw 'conversive'); —
 
 a.
@@ -497,6 +501,8 @@ RV
 leaves his father, he will die, Gen 33:13; Gen 42:38; Exod 4:14; Exod 12:13; 1Sam 16:2; 1Sam 19:3; Ezek 33:3; Ezek 39:15 etc. (Dr^§ 147-9^,
 Ges^«GKC:159»§ 159^. 2 e).
 
+@@SPLIT:sense@@
+
 3. With a voluntative (cohortative or jussive) וְ expresses
 an intention,
 that or so that (an elegancy by which the too frequent use of לְמַעַן or בַּעֲבוּר
@@ -539,6 +545,8 @@ Gen 34:12;
 Prov 3:9f. Prov 4:4; Prov 4:8; Isa 55:2: see
 Dr^§ 152^.
 
+@@SPLIT:sense@@
+
 4. It expresses often an informal inference, or consequence, so, then, especially at the
 beginning of
 a speech: Gen 27:8
@@ -558,6 +566,8 @@ then bring meal, Ezek 18:32. So the וְ consecutive and the perfect, as Deut 2:
 וְיָָֽדַעְתָּ֫ know, therefore, Deut 30:19; 1Sam 6:5; 1Kgs 2:6; Ruth 3:9; Josh 15:19; Isa 40:6b (Dr^§
 119^
 δ).
+
+@@SPLIT:sense@@
 
 5.
 ו introduces the predicate or apodosis: namely

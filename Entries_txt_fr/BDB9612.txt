@@ -18,11 +18,15 @@ ii.c.19 ii b. 18) Dn 2,38 ; Dn 7,19 (
 Qr
 féminin כָּכְּהֵּן) ; —
 
+@@SPLIT:sense@@
+
 1.
 כֹּל חַכִּימֵי בָבֶכ
 la totalité de ( = tous) les sages de Babylone Dn 3,2 ; Dn 3,3 ; Dn 3,5, etc. ; Dn 6,2
 כלמֿלכותא
 la totalité du royaume, v.Dn 6,4 avec suffixe la totalité d'entre eux, Dn 2,38 ; Dn 7,19.
+
+@@SPLIT:sense@@
 
 2. avec un nom singulier, compris collectivement, chaque, tout, ou avec un
 négatif aucun (hébreu biblique 1.b.) : Dn 3,29
@@ -41,6 +45,8 @@ Dn 2,38
 (comparer אְִשֶׁר
 4.b.
 γ).
+
+@@SPLIT:sense@@
 
 3. emphatique כֹּלָּא, employé absolument, comme hébreu הַכֹּל (hébreu
 biblique 2.b.) : Dn 2,40

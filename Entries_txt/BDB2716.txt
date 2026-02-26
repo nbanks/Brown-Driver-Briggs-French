@@ -16,6 +16,8 @@ Gen 1:20 +; plural
 חַיִּים
 Ps 116:9 +; —
 
+@@SPLIT:sense@@
+
 1.
 
 a.
@@ -414,6 +416,8 @@ P
 
 ; Song 4:15.
 
+@@SPLIT:sense@@
+
 2. (dubious) lively, active:
 אישׁ חַי
 an active man
@@ -432,6 +436,8 @@ Ol
 Ew Hu Che and others read
 
 חִנָּם, || שׁקר).
+
+@@SPLIT:sense@@
 
 3.
 reviving:

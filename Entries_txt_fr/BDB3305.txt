@@ -32,6 +32,7 @@ Jr 24,2 + 6 t.,
 טֹבֹת
 Gn 6,2 + 4 t. ; —
 
+@@SPLIT:sense@@
 1.
 agréable, plaisant pour les sens :
 
@@ -111,6 +112,7 @@ le roseau aromatique.
 
 d. d'une ombre agréable d'un arbre Os 4,13.
 
+@@SPLIT:sense@@
 2.
 agréable à la nature supérieure, procurant plaisir, bonheur, prospérité, et ainsi
 agréable, plaisant, bien :
@@ -289,6 +291,7 @@ J
 2 Ch
 18,17 comparer 1 R 22,13 = 2 Ch 18,12.
 
+@@SPLIT:sense@@
 3.
 bon, excellent en son genre :
 
@@ -464,6 +467,7 @@ Es
 41,7
 .
 
+@@SPLIT:sense@@
 4.
 bon, riche, de valeur estimée :
 
@@ -500,6 +504,7 @@ H
 Jl 4,5
 mes belles choses précieuses.
 
+@@SPLIT:sense@@
 5.
 bon, approprié, convenable, טוב אשׁר
 Qo 7,18
@@ -593,6 +598,7 @@ Pr
 
 qu'une âme soit sans connaissance n'est pas bon.
 
+@@SPLIT:sense@@
 6. avec מִן comparatif = meilleur, suivi de
 l'infinitif
 Gn 29,19
@@ -736,6 +742,7 @@ Bu (
 
 seulement כי avec Imparfait)
 
+@@SPLIT:sense@@
 7. de la nature sensuelle de l'homme, content, heureux, prospère :
 טוב לב
 cœur joyeux, content
@@ -752,6 +759,7 @@ Jr 44,17
 
 nous étions prospères ; de même Ps 112,5.
 
+@@SPLIT:sense@@
 8. de la nature intellectuelle de l'homme, שֵׂכֶל טוֺב
 bon entendement
 2 Ch 30,22
@@ -764,6 +772,7 @@ Pr 13,15
 טוֺבַת שֶׂכֶל
 1 S 25,3.
 
+@@SPLIT:sense@@
 9.
 bon, bienveillant :
 
@@ -855,6 +864,7 @@ D
 8,56 ;
 Jr 29,10 ; Jr 33,14 ; Za 1,13.
 
+@@SPLIT:sense@@
 10.
 bon (éthique), juste :
 מה טוב || ce que Yahvé exige Mi 6,8, || משׁפט

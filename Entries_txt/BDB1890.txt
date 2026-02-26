@@ -31,6 +31,8 @@ Diplom^.) = Arabic
 [placeholder1116: Placeholders/1116.gif]
 long time, age) —
 
+@@SPLIT:stem@@
+
 Qal in Infinitive
 מִדּוּר באהלירֿשׁע
 Ps 84:11

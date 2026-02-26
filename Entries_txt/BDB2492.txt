@@ -4,6 +4,8 @@ Biblical Hebrew
 [חָבָה] verb
 withdraw, hide, compare חבא; —
 
+@@SPLIT:stem@@
+
 Qal
 Imperative masculine singular חֲבִי
 Isa 26:20
@@ -11,6 +13,8 @@ Isa 26:20
 Ew^§ 224.c^
 Du; Di reads חֲבֵּי
 = חֲבֵה), withdraw into privacy (|| בּאֹ בַחֲדָרֶיךָ).
+
+@@SPLIT:stem@@
 
 Niph`al
 Perfect

@@ -14,6 +14,8 @@ desire vehemently; Ethiopic
 [placeholder5107: Placeholders/5107.gif]
 be hungry); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular ׳
 ר
@@ -34,11 +36,13 @@ if I should be hungry (of ׳
 י),
 Prov 6:30; Prov 19:15.
 
+@@SPLIT:stem@@
+
 Hiph`il
 allow one to hunger, subject ׳
 י: Imperfect 3 masculine singular וַיַּרְעִבֶ֑ךָ
 Deut 8:3 (opposed to
-וַיַּאֲִכלְךָ), יַרְעִיב נֶפֶשׁ
+וַיַּאֲִכלְךָ), יַרְעִיב נֶפֶשׁ
 Prov 10:3.
 
 ---

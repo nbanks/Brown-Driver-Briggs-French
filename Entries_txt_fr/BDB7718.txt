@@ -58,6 +58,7 @@ P
 Ez 52
 t., Chroniques 47 t.) : —
 
+@@SPLIT:sense@@
 1. sans autre nombre :
 
 a.
@@ -171,6 +172,7 @@ Kmp
 Bu
 HPS.
 
+@@SPLIT:sense@@
 2. avec un autre nombre :
 
 a. (1) אַרְבַּע עֶשְׂרֵה =

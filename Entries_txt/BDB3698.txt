@@ -17,6 +17,8 @@ dignity; Sabean noun יקר
 honour
 DHM^ZMG 1883, 402^) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 feminine singular יָָֽקְרָה
 1Sam 16:21 2
@@ -24,7 +26,7 @@ masculine singular יָקַרְתָּ
 Isa 43:4 1
 singular יָקַרְתִּי
 Zech 11:13 3
-plural יָקְרוּ
+plural יָקְרוּ
 Ps 139:17
 Imperfect
 וַיִּיקַר
@@ -79,6 +81,8 @@ Zech
 
 the magnificence of the price at which I was appraised (and dismissed)
 from them!
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imperfect 1 singular אוֺקִיר אֱנוֺשׁ מִפָּ֑ז

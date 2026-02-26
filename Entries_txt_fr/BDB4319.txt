@@ -4,9 +4,11 @@ hébreu biblique
 מַלְבֵּן
 nom [masculin]
 
+@@SPLIT:sense@@
 1.
 moule à briques ;
 
+@@SPLIT:sense@@
 2.
 quadrilatère
 (sur le sens moule à briques, et figuré quelque chose de
@@ -18,6 +20,7 @@ Dr^
 [placeholder2749: Placeholders/2749.gif] ; syriaque
 [placeholder2750: Placeholders/2750.gif]) ; —
 
+@@SPLIT:sense@@
 1.
 moule à briques, 2 S 12,31
 
@@ -26,6 +29,7 @@ Qr
 Kt
 , par erreur, מלכן), Na 3,14.
 
+@@SPLIT:sense@@
 2.
 quadrilatère, Jr 43,9 (à Tahpanhès).
 

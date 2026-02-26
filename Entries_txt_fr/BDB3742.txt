@@ -30,6 +30,7 @@ Ex 28,42
 suffixe יְרֵכַיִךְ
 Ct 7,2 —
 
+@@SPLIT:sense@@
 1.
 cuisse,
 
@@ -79,6 +80,7 @@ J
 ),
 Gn 47,29.
 
+@@SPLIT:sense@@
 2.
 côté (flanc) de l'autel 2 R 16,14 ; Lv 1,11 (
 P
@@ -99,6 +101,7 @@ Dr
 Bu
 Kit.
 
+@@SPLIT:sense@@
 3.
 base (lombes) du chandelier Ex 25,31 ; Ex 37,17 ; Nb 8,4 (tous
 P

@@ -9,6 +9,7 @@ remettre, épargner, Vog^Nos. 6, 15^; sabéen
 משחכן
 sevré (enfant) DHM^ZMG 1875, 608^) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 חָשַׂךְ
@@ -145,6 +146,7 @@ voir
 חשׁך
 .
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait
 לְיוֺם אֵיד יֵחָשֶׂךְרָֿע

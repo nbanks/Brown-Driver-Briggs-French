@@ -4,6 +4,8 @@ Biblical Aramaic
 [בְּרַךְ] verb
 kneel, bless (so Biblical Hebrew); —
 
+@@SPLIT:stem@@
+
 Pe
 Participle
 
@@ -18,6 +20,8 @@ passive
 בְּרִיךְ
 Dan 3:28
 blessed (be) the God, etc.
+
+@@SPLIT:stem@@
 
 Pa`el
 bless, praise: Perfect 3 masculine singular בָּרִךְ

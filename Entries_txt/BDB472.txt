@@ -11,6 +11,8 @@ t.); plural אָלוֺת
 Deut 29:20 + (4
 t).
 
+@@SPLIT:sense@@
+
 1.
 oath in testimony Lev 5:1; Num 5:21 (twice in verse) (
 P
@@ -28,6 +30,8 @@ Ezek 17:13
 1Kgs 8:31 ( =
 2Chr 6:22).
 
+@@SPLIT:sense@@
+
 2.
 oath of convenant Gen 24:41 (twice in verse); Gen 26:28 (
 J
@@ -41,6 +45,8 @@ Ezek 16:59
 17:16;
 Ezek 17:18; Ezek 17:19.
 
+@@SPLIT:sense@@
+
 3.
 curse
 
@@ -51,6 +57,8 @@ P
 Deut 29:19; Deut 29:20; Deut 30:7; Deut 2:24;
 
 (b) from men Job 31:30; Ps 10:7; Ps 59:13.
+
+@@SPLIT:sense@@
 
 4.
 execration in the phrase היה לאלה

@@ -12,6 +12,8 @@ Exod 5:19 +,
 רָ֑ע
 Gen 48:16 +; —
 
+@@SPLIT:sense@@
+
 1.
 evil, distress, adversity:
 יָרֵא רַע
@@ -57,6 +59,8 @@ E
 ) Ps
 121:7 see also Mic 1:12; Ps 140:12; Job 5:19; Job 31:29; Prov 12:21; Prov 19:23.
 
+@@SPLIT:sense@@
+
 2.
 evil, injury, wrong:
 Hab 2:9; Job 2:10; Prov 21:10
@@ -98,6 +102,8 @@ Prov 11:15
 (but read רֹעַ
 Gr
 SS, see Toy).
+
+@@SPLIT:sense@@
 
 3. ethical evil, Deut 30:15; 2Sam 14:17; Isa 5:20; Amos 5:14; Mic 7:3 + 10 t.; עשׁה רע
 2Kgs 21:9; 2Chr 12:14;

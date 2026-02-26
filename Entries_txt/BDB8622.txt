@@ -8,6 +8,8 @@ spread out; so Ethiopic
 [placeholder5506: Placeholders/5506.gif] Aramaic שְּׁטַח
 [placeholder5507: Placeholders/5507.gif]); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 plural suffix consecutive לַשֶּׁמֶשׁ וּטָחוּם
 Jer 8:2
@@ -31,6 +33,8 @@ Gray); Participle
 Job 12:23
 expanding the nations (compare ל
 3.b.).
+
+@@SPLIT:stem@@
 
 Pi`el
 Perfect 1 singular שִׁטַּחְתִּי אֵלֶיךָ כַפָּ֑י

@@ -7,6 +7,8 @@ lift, take, carry (compare Biblical Hebrew; rare in Aramaic; see נְסִי,
 נְסָא
 ChWB, NHWB); —
 
+@@SPLIT:stem@@
+
 Pe`al
 Perfect 3 masculine singular ׳
 נ
@@ -15,6 +17,8 @@ carry away (of wind, with accusative of thing); Imperative masculine singular
 שֵׂא
 Ezra 5:15
 take (accusative vessels).
+
+@@SPLIT:stem@@
 
 Hithpa`el
 make a rising, an insurrection: Participle feminine singular מִתְנַשְּׂאָה

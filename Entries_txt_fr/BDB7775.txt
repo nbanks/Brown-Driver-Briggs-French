@@ -8,6 +8,7 @@ poursuivre, chasser, persécuter (hébreu tardif id., araméen רְדַף,
 [placeholder4981: Placeholders/4981.gif] ; sabéen רדף
 id., SabDenkm^No. 7, 1. 2^) ; —
 
+@@SPLIT:stem@@
 Qal_128_
 Parfait 3 masculin singulier ׳
 ר
@@ -219,6 +220,7 @@ Ps 34,15
 Ps 38,21
 .
 
+@@SPLIT:stem@@
 Niph`al passif : Parfait 1 pluriel עַלצַֿוָּארֵנוּ נִרְדָּ֑פְנוּ
 Lm 5,5
 sur notre cou (c.-à-d. de près) nous sommes poursuivis (improbable,
@@ -235,6 +237,7 @@ Bu (pour תִּרְדֹּף) ; Participe
 Qo 3,15
 Dieu cherche ce qui est poursuivi (c.-à-d. ce qui a disparu, est passé, mais douteux).
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 3 féminin singulier consécutif וְרִדְּפָה
 Os 2,9
@@ -277,6 +280,7 @@ Pr 15,9
 
 .
 
+@@SPLIT:stem@@
 Pu`al
 Parfait 3 masculin singulier consécutif וְרֻדַּף כְמֹץ הָרִים
 Es
@@ -284,6 +288,7 @@ Es
 
 il sera chassé comme la bale des montagnes (|| וְנָס).
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 masculin singulier suffixe הִרְּדִיפֻהוּ
 Jg

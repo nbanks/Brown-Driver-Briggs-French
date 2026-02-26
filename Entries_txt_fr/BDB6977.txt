@@ -4,6 +4,7 @@ hébreu biblique
 [צִיד] verbe
 dénominatif
 
+@@SPLIT:stem@@
 Hithpa`el
 se pourvoir de provisions, prendre comme provision — Parfait
 1 pluriel

@@ -28,6 +28,7 @@ Est 1,17 ; Est 1,20 —
 
 I.
 
+@@SPLIT:sense@@
 1.
 propriétaire (souvent pluriel avec suffixe au sens singulier) : du bœuf Ex 21,28 ; Ex 21,29 (deux fois dans le verset) ;
 Ex 22,10 ;
@@ -56,6 +57,7 @@ Jg 19,23, dette Dt 15,2, la terre Jb 31,39, l'âne Es 1,3, biens Qo 5,10, riches
 ׳
 ב celui qui reçoit le présent Pr 17,8.
 
+@@SPLIT:sense@@
 2.
 mari
 Gn 20,3 ; Ex 21,3 ; Ex 21,22 (
@@ -74,6 +76,7 @@ Os 2,18 (
 mon Baal, référence au nom divin utilisé dans le royaume du Nord, ici interdit pour la première
 fois).
 
+@@SPLIT:sense@@
 3.
 citoyens, habitants :
 בַּעֲלֵי de Jéricho Jos 24,11 (
@@ -86,11 +89,13 @@ Jg 9,2 + 12 t., de la tour de Sichem Jg 9,46 ; Jg 9,47, de la ville Jg 9,51, de 
 de Jabès 2 S
 21,12.
 
+@@SPLIT:sense@@
 4.
 dirigeants, seigneurs :
 בַּעֲלֵי גוֺיִם
 Es 16,8.
 
+@@SPLIT:sense@@
 5.
 nom de relation :
 
@@ -183,6 +188,7 @@ Di
 Surtout II.
 seigneur, spécifiquement comme nom divin, Baal.
 
+@@SPLIT:sense@@
 1.
 sans article :
 במות בעל
@@ -225,6 +231,7 @@ Di^Baal mit d. weib. Art1 Kel, MBA 1881, June 16^
 Dr
 2 S 4,4).
 
+@@SPLIT:sense@@
 2. avec article :
 הַבַּעַל
 Jg 2,13 ; Jg 6,25 ; Jg 6,28 ; Jg 6,30 ; Jg 6,31 ; Jg 6,32 ; 1 R 16,31
@@ -270,6 +277,7 @@ Os 2,10 ; Os 13,1 ;
 
 .
 
+@@SPLIT:sense@@
 3.
 הַבְּעָלִים
 pluriel emphatique (comparer האלהים, האדונים)
@@ -288,6 +296,7 @@ Jr 2,23 ; Jr 9,13 ; Os 2,15 ; Os 2,19 ; Os 11,2 (ou
 des Baals
 locaux particuliers, voir Dr^Sm. p. 50^ ; piliers de Baal MV).
 
+@@SPLIT:sense@@
 4. avec
 attribut :
 בַּעַל בְּרִית

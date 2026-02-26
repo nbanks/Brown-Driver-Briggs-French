@@ -5,6 +5,8 @@ hébreu biblique
 verbe
 dénominatif
 
+@@SPLIT:stem@@
+
 Hoph`al
 Participe
 מְהֻקְצָעוֺת (Ew^§ 192 d^

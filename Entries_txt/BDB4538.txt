@@ -21,6 +21,8 @@ moistening is suggested, this may be perhaps derived from agitating, loosening,
 dissolving.
 —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 3 feminine singular תָּמוּג 46:7; וַתָּמוֺג
 Amos 9:5 2
@@ -53,6 +55,8 @@ Isa 64:6
 see
 above)
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect
 נָמוֺג
@@ -68,6 +72,8 @@ melt away, figurative for be helpless, disorganized (through terror, etc.) Exod 
 1Sam 14:16 (compare We
 Dr), Jer 49:23, compare Nah 2:7; Isa 14:31; Ps 75:4.
 
+@@SPLIT:stem@@
+
 Po>l.
 soften, dissolve, active: only Imperfect 2 masculine singular suffix (subject God):
 בִּרְבִיבִם
@@ -75,7 +81,7 @@ soften, dissolve, active: only Imperfect 2 masculine singular suffix (subject Go
 Ps 65:11
 thou softenest it [the earth] with showers; figurative, =
 dissipate
-וּתְמֹגְגֵ֫נִי
+וּתְמֹגְגֵ֫נִי
 Job 30:22
 — We reads וַיְמֹגֵג
 Hab 3:6 for
@@ -83,6 +89,8 @@ Hab 3:6 for
 מדד
 
 Po`el.
+
+@@SPLIT:stem@@
 
 Hithpo`el Perfect 3 plural הִתְמֹגָָֽגוּ
 Nah 1:5

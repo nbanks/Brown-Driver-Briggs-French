@@ -3,6 +3,7 @@ hébreu biblique
 
 [טֵאטֵא] verbe
 
+@@SPLIT:stem@@
 Pilpel, seulement Parfait 1 singulier suffixe וְטֵאטֵאתִיהָ בְּמַטְאֲטֵא הַשְׁמֵד
 
 Es 14,23

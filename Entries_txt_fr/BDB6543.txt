@@ -8,11 +8,13 @@ souffler ; arabe (
 [placeholder4186: Placeholders/4186.gif] = hébreu, ainsi araméen פּוּחַ,
 [placeholder4187: Placeholders/4187.gif]) ; —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 3 masculin singulier יָפוּחַ הַיּוֺם
 Ct 2,17 ; Ct 4,6 jusqu'à ce que
 le jour souffle, c.-à-d. se rafraîchisse.
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait 3 masculin singulier יָפִיחַ
 Ps 10,5 + ;

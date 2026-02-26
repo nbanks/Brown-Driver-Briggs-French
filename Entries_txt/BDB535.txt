@@ -5,6 +5,8 @@ Biblical Hebrew
 noun feminine
 faith, support.
 
+@@SPLIT:sense@@
+
 1.
 אֲנַחְנוּ
 כֹּרְתִים אֲמָנָה
@@ -14,6 +16,8 @@ AV
 RV
 ) Neh 10:1
 .
+
+@@SPLIT:sense@@
 
 2.
 ׳

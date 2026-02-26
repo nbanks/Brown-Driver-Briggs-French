@@ -6,6 +6,8 @@ growl, groan (Late Hebrew id.; Arabic
 [placeholder3200: Placeholders/3200.gif]; Aramaic
 [placeholder3201: Placeholders/3201.gif], נְהַם); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 וְנָהַמְתָּ֫

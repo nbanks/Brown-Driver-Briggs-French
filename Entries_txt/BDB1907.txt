@@ -4,9 +4,13 @@ Biblical Hebrew
 [דָּחַף] verb
 drive, hasten (late) (Late Hebrew id., Aramaic דְּחַף) —
 
+@@SPLIT:stem@@
+
 Qal
 Passive participle plural דְּחוּפִים of runners Esth 3:15; Esth 8:14 (|| מְבֹהָלִים
 ).
+
+@@SPLIT:stem@@
 
 Niph`al
 Perfect

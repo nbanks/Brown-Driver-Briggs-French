@@ -8,6 +8,8 @@ q. v.; Arabic
 [placeholder1531: Placeholders/1531.gif], Aramaic
 [placeholder1532: Placeholders/1532.gif]) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 feminine singular וְזָעָ֑קָה
 2Sam 13:19 1
@@ -138,6 +140,8 @@ if my land cry out against me (|| יִבְכָּיוּן); compare also
 (absolute, and without preposition) Hab 2:11
 the stone shall cry out of (מִן) the wall.
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect 2 masculine singular נִזְעָ֑קְתָּ
 Judg
@@ -172,6 +176,8 @@ Judg 6:34
 ; Judg
 6:35
 assembled after him, i.e. joined him as his followers.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imperfect

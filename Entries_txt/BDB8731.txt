@@ -19,6 +19,8 @@ a flock of sheep (or goats); then
 booty, and (rare) Syriac
 [placeholder5573: Placeholders/5573.gif] are loan-words); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular consecutive ׳
 וְשׁ
@@ -42,6 +44,8 @@ Jer 50:10;
 Hab 2:8; Ezek 39:10,
 גּוֺיִם רַבּים
 Hab 2:8, compare Zech 2:12.
+
+@@SPLIT:stem@@
 
 Hithpo`el
 Perfect 3 plural אֶשְׁתּוֺלְלוּ

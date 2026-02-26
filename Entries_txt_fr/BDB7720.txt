@@ -4,6 +4,8 @@ hébreu biblique
 אַרְבָּעִים_136_ nom pluriel indéclinable
 une quarantaine ; —
 
+@@SPLIT:sense@@
+
 1. sans autre nombre :
 
 a. habituellement apposition avant le nom, surtout שָׁנָה
@@ -87,6 +89,8 @@ Gn 18,29
 Dt 25,3
 quarante (coups) il pourra le frapper.
 
+@@SPLIT:sense@@
+
 2. avec d'autres nombres :
 
 a. avant l'unité, + nom singulier :, 40 + 1שָׁנָה
@@ -152,6 +156,8 @@ Gi), Ne 7,13 ; Ne 7,29 ; Ne 7,44 1000, 200, 40 + 7 Esd 2,38 = Ne 7,41 nom plurie
 Ne 7,67,
 nom pluriel 200, 40 + 2 ; Ne 11,13 aussi
 nom singulier נֶפֶשׁ 700, 40 + 5 Jr 52,30.
+
+@@SPLIT:sense@@
 
 3. comme ordinal, שָׁנָה
 ׳

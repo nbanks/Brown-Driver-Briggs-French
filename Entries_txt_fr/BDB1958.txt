@@ -7,6 +7,7 @@ brûler (intransitif), poursuivre ardemment (hébreu tardif id.,
 araméen דְּלַק,
 [placeholder1150: Placeholders/1150.gif] tous intransitifs brûler, s'enflammer ; Hiph`il, Aph`el transitif) —
 
+@@SPLIT:stem@@
 Qal
 Parfait 2 masculin singulier דָּלַקְתָּ
 Gn 31,36 3
@@ -44,6 +45,7 @@ Gn 31,36 (
 E
 ; suivi de אַחֲרֵי) 1 S 17,53 (suivi d'id.) ; Ps 10,2 ; Lm 4,19 (tous deux suivis de l'accusatif)
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait suffixe יַדְלִיקֵם
 Es 5,11

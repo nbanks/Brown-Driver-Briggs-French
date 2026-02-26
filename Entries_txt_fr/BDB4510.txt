@@ -12,6 +12,7 @@ madâdu
 , mesurer ; araméen judéo-araméen nom מִידָּה
 mesure, proportion, règle) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 ׳
@@ -67,6 +68,7 @@ P
 figuré de mesurer les eaux Es 40,12 (de ׳
 י) ; de la rétribution Es 65,7.
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait
 יִמַּד
@@ -75,6 +77,7 @@ Os 2,1 ; Jr 33,22
 Jr 31,37
 — être mesuré, du sable de la mer Os 2,1 ; Jr 33,22 des cieux Jr 31,37.
 
+@@SPLIT:stem@@
 Pi`el
 Parfait
 וּמִדַּדֿ consécutif Jb 7,4 (comparer Ges^«GKC:52»§
@@ -97,6 +100,7 @@ mesurer, délimiter, בַחֶבֶל, de la répartition des Moabites à la mort 
 vie, suivi du suffixe 2 S 8,2 aussi objet חֲבָלִים 2 S 8,2 métaphore de
 conquête, suivi de l'accusatif, Ps 60,8 = Ps 108,8 (|| חִלֵּק).
 
+@@SPLIT:stem@@
 Po.
 Imparfait
 וַיְמֹ֫דֶד
@@ -127,6 +131,7 @@ Or et d'autres (de √ [מוֺד =] מוֺט
 ailleurs dans cette conjugaison ; We, de façon plausible,
 וַיְמֹגֵג √ מוג, comparer Na 1,5).
 
+@@SPLIT:stem@@
 Hithpo`el
 וַיִּתְמֹדֵד suivi de עַלהַֿיֶ֫לֶד ; 1 R 17,21
 se mesura (= s'étendit, se coucha) sur

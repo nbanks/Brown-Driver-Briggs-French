@@ -19,6 +19,7 @@ t. ; suffixe בְּגָדֶיךָ
 81 t. ; בִּגְדֹתֶיךָ
 Ps 45,9 —
 
+@@SPLIT:sense@@
 1.
 vêtement, habillement, habits, robe de toute sorte, des vêtements souillés du lépreux aux robes
 saintes du grand prêtre, la couverture la plus simple du pauvre comme l'habit coûteux du riche et du noble,
@@ -54,6 +55,7 @@ t. ; Jr 12,1 +
 plein son giron
 2 R 4,39.
 
+@@SPLIT:sense@@
 2.
 couverture, enveloppe, du mobilier du tabernacle Nb 4,6-13 (6 t.) ; couverture d'un lit
 1 S 19,13.

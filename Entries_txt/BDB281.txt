@@ -32,6 +32,8 @@ strike out Co compare
 
 ; —
 
+@@SPLIT:sense@@
+
 1.
 one
 Gen 1:9; Gen 27:38;
@@ -84,10 +86,14 @@ especially Isa
 65:25 (|| earlier יַחְדֶּו
 Isa 11:6; Isa 11:7).
 
+@@SPLIT:sense@@
+
 2. = each, every
 Exod 36:30;
 Num 7:3; Num 7:85; Num 28:21; 1Kgs 4:7; 2Kgs 15:20 +;
 also repeated, distributive sense Num 7:11; Num 13:2; Num 17:21; Josh 3:12; Josh 4:2; Josh 4:4.
+
+@@SPLIT:sense@@
 
 3. = a certain
 1Sam 1:1; 2Sam 18:10;
@@ -96,12 +102,16 @@ also repeated, distributive sense Num 7:11; Num 13:2; Num 17:21; Josh 3:12; Josh
 Dr
 1Sam 1:1 hence
 
+@@SPLIT:sense@@
+
 4. = indefinite article 1Sam 6:7; 1Sam 24:15; 1Sam 26:20 (but strike out
 
 ᵐ5
 
 We
 Dr) 1Kgs 19:4; 1Kgs 19:5 +.
+
+@@SPLIT:sense@@
 
 5.
 only
@@ -135,6 +145,8 @@ Num 10:4
 for one of my two eyes' (see GFM). Jer 10:8
 בְּאַחַת probably = in one, altogether. אחד.
 
+@@SPLIT:sense@@
+
 6.
 one . . . another, the one . . . the other
 ׳
@@ -156,6 +168,8 @@ Dr; one after another, one by one,
 Isa 27:12
 compare Eccl 7:27
 .
+
+@@SPLIT:sense@@
 
 7. as ordinal, first (mostly
 P
@@ -186,6 +200,8 @@ Ezra 7:9 (twice in
 verse); Ezek 26:1
 ; Ezek 29:17;
 Ezek 31:1; Ezek 32:1; Ezek 45:18.
+
+@@SPLIT:sense@@
 
 8. in combination,
 

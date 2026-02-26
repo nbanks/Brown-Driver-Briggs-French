@@ -36,6 +36,7 @@ Kit
 Bu
 HPS ; —
 
+@@SPLIT:sense@@
 1.
 colonne, מֶלַח
 ׳
@@ -45,6 +46,7 @@ Gn 19,26 (
 J
 ).
 
+@@SPLIT:sense@@
 2.
 préfet, député
 1 R 4,19 (sur le

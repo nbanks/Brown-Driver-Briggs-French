@@ -23,6 +23,8 @@ Isa 49:8,
 נְחָלֹת
 Josh 19:51
 
+@@SPLIT:sense@@
+
 1.
 property:
 
@@ -201,6 +203,8 @@ also, the holy mountain Exod 15:17 (song), temple Jer 12:7; Ps 79:1, land Jer 2:
 ; Jer
 50:11.
 
+@@SPLIT:sense@@
+
 2.
 portion, share:
 
@@ -219,6 +223,8 @@ b. by choice, || חֵלֶק, לנו בבן ישׁי
 2Sam 20:1
 
 we have no share in the son of Jesse = 1Kgs 12:16 = 2Chr 10:16.
+
+@@SPLIT:sense@@
 
 3.
 inheritance (45 t.) חֵלֶק וְנַחֲלָה

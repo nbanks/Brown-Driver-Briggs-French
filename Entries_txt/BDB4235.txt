@@ -7,6 +7,8 @@ be advantageous, proper, suitable, succeed, late Aramaic (Late Hebrew id.;
 Aramaic כְּשָׁר,
 [placeholder2675: Placeholders/2675.gif]); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular וְכָשֵׁר הַדָּבָר לִפְנֵי הַמֶּלֶךְ
 Esth 8:5
@@ -14,6 +16,8 @@ and the thing be proper in the view of the king; Imperfect
 יִכְשָׁר֨
 Eccl 11:6 thou
 knowest not whether this shall succeed, or this.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Infinitive construct

@@ -4,10 +4,12 @@ hébreu biblique
 I. עָקֹב
 adjectif
 
+@@SPLIT:sense@@
 1.
 insidieux, trompeur, Jr 17,9
 עָקֹב הַלֵּב מִכֹּל.
 
+@@SPLIT:sense@@
 2.
 marqué de traces de pas (dénominatif de I. עָקֵב) Os 6,8
 גִּלְעָד קִרְיַת פֹּעֲלֵי אָוֶן עֲֹקֻבָּה מִדָּם.

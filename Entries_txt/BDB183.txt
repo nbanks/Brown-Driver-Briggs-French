@@ -16,6 +16,8 @@ construct Gen 9:12
 +; plural אוֺתוֺת
 Exod 4:9 + etc. —
 
+@@SPLIT:sense@@
+
 1.
 sign, pledge, token
 Gen 4:15 (
@@ -32,6 +34,8 @@ P
 token for good
 Ps 86:17
 pledges, assurances of travellers Job 21:29.
+
+@@SPLIT:sense@@
 
 2.
 signs, omens promised by prophets as pledges of certain predicted events 1Sam 10:7; 1Sam 10:9 + 1Sam 10:1 where
@@ -51,8 +55,12 @@ Exod 3:12; 1Sam 2:34; 1Sam 14:10;
 7:11; Isa
 7:14 probably also Isa 44:25 (of false prophets).
 
+@@SPLIT:sense@@
+
 3.
 sign, symbol of prophets Isa 8:18 compare Ezek 4:3.
+
+@@SPLIT:sense@@
 
 4.
 signs, miracles, as pledges or attestations of divine presence & interposition Exod 4:8 (twice in
@@ -113,6 +121,8 @@ with שָׁלַח
 Deut 34:11;
 Ps 135:9.
 
+@@SPLIT:sense@@
+
 5.
 signs, memorials, stones from Jordan Josh 4:6 (
 J
@@ -131,6 +141,8 @@ J
 ; Deut
 11:18, probably belong here; also memorial pillar in Egypt Isa 19:20.
 
+@@SPLIT:sense@@
+
 6.
 sign, pledge of covenant, הַבְּרִית
 ׳
@@ -143,12 +155,16 @@ P
 );
 Ezek 20:12; Ezek 20:20.
 
+@@SPLIT:sense@@
+
 7.
 ensigns, standards
 Num 2:2 (
 P
 ) Ps 74:4
 .
+
+@@SPLIT:sense@@
 
 8.
 signs, tokens of changes of weather & times Gen 1:14 (

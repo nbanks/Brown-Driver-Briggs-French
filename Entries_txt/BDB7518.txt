@@ -11,6 +11,8 @@ be remote,
 [placeholder4818: Placeholders/4818.gif]
 remote extremity); —
 
+@@SPLIT:stem@@
+
 Qal
 Infinitive
 קְצוֺת עַמִּים
@@ -20,6 +22,8 @@ Vrss
 
 קַצּוֺת (√ קצץ); Gr
 Now conjecture הֲצִיקוֺתָ.
+
+@@SPLIT:stem@@
 
 Pi`el
 Infinitive construct
@@ -43,6 +47,8 @@ Benz,
 מְקַצֶּח רַגְלַיִם
 Prov 26:6
 (figurative).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 plural הִקְצוּ

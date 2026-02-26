@@ -15,6 +15,7 @@ finir, conclure, comprendre, et arabe
 fermer, clore, boucher, verrouiller
 Lane^1386^) ; —
 
+@@SPLIT:stem@@
 Qal (ou
 Hiph`il, mais comparer שׂוּךְ) Imparfait 3 masculin singulier
 וַ֫יָּסֶךְ אֱלוֺהַּ בַּעֲדוֺ

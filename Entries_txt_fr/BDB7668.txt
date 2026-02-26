@@ -19,6 +19,7 @@ Ct 2,14 (deux fois
 dans le verset), מַרְאֵיהֶן
 Na 2,5 +, etc. ; —
 
+@@SPLIT:sense@@
 1. Psaumes
 
 a.
@@ -154,6 +155,7 @@ Nb 8,4 (
 P
 ).
 
+@@SPLIT:sense@@
 2. en général ce qui est vu, עֵינָיו
 ׳
 מ
@@ -178,6 +180,7 @@ Lv 13,12 (
 P
 ).
 
+@@SPLIT:sense@@
 3. spécifiquement une vision (surnaturelle) (dans
 Ézéchiel,
 Daniel ; souvent accusatif de sens apparenté au verbe avec ראה) : Ez 8,4 ; Ez 11,24 ; Ez 43,3 (3 t. dans le verset),
@@ -194,6 +197,7 @@ Dn 8,16 ; Dn 8,27 ; Dn 9,23 ; Dn 10,1
 הָעֶרֶב וְהַבֹּקֶר
 Dn 8,26.
 
+@@SPLIT:sense@@
 4.
 vue, vision = faculté de voir (et de jouir), tardif : עֵינַיִם
 ׳

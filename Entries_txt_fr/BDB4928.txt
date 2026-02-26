@@ -20,6 +20,7 @@ Ps 105,15
 2 R 17,13,
 etc. ; —
 
+@@SPLIT:sense@@
 1. prophète authentique de ׳
 י, נביא, anciennement appelé רֹאֶה, 1 S 9,9 (note d'antiquaire) ; le changement s'est probablement
 produit à l'époque d'Élie et se reflète d'abord dans la source éphraïmite littéralement appliqué à Abraham Gn 20,7 Moïse Dt 34,10, M.
@@ -96,6 +97,7 @@ Dn 9,24 voir
 
 חתם
 
+@@SPLIT:sense@@
 2.
 faux prophètes : les prophètes comme classe officielle, à côté des prêtres, caractère de faux prophètes : Es 28,7 ; Jr 2,26 ; Jr 4,9 ; Jr 6,13 ; Jr 8,1 ; Jr 8,10 ; Jr 13,13 ;
 Jr 14,18 ;
@@ -142,6 +144,7 @@ omet dans tous sauf Jr 28,1, où ψευδοπροφήτης). L'usage des proph�
 une si mauvaise connotation à נביא, que l'on n'est pas surpris qu'il soit absent de l'Ésaïe exilique, de la
 littérature sapientielle, et des Psaumes (sauf pour des raisons particulières dans 3 Psaumes donnés sous 1).
 
+@@SPLIT:sense@@
 3.
 prophètes païens
 1 R 18,20

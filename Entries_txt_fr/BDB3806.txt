@@ -25,6 +25,7 @@ Ps 62,2 + 12 t., +
 
 2 S 53,7 —
 
+@@SPLIT:sense@@
 1.
 bien-être, prospérité :
 כעב
@@ -32,6 +33,7 @@ bien-être, prospérité :
 Jb 30,15
 comme un nuage ma prospérité est passée.
 
+@@SPLIT:sense@@
 2.
 délivrance :
 והיתה לי לישׁועה
@@ -40,6 +42,7 @@ et tu me seras pour délivrance
 = 1 Ch
 19,12.
 
+@@SPLIT:sense@@
 3.
 salut de Dieu, principalement des maux extérieurs, mais souvent avec une idée spirituelle ajoutée : Gn 49,18
 (poème), Es 33,2
@@ -106,6 +109,7 @@ mon salut jusqu'aux extrémités de la terre ; בְּכָלאגּוֺיִם יְ
 Ps 67,3
 parmi toutes les nations ton salut.
 
+@@SPLIT:sense@@
 4.
 victoire : avec עָשָׂה
 remporter la victoire

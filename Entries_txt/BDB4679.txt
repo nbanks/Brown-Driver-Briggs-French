@@ -16,6 +16,8 @@ Deut 3:21 +;
 construct מַמְלְכוֺת
 Deut 28:25 +; —
 
+@@SPLIT:sense@@
+
 1.
 kingdom, realm, chiefly non-Israel: Gen 10:10 (
 J
@@ -74,6 +76,8 @@ Exod 19:6 (||
 גְּבֶרֶת מ (id.) Isa 47:5
 מִשְׁפְּחֹת מַמְלְכוֺת צָפ֫וֺנָה
 Jer 1:15.
+
+@@SPLIT:sense@@
 
 2.
 sovereignty, dominion
@@ -159,6 +163,8 @@ compare 1Sam 27:5
 ׳
 זֶרַע הַמּ
 royal seed, children, 2Kgs 11:1 = 2Chr 22:10.
+
+@@SPLIT:sense@@
 
 3.
 reign, ׳

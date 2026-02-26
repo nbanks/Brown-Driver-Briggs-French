@@ -8,6 +8,8 @@ be, grow dark (Late Hebrew id.; Aramaic חֲשַׁךְ,
 [placeholder2029: Placeholders/2029.gif]
 bear rancour, see Lag^BN 30^) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 ׳
@@ -58,6 +60,8 @@ grow dim
 Lam 5:17
 (subject עינינו), compare Ps 69:24 (figurative), Eccl 12:3 subject הָראֹוֺת i.e.
 the eyes.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect

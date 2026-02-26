@@ -14,11 +14,13 @@ Dn 4,1, לֵהּ
 - Dn 6,19
 —
 
+@@SPLIT:sense@@
 1.
 palais du roi Dn 4,1 ; Dn 4,26 ; Dn 5,5 ; Dn 6,19 ; Esd 4,14 (voir
 מְלַח
 ).
 
+@@SPLIT:sense@@
 2.
 temple :
 

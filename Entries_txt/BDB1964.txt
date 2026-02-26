@@ -4,6 +4,8 @@ Biblical Hebrew
 II. [דָּמָה] verb
 cease, cause to cease, cut off, destroy —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 1 singular דָּמִיתִי
 Jer 6:2,
@@ -24,6 +26,8 @@ cause to cease, cut off, destroy, with accusative Israel (under figure of בתצ
 ) Jer 6:2
 
 (under figure of אִמֶּ֑ךָ) Hos 4:5.
+
+@@SPLIT:stem@@
 
 Niph`al
 Perfect

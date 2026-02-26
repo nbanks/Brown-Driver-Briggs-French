@@ -9,6 +9,7 @@ ri‡‡u
 , aromate, Meissn^Suppl. 90^
 , comparer rikkê, Dl^HWB 620^) ; —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 3 masculin singulier יִרְקַח
 Ex 30,33
@@ -30,11 +31,13 @@ Ex 30,35 ;
 Ex 37,29 ;
 Qo 10,1.
 
+@@SPLIT:stem@@
 Pu`al
 Participe masculin pluriel מְרֻקָּחִים
 2 Ch 16,14
 mélangé en onguent.
 
+@@SPLIT:stem@@
 Hiph`il
 Infinitif absolu
 הַרְקַח

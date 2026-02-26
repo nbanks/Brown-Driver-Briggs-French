@@ -3,6 +3,8 @@ araméen biblique
 
 [בְּלַא] verbe
 
+@@SPLIT:stem@@
+
 Pa`el
 user (hébreu biblique
 בלה

@@ -12,6 +12,7 @@ livrer ; possiblement éthiopien
 [placeholder3523: Placeholders/3523.gif] garde (de prison)
 Prä^BAS i. 371^) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier ׳
 ס
@@ -171,6 +172,7 @@ Du) : comparer assyrien
 —urâƒu sakru
 , Dl^HWB 499^.
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 masculin singulier נִסְגַּר
 1 S 23,7
@@ -212,6 +214,7 @@ Ne
 13,19
 .
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 3 masculin singulier סִגַּר
 1 S 26,8
@@ -239,6 +242,7 @@ personne +
 בְּיַד omis 2 S 18,28 (voir aussi
 Hiph`il). p. 698
 
+@@SPLIT:stem@@
 Pu`al
 Parfait 3 masculin singulier סֻגַּר
 
@@ -267,6 +271,7 @@ Es
 
 3. des portes Qo 12,14.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 masculin singulier הִסְגִּיר
 

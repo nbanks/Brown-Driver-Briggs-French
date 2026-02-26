@@ -8,6 +8,8 @@ venir (en hébreu seulement poésie) (arabe
 DHM^ZMG 1875, 597 ; 1888, 343^, araméen אֲתָא,
 [placeholder474: Placeholders/474.gif]) —
 
+@@SPLIT:stem@@
+
 Qal
 Parfait
 ׳
@@ -50,6 +52,8 @@ de la terre, etc., personnifiées Es 41,5 du temps, matin Es 21,12, années Jb 1
 de l'infinitif), de la calamité Pr 1,27 ; Jb 3,25
 venir sur, avec suffixe, de la domination Mi 4,8 (suivi de עַד). Participe pluriel
 féminin comme substantif choses à venir, choses futures Es 41,23 ; Es 44,7 ; Es 45,11.
+
+@@SPLIT:stem@@
 
 Hiph`il
 apporter,

@@ -11,6 +11,8 @@ drink (
 שָׁתָה
 ); —
 
+@@SPLIT:stem@@
+
 Pe`al
 Perfect 3 masculine plural אִשְׁתִּיו (K^§ 11,
 4^, a))Dan 5:3; Dan 5:4

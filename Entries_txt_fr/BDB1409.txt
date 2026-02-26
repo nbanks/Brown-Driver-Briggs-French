@@ -4,6 +4,7 @@ hébreu biblique
 II. [גָּאַל] verbe
 souiller, tardif (comparer גָּעַל) —
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 masculin pluriel נְגֹאֲלוּ
 Es 59,3 ; Lm 4,14, sur la forme
@@ -16,12 +17,14 @@ souillé, impur
 So 3,1 de Jérusalem
 (|| מֹרְאָה ; apposition הָעִיר הַיּוֺנָה).
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 1 pluriel suffixe גֵּאַלְנוּךָ
 Ml 1,7
 polluer, profaner, objet ׳
 י (profané en son autel).
 
+@@SPLIT:stem@@
 Pu`al
 Imparfait
 וַיְגֹאֲלוּ מִןהַֿכְּהֻנָּה
@@ -33,6 +36,7 @@ profanés ; Participe
 ) de Yahvé Ml
 1,12.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 1 singulier אֶגְאָ֑לְתִּי
 Es 63,3
@@ -45,6 +49,7 @@ Ol^§ 255 b^
 Sta^§ 159 b, 3^ ; — j'ai souillé
 , c.-à-d. taché tout mon vêtement.
 
+@@SPLIT:stem@@
 Hithpa`el
 Imparfait
 יִתְגָּאַל

@@ -9,6 +9,8 @@ Edomite name.
 
 θαμνα: —
 
+@@SPLIT:sense@@
+
 1.
 תִּמְנָע
 proper name, masculine
@@ -16,6 +18,8 @@ proper name, masculine
 a. a chief of Edom Gen 36:40 = 1Chr 1:51.
 
 b. son of Eliphaz 1Chr 1:36 (for Korah Gen 36:15; Gen 36:16).
+
+@@SPLIT:sense@@
 
 2.
 תִּמְנָע֑

@@ -8,11 +8,15 @@ Pi`el make abundant
 Lyon^Sargontexte 77^; compare also below דֶּשֶׁא
 , whence, according to others, verb denominative) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 דָּֽשְׁאוּ
 Joel 2:22
 (subject נְאוֺת מִדְבָּר).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imperfect 3 feminine singular תַּדְשֵׁא (jussive) Gen 1:11

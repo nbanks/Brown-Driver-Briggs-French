@@ -47,6 +47,8 @@ Exod 1:16 word not in
 P
 ; —
 
+@@SPLIT:sense@@
+
 1.
 adjective
 
@@ -74,6 +76,8 @@ E
 34:9;
 Jer
 34:14 feminine Deut 15:12; Jer 34:9.
+
+@@SPLIT:sense@@
 
 2.
 noun

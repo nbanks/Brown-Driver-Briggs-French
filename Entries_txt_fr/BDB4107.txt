@@ -40,6 +40,7 @@ Ez 26,16 ;
 Es 14,9 —
 siège d'honneur, habituellement
 
+@@SPLIT:sense@@
 1.
 
 a.
@@ -117,6 +118,7 @@ Jr 17,12 (כָּבוֺד מָרוֺם
 ׳
 כ), Ez 43,7.
 
+@@SPLIT:sense@@
 2. du grand prêtre 1 S 1,9 ; 1 S 4,13 ; 1 S 4,18 d'un hôte honoré 2 R 4,10 du gouverneur Ne 3,7 du juge (injuste) הַוּוֺת
 ׳
 כ
@@ -128,6 +130,7 @@ Es 22,23
 ׳
 כ seul 2 R 25,28 (deux fois dans le verset) = Jr 52,32 (deux fois dans le verset) ; Est 3,1.
 
+@@SPLIT:sense@@
 3.
 
 a. figuré = dignité royale, autorité, pouvoir, הַמֶּלֶךְ

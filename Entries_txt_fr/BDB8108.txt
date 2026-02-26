@@ -4,6 +4,7 @@ hébreu biblique
 רֶ֫קֶם
 nom propre
 
+@@SPLIT:sense@@
 1.
 masculin
 
@@ -32,6 +33,7 @@ c. nom en Galaad 1 Ch 7,16,
 
 Ρακαμ.
 
+@@SPLIT:sense@@
 2. lieu en Benjamin, Jos 18,27, Νακαν,
 
 A

@@ -14,11 +14,13 @@ Ps 104,8
 בְּקָעֹת
 Dt 11,11 —
 
+@@SPLIT:sense@@
 1.
 vallée (opposé à הַר montagne) Dt 8,7 ; Dt 11,11 comparer Es 41,18 aussi Es 63,14
 כַּבְּהֵמָה בַּבִּקְעָח תֵרֵד ; dans le poème de la création Ps 104,8
 יַעֲלוּ הָרִים יֵרְדוּ בְקָעוֺת.
 
+@@SPLIT:sense@@
 2.
 plaine (parfois plaine de vallée, large vallée) Gn 11,2 aussi Ez 3,22 ; Ez 3,23 ; Ez 8,4 ; Ez 37,1 ; Ez 37,2 (׳
 עַלפְּֿבֵי הַבּ) comme plat, opposé à הָֽרְכָּ סִים

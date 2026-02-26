@@ -6,6 +6,8 @@ dig (compare Arabic
 [placeholder828: Placeholders/828.gif]
 pierce, bore, hollow out) —
 
+@@SPLIT:stem@@
+
 Qal
 Participle
 גָּבִים

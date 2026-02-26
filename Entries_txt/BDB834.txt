@@ -7,12 +7,16 @@ ašâru
 
 Zim^BP 11^; Arabic, Aramaic in derivatives) —
 
+@@SPLIT:stem@@
+
 Qal
 Imperative
 אִשְׁרוּ
 Prov 9:6
 אִשְׁרוּ בְדֶרֶךְ בִּינָה
 go straight on in the way of understanding.
+
+@@SPLIT:stem@@
 
 Pi`el
 Perfect
@@ -49,6 +53,8 @@ Gen 30:13
 J
 )
 Job 29:11; Ps 72:17; Prov 31:28; Song 6:9; Mal 3:12; Mal 3:15.
+
+@@SPLIT:stem@@
 
 Pu`al
 Imperfect

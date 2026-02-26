@@ -11,6 +11,7 @@ ramasser du bois de chauffage (voir Wetzst dans De^Ps 144,12^) ; éthiopien
 [placeholder1720: Placeholders/1720.gif]
 couper (ou ramasser) du bois de chauffage) —
 
+@@SPLIT:stem@@
 Qal
 Imparfait
 יַחְטְבוּ
@@ -35,6 +36,7 @@ construit עצים
 Jr 46,22, et
 (|| שֹׁאֲבֵי מַיִם) Jos 9,21 ; Jos 9,23 ; Jos 9,27.
 
+@@SPLIT:stem@@
 Pu`al
 Participe
 מְחֻטָּבוֺת

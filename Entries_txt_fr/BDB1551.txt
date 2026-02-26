@@ -45,6 +45,7 @@ Esd 6,21
 (comparer les notes de Baer) ; suffixe גּוֺיֵהֶם
 Gn 10,5 ; Gn 10,20 ; Gn 10,31 ; Gn 10,32 —
 
+@@SPLIT:sense@@
 1.
 nation, peuple
 Gn 10,5 (deux fois
@@ -228,9 +229,11 @@ Jr 6,18, voir
 aussi Es 2,2 ; Es 2,4 comparer
 avec Mi 4,1 ; Mi 4,3.
 
+@@SPLIT:sense@@
 2.
 figuré d'un essaim de sauterelles Jl 1,6 de toutes les espèces d'animaux So 2,14.
 
+@@SPLIT:sense@@
 3.
 גּוֺיִם
 Gn 14,1 ; Gn 14,9 probablement

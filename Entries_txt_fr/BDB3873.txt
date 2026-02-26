@@ -16,6 +16,7 @@ kêbtu
 Hpt dans KAT^2 Glossary i^
 .) —
 
+@@SPLIT:stem@@
 Qal
 Imparfait
 יִכְאָבֿ
@@ -39,6 +40,7 @@ Pr 14,13
 
 (sujet לֵב ; probablement aussi Ps 69,30 (|| עָנִי).
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 1 singulier suffixe הִכְאַבְתִּיו
 Ez 13,22

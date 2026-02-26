@@ -15,6 +15,8 @@ be great in bone, or anything,
 [placeholder4015: Placeholders/4015.gif]
 thigh): —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular וְעָצַם consecutive Dan 8:24; Dan 11:23 2 masculine singular עָצַמְתָּ
 
@@ -53,6 +55,8 @@ Ps 38:20;
 Ps 69:5 with מִן compare Jer 15:8; Ps 40:6; Ps 40:13
 alone Ps
 139:17.
+
+@@SPLIT:stem@@
 
 Hiph`il
 make strong, Imperfect 3 masculine singular: suffix וַיַּעֲצִימֵחוּ

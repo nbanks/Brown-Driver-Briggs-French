@@ -7,6 +7,8 @@ hinder, restrain, frustrate (Arabic (
 [placeholder3213: Placeholders/3213.gif] (or
 [placeholder3214: Placeholders/3214.gif]) rise with difficulty, rise against one (Frey), III. contend with, Lane^2861^); —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 2 masculine plural תנואון
 Num 32:7
@@ -15,6 +17,8 @@ Kt
 , but read Hiph`il (so
 Qr
 ), compare Di.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect

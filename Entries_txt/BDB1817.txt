@@ -10,6 +10,8 @@ Hab 3:5 suffix
 דְּבָרֶיךָ
 Hos 13:14 —
 
+@@SPLIT:sense@@
+
 1.
 plague, pestilence, in general Exod 5:3; Exod 9:15; Num 14:12 (
 J
@@ -32,6 +34,8 @@ Ezek 5:12 + 11 t. Ezekiel; Hos 13:14; Amos 4:10; Hab 3:5. Read וּבַדָּ֑�
 בַּמִּדְבָּר, We
 Klo
 Dr.
+
+@@SPLIT:sense@@
 
 2.
 cattle-plague, murrain

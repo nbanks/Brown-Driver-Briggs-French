@@ -6,6 +6,7 @@ saisir (arabe
 [placeholder3820: Placeholders/3820.gif],
 [placeholder3821: Placeholders/3821.gif] I, VII. prendre avec les mains) ; —
 
+@@SPLIT:stem@@
 Qal
 Infinitif absolu + Participe
 actif suffixe וְעֹטְךָ עָטֹה

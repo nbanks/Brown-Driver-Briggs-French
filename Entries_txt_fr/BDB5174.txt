@@ -13,6 +13,7 @@ id. ; nabatéen dans un nom propre Lzb^323^
 [placeholder3295: Placeholders/3295.gif]
 id. (objet jardin, etc.)) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 1 singulier נָטָ֑רְתִּי
 Ct 1,6

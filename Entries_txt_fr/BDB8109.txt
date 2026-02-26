@@ -20,6 +20,8 @@ phénicien מרקע
 plat, ou coupe, en or CIS^i.
 90, 1^) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Imparfait 1 singulier suffixe אֶרְקָעֵם
 2 S 22,43
@@ -42,6 +44,8 @@ Es 44,24,
 רוֺקַע הָא
 Ps 136,6.
 
+@@SPLIT:stem@@
+
 Pi`el
 Imparfait 3 masculin singulier suffixe בַּזָּהָב יְרַקְּעֶנּוּ
 Es 40,19 un
@@ -53,11 +57,15 @@ ils martelèrent les feuilles d'or ; suffixe וַיְרִקְּעוּם צִפּ
 Nb 17,4
 ils les martelèrent en revêtement.
 
+@@SPLIT:stem@@
+
 Pu`al
 Participe
 כֶּסֶף מְרֻקָּ֑ע
 Jr 10,9
 argent battu.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imparfait 2 masculin singulier תַּרְקִיעַ עִמּוֺ לִשְׁחָקִים

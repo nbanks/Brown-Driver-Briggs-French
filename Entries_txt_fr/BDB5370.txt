@@ -9,6 +9,7 @@ Dt 32,35 + 14
 t. ; construit נְקַם
 Lv 26,25 ; Jg 16,28 —
 
+@@SPLIT:sense@@
 1. exercée par Dieu, absolu Ez 24,8 ; Ps 58,11
 בְּדִית
 ׳
@@ -39,10 +40,12 @@ Mi 5,14 avec
 Dt 32,41 ;
 Dt 32,43.
 
+@@SPLIT:sense@@
 2. Samson contre les Philistins, ׳
 נקם נ
 Jg 16,28.
 
+@@SPLIT:sense@@
 3. ennemis contre Juda, absolu Ez 25,12 ; Ez 25,15 ennemi individuel ׳
 יום נ
 Pr 6,34.

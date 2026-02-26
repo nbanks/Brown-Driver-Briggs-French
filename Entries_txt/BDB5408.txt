@@ -9,6 +9,8 @@ blow (Late Hebrew = Biblical Hebrew;
 נְשַׁב (but also נְחַב), Syriac
 [placeholder3461: Placeholders/3461.gif], all blow; || form of נָשַׁף); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 feminine singular נָָֽשְׁבָה בּוֺ
 ׳
@@ -18,6 +20,8 @@ the breath of
 ׳
 י
 has blown upon it.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imperfect 3 masculine singular יַשֵּׁב רוּחַ

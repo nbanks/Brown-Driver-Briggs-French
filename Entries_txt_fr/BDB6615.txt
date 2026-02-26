@@ -17,6 +17,7 @@ pluriel פְּלָאוֺת
 Ps 119,129
 ; Dn 12,6 —
 
+@@SPLIT:sense@@
 1.
 prodige : extraordinaire, difficile à comprendre, les voies de Dieu envers son peuple Es 29,14 les témoignages
 de la Loi Ps 119,129
@@ -29,6 +30,7 @@ accusatif ׳
 Lm 1,9
 elle (Jérusalem) est tombée merveilleusement.
 
+@@SPLIT:sense@@
 2.
 prodige : des actes de jugement et de rédemption de Dieu Ps 77,12 ; Ps 88,13 ; Ps 89,6
 ׳

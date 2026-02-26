@@ -4,6 +4,7 @@ hébreu biblique
 [גָּעַשׁ] verbe
 trembler, être ébranlé (hébreu tardif id.) —
 
+@@SPLIT:stem@@
 Qal
 Imparfait
 וַתִּגְעַשׁ
@@ -16,6 +17,7 @@ Hithpa`el) ; — trembler, de la terre à la théophanie, Ps 18,8 = 2 S 22,8 (li
 Kt
 ; || רעשׁ).
 
+@@SPLIT:stem@@
 Pu`al
 Imparfait
 être secoué, convulsé
@@ -23,6 +25,7 @@ Imparfait
 Jb 34,20
 un peuple est convulsé.
 
+@@SPLIT:stem@@
 Hithpa`el
 se secouer en tout sens, être ballotté ou chanceler
 
@@ -45,6 +48,7 @@ Jr 46,7
 (comparer Jr
 46,8).
 
+@@SPLIT:stem@@
 Hithpo`el
 Parfait
 וְהִתְגֹּעֲשׁוּ consécutif Jr 25,16

@@ -15,6 +15,8 @@ domination, aussi souverain, sultan ; éthiopien
 [placeholder5567: Placeholders/5567.gif] araméen שְׁלַט,
 [placeholder5568: Placeholders/5568.gif] (surtout espèce dérivée), nabatéen שלט, שלטן) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Parfait 3 masculin singulier ׳
 שׁ
@@ -28,6 +30,8 @@ dominer, tyranniser, עַל personne, Ne 5,15
 ב personne
 Qo 8,9 (לְרַע לוֺ) ; ב de chose Qo 2,19
 devenir maître de, ב personne Est 9,1 (deux fois dans le verset).
+
+@@SPLIT:stem@@
 
 Hiph`il
 

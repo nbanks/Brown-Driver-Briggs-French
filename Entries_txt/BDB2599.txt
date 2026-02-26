@@ -5,6 +5,8 @@ III. [חָוָה] verb only
 Pi`el (in poetry & late), tell, declare (Aramaic
 [placeholder1659: Placeholders/1659.gif], חַוֵּי) —
 
+@@SPLIT:stem@@
+
 Pi`el
 Imperfect 3 masculine singular יְחַוֶּהֿ
 Ps 19:3 1
@@ -24,7 +26,7 @@ Job 32:10;
 Job 32:17
 with 2 accusative וָאִירָא מֵחַוֹּת דֵּעִי אֶתְכֶם
 Job 32:6,
-followed by suffix person + object clause, וַאֲחַוֶּ֑דָּ כִּיעֿוֺד לֶאֱלוֺהַּ מִִלּים׃
+followed by suffix person + object clause, וַאֲחַוֶּ֑דָּ כִּיעֿוֺד לֶאֱלוֺהַּ מִִלּים׃
 Job 36:2
 and I will shew thee that (there are) yet words for God; followed
 by suffix person only Job 15:17 — read probably also וַאֲחַוֶּה for

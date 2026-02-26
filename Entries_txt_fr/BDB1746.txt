@@ -11,7 +11,7 @@ abscidit, decrevit, comparer aussi arabe
 [placeholder1003: Placeholders/1003.gif]
 couper (des fruits), tondre (des moutons) ; — sur le lien des idées voir Fl
 NHWB^i. 437^)
-
+@@SPLIT:stem@@
 Qal
 Parfait 3 pluriel לֹא גָָֽרְמוּ לַבֹּקֶר
 So 3,3

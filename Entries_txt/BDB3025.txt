@@ -10,6 +10,8 @@ Ps 88:6 plural
 חָפְשִׁים
 Isa 58:6 + 4 t. —
 
+@@SPLIT:sense@@
+
 1.
 free from slavery: of Hebrew bondslave (male or female) set free in 7th year Exod 21:2; Exod 21:5 (
 J
@@ -34,6 +36,8 @@ among the dead I am free (i.e. adrift, cut off from Yahweh's
 remembrance); more generally, שַׁלַּח רְצוּצִים חָפְשִׁים
 Isa 58:6
 to let oppressed ones go free.
+
+@@SPLIT:sense@@
 
 2.
 free from taxes, obligations, etc. אֵת בֵּית אָבִיו יַעֲשֶׂה חָפְשִׁי בְּיְשְׂרָאֵל

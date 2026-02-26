@@ -10,6 +10,8 @@ adverb (compare
 מֵאָז
 ) at that time, then, whether expressing duration, or inception (= thereupon).
 
+@@SPLIT:sense@@
+
 1. strictly temporal:
 a. of past time: — without a verb Gen 12:6; Gen 13:7; Josh 14:11; 2Sam 23:14 with a perfect Gen 4:26; Exod 4:26; Josh 10:33; Judg 8:3; Judg 13:21;
 Jer 22:15
@@ -59,6 +61,8 @@ in verse); Job
 ; Job
 33:16
 to בַּיּוֺם הַהוּא (anomalously) 1Chr 16:7.
+
+@@SPLIT:sense@@
 
 2. expressing logical sequence strictly in the apodosis: — after אם (rare) for
 sake of special emphasis Isa 58:14; Prov 2:5; Job 9:31 = in that case, after לוּ or

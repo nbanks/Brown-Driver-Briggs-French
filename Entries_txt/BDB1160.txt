@@ -27,7 +27,7 @@ bilit
 . (בִּן, בֵּן) בַּן ֗֗֗ see Sta^§ 183^) — absolute ׳
 בּ
 Gen 4:25 +;
-ֵבּןֿ
+ֵבּןֿ
 Ezek 18:10
 construct בֵּן
 Gen 49:22 (twice
@@ -72,6 +72,8 @@ Josh 22:25 +;
 בְּנֵיכֶם
 Exod 3:22 +, etc.;
 —
+
+@@SPLIT:sense@@
 
 1.
 son, male child, born of a woman Gen 4:25; Gen 16:11; Gen 16:15; Gen 17:19 compare Gen 17:16; Gen 18:10; Gen 18:14;
@@ -531,6 +533,8 @@ Deut 32:14
 (song) compare Klo^SK 1872. 254^
 Di.
 
+@@SPLIT:sense@@
+
 2.
 children (male and female) Gen 3:16; Gen 21:7; Exod 21:5; Exod 22:23 hence בְּנֵי
 מְנַשֶּׁה הַזְכָּרִים
@@ -539,8 +543,12 @@ male children, בֵּן זָכָר
 Jer 20:15
 .
 
+@@SPLIT:sense@@
+
 3.
 youth, young men (plural) Prov 7:7; Song 2:3.
+
+@@SPLIT:sense@@
 
 4.
 the young of animals
@@ -550,6 +558,8 @@ Lev 22:28
 Job 39:16
 — בֶּןבָּֿקָר etc. see below 7.b. below
 
+@@SPLIT:sense@@
+
 5. of plant-shoots בֵּן פֹּרָת
 Gen 49:22
 (twice
@@ -558,6 +568,8 @@ Ps 80:16 ?
 (||
 כַּנָּה; see Che^transl. & critical note^
 )
+
+@@SPLIT:sense@@
 
 6.
 figurative of lifeless things, בְּנֵי רֶשֶׁף
@@ -576,6 +588,8 @@ Lam 3:13
 compare
 בֶּןגָּֿרְנִי i.e. corn of my threshing-floor
 Isa 21:10.
+
+@@SPLIT:sense@@
 
 7.
 
@@ -717,6 +731,8 @@ Prov 30:17
 Ps 147:9
 .
 
+@@SPLIT:sense@@
+
 8.
 ׳
 ב as relative noun followed by word of quality, characteristic, etc. especially (α)
@@ -787,6 +803,8 @@ Job 28:8; Job 41:26 (
 Jonah 4:10
 (twice in verse); (ο) of a fertile hill קֶרֶן בֶּןשֶֿׁמֶן
 Isa 5:1.
+
+@@SPLIT:sense@@
 
 9. noun relative of age:
 

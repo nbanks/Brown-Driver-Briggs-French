@@ -11,6 +11,7 @@ Gn 12,10 + ;
 suffixe רְעָבָם
 Ne 9,15
 
+@@SPLIT:sense@@
 1.
 famine (dans le pays, la nation ou la ville), Gn 12,10 ; Gn 26,1 ; Gn 41,30 ; Gn 41,31 ; Ex 16,3 ; 2 S 21,1 ; 2 S 24,13 = 2 R 4,38 ; 2 R 6,25 + ;
 ׳
@@ -67,6 +68,7 @@ Ez 6,12 +,
 etc. ; figuré du manque de la parole de ׳
 י Am 8,11.
 
+@@SPLIT:sense@@
 2.
 faim, d'un individu Jr 32,9 ; Dt 28,48 (+ צָמָא, etc.), 2 Ch 32,11 (+
 id.).

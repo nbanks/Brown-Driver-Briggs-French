@@ -15,6 +15,8 @@ forget, neglect; compare Ethiopic
 ignoscere, condonare, indulgere
 Di^633^); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 1 singular וְנָשִׁיתִי
 אֶתְכֶם נָשׁאֹ
@@ -47,6 +49,8 @@ for
 Jer 23:39 (see
 above).
 
+@@SPLIT:stem@@
+
 Niph`al
 Imperfect 2 masculine singular suffix תִּנָּשֵׁנִי
 Isa 44:21
@@ -54,6 +58,8 @@ thou shalt not be forgotten of me, but dubious; Ges
 ^«GKC:117»§ 117^* תִּנְשֵׁנִי (Qal);
 Che^Hpt^
 תִּטְּשֵׁנִי (compare Deut 32:15).
+
+@@SPLIT:stem@@
 
 Pi`el
 Perfect 3 masculine singular suffix נַשַּׁ֫נִי
@@ -63,6 +69,8 @@ E
 ) God hath made me forget + accusative of thing (ַ֯ in 1st
 syllable only here, influence of מְנַשֶּׁה
 Ges^«GKC:52m»§ 52m^).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 masculine singular suffix הִשָּׁהּ

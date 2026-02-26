@@ -14,6 +14,8 @@ Hal^682^; Ethiopic
 [placeholder2069: Placeholders/2069.gif]
 purify, wash oneself with water) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 ׳
@@ -90,6 +92,8 @@ Prov 20:9 (||
 ); more generally אִםמֵֿעשֵֹׁהוּ יִטְהַרגָּֿ֑בֶר
 Job 4:17
 shall a man be more pure than his maker? (|| יִצְדָּ֑ק).
+
+@@SPLIT:stem@@
 
 Pi`el
 Perfect
@@ -181,6 +185,8 @@ Lev 14:11
 P
 ).
 
+@@SPLIT:stem@@
+
 Pu`al
 Perfect 3 masculine singular טֹהַר
 1Sam
@@ -210,6 +216,8 @@ SS read a land not rained upon, see
 
 מטר
 ).
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Perfect 3 plural הִטָּֽהֲרוּ

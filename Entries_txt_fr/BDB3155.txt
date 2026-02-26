@@ -13,6 +13,7 @@ dérivés ; assyrien
 décision, Hoffm^AGG xxxvi, mai 1889, 11^)
 —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier ׳
 ח
@@ -57,6 +58,7 @@ ses jours sont déterminés, fixés (|| מִסְפַּר חדשׁיו), Es 10,22
 כִּלָּיוֺן ח ; agir avec décision
 2 S 5,24.
 
+@@SPLIT:stem@@
 Niph`al
 Participe
 נֶחֱרָצָה

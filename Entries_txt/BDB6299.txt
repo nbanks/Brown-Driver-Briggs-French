@@ -10,11 +10,15 @@ shut the eyes (Late Hebrew Hiph`il; possibly connection with Syriac
 עִמֵּץ
 close eyes of dead; compare Ba^ES 5f.^); —
 
+@@SPLIT:stem@@
+
 Qal
 Participle
 וְעֹצֵם עֵינָיו מִן
 Isa 33:15
 shutteth his eyes from seeing
+
+@@SPLIT:stem@@
 
 Pi`el
 Imperfect 3 masculine singular וַיְעַצֵּם אֶתעֵֿינֵיכֶם

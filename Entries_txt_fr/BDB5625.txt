@@ -12,6 +12,7 @@ tordre (rare) ; arabe
 [placeholder3596: Placeholders/3596.gif] est passer, s'évanouir, être réduit à néant
 Lane^1407 s.^) ; —
 
+@@SPLIT:stem@@
 Pi`el
 Imparfait 3 masculin singulier יְסַלֵּף
 Jb 12,19 + 2

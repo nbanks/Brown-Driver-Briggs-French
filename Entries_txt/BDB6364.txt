@@ -5,6 +5,8 @@ Biblical Hebrew
 denominative
 become evening; grow dark (?); —
 
+@@SPLIT:stem@@
+
 Qal. Infinitive construct
 רָפָה הַיּוֺם לַעֲרוֺב
 Judg 19:9, but read
@@ -23,6 +25,8 @@ Lo
 Gr
 Perles^Anal. 91^
 Che^Hpt^ and others
+
+@@SPLIT:stem@@
 
 Hiph`il
 Infinitive absolute

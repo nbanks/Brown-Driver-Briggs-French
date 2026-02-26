@@ -8,6 +8,7 @@ MI^19^
 
 ויגרשה) —
 
+@@SPLIT:stem@@
 Qal
 Imparfait
 וַיִּגְרְשׁוּ
@@ -44,6 +45,7 @@ pour des raisons internes, comparer
 
 ᵐ5
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 נִגְרָ֑שׁ
@@ -56,6 +58,7 @@ Yahvé Jon 2,5
 être agité, secoué, comme le Nil Am 8,8 de la mer Es 57,20 proposition relative, אֲשֶׁר omis,
 comme la mer qui est agitée.
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 3 féminin singulier וְגֵרְשָׁה consécutif Ex 23,28
 גֵּרַשְׁתָּ
@@ -159,6 +162,7 @@ Balaq) Nb 22,6
 
 י) Ez 31,11 (mais comparer le texte, ci-dessus) ; Ashdod (sujet indéfini) So 2,4.
 
+@@SPLIT:stem@@
 Pu`al
 Parfait
 גֹּרְשׁוּ sujet Israélites Ex 12,39

@@ -14,6 +14,8 @@ ra—âƒu
 =
 [placeholder5041: Placeholders/5041.gif] see Nö^ZMG xi (1886), 727^)); —
 
+@@SPLIT:stem@@
+
 Qal_69_
 Perfect 3 masculine singular ׳
 ר
@@ -78,6 +80,8 @@ bathed in milk (בֶּחָלָב) Song 5:12 (figurative); Job 29:6 (figurative),
 הָלִיךְ
 .
 
+@@SPLIT:stem@@
+
 Pu`al
 Perfect 3 masculine singular רֻחָ֑ץ
 Prov 30:12
@@ -86,6 +90,8 @@ be washed (+ מִן of filth, figurative); 2 feminine singular
 בְּמַיִם לֹא רֻחַצְתְּ
 Ezek 16:4 (in
 figurative).
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Perfect 1 singular הִתְרָחַצְתִּי במו שׁלג

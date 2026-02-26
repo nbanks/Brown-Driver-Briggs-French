@@ -9,12 +9,14 @@ Ps 33,1 + 4 t.,
 נָוָה
 Jr 6,2 —
 
+@@SPLIT:sense@@
 1.
 beau, gracieux, d'une femme Ct 1,5 ; Ct 6,4 (|| יָפָה) du visage Ct 2,14 (מַרְאֶה)
 ainsi נָוָה
 Jr 6,2
 (figuré de Jérusalem ; || מְעֻנָּגָה) ; de la bouche Ct 4,3 (|| שְׂפָתוֺת).
 
+@@SPLIT:sense@@
 2.
 convenable, de la louange תְּהִלָּה
 Ps 33,1 ; Ps 147,1

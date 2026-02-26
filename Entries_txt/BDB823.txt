@@ -9,6 +9,8 @@ Gen 26:10 + 37
 t., suffix אֲשָׁמוֺ
 Num 5:7 + 7 t.; —
 
+@@SPLIT:sense@@
+
 1.
 offence, trespass, fault
 Ps 68:22 (
@@ -16,6 +18,8 @@ guiltiness
 
 RV
 ).
+
+@@SPLIT:sense@@
 
 2.
 guilt
@@ -26,6 +30,8 @@ J
 14:9; Jer
 51:5.
 
+@@SPLIT:sense@@
+
 3.
 compensation, לְהָשִׁיב הָאָשָׁם אֵלָיו
 to whom to return the compensation (or satisfaction for injury) Num 5:7; Num 5:8 (
@@ -34,6 +40,8 @@ P
 
 RV
 ).
+
+@@SPLIT:sense@@
 
 4.
 trespass-offering (

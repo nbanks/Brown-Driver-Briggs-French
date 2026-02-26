@@ -37,6 +37,8 @@ Dn 7,8 ; Dn 7,20
 קֳדָמֵיהוֺן
 Dn 4,4 —
 
+@@SPLIT:sense@@
+
 1.
 devant (= hébreu לפְנֵי), surtout dans les expressions répondre, prier,
 dire, etc., devant un supérieur (plus respectueux que à), Dn 2,9
@@ -50,6 +52,8 @@ Esd 5,23
 (deux fois dans le verset) ; avec שְׁפַר sembler bon
 Dn 3,32 ; Dn 6,2 après des verbes
 de mouvement, devant, Dn 2,24 ; Dn 2,25 ; Dn 3,13 ; Dn 4,3 + ; de temps Dn 7,7.
+
+@@SPLIT:sense@@
 
 2.
 מִןקֳֿדָם

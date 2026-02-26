@@ -6,6 +6,8 @@ verb
 denominative
 foot it, go about; —
 
+@@SPLIT:stem@@
+
 Qal
 go about (maliciously, as slanderer
 ; compare Arabic
@@ -22,6 +24,8 @@ walk quickly), slander, Perfect 3 masculine singular עַללֿשֹׁנוֺ
 Ps 15:3,
 he talks no slander upon his tongue (|| דֹּבֵר אֱמֶת
 Ps 15:2).
+
+@@SPLIT:stem@@
 
 Pi`el
 Imperfect 3 masculine singularוַיְרַגֵּל
@@ -86,6 +90,8 @@ Gen 42:14; Gen 42:16; Gen 42:31; Gen
 42:34 (all
 E
 ).
+
+@@SPLIT:stem@@
 
 Tiph`el, Perfect 1 singular תִּרְגַּלְתִּי לְאֶפְרַיִם
 

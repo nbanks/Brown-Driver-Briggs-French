@@ -16,6 +16,7 @@ CIS^iv, 1, No, 56^, araméen בְּנָא,
 [placeholder633: Placeholders/633.gif], palmyrénien בנא
 Vog^No. 31^) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 ׳
@@ -467,6 +468,7 @@ et Ps
 28,5
 objet Sion Ps 102,17.
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 נִבְנָה

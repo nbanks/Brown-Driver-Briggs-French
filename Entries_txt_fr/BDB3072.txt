@@ -25,11 +25,13 @@ Jg 5,15 ; Es 10,1 (Ges^«GKC:93»§ 93^. 1 R 7) ; חֻקָּו֯
 Jb 14,5 etc. + 44
 t. suffixes —
 
+@@SPLIT:sense@@
 1.
 tâche prescrite, assignée à Israël en Égypte Ex 5,14 (
 E
 ).
 
+@@SPLIT:sense@@
 2.
 portion prescrite, ou ration de nourriture Gn 47,22 (deux fois dans le verset) (
 J
@@ -53,12 +55,14 @@ SS
 בְּחֵקִי
 dans mon sein).
 
+@@SPLIT:sense@@
 3.
 action prescrite pour soi-même, résolution :
 חִקֲקֵי לֵב
 Jg 5,15
 résolutions du cœur || חִקְרֵי לֵב Jg 5,16.
 
+@@SPLIT:sense@@
 4.
 redevance prescrite des prêtres sur les offrandes Lv 6,11 ; Lv 10,13 (deux fois dans le verset) ; Lv 10,14 (deux fois dans le verset) (
 P
@@ -83,6 +87,7 @@ H
 Ez 45,14
 .
 
+@@SPLIT:sense@@
 5.
 limite prescrite, frontière : de la mer Jr 5,22 ; Pr 8,29 ; Jb 26,10 ; Jb 38,10 des cieux Ps 148,6 de la terre d'Israël
 Mi 7,11 du
@@ -94,6 +99,7 @@ Es 5,14
 le Shéol
 ouvre largement sa bouche, sans limite.
 
+@@SPLIT:sense@@
 6.
 ordonnance, décret, prescription de Dieu ou de l'homme :
 
@@ -142,6 +148,7 @@ Es 25,5 ||
 עדות
 Ps 99,7.
 
+@@SPLIT:sense@@
 7. pluriel חֻקִּים
 ordonnances, statuts d'une loi :
 

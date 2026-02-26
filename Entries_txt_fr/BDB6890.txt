@@ -11,6 +11,8 @@ id., judéo-araméen פְּתַר ; apparemment = araméen פְּשַׁר
 [placeholder4395: Placeholders/4395.gif], dissoudre, figuré résoudre, interpréter, comparer
 פֵּשֶׁר) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Parfait 3 masculin singulier פָּתַר, avec ל personne Gn 40,22 ; Gn 41,13
 absolu פָּתָ֑ר

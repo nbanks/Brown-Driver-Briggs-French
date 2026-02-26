@@ -16,10 +16,12 @@ Ez 17,20 +
 Ez 39,26 +
 3 t. ; —
 
+@@SPLIT:sense@@
 1. contre l'homme : נשׁאר מעל
 Jb 21,34
 l'infidélité demeure (comparer Nb 5,12 ; Nb 5,27 ; Pr 16,10 sous מָעַל).
 
+@@SPLIT:sense@@
 2. ailleurs contre Dieu, avec בְּ, Jos 22,22 (
 P
 ) ; sans בְּ, 1 Ch 9,1 ; 2 Ch 29,19 ; 2 Ch 33,19 ; Esd 9,2 ; Esd 9,4 ; Esd 10,6. — מַעַל ailleurs seulement avec

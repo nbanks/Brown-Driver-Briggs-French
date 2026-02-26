@@ -4,6 +4,7 @@ Biblical Hebrew
 I. נַעֲמָה
 proper name, feminine
 
+@@SPLIT:sense@@
 1.
 sister of Tubal Cain
 Gen 4:22
@@ -18,6 +19,8 @@ L
 ^
 
 Νοεμμα.
+
+@@SPLIT:sense@@
 
 2. Ammonitess, mother of Rehoboam 1Kgs 14:21
 

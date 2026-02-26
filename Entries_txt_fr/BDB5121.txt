@@ -3,11 +3,13 @@ hébreu biblique
 
 [נִחוּם] nom masculin
 
+@@SPLIT:sense@@
 1.
 consolation, pluriel נִחֻמִים
 Es 57,18 ;
 Za 1,13.
 
+@@SPLIT:sense@@
 2.
 compassion, suffixe נִחוּיָ֑
 Os 11,8 (

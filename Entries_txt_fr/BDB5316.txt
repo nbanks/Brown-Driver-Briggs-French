@@ -29,6 +29,7 @@ DHM^ZMG xxx (1876), 115 s.^
 Derenb^Jas, 1883, Aug.-Sept. 244^ ; minéen מצב
 statue (= מנצב HOM^Südar. Chrest. 128^) ; —
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 féminin singulier נִצְּבָה
 Ps 45,10,
@@ -152,6 +153,7 @@ GASm laissent non traduit ; Now
 propose הַנַּחֲלָה
 malade.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait
 הִצִּיב
@@ -250,6 +252,7 @@ machen' ; Klo
 נִצַּב substantif, voir ci-dessous ; comparer HPS
 .
 
+@@SPLIT:stem@@
 Hoph`al
 Parfait 3 masculin singulier הֻצַּב
 Na 2,8

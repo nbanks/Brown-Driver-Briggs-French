@@ -11,6 +11,7 @@ Gn 6,8 + 67 t. ; suffixe
 חִנּוֺ
 Gn 39,21 —
 
+@@SPLIT:sense@@
 1.
 faveur, grâce, élégance :
 
@@ -32,6 +33,7 @@ parures Pr 1,9
 b. de parole, lèvres Ps 45,3 ; Pr 22,11 paroles Qo 10,12
 .
 
+@@SPLIT:sense@@
 2.
 faveur, acceptation :
 

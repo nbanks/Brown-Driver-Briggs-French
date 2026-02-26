@@ -4,10 +4,12 @@ hébreu biblique
 I. [חָדָה] verbe
 être ou devenir tranchant ; —
 
+@@SPLIT:stem@@
 Qal
 devenir tranchant, Imparfait avec apocope = jussif יָ֑חַד
 Pr 27,17 a ;
 
+@@SPLIT:stem@@
 Hiph`il
 aiguiser (figuré), Imparfait
 apoc. יַ֫חַד

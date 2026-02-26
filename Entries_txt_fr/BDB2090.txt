@@ -22,6 +22,7 @@ Os 14,7 + 3 t. ;
 הֹדֹה
 Jr 22,18 —
 
+@@SPLIT:sense@@
 1.
 splendeur, majesté, du roi הוֺדְךָ וַהֲדָרֶ֑ךָ
 Ps 45,4
@@ -43,6 +44,7 @@ Dn 11,21
 Jr 22,18
 dans la lamentation pour un roi. D'où aussi
 
+@@SPLIT:sense@@
 2. splendeur divine, majesté, lumière et gloire que Dieu porte comme roi :
 הוֺד וְהָדָר לָבָ֑שְׁתָּ
 Ps 104,1 (7 t.
@@ -72,6 +74,7 @@ voix אֶתהֿוֺד קוֺלוֺ
 זְהִשְׁמִיעַ י
 Es 30,30.
 
+@@SPLIT:sense@@
 3.
 
 a.
@@ -92,6 +95,7 @@ avertissement contre la débauche ; comme manifestée dans l'apparence extérieu
 Dn 10,8
 (|| כֹּחַ).
 
+@@SPLIT:sense@@
 4. d'un cheval, majesté, force majestueuse
 הוֺד נַחְרוֺ אֵימָה
 Jb 39,20

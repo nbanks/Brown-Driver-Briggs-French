@@ -4,6 +4,7 @@ hébreu biblique
 יָפִיעַ
 nom propre [d'une personne et d'un lieu]
 
+@@SPLIT:sense@@
 1.
 masculin [personne] (comparer sabéen יפעאל
 Hal^150^) —
@@ -67,6 +68,7 @@ L
 
 Ιαβεγ).
 
+@@SPLIT:sense@@
 2.
 nom propre [d'un lieu]
 à la frontière de Zabulon

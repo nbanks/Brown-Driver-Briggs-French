@@ -3,6 +3,8 @@ Biblical Hebrew
 
 [רוּעַ] verb
 
+@@SPLIT:stem@@
+
 Hiph`il_40_
 
 1.
@@ -108,6 +110,8 @@ Imperfect 3 masculine singular impersonal לֹא יְרֹעָ֑ע
 Isa
 16:10
 a shout shall not be uttered (of joy in harvest; || יְרֻנָּן).
+
+@@SPLIT:stem@@
 
 Hithpo`lel
 Imperfect 1 singular אֶתְרוֺעָ֑ע

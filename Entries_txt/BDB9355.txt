@@ -10,6 +10,8 @@ come (Biblical Hebrew poetry
 [placeholder5927: Placeholders/5927.gif]
 Schulth^Lex^.); —
 
+@@SPLIT:stem@@
+
 Pe`al
 Perfect 3 masculine singular אֲתָה
 Ezra 5:3; Dan 7:22
@@ -28,6 +30,8 @@ come, with עַל person Ezra 4:12 (+ location), Ezra 5:3 with ל of thing Dan 3
 by finite verb active
 Ezra 5:16.
 
+@@SPLIT:stem@@
+
 Haph`el
 bring: Perfect 3 masculine singular הַיְתִי, (K^l.c^.), Dan 5:13 (accusative of person + מִן local); 3 masculine
 plural הַיְתִיו, accusative of thing Dan 5:3, so (ל accusative) Dan 5:23 (+ קֳדָס
@@ -36,6 +40,8 @@ person), Dan 6:17
 לְהַיְתָיָה (so Egyptian Aramaic RES^361 C^) Dan 3:13 (ל accusative of person),
 Dan 5:2 (ל
 accusative of thing).
+
+@@SPLIT:stem@@
 
 Hephal (passive, K^l.c^.)
 be brought: Perfect 3 feminine singular הֵיתַ֫יִת (K^§ 47, Beisp. 6^, W^CG 225^

@@ -6,6 +6,7 @@ adjectif [d'un peuple] (= habitant de la montagne (Thes
 ) ? ou dérivé d'un nom propre [de lieu] inconnu) ; — employé seulement pour désigner certains
 des héros de David :
 
+@@SPLIT:sense@@
 1.
 
 a.
@@ -55,6 +56,7 @@ b.
 הֲרוֺרִי
 ci-dessus.
 
+@@SPLIT:sense@@
 2.
 אֲחִיאָם בֶּןשָֿׁרָר הָארָרִי
 2 S 23,33

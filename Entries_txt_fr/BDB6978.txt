@@ -4,6 +4,7 @@ hébreu biblique
 [צָוָה]_485_
 verbe
 
+@@SPLIT:stem@@
 Pi`el
 imposer une charge (à), donner un ordre (à), charger, commander, ordonner
 (Ba^ZMG xii (1887), 641^
@@ -417,6 +418,7 @@ Ps 78,23 ; Es 34,16, rédemption Ps 7,7 ; Ps 44,5 ; Ps 68,29
 71,3 ainsi de l'idole Es 48,5
 (|| עשׂה).
 
+@@SPLIT:stem@@
 Pu`al
 Parfait 3 masculin singulier צֻוָּה
 Nb 3,16 ;

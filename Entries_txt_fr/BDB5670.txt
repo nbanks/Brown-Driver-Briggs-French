@@ -15,6 +15,7 @@ rassembler, ramasser ; arabe
 [placeholder3636: Placeholders/3636.gif] du vent, soulever la poussière et l'emporter
 Lane^1377^) ; —
 
+@@SPLIT:stem@@
 Qal
 
 1.
@@ -40,6 +41,7 @@ Am 3,15 voir
 סוף
 .
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 masculin singulier וְנִסְפָּה consécutif 1 S 26,10
 Imparfait 2 masculin singulier תִּסָּפֶה
@@ -87,6 +89,7 @@ et il y en a qui est emporté faute de justice. — 1 Ch 21,12 lire
 2.
 être pris, capturé, Es 13,15 (|| נִמְצָא).
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait 1 singulier אֵסְפֶּה עָלֵימוֺ רָעוֺת
 Dt 32,23

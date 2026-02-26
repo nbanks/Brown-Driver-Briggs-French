@@ -6,6 +6,8 @@ cut off, break off, gain by violence (so Late Hebrew, Arabic
 [placeholder665: Placeholders/665.gif], Ethiopic
 [placeholder666: Placeholders/666.gif] Aramaic בְּצַע) —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect
 יִבְצָ֑ע
@@ -37,6 +39,8 @@ Participle absolute Ps 10:3 = greedy getter, robber; and with accusative of
 cognate meaning with verb בֶּ֫צַע
 Prov 1:19; Prov 15:27;
 Jer 6:13; Jer 8:10; Hab 2:9.
+
+@@SPLIT:stem@@
 
 Pi`el
 Perfect

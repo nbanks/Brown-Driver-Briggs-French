@@ -19,6 +19,8 @@ t.; suffix בְּגָדֶיךָ
 81 t.; בִּגְדֹתֶיךָ
 Ps 45:9 —
 
+@@SPLIT:sense@@
+
 1.
 garment, clothing, raiment, robe of any kind, from the filthy clothing of the leper to the holy
 robes of the high priest, the simplest covering of the poor as well as the costly raiment of the rich and noble,
@@ -53,6 +55,8 @@ t.; Jer 12:1 +
 מְלֹא בִגְדוֺ
 his lapful
 2Kgs 4:39.
+
+@@SPLIT:sense@@
 
 2.
 covering, wrapping, of furniture of tabernacle Num 4:6-13 (6 t.); coverlet of a bed

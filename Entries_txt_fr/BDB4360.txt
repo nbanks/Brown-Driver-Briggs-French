@@ -4,6 +4,7 @@ hébreu biblique
 II. לוּז
 nom propre [d'un lieu]
 
+@@SPLIT:sense@@
 1.
 ancien nom de Béthel
 Gn 28,19 (
@@ -33,6 +34,7 @@ E
 28,19
 [Ουλαμ]μαυς
 
+@@SPLIT:sense@@
 2. ville aux mains des Hittites Jg 1,26 (sur les conjectures quant au site voir GFM
 );
 

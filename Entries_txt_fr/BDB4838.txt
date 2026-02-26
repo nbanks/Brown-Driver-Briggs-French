@@ -10,6 +10,7 @@ Dt 32,32,
 
 Jb 13,36 —
 
+@@SPLIT:sense@@
 1.
 fiel, c.-à-d. siège du fiel, vésicule biliaire Jb 20,25 (|| גֵּוָה
 dos ; comparer מְרֵרָה
@@ -17,17 +18,20 @@ dos ; comparer מְרֵרָה
 Jb 16,30
 ).
 
+@@SPLIT:sense@@
 2. = poison, פְּתָנִים
 ׳
 מ
 Jb 20,14.
 
+@@SPLIT:sense@@
 3.
 מְרֹרוֺת
 chose amère
 Jb 13,26 (de
 l'arrêt de jugement de Dieu).
 
+@@SPLIT:sense@@
 4. pluriel abstrait = amertume ; אַשְׁכְּלֹת
 ׳
 מ

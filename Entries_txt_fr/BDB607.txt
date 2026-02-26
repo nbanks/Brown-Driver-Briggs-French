@@ -13,6 +13,7 @@ Lag^BN 60^, qui compare
 [placeholder316: Placeholders/316.gif], weichliches d.h. stumpfes Schwert. Il semble plus sûr
 pour le moment de garder les trois distincts).
 
+@@SPLIT:stem@@
 Qal
 Participe passif
 אָנוּשׁ
@@ -33,6 +34,7 @@ Es 17,16 aussi
 dans l'expression עָקֹב הַלֵּב מִכֹּל וְאָנֻשׁ הוּא
 Jr 17,9
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait
 וַיֵּאָנַ֯שׁ֑

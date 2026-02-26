@@ -8,6 +8,7 @@ survenir soudainement, hébreu tardif בָּעִת Hiph`il
 effrayer ; ainsi araméen בְּעֵת Pael
 [placeholder659: Placeholders/659.gif] Aphel) —
 
+@@SPLIT:stem@@
 Niph`al (prose tardive) Parfait
 נִבְעַת
 1 Ch 21,30,
@@ -19,6 +20,7 @@ Dn 8,17 —
 1 Ch 21,30 ;
 Est 7,6.
 
+@@SPLIT:stem@@
 Pi`el (surtout en poésie) Parfait 3 féminin singulier suffixe בִּעֲתָ֑תְנִי
 
 Es 21,4,

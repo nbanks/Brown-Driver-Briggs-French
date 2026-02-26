@@ -7,6 +7,7 @@ verbe
 [placeholder3078: Placeholders/3078.gif] III. disputer avec ; syriaque
 [placeholder3079: Placeholders/3079.gif] Pa`el lutter contre) ; —
 
+@@SPLIT:stem@@
 Qal. Parfait 3 masculin singulier מָרָה
 1 R 13,26
 féminin מָֽרְתָה
@@ -81,6 +82,7 @@ Che (pour d'autres vues voir
 ריב
 ).
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 masculin pluriel הִמְרוּ
 Ps 106,33

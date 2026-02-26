@@ -3,6 +3,7 @@ hébreu biblique
 
 [זָנַק] verbe seulement
 
+@@SPLIT:stem@@
 Pi`el
 bondir (hébreu tardif זִנֵּק
 faire jaillir ; araméen

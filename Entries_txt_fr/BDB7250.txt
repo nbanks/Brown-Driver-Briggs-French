@@ -20,6 +20,8 @@ argent, monnaie, comparer Mordtm^Him. Inschr. pp. 14,
 29^
 CIS^iv, No. 291, 1.1^) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Parfait 3 masculin singulier ׳
 צ
@@ -96,11 +98,15 @@ Es 40,19
 Che
 Marti), Es 41,7 ; Es 46,6 ; Pr 25,4 comme corporation Ne 3,8 ; Ne 3,32.
 
+@@SPLIT:stem@@
+
 Niph`al
 Imparfait 3 masculin pluriel יִצָּֽרְפוּ
 Dn 12,10
 beaucoup seront affinés (par la souffrance ; + יִתְבָּֽרְרוּ,
 יִתְלַבְּנוּ).
+
+@@SPLIT:stem@@
 
 Pi`el
 Participe

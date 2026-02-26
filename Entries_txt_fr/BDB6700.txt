@@ -8,6 +8,8 @@ tailler, tailler en forme (hébreu tardif Pi`el élaguer les branches ; araméen
 [placeholder4261: Placeholders/4261.gif] = hébreu biblique ; nabatéen פסלא
 tailleur de pierre) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Parfait 3 masculin singulier suffixe פְּסָלוֺ
 Ha 2,18

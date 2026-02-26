@@ -9,6 +9,8 @@ make certain, gain certainty (
 
 ; compare Biblical Hebrew); —
 
+@@SPLIT:stem@@
+
 Pa`el
 Infinitive
 לְיַצָּבָא

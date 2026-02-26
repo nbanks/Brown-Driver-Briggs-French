@@ -15,6 +15,7 @@ Gn 19,25+ ;
 suffixe צִמְחָהּ
 Ez 17,9 + ; —
 
+@@SPLIT:sense@@
 1.
 collectif
 germination, croissance, הָאֲדָמָה
@@ -37,10 +38,12 @@ croissance (= feuillage) de la vigne, ׳
 טַרְפֵּי צ
 Ez 17,9.
 
+@@SPLIT:sense@@
 2. processus de croissance, de la vigne, עֲרֻגֹת צִמְתָהּ
 Ez 17,10 =
 les planches où elle croissait.
 
+@@SPLIT:sense@@
 3. futur souverain, sous la figure d'un germe de l'arbre davidique (comparer Ps 132,17)
 וַהֲקִמֹתִי
 צַדִּיק

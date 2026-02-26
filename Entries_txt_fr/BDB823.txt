@@ -9,6 +9,7 @@ Gn 26,10 + 37
 t., suffixe אֲשָׁמוֺ
 Nb 5,7 + 7 t. ; —
 
+@@SPLIT:sense@@
 1.
 faute, transgression, offense
 Ps 68,22 (
@@ -17,6 +18,7 @@ culpabilité
 RV
 ).
 
+@@SPLIT:sense@@
 2.
 culpabilité
 Gn 26,10 (
@@ -26,6 +28,7 @@ J
 14,9 ; Jr
 51,5.
 
+@@SPLIT:sense@@
 3.
 compensation, לְהָשִׁיב הָאָשָׁם אֵלָיו
 à qui rendre la compensation (ou réparation du dommage) Nb 5,7 ; Nb 5,8 (
@@ -35,6 +38,7 @@ P
 RV
 ).
 
+@@SPLIT:sense@@
 4.
 sacrifice de réparation (
 AV

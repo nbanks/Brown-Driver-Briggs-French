@@ -12,6 +12,8 @@ ra‡âdu
 [placeholder5173: Placeholders/5173.gif]
 leaping up briskly); —
 
+@@SPLIT:stem@@
+
 Qal
 skip about, Perfect 3 masculine plural רָֽקְדוּ
 Ps 114:4 (of
@@ -20,6 +22,8 @@ both of Sinai quaking at law-giving); Infinitive construct
 עֵת רְקוֺד
 Eccl 3:4 a time to
 mourn (סְפֹד), and a time to skip about (gaily).
+
+@@SPLIT:stem@@
 
 Pi`el
 dance, leap: Imperfect 3 masculine plural יְרַקְּדוּ
@@ -45,6 +49,8 @@ We
 Dr
 Bu
 HPS (מְרַקֵּד).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imperfect 3 masculine singular suffix וַיַּרְקִידֵם

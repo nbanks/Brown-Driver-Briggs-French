@@ -5,6 +5,8 @@ Biblical Hebrew
 denominative
 count as foreskin, i.e. as uncircumcised; —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 2 masculine plural, with accusative of cognate meaning with verb וַעֲרַלְתֶּם
 עָרְלָתוֺ
@@ -20,6 +22,8 @@ remove its foreskin (its fruit), as
 ᵐ5
 
 περικαθαριεῖτε τὴν ἀκαθαπσίαν αὐτοῦ).
+
+@@SPLIT:stem@@
 
 Niph`al
 Imperative

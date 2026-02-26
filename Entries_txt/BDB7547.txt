@@ -14,6 +14,8 @@ bind, Ethiopic
 [placeholder4838: Placeholders/4838.gif]] constringere, see Nö^ZMG xl (1886),
 735^)); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 plural קָצָ֑רוּ
 Jer 12:13,
@@ -72,6 +74,8 @@ Marti); plural 2Kgs 4:18; Ruth 2:3; Ruth 2:4; Ruth 2:5; Ruth 2:6; Ruth 2:7; Ruth
 (+ זָרַע), of evil Hos 8:7 (both + זָרַע), Hos 10:13 ( + חָרָשׁ), Job 4:8 (+
 חָרַשׁ, זָרַע, Prov 22:8; Ps 126:5 they that sow (זָרַע) in tears
 shall reap in joy.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imperfect

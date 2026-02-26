@@ -4,6 +4,7 @@ hébreu biblique
 אַדָּר
 nom propre, masculin (noble ?).
 
+@@SPLIT:sense@@
 1. fils de Bela, petit-fils de Benjamin 1 Ch 8,3 (peut-être erreur — comparer Be — pour
 
 אַרְדְּ
@@ -11,6 +12,7 @@ q. v. Nb
 26,40 ; Gn
 46,21).
 
+@@SPLIT:sense@@
 2. ville de Juda Jos 15,3 (אַדָּ֫רָה) ; = חֲצַר אַדָּר (q. v.) Nb 34,4.
 
 ---

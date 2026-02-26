@@ -15,6 +15,7 @@ retenir, détruire ; araméen תְּבַר,
 [placeholder5405: Placeholders/5405.gif]
 briser) ; —
 
+@@SPLIT:stem@@
 Qal_53_
 Parfait 3 masculin singulier ׳
 שׁ
@@ -82,6 +83,7 @@ Jb 38,10
 j'ai brisé pour elle ma limite, de la mer, référence à la fin abrupte du continent ; =
 étancher la soif (frangere sitim) Ps 104,11.
 
+@@SPLIT:stem@@
 Niphal_57_
 Parfait 3 masculin singulier נִשְׁבַּר
 Ex 22,9 +,
@@ -132,6 +134,7 @@ Berthol Toy Krae) ;
 Co
 בְּשָׁבְרִי.
 
+@@SPLIT:stem@@
 Piel_36_
 Parfait 3 masculin singulier שִׁבַּר
 Es 21,9 +,
@@ -172,6 +175,7 @@ J
 Ps 74,13
 naufrage de navire Ps 48,8.
 
+@@SPLIT:stem@@
 Hiph`il
 faire éclater, c.-à-d. amener à l'enfantement, Imparfait
 1 singulier הַאֲנִי אַשְׁבִּיר וְלֹא אוֺלִיד
@@ -179,6 +183,7 @@ Es 66,9 (
 ׳
 י sujet ; comparer מַשְׁבֵּר ci-dessous).
 
+@@SPLIT:stem@@
 Hoph`al
 être brisé, fracassé (dans le cœur), Parfait 1 singulier עַלשֶֿׁבֶר
 בַּתעַֿמִּי הָשְׁבַּ֑רְתִּי

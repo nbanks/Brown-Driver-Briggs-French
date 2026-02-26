@@ -7,6 +7,8 @@ beguile, Hiph, Niph`al; Aramaic נְדַח (rare) = Biblical Hebrew; Ethiopic
 [placeholder3188: Placeholders/3188.gif]; thrust; Arabic
 [placeholder3189: Placeholders/3189.gif] is drive a ship to shore); —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect
 יִדַּח
@@ -23,6 +25,8 @@ Deut 20:19
 thrust away, banish followed byמִןֿ
 2Sam 14:14
 .
+
+@@SPLIT:stem@@
 
 Niph`al
 Perfect 3 feminine singular נִדְּחָה
@@ -107,12 +111,16 @@ Deut 4:19
 ;
 Deut 30:17 (followed by וְהִשְׁתַּחֲוָה).
 
+@@SPLIT:stem@@
+
 Pu`al
 Participle
 אֲקֵלָה מְנֻדָּח
 Isa 8:22
 
 thrust into darkness.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect
@@ -188,6 +196,8 @@ see
 4.
 compel, force, subject adulteress (by flattery), followed by accusative Prov
 7:21 (|| הִטָּה).
+
+@@SPLIT:stem@@
 
 Hoph`al
 Participle

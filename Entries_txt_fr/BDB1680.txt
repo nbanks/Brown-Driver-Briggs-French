@@ -11,12 +11,14 @@ Ab 1,15, etc. ;
 pluriel suffixe גְּמוּלָיו
 Ps 103,2 —
 
+@@SPLIT:sense@@
 1.
 גְּמוּל יָדַיִם
 conduite des mains
 Jg 9,16 ; Pr 12,14 (
 יָשׁוּב לְ) Es 3,11 (יֵעָשֶׂה לְ).
 
+@@SPLIT:sense@@
 2.
 conduite, d'où (d'après le contexte) équivalent de rétribution : avec
 suffixe Ab 1,15
@@ -39,6 +41,7 @@ Jl 4,4 ; Ps 94,2 ; Es 35,4
 אלהים
 la rétribution de Dieu.
 
+@@SPLIT:sense@@
 3.
 bienfait :
 אַל

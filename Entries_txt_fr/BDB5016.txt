@@ -20,6 +20,7 @@ Nö^ZMG xi. 1886, 728^ ; deux √ √ proposées par
 RDWilson^Presb. Rev. (N.Y.), April, 1885^ (article détaillé), comparer T.
 Che^Psalm 23,2. note critique^.) ; —
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 2 masculin singulier נֵהַלָתָּ
 Ex 15,13
@@ -94,6 +95,7 @@ Gn 47,17
 J
 ).
 
+@@SPLIT:stem@@
 Hithpa`el
 Imparfait probablement voyager par étapes, seulement 1 singulier
 אֶתְנַהֲלָה

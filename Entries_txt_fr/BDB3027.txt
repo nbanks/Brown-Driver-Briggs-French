@@ -9,6 +9,7 @@ SI^4. 6^
 participe pluriel החצבם ; comparer phénicien מחצב = hébreu id.
 ) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 חָצֵב
@@ -81,11 +82,13 @@ fendre sujet la voix de ׳
 envoie
 des éclairs fourchus (mais sur le texte comparer Che et note critique)
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait
 יֵחָצְבוּן
 être coupé, taillé, gravé (des mots sur le roc) Jb 19,24.
 
+@@SPLIT:stem@@
 Pu`al
 Parfait
 חֻצַּבְתֶּם
@@ -93,6 +96,7 @@ Es 51,1
 
 figuré, taillé dans le roc (de l'origine d'Israël ; || נֻקַּר).
 
+@@SPLIT:stem@@
 Hiph`il
 Participe
 מַחֲצֶ֫בֶת

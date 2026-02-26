@@ -9,6 +9,8 @@ be hidden,
 [placeholder1891: Placeholders/1891.gif]
 hide) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 חָפוּ
@@ -27,11 +29,15 @@ Esth 6:12 in
 token of sentence of death
 Esth 7:8.
 
+@@SPLIT:stem@@
+
 Niph`al
 Participle feminine נֶחְפָּה
 Ps 68:13 (
 ׳
 כנפי יונה נ), with בְּ of material.
+
+@@SPLIT:stem@@
 
 Pi`el
 Perfect (late) חִפָּה 2 Che

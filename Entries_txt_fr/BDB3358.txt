@@ -18,6 +18,7 @@ Ex 16,31 + 4
 t. ; טַעְמֵךְ
 1 S 25,33 —
 
+@@SPLIT:sense@@
 1.
 goût de la manne Ex 16,31 (
 P
@@ -29,6 +30,7 @@ E
 ), comparer
 Nb 11,8 dans le jus de pourpier Jb 6,6 de Moab sous la figure du vin Jr 48,11 (|| רֵיחַ).
 
+@@SPLIT:sense@@
 2.
 figuré
 jugement, discrétion, discernement, 1 S 25,33 ; Pr 11,22 ; Jb 12,20, ainsi טוּב טַעַם וָדַעַת
@@ -46,6 +48,7 @@ changer, déguiser son jugement, sa raison
 Ps 34,1, de
 David feignant la folie.
 
+@@SPLIT:sense@@
 3. (aramaïsme tardif, comparer Dn 3,10 etc.) décision, décret
 טַעַם מֶלָךְ וּגְּדֹלָיו
 Jon 3,7.

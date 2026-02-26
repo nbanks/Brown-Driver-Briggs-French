@@ -55,6 +55,8 @@ combinaison avec une autre préposition : ainsi בְּאוֺתוֺ
 הַיּוֺם = bibl. בַּיּוֺם הַהוּא, בְּאוֺתָהּ הַשָּׁעָה ; ou comme
 nominatif, p. ex. אוֺתוֺ הָאִישׁ = bibl. הָאִישׁ הַהוּא).
 
+@@SPLIT:sense@@
+
 1. Comme marque de l'accusatif préfixée aux substantifs définis soit par l'article (ou כֹּל
 ), soit par un génitif ou un affixe pronominal, soit en vertu d'être des noms propres :
 
@@ -167,6 +169,8 @@ Es
 W^AG i. § 196, 43^] ; et Nb 10,2 ; Ez 17,9
 לְמַסַּע, לְמַשְׂאוֺת sont des infinitifs aramaïsants : comparer Ew^§ 239 a^).
 
+@@SPLIT:sense@@
+
 2.
 את marque un accusatif dans d'autres relations que celle de complément d'objet direct d'un verbe :
 
@@ -179,6 +183,8 @@ b. indiquant le temps
 (durée), aussi très rare : Ex 13,7 ; Lv 25,22 ; Dt 9,25.
 
 c. exprimant l'accusatif de limitation (rare) : Gn 17,11 ; Gn 17,14 ; 1 R 15,23.
+
+@@SPLIT:sense@@
 
 3. Principalement dans un style inférieur ou tardif, אֵת (ou וְאֵת) est employé
 irrégulièrement, en partie (α), semble-t-il, pour donner une plus grande définition (ainsi surtout וְאֵת

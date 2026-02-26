@@ -13,6 +13,7 @@ Dt 25,15 + ;
 pluriel שְׁלֵמוֺת
 Dt 27,6 ; Jos 8,31 —
 
+@@SPLIT:sense@@
 1.
 complet :
 
@@ -39,6 +40,7 @@ E
 b.
 achevé : pierres pour le temple 1 R 6,7 temple 2 Ch 8,16.
 
+@@SPLIT:sense@@
 2.
 sauf, indemne, d'une personne Gn 33,18 (
 P
@@ -48,6 +50,7 @@ pas nom propre, d'un lieu comme
 Vrss
 ).
 
+@@SPLIT:sense@@
 3.
 dans une alliance de paix, d'amitié, avec אֵת
 Gn 34,21 (

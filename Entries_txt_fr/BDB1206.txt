@@ -18,6 +18,7 @@ Gn 20,7 + ;
 בַּעֲדָם
 Lv 9,7 + ; —
 
+@@SPLIT:sense@@
 1. littéral
 
 a. avec des verbes de tomber, descendre, se pencher pour regarder
@@ -99,6 +100,7 @@ c. après un verbe de protéger, Za 12,8 en ce jour-là בְּעַד
 ירושׁלם ׳
 י donnera protection autour de, etc.
 
+@@SPLIT:sense@@
 2. métaphorique en faveur de (ὑπέρ) ; très fréquemment après
 הִתְפַּלֵּל
 Gn 20,7 ; Nb 21,7 ; 1 S 7,5 ; Ps 72,15 + ;

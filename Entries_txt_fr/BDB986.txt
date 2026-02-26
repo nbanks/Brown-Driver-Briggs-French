@@ -11,6 +11,8 @@ mépriser (palestinien
 [placeholder542: Placeholders/542.gif]
 lever la tête fièrement et dédaigneusement) —
 
+@@SPLIT:stem@@
+
 Qal
 Parfait
 Nb 15,31 + ;
@@ -97,6 +99,8 @@ Jr 49,15 aussi
 Ab 1,2 de sagesse
 Qo 9,16.
 
+@@SPLIT:stem@@
+
 Niph`al
 Participe
 נִבְזֶה
@@ -123,6 +127,8 @@ méprisable, digne de mépris
 Ml 1,7 dit
 de la table de ׳
 י, comparer Ml 1,12 ; Ml 2,9 ; Dn 11,21 comme substantif d'Antiochus Épiphane.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Infinitif

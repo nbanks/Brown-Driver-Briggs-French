@@ -22,6 +22,7 @@ Jb 29,15,
 2 S 5,6 ; 2 S 5,8 ; Es 42,18) ; —
 aveugle, habituellement comme substantif = l'aveugle :
 
+@@SPLIT:sense@@
 1. littéralement, physiquement aveugle :
 
 a. d'hommes Ex 4,11 (
@@ -42,6 +43,7 @@ H
 
 b. d'un animal de sacrifice Dt 15,21 ; Ml 1,8.
 
+@@SPLIT:sense@@
 2.
 figuré,
 

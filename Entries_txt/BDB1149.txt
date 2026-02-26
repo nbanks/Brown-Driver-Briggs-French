@@ -3,6 +3,8 @@ Biblical Hebrew
 
 II. בֶּ֫לַע
 
+@@SPLIT:sense@@
+
 proper name, masculine
 1.
 בֶּלַע
@@ -14,8 +16,12 @@ of Edom, בן בעור
 ב (compare בִּלְעָם & Di
 Gen 36:32).
 
+@@SPLIT:sense@@
+
 2.
 בֶּלַע 1st son of Benjamin Gen 46:21; Num 26:38; Num 26:40; 1Chr 7:6; 1Chr 7:7; 1Chr 8:1; 1Chr 8:3 (בָּ֑לַע).
+
+@@SPLIT:sense@@
 
 3.
 בֶּלַע a Reubenite 1Chr 5:8.

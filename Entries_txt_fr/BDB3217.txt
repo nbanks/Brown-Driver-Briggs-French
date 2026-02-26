@@ -5,6 +5,7 @@ hébreu biblique
 être silencieux, inactif, immobile (surtout en poésie et tardif) (hébreu tardif id.,
 araméen dans les dérivés) —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 2 masculin singulier תֶּחֱשֶׁה
 Ps 28,1 ; Es 64,11
@@ -25,6 +26,7 @@ Es 65,6 de
 Ps 107,29
 (sujet גַּלֵּיהֶם).
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait
 הֶחֱשֵׁיתִי

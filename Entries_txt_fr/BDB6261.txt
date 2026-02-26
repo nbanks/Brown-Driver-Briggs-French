@@ -5,6 +5,7 @@ hébreu biblique
 nom propre, masculin
 Αφερ, etc. ; —
 
+@@SPLIT:sense@@
 1. « fils » de Madian Gn 25,4 ; 1 Ch 1,33 (
 
 ᵐ5
@@ -13,8 +14,10 @@ nom propre, masculin
 
 Γοφερ).
 
+@@SPLIT:sense@@
 2. en Juda 1 Ch 4,17 (Α Γαφερ).
 
+@@SPLIT:sense@@
 3. en Manassé 1 Ch 5,24.
 
 ---

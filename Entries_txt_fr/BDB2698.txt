@@ -5,6 +5,7 @@ hébreu biblique
 nom féminin
 péché, sacrifice pour le péché (?) —
 
+@@SPLIT:sense@@
 1.
 péché, principalement dans l'expression גְדֹלָה
 ׳
@@ -28,6 +29,7 @@ bienheureux celui dont le péché est couvert ; mais la prière du méchant
 devient péché quand il est jugé
 Ps 109,7.
 
+@@SPLIT:sense@@
 2.
 sacrifice pour le péché (selon la plupart) עולה
 וחטאה

@@ -5,12 +5,14 @@ hébreu biblique
 disperser (arabe
 [placeholder549: Placeholders/549.gif], araméen בְּדַר) —
 
+@@SPLIT:stem@@
 Qal
 Imparfait
 Dn 11,24
 בִּזָּה וְשָׁלָל וּרְכוּשׁ לָהֶם יִבְז֑וֺר
 butin et dépouille et biens il dispersera parmi eux (sujet Antiochus Épiphane)
 
+@@SPLIT:stem@@
 Pi`el
 Parfait
 בִּזַּר, id., Ps 68,31, mais lire Impératif

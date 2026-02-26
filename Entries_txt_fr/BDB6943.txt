@@ -5,6 +5,7 @@ hébreu biblique
 dénominatif
 être juste, droit ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 féminin singulier צָֽדְקָה
 
@@ -55,6 +56,7 @@ de la main de Dieu, מִן
 Co
 Pi`el).
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 masculin singulier וְנִצְדַּק קֹדֶשׁ consécutif Dn
 8,14
@@ -66,6 +68,7 @@ Dr
 Marti^Comm.^
 être justifié, sa cause vindicquée).
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 3 féminin singulier צִדְּקָה
 Jr
@@ -96,6 +99,7 @@ je désire te justifier (dans ta plaidoirie, comparer
 Qal
 2).
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 1 singulier suffixe הִצְדַּקְתִּיו
 2 S 15,4
@@ -154,6 +158,7 @@ rendre juste, tourner vers la justice, Dn 12,3
 
 Bev.
 
+@@SPLIT:stem@@
 Hithpa`el
 Imparfait 1 pluriel נִצְטַדָּ֑ק
 Gn 44,16

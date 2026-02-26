@@ -18,6 +18,8 @@ Gen 20:7 +;
 בַּעֲדָם
 Lev 9:7 +; —
 
+@@SPLIT:sense@@
+
 1. literal
 
 a. with verbs of falling, letting down, leaning forward so as to look
@@ -100,6 +102,8 @@ c. after a verb of protecting, Zech 12:8 in that day בְּעַד
 יָגֵןי
 ירושׁלם will ׳
 י give protection about, etc.
+
+@@SPLIT:sense@@
 
 2. metaphorical on behalf of (ὑπέρ); very frequently after
 הִתְפַּלֵּל

@@ -19,6 +19,8 @@ Esth 6:1 suffix
 זִכְרֹנֵיכֶם
 Job 13:12 —
 
+@@SPLIT:sense@@
+
 1.
 memorial, reminder:
 
@@ -82,6 +84,8 @@ your memorial words are ashen sayings (i.e. worthless), compare Bu Du; Margolis
 suggests that ᵐ5 seems to have read יִמָּשֵׁל לְאֵפֶר [? < רָנְּכֶם
 ] רָנְיְכֶם
 your exultation shall be like ashes.
+
+@@SPLIT:sense@@
 
 2.
 remembrance

@@ -14,6 +14,8 @@ vomit; Ethiopic [
 [placeholder4739: Placeholders/4739.gif]
 vomit); —
 
+@@SPLIT:stem@@
+
 Qal
 Participle
 feminine
@@ -34,6 +36,8 @@ Lev 18:28
 Lev 18:25
 2 masculine singular Sf. תְּקִיאֶנָּה
 Prov 23:8
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect suffix consecutive וַהֲקֵאתוֺ

@@ -8,6 +8,8 @@ se révolter, transgresser (hébreu tardif id. ; syriaque
 [placeholder4376: Placeholders/4376.gif]
 tiède, insipide) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Parfait 3 masculin singulier ׳
 פ
@@ -73,6 +75,8 @@ Es 43,27
 עלילות אשׁר פ
 So 3,11
 .
+
+@@SPLIT:stem@@
 
 Niph`al
 Parfait 3 masculin singulier אָח נִפְשַׁע (

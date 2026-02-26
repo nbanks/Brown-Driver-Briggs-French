@@ -7,12 +7,16 @@ lick (Late Hebrew id.; so Aramaic לְחַךְ
 [placeholder2802: Placeholders/2802.gif]; Arabic
 [placeholder2803: Placeholders/2803.gif]; -
 
+@@SPLIT:stem@@
+
 Qal
 Infinitive construct
 כִּלְחֹךְ
 Num 22:4 (
 E
 ), followed by accusative; of ox licking up grass.
+
+@@SPLIT:stem@@
 
 Pi`el
 Perfect 3 feminine singular לִחֵ֑כָה

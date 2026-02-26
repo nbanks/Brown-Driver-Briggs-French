@@ -4,6 +4,7 @@ hébreu biblique
 יִזְרְעֵאלִי
 masculin, יִזְרְעֵאלִית féminin, adjectif, d'un peuple
 
+@@SPLIT:sense@@
 1.
 masculin de יִזְרְעֶאל
 1.b. ; toujours ׳
@@ -13,6 +14,7 @@ masculin de יִזְרְעֶאל
 ; 1 R
 21,6 ; 1 R 21,7 ; 1 R 21,15 ; 1 R 21,16 ; 2 R 9,21 ; 2 R 9,25.
 
+@@SPLIT:sense@@
 2.
 féminin de יִזְרְעֶאל
 1.a. ; toujours אֲחִינֹעַם

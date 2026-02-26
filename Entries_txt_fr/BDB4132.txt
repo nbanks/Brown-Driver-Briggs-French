@@ -12,6 +12,7 @@ kasâsu,
 peut-être couper en deux, ou en morceaux, d'où
 kissatu, fourrage) — seulement
 
+@@SPLIT:stem@@
 Qal
 Imparfait 2 masculin pluriel אִישׁ לְפִי אָכְלוֺ תָּכֹסּוּ עַלהַֿשֶּׂה
 Ex 12,4 (

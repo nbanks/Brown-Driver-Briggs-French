@@ -5,6 +5,7 @@ hébreu biblique
 nom féminin apparemment enceinte ; — absolu ׳
 ע :
 
+@@SPLIT:sense@@
 1.
 rebord entourant l'autel d'Ézéchiel ; ׳
 הָע
@@ -18,6 +19,7 @@ Ez 43,14
 ׳
 הָע seul Ez 43,17 Ez 43,20 ; Ez 45,19 (voir commentaires).
 
+@@SPLIT:sense@@
 2. parvis extérieur du temple, הַגְּדֹלָה
 ׳
 הָע

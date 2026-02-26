@@ -4,6 +4,8 @@ Biblical Hebrew
 [סָבַךְ] verb
 interweave (|| form to שׂבך q. v.); —
 
+@@SPLIT:stem@@
+
 Qal
 Passive participle plural סִירִים סְבֻכִים
 Nah 1:10
@@ -15,6 +17,8 @@ Da); Gunk^ZAW xiii (1893), 235^ proposes (after
 ᵑ7
 
 Vollers) כְּסוּחִים i.e. cut off, away (Isa 33:12) compare Now; text very dubious
+
+@@SPLIT:stem@@
 
 Pu`al
 Imperfect 3 masculine plural עַלגַּֿל שָׁרָשָׁיו יְסֻבָּ֑כוּ

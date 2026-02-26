@@ -13,6 +13,8 @@ shine is late in Hebrew; usual sense as given below is not enlighten, illumine
 mentally, but warn; see also construction with two accusatives Exod 18:20);
 —
 
+@@SPLIT:stem@@
+
 Hiph`il
 Perfect
 וְהִזְהִיר consecutive Ezek 33:3 suffix וְהִזְהִירהֹ
@@ -60,6 +62,8 @@ Ezek 3:18
 warn the righteous (צַדִּיק) Ezek 3:21 followed by Infinitive
 in order that the righteous sin not, compare 2Chr 19:10 followed by accusative of
 person + final clause with וְ.
+
+@@SPLIT:stem@@
 
 Niph`al
 Perfect 3 masculine singular נִזְהָ֔ר

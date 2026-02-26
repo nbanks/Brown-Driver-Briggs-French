@@ -4,6 +4,8 @@ araméen biblique
 [קוּם] verbe
 se lever, se tenir debout (voir hébreu biblique) ; —
 
+@@SPLIT:stem@@
+
 Pe`al
 Parfait 3 masculin singulier קָם
 Dn 3,24, 3
@@ -50,10 +52,14 @@ participe comme nom, ceux qui se tiennent (là) Dn 7,16.
 5.
 subsister, royaume Dn 2,44.
 
+@@SPLIT:stem@@
+
 Pa`el
 établir, instituer une ordonnance (קְיָם) : Infinitif
 לְקַיָּמָה
 Dn 6,8.
+
+@@SPLIT:stem@@
 
 Haph`el (K^§ 45, 4^) Parfait
 3 masculin singulier הֲקֵים
@@ -118,6 +124,8 @@ Dn
 Dn 4,14 ;
 Dn 5,21 ; Dn
 6,2.
+
+@@SPLIT:stem@@
 
 Hoph`al
 Parfait 3 féminin singulier הֳקִימַת (variantes dans

@@ -20,6 +20,7 @@ Lv 20,17,
 Lv 18,7 + ; suffixe 3
 féminin pluriel עֶרְוָתָן Lv 18,9 Lv 18,10 —
 
+@@SPLIT:sense@@
 1.
 parties honteuses, de l'homme ׳
 רָאָה ע impliquant une exposition honteuse Gn 9,22 ; Gn 9,23 (
@@ -69,6 +70,7 @@ P
 1 S 20,30
 (comparer Doughty^Arab. Deserta i. 269^).
 
+@@SPLIT:sense@@
 2.
 עֶרְוַת דָּבָר
 nudité d'une chose, c.-à-d. probablement indécence, comportement
@@ -76,6 +78,7 @@ inconvenant
 Dt 23,15 ;
 Dt 24,1 (voir Dr).
 
+@@SPLIT:sense@@
 3.
 figuré
 הָאָרֶץ

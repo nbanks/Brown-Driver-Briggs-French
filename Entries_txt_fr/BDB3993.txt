@@ -6,9 +6,11 @@ nom masculin^
 Jb 16,8
 ^
 
+@@SPLIT:sense@@
 1.
 mensonge.
 
+@@SPLIT:sense@@
 2.
 maigreur ;
 — absolu ׳
@@ -21,6 +23,7 @@ Jb 16,8 pluriel
 suffixe כַּחֲשֵׁיהֶם
 Os 7,3 —
 
+@@SPLIT:sense@@
 1.
 mensonge, אֲכַלְתֶּם
 ׳
@@ -34,6 +37,7 @@ Na 3,1
 de mensonge (et) de rapine elle est pleine ; Ps 59,13 (||
 אָלָה).
 
+@@SPLIT:sense@@
 2. de l'affliction de Job Jb 16,8
 ma maigreur s'est levée contre moi (comparer Ps 109,24
 

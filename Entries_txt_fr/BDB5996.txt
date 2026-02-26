@@ -15,6 +15,7 @@ Za 6,11 ; Jb 31,36,
 Za 6,14 —
 couronne :
 
+@@SPLIT:sense@@
 1. d'une image d'idole (Milcom,
 
 ᵐ5
@@ -33,6 +34,7 @@ Ps 21,4
 תִּפְאַרְתְּכֶם du roi et de la reine, Jr 13,18
 la couronne de votre splendeur ; comparer Ez 21,31 couronne de mariage Ct 3,11.
 
+@@SPLIT:sense@@
 2.
 זָהָב
 ׳
@@ -47,6 +49,7 @@ Ez 23,42
 ׳
 ע en apposition ( = comparaison) Jb 31,36.
 
+@@SPLIT:sense@@
 3. figuré d'honneur, etc., Jb 19,9 (|| כְּבוֺדִי
 Lm 5,16
 בַּעְלָהּ

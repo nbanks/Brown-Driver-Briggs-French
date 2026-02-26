@@ -20,6 +20,8 @@ id., faillir, s'évanouir. Syriaque
 פּוּג
 cesser, être impuissant ; hébreu tardif id. s'évanouir) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Imparfait 3 masculin singulier וַיָּפָג לִבּוֺ
 Gn 45,26 3
@@ -28,6 +30,8 @@ Ps 77,3 de la main (si
 vera lectio, voir
 נגר
 ), c.-à-d. tomber impuissante ; Ha 1,4 de תּוֺרָה, c.-à-d. être inefficace.
+
+@@SPLIT:stem@@
 
 Niph`al
 Parfait 1 singulier נְפוּגֹתִי וְנִדְכֵּיתִי

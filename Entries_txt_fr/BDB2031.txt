@@ -23,6 +23,7 @@ Esd 8,36 + 2 t. ;
 suffixe דָּתַיהֶם
 Est 3,8 —
 
+@@SPLIT:sense@@
 1.
 décret, édit, commission du roi de Perse Esd 8,36 (mot ailleurs seulement dans Esther) Est 2,8 (||
 דְּבַר הַמֶּלֶךְ), Est 4,3 (|| id.) Est 8,17 (|| id.) Est 9,1 (||
@@ -38,6 +39,7 @@ Est 4,8 (comparer
 Est 3,14 ;
 Est 8,13).
 
+@@SPLIT:sense@@
 2.
 loi, valide et applicable en permanence, וְיִכָּתֵב בְּדָתֵי פָּרַסוּֿמָדַי וְלֹא יַעֲבוֺר
 

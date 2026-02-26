@@ -9,6 +9,7 @@ Nb 4,10 + 5 t. ;
 suffixe מֹטֵ֫הוּ
 Na 1,13 —
 
+@@SPLIT:sense@@
 1.
 un ébranlement ; vacillement (avec négation, de la sécurité) לַצַּדִּיק לֹאיִֿתֵּן
 ׳
@@ -21,11 +22,13 @@ Ps 66,9,
 comparer Ps 121,3
 .
 
+@@SPLIT:sense@@
 2.
 barre ou perche pour porter (nommée d'après le mouvement oscillant) Nb 4,10 ; Nb 4,12 comparer
 surtout Nb
 13,23.
 
+@@SPLIT:sense@@
 3.
 barre du joug Na 1,13 (אֶשְׁבֹּר מֹטֵהוּ מֵעָלַיַךְ), figuré de
 l'oppression. comparer ce qui suit.

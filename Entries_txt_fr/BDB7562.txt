@@ -16,6 +16,7 @@ féminin pluriel קְרֹבוֺת
 Ez 22,5, etc. ;
 — proche (souvent opposé à רָחוֺק) :
 
+@@SPLIT:sense@@
 1. d'une ville Gn 19,20 (+ לָנוּס שָׁ֫מָּה), Jr 48,24, ׳
 הַקּ
 Dt 21,3
@@ -24,6 +25,7 @@ contigu, כֶּרֶם
 1 R 21,2 (+
 אֵצֶל בֵּיתִי).
 
+@@SPLIT:sense@@
 2. d'une personne :
 
 a. + אֶל personne Gn 45,10 ; Dt 13,8 ; Dt 22,2 ;
@@ -133,6 +135,7 @@ Dt 30,14 prière, + ׳
 1 R 8,59
 .
 
+@@SPLIT:sense@@
 3. du temps : יוֺם אֵידָם
 ׳
 ק

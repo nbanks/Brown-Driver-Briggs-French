@@ -10,6 +10,7 @@ rabû
 [placeholder4933: Placeholders/4933.gif],
 [placeholder4934: Placeholders/4934.gif], tous croître, augmenter) ; —
 
+@@SPLIT:stem@@
 Qal_59_, Parfait 3 féminin singulier רָֽבְתָה
 1 S 14,30 2
 masculin singulier וְרָבִ֫יתָ consécutif Dt 30,16 3 pluriel רָבוּ
@@ -132,6 +133,7 @@ Jb 39,4
 . (2) de la gloire Ps 49,17, de la connaissance Dn 12,4. — 2 Ch 24,27 voir
 ci-dessus
 
+@@SPLIT:stem@@
 Pi`el,
 agrandir, accroître ; — Impératif masculin singulier
 רַבֶּה
@@ -152,6 +154,7 @@ Bae) ; = élever, nourrir (des enfants)
 Lm 2,22
 (+ טפּח), des petits Ez 19,2 (en figuré).
 
+@@SPLIT:stem@@
 Hiphil_162_
 Parfait 3 masculin singulier הִרְבָּה
 Os 8,11

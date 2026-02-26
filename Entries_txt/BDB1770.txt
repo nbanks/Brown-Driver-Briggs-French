@@ -4,6 +4,8 @@ Biblical Hebrew
 גֵּרְשֹׁם
 proper name, masculine
 
+@@SPLIT:sense@@
+
 1. son of Moses & Sipporah Exod 2:22 (explanation as if from גור) = Exod 18:3
 גֵּרְשׁוֺם
 1Chr 23:15;
@@ -19,10 +21,14 @@ Judg 18:30
 VB
 .
 
+@@SPLIT:sense@@
+
 2. a son of Levi גֵּרְשֹׁם
 1Chr 6:1; 1Chr 6:28; 1Chr 15:7 (compare
 גֵּרְשׁוֺן); גֵּרְשׁוֺם
 1Chr 6:2; 1Chr 6:5; 1Chr 6:47; 1Chr 6:56.
+
+@@SPLIT:sense@@
 
 3. a son of Phinehas Ezra 8:2.
 

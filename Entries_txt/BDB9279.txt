@@ -10,6 +10,8 @@ id. [rare]; compare Arabic
 [placeholder5892: Placeholders/5892.gif]
 kindle, burn); —
 
+@@SPLIT:stem@@
+
 Pe`al
 Infinitive
 לְמֵזֵא (§ 11, 3 b)) Dan 3:19 (ל accusative), suffix לְמֵזְיֵהּ v

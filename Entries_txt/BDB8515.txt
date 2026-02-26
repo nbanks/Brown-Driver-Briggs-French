@@ -4,9 +4,13 @@ Biblical Hebrew
 [תְּשׁוּבָה] noun feminine
 return, answer; —
 
+@@SPLIT:sense@@
+
 1. suffix וּתְשֻׁבָתוֺ הָרָמָ֫תָה
 1Sam 7:17
 and his return was (=he returned) to Rama.
+
+@@SPLIT:sense@@
 
 2. especially construct לִתְשׁוּבַת
 הַשָּׁנָה
@@ -16,6 +20,8 @@ at the return of the year, i.e. of spring, 2Sam 11:1; 1Kgs 20:22; 1Kgs 20:26; 2C
 לְעֵת תְּשׁ
 1Chr 20:1 (||
 2Sam 11:1).
+
+@@SPLIT:sense@@
 
 3.
 answer, plural absolute תְּשֻׁבֹת

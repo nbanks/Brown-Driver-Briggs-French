@@ -4,6 +4,8 @@ Biblical Aramaic
 [קְרָא] verb
 call, read out, aloud (see Biblical Hebrew I. קרא); —
 
+@@SPLIT:stem@@
+
 Pe`al
 Imperfect 3 masculine singular יִקְרֵה
 Dan 5:7, 1 singular
@@ -32,12 +34,16 @@ Dan 5:16;
 Dan 5:17 (
 ל person).
 
+@@SPLIT:stem@@
+
 Pe`îl (W^CG 225^)
 Perfect 3 masculine singular קֱרִי
 Ezra 4:18
 ; Ezra 4:23
 
 it was read, קֳדָם person
+
+@@SPLIT:stem@@
 
 Hithpe`el
 be summoned, Imperfect 3 masculine singular יִתְקְרֵי

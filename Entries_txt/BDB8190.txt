@@ -4,6 +4,8 @@ Biblical Hebrew
 [שׂוּר] verb
 saw (|| form of נָשַׂר; denominative from מַשּׁוֺר?); —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 3 masculine singular וַיָּשַׂר
 1Chr 20:3 (but

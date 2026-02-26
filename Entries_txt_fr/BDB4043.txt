@@ -17,6 +17,7 @@ Rt 1,7,
 כַּלּוֺתֵיהֶם
 Os 4,13 ; Os 4,14 —
 
+@@SPLIT:sense@@
 1.
 belle-fille, par rapport au père du mari Gn 38,11 ; Gn 38,16 ; Gn 38,24 (
 J
@@ -32,6 +33,7 @@ H
 Rt 1,6 ; Rt 1,7
 ; Rt 1,8 ; Rt 1,22 ; Rt 2,20 ; Rt 2,22 ; Rt 4,15.
 
+@@SPLIT:sense@@
 2.
 fiancée, habituellement
 

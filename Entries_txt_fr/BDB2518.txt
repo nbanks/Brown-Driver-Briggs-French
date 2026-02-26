@@ -28,6 +28,7 @@ t. ; Ézéchiel
 Qr
 ; —
 
+@@SPLIT:sense@@
 1. adjectif uni
 כְּאִישׁ אֶחָד חֲבֵרִים
 Jg 20,11
@@ -37,6 +38,7 @@ AV
 RV
 ).
 
+@@SPLIT:sense@@
 2.
 nom
 associé, compagnon :
@@ -69,6 +71,7 @@ Pr
 ;
 Ps 119,63.
 
+@@SPLIT:sense@@
 3.
 compagnon à un moment particulier Qo 4,10.
 

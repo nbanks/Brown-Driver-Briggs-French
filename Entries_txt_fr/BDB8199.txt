@@ -7,6 +7,8 @@ rire (|| צהק, q. v. ; hébreu tardif שָׂחַק, סָחַק
 ; éthiopien
 [placeholder5235: Placeholders/5235.gif]) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Parfait 3 masculin singulier ׳
 וְשׂ consécutif Pr 29,9 3 pluriel שָֽׂחֲקוּ
@@ -39,6 +41,8 @@ Qo 3,4 (opposé
 
 2.
 jouer, s'amuser, Jg 16,27.
+
+@@SPLIT:stem@@
 
 Pi`el
 Parfait 1 singulier וְשִׂחַקְתִּ֫י
@@ -89,6 +93,8 @@ Jr 31,4
 de jeux d'enfants Za 8,5 de bêtes Jb 40,20 ; Ps 104,25 de
 l'homme, jouer
 avec (ב) le crocodile Jb 40,29.
+
+@@SPLIT:stem@@
 
 Hiph`il (déclaratif) Participe pluriel מַשְׂחִיקִים
 2 Ch

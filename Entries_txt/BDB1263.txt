@@ -5,6 +5,8 @@ Biblical Hebrew
 verb
 swell —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 feminine singular בָּעֵ֑קָה
 Deut 8:4 3 plural

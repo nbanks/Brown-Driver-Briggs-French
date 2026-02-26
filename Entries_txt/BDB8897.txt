@@ -10,6 +10,8 @@ spoil, plunder (rarer synonym of שׁלל, בזז; with this √ WMM^As.u.Eur.13
 ]; connection doubted by Jen^ZA x (1895), 331^);
 —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 plural שָׁ֫סוּ לָ֫מוֺ
 Ps 44:11
@@ -38,6 +40,8 @@ Jer 50:11
 passive
 עַםבָּֿזוּז וְשָׁסוּי
 Isa 42:22.
+
+@@SPLIT:stem@@
 
 Po`. = Qal
 Perfect 1 singular שׁוֺשֵׂתִי (Ges

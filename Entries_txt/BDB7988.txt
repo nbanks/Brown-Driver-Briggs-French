@@ -11,6 +11,8 @@ Gen 12:10 +;
 suffix רְעָבָם
 Neh 9:15
 
+@@SPLIT:sense@@
+
 1.
 famine (in land, nation or city), Gen 12:10; Gen 26:1; Gen 41:30; Gen 41:31; Exod 16:3; 2Sam 21:1; 2Sam 24:13 = 2Kgs 4:38; 2Kgs 6:25 +;
 ׳
@@ -66,6 +68,8 @@ Jer 21:7; Jer 21:9; Ezek 5:2; Ezek 6:11;
 Ezek 6:12 +,
 etc.; figurative of lack of ׳
 י's word Amos 8:11.
+
+@@SPLIT:sense@@
 
 2.
 hunger, of individual Jer 32:9; Deut 28:48 (+ צָמָא, etc.), 2Chr 32:11 (+

@@ -61,6 +61,8 @@ Lev 12:7 + 2 t.;
 Lev 20:11 + 5
 t.; —
 
+@@SPLIT:sense@@
+
 1.
 blood of man or animal, = the life (נֶפֶשׁ) Gen 9:4 (
 P
@@ -86,6 +88,8 @@ H
 Deut 12:23; Deut 15:23; 1Sam 14:32; 1Sam 14:33; 1Sam 14:34; Ezek 33:25 (compare RS^K 310^
 ), but to be poured out & covered with dust Lev 17:13
 (compare RS^Semitic i. 216 f.^).
+
+@@SPLIT:sense@@
 
 2. usually blood become visible,
 
@@ -603,6 +607,8 @@ compare
 2Kgs 3:23
 .
 
+@@SPLIT:sense@@
+
 3. blood used with religious significance,
 
 a. blood of passover-lamb
@@ -769,6 +775,8 @@ Lev 14:25; Lev 14:28 (see
 Ps 16:4
 (see
 Che).
+
+@@SPLIT:sense@@
 
 4.
 figurative of wine דַּםעֲֿנָבִים

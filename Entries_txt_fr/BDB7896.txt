@@ -9,6 +9,8 @@ mettre en pièces (comparer
 
 רְטַשׁ rejeter, repousser ; mais peut-être apparenté à לָטַשׁ) ; —
 
+@@SPLIT:stem@@
+
 Pi`el
 Imparfait 2 masculin singulier תְּרַטֵּשׁ
 2 R 8,12
@@ -17,6 +19,8 @@ leurs enfants tu mettras en pièces ; 3 féminin pluriel קְשָׁתוֺת
 Es 13,18,
 mais probablement corrompu, Du conjecture נְעָרוֺת תְּרֻטַּשְׁנָה
 comparer Che.
+
+@@SPLIT:stem@@
 
 Poual
 Parfait 3 féminin singulier אֵם עַלֿ

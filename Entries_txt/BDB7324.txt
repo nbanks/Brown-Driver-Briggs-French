@@ -7,6 +7,8 @@ denominative
 be set apart, consecrated (Gerber^238 ff.^);
 —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular ׳
 ק
@@ -46,6 +48,8 @@ P
 
 3.
 consecrated, tabooed (above) Deut 22:9 (law against mixtures).
+
+@@SPLIT:stem@@
 
 Niph`al
 Perfect. 3 masculine singular נִקְדַּשׁ
@@ -92,6 +96,8 @@ be consecrated, dedicated, by ׳
 Exod 29:43 (
 P
 ).
+
+@@SPLIT:stem@@
 
 Pi`el
 Perfect 3 masculine singular קִדַּשׁ
@@ -224,6 +230,8 @@ Lev 21:23; Lev
 H
 ), Ezek 20:12; Ezek 37:28.
 
+@@SPLIT:stem@@
+
 Pu`al
 Participle
 מְקֻדָּשׁ
@@ -235,6 +243,8 @@ things 2Chr
 31:6, feasts
 Ezra 3:5, warriors Isa
 13:3.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 masculine singular הִקְדִּישׁ
@@ -308,6 +318,8 @@ consecrate by purification: vessels 2Chr 29:19 persons for
 Passover
 2Chr 30:17 guests for sacrificial feast Zeph
 1:7 (God subject).
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Perfect, 1 singular הִתְקַדִּשְׁתִּי

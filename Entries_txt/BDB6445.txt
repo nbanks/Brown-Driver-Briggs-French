@@ -14,6 +14,8 @@ Hom^Chrest. 48^; Ethiopic
 
 I. as cardinal:
 
+@@SPLIT:sense@@
+
 1. without other number:
 
 a. usually followed by singular noun (especially
@@ -44,6 +46,8 @@ f. + בָּאַמָּה
 
 Zech 5:12
 .
+
+@@SPLIT:sense@@
 
 2. + other number:
 
@@ -98,6 +102,8 @@ noun + 100 + 20 1Chr
 
 II. as ordinal:
 
+@@SPLIT:sense@@
+
 1. 20 alone, ׳
 בִּשְׁנַת ע
 in the twentieth year
@@ -106,6 +112,8 @@ in the twentieth year
 noun omitted
 Num 10:11
 + 3 t.
+
+@@SPLIT:sense@@
 
 2.
 

@@ -4,6 +4,7 @@ araméen biblique
 [חֲשַׁב] verbe
 penser, estimer (voir hébreu biblique) ; —
 
+@@SPLIT:stem@@
 Pe`al
 Participe
 passif pluriel כְּלָה חֲשִׁיבִון

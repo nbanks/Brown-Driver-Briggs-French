@@ -13,6 +13,7 @@ Es 60,10,
 רְצֹנוֺ
 Dn 8,4 +, etc. ; —
 
+@@SPLIT:sense@@
 1.
 bienveillance, faveur :
 
@@ -40,6 +41,7 @@ b. des hommes : en général Pr 10,32 ; Pr 11,27 ; Pr 14,9 des rois Pr 14,35
 ; Pr
 16,15 ; Pr 19,12.
 
+@@SPLIT:sense@@
 2.
 agrément, de personnes, offrande de sacrifice, לרצון לפני יהוה
 Ex 28,38
@@ -64,6 +66,7 @@ Es 60,7 (lire
 לְ, ainsi Manuscrits, voir Gi, aussi Du), רצון
 Ml 2,13.
 
+@@SPLIT:sense@@
 3.
 volonté, désir, bon plaisir :
 

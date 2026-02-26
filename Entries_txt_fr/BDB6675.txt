@@ -4,6 +4,7 @@ hébreu biblique
 פֶּ֫לֶת
 nom propre, masculin
 
+@@SPLIT:sense@@
 1.
 Rubénite
 Nb 16,1,
@@ -12,6 +13,7 @@ Nb 16,1,
 (q. v.) ainsi Gf
 Dr et autres
 
+@@SPLIT:sense@@
 2. Judéen 1 Ch 2,33 : Θαλεθ, Φαλεθ[ατ].
 
 ---

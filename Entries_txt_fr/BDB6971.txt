@@ -12,10 +12,12 @@ Ez 12,13 ;
 Ez 17,20 ;
 —
 
+@@SPLIT:sense@@
 1.
 filet, en figure du jugement de ׳
 י, Ez 12,13 ; Ez 17,20 (tous deux || רֶשֶׁת), Ps 66,11.
 
+@@SPLIT:sense@@
 2.
 proie
 Ez 13,21

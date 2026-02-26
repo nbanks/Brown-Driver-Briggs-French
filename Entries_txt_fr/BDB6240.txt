@@ -4,10 +4,14 @@ hébreu biblique
 עָנֵר
 nom propre
 
+@@SPLIT:sense@@
+
 1. apparemment masculin
 allié d'Abram
 Gn 14,13 ; Gn 14,24,
 Αυναν ; comparer אֶשְׁכּוֺל, מַמְרֵא.
+
+@@SPLIT:sense@@
 
 2. lieu en Manassé
 1 Ch 6,55

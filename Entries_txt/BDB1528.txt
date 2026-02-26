@@ -6,6 +6,8 @@ proper name (Arabic
 [placeholder823: Placeholders/823.gif]
 wall); —
 
+@@SPLIT:sense@@
+
 1.
 proper name [of a location]
 city of Judah
@@ -18,6 +20,8 @@ also הַגְּדוֺר
 d. H.; הַגְּדוּד
 Baer, compare his note.
 
+@@SPLIT:sense@@
+
 2.
 proper name [of a location]
 גְּדֹר
@@ -29,6 +33,8 @@ read Gerar, according to
 Ew
 Hi
 Be and others
+
+@@SPLIT:sense@@
 
 3.
 proper name, masculine

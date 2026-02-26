@@ -9,6 +9,7 @@ arabe
 [placeholder4268: Placeholders/4268.gif]
 id. ; ancien araméen ; פעל ; syriaque dans les espèces dérivées et dérivés) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier Dt 32,27 +, פָ֫עַל אֵל
 Nb 23,23, 2

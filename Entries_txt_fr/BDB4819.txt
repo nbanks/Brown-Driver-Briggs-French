@@ -4,6 +4,7 @@ hébreu biblique
 מְרֵמוֺת
 nom propre, masculin
 
+@@SPLIT:sense@@
 1.
 prêtre, temps de Zorobabel
 Ne 12,3 (=
@@ -16,12 +17,14 @@ L
 
 Μαρειμωθ.
 
+@@SPLIT:sense@@
 2. prêtre, temps d'Esdras et de Néhémie, Esd 8,33 ; Ne 3,4 ; Ne 3,21 ; Ne 10,6 (probablement le même).
 
 ᵐ5
 
 Μερειμωθ, Μεραμωθ, etc.
 
+@@SPLIT:sense@@
 3. un de ceux qui avaient pris des femmes étrangères Esd 10,36.
 
 ᵐ5

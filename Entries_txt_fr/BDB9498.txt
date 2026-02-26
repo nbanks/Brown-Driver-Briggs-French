@@ -8,6 +8,7 @@ lever, élever (
 
 syriaque ; comparer hébreu biblique (tardif ; rare)) ; —
 
+@@SPLIT:stem@@
 Pe`al
 Participe passif
 וּזְקִיף יִתְמְחֵא עֲל֑וֺהִי

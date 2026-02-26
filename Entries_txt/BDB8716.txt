@@ -4,13 +4,19 @@ Biblical Hebrew
 מִשְׁלוֺחַ
 noun [masculine]
 
+@@SPLIT:sense@@
+
 1.
 outstretching;
+
+@@SPLIT:sense@@
 
 2.
 sending;
 — ׳
 מ only construct:
+
+@@SPLIT:sense@@
 
 1.
 יָדָם
@@ -21,6 +27,8 @@ and Moab are the outstretching of their hand (that of which they take possession
 
 Qal
 3).
+
+@@SPLIT:sense@@
 
 2.
 מִשְׁלֹחַ מָנוֺת אִישׁ לְרֵעֵהוּ

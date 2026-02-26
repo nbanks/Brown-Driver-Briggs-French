@@ -4,6 +4,7 @@ hébreu biblique
 שִׂפַּח
 verbe
 
+@@SPLIT:stem@@
 Pi`el
 dénominatif
 causer une croûte sur, frapper de teigne (שׂ substantif pour ס) ; —

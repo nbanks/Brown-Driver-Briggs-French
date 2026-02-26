@@ -11,6 +11,7 @@ nom masculin^
 Es 65,10
 ^ plaine, niveau ; —
 
+@@SPLIT:sense@@
 1.
 ׳
 הַשּׁ (avec article), nom de la plaine maritime sur la Méditerranée, de Joppé vers le nord, réputée pour sa
@@ -47,6 +48,7 @@ Ges^12 after^
 GASm^Geogr. 147 ss.^
 Buhl^Geogr. § 65.^
 
+@@SPLIT:sense@@
 2.
 מִגְרְשֵׁי
 שָׁרוֺן, région à l'est du Jourdain 1 Ch 5,16 (|| גִּלְעָד, בָּשָׁן ;

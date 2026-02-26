@@ -17,6 +17,7 @@ sabot,
 פַּרְסָה
 ci-dessous) ; comparer Nö^ZA i.417 s.^) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 pluriel וּפָֽרְשׂוּ
 Mi 3,3
@@ -40,6 +41,7 @@ Vulgate Gf) ; Participe
 Lm 4,4 (accusatif
 לֶחֶם omis).
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 féminin singulier הִפְרִיסָה
 Lv 11,6, etc. ;

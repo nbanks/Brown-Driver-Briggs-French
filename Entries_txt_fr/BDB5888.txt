@@ -11,6 +11,7 @@ Jr 25,30 +,
 suffixe מְעוֺנֶ֑ךָ
 Ps 91,9, etc. ; —
 
+@@SPLIT:sense@@
 1.
 tanière de chacals Jr 9,10 ; Jr 10,22 ; Jr 49,33 ; Jr 51,37 (tous de villes dévastées) ;
 אֲרָיוֺת
@@ -19,6 +20,7 @@ tanière de chacals Jr 9,10 ; Jr 10,22 ; Jr 49,33 ; Jr 51,37 (tous de villes dé
 Na 2,12 (||
 מִרְעֶה ; figuré de Ninive).
 
+@@SPLIT:sense@@
 2.
 demeure de ׳
 י :
@@ -39,6 +41,7 @@ Ps 26,8,
 2 Ch 36,15
 (seulement ici seul).
 
+@@SPLIT:sense@@
 3.
 figuré de ׳
 י comme demeure de son peuple, ׳

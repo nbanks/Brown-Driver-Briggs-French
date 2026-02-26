@@ -3,6 +3,8 @@ Biblical Hebrew
 
 [עָבַת] verb
 
+@@SPLIT:stem@@
+
 Pi`el
 wind, weave (compare derivatives); — Imperfect 3 masculine plural suffix
 וַיְעַבְּתוּהָ

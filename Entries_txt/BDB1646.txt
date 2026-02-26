@@ -11,6 +11,8 @@ rota,
 [placeholder915: Placeholders/915.gif]
 fluctus, etc.) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 1 singular גַּלּוֺתִי
 Josh 5:9,
@@ -59,6 +61,8 @@ Ps 37:5, compare
 Ps 22:9; Prov 16:3 (both
 followed by אֶלֿ).
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect
 וְנָגֹלּוּ consecutive Isa 34:4
@@ -70,6 +74,7 @@ and the heavens shall roll up like a book; יִגַּל כַּמַּיִם מִ�
 Amos 5:24
 let judgement roll along (flow down) as the waters.
 
+@@SPLIT:stem@@
 Pilpel
 Perfect
 וְגִלְגַּלְתִּיךָ consecutive Jer 51:25
@@ -77,12 +82,16 @@ and I will roll thee down from (מִן) the rocks (subject ׳
 
 י; object Babylon under figure of mountain)
 
+@@SPLIT:stem@@
+
 Po`al
 Participle
 שִׂמְלָה
 מְגוֺלָלָה בְדָמִים
 Isa 9:4
 garment rolled (dabbled, rolled over and over) in blood.
+
+@@SPLIT:stem@@
 
 Hithpo`el
 Infinitive
@@ -105,12 +114,16 @@ to roll himself upon us, i.e. assail us with overwhelming force (||
 וּלְהִתְנַפֵּל
 עָלֵינוּ).
 
+@@SPLIT:stem@@
+
 Hithpalpel
 Perfect
 הִתְגַּלְגָּ֑לוּ
 Job
 30:14 (absolute; || כְּפֶרֶץ רָחָב יֶאֱתָ֑יוּ) compare Hithpo`el Gen 43:8
 .
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imperfect

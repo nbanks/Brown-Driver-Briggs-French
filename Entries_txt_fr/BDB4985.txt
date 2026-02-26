@@ -19,6 +19,7 @@ Dl^HWB 448^ ; araméen נְדַב
 incitation, instigation
 DHM^Sendsch. 60^) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier נָדַב
 Ex 35,29 3
@@ -33,6 +34,7 @@ Ex 35,21 (tous
 P
 ).
 
+@@SPLIT:stem@@
 Hithpa`el
 Parfait 1 singulier הִתְנַדַּבְתִּי
 1 Ch 29,27

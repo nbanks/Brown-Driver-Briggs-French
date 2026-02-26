@@ -30,6 +30,7 @@ Lv 6,5 + 4 t. ; suffixe
 Gn 4,4 (חלביהן
 Samaritain Di, comparer Lv 8,16 ; Lv 8,25 ci-dessus) ; —
 
+@@SPLIT:sense@@
 1.
 graisse du corps humain Jg 3,22 (couvrant les intestins) ; גִּבּוֺרִים
 ׳
@@ -60,6 +61,7 @@ Bae et d'autres) ; ׳
 Ps 119,70
 c.-à-d. leur cœur est aussi insensible que la graisse du diaphragme qui l'entoure.
 
+@@SPLIT:sense@@
 2.
 graisse des bêtes :
 
@@ -112,6 +114,7 @@ J
 8 t. Lévitique ;
 1 R 8,64 (deux fois dans le verset) ; 2 Ch 7,7 (deux fois dans le verset) ; 2 Ch 29,35 ; 2 Ch 35,14.
 
+@@SPLIT:sense@@
 3.
 le meilleur, la meilleure part des produits de la terre Gn 45,18 (
 E

@@ -10,6 +10,7 @@ Reckend^ZMG, 1888, 397^ ; arabe
 [placeholder1700: Placeholders/1700.gif]
 astronome, astrologue) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 ׳

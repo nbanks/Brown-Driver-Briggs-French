@@ -12,6 +12,7 @@ phénicien (punique) שמן
 huile, ainsi palmyrénien שמנא
 Lzb^378^ ; sur la relation des sens Frä^147^) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 2 masculin singulier שָׁמַ֫נְתָּ
 Dt 32,15 et
@@ -20,6 +21,7 @@ sous la figure d'une bête grasse ; ainsi Parfait 3 pluriel שָֽׁמְנוּ
 Jr 5,28 (des
 méchants).
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait 3 masculin pluriel וַיַשְׁמִינוּ
 Ne 9,25 furent

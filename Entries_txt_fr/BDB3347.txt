@@ -16,6 +16,7 @@ pluriel טְמֵאִים
 Lv 11,8 + 10 t. ; —
 impur,
 
+@@SPLIT:sense@@
 1. éthiquement et religieusement שׂפתים
 ׳
 ט
@@ -28,6 +29,7 @@ souillé de nom, infâme ; ׳
 טהור מִטּ
 Jb 14,4.
 
+@@SPLIT:sense@@
 2. rituellement :
 
 a. de personnes, || טהור
@@ -121,6 +123,7 @@ des
 
 (|| עָרֵל), peut-être aussi Es 35,8.
 
+@@SPLIT:sense@@
 3. spécifiquement de lieux : ׳
 מקום ט
 lieu impur (lieu de rebut éloigné du lieu saint et de l'habitation humaine) Lv 14,40 ;

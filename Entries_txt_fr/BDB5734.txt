@@ -34,6 +34,7 @@ Gerber^Verb. Denom. 14 ss.^ pense que être esclave, servir (Qal) et
 réduire en esclavage (Hiph`il) sont dénominatifs, comparer aussi Nö^ZMG xl
 (1886), 741^) ; —
 
+@@SPLIT:stem@@
 Qal_272_
 Parfait 3 masculin singulier ׳
 ע
@@ -299,6 +300,7 @@ accusatif omis Nb 4,24 ; Nb 4,26 ; Nb 4,37 ; Nb 4,41 ; Nb 8,15 (mais
 
 עבדה), Nb 8,25 ; Nb 18,7.
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 masculin singulier נֶעְבָּ֑ד
 Qo 5,8 2
@@ -320,6 +322,7 @@ cultivé (Hi) ; un roi qui se fait
 serviteur du champ (voué à l'agriculture), De^voir
 Commentaires^, surtout De.
 
+@@SPLIT:stem@@
 Pu`al
 Parfait 3 masculin singulier עֻבַּד
 Dt 21,3
@@ -331,6 +334,7 @@ fait travailler les captifs
 Es 14,3
 .
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 masculin singulier הֶעֱבִיד
 
@@ -384,6 +388,7 @@ Hiph`il vers la fin).
 faire servir Dieu 2 Ch 34,33
 .
 
+@@SPLIT:stem@@
 Hoph`al
 Imparfait 2 masculin singulier suffixe תָּֽעָבְדֵם
 

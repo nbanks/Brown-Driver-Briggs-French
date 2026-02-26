@@ -64,6 +64,8 @@ plural pronoun Num
 27:14; 2Kgs
 2:21 +; compare suffix Josh 4:18 before plural verb Gen 1:9; Gen 1:20; Gen 1:21; Gen 7:17 + often; after plural verb Josh 3:13; Isa 28:17; Prov 9:17; Ezek 31:4 +; rarely with singular verb; before, Gen 9:15; Lev 11:34; Num 20:2; Num 24:7; Num 33:14; 2Kgs 3:9 after, Num 19:13; Num 19:20); —
 
+@@SPLIT:sense@@
+
 1.
 
 a.
@@ -193,6 +195,8 @@ i. primÊval deep Gen 1:2; Gen 1:6 (
 P
 ).
 
+@@SPLIT:sense@@
+
 2. with proper names, of location (q. v.), to denote springs, streams, or seas belonging to, near,
 such places: מֵימֵי מִצְרַיִם
 Exod 7:19; Exod 8:2
@@ -222,6 +226,8 @@ Isa 8:6
 compare also proper name, of a location מִשְׂרְפוֺת מַיִם
 Josh 11:8;
 Josh 13:6.
+
+@@SPLIT:sense@@
 
 3. special uses are: מֵי רַגְלַיִם
 water of the feet = urine 2Kgs 18:27 = Isa 36:12 compare מַדְמֵנָה בְּמֵי
@@ -269,6 +275,8 @@ and (figurative) Jer
 2:13; Jer
 17:13. See also below (compare Num 21:17; Num 21:18 see RS^Sem.i.127.157; 2nd
 ed.135,176^).
+
+@@SPLIT:sense@@
 
 4. among figurative uses are:
 

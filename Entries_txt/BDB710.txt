@@ -4,9 +4,13 @@ Biblical Hebrew
 [אֶ֫רֶב] אָ֑רֶב
 noun [masculine] —
 
+@@SPLIT:sense@@
+
 1.
 a lying-in-wait
 Job 38:40.
+
+@@SPLIT:sense@@
 
 2.
 covert, lair

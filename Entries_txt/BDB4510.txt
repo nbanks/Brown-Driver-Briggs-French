@@ -12,6 +12,8 @@ madâdu
 , measure; Jewish-Aramaic noun מִידָּה
 measure, proportion, rule); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 ׳
@@ -67,6 +69,8 @@ P
 figurative of measuring waters Isa 40:12 (of ׳
 י); of requital Isa 65:7.
 
+@@SPLIT:stem@@
+
 Niph`al
 Imperfect
 יִמַּד
@@ -74,6 +78,8 @@ Hos 2:1; Jer 33:22
 יִמַּדּוּ
 Jer 31:37
 — be measured, of sand of sea Hos 2:1; Jer 33:22 of heavens Jer 31:37.
+
+@@SPLIT:stem@@
 
 Pi`el
 Perfect
@@ -96,6 +102,8 @@ Job 7:4.
 measure, measure off, בַחֶבֶל, of apportioning Moabites to death and
 life, followed by suffix 2Sam 8:2 also object חֲבָלִים 2Sam 8:2 metaphor of
 conquest, followed by accusative, Ps 60:8 = Ps 108:8 (|| חִלֵּק).
+
+@@SPLIT:stem@@
 
 Po.
 Imperfect
@@ -126,6 +134,8 @@ Or and others (from √ [מוֺד =] מוֺט
 , but read then rather וַיְמֹטֵט, although מוט not
 elsewhere in this conjugation; We, plausibly,
 וַיְמֹגֵג √ מוג, compare Nah 1:5).
+
+@@SPLIT:stem@@
 
 Hithpo`el
 וַיִּתְמֹדֵד followed by עַלהַֿיֶ֫לֶד; 1Kgs 17:21

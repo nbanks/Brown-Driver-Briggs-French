@@ -7,15 +7,18 @@ Gn 27,16 ; Pr 6,24 pluriel
 חֲלָקוֺת
 Ps 12,3 + 3 t. ; —
 
+@@SPLIT:sense@@
 1.
 douceur, partie lisse
 חֶלְקַת צַוָּארָיו
 Gn 27,16.
 
+@@SPLIT:sense@@
 2. pluriel endroits glissants
 Ps 73,18
 figuré de la situation des méchants.
 
+@@SPLIT:sense@@
 3.
 douceur = flatterie
 ׳

@@ -16,11 +16,13 @@ Ez 29,3 ; Ez 32,2 (par
 confusion avec le pluriel de [תַּן]) ; pluriel תַּנִּינַם
 Gn 1,21, etc. ; —
 
+@@SPLIT:sense@@
 1.
 serpent, Dt 32,33 (venimeux), Ps 91,13 (|| פֶּתֶן), Ex 7,9 ; Ex 7,10 ; Ex 7,12 (
 P
 ).
 
+@@SPLIT:sense@@
 2.
 dragon, en tant que dévoreur (comparaison) Jr 51,34
 ׳
@@ -28,6 +30,7 @@ dragon, en tant que dévoreur (comparaison) Jr 51,34
 Ne 2,13, près de
 Jérusalem
 
+@@SPLIT:sense@@
 3.
 monstre marin (ou fluvial), Gn 1,21 (
 P

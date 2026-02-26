@@ -37,6 +37,8 @@ suffix אֲבוֺתַי (אֲבֹתַי, אֲבוֺתָ֑י) Gen 47:9 + 15 t.; �
 Exod 4:5 + 106 t. etc.;
 —
 
+@@SPLIT:sense@@
+
 1.
 father of individual
 Gen 2:24 (+
@@ -130,6 +132,8 @@ etc. Hence metaphor of intimate connection
 Job 17:14
 to corruption I cry, My father art thou (|| אִמִּי וַאֲחֹתִי לָֽרִמָּה).
 
+@@SPLIT:sense@@
+
 2. of God as father of his people (see
 RS^Sem 42^), who constituted, controls, guides and lovingly watches over it: Deut 32:6; Jer 3:4; Jer 3:19; Jer 31:9; Isa 63:16
 (twice in verse); Isa
@@ -148,6 +152,8 @@ father of Davidic line
 2Sam 7:14; Ps 89:27
 f. of needy (late) Ps 68:6 (compare Ps 103:13) (in proper name, f. of individual,
 compare below)
+
+@@SPLIT:sense@@
 
 3.
 head of household, family or clan; בֵּית אָבִי as abode Gen 38:11 (twice in verse);
@@ -175,6 +181,8 @@ in Hexateuch); also 1Chr 5:13; 1Chr 5:15 + often in Chronicles; compare רָאש
 ׳
 ר)
 Exod 6:25 compare 1Kgs 8:1; 1Chr 6:4; 1Chr 7:11 + often Chronicles Ezra Nehemiah.
+
+@@SPLIT:sense@@
 
 4.
 ancestor
@@ -246,13 +254,19 @@ near the end read וּבְמַלְכְּכֶם
 We
 Dr.
 
+@@SPLIT:sense@@
+
 5.
 originator or patron of a class, profession, or art Gen 4:20; Gen 4:21.
+
+@@SPLIT:sense@@
 
 6.
 figurative of producer, generator
 Job 38:28
 הֲיֵשׁ לַמָּטָר אָ֑ב (|| הוֺלִיד אֶגְלֵיטָֽֿל׃ מִיֿ).
+
+@@SPLIT:sense@@
 
 7.
 figurative of benevolence & protection Job 29:6
@@ -267,6 +281,8 @@ Di) — others divider of spoil (Abarb Hi
 Kn
 Kue
 Br^MP^).
+
+@@SPLIT:sense@@
 
 8. term of respect & honour (Abbas,
 Pater, Papa, Pope); applied to master 2Kgs 5:13 priest Judg 17:10; Judg 18:19 prophet 2Kgs 2:12 (twice in verse); 2Kgs 6:21; 2Kgs 13:14 (twice in verse);
@@ -288,6 +304,8 @@ king 1Sam 24:12
 artificer 2Chr 2:12
 ; 2Chr 4:16
 .
+
+@@SPLIT:sense@@
 
 9. specifically, ruler, chief (late) 1Chr 2:24; 1Chr 2:42 (twice in verse); etc. (compare Ew^§ 273 b^) see also Ew^Geschichte. i. 524. H i. 365^. On the
 force of אָב in proper names (in many probably a divine title), see Che^Ency. Bib., ABI, NAMES

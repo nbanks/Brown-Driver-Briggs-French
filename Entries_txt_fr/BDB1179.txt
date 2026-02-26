@@ -34,6 +34,7 @@ Gn 34,21
 Dt 12,31 +,
 etc. ; —
 
+@@SPLIT:sense@@
 1.
 fille, enfant de sexe féminin, née d'une femme Gn 30,21 ; Gn 34,1 ; Ex 1,16 ; Ex 1,22 ; Ex 21,4 ; Lv 12,6 ; Os 1,6 comparer Gn 20,12 ; Lv 18,9 ; Dt 27,22 + ; engendrée par un homme
 Gn 5,4 ; Gn 5,7 ; Gn 5,10 ; Gn 11,11 ;
@@ -230,6 +231,7 @@ Jg 14,3
 Ez 13,17
 . — בֵּתצִֿיּוֺן etc. voir ci-dessous 3 ci-dessous
 
+@@SPLIT:sense@@
 2.
 jeunes femmes, femmes
 Gn 30,13
@@ -251,6 +253,7 @@ aussi
 Dn 11,17
 .
 
+@@SPLIT:sense@@
 3. avec nom de ville, pays ou peuple, personnification poétique de cette ville ou de ses habitants, etc. :
 בַּתצִֿיּוֺן
 Es 1,8 ; Es 10,32 ;
@@ -359,6 +362,7 @@ V:55 ;
 V:57 ; V:57 ;
 Ez 23,2.
 
+@@SPLIT:sense@@
 4. pluriel = villages, après un nom de ville, וּבְחֶשְׁבּוֺן
 וּבְכָלבְּֿנֹתֶיהָ
 Nb 21,25
@@ -391,6 +395,7 @@ sa variante par rapport au ||
 8,1 voir We
 Dr.
 
+@@SPLIT:sense@@
 5. dans des expressions dénotant le caractère, la qualité, etc., בַּתאֵֿל נֵכָר
 fille d'un dieu étranger, c.-à-d. (femme ou peuple) idolâtre Ml 2,11
 בַּתגְּֿדוּר
@@ -403,6 +408,7 @@ les filles du chant, c.-à-d. les chants, notes mélodieuses ; בַּתבְּֿ�
 בְּלִיַּעַל
 ci-dessous בלה.
 
+@@SPLIT:sense@@
 6.
 בַּת יַעֲנָה = autruche
 Lv 11,16 =
@@ -423,6 +429,7 @@ comparer
 éthiopien
 [placeholder631: Placeholders/631.gif] voir aussi אישׁוֺן
 
+@@SPLIT:sense@@
 7.
 figuré
 לַעֲלוּקָה שְׁתֵּי בָנוֺת
@@ -432,11 +439,13 @@ deux filles (c.-à-d. le Shéol et le sein stérile,
 comparer
 les commentaires)
 
+@@SPLIT:sense@@
 8. de la vigne = branche
 בָּנוֺת צָֽעֲרָה עֲלֵישֿׁוּר
 Gn 49,22
 comparer Di et v: ci-dessous בֵּן.
 
+@@SPLIT:sense@@
 9. comme nom relatif (tous
 P
 ), de l'âge d'une femme בַּתתִּֿשְׁעִים שָׁנָה

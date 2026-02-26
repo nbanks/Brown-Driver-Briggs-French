@@ -7,6 +7,7 @@ séduire, Hiph, Niph`al ; araméen נְדַח (rare) = hébreu biblique ; éthio
 [placeholder3188: Placeholders/3188.gif] ; pousser ; arabe
 [placeholder3189: Placeholders/3189.gif] est pousser un navire vers le rivage) ; —
 
+@@SPLIT:stem@@
 Qal
 Imparfait
 יִדַּח
@@ -24,6 +25,7 @@ repousser, bannir suivi de מִןֿ
 2 S 14,14
 .
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 féminin singulier נִדְּחָה
 Jb 6,13,
@@ -107,6 +109,7 @@ Dt 4,19
 ;
 Dt 30,17 (suivi de וְהִשְׁתַּחֲוָה).
 
+@@SPLIT:stem@@
 Pu`al
 Participe
 אֲקֵלָה מְנֻדָּח
@@ -114,6 +117,7 @@ Es 8,22
 
 poussé dans les ténèbres.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait
 וְהִדִּיחַ consécutif 2 S 15,14
@@ -189,6 +193,7 @@ voir
 contraindre, forcer, sujet l'adultère (par flatterie), suivi d'accusatif Pr
 7,21 (|| הִטָּה).
 
+@@SPLIT:stem@@
 Hoph`al
 Participe
 מֻדָּח

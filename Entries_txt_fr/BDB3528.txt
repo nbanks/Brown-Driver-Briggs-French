@@ -5,6 +5,7 @@ hébreu biblique
 être bon, bien, joyeux, agréable (araméen יְטַב Zinjirli יטב
 DHM^Sendsch. 57^) —
 
+@@SPLIT:stem@@
 Qal (Parfait non en usage, voir
 טוֺב
 
@@ -82,6 +83,7 @@ P
 ; Ne 2,6 ;
 Est 5,14.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait
 הֵיטִיב

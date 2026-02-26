@@ -6,13 +6,16 @@ nom masculin^
 Es 30,28
 ^ :
 
+@@SPLIT:sense@@
 1.
 licou ;
 
+@@SPLIT:sense@@
 2.
 mâchoire ( ?) ;
 —
 
+@@SPLIT:sense@@
 1. absolu ׳
 ר
 Ps 32,9
@@ -27,6 +30,7 @@ Es 30,28
 Jb 30,11,
 c.-à-d. ont rejeté toute retenue.
 
+@@SPLIT:sense@@
 2. suffixe כֶּפֶל רִסְנוֺ
 Jb 41,5
 le double de sa mâchoire, ses doubles mâchoires (du crocodile), si vera 1. ; lien entre les sens

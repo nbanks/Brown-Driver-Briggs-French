@@ -15,6 +15,7 @@ serviteur de l'homme, אֱדֹם = אָדָם, ce qui est considéré possible p
 Nö^ZMG xlii (1888), 470^
 Buhl^Edomiter 49^) ; —
 
+@@SPLIT:sense@@
 1. le Gittite qui abrita l'arche 2 S 6,10 ; 2 S 6,11 (deux fois dans le verset) ; 2 S 6,12 (deux fois dans le verset) = 1 Ch 13,13 ; 1 Ch 13,14
 (deux fois dans le verset),
 1 Ch 15,25
@@ -30,6 +31,7 @@ L
 
 Αβεδδαδαν.
 
+@@SPLIT:sense@@
 2. (= 1 ?) un des principaux chantres et portiers lévitiques 1 Ch 15,18 ; 1 Ch 15,21 ;
 1 Ch 15,24 ;
 1 Ch 16,5 ; 1 Ch 16,38
@@ -48,6 +50,7 @@ L
 
 Αβεδδομ.
 
+@@SPLIT:sense@@
 3. la famille du même 2 Ch 25,24 (absent du || 2 R 14,14).
 
 ---

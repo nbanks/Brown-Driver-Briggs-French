@@ -13,6 +13,8 @@ dual אָזְנַיִם (נָ֑יִם) Deut 29:3 +; construct אָזְנֵי
 Gen 23:10 +;
 suffix אָזְנַי (נָֿ֑י) Num 14:28 +; (never with article). —
 
+@@SPLIT:sense@@
+
 1.
 ear, as part of body; of human being, as bearing earring Gen 35:4; Exod 32:2; Exod 32:3 (all
 J
@@ -29,6 +31,8 @@ tip of ear) Lev 8:23; Lev 8:24; Lev 14:14; Lev 14:17; Lev 14:25; Lev 14:28 cut o
 אָהֳלִיבָה
 q. v.); ear of dog Prov 26:17
 מַחֲזִיק בְּאָזְנֵיכָּֿ֑לֶב; of sheep Amos 3:12 (fragment rescued from lion).
+
+@@SPLIT:sense@@
 
 2. especially as organ of hearing,
 
@@ -214,6 +218,8 @@ compare Isa 59:1
 ל
 ׳
 אַלתַּֿעְלֵם א.
+
+@@SPLIT:sense@@
 
 3.
 ׳

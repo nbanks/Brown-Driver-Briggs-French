@@ -3,10 +3,14 @@ Biblical Hebrew
 
 [דַּבֶּ֫שֶׁת]
 
+@@SPLIT:sense@@
+
 1.
 noun feminine
 hump (of camel) (etymology?) construct Isa 30:6
 עלדַּֿבֶּשֶׁת גְּמַלִּים.
+
+@@SPLIT:sense@@
 
 2.
 proper name [of a location]

@@ -11,6 +11,7 @@ Baal a délivré, et חלץ seul ; arabe
 [placeholder1783: Placeholders/1783.gif]
 se retirer, se replier) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 Os 5,6
@@ -30,6 +31,7 @@ sortir, présenter le sein, d'un animal allaitant Lm 4,3.
 2. intransitif se retirer (lui-même) suivi de מִן
 Os 5,6.
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 être délivré
@@ -42,6 +44,7 @@ Pr 11,9
 Ps 60,7 = Ps 108,7 (
 Ges^«GKC:51»§ 51^. 2. R. 2).
 
+@@SPLIT:stem@@
 Pi`el
 Parfait
 חִלֵּץ

@@ -27,6 +27,7 @@ VB
 Che ; possible serait יִדָּכֶה Niph`al (||
 יָשֹׁחַ et ונפל).
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 וְנִדְכֵּ֫יתִי
@@ -38,6 +39,7 @@ Ps 51,19
 ) ; être contrit (לֵב נִדְכֶּה) Ps 51,19 (|| נִשְׁבָּר
 ).
 
+@@SPLIT:stem@@
 Pi`el
 Parfait
 דִּכִּיתָ

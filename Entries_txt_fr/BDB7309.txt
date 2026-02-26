@@ -13,6 +13,8 @@ Ez 11,1 +,
 קָדִ֫מָה
 Ez 48,4 + ; —
 
+@@SPLIT:sense@@
+
 1. (en dehors d'Ézéchiel) est, surtout ׳
 רוּחַ (הַ)קּ
 vent de l'est, vent d'est, souvent violent et brûlant, venant du désert au sud-est, =
@@ -52,6 +54,8 @@ We
 Now
 Da, GASm propose
 מַקְדִּים (voir aussi [מְגַמָּה] p. 169 ci-dessus).
+
+@@SPLIT:sense@@
 
 2. dans Ézéchiel (52 t.) :
 

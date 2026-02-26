@@ -12,11 +12,13 @@ futur (comme préparé) ; arabe
 
 dans les espèces dérivées et les dérivés) ; —
 
+@@SPLIT:stem@@
 Pi`el
 Impératif masculin singulier suffixe וְעַתְּדָהּ
 Pr 24,27
 et prépare-le c.-à-d. ton travail (|| הָכֵן).
 
+@@SPLIT:stem@@
 Hithpa`el
 Parfait 3 pluriel הִתְעַתְּדוּ לִגַלִּים
 Jb 15,28

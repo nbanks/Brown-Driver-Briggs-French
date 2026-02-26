@@ -10,6 +10,8 @@ particle [of negation], not, except (compare בְּלִי, אֶפֶס
 Ges^«GKC:90»§ 90^, 3), (Phoenician בלת
 only: Tabnith-Inscription^5^) —
 
+@@SPLIT:sense@@
+
 1.
 adverb
 not, with an adjective 1Sam 20:26
@@ -19,6 +21,8 @@ not clean, with a substantive Isa 14:6
 stroke, with a finite verb (si vera lectio) Ezek 13:3 (
 RVm
 : but see Dr^§ 41 Obs^.).
+
+@@SPLIT:sense@@
 
 2. after a preceding negation, not = except (synonym זוּלָתִי
 
@@ -37,6 +41,8 @@ Gen 28:17; Neh 2:2). With suffix
 except me Hos 13:4, בִּלְתֶּ֑ךָ
 expect thee 1Sam 2:2.
 
+@@SPLIT:sense@@
+
 3.
 conjunction (likewise after a negative, expressed or implied) Gen 43:3
 בִּלְתִּי אֲחִיכֶם אִתְּכֶם
@@ -52,6 +58,8 @@ only, nothing but, Hi
 certainly, Drechsler (on Isa 10:4) nay, even (compare
 RV
 ).
+
+@@SPLIT:sense@@
 
 4. With prepositions
 

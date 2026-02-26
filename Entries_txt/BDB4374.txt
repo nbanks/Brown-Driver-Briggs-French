@@ -9,6 +9,8 @@ ff.^; according to Thes kindred with
 לַיְלָה
 (q. v. infra), with change of ל and ן) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 לָן
@@ -128,11 +130,15 @@ Jer 4:14
 Prov 19:23
 he shall continue satisfied.
 
+@@SPLIT:stem@@
+
 Hiph`il
 Imperfect
 יָלִין
 cause to rest, lodge, followed by accusative, 2Sam 17:8 see
 Kö^i. 509.^
+
+@@SPLIT:stem@@
 
 Hithpalpel
 Imperfect

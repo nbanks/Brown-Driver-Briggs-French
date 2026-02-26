@@ -16,6 +16,8 @@ come to an end, cease (
 [placeholder3558: Placeholders/3558.gif], Late Hebrew סוֺף
 end); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 plural סָ֑פוּ
 Ps 73:19,
@@ -29,6 +31,8 @@ Amos 3:15; Isa 66:17; Ps 73:19 (+
 תַּמּוּ), וְזִכְרָם לֹאיָֿסוּף
 מִזַּרְעָם
 Esth 9:28.
+
+@@SPLIT:stem@@
 
 Hiph`il
 make an end of, only (if text correct) Imperfect 1 singular (+Infinitive

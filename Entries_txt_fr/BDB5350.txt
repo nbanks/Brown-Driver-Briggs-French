@@ -23,6 +23,7 @@ sagacité, etc. ;
 [placeholder3420: Placeholders/3420.gif]
 chef, dirigeant (celui qui scrute)) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 féminin singulier suffixe נְקָבָהּ
 2 R 18,21 ;
@@ -62,6 +63,7 @@ J
 Niph`al) ; participe passif noté, distingué
 Am 6,1.
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 pluriel dans l'expression (אֲשֶׁר) נִקְּבוּ בְשֵׁמוֺת
 qui furent pointés, désignés, par leur nom

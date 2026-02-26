@@ -31,6 +31,7 @@ Qo 11,6 + ;
 etc. ; pluriel suffixe זַרְעֵיכֶם
 1 S 8,15 —
 
+@@SPLIT:sense@@
 1. littéral :
 
 a. des semailles
@@ -62,6 +63,7 @@ H
 ; || דַּיִשׁ, בָּצִיר ; — comparer Am 9,13 ci-dessous 2
 .a.).
 
+@@SPLIT:sense@@
 2.
 semence :
 
@@ -223,6 +225,7 @@ Es 55,10
 
 Am 9,13.
 
+@@SPLIT:sense@@
 3.
 semence = semen virile, וְנִזְרְעָה זָ֑רַע
 Nb 5,28,
@@ -269,6 +272,7 @@ Jr 31,27
 זָרַע
 q. v. 3.b.).
 
+@@SPLIT:sense@@
 4.
 semence = descendance :
 
@@ -563,6 +567,7 @@ Es
 59,21 des Juifs (יהודים) Est 9,27 ; Est 9,28 ; Est
 9,31.
 
+@@SPLIT:sense@@
 5.
 semence comme marquée par une qualité morale = personnes (ou communauté) de telle qualité ; transition vers
 ceci

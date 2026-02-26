@@ -16,6 +16,7 @@ Ez 38,13,
 etc. ; pluriel suffixe קְהָלֶיךָ
 Ez 38,7 —
 
+@@SPLIT:sense@@
 1.
 assemblée spécialement convoquée :
 
@@ -89,6 +90,7 @@ Ps 22,26
 ; Ps
 22,23.
 
+@@SPLIT:sense@@
 2.
 congrégation, comme corps organisé :
 

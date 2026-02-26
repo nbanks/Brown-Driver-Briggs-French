@@ -3,6 +3,7 @@ hébreu biblique
 
 [קָבַל] verbe
 
+@@SPLIT:stem@@
 Pi`el
 recevoir, prendre (tardif) (emprunt araméen (et en araméen dénominatif) Gerber^32^, comparer araméen (לִ)קְבֵיל
 en face,
@@ -62,6 +63,7 @@ accusatif omis Est 4,4.
 accepter, assumer, une obligation, suivi d'une proposition, Est 9,23, suivi d'infinitif Est 9,27
 (+ עַל réfléchi).
 
+@@SPLIT:stem@@
 Hiph`il
 Participe féminin pluriel מַקְבִּילֹת
 montrer la correspondance, c.-à-d. correspondre, l'un à (אֶל) l'autre Ex 26,5 ; Ex 36,12

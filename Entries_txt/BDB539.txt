@@ -8,6 +8,8 @@ firmness, faithfulness, truth (contracted for אֱמֶנֶת from אָמֵן
 + 106 t.; suffix אֲמִתּוֺ, אֲמִתְּךָ
 Ps 91:4 + 18 t.
 
+@@SPLIT:sense@@
+
 1.
 reliability, sureness:
 דֶּרֶח אֱמֶת
@@ -28,6 +30,8 @@ J
 ); זֶרַע אמת
 Jer 2:21.
 
+@@SPLIT:sense@@
+
 2.
 stability, continuance:
 שָׁלוֺם וֶאֱמֶת
@@ -39,6 +43,8 @@ Isa 39:8 (=
 ; Zech 8:19
 , compare שׁלום אמת
 Jer 14:13.
+
+@@SPLIT:sense@@
 
 3.
 faithfulness, reliableness:
@@ -137,6 +143,8 @@ Jer 4:2 &
 salvation Ps
 69:14.
 
+@@SPLIT:sense@@
+
 4.
 truth
 
@@ -231,6 +239,8 @@ knowledge Dan 8:12
 
 להשׂכיל באמתך
 Dan 9:13.
+
+@@SPLIT:sense@@
 
 5.
 adverb

@@ -9,10 +9,14 @@ briser en morceaux ; syriaque
 [placeholder4282: Placeholders/4282.gif]
 écraser) ; —
 
+@@SPLIT:stem@@
+
 Po`.
 Imparfait 3 masculin singulier יְפֹצֵץ סָ֑לַע
 Jr 23,29 un
 marteau qui fracasse le rocher.
+
+@@SPLIT:stem@@
 
 Hithpo`el
 Imparfait 3 masculin pluriel וַיִּתְפִּצְצוּ

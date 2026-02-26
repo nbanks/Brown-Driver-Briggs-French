@@ -19,9 +19,11 @@ Nb 31,6 ; 2 Ch 13,12
 Nb 10,2
 clairon :
 
+@@SPLIT:sense@@
 1. comme instrument profane Os 5,8 (|| שׁוֺפָר) 2 R 11,14 (deux fois dans le verset) = 2 Ch 23,13
 (deux fois dans le verset).
 
+@@SPLIT:sense@@
 2. comme instrument sacré 2 R 12,14, surtout pour usage par les prêtres (seulement
 P
 , Ps 98

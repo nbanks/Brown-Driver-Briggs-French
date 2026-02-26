@@ -4,11 +4,13 @@ araméen biblique
 [מְלָא] verbe
 remplir (voir hébreu biblique) ; —
 
+@@SPLIT:stem@@
 Pe`al
 Parfait 3 féminin singulier מְלַאת
 Dn 2,35 (avec
 accusatif).
 
+@@SPLIT:stem@@
 Hithpe`el
 Parfait 3 masculin singulier הִתְמְלִי חֱמָא
 Dn 3,19

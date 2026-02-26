@@ -52,6 +52,8 @@ speak; Hebrew דִּבֶּר etc. Synonym of אָמַר
 say, as Aramaic מַלֵּל with אֲמַר; Greek λαλεῖν,
 λέγειν; Lat loqui, dicere; German reden, sagen) —
 
+@@SPLIT:stem@@
+
 Qal_41_ only infinitive (once ?) & participle: Infinitive suffix
 בְּדָבְרֶ֑ךָ (by attraction to בְּשָׁפְטֶ֑ךָ for usual Piel) Ps 51:6
 Participle
@@ -121,6 +123,8 @@ the angel that spake with me (as a prophet, an instrument of communicating with 
 preposition בְּ III. 2
 Ew^§ 217 f.^ (3)).
 
+@@SPLIT:stem@@
+
 Niph`al_4_
 Perfect
 נִדְבְּרוּ
@@ -142,6 +146,8 @@ Mal 3:13 (
 RV
 
 against, see Ew^§ 217 i^.)
+
+@@SPLIT:stem@@
 
 Pi`el_1089_
 Perfect
@@ -718,6 +724,8 @@ Rob; but compare
 VB
 . —
 
+@@SPLIT:stem@@
+
 Pu`al
 Imperfect
 בַּיּוֺם שֶׁיְּדֻבַּרבָּֿהּ
@@ -733,6 +741,8 @@ RV
 Pe
 MV
 of thee) Ps 87:3.
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Participle
@@ -761,6 +771,8 @@ Num
 
 ; the meaning not appreciably different from Piel; the Hithpa`el difficult to reconcile
 with אֶל).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imperfect

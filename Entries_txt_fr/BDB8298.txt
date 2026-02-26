@@ -6,7 +6,8 @@ nom féminin [masculin
 Ex 28,32,
 bord, comparer Albr ZAW xvi (1896), 76],
 lèvre, parole, bord ; — absolu
-׳שׂ
+׳
+שׂ
 Gn 11,1 +,
 construit שְׂפַת Gn 11,7 + ; suffixe שְׂפָתוֺ
 1 R 7,23 +,
@@ -22,6 +23,7 @@ etc. ; pluriel (en poésie et tardif) construit שִׂפְתוֺת
 Qo 10,12,
 suffixe שִׂפְתוֺתֶיךָ etc. Ps 45,3 ; Ps 59,8 ; Es 59,3 ; Ct 4,3 ; Ct 4,11 ; Ct 5,13 —
 
+@@SPLIT:sense@@
 1.
 lèvre :
 
@@ -34,15 +36,18 @@ P
 ), Jb 13,6
 ; Ml 2,6 ;
 Ps 12,5 ; Pr 5,3 + ;
-׳דַּל שׂ
+׳
+דַּל שׂ
 Ps 141,3
 (voir
 דָּל
 ) ;
-׳אִישׁ שׂ
+׳
+אִישׁ שׂ
 Jb 11,2 = un
 bavard,
-׳אֱוִיל שׂ
+׳
+אֱוִיל שׂ
 Pr 10,8 =
 celui qui parle en insensé, ainsi Pr 10,10 (
 
@@ -53,33 +58,41 @@ Es 6,5 (deux fois dans le
 verset) comparer Es 6,7
 ; Dn
 10,16
-׳עֲרַל שׂ
+׳
+עֲרַל שׂ
 Ex 6,12 ; Ex 6,30 (
 
 P
 ; inhabile dans la parole) ;
-׳עִקֵּשׁ שׂ
+׳
+עִקֵּשׁ שׂ
 Ex 19,1
-׳פֹּתֶה שׂ
+׳
+פֹּתֶה שׂ
 Ex 20,19
 voir [
 פָּתָה
 ] p. 834 ;
-׳מוֺצָא שׂ c.-à-d. énonciation, Dt 23,24 ; Jr 17,16 ; Nb 30,13 (
+׳
+מוֺצָא שׂ c.-à-d. énonciation, Dt 23,24 ; Jr 17,16 ; Nb 30,13 (
 P
 ), Ps
 89,35,
-׳רוּחַ שׂ
+׳
+רוּחַ שׂ
 Es 11,4 (du
 roi messianique),
-׳דְּבַר שׂ
+׳
+דְּבַר שׂ
 Ps 59,13 ;
 Pr 14,23
 +, = simple, vaine, parole 2 R 18,20 = Es 36,5
-׳תְּבוּאַת שׂ
+׳
+תְּבוּאַת שׂ
 Pr 18,20
 ,
-׳נוב שׂ
+׳
+נוב שׂ
 Es 57,19
 (action de grâces), comparer Os 14,3 (
 
@@ -88,70 +101,90 @@ Es 57,19
 ᵑ6
 
 et la plupart פְּדִי pour פָּרִים) ; de la flatterie,
-׳חֵלֶק שׂ
+׳
+חֵלֶק שׂ
 Pr 7,21,
 שְׂפַת חֲלָקוֺת
 Ps 12,3 ; Ps 12,4 comparer
 שִׂפְתֵי מִרְמָה
 Ps 17,1,
 שֶׁקֶר
-׳שׂ
+׳
+שׂ
 Ps 31,9 + 4 t.,
 שְׂפַת אָוֶן
 Pr 17,4
 venin sous (comparer לָשׁוֺן) Ps 140,4 (figuré) ;
-׳פֶּשַׁע שׂ
+׳
+פֶּשַׁע שׂ
 Pr 12,13
 
-׳לְזוּת שׂ
+׳
+לְזוּת שׂ
 Pr 4,24
 אֱמֶת
-׳שׂ
+׳
+שׂ
 Pr 12,19
 , יָ֑תֶר
-׳שׂ
+׳
+שׂ
 Pr 17,7,
 צֶדֶק
-׳שׂ
+׳
+שׂ
 Pr 16,13
 , דַּעַת
-׳שׂ
+׳
+שׂ
 Pr 14,7 ;
 Pr 20,15
 
-׳חֵן שׂ
+׳
+חֵן שׂ
 Pr 22,11
 
 שָׂפָה בְרוּרָה
 So 3,9
 רְנָנוֺת
-׳שׂ
+׳
+שׂ
 Ps 63,5 c.-à-d.
 lèvres qui crient de joie ; avec verbes :
-׳פָּתַח שׂ (pour parler) Jb 11,5 ; Jb 30,20 (Gi Jb 30,21),
+׳
+פָּתַח שׂ (pour parler) Jb 11,5 ; Jb 30,20 (Gi Jb 30,21),
 comparer Ps 51,17
 ,
-׳מִפְתַּח שׂ
+׳
+מִפְתַּח שׂ
 Pr 8,6
-׳פָּשַׁק שׂ
+׳
+פָּשַׁק שׂ
 Pr 13,3
 c.-à-d. bavarder ; מָֽלְאוּ זַעַם
-׳שׂ
+׳
+שׂ
 Es 30,27
-׳שׂ sujet de דִּבֶּר
+׳
+שׂ sujet de דִּבֶּר
 Es 59,3 ; Pr 24,2
-׳נָשָׂא עַלשֿׂ
+׳
+נָשָׂא עַלשֿׂ
 Ps 16,14
-׳קָרַץ שׂ
+׳
+קָרַץ שׂ
 Pr 16,30
 = médire ;
-׳אָטַם שׂ
+׳
+אָטַם שׂ
 Pr 17,28
 = garder le silence, ainsi
-׳חָשַׂךְ שׂ
+׳
+חָשַׂךְ שׂ
 Pr 10,19
 , כָּלָא
-׳שׂ
+׳
+שׂ
 Ps 40,10.
 (2) lèvres remuant dans le discours, avec נוּעַ
 1 S 1,13,
@@ -165,7 +198,8 @@ b. organe du rire Jb 8,21.
 
 c.
 de grimace insultante
-׳הִפְטִיר בְּשׂ
+׳
+הִפְטִיר בְּשׂ
 Ps 22,8.
 
 d. tremblant de terreur Ha 3,16.
@@ -183,11 +217,14 @@ emplacement de la bride
 g. recevant le baiser Pr 24,26 comparer Ct 4,11 et (en figure) Ct 7,10.
 
 h. de la parole divine,
-׳מִצְוַת שׂ
+׳
+מִצְוַת שׂ
 Jb 23,12,
-׳דְּבַר שׂ
+׳
+דְּבַר שׂ
 Ps 17,4.
 
+@@SPLIT:sense@@
 2.
 langue, langage (voir
 לָשׁוֺן
@@ -197,14 +234,17 @@ langue, langage (voir
 (deux fois dans le verset) ; Gn
 11,9 ; Ps
 81,6
-׳עַם עִמְקֵי שׂ
+׳
+עַם עִמְקֵי שׂ
 Ez 3,5 ; Ez 3,6 ; Es 33,19,
-׳לַעֲגֵי שׂ
+׳
+לַעֲגֵי שׂ
 Es 28,11
 שְׂפַת כְּנַעַן
 Es 19,18
 (c.-à-d. l'hébreu).
 
+@@SPLIT:sense@@
 3.
 bord : rivage de la mer Gn 22,17 (
 J
@@ -221,7 +261,8 @@ P
 ) + 6 t. ; du חשֶׁן, vers l'éphod Ex 28,26 = Ex 39,19 (
 P
 ) ; de l'ouverture ronde de la robe (יִהְיֶה) לְפִיו
-׳שׂ
+׳
+שׂ
 Ex 28,32
 = Ex 39,23
 (

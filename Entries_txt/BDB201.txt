@@ -18,6 +18,8 @@ plural אֵילִים (אֵילִם, אֵלִים) Gen 32:15 +; construct אֵי
 Gen 31:38; Isa 60:7. —
 ram,
 
+@@SPLIT:sense@@
+
 1. used as food Gen 31:38 (
 E
 ) Deut 32:14
@@ -30,6 +32,8 @@ E
 Persia Dan 8:3; Dan 8:4; Dan 8:6; Dan 8:7 (4 t. in
 verse); Dan 8:20
 figurative of rich and powerful in Israel Ezek 34:17.
+
+@@SPLIT:sense@@
 
 2. slain in ceremony of ratification of convenant between ׳
 י & Abraham Gen 15:9 (
@@ -116,6 +120,8 @@ Jerusalem 1Chr
 Jer 51:40;
 Ezek 39:18
 .
+
+@@SPLIT:sense@@
 
 3.
 עֹרֹת אֵילִים מְאָדָּמִים

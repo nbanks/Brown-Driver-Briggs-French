@@ -23,6 +23,8 @@ sagacity, etc.;
 [placeholder3420: Placeholders/3420.gif]
 leader, chief (one who scrutinizes)); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 feminine singular suffix נְקָבָהּ
 2Kgs 18:21;
@@ -61,6 +63,8 @@ J
 י subject; compare
 Niph`al); passive participle noted, distinguished
 Amos 6:1.
+
+@@SPLIT:stem@@
 
 Niph`al
 Perfect 3 plural in phrase (אֲשֶׁר) נִקְּבוּ בְשֵׁמוֺת

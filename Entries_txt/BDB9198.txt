@@ -4,6 +4,8 @@ Biblical Hebrew
 II. תָּמָר_25_
 proper name
 
+@@SPLIT:sense@@
+
 1.
 feminine
 
@@ -17,6 +19,8 @@ Absalom 2Sam 13:1
 t. 13, 2Chr 3:9.
 
 c. daughter of Absalom 2Sam 14:27.
+
+@@SPLIT:sense@@
 
 2. location Ezek 47:19; Ezek 48:28; 1Kgs 9:18
 

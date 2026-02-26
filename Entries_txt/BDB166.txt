@@ -11,10 +11,14 @@ t.; plural אֹבוֺת
 Lev 19:31 + 7 t.
 —
 
+@@SPLIT:sense@@
+
 1.
 skin-bottle, only plural אֹבוֺת חֲדָשִׁים
 new (wine-) skins
 Job 32:19.
+
+@@SPLIT:sense@@
 
 2.
 necromancer, in phrase אוֺב אוֺ יִדְּעֹנִי
@@ -50,6 +54,8 @@ instruction, probably ventriloquism, & so
 ) Isa 19:3
 .
 
+@@SPLIT:sense@@
+
 3. ghost, Isa 29:4
 וְהָיָה כְּאוֺב מֵאֶרֶץ קוֺלֵח וּמֵעָפָר
 אִמְרָתֵח תְּצַפְצֵף
@@ -58,6 +64,8 @@ and thy voice shall be as a ghost from the ground and from the dust thy speech s
 Ew
 De
 Che and others, but chirping might be of necromancer, as Isa 8:19).
+
+@@SPLIT:sense@@
 
 4.
 necromancy

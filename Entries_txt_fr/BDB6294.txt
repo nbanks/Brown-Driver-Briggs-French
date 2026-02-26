@@ -23,6 +23,7 @@ Ez 24,4 +,
 suffixe עֲצָמַי
 Gn 2,23 +, etc. ; —
 
+@@SPLIT:sense@@
 1.
 os :
 
@@ -83,6 +84,7 @@ Ex 13,19
 E
 ) +.
 
+@@SPLIT:sense@@
 2.
 os d'animal Ex 12,46 ; Nb 9,12 (tous deux
 P
@@ -91,6 +93,7 @@ Ez
 24,4 ;
 Ez 24,5 (symbolique) ; de l'hippopotame (vivant) Jb 40,18.
 
+@@SPLIT:sense@@
 3. singulier substance, soi-même (comparer גֶּרֶם
 3) : הַשָּׁמַיִם
 ׳

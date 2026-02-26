@@ -12,6 +12,8 @@ deprecation
 or prohibition
 :
 
+@@SPLIT:sense@@
+
 a.
 
 (a) with a verb, which is then always an imperfect
@@ -93,10 +95,14 @@ Ps 121:3 (contrast Ps 121:4
 לֹא)
 Jer 46:6 +.
 
+@@SPLIT:sense@@
+
 b. once Prov 12:28 joined closely to a substantive (compare לֹא
 2.b.) to express with emphasis its negation: In the way of righteousness is
 life, and in the pathway
 therecf אַלמָֿוֶת there is no-death! i.e. immortality.
+
+@@SPLIT:sense@@
 
 c. once Job 24:25 used in poetry as a substantive, And bring my words לְאַל
 to nought! — N.B.

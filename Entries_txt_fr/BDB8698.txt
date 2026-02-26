@@ -6,6 +6,7 @@ hébreu biblique
 adjectif
 tranquille, à l'aise ; —
 
+@@SPLIT:sense@@
 1. de la personne à l'aise, שָׁלֵו
 Jb 16,12,
 שָׁלֵיו
@@ -19,13 +20,16 @@ masculin pluriel construit וְשַׁלְוֵי
 Ps 73,12 (
 Re H. iii. 131 propose יִשְׁלָיוּ עֲוִילִים).
 
+@@SPLIT:sense@@
 2. d'une terre, tranquille, שְׁלֵשׁלֵוָה
 1 Ch 4,40 (||
 שֹׁקֶטֶת).
 
+@@SPLIT:sense@@
 3. dans לֹא יָדַע שָׁלֵו בְּבִטְנוֺ
 Jb 20,20
-׳שׁ est apparemment nom abstrait tranquillité, aise, ainsi Di
+׳
+שׁ est apparemment nom abstrait tranquillité, aise, ainsi Di
 De et autres lisent שַׁלְוָח
 Siegf
 Bu, Du (d'après

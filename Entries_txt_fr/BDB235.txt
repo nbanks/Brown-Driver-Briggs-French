@@ -4,6 +4,7 @@ hébreu biblique
 [אוּץ] verbe
 presser, être pressé, se hâter —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 אָץ
@@ -44,6 +45,7 @@ Jr 17,16
 Pr 29,20 (בִּדְבָרִים) ; comparer aussi Pr 21,5
 וְכָלאָֿץ אַח לְמַחְסוֺר.
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait
 וַיָּאִיצוּ

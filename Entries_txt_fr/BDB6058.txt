@@ -4,6 +4,7 @@ hébreu biblique
 [עָכַס] verbe
 dénominatif
 
+@@SPLIT:stem@@
 Pi`el
 agiter des bracelets de cheville, faire tinter ; — Imparfait 3 féminin pluriel תְּעַכַּסְנָה
 

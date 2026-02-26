@@ -7,6 +7,7 @@ alors (probablement de פּוֺ, une particule à force démonstrative, comparer
 פּוֺ, פֹּה ici, avec א préfixé. Dans les Targs. פּוֺן
 est employé de manière similaire, p. ex. Gn 26,10 ; Nb 11,29 ; Es 1,9 ; Es 48,18 ; Es 48,19), — employé
 
+@@SPLIT:sense@@
 1. en liaison avec des pronoms ou adverbes interrogatifs (comme ἄρα, ποτε
 tandem) : מִי אֵפוֺא
 Gn 27,3 qui,
@@ -19,11 +20,13 @@ Ex 33,16
 Es 22,1
 מַהלָּֿח אֵפוֺא qu'as-tu, je te prie. . . ?
 
+@@SPLIT:sense@@
 2. dans un commandement ou un souhait : 2 R 10,10
 דְּעוּ אֵפוֺא ? sachez, alors ; (dans l'apodose) Pr 6,3 ; Jb 19,6 ; Jb 19,23
 מִיּיִֿתֵּן אֵפוֺ וְיִכָּֽתְבוּן מִלָּי֑ ah, si mes paroles étaient
 écrites !
 
+@@SPLIT:sense@@
 3. après אִם
 Gn 43,11
 אִםכֵּֿן אֵפוֺא זאֹת עֲשׂו s'il en est ainsi, alors, faites ceci, Jb 9,24 sinon alors

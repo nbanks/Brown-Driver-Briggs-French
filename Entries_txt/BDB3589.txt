@@ -14,13 +14,15 @@ Saad
 Gen 28:11 in
 Hebrew usually fix firm so as to found) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 יָסַד
 Ps 104:5; Prov 3:19 suffix
 יְסָדָהּ
 Ps 24:2 + 3 t.; 3
-feminine singular יָסְדָה
+feminine singular יָסְדָה
 Isa 48:13
 יָסַדְתָּ
 Ps 104:8
@@ -72,15 +74,17 @@ Ezra 7:9 emended (see
 ); found, begin, heaps of offerings in ׳
 י's house 2Chr 31:7.
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect 3 plural נוֺסְְדוּ
 Ps 2:2
 Imperfect 2 masculine singular תִּוָּסֵד
 Isa 44:28
 Infinitive
-הִוָּסְדָהּ
+הִוָּסְדָהּ
 Exod 9:18
-הִיָּסְדָם
+הִיָּסְדָם
 Ps 31:14 —
 
 1.
@@ -92,6 +96,8 @@ Ps 2:2; Ps 31:14
 
 2.
 be founded, Isa 44:28 (temple), Exod 9:18 (Egypt).
+
+@@SPLIT:stem@@
 
 Pi`el
 Perfect
@@ -134,6 +140,8 @@ Ps
 9:22 (followed by accusative), Esth 1:8
 (absolute)
 
+@@SPLIT:stem@@
+
 Pu`al
 Perfect, יֻסַּד
 1Kgs
@@ -155,6 +163,8 @@ Zech 8:9
 Participle = substantive foundation 1Kgs 7:10, compare
 מוסד below; pillars set on bases, simile of legs Song 5:15
 .
+
+@@SPLIT:stem@@
 
 Hoph`al
 be founded: Infinitive

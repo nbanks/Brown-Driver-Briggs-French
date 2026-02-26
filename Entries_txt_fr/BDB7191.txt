@@ -7,6 +7,7 @@ cacher, thésauriser (hébreu tardif id. ; Tel Amarna
 ƒapânu
 ; coucher, du soleil) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier ׳
 צ
@@ -80,6 +81,7 @@ personne Pr 1,11
 ; Pr 1,18
 et (des yeux du méchant) Ps 10,8.
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 masculin singulier נִצְפֵּן
 Jr 16,17
@@ -89,6 +91,7 @@ Jb 24,1 +
 מִשַׁדַּי
 emmagasiné de la part de Shaddaï ; emmagasiné pour (ל) quelqu'un Jb 15,20.
 
+@@SPLIT:stem@@
 Hiph`il
 cacher, =
 Qal : Imparfait 2 masculin singulier suffixe תַּצְפִּנֵנִי

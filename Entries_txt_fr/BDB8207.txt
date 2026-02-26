@@ -6,9 +6,11 @@ nom masculin^
 Ps 109,6
 ^
 
+@@SPLIT:sense@@
 1.
 adversaire.
 
+@@SPLIT:sense@@
 2.
 Satan
 (hébreu tardif שָׂטָן, סָטָן ; araméen שָׂטָנָא
@@ -19,6 +21,7 @@ Satan
 Satan, éthiopien
 [placeholder5241: Placeholders/5241.gif] :) ; —
 
+@@SPLIT:sense@@
 1.
 adversaire, en général, personnel ou national ; (ל) ׳
 הָיָה לְשׂ
@@ -46,6 +49,7 @@ E
 הֵקִים שׂ, sujet Dieu 1 R 11,14 ; 1 R 11,23, comparer Ps 109,6 (|| רָשָׁע
 ).
 
+@@SPLIT:sense@@
 2.
 adversaire surhumain, ׳
 הַשּׂ :

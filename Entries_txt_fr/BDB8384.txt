@@ -11,6 +11,8 @@ Es 14,30 ;
 Ez 5,10,
 תוֺ- Es 44,17, תָם- Jr 15,9 —
 
+@@SPLIT:sense@@
+
 1.
 reste, ce qui subsiste, de bois Es 44,17, de terre Es 15,9 (|| פְּלֵיטָה), Jr 47,4 ; Jr 47,5 ; Ez 25,16
 חֵמֹת
@@ -54,6 +56,8 @@ promesse, || עָצוּם comparer Gie^Beiträge, 42f.^
 id.), Mi 2,12 ; Mi 5,6 ; Mi 5,7 ; Mi 7,18 ;
 
 (|| id.), Es 46,3 ; Jr 23,3 ; Jr 31,7 ; So 2,7 ; So 2,9 (|| יֶתֶר), So 3,13 ; Za 8,6 ; Za 8,11 ; Za 8,12.
+
+@@SPLIT:sense@@
 
 2.
 reliquat = descendants ( = שְׁאָר

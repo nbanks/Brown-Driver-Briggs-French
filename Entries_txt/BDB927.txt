@@ -5,6 +5,8 @@ Biblical Hebrew
 denominative
 mend, repair, only
 
+@@SPLIT:stem@@
+
 Qal
 Infinitive construct
 לִבְדוֺק וּלְחַזֵּק הַבָּ֑יִת

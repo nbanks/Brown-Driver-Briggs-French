@@ -7,6 +7,7 @@ décider, juger, prouver, (hébreu tardif Pi`el וִכַּח
 discuter avec (עם), comparer Hithpa`el, Hiph`il prouver, corriger
 ; araméen Pa וַכַּח Aphel אוֺכַח, id.) —
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait
 הוֺכִיחַ
@@ -111,6 +112,7 @@ heureux l'homme que Dieu corrige Jb 5,17 car Dieu l'aime Pr 3,12 on supplie Dieu
 colère Ps 6,2 ;
 Ps 38,2.
 
+@@SPLIT:stem@@
 Hoph`al
 Parfait
 וְהוּכַח בְּמַכְאוֺב
@@ -118,6 +120,7 @@ il est châtié aussi par la douleur
 Jb
 33,19.
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait
 לְכוּנָֿא וְנִוָָּֽכְחָה
@@ -138,6 +141,7 @@ SS lisent וְנֹכַחַתְּ 2 féminin singulier
 Parfait
 et tu es remise dans ton droit, justifiée.
 
+@@SPLIT:stem@@
 Hithpa`el
 Imparfait
 עִםוִֿשְׂרָאֵל יִתְוַכָּח

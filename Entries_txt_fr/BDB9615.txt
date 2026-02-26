@@ -10,9 +10,11 @@ id. ; ancien araméen palmyrénien בנש
 Lzb^298^ ; syriaque
 [placeholder6045: Placeholders/6045.gif] ; voir aussi hébreu biblique [כָּנַס) ; —
 
+@@SPLIT:stem@@
 Pe`al
 Infinitif, לְמִכְנַשׁ, suivi de ל accusatif de personne Dn 3,2.
 
+@@SPLIT:stem@@
 Hithpa`al
 Participe pluriel מִתְכַּנְּשִׁין (étaient) assemblés
 Dn 3,3 ; Dn 3,27.

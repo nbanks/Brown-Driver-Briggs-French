@@ -8,6 +8,8 @@ Judg 9:35 construct
 מַאֲרַב
 Ps 10:8 —
 
+@@SPLIT:sense@@
+
 1.
 
 a.
@@ -17,6 +19,8 @@ b.
 lurking-place
 Ps 10:8 (||
 מִסְתָּרִים).
+
+@@SPLIT:sense@@
 
 2.
 liers-in-wait

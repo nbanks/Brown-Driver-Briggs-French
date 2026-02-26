@@ -27,6 +27,8 @@ Lane^1395^ = שָׁלַל, but
 , siege-wall, Egyptian loan-word from סֹלְלָה according to
 WMM^As.u.Eur.101^); —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect
 וַיָּסֹ֫לּוּ
@@ -64,10 +66,14 @@ lift up (a song) Ps 68:5, with לְ person (|| שׁיר,
 זמּר; most as
 1.).
 
+@@SPLIT:stem@@
+
 Pilpel
 Imperative suffix סַלְסְלֶהָ
 Prov 4:8
 exalt her (i.e. Wisdom), i.e. (compare Toy) esteem highly, prize.
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Participle

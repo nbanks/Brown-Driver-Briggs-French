@@ -13,6 +13,8 @@ for הִזָּה Syriac
 Isa 63:3, also
 prominutt, etc. PS^2291^); —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 3 masculine singular יִזֶּה
 Lev 6:20
@@ -33,6 +35,8 @@ Isa 63:3
 Lev 6:20,
 compare v.Lev 6:20
 (both with עַלֿ of thing).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 masculine singular וְהִזָּת consecutive Lev 4:6 + 12 t.; 2 masculine

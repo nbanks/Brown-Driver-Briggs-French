@@ -20,12 +20,16 @@ overshadow, Aramaic טְלָלָא,
 [placeholder4540: Placeholders/4540.gif]
 shadow); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 plural צָֽלְלוּ שַׁעֲרֵי
 ׳
 יְר
 Neh 13:19
 the gates of Jerusalem grew dark, i.e. evening came on.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Participle

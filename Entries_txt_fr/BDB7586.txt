@@ -20,6 +20,8 @@ rendre chauve (rare) ; araméen קְרַח,
 MI^3.21.24.25^
 nom propre, d'un lieu קרחה) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Imparfait 3 masculin pluriel יִקְרְחוּ קָרְחָה
 בְּראִשָׁם
@@ -34,10 +36,14 @@ Kt
 Mi 1,16
 fais-toi une tonsure… pour.
 
+@@SPLIT:stem@@
+
 Niph`al
 Imparfait 3 masculin singulier יִקָּרֵחַ לָהֶם
 Jr 16,6 on
 ne se rendra pas chauve pour eux.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Parfait 3 pluriel consécutif וְהִקְרִיחוּ אֵלַיִח קָרְחָה
@@ -45,6 +51,8 @@ Ez 27,31
 
 et ils se feront une tonsure (comparer
 Qal >) pour toi.
+
+@@SPLIT:stem@@
 
 Hoph`al
 Participe

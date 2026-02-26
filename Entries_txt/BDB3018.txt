@@ -20,6 +20,8 @@ shy, bashful; Ethiopic
 [placeholder1915: Placeholders/1915.gif]
 be ashamed, blush) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 feminine singular חָֽפְרָה
 Jer 50:12
@@ -47,6 +49,8 @@ so of Babylon Jer
 
 Isa 24:33
 be put to shame (disappointment), of caravans looking for water Job 6:20.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect

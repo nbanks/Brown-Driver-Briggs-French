@@ -36,6 +36,8 @@ GFM) ; suffixes voir ci-dessous (2 + 10 = 12, voir ci-dessous) ; Hexateuque prin
 P
 ; — deux :
 
+@@SPLIT:sense@@
+
 1. pas d'autre nombre :
 
 a. habituellement construit avant nom pluriel (צְמִידִים
@@ -157,6 +159,8 @@ comparer Jr 3,14
 אֶחָד מֵעִיר וּשְׁנַיִם מִמִּשְׁפָּחָה = un petit nombre ; Esd 10,13
 pas pour un ou deux jours (mais pour beaucoup), 2 R 6,10.
 
+@@SPLIT:sense@@
+
 2.
 douze : avec nom masculin
 שְׁנֵים עָשָׂר
@@ -178,6 +182,8 @@ Nb 7,78,
 בִּשְׁתֵּי עֶשְׂרֵה שָׁנָה
 Ez 32,1 +,
 etc.
+
+@@SPLIT:sense@@
 
 3. avec un nombre plus grand : 10 (etc.) + 2, 2 S 8,5 ; Jg 10,3 + 56 t. ; 2 + 10 (etc.) Nb 1,35 (
 P

@@ -6,6 +6,8 @@ verb
 denominative
 be or become king, or queen, reign; —
 
+@@SPLIT:stem@@
+
 Qal_296_
 Perfect
 ׳
@@ -16,7 +18,7 @@ etc.; Imperfect
 Gen 36:32 +; 2
 masculine singular תִּמְלֹךְ
 Gen 37:8 +, (
-הֲִתִמֲלֹךְ
+הֲִתִמֲלֹךְ
 Jer 22:15
 Baer); Imperative
 מְלָךְֿ
@@ -90,6 +92,8 @@ began to reign and reigned
 2Kgs 13:1; 2Kgs 13:10;
 2Kgs 14:23 +.
 
+@@SPLIT:stem@@
+
 Hiph`il
 Perfect
 הִמְלִיךְ
@@ -133,6 +137,8 @@ Judg 9:18; 1Sam 15:35;
 ; 2Kgs
 23:30 (anointing), 2Kgs 23:34; 2Kgs 24:17; 2Chr 1:8; 2Chr 22:1; 2Chr 26:1; 2Chr 33:25; 2Chr 36:1; Esth 2:17 (=
 make queen at coronation); absolute Hos 8:4.
+
+@@SPLIT:stem@@
 
 Hoph`al
 Perfect

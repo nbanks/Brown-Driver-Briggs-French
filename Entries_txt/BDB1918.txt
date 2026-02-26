@@ -4,7 +4,11 @@ Biblical Hebrew
 דָּן
 proper name, masculine (judge) —
 
+@@SPLIT:sense@@
+
 1. son of Jacob and Bilhah Gen 30:6; Gen 35:25; Exod 1:4; Josh 19:47; Judg 18:29; 1Chr 2:2.
+
+@@SPLIT:sense@@
 
 2. the tribe of Dan, מַטֵּה דָן
 Exod 31:6; Exod 35:34; Exod 38:23; Lev 24:11; Num 1:39; Num 13:12; Josh 21:5; Josh 21:23 (all
@@ -40,6 +44,8 @@ P
 ; 1Chr 27:22
 ; 2Chr 2:13
 ; Ezek 48:1; Ezek 48:2; Ezek 48:32.
+
+@@SPLIT:sense@@
 
 3. a city on northern frontier of Israel at one of the sources of the Jordan, originally
 לַיִשׁ

@@ -38,6 +38,7 @@ Berthol Toy) ; suffixe נַפְשׁוֺתָם
 נַפְשֹׁתָם
 Nb 17,3 + : —
 
+@@SPLIT:sense@@
 1. = ce qui respire, la substance ou l'être respirant = ψυχή,
 anima, l'âme, l'être intérieur de l'homme :
 
@@ -92,6 +93,7 @@ Ps 49,16 ; Ps 86,13 ; Ps
 Shéol, Es 38,17 ; Jb 33,18 ; Jb
 33,22 ; Jb 33,28 ; Jb 33,30.
 
+@@SPLIT:sense@@
 2. Le נפשׁ devient un être vivant : par le souffle de Dieu נשׁמת חיים
 
 dans les narines de son בשׂר ; de l'homme Gn 2,7 (
@@ -161,6 +163,7 @@ Gn 19,19 ; Es
 Pr
 3,22.
 
+@@SPLIT:sense@@
 3. Le נפשׁ (sans חיה nom ou verbe) est spécifié :
 
 a. un être vivant dont la vie réside dans le sang [ainsi en arabe
@@ -305,6 +308,7 @@ Pr 19,16
 ;
 Pr 22,5.
 
+@@SPLIT:sense@@
 4. Le נפשׁ comme essence de l'homme représente l'homme lui-même :
 
 a. périphrase du pronom personnel surtout en poésie et discours orné, 70 t. ; (1)
@@ -600,6 +604,7 @@ Nb 6,11 ; Nb 9,10 (tous
 P
 ) ; ailleurs seulement Ag 2,13.
 
+@@SPLIT:sense@@
 5.
 נפשׁ = siège des appétits, à toutes les époques (46 t.) —
 
@@ -659,6 +664,7 @@ Pr
 בַּעַל נֶפֶשׁ ; Qohéleth utilise נפשׁ seulement au sens de a, b, c ; le
 נפשׁ convoite, manque, et est rempli de bonnes choses : Qo 2,24 ; Qo 4,8 ; Qo 6,2 ; Qo 6,3 ; Qo 6,7 ; Qo 6,9 ; Qo 7,28.
 
+@@SPLIT:sense@@
 6. ׳
 נ
 = siège des émotions et des passions (151 t.) —
@@ -896,6 +902,7 @@ D
 ^
 ).
 
+@@SPLIT:sense@@
 7.
 נפשׁ est utilisé occasionnellement pour les actes mentaux + לבב (voir 10) ;
 peut-être
@@ -947,6 +954,7 @@ suivant
 
 ἐπιθυμεῖ = תְּאַוֶּה ; voir 6.a.).
 
+@@SPLIT:sense@@
 8.
 נפשׁ pour les actes de la volonté est douteux : אם ישׁ
 נפשׁכם (את) si c'est votre intention
@@ -980,6 +988,7 @@ Es 42,1
 
 (tous peut-être émotionnels, 6.b., d., g).
 
+@@SPLIT:sense@@
 9.
 נפשׁ = caractère est encore plus douteux : בּוֺ
 ׳
@@ -994,6 +1003,7 @@ son âme n'est pas droite en lui (mais
 Ez 4,14
 mon âme n'a pas été (ou je n'ai pas été, 4.a.) souillée.
 
+@@SPLIT:sense@@
 10.
 ׳
 נ dans

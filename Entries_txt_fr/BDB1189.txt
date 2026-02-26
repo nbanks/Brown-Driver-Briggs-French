@@ -6,6 +6,7 @@ nom propre, masculin (Yah a bâti, comparer יבנאל, sabéen
 בנאל
 DHM^ZMG 1883, 15^) —
 
+@@SPLIT:sense@@
 1. un des capitaines et héros de David, fils de Joïada, בניהו
 2 S 8,18 ; 2 S 23,20 ;
 2 S 23,22 ;
@@ -20,15 +21,18 @@ dans le verset) ; 1 R 2,34
 2 S 20,23 ;
 1 Ch 11,22.
 
+@@SPLIT:sense@@
 2. un des trente de David, בניהו
 2 S 23,30 =
 בניה
 1 Ch 11,31 ;
 1 Ch 27,14.
 
+@@SPLIT:sense@@
 3. un Siméonite, בניה
 1 Ch 4,36.
 
+@@SPLIT:sense@@
 4. lévites,
 
 a.
@@ -46,6 +50,7 @@ c.
 2 Ch 20,14
 .
 
+@@SPLIT:sense@@
 5. Israélites, בניה
 
 a.

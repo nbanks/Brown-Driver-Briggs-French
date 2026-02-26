@@ -47,6 +47,7 @@ Jr 10,2 ; Qo 12,12
 Ez 16,52
 (voir Zerweck^Heb, Präp. Min, 1894^) : —
 
+@@SPLIT:sense@@
 1. avec des verbes exprimant (ou impliquant)
 séparation ou éloignement, que ce soit d'une personne ou d'un lieu, ou dans quelque
 direction, aussi de la culpabilité, de la calamité, etc. : — ainsi
@@ -263,6 +264,7 @@ Ez 40,7
 de toi et en deçà = de ce côté de toi, 1 S 20,22
 מִמְּךָ וָהָֽלְהָא, comparer Nb 32,19 (deux fois dans le verset).
 
+@@SPLIT:sense@@
 2. Hors de, grec ἐκ, latin ex : ainsi
 
 a.
@@ -774,6 +776,7 @@ Jb
 
 Hi.
 
+@@SPLIT:sense@@
 3.
 Partitivement (sens se rattachant à 2.a. (c
 ), ci-dessus) : —
@@ -1004,6 +1007,7 @@ Jr
 
 vers la fin.
 
+@@SPLIT:sense@@
 4. de temps — à savoir
 
 a. comme marquant le
@@ -1140,6 +1144,7 @@ Dt
 , de courte durée Jb 20,5, bientôt Ez 7,8 de près (au sens
 local, 1.c.) Jr 23,23.
 
+@@SPLIT:sense@@
 5. (וְעַד) מִן ֗֗֗ עַד
 de
 . . . jusqu'à : très souvent : —
@@ -1334,6 +1339,7 @@ Ex
 + 4
 t.
 
+@@SPLIT:sense@@
 6. Dans les comparaisons, au-delà de, au-dessus de, d'où en français
 que : ainsi constamment : à savoir
 
@@ -1547,6 +1553,7 @@ trop léger pour que tu sois mon serviteur était-il de relever, etc., Ez 8,17
 de faire etc. (moins que ce que le faire méritait) ? (mais ? lire עֲשׂוֺת
 sur le modèle de 1 R 16,31).
 
+@@SPLIT:sense@@
 7.
 מן est préfixé à un infinitif :
 
@@ -1762,6 +1769,7 @@ Ps 73,20
 כַּחֲלוֺם מֵהָקִיץ
 après le (l')éveil, Jb 20,4.
 
+@@SPLIT:sense@@
 8. Une fois Dt 33,11 comme conjonction devant un verbe fini.
 
 Frappe . . .
@@ -1773,6 +1781,7 @@ de sorte qu'ils ne se relèvent plus, en poésie pour מִקּוּם (7
 מֵאֲשֵׁר
 adverbe et conjonction.
 
+@@SPLIT:sense@@
 9. En composition : —
 
 a.

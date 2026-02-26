@@ -22,6 +22,7 @@ suffixe גִּבּוֺרֶיךָ
 Os 10,13 +
 (variante de lecture suffixes 11 t.) ; —
 
+@@SPLIT:sense@@
 1.
 adjectif
 גִּבּוֺר בַּבְּהֵמָה
@@ -41,6 +42,7 @@ Dn 11,3
 (comparer arabe
 [placeholder798: Placeholders/798.gif]).
 
+@@SPLIT:sense@@
 2.
 nom masculin
 homme fort, vaillant

@@ -7,6 +7,8 @@ weep (Late Hebrew id., Arabic
 [placeholder1165: Placeholders/1165.gif]; Aramaic דְּמַע,
 [placeholder1166: Placeholders/1166.gif]: Assyrian in derivatives, see below),
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 3 feminine singular, and Infinitive absolute, וְדָמֹעַ תִּדְמַע
 וְתֵרֵד עֵינִי דִּמְעָה

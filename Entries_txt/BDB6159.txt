@@ -13,6 +13,8 @@ carry; compare possibly Arabic
 [placeholder3927: Placeholders/3927.gif]
 gravis et obscurus fuit dies (Frey)); —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 3 masculine singular וַיַּעֲמֹס
 Gen 44:13,
@@ -47,6 +49,8 @@ Ps 68:20
 י, for (ל) his people), carry as a load
 Zech 12:3
 (figurative), passive Isa 46:1 (literal), Isa 46:3 (figurative).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 masculine singular הֶעְמִיס

@@ -9,6 +9,7 @@ id. ; araméen חֲפַר,
 [placeholder1910: Placeholders/1910.gif], id. ; hébreu tardif חֵפֶר
 action de creuser) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 ׳

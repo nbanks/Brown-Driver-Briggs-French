@@ -11,6 +11,7 @@ verbe
 [placeholder5210: Placeholders/5210.gif], palmyrénien שבע ; le verbe éthiopien de même sens est
 [placeholder5211: Placeholders/5211.gif] :) ; —
 
+@@SPLIT:stem@@
 Qal_79_
 Parfait 3 masculin singulier שָׂבַע
 1 Ch 23,1,
@@ -119,6 +120,7 @@ troubles Ps
 88,4
 , d'opprobre Lm 3,30.
 
+@@SPLIT:stem@@
 Niph`al
 Participe
 נִשְׂבָּע
@@ -126,6 +128,7 @@ rassasié
 Jb 31,31
 .
 
+@@SPLIT:stem@@
 Pi`el
 satisfaire, Imparfait 3 masculin pluriel יְשַׂבִּ֑עוּ
 Ez 7,19
@@ -144,6 +147,7 @@ Ha 3,9, pour
 ton
 arc est rassasié de traits. We juge désespéré.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 masculin singulier הִשְׂבִּיע
 Ps 107,9

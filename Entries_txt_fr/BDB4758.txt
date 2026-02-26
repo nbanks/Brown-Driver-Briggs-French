@@ -9,6 +9,7 @@ Es 10,7 +, pluriel
 מְעַטִּים
 Ps 109,8 ; Qo 5,1 —
 
+@@SPLIT:sense@@
 1.
 
 a.
@@ -120,6 +121,7 @@ Es 29,17
 comparer Ag 2,6 ;
 Jb 24,24.
 
+@@SPLIT:sense@@
 2.
 
 כִּמְעַט

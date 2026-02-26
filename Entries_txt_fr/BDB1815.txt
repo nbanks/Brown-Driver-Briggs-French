@@ -52,6 +52,7 @@ parler ; hébreu דִּבֶּר etc. Synonyme de אָמַר
 dire, comme araméen מַלֵּל avec אֲמַר ; grec λαλεῖν,
 λέγειν ; lat. loqui, dicere ; allemand reden, sagen) —
 
+@@SPLIT:stem@@
 Qal_41_ seulement infinitif (une fois ?) et participe : Infinitif suffixe
 בְּדָבְרֶ֑ךָ (par attraction vers בְּשָׁפְטֶ֑ךָ pour le Pi`el habituel) Ps 51,6
 Participe
@@ -121,6 +122,7 @@ l'ange qui parlait avec moi (en tant que prophète, instrument de communication 
 préposition בְּ III. 2
 Ew^§ 217 s.^ (3)).
 
+@@SPLIT:stem@@
 Niphal_4_
 Parfait
 נִדְבְּרוּ
@@ -143,6 +145,7 @@ RV
 
 contre, voir Ew^§ 217 i^.)
 
+@@SPLIT:stem@@
 Pi`el_1089_
 Parfait
 דִּבֶּר
@@ -718,6 +721,7 @@ Rob ; mais comparer
 VB
 . —
 
+@@SPLIT:stem@@
 Pu`al
 Imparfait
 בַּיּוֺם שֶׁיְּדֻבַּרבָּֿהּ
@@ -734,6 +738,7 @@ Pe
 MV
 de toi) Ps 87,3.
 
+@@SPLIT:stem@@
 Hithpa`el
 Participe
 מִדַּבֵּר = מִתְדַּבֵּר avec accusatif מִדַּבֵּר
@@ -762,6 +767,7 @@ Nb
 ; le sens ne diffère pas sensiblement du Pi`el ; le Hithpa`el difficile à concilier
 avec אֶל).
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait
 וַיַּדְבֵּר עַמִּים תַּחְתָּי

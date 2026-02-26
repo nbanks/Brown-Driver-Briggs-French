@@ -13,6 +13,7 @@ cuire la viande, aussi cuire le pain ; éthiopien
 [placeholder2060: Placeholders/2060.gif]
 tuer) —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier suffixe וּטְבָחוֺ consécutif Ex 21,37 3 féminin singulier
 טָֽבְחָה

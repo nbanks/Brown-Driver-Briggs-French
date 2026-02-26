@@ -39,6 +39,7 @@ Jon 2,7,
 Es 15,5 mais
 comparer ci-dessous ; —
 
+@@SPLIT:sense@@
 1.
 
 a.
@@ -76,6 +77,7 @@ Di et autres ׳
 בָּרִיחַ
 ; cependant comparer la note critique de Che
 
+@@SPLIT:sense@@
 2.
 figuré
 בַּרְזָל

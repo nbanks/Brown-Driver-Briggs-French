@@ -44,6 +44,7 @@ dénotant la direction (non proprement le mouvement, comme אֶל) vers,
 ou la référence à ; et donc employée dans de nombreuses applications variées, dans certaines desquelles l'idée de direction
 prédomine, dans d'autres celle de référence (comparer Gies^Die Präp. Lamed, 1876^) : —
 
+@@SPLIT:sense@@
 1. très souvent, avec diverses classes de verbes, à, vers, pour : à savoir
 
 a. verbes de regard, d'écoute, d'attention, d'attente, etc., comme
@@ -367,6 +368,7 @@ l'addition (rare) ; Es 28,10 ; Es 28,13
 אחת לאחת (ajoutant) un à un, Esd 8,24 ; Ne 11,17 (על
 est plus usuel dans ce sens).
 
+@@SPLIT:sense@@
 2. Exprimant la localité, à, près de, idiomatique dans les expressions לִפְנֵי
 = devant (parfois après des verbes de mouvement, comme 1 R 1,23, mais très souvent autrement),
 לְעֵינֵי
@@ -388,6 +390,7 @@ Pr 8,3 ; Os 5,1
 Ez 40,16
 .
 
+@@SPLIT:sense@@
 3. Pour dénoter l'objet d'un verbe —
 
 a. avec le
@@ -516,6 +519,7 @@ Jr 30,17 ;
 Lm 4,4.) comparer
 Ges^«GKC:117n»§ 117n^.
 
+@@SPLIT:sense@@
 4.
 En (εἰς), d'une transition vers un nouvel état ou une nouvelle condition, ou vers un nouveau caractère
 ou
@@ -632,6 +636,7 @@ Ha 2,7 ; Ps 33,12 ; Ps 94,22 ; Ps 132,13 ; Ps 139,22 ; Jb 13,24
 ותחשׁבני
 לאויב לך, Jb 16,12 etc.
 
+@@SPLIT:sense@@
 5.
 En référence à, à savoir
 
@@ -1788,6 +1793,7 @@ Jb
 21,12 ;
 Esd 3,13.
 
+@@SPLIT:sense@@
 6. Du temps :
 
 a.
@@ -1908,6 +1914,7 @@ pour, pendant, Es 63,18
 לַמִּצְעָר (si vera lectio), 2 Ch 11,17
 לשׁנים שׁלושׁ, 2 Ch 29,17.
 
+@@SPLIT:sense@@
 7. Avec un Infinitif (Ges^«GKC:114»§
 114^, 2), ל dénote
 

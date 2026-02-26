@@ -19,6 +19,8 @@ down rain,
 [placeholder2157: Placeholders/2157.gif]
 violent rain) —
 
+@@SPLIT:stem@@
+
 Hiph`il
 Imperfect 3 masculine singular suffix יוֺבִילֵנִי
 Ps 60:11;
@@ -51,6 +53,8 @@ city).
 3.
 lead, conduct, with object as suffix, of returning exiles Jer 31:9 triumphant army,
 followed by accusative of location, Ps 60:11 = Ps 108:11.
+
+@@SPLIT:stem@@
 
 Hoph`al
 Imperfect 3 masculine singular יוּבַל(ֿׅ

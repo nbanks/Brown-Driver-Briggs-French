@@ -21,6 +21,7 @@ Ex 22,20 + 9
 t., גֵּירִים
 2 Ch 2,16 —
 
+@@SPLIT:sense@@
 1.
 étranger résidant, résident temporaire, nouveau venu (sans droits héréditaires), comparer Ex 12,19 ; Lv 24,16 ;
 Nb 15,30 ;
@@ -51,6 +52,7 @@ H
 29,15 ;
 Ps 39,13 (dans tous || תּוֺשָׁב) comparer Ps 119,19.
 
+@@SPLIT:sense@@
 2. habituellement des גֵּרים en Israël 2 S 1,13 (Amalécite) comparer Jos 8,33 ; Jos 8,35 (
 E
 ) Jos 20,9

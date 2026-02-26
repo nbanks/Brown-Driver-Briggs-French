@@ -15,9 +15,13 @@ Obad 1:3 suffix
 זְדֹנְךָ
 1Sam 17:28 —
 
+@@SPLIT:sense@@
+
 1.
 insolence, presumption toward men; affirmed of David by Eliab 1Sam 17:28 (|| רֹעַ
 לְבָבֶ֑ךָ); usually
+
+@@SPLIT:sense@@
 
 2. of presumptuous godlessness (compare זוּד, זֵד), exhibited in
 disobedience to priest or judge Deut 17:12 in false prediction Deut 18:22 in general Prov 11:2 (opposed to צְנוּעִים),

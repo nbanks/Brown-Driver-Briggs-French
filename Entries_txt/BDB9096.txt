@@ -25,6 +25,8 @@ Jer 24:2 suffix
 תְּאֵנֵיכֶם
 Amos 4:9 —
 
+@@SPLIT:sense@@
+
 1.
 fig-tree (ficus carica
 Post^Flora. 730; Hast. DB, under the word^
@@ -59,6 +61,8 @@ Joel 1:7; Joel 1:12;
 Joel 2:22;
 Ps 105:33
 .
+
+@@SPLIT:sense@@
 
 2.
 fig, always plural: Num 13:23 (

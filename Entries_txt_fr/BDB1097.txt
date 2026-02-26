@@ -11,6 +11,7 @@ bakû
 Zim^BP 23, 56^, éthiopien
 [placeholder592: Placeholders/592.gif]) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 ׳
@@ -203,6 +204,7 @@ comme nom propre Jg 2,1
 בֹּכִים
 ci-dessous
 
+@@SPLIT:stem@@
 Pi`el
 Participe féminin singulier מְבַכָּה
 se lamenter

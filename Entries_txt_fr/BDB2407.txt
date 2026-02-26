@@ -12,6 +12,7 @@ effusio seminis virilis, seman effusum, Di^1055^
 ; sur ceci et
 [placeholder1523: Placeholders/1523.gif] (comparer par Ges et autres) voir Prät^BAS i. 32, Anm^.) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 ׳
@@ -210,12 +211,14 @@ Ez 6,9.
 4.
 זונה de défection morale Es 1,21.
 
+@@SPLIT:stem@@
 Pu`al
 Parfait 3 masculin singulier אַהֲרַיִךְ לֹא זוּנָּה
 la fornication n'a pas été commise (en allant) après toi
 Ez 16,34
 (mais supprimer Co).
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 2 masculin singulier הִזְנֵיתָ
 Os 5,3 3

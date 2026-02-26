@@ -13,6 +13,8 @@ Eccl 5:11 plural
 מְתוּקִים
 Ps 19:11 —
 
+@@SPLIT:sense@@
+
 1.
 sweet, of honey Judg 14:14 (where ׳
 מ = substantive a sweet thing), Judg 14:18 (both Samson's riddle), Prov 24:13
@@ -32,6 +34,8 @@ caresses); לְמָ֑ר
 Isa 5:20
 making bitter into sweet and sweet into bitter (obscuring moral distinctions; ||
 הָאֹמְרִים לָרַע טוֺב וְלַטּוֺב רָ֑ע).
+
+@@SPLIT:sense@@
 
 2. = pleasant, sleep of the toiler Eccl 5:11 light Eccl 1:17 (|| טוֺב לַעֵינַיִם
 לִרְאוֺת אֶתהַֿשֶּׁמֶשׁ).

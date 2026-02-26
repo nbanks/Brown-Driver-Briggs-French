@@ -49,6 +49,7 @@ Ne 3,1 ; Ne 3,3 ; Ne 3,6 ; Ne 3,13 ; Ne 3,14 ; Ne 3,15
 דַּלְתוֺתֵיהֶם
 2 Ch 4,9
 
+@@SPLIT:sense@@
 1.
 porte de maison (distinguée de l'embrasure, comparer 1 R 6,31
 פֶּתַח
@@ -77,6 +78,7 @@ ainsi figuré de la maison de la sagesse Pr 8,34
 Ne 6,10 ; Ml 1,10 ainsi du
 temple d'Ézéchiel, Ez 41,23 ; Ez 41,24 (5 t. dans le verset) ; Ez 41,25.
 
+@@SPLIT:sense@@
 2.
 porte de chambre Jg 3,23 ; Jg 3,24 ; Jg 3,25 ; 2 S 13,17 ; 2 S 13,18 ; 2 R 4,33 ; 2 R 9,3 ; 2 R 9,10. surtout portes
 du דביר ou קדשׁים
@@ -92,6 +94,7 @@ Ez 41,23 aussi du parvis עֲזָרָה
 dans le verset), et du portique אוּלָם
 2 Ch 29,7.
 
+@@SPLIT:sense@@
 3.
 portes de ville
 Dt 3,5 ; Jos 6,26
@@ -109,6 +112,7 @@ porte, y compris les montants, l'espace ouvert, etc., tandis que ׳
 ד est la porte battante), Ne 7,3 ; Ne 13,19 (où aussi le sens est plus étroit que || שׁעת) Es 45,1 (||
 שׁערים) comparer Es 45,2 et Ps 107,16 ; Jr 49,31 ; Ez 38,11.
 
+@@SPLIT:sense@@
 4. dans d'autres sens (surtout figuré) : porte (probablement couvercle) de coffre 2 R 12,10
 ouverture du sein Jb
 3,10 (בטני

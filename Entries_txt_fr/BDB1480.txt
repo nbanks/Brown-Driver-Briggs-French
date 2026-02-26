@@ -9,6 +9,7 @@ Gn 35,26 +, ainsi que
 גָּד֑
 Gn 30,11 + ; —
 
+@@SPLIT:sense@@
 1. fils de Jacob et de Zilpa ;
 
 a. strictement comme nom personnel Gn 30,11 ; Gn 35,26 ; Gn 46,16 ; Ex 1,4 comparer Gn 49,19 ; 1 Ch 2,2.
@@ -48,6 +49,7 @@ MI^10^
 אש גד)
 Nb 1,24 + 12 t. Nombres ; Jos 4,12 + 14 t. Josué ; 1 Ch 5,11 ; 1 Ch 12,14.
 
+@@SPLIT:sense@@
 2. un prophète du temps de David, appelé נָבִיא
 1 S 22,5, mais
 הַנָּבִיא חֹזֶה דָוִד

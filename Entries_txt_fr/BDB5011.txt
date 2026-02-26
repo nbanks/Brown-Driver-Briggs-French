@@ -9,6 +9,7 @@ i. 388^ ; arabe
 [placeholder3196: Placeholders/3196.gif] : est recreari, respirare, etc.
 Di^632^) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 וְנָהָה
@@ -19,6 +20,7 @@ Ez 32,18,
 suivi de עַל
 au sujet de, pour.
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait
 וַיִּנָּהוּ

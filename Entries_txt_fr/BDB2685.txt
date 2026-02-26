@@ -7,6 +7,7 @@ force ; — ׳
 ח construit Ex 13,3 + 3 t. ; חָזְקֵנוּ
 Am 6,13 —
 
+@@SPLIT:sense@@
 1. de ׳
 י, יַד
 ׳
@@ -18,6 +19,7 @@ J
 E
 ).
 
+@@SPLIT:sense@@
 2. force nationale Am 6,13 ; Ag 2,22.
 
 ---

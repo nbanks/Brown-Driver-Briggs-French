@@ -5,6 +5,7 @@ hébreu biblique
 [placeholder3010: Placeholders/3010.gif]
 glisser) ; —
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 אִמְרָתֶ֑ךָ מַהנִּֿמְלְצוּ לְחִכִּי

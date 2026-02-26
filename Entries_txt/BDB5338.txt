@@ -10,6 +10,8 @@ sparkle, flash,
 
 נְעָא); —
 
+@@SPLIT:stem@@
+
 Qal
 Participle
 וְנֹצְצִים כְּעֵין נְחשֶׁת

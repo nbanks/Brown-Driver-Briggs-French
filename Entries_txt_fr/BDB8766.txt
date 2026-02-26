@@ -5,6 +5,8 @@ hébreu biblique
 indéclinable
 trente ; —
 
+@@SPLIT:sense@@
+
 1. devant nom singulier : אַמָּה
 Gn 6,15 + 3 t., +,
 avec בָּאַמָּה
@@ -36,6 +38,8 @@ Esd 2,35 ; Ne 7,38
 ׳
 שׁ après les unités Gn 11,12 + 14 t., précède 1 R 22,42 + 29 t. ; ׳
 שׁ après 100 (1000, etc.) Gn 5,5 + 15 t., précède Gn 5,3 + 21 t.
+
+@@SPLIT:sense@@
 
 2. comme ordinal ׳
 וְאַחַת שָׁנְה לְ שָׁנָה לְ (בִּ) שְׁנַת שׁ

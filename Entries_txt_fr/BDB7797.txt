@@ -24,6 +24,7 @@ Br^
 רוח dans l'AT, JBL xix (1900), 132 ss.
 ^, relevé complet de tous les passages) ; —
 
+@@SPLIT:sense@@
 1.
 souffle de la bouche ou des narines (33 t.) :
 
@@ -93,6 +94,7 @@ Ez 37,5, comparer Ez 37,6 Ez 37,8 Ez 37,9 Ez 37,9 Ez 37,9 Ez
 37,10 Ez 37,14
 (souffle ou esprit), Qo 3,19.
 
+@@SPLIT:sense@@
 2.
 vent (117 t.) :
 
@@ -254,6 +256,7 @@ Qo 1,17
 ; Qo
 5,15.
 
+@@SPLIT:sense@@
 3.
 esprit, en tant que ce qui respire rapidement dans l'animation ou l'agitation = tempérament,
 disposition
@@ -482,6 +485,7 @@ Mi
 Za 13,2 (des
 faux prophètes), comparer Ez 13,3.
 
+@@SPLIT:sense@@
 4.
 esprit de l'être vivant et respirant, demeurant dans la בָּשָׂר des hommes
 et
@@ -551,6 +555,7 @@ souffle de vent) : וְרוּחַ עַלפָּֿנַי
 Jb 4,15
 .
 
+@@SPLIT:sense@@
 5.
 esprit comme siège de l'émotion = נֶפֶשׁ :
 
@@ -566,6 +571,7 @@ chagrin, trouble (probablement 3.e.), Jb 7,11 (|| נֶפֶשׁ
 קָשֶׁה
 .
 
+@@SPLIT:sense@@
 6. occasionnellement, (et tardivement) = siège ou organe des actes mentaux, || לֵב, ou
 synonyme avec
 lui : רוּחַ חָכְמָה
@@ -598,6 +604,7 @@ Es 65,17
 +) ;
 1 Ch 28,12.
 
+@@SPLIT:sense@@
 7. rarement de la volonté ; aussi = רוּחַ נָכוֺן לֵב
 Ps 51,12
 (=
@@ -620,6 +627,7 @@ P
 2 Ch
 29,31).
 
+@@SPLIT:sense@@
 8.
 רוּחַ surtout du caractère moral ; aussi = לֵב :
 רוּחַ חֲדָשָׁה
@@ -660,6 +668,7 @@ Pr
 Pr 16,19 ; Pr 29,23 ; Es 57,15
 רוּחַ שְׁפָלִים Es 57,15 (comparer 3.f.).
 
+@@SPLIT:sense@@
 9.
 esprit de Dieu (94 t. ; pas
 D

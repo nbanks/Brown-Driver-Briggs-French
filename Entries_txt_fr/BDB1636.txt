@@ -14,6 +14,7 @@ obducere, velare, et II.
 [placeholder904: Placeholders/904.gif]
 révéler) —
 
+@@SPLIT:stem@@
 Qal_51_
 Parfait
 ׳
@@ -102,6 +103,7 @@ un exilé
 ; 2 R
 24,14 ; Es 49,21 ; Am 6,7.
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 נִגְלָה
@@ -206,6 +208,7 @@ ma demeure est arrachée et retirée loin de moi
 Es
 38,12.
 
+@@SPLIT:stem@@
 Piel_56_
 Parfait
 גִּלָּה
@@ -306,6 +309,7 @@ Ps
 faire connaître au sujet de l'iniquité, du péché Lm 2,14 ; Lm
 4,22.
 
+@@SPLIT:stem@@
 Poual
 Parfait
 גֻּלְּתָה
@@ -318,6 +322,7 @@ réprimande ouverte
 Pr 27,5
 .
 
+@@SPLIT:stem@@
 Hiphil_39_
 Parfait
 הֶגְלָה
@@ -411,6 +416,7 @@ Am 1,6 ;
 Am 5,27
 .
 
+@@SPLIT:stem@@
 Hoph`al
 Parfait
 הָגְלָה
@@ -431,6 +437,7 @@ Participe passif מֻגְלִים
 Jr 40,1
 emmené en exil.
 
+@@SPLIT:stem@@
 Hithpa`el
 
 1.

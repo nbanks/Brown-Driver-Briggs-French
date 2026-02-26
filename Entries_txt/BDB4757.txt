@@ -5,6 +5,8 @@ Biblical Hebrew
 be or become small, diminished, few (Late Hebrew, Talmud, id.; Arabic
 [placeholder3056: Placeholders/3056.gif] is to be without hair on the body) —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect
 יִמְעַט
@@ -30,11 +32,15 @@ Jer 30:19
 diminishes (opposed to יַרְבֶּה); Lev 25:16
 וּלְפִי מְעֹט הַשָּׁנִים according to the fewness of the years.
 
+@@SPLIT:stem@@
+
 Pi`el
 become few (Ges^«GKC:52k»§ 52k^),
 Perfect 3 plural Eccl 12:3
 וּבָֽטְלוּ
 הַטֹּחֲנוֺת כִּי מִעֵ֔טוּ.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 feminine singular consecutive וְהִמְעִ֫יטָה (Ges^«GKC:49k»§ 49k^), Lev 26:22, 1 singular with suffix

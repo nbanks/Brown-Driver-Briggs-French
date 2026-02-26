@@ -7,6 +7,8 @@ examiner, éprouver (comparer araméen בְּחַן, syriaque
 [placeholder556: Placeholders/556.gif] I. VIII. tester, comparer W^SG 65^
 ) —
 
+@@SPLIT:stem@@
+
 Qal
 Parfait suffixe בְּחָנַ֫נִי
 Jb 23,10,
@@ -75,6 +77,8 @@ Ml 3,15.
 
 d. l'oreille éprouvant les paroles Jb 12,11 = Jb 34,3.
 
+@@SPLIT:stem@@
+
 Niph`al
 Imparfait
 יִבָּחֵן
@@ -82,6 +86,8 @@ Jb 34,36
 ; Gn
 42,15 ; Gn
 42,16, être éprouvé, mis à l'épreuve.
+
+@@SPLIT:stem@@
 
 Pu`al
 בֹּחַן

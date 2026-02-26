@@ -4,6 +4,8 @@ araméen biblique
 חֲצַף
 verbe
 
+@@SPLIT:stem@@
+
 Haphel
 montrer de l'insolence, de la dureté (hébreu tardif חצף
 Hiph`il

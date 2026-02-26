@@ -22,6 +22,8 @@ Jr^66^, Syriac
 god, but with various subordinate applications to express idea of might; — hardly ever in prose except with defining
 word (adjective or genitive); its only suffix is יִ֯; —
 
+@@SPLIT:sense@@
+
 1. applied to men of might and rank, אֵל גוים
 mighty one of the nations
 Ezek 31:11
@@ -57,10 +59,14 @@ Exod 15:15
 mighty hero (as above) ordivine hero (as reflecting the divine
 majesty) Isa 9:6.
 
+@@SPLIT:sense@@
+
 2.
 angels, בְּנֵי אֵלִים
 Ps 29:1; Ps 89:7 =
 בְּנֵי הָאֱלֹהִים.
+
+@@SPLIT:sense@@
 
 3.
 gods of the nations, אֵל אֵלִים
@@ -91,6 +97,8 @@ Ps 81:10
 Deut 32:12;
 Mal 2:11; Ps 81:10.
 
+@@SPLIT:sense@@
+
 4.
 El
 proper name
@@ -101,6 +109,8 @@ Judg 9:46 (=
 Judg 8:33; Judg 9:4) compare
 also
 6 (f) below
+
+@@SPLIT:sense@@
 
 5. as characterizing mighty things in nature, חררי אל
 mighty mountains
@@ -114,6 +124,8 @@ Ps 80:11
 כוכבי אל
 lofty stars
 Isa 14:13.
+
+@@SPLIT:sense@@
 
 6.
 God_217_, the one only and true God of Israel:
@@ -338,6 +350,8 @@ Deut 33:26
 אל שדּי (10 t.; see
 שַׁדַּי
 ).
+
+@@SPLIT:sense@@
 
 7.
 אֵל

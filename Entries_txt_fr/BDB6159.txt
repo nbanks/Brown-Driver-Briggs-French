@@ -13,6 +13,7 @@ porter ; comparer peut-être arabe
 [placeholder3927: Placeholders/3927.gif]
 gravis et obscurus fuit dies (Frey)) ; —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 3 masculin singulier וַיַּעֲמֹס
 Gn 44,13,
@@ -48,6 +49,7 @@ Ps 68,20
 Za 12,3
 (figuré), passif Es 46,1 (littéral), Es 46,3 (figuré).
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 masculin singulier הֶעְמִיס
 1 R 12,11

@@ -8,6 +8,8 @@ Pi`el
 await (compare Late Hebrew יִחוּל
 expectation); —
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect 3 feminine singular נוֺחֲלָה
 Ezek 19:5
@@ -37,6 +39,8 @@ be weak, whence perhaps sink down; Hi
 ) כִּי נִדַּח לָהּ
 that he was thrust away from her; Co
 plausibly נוֺאֲלָה that she had acted foolishly).
+
+@@SPLIT:stem@@
 
 Pi`el
 Perfect 2 masculine singular suffix יִחַלְתָּ֑נִי
@@ -111,6 +115,8 @@ Ps 71:14.
 3. causative make to hope
 Ps
 119:49 (suffix person).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect

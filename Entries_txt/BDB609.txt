@@ -18,6 +18,8 @@ nišu
 ) — absolute Isa
 8:1 +; construct Jer 20:10 —
 
+@@SPLIT:sense@@
+
 1. of individual Job 5:17; Job 13:9; Ps 55:14, compare Isa 13:12 (|| אָדָם) Isa 56:2 (|| בֶּןאֿדם;
 Jer 20:10
 שְׁלֹמִי
@@ -25,12 +27,16 @@ Jer 20:10
 א
 man of my peace, i.e. my friend.
 
+@@SPLIT:sense@@
+
 2. collective men
 Isa 24:6; Isa 33:8; Isa 51:7; Ps 66:12 = men
 in general; ordinary men
 Ps 73:5 compare ׳
 חֶרֶט א i.e. a common stylus Isa 8:1 (see אַמַּת אִישׁ
 Deut 3:11).
+
+@@SPLIT:sense@@
 
 3.
 man, mankind

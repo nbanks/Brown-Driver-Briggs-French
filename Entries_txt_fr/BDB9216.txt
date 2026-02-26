@@ -6,6 +6,8 @@ dénominatif
 Niph`al
 Pi`el :
 
+@@SPLIT:stem@@
+
 Niph`al
 Parfait 3 masculin singulier נִתְעַב
 1 Ch 21,6
@@ -27,6 +29,8 @@ abhorré et corrompu, par la maladie (נאלח ailleurs Ps 14,3
 || התעיב).
 
 2. éthiquement : le recensement de David, selon 1 Ch 21,6.
+
+@@SPLIT:stem@@
 
 Pi`el
 Parfait 3 pluriel suffixe תִּעֲבוּנִי
@@ -94,6 +98,8 @@ Pu`al
 SS
 Bu
 Du).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Parfait 2 féminin singulier הִתְעַבְתְּ

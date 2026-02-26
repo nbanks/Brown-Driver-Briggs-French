@@ -21,6 +21,8 @@ stutter, Arabic
 [placeholder2840: Placeholders/2840.gif]
 id.)); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 feminine singular לָֽעֲגָה
 2Kgs 19:21;
@@ -62,6 +64,8 @@ Ps 80:7 (read
 
 ), compare (absolute) Job 11:3.
 
+@@SPLIT:stem@@
+
 Niph`al
 Participle
 עַם ֗֗֗ נִלְעַג לָשׁוֺן
@@ -69,6 +73,8 @@ Isa 33:19
 a people stammering of tongue (i.e. barbarians, compare v^a^; but read
 נעלג [√ עלג] Gr^Monatsschr. 1884, 45^
 ; || עִמְקֵי שָׂפָה).
+
+@@SPLIT:stem@@
 
 Hiph`il (late; compare Late Hebrew) Imperfect 3 masculine singular
 וַיַּלְעֵג

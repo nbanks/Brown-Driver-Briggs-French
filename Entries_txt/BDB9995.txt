@@ -11,9 +11,13 @@ Syriac; Biblical Hebrew
 שׁוּב
 ); —
 
+@@SPLIT:stem@@
+
 Pe`al
 Imperfect 3 masculine singular יְתוּב, with עַל person, of brightness
 (זִיו) of face Dan 4:33 b, of knowledge v.Dan 4:31 v.Dan 4:33 a.
+
+@@SPLIT:stem@@
 
 Haph`el
 Perfect 3 masculine singular הֲתִיב

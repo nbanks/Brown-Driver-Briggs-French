@@ -14,12 +14,14 @@ jaillir (de l'eau) ; araméen
 [placeholder3156: Placeholders/3156.gif]
 larme(s)) ; —
 
+@@SPLIT:stem@@
 Qal
 Participe
 נַ֫חַל נֹבֵעַ
 Pr 18,4
 un oued qui coule, métaphore de מְקוֺר חָכְמָה.
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait
 יַבִּיעַ

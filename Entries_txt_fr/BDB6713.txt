@@ -11,6 +11,7 @@ Ps 17,4, תֹ
 - Ps 28,5
 —
 
+@@SPLIT:sense@@
 1.
 œuvre :
 
@@ -26,6 +27,7 @@ b. des hommes, Ps 17,4 (pluriel) ; labeur, souffrance Jr 31,16 bonne action 2 Ch
 Pr 11,18
 .
 
+@@SPLIT:sense@@
 2.
 salaire (gagné par le travail) Lv 19,13 ; Pr 10,16 (|| תְּבוּאָה), Ez 29,20
 récompense (de ׳

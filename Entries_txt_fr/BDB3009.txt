@@ -17,6 +17,7 @@ Pr 3,15
 חֲפָצֶ֖ךָ
 Es 58,13 —
 
+@@SPLIT:sense@@
 1.
 délice
 ׳
@@ -48,6 +49,7 @@ Os 8,8
 Jb 22,3
 est-ce un plaisir pour Shaddaï que ?
 
+@@SPLIT:sense@@
 2.
 désir, aspiration
 דלים
@@ -74,9 +76,11 @@ toutes les choses désirables
 Pr 3,15 ;
 Pr 8,11.
 
+@@SPLIT:sense@@
 3.
 le bon plaisir, la volonté, le dessein de Yahvé Es 44,28 ; Es 46,10 ; Es 48,14.
 
+@@SPLIT:sense@@
 4.
 ce en quoi l'on prend plaisir, son affaire (tardif), ou chose
 (très tardif, comparer dans la Mishna = chose) בְּיָדוֺ יִצְלַח

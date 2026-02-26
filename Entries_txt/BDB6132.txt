@@ -4,6 +4,8 @@ Biblical Hebrew
 [מַעֲמָד] noun [masculine]
 office, function, service; —
 
+@@SPLIT:sense@@
+
 1.
 station, office, post (מַעֲמָֽדְךָ) Isa 22:19 (|| מַצָּֽבְךָ),
 עַלמַֿעֲמָדָם
@@ -11,10 +13,14 @@ station, office, post (מַעֲמָֽדְךָ) Isa 22:19 (|| מַצָּֽבְך�
 
 at their post.
 
+@@SPLIT:sense@@
+
 2.
 office, function
 1Chr 23:28
 .
+
+@@SPLIT:sense@@
 
 3.
 service, probably specifically waiting at table (strictly mode

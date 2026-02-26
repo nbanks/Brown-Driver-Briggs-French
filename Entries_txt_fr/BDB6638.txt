@@ -11,11 +11,13 @@ hébreu biblique
 פְּלַט syriaque
 [placeholder4248: Placeholders/4248.gif]) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 pluriel consécutif וּפָֽלְטוּ
 Ez 7,16
 et (si) les rescapés d'entre eux échappent).
 
+@@SPLIT:stem@@
 Pi`el
 causatif :
 Imparfait 3 masculin singulier suffixe יְפַלְּטֵם ; 2 masculin singulier
@@ -78,6 +80,7 @@ ailleurs ׳
 י sujet du
 Pi`el).
 
+@@SPLIT:stem@@
 Hiph`il
 mettre en sécurité ; Imparfait 3 masculin singulier יַפְלִיט
 

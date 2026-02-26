@@ -4,6 +4,7 @@ hébreu biblique
 [נָכָא] verbe
 frapper, flageller (forme aramaïsante rare de נָכָה) ; — seulement
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 pluriel נִכְּאוּ
 מִןהָֿאָרֶץ

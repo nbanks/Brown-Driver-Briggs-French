@@ -10,6 +10,7 @@ de la lyre ; araméen נְדַף = hébreu tardif ; éthiopien
 [placeholder3191: Placeholders/3191.gif]
 jeter, lancer) ; —
 
+@@SPLIT:stem@@
 Qal
 Imparfait suffixe יִדְּפֶנּוּ
 Jb 32,13
@@ -21,6 +22,7 @@ chasser, la balle, sujet le vent Ps 1,4 les méchants, sujet Dieu Ps 68,3 (כְ�
 comparer Jb 32,13
 (= défaire, détresse).
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 נִדַּף

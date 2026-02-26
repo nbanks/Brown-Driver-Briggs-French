@@ -4,6 +4,7 @@ Biblical Hebrew
 II. שָׂכָר
 proper name, masculine
 
+@@SPLIT:sense@@
 1.
 father of hero of David
 1Chr 11:35,
@@ -12,6 +13,8 @@ A
 
 Σαχαρ (|| שָׁרָר
 2Sam 23:33).
+
+@@SPLIT:sense@@
 
 2. doorkeeper
 

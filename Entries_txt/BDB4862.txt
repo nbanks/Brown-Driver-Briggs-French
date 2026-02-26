@@ -3,9 +3,13 @@ Biblical Hebrew
 
 מִשְׁחָה
 
+@@SPLIT:sense@@
+
 noun
 1.
 ointment;
+
+@@SPLIT:sense@@
 
 2.
 consecrated portion;
@@ -14,6 +18,8 @@ consecrated portion;
 Exod 25:6 +;
 construct מִשְׁחַת
 Exod 30:25 +; —
+
+@@SPLIT:sense@@
 
 1.
 ointment, the holy oil used in the consecration of the Aaronic priests, only in
@@ -45,6 +51,8 @@ Lev 10:7
 ׳
 שׁ
 Lev 21:12.
+
+@@SPLIT:sense@@
 
 2.
 consecrated portion, of Aaron and his sons Lev 7:35 (twice in verse) (

@@ -16,6 +16,8 @@ fit also threaten; Gerber^Verb.
 Denom. 59^ thinks verb in Hebrew denominative from מִלְחָמָה
 battle-line, but dubious); —
 
+@@SPLIT:stem@@
+
 Qal (poetry) only Imperative masculine singular and Participle
 active –– fight, do battle with, rare, only Psalms, apparently later
 usage: — לְחַם אֶתלֹֿחֲמָ֑י
@@ -25,6 +27,8 @@ compare preposition with, compare Ol; ||
 רִיבָה אֶתיְֿרִיבַי); לֹחֲמִים לִי
 Ps 56:3
 doing battle against me; לֹחֵם Ps 56:2 as substantive fighter.
+
+@@SPLIT:stem@@
 
 Niph`al_167_
 Perfect

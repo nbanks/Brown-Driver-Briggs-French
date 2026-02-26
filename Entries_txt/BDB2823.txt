@@ -5,6 +5,8 @@ Biblical Hebrew
 adjective
 smooth —
 
+@@SPLIT:sense@@
+
 1. literal אִישׁ חָלָק
 Gen 27:11 (
 
@@ -24,9 +26,13 @@ Isa 57:6 (see I.
 worshippest common round stones (contempt., see Che
 Di).
 
+@@SPLIT:sense@@
+
 2.
 figurative of mouth uttering smooth words וְחָלָק מִשֶּׁמֶן חִכָּהּ
 Prov 5:3 compare Prov 26:28.
+
+@@SPLIT:sense@@
 
 3. as substantive = flattery
 מִקְסָם חָלָק

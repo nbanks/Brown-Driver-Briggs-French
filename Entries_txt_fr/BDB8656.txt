@@ -6,6 +6,8 @@ action de se coucher, couche ; — seulement construit שִׁכְבַת tous
 P
 ; —
 
+@@SPLIT:sense@@
+
 1. action de se coucher, comme accusatif de sens apparenté avec le verbe שׁכב
 
 3 : שִׁכְבַתזָֿ֑רַע
@@ -17,6 +19,8 @@ Lv 15,16 ; Lv 15,32 ; Lv 22,4 (+
 ז
 ׳
 שׁ seul Lv 15,17.
+
+@@SPLIT:sense@@
 
 2.
 couche de rosée, שִׁכְבַת הַטָּ֑ל

@@ -6,6 +6,8 @@ Gen 35:18 +;
 usually בִּנְיָמִן
 proper name, masculine_166_ (son of (the) right hand) —
 
+@@SPLIT:sense@@
+
 1. youngest son of Jacob, so called by him, but by Rachel, the mother, who died at Benjamin's birth,
 called
 בֶּןאֿוֺנִי
@@ -65,8 +67,12 @@ Jer 37:13;
 Jer 38:7; Ezek 48:32;
 Zech 14:10.
 
+@@SPLIT:sense@@
+
 2. a son of Bilhan and great-grandson of Benjamin 1.
 1Chr 7:10.
+
+@@SPLIT:sense@@
 
 3. a Jew of Ezra's time Ezra 10:32 compare Neh 3:23; Neh 12:34. — בנימן בני פרץ
 1Chr 9:4

@@ -25,6 +25,8 @@ i‡‡imu
 , vengeance, requital, is possibly from √
 אקם Jäger^BAS ii. 279^); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular suffix נְקָמֵ֫נִי
 1Sam 24:13
@@ -113,6 +115,8 @@ Lev 19:18
 H
 ).
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect 1 singular נִקַּ֫מְתִּי
 Judg 15:7;
@@ -196,6 +200,8 @@ Jer
 
 take vengeance for thee.
 
+@@SPLIT:stem@@
+
 Hoph`al
 Imperfect
 יֻקַּם
@@ -206,6 +212,8 @@ Exod
 , יֻקָּ֑ם
 Gen 4:15
 be avenged, vengeance be taken (for blood).
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Imperfect

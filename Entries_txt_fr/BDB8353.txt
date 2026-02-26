@@ -8,6 +8,7 @@ comparer arabe
 [placeholder5353: Placeholders/5353.gif]
 frustrer, décevoir) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier תְּפִלָּתִי
 ׳

@@ -6,8 +6,12 @@ noun masculine^
 Isa 28:1
 ^
 
+@@SPLIT:sense@@
+
 1.
 blossom, flower.
+
+@@SPLIT:sense@@
 
 2.
 shining thing
@@ -16,6 +20,8 @@ shining thing
 Isa 42:7 +, construct Isa 42:6 +; plural צִצִּים
 1Kgs 6:18 + 3 t.
 6 (on form see Kö^ii. l, 60^); —
+
+@@SPLIT:sense@@
 
 1.
 blossom, flower, Num 17:23 (
@@ -35,6 +41,8 @@ Isa 28:1
 ׳
 צִיצַת נ; so Marti); פְּטוּרֵי צִצִּים
 , as ornaments of temple 1Kgs 6:18; 1Kgs 6:29; 1Kgs 6:32; 1Kgs 6:35.
+
+@@SPLIT:sense@@
 
 2.
 shining thing, plate of gold, constituting the diadem on front of high priest's mitre, Lev 8:9; Exod 28:36

@@ -48,6 +48,7 @@ Gn 18,3 ; Gn 19,18
 אֲדֹ֯נַי
 Gn 19,2) —
 
+@@SPLIT:sense@@
 1. singulier seigneur, maître
 (1) référence à des hommes :
 (a)
@@ -94,6 +95,7 @@ Ml 3,1
 Ps 114,7
 .
 
+@@SPLIT:sense@@
 2. pluriel seigneurs, rois
 Dt 10,17
 =
@@ -198,6 +200,7 @@ Os 12,15
 
 (peut-être erreur pour אֲדֹנָי).
 
+@@SPLIT:sense@@
 3. suffixe 1re singulier (אֲדֹנַי) אֲדֹנִי
 (1) référence à des hommes : mon seigneur, mon maître,
 
@@ -483,6 +486,7 @@ Dn 9,8
 יהוה ?) Dn 9,16 Dn 9,17 Dn 9,19 Dn 9,19 Dn 9,19
 comme le nom divin.
 
+@@SPLIT:sense@@
 4.
 אֲדֹנָי יהוה
 
@@ -699,6 +703,7 @@ Am 7,4
 Am 8,1
 .
 
+@@SPLIT:sense@@
 5.
 יהוה אֲדֹנָי
 Yahvé mon Seigneur
@@ -713,6 +718,7 @@ Ps 141,8
 ;
 Ha 3,9.
 
+@@SPLIT:sense@@
 6.
 אֲדֹנָי יהוה צְבָאוֺת
 

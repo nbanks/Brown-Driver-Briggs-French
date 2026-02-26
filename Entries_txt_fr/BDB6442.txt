@@ -6,6 +6,7 @@ nom
 dix, seulement après les unités pour former les nombres 11-19, tant cardinaux qu'ordinaux ; עֶשְׂרֵה
 avec nom féminin, עָשָׂר avec nom masculin, ainsi :
 
+@@SPLIT:sense@@
 1.
 onze :
 
@@ -23,6 +24,7 @@ c.
 d.
 עַשְׁתֵּי עֶשְׂרֵה (avec nom féminin) Ex 26,7 + 4 t. ; ordinal Jr 1,3 + 4 t.
 
+@@SPLIT:sense@@
 2.
 douze :
 
@@ -33,6 +35,7 @@ b.
 
 שְׁתֵּי(ם) עֶשְׂרֵה (avec nom féminin) Ex 24,4 + 31 t. ; ordinal 2 R 8,25 + 6 t.
 
+@@SPLIT:sense@@
 3.
 treize :
 
@@ -42,6 +45,7 @@ a.
 b.
 שְׁלשׁ עֶשְׂרֵה (avec nom féminin) 1 R 7,1 + 9 t. ; ordinal Gn 14,4 + 2 t.
 
+@@SPLIT:sense@@
 4.
 quatorze :
 
@@ -60,6 +64,7 @@ Gn 31,41
 5 t. ; ordinal
 2 R 18,13 + 3 t.
 
+@@SPLIT:sense@@
 5.
 quinze :
 
@@ -83,6 +88,7 @@ c.
 + 9 t. ; ordinal 2 R 14,23 ; 2 Ch 15,10. — Voir aussi עֶשֶׂר
 2.d.
 
+@@SPLIT:sense@@
 6.
 seize :
 
@@ -99,6 +105,7 @@ Gn 46,18
 +
 13 t.
 
+@@SPLIT:sense@@
 7.
 dix-sept :
 
@@ -120,6 +127,7 @@ ordinal
 2 R 16,1. — Voir aussi עֶשֶׂר
 3.d.
 
+@@SPLIT:sense@@
 8.
 dix-huit :
 
@@ -141,6 +149,7 @@ ordinal 1 R 15,1
 
 + 8 t.
 
+@@SPLIT:sense@@
 9.
 dix-neuf :
 

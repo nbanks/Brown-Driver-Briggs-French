@@ -10,6 +10,7 @@ fourreau ; assyrien
 elpitu
 , langueur, épuisement) ; —
 
+@@SPLIT:stem@@
 Pu`al
 Participe féminin couverte, incrustée, construit מְעֻלֶּפֶת
 Ct 5,14 son
@@ -30,6 +31,7 @@ se sont évanouis pour (עַל) lui (ainsi
 Hi
 Co et d'autres).
 
+@@SPLIT:stem@@
 Hithpa`el
 s'envelopper, Imparfait 3 féminin singulier וַתִּתְעַלָּ֑ף
 Gn 38,14 (

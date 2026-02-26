@@ -9,6 +9,8 @@ besmear; see also
 שׁוֺט
 ); —
 
+@@SPLIT:stem@@
+
 Qal
 go or rove about: Perfect 3 plural, absolute שָׁטוּ הָעָם
 
@@ -35,6 +37,8 @@ Du reads שָׁט for שָׁב. — Participle
 שׁוּט
 denominative below
 
+@@SPLIT:stem@@
+
 >Po`l.
 go eagerly, quickly, to and fro: Imperfect 3 masculine singular יְשׁוֺטְטוּ לְבַקֵּשׁ
 
@@ -49,6 +53,8 @@ Zech 4:10,
 2Chr 16:9 (both
 of ׳
 עֵינֵי י).
+
+@@SPLIT:stem@@
 
 Hithpo`lel
 Imperative feminine plural, ב location, הִתְשׁוֺטַטְנָת

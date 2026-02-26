@@ -10,6 +10,8 @@ tremble, be terrified (Assyrian
 be bashful, shamefaced; Late Hebrew חֲרָדָה
 a trembling) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 וְחָרַד consecutive Isa 19:16, חָֽרְדָה
@@ -27,11 +29,11 @@ Gen 27:33 + 5
 t.; יֶחְרְדוּ
 Hos 11:10;
 Ezek 26:18,
-יֶחֶרְדוּ
+יֶחֶרְדוּ
 Hos 11:11,
 יֶחֱרָ֑דוּ
 Amos 3:6; Isa 41:6,
-וַיֶּחֶרְדוּ
+וַיֶּחֶרְדוּ
 Gen 42:28 + 2
 t.; Imperative
 חִרְדוּ
@@ -90,6 +92,8 @@ E
 Hos 11:11
 (
 מִמִּצְרַיִם).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect

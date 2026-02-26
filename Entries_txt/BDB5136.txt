@@ -19,6 +19,8 @@ Num 21:9 + 2 t.;
 plural נְחָשִׁים
 Num 21:6; Jer 8:17 —
 
+@@SPLIT:sense@@
+
 1.
 serpent:
 
@@ -75,10 +77,14 @@ d. as crafty
 tempter Gen 3:1;
 Gen 3:2; Gen 3:4; Gen 3:13; Gen 3:14.
 
+@@SPLIT:sense@@
+
 2.
 (הַ)נְּחשֶׁת
 ׳
 נ, bronze image of serpent Num 21:9 (twice in verse); 2Kgs 18:4 (compare נְחֻשְׁתָּן).
+
+@@SPLIT:sense@@
 
 3. mythological בָּרִחַ
 ׳

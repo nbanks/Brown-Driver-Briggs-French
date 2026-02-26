@@ -14,6 +14,8 @@ Amos 3:15 +;
 suffix קֵיצֵךְ
 Isa 16:9; Jer 48:32 —
 
+@@SPLIT:sense@@
+
 1. summer-season, opposed to חֹרֶף
 Gen 8:22 (
 J
@@ -23,6 +25,8 @@ J
 קָצִיר
 Jer 8:20; Prov 6:8; Prov 10:5; Prov 26:1, also
 (without קָצִיר) Prov 30:25 as fruit harvest Isa 28:4 time of drought Ps 32:4 (figurative).
+
+@@SPLIT:sense@@
 
 2.
 summer-fruit

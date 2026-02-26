@@ -4,6 +4,7 @@ hébreu biblique
 [יָגַב] verbe
 labourer, être cultivateur, seulement
 
+@@SPLIT:stem@@
 Qal
 Participe pluriel לְכֹרְמִים וּלְֹיגְבִים
 Jr 52,16 ;

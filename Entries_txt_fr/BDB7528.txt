@@ -12,6 +12,7 @@ hébreu biblique,
 [placeholder4823: Placeholders/4823.gif]
 fine poussière) ; —
 
+@@SPLIT:stem@@
 Hiph`il
 id. Imparfait 3 masculin singulier אֶתהַֿבַּיִת יַקְצִעַ
 Lv 14,41.

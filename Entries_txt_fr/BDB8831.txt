@@ -15,6 +15,7 @@ Es 53,1 pluriel
 absolu שְׁמֻעוֺת
 Dn 11,44 —
 
+@@SPLIT:sense@@
 1.
 rapport, parfois après שָׁמַע
 1 S 2,24 ; 1 S 4,19 (=
@@ -54,6 +55,7 @@ Now^
 Ab 1,1
 ^).
 
+@@SPLIT:sense@@
 2. = mention
 בְּפִיךְ
 ׳

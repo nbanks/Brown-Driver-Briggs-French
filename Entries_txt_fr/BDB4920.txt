@@ -10,6 +10,7 @@ mépriser, dédaigner (hébreu tardif id., Pi`el ;
 נִיאוּצָא
 outrage) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 ׳
@@ -38,6 +39,7 @@ Dt 32,19 ;
 Jr 14,21 ;
 Lm 2,6.
 
+@@SPLIT:stem@@
 Pi`el
 Parfait
 נִאֵץ
@@ -84,11 +86,13 @@ RV
 ) 2 S
 12,14 (deux fois dans le verset) (mais אֹיְבֵי probablement interp. ; voir Comm).
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait
 יָנֵ֯אץ voir
 נצץ
 
+@@SPLIT:stem@@
 Hithpo`el
 Participe
 כלהֿיום שְׁמִי מִנֹּאָץ

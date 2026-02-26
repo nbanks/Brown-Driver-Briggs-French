@@ -4,6 +4,8 @@ Biblical Hebrew
 [שָׁמַד]_90_
 verb
 
+@@SPLIT:stem@@
+
 Niph`al
 be exterminated, destroyed (Late Hebrew derived species; Aramaic שְׁמַד Pa`el
 cause to apostatize (Jastr); Syriac
@@ -51,6 +53,8 @@ Isa 48:19
 2.
 be destroyed, of bamoth, Hos 10:8, compare (בֵּית רְשָׁעִים) Prov 14:11
 be devastated, of land, Jer 48:8 (|| אבר).
+
+@@SPLIT:stem@@
 
 Hiph`il_69_
 Perfect 3 masculine singular הִשְׁמִיד

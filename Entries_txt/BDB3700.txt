@@ -18,6 +18,8 @@ Esth 6:6 + 4 t.;
 יְקָרָהּ
 Jer 20:5 —
 
+@@SPLIT:sense@@
+
 1.
 preciousness:
 
@@ -39,6 +41,8 @@ Prov 20:15
 a jewel of preciousness = precious jewel (|| זָהָב
 , פְּנִינִים).
 
+@@SPLIT:sense@@
+
 2.
 price
 Zech 11:13
@@ -46,6 +50,8 @@ Zech 11:13
 יָקַר
 
 2.
+
+@@SPLIT:sense@@
 
 3.
 honour, Ps 49:13; Ps 49:21 elsewhere only Esther: יְקָר תִּפְאֶרֶת

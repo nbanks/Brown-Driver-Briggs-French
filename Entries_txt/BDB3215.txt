@@ -28,6 +28,8 @@ Gen 6:5 suffix
 Isa 55:8 etc. + 19
 t. suffixes; —
 
+@@SPLIT:sense@@
+
 1.
 thought:
 
@@ -56,6 +58,8 @@ Ps 40:6
 עַלֿ
 Jer 51:29
 the thoughts of God are exceeding deep Ps 92:6 higher than man's thoughts Isa 55:8 (twice in verse); Isa 55:9 (twice in verse).
+
+@@SPLIT:sense@@
 
 2.
 device, plan, purpose
@@ -135,6 +139,8 @@ Prov 20:18
 break plans
 Prov 15:22
 .
+
+@@SPLIT:sense@@
 
 3.
 invention

@@ -6,12 +6,18 @@ noun masculine^
 Isa 30:28
 ^:
 
+@@SPLIT:sense@@
+
 1.
 halter;
+
+@@SPLIT:sense@@
 
 2.
 jaw (?);
 —
+
+@@SPLIT:sense@@
 
 1. absolute ׳
 ר
@@ -26,6 +32,8 @@ Isa 30:28
 ר
 Job 30:11,
 i.e. threw off restraint.
+
+@@SPLIT:sense@@
 
 2. suffix כֶּפֶל רִסְנוֺ
 Job 41:5

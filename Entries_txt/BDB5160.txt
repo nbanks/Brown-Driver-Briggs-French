@@ -15,6 +15,8 @@ sustulit
 (aquam), further, be heavy; also borrowed and denominative forms in Arabic
 and Late Hebrew, compare Frä^65 f.^); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular ׳
 נ
@@ -30,6 +32,8 @@ lift, with accusative Isa 40:15 (figurative subject ׳
 נוֺטֶה (as || 1Chr 21:10) We
 Bu
 HPS; lift (and lay) upon (עַל) Lam 3:28.
+
+@@SPLIT:stem@@
 
 Pi`el
 Imperfect suffix וַיְנַטְּלֵם

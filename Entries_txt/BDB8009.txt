@@ -5,6 +5,8 @@ Biblical Hebrew
 proper name, masculine
 Ραγουηλ:
 
+@@SPLIT:sense@@
+
 1. Moses' father-in-law Exod 2:18 (
 J
 ;
@@ -22,6 +24,8 @@ E
 יִתְרוֺ
 q. v.
 
+@@SPLIT:sense@@
+
 2. Edomite
 Gen 36:4;
 Gen 36:10;
@@ -32,8 +36,12 @@ P
 1:35; 1Chr
 1:37.
 
+@@SPLIT:sense@@
+
 3. Gadite
 Num 2:14, see דְּעוּאל p. 396.
+
+@@SPLIT:sense@@
 
 4. Benjamite 1Chr 9:8.
 

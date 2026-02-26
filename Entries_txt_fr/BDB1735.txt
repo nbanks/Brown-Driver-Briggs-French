@@ -34,6 +34,7 @@ Ps 115,7 ; Ps 149,6,
 Ps 5,10 —
 gorge ;
 
+@@SPLIT:sense@@
 1. de l'extérieur visible (avant) de la gorge, cou
 ׳
 נְטֻו֯וֺת ג
@@ -42,6 +43,7 @@ cou tendu (= avec le cou tendu) ; וְרָבִיד עַלגְּֿרוֺנֵךְ
 Ez 41,19
 et une chaîne sur ton cou.
 
+@@SPLIT:sense@@
 2.
 gorge, comme pouvant avoir soif Jr 2,25 comme organe de la parole קְרָא בְגָרוֺן
 Es 58,1 (||

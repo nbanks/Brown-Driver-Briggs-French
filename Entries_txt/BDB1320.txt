@@ -7,6 +7,8 @@ go through, flee (compare German durchgehen (Arabic
 [placeholder700: Placeholders/700.gif]
 go away, withdraw, flee) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 בָּרַח
@@ -138,6 +140,8 @@ flee, followed by infinitive 1Kgs 11:17; Dan 10:7.
 
 3. flee = hasten, come quickly
 Song 8:14.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect

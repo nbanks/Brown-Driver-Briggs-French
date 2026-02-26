@@ -26,6 +26,8 @@ Judg 18:25;
 Prov 31:6 —
 bitter:
 
+@@SPLIT:sense@@
+
 1. literally, of water Exod 15:23 (
 J
 ); food Prov
@@ -41,6 +43,8 @@ of wickedness Jer
 = injurious, hurtful
 Isa 5:20 (twice in
 verse) (opposed to מָתוֺק).
+
+@@SPLIT:sense@@
 
 2.
 figurative,

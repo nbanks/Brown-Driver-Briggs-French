@@ -14,6 +14,8 @@ ra—âƒu
 =
 [placeholder5041: Placeholders/5041.gif] voir Nö^ZMG xi (1886), 727^)) ; —
 
+@@SPLIT:stem@@
+
 Qal_69_
 Parfait 3 masculin singulier ׳
 ר
@@ -78,6 +80,8 @@ baignés dans le lait (בֶּחָלָב) Ct 5,12 (figuré) ; Jb 29,6 (figuré), 
 הָלִיךְ
 .
 
+@@SPLIT:stem@@
+
 Poual
 Parfait 3 masculin singulier רֻחָ֑ץ
 Pr 30,12
@@ -86,6 +90,8 @@ Pr 30,12
 בְּמַיִם לֹא רֻחַצְתְּ
 Ez 16,4 (au
 figuré).
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Parfait 1 singulier הִתְרָחַצְתִּי במו שׁלג

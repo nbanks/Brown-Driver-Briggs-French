@@ -4,17 +4,21 @@ hébreu biblique
 כֶּ֫סֶל
 nom masculin
 
+@@SPLIT:sense@@
 1.
 reins,
 
+@@SPLIT:sense@@
 2.
 stupidité,
 
+@@SPLIT:sense@@
 3.
 confiance
 (hébreu tardif id. lion ; araméen כִּסְלָא
 id.) ; —
 
+@@SPLIT:sense@@
 1.
 reins
 כָּ֑סֶל
@@ -23,6 +27,7 @@ pluriel כְּסָלִים
 Lv 3,4 ; Lv 3,10 ; Lv 3,15 ; Lv 4,9 ; Lv 7,4 suffixe
 כְּסָלַי, Ps 38,8.
 
+@@SPLIT:sense@@
 2.
 stupidité, folie
 ׳
@@ -31,6 +36,7 @@ Qo 7,25 (||
 סִכְלוּת), כֵּסֶל
 Ps 49,14.
 
+@@SPLIT:sense@@
 3.
 confiance, suffixe כִּסְלִי
 Jb 31,24

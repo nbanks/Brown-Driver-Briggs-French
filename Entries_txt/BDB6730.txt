@@ -9,10 +9,14 @@ break asunder; Syriac
 [placeholder4282: Placeholders/4282.gif]
 crush); —
 
+@@SPLIT:stem@@
+
 Po`.
 Imperfect 3 masculine singular יְפֹצֵץ סָ֑לַע
 Jer 23:29 a
 hammer which shatters rock.
+
+@@SPLIT:stem@@
 
 Hithpo`el
 Imperfect 3 masculine plural וַיִּתְפִּצְצוּ

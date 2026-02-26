@@ -20,6 +20,7 @@ Ex 17,3 +,
 Gn 47,16 +,
 etc. ; —
 
+@@SPLIT:sense@@
 1.
 bétail en général, comprenant vaches, moutons, chevaux, ânes, chameaux (l'un ou l'ensemble), comme
 animaux domestiques achetables, Gn 47,16 (deux fois dans le verset) ; Gn 47,17 (deux fois dans le verset) ; Ex 9,3 + (
@@ -44,6 +45,7 @@ Gn 47,18 (
 J
 ).
 
+@@SPLIT:sense@@
 2. spécifiquement des vaches, moutons et chèvres en troupeaux
 Gn 13,2 (
 J

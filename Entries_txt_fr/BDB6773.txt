@@ -23,6 +23,7 @@ pir—u
 , nom pousse ; — sur le sens comparer
 GFM^JBL x (1891), 57^) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier ׳
 פ
@@ -57,6 +58,7 @@ figuré du jugement Os 10,4 (כָּראֹשׁ ; mais sur le texte voir Now) ; de
 זָדוֺן
 (q. v. p. 268) Ez 7,10.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 1 singulier הִפְרַחְתִּי
 Ez

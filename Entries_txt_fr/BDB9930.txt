@@ -9,6 +9,8 @@ laisser, laisser tranquille (
 שְׁבַק, syriaque
 [placeholder6165: Placeholders/6165.gif] ; comparer hébreu biblique, p. 990) ; —
 
+@@SPLIT:stem@@
+
 Peal
 Infinitif
 לְמִשְׁבַּק
@@ -16,6 +18,8 @@ Dn 4,23
 laisser des racines, de même Impératif masculin pluriel שְׁבֻ֫קוּ v.Dn 4,12 v.Dn 4,20 (tous deux avec
 ב locatif) ; Esd 6,7
 laisser tranquille, avec ל accusatif de chose.
+
+@@SPLIT:stem@@
 
 Hithpeel
 Imparfait 3 féminin singulier תִּשְׁתְּבִק

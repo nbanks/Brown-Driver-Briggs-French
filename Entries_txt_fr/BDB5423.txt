@@ -9,6 +9,7 @@ Lv 11,18,
 תִּנְשָּׁ֑מֶת
 Lv 11,30 ; Dt 14,16 : —
 
+@@SPLIT:sense@@
 1. oiseau impur, l'ibis, la poule d'eau,
 
 ᵐ5
@@ -21,6 +22,7 @@ SS) ; pélican (Ges
 = Dt 14,16
 .
 
+@@SPLIT:sense@@
 2. שֶׁרֶץ impur
 Lv 11,30,
 lézard (

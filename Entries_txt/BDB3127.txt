@@ -207,6 +207,8 @@ private possessions, whether a man, animal, or field Lev 27:28 (
 P
 ).
 
+@@SPLIT:stem@@
+
 Hoph`al
 Imperfect
 יָחֳרַם

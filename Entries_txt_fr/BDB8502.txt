@@ -13,6 +13,7 @@ CIS^iv. 81, i. 9, etc^. ; arabe
 retourner, de même araméen תּוּב,
 [placeholder5432: Placeholders/5432.gif]) ; —
 
+@@SPLIT:stem@@
 Qal_685_
 Parfait 3 masculin singulier שָׁב
 Gn 18,33 +, 3
@@ -853,6 +854,7 @@ comparer
 Hiph`il
 6.
 
+@@SPLIT:stem@@
 Po`el
 
 1.
@@ -918,6 +920,7 @@ Jr 8,5
 
 ). — Voir aussi שׁוֺבֵב infra.
 
+@@SPLIT:stem@@
 Pu`lal
 Participe féminin מְשׁוֺבֶ֫בֶת
 Ez
@@ -926,6 +929,7 @@ un pays restauré + מִן de chose. — Voir aussi שׁוֺבָב
 
 infra.
 
+@@SPLIT:stem@@
 Hiphil_353_
 Parfait 3 masculin singulier Gn 41,13 + ; suffixe וַהֲשִׁיבְֱ
 
@@ -1604,6 +1608,7 @@ Est 8,5 ;
 Est 8,8
 .
 
+@@SPLIT:stem@@
 Hoph`al
 Parfait 3 masculin singulier הוּשַׁב
 

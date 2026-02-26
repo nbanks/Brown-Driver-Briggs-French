@@ -17,6 +17,7 @@ dignité ; sabéen nom יקר
 honneur
 DHM^ZMG 1883, 402^) —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 féminin singulier יָָֽקְרָה
 1 S 16,21 2
@@ -80,6 +81,7 @@ Za
 la magnificence du prix auquel j'ai été évalué (et congédié)
 d'eux !
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait 1re personne du singulier אוֺקִיר אֱנוֺשׁ מִפָּ֑ז
 Es

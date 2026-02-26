@@ -5,7 +5,8 @@ hébreu biblique
 nom masculin
 Ex 26,6
 demeure, « tabernacle » ; —
-׳מ
+׳
+מ
 Ex 25,9 + ;
 construit מִשְׁכַּן
 Ex 38,21 +,
@@ -18,30 +19,37 @@ Ex 46,6 (
 Bae
 Du
 מִשְׁכָּנוֺ, <
-׳מִשְׁכַּן י) ; suffixe מִשְׁכְּנֵיהֶם
+׳
+מִשְׁכַּן י) ; suffixe מִשְׁכְּנֵיהֶם
 Ez 25,4 (<
 משׁכנתיהם, || טִירוֺתֵיהֶם), מִשְׁכָּנוֺת
 Ha 1,6 ; Ps 132,5
 construit מִשׁכְּנוֺת
 Ps 87,2 +, etc. ; —
 
+@@SPLIT:sense@@
 1.
 demeure :
 מִשְׁכַּןקֹֿרַח דָּתָן וַאֲבִירָם ; Nb 16,24 ; Nb 16,27 (
 P
 ) [mais ici à l'origine
-׳מִשְׁכַּן י ; voir Commentaires] ; en poésie = tombeau, Es 22,16.
+׳
+מִשְׁכַּן י ; voir Commentaires] ; en poésie = tombeau, Es 22,16.
 
+@@SPLIT:sense@@
 2. ailleurs au singulier toujours de la demeure de
-׳י :
+׳
+י :
 
 a. en général, du temple,
-׳קְדשׁ מ
+׳
+קְדשׁ מ
 Es 46,5
 מִשְׁכַּן כְּבוֺדֶ֑ךָ
 Es 26,8
 שְׁמֶ֑ךָ
-׳מ
+׳
+מ
 
 Es 74,7.
 
@@ -51,21 +59,25 @@ b.
 Es 78,60.
 
 c.
-׳הַמּ dans
+׳
+הַמּ dans
 P
 , de la « demeure » de
-׳י (Ex 25,9
+׳
+י (Ex 25,9
 
 RVm
 ; rendu conventionnellement « tabernacle »), de planches doublées de tapisseries multicolores, avec une « tente » (
 אֹהֶל) par-dessus, remplie de
-׳כְּבוֺד י
+׳
+כְּבוֺד י
 Ex 40,34 ;
 Ex 40,35
 au-dessus la nuée שׁכן
 Nb 9,18 ; Nb 9,22 (durant
 les pérégrinations) ; son plan donné par
-׳י
+׳
+י
 Ex 25,9 ; Ex 26,30
 distingué de אֹהֶל מוֺעֵד la « tente » par-dessus (comparer אֹהֶל
 3),
@@ -79,7 +91,8 @@ Ex
 36,14 ;
 Ex
 40,19
-׳מִשְׁכַּן י
+׳
+מִשְׁכַּן י
 Lv 17,4 (
 
 H
@@ -94,14 +107,16 @@ Jos 22,19
 aussi
 1), 1 Ch 16,39 ; 1 Ch 21,29 ; 2 Ch 1,5 ; 2 Ch 29,6
 הָעֵדֻת
-׳מ
+׳
+מ
 Ex 38,21 ;
 Nb 1,50 ; Nb 1,53 (deux fois
 dans le
 verset) ; Nb 10,11
 
 אהל מועד
-׳מ
+׳
+מ
 Ex 39,32 ;
 Ex 40,2 ; Ex 40,6 ; Ex 40,29 ;
 1 Ch 6,17,
@@ -110,6 +125,7 @@ Ex 40,2 ; Ex 40,6 ; Ex 40,29 ;
 
 comparer מִשְׁכָּן (probablement glose sur אהל), 2 S 7,6 || 1 Ch 17,5, + 76 t. P.
 
+@@SPLIT:sense@@
 3. pluriel מִשְׁכָּנוֺת, demeures (seulement en poésie) :
 
 a. d'Israël, Nb 24,5 (poème ; || אהלים), Jr 30,18 ; Es 54,2 + 4 t. ; d'autres
@@ -118,10 +134,12 @@ nations Jr
 , comparer
 Ez 25,4 (voir
 ci-dessus) ; עַוָּל
-׳מ
+׳
+מ
 Jb 18,21
 רשׁעים
-׳מ
+׳
+מ
 Jb 21,28
 de
 l'onagre Jb 39,6
@@ -137,7 +155,8 @@ b. demeure de Dieu
 43,3
 ; Ps 84,2
 (||
-׳חַצְרוֺת י).
+׳
+חַצְרוֺת י).
 
 ---
 

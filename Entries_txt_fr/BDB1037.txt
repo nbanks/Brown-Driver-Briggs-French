@@ -27,6 +27,7 @@ Gn 26,28 ; Jos 22,34 ; Jg 11,10,
 Gn 42,23 ; 2 S 21,7 ; Jr 25,16 duel
 בֵּנַיִם (voir ci-dessous) ; —
 
+@@SPLIT:sense@@
 1.
 
 toujours (sauf le duel) comme préposition
@@ -228,6 +229,7 @@ dans le verset) ; Ez
 10,7
 .
 
+@@SPLIT:sense@@
 2.
 Duel
 בֵּנַ֫יִם espace entre deux armées (= grec μεταίχμιον), 1 S 17,4 ; 1 S 17,23

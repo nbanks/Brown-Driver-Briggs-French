@@ -10,6 +10,8 @@ oneself, probably Canaanism; Assyrian
 ša—â—u
 is oppress, torment); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular consecutive וְשַׁח
 Isa 2:11; Isa 2:17, 1
@@ -17,7 +19,7 @@ singular שַׁחִ֫וֺתִי
 Ps 38:7,
 שַׁחֹ֫תִי
 Ps 35:14, 3
-plural שׁחֲחוּ
+plural שׁחֲחוּ
 Job 9:13,
 שַׁחוּ
 Hab 3:6; Prov 14:19
@@ -50,6 +52,8 @@ bow, of mourner (קֹדֵר), Ps 35:14; Ps 38:7.
 4.
 crouch, of wild beast in lair Job 38:40.
 
+@@SPLIT:stem@@
+
 Niph`al
 Imperfect
 be prostrated, humbled:
@@ -62,12 +66,16 @@ proceed humbly, of words מֵעָפָר
 Isa 29:4 (||
 שָׁפֵל).
 
+@@SPLIT:stem@@
+
 Hiph`il
 prostrate, lay low, city, walls, etc.; Perfect 3 masculine singular
 הֵךְַ
 Isa 25:12;
 Isa 26:5 (both
 || הִשְׁפִּיל).
+
+@@SPLIT:stem@@
 
 Hithpo`el
 be cast down, despairing: Imperfect 3 feminine singular תִּשְׁתּוֺחָ֑ח

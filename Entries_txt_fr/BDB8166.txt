@@ -4,6 +4,8 @@ hébreu biblique
 [שָׂגָה] verbe
 croître, augmenter (tardif ; || forme de שׂגא) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Imparfait 3 masculin singulier יִשְׂגֶּה
 Ps 92,13
@@ -11,6 +13,8 @@ le juste grandira comme le cèdre (|| יִפְרַח), comparer Jb 8,7 (opposé 
 מִצְעָר ; Jb 8,11 voir
 שׂגא
 ).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Parfait 3 pluriel הִשְׂגּוּחַֿיִל

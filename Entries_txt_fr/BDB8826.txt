@@ -4,6 +4,8 @@ hébreu biblique
 שִׁמְעָא
 nom propre, masculin
 
+@@SPLIT:sense@@
+
 1.
 frère de David
 2 S 21,21
@@ -25,9 +27,15 @@ Kt
 1 S 13,32,
 Σαμα(α) etc., שַׁמָּה (q. v.) 1 S 16,9 ; 1 S 17,13.
 
+@@SPLIT:sense@@
+
 2. fils de David 1 Ch 3,5 (= שַׁמּוּעַ
 
+@@SPLIT:sense@@
+
 1.), Σαμαν, Σαμαα.
+
+@@SPLIT:sense@@
 
 3. lévites, Σομεα, Σαμα(α) :
 

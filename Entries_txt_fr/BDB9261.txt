@@ -30,6 +30,7 @@ Jos 13,7 + 2 t.
 P
 ) ;
 
+@@SPLIT:sense@@
 1. aucun autre nombre :
 
 a. devant nom pluriel תֵּשַׁע אַמּוֺת
@@ -82,6 +83,7 @@ le neuvième (jour) du mois ; שְׁנַתתֵּֿשַׁע לְ
 
 la neuvième année de.
 
+@@SPLIT:sense@@
 2. 9 + 10 = 19, avec nom féminin
 תְּשַׁעעֶֿשְׂרֵה שָׁנָה
 Gn 11,25,
@@ -101,9 +103,11 @@ nom masculin
 2 S 2,30,
 comparer (comme ordinal, גּוֺרָל omis) 1 Ch 24,16 ; 1 Ch 25,26.
 
+@@SPLIT:sense@@
 3. 900 = תְשַׁע מֵאוֺת
 Jg 4,3 + 14 t.
 
+@@SPLIT:sense@@
 4. avec dizaines (20, 30, etc.) : ׳
 ת suivant 2 R 14,2 + 10 t., précède Gn 11,24 + 6 t., comparer
 Kö^ii. 1. 215 ss^.

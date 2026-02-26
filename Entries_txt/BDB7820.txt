@@ -20,6 +20,8 @@ Prov 29:4,
 2Sam 1:21;
 Num 18:19 suffix תְּרוּמֹתָ֑י Num 18:8, etc.; —
 
+@@SPLIT:sense@@
+
 1. earliest use: contribution of products of soil for ׳
 י, תְּרוּמַת יֶדְכֶם
 Deut 12:6; Deut 12:11,
@@ -29,7 +31,11 @@ also Esz
 Deut 20:40;
 Num 15:19; Num 15:20; Num 15:21.
 
+@@SPLIT:sense@@
+
 2. contribution for prince, in Ezekiel's scheme: Ezek 45:13; Ezek 45:16
+
+@@SPLIT:sense@@
 
 3. tract of land to be set apart for temple, and for use of priests and Levites, in Ezekiel's scheme:
 Ezek 45:1; Ezek 48:8; Ezek 48:9; Ezek 48:21b;
@@ -43,6 +49,8 @@ Ezek 48:18; Ezek 45:18; Ezek 45:20b; Ezek 45:21a; Ezek 45:21c; הָאָרֶץ ק
 
 ׳
 ת Ezek 45:12.
+
+@@SPLIT:sense@@
 
 4. contribution to ׳
 י, set apart for priests, Ezek 44:30; Lev 22:12; Num 5:9; Num 18:8; Num 18:11; Num 18:19; 2Chr 31:10; 2Chr 31:12; 2Chr 31:14 specifically:
@@ -84,6 +92,8 @@ d. of booty Num 31:29; Num 31:41; Num 31:52.
 
 e. tithe for Levites Num 18:24.
 
+@@SPLIT:sense@@
+
 5. materials for tabernacle, sacred garments, etc., Exod 25:2 (twice in verse); Exod 25:3; Exod 35:5 (twice in verse); Exod 35:21;
 Exod 35:24
 (twice in verse);
@@ -94,7 +104,11 @@ for temple
 Ezra
 8:25.
 
+@@SPLIT:sense@@
+
 6. half-shekel for maintaining service of sanctuary Exod 30:13; Exod 30:14; Exod 30:15.
+
+@@SPLIT:sense@@
 
 7. late, contribution, in general, אִישׁ תְּרוּמוֺת
 Prov 29:4

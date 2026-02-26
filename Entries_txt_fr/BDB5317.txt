@@ -4,6 +4,7 @@ hébreu biblique
 נִצָּב
 nom masculin
 
+@@SPLIT:sense@@
 1.
 manche, poignée d'épée
 Jg 3,22 (arabe
@@ -11,6 +12,7 @@ Jg 3,22 (arabe
 manche de couteau, 'dans lequel le
 [placeholder3395: Placeholders/3395.gif] [c.-à-d. la soie] est fixé' Lane^2800^).
 
+@@SPLIT:sense@@
 2.
 préfet, gouverneur, voir
 נצב

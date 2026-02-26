@@ -23,6 +23,8 @@ Ezek 24:4 +,
 suffix עֲצָמַי
 Gen 2:23 +, etc.; —
 
+@@SPLIT:sense@@
+
 1.
 bone:
 
@@ -83,6 +85,8 @@ Exod 13:19
 E
 ) +.
 
+@@SPLIT:sense@@
+
 2.
 bone of animal Exod 12:46; Num 9:12 (both
 P
@@ -90,6 +94,8 @@ P
 Ezek
 24:4;
 Ezek 24:5 (symbolic); of (living) hippopotamus Job 40:18.
+
+@@SPLIT:sense@@
 
 3. singular substance, self (compare גֶּרֶם
 3): הַשָּׁמַיִם

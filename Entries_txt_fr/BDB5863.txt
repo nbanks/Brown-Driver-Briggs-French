@@ -5,6 +5,7 @@ I. [עָוָה] verbe
 courber, tordre (ainsi arabe
 [placeholder3751: Placeholders/3751.gif]) ; —
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 1 singulier נַעֲוֵיתִי
 Es 21,3 ; Ps 38,7
@@ -29,6 +30,7 @@ Es 21,3
 Pr 12,8
 quelqu'un de pervers d'esprit.
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 3 masculin singulier עִוָּה, sujet ׳
 י : — Lm
@@ -37,6 +39,7 @@ Parfait 3 masculin singulier עִוָּה, sujet ׳
 Es 24,1
 sa surface, il la déformera (|| בּוֺקֵק הָאָרֶץ).
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 1 singulier יָשָׁר הֶעֱוֵיתִי
 Jb 33,27

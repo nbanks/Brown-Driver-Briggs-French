@@ -12,6 +12,8 @@ Ps 17:1 +,
 Jer 14:12 +; —
 ringing cry:
 
+@@SPLIT:sense@@
+
 1. in entreaty, supplication, to ׳
 י,
 1Kgs 8:28 =
@@ -22,7 +24,11 @@ ringing cry:
 Ps 88:3 (all +
 תְּפִלָּה), Ps 106:44; Ps 119:169; Ps 142:7; Jer 14:12.
 
+@@SPLIT:sense@@
+
 2. in proclamation 1Kgs 22:36.
+
+@@SPLIT:sense@@
 
 3. in joy, especially praise to ׳
 י, +שִׂמְחָה

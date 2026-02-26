@@ -9,6 +9,7 @@ faire voler, disperser (du vent), vanner ; araméen דְּרָא
 [placeholder1554: Placeholders/1554.gif] ; éthiopien
 [placeholder1555: Placeholders/1555.gif] —
 
+@@SPLIT:stem@@
 Qal
 Imparfait
 וַיִּ֫זֶר
@@ -46,6 +47,7 @@ du vannage ; figuré vanner, cribler, dans la purification Jr 4,11 (|| לְהָ�
 ׳
 ז).
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait
 וַיִּזָּרוּ
@@ -57,6 +59,7 @@ Ez 6,8
 quand vous serez dispersés (sur le suffixe pluriel Ew^§
 259 b^, mais Co supprime י).
 
+@@SPLIT:stem@@
 Pi`el
 Parfait suffixe וְזֵרָם
 1 R
@@ -110,6 +113,7 @@ mesures, détermines, d'où
 זֶרֶת
 q. v.)
 
+@@SPLIT:stem@@
 Poual
 être dispersé, Imparfait
 יְזֹרֶה

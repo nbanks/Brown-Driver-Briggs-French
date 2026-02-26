@@ -25,6 +25,8 @@ from Arabic
 form, likeness. Gerber^178^ thinks
 Hebrew verb denominative); —
 
+@@SPLIT:stem@@
+
 Piel
 Imperfect
 יְסַכֵּל
@@ -33,6 +35,8 @@ Imperative
 סַכֶּלנָֿא
 2Sam 15:31,
 make foolish, turn into foolishness.
+
+@@SPLIT:stem@@
 
 Niph`al
 Perfect 2 masculine singular נִסְכַּלְתָּ
@@ -43,6 +47,8 @@ singular נִסְכַּלְתִּי
 2Sam 24:10 =
 1Chr 21:8,
 act or do foolishly.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 2 masculine singular הִסְכַּלְתָּ

@@ -39,6 +39,7 @@ Os 2,3
 אַחְיֹתֵיהֶם
 1 Ch 2,16 ; Jb 1,4 —
 
+@@SPLIT:sense@@
 1.
 sœur
 Gn 4,22 ; Gn 12,13 ;
@@ -57,12 +58,15 @@ nationalité Nb
 25,18 comparer
 Os 2,3.
 
+@@SPLIT:sense@@
 2. = bien-aimée Ct 4,9 ; Ct 4,10 ; Ct 4,12 ; Ct 5,12 (4 t. || כַּלָּה
 fiancée ; expression impliquant à l'origine que le mariage avec la demi-sœur — de même père — était
 permis ? comparer Nö^ZMG 1886^, 150 & Gn 20,12).
 
+@@SPLIT:sense@@
 3. symbolique de Juda, Samarie, Sodome et Jérusalem Jr 3,7 ; Jr 3,8 ; Jr 3,10 ; Ez 16,45 ; Ez 16,52 (deux fois dans le verset) (supprimer Co) +, Ez 23,4 ; Ez 23,11 +.
 
+@@SPLIT:sense@@
 4.
 figuré de lien intime קָרָאתִי ֗֗֗ אִמִּי וַאֲחֹתִי לָרִמָּה
 Jb 17,14
@@ -70,6 +74,7 @@ Jb 17,14
 אֲחֹתִי אַתְּ
 Pr 7,4.
 
+@@SPLIT:sense@@
 5. une autre, אִשָּׁה אֶלאֲֿחֹתָהּ, des rideaux du tabernacle
 Ex 26,3 (deux fois dans le
 verset) ; Ex 26,6

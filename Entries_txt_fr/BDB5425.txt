@@ -16,6 +16,7 @@ construit Es 21,4
 suffixe נִשְׁפּוֺ
 Jb 3,9 —
 
+@@SPLIT:sense@@
 1.
 crépuscule du soir
 2 R 7,5 ; 2 R 7,7 (comparer
@@ -46,6 +47,7 @@ Kit
 Bu) ; Th, d'après Luth, ci-dessous ainsi Buhl^Kex^
 SS ; Löhr admet les deux.
 
+@@SPLIT:sense@@
 2.
 crépuscule du matin
 Jb 7,4 (opposé

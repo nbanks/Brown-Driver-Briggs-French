@@ -18,6 +18,7 @@ DHM^Epigr. Denkm. 48^ ; comparer palmyrénien חבל
 mortuus
 Vog^No. 161^ et souvent) —
 
+@@SPLIT:stem@@
 Qal
 Parfait 1 pluriel חָבַלְנוּ
 Ne 1,7
@@ -27,6 +28,7 @@ Infinitif construit (employé comme absolu) Ne 1,7 — agir de manière corrompu
 חֲבֹל חבלנו לְ
 Ne 1,7 absolu Jb 34,31.
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait
 יֵחָ֫בֶל לוֺ
@@ -43,6 +45,7 @@ RV
 חָבַל
 (q. v.)
 
+@@SPLIT:stem@@
 Pi`el
 ruiner, détruire : Parfait 3 masculin singulier consécutif וְחִבֵּל את מעשׂה
 ידיך
@@ -64,6 +67,7 @@ comparer Participe pluriel מְחַבְּלִים
 Ct 2,15
 avec accusatif des renards ruinant les vignes.
 
+@@SPLIT:stem@@
 Pu`al
 Parfait 3 masculin singulier וְחֻבַּל consécutif Es 10,27 du joug,
 être ruiné, brisé, si vera lectio ; RS^JPh

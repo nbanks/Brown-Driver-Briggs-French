@@ -5,8 +5,12 @@ Biblical Hebrew
 noun masculine
 Amos 2:14
 
+@@SPLIT:sense@@
+
 1.
 flight.
+
+@@SPLIT:sense@@
 
 2.
 place of escape, refuge;
@@ -16,9 +20,13 @@ Amos 2:14 + 5 t.;
 suffix מְנוּסִי
 2Sam 22:3; Jer 16:19 —
 
+@@SPLIT:sense@@
+
 1.
 flight, accusative of cognate meaning with verb with נוּס
 Jer 46:5.
+
+@@SPLIT:sense@@
 
 2. (place of) escape; מִן
 ׳

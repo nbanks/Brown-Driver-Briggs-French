@@ -5,6 +5,8 @@ Biblical Hebrew
 denominative
 make or set a mark; —
 
+@@SPLIT:stem@@
+
 Pi`el
 Imperfect 3 masculine singular ויתו
 
@@ -29,6 +31,8 @@ Ges^l.c. and most^
 he drummed (see
 תפף
 ).
+
+@@SPLIT:stem@@
 
 Hiph`il
 וְהִתְוִ֫יתָ תָו עַלֿ

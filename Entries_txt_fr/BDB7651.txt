@@ -4,6 +4,7 @@ hébreu biblique
 [קָשַׁשׁ] verbe
 dénominatif
 
+@@SPLIT:stem@@
 Po`el
 ramasser du chaume ; — Parfait 3 pluriel consécutif וְקשְׁשׁוּ
 Ex 5,7

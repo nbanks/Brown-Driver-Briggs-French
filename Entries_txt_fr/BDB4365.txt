@@ -13,6 +13,7 @@ Ex 7,22 + 2 t. ;
 Ex 7,11 — toujours
 avec בְּ :
 
+@@SPLIT:sense@@
 1.
 בַּלָּט = secrètement
 1 S 18,22 ;
@@ -20,6 +21,7 @@ avec בְּ :
 בַּלָּאט
 Jg 4,21.
 
+@@SPLIT:sense@@
 2.
 בְּלָטֵיהֶם
 avec leurs mystères = enchantements (c.-à-d. des חַרְטֻמֵּי מִצְרַיִם) Ex 7,22 ; Ex 8,3 ; Ex 8,14 =

@@ -12,6 +12,7 @@ Thes ; arabe
 DHM^Epigr. Denkm. 53^ ; peut-être assyrien âlû, accepter
 , Lyon^Sargontexte 72^) —
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 masculin singulier הוֺאִיל
 Os 5,11 + 2

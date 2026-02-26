@@ -11,6 +11,8 @@ whisper, backbite,
 [placeholder3059: Placeholders/3059.gif]
 perfidy, fraud); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular מָעַל
 Josh 22:20 + 4

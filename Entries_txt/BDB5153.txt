@@ -8,6 +8,8 @@ stretch out, spread out, extend, incline, bend (Late Hebrew id., incline, spread
 [placeholder3286: Placeholders/3286.gif]
 stretch out); —
 
+@@SPLIT:stem@@
+
 Qal_137_
 Perfect 3 masculine singular ׳
 נ
@@ -351,6 +353,8 @@ Ps 21:12
 (
 עַל).
 
+@@SPLIT:stem@@
+
 Niph`al
 be stretched out; — Perfect 3 masculine plural נִטָּ֫יוּ
 
@@ -366,6 +370,8 @@ Zech 1:16
 masculine plural יִנָּטוּ
 Jer 6:4 (of
 shadows, || פָּנָה הַיּוֺם).
+
+@@SPLIT:stem@@
 
 Hiph`il_75_
 Perfect

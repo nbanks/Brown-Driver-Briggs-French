@@ -4,6 +4,7 @@ hébreu biblique
 II. נַעֲמָן_16_
 nom propre, masculin
 
+@@SPLIT:sense@@
 1.
 fils de Benjamin
 Gn 46,21,
@@ -31,6 +32,7 @@ L
 
 Ναμει, Νααμαν.
 
+@@SPLIT:sense@@
 2. général araméen 2 R 5,1 ; 2 R 5,2 ; 2 R 5,6 + 8 t. 2 R 5
 
 ᵐ5

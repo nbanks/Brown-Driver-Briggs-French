@@ -28,6 +28,8 @@ DHM^ZMG xxx (1876), 672^ Arabic
 kurbannu
 (כ), DI^HWS 351^); —
 
+@@SPLIT:stem@@
+
 Qal_93_
 Perfect 3 masculine singular ׳
 ק
@@ -170,6 +172,8 @@ Deut 31:14;
 1Kgs
 2:1
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect 3 masculine singular consecutive וְנִקְרַב אֶלהָֿאֱםהִים
 Exod 22:7
@@ -180,6 +184,8 @@ Josh 7:14
 (compare
 Qal
 h).
+
+@@SPLIT:stem@@
 
 Pi`el
 Perfect 1 singular קֵרַכְתִּי
@@ -241,6 +247,8 @@ RS^Proph. iv, N.19^), compare
 ᵐ5
 
 Now.
+
+@@SPLIT:stem@@
 
 Hiph`il_177_
 Perfect 3 masculine singular הִקְרִיב

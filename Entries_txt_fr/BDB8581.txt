@@ -6,17 +6,20 @@ verbe
 se prosterner (hébreu tardif id. ; judéo-araméen שְׁחִי (rare) ;
 apparenté à שׁוח, שׁחח) ; —
 
+@@SPLIT:stem@@
 Qal
 Impératif féminin singulier שְׁחִי
 Es 51,23
 prosterne-toi.
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait 3 masculin singulier suffixe יַשְׁחֶ֑נָּה
 Pr 12,25
 , figuré, l'inquiétude le déprime (c.-à-d. לֵב ; opposé à
 שִׂמֵּחַ).
 
+@@SPLIT:stem@@
 Hithpalel_170_ (Ges^«GKC:75kk»§ 75kk^)
 Parfait 3 masculin singulier הִשְׁתַּחֲוָה
 Ez 46,2 2

@@ -10,12 +10,14 @@ se réfugier, chercher protection,
 [placeholder3756: Placeholders/3756.gif]
 un refuge) ; —
 
+@@SPLIT:stem@@
 Qal
 Infinitif construit
 לָעוֺז בְּמָעוֺז
 Es 30,2 (||
 לַחְסוֺת בְּ).
 
+@@SPLIT:stem@@
 Hiph`il
 mettre en sécurité, Parfait 3 masculin pluriel הֵעִ֫יזוּ
 Es 10,31,

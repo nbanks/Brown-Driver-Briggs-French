@@ -22,6 +22,7 @@ Lv 25,11,
 נְזִירֶיהָ
 Lm 4,7 —
 
+@@SPLIT:sense@@
 1. du prince, chef, comme consacré :
 נְזִיר אֶחָיו
 
@@ -32,6 +33,7 @@ J
 Lm 4,7
 ses princes.
 
+@@SPLIT:sense@@
 2. spécifiquement d'une personne vouée à
 ׳
 י par vœu impliquant l'abstinence d'alcool, l'interdiction de toucher un cadavre, et de couper les cheveux
@@ -58,6 +60,7 @@ Now^Archaeology ii, § 97^
 Benz^Archaeology 429 s.^
 Gray^JThs. Jan. 1900, 201 ss.^
 
+@@SPLIT:sense@@
 3. = vigne non taillée (comme le naziréen aux cheveux non coupés) Lv 25,5 ; Lv 25,11 (
 H
 

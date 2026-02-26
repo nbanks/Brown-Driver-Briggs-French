@@ -4,12 +4,14 @@ hébreu biblique
 III. [נָצָה] verbe
 tomber en ruines ; —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 3 féminin pluriel עָרַיִךְ תִּצֶּינָה מֵאֵין יוֺשֵׁב
 Jr 4,7
 tes villes tomberont en ruines (lire probablement תִּנָּצֶינָה
 Niph`al).
 
+@@SPLIT:stem@@
 Niph`al
 Participe pluriel גַּלִּים נִצִּים
 monceaux en ruines, c.-à-d. tas de ruines, 2 R 19,25 = Es 37,26. — Sur Jr 2,15 ; Jr 9,9 ; Jr 9,11 ; Jr 46,19

@@ -41,6 +41,7 @@ Gn 37,20 + 3
 t. ; בֹּרֹת
 Dt 6,11 : —
 
+@@SPLIT:sense@@
 1.
 citerne, contenant de l'eau, faite en creusant (חצב) Dt 6,11 ; 2 Ch 26,10 ; Ne 9,25 aussi
 (sans référence à son origine) Pr 5,15 (|| בְּאֵר) Lv 11,36 (|| מַעִיָן), 1 S 19,22 ;
@@ -48,6 +49,7 @@ Es 36,16
 = 2 R 18,31
 .
 
+@@SPLIT:sense@@
 2. plus tardif apparemment puits (= בְּאֵר) 1 Ch 11,17 ; 1 Ch 11,18 =
 
 Qr
@@ -74,6 +76,7 @@ Qr
 Hi
 Gf.
 
+@@SPLIT:sense@@
 3.
 fosse
 Ex 21,33
@@ -97,6 +100,7 @@ figuré de la calamité Ps 40,3
 ׳
 בּ.
 
+@@SPLIT:sense@@
 4.
 cachot (fosse sans eau Jr 38,6 ; Za 9,11 comparer Gn 37,24 ci-dessus) Gn 40,13 ; Gn 41,14 (
 E
@@ -110,6 +114,7 @@ Ex 12,29 ;
 Jr 37,16
 figuré de l'exil Za 9,11 (מִבּוֺר אֵין מַיִם בּוֺ) ; comparer aussi Lm 3,53 ; Lm 3,55.
 
+@@SPLIT:sense@@
 5. (en poésie et tardif ; jamais avec article) fosse du sépulcre
 Pr 28,17 ainsi
 ׳

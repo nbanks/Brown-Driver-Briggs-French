@@ -16,6 +16,8 @@ envoyer un messager, etc., mais alors √ différente pour I. שֶׁלַךְ, ar
 arme ; assyrien probablement šalû (envoyer, lancer ?),
 d'où tešlitu, commandement) ; —
 
+@@SPLIT:stem@@
+
 Qal_562_
 Parfait 3 masculin singulier ׳
 שׁ
@@ -263,11 +265,15 @@ lâcher (voir
 Pi`el), peut-être seulement Ps 50,19 (figuré) ta
 bouche tu l'as lâchée dans le mal.
 
+@@SPLIT:stem@@
+
 Niph`al
 Infinitif absolu וְנִשְׁלוֺחַ סְפָרִים =
 des lettres furent envoyées (Ges
 ^«GKC:113z»§ 113z^ «GKC:113gg»gg) Est 3,13 (+ אֶל
 personne, בְּיַד agent, infinitif de but).
+
+@@SPLIT:stem@@
 
 Piel_266_
 Parfait 3 masculin singulier שִׁלַּח
@@ -494,6 +500,8 @@ Bu
 Be et autres dittographie de Jb 30,11
 b.
 
+@@SPLIT:stem@@
+
 Pu`al
 Parfait 3 masculin singulier שֻׁלַּךְ
 
@@ -539,6 +547,8 @@ Es 27,10
 Pr 29,15
 
 un garçon lâché (sans retenue).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Parfait 1 singulier וְהִשְׁלַחְתִּ֫י

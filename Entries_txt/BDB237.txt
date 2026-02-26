@@ -16,12 +16,16 @@ plural
 אוֺרִים
 Ps 136:7 —
 
+@@SPLIT:sense@@
+
 1.
 light as diffused in nature, light of day Gen 1:3; Gen 1:4; Gen 1:5 (
 P
 ) Job 3:9
 ; Job 38:19
 +.
+
+@@SPLIT:sense@@
 
 2.
 morning light, dawn, אוֺר הַבֹּקֶר light of the morning Judg 16:2; 1Sam 14:36; 1Sam 25:34;
@@ -40,6 +44,8 @@ Judg 19:26
 Job 24:14
 מִןהָֿאוֺר עַד מַחֲצִית הַיּוֺם
 from dawn till mid-day, Neh 8:3 compare Prov 4:18.
+
+@@SPLIT:sense@@
 
 3.
 light of the heavenly luminaries; הַלְּבָנָה
@@ -63,6 +69,8 @@ Isa 18:4 the
 sun itself Job
 31:26.
 
+@@SPLIT:sense@@
+
 4.
 daylight
 אוֺר רְשָׁעִים
@@ -73,6 +81,8 @@ a day of light
 Amos 8:9 (= a
 clear, sunshiny day).
 
+@@SPLIT:sense@@
+
 5.
 lightning
 Job 36:32;
@@ -81,8 +91,12 @@ Job 37:15
 compare Hab 3:11
 .
 
+@@SPLIT:sense@@
+
 6.
 light of lamp Prov 13:9; Jer 25:10 of crocodile's hot breath Job 41:10.
+
+@@SPLIT:sense@@
 
 7.
 light of life
@@ -94,12 +108,16 @@ Ps 56:14
 compare אוֺר
 Job 3:16; Job 3:20.
 
+@@SPLIT:sense@@
+
 8.
 light of prosperity
 Job 22:28;
 Job 30:26;
 Ps 97:11;
 Lam 3:2.
+
+@@SPLIT:sense@@
 
 9.
 light of instruction
@@ -114,6 +132,8 @@ compare עַמִּים
 Isa 51:4 the
 advent of Messiah is shining of great light Isa 9:1 (twice in verse).
 
+@@SPLIT:sense@@
+
 10.
 light of face אוֺר פָּנִים = bright, cheerful face (of men) Job 29:24 betokening king's
 favour Prov
@@ -122,6 +142,8 @@ favour Prov
 א
 Ps 38:11);
 of God = his shining, enlightening, favouring face Ps 4:7; Ps 44:4; Ps 89:16.
+
+@@SPLIT:sense@@
 
 11. Yahweh is יִשְׂרָאֵל
 ׳

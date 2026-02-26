@@ -13,6 +13,7 @@ vin, est probablement un mot emprunté et
 importer du vin étranger dénominatif, Frä^157 f^
 ) ; —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 1 pluriel cohortatif נִסְבְּאָה
 Es 56,12

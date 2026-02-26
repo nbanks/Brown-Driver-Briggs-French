@@ -19,8 +19,12 @@ Num 31:6; 2Chr 13:12
 Num 10:2
 clarion:
 
+@@SPLIT:sense@@
+
 1. as secular instrument Hos 5:8 (|| שׁוֺפָר) 2Kgs 11:14 (twice in verse) = 2Chr 23:13
 (twice in verse).
+
+@@SPLIT:sense@@
 
 2. as sacred instrument 2Kgs 12:14, especially for use by priests (only
 P

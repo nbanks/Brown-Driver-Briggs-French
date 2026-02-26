@@ -14,6 +14,7 @@ Jr 9,1 pluriel suffixe
 עַצְרֹתֵיכֶם
 Am 5,21 —
 
+@@SPLIT:sense@@
 1. assemblée sacrée, rejetée par ׳
 י, Es
 1,13 et (à Béthel, etc.) Am 5,21 pour Baal 2 R 10,20 ; Dt 16,8 (dernier jour des Maƒƒoth), Lv 23,36 (
@@ -31,6 +32,7 @@ P
 Jos^Ant. «JOSEPHUS:Antiquities 3:10»iii. 10^, 6
 Ἀσάρτα] ; occasionnel, Jl 1,14 ; Jl 2,15.
 
+@@SPLIT:sense@@
 2.
 assemblée, compagnie (en général), בֹּגְדִים
 ׳

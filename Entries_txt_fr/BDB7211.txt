@@ -18,6 +18,7 @@ Ps 8,9 pluriel
 צִפְָּרִים
 Lv 14,4 + 5 t. ; —
 
+@@SPLIT:sense@@
 1. oiseau isolé, Am 3,5 ; Os 11,11 (comparaison ; || יוֺנָה), Lm 3,52 ; Jb 40,29 ; Ps 102,8 ; Ps 124,7 ; Pr 6,5 ; Pr 7,23 ; Pr 26,2 ; Pr 27,8 (tous comparaison), Lv 14,5 + 10 t. Lv 14
 ׳
 בָּנָף כָּלצֿ
@@ -40,6 +41,7 @@ RS^Semitic i. 402, 2nd ed. 422^), Lv 14,49 (id.),
 Ps 104,17 ;
 Qo 9,12.
 
+@@SPLIT:sense@@
 2. plus rarement collectif, soit défini Gn 15,10 (deux), soit indéfini Ps 11,1 (figuré), צִפֹּר שָׁמַיִם
 
 Ps 8,9, surtout

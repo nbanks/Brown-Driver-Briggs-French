@@ -8,6 +8,7 @@ démolir, abattre (hébreu tardif Hoph`al, et dérivés ; comparer peut-être é
 
 Di^634^) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier ׳
 נ
@@ -89,6 +90,7 @@ mais voir
 נָתַע
 ).
 
+@@SPLIT:stem@@
 Niph`al
 être démoli, abattu : Parfait 3 pluriel ׳
 נִתְּצוּ מִפְּנֵי י
@@ -99,6 +101,7 @@ villes), ainsi מִמֶּנּוּ
 Na 1,6 (des
 rochers).
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 3 masculin singulier נִתַּץ
 2 Ch 33,3 3
@@ -121,12 +124,14 @@ Ez 16,39
 muraille de ville 2 Ch
 36,19.
 
+@@SPLIT:stem@@
 Pu`al
 être démoli : Parfait 3 masculin singulier נֻתַּץ
 Jg 6,28 (d'un
 autel
 + אֲשֵׁרָה).
 
+@@SPLIT:stem@@
 Hoph`al (ou
 Qal
 passif

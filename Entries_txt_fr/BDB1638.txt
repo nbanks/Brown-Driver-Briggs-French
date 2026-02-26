@@ -12,8 +12,10 @@ Ez 33,21 ;
 Ez 40,1 (qamets
 invariable) ; —
 
+@@SPLIT:sense@@
 1. absolu exil, 2 R 25,27 ; Jr 52,31 ; Ez 1,2 ; Ez 33,21 ; Ez 40,1 ; Am 1,6 ; Am 1,9 ; Ab 1,20 (deux fois dans le verset).
 
+@@SPLIT:sense@@
 2.
 collectif
 exilés, גלות כושׁ

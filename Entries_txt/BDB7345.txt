@@ -21,6 +21,8 @@ threads, so
 
 קַוִּין spider's threads, web); —
 
+@@SPLIT:stem@@
+
 Qal
 Participle plural those waiting for (׳
 י): construct ׳
@@ -45,6 +47,8 @@ Qr
 Kt
 
 קוו, i.e. קֹווֺ).
+
+@@SPLIT:stem@@
 
 Pi`el
 Perfect 3 feminine singular קִוְּתָה

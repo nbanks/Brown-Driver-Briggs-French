@@ -4,6 +4,8 @@ Biblical Hebrew
 [עָנַן] verb
 denominative
 
+@@SPLIT:stem@@
+
 Pi`el
 Infinitive construct suffix with accusative of cognate meaning with verb עַלהָֿאָרֶץ
 ׳

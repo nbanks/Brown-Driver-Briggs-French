@@ -7,10 +7,13 @@ nom propre, masculin (consacré ; comparer sabéen nom propre, masculin
 Hal^411. 504^
 DHM^l.c^.) —
 
+@@SPLIT:sense@@
 1. prêtre de la troisième classe, au temps de David, selon 1 Ch 24,8.
 
+@@SPLIT:sense@@
 2. prêtre du temps de Néhémie Ne 10,6.
 
+@@SPLIT:sense@@
 3. chefs de familles d'exilés revenus :
 
 a.
@@ -25,6 +28,7 @@ Ne 7,35 ; Esd 10,31
 ;
 Ne 3,11.
 
+@@SPLIT:sense@@
 4. un prince Ne 10,28.
 
 ---

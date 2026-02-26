@@ -3,6 +3,7 @@ hébreu biblique
 
 מַדְמַנָּה
 
+@@SPLIT:sense@@
 1.
 nom propre [d'un lieu]
 ville du sud de Juda
@@ -10,6 +11,7 @@ Jos 15,31
 localisation douteuse, Onomasticon Μηδεβηνα = Μηνοεις près de Gaza
 Lag^Onom. 279, 2nd ed. 276^ ; comparer Minyay au sud de Gaza Rob^BR i. 602^ ; sur d'autres identifications proposées comparer Di.
 
+@@SPLIT:sense@@
 2.
 nom propre, masculin
 descendant de Caleb

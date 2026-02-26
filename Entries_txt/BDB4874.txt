@@ -18,6 +18,8 @@ Eccl 12:9 + 2 t.;
 construct מִשְׁלֵי
 Prov 1:1 + 3 t.; —
 
+@@SPLIT:sense@@
+
 1.
 proverbial saying, brief terse sentence of popular sagacity 1Sam 10:12; Ezek 12:22; Ezek 12:23
 ; Ezek 18:2;
@@ -27,6 +29,8 @@ Ezek 18:3
 מ
 1Sam 24:14
 proverb of the ancients.
+
+@@SPLIT:sense@@
 
 2.
 by-word
@@ -41,6 +45,8 @@ Jer 24:9
 וּלְמָשָׁל
 Ezek 14:8
 
+@@SPLIT:sense@@
+
 3. prophetic figurative discourse: נָשָׂא מָשָׁל
 lift up, utter a
 ׳
@@ -51,8 +57,12 @@ Mic 2:4 (||
 נהי) Hab 2:6
 (|| חידה), (compare Job 27:1; Job 29:1 for same phrase under 6).
 
+@@SPLIT:sense@@
+
 4.
 similitude, parable, Ezek 17:2; Ezek 21:5; Ezek 24:3.
+
+@@SPLIT:sense@@
 
 5.
 poem, of various kinds: the ode (Num 21:27-30), the 3,000 pieces traditionally ascribed to Solomon
@@ -60,6 +70,8 @@ poem, of various kinds: the ode (Num 21:27-30), the 3,000 pieces traditionally a
 didactic psalms Ps
 49:5; Ps
 78:2.
+
+@@SPLIT:sense@@
 
 6.
 sentences of ethical wisdom

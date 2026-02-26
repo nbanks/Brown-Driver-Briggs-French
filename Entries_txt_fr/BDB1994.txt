@@ -19,6 +19,7 @@ Gn 41,3,
 דַּקֹּת Gn
 41,4 —
 
+@@SPLIT:sense@@
 1.
 mince, de vaches בָּשָׂר
 ׳
@@ -40,6 +41,7 @@ E
 H
 ).
 
+@@SPLIT:sense@@
 2.
 petit, fin, de la manne דַּק מְחֻסְפָּס דַּק כַּכְּפֹר
 Ex 16,14

@@ -18,10 +18,12 @@ Str^§ 8 c^
 K^Aramaismen 40^) Esd 6,14 ; Esd 7,23 emphatique טַעְמָא
 Esd 4,21 —
 
+@@SPLIT:sense@@
 1.
 Dn 5,2 dans
 le goût du vin (pendant qu'ils le savouraient).
 
+@@SPLIT:sense@@
 2.
 jugement, discernement, en réponse, ׳
 הֲתִיב עֵטָא וּט
@@ -36,12 +38,14 @@ Dn 3,12 ; Dn 6,14 (Pr 26,16
 Dn 3,12 ; Dn 6,14
 montrer la déférence convenable envers (עַל).
 
+@@SPLIT:sense@@
 3.
 rapport (officiel), avec הלך
 Esd 5,5,
 יהב
 Dn 6,3.
 
+@@SPLIT:sense@@
 4.
 commandement, de Dieu Esd 6,14 ; Esd 7,23, du roi Esd 6,14
 ׳

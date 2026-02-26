@@ -19,6 +19,8 @@ regarder d'en haut, de
 [placeholder5723: Placeholders/5723.gif]
 s'élever) ; —
 
+@@SPLIT:stem@@
+
 Niph`al
 Parfait 3 féminin singulier נִשְׁקְפָה
 Jg 5,28+,
@@ -51,6 +53,8 @@ Nb 21,20
 We
 Dr
 HPS et d'autres).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Parfait 3 masculin singulier הִשְׁקִיף

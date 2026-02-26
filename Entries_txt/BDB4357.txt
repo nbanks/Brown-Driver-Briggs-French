@@ -6,6 +6,8 @@ Biblical Hebrew
 [placeholder2777: Placeholders/2777.gif]
 have recourse to, take refuge in); —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect
 מֵעֵינֶ֑יךָ אַליָֿלֻזוּ
@@ -13,6 +15,8 @@ Prov 3:21
 let them not (i.e. sound wisdom, etc., si vera 1., compare
 VB
 ) depart from thine eyes (see Hiph`il).
+
+@@SPLIT:stem@@
 
 Niph`al
 Participle
@@ -37,6 +41,8 @@ Prov 3:32 of course of action Isa 30:12
 compare De
 Che
 Di.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imperfect

@@ -15,11 +15,15 @@ SAC^100^ (Arabic
 pašâru
 ); —
 
+@@SPLIT:stem@@
+
 Pe`al
 Infinitive
 לְמִפְשַׁר
 Dan 5:16,
 accusative of cognate meaning with verb פִשְׁרִין
+
+@@SPLIT:stem@@
 
 Pa`el
 Participle

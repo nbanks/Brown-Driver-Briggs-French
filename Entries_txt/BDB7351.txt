@@ -11,6 +11,8 @@ Job 8:13 +; suffix
 תִּקְוָתִי
 Job 6:8 +, etc.; —
 
+@@SPLIT:sense@@
+
 1.
 hope, Jer 31:17; Lam 3:29; Job 5:16; Job 7:6; Job 11:18; Job 11:20; Job 14:7; Job 14:19; Job 17:15a Job 19:10; Ps 62:6; Prov 19:18
 ; Prov 26:12
@@ -25,7 +27,11 @@ Hos 2:17
 Zech 9:12
 (i.e. with hope of deliverance).
 
+@@SPLIT:sense@@
+
 2. = ground of hope Job 4:6; Ps 71:5 (compare Ps 62:6).
+
+@@SPLIT:sense@@
 
 3.
 things hoped for, outcome, Ezek 19:5; Ezek 37:11; Job 6:8; Job 8:13; Job 17:15b (but read טוֺבָתִי

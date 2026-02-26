@@ -4,6 +4,7 @@ hébreu biblique
 [זָעַךְ] verbe
 éteindre, seulement
 
+@@SPLIT:stem@@
 Niph`al
 être éteint
 יָמַי נִזְעָ֑כוּ

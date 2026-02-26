@@ -6,6 +6,8 @@ verb
 rule, have dominion, reign (Late Hebrew Participle
 id.; Phoenician משל); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular וּמָשַׁל consecutive Zech 6:13 + 2 t., מָשָׁ֑ל
 
@@ -136,6 +138,8 @@ absolute Ps 66:7
 זּזְרֹעוֺ מ
 Isa 40:10
 his arm ruling for him.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 masculine singular suffix consecutive וְהִמְשִׁילָם

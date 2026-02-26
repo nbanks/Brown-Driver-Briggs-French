@@ -7,12 +7,14 @@ Hithpa`el
 se moquer (comparer arabe bégayer, aussi secouer violemment
 ; onomatopée) ; —
 
+@@SPLIT:stem@@
 Pilpel
 Participe
 מְתַעְתֵּ֑עַ
 Gn 27,12
 = substantif un moqueur.
 
+@@SPLIT:stem@@
 Hithpa`el
 Participe pluriel מִתַּעְתְּעִים
 2 Ch

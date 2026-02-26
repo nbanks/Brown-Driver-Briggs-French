@@ -9,6 +9,7 @@ penser, compter (hébreu tardif id. ; araméen חֲשַׁב,
 [placeholder2027: Placeholders/2027.gif]
 id. ; phénicien nom חשב sens douteux voir CIS^i. 86^) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 ׳
@@ -247,6 +248,7 @@ E
 Niph`al
 3) ; ne pas imputer l'iniquité à quelqu'un Ps 32,2.
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 נֶחְשַׁב
@@ -333,6 +335,7 @@ Qal
 II
 3).
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 3 masculin singulier חִשַּׁב
 
@@ -395,6 +398,7 @@ P
 2 R
 12,16.
 
+@@SPLIT:stem@@
 Hithpa`el
 Imparfait
 בַּגּוֺיִם לֹא יִתְחַשָּׁ֑ב

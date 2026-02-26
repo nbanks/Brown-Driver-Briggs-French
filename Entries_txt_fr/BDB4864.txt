@@ -19,6 +19,7 @@ suffixe מְשִׁיחָ֑י
 Ps 105,15 ;
 1 Ch 16,22 —
 
+@@SPLIT:sense@@
 1. roi d'Israël oint par commandement divin, יהוה
 ׳
 מ
@@ -41,15 +42,18 @@ suffixes référence à ׳
 Ps 20,7 ; Ps 28,8 ; Ha 3,13 dynastie
 davidique avec idéaux messianiques attachés Ps 2,2 ; Ps 18,51, = 2 S 22,51 ; Ps 89,39 ; Ps 89,52 ; Ps 132,10 = 2 Ch 6,42 ; Ps 132,17 ; 1 S 2,10 ; 1 S 2,35.
 
+@@SPLIT:sense@@
 2. grand prêtre d'Israël, הַכֹּהֵן הַמָּשִׁיחַ, Lv 4,3 ; Lv 4,5 ; Lv 4,16 ; Lv 6,15 (
 P
 ) ; מְשִׁיחֶ֑ךָ
 Ps 84,10.
 
+@@SPLIT:sense@@
 3. Cyrus comme mandaté par ׳
 י, מְשִׁיחוֺ
 Es 45,1.
 
+@@SPLIT:sense@@
 4.
 prince messianique, עַדמָֿשִׁיחַ נָגִיד
 Dn 9,25 =
@@ -68,6 +72,7 @@ Co
 Bev
 Behrm]).
 
+@@SPLIT:sense@@
 5. patriarches, considérés comme rois oints Ps 105,15 = 1 Ch 16,22.
 
 ---

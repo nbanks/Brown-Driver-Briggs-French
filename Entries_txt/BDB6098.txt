@@ -19,6 +19,8 @@ Isa 1:16 +,
 Isa 3:10 +, etc.;
 —
 
+@@SPLIT:sense@@
+
 1. usually (especially Jer 17 t.) bad practices of men, רַע מַעֲלָלִים
 
 1Sam 25:3 he was
@@ -57,6 +59,8 @@ Mic 3:4
 ׳
 פְּרִי מ, i.e. their consequences, Isa 3:10; Jer 17:10; Jer 21:14; Jer 32:19 (+ דֶּרֶךְ).
 
+@@SPLIT:sense@@
+
 2.
 deeds of ׳
 י
@@ -64,6 +68,8 @@ Ps 77:12,
 of אֵל
 Ps 78:7 compare
 Mic 2:7.
+
+@@SPLIT:sense@@
 
 3.
 acts, in general, of youth Prov 20:11 (|| פָּעֳלוֺ).

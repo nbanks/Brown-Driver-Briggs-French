@@ -1,6 +1,7 @@
 === BDB4526 H4116 ===
 hébreu biblique
 
+@@SPLIT:section@@
 I.
 מַהֵר
 adjectif
@@ -25,6 +26,8 @@ We
 Dr
 Bu ; corruption plus profonde supposée par HPS
 .
+
+@@SPLIT:section@@
 
 II.
 מַהֵר

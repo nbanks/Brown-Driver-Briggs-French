@@ -5,6 +5,7 @@ I. [אָזַן]_42_
 verbe
 dénominatif
 
+@@SPLIT:stem@@
 Hiph`il
 prêter l'oreille, écouter, entendre, presque entièrement poétique — Parfait
 הֶאֱזִין

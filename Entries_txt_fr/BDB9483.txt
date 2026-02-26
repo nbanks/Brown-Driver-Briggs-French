@@ -8,6 +8,8 @@ araméen biblique
 ^j^
 ; voir hébreu biblique [זִיד, זוּד]) ; —
 
+@@SPLIT:stem@@
+
 Haph'el
 Infinitif
 לַהֲוָדָה

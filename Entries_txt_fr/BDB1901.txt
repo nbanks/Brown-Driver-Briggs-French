@@ -8,6 +8,7 @@ pousser, repousser (hébreu tardif id., araméen דְּחִי,
 [placeholder1121: Placeholders/1121.gif] ; cf aussi arabe
 [placeholder1122: Placeholders/1122.gif], étendre, déployer, aussi jeter, propulser) —
 
+@@SPLIT:stem@@
 Qal
 Parfait 2 masculin singulier suffixe דְּחִיתַנִי
 Ps 118,13
@@ -46,6 +47,7 @@ muraille
 Ps 62,4 (||
 קיר נטוי).
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait
 יִדָּחֶה
@@ -58,6 +60,7 @@ Es 56,8 ; Ps 147,2,
 voir ci-dessous נדח) ; — être renversé ou abattu,
 figuré du méchant Pr 14,32, comparer Ps 35,6 ci-dessus
 
+@@SPLIT:stem@@
 Pu`al
 Parfait 3 pluriel
 דֹּחוּ

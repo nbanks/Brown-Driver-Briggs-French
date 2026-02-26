@@ -26,6 +26,8 @@ Gen 25:23; Num 5:22
 5 t.; מֵעֵיהֶם
 Ezek 7:19 —
 
+@@SPLIT:sense@@
+
 1. literally:
 
 a.
@@ -48,6 +50,8 @@ precision, nearly = stomach, belly, Job 20:14; Ezek 3:3 (|| בֶּטֶן
 7:19 (||
 נֶפֶשׁ; both with מָלֵא), Num 5:22 so of fish that swallowed Jonah Jonah 2:1; Jonah 2:2.
 
+@@SPLIT:sense@@
+
 2. source of procreation: אשׁר יצא
 ׳
 מִמּ (said of offspring) Gen 15:4 (
@@ -66,6 +70,8 @@ id.); ׳
 2Chr 32:21
 .
 
+@@SPLIT:sense@@
+
 3. = womb, שְׁנֵי לְאֻמִּים מִמֵּעַיִח יִפָּרֵ֑דוּ
 Gen 25:23 (
 
@@ -74,12 +80,16 @@ J
 ), Ruth
 1:11.
 
+@@SPLIT:sense@@
+
 4. in general = inwards, inward part, ׳
 לִבִּי ֗֗֗ נָמֵס בְּתוֺךְ מ
 Ps 22:15,
 compare ׳
 תּוֺרָֽתְךָ בְּתוֺךְ מ
 Ps 40:9.
+
+@@SPLIT:sense@@
 
 5.
 figurative = seat of emotions: pity, Isa 16:11 (|| קֶרֶב); of God's compassion, Jer 31:20
@@ -96,6 +106,8 @@ liver); מֵעַי רֻתְּחוּ
 Job 30:27
 (dubious, see Bu); love, מֵעַי הָמוּ עָלָיו
 Song 5:4.
+
+@@SPLIT:sense@@
 
 6. the external belly, מֵעָיו עֶשֶׁת שֵׁן
 Song 5:14.

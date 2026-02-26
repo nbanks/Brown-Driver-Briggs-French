@@ -5,12 +5,16 @@ Biblical Hebrew
 verb
 turn away (intransitive) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular עָבָ֑ר
 ׳
 וְדוֺדִי ח
 Song 5:6
 and my beloved had turned away, passed on.
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Imperfect 2 feminine singular עַדמָֿתַי תִּתְחַמָּקִין הַבַּת הַשּׁוֺבֵבָה

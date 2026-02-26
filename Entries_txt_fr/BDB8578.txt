@@ -4,6 +4,7 @@ hébreu biblique
 [שָׁזַר]_21_
 verbe
 
+@@SPLIT:stem@@
 Hoph`al
 être torsadé (hébreu tardif שָׁזַר
 tordre ; comparer arabe

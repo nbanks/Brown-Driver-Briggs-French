@@ -15,6 +15,7 @@ suffixe קוֺמָתוֺ
 Ex 25,10 +,
 etc. ; —
 
+@@SPLIT:sense@@
 1.
 hauteur, d'une personne, stature
 1 S 16,7 ; Ez 13,18
@@ -23,12 +24,14 @@ hauteur, d'une personne, stature
 1 S 28,20
 toute sa longueur.
 
+@@SPLIT:sense@@
 2. d'un arbre 2 R 19,23 = Es 37,24 en figure Es 10,33 ; Ez 31,3 ; Ez 31,5 ; Ez 31,10 ; Ez 31,14 de la vigne (figuré) Ez 19,11 et
 ׳
 שִׁפְלַת ק
 Ez 17,6
 basse de hauteur.
 
+@@SPLIT:sense@@
 3. de structures artificielles : temple, ses parties, son mobilier, etc., 1 R 6,2 + 12 t. 1 R 6 ; 1 R 7 ; 2 R 25,17 (deux fois dans le verset) = Jr 52,21 ; Jr 52,22 ; 2 Ch 4,1 ; 2 Ch 4,2 ; 2 Ch 6,13 un mur
 Ez 40,5
 tabernacle et mobilier Ex 25,10 ; Ex 25,23 + 8 t. Exode (tous

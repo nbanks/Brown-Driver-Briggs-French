@@ -4,6 +4,8 @@ hébreu biblique
 [שָׁגֵל] verbe
 violer, ravir (les Massorètes considèrent le verbe comme obscène et substituent שָׁכַב) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Imparfait 3 masculin singulier suffixe יִשְׁגָּלֶנָּה
 Dt 28,30
@@ -13,6 +15,8 @@ Kt
 Qr
 
 יִשְׁכָּבֶנָּה).
+
+@@SPLIT:stem@@
 
 Niph`al
 Imparfait 3 féminin pluriel תִּשָּׁגַלְנָה
@@ -25,6 +29,8 @@ Kt
 Qr
 
 תִּשְּׁכַבְנָה).
+
+@@SPLIT:stem@@
 
 Poual < Qal passif (Ges
 ^«GKC:52e»§ 52e^) Parfait 2 féminin singulier אֵיפֹה לֹא שֻׁגַּלְתְּ

@@ -12,6 +12,8 @@ hébreu biblique
 [placeholder4208: Placeholders/4208.gif]
 être lascif, dans les formes dérivées et dérivés) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Participe
 אֲנָשִׁים רֵיקִים וּפֹחֲזִים

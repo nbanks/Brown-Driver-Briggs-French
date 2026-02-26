@@ -8,6 +8,8 @@ changer, substituer, Mishna בָּדַל
 diviser, syriaque
 [placeholder506: Placeholders/506.gif] Ithpe`el, Ethpe`el) —
 
+@@SPLIT:stem@@
+
 Hiph`il
 diviser, séparer ; Parfait
 הִבְדִּיל
@@ -107,6 +109,8 @@ diviser en parties
 Lv 1,17 ; Lv 5,8 (
 P
 ), interdit dans le cas d'oiseaux offerts en sacrifice.
+
+@@SPLIT:stem@@
 
 Niph`al
 Parfait

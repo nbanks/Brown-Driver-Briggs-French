@@ -3,6 +3,7 @@ hébreu biblique
 
 [שָׁנַס] verbe
 
+@@SPLIT:stem@@
 Pi`el
 ceindre (si vera lectio ; dans le Talmud (araméen) שְׁנַץ = attacher
 sandales ; hébreu tardif שֶׁנֶץ

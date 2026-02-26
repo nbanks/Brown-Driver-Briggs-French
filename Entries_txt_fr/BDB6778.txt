@@ -8,6 +8,7 @@ voler ;
 [placeholder4317: Placeholders/4317.gif]
 insecte, oiseau) ; —
 
+@@SPLIT:stem@@
 Qal
 Participe féminin pluriel לְפֹרְחוֺת
 Ez 13,20

@@ -14,6 +14,7 @@ apparemment √ des quatorze mots suivants, mais cela est douteux surtout dans l
 לְבָנָא, לִבְנָה, II. לְבוֺנָה, I. II. לִבְנִי) ;
 —
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 pluriel הִלְבִּינוּ
 Jl 1,7
@@ -37,6 +38,7 @@ Es 1,18
 מִשֶּׁלֶג אַלְב
 Ps 51,9.
 
+@@SPLIT:stem@@
 Hithpa`el
 Imparfait
 יִתְלַבְּנוּ

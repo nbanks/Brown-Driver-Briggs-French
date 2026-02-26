@@ -17,6 +17,7 @@ répéter, aussi enseigner,
 deux, voir Philippi^ZMG xxxii (1878), 77^
 Ba^ib. xli (1887), 603^) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier ׳
 שׁ
@@ -52,6 +53,7 @@ Qo 42,1) ; Pr 26,11 un
 sot revient à (ב) sa folie, la refait (n'apprend rien de
 l'expérience).
 
+@@SPLIT:stem@@
 Niph`al
 Infinitif construit
 וְעַל הִשָּׁנוֺת הַחֲלוֺם אֶלפַּֿרְעֹה פַּעֲמָ֑יִם

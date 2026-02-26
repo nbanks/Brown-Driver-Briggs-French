@@ -6,6 +6,7 @@ verbe
 dénominatif (Gerber^31^) agir injustement
 ; —
 
+@@SPLIT:stem@@
 Pi`el
 Imparfait 3 masculin singulier יְעַוֵּל
 Es 26,10

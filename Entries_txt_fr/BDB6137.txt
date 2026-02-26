@@ -19,6 +19,7 @@ suffixe עֲמָלִי
 Gn 41,51 +,
 etc. ; —
 
+@@SPLIT:sense@@
 1.
 peine (|| chagrin) : sa propre souffrance, עָמָל וְיָגוֺן
 Jr 20,18
@@ -79,6 +80,7 @@ Pr 31,7
 נפשׁו בע
 Jg 10,16.
 
+@@SPLIT:sense@@
 2.
 peine, méfait, fait à autrui : || שֹׁד
 Pr 24,2
@@ -105,6 +107,7 @@ Ps 140,10
 
 méfait de leurs lèvres.
 
+@@SPLIT:sense@@
 3.
 labeur, travail (tardif en hébreu) : Qo 2,10 (deux fois dans le verset) ; Qo 2,21 ; Qo 2,24 ; Qo 3,13 ; Qo 4,4 ; Qo 4,6 ; Qo 4,8 ; Qo 4,9 ; Qo 5,14 ; Qo 5,18 ;
 Qo 6,7 ; Qo 8,15 ;

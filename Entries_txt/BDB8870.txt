@@ -10,6 +10,8 @@ Isa 5:6 +; suffix
 שְׁמִירוֺ
 Isa 10:17 —
 
+@@SPLIT:sense@@
+
 1.
 collective
 thorns, thorn-bushes, token of waste-land, only Isaiah, + שַׁיִת
@@ -20,6 +22,8 @@ figurative Isa 9:17
 ׳
 קוֺץ שׁ
 Isa 32:13.
+
+@@SPLIT:sense@@
 
 2.
 adamant, as sharp, כְּתוּבָה ֗֗֗ בְּצִפֹּרֶן

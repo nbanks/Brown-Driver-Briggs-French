@@ -10,6 +10,7 @@ ici (peut-être de II. הֵן, employé δεικτικῶς, avec ה
 [placeholder1333: Placeholders/1333.gif]
 ici) —
 
+@@SPLIT:sense@@
 a. de lieu : (a) ici Gn 15,16
 יָשׁוּבוּ הֵנָּךְ, Gn 42,15 ; Gn 45,5 que vous m'avez vendu הֵנָּה
 ici, Gn 45,8 Gn 45,13 ; Jos 2,2 ; Jos 3,9 ; Jos 18,6 ; 2 S 1,10 ; Es 57,3
@@ -50,6 +51,7 @@ ici, Dn 12,5
 חֵנָּה לְ
 de ce côté de . . . de ce côté-là de . . .
 
+@@SPLIT:sense@@
 b. de
 temps, dans עַד הֵנָּה
 jusqu'ici

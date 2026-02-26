@@ -4,6 +4,8 @@ Biblical Hebrew
 חֲנוֺךְ
 proper name, masculine
 
+@@SPLIT:sense@@
+
 1.
 son of Cain
 Gen 4:17 (twice in
@@ -20,11 +22,15 @@ L
 
 Ενως.
 
+@@SPLIT:sense@@
+
 2. son of Jered (line of Seth), the pious Enoch, who walked with God and was taken by him Gen 5:18; Gen 5:19; Gen 5:21; Gen 5:22; Gen 5:23; Gen 5:24; 1Chr 1:3
 
 ᵐ5
 
 Ενωχ.
+
+@@SPLIT:sense@@
 
 3.
 חֲנֹךְ a son of Midian Gen 25:4; 1Chr 1:33,
@@ -32,6 +38,8 @@ L
 ᵐ5
 
 Ενωχ.
+
+@@SPLIT:sense@@
 
 4.
 חֲנוֺךְ a son of Reuben Gen 46:9; Exod 6:14; Num 26:5; 1Chr 5:3,

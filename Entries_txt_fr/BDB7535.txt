@@ -8,6 +8,7 @@ verbe
 [placeholder4828: Placeholders/4828.gif]
 être courroucé, aussi être anxieux, craintif) ;-
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier ׳
 ק
@@ -50,6 +51,7 @@ P
 37,15 ; 1 S
 29,4 ; 2 R 13,19.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 2 masculin singulier הִקְצַפְתָּ
 Dt 9,7 2
@@ -67,6 +69,7 @@ provoquer la colère, avec accusatif ׳
 Dt 9,7 ; Dt 9,8 ; Dt 9,22 ; Za 8,14 de même
 (accusatif omis) Ps 106,32.
 
+@@SPLIT:stem@@
 Hithpa`el
 se mettre en fureur : Parfait 3 masculin singulier consécutif וְהִתְקַצַּף
 

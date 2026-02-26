@@ -18,6 +18,8 @@ id., be sweet; Arabic
 [placeholder3131: Placeholders/3131.gif]
 sweetness); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular suffix מְתָקוֺ
 Job 24:20 3
@@ -53,6 +55,8 @@ Buhl (compare Kau
 Da; also SS who render 'angenehm
 finden'), but this sense in Hebrew dubious; text perhaps corrupt (compare conjectures by Bu
 Du).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imperfect 3 feminine singular אִם תַּמְתִּיק בְּפִיו רָעָה

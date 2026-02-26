@@ -15,6 +15,8 @@ the †or°a¹n
 call, etc., so Old Aramaic קרא, Nabatean id.,
 Palmyrene id., קרה); —
 
+@@SPLIT:stem@@
+
 Qal_655_
 Perfect
 ׳
@@ -627,6 +629,8 @@ call cities (accusative) בְּשֵׁם, i.e, specify them,
 Josh 21:9; 1Chr 6:50 (
 בְּשֵׁמוֺת).
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect 3 masculine singular נִקְרָא
 Jer
@@ -800,6 +804,8 @@ Isa 14:20 (9) subject
 
 Eccl 6:10, i.e. thing is
 known.
+
+@@SPLIT:stem@@
 
 Pu`al (Ezekiel and
 Isa^2^) Perfect 3 masculine

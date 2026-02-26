@@ -19,6 +19,8 @@ use אם,
 אין, Syriac
 [placeholder5998: Placeholders/5998.gif]]); —
 
+@@SPLIT:sense@@
+
 1.
 if, Dan
 2:6; Dan
@@ -33,12 +35,16 @@ Dan 2:5; Dan 2:9; Dan 3:15 Dan 3:18
 הֵן לָ֔א
 if not.
 
+@@SPLIT:sense@@
+
 2. repeated, הֵן ֗֗֗ הֵן
 sive … sive, whether … or (compare Biblical Hebrew אִם, 1 b 1),
 Ezra 7:26 (so
 Palmyrene^
 Tariff ii.c.19
 ^).
+
+@@SPLIT:sense@@
 
 3. in indirect question, whether (compare אִם, 2.b.), Ezra 5:17b יִתְבַּקַּר ֗֗֗ הֵן אִיתַי ֗֗֗ . — See also
 לָהֵן. p. 50, 243, 1099

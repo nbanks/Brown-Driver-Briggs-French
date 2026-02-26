@@ -12,6 +12,8 @@ be bereaved (= Arabic
 [placeholder5531: Placeholders/5531.gif]
 loss of children); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 1 singular כַּאֲשֶׁר שָׁכֹלְתִּי שָׁכָ֑לְתִּי
 Gen 43:14 (
@@ -27,6 +29,8 @@ E
 singular תִּשְׁכַּל מִנָּשִׁים אִמֶּ֑ךָ
 1Sam 15:33
 thy mother shall be bereaved above (more than) women.
+
+@@SPLIT:stem@@
 
 Pi`el
 Perfect 3 feminine singular שִׁכְּלָה
@@ -78,6 +82,8 @@ E
 ; + עֲקָרָה), animals Gen 31:38 (
 E
 ) Job 21:10 (2) of vine Mal 3:11.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Participle

@@ -30,6 +30,8 @@ Num 5:10; 2Kgs 12:19,
 2Chr 15:18,
 etc.; —
 
+@@SPLIT:sense@@
+
 1.
 apartness, sacredness, holiness, of God:
 
@@ -71,6 +73,8 @@ Isa 63:10;
 Isa 63:11,
 compare Ps 51:13
 .
+
+@@SPLIT:sense@@
 
 2. of places set apart as sacred by God's presence:
 
@@ -245,6 +249,8 @@ Ezek 45:3
 Ezek 48:14
 .
 
+@@SPLIT:sense@@
+
 3. things consecrated at sacred places:
 
 a. furniture of tabernacle
@@ -339,6 +345,8 @@ Dan 9:24
 .
 ^
 
+@@SPLIT:sense@@
+
 4. persons sacred by connection with sacred places:
 
 a. priests Lev 21:6; 2Chr 23:6;
@@ -400,6 +408,8 @@ Dan 11:28
 ; Dan
 11:30 (twice in verse).
 
+@@SPLIT:sense@@
+
 5. times consecrated to worship: שׁבת
 Exod 16:23;
 Exod 31:14;
@@ -426,6 +436,8 @@ Lev 23; Num
 (all
 P
 ).
+
+@@SPLIT:sense@@
 
 6. of things and persons ceremonially cleansed, and so separated as sacred; things 1Sam 21:6 .flesh
 Jer 11:15;

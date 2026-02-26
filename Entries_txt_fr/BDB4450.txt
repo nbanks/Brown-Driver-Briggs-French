@@ -18,6 +18,7 @@ DHM^Sendsch. 59^ ; araméen aussi Inscription de
 Carpentras^3^ (Impératif קחי) ; comparer
 Cook^Gloss^ Aramaic Inscr) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 ׳
@@ -586,6 +587,7 @@ et nous tirerons vengeance de lui ; absolu נָקָם אֶקַּח
 Es 47,3
 vengeance je tirerai.
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 נִלְקַח
@@ -629,6 +631,7 @@ d'Élie 2 R
 être pris, amené auprès de (אֶלֿ), seulement Est 2,8 ; Est
 2,16.
 
+@@SPLIT:stem@@
 Poual
 Parfait
 לֻקַּח
@@ -664,6 +667,7 @@ Niph`al
 2 R 2,10 (avec מֵאֵת personne), de la mort Es 53,8 (avec
 מִן, probablement instrumental)
 
+@@SPLIT:stem@@
 Hoph`al
 Imparfait
 יֻקַּח
@@ -685,6 +689,7 @@ Ez 15,3 (מִן partitif)
 être enlevé à Es 49,24 (מִן
 personne) ; absolu Es 49,25.
 
+@@SPLIT:stem@@
 Hithpa`el
 Participe féminin singulier אֵשׁ מִתְלַקַּ֫חַת
 littéralement feu se saisissant lui-même, de la foudre

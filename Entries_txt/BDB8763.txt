@@ -3,6 +3,8 @@ Biblical Hebrew
 
 I. [שִׁלֵּשׁ]
 
+@@SPLIT:stem@@
+
 Pi`el
 denominative
 do a third time, devide into three parts, etc.; — Perfect 2 masculine singular
@@ -33,6 +35,8 @@ Dr and others (compare
 1Kgs 18:34,
 and Imperative masculine plural שַׁלֵּ֑שׁוּ 1Kgs 18:34
 do a third time.
+
+@@SPLIT:stem@@
 
 Pu`al
 Participle

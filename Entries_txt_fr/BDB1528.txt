@@ -6,6 +6,7 @@ nom propre (arabe
 [placeholder823: Placeholders/823.gif]
 mur) ; —
 
+@@SPLIT:sense@@
 1.
 nom propre [d'un lieu]
 ville de Juda
@@ -18,6 +19,7 @@ aussi הַגְּדוֺר
 d. H. ; הַגְּדוּד
 Baer, comparer sa note.
 
+@@SPLIT:sense@@
 2.
 nom propre [d'un lieu]
 גְּדֹר
@@ -30,6 +32,7 @@ Ew
 Hi
 Be et d'autres
 
+@@SPLIT:sense@@
 3.
 nom propre, masculin
 גְּדוֺר

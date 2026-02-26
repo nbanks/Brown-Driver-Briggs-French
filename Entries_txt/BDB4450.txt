@@ -18,6 +18,8 @@ DHM^Sendsch. 59^; Aramaic also Inscription of
 Carpentras^3^ (Imperative קחי); compare
 Cook^Gloss^ Aramaic Inscr); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 ׳
@@ -586,6 +588,8 @@ and we will take our vengeance upon him; absolute נָקָם אֶקַּח
 Isa 47:3
 vengeance will I take.
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect
 נִלְקַח
@@ -629,6 +633,8 @@ Elijah 2Kgs
 be taken, brought unto (אֶלֿ), only Esth 2:8; Esth
 2:16.
 
+@@SPLIT:stem@@
+
 Pu`al
 Perfect
 לֻקַּח
@@ -664,6 +670,8 @@ Niph`al
 2Kgs 2:10 (with מֵאֵת person), of death Isa 53:8 (with
 מִן, probably instrumental)
 
+@@SPLIT:stem@@
+
 Hoph`al
 Imperfect
 יֻקַּח
@@ -684,6 +692,8 @@ Ezek 15:3 (מִן partitive)
 3.
 be taken away from Isa 49:24 (מִן
 person); absolute Isa 49:25.
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Participle feminine singular אֵשׁ מִתְלַקַּ֫חַת

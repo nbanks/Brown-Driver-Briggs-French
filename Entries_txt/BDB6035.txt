@@ -26,6 +26,8 @@ Zech 1:17,
 עָרֵיכֶם
 Isa 1:7 +, etc.; —
 
+@@SPLIT:sense@@
+
 1.
 city, town, abode of men Gen 4:17 (
 J
@@ -264,6 +266,8 @@ Ezek
 22:2;
 Ezek 24:6; Ezek 24:9 and (of Nineveh) Nah 3:1.
 
+@@SPLIT:sense@@
+
 2. of fortress in a city especially עִיר דָּוִד
 2Sam 5:7; 2Sam 5:9; 2Sam 6:10 + often
 (see דָּוִד); כֵית הַבָּ֑עַל
@@ -279,6 +283,8 @@ Kit); הַמַּיִם
 2Sam 12:27
 (so read also 2Sam
 12:26, see 1.d.).
+
+@@SPLIT:sense@@
 
 3. apparently fortified place, of any size, עִיר מִבְצָר בְּכָלעָֿרֵיהֶם מִמִּגְּדַּל
 נוֺצְרִים עַדֿ

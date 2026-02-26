@@ -9,6 +9,7 @@ ressentir la douleur ; araméen
 [placeholder1696: Placeholders/1696.gif], חוּשׁ, ressentir la douleur ; éthiopien
 [placeholder1697: Placeholders/1697.gif] : perception) — seulement
 
+@@SPLIT:stem@@
 Qal
 Imparfait 3 masculin singulier מִּי יאֹכַל וּמִי יָחוּשׁ
 Qo 2,25

@@ -17,6 +17,8 @@ Ethiopic
 [placeholder1790: Placeholders/1790.gif]
 enumeration, number) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 ׳
@@ -89,6 +91,8 @@ Prov 29:24
 divide up = plunder the temple, followed by accusative 2Chr 28:21
 (see Be).
 
+@@SPLIT:stem@@
+
 Niph`al
 Imperfect
 יֵחָלֵק
@@ -104,7 +108,7 @@ Gen 14:15
 Num 26:53
 ; Num
 26:56
-וֶַיּחָלְקֵם (Baer) 1Chr 23:6; 1Chr 24:3 compare Be & below below
+וֶַיּחָלְקֵם (Baer) 1Chr 23:6; 1Chr 24:3 compare Be & below below
 Pi`el; —
 
 1. reflexive, divide oneself
@@ -130,6 +134,8 @@ Job
 1Chr 23:6
 ;
 1Chr 24:3, but transitive Niph`al is unlikely, see below
+
+@@SPLIT:stem@@
 
 Pi`el
 Perfect 3 plural חִלְּקוּ Joel 1Chr 4:2
@@ -191,6 +197,8 @@ scatter, followed by accusative Gen 49:7 (poem) (||
 הפיץ),
 Lam 4:16.
 
+@@SPLIT:stem@@
+
 Pu`al
 Perfect
 חֻלַּק
@@ -202,10 +210,14 @@ Amos 7:17
 
 be divided, of land Amos 7:17 spoil Isa 33:23; Zech 14:1.
 
+@@SPLIT:stem@@
+
 Hithpa`el
 Perfect
 וְהִתְחַלְּקוּ consecutive Josh 18:5
 divide (land) among themselves.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Infinitive

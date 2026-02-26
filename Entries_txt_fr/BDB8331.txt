@@ -9,6 +9,7 @@ brûler (70 t. + בָּאֵשׁ, 2 t. + בְּמוֺאֵֿשׁ) (hébreu tardif 
 araméen שְׂרַף (rare) ;
 [placeholder5345: Placeholders/5345.gif] est absorber, consumer) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier ׳
 שׂ
@@ -135,6 +136,7 @@ P
 ) ; (2) comme sacrifice, Jr 7,31 ; Jr 19,5 + ל de divinité Dt 12,31 ; 2 R 17,31
 .
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait 3 masculin singulier יִשָּׂרֵף
 Jos 7,15 +, 3
@@ -174,6 +176,7 @@ Lv 21,9 (
 H
 ).
 
+@@SPLIT:stem@@
 Pi`el
 Participe suffixe מְסָֽרְפוֺ
 Am 6,10
@@ -181,6 +184,7 @@ celui qui le brûle, habituellement celui qui le brûle, mais probablement
 brûlant des aromates pour lui, voir Dr et comparer
 Qal ci-dessus
 
+@@SPLIT:stem@@
 Pu`al
 Parfait 3 masculin singulier שֹׂרָ֑ף, du bouc Lv 10,16
 il a été brûlé (et disparu).

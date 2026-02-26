@@ -4,11 +4,15 @@ Biblical Hebrew
 I. [פָּרַשׁ] verb
 make distinct, declare (Late Hebrew seperate oneself,
 
+@@SPLIT:stem@@
+
 Pi`el
 separate, explain, so Aramaic פְּרַשׁ especially Pa`el; Syriac
 [placeholder4353: Placeholders/4353.gif]
 separate, distinguish, explain, compare Mandean, Nö^M
 221^); —
+
+@@SPLIT:stem@@
 
 Qal
 Infinitive construct
@@ -19,6 +23,8 @@ Lev 24:12 (
 P
 ) to declare distinctly to them.
 
+@@SPLIT:stem@@
+
 Niph`al
 Participle
 נִפְרָשׁוֺת
@@ -26,6 +32,8 @@ Ezek 34:12
 read probably שׂוֺת-, see
 פרשׂ
 .
+
+@@SPLIT:stem@@
 
 Pu`al
 Perfect 3 masculine singular פֹּרַשׁ

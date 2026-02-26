@@ -19,6 +19,7 @@ paupière (comparer [שְׁמֻרָה] ci-dessous), et arabe
 soutenir, aider, protéger (l = r), que deux √ √ sont combinées en hébreu ; mais preuve insuffisante) ;
 —
 
+@@SPLIT:stem@@
 Qal_425_
 Parfait 3 masculin singulier ׳
 שׁ
@@ -473,6 +474,7 @@ Dt
 garder, préserver, semaines de la moisson Jr 5,24 (ל
 personne).
 
+@@SPLIT:stem@@
 Niphal_36_
 Parfait 3 masculin singulier נִשְׁמַד
 
@@ -587,6 +589,7 @@ Bae
 Du
 Dr.
 
+@@SPLIT:stem@@
 Pi`el
 Participe pluriel מְשַׁמְּרִים
 הַבְלֵישָֿׁוְא
@@ -595,6 +598,7 @@ Jon 2,9
 
 ceux qui s'attachent à de vaines idoles (comparer Qal Ps 31,7).
 
+@@SPLIT:stem@@
 Hithpa`el
 Imparfait 1 singulier וָאֶשְׁתַּסֵּר מֵעֲוֺנַי
 

@@ -7,6 +7,8 @@ gather, remove (Assyrian
 asâpu
 , Dl^Pr 45^) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 אָסַף
@@ -24,7 +26,7 @@ singular תֹּסֵף
 Ps 104:29 1
 singular אֹסְפָה
 Mic 4:6 so probably
-(suffix) אִֹספְךָ
+(suffix) אִֹספְךָ
 1Sam 15:6 (read
 אֹסִפְךָ) see Kö^i. 382^
 Dr^Sm^; Imperative
@@ -54,7 +56,7 @@ Num 19:10
 אֹסִפְךָ
 2Kgs 22:20;
 2Chr 34:28
-(pointed אִֹספְךָ i.e. Hiph`il; compare Kö^l.c^
+(pointed אִֹספְךָ i.e. Hiph`il; compare Kö^l.c^
 .); אֹסְפָם
 Ps 39:7
 passive plural construct אֲסֻפֵי
@@ -145,6 +147,8 @@ Jer 8:13; Zeph 1:2 (joined
 with הֵסִיף from סוף, see Kö^i. 445^
 ; considered Hiph`il Infinitive absolute by Ba^NB 73^
 see above)
+
+@@SPLIT:stem@@
 
 Niph`al
 Perfect
@@ -279,6 +283,8 @@ Isa 16:10
 of moon Isa
 60:20 (|| בוא שׁמשׁ).
 
+@@SPLIT:stem@@
+
 Pi`el
 Participle
 מְאַסֵּף
@@ -309,6 +315,8 @@ Josh
 E
 ); figurative of God Isa 52:12.
 
+@@SPLIT:stem@@
+
 Pu`al
 Perfect
 וְאֻסַּף (cons.) Isa 33:4; Zech 14:14 etc.; Participle
@@ -318,6 +326,8 @@ Perfect
 Ezek 38:12 — be gathered, of men Isa 24:22; Hos
 10:10 (followed by עַל
 against), Ezek 38:12 booty Isa 33:4 wealth Zech 14:14.
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Infinitive

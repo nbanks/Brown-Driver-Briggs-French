@@ -9,6 +9,8 @@ Jer 5:30 +; plural
 absolute שַׁמּוֺת
 Ps 46:9 —
 
+@@SPLIT:sense@@
+
 1.
 a waste, of land, city, etc., Hos 5:9; Isa 5:9; Isa 13:9; Isa 24:12; Zech 7:14; Jer 2:15; Jer 4:7; Jer 18:16; Jer 19:8; Jer 46:19; Jer 48:9; Jer 50:3; Jer 51:29; Jer 51:43, vine Joel 1:7 person
 Ps 73:19
@@ -17,6 +19,8 @@ Ps 73:19
 כּוֺם שׁ
 Ezek 23:33
 .
+
+@@SPLIT:sense@@
 
 2.
 appalment, horror, i.e. occasion of it; of people land etc., Deut 28:37; 2Kgs 22:19; Mic 6:16; Zeph 2:15;

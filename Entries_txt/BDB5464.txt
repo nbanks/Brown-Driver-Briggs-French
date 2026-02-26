@@ -17,6 +17,8 @@ id.; Syriac
 tear off, away; Arabic
 [placeholder3500: Placeholders/3500.gif] is loan-word Frä^137^); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular וְנָתַשׁ consecutive 1Kgs 14:15 2 feminine singular
 נָתַשְׁתְּ
@@ -79,6 +81,8 @@ Qal 2.a.); once of cities
 Ps 9:7
 thou hast uprooted cities.
 
+@@SPLIT:stem@@
+
 Niph`al
 Imperfect 3 masculine singular יִנָּתֵשׁ
 Jer 31:40
@@ -90,6 +94,8 @@ Amos 9:15 (of
 Israel; opposed to נָטַע). — For יִנָָּֽתְשׁוּ
 Jer 18:14
 read יִנָָּֽשְׁתוּ √ נשׁת q. v.
+
+@@SPLIT:stem@@
 
 Hoph`al
 Imperfect 3 feminine singular וַתֻּתַּשׁ

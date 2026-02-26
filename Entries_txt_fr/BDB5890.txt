@@ -4,6 +4,8 @@ hébreu biblique
 מְעֹנָה
 nom féminin id. ; —
 
+@@SPLIT:sense@@
+
 1.
 tanière, repaire de bêtes sauvages : du כְּפִיר, מְעֹנָתוֺ
 Am 3,4, ainsi
@@ -26,6 +28,8 @@ figuré aussi de ׳
 י habitant dans le temple, singulier suffixe, מְעוֺנָתוֺ בְּצִיּוֺן
 Ps 76,3 (||
 סוּכּוֺ).
+
+@@SPLIT:sense@@
 
 2.
 figuré

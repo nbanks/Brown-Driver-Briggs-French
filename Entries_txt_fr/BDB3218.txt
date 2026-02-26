@@ -8,6 +8,7 @@ verbe
 [placeholder2029: Placeholders/2029.gif]
 garder rancune, voir Lag^BN 30^) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 ׳
@@ -59,6 +60,7 @@ Lm 5,17
 (sujet עינינו), comparer Ps 69,24 (figuré), Qo 12,3 sujet הָראֹוֺת c.-à-d.
 les yeux.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait
 הֶחְשִׁיךְ

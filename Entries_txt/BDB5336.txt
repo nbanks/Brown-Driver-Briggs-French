@@ -24,6 +24,8 @@ Frey; Ethiopic III.
 [placeholder3409: Placeholders/3409.gif]
 evulsum or abruptum excidere e suo loco, Di^698^); —
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect 1 plural נִצַּלְנוּ
 Jer 7:10
@@ -68,6 +70,8 @@ Hab 2:9
 Ps
 69:15.
 
+@@SPLIT:stem@@
+
 Pi`el
 Perfect 2 masculine plural נִצַּלְתֶּם
 Exod
@@ -89,6 +93,8 @@ J
 deliver, with accusative נַפְשָׁם
 
 Ezek 14:14.
+
+@@SPLIT:stem@@
 
 Hiph`il_190_
 Perfect
@@ -254,6 +260,8 @@ deliver us and cover over all our sins; probably also
 
 Ps 119:170.
 
+@@SPLIT:stem@@
+
 Hoph`al
 Participle
 מֻצּל; — כְּאוּד מֻצָּל מִשְּׂרֵטָה
@@ -263,6 +271,8 @@ as a brand plucked out of the burning; מֵאֵשׁ
 Zech
 3:2
 from the fire.
+
+@@SPLIT:stem@@
 
 Hithpa`el
 וַיִּתְנַצְּלוּ אֶתעֶֿדְיָם

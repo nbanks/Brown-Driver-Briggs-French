@@ -10,6 +10,7 @@ fermenter, lever,
 [placeholder1816: Placeholders/1816.gif] nom levain ; voir Lag^BN 207^
 ) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier ׳
 וְיַיִן ח
@@ -26,6 +27,7 @@ pluriel יֶחֱמוּ יֶחְמְרוּ מֵימָיו
 Ps 46,4
 que ses eaux mugissent et écument.
 
+@@SPLIT:stem@@
 Pealal
 Parfait
 passif 3 pluriel מֵעַי חֳמַרְמָ֑רוּ

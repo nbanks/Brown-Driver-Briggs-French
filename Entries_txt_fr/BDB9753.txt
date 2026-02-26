@@ -25,9 +25,13 @@ Dn 4,13 +,
 emphatique עִדָּנַיָּא
 Dn 2,21 —
 
+@@SPLIT:sense@@
+
 1. en général, temps, comme durée Dn 2,8 ; Dn 7,12 impliquant des conditions spécifiques Dn 2,9 ; Dn 2,21 (point de)
 temps
 Dn 3,5 ; Dn 3,15.
+
+@@SPLIT:sense@@
 
 2. temps défini, = année (comme le grec moderne χρόνος, voir
 EASophocles^1173^) : ׳

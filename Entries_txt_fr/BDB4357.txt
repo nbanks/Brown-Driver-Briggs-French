@@ -6,6 +6,7 @@ hébreu biblique
 [placeholder2777: Placeholders/2777.gif]
 avoir recours à, se réfugier dans) ; —
 
+@@SPLIT:stem@@
 Qal
 Imparfait
 מֵעֵינֶ֑יךָ אַליָֿלֻזוּ
@@ -14,6 +15,7 @@ qu'ils ne s'écartent pas (c.-à-d. la sagesse saine, etc., si vera l., comparer
 VB
 ) de tes yeux (voir Hiph`il).
 
+@@SPLIT:stem@@
 Niph`al
 Participe
 נָלוֺז
@@ -38,6 +40,7 @@ comparer De
 Che
 Di.
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait
 אַליַֿלִּיזוּ מֵעֵינֶיךָ

@@ -20,9 +20,11 @@ Ex 38,3 + 2 t.,
 suffixe מִזְרְקֹתָיו
 Ex 27,3 —
 
+@@SPLIT:sense@@
 1.
 coupe pour le vin Am 6,6.
 
+@@SPLIT:sense@@
 2. ailleurs pour usage dans le rituel du sacrifice :
 
 a. pour usage à l'autel Ex 27,3 ; Ex 38,3 ; Nb 4,14 (tous

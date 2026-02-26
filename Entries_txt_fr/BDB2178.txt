@@ -36,6 +36,7 @@ construit תְּהִלּוֺת
 Ps 22,4 + 3 t. ;
 —
 
+@@SPLIT:sense@@
 1.
 louange, adoration, action de grâce, adressée à ׳
 ֯ י :
@@ -97,6 +98,7 @@ Es 48,9 (||
 י
 Es 42,8.
 
+@@SPLIT:sense@@
 2. l'acte de louange générale, publique (comparer aussi ci-dessus surtout Ps 22,4 ; Ps 33,1 ; Ps 106,12 ;
 Ne 12,46) ; —
 בּאֹוּ שְׁעָרָיו בְּתוֺדָה
@@ -114,12 +116,14 @@ exhortation aux peuples הַשְׁמִיעוּ
 Ps 66,8 (||
 בָּֽרֲכוּ עַמִּים אֱלֹהֵינוּ), comparer Es 42,12.
 
+@@SPLIT:sense@@
 3.
 chant de louange, comme titre, תְּהִלָּה לְדָוִד
 Ps 145,1
 (ainsi hébreu tardif ספר תהלות et תְּהִלִּים, תִּילִּים, =
 Psaumes).
 
+@@SPLIT:sense@@
 4. qualités, actions, etc., de ׳
 י, exigeant la louange : — נוֺרָא תְהִלֹּת
 Ex 15,11
@@ -145,6 +149,7 @@ Ps 106,47 =
 1 Ch 16,35
 rendre grâce à ton saint nom, se glorifier de tes louanges (= actes louables).
 
+@@SPLIT:sense@@
 5.
 renommée, gloire :
 

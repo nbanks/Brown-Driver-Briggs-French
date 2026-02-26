@@ -19,6 +19,7 @@ Ex 21,2
 P
 ; toujours avec l'article :
 
+@@SPLIT:sense@@
 1.
 masculin
 7e jour
@@ -31,6 +32,7 @@ nom omis aussi 1 Ch
 26,3 ; 1 Ch
 26,5 (fils), 1 Ch 12,11 (homme), 1 Ch 27,10 (capitaine).
 
+@@SPLIT:sense@@
 2.
 féminin
 7e année, 2 R 11,4 + 7 t. + (nom omis) Ex 21,2 ; Ex 23,11, aussi שְׁנַת הַשְּׁבִיעִית (Ges^«GKC:134p»§ 134p^) Esd 7,8 sabbat Lv 23,16 fois (פַּעַם) Jos 6,16 + (nom

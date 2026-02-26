@@ -10,6 +10,7 @@ murmurer, gronder, rugir, être tumultueux (
 [placeholder1324: Placeholders/1324.gif]
 murmurer) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin pluriel הָמוּ
 Ps 46,7 + 2t. ;

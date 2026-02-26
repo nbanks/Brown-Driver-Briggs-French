@@ -7,6 +7,7 @@ lévite ; — לֵוִי, 40 t. ; pluriel לֵוִיִּם 250 t. ; suffixe
 לְוִיֵּנוּ
 Ne 10,1 —
 
+@@SPLIT:sense@@
 1. singulier d'un individu, ׳
 אִישׁ ל
 Jg 19,1
@@ -30,6 +31,7 @@ Jg 18,3 ; Jg 18,15
 Jg 20,4. Sg.
 habituellement
 
+@@SPLIT:sense@@
 2. avec article הַלֵּוִי comme substantif collectif les lévites :
 
 Ex 6,19 ; Nb 3,20 ; Nb 3,32 ; Nb 26,57
@@ -78,6 +80,7 @@ Ps 135,20
 
 maison (famille, tribu) des lévites.
 
+@@SPLIT:sense@@
 3. pluriel לְוִיִּם principalement Chroniques et
 P
 ; — toujours avec article ַהלְוִיִּם sauf suffixe לוִיֵּנוּ
@@ -91,6 +94,7 @@ est omis par
 et la plupart dans Es 66,21 toujours = substantif lévites ;
 —
 
+@@SPLIT:sense@@
 1.
 
 a. usage ancien : — portant l'arche 1 S 6,15 ; 2 S 15,24 ; Dt 31,25
@@ -218,6 +222,7 @@ P
 P
 ).
 
+@@SPLIT:sense@@
 2. dans les Chroniques l'idée tribale est en arrière-plan, et la pensée des lévites comme classe
 officielle est
 prédominante :

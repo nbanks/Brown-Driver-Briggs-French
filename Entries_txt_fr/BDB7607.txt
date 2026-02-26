@@ -15,6 +15,7 @@ inciser ; syriaque
 clou [voir aussi araméen biblique] ; comparer Frä^35 s.^
 ) ; —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 3 masculin pluriel יִקְרְצועַֿיִן
 Ps 35,19
@@ -34,6 +35,7 @@ Pr 16,30
 pinçant ses lèvres (c.-à-d. les pressant, comme en hébreu tardif, ou mordant, rongeant, comparer
 assyrien).
 
+@@SPLIT:stem@@
 Pu`al
 Parfait 1 singulier מֵחֹמֶר קֹרַצְתִּי
 Jb 33,6

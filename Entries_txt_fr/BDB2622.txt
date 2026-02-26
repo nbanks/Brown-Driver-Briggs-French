@@ -30,6 +30,7 @@ pluriel חֲיָלִים
 suffixe חֵילֵיהֶם
 Es 30,6 —
 
+@@SPLIT:sense@@
 1.
 force, habituellement physique :
 
@@ -139,6 +140,7 @@ Es 5,22 = (||
 גבורים
 לשׁתות יין) ; Qo 12,3 métaphore des jambes.
 
+@@SPLIT:sense@@
 2.
 capacité, efficacité, impliquant souvent la valeur morale ׳
 אַנְשֵׁי ח
@@ -201,6 +203,7 @@ Dr, hommes de valeur, opposé à בני
 ח
 force, bande.
 
+@@SPLIT:sense@@
 3.
 richesse
 Gn 34,29
@@ -242,6 +245,7 @@ Ps 73,12
 Pr 13,22
 .
 
+@@SPLIT:sense@@
 4.
 force, armée, très souvent Ex 14,4 ; Ex 14,9 ; Ex 14,17 ; Ex 14,28 (tous
 P

@@ -12,6 +12,7 @@ Ex 5,19 +,
 רָ֑ע
 Gn 48,16 + ; —
 
+@@SPLIT:sense@@
 1.
 mal, détresse, adversité :
 יָרֵא רַע
@@ -57,6 +58,7 @@ E
 ) Ps
 121,7 voir aussi Mi 1,12 ; Ps 140,12 ; Jb 5,19 ; Jb 31,29 ; Pr 12,21 ; Pr 19,23.
 
+@@SPLIT:sense@@
 2.
 mal, tort, injustice :
 Ha 2,9 ; Jb 2,10 ; Pr 21,10
@@ -99,6 +101,7 @@ Pr 11,15
 Gr
 SS, voir Toy).
 
+@@SPLIT:sense@@
 3. mal éthique, Dt 30,15 ; 2 S 14,17 ; Es 5,20 ; Am 5,14 ; Mi 7,3 + 10 t. ; עשׁה רע
 2 R 21,9 ; 2 Ch 12,14 ;
 2 Ch 33,9 ; Ne 9,28 + 8 t. ;

@@ -12,6 +12,7 @@ makkûru, namkur(r)u
 , nakkuru, possession, propriété
 , Dl^HWB 408^) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 ׳
@@ -102,6 +103,7 @@ femme) ; aussi Ez
 B
 et d'autres)
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 נִמְכַּר
@@ -137,6 +139,7 @@ Lv 25,50
 Es 50,1 pour (בְּ) leurs péchés, Es 52,3 comparer Est 7,4 = livré à la
 mort.
 
+@@SPLIT:stem@@
 Hithpa`el
 Parfait
 הִתְמַכֵּר

@@ -10,6 +10,8 @@ seal, affix seal, seal up (Late Hebrew id.; Aramaic חֲתַם
 [placeholder2040: Placeholders/2040.gif] (whence
 [placeholder2041: Placeholders/2041.gif]) is loan-word according to Frä^252^) —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 3 masculine singular יַחְתֹּם
 Job 9:7; Job 33:6,
@@ -96,6 +98,8 @@ Qr
 33:16; Job
 37:7 see below 1.
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect 3 masculine singular [or Participle?] נִכְתָּ֔ב
 וְנֶחְתָּ֖ם
@@ -110,6 +114,8 @@ Esth 8:8
 בְּטַבַּעַת הַמּ; both passive of
 Qal
 1.
+
+@@SPLIT:stem@@
 
 Pi`el
 Perfect 3 plural יוֺמָם חִתְּמוּלָֿמוֺ
@@ -129,6 +135,8 @@ conjecture plausibly ׳
 יָמִים ח
 they seal up the days unto themselves, i.e. daytime is for them sealed up and
 unused.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 masculine singular אוֺהֶֿחְתִּים בְּשָׁרוֺ מִזּוֺבוֺ

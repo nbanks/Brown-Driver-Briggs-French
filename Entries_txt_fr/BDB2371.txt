@@ -10,6 +10,7 @@ agiter, secouer ;
 [placeholder1486: Placeholders/1486.gif]
 être agité, trembler, surtout d'un tremblement de terre) —
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 נָזֹ֫לּוּ

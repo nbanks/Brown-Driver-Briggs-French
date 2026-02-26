@@ -22,6 +22,7 @@ comparer assyrien
 usƒurtu
 , tabou SAC^JA, 1904, 754^. —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier ׳
 ע
@@ -107,6 +108,7 @@ omettre כֹּחַ
 2 Ch 14,10
 (+ עִמְּךָ), 2 Ch 20,37 (+ infinitif).
 
+@@SPLIT:stem@@
 Niph`al
 être retenu, arrêté, d'un fléau : Parfait 3 féminin singulier נֶעֱצָ֑רָה
 Nb 17,15

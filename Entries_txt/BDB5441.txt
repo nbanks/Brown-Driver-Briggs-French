@@ -31,6 +31,8 @@ Lindberg^Vergl.Sem.Gram.93f.^, but Mandean נתן
 
 Nö^M 52^); —
 
+@@SPLIT:stem@@
+
 Qal_1917_
 Perfect
 ׳
@@ -1628,6 +1630,8 @@ Ps
 78:43
 ).
 
+@@SPLIT:stem@@
+
 Niph`al_82_
 Perfect
 נִתַּן
@@ -1892,6 +1896,8 @@ Isa
 d. = be inflicted, of blemish (מוּם) Lev
 24:20 (with
 בְּ person).
+
+@@SPLIT:stem@@
 
 Hoph`al (or
 Qal

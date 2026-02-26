@@ -23,6 +23,8 @@ couch; Arabic
 (compare
 Hiph`il below, and Lag^BN 63^)); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular ׳
 שׁ
@@ -248,6 +250,8 @@ my gnawing pains do not sleep; = have rest, לִבּוֺ
 Eccl 2:23
 .
 
+@@SPLIT:stem@@
+
 Niph`al
 Pu`al = be lain with (sexually; subject woman), only as
 Qr
@@ -256,6 +260,8 @@ Kt
 [שָׁגֵל]
 Niph`al
 Pu`al q. v.
+
+@@SPLIT:stem@@
 
 Hiph`il
 lay, Perfect 3 feminine singular הִשְׁכִּיבָה with
@@ -277,6 +283,8 @@ making them lie down on ground; Imperfect also lay
 
 Job 38:37 i.e. tip them so that contents may flow out (compare Arabic
 [placeholder5525: Placeholders/5525.gif] above).
+
+@@SPLIT:stem@@
 
 Hoph`al
 Participle

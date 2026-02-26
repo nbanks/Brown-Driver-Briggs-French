@@ -4,6 +4,8 @@ Biblical Hebrew
 [אוּץ] verb
 press, be pressed, make haste —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 אָץ
@@ -43,6 +45,8 @@ Jer 17:16
 );
 Prov 29:20 (בִּדְבָרִים); compare also Prov 21:5
 וְכָלאָֿץ אַח לְמַחְסוֺר.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imperfect

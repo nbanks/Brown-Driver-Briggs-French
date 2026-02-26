@@ -16,12 +16,16 @@ araméen רְוַח
 [placeholder5004: Placeholders/5004.gif]
 être large, élargi) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Parfait 3 masculin singulier ׳
 ר, suivi de ל personne 1 S 16,23 figuré il y eut de l'espace, du soulagement
 , pour Saül ; Imparfait 3 masculin singulier יִרְוַח לִי
 Jb 32,20 pour qu'
 il y ait du soulagement pour moi.
+
+@@SPLIT:stem@@
 
 Poual
 Participe pluriel מְרֻוָּחִים

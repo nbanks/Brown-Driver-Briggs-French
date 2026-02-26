@@ -16,10 +16,14 @@ shrewd, Syriac
 [placeholder4090: Placeholders/4090.gif]
 id., and verb in derived species (Pe`al in Lexicons)); —
 
+@@SPLIT:stem@@
+
 Qal
 Infinitive absolute in עָרֹם יַעְרִם
 1Sam 23:22
 he is exceedingly crafty.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imperfect

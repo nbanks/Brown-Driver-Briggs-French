@@ -11,6 +11,8 @@ kabâsu
 kibšu
 , step, path, Dl^HWB^) —
 
+@@SPLIT:stem@@
+
 Qal
 Participle only מְסִלַּת שְׂדֵה כוֺבֵס
 highway of fuller's
@@ -18,6 +20,8 @@ highway of fuller's
 field
 
 Isa 7:3; Isa 36:2 = 2Kgs 18:17.
+
+@@SPLIT:stem@@
 
 Pi`el
 Perfect
@@ -80,10 +84,14 @@ Jer 4:14
 with suffix Ps
 51:4 (|| טהר; + מֵעָוֺן); Ps 51:9 (|| חִטֵּא).
 
+@@SPLIT:stem@@
+
 Pu`al
 Perfect
 וְכֻבַּס consecutive Lev 13:58; Lev 15:17
 be washed, of garment.
+
+@@SPLIT:stem@@
 
 Hothpa`al (Ges
 ^«GKC:54»§ 54^, 3) Infinitive

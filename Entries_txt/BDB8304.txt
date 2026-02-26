@@ -26,6 +26,8 @@ Josh 9:4 +, suffix
 שַׂקֵּיהֶם
 Gen 42:35 —
 
+@@SPLIT:sense@@
+
 1.
 sack, for grain Gen 42:25; Gen 42:27 (|| אַמְתַּחַת), Gen 42:35 Gen 42:35 (
 
@@ -38,6 +40,8 @@ E
 ), perhaps also Lev 11:32 (
 P
 ).
+
+@@SPLIT:sense@@
 
 2.
 sackcloth:

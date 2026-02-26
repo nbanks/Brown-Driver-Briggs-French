@@ -12,6 +12,8 @@ passim; compare Egyptian
 , they terrified (= ערצו)
 WMM^As.u.Eur.76^); —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 2 masculine singular תַּעֲרֹץ
 Deut 7:21 +; 2
@@ -48,11 +50,15 @@ D
 with accusative
 Job 31:34 because I stood in awe of the great multitude.
 
+@@SPLIT:stem@@
+
 Niph`al
 Participle
 אֵל נַעֲרָץ
 Ps 89:8
 El, terrible in the company of the holy ones (|| נוֺרָא).
+
+@@SPLIT:stem@@
 
 Hiph`il
 
@@ -68,7 +74,7 @@ accusative ׳
 2.
 inspire with awe (compare
 Qal
-2); — Participle suffix הוּא מַעֲִרצְכֶם
+2); — Participle suffix הוּא מַעֲִרצְכֶם
 Isa 8:13
 
 he shall be your awe-inspirer.

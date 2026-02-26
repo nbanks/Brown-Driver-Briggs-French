@@ -4,6 +4,8 @@ Biblical Hebrew
 II. [חמשׁ] verb
 denominative only
 
+@@SPLIT:stem@@
+
 Pi`el
 וְחִמֵּשׁ אֶתֿ
 אֶרֶץ מִצְרַיִם

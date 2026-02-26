@@ -9,6 +9,8 @@ araméen biblique
 ; araméen d'Égypte Haf. הוטב
 S-C^B11^ + ; voir hébreu biblique יטב) ; —
 
+@@SPLIT:stem@@
+
 Peal
 Imparfait
 יֵיטַב (K^§ 43, 2^) Esd 7,18 (עַל personne, +

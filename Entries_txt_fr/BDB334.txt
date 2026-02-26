@@ -12,6 +12,7 @@ remettre à plus tard, aussi rester en arrière ; araméen Pael אֵחַר
 Osiander^ZMG 1865, 197^ ; אחֿחֿר
 DHM^Epigr. Denkm. 34^).
 
+@@SPLIT:stem@@
 Qal
 une seule fois
 Gn 32,5
@@ -19,6 +20,7 @@ Gn 32,5
 Pr 8,17)
 et j'ai tardé jusqu'à maintenant.
 
+@@SPLIT:stem@@
 Pi`el
 Parfait
 אֵחַר

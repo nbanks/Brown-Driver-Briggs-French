@@ -4,8 +4,10 @@ hébreu biblique
 פַּסֵחַ
 nom propre, masculin (boiteux) ; —
 
+@@SPLIT:sense@@
 1. en Juda 1 Ch 4,12, Βεσσηε, Φεσση, etc.
 
+@@SPLIT:sense@@
 2. chef de famille post-exilique Esd 2,49 = Ne 7,51, Φισον, etc.,
 
 ᵐ5
@@ -14,6 +16,7 @@ nom propre, masculin (boiteux) ; —
 
 Φασσα.
 
+@@SPLIT:sense@@
 3. père d'un bâtisseur de la muraille Ne 3,6, Φασεκ, Φεσσε.
 
 ---

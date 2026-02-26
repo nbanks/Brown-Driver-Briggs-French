@@ -13,6 +13,8 @@ Lag^BN 60^, who compare
 [placeholder316: Placeholders/316.gif], weichliches d.h. stumpfes Schwert. It seems safer
 at present to keep the three distinct).
 
+@@SPLIT:stem@@
+
 Qal
 Passive participle
 אָנוּשׁ
@@ -32,6 +34,8 @@ compare Jer 30:15
 Isa 17:16 also
 in phrase עָקֹב הַלֵּב מִכֹּל וְאָנֻשׁ הוּא
 Jer 17:9
+
+@@SPLIT:stem@@
 
 Niph`al
 Imperfect

@@ -4,6 +4,7 @@ hébreu biblique
 II. [חמשׁ] verbe
 dénominatif seulement
 
+@@SPLIT:stem@@
 Pi`el
 וְחִמֵּשׁ אֶתֿ
 אֶרֶץ מִצְרַיִם

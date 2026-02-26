@@ -14,6 +14,7 @@ bašâlu
 (bašlu, cuit) Zim^BP 76^
 ) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 בָּשַׁל Jl 1 S 4,13, בָּֽשְׁלוּ
@@ -21,6 +22,7 @@ Ez 24,5 —
 bouillir, cuire (intransitif) Ez 24,5
 mûrir (de קציר) Jl 4,13 —
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 3 masculin singulier suffixe בִּשְּׁלָם
 1 R 19,21
@@ -93,6 +95,7 @@ Dt 16,7
 אֵשׁ opposé à מְבֻשָּׁל בַּמַּיִם) 2 Ch 35,13 (בָּאֵשׁ), gâteaux (
 הלבבות) 2 S 13,8.
 
+@@SPLIT:stem@@
 Pu`al
 Parfait 3 féminin singulier בֻּשָּׁ֑לָה
 Lv 6,21
@@ -110,6 +113,7 @@ P
 ) 1 S
 2,15.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait
 הִבְשִׁילוּ

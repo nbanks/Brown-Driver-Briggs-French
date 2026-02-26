@@ -6,6 +6,8 @@ trickle, drip, synonym of נזל, II. ערף (compare Arabic
 [placeholder5133: Placeholders/5133.gif]
 flow (of blood), bleed (of the nose)); —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 3 masculine plural יִרְעֲפוּ, of clouds Job 36:28 (with עֲלֵי
 person; || יִזְּלוּ), with accusative of material טַל
@@ -13,6 +15,8 @@ Prov 3:20
 figurative מַעְגָּלֶיךָ יִרְעֲפוּן דָּ֑שֶׁן
 Ps 65:12 (i.e.
 fertilizing rain); subject of moistened ground, נְאוֺת מִדְבָּר, Ps 65:13.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imperative masculine plural הַרְעִיפוּ

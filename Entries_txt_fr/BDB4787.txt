@@ -12,6 +12,7 @@ Gn 12,12 + 5
 t. ; féminin pluriel מִצְרִיֹּת
 Ex 1,19 —
 
+@@SPLIT:sense@@
 1. adjectif ׳
 אִישׁ מ = un Égyptien
 Gn 39,1 ; Ex 2,11 ; Ex 2,19 ; Lv 24,10 ; 1 S 30,11 ; 2 S 23,30
@@ -29,6 +30,7 @@ Gn 16,1,
 כַּנָּשִׁים הַמִּצְרִיֹּת
 Ex 1,19.
 
+@@SPLIT:sense@@
 2. avec article = substantif l'Égyptien
 Gn 39,2 ; Gn 39,5 ; Ex 2,12 ; Ex 2,14 ; 2 S 23,30
 (deux fois dans le verset) ;

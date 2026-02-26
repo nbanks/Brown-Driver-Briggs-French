@@ -13,6 +13,8 @@ mirsu
 Pi`el
 Pu`al;
 
+@@SPLIT:stem@@
+
 Pi`el
 Perfect 3 masculine singular אֵרֵשׂ
 Deut 20:7
@@ -30,6 +32,8 @@ Deut 28:30
 followed by ב of price paid to father & ל of husband 2Sam 3:14
 ב of gift to bride & ל of husband Hos 2:21; Hos 2:22, where figurative
 of Yahweh's covenant mercy to Israel.
+
+@@SPLIT:stem@@
 
 Pu`al
 Perfect 3 feminine singular אֹרָ֑שָׂה

@@ -6,6 +6,8 @@ divide, cut through (? compare Aramaic בְּזַע,
 [placeholder541: Placeholders/541.gif]
 cleave —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 בָּֽזְאוּ נהרים

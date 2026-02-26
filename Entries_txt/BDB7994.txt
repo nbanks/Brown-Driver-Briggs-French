@@ -13,6 +13,8 @@ ru—i
 [placeholder5111: Placeholders/5111.gif] Aramaic רְעָא,
 [placeholder5112: Placeholders/5112.gif], all = Biblical Hebrew); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular consecutive וְרָעָה
 Mic 5:3 +, 1 singular
@@ -332,7 +334,11 @@ Job
 חֵרַע for ׳
 ר; more radical conjectures in Du.
 
+@@SPLIT:stem@@
+
 Niph`al possibly Job 20:26, see 2.d. above
+
+@@SPLIT:stem@@
 
 Hiph`il
 Ps

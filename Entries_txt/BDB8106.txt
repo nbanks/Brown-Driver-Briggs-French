@@ -13,6 +13,8 @@ variegated cloth or skin, Syriac
 [placeholder5176: Placeholders/5176.gif]
 freckles); —
 
+@@SPLIT:stem@@
+
 Qal
 Participle
 active
@@ -34,6 +36,8 @@ Exod 39:29 (all
 
 P
 ; all with mater. except Exod 28:39).
+
+@@SPLIT:stem@@
 
 Pu`al
 Perfect 1 singular רֻקַּמְתִּי

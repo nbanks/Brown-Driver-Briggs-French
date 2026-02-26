@@ -4,6 +4,7 @@ hébreu biblique
 II. שָׂכָר
 nom propre, masculin
 
+@@SPLIT:sense@@
 1.
 père d'un héros de David
 1 Ch 11,35,
@@ -13,6 +14,7 @@ A
 Σαχαρ (|| שָׁרָר
 2 S 23,33).
 
+@@SPLIT:sense@@
 2. portier
 
 2 S 26,4,

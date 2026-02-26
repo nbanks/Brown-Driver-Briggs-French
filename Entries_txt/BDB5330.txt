@@ -4,11 +4,15 @@ Biblical Hebrew
 III. [נָצָה] verb
 fall in ruins; —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 3 feminine plural עָרַיִךְ תִּצֶּינָה מֵאֵין יוֺשֵׁב
 Jer 4:7
 thy cities shall fall in ruins (read probably תִּנָּצֶינָה
 Niph`al).
+
+@@SPLIT:stem@@
 
 Niph`al
 Participle plural גַּלִּים נִצִּים

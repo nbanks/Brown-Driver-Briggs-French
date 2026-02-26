@@ -22,6 +22,7 @@ Jr^66^, syriaque
 dieu, mais avec diverses applications subordonnées pour exprimer l'idée de puissance ; — presque jamais en prose sauf avec un mot
 déterminant (adjectif ou génitif) ; son seul suffixe est יִ֯ ; —
 
+@@SPLIT:sense@@
 1. appliqué à des hommes puissants et de haut rang, אֵל גוים
 puissant des nations
 Ez 31,11
@@ -57,11 +58,13 @@ Ex 15,15
 héros puissant (comme ci-dessus) ou héros divin (comme reflétant la majesté
 divine) Es 9,6.
 
+@@SPLIT:sense@@
 2.
 anges, בְּנֵי אֵלִים
 Ps 29,1 ; Ps 89,7 =
 בְּנֵי הָאֱלֹהִים.
 
+@@SPLIT:sense@@
 3.
 dieux des nations, אֵל אֵלִים
 Dieu des dieux, Dieu suprême Dn 11,36
@@ -91,6 +94,7 @@ Ps 81,10
 Dt 32,12 ;
 Ml 2,11 ; Ps 81,10.
 
+@@SPLIT:sense@@
 4.
 El
 nom propre
@@ -102,6 +106,7 @@ Jg 8,33 ; Jg 9,4) comparer
 aussi
 6 (f) ci-dessous
 
+@@SPLIT:sense@@
 5. comme qualifiant des choses puissantes dans la nature, חררי אל
 montagnes puissantes
 Ps 36,7 (littéralement
@@ -115,6 +120,7 @@ Ps 80,11
 étoiles élevées
 Es 14,13.
 
+@@SPLIT:sense@@
 6.
 Dieu_217_, le seul et vrai Dieu d'Israël :
 (a
@@ -339,6 +345,7 @@ Dt 33,26
 שַׁדַּי
 ).
 
+@@SPLIT:sense@@
 7.
 אֵל
 force, puissance (sur le lien avec I. אָלָה comparer Di

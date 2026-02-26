@@ -8,6 +8,8 @@ compare Arabic
 [placeholder5353: Placeholders/5353.gif]
 frustrate, disappoint); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular תְּפִלָּתִי
 ׳

@@ -12,6 +12,8 @@ shake, quike, citing Arabic
 shake Aramaic אִתְפַּרְפַּר,
 [placeholder4348: Placeholders/4348.gif], compare Late Hebrew פִּרְפֵּר); —
 
+@@SPLIT:stem@@
+
 Qal
 Infinitive absolute +
 Hithpo`el Perfect 3 feminine singular פּוֺר הִתְפּוֺרְרָה אֶרֶץ
@@ -19,6 +21,8 @@ Isa 24:19
 split or cracked through is the earth (
 Che^Heb.Hpt.^
 פרוק התפרקה).
+
+@@SPLIT:stem@@
 
 Po`êl
 Perfect 2 masculine singular פּוֺרַרְתָּ

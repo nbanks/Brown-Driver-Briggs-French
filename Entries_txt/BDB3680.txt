@@ -4,6 +4,8 @@ Biblical Hebrew
 [יָצַת] verb
 kindle, burn (intransitive) (Late Hebrew id. rare)) —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 3 feminine singular וַתִּצַּת
 Isa 9:17
@@ -15,6 +17,8 @@ Jer 49:2 —
 kindle, intransitive, figurative of wickedness, Isa 9:17 followed by בָּאֵשׁ
 be kindled with fire ( = set on fire), of thorns (in simile) Isa 33:12, Jer 49:2 (of dependent towns and villages
 of Rabbah, under figure of daughters), Jer 51:58 (of gates of Babylon).
+
+@@SPLIT:stem@@
 
 Niph`al
 Perfect
@@ -40,6 +44,8 @@ desolated
 Jer 2:15 (of
 cities of Israel), compare Jer 46:19; Jer 9:9 (of mountains and pastures); of land Jer 9:11 (|| אָֽבְדָה
 ).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect

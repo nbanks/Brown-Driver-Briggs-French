@@ -4,15 +4,21 @@ Biblical Hebrew
 IV. [מָלַל] verb
 circumcise ( = מוּל); — to this are sometimes assigned:
 
+@@SPLIT:stem@@
+
 Qal
 Imperative
 מֹל
 Josh 5:2.
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect
 נְמַלְתֶּם
 Gen 17:11.
+
+@@SPLIT:stem@@
 
 Hithpo`el
 be cut off: Imperfect

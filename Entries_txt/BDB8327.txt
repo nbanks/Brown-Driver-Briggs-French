@@ -16,6 +16,8 @@ sandal-thong,
 [placeholder5339: Placeholders/5339.gif]
 snare); —
 
+@@SPLIT:stem@@
+
 Pi`el
 Participle feminine singular מְשָׂרֶכֶת דְּרָכֶיהָ
 Jer 2:23 a swift

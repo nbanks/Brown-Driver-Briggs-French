@@ -8,6 +8,8 @@ be (inaccessibly) high (compare
 
 שְׂגַב Pa`el [from Hebrew] exalt); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 
@@ -19,6 +21,8 @@ with מִן, be (too) high for capture.
 2. 3 masculine plural שָֽׂגְבוּ
 Job 5:11 of
 person, be high in prosperity.
+
+@@SPLIT:stem@@
 
 Niph`al
 Perfect 3 masculine singular נִשְׂגַּב
@@ -46,6 +50,8 @@ be (safely) set on high, Prov 18:10.
 be exalted, of God Isa 2:11; Isa 2:17; Isa 33:5 his name Isa 12:4; Ps
 148:13.
 
+@@SPLIT:stem@@
+
 Pi`el
 Imperfect 3 masculine singular יְשַׂגֵּב
 Isa 9:10;
@@ -64,11 +70,15 @@ c, מִן
 2.
 exalt, in effective hostility, with עַל, Isa 9:10.
 
+@@SPLIT:stem@@
+
 Pu`al
 Imperfect 3 masculine singular יְשֻׂגָ֑ב
 Prov 29:25
 
 be set (securely) on high.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imperfect 3 masculine singular יַשְׂגִּיב

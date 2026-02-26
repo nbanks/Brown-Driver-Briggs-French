@@ -17,9 +17,13 @@ Lv 23,15
 construit תְּמִימֵי
 Ps 119,1 ; Pr 11,20 —
 
+@@SPLIT:sense@@
+
 1.
 complet, entier, total, Jb 36,4
 תְּמִים דֵעוֺת, Jb 37,16.
+
+@@SPLIT:sense@@
 
 2.
 entier, sain, en bonne santé, en parlant d'hommes Pr 1,12 (|| חַיִּים) ; vigne Ez 15,5 habituellement des animaux
@@ -30,8 +34,12 @@ P
 ; Ex 12,5
 + 40 t., ainsi Ez 43,22 + 10 t.
 
+@@SPLIT:sense@@
+
 3.
 complet, entier, du temps : jour Jos 10,13 année Lv 25,30 sabbats Lv 23,15.
+
+@@SPLIT:sense@@
 
 4.
 sain, intègre, sans défaut, innocent, ayant l'intégrité : de la voie de Dieu Ps 18,31 = 2 S 22,31 œuvre Dt 32,4 loi
@@ -82,6 +90,8 @@ pluriel Pr 2,21
 ; Pr
 28,10 ;
 Ps 37,18.
+
+@@SPLIT:sense@@
 
 5. comme adjectif neutre = substantif ce qui est complet, entièrement conforme à la vérité et
 au fait :

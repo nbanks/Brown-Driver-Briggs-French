@@ -6,6 +6,8 @@ go out, be extinguished (in poetry & especially Wisdom literature) (Aramaic דְ
 ,
 [placeholder1178: Placeholders/1178.gif]) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine plural דָּֽעֲכוּ
 Isa 43:17
@@ -24,9 +26,13 @@ Prov 24:20 of
 hostile armies Isa
 43:17 (|| כָּב֫וּ).
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect 3 plural נִדְעֲכוּ
 be made extinct, dried up, Job 6:17 (of brooks).
+
+@@SPLIT:stem@@
 
 Pu`al
 Perfect 3 plural דֹּעֲכוּ of assailants, be extinguished, quenched

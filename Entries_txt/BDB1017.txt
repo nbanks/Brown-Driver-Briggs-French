@@ -12,6 +12,8 @@ lie extended on the ground, 'se reposer sur quelqu' un'
 Fl
 MV) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 בָּטַח
@@ -307,6 +309,8 @@ v
 Isa
 32:11
 .
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect

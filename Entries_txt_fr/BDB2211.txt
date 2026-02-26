@@ -11,6 +11,7 @@ abâku, apâku
 
 Dl^W^) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 Lv 13,3 + 13 t. ;
@@ -162,6 +163,7 @@ Lv 13,20 (tous
 P
 ).
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 נֶהְפַּךְ
@@ -297,6 +299,7 @@ e.
 28,5 = il y a un
 retournement.
 
+@@SPLIT:stem@@
 Hithpa`el
 Imparfait 3 féminin singulier תִּתְהַפֵּךְ
 
@@ -328,6 +331,7 @@ se transformer,
 Jb 38,14 de la terre sous
 l'aube naissante.
 
+@@SPLIT:stem@@
 Hoph`al
 Parfait
 הָהְפַּךְ עָלַי בַּלָּהוֺת

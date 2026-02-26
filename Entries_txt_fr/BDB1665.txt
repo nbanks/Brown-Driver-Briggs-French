@@ -4,6 +4,7 @@ hébreu biblique
 [גָּלַם] verbe
 envelopper, plier, replier (hébreu tardif id., araméen dans les dérivés) —
 
+@@SPLIT:stem@@
 Qal
 Imparfait
 וַיִּגְלֹם

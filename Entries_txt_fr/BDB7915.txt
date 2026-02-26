@@ -5,6 +5,7 @@ hébreu biblique
 adverbe
 à vide, en vain ; —
 
+@@SPLIT:sense@@
 1.
 dans un état de vacuité, à vide = les mains vides ; avec verbe d'envoi Gn 31,42 (
 E
@@ -26,6 +27,7 @@ J
 Niph`al
 1.b.).
 
+@@SPLIT:sense@@
 2.
 en vain, sans effet : avec שׁוּב
 2 S 1,22

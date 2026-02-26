@@ -11,6 +11,8 @@ despise (Palestinian
 [placeholder542: Placeholders/542.gif]
 raise the head loftily and disdainfully) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 Num 15:31 +;
@@ -97,6 +99,8 @@ Jer 49:15 also
 Obad 1:2 of wisdom
 Eccl 9:16.
 
+@@SPLIT:stem@@
+
 Niph`al
 Participle
 נִבְזֶה
@@ -123,6 +127,8 @@ despicable, contemptible
 Mal 1:7 said
 of table of ׳
 י, compare Mal 1:12; Mal 2:9; Dan 11:21 as substantive of Antiochus Epiph.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Infinitive

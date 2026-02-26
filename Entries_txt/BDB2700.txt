@@ -11,6 +11,8 @@ collect firewood (see Wetzst in De^Ps 144:12^); Ethiopic
 [placeholder1720: Placeholders/1720.gif]
 cut (or gather) firewood) —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect
 יַחְטְבוּ
@@ -34,6 +36,8 @@ construct עצים
 ח
 Jer 46:22, and
 (|| שֹׁאֲבֵי מַיִם) Josh 9:21; Josh 9:23; Josh 9:27.
+
+@@SPLIT:stem@@
 
 Pu`al
 Participle

@@ -14,6 +14,8 @@ ušezib
 widowed
 Di^973^); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular ׳
 ע
@@ -358,6 +360,8 @@ SS
 Bae^Kau^
 Du).
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect 3 masculine singular נֶעֱזַב
 Neh 13:11
@@ -393,6 +397,8 @@ be forsaken, of house of God Neh 13:11, a city Ezek 36:4; Isa
 ;
 Lev 26:43
 (+ מִן of exiles); of man Ps 37:25.
+
+@@SPLIT:stem@@
 
 Pu`al (or
 Qal Passive, see Ges^«GKC:52e»§ 52e^)

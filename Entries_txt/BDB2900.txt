@@ -51,6 +51,8 @@ fifty, see below; — five, in Hexateuch chiefly
 P
 ; —
 
+@@SPLIT:sense@@
+
 1. without other numeral:
 
 a.
@@ -132,6 +134,8 @@ Ezek 1:1; Ezek 1:2; Ezek 8:1; Ezek 33:21
 (so
 also 15th, 25th, etc.)
 
+@@SPLIT:sense@@
+
 2.
 ׳
 ח combined with עשׂר, עשׂרה
@@ -170,16 +174,22 @@ A
 Hi
 Co).
 
+@@SPLIT:sense@@
+
 3.
 חֲמֵשׁ מֵאוֺת = 500 Gen 5:30; Gen 5:32 + 49 t. + Ezek 42:16
 
 Qr
 .
 
+@@SPLIT:sense@@
+
 4.
 חֲמֵשֶׁת אֲלָפִים = 5000 Num 31:32; Josh 8:12; Judg 20:45; 1Sam 17:5; Ezek 45:6; Ezek 48:15; 1Chr 29:7; 2Chr 35:9; Ezra 1:11; Ezra 2:69 — in 25,000, 35,000 etc. חֲמִשָּׁה (usually without
 ׳
 א) precedes the 20,000, 30,000, etc.
+
+@@SPLIT:sense@@
 
 5. with other numerals:
 

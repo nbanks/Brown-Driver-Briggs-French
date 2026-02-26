@@ -4,6 +4,7 @@ hébreu biblique
 נֹ֫בַח
 nom propre, masculin [aussi d'un lieu]
 
+@@SPLIT:sense@@
 1.
 masculin
 un Manassite
@@ -18,6 +19,7 @@ E
 
 Ναβαυ.
 
+@@SPLIT:sense@@
 2. lieu en Galaad
 Jg 8,11,
 

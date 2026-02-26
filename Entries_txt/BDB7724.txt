@@ -29,6 +29,8 @@ Num 15:4 + 2 t.; —
 fourth, usually ׳
 הָֽר:
 
+@@SPLIT:sense@@
+
 1.
 masculine
 Gen 2:14; Gen 15:16 (
@@ -54,6 +56,8 @@ N¢rab
 ] בני רבע
 Cook^107^).
 
+@@SPLIT:sense@@
+
 2.
 feminine
 of years, 1Kgs 6:1; 1Kgs 6:37; 2Kgs 18:9; Jer 25:1; Jer 28:1; Jer 36:1; Jer 45:1; Jer 46:2; Jer 51:59; Zech 6:8; Lev 19:24 (
@@ -73,10 +77,14 @@ Kit
 Benz
 Bur.
 
+@@SPLIT:sense@@
+
 3.
 רְבִיעִית
 Ezek 48:20
 four square (read possibly רְבוּעָה).
+
+@@SPLIT:sense@@
 
 4.
 רְבִ(י) עִ(י)ת as noun = fourth part, construct, הַהִין

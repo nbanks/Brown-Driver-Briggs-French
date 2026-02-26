@@ -9,6 +9,7 @@ sûru
 , nom rebelle
 Wkl^Gloss^) ; —
 
+@@SPLIT:stem@@
 Qal_161_
 Parfait masculin singulier סָר
 Ex 3,4 + ; 3 féminin
@@ -138,7 +139,8 @@ J
 ), épée 2 S 12,10 sceptre de Juda Gn 49,10 (poème dans
 J
 ) : la
-main de ׳י 1 S 6,3, sa bienveillance 2 S 7,15 (
+main de ׳
+י 1 S 6,3, sa bienveillance 2 S 7,15 (
 
 ᵑ0
 
@@ -250,11 +252,13 @@ les
 récalcitrants, ou ci-dessous סרר, ou même = שָׂרֵי
 princes, chefs (comparer 1 S 22,14).
 
+@@SPLIT:stem@@
 Pô`lel
 Parfait 3 masculin singulier סוֺרֵר דְּרָכָיו
 Lm 3,11
 il a détourné mes chemins (mes pas).
 
+@@SPLIT:stem@@
 Hiphil_133_
 Parfait 3 masculin singulier הֵסִיר
 2 R 18,4 + ;
@@ -402,6 +406,7 @@ vers
 1 Ch 13,13
 .
 
+@@SPLIT:stem@@
 Hoph`al
 Parfait 3 masculin singulier הוּסַר
 Lv 4,31 ;

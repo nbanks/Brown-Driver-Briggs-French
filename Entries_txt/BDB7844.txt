@@ -9,6 +9,8 @@ be, or grow, wide, large (Late Hebrew in derived species (rare) and derivatives;
 rêbitu
 , open place; Aramaic רְחַב in derivatives ); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular פִּי
 ׳
@@ -30,11 +32,15 @@ probably error, Co
 וְיָָֽסְפוּ
 רָֽחֲבוּ [וְ?].
 
+@@SPLIT:stem@@
+
 Niph`al
 Participle as adjective נִרְחָב
 Isa 30:23
 
 a broad, roomy, pasture.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 masculine singular הִרְחִיב

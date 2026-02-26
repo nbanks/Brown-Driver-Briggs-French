@@ -13,6 +13,8 @@ PS^2331^; Arabic
 [placeholder3257: Placeholders/3257.gif]
 descend (.milk into udder, but also in general)); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 נָָֽזְלוּ
@@ -55,6 +57,8 @@ Song 4:15 (||
 distil, of spices בְּשָׂמִים
 Song 4:16
 figurative of words, like dew Deut 32:2 (|| ערף).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect

@@ -8,12 +8,14 @@ Pi`el rendre abondant
 Lyon^Sargontexte 77^ ; comparer aussi ci-dessous דֶּשֶׁא
 , d'où, selon d'autres, verbe dénominatif) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 דָּֽשְׁאוּ
 Jl 2,22
 (sujet נְאוֺת מִדְבָּר).
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait 3 féminin singulier תַּדְשֵׁא (jussif) Gn 1,11
 faire germer ou pousser

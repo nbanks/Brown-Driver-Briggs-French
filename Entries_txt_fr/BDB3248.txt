@@ -5,9 +5,11 @@ hébreu biblique
 MV et d'autres ; cependant comparer hébreu tardif חוֺתָל
 panier tressé de dattes) —
 
+@@SPLIT:stem@@
 Pu`al
 Parfait 2 féminin singulier חֻתַּלְתְּ et
 
+@@SPLIT:stem@@
 Hoph`al
 Infinitif absolu
 הָחְתֵּל

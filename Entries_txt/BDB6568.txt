@@ -3,6 +3,8 @@ Biblical Hebrew
 
 I. [פּוּשׁ] verb apparently spring about,
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 plural consecutive וּפָשׁוּ פָּרָשָׁיו
 Hab 1:8 (but probably

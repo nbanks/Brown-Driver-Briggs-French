@@ -9,6 +9,8 @@ Ba^Es 32^ comparer arabe
 [placeholder4626: Placeholders/4626.gif]
 s'enflammer, flamber ;; comparer aussi זרב) ; —
 
+@@SPLIT:stem@@
+
 Niph`al
 Parfait
 3 pluriel consécutif וְנִצְרְבוּ

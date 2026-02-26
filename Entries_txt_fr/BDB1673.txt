@@ -8,6 +8,7 @@ avaler (des liquides), (hébreu tardif id. ; comparer araméen גְּמָא
 [placeholder932: Placeholders/932.gif]
 jarre, vase voir Di) —
 
+@@SPLIT:stem@@
 Pi`el
 Imparfait
 יְגַמֶּאאֶֿרֶץ
@@ -18,6 +19,7 @@ tardif, araméen גּוּמְּתָא,
 fosse, creux, c.-à-d. il fait [gratte ou frappe] des creux dans la
 terre).
 
+@@SPLIT:stem@@
 Hiph`il
 Impératif
 féminin singulier suffixe

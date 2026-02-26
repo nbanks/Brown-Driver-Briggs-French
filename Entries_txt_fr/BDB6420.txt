@@ -9,6 +9,8 @@ MI^26^
 
 ערער ; —
 
+@@SPLIT:sense@@
+
 1. ville sur la rive nord de l'Arnon, limite méridionale d'Israël en Transjordanie, עֲרֹעֵר
 Nb 32,34 (
 
@@ -38,6 +40,8 @@ moderne `Ar`âir
 Buhl Geogr. 269, Tristr^Moab 129
 ss.^
 
+@@SPLIT:sense@@
+
 2. ville près de Rabba en Ammon, עֲרֹעֵר
 Jg 11,33,
 ׳
@@ -46,6 +50,8 @@ Jos 13,25 (
 
 P
 ), site inconnu.
+
+@@SPLIT:sense@@
 
 3. ville dans le sud de Juda, עֲרֹעֵר
 1 S 30,28 (

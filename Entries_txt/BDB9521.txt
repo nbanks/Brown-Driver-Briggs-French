@@ -4,11 +4,15 @@ Biblical Aramaic
 [חֲיָא] verb
 live (see Biblical Hebrew תָיָה); —
 
+@@SPLIT:stem@@
+
 Pe`al
 Imperative
 לְעָֽלְמִין חֱיִי
 live for ever!
 Dan 2:4; Dan 3:9; Dan 5:10; Dan 6:7; Dan 6:22.
+
+@@SPLIT:stem@@
 
 Haph`el
 Participle

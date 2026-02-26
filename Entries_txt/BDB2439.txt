@@ -13,16 +13,22 @@ Aramaic
 [placeholder1545: Placeholders/1545.gif], זִיקָּא
 violent wind, violent rain with whirlwind) —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 3 masculine plural יָזֹ֫קּוּ
 Job 28:1 object
 זָהָב, Job 36:27 object מָטָר (see Di
 ).
 
+@@SPLIT:stem@@
+
 Pi`el
 Perfect
 וְזִקַּק consecutive Mal 3:3 (|| וְטִהַר) figurative, of purifying sons of Levi,
 like gold and silver כְּזָהָב etc.
+
+@@SPLIT:stem@@
 
 Pu`al
 Participle

@@ -21,8 +21,10 @@ pluriel
 2 R 23,26. —
 irritation :
 
+@@SPLIT:sense@@
 1. des hommes, surtout causée par un traitement immérité, 1 S 1,6 ; 1 S 1,16 ; Pr 12,16 ; Pr 17,25 ; Pr 21,19 ; Pr 27,3 ; Qo 7,9.
 
+@@SPLIT:sense@@
 2.
 irritation, colère de Yahvé (causée surtout par le culte d'autres dieux) 1 R 15,30 ; 1 R 21,22
 ; 2 R 23,26
@@ -53,6 +55,7 @@ provocation de leur offrande (ainsi
 RV
 mais Co supprime, à juste titre).
 
+@@SPLIT:sense@@
 3.
 irritation, chagrin
 Ps 6,8 ; Ps 10,14 ;

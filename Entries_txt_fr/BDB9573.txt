@@ -9,6 +9,8 @@ donner (
 
 syriaque ; comparer hébreu biblique) ; —
 
+@@SPLIT:stem@@
+
 Peal
 Parfait 3 masculin singulier ׳
 י
@@ -48,6 +50,8 @@ SAC^JQ 1904, 274^ ; voir
 2.
 Schulth^Lex; et ZAW xxii (1902), 162^ ; comparer D^WB 171^).
 
+@@SPLIT:stem@@
+
 Peil (W^CG
 224^), être donné, sujet chose, avec ל personne : 3
 masculin singulier יְהִיב
@@ -64,6 +68,8 @@ Esd 7,27 3
 masculin pluriel וִיהִ֫יבוּ
 Esd 5,14
 être livré (ל de la flamme) Dn 7,11.
+
+@@SPLIT:stem@@
 
 Hithpeel
 Imparfait 3 masculin singulier יִתְיְהֵב

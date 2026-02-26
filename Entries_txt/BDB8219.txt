@@ -9,6 +9,8 @@ Job 15:4 suffix
 שִׂיחָתִי
 Ps 119:97 —
 
+@@SPLIT:sense@@
+
 1.
 complaint:
 לִפְנֵיאֵֿל
@@ -19,6 +21,8 @@ Bu and others, compare שִׁיחַ
 1.
 De and others meditation, compare [גָּרֵע
 ]).
+
+@@SPLIT:sense@@
 
 2. (object of) musing, study:
 תּוֺרָה

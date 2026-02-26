@@ -5,6 +5,7 @@ II. [שׁוּק ] verb probably be abundant (Assyrian
 šû‡u
 , abundance); —
 
+@@SPLIT:stem@@
 Po`l.
 Imperfect 3 masculine singular suffix וַתְּשֹׁקֶקֶהָ
 Ps 65:10
@@ -14,6 +15,8 @@ Che and others; >
 Vrss
 thought of הִשְׁקָה
 irrigate, so Bae EV).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect consecutive וְהֵשִׁיקוּ הַיְקָבִים תִּירוֺשׁ

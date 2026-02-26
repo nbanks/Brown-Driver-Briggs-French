@@ -4,6 +4,8 @@ Biblical Hebrew
 II. [גָּאַל] verb
 defile, late (compare גָּעַל) —
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect 3 masculine plural נְגֹאֲלוּ
 Isa 59:3; Lam 4:14, on form
@@ -14,13 +16,17 @@ Zeph 3:1 —
 be defiled, hands with blood בַּדָּם, Isa 59:3 compare Lam 4:14 participle as substantive
 defiled, polluted one
 Zeph 3:1 of Jerusalem
-(|| מֹרְאָה; appositive הָעִיר הַיּוֺנָה).
+(|| מֹרְאָה; appositive הָעִיר הַיּוֺנָה).
+
+@@SPLIT:stem@@
 
 Pi`el
 Perfect 1 plural suffix גֵּאַלְנוּךָ
 Mal 1:7
 pollute, desecrate, object ׳
 י (desecrated in his altar).
+
+@@SPLIT:stem@@
 
 Pu`al
 Imperfect
@@ -33,6 +39,8 @@ desecrated ones; Participle
 ) Mal
 1:12.
 
+@@SPLIT:stem@@
+
 Hiph`il
 Perfect 1 singular אֶגְאָ֑לְתִּי
 Isa 63:3
@@ -44,6 +52,8 @@ compare also Ges^l.c. N.^
 Ol^§ 255 b^
 Sta^§ 159 b, 3^; — I have polluted
 , i.e. stained all my raiment.
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Imperfect

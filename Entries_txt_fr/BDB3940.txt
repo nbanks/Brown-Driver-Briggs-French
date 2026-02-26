@@ -9,12 +9,14 @@ id. ; arabe
 [placeholder2466: Placeholders/2466.gif]
 mesurer le grain) —
 
+@@SPLIT:stem@@
 Qal
 Parfait seulement Es 40,12
 מִיכָּ֗֗֗ל בְּשָׁלִשׁ
 עֲפַר הָאָרֶץ
 qui a mesuré la poussière de la terre dans une mesure shalish ?
 
+@@SPLIT:stem@@
 Pilpel
 Parfait
 כִּלְכֵּל
@@ -74,12 +76,14 @@ Pr 18,14
 Ps 112,5
 .
 
+@@SPLIT:stem@@
 Polpal
 Parfait 3 pluriel כָּלְכְּלוּ
 furent approvisionnés en nourriture
 1 R 20,27
 (Klo propose בַּגִּלְבֹּעַ).
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait
 יָכִיל

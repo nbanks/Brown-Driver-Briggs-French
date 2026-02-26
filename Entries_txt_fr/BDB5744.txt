@@ -20,6 +20,7 @@ t. ; suffixe עֲבוֺדָתִי
 עֲבוֺדָתָם
 1 Ch 6,17 ; 2 Ch 31,16 —
 
+@@SPLIT:sense@@
 1.
 travail, œuvre, Ps 104,23 dans les champs Ex 1,14 ; 1 Ch 27,26, probablement Ne 10,38 (׳
 
@@ -47,6 +48,7 @@ Es 32,17
 (|| ׳
 מַעֲשֵׂה הַצּ) ; de l'œuvre de jugement de Dieu Es 28,21 (deux fois dans le verset).
 
+@@SPLIT:sense@@
 2.
 travail de serviteur ou d'esclave : de Jacob pour Laban Gn 29,27 ; Gn 30,26 (
 J
@@ -62,6 +64,7 @@ P
 ) 1 Ch
 9,28 ; 1 Ch 28,14 (deux fois dans le verset) ; 1 Ch 28,15.
 
+@@SPLIT:sense@@
 3.
 travail, service des captifs ou des sujets : d'Israël en Égypte Ex 1,14 ; Ex 2,23 (deux fois dans le verset) (
 P
@@ -107,6 +110,7 @@ Ne 3,5 service
 militaire Ez
 29,18 (deux fois dans le verset).
 
+@@SPLIT:sense@@
 4.
 service de Dieu, dans
 P

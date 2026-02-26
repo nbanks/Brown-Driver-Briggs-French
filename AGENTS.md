@@ -46,6 +46,7 @@ Brown-Driver-Briggs-Enhanced/
         llm_verify.py   # Vérification par LLM local des traductions txt_fr
         review_errors.py # Liste les entrées signalées non encore revues
         check_hebrew.py # Vérifie la préservation du texte hébreu/araméen
+        split_entry.py  # Découpe les entrées en morceaux (stems/senses/sections)
     test/               # Tests pour les scripts (check_hebrew, validate_html, etc.)
     llm_verify_txt_results.txt  # Résultats de vérification LLM des Entries_txt_fr/
     bdbToStrongsMapping.csv
@@ -59,17 +60,10 @@ Brown-Driver-Briggs-Enhanced/
 Il s'agit d'un ouvrage de référence savant ; le français sans accents est
 inacceptable. Exemples :
 
-- « usé » et non « use », « blé » et non « ble », « être » et non « etre »
-- « féminin » et non « feminin », « généalogie » et non « genealogie »
-- « Néhémie » et non « Nehemie », « Deutéronome » et non « Deuteronome »
-- « c.-à-d. » et non « c.-a-d. », « là » et non « la » (quand c'est l'adverbe)
-- « hébreu » et non « hebreu », « araméen » et non « arameen »
-- « phénicien » et non « phenicien », « éthiopien » et non « ethiopien »
-- « épée » et non « epee », « été » et non « ete », « né » et non « ne »
-- « consacré » et non « consacre », « créé » et non « cree », « abîme » et non « abime »
-- « père » et non « pere », « mère » et non « mere », « peut-être » et non « peut-etre »
-- « fraîcheur » et non « fraicheur », « première » et non « premiere »
-- « À partir de » et non « A partir de », « État » et non « Etat »
+- « être » non « etre », « féminin » non « feminin », « généalogie » non « genealogie »
+- « hébreu » non « hebreu », « araméen » non « arameen », « c.-à-d. » non « c.-a-d. »
+- « épée » non « epee », « abîme » non « abime », « fraîcheur » non « fraicheur »
+- « À partir de » non « A partir de », « Néhémie » non « Nehemie »
 
 Pour les majuscules accentuées sur les noms propres (Ésaïe, Égypte, etc.),
 voir la section « Traduction des noms propres et lieux ».
@@ -291,65 +285,43 @@ French:
   אָב voir II. אבה.
 ```
 
-**BDB50** -- אָבַל mourn (entrée complète, trois thèmes verbaux)
+**BDB1955** -- דָּלַף "drop, drip" (entrée verbale complète, un thème)
 ```
 English:
   Biblical Hebrew
-  I. אָבַל  verb  mourn  (Assyrian [abâlu] see Dl) --
-  Qal  Perfect אָבַל Isa 24:7 + 2 t. etc.  Imperfect 3 feminine
-  singular תֶּאֱבַל Hos 4:3 + 3 t. --  mourn, lament (poetic &
-  higher style); absolute, human subject Joel 1:9; Amos 8:8;
-  Amos 9:5; Isa 19:8 (|| אנה) compare Job 14:22 (subject נַפְשׁוֺ);
-  followed by על Hos 10:5 more often figurative, inanimate subject,
-  gates 1Sam 3:26 land 1Sam 24:4; 1Sam 33:9; Hos 4:3; Joel 1:10;
-  Jer 4:28 (followed by על) Jer 12:4; Jer 23:10 compare Jer 12:11
-  (followed by על), יְהוּדָה Jer 14:2 pastures Amos 1:2.
-  Hithpa`el -- Perfect הִתְאַבֵּל 1Sam 15:35  Imperfect יִתְאַבָּ֑ל
-  Ezek 7:12; Ezek 7:27  וַיִּתְאַבֵּל Gen 37:34 + 3 t. etc.;
-  Imperative feminine singular הִתְאַבְּלִי 2Sam 14:2  Participle
-  מִתְאַבֵּל 1Sam 16:1 + 2 t. etc.; -- mourn (mostly prose)
-  especially for dead, followed by על Gen 37:34; 2Sam 13:37;
-  2Sam 14:2; 2Sam 19:2 || בכה 2Chr 35:24, compare also Isa 66:10
-  (over Jerusalem); absolute 1Chr 7:22 compare 2Sam 14:2 play the
-  mourner (where indicated by dress); over un-worthy Saul followed
-  by אֶל 1Sam 15:35; 1Sam 16:1 over sin followed by על Ezra 10:6
-  compare (absolute) Neh 8:9 judgment of ׳ י Exod 33:4 absolute
-  (indicated by dress), Num 14:39; Ezek 7:27 (strike out B Co);
-  followed by כִּי 1Sam 6:19 calamity Neh 1:4; Ezek 7:12 compare
-  Dan 10:2.
-  Hiph`il  Perfect הֶאֱבַלְתִּי Ezek 31:15  Imperfect וַיַּאֲבֶלֿ
-  Lam 2:8 -- cause to mourn; Ezek 31:15 absolute MT, but A B Co
-  object תהום followed by על, caused the deep to mourn over;
-  Lam 2:8 object wall etc.; (both these figurative, compare Qal).
+  דָּלַף  verb  drop, drip (Wisdom Literature.) (Late Hebrew id. (זלף
+  more common), דֶּלֶף
+  through, etc., Aramaic דְּלַף,
+  [placeholder1149: Placeholders/1149.gif], drip) —
+  Qal
+  Perfect 3 feminine singular אֶלאֱֿלוֺהַּ דָּֽלְפָה עֵינִי
+  Job 16:20 i.e.
+  weeps (drops in tears); דָּֽלְפָה נַפְשִׁי
+  מִתּוּגָה
+  Ps 119:28
+  i.e. weeps (itself away Che compare De
+  ); Imperfect
+  בְּשִׁפְלוּת יָדַיִם יִדְלֹף הַבָּֽיִת׃
+  Eccl 10:18
+  the house drips, i.e. leaks, because cracks are not mended.
 
 French:
   hébreu biblique
-  I. אָבַל  verbe  être en deuil  (assyrien [abâlu] voir Dl) --
-  Qal  Parfait אָבַל Es 24,7 + 2 t. etc.  Imparfait 3 féminin
-  singulier תֶּאֱבַל Os 4,3 + 3 t. --  être en deuil, se lamenter
-  (poétique & style élevé) ; absolu, sujet humain Jl 1,9 ; Am 8,8 ;
-  Am 9,5 ; Es 19,8 (|| אנה) comparer Jb 14,22 (sujet נַפְשׁוֺ) ;
-  suivi de על Os 10,5 plus souvent figuré, sujet inanimé, portes
-  1 S 3,26 terre 1 S 24,4 ; 1 S 33,9 ; Os 4,3 ; Jl 1,10 ;
-  Jr 4,28 (suivi de על) Jr 12,4 ; Jr 23,10 comparer Jr 12,11
-  (suivi de על), יְהוּדָה Jr 14,2 pâturages Am 1,2.
-  Hithpa`el -- Parfait הִתְאַבֵּל 1 S 15,35  Imparfait יִתְאַבָּ֑ל
-  Ez 7,12 ; Ez 7,27  וַיִּתְאַבֵּל Gn 37,34 + 3 t. etc. ;
-  Impératif féminin singulier הִתְאַבְּלִי 2 S 14,2  Participe
-  מִתְאַבֵּל 1 S 16,1 + 2 t. etc. ; -- être en deuil (surtout prose)
-  surtout pour les morts, suivi de על Gn 37,34 ; 2 S 13,37 ;
-  2 S 14,2 ; 2 S 19,2 || בכה 2 Ch 35,24, comparer aussi Es 66,10
-  (concernant Jérusalem) ; absolu 1 Ch 7,22 comparer 2 S 14,2 jouer
-  l'endeuillé (quand indiqué par le vêtement) ; sur l'indigne Saül
-  suivi de אֶל 1 S 15,35 ; 1 S 16,1 sur le péché suivi de על
-  Esd 10,6 comparer (absolu) Ne 8,9 jugement de ׳ י Ex 33,4 absolu
-  (indiqué par le vêtement), Nb 14,39 ; Ez 7,27 (supprimer B Co) ;
-  suivi de כִּי 1 S 6,19 calamité Ne 1,4 ; Ez 7,12 comparer
-  Dn 10,2.
-  Hiphil  Parfait הֶאֱבַלְתִּי Ez 31,15  Imparfait וַיַּאֲבֶלֿ
-  Lm 2,8 -- faire porter le deuil ; Ez 31,15 absolu TM, mais A B Co
-  objet תהום suivi de על, a fait porter le deuil à l'abîme sur ;
-  Lm 2,8 objet muraille etc. ; (tous deux figurés, comparer Qal).
+  דָּלַף  verbe  goutter, dégoutter (littérature sapientielle) (hébreu tardif id. (זלף
+  plus courant), דֶּלֶף
+  à travers, etc., araméen דְּלַף,
+  [placeholder1149: Placeholders/1149.gif], goutter) —
+  Qal
+  Parfait 3 féminin singulier אֶלאֱֿלוֺהַּ דָּֽלְפָה עֵינִי
+  Jb 16,20 c.-à-d.
+  pleure (goutte en larmes) ; דָּֽלְפָה נַפְשִׁי
+  מִתּוּגָה
+  Ps 119,28
+  c.-à-d. pleure (se consume Che comparer De
+  ) ; Imparfait
+  בְּשִׁפְלוּת יָדַיִם יִדְלֹף הַבָּֽיִת׃
+  Qo 10,18
+  la maison dégoutte, c.-à-d. a des fuites, parce que les fissures ne sont pas réparées.
 ```
 
 **BDB200** -- אוּלָם nom propre (entrée complète)
@@ -399,45 +371,8 @@ French:
      ᵐ5 Ωσαιας, ᵐ5L Ιωσηε.
 ```
 
-**BDB883** -- בְאֵרִי beau-père d'**Ésaü** (entrée complète, sans placeholder)
-```
-English:
-  Biblical Hebrew
-  בְאֵרִי  proper name, masculine (my well).
-  < the man from Beer? Nes.
-  1. a Hittite, Esau's father-in-law Gen 26:34.
-  2. Hosea's father Hos 1:1.
-
-French:
-  hébreu biblique
-  בְאֵרִי  nom propre, masculin (mon puits).
-  < l'homme de Beer ? Nes.
-  1. un Hittite, beau-père d'Ésaü Gn 26,34.
-  2. père d'Osée Os 1,1.
-```
-
-**BDB9249** -- תִּרְהָקָה roi d'**Égypte** (entrée complète, sans placeholder)
-```
-English:
-  Biblical Hebrew
-  תִּרְהָקָה  proper name, masculine  king of Egypt, of Ethiopian
-  Dynasty: 2Kgs 19:9 = Isa 37:9 Θαρακα; ᵐ5L Θαρθακ; = Egyptian
-  T-h-r-‡, Assyrian Tar‡u, Steind COT Wied Brugsch WMM Griffith.
-  ---
-  תְּרוּמָה, תְּרוּמִיָּה see רום. תְּרוּעָה see [רוע].
-  ---
-  תְּרוּפָה see רוף.
-
-French:
-  hébreu biblique
-  תִּרְהָקָה  nom propre, masculin  roi d'Égypte, de la dynastie
-  éthiopienne : 2 R 19,9 = Es 37,9 Θαρακα ; ᵐ5L Θαρθακ ; = égyptien
-  T-h-r-‡, assyrien Tar‡u, Steind COT Wied Brugsch WMM Griffith.
-  ---
-  תְּרוּמָה, תְּרוּמִיָּה voir רום. תְּרוּעָה voir [רוע].
-  ---
-  תְּרוּפָה voir רוף.
-```
+Autres exemples de majuscules accentuées : « Ésaü » (Esau), « Égypte »
+(Egypt), « Éthiopien » (Ethiopian), « Ézéchiel » (Ezekiel).
 
 ### Anglais victorien — attention aux faux amis
 
@@ -518,25 +453,13 @@ Mic  -> Mi       Nah  -> Na       Hab  -> Ha       Zeph -> So
 Hag  -> Ag       Zech -> Za       Mal  -> Ml
 ```
 
-Formes développées courantes dans le BDB :
-```
-Genesis     -> Genèse         Exodus      -> Exode
-Leviticus   -> Lévitique      Numbers     -> Nombres
-Deuteronomy -> Deutéronome    Joshua      -> Josué
-Judges      -> Juges          Samuel      -> Samuel
-Kings       -> Rois           Chronicles  -> Chroniques
-Nehemiah    -> Néhémie        Esther      -> Esther
-Psalms      -> Psaumes        Proverbs    -> Proverbes
-Ecclesiastes -> Qohéleth      Song of Solomon -> Cantique des Cantiques
-Isaiah      -> Ésaïe          Jeremiah    -> Jérémie
-Lamentations -> Lamentations  Ezekiel     -> Ézéchiel
-Daniel      -> Daniel         Hosea       -> Osée
-Obadiah     -> Abdias         Jonah       -> Jonas
-Micah       -> Michée         Nahum       -> Nahoum
-Habakkuk    -> Habacuc        Zephaniah   -> Sophonie
-Haggai      -> Aggée          Zechariah   -> Zacharie
-Malachi     -> Malachie
-```
+Formes développées : Genesis -> Genèse, Exodus -> Exode, Leviticus ->
+Lévitique, Numbers -> Nombres, Deuteronomy -> Deutéronome, Joshua -> Josué,
+Judges -> Juges, Kings -> Rois, Chronicles -> Chroniques, Nehemiah -> Néhémie,
+Isaiah -> Ésaïe, Jeremiah -> Jérémie, Ezekiel -> Ézéchiel, Hosea -> Osée,
+Obadiah -> Abdias, Micah -> Michée, Nahum -> Nahoum, Habakkuk -> Habacuc,
+Zephaniah -> Sophonie, Haggai -> Aggée, Zechariah -> Zacharie, Malachi ->
+Malachie, Ecclesiastes -> Qohéleth, Song of Solomon -> Cantique des Cantiques.
 
 ### Ce qu'il ne faut PAS traduire
 
@@ -566,6 +489,31 @@ sauf les placeholders qui deviennent `[placeholder8: Placeholders/8.gif]` pour
 que le traducteur puisse consulter l'image du mot apparenté. Le texte
 hébreu/araméen, les abréviations savantes et les références bibliques sont
 préservés en ligne. Résultat dans `Entries_txt/`.
+
+Le script injecte aussi des **marqueurs de découpage** `@@SPLIT:type@@` sur des
+lignes séparées, qui indiquent les frontières naturelles de l'entrée (thèmes
+verbaux, sens numérotés, sections). Ces marqueurs servent au découpage
+automatique des entrées longues pour le réassemblage HTML par morceaux. Les
+types possibles sont `stem`, `sense` et `section`. Les marqueurs doivent être
+**préservés à l'identique** dans `Entries_txt_fr/` — même nombre, même type,
+même position relative dans la structure de l'entrée.
+
+Exemple (`Entries_txt/BDB50.txt`, entrée verbale) :
+```
+=== BDB50 H56 ===
+Biblical Hebrew
+...
+@@SPLIT:stem@@
+Qal
+Perfect אָבַל ...
+@@SPLIT:stem@@
+Hithpa`el — Perfect ...
+@@SPLIT:stem@@
+Hiph`il ...
+```
+
+Le fichier `Entries_txt_fr/BDB50.txt` correspondant doit contenir les mêmes
+trois `@@SPLIT:stem@@` aux mêmes positions structurelles.
 
 ```
 python3 scripts/extract_txt.py              # tout extraire
@@ -615,7 +563,7 @@ Sortie HTML française :  <pos>verbe</pos> … <primary>être en deuil</primary>
 `Entries_fr/` — c'est une copie de l'anglais, pas une traduction.
 
 **Auto-vérification** : parcourez votre sortie HTML. Si vous y voyez du texte
-anglais (hors abréviations savantes dans `<lookup>` et noms propres), le
+anglais (hors noms propres de savants modernes), le
 fichier est incorrect — recommencez en utilisant le texte de `Entries_txt_fr/`.
 
 **Préservation de la structure HTML :** Ne supprimez aucune balise HTML, même
@@ -674,6 +622,19 @@ Sans arguments, le script affiche l'aide. Les 10 chiffres (0-9) permettent à
 Un LLM lit chaque fichier de `json_output/`, traduit les champs anglais, et
 écrit le résultat dans `json_output_fr/` avec le même nom de fichier.
 
+### Principe général : visible vs invisible
+
+**Tout ce que le lecteur voit** (texte affiché entre les balises) doit être en
+français. **Tout ce qui est invisible** (attributs de balises) doit rester
+exactement comme dans le HTML anglais original.
+
+- Attributs (`onclick="bdbabb('Isa')"`, `ref="Isa 42:1"`, `b="23"`, etc.)
+  → **copier tel quel** depuis l'original
+- Texte affiché entre les balises (`>Isa 42:1<`, `>Isa<sup>3</sup><`)
+  → **traduire** (`>Es 42,1<`, `>Es<sup>3</sup><`)
+
+Cette règle s'applique à toutes les balises : `<ref>`, `<lookup>`, etc.
+
 ### Balises HTML et leur traitement
 
 Lors du réassemblage (étape 3), ces balises doivent être traitées comme suit :
@@ -687,7 +648,7 @@ Lors du réassemblage (étape 3), ces balises doivent être traitées comme suit
 - `<bdbarc>...</bdbarc>` -- garder tel quel (araméen)
 - `<entry>...</entry>` -- garder tel quel (identifiants)
 - `<ref ...>...</ref>` -- garder les attributs, traduire le texte affiché (nom du livre)
-- `<lookup ...>...</lookup>` -- garder tel quel (abréviations savantes)
+- `<lookup ...>...</lookup>` -- garder les attributs (`onclick`, etc.) inchangés ; traduire le texte visible (noms de livres bibliques, prose dans `<sup>`/`<sub>`) comme tout autre texte affiché. Les codes d'abréviation savante eux-mêmes (Dl, Dr, Kö, etc.) restent tels quels car ce sont des noms propres de savants, pas de l'anglais traduisible.
 - `<transliteration>...</transliteration>` -- garder tel quel
 - `<reflink>...</reflink>` -- garder tel quel
 - `<placeholder*>` -- garder tel quel (images de scripts apparentés ; voir Placeholders ci-dessous)
@@ -777,8 +738,11 @@ Les étiquettes anglaises environnantes doivent être traduites :
 
 ~337 codes d'abréviation (Dl, Dr, Bev, Kau, Tg, Aq, Symm, Theod, etc.) pour
 auteurs, revues et versions anciennes. Balises `<lookup>` en HTML, parfois en
-ligne dans les descriptions JSON. **Ne jamais les traduire.** Préserver
-exactement, y compris les notations en exposant.
+ligne dans les descriptions JSON. **Ne jamais traduire les codes eux-mêmes**
+(ce sont des noms propres de savants). En revanche, dans `<lookup>`, le texte
+visible qui n'est pas un code savant (noms de livres bibliques comme `Isa` →
+`Es`, prose dans `<sup>`/`<sub>`) doit être traduit comme tout autre texte
+affiché. Les attributs (`onclick="bdbabb('Isa')"`) restent inchangés.
 
 ## Artefacts JSON (sauts de ligne et champs `pos` débordants)
 
@@ -862,37 +826,16 @@ python3 scripts/review_errors.py 7 --status   # avec statut et raison
 
 **Format des notes — être précis et détaillé :**
 
-Ne jamais écrire de verdict générique qui résume sans analyser. Une note qui ne
-cite pas les termes exacts signalés et n'explique pas précisément *pourquoi*
-chacun est correct ou *ce qui a été corrigé* est inutile — elle empêche une
-relecture future et masque de vrais problèmes.
+Ne jamais écrire de verdict générique. Commencer par lire le diagnostic exact
+de llm_verify dans `llm_verify_txt_results.txt` (chercher `BDBnnn.txt`), puis
+répondre point par point avec deux parties :
 
-**Si aucune correction n'est nécessaire**, la note doit quand même expliquer
-concrètement pourquoi chaque terme signalé est correct. Par exemple, si le
-vérificateur signale « Dl » comme anglais non traduit, la note doit dire que
-c'est l'abréviation savante de Delitzsch — pas simplement « traduction
-correcte ». Sans cette justification, un relecteur ne peut pas distinguer une
-revue rigoureuse d'un tampon automatique.
+- **Signalé :** citer textuellement les termes signalés par llm_verify.
+- **Verdict/Correction :** expliquer pourquoi c'est correct (abréviation savante
+  de quel auteur, mot français valide, etc.) ou décrire ce qui a été corrigé.
 
-**Obligatoire :** commencer par lire le diagnostic exact de llm_verify dans
-`llm_verify_txt_results.txt` (chercher `BDBnnn.txt`), puis répondre point par
-point. Toujours suivre ce format en deux parties :
-
-- **Signalé :** citer textuellement ce que llm_verify a signalé (les termes
-  exacts entre guillemets).
-- **Verdict/Correction :** pour chaque terme signalé, expliquer précisément
-  pourquoi c'est correct (avec la raison : abréviation savante de quel auteur,
-  mot français valide dans quel sens, etc.) ou décrire ce qui a été corrigé.
-
-Exemples :
-- `Signalé : « Dl » comme anglais non traduit. Verdict : abréviation savante
-  pour Delitzsch — à conserver tel quel.`
-- `Signalé : « id. » et « v » non traduits. Verdict : « id. » = latin (idem),
-  « v » = abréviation de verset — tous deux corrects.`
-- `Signalé : « in Juda » comme anglais résiduel. Correction : « in » → « en »
-  dans Entries_txt_fr.`
-- `Signalé : « homer » non traduit. Verdict : translittération standard de la
-  mesure hébraïque חֹמֶר, utilisée telle quelle en français savant.`
+Exemples : `Signalé : « Dl ». Verdict : abréviation de Delitzsch.` /
+`Signalé : « in Juda ». Correction : « in » → « en ».`
 
 Les fichiers `Entries_notes/` servent à la fois de journal de revue et de
 marqueurs de progression — `review_errors.py` les ignore automatiquement.

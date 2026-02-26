@@ -9,6 +9,8 @@ dérivée), Zinjirli רפה Aphel,
 [placeholder5144: Placeholders/5144.gif]
 une vie facile est peut-être apparenté) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Parfait 3 masculin singulier Jg 19,9 (pourtant voir ci-dessous) ; 3 féminin singulier רָֽפִ֑תָה
 Jg 8,3 ; Jr 49,24,
@@ -50,6 +52,8 @@ J
 ), c.-à-d. laisser quelqu'un tranquille (mais lire peut-être וַיֶרֶף, voir
 Hiph`il).
 
+@@SPLIT:stem@@
+
 Niph`al
 Participe pluriel נִרְפִּים
 oisifs
@@ -58,6 +62,8 @@ Ex 5,8
 
 J
 ).
+
+@@SPLIT:stem@@
 
 Pi`el
 Parfait 3 masculin singulier רִפָּה
@@ -89,6 +95,8 @@ décourager, démoraliser
 
 Jr 38,4 ;
 Esd 4,4.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imparfait, 3 masculin singulier suffixe יַרְפְּךָ
@@ -154,6 +162,8 @@ Ps
 
 רָפָא
 .
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Parfait 2 masculin singulier הִתְרַפִּיתָ

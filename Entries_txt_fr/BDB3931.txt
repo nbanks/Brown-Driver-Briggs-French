@@ -18,6 +18,7 @@ suffixe כֹּהֲנַי
 Lm 1,19 + 22 t.
 suffixes —
 
+@@SPLIT:sense@@
 1.
 prêtre-roi : p. ex. Melchisédek Gn 14,18 (
 E
@@ -43,6 +44,7 @@ Ex 19,24
 J
 ).
 
+@@SPLIT:sense@@
 2.
 prêtres
 d'autres religions que celle de
@@ -81,6 +83,7 @@ ses prêtres : p. ex. de Baal 2 R 10,19 = d'Achab 2 R 10,11 de Kemosh Jr 48,7 de
 So 1,4 Josias
 brûla les os des prêtres des Baals et des Ashérim 2 Ch 34,5.
 
+@@SPLIT:sense@@
 3.
 prêtres
 d'ordres spéciaux en Israël :
@@ -133,6 +136,7 @@ c. le peuple importé
 כ pour adorer ׳
 י le Dieu du pays 2 R 17,32.
 
+@@SPLIT:sense@@
 4.
 prêtres en Israël
 הכהנים qui portaient l'arche et les trompettes Jos 3,13 ; Jos 3,14 ; Jos 3,15 ; Jos 3,17 ; Jos 4,3 ; Jos 4,9 ; Jos 4,10 ; Jos 4,17 ; Jos 4,18 (deux fois dans le verset) ; Jos 6,4 (deux fois dans le
@@ -259,6 +263,7 @@ P
 ). Les prêtres de Sion revêtus de justice et de salut Ps 132,9 ; Ps 132,16 = 2 Ch 6,41,
 probablement ici aussi.
 
+@@SPLIT:sense@@
 5.
 prêtres lévitiques
 הַכֹּהֲנִים
@@ -301,6 +306,7 @@ dignité particulière Dt 17,12 ; Dt 26,3 ; Dt 26,4. Les כהנים des autres v
 כ, à qui il ne fut pas permis d'officier à Jérusalem 2 R 23,8 (deux fois dans le verset) ; 2 R 23,9 ; 2 R 23,20
 , peuvent être une tentative d'imposer l'exclusion du sacerdoce de tous sauf les prêtres lévitiques.
 
+@@SPLIT:sense@@
 6.
 prêtres sadocites : Ézéchiel distingue parmi הכהנים הלוים ceux de la semence de
 Tsadoq, בְּנֵי צָדוֺק ; tous sauf ces derniers exclus par lui du sacerdoce Ez 40,46 ; Ez 43,19
@@ -315,6 +321,7 @@ Ez 46,19
 ; Ez
 46,20 ; Ez 48,10 ; Ez 48,13.
 
+@@SPLIT:sense@@
 7.
 prêtres aaroniques. Dans H. il est tenu pour acquis qu'un prêtre est de la semence d'Aaron ; le pluriel
 n'est jamais utilisé ; כֹּהֵן est employé pour tout prêtre Lv 21,9 ; Lv 22,10 ; Lv 22,11 ; Lv 22,12 ; Lv 22,13
@@ -404,6 +411,7 @@ prophètes Za 7,3
 כהן
 Ml 2,7.
 
+@@SPLIT:sense@@
 8.
 le grand prêtre :
 הַכֹּהֵן est fréquemment employé (voir 4) pour désigner le prêtre qui était à

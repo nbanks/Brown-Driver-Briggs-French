@@ -19,9 +19,11 @@ Ez 5,15 (mais
 ce dernier supprimer Co ; donné par SS
 sous תּוֺכֵחָה) ; —
 
+@@SPLIT:sense@@
 1.
 argument, mise en accusation, prononcé par les lèvres et la bouche Ps 38,15 ; Jb 13,6 ; Jb 23,4 ; Ha 2,1.
 
+@@SPLIT:sense@@
 2.
 réprimande, semonce
 Pr 1,23 ;
@@ -50,6 +52,7 @@ réprimande qui donne la vie ; אישׁ תוכחוֺת
 Pr 29,1
 homme de réprimandes (qui les mérite).
 
+@@SPLIT:sense@@
 3.
 correction, reproche
 Ps 39,12 ;

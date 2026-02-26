@@ -27,6 +27,7 @@ Es 1,14 ; Nb 28,11
 חָדְשֵׁכֶם
 Nb 10,10 —
 
+@@SPLIT:sense@@
 1.
 nouvelle lune = jour, temps de la nouvelle lune, comme fête religieuse 1 S 20,5 ; 1 S 20,18 ; 1 S 20,24 ; 1 S 20,27 ; 1 S 20,34 (
 Dr) ; comparer ׳
@@ -57,6 +58,7 @@ l'observance religieuse de la nouvelle lune comparer Di^Lv p. 578 f^
 Benz^Archäol. § 69^) ; comme temps d'augure à Babylone
 (pronostic astrologique) Es 47,13.
 
+@@SPLIT:sense@@
 2.
 mois (comme commençant avec la nouvelle lune, mois lunaire ; comparer
 Benz^Archäol. § 30^, mais ensuite, sans référence au jour du début) ;

@@ -4,6 +4,8 @@ Biblical Aramaic
 [סְלֵק] verb
 come up (Aramaic loan-word in Biblical Hebrew, q. v.); —
 
+@@SPLIT:stem@@
+
 Pe`al
 Perfect 3 feminine singular סִלְקַת
 Dan 7:20,
@@ -20,6 +22,8 @@ horn in vision Dan 7:8
 figurative of thoughts
 Dan 2:29.
 
+@@SPLIT:stem@@
+
 Haph`el
 lift, take up: Perfect 3 masculine plural הַסִּ֫קוּ (as if
 from נסק; K^§ 44 b^)) Dan 3:22
@@ -27,6 +31,8 @@ Infinitive
 לְהַנְסָקָה (K^l. e.^
 Str^§ 3 h^) Dan 6:24 (מִן local), both with ל
 accusative of person
+
+@@SPLIT:stem@@
 
 Hoph`al (W^CG225^) be taken up:
 Perfect 3 masculine singular הֻסַּק

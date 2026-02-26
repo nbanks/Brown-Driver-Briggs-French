@@ -6,6 +6,7 @@ conjonction
 selon que, comme, quand (comparer pour le composé araméen כְּדִי, כַּד
 ) —
 
+@@SPLIT:sense@@
 1.
 selon ce que, selon que, comme :
 
@@ -105,6 +106,7 @@ Jb 10,19
 לא הייתי אהיה, Za 10,6
 והיו כאשׁר לא זנחתים.
 
+@@SPLIT:sense@@
 2. avec une valeur causale, dans la mesure où, puisque (allemand
 demgemäss dass), Gn 26,29 si tu ne nous fais pas de mal כאשׁר לא נגענוך
 selon que, dans la mesure où, nous ne t'avons pas touché ; Nb 27,14
@@ -115,6 +117,7 @@ puisque vous avez défié ma parole, Jg 6,27 ; 1 S 28,18 (répondu par על כן
 ;
 Mi 3,4.
 
+@@SPLIT:sense@@
 3. avec une valeur temporelle, quand, Gn 18,33 et
 Y. s'en alla
 כאשׁר כלה

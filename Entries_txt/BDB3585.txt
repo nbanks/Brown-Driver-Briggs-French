@@ -11,6 +11,8 @@ mušeni‡tu
 , nurse, Jen^ZA, 1886, 402^
 ) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 וְיָנַקְתְּ consecutive Isa 60:16
@@ -56,6 +58,8 @@ Isa 11:8 — on Isa 53:2 see
 
 יוֺנֵק
 below.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect

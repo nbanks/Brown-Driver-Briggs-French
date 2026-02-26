@@ -8,9 +8,11 @@ accompagner ; ainsi
 Ba^ES 12^ comparer arabe
 [placeholder2774: Placeholders/2774.gif] être près) ; —
 
+@@SPLIT:stem@@
 Qal (tardif) Imparfait 3 masculin singulier suffixe יִלְוֶנּוּ EC Gn 8,13,
 être joint à, accompagner (de la joie).
 
+@@SPLIT:stem@@
 Niph`al
 נִלְוָה
 Ps 83,9 ; Es 14,1 3

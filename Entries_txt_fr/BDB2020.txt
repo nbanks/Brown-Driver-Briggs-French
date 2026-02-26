@@ -5,6 +5,7 @@ I. דְּרוֺר
 nom [masculin]
 écoulement ; libre cours, liberté ; —
 
+@@SPLIT:sense@@
 1.
 מָרדְּֿרוֺר
 Ex 30,23 (
@@ -13,6 +14,7 @@ P
 ) c.-à-d. myrrhe d'écoulement, myrrhe fine coulante comparer מֹר &
 Di.
 
+@@SPLIT:sense@@
 2. avec קרא
 proclamer la liberté, וּקְרָאתֶם דְּרוֺר בָּאָרֶץ לְכָליֿשְׁבֶ֑יהָ
 Lv 25,10 (

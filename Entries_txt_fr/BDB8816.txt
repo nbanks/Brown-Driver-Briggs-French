@@ -23,6 +23,8 @@ t., construit שְׁמֹנַת
 Nb 2,24 + 3 t.
 (les cas de 8 + 10 = 18 sont supplémentaires, voir ci-dessous) ; pluriel שְׁמֹנִים, 80, voir ci-dessous : —
 
+@@SPLIT:sense@@
+
 1. sans autre nombre :
 
 a.
@@ -64,6 +66,8 @@ Gn 21,4,
 שׁ
 Nb 7,8.
 
+@@SPLIT:sense@@
+
 2. 8 + 10 = 18 :
 
 a. avec nom féminin
@@ -102,6 +106,8 @@ Jg 20,44
 25,15
 שְׁמֹנַת עָשָׂר אֶלֶף
 Jg 20,25.
+
+@@SPLIT:sense@@
 
 3. avec d'autres numéraux :
 

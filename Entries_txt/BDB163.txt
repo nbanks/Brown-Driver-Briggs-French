@@ -6,6 +6,8 @@ Biblical Hebrew
 [placeholder71: Placeholders/71.gif],
 [placeholder72: Placeholders/72.gif]), conjunction or (whether aut or vel).
 
+@@SPLIT:sense@@
+
 1.
 Gen 24:49; Gen 31:43; Exod 4:11; Song 2:9; Lev 13:24; Num 5:30 + often
 (especially in laws); sometimes implying a preference, nearly = or rather
@@ -19,6 +21,8 @@ Ezek 21:15
 (si vera lectio) Ke
 Mal 2:17; Job 16:3; Job 22:11.
 
+@@SPLIT:sense@@
+
 2. introducing a sentence, especially a particular case under a general principle, or
 = or if
 Exod 21:31
@@ -28,9 +32,13 @@ or if he gore a son, etc. Exod 21:36; Lev 4:23; Lev 4:28 (see Di) Lev 5:21; Lev 
 or if I had dealt falsely against his life, then, etc., Ezek 14:17; Ezek 14:19
 or if I send, etc.
 
+@@SPLIT:sense@@
+
 3.
 if perchance, 1Sam 20:10
 if perchance thy father answer thee with something hard, Lev 26:41.
+
+@@SPLIT:sense@@
 
 4. once, with the jussive (as in Arabic with the subjunctive see
 Dr^§ 175^) = except:

@@ -12,11 +12,13 @@ ravin, cours d'eau ; assyrien
 palgu
 , canal) ; —
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 féminin singulier נִפְלְגָה
 Gn 10,25 la
 terre fut divisée.
 
+@@SPLIT:stem@@
 Pi`el
 
 1.

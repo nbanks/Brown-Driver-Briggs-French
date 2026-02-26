@@ -5,8 +5,12 @@ I. כַּפְתּוֺר
 כַּפְתֹּר
 noun masculine
 
+@@SPLIT:sense@@
+
 1.
 capital,
+
+@@SPLIT:sense@@
 
 2.
 knob, bulb
@@ -16,11 +20,15 @@ knob, bulb
 [placeholder2626: Placeholders/2626.gif]
 pear (Löw^No. 153^), from shape); —
 
+@@SPLIT:sense@@
+
 1.
 כַּפְתּוֺר
 Amos 9:1
 capital of pillar; so plural suffix כַּפְתֹּרֶיהָ
 Zeph 2:14.
+
+@@SPLIT:sense@@
 
 2.
 כַּפְתֹּר, knob or bulb, ornament on the golden lamp-stand in tabernacle;

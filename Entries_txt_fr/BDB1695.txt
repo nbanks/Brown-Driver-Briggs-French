@@ -8,6 +8,7 @@ voler (hébreu tardif id., araméen גְּנַב,
 [placeholder956: Placeholders/956.gif]
 côté) —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 féminin singulier suffixe גְּנָבַתּוּ
 Jb 21,18 ;
@@ -80,10 +81,12 @@ Di ; אֹתִי
 Gn 31,27
 id. ; d'un enlèvement soudain par la tempête, en comparaison Jb 21,18 figuré de la destruction du méchant Jb 27,20.
 
+@@SPLIT:stem@@
 Niph`al
 être volé, sujet chose גָּנֹב יִגָּנֵב
 Ex 22,11.
 
+@@SPLIT:stem@@
 Pi`el
 dérober (transitif) וַיְגַגֵּב אבשׁלום אתלֵֿב
 2 S 15,6
@@ -91,6 +94,7 @@ dérober (transitif) וַיְגַגֵּב אבשׁלום אתלֵֿב
 Jr 23,30
 .
 
+@@SPLIT:stem@@
 Pu`al
 être dérobé sujet personne גֻּנֹּב גֻּנַּבְתִּי
 Gn 40,15
@@ -99,6 +103,7 @@ sujet chose וְגֻנַּב consécutif Ex 22,6
 Jb 4,12.
 יְגֻנָּ֑ב.
 
+@@SPLIT:stem@@
 Hithpa`el
 aller furtivement, s'esquiver
 יִתְגַּנֵּב

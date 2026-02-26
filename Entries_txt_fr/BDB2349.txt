@@ -12,6 +12,7 @@ Zim^BP^ ; araméen דְּכָא,
 être brillant (d'un feu), piquant (d'une odeur) ; être vif,
 prompt d'esprit) —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 3 masculin singulier יִזְכֶּה
 Jb 15,14 ;
@@ -31,6 +32,7 @@ Jb 25,5).
 être clair, être justifié = être considéré comme juste, droit, de Dieu, Ps 51,6 (|| תצדק),
 Mi 6,11.
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 1 singulier זִכִּיתִי
 Ps 73,13
@@ -48,6 +50,7 @@ Pr 20,9
 Ps 119,9
 .
 
+@@SPLIT:stem@@
 Hithpa`el
 Impératif masculin pluriel הִזַּכּוּ
 Es 1,16

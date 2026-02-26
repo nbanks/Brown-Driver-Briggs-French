@@ -18,6 +18,8 @@ COT^Gloss^) —
 I.
 proper name, masculine
 
+@@SPLIT:sense@@
+
 1.
 son of Jacob and Leah, explained by Leah's words I will praise
 ׳
@@ -54,6 +56,8 @@ P
 ), 1Chr 2:3
 ;
 1Chr 2:4; 1Chr 4:1.
+
+@@SPLIT:sense@@
 
 2.
 tribe descended from Judah Deut 33:7 (poem), Num 1:7 (
@@ -111,6 +115,8 @@ amelûti [ƒabê] Ia-u-du
 Tel el-Amarna^No. 39^
 Jastr^JBL xii, 1893, 64^).
 
+@@SPLIT:sense@@
+
 3.
 nation, of southern kingdom under dynasty of David, as distinguished from northern kingdom of
 Ephraim or Israel:
@@ -144,11 +150,19 @@ personified, ׳
 Lam 1:15;
 Lam 2:2; Lam 2:5.
 
+@@SPLIT:sense@@
+
 4. Levite, Ezra's time, Ezra 10:23.
+
+@@SPLIT:sense@@
 
 5. an over-seer of Jerusalem Neh 11:9.
 
+@@SPLIT:sense@@
+
 6. Levite musician Neh 12:8.
+
+@@SPLIT:sense@@
 
 7. priest Neh 12:36.
 

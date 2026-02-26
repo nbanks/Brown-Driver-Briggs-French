@@ -17,6 +17,7 @@ Jos 6,4 + 2 t. ;
 יֹבְלִים
 Jos 6,13 —
 
+@@SPLIT:sense@@
 1.
 bélier, seulement en combinaison : ׳
 בִּמְשֹׁךְ בְּקֶרֶן הַיּ
@@ -28,6 +29,7 @@ cornes de béliers (voir Benz^Archäol. 276^) ;
 Ex 19,13
 au son du bélier (de sa corne).
 
+@@SPLIT:sense@@
 2. désignation de la 50e année, marquée par le son des cornets,
 AV
 « jubilé » (ainsi hébreu tardif יוֺבֵל,

@@ -8,6 +8,7 @@ récurer, polir (hébreu tardif id. ; araméen
 [placeholder3087: Placeholders/3087.gif]
 gratter la laine d'une peau) ; —
 
+@@SPLIT:stem@@
 Qal
 Impératif
 מִרְקוּ הָֽרְמָחִים
@@ -18,6 +19,7 @@ polissez les lances ! Participe passif
 poli, d'ustensiles de bronze du temple (= מְמוֺרָט
 1 R 7,45).
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait 3 féminin singulier חַמְרִיק seulement Pr 20,30
 
@@ -41,6 +43,7 @@ Qr
 תַּקְדִּים, Frankenb. תִּקְרֶינָה
 , mais improbable).
 
+@@SPLIT:stem@@
 Pu`al
 Parfait
 וּמֹרַק consécutif Lv 6,21

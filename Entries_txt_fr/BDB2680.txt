@@ -10,6 +10,7 @@ lier sur ou autour, ceindre, comparer arabe
 [placeholder1708: Placeholders/1708.gif]
 lier, serrer) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 ׳
@@ -244,6 +245,7 @@ transitif seulement לֹא חֲזֶקוֺ
 ne le fortifia pas, mais le texte est très douteux (|| וַיָצַר לוֺ
 ).
 
+@@SPLIT:stem@@
 Pi`el
 Parfait
 חִזַּק
@@ -427,6 +429,7 @@ D
 Jr
 5,3.
 
+@@SPLIT:stem@@
 Hiphil_118_
 Parfait
 הֶחֱזִיק
@@ -681,6 +684,7 @@ d'où aussi contenir, suivi de
 accusatif
 2 Ch 4,5.
 
+@@SPLIT:stem@@
 Hithpa`el (spécialement Chroniques) Parfait
 
 הִתְחַזַּק

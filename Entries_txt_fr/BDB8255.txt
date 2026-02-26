@@ -4,6 +4,7 @@ hébreu biblique
 [שִׂמְאֵל] verbe
 dénominatif
 
+@@SPLIT:stem@@
 Hiph`il
 prendre la gauche (toujours opposé à הֵמִין) : — Imparfait
 cohortatif

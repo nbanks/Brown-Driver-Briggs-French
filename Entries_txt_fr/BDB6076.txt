@@ -3,6 +3,7 @@ hébreu biblique
 
 I. עֶלְיוֺן_22_ adjectif
 
+@@SPLIT:sense@@
 1.
 haut ; — masculin singulier ׳
 ע
@@ -19,6 +20,7 @@ Benz) = 2 Ch 7,21, de ׳
 י
 Ps 97,9.
 
+@@SPLIT:sense@@
 2.
 supérieur Bethhoron, ׳
 ע
@@ -34,6 +36,7 @@ la chambre latérale (צֵלָע) la plus élevée Ez 41,7 féminin pluriel הָ
 Ez 42,5
 les chambres supérieures (לְשָׁכוֺת).
 
+@@SPLIT:sense@@
 3. du roi davidique exalté au-dessus des monarques Ps 89,28 (comparer Dt 28,1, ci-dessus).
 
 ---

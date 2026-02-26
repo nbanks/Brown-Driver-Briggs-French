@@ -6,6 +6,8 @@ verb
 denominative
 Niph`al etc., be surpassing, extraordinary (compare Gerber^212^); —
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect 3 feminine singular נִפְלָאת
 Ps 118:23
@@ -90,11 +92,15 @@ Mic 7:15;
 Ps 78:11
 .
 
+@@SPLIT:stem@@
+
 Pi`el
 Infinitive construct לְפַלֵּא נֶדֶר
 make a special votive offering, Lev 22:21; Num 15:3; Num 15:8 (
 P
 ).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Hiph`il
@@ -169,6 +175,8 @@ did marvelously in receiving help; of the temple גָּדוֺל
 
 Judg 13:19
 working wonders in doing.
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Imperfect

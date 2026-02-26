@@ -20,6 +20,7 @@ Dt 29,10,
 עֵצֵינוּ
 Lm 5,4, etc. ; —
 
+@@SPLIT:sense@@
 1. (env. 150 t.)
 
 a. un arbre sur pied
@@ -160,6 +161,7 @@ Jr 9,11
 עֲצֵי לְמֻגִּים (אַלְגּ, voir ׳
 אַלְגּ ci-dessus
 
+@@SPLIT:sense@@
 2. (environ 175 fois ; environ 120 fois au pluriel, pour désigner des pièces
 
 [ou des articles] de bois)

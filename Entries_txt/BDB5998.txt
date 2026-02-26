@@ -5,6 +5,8 @@ Biblical Hebrew
 denominative
 crown; —
 
+@@SPLIT:stem@@
+
 Pi`el
 Perfect 3 feminine singular שֶׁעִטְּרָה לוֺ
 Song 3:11
@@ -21,6 +23,8 @@ Participle suffix הַמְעַטְּרֵכִי חֶסֶד וְרַחֲמִים
 Ps 103:4 (of
 ׳
 י).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Participle feminine צֹר הַמַּעֲטִירָה

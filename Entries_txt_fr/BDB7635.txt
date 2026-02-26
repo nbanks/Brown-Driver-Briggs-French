@@ -11,6 +11,7 @@ I. [קָשָׁה] verbe
 être dur, difficile ; judéo-araméen קְשִׁי, קַשְׁיָה
 adjectif dur) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 féminin singulier קָֽשְׁתָה
 1 S 5,7,
@@ -41,12 +42,14 @@ cela ne sera pas dur à tes yeux (ne semblera pas une épreuve sévère, une inj
 J
 ; || עָ֑ז) ; de paroles dures 2 S 19,44.
 
+@@SPLIT:stem@@
 Niph`al
 Participe
 נִקְשֶׁה
 Es 8,21
 accablé, dans la détresse.
 
+@@SPLIT:stem@@
 Pi`el
 Imparfait 3 féminin singulier וַתְּקַשׁ בְּלִדְתָּהּ
 Gn 35,16
@@ -54,6 +57,7 @@ Gn 35,16
 E
 ) elle eut de la peine dans son enfantement (eut un accouchement difficile).
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 masculin singulier הִקְשָׁה
 Ex 13,15

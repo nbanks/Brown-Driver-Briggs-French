@@ -28,14 +28,17 @@ Gn 11,3 + 7 t. ;
 suffixe מִלִּבְנֵיכֶם
 Ex 5,19 —
 
+@@SPLIT:sense@@
 1. brique, comme matériau de construction, Gn 11,3 (singulier collectif ; ailleurs pluriel) Gn 11,3 ; Ex 1,14 paille utilisée dans la fabrication Ex 5,7, comparer Ex 5,8 Ex 5,16 Ex 5,18 Ex 5,19 ; Es 9,9 (figuré ; comme
 inférieur à גָּזִית
 pierre de taille) ; encens brûlé sur Es 65,3 ( = tuiles de toit ? comparer Che
 
 Di).
 
+@@SPLIT:sense@@
 2. = tuile, sur laquelle le plan d'une ville pouvait être gravé (חקק) Ez 4,1.
 
+@@SPLIT:sense@@
 3. = dallage, Ex 24,10 (comparer Di).
 
 ---

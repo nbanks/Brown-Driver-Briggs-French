@@ -17,6 +17,8 @@ hoof,
 פַּרְסָה
 below); compare Nö^ZA i.417 f.^); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 plural וּפָֽרְשׂוּ
 Mic 3:3
@@ -39,6 +41,8 @@ Valgate Gf); Participle
 פֹרֵשׂ לֶהֶם
 Lam 4:4 (accusative
 לֶחֶם omitted).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 feminine singular הִפְרִיסָה

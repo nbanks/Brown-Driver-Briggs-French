@@ -10,6 +10,7 @@ chair ou animal déchiré ; arabe
 [placeholder2147: Placeholders/2147.gif]
 paître, dit du chameau) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 טָרַף
@@ -65,6 +66,7 @@ et il garda sa colère à perpétuité, ainsi Ol sur Ps 103,9
 We ; טֹרֵף נַפְשׁוֺ בְּאַפּוֺ, dit de Job par Bildad
 Jb 18,4.
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait d'un animal déchiré (par des bêtes sauvages) טָרֹף יִטָּרֵף
 
@@ -75,6 +77,7 @@ J
 E
 ) ; יִטָּרֵף aussi dans la prédiction du jugement sur les habitants de Jérusalem Jr 5,6.
 
+@@SPLIT:stem@@
 Pu`al
 Parfait
 טָרֹף טֹרַף יוֺסֵף
@@ -90,6 +93,7 @@ Gn 44,28
 J
 ).
 
+@@SPLIT:stem@@
 Hiph`il
 Impératif masculin singulier suffixe, noter surtout 2e accusatif לֶחֶם
 , הַטְרִפֵנִי לָחֶם חֻקִּי

@@ -5,11 +5,15 @@ Biblical Hebrew
 denominative
 do or deal falsely; —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 2 masculine singular; תִּשְׁקֹר
 Gen 21:23
 thou wilt not do falsely to me (׳
 לִ).
+
+@@SPLIT:stem@@
 
 Pi`el
 Perfect 1 plural שִׁקַּ֫רְ נוּ

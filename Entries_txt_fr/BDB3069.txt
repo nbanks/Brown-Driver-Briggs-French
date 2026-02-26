@@ -5,6 +5,7 @@ hébreu biblique
 verbe seulement Poual
 tailler, graver (hébreu tardif représenter, imiter ; || חקק) —
 
+@@SPLIT:stem@@
 Poual
 Participe
 מְחֻקֶּה
@@ -25,6 +26,7 @@ substantif ouvrage gravé
 1 R 6,35 (sur
 les portes du temple).
 
+@@SPLIT:stem@@
 Hithpa`el
 Imparfait 2 masculin singulier עלשָֿׁרְשֵׁי רַגְלַי תִּתְחַקֶּה
 Jb 13,27

@@ -6,6 +6,7 @@ Gn 15,10
 ^
 partie, morceau.
 
+@@SPLIT:sense@@
 1.
 בִּתְרוֺ
 Gn 15,10 pluriel
@@ -15,6 +16,7 @@ Jr 34,18,
 Jr 34,19
 toujours des moitiés d'animaux coupés en deux lors de la conclusion d'alliances.
 
+@@SPLIT:sense@@
 2.
 הָרֵי בָּ֑תֶר
 Ct 2,17

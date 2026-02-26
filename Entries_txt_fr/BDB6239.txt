@@ -5,10 +5,12 @@ hébreu biblique
 dénominatif
 servir de collier ; —
 
+@@SPLIT:stem@@
 Qal 3 féminin singulier suffixe עֲנָקַתְמוֺ
 Ps 73,6 l'orgueil
 est un collier pour eux.
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait et Infinitif absolu
 הַעֲנֵיק

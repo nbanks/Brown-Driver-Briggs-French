@@ -12,6 +12,8 @@ answer, respond (Late Hebrew id., respond, make response;
 [placeholder3946: Placeholders/3946.gif],
 [placeholder3947: Placeholders/3947.gif], intend by saying); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular ׳
 ע
@@ -205,6 +207,8 @@ b. less often make response
 as
 one accused (respondent) Job 9:14; Job 9:15.
 
+@@SPLIT:stem@@
+
 Niph`al
 
 1. make answer, subject ׳
@@ -229,6 +233,8 @@ Prov 21:3
 , so 1 singular אֵעָנֶה
 Job 19:7
 .
+
+@@SPLIT:stem@@
 
 Hiph`il
 Participle

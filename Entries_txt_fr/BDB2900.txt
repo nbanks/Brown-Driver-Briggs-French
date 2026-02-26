@@ -51,6 +51,7 @@ cinquante, voir ci-dessous ; — cinq, dans l'Hexateuque surtout
 P
 ; —
 
+@@SPLIT:sense@@
 1. sans autre numéral :
 
 a.
@@ -132,6 +133,7 @@ Ez 1,1 ; Ez 1,2 ; Ez 8,1 ; Ez 33,21
 (de même
 aussi 15e, 25e, etc.)
 
+@@SPLIT:sense@@
 2.
 ׳
 ח combiné avec עשׂר, עשׂרה
@@ -170,17 +172,20 @@ A
 Hi
 Co).
 
+@@SPLIT:sense@@
 3.
 חֲמֵשׁ מֵאוֺת = 500 Gn 5,30 ; Gn 5,32 + 49 t. + Ez 42,16
 
 Qr
 .
 
+@@SPLIT:sense@@
 4.
 חֲמֵשֶׁת אֲלָפִים = 5000 Nb 31,32 ; Jos 8,12 ; Jg 20,45 ; 1 S 17,5 ; Ez 45,6 ; Ez 48,15 ; 1 Ch 29,7 ; 2 Ch 35,9 ; Esd 1,11 ; Esd 2,69 — dans 25 000, 35 000 etc. חֲמִשָּׁה (habituellement sans
 ׳
 א) précède le 20 000, 30 000, etc.
 
+@@SPLIT:sense@@
 5. avec d'autres numéraux :
 
 a.

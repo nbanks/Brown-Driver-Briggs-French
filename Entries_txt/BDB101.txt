@@ -4,6 +4,8 @@ Biblical Hebrew
 [אָדַב] verb
 grieve;
 
+@@SPLIT:stem@@
+
 Hiph`il
 Infinitive
 לַאֲדִיב (= לְהַאֲדִיב

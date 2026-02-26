@@ -8,6 +8,8 @@ compare Arabic
 be
 [placeholder2454: Placeholders/2454.gif], i.e. weak, cowardly) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 feminine singular כָּֽהֲתָה
 Deut 34:7
@@ -33,6 +35,8 @@ servant of ׳
 י under figure of lamp or fire (see Kay
 Che
 De), or grow faint (compare Di).
+
+@@SPLIT:stem@@
 
 Pi`el
 Perfect 3 feminine singular וְכִהֲתָה consecutive Ezek 21:12 (subject

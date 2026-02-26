@@ -4,6 +4,7 @@ hébreu biblique
 עַוִּים
 nom propre
 
+@@SPLIT:sense@@
 1. d'un peuple ׳
 הָע peuple sur la côte sud-ouest de la Méditerranée avant que les כַּפְתֹּרִים (q. v.)
 ne viennent Dt 2,23, et
@@ -16,6 +17,7 @@ D^2^
 
 Ευαιοι.
 
+@@SPLIT:sense@@
 2. lieu ׳
 הָע ville en Benjamin Jos 18,23 (= הָעַי ?),
 

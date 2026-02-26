@@ -7,6 +7,8 @@ twist (Late Hebrew Pi`el and derivatives; Arabic
 [placeholder4390: Placeholders/4390.gif]; Aramaic פְּתַל, chiefly derivatives, in figure senses; Syriac
 [placeholder4391: Placeholders/4391.gif]); —
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect 1 singular נִפְּתַּלְתִּי עִם
 Gen 30:8
@@ -16,6 +18,8 @@ Job 5:13
 the plan of the tortuous; נִפְתָּל וְעִקֵּשׁ
 Prov 8:8 anything
 tortuous and twisted.
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Imperfect 2 masculine singular עִםֿ

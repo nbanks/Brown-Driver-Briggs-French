@@ -12,6 +12,8 @@ agiter, être furieux (de la mer) ; arabe
 rêšu
 , exulter) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Parfait 3 féminin singulier רָעֲשָׁה
 Jr 8,16 ; Jr 49,21,
@@ -42,10 +44,14 @@ Am 9,1 tout être
 vivant Ez 38,20
 (מִפָּנַי causatif) ; du grain ondulant Ps 72,16.
 
+@@SPLIT:stem@@
+
 Niph`al
 נִרְעֲשָׁה הָאָרֶץ
 Jr 50,46
 est ébranlée (מִקּוֺל).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Parfait 2 masculin singulier הִרְעַשְׁתָּה

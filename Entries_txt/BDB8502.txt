@@ -13,6 +13,8 @@ CIS^iv. 81, i. 9, etc^.; Arabic
 return, so Aramaic תּוּב,
 [placeholder5432: Placeholders/5432.gif]); —
 
+@@SPLIT:stem@@
+
 Qal_685_
 Perfect 3 masculine singular שָׁב
 Gen 18:33 +, 3
@@ -853,6 +855,8 @@ compare
 Hiph`il
 6.
 
+@@SPLIT:stem@@
+
 Po`el
 
 1.
@@ -918,6 +922,8 @@ Jer 8:5
 
 ). — See also שׁוֺבֵב infra.
 
+@@SPLIT:stem@@
+
 Pu`lal
 Participle feminine מְשׁוֺבֶ֫בֶת
 Ezek
@@ -925,6 +931,8 @@ Ezek
 a land restored + מִן of thing. — See also שׁוֺבָב
 
 infra.
+
+@@SPLIT:stem@@
 
 Hiph`il_353_
 Perfect 3 masculine singular Gen 41:13 +; suffix וַהֲשִׁיבְֱ
@@ -1602,6 +1610,8 @@ E
 Esth 8:5;
 Esth 8:8
 .
+
+@@SPLIT:stem@@
 
 Hoph`al
 Perfect 3 masculine singular הוּשַׁב

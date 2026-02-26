@@ -4,9 +4,11 @@ hébreu biblique
 מִסְגֶּ֫רֶת
 nom
 
+@@SPLIT:sense@@
 1.
 bordure, rebord.
 
+@@SPLIT:sense@@
 2. forteresse ;
 — absolu ׳
 מ
@@ -25,6 +27,7 @@ suffixe מִסְגְּרֹתֶיהָ
 1 R 7,35
 1 R 7,36, etc. ; —
 
+@@SPLIT:sense@@
 1.
 bordure, rebord (enclos), de la table sacrée dans le tabernacle Ex 25,25 (deux fois dans le verset) ; Ex 25,27 =
 Ex 37,12
@@ -36,6 +39,7 @@ Ex 37,14 des bases de la mer, dans le temple 1 R 7,28 (deux fois dans le verset)
 1 R 7,36
 (comparer Benz), aussi 2 R 16,17.
 
+@@SPLIT:sense@@
 2.
 forteresse, ׳
 וְיַחְרְגוּ מִמּ

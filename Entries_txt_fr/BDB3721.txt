@@ -21,6 +21,7 @@ Dl^HWB 241^ ; têrtu, loi, Dl^HA
 [placeholder2299: Placeholders/2299.gif],
 [placeholder2300: Placeholders/2300.gif] ; mais les preuves de cette division sont à peine suffisantes) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 ׳
@@ -85,6 +86,7 @@ pluie précoce (comparer
 Hiph`il
 3).
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait
 יִיָּרֶה
@@ -92,6 +94,7 @@ transpercé (par des flèches) Ex 19,13 (
 E
 ).
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 masculin singulier suffixe הֹרַנִי
 Jb

@@ -7,11 +7,15 @@ iniquity, do wrong (Aramaic עוי
 commit sin, עֲוָיָא
 sin, compare Levy^NHWB iii. 626^); —
 
+@@SPLIT:stem@@
+
 Qal (late) Perfect 3 feminine singular עָֽוְתָה
 Esth 1:16
 she hath done wrong (with עַל); 1 plural עָוִינוּ
 Dan 9:5
 we have committed iniquity (|| חָטָא).
+
+@@SPLIT:stem@@
 
 Hiph`il
 commit inquity; — Perfect 3 masculine singular הֶעֱוָה

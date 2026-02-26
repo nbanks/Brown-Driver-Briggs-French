@@ -11,6 +11,8 @@ Gen 17:12 +;
 suffix מִקְנָתוֺ
 Lev 25:16 +; —
 
+@@SPLIT:sense@@
+
 1.
 purchase, מִקְנַת כֶּסֶף
 Gen 17:12;
@@ -27,10 +29,14 @@ Jer 32:11;
 Jer 32:12
 (twice in verse); Jer 32:14; Jer 32:16.
 
+@@SPLIT:sense@@
+
 2.
 purchase-price, Lev 25:16 (twice in verse); Lev 25:51; Lev 27:22 (
 P
 ).
+
+@@SPLIT:sense@@
 
 3.
 possession (gained by purchase), לְמִקְנָה

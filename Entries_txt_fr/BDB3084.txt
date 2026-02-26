@@ -6,6 +6,7 @@ I. [חָרֵב] verbe
 être sec, חוּרְבָּא
 sécheresse) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 pluriel חָֽרְבוּ
 Gn 8,13 (deux fois dans le
@@ -36,11 +37,13 @@ Es 19,5 (||
 (|| דָּֽלֲלוּ) Es 44,27 (|| הוֺבִישׁ) ; de la mer Rouge Ps 106,9 figuré de la
 fraîcheur et de la vigueur d'Éphraïm Os 13,15.
 
+@@SPLIT:stem@@
 Poual
 Parfait 3 pluriel לֹא חֹרָ֑בוּ
 Jg 16,7 ; Jg 16,8, de
 cordes d'arc fraîches (en boyau, voir Bla).
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait
 הֶחֱרִיב

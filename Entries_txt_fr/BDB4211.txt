@@ -8,10 +8,13 @@ Gn 13,10
 Ex 29,32
 un rond : d'où
 
+@@SPLIT:sense@@
 1. un district rond.
 
+@@SPLIT:sense@@
 2. un pain rond.
 
+@@SPLIT:sense@@
 3. un poids rond, talent
 (hébreu tardif id. ; pain, poids, talent ; araméen
 כַּכְּרָא,
@@ -38,6 +41,7 @@ construit כִּכַּר
 2 R 5,5 + 2 t.
 Chroniques ; כִּכְּרוֺת (pains) Jg 8,5 ; 1 S 10,3 —
 
+@@SPLIT:sense@@
 1.
 le rond (ou ovale) surtout de la vallée du Jourdain, כִּכַּר
 הַיַּרְדֵּן
@@ -61,6 +65,7 @@ Buhl^G. 112^ ; district de Jérusalem, ׳
 הַכּ
 Ne 3,22 ; Ne 12,28.
 
+@@SPLIT:sense@@
 2.
 pain (d'après la forme ronde), כִּכַּר לָ֑חֶם
 1 S 2,36 ;
@@ -69,6 +74,7 @@ pain (d'après la forme ronde), כִּכַּר לָ֑חֶם
 כִּכְּרוֺת לֶחֶם
 1 S 10,3 ; Jg 8,5.
 
+@@SPLIT:sense@@
 3.
 
 a.

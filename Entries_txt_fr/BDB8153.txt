@@ -16,6 +16,7 @@ Dt 23,25,
 שָׂבְעָהּ
 Rt 2,18 —
 
+@@SPLIT:sense@@
 1.
 satiété quant à la nourriture Rt 2,18
 ׳
@@ -40,6 +41,7 @@ manger des raisins selon ton appétit, (à savoir) à satiété
 אָכַל לְשׂ
 Pr 13,25.
 
+@@SPLIT:sense@@
 2.
 abondance qui rassasie, שְׂמָחוֺת
 ׳

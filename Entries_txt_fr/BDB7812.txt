@@ -4,6 +4,7 @@ hébreu biblique
 רָ(א)מַת
 nom propre [d'un lieu] construit, en combinaison :
 
+@@SPLIT:sense@@
 1.
 רָמַת לֶחִ֑י
 Jg 15,17, voir
@@ -11,6 +12,7 @@ II.
 לְחִי
 p.534.
 
+@@SPLIT:sense@@
 2.
 רָמַת
 הַמִּצְפֶּה
@@ -31,6 +33,7 @@ A
 
 Buhl^Geogr. 262.^
 
+@@SPLIT:sense@@
 3.
 רָאמַת נְ֫גֶב
 Jos 19,8 (

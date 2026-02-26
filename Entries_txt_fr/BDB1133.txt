@@ -10,6 +10,7 @@ Jb 18,11 + 7
 t. ; construit בַּלְהוֺת
 Jb 24,17 —
 
+@@SPLIT:sense@@
 1. seulement pluriel terreurs
 Jb 18,11 ;
 Jb 27,20 ;
@@ -22,6 +23,7 @@ la mort, comparer צַלְמָוֶת
 בּ
 Jb 24,17.
 
+@@SPLIT:sense@@
 2.
 calamité
 Es 17,14,

@@ -4,7 +4,8 @@ hébreu biblique
 שָׁפָל
 adjectif
 bas ; — absolu
-׳שׁ
+׳
+שׁ
 2 S 6,22 +,
 construit שְׁפַל
 
@@ -14,25 +15,31 @@ Ez 17,14 +,
 construit שִׁפְלַת Ez 17,6 pluriel שְׁפָלִים
 Jb 5,11 —
 
+@@SPLIT:sense@@
 1.
 bas, en hauteur, de la vigne Ez 17,6, arbre Ez 17,24 (opposé à גָּבֹהַּ) ;
 מִןהָֿעוֺר
-׳שׁ
+׳
+שׁ
 Lv 13,20
 plus bas (plus profond) que la peau (environnante), ainsi Lv 13,21 Lv 13,26,
 comparer Lv 14,37
 .
 
+@@SPLIT:sense@@
 2. d'un royaume modeste, sans ambition Ez 17,14 ; Ez 29,14 ; Ez 29,15
 bas en condition Jb 5,11 (opposé à שָֽׂגְבוּ), Ez 21,31 (Ges «GKC:90f»§ 90f. ; lire הַשְּׁפָלָה֣).
 
+@@SPLIT:sense@@
 3.
 humilié, בְּעֵינָ֑י
-׳שׁ
+׳
+שׁ
 2 S 6,22
 pluriel Ml 2,9 (||
 נִבְזִים).
 
+@@SPLIT:sense@@
 4.
 humble, comme substantif Ps 138,6 (opposé à גָּבֹהַּ), רוּחַ שְׁפָלִים
 

@@ -3,6 +3,7 @@ hébreu biblique
 
 [עָבַת] verbe
 
+@@SPLIT:stem@@
 Pi`el
 tresser, tisser (comparer les dérivés) ; — Imparfait 3 masculin pluriel suffixe
 וַיְעַבְּתוּהָ

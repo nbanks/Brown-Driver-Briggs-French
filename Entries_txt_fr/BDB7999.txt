@@ -8,6 +8,8 @@ Jr 23,1 ; Ez 34,31,
 Ps 74,1 ; Ps 79,13, etc. ;
 —
 
+@@SPLIT:sense@@
+
 1.
 pâture, conduite du troupeau, צאֹן מַרְעִיתִי, d'Israël comme troupeau de ׳
 
@@ -19,9 +21,13 @@ Jr 23,1 ; Ez 34,31, comparer Ps 74,1 ; Ps 79,13 ; Ps 100,3 + Ps 95,7(lire וְע
 צ, comparer Hup-Now
 Che).
 
+@@SPLIT:sense@@
+
 2.
 pâturage, Os 13,6 (Now
 כִּרְעוֺתָם), Es 49,9 ; Jr 25,36.
+
+@@SPLIT:sense@@
 
 3. par métonymie = troupeau
 Jr 10,21.

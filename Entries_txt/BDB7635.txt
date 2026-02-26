@@ -11,6 +11,8 @@ be severe; Arabic
 be hard, difficult; Jewish-Aramaic קְשִׁי, קַשְׁיָה
 adjective hard); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 feminine singular קָֽשְׁתָה
 1Sam 5:7,
@@ -41,11 +43,15 @@ it shall not be hard in thine eyes (seem a severe trial, an injustice); of wrath
 J
 ; || עָ֑ז); of fierce words 2Sam 19:44.
 
+@@SPLIT:stem@@
+
 Niph`al
 Participle
 נִקְשֶׁה
 Isa 8:21
 hardly bestead, hard pressed.
+
+@@SPLIT:stem@@
 
 Pi`el
 Imperfect 3 feminine singular וַתְּקַשׁ בְּלִדְתָּהּ
@@ -53,6 +59,8 @@ Gen 35:16
 (
 E
 ) she made hard in her bearing (had severe labour).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 masculine singular הִקְשָׁה

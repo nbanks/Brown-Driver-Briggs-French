@@ -13,6 +13,8 @@ Es 13,4 + ; suffixe
 שְׁאוֺנָהּ
 Es 5,14 —
 
+@@SPLIT:sense@@
+
 1.
 rugissement des eaux (vagues), Es 17,12 (|| הָמָה), comparaison du bruit d'une armée envahissante, de même v
 Es 17,13,
@@ -47,6 +49,8 @@ lire ׳
 ᵑ9
 
 ) קִרְאוּ שֵׁם appelez le nom de Pharaon un fracas.
+
+@@SPLIT:sense@@
 
 2.
 tumulte de fêtards Es 5,14 ; Es 24,8. — ׳

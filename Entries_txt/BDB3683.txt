@@ -6,6 +6,8 @@ be kindled, burn (Aramaic יְקַד,
 [placeholder2281: Placeholders/2281.gif], burn, intransitive; Arabic
 [placeholder2282: Placeholders/2282.gif], id.) —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 3 masculine singular יֵקַד
 Isa 10:16 3
@@ -31,6 +33,8 @@ participle יָקוּד
 kindled, as substantive לַחְתּוֺת אֵשׁ מִיָּקוּד
 Isa 30:14
 to take fire from that which is kindled, i.e. from the hearth (Lg^BN 60^).
+
+@@SPLIT:stem@@
 
 Hoph`al
 Imperfect 3 feminine singular תּוּקַד

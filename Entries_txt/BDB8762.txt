@@ -43,6 +43,8 @@ Num 12:4,
 P
 ):
 
+@@SPLIT:sense@@
+
 1. no other number:
 
 a. before plural noun, שָׁלשׁ 51 t., e.g.
@@ -86,6 +88,8 @@ both = three days ago; especially לְ
 +
 7 t. (Ges^«GKC:134o»§ 134o^).
 
+@@SPLIT:sense@@
+
 2. 13, with noun feminine: שְׁלשׁ עֶשְׂרֵהשָׁנַה
 Gen 17:25; 1Kgs 7:1 + (as
 ordinal) Gen 14:4 (
@@ -108,6 +112,8 @@ Esth 3:12; Esth 9:1 after, Esth 9:17
 יוֺם omitted Esth 3:13; Esth 8:12; Esth 9:18
 גוֺרָל omitted 1Chr 24:13; 1Chr 25:20; 1Chr 26:11.
 
+@@SPLIT:sense@@
+
 3. 300 = שְׁלשׁ
 מֵאוֺת
 Gen 5:22 + 59 t. (
@@ -123,9 +129,13 @@ Dr and modern); 3000 = שְׁלשֶׁת אֲלָפִים
 Exod 32:28 +28
 t.
 
+@@SPLIT:sense@@
+
 4. with tens, ׳
 שׁ following Num 1:43 + 11 t., precedes Lev 12:4 +17 t., + (as ordinal) 3 + 20 Jer 52:30 +3 t.; 20 + 32 Ki
 Jer 12:7 + 2 t.
+
+@@SPLIT:sense@@
 
 5. as round, or conventional, number: 2 (or) 3, Amos 4:8; Deut 17:6; Josh 7:3; 2Kgs 9:32; Isa 17:6 3 (and)
 4, Prov 30:15

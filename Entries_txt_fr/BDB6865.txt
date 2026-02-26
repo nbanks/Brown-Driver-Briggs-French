@@ -12,6 +12,7 @@ Os^ZMG xix (1865), 197^ ; arabe
 [placeholder4384: Placeholders/4384.gif] ; araméen פְּתַח,
 [placeholder4385: Placeholders/4385.gif] ; nabatéen, palmyrénien פתח) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier ׳
 פ
@@ -161,6 +162,7 @@ Marti propose רַחְמָהּ comme objet ; Gr
 Kit (dans Di) lisent
 תִּפָּתַח.
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 masculin singulier נִפְתַּח
 Es 5,27,
@@ -189,6 +191,7 @@ Jb 24,27 ;
 Jb 33,22
 oreilles Es 35,5.
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 3 masculin singulier פִּתַּח
 Jb 30,11
@@ -243,6 +246,7 @@ Kit dans Di] ; bourgeons Ct 7,13 (de
 la floraison ; objet omis ; ou intransitif, comme parfois arabe
 [placeholder4386: Placeholders/4386.gif] voir Dozy).
 
+@@SPLIT:stem@@
 Hithpa`el
 Impératif masculin pluriel התפתחו
 Es 52,2

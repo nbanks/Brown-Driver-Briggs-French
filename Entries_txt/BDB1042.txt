@@ -23,6 +23,8 @@ Ps 49:4 + 4t.;
 תְּבוּנוֺתֵיכֶם
 Job 32:11 —
 
+@@SPLIT:sense@@
+
 1.
 the act
 Job 26:12;
@@ -33,6 +35,8 @@ Prov 21:30
 ; Prov 24:3
 ; Jer
 10:12 (= Jer 51:15) Ezek 28:4; Hos 13:2; Obad 1:7.
+
+@@SPLIT:sense@@
 
 2.
 the faculty
@@ -52,6 +56,8 @@ Prov 11:12
 where אישׁ omitted by scribal error); דֶּרֶךְ תְּבוּנָה
 Isa 40:14.
 
+@@SPLIT:sense@@
+
 3.
 the object of knowledge
 Prov 2:3; Prov 3:13;
@@ -65,6 +71,8 @@ Isa 40:28;
 incline thy mind to understanding Prov 2:2
 reasons
 Job 32:11.
+
+@@SPLIT:sense@@
 
 4. personified Prov 8:1 as teacher.
 

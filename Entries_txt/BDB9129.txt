@@ -15,6 +15,8 @@ substantive mercy; Arabic
 [placeholder5804: Placeholders/5804.gif]
 a go-between) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 1 singular תַּרְתִּי
 Ezek 20:6; Eccl 2:3 3 plural
@@ -96,6 +98,8 @@ P
 ᵑ6
 
 2 Chronicles, proposes הֶעָרִים for הַתָּרִים
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imperfect 3 masculine plural וַיָּתִ֫ירוּ בְּבֵיתאֵֿל

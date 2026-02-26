@@ -8,10 +8,14 @@ id.; secondary form of
 משׁשׁ
 q. v.); —
 
+@@SPLIT:stem@@
+
 Qal
-Imperfect 1 singular suffix וַאֲֻמשְׁךָ
+Imperfect 1 singular suffix וַאֲֻמשְׁךָ
 Gen 27:21 draw
 near that I may feel thee.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imperfect 3 masculine plural וְלֹא יִמִישׁוּן יְדֵיהֶם

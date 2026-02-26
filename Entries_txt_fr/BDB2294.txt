@@ -22,6 +22,7 @@ Es 2,20 ; Es 31,7
 Os 8,4 + 4 t. ; —
 or,
 
+@@SPLIT:sense@@
 1. = minerai d'or, or à l'état brut, Gn 2,11 ; Gn 2,12 ; Jr 10,9 ; Pr 17,3 ; Pr 27,21 ; Jb 28,1 + ; peut-être aussi 1 R 9,28 ; 1 R 10,11 ; 1 R 22,49 etc. ; comparer ׳
 
 עַפְרֹת ז
@@ -47,6 +48,7 @@ Hi et autres ; Siegf
 conjecture
 יהוה pour זהב
 
+@@SPLIT:sense@@
 2. or comme richesse Gn 13,2 (
 J
 ; + מִקְנֶה, כֶּסֶף) Gn 24,34 (
@@ -61,12 +63,15 @@ et que l'or ; Jb 28,17 (de la sagesse) l'or et le verre ne l'égalent pas ; Ps 1
 י) qui sont plus désirables que l'or ; comparer Ps 119,72 ; Ps 119,127 ;
 aussi métaphore des princes et chefs de Sion Lm 4,1 (comparer Lm 4,2).
 
+@@SPLIT:sense@@
 3. or comme butin de guerre Jos 6,19 (+ כֶּסֶף, כְּלֵינְֿחשֶׁת,
 בַּרְזֶל) de même Jos 6,24, comparer Jos 7,21 ; Jos 7,24 ; Jos 22,8 ; 2 R 7,8 +.
 
+@@SPLIT:sense@@
 4. or comme marchandise Ez 27,22 (+ אֶבֶן יְקָרָה, ראֹשׁ כָּלבּֿשֶֹׁם
 ), comparer aussi or d'Ophir 1 R 9,28 etc. (voir ci-dessous 7 ci-dessous)
 
+@@SPLIT:sense@@
 5. or comme don précieux : à un prophète ׳
 מְלֹא בֵּיתוֺ כֶּסֶף וְז (hypothét.), Nb 22,18 ; Nb 24,13 (tous deux
 E
@@ -77,6 +82,7 @@ E
 (deux fois dans le verset) (comparer 2 R 23,33 tous + כֶּסֶף) ; comme satisfaction pour meurtre 2 S 21,4 (+
 כֶּסֶף).
 
+@@SPLIT:sense@@
 6. or comme matériau : d'anneau (de nez ou d'oreille), נֶזֶם
 Gn 24,22 ; Ex 32,2 ; Ex 32,3 ; Jg 8,24 ; Jg 8,25 ; Pr 11,22 ;
 Pr 25,12 ;
@@ -136,6 +142,7 @@ P
 Dn 11,38
 .
 
+@@SPLIT:sense@@
 7. or décrit par sa source, surtout or d'Ophir (comparer Glass : Skizze ii. 357 ss. 368)
 1 R 9,28 ; 1 R 10,11 ;
 1 R 22,49 ;
@@ -151,6 +158,7 @@ Ps 72,15 sur
 2 Ch 3,6 voir
 פרוים ; comparer en outre Gn 2,11 ; Gn 2,12.
 
+@@SPLIT:sense@@
 8. or qualifié par divers adjectifs et participes : שָׁחוּט
 ׳
 ז
@@ -191,6 +199,7 @@ AV
 
 or fin, comparer אוּפָז, פָּזַז.
 
+@@SPLIT:sense@@
 9.
 ׳
 ז comme mesure de poids et de valeur :
@@ -375,6 +384,7 @@ aussi dès Ha
 2,19 ;
 1 R 10,22 ; 2 R 25,15.
 
+@@SPLIT:sense@@
 12. les principaux verbes utilisés avec ׳
 ז sont :
 

@@ -17,6 +17,7 @@ e‡lu
 [placeholder1790: Placeholders/1790.gif]
 dénombrement, nombre) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 ׳
@@ -89,6 +90,7 @@ Pr 29,24
 diviser = piller le temple, suivi d'accusatif 2 Ch 28,21
 (voir Be).
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait
 יֵחָלֵק
@@ -131,6 +133,7 @@ Jb
 ;
 1 Ch 24,3, mais le transitif Niph`al est improbable, voir ci-dessous
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 3 pluriel חִלְּקוּ Jl 1 Ch 4,2
 וְחִלַּקְתֶּם consécutif Ez 47,21 suffixe חִלְּקָם
@@ -191,6 +194,7 @@ disperser, suivi d'accusatif Gn 49,7 (poème) (||
 הפיץ),
 Lm 4,16.
 
+@@SPLIT:stem@@
 Pu`al
 Parfait
 חֻלַּק
@@ -202,11 +206,13 @@ Am 7,17
 
 être divisé, de la terre Am 7,17 butin Es 33,23 ; Za 14,1.
 
+@@SPLIT:stem@@
 Hithpa`el
 Parfait
 וְהִתְחַלְּקוּ consécutif Jos 18,5
 diviser (la terre) entre eux.
 
+@@SPLIT:stem@@
 Hiph`il
 Infinitif
 לַחֲלִק

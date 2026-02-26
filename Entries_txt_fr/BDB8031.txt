@@ -6,6 +6,7 @@ nom [masculin]
 mauvaise qualité, mal ; — ׳
 ר absolu Gn 41,19 + 4 t. Jérémie ; construit Os 9,15 + 13 t. ; —
 
+@@SPLIT:sense@@
 1.
 mauvaise qualité, de bétail Gn 41,19 (
 E
@@ -15,12 +16,14 @@ E
 24,8 ;
 Jr 29,17.
 
+@@SPLIT:sense@@
 2.
 obstination, רֹעַ לבב
 1 S 17,28
 (Gerber^161 considère^
 2 et 4 [infinitif du] verbe).
 
+@@SPLIT:sense@@
 3. éthique, mal, méchanceté, seulement dans l'expression : רֹעַ מעללים
 méchanceté des actions
 Dt 28,20 ;
@@ -28,6 +31,7 @@ Es 1,16 ; Jr 4,4 ; Jr 21,12 ; Jr 23,2 ; Jr 23,22 ; Jr 25,5 ; Jr 26,3 ; Jr 44,22 
 רַע מעללים
 1 S 25,3).
 
+@@SPLIT:sense@@
 4.
 tristesse, פָּנִים
 ׳

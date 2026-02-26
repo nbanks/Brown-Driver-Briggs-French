@@ -6,6 +6,7 @@ verbe
 conduire, mener (hébreu tardif se conduire, se comporter, avoir l'habitude ; arabe
 [placeholder3192: Placeholders/3192.gif] aller le long de la route, suivre la route ; araméen נְהַג mener) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 ׳
@@ -60,6 +61,7 @@ figuré
 Qo 2,3 mon cœur
 se conduisant avec sagesse (comparer hébreu tardif ci-dessus).
 
+@@SPLIT:stem@@
 Pi`el
 Parfait
 נִהַג

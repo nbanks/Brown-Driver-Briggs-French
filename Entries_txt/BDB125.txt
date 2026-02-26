@@ -48,6 +48,8 @@ Gen 18:3; Gen 19:18
 אֲדֹ֯נַי
 Gen 19:2) —
 
+@@SPLIT:sense@@
+
 1. singular lord, master
 (1) reference to men:
 (a)
@@ -93,6 +95,8 @@ Mal 3:1
 אָדוֺן
 Ps 114:7
 .
+
+@@SPLIT:sense@@
 
 2. plural lords, kings
 Deut 10:17
@@ -197,6 +201,8 @@ Isa 51:22
 Hos 12:15
 
 (possibly error for אֲדֹנָי).
+
+@@SPLIT:sense@@
 
 3. suffix 1 singular (אֲדֹנַי) אֲדֹנִי
 (1) reference to men: my lord, my master,
@@ -484,6 +490,8 @@ Dan 9:8
 יהוה ?) Dan 9:16 Dan 9:17 Dan 9:19 Dan 9:19 Dan 9:19
 as the divine name.
 
+@@SPLIT:sense@@
+
 4.
 אֲדֹנָי יהוה
 
@@ -701,6 +709,8 @@ Amos 7:4
 Amos 8:1
 .
 
+@@SPLIT:sense@@
+
 5.
 יהוה אֲדֹנָי
 Yahweh my Lord
@@ -714,6 +724,8 @@ Ps 140:8
 Ps 141:8
 ;
 Hab 3:9.
+
+@@SPLIT:sense@@
 
 6.
 אֲדֹנָי יהוה צְבָאוֺת

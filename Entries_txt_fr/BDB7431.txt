@@ -14,6 +14,7 @@ Am 3,15 + ;
 suffixe קֵיצֵךְ
 Es 16,9 ; Jr 48,32 —
 
+@@SPLIT:sense@@
 1. saison d'été, opposé à חֹרֶף
 Gn 8,22 (
 J
@@ -24,6 +25,7 @@ J
 Jr 8,20 ; Pr 6,8 ; Pr 10,5 ; Pr 26,1, aussi
 (sans קָצִיר) Pr 30,25 comme récolte de fruits Es 28,4 temps de sécheresse Ps 32,4 (figuré).
 
+@@SPLIT:sense@@
 2.
 fruit d'été
 2 S 16,1 ;

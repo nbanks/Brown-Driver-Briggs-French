@@ -11,6 +11,8 @@ succeed, attain, make progress;
 
 as Biblical Hebrew); —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect
 יִגַּח
@@ -21,6 +23,8 @@ Exod 21:32 (
 E
 ), יִגָּ֑ח Exod 21:31 — gore, subject שׁוֺר, followed
 by accusative of person
+
+@@SPLIT:stem@@
 
 Pi`el
 Imperfect
@@ -42,6 +46,8 @@ push or thrust at, followed by accusative: of Joseph under figure
 of wild ox Deut
 33:17, compare 1Kgs 22:11 = 2Chr 18:10; Ps 44:6 (|| בּוּס); see also Ezek 34:21
 (of Israel under figure of sheep), compare Dan 8:4 (of ram in vision; object not expressed).
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Imperfect

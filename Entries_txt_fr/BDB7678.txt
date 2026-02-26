@@ -57,6 +57,7 @@ ci-dessous] ; suffixe רָאשֵׁינוּ
 Es 29,10 +,
 etc. ; —
 
+@@SPLIT:sense@@
 1.
 
 a. (c. 230 t.) tête, d'un être humain ; homme Gn 40,16 ; Gn 40,17. + souvent,
@@ -96,6 +97,7 @@ de l'influence relatives) Dt
 28,13 ;
 Dt 28,44.
 
+@@SPLIT:sense@@
 2.
 
 a.
@@ -157,6 +159,7 @@ pointe, extrémité, de barres 1 R 8,8 = 2 Ch 5,9, de sceptre Est 5,2.
 b.
 hauteur des étoiles Jb 22,12 (|| גֹּבַהּ שָׁמַיִם).
 
+@@SPLIT:sense@@
 3. : 171
 
 a.
@@ -269,6 +272,7 @@ de premier dans une série 1 Ch 23,8 (série de 3), 1 Ch 23,11 (de 4), 1 Ch 23,1
 1 Ch 23,20
 (de 2).
 
+@@SPLIT:sense@@
 4.
 
 a.
@@ -302,6 +306,7 @@ J
 Pr 8,26
 .
 
+@@SPLIT:sense@@
 5.
 principal, le meilleur, choix, d'aromates, כשׂמ(יםׅ, Ez 27,22 ; Ex 30,23
 (
@@ -316,6 +321,7 @@ Ps 137,6
 
 le meilleur de ma joie.
 
+@@SPLIT:sense@@
 6.
 tête = division d'armée, compagnie, bande :
 Jg 7,16 ;
@@ -330,6 +336,7 @@ dans le verset) ;
 11,11 ;
 1 S 13,17 (deux fois dans le verset) ; 1 S 13,18 (deux fois dans le verset) Jb 1,17.
 
+@@SPLIT:sense@@
 7. = somme, surtout dans la locution ׳
 בְּנֵייִֿשׂ
 ׳
@@ -346,6 +353,7 @@ Ps
 119,160
 .
 
+@@SPLIT:sense@@
 8. autres locutions : ׳
 נָשָׂא אֶתרֿאֹשׁ פ voir
 נָשָׂא

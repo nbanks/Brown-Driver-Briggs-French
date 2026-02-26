@@ -31,6 +31,8 @@ J
 E
 ; 180 t. Genesis, once Leviticus, etc.), 34 t. Psalms, 42 t. Isaiah (27 t. 40-66), etc.; —
 
+@@SPLIT:sense@@
+
 1. as proper name, masculine
 Gen 25:26 + 205
 t. (+ אַבְרָהָם, יִצְחָק19 t.); also ׳
@@ -52,6 +54,8 @@ f), ׳
 עֵין יַע (see
 עַיִן
 ), etc.
+
+@@SPLIT:sense@@
 
 2. as proper name [of a people] (c. 100 t.; poetry and prophets) Num 24:5; Num 24:19; Deut 32:9; Ps 44:5; Isa 10:21; Isa 17:4; Jer 10:25; Jer 30:7 +; || יִשְׂרָאֵל
 

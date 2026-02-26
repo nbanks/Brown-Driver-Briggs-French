@@ -28,6 +28,8 @@ t.; Ezekiel
 Qr
 ; —
 
+@@SPLIT:sense@@
+
 1. adjective united
 כְּאִישׁ אֶחָד חֲבֵרִים
 Judg 20:11
@@ -36,6 +38,8 @@ AV
 
 RV
 ).
+
+@@SPLIT:sense@@
 
 2.
 noun
@@ -68,6 +72,8 @@ Prov
 28:24
 ;
 Ps 119:63.
+
+@@SPLIT:sense@@
 
 3.
 companion at a particular time Eccl 4:10.

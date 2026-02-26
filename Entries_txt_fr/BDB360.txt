@@ -10,6 +10,7 @@ W^SG 120-2^ ; comparer assyrien
 aiu
 , qui ? quoi ?).
 
+@@SPLIT:sense@@
 1.
 adverbe
 interrogatif
@@ -57,6 +58,7 @@ où donc ? (jamais d'une personne, sauf Est 7,5 (tardif), et seulement une fois
 הַדֶּרֶח ֗֗֗
 où est le chemin (qui) . . . ? 1 R 13,12 ; 2 R 3,8 ; 2 Ch 18,23 ; Jb 38,19 a. 24.
 
+@@SPLIT:sense@@
 2. préfixé à d'autres adverbes ou pronoms, אֵי leur confère une force
 interrogative :
 ainsi

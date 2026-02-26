@@ -5,6 +5,8 @@ Biblical Hebrew
 verb
 denominative
 
+@@SPLIT:stem@@
+
 Hithpo`el
 stand at, or guard, the threshold; — Infinitive construct
 בָּחַ֫רְתִּי

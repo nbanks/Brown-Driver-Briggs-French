@@ -15,6 +15,7 @@ Jb 26,9 ; Jb 37,15
 pluriel עֲנִים
 Jr 4,13 —
 
+@@SPLIT:sense@@
 1.
 masse nuageuse :
 
@@ -94,6 +95,7 @@ comparer Ez 30,3
 (tous du jour de ׳
 ע).
 
+@@SPLIT:sense@@
 2.
 קְטֹרֶת
 ׳

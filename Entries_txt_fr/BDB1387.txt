@@ -6,11 +6,13 @@ couper en deux (arabe
 [placeholder749: Placeholders/749.gif]
 retrancher prématurément ; extirper en coupant) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 בָּתָ֑ר
 Gn 15,10
 
+@@SPLIT:stem@@
 Pi`el
 Imparfait
 וַיְבַתֵּר

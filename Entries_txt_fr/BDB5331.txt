@@ -20,6 +20,7 @@ brillant, voir aussi Dr^
 
 ^) ; —
 
+@@SPLIT:stem@@
 Niph`al
 Participe
 actif féminin נִצַּ֫חַת
@@ -27,6 +28,7 @@ Jr 8,5
 durable (מְשֻׁבָה
 apostasie).
 
+@@SPLIT:stem@@
 Pi`el = agir comme surveillant, surintendant, directeur, seulement Chroniques et titres de Psaumes ;
 — Infinitif
 לְנַצֵּחַ

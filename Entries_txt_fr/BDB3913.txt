@@ -10,6 +10,7 @@ fouler, battre ou frayer un chemin, soumettre ; arabe
 presser, comprimer, pétrir (corps ou membre, comme au bain, massage), aussi
 attaquer, assaillir) —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 pluriel וְכָֽבְשׁוּ consécutif Za 9,15
 Imparfait
@@ -49,6 +50,7 @@ P
 figuré soumettre, suivi de עֲוֺנֹתֵינוּ
 Mi 7,19.
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 féminin singulier נִכְבְּשָׁה
 Jos 18,1 +
@@ -65,12 +67,14 @@ P
 ), 1 Ch
 22,18.
 
+@@SPLIT:stem@@
 Pi`el
 Parfait
 כִּבֵּשׁ
 
 2 S 8,11, objet גּוֺיִם (de la conquête).
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait
 réduire en servitude, suivi d'accusatif + לַעֲבָדִים

@@ -16,6 +16,8 @@ covenant, contract; Assyrian
 êƒêru,
 as Hebrew, Dl^HWB 309^) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 ׳
@@ -143,12 +145,16 @@ Jer 18:11
 devised it to establish it
 Jer 33:2.
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect
 לְפָנַי לֹאנֿוֺצַר אֵל
 Isa
 43:10
 before me a god was not formed (created).
+
+@@SPLIT:stem@@
 
 Pu`al
 Perfect
@@ -157,6 +163,8 @@ days (that) were pre-ordained (in the divine purpose) Ps
 139:16
 (compare
 Qal, 2.b.).
+
+@@SPLIT:stem@@
 
 Hoph`al
 Imperfect

@@ -17,6 +17,7 @@ enû
 anni
 est un emprunt selon Bondi^80^) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier וְעָנוּ consécutif Jr 51,14
 Imparfait 3 masculin singulier יַעַנֶה
@@ -54,6 +55,7 @@ les femmes chantèrent et dirent ; יַעֲנוּ בַמְּחֹלוֺת לֵא�
 accusatif de chose louange Ps 119,172 (comparer || Ps 119,171). — Es 14,22 voir
 עון
 
+@@SPLIT:stem@@
 Pi`el intensif : Impératif
 עַנּוּלָֿהּ
 Es 27,2

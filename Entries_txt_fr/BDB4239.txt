@@ -16,6 +16,7 @@ Buhl comparer arabe
 tirer ou coudre ensemble, conjoindre (des lettres), etc., comparer
 Fl^ZMG 1873, 427^) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 ׳
@@ -325,6 +326,7 @@ Jb 13,26
 tu (׳
 י) décrètes contre moi des choses amères.
 
+@@SPLIT:stem@@
 Niph`al (surtout tardif, surtout Esther), Imparfait
 יִכָּתֵב
 Est 1,19
@@ -403,6 +405,7 @@ Jr
 est difficile ; Gie lit, de manière plausible, מֵאֶרֶץ
 יִכָּרֵ֑תוּ (comparer Ps 34,17 ; Ps 101,8, etc.)
 
+@@SPLIT:stem@@
 Pi`el fréquemment, Parfait et Participe, seulement
 כִּתֵּ֑בוּוּמְכַתְּבִים עָמָל
 Es

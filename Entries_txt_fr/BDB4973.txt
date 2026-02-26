@@ -5,12 +5,14 @@ hébreu biblique
 toucher (les cordes), jouer d'un instrument à cordes (hébreu tardif Pi`el ; araméen
 נְגַן Pael) ; —
 
+@@SPLIT:stem@@
 Qal
 Participe
 נֹגְנִים
 Ps 68,26
 joueurs (|| שָׁרִים, עֲלָמוֺת תּוֺפֵפוֺת).
 
+@@SPLIT:stem@@
 Pi`el
 Parfait
 וְנִגֵּן

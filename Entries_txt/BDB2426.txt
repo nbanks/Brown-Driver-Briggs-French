@@ -5,10 +5,14 @@ Biblical Hebrew
 noun [masculine]
 a little, a trifle, a few.
 
+@@SPLIT:sense@@
+
 1. of time עוֺד מְעַט מִזְעָ֑ר
 Isa 10:25;
 Isa 29:17
 yet a trifle, a little = a very little while.
+
+@@SPLIT:sense@@
 
 2. of number מְעַט מִזְעָר שְׁאָר
 Isa 16:14

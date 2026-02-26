@@ -3,10 +3,12 @@ hébreu biblique
 
 [שְׂדֵרָה]
 
+@@SPLIT:sense@@
 nom
 1.
 rangée, rang de soldats en ligne.
 
+@@SPLIT:sense@@
 2. terme architectural. (probablement pour סְדֵרָה, voir ci-dessus et comparer Ba^§ 92 a^
 ) ; — seulement pluriel absolu שְׂדֵרוֺת
 2 R 11,8 ; 2 Ch 23,14,
@@ -14,10 +16,12 @@ rangée, rang de soldats en ligne.
 6,9 ; 2 R
 11,15 —
 
+@@SPLIT:sense@@
 1.
 rangées, rangs, 2 R 11,8, et 2 R 11,15 = 2 Ch 23,14 (où considéré comme glose par Benz, à cause de מִבַּיִת, à l'intérieur
 ).
 
+@@SPLIT:sense@@
 2. terme technique de construction, גֵּבִים וּשְׂדֵרֹת בָּאֲרָוִים
 1 R 6,9, sens
 inconnu.

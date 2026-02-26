@@ -16,6 +16,7 @@ absolu חֶזְיֹנוֺת
 Jb 7,14 ; Jl 3,1, construit
 id. Jb 4,13 —
 
+@@SPLIT:sense@@
 1.
 vision, dans l'état extatique ׳
 ראה ח
@@ -25,12 +26,14 @@ Jl 3,1
 vallée de la vision
 Es 22,1 ; Es 22,5.
 
+@@SPLIT:sense@@
 2.
 vision, dans la nuit חֶזְיוֺנ(וֺת)לַיְלָה
 Jb 4,13 ; Jb 20,8 ; Jb 33,15
 || חֲלֹמוֺת
 Jb 7,14.
 
+@@SPLIT:sense@@
 3.
 communication divine dans une vision, oracle, prophétie : || דברים
 2 S 7,17 ( =

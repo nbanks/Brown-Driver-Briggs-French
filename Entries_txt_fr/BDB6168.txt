@@ -5,6 +5,7 @@ hébreu biblique
 adjectif
 profond (comparer Ba^NB § 23 b^) ; —
 
+@@SPLIT:sense@@
 1.
 ׳
 ע littéral Lv 13,3 + 6 t. Lv 13 féminin עֲמֻקָּה de coupe Ez 23,32, fossé Pr 22,14 ;
@@ -15,6 +16,7 @@ Pr 23,27
 Jb 11,8
 (figuré) ; pluriel מַיִם עֲמֻקִּים (comparaison) Pr 18,4 ; Pr 20,5.
 
+@@SPLIT:sense@@
 2. = insondable
 עָמֹקּ
 Ps 64,7 ; Qo 7,24 (deux fois

@@ -18,11 +18,13 @@ laesit, nocuit ; comparer arabe
 l'infliction d'un dommage à un ennemi Lane^3038^
 ) ; —
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 וְנִכָּה וָמֵת consécutif 2 S 11,15
 et il sera frappé [atteint par une arme au combat] et mourra.
 
+@@SPLIT:stem@@
 Pu`al
 Parfait 3 féminin singulier נֻכָּ֑תָה
 Ex 9,31 3
@@ -30,6 +32,7 @@ pluriel נֻכּוּ Ex 9,32 (
 J
 ), les deux être abattu par la grêle.
 
+@@SPLIT:stem@@
 Hiphil_482_
 Parfait 3 masculin singulier הִכָּה
 Ex 9,25
@@ -643,6 +646,7 @@ des palais
 Am 3,15 ; Am 6,11 (2
 accusatifs), comparer Za 9,4.
 
+@@SPLIT:stem@@
 Hoph`al
 Parfait
 הֻכָּה

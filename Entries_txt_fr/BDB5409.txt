@@ -5,6 +5,7 @@ I. נָשָׁה
 verbe
 prêter, devenir créancier (comparer I. נשׁא) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 1 singulier נָשִׁ֫יתִי
 Jr 15,10 3
@@ -35,6 +36,7 @@ E
 ), 2 R 4,1 ;
 Es 24,2 ; Es 50,1 ; Ps 109,11.
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait 3 masculin singulier יַשֶּׁה בְּ
 Dt 15,2

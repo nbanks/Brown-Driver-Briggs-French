@@ -18,6 +18,7 @@ Est 6,6 + 4 t. ;
 יְקָרָהּ
 Jr 20,5 —
 
+@@SPLIT:sense@@
 1.
 valeur :
 
@@ -39,6 +40,7 @@ Pr 20,15
 un joyau de valeur = un joyau précieux (|| זָהָב
 , פְּנִינִים).
 
+@@SPLIT:sense@@
 2.
 prix
 Za 11,13
@@ -47,6 +49,7 @@ Za 11,13
 
 2.
 
+@@SPLIT:sense@@
 3.
 honneur, Ps 49,13 ; Ps 49,21 ailleurs seulement Esther : יְקָר תִּפְאֶרֶת
 גְּדוּלָּתוֺ

@@ -7,6 +7,7 @@ empêcher, retenir, contrecarrer (arabe (
 [placeholder3213: Placeholders/3213.gif] (ou
 [placeholder3214: Placeholders/3214.gif]) se lever avec difficulté, se lever contre quelqu'un (Frey), III. lutter avec, Lane^2861^) ; —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 2 masculin pluriel תנואון
 Nb 32,7
@@ -16,6 +17,7 @@ Kt
 Qr
 ), comparer Di.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait
 הֵנִיא

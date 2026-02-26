@@ -26,6 +26,8 @@ Str & most derive Hebrew meaning from Arabic b
 ; shew the teeth, then snarl, quarrel (compare Arabic conjugation
 III), but see Gr^l.c^.) —
 
+@@SPLIT:stem@@
+
 Hithpa`el
 Perfect
 הִתְגַּלַּע

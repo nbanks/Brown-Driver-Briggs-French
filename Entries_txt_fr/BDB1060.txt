@@ -7,6 +7,7 @@ Jos 15,41,
 Jos 19,27
 nom propre [d'un lieu]
 
+@@SPLIT:sense@@
 1.
 en Juda (maison, c.-à-d. temple de Dagon ; assyrien
 
@@ -31,6 +32,7 @@ Jos 15,41 (
 l'emplacement
 ne convient pas, comparer Rob^BR ii. 232.^
 
+@@SPLIT:sense@@
 2. en Aser Jos 19,27 (
 
 ᵐ5

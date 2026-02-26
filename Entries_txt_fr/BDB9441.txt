@@ -4,6 +4,7 @@ araméen biblique
 [דִּין] verbe
 juger (hébreu biblique) ; —
 
+@@SPLIT:stem@@
 Peal
 Participe pluriel דָּאֲנִין
 Esd 7,25

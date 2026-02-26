@@ -5,6 +5,8 @@ I. עֶ֫צֶב
 noun [masculine]
 pain, hurt, toil; —
 
+@@SPLIT:sense@@
+
 1.
 ׳
 ע
@@ -13,11 +15,15 @@ Gen 3:16 (of
 travail), Prov
 10:22.
 
+@@SPLIT:sense@@
+
 2.
 hurt (of mind), ׳
 דְּבַרעֿ
 Prov 15:1
 a word that hurts (opposed to מַעֲנֶהרַֿךְ).
+
+@@SPLIT:sense@@
 
 3.
 toil

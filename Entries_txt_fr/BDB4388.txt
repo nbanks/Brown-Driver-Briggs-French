@@ -11,6 +11,7 @@ Ez 17,24
 pluriel לַחִים
 Nb 6,3 + 2 t. ; —
 
+@@SPLIT:sense@@
 1.
 humide, frais, des arbres, fruits, etc. ; לִבְנֶה לַח
 Gn 30,37 (
@@ -24,6 +25,7 @@ raisins ׳
 עֲנָבִים ל
 Nb 6,3.
 
+@@SPLIT:sense@@
 2.
 neuf, de cordes, ׳
 יְתָרִים ל

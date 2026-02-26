@@ -9,6 +9,7 @@ collectif
 créatures volantes, volatiles, insectes ; — ׳
 ע absolu Gn 1,20 +, construit Gn 1,21 + ; —
 
+@@SPLIT:sense@@
 1.
 volatiles, oiseaux, Gn 40,17 ; Gn 40,19 (
 E
@@ -67,6 +68,7 @@ J
 P
 ).
 
+@@SPLIT:sense@@
 2.
 insectes ailés (purs et impurs) הַהֹלֵךְ עַלאַֿרְבַּע
 ׳

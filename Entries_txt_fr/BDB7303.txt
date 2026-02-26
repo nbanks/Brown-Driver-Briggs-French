@@ -12,6 +12,7 @@ construit קֶדֶם
 Pr 8,22 une fois
 pluriel construit קַדְמֵי Pr 8,23 —
 
+@@SPLIT:sense@@
 1. lieu
 
 a.
@@ -95,6 +96,7 @@ Gn 13,11
 J
 ).
 
+@@SPLIT:sense@@
 2. temporel, temps ancien, autrefois :
 
 a.

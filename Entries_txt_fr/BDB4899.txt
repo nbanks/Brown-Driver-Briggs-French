@@ -24,6 +24,7 @@ Jr 13,2
 Jr 20,32 + 4
 t., etc. ; — reins :
 
+@@SPLIT:sense@@
 1.
 
 a.
@@ -114,6 +115,7 @@ Ez 47,4
 eau atteignant les reins) ; ainsi de l'apparence de ׳
 י dans les visions d'Ézéchiel Ez 1,27 (deux fois dans le verset) ; Ez 8,2 (deux fois dans le verset).
 
+@@SPLIT:sense@@
 2.
 
 a.

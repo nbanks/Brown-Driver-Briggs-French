@@ -18,6 +18,7 @@ unninu, têninu nannu
 , id., Lotz^TP^
 Zim^BP 23, 66^) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 חָנַן
@@ -148,6 +149,7 @@ voir
 II.
 חנן
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 2 féminin singulier נֵחַנְתְּ
 Jr 22,23
@@ -166,6 +168,7 @@ Ew
 Gf
 Gie et autres
 
+@@SPLIT:stem@@
 Pi`el
 Imparfait 3 masculin singulier rendre gracieux, favorable
 כִּייְֿחַנֵּן קוֺלוֺ
@@ -173,6 +176,7 @@ Pr
 26,25
 .
 
+@@SPLIT:stem@@
 Po`el
 Imparfait 3 masculin singulier diriger la faveur vers (Ges^«GKC:55»§ 55^, 1) וְאֶתעֲֿפָרָהּ יְחֹנֵנוּ
 
@@ -185,6 +189,7 @@ Pr
 14,21
 .
 
+@@SPLIT:stem@@
 Hoph`al
 Imparfait
 יֻחַן
@@ -193,6 +198,7 @@ Es
 26,10 ;
 Pr 21,10.
 
+@@SPLIT:stem@@
 Hithpa`el
 Parfait 2 masculin singulier הִתְחַנַּנְתָּה
 1 R 9,3

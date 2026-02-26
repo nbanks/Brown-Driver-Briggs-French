@@ -11,6 +11,7 @@ lier, attacher ; ainsi araméen צְרַר,
 
 A. transitif :
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier צָרַר
 Os 4,19 ; Pr 30,4
@@ -48,11 +49,13 @@ vera lectio) de manière condensée, le vent l'a enveloppée dans ses ailes, pou
 Pr 26,8
 comme le fait de lier une pierre, mais inintelligible dans le contexte (voir Toy).
 
+@@SPLIT:stem@@
 Pu`al
 Participe pluriel מְצֹרָרִים
 Jos 9,4
 liées (réparées par ligature), d'anciennes outres à vin.
 
+@@SPLIT:stem@@
 B. intransitif :
 
 Qal
@@ -82,6 +85,7 @@ Jg 10,9 ;
 1 S 30,6
 (voir Dr).
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 masculin singulier וְהֵצַר
 Dt 28,52

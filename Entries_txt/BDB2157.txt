@@ -4,6 +4,8 @@ Biblical Hebrew
 [הָלָא] verb
 denominative only
 
+@@SPLIT:stem@@
+
 Niph`al
 participle
 feminine

@@ -29,6 +29,7 @@ implorer (comparer amharique, tigrinya), &
 [placeholder1317: Placeholders/1317.gif]
 jurer) —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 2 masculin pluriel תָּהֹ֑לּוּ
 Ps 75,5
@@ -43,6 +44,7 @@ Ps 75,5 (||
 Ps 5,6 (||
 פֹּעֲלֵי אָוֶן) ; Ps 73,3 ; Ps 75,5 (tous deux || רְשָׁעִים).
 
+@@SPLIT:stem@@
 Pi`el
 Parfait
 הִלֵּל
@@ -257,6 +259,7 @@ Che
 loue (׳
 י) pour (c.-à-d. dans un esprit mercenaire).
 
+@@SPLIT:stem@@
 Pu`al
 Parfait 3 pluriel הוּלָּ֑לוּ
 Ps
@@ -306,6 +309,7 @@ Ps 96,4 = 1 Ch 16,25 ; Ps 145,3 de même ׳
 Ps
 113,3.
 
+@@SPLIT:stem@@
 Hithpa`el
 Imparfait
 יִתְהַלֵּל
@@ -398,6 +402,7 @@ ensemble avec ton héritage (|| לִשְׂמֹהַ בְּשִׂמְהַת גּו
 femme craignant Dieu
 Pr 31,30.
 
+@@SPLIT:stem@@
 Po`el
 Imparfait
 יְהוֺלֵל
@@ -418,6 +423,7 @@ Es
 Qo 7,7 (sujet הָעשֶׁק ; || וִיאַבֵּד אֶתלֵֿב מַתָּנָה
 ).
 
+@@SPLIT:stem@@
 Poal
 Participe
 לִשְׂהוֺק אָמַרְתִּי מְהוֺלָ֑ל
@@ -428,6 +434,7 @@ Ps 102,9
 
 ceux qui sont fous contre moi (|| אוֺיְבָ֑י).
 
+@@SPLIT:stem@@
 Hithpo`el
 Imparfait
 וַיִּתְהֹלֵל

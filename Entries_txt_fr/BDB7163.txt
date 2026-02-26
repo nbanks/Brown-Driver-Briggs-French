@@ -12,11 +12,13 @@ Ex 3,9 + ; suffixe
 1 S 9,16 +, etc. ;
 —
 
+@@SPLIT:sense@@
 1.
 clameur contre (Sodome) Gn 18,21 ; Gn 19,13 (tous deux
 J
 ).
 
+@@SPLIT:sense@@
 2.
 cri de détresse surtout tel qu'entendu par ׳
 י

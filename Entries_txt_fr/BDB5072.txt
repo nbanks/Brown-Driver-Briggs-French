@@ -10,6 +10,7 @@ trembler (rare), comparer Brock ; arabe
 se mouvoir de part et d'autre, être en commotion, pendiller,
 Lane^2866^) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 נָס
@@ -165,6 +166,7 @@ des ombres (au soir), Ct 2,17 ; Ct 4,6 de la douleur etc. Es 35,10 ; Es 51,11.
 Es 30,16
 voler (à l'attaque) à cheval.
 
+@@SPLIT:stem@@
 Poʿlel
 Parfait
 Es 59,19
@@ -178,6 +180,7 @@ le pousse, le chasse (comparer
 Hiph`il
 2).
 
+@@SPLIT:stem@@
 Hithpo`el
 Infinitif construit
 לְהִתְנוֺסֵס
@@ -190,6 +193,7 @@ Hup-Now
 Che
 Bae et autres).
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait
 הֵנִיס

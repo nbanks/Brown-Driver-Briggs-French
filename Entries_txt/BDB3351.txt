@@ -11,6 +11,8 @@ bury, hide (loan-word Frä^137^); Aramaic
 [placeholder2121: Placeholders/2121.gif], טְמַר
 id.); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 טְמֵן
@@ -93,6 +95,8 @@ Job 20:26
 all darkness is held in reserve for his treasures, i.e. all calamities are stored up for
 them.
 
+@@SPLIT:stem@@
+
 Niph`al
 Imperative
 חִטָּמֵן בֶּעָפָר
@@ -102,6 +106,8 @@ Isa 2:10
 hide thyself in the dust, from before the terror of
 ׳
 י.
+
+@@SPLIT:stem@@
 
 Hiph`il (or
 Qal? Ba^ZMG 1889, 180^) Imperfect

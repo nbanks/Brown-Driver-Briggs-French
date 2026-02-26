@@ -26,6 +26,7 @@ Lane^2919^ ; éthiopien
 Hiph`il
 4) —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier יָשַׁב
 Gn 13,12 + ;
@@ -625,6 +626,7 @@ Qr
 Jr 30,18
 .
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 féminin singulier נוֺשָׁ֑בָה
 Jr 6,8 3
@@ -662,6 +664,7 @@ Ez 26,17 voir ci-dessus ; Ez 35,9 voir
 Qal
 4.
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 3 masculin pluriel וְיִשְּׁבוּ טִירוֺתֵיהֶם בָּ֑ךְ
 Ez
@@ -677,6 +680,7 @@ Co
 וְיֵשְׁבוּ
 habiter.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 masculin singulier השִׁיב
 
@@ -815,6 +819,7 @@ Esd 10,17 ; Esd 10,18 ; Ne 13,27 de même השִׁיבוּ
 
 Ne 13,23.
 
+@@SPLIT:stem@@
 Hoph`al
 Parfait
 וְהוּשַׁבְתֶּם לְבַדְּכֶם בְּקֶרֶב הָאָ֑רֶץ

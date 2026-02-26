@@ -11,12 +11,14 @@ syriaque
 [placeholder4567: Placeholders/4567.gif]
 se taire (dans les lexiques)) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 pluriel צָֽמְתוּ ֗֗֗ חַיָּ֑י
 Lm 3,63 =
 ils ont mis fin à ma vie (Bu
 conjecture Pi`el).
 
+@@SPLIT:stem@@
 Niph`al
 être achevé, anéanti ; Parfait 1 singulier נִצְמַתִּת מִפְּנֵיאחשֶׁךְ
 Jb 23,17
@@ -26,6 +28,7 @@ je ne suis [pas] anéanti à cause des ténèbres
 Jb 6,17
 (de ruisseaux asséchés).
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 3 féminin singulier suffixe צִמְּתַתְנִי
 Ps
@@ -33,6 +36,7 @@ Ps
 קִנְאָתִי
 m'a anéanti (tant il est intense).
 
+@@SPLIT:stem@@
 Pilel
 Parfait 3 pluriel suffixe צִמְּתֻתוּנִי (mais lire צִמְּתוּנִי
 Ges^«GKC:55d»§ 55d^, ou צִמְּתָ֑תְנִי)
@@ -40,6 +44,7 @@ Hi [Ges^«GKC:145k»§
 145k^] ; comparer Bae) Ps 88,17 tes terreurs
 m'ont anéanti.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 2 masculin singulier הִצְמַתָּה
 Ps 73,27

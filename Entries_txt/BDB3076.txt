@@ -5,6 +5,8 @@ Biblical Hebrew
 search (Late Hebrew id., Niph`al passive, Aramaic חֲקַר)
 —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular suffix וַחֲקָרוֺ consecutive Prov 18:17
 חֲקָרָהּ
@@ -78,6 +80,8 @@ Prov 18:17, compare Prov 28:11 so of self-examination דרכים
 Lam 3:40
 (|| חפשׂ).
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect
 נֶחְקַר
@@ -95,6 +99,8 @@ be searched out, found out, ascertained, 1Kgs 7:47; 2Chr 4:18 (weight of the
 bronze used in temple utensils), of forest Jer 46:23
 searched out, Jer 31:37 subject מוסדיֿ
 ארץ
+
+@@SPLIT:stem@@
 
 Pi`el
 Perfect

@@ -17,6 +17,8 @@ CIS^iv, No. 173, 1. 6^ ; arabe
 celui qui hait, etc. ; éthiopien haïr est
 [placeholder5292: Placeholders/5292.gif]) ; —
 
+@@SPLIT:stem@@
+
 Qal_128_
 Parfait 3 masculin singulier ׳
 שׂ
@@ -164,6 +166,8 @@ verset) ; 2 Ch 19,2
 
 .
 
+@@SPLIT:stem@@
+
 Niph`al
 Imparfait 3 masculin singulier יִשָּׂנֵא
 Pr 14,17
@@ -173,6 +177,8 @@ est haï, ainsi Pr 14,20 (+ ל personne par, voir
 לְ
 
 5.d.).
+
+@@SPLIT:stem@@
 
 Pi`el
 Participe suffixe מְשַׂנְאִי

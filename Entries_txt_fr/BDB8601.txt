@@ -13,6 +13,7 @@ Qo 6,36 est
 aller souvent (user en marchant), Str comparer
 iter terere) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 pluriel אֲבָּנִים שָֽׁחֲקוּ מַיִם
 Jb 14,19
@@ -23,6 +24,7 @@ P
 ; de pulvériser de l'encens, voir
 דקק
 
+@@SPLIT:stem@@
 Hiph`il) ; figuré, accusatif d'ennemis, Imparfait 1 singulier suffixe
 וְאֶשְׁחָקֵם
 2 S 22,43

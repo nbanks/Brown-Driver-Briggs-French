@@ -11,10 +11,12 @@ Na 2,2 ; 2 Ch 14,5 pluriel
 מְצֻרֹת
 Es 29,3, etc. ; —
 
+@@SPLIT:sense@@
 1.
 ouvrages de siège
 Es 29,3.
 
+@@SPLIT:sense@@
 2.
 rempart
 ׳

@@ -10,6 +10,8 @@ disappoint; reflexive conjugations be disappointed, ashamed, see
 Spiro^Vocab^; Late Hebrew כסף Hiph`il shew pallor, be pale, white;
 Qal be ashamed, long for, compare Aramaic כְּסַף) —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 2 masculine singular יָדֶיךָ תִּכְסֹ֑ףלְמַעֲשֵׂה
 Job 14:15
@@ -17,6 +19,8 @@ for the work of thy hands thou wouldest long; 3 masculine singular כְּאַר�
 יִכְסוֺף לִטְרֹ֑ף
 Ps 17:12
 like a lion that longeth to rend.
+
+@@SPLIT:stem@@
 
 Niph`al
 Perfect 2 masculine singular + Infinitive absolute

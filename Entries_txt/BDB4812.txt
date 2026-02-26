@@ -7,6 +7,8 @@ Arabic
 [placeholder3080: Placeholders/3080.gif]
 anoint, smear); —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect
 יִשְׂאוּ דְּבֶלֶת תְּאֵנִים וְיִמְרְחוּ עַלהַֿשְּׁחִין

@@ -19,6 +19,8 @@ MI^13, 18^
 לפני, suffix מפני
 Ezek 1:19); —
 
+@@SPLIT:stem@@
+
 Qal_117_
 Perfect 3 masculine singular ׳
 פ
@@ -188,6 +190,8 @@ figurative
 look at (ב of thing) = consider Eccl 2:11. — 2Chr
 25:23 see פַּנָּה
 
+@@SPLIT:stem@@
+
 Pi`el
 Perfect 3 masculine singular פִּנָּה
 
@@ -211,6 +215,8 @@ Isa
 62:10; Mal 3:1
 accusative omitted clear away
 (ground) before it, i.e. to plant it Ps 80:10 (figurative).
+
+@@SPLIT:stem@@
 
 Hiph`il (especially Jeremiah) Perfect 3 masculine singular
 הִפְנָה
@@ -257,6 +263,8 @@ opposed to נָסוּ
 Jer 46:5, compare Nah 2:9 + אֶל person
 
 Nah 47:3.
+
+@@SPLIT:stem@@
 
 Hoph`al
 Imperative masculine plural הָפְנוּ

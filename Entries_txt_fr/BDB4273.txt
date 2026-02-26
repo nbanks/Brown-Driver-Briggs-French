@@ -13,6 +13,7 @@ avec difficulté (Lane^3007^) ; araméen
 [placeholder2714: Placeholders/2714.gif],
 [placeholder2715: Placeholders/2715.gif]) ; —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 2 masculin singulier תִּלְאֶה
 Jb 4,2
@@ -23,6 +24,7 @@ Gn 19,11 —
 être las (en vain effort) suivi d'Infinitif Gn 19,11
 être las, impatient d'une tentative de consolation absolu Jb 4,2 d'une calamité absolu Jb 4,5 (|| בָּהַל).
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 נִלְאָה
@@ -45,6 +47,7 @@ sujet ׳
 י, suivi d'infinitif Es 1,14 ; Jr 6,11 ; Jr 15,6, toujours de la patience épuisée ; figuré d'un sol desséché (absolu)
 Ps 68,10.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 masculin singulier suffixe הֶלְאָנִי
 Jb 16,7 3

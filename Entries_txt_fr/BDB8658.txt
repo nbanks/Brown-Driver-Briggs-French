@@ -5,7 +5,8 @@ hébreu biblique
 nom masculin
 Lv 15,4
 lieu où l'on se couche, couche ; acte de se coucher ; — absolu
-׳מ
+׳
+מ
 1 R 1,47 +,
 construit מִשְׁכַּב
 2 S 4,5 + ; suffixe
@@ -19,31 +20,38 @@ Gn 49,4 +, suffixe
 Os 7,14 +, etc. ;
 —
 
+@@SPLIT:sense@@
 1.
 couche, lit (37 t.), 2 S 4,11 ; Os 7,14 ; Mi 2,1 ; 1 R 1,47 ; Ct 3,1 + ;
-׳וְנָפַל לְמ
+׳
+וְנָפַל לְמ
 Ex 21,18
 (
 E
 ) il s'alite ; נִדָּתָהּ
-׳מ
+׳
+מ
 Lv 15,26 (
 
 P
 ; voir ci-dessous I. נדד) ;
-׳מ comme lieu de cohabitation Gn 49,4 (poème dans
+׳
+מ comme lieu de cohabitation Gn 49,4 (poème dans
 J
 ), Es 57,7
 ; Es 57,8
 (deux fois dans le verset) ; Pr 7,17 comme lieu de sépulture Es 57,2 ; Ez 32,25 ; 2 Ch 16,14 (voir
-׳מ Inscription Tabnit 8 et peut-être inscription juive
+׳
+מ Inscription Tabnit 8 et peut-être inscription juive
 Cooke 341).
 
+@@SPLIT:sense@@
 2.
 acte de se coucher :
 
 a. en général,
-׳חֲדַר מ chambre où l'on se couche = chambre à coucher, Ex 7,28 (
+׳
+חֲדַר מ chambre où l'on se couche = chambre à coucher, Ex 7,28 (
 E
 ), 2 S 4,7
 ; 2 R 6,12
@@ -51,10 +59,12 @@ E
 Qo 10,20
 
 הַצָּהֳרַיִם
-׳והוּא שֹׁכֵב אֵת מ
+׳
+והוּא שֹׁכֵב אֵת מ
 2 S 4,5 sa
 sieste de midi ; 2 S 17,28 lire peut-être
-׳עַרְשׂת מ couches pour se coucher
+׳
+עַרְשׂת מ couches pour se coucher
 Klo
 Bu
 HPS
@@ -80,7 +90,8 @@ Lv 20,13 (+
 אֶתזָֿכָר sodomie ;
 H
 ) ;
-׳דֹּדִים מ
+׳
+דֹּדִים מ
 Ez 23,17
 .
 

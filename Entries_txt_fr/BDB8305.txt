@@ -3,6 +3,7 @@ hébreu biblique
 
 [שָׂקַר] verbe
 
+@@SPLIT:stem@@
 Pi`el
 lorgner (araméen סְקַר
 regarder (

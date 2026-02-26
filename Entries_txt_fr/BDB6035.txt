@@ -26,6 +26,7 @@ Za 1,17,
 עָרֵיכֶם
 Es 1,7 +, etc. ; —
 
+@@SPLIT:sense@@
 1.
 ville, cité, demeure des hommes Gn 4,17 (
 J
@@ -264,6 +265,7 @@ Ez
 22,2 ;
 Ez 24,6 ; Ez 24,9 et (de Ninive) Na 3,1.
 
+@@SPLIT:sense@@
 2. de forteresse dans une ville surtout עִיר דָּוִד
 2 S 5,7 ; 2 S 5,9 ; 2 S 6,10 + souvent
 (voir דָּוִד) ; כֵית הַבָּ֑עַל
@@ -280,6 +282,7 @@ Kit) ; הַמַּיִם
 (lire ainsi aussi 2 S
 12,26, voir 1.d.).
 
+@@SPLIT:sense@@
 3. apparemment lieu fortifié, de toute taille, עִיר מִבְצָר בְּכָלעָֿרֵיהֶם מִמִּגְּדַּל
 נוֺצְרִים עַדֿ
 2 R 17,9 = 2 R 18,8 comparer

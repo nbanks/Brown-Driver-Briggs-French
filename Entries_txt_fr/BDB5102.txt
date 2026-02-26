@@ -12,6 +12,7 @@ Ps 89,40 +,
 נִזְרֵךְ
 Jr 7,29 —
 
+@@SPLIT:sense@@
 1.
 couronne (signe de consécration ; We^Skizzeu iii. 118^
 comparer syriaque קדשא [
@@ -40,6 +41,7 @@ en or Ex
 P
 ).
 
+@@SPLIT:sense@@
 2. chevelure de femme (à l'origine probablement la longue chevelure comme signe de consécration,
 comme
 dans le vœu de naziréat, comparer
@@ -48,6 +50,7 @@ Nb 6,19 ci-dessous, et נָזַיר aussi We^Sklzzen iii.
 107 ; Arab. Heidenthum 2, p. 143^
 RS^Semitic i. 464. 2d ed. 483^), Jr 7,29 (de Jérusalem personnifiée).
 
+@@SPLIT:sense@@
 3.
 consécration
 

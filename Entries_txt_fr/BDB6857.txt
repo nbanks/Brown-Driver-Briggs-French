@@ -13,6 +13,7 @@ hébreu biblique
 jeune homme, homme dans la fleur de l'âge (développement des divers sens à partir de la √ pas entièrement clair,
 comparer Nö^ZMG xi (1886), 735^)) ; —
 
+@@SPLIT:stem@@
 Qal
 Participe
 פֹּתֶה
@@ -21,6 +22,7 @@ possiblement celui qui est ouvert quant aux lèvres, mais voir
 פָּתָה
 dénominatif ci-dessous
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait 3 masculin singulier jussif ׳
 יַפְתְּ א

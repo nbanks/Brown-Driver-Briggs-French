@@ -24,6 +24,7 @@ Dt 17,8 construit
 Jb 13,6 —
 querelle, dispute :
 
+@@SPLIT:sense@@
 1. en paroles, Ex 17,7 (
 J
 ), Dt 1,12
@@ -57,6 +58,7 @@ Jr 15,10 (+
 ׳
 א).
 
+@@SPLIT:sense@@
 2. d'hostilités publiques 2 S 22,44 = Ps 18,44, comparer אִישׁ רִיב
 Jg 12,2,
 
@@ -67,6 +69,7 @@ Es 41,11
 חָמָס
 Ps 55,10.
 
+@@SPLIT:sense@@
 3. spécialement dispute, controverse, cause en justice :
 Ex 23,2 ; Ex 23,3 ; Ex 23,6 (
 
@@ -102,6 +105,7 @@ Jb 31,35
 =
 accusateur.
 
+@@SPLIT:sense@@
 4.
 plaidoyer :
 Pr 18,17

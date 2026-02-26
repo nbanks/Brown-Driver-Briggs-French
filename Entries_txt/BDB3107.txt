@@ -9,6 +9,8 @@ anger, Nö^ZMG 1893, 98. 103^; Arabic
 [placeholder1959: Placeholders/1959.gif]
 burning sensation, in throat, etc., from rage and pain) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 ׳
@@ -218,6 +220,8 @@ J
 Note:
 חרה not in HP (who use קצף); nor in Jeremiah, Ezekiel, Isa^2^, Proverbs or poetry of Job.
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect
 נִחֲרוּֿ followed by בְּ
@@ -233,6 +237,8 @@ Isa 41:11,
 so Isa 45:24
 .
 
+@@SPLIT:stem@@
+
 Hiph`il
 Perfect
 הֶחֱרָה הֶחֱזִיק
@@ -246,6 +252,8 @@ omit החרה; probably dittograph; Imperfect
 Job 19:11
 
 and kindled his anger against me.
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Imperfect

@@ -10,6 +10,7 @@ presser, pousser (Mishna id., araméen
 [placeholder194: Placeholders/194.gif]
 selle) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 Pr 16,26

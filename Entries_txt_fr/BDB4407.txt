@@ -9,6 +9,7 @@ aiguiser ; arabe
 [placeholder2819: Placeholders/2819.gif]
 frapper, tapoter) ; —
 
+@@SPLIT:stem@@
 Qal
 Imparfait
 יִלְטוֺשׁ
@@ -36,6 +37,7 @@ figuré עֵינַיִם לִי
 Jb 16,9 mon
 ennemi aiguise son œil contre moi
 
+@@SPLIT:stem@@
 Pu`al
 Participe
 תַּעַר מְלֻטָּשׁ

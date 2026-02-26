@@ -3,6 +3,8 @@ Biblical Hebrew
 
 בֵּית לֶ֫חֶם_41_
 
+@@SPLIT:sense@@
+
 proper name [of a location]
 1.
 in Judah (place of bread (food), modern Arabic
@@ -43,6 +45,8 @@ Beit Laµm
 Bd^Pal 123^
 Survey^iii. 28, 83^
 Guérin^Judée i. 120-206.^
+
+@@SPLIT:sense@@
 
 2.
 בֵּית לָ֑חֶם in Zebulun Josh 19:15 perhaps also Judg 12:8; Judg 12:10 =

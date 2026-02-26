@@ -17,12 +17,14 @@ DHM^ZMG, 1883, 15^
 CIS^iv, 10^ ; arabe
 [placeholder2375: Placeholders/2375.gif] est rendre unique, rendre un, ou un nombre impair) —
 
+@@SPLIT:stem@@
 Qal
 Participe
 הַיּוֺתֵר
 1 S 15,15
 le restant.
 
+@@SPLIT:stem@@
 Niph`al
 rester, être en surplus ; Parfait
 נוֺתַר
@@ -133,6 +135,7 @@ P
 ),
 1 R 20,30 (deux fois dans le verset) ; 2 R 4,7 ; Ez 34,18 ; Ez 48,21 ; 2 Ch 31,10.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait
 הוֺתִיר

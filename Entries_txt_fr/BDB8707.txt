@@ -14,6 +14,7 @@ Ne 4,17 pluriel
 2 Ch 23,10,
 etc. ; —
 
+@@SPLIT:sense@@
 1.
 projectile, arme, Ne 4,11 et v.Ne 4,17 (où הַמַּיִם corrompu ; lire probablement
 בִּימִינוֺ ou בְּיָדוֺ ; voir Ryle BeRy
@@ -25,6 +26,7 @@ Jb 36,12
 (périr par ou < se ruer sur [et périr]), Jl 2,8 (voir בְּעַד
 ).
 
+@@SPLIT:sense@@
 2.
 pousse, rejeton (comparer [שְׁלוּחָה], et √ Ps 80,12 ; Jr 17,8), שְׁלָחַיִךְ
 פַּרְדֵּס

@@ -6,12 +6,14 @@ hébreu biblique
 [placeholder2979: Placeholders/2979.gif] ; arabe
 [placeholder2980: Placeholders/2980.gif] est sucer entièrement, diminuer, consumer) —
 
+@@SPLIT:stem@@
 Qal
 Imparfait
 וַיָּמֹ֫כּוּ
 Ps 106,43
 de l'Israël pervers
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait
 יִמַּךְ
@@ -19,6 +21,7 @@ Qo 10,18
 
 s'affaisser (en ruine) des poutres de la maison.
 
+@@SPLIT:stem@@
 Hoph`al
 Parfait
 וְהֻמְּכוּ

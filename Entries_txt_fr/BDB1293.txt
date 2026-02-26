@@ -12,6 +12,7 @@ Gn 1,5 + (toujours
 absolu) ; pluriel בְּקָרִים
 Jb 7,18 + 4 t. ; —
 
+@@SPLIT:sense@@
 1.
 matin (du moment, temps auquel, jamais durant lequel, anglais morning
 = matinée) : —
@@ -321,6 +322,7 @@ Ex 14,24
 1 S 11,11
 .
 
+@@SPLIT:sense@@
 2.
 lendemain, jour suivant (comparer allemand Morgen, morgen) sans article Ex 16,19
 ;

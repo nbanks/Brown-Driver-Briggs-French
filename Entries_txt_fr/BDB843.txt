@@ -41,6 +41,7 @@ Jg 6,25 ; Jg
 6,26 ; Jg 6,28
 ; Jg 6,30.
 
+@@SPLIT:section@@
 Pluriel
 אֲשֵׁרוֺת
 

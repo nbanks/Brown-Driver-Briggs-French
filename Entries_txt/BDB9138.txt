@@ -75,6 +75,8 @@ Deut 2:12 +
 Jer 28:13
 —
 
+@@SPLIT:sense@@
+
 1.
 under, beneath, Gen 7:19
 הַשָּׁמַיִם תַּחַת כָּלֿ
@@ -191,6 +193,8 @@ e.
 Mal 3:31
 .
 
+@@SPLIT:sense@@
+
 2.
 what is under one, the place in which one stands: hence as
 accusative,
@@ -281,6 +285,8 @@ Jer 22:8
 Deut 29:23; 1Kgs 9:8). So followed by infinitive Ps
 38:21b.
 
+@@SPLIT:sense@@
+
 3. as conjunction:
 
 a.
@@ -311,11 +317,13 @@ Num 25:13
 b.
 תַּחַת כִּי
 Deut 4:37
-(but ? read : וֶַתּחִי as end of Deut 4:36), Prov 1:29. compare
+(but ? read : וֶַתּחִי as end of Deut 4:36), Prov 1:29. compare
 עֵקֶב אֲשֶׁר (כִּיׅ.
 
 III.
 compounds: —
+
+@@SPLIT:sense@@
 
 1.
 אֶלתַּֿחַת, after a verb of motion:
@@ -341,6 +349,8 @@ Ezek
 
 b.
 into the place of, Lev 14:42.
+
+@@SPLIT:sense@@
 
 2.
 מִתַּחַת (= ὑπ’ ἐκ):

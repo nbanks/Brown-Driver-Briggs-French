@@ -71,12 +71,16 @@ Hos 5:15; Hos 10:2; Hos 14:1; Zech 11:5;
 Ezek 6:6 (but
 compare שָׁמֵם).
 
+@@SPLIT:stem@@
+
 Niph`al
 נֶאְשָׁמוּ
 suffer punishment
 Joel 1:18
 (si vera lectio; Me We and others נָשַׁמּוּ, √ שׁמם, compare Dr^on the
 passage^).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imperfect suffix הַאֲשִׁימֵם

@@ -5,6 +5,8 @@ Biblical Hebrew
 verb
 be dry, parched; —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 feminine singular לְשׁוֺנָם בַּצָּמָא נָשָׁ֑תָּה
 Isa 41:17 (on
@@ -12,6 +14,8 @@ dagesh forte affect. see Ges^«GKC:20i»§ 20i^); also figurative
 נָָֽשְׁתָה גְבוּרָתָם
 Jer 51:30,
 their might is dry, i.e. fails.
+
+@@SPLIT:stem@@
 
 Niph`al
 Perfect 3 plural consecutive וְנִשְּׁתומַֿיִם מֵהַיָּ֑ם

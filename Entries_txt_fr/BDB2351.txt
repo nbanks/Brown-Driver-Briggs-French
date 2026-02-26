@@ -12,6 +12,7 @@ Lv 24,2 féminin
 Ex 30,34 + 2
 t. ; —
 
+@@SPLIT:sense@@
 1. littéralement, pur, c.-à-d. non mélangé, exempt de substances étrangères, d'huile d'olive
 Ex 27,20 ;
 Lv 24,2, d'
@@ -23,6 +24,7 @@ et
 H
 ).
 
+@@SPLIT:sense@@
 2.
 figuré, pur, propre, juste (seulement Job, Proverbes) : — d'un homme Jb 8,6 (||
 יָשָׁר),

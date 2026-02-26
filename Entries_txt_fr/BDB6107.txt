@@ -4,6 +4,7 @@ hébreu biblique
 I. [עָלַם] verbe
 cacher (hébreu tardif id., espèces dérivées) ; —
 
+@@SPLIT:stem@@
 Qal
 Participe
 passif
@@ -11,6 +12,7 @@ passif
 Ps 90,8 comme
 substantif notre secret, c.-à-d. péché caché (|| עֲוֺנֹת).
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 être caché, de la sagesse, 3 féminin singulier נֶעֶלְמָה מֵעֵינֵי
@@ -43,6 +45,7 @@ Ps 26,4
 ceux qui se cachent, c.-à-d. leurs pensées ; dissimulateurs (||
 מְתֵי שָׁוְא).
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 masculin singulier הֶעְלִים
 2 R 4,27 3
@@ -83,6 +86,7 @@ pourquoi te caches-tu [׳
 י] ? c.-à-d. tes yeux (ainsi la plupart), ou pratiques-tu
 la dissimulation (= te caches-tu toi-même) ?
 
+@@SPLIT:stem@@
 Hithpa`el
 Parfait 2 masculin singulier consécutif וְהִתְעַלַּמְתָּ מֵהֶם
 Dt 22,1

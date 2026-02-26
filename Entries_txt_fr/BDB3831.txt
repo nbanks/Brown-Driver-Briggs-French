@@ -11,6 +11,7 @@ Ps 27,11 + 9
 t. ; מִישֹׁר
 Za 4,7 (voir Baer) + 12 t. ; —
 
+@@SPLIT:sense@@
 1.
 pays plat, plateau, plaine : antithèse הר(יםׅ
 1 R 20,23
@@ -35,6 +36,7 @@ Dt 3,10 ; Dt
 ; Jos 20,8 ;
 Jr 48,8 ; Jr 48,21.
 
+@@SPLIT:sense@@
 2.
 lieu plat (libre d'obstacles), figuré pour lieu de sécurité, de confort et de prospérité Ps 26,12
 ׳
@@ -45,6 +47,7 @@ Ps 27,11
 Ps 143,10
 .
 
+@@SPLIT:sense@@
 3.
 droiture (comparer מֵישָׁר
 2.), dans le gouvernement Ps 67,5

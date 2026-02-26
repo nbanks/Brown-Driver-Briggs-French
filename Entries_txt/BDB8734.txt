@@ -19,6 +19,8 @@ Ps 69:23 suffix
 שְׁמָֹיו
 Ps 55:21 —
 
+@@SPLIT:sense@@
+
 1.
 completeness in number, הָגְלָת שְׁלוֺמִים
 Jer 13:19
@@ -30,6 +32,8 @@ We^Amos^
 SS
 Buhl).
 
+@@SPLIT:sense@@
+
 2.
 safety, soundness, in body, אֵין שָׁלוֺם בַּעֲצָמַי
 Ps 38:4
@@ -38,6 +42,8 @@ Isa 38:17
 שָׁלוֺם אָהֳלֶ֑ךָ (Ges^«GKC:141c»§ 141c^)
 Job 5:24
 is safe, secure.
+
+@@SPLIT:sense@@
 
 3.
 welfare, health, prosperity:
@@ -146,6 +152,8 @@ Prov 3:2
 Job 15:21
 in time of prosperity.
 
+@@SPLIT:sense@@
+
 4.
 peace, quiet, tranquility, contentment, Isa 32:17 (|| וָבֶטַח הַשְׁקֵט);
 ׳
@@ -199,6 +207,8 @@ Jerome
 
 ) וּשְׁלָמִים
 peace-offerings, and שֻׁלְחָן v^a^).
+
+@@SPLIT:sense@@
 
 5.
 peace, friendship:
@@ -316,6 +326,8 @@ chastisement for our peace (but SS
 Buhl
 שִׁלֻּמֵינוּ).
 
+@@SPLIT:sense@@
+
 6.
 peace from war: (ל) ׳
 עשׂה שׁ
@@ -384,9 +396,11 @@ title), compare ׳
 זֶה שׁ
 Mic 5:4.
 
+@@SPLIT:sense@@
+
 7. as adjective שְׁמָֹיו
 Ps 55:21
-those at peace with him (read שֹׁלְמָיו
+those at peace with him (read שֹׁלְמָיו
 Bae
 Buhl
 Du, or שְׁלֵטָיו

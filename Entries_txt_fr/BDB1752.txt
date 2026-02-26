@@ -9,6 +9,7 @@ raser la tête, etc. ; comparer
 [placeholder1011: Placeholders/1011.gif]
 avaler) —
 
+@@SPLIT:stem@@
 Qal
 Imparfait
 יִגְרַע
@@ -65,6 +66,7 @@ absolu (si vera lectio) ; Co. lit אֶתְגָּרֶה, pour
 אֶגְרַע, pour des raisons internes ; d'autres : retirer (tes besoins) Sm (comparer Ez 16,27) ; retirer (mon œil) Ges
 Ke.
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 וְנִגְרַע consécutif Lv 27,18

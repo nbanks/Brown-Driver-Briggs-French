@@ -37,6 +37,8 @@ P
 H
 ; —
 
+@@SPLIT:sense@@
+
 1.
 
 time of an event, etc.
@@ -200,6 +202,8 @@ d. followed by clause with
 finite verb (in poetry or late) Deut 32:35; Job 6:17; 2Chr 20:22; 2Chr 24:11; 2Chr
 29:27 + (compare 2.c.).
 
+@@SPLIT:sense@@
+
 2.
 
 a.
@@ -316,11 +320,15 @@ d. as uncertain עֵת וָפֶגַע
 Eccl 9:11
 .
 
+@@SPLIT:sense@@
+
 3. = experiences, fortunes, plural אֱמוּנַת
 עִתֶּיךָ
 Isa 33:6; Ps 31:16
 הָעִתִּים אֲשֶׁר עָֽבְרוּ עָלָיו
 1Chr 29:30
+
+@@SPLIT:sense@@
 
 4.
 occurrence, occasions (= פַּעַם), רַבּוֺת עִתִּים

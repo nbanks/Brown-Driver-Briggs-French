@@ -12,6 +12,7 @@ Es 3,3 ; Jr 8,17 pluriel
 לְחָשִׁים
 Es 3,20. —
 
+@@SPLIT:sense@@
 1.
 charme de serpent
 Qo 10,11
@@ -20,9 +21,11 @@ Qo 10,11
 Es 3,3 (probablement
 plus général).
 
+@@SPLIT:sense@@
 2.
 charmes, amulettes, portés par les femmes, Es 3,20.
 
+@@SPLIT:sense@@
 3.
 murmure de prière, צָקוּן לַחַשׁ
 Es 26,16

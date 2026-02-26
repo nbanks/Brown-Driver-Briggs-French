@@ -3,7 +3,7 @@ hébreu biblique
 
 חֲנוֺךְ
 nom propre, masculin
-
+@@SPLIT:sense@@
 1.
 fils de Caïn
 Gn 4,17 (deux fois dans le
@@ -20,12 +20,14 @@ L
 
 Ενως.
 
+@@SPLIT:sense@@
 2. fils de Jéred (lignée de Seth), le pieux Hénoch, qui marcha avec Dieu et fut enlevé par lui Gn 5,18 ; Gn 5,19 ; Gn 5,21 ; Gn 5,22 ; Gn 5,23 ; Gn 5,24 ; 1 Ch 1,3
 
 ᵐ5
 
 Ενωχ.
 
+@@SPLIT:sense@@
 3.
 חֲנֹךְ un fils de Madian Gn 25,4 ; 1 Ch 1,33,
 
@@ -33,6 +35,7 @@ L
 
 Ενωχ.
 
+@@SPLIT:sense@@
 4.
 חֲנוֺךְ un fils de Ruben Gn 46,9 ; Ex 6,14 ; Nb 26,5 ; 1 Ch 5,3,
 

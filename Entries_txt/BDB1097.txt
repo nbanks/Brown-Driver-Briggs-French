@@ -11,6 +11,8 @@ bakû
 Zim^BP 23, 56^, Ethiopic
 [placeholder592: Placeholders/592.gif]) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 ׳
@@ -202,6 +204,8 @@ as proper name Judg 2:1
 ; Judg 2:5 see
 בֹּכִים
 below
+
+@@SPLIT:stem@@
 
 Pi`el
 Participle feminine singular מְבַכָּה

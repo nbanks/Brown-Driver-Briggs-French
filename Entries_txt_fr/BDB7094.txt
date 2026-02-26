@@ -22,14 +22,17 @@ Ez 41,26 + ;
 suffixe צַלְעֹתָיו
 Gn 2,21 + ; —
 
+@@SPLIT:sense@@
 1.
 côte de l'homme Gn 2,21 ; Gn 2,22 (
 J
 ).
 
+@@SPLIT:sense@@
 2.
 flanc de colline, c.-à-d. crête, ou terrasse 2 S 16,13.
 
+@@SPLIT:sense@@
 3.
 chambres latérales ou cellules (entourant le temple comme des côtes) 1 R 6,5 ; 1 R 6,6 (lire ׳
 הַצּ pour היצוע, voir [
@@ -38,15 +41,18 @@ chambres latérales ou cellules (entourant le temple comme des côtes) 1 R 6,5 ;
 , ainsi du temple d'Ézéchiel Ez 41,5 + 10 t. 41 (sur le texte voir Co
 Toy Krae).
 
+@@SPLIT:sense@@
 4.
 côtes de cèdre et de sapin, c.-à-d. planches, madriers (pluriel), du mur du temple 1 R 6,15 ;
 1 R 6,16
 sol 1 R 6,15
 .
 
+@@SPLIT:sense@@
 5.
 battants de porte 1 R 6,34.
 
+@@SPLIT:sense@@
 6. (dans
 P
 ) côté, de l'arche (אֶרוֺן) Ex 25,12 (deux fois dans le verset) ; Ex 25,14 = Ex 37,3 (deux fois dans le verset) ; Ex 37,5 du

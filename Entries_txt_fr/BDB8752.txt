@@ -6,6 +6,7 @@ hébreu biblique
 Esd 8,10)
 nom propre, masculin
 
+@@SPLIT:sense@@
 1.
 Lévites :
 
@@ -35,6 +36,7 @@ Kt
 Qr
 , Αλωθειμ,. Σαλωμ(ε)ιθ.
 
+@@SPLIT:sense@@
 2.
 מִית- fils (apparemment) de Roboam 2 Ch 11,20, Εμμωθ,
 A
@@ -47,6 +49,7 @@ A
 
 Σαλωμιθ.
 
+@@SPLIT:sense@@
 3.
 מִית- chef d'une famille post-exilique Esd 8,10, Σαλειμουθ, etc.
 

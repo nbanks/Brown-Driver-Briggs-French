@@ -4,6 +4,7 @@ hébreu biblique
 [חָכָה] verbe
 attendre, espérer —
 
+@@SPLIT:stem@@
 Qal
 Participe>pluriel construit חוֺכֵי
 Es 30,18
@@ -11,6 +12,7 @@ avec לְ
 attendant pour lui (׳
 י).
 
+@@SPLIT:stem@@
 Pi`el
 חִכָּה
 Jb 32,4

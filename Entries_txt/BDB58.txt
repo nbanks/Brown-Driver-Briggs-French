@@ -22,6 +22,8 @@ construct Gen 49:24
 Gen 31:46 +,
 etc.; — a stone (large or small).
 
+@@SPLIT:sense@@
+
 1. in natural state, used as pillow Gen 28:11; Gen 28:18 (
 E
 ); seat Exod
@@ -124,6 +126,8 @@ H
 q. v.); (see for other note-worthy stones
 9 below
 
+@@SPLIT:sense@@
+
 2.
 stone, as material, of tablets Exod 24:12; Exod 31:18; Exod 34:1 (plural) Exod 34:4 Exod 34:4 (
 J
@@ -189,6 +193,8 @@ stone-cutters
 compare 1Chr
 22:2.
 
+@@SPLIT:sense@@
+
 3.
 precious stones, generally with modifying word יְקָרָה
 ׳
@@ -239,11 +245,15 @@ modifier Exod 25:7
 P
 ).
 
+@@SPLIT:sense@@
+
 4.
 stones containing metal, = ore, Deut 8:9 (see Di
 ) Job 28:2
 compare Job
 28:3.
+
+@@SPLIT:sense@@
 
 5. a weight, originally stone (see Prov 27:3 compare English weight stone = 14 lb)
 אַבְנֵיכִֿיס
@@ -272,6 +282,8 @@ Lev 19:36
 Prov 11:1 hence
 also heavy mass of metal (lead) Zech 5:8.
 
+@@SPLIT:sense@@
+
 6.
 plummet
 Isa 34:11
@@ -282,6 +294,8 @@ made of metal הַבְּדִּיל
 הא
 Zech 4:10
 (conversely plummet from plumbum).
+
+@@SPLIT:sense@@
 
 7. objects like stones; particularly hail, explicitly, אַבְנֵי הַבָּרָד
 
@@ -303,6 +317,8 @@ E
 אַבְנֵיגִֿר
 Isa 27:9.
 
+@@SPLIT:sense@@
+
 8. in simile (mostly poetry) of sinking in water Exod 15:5 = Neh 9:11 motionlessness Exod 15:16 strength Job 6:12 firmness Job 41:16 solidity (of ice)
 Job 38:30 in
 prose, of commonness 1Kgs 10:27; 2Chr 1:15 also metaphor of one in fear 1Sam 25:37 (i.e. petrified
@@ -313,6 +329,8 @@ Exod 15:16 above); ׳
 Zech 9:16 (of
 ransomed Israel) — ׳
 א personified Hab 2:11 compare Hab 2:19 compare Ezek 13:11 (see 7 above)
+
+@@SPLIT:sense@@
 
 9. In topographic terms (nearly = proper name); אֶבֶן בֹּהַן
 Josh 15:6; Josh 18:17

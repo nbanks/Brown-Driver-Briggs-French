@@ -12,6 +12,8 @@ Lag^BN 26^] verbe
 [placeholder5531: Placeholders/5531.gif]
 perte d'enfants) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Parfait 1 singulier כַּאֲשֶׁר שָׁכֹלְתִּי שָׁכָ֑לְתִּי
 Gn 43,14 (
@@ -27,6 +29,8 @@ E
 singulier תִּשְׁכַּל מִנָּשִׁים אִמֶּ֑ךָ
 1 S 15,33
 ta mère sera privée d'enfants plus que (toutes les) femmes.
+
+@@SPLIT:stem@@
 
 Pi`el
 Parfait 3 féminin singulier שִׁכְּלָה
@@ -78,6 +82,8 @@ E
 ; + עֲקָרָה), animaux Gn 31,38 (
 E
 ) Jb 21,10 (2) de la vigne Ml 3,11.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Participe

@@ -3,6 +3,7 @@ hébreu biblique
 
 [יזן] verbe seulement
 
+@@SPLIT:stem@@
 Pu`al
 Participe pluriel מְיֻזָּנִים
 Jr 5,8
@@ -30,6 +31,7 @@ et très incertain).
 
 יון, √ de
 
+@@SPLIT:stem@@
 Pu`al
 Participe pluriel מְיֻוָּנִים
 Jr 5,8 Qr, voir [

@@ -20,6 +20,8 @@ Jos 7,5 ; Jb 41,17
 (douteux, voir ci-dessous), suffixe שְׁבָרֶיהָ
 Ps 60,4 —
 
+@@SPLIT:sense@@
+
 1.
 brisure de poterie Es 30,14, fracture d'un membre Lv 21,19 ;
 Lv 24,20 (
@@ -69,13 +71,19 @@ Bu conjecturent מִשְׁבְּרֵי יָם, Gie
 מִשִּׁנָּיו גִּבֹּרִים, Du
 מִשְׁמָרִים.
 
+@@SPLIT:sense@@
+
 2.
 fracas, So 1,10 (|| קוֺל צְעָקָה, יְלָלָה), Jr 50,22
 (|| מִלְחָמָה), Jr 51,54 (|| קוֺל זְעָקָה).
 
+@@SPLIT:sense@@
+
 3.
 interprétation d'un rêve, c.-à-d. sa solution (résolution du mystère) Jg 7,15
 (comparer GFM).
+
+@@SPLIT:sense@@
 
 4.
 הַשְּׁבָרִים

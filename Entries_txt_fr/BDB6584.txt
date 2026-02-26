@@ -22,12 +22,14 @@ Os 9,8 + ; pluriel
 פַּחִים
 Jr 18,22 + ; —
 
+@@SPLIT:sense@@
 1. littéral ׳
 יַעֲלֶה פ
 Am 3,5b (comme
 métaphore ; v:a supprimer ׳
 פ), Pr 7,23 ; Qo 9,12 (avec אָחוּז ; les deux en comparaison).
 
+@@SPLIT:sense@@
 2. habituellement figuré (parfois || מוֺקֵשׁ, רֶשֶׁת,
 צַמִּים) :
 

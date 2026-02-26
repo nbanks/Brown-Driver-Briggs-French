@@ -9,6 +9,8 @@ cut, determine, circumcise; Ethiopic
 [placeholder878: Placeholders/878.gif] Aramaic גְּזַר,
 [placeholder879: Placeholders/879.gif]) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 גָּזַר
@@ -46,6 +48,8 @@ accusative; indefinite subject), followed by מִן local
 
 6.
 decree (Aramaism, compare Biblical Aramaic) Job 22:28 with accusative
+
+@@SPLIT:stem@@
 
 Niph`al
 Perfect

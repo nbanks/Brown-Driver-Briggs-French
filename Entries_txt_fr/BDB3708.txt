@@ -10,6 +10,7 @@ Hpt
 KAT^2, Gloss i.^,
 COT^Gloss^) —
 
+@@SPLIT:stem@@
 Qal_328_
 Parfait
 ׳
@@ -502,6 +503,7 @@ Ps
 1,11
 .
 
+@@SPLIT:stem@@
 Niphal_45_
 Imparfait 2 masculin תִּוָּרֵא
 Ps 130,4
@@ -630,6 +632,7 @@ lieu de théophanie Gn 28,17 (
 E
 ).
 
+@@SPLIT:stem@@
 Pi`el. _5_
 Parfait 3 masculin suffixe יֵָֽרְאֻנִי
 

@@ -35,6 +35,7 @@ Nb 24,5 + ;
 אָהֳלֵיכֶם
 Jos 22,8 +, etc. —
 
+@@SPLIT:sense@@
 1.
 tente de nomade Ct 1,5 ; Jr 6,3 ; Jr 49,29
 ׳
@@ -57,6 +58,7 @@ de soldat 1 S 17,54 comparer Dr, Jr 37,10 ;
 Ps 19,5 ; Jl 2,16 voir
 RS^Kinship 168^).
 
+@@SPLIT:sense@@
 2.
 demeure, habitation ; Ps 91,10
 לְאֹהָלֶ֑ךָ
@@ -117,6 +119,7 @@ Ps 120,5
 א
 Ha 3,7.
 
+@@SPLIT:sense@@
 3.
 la tente sacrée utilisée dans le culte de Dieu ; הָאֹהֶל
 la tente ; מוֺעֵד

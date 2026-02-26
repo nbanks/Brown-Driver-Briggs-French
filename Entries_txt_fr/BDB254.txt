@@ -10,6 +10,7 @@ adverbe (comparer
 מֵאָז
 ) à ce moment-là, alors, qu'il exprime la durée ou le début (= alors, là-dessus).
 
+@@SPLIT:sense@@
 1. strictement temporel :
 a. du temps passé : — sans verbe Gn 12,6 ; Gn 13,7 ; Jos 14,11 ; 2 S 23,14 avec un parfait Gn 4,26 ; Ex 4,26 ; Jos 10,33 ; Jg 8,3 ; Jg 13,21 ;
 Jr 22,15
@@ -59,6 +60,7 @@ dans le verset) ; Jb
 33,16
 à בַּיּוֺם הַהוּא (de manière anomale) 1 Ch 16,7.
 
+@@SPLIT:sense@@
 2. exprimant une conséquence logique proprement dans l'apodose : — après אם (rare) pour
 une emphase particulière Es 58,14 ; Pr 2,5 ; Jb 9,31 = dans ce cas, après לוּ ou
 לוּלֵא

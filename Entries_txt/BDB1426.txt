@@ -12,6 +12,8 @@ prominence of forehead; compare perhaps also Assyrian
 gabâni
 , heights (?) Lotz^TP 133^) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 ׳
@@ -21,7 +23,7 @@ Perfect
 Ezek 31:5 (
 א = ה); גָּבַהְתָּ
 Ezek 31:10,
-גָּבְהוּ
+גָּבְהוּ
 Job 35:5 + 3 t.;
 Imperfect
 יִגְבַּהּ
@@ -71,6 +73,8 @@ Ezek 16:50
 ; Zeph
 3:11
 .
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect

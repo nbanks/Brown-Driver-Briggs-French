@@ -12,6 +12,7 @@ corde,
 mèche de cheveux ; peut-être aussi
 [placeholder3512: Placeholders/3512.gif] II. préparer un moyen d'atteindre quelque chose Lane^1284^) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier ׳
 ס
@@ -282,6 +283,7 @@ Kit
 Bu Löhr HPS
 .
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 masculin singulier נָסַב
 
@@ -359,6 +361,7 @@ contourner, longer, avec accusatif Jos
 2. passif être livré à (לְ
 ), au pouvoir de, Jr 6,12.
 
+@@SPLIT:stem@@
 Pi`el
 Infinitif construit
 סַבֵּב אֶתפְּֿנֵי הַדָּבָר
@@ -366,6 +369,7 @@ Infinitif construit
 14,20
 changer, transformer, l'aspect de l'affaire.
 
+@@SPLIT:stem@@
 Polel
 Imparfait 3 masculin singulier suffixe יְסֹבְבֵנִי
 
@@ -422,6 +426,7 @@ enfermer, envelopper, avec accusatif de personne Jon 2,4 ;
 Jon 2,6
 (des eaux).
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 masculin singulier הֵסֵב
 
@@ -596,6 +601,7 @@ Ps
 ceux qui m'encerclent (d'autres
 sous מֵסַב ci-dessous).
 
+@@SPLIT:stem@@
 Hoph`al
 Imparfait 3 masculin singulier
 יוּסָּ֑ב

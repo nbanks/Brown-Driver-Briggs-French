@@ -4,9 +4,13 @@ Biblical Aramaic
 [דְּקַק] verb
 be shattered, fall to pieces (Biblical Hebrew); —
 
+@@SPLIT:stem@@
+
 Pe`al
 Perfect 3 masculine plural דָּקוּ
 Dan 2:35.
+
+@@SPLIT:stem@@
 
 Haph`el
 break in pieces: Perfect 3 feminine singular הַדֶּ֫קֶת

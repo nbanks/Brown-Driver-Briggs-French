@@ -4,6 +4,7 @@ hébreu biblique
 כִּשֵּׁף
 verbe
 
+@@SPLIT:stem@@
 Pi`el
 dénominatif
 pratiquer la sorcellerie (assyrien

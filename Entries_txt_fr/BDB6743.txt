@@ -12,6 +12,7 @@ ouvrir les yeux, etc. ; syriaque
 [placeholder4290: Placeholders/4290.gif]
 fleurir ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier ׳
 פ
@@ -61,6 +62,7 @@ b. les yeux d'autrui Gn 21,19 ; 2 R 6,17 (deux fois dans le verset) ; 2 R 6,20
 2.
 ouvrir les oreilles = entendre Es 42,20 (sans comprendre ; figuré d'Israël).
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 pluriel consécutif וְנִפְקְחוּ
 Gn 3,5

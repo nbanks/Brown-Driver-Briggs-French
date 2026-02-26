@@ -22,6 +22,8 @@ go out, DHM in MV
 [placeholder2271: Placeholders/2271.gif] is be or become fair, beautiful, neat, clean,
 compare Nö^ZMG 1886, 725^) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 יָצָא
@@ -812,6 +814,8 @@ Isa 37:28
 +
 שִׁבְתְּךָ) = 2Kgs 19:27; Ps 121:8.
 
+@@SPLIT:stem@@
+
 Hiph`il_278_
 Perfect
 הוֺצִיא
@@ -1467,6 +1471,8 @@ servant of
 
 Isa 42:1;
 Isa 42:3.
+
+@@SPLIT:stem@@
 
 Hoph`al
 Perfect 3 feminine singular הוּצָ֑אָה

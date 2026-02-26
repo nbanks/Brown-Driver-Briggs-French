@@ -9,6 +9,7 @@ colère, Nö^ZMG 1893, 98. 103^ ; arabe
 [placeholder1959: Placeholders/1959.gif]
 sensation de brûlure, dans la gorge, etc., de rage et de douleur) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 ׳
@@ -218,6 +219,7 @@ J
 Note :
 חרה pas dans HP (qui utilisent קצף) ; ni dans Jérémie, Ézéchiel, Es^2^, Proverbes ou la poésie de Job.
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 נִחֲרוּֿ suivi de בְּ
@@ -233,6 +235,7 @@ Es 41,11,
 ainsi Es 45,24
 .
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait
 הֶחֱרָה הֶחֱזִיק
@@ -247,6 +250,7 @@ Jb 19,11
 
 et il enflamma sa colère contre moi.
 
+@@SPLIT:stem@@
 Hithpa`el
 Imparfait
 אַל תִּתְחַר

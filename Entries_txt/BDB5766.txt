@@ -22,6 +22,8 @@ Vrss
 ), עֶבְרֵיהֶם
 Exod 32:15 —
 
+@@SPLIT:sense@@
+
 1.
 region across or beyond anything (usually wady, river, or sea), mostly
 with preposition:בְּעֵבֶר אַרְנוֺן
@@ -205,6 +207,8 @@ Biblical Aramaic עֲבַר, and Dr^Intr (6)
 Compare late Assyrian
 ebir nari
 Schr^KB iv. 304, l. 7 from below; KAT 3. 188, 437^.
+
+@@SPLIT:sense@@
 
 2. (Opposite) side, side:
 הַלָּז

@@ -9,6 +9,8 @@ jaw; compare Arabic
 [placeholder2844: Placeholders/2844.gif]
 speak confusedly, utter indistinct sounds); — only
 
+@@SPLIT:stem@@
+
 Hiph`il
 Imperative masculine singular suffix causative, הַלְעִיטֵנִי
 Gen 25:30 (

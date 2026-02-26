@@ -7,6 +7,8 @@ se mettre en embuscade (arabe
 [placeholder394: Placeholders/394.gif]
 être rusé) —
 
+@@SPLIT:stem@@
+
 Qal
 Parfait
 וְאָרַב consécutif Dt 19,11 ; Jg 21,20
@@ -54,6 +56,8 @@ Esd 8,31 pluriel de ce singulier = embuscades Jr 51,12 singulier = lieu d'embusc
 (sens local)
 Jos 8,7.
 
+@@SPLIT:stem@@
+
 Pi`el
 Participe pluriel ceux qui sont en embuscade
 id quod
@@ -62,6 +66,8 @@ Participe
 מְאָֽרְבִים
 Jg 9,25
 (avec ל), 2 Ch 20,22 (avec עַל). ?
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imparfait

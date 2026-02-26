@@ -12,6 +12,7 @@ couper, interrompre ; hébreu tardif a שֶׁבֶת
 négligence, etc., araméen שִׁבְתָּא
 coût de la négligence) ; —
 
+@@SPLIT:stem@@
 Qal_27_
 Parfait 3 masculin singulier ׳
 שׁ
@@ -66,6 +67,7 @@ H
 שָׁבַת
 ] verbe dénominatif ci-dessous
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 masculin singulier נִשְׁבַּת
 Es 17,3
@@ -76,6 +78,7 @@ Ez 6,6
 Es 17,3
 .
 
+@@SPLIT:stem@@
 Hiphil_40_
 Parfait 3 masculin singulier הִשְׁבִּית
 Rt 4,14

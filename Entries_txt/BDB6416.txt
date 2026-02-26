@@ -5,6 +5,8 @@ II. [עָרַר] verb
 strip oneself
 (|| form of ערה, II. עור); —
 
+@@SPLIT:stem@@
+
 Qal
 Imperative
 עֹ֫רָה
@@ -16,13 +18,19 @@ Ew^§ 226 a^
 Du
 Di and others feminine plural, shortened from ערנה etc.).
 
+@@SPLIT:stem@@
+
 Po`. Perfect 3 plural עוֺרְרוּ אַרְמְנוֺתֶיהָ
 Isa 23:13
 they have laid bare (the foundations of) her palaces, i.e. destroyed
 them; so
 
+@@SPLIT:stem@@
+
 Pilpel
 Infinitive absolute +
+
+@@SPLIT:stem@@
 
 Hithpalpel
 Imperfect 3 feminine singular עַרְעֵר תִּתְעַרְעַר

@@ -9,6 +9,7 @@ souffrir (rare) ; assyrien
 , maladie, chagrin,
 Dl^Pr 181^) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 ׳
@@ -116,6 +117,7 @@ Qo 5,15 — sur Jr 4,31 voir
 חול
 .
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 1 singulier נֶחֱלֵיתִי
 Dn 8,27
@@ -152,6 +154,7 @@ Jr
 14,17 ; Jr 30,12 aussi (
 מַכָּה omis) Es 17,11.
 
+@@SPLIT:stem@@
 Pi`el
 Parfait
 חִלָּה
@@ -169,12 +172,14 @@ Pour d'autres formes du Pi`el voir II.
 חלה
 .
 
+@@SPLIT:stem@@
 Pu`al
 Parfait
 être rendu faible, 2 masculin singulier חֻלֵּיתָ
 Es
 14,10.
 
+@@SPLIT:stem@@
 Hithpa`el
 Imparfait
 וַיִּתְחָ֑ל
@@ -195,6 +200,7 @@ maladie simulée du corps
 2 S 13,6
 .
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 masculin singulier הֶחֱלִי
 Es
@@ -253,6 +259,7 @@ Hi-St qui lisent
 
 ils commencent la journée par la fièvre du vin).
 
+@@SPLIT:stem@@
 Hoph`al
 Parfait
 être rendu malade = blessé

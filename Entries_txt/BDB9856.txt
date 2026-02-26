@@ -4,6 +4,8 @@ Biblical Aramaic
 [קוּם] verb
 arise, stand (see Biblical Hebrew); —
 
+@@SPLIT:stem@@
+
 Pe`al
 Perfect 3 masculine singular קָם
 Dan 3:24, 3
@@ -50,10 +52,14 @@ participle as noun, those standing (there) Dan 7:16.
 5.
 endure, kingdom Dan 2:44.
 
+@@SPLIT:stem@@
+
 Pa`el
 set up, establish an ordinance (קְיָם): Infinitive
 לְקַיָּמָה
 Dan 6:8.
+
+@@SPLIT:stem@@
 
 Haph`el (K^§ 45, 4^) Perfect
 3 masculine singular הֲקֵים
@@ -118,6 +124,8 @@ Dan
 Dan 4:14;
 Dan 5:21; Dan
 6:2.
+
+@@SPLIT:stem@@
 
 Hoph`al
 Perfect 3 feminine singular הֳקִימַת (variants in

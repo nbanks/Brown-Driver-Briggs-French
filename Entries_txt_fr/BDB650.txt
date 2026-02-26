@@ -3,6 +3,8 @@ hébreu biblique
 
 אַף כִּי
 
+@@SPLIT:sense@@
+
 1.
 de plus
 Ez 23,40
@@ -10,10 +12,14 @@ Ez 23,40
 Ges
 quin imo, quin etiam).
 
+@@SPLIT:sense@@
+
 2. dans une question, vraiment (est-ce) que . . . ? Gn 3,1
 אַף כִּיאָֿמַר אֱלֹהִים
 vraiment, que Dieu a dit . . . ? c.-à-d. Dieu a-t-il vraiment dit . . . ?
 (comparer הַאַף ci-dessus).
+
+@@SPLIT:sense@@
 
 3. en référence à une phrase précédente (qui est souvent introduite par הֵן ou
 הִנֵּה), oui, que . . . ! c.-à-d. combien plus (ou

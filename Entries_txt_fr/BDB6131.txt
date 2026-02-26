@@ -24,6 +24,7 @@ Ex 36,38 +,
 Ex 27,10 +,
 etc. ; —
 
+@@SPLIT:sense@@
 1.
 pilier, soutenant une maison Jg 16,25 ; Jg 16,26 ; Jg 16,29
 piliers dans le tabernacle Ex 27,10 ; Ex 27,11 ; Ex 27,17 ; Ex 36,38 ; Nb 3,37 + 27 t. Exode, Nombres
@@ -42,6 +43,7 @@ Est 1,6 (dans le
 palais), Ct 5,15
 (comparaison).
 
+@@SPLIT:sense@@
 2. deux piliers de bronze — 1 R 7,15 ; 2 R 25,13 = Jr 52,17 — devant le temple 1 R 7,15 (deux fois dans le verset) + 14 t. 1 R 7, + 2 R 25,16 ; 2 R 25,17
 (deux fois dans le verset) =
 Jr 52,20 ; Jr 52,21 (deux fois dans le verset), Jr 27,19 ; 1 Ch 18,8 ; 2 Ch 3,15 ; 2 Ch 3,17 + 5 t. Chroniques ; peut-être l'un de ceux-ci était ׳
@@ -50,9 +52,11 @@ Jr 52,20 ; Jr 52,21 (deux fois dans le verset), Jr 27,19 ; 1 Ch 18,8 ; 2 Ch 3,15
 ע ici = emplacement, estrade
 Thes et autres ; deux piliers devant le temple d'Ézéchiel Ez 40,49.
 
+@@SPLIT:sense@@
 3.
 colonnes, montants, d'argent Ct 3,10 (litière).
 
+@@SPLIT:sense@@
 4.
 עָשָׁן
 ׳
@@ -95,6 +99,7 @@ Ex 14,24 (
 J
 ), tous des théophanies au temps de l'Exode.
 
+@@SPLIT:sense@@
 5.
 
 a.

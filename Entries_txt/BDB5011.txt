@@ -9,6 +9,8 @@ i. 388^; Arabic
 [placeholder3196: Placeholders/3196.gif]: is recreari, respirare, etc.
 Di^632^); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 וְנָהָה
@@ -18,6 +20,8 @@ followed by accusative of cognate meaning with verb; Imperative
 Ezek 32:18,
 followed byעַל
 concerning, for.
+
+@@SPLIT:stem@@
 
 Niph`al
 Imperfect

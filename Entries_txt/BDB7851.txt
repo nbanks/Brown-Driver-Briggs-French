@@ -4,6 +4,8 @@ Biblical Hebrew
 רְחֹבוֺת
 proper name [of a location]
 
+@@SPLIT:sense@@
+
 1.
 רְחֹבֹת עִיר near Nineveh Gen 10:11 (
 J
@@ -15,12 +17,16 @@ Gen 10:11
 .
 ^
 
+@@SPLIT:sense@@
+
 2.
 רְחֹבוֺת, name of well Gen 26:22 (
 J
 ), Εὐρυχωρία (compare interpretation of Gen 26:22); Palmer^Desert 296 f.^ identification with
 er-Ruµaibeh (in Wady R.) approximately 45 miles southwest of Hebron, north of
 latitude 31°.
+
+@@SPLIT:sense@@
 
 3.
 הַנָּהָר

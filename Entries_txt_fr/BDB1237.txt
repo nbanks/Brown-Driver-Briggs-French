@@ -11,6 +11,7 @@ brûler ;
 [placeholder654: Placeholders/654.gif]
 rechercher, collecter, glaner ; c'est apparemment le sens plus ancien) —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 féminin singulier בָּֽעֲרָה
 Nb 11,3 + 2 t.,
@@ -85,6 +86,7 @@ Ps 79,5 ; Es 30,27 (
 ׳
 שֵׁם י) Ml 3,19 (היום בא) ; de la colère humaine Est 1,12 sujet méchanceté Es 9,17.
 
+@@SPLIT:stem@@
 Pi`el
 Parfait
 בִּעֵר
@@ -153,6 +155,7 @@ Nb 24,22
 comparer רוּחַ בָּעֵר
 Es 4,4.
 
+@@SPLIT:stem@@
 Pu`al
 Participe
 מְבֹעָ֑רֶת
@@ -160,6 +163,7 @@ Jr
 36,22 — brûler (c.-à-d. être alimenté en feu), du brasero, הָאָח
 .
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait
 וְהִבְעַרְתִּ֫י

@@ -15,6 +15,7 @@ Ez 40,31 ;
 Ez 40,34 ;
 Ez 40,37
 
+@@SPLIT:sense@@
 1.
 montée d'une colline ou d'une montagne : vers une ville 1 S 9,11, vers les sépultures royales (à Jérusalem) 2 Ch 32,33
 הַזֵּיתִית
@@ -42,6 +43,7 @@ au sud de la vallée d'Akor, entre Jérusalem et Jéricho, comparer moderne Tel`
 I. גּוּר, II. חֶרֶס, לוּחִית, II. ציץ
 .
 
+@@SPLIT:sense@@
 2. d'escaliers Ez 40,31 ; Ez 40,34 ; Ez 40,37 vers un mur Ne 12,27
 מַעֵלֵה הַלִּוִיִּם
 Ne 9,4. p.111, 158,

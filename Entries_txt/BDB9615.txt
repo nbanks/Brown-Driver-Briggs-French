@@ -10,8 +10,12 @@ id.; Old Aramaic Palmyrene בנש
 Lzb^298^; Syriac
 [placeholder6045: Placeholders/6045.gif]; see also Biblical Hebrew [כָּנַס); —
 
+@@SPLIT:stem@@
+
 Pe`al
 Infinitive, לְמִכְנַשׁ, followed by ל accusative of person Dan 3:2.
+
+@@SPLIT:stem@@
 
 Hithpa`al
 Participle plural מִתְכַּנְּשִׁין (were) assembled

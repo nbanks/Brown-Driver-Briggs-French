@@ -8,6 +8,7 @@ Ps 52,4
 ) féminin
 rasoir, fourreau ; —
 
+@@SPLIT:sense@@
 1.
 
 a.
@@ -35,6 +36,7 @@ b. construit הַסֹּפֵר
 Jr 36,23
 = canif.
 
+@@SPLIT:sense@@
 2.
 fourreau, toujours suffixe de l'épée : בְּתַעְרָהּ
 2 S 20,8

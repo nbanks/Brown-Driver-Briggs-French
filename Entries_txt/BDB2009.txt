@@ -13,6 +13,8 @@ be rough, serve (from calcavit, Di
 [placeholder1201: Placeholders/1201.gif]
 threshold, vestibule) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular דָּרַךְ
 Num 24:17 + 6
@@ -142,6 +144,8 @@ bent bow
 Isa 21:15
 קַשְׁתֹֿתָיו דְּרֻכוֺת
 Isa 5:28.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect

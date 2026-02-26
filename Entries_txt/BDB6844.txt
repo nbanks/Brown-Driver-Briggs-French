@@ -5,11 +5,15 @@ Biblical Hebrew
 part, open wide (Late Hebrew פָּסַק, Aramaic פְּסַק,
 [placeholder4368: Placeholders/4368.gif], all cut, sever, cleave); —
 
+@@SPLIT:stem@@
+
 Qal
 Participle
 שֲֵֹׁק שְׂפָתָיו
 Prov 13:3 i.e.
 one talkative.
+
+@@SPLIT:stem@@
 
 Pi`el
 Imperfect 2 feminine singular וַתְּפַשְּׂקִי אֶתרַֿגְלַיִךְ

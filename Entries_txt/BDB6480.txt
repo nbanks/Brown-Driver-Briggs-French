@@ -4,6 +4,8 @@ Biblical Hebrew
 עָתִיד, [עָתוּד] adjective
 ready, prepared; —
 
+@@SPLIT:sense@@
+
 1. absolute עָתִיד לַכִּידוֺר
 Job 15:24 a
 king ready for the onset; plural עֲתִדִים לַיּוֺם
@@ -16,16 +18,22 @@ Kt
 
 עתודים).
 
+@@SPLIT:sense@@
+
 2.
 ready = skilled הָעֲתִידִים עֹרֵר
 Job 3:8
 those skilled in rousing Leviathan.
+
+@@SPLIT:sense@@
 
 3.
 prepared = impending (compare Late Hebrew = future), feminine plural
 וְחָשׁ עֲתִדֹת
 Deut 32:35
 the impending things are hastening (|| קָרוֺב יוֺם אֵידָם).
+
+@@SPLIT:sense@@
 
 4.
 prepared = stored up, ועתידתיהם

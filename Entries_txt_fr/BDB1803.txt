@@ -13,6 +13,7 @@ dabâbu
 , comploter, projeter,
 COT^Gloss^, comparer דִּבָּה) — seulement
 
+@@SPLIT:stem@@
 Qal
 Participe
 דּוֺבֵב שִׂפְתֵי יְשֵׁנִים

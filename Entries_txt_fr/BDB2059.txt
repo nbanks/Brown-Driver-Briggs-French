@@ -3,6 +3,7 @@ hébreu biblique
 
 הַגְרִי
 
+@@SPLIT:sense@@
 1.
 nom propre [d'un peuple] seulement pluriel הַגְרִים
 Ps 83,7
@@ -13,12 +14,14 @@ Ps 83,7
 (araméenne ? arabe ?) contre laquelle les Israélites de Transjordanie menèrent une guerre victorieuse ; voir conjecture douteuse quant à
 l'identification dans Glas^Skizze ii. 407.^
 
+@@SPLIT:sense@@
 2.
 adjectif [d'un peuple]
 d'un officier de David
 יָזִיז הַהַגְרִי
 1 Ch 27,31.
 
+@@SPLIT:sense@@
 3.
 nom propre, masculin
 père d'un des guerriers de David

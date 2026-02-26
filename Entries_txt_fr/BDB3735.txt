@@ -25,6 +25,7 @@ Ex 2,2 + 3 t. ;
 construit יַרְחֵי
 Jb 7,3 ; Jb 29,2 —
 
+@@SPLIT:sense@@
 1.
 mois, comme mesure de temps, pendant, ou dans lequel Ex 2,2 (
 E
@@ -42,6 +43,7 @@ Dt 21,13 ;
 2 R 15,13
 .
 
+@@SPLIT:sense@@
 2.
 mois du calendrier, avec nom יֶרַח זִו
 1 R 6,37

@@ -28,6 +28,7 @@ VB
 ; מוֺשְׁבוֺתֵיהֶם
 Ez 6,14 —
 
+@@SPLIT:sense@@
 1.
 
 a.
@@ -46,6 +47,7 @@ fait d'être assis = ceux qui sont assis, compagnie ou assemblée assise, מוֺ
 1 R 10,5
 (|| מַעֲמַד מְשָֽׁרְתָיו) = 2 Ch 9,4 ainsi Ps 1,1 ; Ps 107,32 (|| קהל).
 
+@@SPLIT:sense@@
 2.
 
 a.
@@ -132,10 +134,12 @@ Lv
 H
 ).
 
+@@SPLIT:sense@@
 3.
 situation d'une ville 2 R 2,19
 emplacement d'une image Ez 8,3.
 
+@@SPLIT:sense@@
 4.
 durée d'habitation
 Ex 12,40
@@ -144,6 +148,7 @@ Ex 12,40
 P
 ).
 
+@@SPLIT:sense@@
 5.
 collectif = ceux qui habitent, ׳
 כֹּל מוֺשַׁב וגו

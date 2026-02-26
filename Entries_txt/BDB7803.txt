@@ -11,6 +11,8 @@ be high, dialect of Oman (Jayakar^JA xxi. 813, 875^) and Zanzibar (Prä^ZMG xxxi
 רָם,
 [placeholder5006: Placeholders/5006.gif] (very often in derived species and derivatives )); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular consecutive וְרָם
 Deut 8:14 +; 3
@@ -153,6 +155,8 @@ J
 רָאמוֺת
 b.
 
+@@SPLIT:stem@@
+
 Po`lel
 Perfect 3 feminine singular suffix רֹמְמָ֑תְהוּ
 Ezek 31:4
@@ -259,6 +263,8 @@ Exod 15:2 accusative ׳
 
 Ps 34:4 (|| גִּדֵּל).
 
+@@SPLIT:stem@@
+
 Po`lal
 Imperfect 3 feminine plural תְּרוֺמַמְנָה
 Ps
@@ -280,6 +286,8 @@ extolled, of ׳
 י's name (compare Po`lel
 3), + ׳
 עַלכָּֿלבְּֿרָכָה וג.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 masculine singular הֵרִים
@@ -557,6 +565,8 @@ contribute, accusative of thing,
 35:9
 .
 
+@@SPLIT:stem@@
+
 Hoph`al
 Perfect 3 masculine singular
 הוּרָ֑ם
@@ -597,6 +607,8 @@ Hiph`il
 
 Dan 8:13
 .
+
+@@SPLIT:stem@@
 
 Hithpo`lel
 Imperfect 3 masculine singular

@@ -3,6 +3,8 @@ Biblical Hebrew
 
 אֶצְבּוֺן
 
+@@SPLIT:sense@@
+
 proper name, masculine
 1.
 אֶצְבֹּן a son of Gad (Samaritan אצבעון,
@@ -16,6 +18,8 @@ Num 26:16 (
 ᵐ5
 
 Ἀζενει, Ἀζαν), this shorter form less probable.
+
+@@SPLIT:sense@@
 
 2.
 אֶצְבּוֺן a grandson of Benjamin 1Chr 7:7 (

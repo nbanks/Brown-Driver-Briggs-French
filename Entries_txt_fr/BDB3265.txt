@@ -10,6 +10,7 @@ id. ; éthiopien
 [placeholder2053: Placeholders/2053.gif] est scrutari, examinare, voir Di^Lex,
 105^) —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier חַת
 Jr 50,2 3
@@ -104,12 +105,14 @@ Es 51,7
 
 (|| יָרֵא) Jr 1,17 ; Jr 10,2 (deux fois dans le verset).
 
+@@SPLIT:stem@@
 Niph`al
 Parfait seulement 3 masculin singulier וּמִפְּנֵי
 שְׁמִי נִחַת
 Ml 2,5
 et devant mon nom il est frappé de crainte (|| יָרֵא).
 
+@@SPLIT:stem@@
 Pi`el
 Parfait
 consterner, effrayer, 2 masculin singulier suffixe וְחִתַּתַּ֫נִי בַחֲלֹמוֺת
@@ -125,6 +128,7 @@ brisé, mais texte probablement erroné. Gie
 Qal
 1).
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 2 masculin singulier הַחִתֹּתָ
 Es

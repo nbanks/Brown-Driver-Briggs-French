@@ -3,6 +3,7 @@ araméen biblique
 
 [טְעֵם] verbe
 
+@@SPLIT:stem@@
 Pa`el
 nourrir (Pe`al proprement goûter, voir hébreu biblique) ; — Imparfait
 3 masculin pluriel, accusatif d'herbe + ל personne : יְמַעְ֑מוּן

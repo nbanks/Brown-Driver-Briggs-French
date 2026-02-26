@@ -11,10 +11,14 @@ leap,
 [placeholder4203: Placeholders/4203.gif]
 agile, etc.); —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 3 masculine plural וַיָּ֫פֹזוּ
 Gen 49:24, of
 arms.
+
+@@SPLIT:stem@@
 
 Pi`el
 shew agility, leap (in dance), Participle

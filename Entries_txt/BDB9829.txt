@@ -4,6 +4,8 @@ Biblical Aramaic
 [פְּתַח] verb
 open (see Biblical Hebrew); —
 
+@@SPLIT:stem@@
+
 Pe`al
 Passive participle feminine plural פְּתִיחָן
 Dan 6:11

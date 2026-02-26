@@ -17,6 +17,7 @@ Adler^PAOS Oct. 1888, xcix^. ; aussi dilûtu, seau, Id^ib^ ;
 dalâni
 COT^Gloss^) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 דָּלָה
@@ -39,6 +40,7 @@ Sta^§ 413 a^ ; autres avis dans De
 
 Now.
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 2 masculin singulier suffixe דִּלִּיתָ֑נִי
 Ps 30,2

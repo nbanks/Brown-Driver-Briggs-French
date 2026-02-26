@@ -18,6 +18,7 @@ Gn 47,9 + ;
 Ps 103,4 (
 Ges^«GKC:91»§ 91^ (2) R. 2), etc. ; —
 
+@@SPLIT:sense@@
 1.
 vie : physique Gn 27,46 ; Ex 1,14 (
 P
@@ -115,6 +116,7 @@ Gn 2,7 ; Gn 7,22 (
 J
 ).
 
+@@SPLIT:sense@@
 2.
 vie : comme bien-être et bonheur en la présence du roi Pr 16,15 comme consistant en félicité terrestre
 combinée (souvent) avec bénédiction spirituelle Dt 30,6 ; Dt 30,15 ; Dt 30,19 (deux fois dans le verset) ; Dt 30,20 ; Dt 32,47 ; Ps 30,6 ; Ps 133,3 ;
@@ -175,6 +177,7 @@ Pr 15,31
 Es 4,3
 inscrit pour la vie.
 
+@@SPLIT:sense@@
 3.
 subsistance, entretien :
 חַיִּים

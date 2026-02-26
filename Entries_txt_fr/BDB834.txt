@@ -7,12 +7,16 @@ ašâru
 
 Zim^BP 11^ ; arabe, araméen dans les dérivés) —
 
+@@SPLIT:stem@@
+
 Qal
 Impératif
 אִשְׁרוּ
 Pr 9,6
 אִשְׁרוּ בְדֶרֶךְ בִּינָה
 allez droit dans le chemin de l'intelligence.
+
+@@SPLIT:stem@@
 
 Pi`el
 Parfait
@@ -49,6 +53,8 @@ Gn 30,13
 J
 )
 Jb 29,11 ; Ps 72,17 ; Pr 31,28 ; Ct 6,9 ; Ml 3,12 ; Ml 3,15.
+
+@@SPLIT:stem@@
 
 Pu`al
 Imparfait

@@ -11,6 +11,8 @@ récolte, dans ׳
 [placeholder4673: Placeholders/4673.gif] est faiblir, désespérer ; hébreu tardif קִבָּץ = hébreu biblique) ;
 —
 
+@@SPLIT:stem@@
+
 Qal
 Parfait 3 masculin singulier ׳
 ק
@@ -79,6 +81,8 @@ le jugement de ׳
 1 S 28,1 (1 S 29,1 voir
 ci-dessus).
 
+@@SPLIT:stem@@
+
 Niph`al
 Parfait 3 pluriel נִקְבְּצוּ
 Jos 10,6 +, etc. ;
@@ -127,6 +131,8 @@ personne Es 56,8
 (|| אסף) lire תִּקָּבֵר
 Hi (pas Sm) Co
 Berthol Toy Krae.
+
+@@SPLIT:stem@@
 
 Pi`el_51_ Parfait 3 masculin singulier suffixe וְקִכֶּצְךָ
 Dt 30,3
@@ -196,11 +202,15 @@ Jl 2,6 voir
 פָּארוּר
 .
 
+@@SPLIT:stem@@
+
 Pu`al
 Participe
 מְקֻבֶּצֶת
 Ez 38,8
 (avec מִן) de la terre (pour le peuple) d'Israël
+
+@@SPLIT:stem@@
 
 Hithpa`el
 se rassembler (intransitif), être rassemblé.

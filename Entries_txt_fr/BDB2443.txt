@@ -4,6 +4,7 @@ hébreu biblique
 [זָרַב] verbe seulement
 Pu`al, sens douteux ; probablement (d'après le contexte) être brûlé, desséché —
 
+@@SPLIT:stem@@
 Pu`al
 Imparfait dans une proposition relative, בְּעֵת יְזָֹֽרְבוּ נִצְמָ֑תוּ
 Jb 6,17 (||

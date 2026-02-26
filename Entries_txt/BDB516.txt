@@ -6,6 +6,8 @@ be weak, languish (compare Arabic
 [placeholder263: Placeholders/263.gif]
 hope, expect).
 
+@@SPLIT:stem@@
+
 Qal
 Participle passive feminine מָה אֲמֻלָה
 לִכָּתֵךְ
@@ -13,6 +15,8 @@ how weak is thy heart!
 Ezek 16:30
 (but < Co
 מַהלִּֿי וְלִבְרִיתֵח);
+
+@@SPLIT:stem@@
 
 Pu`lal
 Perfect

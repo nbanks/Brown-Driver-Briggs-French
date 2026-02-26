@@ -17,6 +17,8 @@ enû
 anni
 is loan-word according to Bondi^80^); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular וְעָנוּ consecutive Jer 51:14
 Imperfect 3 masculine singular יַעַנֶה
@@ -53,6 +55,8 @@ the women sang, and said; יַעֲנוּ בַמְּחֹלוֺת לֵאמֹר
 1Sam 29:5 with
 accusative of thing laudation Ps 119:172 (compare || Ps 119:171). — Isa 14:22 see
 עון
+
+@@SPLIT:stem@@
 
 Pi`el intensive: Imperative
 עַנּוּלָֿהּ

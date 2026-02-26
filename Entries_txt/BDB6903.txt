@@ -24,8 +24,10 @@ compare
 [placeholder4408: Placeholders/4408.gif]
 young man); —
 
+@@SPLIT:stem@@
+
 Qal
-Perfect 3 masculine plural צבְאוּ
+Perfect 3 masculine plural צבְאוּ
 Exod 38:8; Zech 14:12
 Imperfect 3 masculine plural יִצְבְּאוּ
 Num 31:7
@@ -65,6 +67,8 @@ Exod 38:8 (twice in verse) (
 P
 ) 1Sam
 2:22.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Participle

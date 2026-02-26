@@ -8,6 +8,7 @@ karâtu
 , II. couper
 Dl^HWB 357^) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 ׳
@@ -248,6 +249,7 @@ pour מֵהֶם, c'est le plus simple et donne la construction habituelle ; Du
 suivi de Buhl, lit וַתִּכְרִי d'après
 Os 3,2.
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 masculin singulier נִכְרַת
 Jl 1,5 + 5
@@ -421,6 +423,7 @@ J
 2 S
 3,29.
 
+@@SPLIT:stem@@
 Pu`al
 Parfait
 כָּרַּת
@@ -436,6 +439,7 @@ Jg 6,28
 2.
 être abattu, ashéra Jg 6,28.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait
 הִכְרִית
@@ -635,6 +639,7 @@ laisser périr, מֵהַבְּהֵמָה (une partie) du bétail
 1 R
 18,5.
 
+@@SPLIT:stem@@
 Hoph`al
 Parfait
 ׳

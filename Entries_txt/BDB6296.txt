@@ -13,6 +13,8 @@ Mic 4:3 +; suffix
 עֲצוּמָיו
 Ps 10:10 —
 
+@@SPLIT:sense@@
+
 1.
 mighty, especially of people, strong in numbers (often || רַב
 , גָּדוֺל) Gen 18:18; Exod 1:9 + 3 t.
@@ -40,6 +42,8 @@ his mighty ones i.e. claws, of lion, so Ew
 De
 Che
 Bae and others).
+
+@@SPLIT:sense@@
 
 2.
 numerous, countless (all || רַב): Amos 5:12; Ps 35:18 as substantive =

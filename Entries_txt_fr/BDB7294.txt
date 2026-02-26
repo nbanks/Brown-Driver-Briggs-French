@@ -12,6 +12,7 @@ Gn 35,20 + ;
 suffixe קְבֻרָתוֺ
 Dt 34,6 + ; —
 
+@@SPLIT:sense@@
 1.
 tombe Gn 35,20 (deux fois dans le verset) ; Gn 47,30 ; Dt 34,6 ; 1 S 10,2 ; 2 R 9,28 ; 2 R 21,26 ; 2 R 23,30 ; Ez 32,23
 ; Ez 32,24
@@ -21,6 +22,7 @@ tombe Gn 35,20 (deux fois dans le verset) ; Gn 47,30 ; Dt 34,6 ; 1 S 10,2 ; 2 R 
 2 Ch 26,23
 ,
 
+@@SPLIT:sense@@
 2.
 sépulture, Es 14,20 ; Qo 6,3
 קְבוּרַת חֲמוֺר

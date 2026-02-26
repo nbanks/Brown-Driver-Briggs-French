@@ -4,6 +4,8 @@ Biblical Hebrew
 [שָׁלַךְ]_125_
 verb
 
+@@SPLIT:stem@@
+
 Hiph`il_112_
 throw, fling, cast (Phoenician שלד in compare proper name, meaning dubious;
 Arabic
@@ -211,6 +213,8 @@ see
 Job
 29:17
 out of his teeth I cast the prey.
+
+@@SPLIT:stem@@
 
 Hoph`al
 Perfect 3 masculine singular הֻשְׁלַח

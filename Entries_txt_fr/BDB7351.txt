@@ -11,6 +11,7 @@ Jb 8,13 + ; suffixe
 תִּקְוָתִי
 Jb 6,8 +, etc. ; —
 
+@@SPLIT:sense@@
 1.
 espérance, Jr 31,17 ; Lm 3,29 ; Jb 5,16 ; Jb 7,6 ; Jb 11,18 ; Jb 11,20 ; Jb 14,7 ; Jb 14,19 ; Jb 17,15a Jb 19,10 ; Ps 62,6 ; Pr 19,18
 ; Pr 26,12
@@ -25,8 +26,10 @@ Os 2,17
 Za 9,12
 (c.-à-d. avec espérance de délivrance).
 
+@@SPLIT:sense@@
 2. = fondement de l'espérance Jb 4,6 ; Ps 71,5 (comparer Ps 62,6).
 
+@@SPLIT:sense@@
 3.
 choses espérées, résultat, Ez 19,5 ; Ez 37,11 ; Jb 6,8 ; Jb 8,13 ; Jb 17,15b (mais lire טוֺבָתִי
 

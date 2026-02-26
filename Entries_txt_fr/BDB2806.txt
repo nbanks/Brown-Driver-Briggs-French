@@ -21,6 +21,7 @@ Ges
 SS qui considèrent comme = I. חלץ au sens de se dépouiller
 pour la bataille, expeditus) —
 
+@@SPLIT:stem@@
 Qal seulement Participe passif
 חָלוּץ
 Nb 32,21 + 7
@@ -85,6 +86,7 @@ guerriers (hommes équipés, Che
 
 hommes d'armes) de Moab.
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait 2 masculin pluriel תֵּחָֽלְצוּ
 Nb 32,20, 1
@@ -107,6 +109,7 @@ P
 ; Niph`al Impératif ici surprenant avec מֵאִתְּכֶם, voir
 Di).
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait) עַצְמֹתֶיךָָ יַחֲלִיץ
 Es 58,11

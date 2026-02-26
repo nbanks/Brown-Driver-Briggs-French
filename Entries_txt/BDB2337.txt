@@ -15,6 +15,8 @@ Sabean see SabDenkm^64^); perhaps also Sabean מזדודן
 great one, prince, e.g. Sab. Denkm.^89^
 ) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 feminine singular זָ֫דָה
 Jer 50:29 3
@@ -33,6 +35,8 @@ against
 ׳
 י
 hath she acted presumptuously.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 plural הֵזִידוּ

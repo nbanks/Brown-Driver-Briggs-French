@@ -17,6 +17,7 @@ Jg 11,36 + 5
 t. ; נְקָמֹת
 2 S 22,48 —
 
+@@SPLIT:sense@@
 1.
 vengeance de Dieu, absolu Ez 25,14
 ׳
@@ -66,6 +67,7 @@ avec לְ à qui ׳
 = Ps 18,48
 .
 
+@@SPLIT:sense@@
 2. d'Israël et de ses chefs מן
 ׳
 נקם נ
@@ -80,6 +82,7 @@ P
 עשׂה נ
 Ps 149,7.
 
+@@SPLIT:sense@@
 3. ennemis d'Israël absolu Lm 3,60
 עשׂה בנקמה ; Ez 25,15 de Jérémie מן
 ׳

@@ -8,6 +8,8 @@ sit, dwell (
 
 Syriac; see Biblical Hebrew ישׁב); —
 
+@@SPLIT:stem@@
+
 Pe`al
 
 1.
@@ -22,6 +24,8 @@ Dan 7:26.
 dwell, Participle plural absolute יָתְבִין
 Ezra 4:17 (
 ב location).
+
+@@SPLIT:stem@@
 
 Haph`el
 cause to dwell: Perfect 3 masculine singular הוֺתֵב

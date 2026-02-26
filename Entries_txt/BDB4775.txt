@@ -18,6 +18,8 @@ Dr^
 
 ^); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 ׳
@@ -580,6 +582,8 @@ E
 (compare Niph`al
 Josh 17:16; Zech 10:10).
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect
 נִמְצָא
@@ -617,10 +621,10 @@ Gen 44:9
 feminine singular תִּמָּצֵא
 Exod 22:3
 +;
-2 feminine singular תִּמּצְאִי
+2 feminine singular תִּמּצְאִי
 Ezek
 26:21
-3 masculine plural יִמּצְאוּן
+3 masculine plural יִמּצְאוּן
 Gen 18:29
 ;
 Gen 18:30
@@ -886,6 +890,8 @@ J
 
 E
 ), compare Zech 10:10 (also Qal Num 11:22; Judg 21:14).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 1 singular suffix הִמְצִיתִךָ

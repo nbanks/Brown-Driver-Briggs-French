@@ -9,6 +9,7 @@ Lv 23,24 + ;
 construit תְּרוּעַת
 Jr 4,19 + ; —
 
+@@SPLIT:sense@@
 1.
 alarme de guerre, cri de guerre, Jos 6,5 ; Jos 6,20 ; Jr 20,16 ; Ez 21,27 ; Am 1,14 ; Am 2,2 ; So 1,16 ; Jb 39,25
 מִלְחָמָה
@@ -26,6 +27,7 @@ J
 E
 ).
 
+@@SPLIT:sense@@
 2.
 sonnerie pour la marche : ׳
 תקע ת
@@ -56,6 +58,7 @@ P
 צִלְצְלֵי ת
 Ps 150,5.
 
+@@SPLIT:sense@@
 3.
 cri de joie avec élan religieux, 1 S 4,5 ; 1 S 4,6 (deux fois dans le verset) ; 2 S 6,15 = 1 Ch 15,28 ; 2 Ch 15,14 ; Esd 3,11 ;
 Esd 3,12 ;
@@ -72,6 +75,7 @@ Ps 27,6,
 יֹדְעֵי ת
 Ps 89,16.
 
+@@SPLIT:sense@@
 4.
 cri de joie, en général Jb 8,21 (|| שְׂחַוֺק).
 

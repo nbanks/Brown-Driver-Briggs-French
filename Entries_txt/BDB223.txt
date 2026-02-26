@@ -10,6 +10,8 @@ plural
 אוֺנִים
 Hos 9:4 —
 
+@@SPLIT:sense@@
+
 1.
 trouble, sorrow
 בֶּןאֿוֺנִי
@@ -42,6 +44,8 @@ intensive לֶחֶם אוֺנִים
 bread of trouble, sorrow, or mourning
 Hos 9:4.
 
+@@SPLIT:sense@@
+
 2.
 idolatry
 Hos 12:12;
@@ -62,6 +66,8 @@ Amos 1:5
 בַּחוּרֵי א read אוֺן, אֹן = On, Heliopolis Ezek 30:17
 — abstract for concrete = idols
 Isa 66:3.
+
+@@SPLIT:sense@@
 
 3.
 trouble of iniquity, wickedness, מְתֵי אָוֶן

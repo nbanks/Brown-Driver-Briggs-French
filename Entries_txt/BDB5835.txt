@@ -15,6 +15,8 @@ be profuse, IV. let down veil, or curtain, etc.;
 [placeholder3728: Placeholders/3728.gif]
 plentifulness); —
 
+@@SPLIT:stem@@
+
 Qal
 Participle
 סֶרַח הָעֹדֵף
@@ -26,6 +28,8 @@ of food
 Exod 16:23, of price of field Lev 25:27
 הָעֹדְפִים עַלֿ
 those over and above, Num 3:46; Num 3:49, compare Num 3:48 (no עַלֿ).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 masculine singular הֶעְדִּיף

@@ -13,6 +13,7 @@ Dt 1,12
 מַשָּׂאָם
 Nb 4,27 + 2 t. ; —
 
+@@SPLIT:sense@@
 1.
 charge, fardeau d'un âne Ex 23,5 (
 E
@@ -46,12 +47,14 @@ We
 Now
 GASm.
 
+@@SPLIT:sense@@
 2. nom verbal, élévation, seulement נַפְשָׁם
 ׳
 מ
 Ez 24,25
 l'élévation de leur âme, c.-à-d. ce vers quoi ils élèvent leur âme, le désir de leur cœur.
 
+@@SPLIT:sense@@
 3. nom verbal, porter, transporter, Nb 4,24 (+ לַעֲבֹד), 2 Ch 20,25 ;
 2 Ch 35,3 (
 בַּכָּתֵף), ainsi probablement 1 Ch 15,22 (deux fois dans le verset) ; 1 Ch 15,27 (comparer Be
@@ -60,6 +63,7 @@ les vases sacrés (souvent || עֲבֹדָה, פְּקֻדָּה) Nb 4,15 ; Nb 4
 עֲבֹדַת מ Nb 4,47, ׳
 מִשְׁמֶרֶת מ Nb 4,31 Nb 4,32.
 
+@@SPLIT:sense@@
 4. peut-être ce qui est porté, apporté, c.-à-d. tribut
 ׳
 כֶּסֶף מ

@@ -8,6 +8,7 @@ comparer Dl^Pr 21^
 Muss.-Arnolt^Hebraica. Oct. 1890, 67^ Jäger^BAS i. 473^) ;
 —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier וְהָרָה consécutif Ps 7,15 3 féminin singulier הָרָ֑תָה
 
@@ -98,6 +99,7 @@ Ps 7,15
 (sujet le méchant), comparer Jb 15,35 ; Es 59,4, ainsi aussi Es 59,13, lire הָרוֺ (Infinitif
 absolu) comparer Di.
 
+@@SPLIT:stem@@
 Pu`al
 Parfait 3 masculin singulier הֹרָה נָּ֑בֶר
 Jb 3,3
@@ -106,6 +108,7 @@ un homme a été conçu (Bö^ii. p. 103^
 Ba^NB 77 considèrent comme^
 Qal passif).
 
+@@SPLIT:stem@@
 Po.
 Infinitif absolu, concevoir, tramer, machiner
 הֹרוֺ וְהֹגוֺ

@@ -3,6 +3,7 @@ hébreu biblique
 
 I. [פָּאַר] verbe
 
+@@SPLIT:stem@@
 Pi`el
 embellir, glorifier ; — Parfait 3 masculin singulier suffixe פֵּאֲרָ֑ךְ
 (objet Israël) Es 55,5
@@ -13,6 +14,7 @@ Infinitif construit
 פָּאֵר Es 60,13 ; Esd 7,27 ainsi פָּאֵר עֲנָוִים בִּישׁוּעָה
 Ps 149,4.
 
+@@SPLIT:stem@@
 Hithpa`el
 1.
 se glorifier, avec עַל personne : = se vanter, Imparfait 3 masculin

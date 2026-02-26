@@ -9,6 +9,8 @@ burn (70 t. + בָּאֵשׁ, 2 t. + בְּמוֺאֵֿשׁ) (Late Hebrew (rare)
 Aramaic שְׂרַף (rare);
 [placeholder5345: Placeholders/5345.gif] is absorb, consume); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular ׳
 שׂ
@@ -136,6 +138,8 @@ P
 ); (2) as sacrifice, Jer 7:31; Jer 19:5 + ל dei Deut 12:31; 2Kgs 17:31
 .
 
+@@SPLIT:stem@@
+
 Niph`al
 Imperfect 3 masculine singular יִשָּׂרֵף
 Josh 7:15 +, 3
@@ -175,12 +179,16 @@ Lev 21:9 (
 H
 ).
 
+@@SPLIT:stem@@
+
 Pi`el
 Participle suffix מְסָֽרְפוֺ
 Amos 6:10
 his burner, usually one burning him, but probably
 burning spices for him, see Dr and compare
 Qal above
+
+@@SPLIT:stem@@
 
 Pu`al
 Perfect 3 masculine singular שֹׂרָ֑ף, of goat Lev 10:16

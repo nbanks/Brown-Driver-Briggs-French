@@ -6,6 +6,7 @@ hébreu biblique
 [placeholder5070: Placeholders/5070.gif] araméen רְכַךְ (dans les espèces dérivées et les dérivés),
 [placeholder5071: Placeholders/5071.gif], id.) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier רַךְ
 2 R 22,19 ;
@@ -30,6 +31,7 @@ Niph`al,
 חָלַק
 ).
 
+@@SPLIT:stem@@
 Pu`al
 Parfait 3 féminin singulier רֻכְּכָה
 Es 1,6
@@ -37,6 +39,7 @@ elle n'a pas été adoucie, amollie, avec de l'huile (d'une blessure,
 
 מַכָּךְ).
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 masculin singulier וְאֵל הֵרַךְ לִבִּי
 Jb 23,16

@@ -9,6 +9,8 @@ feed (
 ; Syriac
 [placeholder6001: Placeholders/6001.gif]; compare Biblical Hebrew); —
 
+@@SPLIT:stem@@
+
 Hithpe`el
 be fed: Imperfect
 יִתְּזִין (K^§ 45, 1 d^); so in Syriac W^CG 254^

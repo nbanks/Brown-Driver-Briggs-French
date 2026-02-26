@@ -14,13 +14,16 @@ Lzb^306^ Cooke^266^. — Est 1,1 + 28 t. ; pluriel מְדִינוֺת
 1 R 20,14 +
 23 t. ; — un district d'un empire,
 
+@@SPLIT:sense@@
 1. districts du royaume d'Achab avec des שׂרים à leur tête 1 R 20,14 ; 1 R 20,15 ; 1 R 20,17 ;
 1 R 20,19.
 
+@@SPLIT:sense@@
 2. de l'empire babylonien : Ez 19,8 ; Dn 8,2 (d'Élam) ; שָׂרָתִי בַּמְּדִינוֺת
 princesse parmi les provinces
 Lm 1,1 (de la Judée).
 
+@@SPLIT:sense@@
 3. de l'empire perse Est 1,1 + souvent ; dont l'une était la Palestine, Ne 1,3 les exilés de retour, בְּנֵי
 הַמְּדִינָה
 fils de la province
@@ -28,6 +31,7 @@ Esd 2,1 ; Ne 7,6 ayant
 רָאשֵׁי הַמְּדִינָה
 Ne 11,3.
 
+@@SPLIT:sense@@
 4. provinces en général Qo 2,8 ; Qo 5,7
 בְּמִשְׁמַנֵּי מְדִינָה
 dans les lieux fertiles de la province

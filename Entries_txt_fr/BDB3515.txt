@@ -8,6 +8,7 @@ Pi`el
 espérer (comparer hébreu tardif יִחוּל
 attente) ; —
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 féminin singulier נוֺחֲלָה
 Ez 19,5
@@ -38,6 +39,7 @@ comparer araméen
 qu'il avait été repoussé loin d'elle ; Co
 de façon plausible נוֺאֲלָה qu'elle avait agi follement).
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 2 masculin singulier suffixe יִחַלְתָּ֑נִי
 Ps
@@ -112,6 +114,7 @@ Ps 71,14.
 Ps
 119,49 (suffixe personne).
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait
 הוֺתַ֫לְתִּי

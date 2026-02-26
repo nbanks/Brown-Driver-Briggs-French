@@ -10,12 +10,14 @@ Esd 2,2 ; Est 2,5 + ;
 מָרְדֳּכָ֑י
 Est 2,22 + ; —
 
+@@SPLIT:sense@@
 1. compagnon de Zorobabel, selon Esd 2,2 = Ne 7,7.
 
 ᵐ5
 
 Μαραθχαιος, Μαρδοχαιος, etc. :
 
+@@SPLIT:sense@@
 2. cousin et père adoptif d'Esther Est 2,5 ; Est 2,7 ; Est 2,10 + 55 t. Esther.
 
 ᵐ5

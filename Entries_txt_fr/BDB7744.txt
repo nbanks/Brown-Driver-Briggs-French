@@ -6,6 +6,8 @@ verbe
 dénominatif
 aller à pied, circuler ; —
 
+@@SPLIT:stem@@
+
 Qal
 circuler (malicieusement, comme calomniateur
 ; comparer arabe
@@ -22,6 +24,8 @@ marcher vite), calomnier, Parfait 3 masculin singulier עַללֿשֹׁנוֺ
 Ps 15,3,
 il ne profère aucune calomnie sur sa langue (|| דֹּבֵר אֱמֶת
 Ps 15,2).
+
+@@SPLIT:stem@@
 
 Pi`el
 Imparfait 3 masculin singulier וַיְרַגֵּל
@@ -86,6 +90,8 @@ Gn 42,14 ; Gn 42,16 ; Gn 42,31 ; Gn
 42,34 (tous
 E
 ).
+
+@@SPLIT:stem@@
 
 Tiph`el, Parfait 1 singulier תִּרְגַּלְתִּי לְאֶפְרַיִם
 

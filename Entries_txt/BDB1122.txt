@@ -8,9 +8,11 @@ become old and worn out (Arabic
 [placeholder603: Placeholders/603.gif]
 id.) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
-בָּלְתָה
+בָּלְתָה
 Deut 8:4,
 בָּלוּ
 Deut 29:4 +;
@@ -28,6 +30,8 @@ of the heavens (with simile of garment) Isa 50:9; Ps 102:27
 אֲכָלוֺ עָשׁ); of an aged and decrepit woman Gen 18:12 (
 J
 ) אַחֲרֵי בְלֹתִי after I am worn out.
+
+@@SPLIT:stem@@
 
 Pi`el
 causative of Qal.
@@ -55,7 +59,7 @@ Qr
 here יְכַלּוּ
 complete, which perhaps is the true reading in both passages; compare Exod 5:13
 ;
-Job 36:11). — On ַבּלּוֺתֹּי
+Job 36:11). — On ַבּלּוֺתֹּי
 Ps 92:11
 , see below בָּלַל.
 

@@ -4,6 +4,8 @@ hébreu biblique
 [תָּפַר] verbe
 coudre ensemble (hébreu tardif id. ; araméen תְּפַר) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Imparfait 3 masculin pluriel וַיִּתְפְרוּ
 Gn 3,7 (
@@ -16,6 +18,8 @@ Infinitif construit
 עֵת לִתְפּוֺר
 Qo 3,6
 un temps pour coudre (opposé à קָרַע).
+
+@@SPLIT:stem@@
 
 Pi`el
 Participe comme substantif féminin pluriel מְתַפְּרוֺת

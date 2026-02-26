@@ -16,11 +16,13 @@ passer à côté, venir, avec
 [placeholder3711: Placeholders/3711.gif]
 tomber sur) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier עָדָה
 Jb 28,8 le
 lion féroce n'a pas avancé sur lui (c.-à-d. le chemin).
 
+@@SPLIT:stem@@
 Hiph`il
 Participe
 מַעֲדֶה בֶּגֶד

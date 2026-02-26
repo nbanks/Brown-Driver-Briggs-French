@@ -26,6 +26,7 @@ Jg 18,25 ;
 Pr 31,6 —
 amer :
 
+@@SPLIT:sense@@
 1. littéralement, de l'eau Ex 15,23 (
 J
 ) ; nourriture Pr
@@ -42,6 +43,7 @@ de la méchanceté Jr
 Es 5,20 (deux fois dans le
 verset) (opposé à מָתוֺק).
 
+@@SPLIT:sense@@
 2.
 figuré,
 

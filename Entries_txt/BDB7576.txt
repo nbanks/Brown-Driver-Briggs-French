@@ -14,7 +14,11 @@ Isa 1:21 +;
 construct קִרְיַת
 Num 21:28 +; —
 
+@@SPLIT:sense@@
+
 1. in general Deut 2:36; Deut 3:4.
+
+@@SPLIT:sense@@
 
 2. of specific towns, Hos 6:8 (גִּלְעָד,
 
@@ -47,6 +51,8 @@ Isa 22:2 (||
 עִיר
 הוֺמִיָּה), Isa 32:13.
 
+@@SPLIT:sense@@
+
 3. in Isa 24-26 collective, i.e. denoting various, representative, cities,
 תֹּהוּ
 ׳
@@ -64,6 +70,8 @@ Isa 25:2,
 ק
 Isa 26:5 so
 probably Hab 2:8; Hab 2:17.
+
+@@SPLIT:sense@@
 
 4. indefinite, Hab 2:12 (|| עִיר); Prov 29:8, עֹז
 ׳

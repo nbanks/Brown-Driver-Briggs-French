@@ -9,6 +9,7 @@ louer, faire l'éloge de, approuver ; sabéen חמדם
 en gratitude [louange] pour cela
 DHM^ZMG 1875, 595 ; 1876, 686^) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 ׳
@@ -79,6 +80,7 @@ participe passif collectif חֲמוּדוֺ
 Ps 39,12
 ses choses désirées, c.-à-d. choisies, de choix, désirables (voir Niph`al) ; ainsi probablement Jb 20,20.
 
+@@SPLIT:stem@@
 Niph`al
 Participe
 נֶחְמָד
@@ -103,6 +105,7 @@ Pr 21,20
 
 trésor désirable, c.-à-d. précieux.
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 1 singulier se délecter grandement
 וְיָשַׁ֫בְתִּי

@@ -13,6 +13,8 @@ Gen 35:4 construct
 נִזְמֵי
 Exod 32:2 +; —
 
+@@SPLIT:sense@@
+
 1.
 nose-ring (Syriac
 [placeholder3258: Placeholders/3258.gif]) woman's ornament, עַלאַֿפָּהּ
@@ -32,6 +34,8 @@ Isa 3:21 (||
 נ
 Prov 11:22
 .
+
+@@SPLIT:sense@@
 
 2.
 earring ornament of men and women, Gen 35:4, אֲשֶׁר בְּאָזְנֵיהֶם

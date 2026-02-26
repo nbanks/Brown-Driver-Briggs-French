@@ -7,6 +7,8 @@ prostrate (Late Hebrew סחף, Aramaic סְחַף
 sa—âpu
 , throw down, overwhelm); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 מָטָר סֹחֵף
@@ -14,6 +16,8 @@ Prov 28:3
 a prostrating rain (beating down grain), וְאֵין
 לָ֑חֶם
 and (so) there is no bread.
+
+@@SPLIT:stem@@
 
 Niph`al
 Perfect 3 masculine singular נִסְחַף אַבִּירֶיךָ

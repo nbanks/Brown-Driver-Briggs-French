@@ -18,6 +18,7 @@ Jr 52,32
 suffixe טוֺבֹתָיו
 Ne 6,19 —
 
+@@SPLIT:sense@@
 1.
 bien-être, prospérité, bonheur : || שׁלום
 Dt 23,7 ; Jr 33,9 ; Esd 9,12 ;
@@ -62,6 +63,7 @@ Qo 6,3 après
 נחם על
 Jr 18,10.
 
+@@SPLIT:sense@@
 2.
 bonnes choses (collectif) :
 
@@ -80,6 +82,7 @@ b. de biens matériels ׳
 Qo 5,10
 quand les biens augmentent.
 
+@@SPLIT:sense@@
 3.
 bonté, bien
 שְׁנַת טוֺבָתֶ֑ךָ

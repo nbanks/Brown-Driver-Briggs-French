@@ -11,6 +11,7 @@ côté, bord,
 [placeholder673: Placeholders/673.gif]
 terrain où se trouvent des pierres tranchantes (comparer Lane)) —
 
+@@SPLIT:stem@@
 Qal
 Imparfait
 יִבְצֹר
@@ -78,6 +79,7 @@ Sm
 Co
 בְּתוֺכָהּ, sans doute correct.
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait
 יִבָּצֵר
@@ -85,6 +87,7 @@ Imparfait
 Gn 11,6 (
 מֵהֶם), Jb 42,2 (מִמְּךָ).
 
+@@SPLIT:stem@@
 Pi`el
 Imparfait 3 féminin singulier תְּבַצֵּר
 Jr 51,53

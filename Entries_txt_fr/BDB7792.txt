@@ -7,6 +7,7 @@ hébreu biblique
 [placeholder4992: Placeholders/4992.gif] araméen רְוִי,
 [placeholder4993: Placeholders/4993.gif]) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 féminin singulier consécutif וְרָוְָֽתָּה
 מִדָּמָם
@@ -18,6 +19,7 @@ Ps 36,9 (Ges^«GKC:75u»§ 75u^) figuré des hommes (|| תַּשְׁקֵם
 Pr 7,18
 nous nous rassasierons d'amour (|| נִתְעַלְּסָה).
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 3 féminin singulier רִוְּתָה
 Es 34,5,
@@ -52,6 +54,7 @@ Jr 31,14
 יְרַוֻּךָ
 Pr 5,19.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 masculin singulier הִרְוָה
 Es 55,10,
@@ -73,6 +76,7 @@ d'Israël rassasiant ׳
 י, חֵלֶב זְבָחִים
 Es 43,24.
 
+@@SPLIT:stem@@
 Hoph`al
 Imparfait
 יוֺרֶא (יָרְוֶה ?) Pr 11,25 voir Toy et ירא p. 432.

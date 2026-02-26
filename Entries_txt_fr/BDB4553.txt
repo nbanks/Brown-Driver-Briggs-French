@@ -8,11 +8,13 @@ changer (hébreu tardif id., Hiph`il ; arabe
 [placeholder2925: Placeholders/2925.gif]
 acheter ou importer de la nourriture, Nö^ZMG xi. 1886, 154^) ; —
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 נָמָ֑ר (comme si de מרר) être changé, Jr 48,11 sujet
 רֵיחוֺ (du vin, figuré de Moab) ;
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait
 הֵמִיר
@@ -63,6 +65,7 @@ ci-dessus) ; sans objet Ez 48,14 (mais Ew
 Co
 יוּמַר, Hoph`al).
 
+@@SPLIT:stem@@
 Hoph`al
 Imparfait
 יוּמַר

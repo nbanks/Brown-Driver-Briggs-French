@@ -3,16 +3,24 @@ Biblical Hebrew
 
 I. [נָסִיךְ] noun masculine
 
+@@SPLIT:sense@@
+
 1.
 libation;
+
+@@SPLIT:sense@@
 
 2.
 molten image;
 —
 
+@@SPLIT:sense@@
+
 1. suffix יֵין נְסִיכָם
 wine of their drink-offering
 Deut 32:38.
+
+@@SPLIT:sense@@
 
 2.
 molten image, suffix נְסִכֵיהֶם

@@ -5,6 +5,8 @@ hébreu biblique
 être stupéfait, interdit (hébreu tardif id. ; ainsi araméen תְּמַהּ,
 [placeholder5831: Placeholders/5831.gif]) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Parfait 3 pluriel תָּמָ֑הוּ
 Ps 48,6
@@ -28,6 +30,8 @@ J
 ), Es 13,8
 .
 
+@@SPLIT:stem@@
+
 Hithpa`el
 Impératif masculin pluriel +
 Qal
@@ -36,6 +40,8 @@ Impératif
 תְּמָהוּ
 Ha 1,5 (voir
 ci-dessus), littéralement stupéfiez-vous, soyez stupéfaits mais We
+
+@@SPLIT:stem@@
 
 Hithpalpel
 הִתְמַהְמְהוּ ; Gr lit infinitif absolu

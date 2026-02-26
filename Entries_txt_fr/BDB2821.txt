@@ -8,6 +8,7 @@ lisse, vide, arabe
 [placeholder1791: Placeholders/1791.gif]
 rendre lisse, mentir, forger, fabriquer) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 ׳
@@ -40,6 +41,7 @@ Ps 55,22 c.-à-d.
 trompeuses (|| רַכּוּ דְבָרָיו
 מִשֶּׁמֶן).
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait
 הֶחֱלִיק

@@ -3,8 +3,8 @@ Biblical Hebrew
 
 II. אֵת, preposition
 with — with makkeph אֶתֿ, with suffix אִתִּי, אִתְּךָ
-, אִתְּכֶם etc. (also, however, אוֺתְךָ, אוֺתוֺ, and
-similarly מֵאוֺתְךָ, מֵאוֺתוֺ etc.), first in Josh 10:25; Josh 14:12, next 2Sam 24:24 then repeatedly (but
+, אִתְּכֶם etc. (also, however, אוֺתְךָ, אוֺתוֺ, and
+similarly מֵאוֺתְךָ, מֵאוֺתוֺ etc.), first in Josh 10:25; Josh 14:12, next 2Sam 24:24 then repeatedly (but
 not exclusively) 1 Ki 20 — 2 Ki 8, & in Jeremiah, Ezekiel, e.g. 1Kgs 20:25 (but 1Kgs 20:23
 אִתָּם) 1Kgs 22:7; 1Kgs 22:8; 1Kgs 22:24 (beside מֵאִתִּי) 2Kgs 1:15; 2Kgs 3:11; 2Kgs 3:12; 2Kgs 3:26; 2Kgs 6:16 (beside מֵאִתּוֺ
 ) 2Kgs 8:8;
@@ -32,6 +32,8 @@ to meet
 Ol^p. 431^
 Prät^ZMG '73, 643^
 Lag^M i. 226^).
+
+@@SPLIT:sense@@
 
 1. Of companionship, together with:
 Gen 6:13 behold, I
@@ -174,6 +176,8 @@ Ps
 143:2 (Isa
 3:14 and elsewhere עִם).
 
+@@SPLIT:sense@@
+
 2. Of localities, especially in the phrase אֲשֶׁר אֵת describing a site:
 Judg 3:19;
 Judg 4:11
@@ -200,6 +204,8 @@ etc.
 would be idiomatic, & for אִתּוֺ אֲשֶׁר
 Klo proposes plausibly אֶתאִֿשֹּׁוֺ (see Exod 30:20
 ).
+
+@@SPLIT:sense@@
 
 3.
 ׳
@@ -262,6 +268,8 @@ Gen 23:8
 2Kgs 10:15
 . compare עם
 4.b., which is more frequent in this sense.
+
+@@SPLIT:sense@@
 
 4.
 מֵאֵת (מֵאִתִּי, etc.; also -מֵאוֺת) from

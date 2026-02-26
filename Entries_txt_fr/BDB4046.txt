@@ -13,6 +13,7 @@ Aphel, Ithpeel ; arabe
 [placeholder2537: Placeholders/2537.gif] est blesser ;
 [placeholder2538: Placeholders/2538.gif] aussi parler à, converser avec) ; —
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 2 féminin singulier וְנִכְלַמְתְּ consécutif Jr 22,22 + 2 t. ; 1
 singulier נִכְלַמְתִּי
@@ -76,6 +77,7 @@ Ps
 40,15 ; Ps
 70,3.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 masculin singulier suffixe הִכְּלִמוֺ
 1 S
@@ -134,6 +136,7 @@ montrer de la honte
 Jr
 6,15 (|| בוֺשׁ).
 
+@@SPLIT:stem@@
 Hoph`al
 Parfait
 

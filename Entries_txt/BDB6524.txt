@@ -10,6 +10,8 @@ padû
 [placeholder4168: Placeholders/4168.gif]; Minaean פדית
 redeemed or purchased land Mordt^Beitr. 23^); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular פָּדָה
 Lev 27:27 +;
@@ -143,6 +145,8 @@ Ps
 Jer 15:21
 .
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect 3 feminine singular (+
 Hoph`al
@@ -154,10 +158,14 @@ Lev 27:29
 (from ban); 3 feminine singular צִיּוֺן בְּמִשְׁפָּט תִּפָּדֶ֑ה
 Isa 1:27.
 
+@@SPLIT:stem@@
+
 Hiph`il
 Perfect 3 masculine singular suffix וְהֶפְדָּהּ
 Exod 21:8
 he shall let her be ransomed.
+
+@@SPLIT:stem@@
 
 Hoph`al
 Infinitive absolute see

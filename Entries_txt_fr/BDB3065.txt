@@ -12,6 +12,7 @@ Es 37,27 =
 2 R 19,26 ;
 Ps 129,6 —
 
+@@SPLIT:sense@@
 1.
 herbe, comme nourriture pour les animaux 1 R 18,5 ; Jb 40,15 ; Ps 104,14 ; Ps 147,8 ; Pr 27,25 (|| דֶּשֶׁא
 et עֵשֶׂב), Es 15,6 (|| דֶּשֶׁא et יֶרֶק) ; spécifiquement
@@ -28,6 +29,7 @@ Che) ; sur Es 35,7 voir I.
 
 ci-dessus
 
+@@SPLIT:sense@@
 2. comme type de ce qui périt rapidement Jb 8,12, d'où figuré des ennemis périssant חֲצִיר גַּגּוֺת
 
 Es 37,27 =

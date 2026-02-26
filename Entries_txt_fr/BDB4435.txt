@@ -21,6 +21,7 @@ bégayer, arabe
 [placeholder2840: Placeholders/2840.gif]
 id.)) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 féminin singulier לָֽעֲגָה
 2 R 19,21 ;
@@ -62,6 +63,7 @@ Ps 80,7 (lire
 
 ), comparer (absolu) Jb 11,3.
 
+@@SPLIT:stem@@
 Niph`al
 Participe
 עַם ֗֗֗ נִלְעַג לָשׁוֺן
@@ -70,6 +72,7 @@ un peuple bégayant de langue (c.-à-d. barbares, comparer v^a^ ; mais lire
 נעלג [√ עלג] Gr^Monatsschr. 1884, 45^
 ; || עִמְקֵי שָׂפָה).
 
+@@SPLIT:stem@@
 Hiph`il (tardif ; comparer hébreu tardif) Imparfait 3 masculin singulier
 וַיַּלְעֵג
 Ne 3,33 2

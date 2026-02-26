@@ -12,6 +12,7 @@ Dt 32,3 ; Jb 11,4
 לִקְחָהּ
 Pr 7,21 —
 
+@@SPLIT:sense@@
 1.
 instruction, subjectif, comme acquis personnel ; יִלְמְדוּ לֶ֑קַח
 Es 29,24,
@@ -20,6 +21,7 @@ ils apprendront l'instruction (|| בִּינָה) ; וְיוֺסֶף לֶ֑קַ�
 Pr 1,5 un homme sage
 entendra et augmentera (son) instruction, ainsi Pr 9,9.
 
+@@SPLIT:sense@@
 2.
 enseignement, objectif, comme chose enseignée, יַעֲרֹף כַּמָּטָר
 לִקְחִי

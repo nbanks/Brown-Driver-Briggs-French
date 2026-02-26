@@ -10,6 +10,8 @@ the lyre; Aramaic נְדַף = Late Hebrew; Ethiopic
 [placeholder3191: Placeholders/3191.gif]
 throw, hurl); —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect suffix יִדְּפֶנּוּ
 Job 32:13
@@ -20,6 +22,8 @@ Ps 68:3 —
 drive about, chaff, subject wind Ps 1:4 wicked, subject God Ps 68:3 (כְּהִנְדֹּף עָשָׁן, see below);
 compare Job 32:13
 (= defeat, anguish).
+
+@@SPLIT:stem@@
 
 Niph`al
 Perfect

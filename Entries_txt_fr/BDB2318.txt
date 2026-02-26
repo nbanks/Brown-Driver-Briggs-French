@@ -17,6 +17,7 @@ Es 64,3 ; Rt 4,4,
 זוּלָתָהּ
 1 S 21,10 —
 
+@@SPLIT:sense@@
 1.
 préposition
 excepté, outre, littéralement avec éloignement de . . . (synonyme
@@ -45,6 +46,7 @@ précède, ׳
 
 sauf une voix = (il n'y avait) qu'une voix, 1 R 3,18.
 
+@@SPLIT:sense@@
 2. conjonction Jos 11,13
 sauf qu'il brûla Hatsor seule.
 

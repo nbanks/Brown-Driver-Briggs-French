@@ -11,10 +11,14 @@ Deut 9:4 +; suffix
 רִשְׁעָתוֺ
 Deut 25:2 +; —
 
+@@SPLIT:sense@@
+
 1.
 wickedness in civil relations, Deut 25:2; Prov 13:3; Isa 9:17
 בְּרִשׁעָתוֺ יפל רָשָׁע
 Prov 11:5.
+
+@@SPLIT:sense@@
 
 2.
 wickedness of enemies, ׳
@@ -27,6 +31,8 @@ Zech 5:8
 Ezek 5:6 (strike
 out Co); רִשְׁעַת הגרים
 Deut 9:4; Deut 9:5.
+
+@@SPLIT:sense@@
 
 3.
 wickedness, ethical and religious, ׳

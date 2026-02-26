@@ -18,11 +18,15 @@ remainder, Nabataean שארית, see
 Lzb^371^
 SAC^110^); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular ׳
 שׁ
 1Sam 16:11 the
 youngest still remains.
+
+@@SPLIT:stem@@
 
 Niph`al_93_
 Perfect 3 masculine singular נִשְׁאַר
@@ -166,6 +170,8 @@ Gen 42:38
 J
 ), compare Isa 49:21; Dan 10:8 of widow Ruth 1:3 + מִן of the dead
 Ruth 1:5.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 masculine singularהִשְׁאִיר

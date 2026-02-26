@@ -8,6 +8,7 @@ Pr 14,23
 ^
 abondance, prééminence ; —
 
+@@SPLIT:sense@@
 1.
 abondance, profusion
 מוֺתָ֑ר
@@ -15,6 +16,7 @@ Pr 14,23
 ; Pr 21,5
 (dans les deux opposé à מַחְסוֺר).
 
+@@SPLIT:sense@@
 2.
 prééminence, supériorité, מוֺתַר הָאָדָם מִןהַֿבְּהֵמָה אָ֔יִן
 Qo 3,19

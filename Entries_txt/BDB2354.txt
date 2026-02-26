@@ -16,6 +16,8 @@ name ידֿכראל
 DHM^Epigr. Denkm. 43^, but Ethiopic
 [placeholder1478: Placeholders/1478.gif]) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular ׳
 ז
@@ -449,6 +451,8 @@ of Jerusalem) Ps
 137:7 (+ לִבְנֵי אֱדוֺם
 , i.e. against them).
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect 2 masculine plural consecutive וְנִזְכַּרְתֶּם
 Num 10:9
@@ -557,6 +561,8 @@ be remembered, of particular days, in order to be observed, commemorated, Esth
 9:28
 (followed by וְנַעֲשִׂים
 observe, celebrate).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 masculine singular הִזְכִּיר

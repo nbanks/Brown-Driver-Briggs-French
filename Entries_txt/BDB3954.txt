@@ -5,6 +5,8 @@ Biblical Hebrew
 noun feminine
 arrangement, preparation, fixed place; —
 
+@@SPLIT:sense@@
+
 1.
 arrangement, disposition
 תְּכוּנָתוֺ
@@ -15,10 +17,14 @@ Ezek 43:11
 
 Manuscripts)
 
+@@SPLIT:sense@@
+
 2.
 preparation, וְאֵין קֶצֶה לַתְּכוּנָה
 Nah 2:10
 and no end to the preparation (i.e. things prepared, supply, store).
+
+@@SPLIT:sense@@
 
 3.
 fixed place, i.e. dwelling-place, of God (= מָכוֺן) תְּכוּנָתוֺ

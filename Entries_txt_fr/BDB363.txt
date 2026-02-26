@@ -6,14 +6,17 @@ assyrien
 ekiam
 ) adverbe
 
+@@SPLIT:sense@@
 1.
 interrogatif
 De quelle manière ?
 τίνι τρόπῳ ; (un peu plus précis que אֵיח = πῶς) ; Dt 1,12 ; Dt 7,17 ; Dt 12,30 ; Dt 18,21 ; Dt 32,30 ; Jg 20,3 (phrase indirecte) 2 R 6,15 ; Jr 8,8 ; Ps 73,11.
 
+@@SPLIT:sense@@
 2. exclamation Comment ! (légèrement plus emphatique que אֵיח) Es 1,21 ; Jr 48,17 ;
 Lm 1,1 ; Lm 2,1 ; Lm 4,1 ; Lm 4,2.
 
+@@SPLIT:sense@@
 3. Où ? (proprement Israël du Nord ; comparer araméen אֵיכָא,
 [placeholder171: Placeholders/171.gif]
 où ? comparer Dr^Intr. 178, 421^) seulement

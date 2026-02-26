@@ -5,6 +5,8 @@ hébreu biblique
 dénominatif
 réparer, restaurer, seulement
 
+@@SPLIT:stem@@
+
 Qal
 Infinitif construit
 לִבְדוֺק וּלְחַזֵּק הַבָּ֑יִת

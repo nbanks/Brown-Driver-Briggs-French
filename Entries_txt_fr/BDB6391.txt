@@ -3,6 +3,7 @@ hébreu biblique
 
 I. [עָרַם] verbe
 
+@@SPLIT:stem@@
 Niph`al
 être amoncelé (comparer sabéen אערמחו pluriel de [ערם]
 barrage, ainsi arabe

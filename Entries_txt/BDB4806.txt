@@ -7,6 +7,8 @@ be contentious, refractory, rebellious (Late Hebrew id., Hiph`il; Arabic
 [placeholder3078: Placeholders/3078.gif] III. dispute with; Syriac
 [placeholder3079: Placeholders/3079.gif] Pa`el contend with); —
 
+@@SPLIT:stem@@
+
 Qal. Perfect 3 masculine singular מָרָה
 1Kgs 13:26
 feminine מָֽרְתָה
@@ -80,6 +82,8 @@ have rebelled against me (for
 Che (for other views see
 ריב
 ).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 masculine plural הִמְרוּ

@@ -4,6 +4,7 @@ hébreu biblique
 לוּד, לוּדִים
 nom propre, masculin [aussi d'un peuple]
 
+@@SPLIT:sense@@
 1.
 Lud, Lydie, assyrien
 Luddu
@@ -14,6 +15,7 @@ Gn 10,22 = 1 Ch 1,17
 
 Λουδ.
 
+@@SPLIT:sense@@
 2. apparemment un peuple du nord-est de l'Afrique תַּרְשִׁישׁ פּוּל וְלוּד
 Es 66,19,
 

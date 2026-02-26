@@ -10,6 +10,8 @@ errer sans repos, vagabonder (comparer arabe
 [placeholder4990: Placeholders/4990.gif]
 se précipiter sur, envahir, attaquer) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Parfait 3 masculin singulier עִד רָד עִם אֵל
 Os 12,1,
@@ -27,6 +29,8 @@ figuré d'Israël ; lire וְרַדְתִּי peut-être Jg 11,37 littéral, voi
 ירד
 
 1.g.
+
+@@SPLIT:stem@@
 
 Hiph`il
 montrer de l'agitation : Imparfait 2 masculin singulier כַּאֲשֶׁר תָּרִיד

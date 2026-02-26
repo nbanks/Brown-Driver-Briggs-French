@@ -18,6 +18,7 @@ mettre en mouvement, commotion ;
 [placeholder1148: Placeholders/1148.gif]
 geste ou comportement amoureux, coquet, des femmes) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 דֵּלֹּתִי
@@ -38,6 +39,7 @@ Pr 26,7 comparer
 , métaphore de la détresse Ps 79,8 ; Ps 116,6 ; Ps 142,7
 languir, des yeux, regarder languissamment (Che) Es 38,14. —
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait
 יִדַּל

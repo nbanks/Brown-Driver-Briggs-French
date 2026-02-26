@@ -10,6 +10,7 @@ arâru
 , rougeoyer, SASm^Assurbanipal i. p.
 97^ Belser^BAS ii. 155^) —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 féminin singulier חָ֫רָה
 Jb 30,30,
@@ -29,6 +30,7 @@ brûler, des os d'hommes malades dans la fièvre מִנִּיחֹֿרֶב
 ח
 Jb 30,30.
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 נָחַר

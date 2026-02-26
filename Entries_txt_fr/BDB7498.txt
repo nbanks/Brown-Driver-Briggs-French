@@ -13,6 +13,7 @@ Ez 13,6 pluriel
 קְסְמִים
 Dt 18,10 + ; —
 
+@@SPLIT:sense@@
 1. des nations : Balaam, Nb 23,23 (poème dans
 J
 
@@ -28,6 +29,7 @@ E
 ). — Es 2,6
 voir [קָסַם].
 
+@@SPLIT:sense@@
 2. de faux prophètes כָּזָב
 ׳
 ק
@@ -51,6 +53,7 @@ Jr 14,4 (tous ||
 réprouvé 1 S 15,23
 (poème ; || תרפים).
 
+@@SPLIT:sense@@
 3. en sens favorable עַל שִׂפְתֵי
 ׳
 ק

@@ -4,6 +4,7 @@ hébreu biblique
 [צָרַע] verbe
 dénominatif, seulement au passif, être frappé de lèpre, lépreux ; —
 
+@@SPLIT:stem@@
 Qal
 Participe Passif
 אִישׁ
@@ -16,6 +17,7 @@ P
 H
 ).
 
+@@SPLIT:stem@@
 Pu`al
 Participe
 מְצֹרָע

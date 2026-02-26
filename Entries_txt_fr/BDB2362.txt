@@ -19,6 +19,7 @@ Est 6,1 suffixe
 זִכְרֹנֵיכֶם
 Jb 13,12 —
 
+@@SPLIT:sense@@
 1.
 mémorial, rappel :
 
@@ -83,6 +84,7 @@ suggère que ᵐ5 semble avoir lu יִמָּשֵׁל לְאֵפֶר [? < רָנ�
 ] רָנְיְכֶם
 votre exultation sera comme la cendre.
 
+@@SPLIT:sense@@
 2.
 souvenir
 Qo 1,11

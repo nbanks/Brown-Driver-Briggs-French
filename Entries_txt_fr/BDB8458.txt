@@ -4,6 +4,7 @@ hébreu biblique
 [שָׁגַג] verbe
 s'égarer, commettre une faute ou une erreur (|| שׁגה, שׁוג) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 שָׁגָג֛

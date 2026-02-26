@@ -5,6 +5,8 @@ Biblical Hebrew
 verb
 denominative
 
+@@SPLIT:stem@@
+
 Hiph`il
 fly (= move pinions); of hawk יַאֲבֶרנֵֿץ
 Job 39:29.

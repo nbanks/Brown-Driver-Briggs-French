@@ -11,6 +11,8 @@ boire (
 שָׁתָה
 ) ; —
 
+@@SPLIT:stem@@
+
 Peal
 Parfait 3 masculin pluriel אִשְׁתִּיו (K^§ 11,
 4^, a))Dn 5,3 ; Dn 5,4

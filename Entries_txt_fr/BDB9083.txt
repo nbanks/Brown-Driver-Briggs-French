@@ -7,6 +7,8 @@ hébreu biblique
 [placeholder5779: Placeholders/5779.gif]
 être calme, silencieux (comparer aussi שׁקט)) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Imparfait 3 masculin singulier, de la mer יִשְׁתֹּק הַיָּם
 Jon 1,11 ; Jon 1,12

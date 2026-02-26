@@ -23,6 +23,8 @@ Gn 49,15 +,
 שִׁכְמָה (pour שִׁכְמָהּ
 Ges^«GKC:91e»§ 91e^) Jb 31,22, etc. ; —
 
+@@SPLIT:sense@@
+
 1.
 épaule (incluant parfois la nuque ; כתף = omoplate
 ) :
@@ -65,6 +67,8 @@ Gn 48,22 (
 
 E
 ; comparer Dr).
+
+@@SPLIT:sense@@
 
 2. en général dos :
 כְּהַפְנֹתוֺ שִׁכְמוֺ לָלֶכֶת מֵעִם

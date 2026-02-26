@@ -12,12 +12,14 @@ Jb 20,3 + 4 t. ;
 pluriel בִּינוֺת
 Es 27,11 —
 
+@@SPLIT:sense@@
 1.
 l'acte
 Es 33,19 ;
 Jr 23,20 ;
 Dn 1,20 ; Dn 8,15 ; Dn 9,22 ; Dn 10,1.
 
+@@SPLIT:sense@@
 2.
 la faculté
 Jb 20,3 ; Jb 39,26 ;
@@ -29,6 +31,7 @@ acquérir l'intelligence
 Pr 4,5 ; Pr 4,7 ; Pr 16,16
 .
 
+@@SPLIT:sense@@
 3.
 l'objet de la connaissance Dt 4,6 ; 1 Ch 22,12 ; Jb 28,12 ; Jb 28,20 ; Jb 28,28 ; Jb 34,16 ; Jb 38,36 ;
 Jb 39,17 ;
@@ -45,6 +48,7 @@ Pr 23,23
 ; Pr 1,2 ;
 Pr 4,1 ; Es 29,24.
 
+@@SPLIT:sense@@
 4. personnifiée Pr 2,8 ; Pr 7,4 ; Pr 8,14.
 
 ---

@@ -25,6 +25,7 @@ Jg 5,28 + ; suffixe
 Ps 57,7 ; Ps 119,133
 , etc. ; פַּעֲמֹתָיו (seulement 1.c.) Ex 25,12 + 2 t. ; —
 
+@@SPLIT:sense@@
 1.
 
 a. en poésie, bruit de sabot
@@ -52,8 +53,10 @@ P
 
 1 R 7,30 lire פִּנּוֺתָיו (comparer 1 R 7,34).
 
+@@SPLIT:sense@@
 2. = enclume (frappée par le marteau) Es 41,7.
 
+@@SPLIT:sense@@
 3.
 occurrence, fois (à l'origine coup, battement) :
 

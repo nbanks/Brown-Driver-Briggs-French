@@ -18,6 +18,7 @@ Ps 45,1
 יְדִידוֺת
 Ps 84,2 —
 
+@@SPLIT:sense@@
 1.
 mon bien-aimé, utilisé par les prophètes de ׳
 י sous la figure du cultivateur Es 5,1 (deux fois dans le verset) ; ainsi mon (ton, son)
@@ -29,11 +30,13 @@ bien-aimé, de Benjamin comme aimé de ׳
 י
 Dt 33,12.
 
+@@SPLIT:sense@@
 2.
 charmant, מַהיְּֿדִידוֺת מִשְׁכְּנוֺתֶיךָ
 Ps 84,2
 que tes demeures sont charmantes !
 
+@@SPLIT:sense@@
 3. féminin pluriel comme substantif abstrait שִׁיר יְדִידֹת
 Ps 45,1 =
 un chant d'amour.

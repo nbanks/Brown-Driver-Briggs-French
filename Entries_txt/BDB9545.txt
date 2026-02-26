@@ -4,6 +4,8 @@ Biblical Aramaic
 [חֲשַׁב] verb
 think, account (see Biblical Hebrew); —
 
+@@SPLIT:stem@@
+
 Pe`al
 Participle
 passive plural כְּלָה חֲשִׁיבִון

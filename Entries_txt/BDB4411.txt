@@ -11,6 +11,8 @@ CIS^22^; CIS^44^
 indirectly or obliquely, Fl^De Pr.1,
 6^); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine לַצְתָּ
 Prov 9:12
@@ -45,6 +47,8 @@ is a scorner Prov 20:1
 .
 —
 
+@@SPLIT:stem@@
+
 Hiph`il
 Perfect 3 masculine plural suffix הֱלִיצֻנִי
 Ps 119:51
@@ -73,9 +77,13 @@ ambassador
 2Chr 32:31
 .
 
+@@SPLIT:stem@@
+
 Po`lel
 Participle plural לֹצֲצִים (מְ dropped Kö^ii. 479^) scorners
 Hos 7:5.
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Imperfect

@@ -6,8 +6,12 @@ noun masculine^
 2Kgs 14:9
 ^
 
+@@SPLIT:sense@@
+
 1.
 brier, bramble.
+
+@@SPLIT:sense@@
 
 2.
 hook, ring, fetter;
@@ -19,6 +23,8 @@ below), חוֺחִים
 Song 2:2
 חֹחִים
 2Chr 33:11 —
+
+@@SPLIT:sense@@
 
 1.
 
@@ -46,6 +52,8 @@ holes, compare 1Sam 14:11 see below III. חרר; || מְעָרוֺת,
 
 here ἐν τ. μάνδραις; 1Sam 14:11
 ἐκ τ. τρωγλῶν.
+
+@@SPLIT:sense@@
 
 2. late,
 

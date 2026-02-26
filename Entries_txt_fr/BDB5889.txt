@@ -4,6 +4,7 @@ hébreu biblique
 II. מָעוֺן
 nom propre
 
+@@SPLIT:sense@@
 1. lieu en Juda
 Jos 15,55 (
 
@@ -33,6 +34,7 @@ Bu
 Klo
 Kit Löhr ; comparer
 
+@@SPLIT:sense@@
 2.
 masculin
 en Juda
@@ -43,6 +45,7 @@ dans le verset),
 
 Μεων, Μαων.
 
+@@SPLIT:sense@@
 3. d'un peuple Jg 10,12 nommé avec les Sidoniens et Amalek comme anciens ennemis d'Israël ; peut-être
 voulu par l'auteur comme = מְעוּנִים q. v. ; beaucoup lisent מִדְיָן (
 

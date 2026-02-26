@@ -8,6 +8,8 @@ seek, suppurate, swell; Aramaic בְּעָא,
 [placeholder647: Placeholders/647.gif]
 seek) —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 3 feminine singular תִּבְעֶה
 Isa 64:1 2
@@ -27,6 +29,8 @@ cause to boil up, אֵֿשׁ
 מַיִם תִּב
 Isa 64:1 (but
 gloss Che).
+
+@@SPLIT:stem@@
 
 Niph`al
 Perfect

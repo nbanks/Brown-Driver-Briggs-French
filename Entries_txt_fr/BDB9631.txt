@@ -24,6 +24,7 @@ Dn 2,35 ; Dn 3,14 ; Dn 6,3 ; Dn 7,12 (Dn 7,21
 לְהֹן), Esd 4,20 ; Esd 5,2 (ainsi palmyrénien, Cooke^No. 110, Tariff
 ii.c.15 (p. 329)^) ; —
 
+@@SPLIT:sense@@
 1.
 à, après les verbes de dire, déclarer, écrire, etc., Dn 2,4 ; Dn 2,5 ; Dn 2,7 ; Dn 2,19 ; Dn 6,21 ; Dn 6,26, etc.,
 donner
@@ -48,12 +49,15 @@ Dn 4,16 ; Dn 4,18 ; Dn 5,17 ; Esd 5,7 ; Esd 7,20, être
 confirmé à
 Dn 4,23.
 
+@@SPLIT:sense@@
 2. comme marque de l'accusatif (comme souvent en araméen ; cf, en hébreu tardif, hébreu
 biblique 3), Dn 2,10 ; Dn 2,12 ; Dn 2,14 ; Dn 2,24 + souvent, Esd 7,25… לכל (comparer אֵת
 Jg 3,15 ; Es 8,2).
 
+@@SPLIT:sense@@
 3. devenir ou faire de (hébreu biblique 4) Dn 2,35 ; Dn 4,27.
 
+@@SPLIT:sense@@
 4.
 
 a.
@@ -105,6 +109,7 @@ selon (hébreu biblique 5.i.) Esd 6,17 …
 לְמִנְיָן
 selon le nombre de …
 
+@@SPLIT:sense@@
 5. de temps, à
 Dn 4,26 …
 לִקְצָת
@@ -113,6 +118,7 @@ pour
 Dn 2,4 ; Dn 2,44 +
 לְעָֽלְמִין.
 
+@@SPLIT:sense@@
 6. avec un infinitif (hébreu biblique 7), après des verbes comme
 pouvoir, penser, avoir besoin, s'accorder, ordonner, décréter, Dn 2,9 ; Dn 2,10 ; Dn 2,12 ; Dn 2,24 ; Dn 3,13 ; Dn 3,16 ; Dn 3,19 ; Dn 3,32 ; Dn 6,4 ; Dn 6,5 ; Dn 6,8 ; Dn 6,24 ; Esd 4,21 ; Esd 4,22 ; Esd 5,3 + souvent ; = afin de
 Dn 2,13 ; Dn 2,14 ; Dn 3,2 ; Dn 3,20,

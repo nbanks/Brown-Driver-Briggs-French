@@ -9,6 +9,8 @@ ri‡‡u
 , spice, Meissn^Suppl. 90^
 , compare rikkê, Dl^HWB 620^); —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 3 masculine singular יִרְקַח
 Exod 30:33
@@ -30,10 +32,14 @@ Exod 30:35;
 Exod 37:29;
 Eccl 10:1.
 
+@@SPLIT:stem@@
+
 Pu`al
 Participle masculine plural מְרֻקָּחִים
 2Chr 16:14
 mixed as ointment.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Infinitive absolute

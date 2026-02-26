@@ -6,6 +6,7 @@ nom propre [d'un lieu]
 Rabba (proprement grande ou populeuse, c.-à-d. ville) ;
 —
 
+@@SPLIT:sense@@
 1. capitale des Ammonites : explicitement, רַבַּת בְּנֵי עַמּוֺן
 2 S 12,26 ;
 2 S 12,27 ;
@@ -24,6 +25,7 @@ Buhl^Geogr.260^ ; —
 
 Ραββαθ, Ραββα
 
+@@SPLIT:sense@@
 2.
 הָרַבָּה ville en Juda Jos 15,60 (
 P

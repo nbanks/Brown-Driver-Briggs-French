@@ -12,6 +12,7 @@ tuer (mais
 —
 ; est-ce un mot d'emprunt en arabe ?) ; hébreu tardif = hébreu biblique, surtout en contexte rituel) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier ׳
 שׁ
@@ -107,6 +108,7 @@ Kt
 
 שׁוֺחֵט) flèche martelée (c.-à-d. aiguisée).
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait 3 masculin singulier יִשָּׁחֵט
 Nb 11,22 (

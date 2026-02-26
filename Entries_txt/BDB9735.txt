@@ -8,6 +8,8 @@ be fulfilled (properly ended) (
 
 Syriac (often); see Biblical Hebrew); —
 
+@@SPLIT:stem@@
+
 Pe`al
 Perfect 3 feminine singular מִלְּתָא סָ֫פַת
 Dan 4:30 (compare
@@ -17,6 +19,8 @@ Biblical Hebrew I.
 Qal
 1
 c).
+
+@@SPLIT:stem@@
 
 Haph`el
 put an end to: Imperfect 3 feminine singular תָּסֵף

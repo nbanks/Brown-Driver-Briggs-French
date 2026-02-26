@@ -10,6 +10,8 @@ DHM^ZMG 1883, 375, ||^ Aramaic בְּהַת, Syriac
 [placeholder539: Placeholders/539.gif],
 [placeholder540: Placeholders/540.gif] mean disperse) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 Jer 48:39
@@ -88,6 +90,8 @@ GFM), 2Kgs 2:17
 ;
 2Kgs 8:11.
 
+@@SPLIT:stem@@
+
 Polel
 Perfect
 בּשֵׁשׁ
@@ -100,7 +104,11 @@ J
 why delay his chariots to come ?
 Judg 5:28.
 
+@@SPLIT:stem@@
+
 Hiph`il
+
+@@SPLIT:stem@@
 
 1.
 הֱבִישׁוֺתָ
@@ -175,6 +183,8 @@ Qr
 ); with מִן
 
 Jer 10:14 = Jer 51:17.
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Imperfect

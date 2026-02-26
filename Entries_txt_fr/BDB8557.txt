@@ -17,6 +17,7 @@ suffixe שׁוֺקָיו
 Ct 5,15 —
 jambe :
 
+@@SPLIT:sense@@
 1. de l'homme, spécifiquement jambe inférieure, mollet, distingué de la cuisse, dans עֵליָֿרֵךְ
 ׳
 וַיַּךְ אוֺתָם שׁ
@@ -25,6 +26,7 @@ il les frappa, jambe sur cuisse, c.-à-d. complètement (comparer GFM
 ), Dt
 28,35 (|| בִּרְכַּיִם), Pr 26,7 ; Ps 147,10 ; Ct 5,15 de la femme (ville personnifiée) Es 47,2.
 
+@@SPLIT:sense@@
 2. de l'animal sacrificiel, spécifiquement cuisse supérieure, cuisse, patte arrière
 , portion mangée 1 S 9,24 (comparer Klein^ZPV vi (1883), 98, cité^ aussi par Nes^Marg. 13^), הַיָּמִין
 ׳

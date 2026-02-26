@@ -3,6 +3,8 @@ hébreu biblique
 
 יְבוּסִי, יְבֻסִי
 
+@@SPLIT:sense@@
+
 1.
 adjectif [d'un peuple]
 Jébusite, Jébusites, singulier אורנה הַיְבֻסִי
@@ -49,6 +51,8 @@ J
 aussi עִיר הַיְבוּסִי הַזּאֹת
 Jg 19,11
 d'où
+
+@@SPLIT:sense@@
 
 2.
 Jérusalem, Hexateuque seulement

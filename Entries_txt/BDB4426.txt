@@ -10,6 +10,8 @@ etc.; Assyrian
 lamâdu
 , learn, Dl^Prol. 29^); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular ׳
 ל
@@ -40,10 +42,12 @@ Infinitive
 Deut 18:9; Isa 1:17; Ezek 19:3; Ezek 19:6
 לְיִרְאָה
 Deut 4:10; Deut 14:23; Deut 17:19; Deut 31:13
-וְיָרְאוּ
+וְיָרְאוּ
 Deut 31:12
 לְמוּדֵי מִלְחָמָה
 trained to war 1Chr 5:18.
+
+@@SPLIT:stem@@
 
 Piel
 Perfect 3 masculine singular לִמַּד
@@ -113,6 +117,8 @@ my teachers
 Ps 119:99
 ;
 Prov 5:13.
+
+@@SPLIT:stem@@
 
 Pual
 Perfect 3 masculine singular לֻמָּ֑ד

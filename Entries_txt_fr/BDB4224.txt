@@ -10,6 +10,7 @@ Brock
 Schw ; arabe
 [placeholder2672: Placeholders/2672.gif] est être lourd, paresseux) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 ׳
@@ -109,6 +110,7 @@ d'où figuré, faiblir, de la force (כֹּחַ) Ne 4,4 Ps
 Ne 31,11
 — Infinitif absolu כָּשׁוֺל, voir ci-dessous Niph`al
 
+@@SPLIT:stem@@
 Niph`al
 Parfait consécutif וְנִכְשַׁל
 Dn 11,9,
@@ -170,6 +172,7 @@ Es
 40,31) ; ainsi participe 1 S 2,4 ;
 Za 12,8.
 
+@@SPLIT:stem@@
 Pi`el seulement apparent, תְּכַשְּׁלִי
 Ez
 36,14, lire תְּשַׁכְּלִי avec
@@ -183,6 +186,7 @@ Da (voir aussi
 Hiph`il
 vers la fin).
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait
 הִכְשִׁיל
@@ -270,6 +274,7 @@ rendre faible, affaiblir, הִכְשִׁיל כֹּחִי
 Lm 1,14 (du traitement de Dieu envers
 Jérusalem)
 
+@@SPLIT:stem@@
 Hoph`al seulement Participe
 והיו מֻכְשָׁלִים לְפָנֶיךָ
 

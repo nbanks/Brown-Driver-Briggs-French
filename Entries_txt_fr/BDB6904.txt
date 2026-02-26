@@ -33,6 +33,7 @@ Ex 7,4
 Ex 6,26 +, etc. ;
 —
 
+@@SPLIT:sense@@
 1.
 armée, troupe :
 
@@ -200,6 +201,7 @@ Es 40,26
 d. de la création entière, כל צבאם
 Gn 2,1.
 
+@@SPLIT:sense@@
 2.
 guerre, service militaire :
 יָצָא צָבָא
@@ -277,6 +279,7 @@ P
 
 instruments de guerre.
 
+@@SPLIT:sense@@
 3.
 service :
 
@@ -296,6 +299,7 @@ Jb
 40,2 ; Dn
 10,1.
 
+@@SPLIT:sense@@
 4.
 צְבָאוֺת, dans le nom de ׳
 י comme Dieu de la guerre, probablement d'abord au temps du belliqueux David (certains le relient à l'arche sacrée, mais l'arche

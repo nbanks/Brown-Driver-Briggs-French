@@ -14,6 +14,7 @@ S-C^Pap^. ; comparer אַזְדָּא) ; = hébreu biblique
 עָבַד
 , q. v., mais dans le sens || עשׂה) ; —
 
+@@SPLIT:stem@@
 Pe`al
 Parfait 3 masculin singulier ׳
 ע
@@ -53,6 +54,7 @@ faire, accomplir, accusatif de la loi de Dieu Esd 7,26, accusatif de signes, etc
 (sujet Dieu)
 Dn 6,28 et (+עִם personne) Dn 3,32.
 
+@@SPLIT:stem@@
 Hithpe`el
 Imparfait 3 masculin singulier יִתְעֲבֵד
 Esd 6,11 +,

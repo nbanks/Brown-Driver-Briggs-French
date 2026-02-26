@@ -17,6 +17,8 @@ Gen 44:10 + 4
 t.: — so (i.e. usually, as has been described or commanded, with reference to what has
 preceded), mostly of manner, but sometimes also of quantity, quality, or degree:
 
+@@SPLIT:sense@@
+
 1.
 
 a.
@@ -143,6 +145,8 @@ Isa 10:7
 לא כן יְדַמֶּה, לא כן יחשׁב, absolute Gen 48:18
 לא כן אבי, Exod 10:11.
 
+@@SPLIT:sense@@
+
 2. Often, to emphasize the agreement, in answer to כְּ, and כַּאֲשֶׁר
 : namely
 
@@ -264,6 +268,8 @@ Di): Judg 5:15
 כְּנַעֲנֵי. — כֹּה, כָּכָה, כָּזֹאת are
 synonyms,
 but differ considerably in usage.
+
+@@SPLIT:sense@@
 
 3. With prepositions: —
 

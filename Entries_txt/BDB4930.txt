@@ -5,6 +5,8 @@ Biblical Hebrew
 noun masculine
 prophecy (late: earlier synonym חָזוֺן); —
 
+@@SPLIT:sense@@
+
 1.
 
 a.
@@ -12,6 +14,8 @@ specific and genuine
 2Chr 15:8.
 
 b. false Neh 6:12.
+
+@@SPLIT:sense@@
 
 2. prophetic writing עַלֿ
 נְבוּאַת אֲחִיָּה

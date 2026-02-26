@@ -5,6 +5,8 @@ Biblical Hebrew
 be good, well, glad, pleasing (Aramaic יְטַב Zinjirli יטב
 DHM^Sendsch. 57^) —
 
+@@SPLIT:stem@@
+
 Qal (Perfect not in use, see
 טוֺב
 
@@ -82,6 +84,8 @@ P
 ; Neh 2:6;
 Esth 5:14.
 
+@@SPLIT:stem@@
+
 Hiph`il
 Perfect
 הֵיטִיב
@@ -96,7 +100,7 @@ Deut 30:5
 Jer 1:12
 הֵיטַבְתְּ
 Ruth 3:10,
-etc.; וְהִֵטבֹתִ֫י
+etc.; וְהִֵטבֹתִ֫י
 Ezek 36:11
 (for הֵיטַבְתִּי as if from טוב
 Ges^«GKC:70»§ 70^R); Imperfect

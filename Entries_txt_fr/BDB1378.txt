@@ -3,6 +3,7 @@ hébreu biblique
 
 [בשׁס] verbe
 
+@@SPLIT:stem@@
 Polel
 Infinitif suffixe בּוֺשַׁסְכֶם
 Am 5,11

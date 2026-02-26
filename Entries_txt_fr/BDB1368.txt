@@ -15,6 +15,7 @@ Gn 17,11 + 40
 t. ; suffixe בּשָׂרִי etc. Ps 16,9 + 96 t. ; pluriel בְּשָׂרִים
 Pr 14,30 —
 
+@@SPLIT:sense@@
 1.
 du corps :
 
@@ -91,6 +92,7 @@ Es 39,18 ;
 
 . La chair du corps est opposée à la pierre Ez 11,19 ; Ez 36,26.
 
+@@SPLIT:sense@@
 2.
 chair pour le corps lui-même (surtout dans
 P
@@ -162,6 +164,7 @@ mon corps tremble de crainte devant toi
 Ps
 119,120.
 
+@@SPLIT:sense@@
 3.
 organe mâle de la génération (euphémisme) : בְּשַׂר עָרְלַתְכֶם
 Gn 17,11
@@ -195,6 +198,7 @@ Ez 23,20 ;
 Ez 44,7 ;
 Ez 44,9.
 
+@@SPLIT:sense@@
 4.
 chair pour parenté, liens de sang :
 עצם מעצמי ובשׂר מבשׂרי
@@ -235,6 +239,7 @@ H
 25,49 || מִשְׁפָּחָה, comparer
 RS_k_^149^).
 
+@@SPLIT:sense@@
 5.
 l'homme face à Dieu comme fragile ou faillible
 Gn 6,3 (
@@ -246,6 +251,7 @@ J
 yeux de chair Jb
 10,4 bras de chair 2 Ch 32,8 ; Jr 17,5 les chevaux sont chair et non esprit Es 31,3
 
+@@SPLIT:sense@@
 6. l'expression ׃כָּלבָּֿשָׂר
 
 a.

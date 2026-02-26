@@ -17,6 +17,8 @@ cast at, pierce,
 javelin = Ethiopic
 [placeholder1576: Placeholders/1576.gif]) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 ׳
@@ -96,6 +98,8 @@ water for purification, followed by על, Ezek 36:25.
 גַּם שֵׂיבָה זָָֽרְקָה בּוֺ grey hairs are profuse upon him (? read
 
 זָָֽרְחָה, as in 2Chr 26:19).
+
+@@SPLIT:stem@@
 
 Pu`al
 Perfect

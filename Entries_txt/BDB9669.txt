@@ -22,6 +22,8 @@ W^CG 123:^ Biblical Hebrew
 מִי
 ); —
 
+@@SPLIT:sense@@
+
 1.
 who?
 Ezra 5:3;
@@ -43,6 +45,8 @@ what (literally who: compare מִי
 ᵑ7
 
 ) are the names of . . .?
+
+@@SPLIT:sense@@
 
 2.
 מַןדּֿי

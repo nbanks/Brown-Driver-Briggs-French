@@ -12,6 +12,8 @@ Jr 51,35 ;
 Ps 73,26, etc. ;
 —
 
+@@SPLIT:sense@@
+
 1.
 chair :
 
@@ -22,6 +24,8 @@ figuré Mi 3,2
 
 b. figuré pour la force physique Ps 73,26 (+ לֵבָב), Pr 5,11 (+ בָּשָׂר
 ).
+
+@@SPLIT:sense@@
 
 2. dans HP = parent par le sang (c.-à-d. un
 proche
@@ -44,6 +48,8 @@ Lv 21,2 ; Nb 27,11
 ׳
 שׁ
 Lv 18,6 ; Lv 25,49.
+
+@@SPLIT:sense@@
 
 3. = soi-même, Pr 11,17 (|| נֶפֶשׁ),
 

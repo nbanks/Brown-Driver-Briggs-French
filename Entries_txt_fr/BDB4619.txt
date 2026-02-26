@@ -4,6 +4,7 @@ hébreu biblique
 מִיכָיָה
 nom propre, masculin
 
+@@SPLIT:sense@@
 1. le prophète canonique, Michée, Jr 26,18
 
 Kt
@@ -13,15 +14,18 @@ Qr
 מִיכָה, comme
 Mi 1,1).
 
+@@SPLIT:sense@@
 2.
 Ne 12,35
 (appelé מִיכָא
 Ne 11,17 ;
 Ne 11,22).
 
+@@SPLIT:sense@@
 3.
 Ne 12,41
 
+@@SPLIT:sense@@
 4.
 2 R 22,12
 (|| 2 Ch 34,20

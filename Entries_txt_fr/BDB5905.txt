@@ -4,6 +4,7 @@ hébreu biblique
 עוּץ
 nom propre
 
+@@SPLIT:sense@@
 1.
 masculin
 
@@ -45,6 +46,7 @@ c. nom édomite Gn 36,28 = 1 Ch 1,42,
 
 Ους
 
+@@SPLIT:sense@@
 2. lieu (=
 1.
 a., b., peut-être aussi c.), מַלְכֵי אֶרֶץ

@@ -7,6 +7,7 @@ Pi`el etc.
 dénominatif
 couvrir (figuré), apaiser, faire propitiation ; —
 
+@@SPLIT:stem@@
 Pi`el
 Parfait
 כִּפֶּר
@@ -281,6 +282,7 @@ Lv 16,24
 (par Aaron),
 Ez 45,17 (par le prince).
 
+@@SPLIT:stem@@
 Pu`al
 Parfait
 כֻּפַּר
@@ -327,6 +329,7 @@ Ex 29,33
 
 par lesquels l'expiation fut faite (bélier de consécration).
 
+@@SPLIT:stem@@
 Hithpa`el
 Imparfait
 יִתְכַּפֵּר
@@ -336,6 +339,7 @@ avec בְּ instrumental יִתְכַּפֵּר עֲוֺן בֵּיתעֵֿלִ�
 l'iniquité de la maison d'Éli ne sera pas couverte par le sacrifice de communion ni par l'offrande
 (en d'autres termes il n'y avait pas d'expiation pour elle ; comparer Pu`al Es 22,14).
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 וְנִכַּפֵּר לָהֶם הַדָּם

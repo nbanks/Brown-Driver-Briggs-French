@@ -10,6 +10,8 @@ overflow, rinse or wash off (Late Hebrew id., so Jewish-Aramaic
 [placeholder5508: Placeholders/5508.gif]
 id., Cuche); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular ׳
 שׁ
@@ -69,6 +71,8 @@ P
 Job
 14:19.
 
+@@SPLIT:stem@@
+
 Niph`al
 Imperfect 3 masculine singular יִשָּׁטֵף בַּמַּיִם
 Lev 15:12
@@ -80,6 +84,8 @@ Dan
 11:22
 be swept away (defeated), read probably יִשָּׁטֵף (for
 יִשְׁטֹף), also Dan 11:26 (compare Dr).
+
+@@SPLIT:stem@@
 
 Pu`al
 Perfect 3 masculine singular וּמֹרַק וְּשֻׁטַּף בַּמָּ֑יִם

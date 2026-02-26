@@ -13,6 +13,7 @@ Pr 13,4
 חֲרֻצוֺת
 Am 1,3 —
 
+@@SPLIT:sense@@
 1.
 tranchant : de l'instrument de battage חָדָשׁ
 ׳
@@ -25,6 +26,7 @@ sans ׳
 Am 1,3 ; Jb 41,22
 (figuré du crocodile).
 
+@@SPLIT:sense@@
 2.
 figuré
 diligent : comme substantif Pr 21,5 opposé à רְמִיָּךְ

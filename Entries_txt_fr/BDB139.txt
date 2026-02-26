@@ -13,6 +13,7 @@ construit Gn 25,25
 3 t. ; אַדַּרתָּם
 Za 11,3 —
 
+@@SPLIT:sense@@
 1.
 gloire, magnificence, de la vigne Ez 17,8 (ainsi Thes
 MV, mais < adjectif f. de
@@ -20,6 +21,7 @@ MV, mais < adjectif f. de
 q. v.), des bergers Za 11,3 (ou sub
 2).
 
+@@SPLIT:sense@@
 2.
 manteau, cape (vêtement ample) de poil שֵׂעָר
 Gn 25,25 ;

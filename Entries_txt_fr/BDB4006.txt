@@ -13,6 +13,7 @@ arabe
 protéger Qor 21,43 comparer Ba^ZMG 1887, 605 Anm. 4^
 ) —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier suffixe כְּלָאוֺ
 Jr 32,3 3
@@ -96,6 +97,7 @@ probablement aussi v^a^ (lire טָ֑ל pour
 (c.-à-d. les exilés)
 Es 43,6 (|| תְּנִי).
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait
 וַיִּכָּלֵא הַגֶּשֶׁם מִןהַֿשָּׁמַיִם
@@ -111,6 +113,7 @@ Ex 36,6 (
 P
 ).
 
+@@SPLIT:stem@@
 Pi`el [Parfait כִּלָּא et] Infinitif construit
 לְכַלֵּא voir
 כלה

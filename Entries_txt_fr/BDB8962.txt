@@ -15,6 +15,7 @@ fondre et couler dans un moule ; éthiopien
 [placeholder5685: Placeholders/5685.gif] araméen שְׁפַח,
 [placeholder5686: Placeholders/5686.gif] (rare) = hébreu biblique) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier ׳
 שׁ
@@ -173,6 +174,7 @@ Ps 102,1
 Ez
 16,15, comparer Ez 23,8.
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 masculin singulier נִשְׁפַּח
 Lm 2,11,
@@ -202,6 +204,7 @@ Ez
 Qal
 2.b.).
 
+@@SPLIT:stem@@
 Pu`al
 Parfait 3 masculin singulier consécutif וְשֻׁפַּח
 So
@@ -222,6 +225,7 @@ Qr
 
 שֻׁפְּכוּ).
 
+@@SPLIT:stem@@
 Hithpa`el
 Imparfait 3 féminin singulier עָלַי
 תִּשְׁתַּפֵח נַפְשׁי

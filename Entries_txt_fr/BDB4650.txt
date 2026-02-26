@@ -16,6 +16,7 @@ t. ; מְלוֺאָהּ
 Dt 33,16 + 12
 t. ; —
 
+@@SPLIT:sense@@
 1.
 plénitude de la main (= poignée) Qo 4,6 (deux fois dans le verset) suivi de l'accusatif de matière חָפְנֵיכֶם
 פִּיחַ
@@ -38,11 +39,13 @@ Ex 16,32
 
 voir Di).
 
+@@SPLIT:sense@@
 2.
 masse de bergers Es 31,4 (dans une comparaison) ; multitude de nations Gn 48,19
 (comparer arabe
 [placeholder2988: Placeholders/2988.gif] Qor 2:247 et ailleurs)
 
+@@SPLIT:sense@@
 3.
 plénitude = ce qui remplit, contenu entier, de אֶרֶץ
 Dt 33,16 ;
@@ -62,6 +65,7 @@ Es 42,10 ;
 עִיר
 Am 6,8.
 
+@@SPLIT:sense@@
 4. expressions : — קוֺמָתוֺ
 ׳
 מ = de tout son long

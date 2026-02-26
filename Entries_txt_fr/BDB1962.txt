@@ -18,6 +18,7 @@ Gn 5,3
 דְּמוּתֵנוּ
 Gn 1,26 —
 
+@@SPLIT:sense@@
 1.
 ressemblance, similitude, d'apparence extérieure, principalement dans Ez. : Ez 1,5 (ressemblance
 , c.-à-d. quelque chose qui apparaissait comme) ainsi Ez 1,26 ; Ez 8,2
@@ -51,6 +52,7 @@ quelle
 ד
 lui comparerez-vous (אֵל) ? || דִּמָּה q. v.
 
+@@SPLIT:sense@@
 2. adverbialement, à la ressemblance de, comme
 Es 13,4 comparer
 Ez 23,15

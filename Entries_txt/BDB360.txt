@@ -10,6 +10,8 @@ W^SG 120-2^; compare Assyrian
 aiu
 , who? what?).
 
+@@SPLIT:sense@@
+
 1.
 adverb
 interrogative
@@ -56,6 +58,8 @@ where, then ? (never of a person, except Esth 7:5 (late), & only once
 אֵיזֶֿה
 הַדֶּרֶח ֗֗֗
 where is the way (that) . . . ? 1Kgs 13:12; 2Kgs 3:8; 2Chr 18:23; Job 38:19 a. 24.
+
+@@SPLIT:sense@@
 
 2. prefixed to other adverbs or pronouns, אֵי imparts to them an interrogative
 force:

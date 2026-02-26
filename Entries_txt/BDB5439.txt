@@ -17,6 +17,8 @@ Aph`el pour out, especially melt; Zinjirli ליתכה
 Cook^83^; Syriac
 [placeholder3489: Placeholders/3489.gif] (rare) PS^2480^); —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 3 feminine singular תִּתַּךְ
 Jer 42:18 + 3
@@ -33,6 +35,8 @@ and my groans have poured forth like water; usually of divine wrath (חֵמָה)
 Jer 42:18
 (with עַלֿ person), Jer 44:6 (absolute), 2Chr 12:7; 2Chr 34:25 (both with בְּ local against
 ); compare also Dan 9:11 Dan 9:27 (both with עַלֿ person)
+
+@@SPLIT:stem@@
 
 Niph`al
 Perfect 3 masculine singular נִתַּךְ
@@ -62,6 +66,8 @@ Nah 1:6
 בְּתוֺךְ) the fire of ׳
 י's fury Ezek 22:21 (subject persons), so Ezek 24:11 (subject impurity, figurative of
 caldron).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 masculine plural הִתִּיכוּ עֲבָדֶיךָ אֶתהַֿכֶּסֶף
@@ -93,6 +99,8 @@ Job 10:10
 
 dost (= didst) thou not pour me out like milk? (of beginnings
 of life).
+
+@@SPLIT:stem@@
 
 Hoph`al
 Imperfect 2 masculine plural כֵּן תֻּתְּכוּ

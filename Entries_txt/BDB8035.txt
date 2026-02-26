@@ -6,6 +6,8 @@ verb
 denominative
 be evil, bad; —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular רַע
 Num 22:34 + 3
@@ -58,7 +60,7 @@ be sad:
 Deut 15:10
 ; 1Sam 1:8
 
-יֵרְעוּ פָנַי
+יֵרְעוּ פָנַי
 Neh 2:3.
 
 3.
@@ -83,11 +85,15 @@ J
 1Chr 21:7
 .
 
+@@SPLIT:stem@@
+
 Niph`al
 suffer hurt: Imperfect 3 masculine singular (רַע) יֵרוֺעַ
 Prov 11:15
 ; Prov
 13:20.
+
+@@SPLIT:stem@@
 
 Hiph`il_70_
 Perfect 3 masculine singular הֵרַע

@@ -3,11 +3,13 @@ hébreu biblique
 
 [דַּבֶּ֫שֶׁת]
 
+@@SPLIT:sense@@
 1.
 nom féminin
 bosse (de chameau) (étymologie ?) construit Es 30,6
 עלדַּֿבֶּשֶׁת גְּמַלִּים.
 
+@@SPLIT:sense@@
 2.
 nom propre [d'un lieu]
 à la frontière de Zabulon

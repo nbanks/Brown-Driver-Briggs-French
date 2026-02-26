@@ -8,10 +8,14 @@ blow out; Arabic (
 [placeholder4186: Placeholders/4186.gif] = Hebrew, so Aramaic פּוּחַ,
 [placeholder4187: Placeholders/4187.gif]); —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 3 masculine singular יָפוּחַ הַיּוֺם
 Song 2:17; Song 4:6 until
 the day breathes, i.e. grows cool.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imperfect 3 masculine singular יָפִיחַ

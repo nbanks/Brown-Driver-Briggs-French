@@ -21,6 +21,8 @@ katâmu
 ; Zinjirli כתם (?) DHM^Sendsch. P. 37^
 ); —
 
+@@SPLIT:stem@@
+
 Niph`al
 Participle, figurative, נִכְתָּם עֲוֺנֵךְ לְפָנַי
 Jer 2:22

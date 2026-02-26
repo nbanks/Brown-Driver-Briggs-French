@@ -3,6 +3,8 @@ Biblical Hebrew
 
 [עִמֵּר] verb
 
+@@SPLIT:stem@@
+
 Pi`el
 denominative
 bind sheaves (Late Hebrew id., so

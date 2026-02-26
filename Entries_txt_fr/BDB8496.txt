@@ -10,6 +10,8 @@ Jb 15,31 (
 Kt
 ) ; —
 
+@@SPLIT:sense@@
+
 1.
 vide, néant, vanité :
 תְּשׁוּעַת אָרָם
@@ -74,6 +76,8 @@ Jr 2,30
 Ps 127,1
 (deux fois dans le verset) ; Ml 3,14.
 
+@@SPLIT:sense@@
+
 2.
 vide de parole, || mensonge, ׳
 שׁ
@@ -126,6 +130,8 @@ Ez 21,28
 ׳
 הַשּׁ
 Za 10,2.
+
+@@SPLIT:sense@@
 
 3. de conduite, indignité (Buhl
 ci-dessous 1, 2) ; ׳

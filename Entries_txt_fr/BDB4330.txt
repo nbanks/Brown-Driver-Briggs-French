@@ -14,6 +14,7 @@ Ps 105,32
 construit לַהֲבוֺת
 Ps 29,7 —
 
+@@SPLIT:sense@@
 1.
 flamme, en poésie (|| ou + אֵשׁ, sauf Ps 29,7 ; Dn 11,33) ; du feu consumant (לָהַט
 ) Dathan, etc. Ps 106,18 (comparer Nb 16,35) ; dévastant (לָהַט) les montagnes
@@ -50,6 +51,7 @@ verbe אָכַל) ; comparer Dn 11,33
 י Es 4,5 (comparer Ex 13,21) ; לַבַּת אֵשׁ
 Ex 3,2.
 
+@@SPLIT:sense@@
 2.
 pointe, fer de lance 1 S 17,7.
 

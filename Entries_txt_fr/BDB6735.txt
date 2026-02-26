@@ -14,6 +14,7 @@ Nb 109,8, etc. ;
 pluriel פְּקֻדּ(וֺ)ת
 Jr 52,11 + ; —
 
+@@SPLIT:sense@@
 1.
 visite :
 
@@ -29,6 +30,7 @@ Jr 6,15 ; Jr 49,8 ; Jr 50,31),
 
 b. visite gracieuse, providence Jb 10,12.
 
+@@SPLIT:sense@@
 2.
 
 a.
@@ -63,6 +65,7 @@ charge = chose confiée Nb 4,16 (
 P
 ).
 
+@@SPLIT:sense@@
 3.
 recensement
 2 Ch 17,14
@@ -70,6 +73,7 @@ recensement
 2 Ch
 26,11.
 
+@@SPLIT:sense@@
 4.
 réserve, choses mises en réserve, Es 15,7 ; Ps 109,8 (peut-être ; Hup
 We^Skizzen vi. 184^ et autres fonction

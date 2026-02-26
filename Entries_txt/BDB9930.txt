@@ -9,6 +9,8 @@ leave, let alone (
 שְׁבַק, Syriac
 [placeholder6165: Placeholders/6165.gif]; compare Biblical Hebrew, p. 990); —
 
+@@SPLIT:stem@@
+
 Pe`al
 Infinitive
 לְמִשְׁבַּק
@@ -16,6 +18,8 @@ Dan 4:23
 leave roots, so Imperative masculine plural שְׁבֻ֫קוּ v.Dan 4:12 v.Dan 4:20 (both with
 ב location); Ezra 6:7
 let alone, with ל accusative of thing.
+
+@@SPLIT:stem@@
 
 Hithpe`el
 Imperfect 3 feminine singular תִּשְׁתְּבִק

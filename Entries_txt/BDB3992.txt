@@ -10,10 +10,14 @@ grow lean; כַּחְשָׁא
 leanness, כְּחִישׁוּתָא
 leanness, weakness; Aph`el as Late Hebrew Hiph`il) —
 
+@@SPLIT:stem@@
+
 Qal. Perfect 3 masculine singular וּבְשָׂרִי כָּחַשׁ מִשָּׁ֑מֶן
 Ps 109:24
 my flesh hath grown lean (away) from fatness (|| בִּרְכַּי
 כָּֽשְׁלוּ מִצּוֺם).
+
+@@SPLIT:stem@@
 
 Niph`al
 Imperfect
@@ -24,6 +28,8 @@ feigning obedience) to thee (compare also
 Pi`el
 3,
 Hithpa`el)
+
+@@SPLIT:stem@@
 
 Pi`el
 Perfect 3 masculine singular כִּחֵשׁ
@@ -98,6 +104,8 @@ disappoint, fail, absolute כִּחֵשׁ מַעֲשֵׂה זַיִת
 Hab
 3:17
 the product of the olive hath failed (in sense compare Hos 9:2 above)
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Imperfect

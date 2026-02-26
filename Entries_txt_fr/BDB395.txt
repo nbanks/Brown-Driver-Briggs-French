@@ -5,9 +5,11 @@ hébreu biblique
 adverbe (peut-être de la même racine démonstrative que l'on retrouve aussi dans כִּי, כֹּה,
 כֵּן).
 
+@@SPLIT:sense@@
 1.
 assurément.
 
+@@SPLIT:sense@@
 2.
 avec une force
 restrictive, soulignant ce qui suit
@@ -20,6 +22,7 @@ précède, cependant ;
 b.
 par contraste avec d'autres idées en général, seulement
 
+@@SPLIT:sense@@
 1.
 
 assévératif, introduisant souvent avec emphase l'expression d'une vérité (ou supposée vérité)
@@ -39,6 +42,7 @@ Ex 12,15 ; Ex 31,13 ; Lv 23,27 ; Lv 23,39 (tous
 P
 ).
 
+@@SPLIT:sense@@
 2.
 
 restrictif

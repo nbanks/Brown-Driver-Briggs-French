@@ -3,6 +3,8 @@ hébreu biblique
 
 [שָׁיָה] verbe seulement
 
+@@SPLIT:stem@@
+
 Qal
 Imparfait avec apocope תֶּ֑שִׁי צוּר יְלָֽדְךָ
 Dt 32,18, mais

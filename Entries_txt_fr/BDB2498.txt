@@ -26,6 +26,7 @@ Es 33,23
 חֲבָלָיו
 Es 33,20 —
 
+@@SPLIT:sense@@
 1.
 corde, cordage, par lequel on descendait des hommes Jos 2,15 (
 J
@@ -58,6 +59,7 @@ Os 11,4 (c.-à-d.
 humainement, avec bonté) ; de la corde de vie חֶבֶל הַכֶּסֶף
 Qo 12,6.
 
+@@SPLIT:sense@@
 2.
 cordeau, ligne de mesure
 מִדָּה
@@ -75,6 +77,7 @@ Di et d'autres, mais < voir
 חֵבֶל
 . De là
 
+@@SPLIT:sense@@
 3.
 portion mesurée, lot, part, région, נַחֲלָה
 ׳
@@ -111,6 +114,7 @@ So 2,6, mais
 ׳
 ח ; sans הים, So 2,7.
 
+@@SPLIT:sense@@
 4.
 troupe, compagnie de prophètes 1 S 10,5 ; 1 S 10,10. — II. חֶבֶל voir ci-dessous II. חָבַל
 .

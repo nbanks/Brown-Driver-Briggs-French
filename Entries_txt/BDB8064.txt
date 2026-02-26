@@ -9,17 +9,23 @@ tread, Syriac
 [placeholder5146: Placeholders/5146.gif]
 kick); —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 2 masculine singular וַתִּרְפֹּס
 Ezek 32:2, with
 accusative rivers; 2 masculine plural תִּרְפּשֹׁ֑וּן
 Ezek 34:18.
 
+@@SPLIT:stem@@
+
 Niph`al
 Participle
 מַעְיָן נִרְפָּשׂ
 Prov 25:26
 a fountain befouled.
+
+@@SPLIT:stem@@
 
 Hithpa`el (stamp oneself down, then figurative), Imperative
 masculine singular הִתְרַפֵּס

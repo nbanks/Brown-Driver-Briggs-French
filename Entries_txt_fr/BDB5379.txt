@@ -10,6 +10,7 @@ perforer, crever, évider
 Lane^2838^ ; éthiopien
 [placeholder3448: Placeholders/3448.gif] être borgne Di^645^) ; —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 3 masculin pluriel suffixe יִקְּרוּהָ
 Pr 30,17
@@ -18,6 +19,7 @@ Infinitif
 1 S 11,3, tous deux de
 percer, ou crever un œil (accusatif).
 
+@@SPLIT:stem@@
 Pi`el
 Imparfait 2 masculin singulier תְּנַקֵּר
 Nb 16,14 (
@@ -34,6 +36,7 @@ il (ou cela, c.-à-d. la nuit) perce mes os
 מֵעָלָ֑י (des effets de l'éléphantiasis ; Bu lit
 נֻקַּר).
 
+@@SPLIT:stem@@
 Pu`al
 Parfait 2 masculin pluriel נֻקַּרְתֶּם
 Es 51,1

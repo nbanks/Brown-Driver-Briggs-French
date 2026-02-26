@@ -4,6 +4,7 @@ hébreu biblique
 [זִנֵּב] verbe
 dénominatif
 
+@@SPLIT:stem@@
 Pi`el
 couper, ou frapper, la queue, seulement figuré, d'une attaque hostile en guerre ; Parfait
 consécutif 2 masculin pluriel וְזִנַּבְתֶּם

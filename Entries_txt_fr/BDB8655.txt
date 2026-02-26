@@ -23,6 +23,7 @@ couche ; arabe
 (comparer
 Hiph`il ci-dessous, et Lag^BN 63^)) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier ׳
 שׁ
@@ -248,6 +249,7 @@ mes douleurs rongeantes ne dorment pas ; = avoir du repos, לִבּוֺ
 Qo 2,23
 .
 
+@@SPLIT:stem@@
 Niph`al
 Pu`al = être couché avec (sexuellement ; sujet femme), seulement comme
 Qr
@@ -257,6 +259,7 @@ Kt
 Niph`al
 Pu`al q. v.
 
+@@SPLIT:stem@@
 Hiph`il
 coucher, Parfait 3 féminin singulier הִשְׁכִּיבָה avec
 accusatif puer. + בְּחֵיק
@@ -278,6 +281,7 @@ les faisant se coucher sur le sol ; Imparfait aussi coucher
 Jb 38,37 c.-à-d. les incliner pour que le contenu s'écoule (comparer arabe
 [placeholder5525: Placeholders/5525.gif] ci-dessus).
 
+@@SPLIT:stem@@
 Hoph`al
 Participe
 מֻשְׁכָּב

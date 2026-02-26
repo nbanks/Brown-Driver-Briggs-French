@@ -5,6 +5,8 @@ Biblical Hebrew
 be silent, inactive, still (chiefly in poetry and late) (Late Hebrew id.,
 Aramaic in derivatives) —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 2 masculine singular תֶּחֱשֶׁה
 Ps 28:1; Isa 64:11
@@ -24,6 +26,8 @@ Isa 65:6 of
 be still
 Ps 107:29
 (subject גַּלֵּיהֶם).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect

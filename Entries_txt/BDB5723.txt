@@ -13,6 +13,8 @@ hide, conceal (Late Hebrew id., derived species;
 veil, conceal, hide, Lane^1304^; Ethiopic
 [placeholder3676: Placeholders/3676.gif] (rare) Di^354^); —
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect 3 masculine singular נִסְתָּ֑ר
 Prov 27:12 +
@@ -88,15 +90,21 @@ whose way is hid that is, from himself), Zeph 2:3 (i.e. escape ׳
 of sins Ps
 19:13.
 
+@@SPLIT:stem@@
+
 Pi`el
 Imperative feminine singular סַתְּרִי
 Isa 16:3
 carefully hide (i.e. shelter) the outcasts (Moab speaks to Zion).
 
+@@SPLIT:stem@@
+
 Pu`al
 Participle feminine singular אַהֲבָה מְסֻתָּ֑רֶת
 Prov 27:5
 love carefully concealed.
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Imperfect 3 feminine singular תִּסְתַּתָּ֑ר
@@ -112,6 +120,8 @@ Ziphites 1Sam
 אֵל מ
 Isa 45:15
 a God that completely hides himself.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 masculine singular הִסְתִּיר

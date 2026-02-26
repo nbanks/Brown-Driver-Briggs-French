@@ -20,6 +20,8 @@ make bald (rare); Aramaic קְרַח,
 MI^3.21.24.25^
 proper name, of a location קרחה); —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 3 masculine plural יִקְרְחוּ קָרְחָה
 בְּראִשָׁם
@@ -34,10 +36,14 @@ Kt
 Mic 1:16
 make a baldness… for.
 
+@@SPLIT:stem@@
+
 Niph`al
 Imperfect 3 masculine singular יִקָּרֵחַ לָהֶם
 Jer 16:6 men
 shall not make themselves bald for them.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 plural consecutive וְהִקְרִיחוּ אֵלַיִח קָרְחָה
@@ -45,6 +51,8 @@ Ezek 27:31
 
 and they shall make a baldness (compare
 Qal >) for thee.
+
+@@SPLIT:stem@@
 
 Hoph`al
 Participle

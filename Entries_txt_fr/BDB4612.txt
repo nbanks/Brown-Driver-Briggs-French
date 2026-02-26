@@ -64,6 +64,7 @@ pluriel pronom Nb
 27,14 ; 2 R
 2,21 + ; comparer suffixe Jos 4,18 devant verbe pluriel Gn 1,9 ; Gn 1,20 ; Gn 1,21 ; Gn 7,17 + souvent ; après verbe pluriel Jos 3,13 ; Es 28,17 ; Pr 9,17 ; Ez 31,4 + ; rarement avec verbe singulier ; devant, Gn 9,15 ; Lv 11,34 ; Nb 20,2 ; Nb 24,7 ; Nb 33,14 ; 2 R 3,9 après, Nb 19,13 ; Nb 19,20) ; —
 
+@@SPLIT:sense@@
 1.
 
 a.
@@ -193,6 +194,7 @@ i. abîme primordial Gn 1,2 ; Gn 1,6 (
 P
 ).
 
+@@SPLIT:sense@@
 2. avec noms propres, de lieu (q. v.), pour désigner des sources, cours d'eau, ou mers appartenant à, près de,
 ces lieux : מֵימֵי מִצְרַיִם
 Ex 7,19 ; Ex 8,2
@@ -223,6 +225,7 @@ comparer aussi nom propre, d'un lieu מִשְׂרְפוֺת מַיִם
 Jos 11,8 ;
 Jos 13,6.
 
+@@SPLIT:sense@@
 3. usages spéciaux : מֵי רַגְלַיִם
 eau des pieds = urine 2 R 18,27 = Es 36,12 comparer מַדְמֵנָה בְּמֵי
 Es 25,10
@@ -270,6 +273,7 @@ et (figuré) Jr
 17,13. Voir aussi ci-dessous (comparer Nb 21,17 ; Nb 21,18 voir RS^Sem.i.127.157; 2nd
 ed.135,176^).
 
+@@SPLIT:sense@@
 4. parmi les emplois figurés :
 
 a. de la détresse Es 43,2 ; Ps 66,12 (|| אֵשׁ),

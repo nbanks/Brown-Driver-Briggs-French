@@ -4,6 +4,7 @@ hébreu biblique
 [מַעֲמָד] nom [masculin]
 office, fonction, service ; —
 
+@@SPLIT:sense@@
 1.
 poste, office, position (מַעֲמָֽדְךָ) Es 22,19 (|| מַצָּֽבְךָ),
 עַלמַֿעֲמָדָם
@@ -11,11 +12,13 @@ poste, office, position (מַעֲמָֽדְךָ) Es 22,19 (|| מַצָּֽבְך
 
 à leur poste.
 
+@@SPLIT:sense@@
 2.
 office, fonction
 1 Ch 23,28
 .
 
+@@SPLIT:sense@@
 3.
 service, probablement spécifiquement service à table (strictement manière
 de se tenir), construit מַעֲמַד מְשָֽׁרְתָיו

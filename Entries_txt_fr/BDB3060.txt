@@ -6,6 +6,7 @@ nom propre [d'un lieu et d'une personne] (comparer sabéen חצֿרן nom propre
 ou d'une tribu Hal^No. 661^
 DHM^ZMG 1883,15^) —
 
+@@SPLIT:sense@@
 1.
 nom propre [d'un lieu]
 
@@ -24,6 +25,7 @@ b.
 Jos 15,25
 autre ville de Juda au sud.
 
+@@SPLIT:sense@@
 2.
 nom propre, masculin
 

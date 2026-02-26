@@ -5,6 +5,8 @@ araméen biblique
 nom masculin et féminin
 quatre ; —
 
+@@SPLIT:sense@@
+
 1.
 masculin : devant nom féminin pluriel
 Dn 7,2 ; Dn 7,3
@@ -16,6 +18,8 @@ Esd 6,17 après
 nom féminin pluriel
 Dn 7,6 comme prédicat
 אַרְבַּ֑ע Dn 7,17.
+
+@@SPLIT:sense@@
 
 2.
 féminin : devant nom masculin pluriel

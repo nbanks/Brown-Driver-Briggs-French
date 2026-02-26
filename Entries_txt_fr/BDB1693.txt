@@ -4,6 +4,7 @@ hébreu biblique
 גֹּ֫מָר
 nom propre
 
+@@SPLIT:sense@@
 1.
 masculin
 a.
@@ -26,6 +27,7 @@ Gimirrai
 Dl^Pa 245 s.^ aussi Len^Or.ii.
 1, 332 ss.^
 
+@@SPLIT:sense@@
 2.
 féminin
 femme d'Osée, Os 1,3.

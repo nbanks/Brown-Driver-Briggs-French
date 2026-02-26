@@ -13,6 +13,8 @@ change, turn; Assyrian
 [placeholder1666: Placeholders/1666.gif] see DHM^ZK i. 357^); on form of Hebrew
 verb see Nö^ZMG. 1883, 536^) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 feminine singular חָ֫לָה
 Mic 1:12 + 2 t.;
@@ -171,6 +173,8 @@ Jer
 23:19 (v:a סער
 מִתְחוֺלֵל) = Jer 30:23 (v:a סַעַר מִתְגּוֺרֵר).
 
+@@SPLIT:stem@@
+
 Po`lel.
 Imperfect
 יְחוֺלֵל
@@ -250,6 +254,8 @@ Qal
 
 Job 35:14 (Elihu).
 
+@@SPLIT:stem@@
+
 Po`lal.
 Perfect
 חוֺלָ֑לתִּי
@@ -276,6 +282,8 @@ Prov
 8:24;
 Prov 8:25.
 
+@@SPLIT:stem@@
+
 Hiph`il
 Imperfect
 יָחִיל
@@ -285,6 +293,8 @@ anguish, with accusative מִדְבָּר, subject
 ׳
 י.
 
+@@SPLIT:stem@@
+
 Hoph`al
 Imperfect
 יוּחַל
@@ -293,6 +303,8 @@ Isa
 be born (= travailed with,
 Che), subject אֶרֶץ (||
 יִוָּלֵד גוי).
+
+@@SPLIT:stem@@
 
 Hithpo`el
 
@@ -319,6 +331,8 @@ Ps
 37:7
 wait longingly followed by לְ
 for, || דּוֺם.
+
+@@SPLIT:stem@@
 
 Hithpalpel
 Imperfect 3 feminine singular וַתִּתְחַלְחַל

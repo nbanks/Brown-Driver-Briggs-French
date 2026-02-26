@@ -8,12 +8,14 @@ façonner, modeler (hébreu tardif Pi`el étirer un enfant pour lui donner forme
 [placeholder3991: Placeholders/3991.gif]
 couper, retrancher [d'où l'idée de sculpter, façonner]) ; —
 
+@@SPLIT:stem@@
 Pi`el
 Parfait
 יָדֶיךָ עִצְּבוּנִי וַעיַּעֲשׂוּנִי
 Jb 10,8
 tes mains m'ont façonné, etc.
 
+@@SPLIT:stem@@
 Hiph`il
 Infinitif construit
 לְהַעֲצִבָה

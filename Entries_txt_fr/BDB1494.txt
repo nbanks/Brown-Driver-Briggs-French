@@ -9,6 +9,7 @@ tordre, tresser, arabe
 [placeholder813: Placeholders/813.gif]
 tordre une corde, rendre ferme, fort, devenir fort, ainsi hébreu tardif) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 ׳
@@ -96,6 +97,7 @@ a. maison de David Za 12,7
 
 b. Yahvé Ps 35,27 ; Ps 40,17 ; Ps 70,5 ; Ml 1,5, son nom 2 S 7,26 ( = 1 Ch 17,24).
 
+@@SPLIT:stem@@
 Pi`el
 Parfait
 גִּדַּל
@@ -163,12 +165,14 @@ a. l'homme Jb 7,17
 
 b. Dieu Ps 34,4 ; Ps 69,31.
 
+@@SPLIT:stem@@
 Pu`al
 Participe pluriel מְגֻדָּלִים
 élevés
 
 Ps 144,12.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait
 הִגְדִּיל
@@ -237,6 +241,7 @@ Ez 35,13 de parler עָלַי בְּפִיכֶם
 c. aussi, avec infinitif sous-entendu, pleura abondamment 1 S 20,41
 .
 
+@@SPLIT:stem@@
 Hithpa`el
 Parfait
 וְהִתְגַּדִּלְתִּ֫י

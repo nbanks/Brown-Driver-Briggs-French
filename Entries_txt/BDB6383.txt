@@ -4,6 +4,8 @@ Biblical Hebrew
 [עָרַךְ] verb
 denominative
 
+@@SPLIT:stem@@
+
 Hiph`il
 value (for taxation), tax (from עֵרֶח
 2.); — Perfect 3 masculine singular הֶעֶרִיח

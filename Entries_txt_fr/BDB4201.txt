@@ -5,6 +5,7 @@ II. כַּרְמֶל
 nom propre [d'une montagne et d'une ville]
 Carmel : —
 
+@@SPLIT:sense@@
 1. promontoire montagneux sur la Méditerranée, aux pentes fertiles, Tel el-Amarna (Ginti-
 ) Kirmil, Jastr^JBL xi. 1892, 115^
 ; Jos 19,26
@@ -40,6 +41,7 @@ Jr 46,18
 ) ; — sur le Carmel voir GASm^G. 337 ss.^
 Buhl^G. 23.^
 
+@@SPLIT:sense@@
 2. ville, 3 h. au sud d'Hébron, כַּרְמֶל
 Jos 15,55
 ׳

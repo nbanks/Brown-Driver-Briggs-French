@@ -5,6 +5,7 @@ hébreu biblique
 être robuste, fort, hardi, alerte (selon Lag^BN 28
 f.^ d'un plus ancien אָמֹץ comparer אֹמֶץ) —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3
 pluriel אָֽמְצוּ
@@ -40,6 +41,7 @@ sois hardi (toujours || חֲזַק, חִזְקוּ), Dt 31,7 ; Dt 31,23 ; Jos 1,
 אַל
 תִּירְאוּ וְאַל תֵּחָ֑תּוּ) Jos 10,25 ; 1 Ch 22,13 ; 1 Ch 28,20 ; 2 Ch 32,7.
 
+@@SPLIT:stem@@
 Pi`el
 Parfait
 אִמֵּץ
@@ -111,6 +113,7 @@ Dt 2,30
 י ; || הִקְשָׁה רוּחוֺ) Dt 15,7 (d'un homme sans pitié) ; 2 Ch 36,13 (du roi Sédécias, ||
 הִקְשָׁה אֶתעָֿדְפּוֺ).
 
+@@SPLIT:stem@@
 Hithpa`el
 Parfait
 הִתְאַמֵּץ
@@ -136,6 +139,7 @@ Rt 1,18
 se rendre alerte, se hâter 1 R 12,18 = 2 Ch 10,18 (suivi de
 ל + Infinitif)
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait>
 Jussif

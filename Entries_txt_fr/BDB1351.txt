@@ -11,6 +11,7 @@ Ps 73,1 féminin
 בָּרָה
 Ps 19,9 ; Ct 6,9 ; Ct 6,10 —
 
+@@SPLIT:sense@@
 1.
 pur, clair :
 בר לבב
@@ -24,12 +25,14 @@ homme Jb 11,4,
 commandements de Dieu Ps
 19,9.
 
+@@SPLIT:sense@@
 2.
 propre :
 אֵבוּס בָּר
 la crèche est propre
 Pr 14,4.
 
+@@SPLIT:sense@@
 3. peut-être adverbe נַשְּׁקובַֿר
 embrasser purement, d'un hommage sincère Ps 2,12 mais comparer I. בַּר, p.
 135.

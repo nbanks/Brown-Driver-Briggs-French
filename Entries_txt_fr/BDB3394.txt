@@ -19,6 +19,7 @@ de la pluie,
 [placeholder2157: Placeholders/2157.gif]
 pluie violente) —
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait 3 masculin singulier suffixe יוֺבִילֵנִי
 Ps 60,11 ;
@@ -51,6 +52,7 @@ ses pieds la portaient au loin pour séjourner (de Tyr comme ville colonisatrice
 mener, conduire, avec objet en suffixe, des exilés de retour Jr 31,9 armée triomphante,
 suivi d'accusatif de lieu, Ps 60,11 = Ps 108,11.
 
+@@SPLIT:stem@@
 Hoph`al
 Imparfait 3 masculin singulier יוּבַל(ֿׅ
 Es 18,7

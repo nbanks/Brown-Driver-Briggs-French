@@ -10,6 +10,8 @@ construction, pattern, figure ֯
 תַבְנִיתָם
 Exod 25:40 —
 
+@@SPLIT:sense@@
+
 1. apparently originally construction, structure, yet only
 P
 & late: ׳
@@ -20,6 +22,8 @@ in simile הֵיכָל
 ׳
 בְּנוֺתֵינוּ כְזָוִיּוֺת מְחֻטָּבִים תּ
 carved according to the construction of a palace, palace-fashion.
+
+@@SPLIT:sense@@
 
 2.
 pattern, according to which anything is to be constructed (
@@ -32,6 +36,8 @@ chariot, i.e. cherubim 1Chr 28:18
 מַלְאֲכוֺת הַתּ
 1Chr 28:19
 i.e. objects of which the patters is given.
+
+@@SPLIT:sense@@
 
 3.
 figure, image, Hexateuch only

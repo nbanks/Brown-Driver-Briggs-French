@@ -11,6 +11,7 @@ MV
 VB
 ; voir aussi W Max Müll^Asien u. Europa 136, 155, 156^) —
 
+@@SPLIT:sense@@
 1.
 adjectif [d'un peuple]
 ׳
@@ -25,6 +26,7 @@ P
 
 הַחִוִּי
 
+@@SPLIT:sense@@
 2.
 nom propre [d'un peuple] toujours avec article ; habituellement singulier collectif הַחֹרִיִ,
 anciens habitants du pays d'Édom Gn 14,6 (בְּהַרֲרָם שֵׂעִיר) ; dans
@@ -43,6 +45,7 @@ Di) ;
 ὁ Ξορραιος, οἱ Ξορραιοι, (Gn 36,29 ; Gn 36,30
 Ξορρ(ε)ι).
 
+@@SPLIT:sense@@
 3.
 nom propre, masculin [personne]
 

@@ -9,6 +9,8 @@ couper, (diviser,) déterminer (de même
 syriaque, dans les deux sens ; hébreu biblique habituellement diviser, Job, Esther,
 décréter) ; —
 
+@@SPLIT:stem@@
+
 Pe. Participe
 actif comme substantif, pluriel absolu גָָּֽזְרִין
 détermineurs (du destin ; astrologues ou devins) Dn 2,27 ; Dn 5,11 emphatique גָָּֽזְרַיָּא
@@ -16,6 +18,8 @@ Dn 4,4 ; Dn 5,7 (comparer
 Dr. ; arabe
 [placeholder5959: Placeholders/5959.gif]
 RS^JPhil. xiii (1885), 781^).
+
+@@SPLIT:stem@@
 
 Hithpeel
 Parfait 3 féminin singulier הִתְגְּזֶרֶת

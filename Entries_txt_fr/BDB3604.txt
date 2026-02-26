@@ -27,6 +27,7 @@ Jb 33,16 (pour
 Di
 SS) ; —
 
+@@SPLIT:sense@@
 1.
 discipline, correction,
 
@@ -145,6 +146,7 @@ Ez 16,22
 
 la discipline des insensés est folie ; de la discipline paternelle, correction, Pr 1,8 ; Pr 4,1 ; Pr 13,1.
 
+@@SPLIT:sense@@
 2. plus sévèrement, châtiment :
 
 a. de Dieu, יהוה

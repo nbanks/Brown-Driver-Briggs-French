@@ -12,6 +12,8 @@ Infinitif^
 למנתן
 S-C^C 6, 9^+) ; —
 
+@@SPLIT:stem@@
+
 Pe`al
 Imparfait 3 masculin singulier יִנְתִּןֿ (K^§
 42^) Dn 2,16, suffixe יִתְּנִנַּהּ

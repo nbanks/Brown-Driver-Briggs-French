@@ -13,6 +13,8 @@ fulfil, perform; Ethiopic
 give (entirely) over to, into power of,
 Di^349^) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 יָפִיתְ
@@ -26,11 +28,14 @@ be beautiful, subject person Song 4:10; Song 7:7 of feet v.Song 7:2 of Jerusalem
 of tree Ezek 31:7
 .
 
+@@SPLIT:stem@@
+
 Pi`el
 Imperfect 3 masculine singular suffix יְיַפֵּ֑הוּ
 Jer 10:4
 beautify an idol.
 
+@@SPLIT:stem@@
 The (Pe`al`al ?) Perfect form אָדָם
 יָפְיָפִיתָ מִבְּנֵי
 Ps 45:3 is
@@ -39,6 +44,8 @@ Ges^ § 55. 3^
 Sta^§ 156 R^
 Now (Kö^i. 583 f.^
 defence is artificial): thou art more beautiful than, etc.
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Imperfect 2 feminine singular תִּתְיַפִּי

@@ -16,10 +16,14 @@ Esth 5:6 +,
 שֶׁאֱלָתָם
 Ps 106:15 —
 
+@@SPLIT:sense@@
+
 1.
 request, petition, Judg 8:24; 1Kgs 2:16; 1Kgs 2:20 (both accusative of cognate meaning with verb with
 שָׁאַל), Esth 5:6; Esth 5:7 (with נָתַן = grant), Esth 7:2; Esth 7:3; Esth 9:12.
 This passes easily into
+
+@@SPLIT:sense@@
 
 2.
 thing asked for, 1Sam 2:20, with נָתַן

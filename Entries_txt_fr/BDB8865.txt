@@ -12,6 +12,7 @@ Gn 40,3 + ; suffixe
 Ne 7,3, etc. ; pluriel
 suffixe רָיו- Ne 13,14 —
 
+@@SPLIT:sense@@
 1.
 prison, בֵּית שַׂר הַטַּבָּחִים
 ׳
@@ -32,6 +33,7 @@ H
 P
 ).
 
+@@SPLIT:sense@@
 2.
 garde, Jr 51,12 ; Ne 4,3 ; Ne 4,16, ׳
 אַנְשֵׁי הַמּ v.Ne 4,17
@@ -52,6 +54,7 @@ douteux, Hi
 Co Toy et autres réserve ; Krae
 לְמשֵׁל.
 
+@@SPLIT:sense@@
 3. pluriel observances, services, du temple Ne 13,14.
 
 ---

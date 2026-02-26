@@ -16,6 +16,8 @@ CIS^iv, 1, No, 56^, Aramaic בְּנָא,
 [placeholder633: Placeholders/633.gif], Palmyrene בנא
 Vog^No. 31^) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 ׳
@@ -466,6 +468,8 @@ compare Jer 45:4
 & Ps
 28:5
 object Zion Ps 102:17.
+
+@@SPLIT:stem@@
 
 Niph`al
 Perfect

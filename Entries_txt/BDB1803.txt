@@ -13,6 +13,8 @@ dabâbu
 , plot, plan,
 COT^Gloss^, compare דִּבָּה) — only
 
+@@SPLIT:stem@@
+
 Qal
 Participle
 דּוֺבֵב שִׂפְתֵי יְשֵׁנִים

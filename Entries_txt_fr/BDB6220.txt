@@ -12,6 +12,8 @@ Gn 27,9 + 65 t. ;
 suffixe עִזֶּיךָ
 Gn 31,38 —
 
+@@SPLIT:sense@@
+
 1. comme propriété Gn 30,32 ; Gn 30,33 ; Gn 30,35 (
 J
 ), Gn 31,15
@@ -20,6 +22,8 @@ J
 E
 ), 1 S 25,2
 .
+
+@@SPLIT:sense@@
 
 2. comme nourriture : גְּדָיֵי (גְּדִי) עִזִּים
 chevreau(x) de chèvres
@@ -38,6 +42,8 @@ P
 חֲלֵב ע
 Pr 27,27
 lait de chèvres.
+
+@@SPLIT:sense@@
 
 3. comme victime sacrificielle, surtout
 P
@@ -104,11 +110,15 @@ Lv 4,28 ; Lv 5,6
 
 boucs.
 
+@@SPLIT:sense@@
+
 4.
 עִזִּים = poil de chèvre, comme matériau 1 S 19,13 ; 1 S 19,16 ; Ex 25,4 + 6 t.
 P
 (Ex 35,26
 objet de טָווּ !).
+
+@@SPLIT:sense@@
 
 5. en comparaison חֲשַׂפֵי עִזִּים
 1 R 20,27
@@ -118,6 +128,8 @@ objet de טָווּ !).
 כְּעֵדַר הָע
 Ct 4,1 ; Ct 6,5, de la chevelure flottante,
 ondulante.
+
+@@SPLIT:sense@@
 
 6.
 ׳

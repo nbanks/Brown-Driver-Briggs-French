@@ -5,6 +5,7 @@ hébreu biblique
 nom propre, masculin
 lévites : —
 
+@@SPLIT:sense@@
 1.
 1 Ch 15,18 ;
 1 Ch 15,20,
@@ -16,6 +17,7 @@ lévites : —
 
 Ανανιας.
 
+@@SPLIT:sense@@
 2.
 Ne 12,9
 

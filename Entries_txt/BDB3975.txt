@@ -7,12 +7,16 @@ lie, be a liar (Arabic
 [placeholder2488: Placeholders/2488.gif]
 id. chiefly Pa`el; Late Hebrew כָּזַב) —
 
+@@SPLIT:stem@@
+
 Qal
 Participle
 כָּלהָֿאָדָם כֹּזֵב
 Ps 116:11
 (compare כָּזָּב
 Ps 62:10).
+
+@@SPLIT:stem@@
 
 Niph`al
 Perfect 3 feminine singular תֹּחַלְתּוֺ נִכְזָ֑בָה
@@ -21,6 +25,8 @@ his hope has been made deceptive, i.e. been shewn to be so; 2 masculine singular
 consecutive וְנִכְזָ֑בְתָּ
 Prov 30:6
 lest he convict thee and thou be proven a liar.
+
+@@SPLIT:stem@@
 
 Pi`el
 Perfect 3 masculine singular כִּזֵּב
@@ -50,6 +56,8 @@ with, i.e. in intercourse, conversation with 2Kgs 4:16.
 
 2.
 disappoint, fail, of a divine revelation Hab 2:3 waters of a spring Isa 58:11.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imperfect 3 masculine singular suffix יַכְזִיבֵנִי

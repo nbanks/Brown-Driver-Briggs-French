@@ -13,6 +13,8 @@ Lzb^238^
 SAC^27^
 Cooke^191^ ; comparer hébreu biblique) ; —
 
+@@SPLIT:stem@@
+
 Pe`al
 Parfait 3 masculin singulier impersonnel עֲלוֺהִי
 ׳

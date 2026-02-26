@@ -5,6 +5,7 @@ hébreu biblique
 nom [masculin]
 ce qui entoure, ou est rond ; —
 
+@@SPLIT:sense@@
 1.
 
 a. pluriel lieux environnants, מְסִבֵּי
@@ -22,6 +23,7 @@ de tous côtés, dans toutes les directions, Jb 37,12 (du nuage Di
 < de l'éclair Bu
 Du).
 
+@@SPLIT:sense@@
 2. suffixe מְסִבּוֺ
 Ct 1,12
 douteux : table ronde

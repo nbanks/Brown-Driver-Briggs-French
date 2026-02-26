@@ -19,6 +19,8 @@ Isa 31:9 plural
 סְלָעִים
 Isa 2:21 +; —
 
+@@SPLIT:sense@@
+
 1. literally cliff, crag
 Judg 6:20; Isa 2:21; Isa 7:19; Amos 6:12; Num 20:8 (twice in
 verse); Num 20:10
@@ -54,6 +56,8 @@ compare 1Sam 23:25
 see also II.
 סֶלַע
 .
+
+@@SPLIT:sense@@
 
 2.
 figurative, especially סַלְעִי of ׳

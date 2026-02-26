@@ -25,6 +25,8 @@ Lzb^374^, Aramaic שְׁחַת,
 [placeholder5503: Placeholders/5503.gif]), multilate; — very improbable
 Gerber^179 denominative^ from שַׁחַת); —
 
+@@SPLIT:stem@@
+
 Niph`al
 be marred, spoiled, Perfect 3 masculine singular נִשְׁחַת, of
 waistcloth
@@ -45,6 +47,8 @@ P
 P
 ); so Participle feminine plural as adjective נִשְׁחָתוֺת
 Ezek 20:44.
+
+@@SPLIT:stem@@
 
 Pi`el
 Perfect 3 masculine singular שִׁחֵת
@@ -116,6 +120,8 @@ E
 ׳
 שׁ
 Deut 32:5.
+
+@@SPLIT:stem@@
 
 Hiph`il_103_
 Perfect 3 masculine singular הִשְׁחִית
@@ -265,6 +271,8 @@ Prov 59:1
 
 Prov 75:1
 .
+
+@@SPLIT:stem@@
 
 Hoph`al
 Participle

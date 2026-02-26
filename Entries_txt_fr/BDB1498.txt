@@ -39,6 +39,7 @@ Dt 27,2 + 30 t.,
 Nb 13,28 + 7
 t. ; — grand,
 
+@@SPLIT:sense@@
 1.
 en grandeur et en étendue, p. ex. mer Nb 34,6, fleuve Gn 15,18, désert Dt 1,19, pluie 1 R 18,45, montagne Za 4,7, ville
 Gn 10,12,
@@ -57,12 +58,14 @@ Dn 11,2, victoire 1 S 19,5 ; 1 S 19,22
 We
 Dr.
 
+@@SPLIT:sense@@
 2.
 en nombre, p. ex. nation Gn 12,2, assemblée Jr 31,8, camp 1 Ch 12,22, armée Ez 17,17, sacrifice 2 R 10,19
 , carnage Dt
 28,59 ; 1 S
 4,17.
 
+@@SPLIT:sense@@
 3.
 en intensité, crainte Dt 4,34, pleurs Es 38,3, puissance כּחַ
 Ex 32,11,
@@ -72,12 +75,15 @@ colère Dt 29,23
 Jr 21,5, péché
 Gn 20,9, iniquité Gn 4,13, mal Gn 39,9, transgression Ez 9,7.
 
+@@SPLIT:sense@@
 4.
 en son, voix forte Gn 39,14, cri Ex 11,6, clameur Jos 6,5.
 
+@@SPLIT:sense@@
 5.
 en âge, aîné, fils Gn 27,1, fille Gn 29,16, frère Gn 10,21, sœur Ez 16,46.
 
+@@SPLIT:sense@@
 6.
 en importance,
 
@@ -183,6 +189,7 @@ Ne 9,25,
 compassion
 Es 54,7.
 
+@@SPLIT:sense@@
 7. dans les expressions עוֺד הַיּוֺם גָּדוֺל
 il fait encore grand jour (le jour est à son apogée) Gn 29,7
 כַּקָּטֹן כַּגָּדֹל (ou inversement) aussi bien petit que grand
@@ -206,11 +213,13 @@ Jr 6,13 ; Jr 8,10 ; Jr 31,34 ;
 Jr 42,1 ; Jr 42,8 ; Jr 44,12 ;
 Jon 3,5.
 
+@@SPLIT:sense@@
 8. construit גְּדֹל (הַ)כְּנָפַיִם
 grand d'ailes Ez 17,8 ; Ez 17,7, ainsi de la colère Pr 19,19 (
 Qr
 ) ; habituellement de Dieu, en puissance Na 1,3, conseil Jr 32,19, miséricorde Ps 145,8.
 
+@@SPLIT:sense@@
 9. comme substantif concret עשׂה גדלות
 faire de grandes choses, des grands actes de rédemption et de jugement de Dieu Dt 10,21 ; Jb 5,9 ; Jb 9,10 ; Jb 37,5 ; Ps 71,19 ;
 Ps 106,21
@@ -235,6 +244,7 @@ Dn
 aussi Ap 13,5
 ).
 
+@@SPLIT:sense@@
 10. comme substantif neutre grandeur du bras Ex 15,16 comparer גָּבֹהַּ
 4.
 

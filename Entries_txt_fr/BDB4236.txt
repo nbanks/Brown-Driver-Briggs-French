@@ -5,6 +5,7 @@ hébreu biblique
 nom [masculin]
 habileté, succès ; —
 
+@@SPLIT:sense@@
 1.
 habileté, בְּחָכְמָה וּבְדַעַת וּבְכִשְׁר֑וֺן
 Qo 2,21
@@ -13,6 +14,7 @@ construit כָּלכִּֿשְׁרוֺן
 Qo 4,4
 toute habileté dans le travail = travail habile.
 
+@@SPLIT:sense@@
 2.
 succès, profit, וּמַהכִּֿשְׁרוֺן לִבְעָלָיהָ
 Qo 5,10

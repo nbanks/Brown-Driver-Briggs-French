@@ -9,6 +9,7 @@ se contracter ; dans ce cas ׳
 ס pour ׳
 שׂ) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier מִפַּחְדְּךָ בְשָׂרִי
 ׳
@@ -16,6 +17,7 @@ Parfait 3 masculin singulier מִפַּחְדְּךָ בְשָׂרִי
 Ps 119,20
 de ta crainte ma chair s'est hérissée, 'a frémi.'
 
+@@SPLIT:stem@@
 Pi`el
 Imparfait
 תְּסַמֵּר שַׂעֲרַת בְּשָׂרִי

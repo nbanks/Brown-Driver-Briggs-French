@@ -4,8 +4,12 @@ Biblical Hebrew
 סִיג, שִׂיג
 noun [masculine]
 
+@@SPLIT:sense@@
+
 1.
 a moving back or away;
+
+@@SPLIT:sense@@
 
 2.
 dross (what is removed from metal);
@@ -26,6 +30,8 @@ Ezek 22:18 +
 2 t.; suffix סִיגָ֑יִךָ
 Isa 1:25 —
 
+@@SPLIT:sense@@
+
 1.
 a moving back, away:
 שִׂיג לוֺ
@@ -34,6 +40,8 @@ a moving back, away:
 there is a moving back to him = he has moved back, away (probably of temporary
 withdrawal, different from דֶּרֶךְ
 journey).
+
+@@SPLIT:sense@@
 
 2.
 dross, usually of silver Prov 25:4 (מִכָּ֑סֶף), Prov 26:23

@@ -27,6 +27,8 @@ pluriel construit רֻבֵּי
 Os 8,12 voir
 ci-dessous ;
 
+@@SPLIT:sense@@
+
 1.
 multitude (env. 125 t.) : de personne Os 10,13 ; Pr 14,28 ; Pr 20,6 ; Est 10,3 + ; de choses Es 1,11 ; Es 47,12 ;
 Ez 27,18
@@ -106,6 +108,8 @@ J
 ), 1 R 3,8
 ; 1 R 8,5
 = 2 Ch 5,6.
+
+@@SPLIT:sense@@
 
 2.
 grandeur (env. 26 t.) : שִׂיחִי

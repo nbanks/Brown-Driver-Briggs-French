@@ -18,11 +18,13 @@ mêšêriš
 , righteously, Dl^HWB 310^
 ) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 יָשַׁר
 Jer 18:4 + 2 t.; 3
-feminine יָשְׁרָה
+feminine יָשְׁרָה
 Judg 14:3; Hab 2:4 3 masculine
 plural יָָֽשְׁרוּ
 1Kgs 9:12
@@ -62,6 +64,8 @@ Jer 18:4.
 Hab 2:4
 his soul is not upright in him (opposed to עֻפְּלָה
 swollen).
+
+@@SPLIT:stem@@
 
 Pi`el
 Perfect 1 ׳
@@ -125,12 +129,16 @@ esteem right, approve
 Ps
 119:128 (read כל פקודיך לי יִשָּׁ֑רְתִּי).
 
+@@SPLIT:stem@@
+
 Pu`al
 Participle
 זָהָב מְיֻשָּׁר
 1Kgs 6:35
 
 gold made level, laid smoothly out, upon the graven work.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imperfect 3 plural עַפְעַפֶּיךָ יַיְשִׁרוּ נֶגְדֶּ֑ךָ

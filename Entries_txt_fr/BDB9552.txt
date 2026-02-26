@@ -4,6 +4,7 @@ araméen biblique
 [חֲתַם] verbe
 sceller (voir hébreu biblique) ; —
 
+@@SPLIT:stem@@
 Pe`al
 Parfait 3 masculin singulier suffixe (de la pierre) חַתְמֶהּ
 Dn 6,18 (

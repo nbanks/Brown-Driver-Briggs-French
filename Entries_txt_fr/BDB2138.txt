@@ -27,6 +27,7 @@ Pr 28,8 pluriel
 suffixe הוֺנַיִךְ
 Ez 27,33 —
 
+@@SPLIT:sense@@
 1.
 richesse
 Ps 112,3 (||
@@ -43,6 +44,7 @@ voir Pr 19,4
 Pr 24,4 ; Pr 28,22
 (opposé à חֶסֶר) Pr 29,3 ; Ez 27,12 ; Ez 27,18 ; Ez 27,27 ; Ez 27,33.
 
+@@SPLIT:sense@@
 2. avec מָכַר + בְּ pretii, = grande valeur, ou
 prix
 תִּעמכֹּר עַמְּךָ בְּלֹא הוֺן
@@ -50,6 +52,7 @@ Ps 44,13 —
 c.-à-d.
 à vil prix, = « pour rien du tout » (|| מחיר).
 
+@@SPLIT:sense@@
 3.
 suffisance, assez ! en exclamation Pr 30,15 ; Pr 30,16 (ainsi aussi
 

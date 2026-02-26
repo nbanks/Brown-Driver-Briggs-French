@@ -6,6 +6,7 @@ nom propre [d'un lieu] (proprement point ou hauteur d'observation
 
 ; avec article (sauf Os Jos 5,1)) ; —
 
+@@SPLIT:sense@@
 1.
 en Galaad, explication comme nom donné au cairn de Laban, au nord du Jabbok
 Gn 31,49 (sur le
@@ -15,6 +16,7 @@ texte voir Ball Holz ;
 
 ἡ ὅρασις).
 
+@@SPLIT:sense@@
 2.
 probablement au sud du Jabbok, Jg 10,17 (ἡ σκοπιά), Jg 11,11 ; Jg 11,34 (Μασσηφα ; ainsi
 
@@ -30,6 +32,7 @@ Buhl^Geogr. 262^ (פֶּה-,
 פָּה-, semblent alterner) ; site inconnu ; voir conjectures dans
 Buhl^l.c.^, comparer GASm^Geogr. 586.^
 
+@@SPLIT:sense@@
 3. près de l'Hermon, ׳
 אֶרֶץ הַמּ
 Jos 11,3,
@@ -40,6 +43,7 @@ Jos 11,8,
 
 Μασσηφα ; voir Buhl^Geogr. 240.^
 
+@@SPLIT:sense@@
 4. ancien lieu sacré en Benjamin, Μασσηφα, etc. ; — ׳
 הַמּ
 Jg 20,1 +,

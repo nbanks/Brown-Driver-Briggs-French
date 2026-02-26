@@ -40,6 +40,7 @@ Gn 30,26 ; 1 R 20,7
 Ex 22,23 +,
 etc. ; —
 
+@@SPLIT:sense@@
 1.
 femme
 Gn 3,1 ; Gn 3,2 ; Gn 12,11 + ;
@@ -155,6 +156,7 @@ Pr 25,24
 Pr 21,19
 .
 
+@@SPLIT:sense@@
 2.
 Épouse (femme appartenant à un homme, habituellement construit ou suffixe) Gn 2,24 ; Gn 2,25 ; Gn 3,8 ; Gn 3,17 ; Gn 4,1 ; Gn 4,17 + souvent ; d'une fiancée (ארשׂ
 ) Dt 20,7
@@ -186,9 +188,11 @@ Ml 2,14 ; Ml 2,15
 Ml 2,14
 אֵשֶׁת אָב = belle-mère Lv 18,8 ; Lv 18,11 ; Lv 20,11.
 
+@@SPLIT:sense@@
 3.
 Femelle d'animaux Gn 7,2 (deux fois dans le verset) ; voir aussi ci-dessous 4.
 
+@@SPLIT:sense@@
 4. Avec sens distributif et réciproque, מֵאֵת
 ׳
 א

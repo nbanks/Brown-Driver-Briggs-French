@@ -11,6 +11,8 @@ be just, right, obligatory, also make or decide to be just
 justness, truth, necessity, obligation; Ethiopic
 [placeholder1939: Placeholders/1939.gif] adjective moderate, sufficient; compare also חקה) —
 
+@@SPLIT:stem@@
+
 Qal
 וְחַקּוֺתָ֫
 Ezek 4:1 suffix
@@ -60,6 +62,8 @@ Po`el)
 Judg
 5:9 (|| מחקקים Judg 5:14).
 
+@@SPLIT:stem@@
+
 Po`el
 Imperfect
 יְחוֺקְקוּ
@@ -106,12 +110,16 @@ Gen
 49:10 (|| שֵׁבֶט), Num 21:18 (both poetry), Ps 60:9 = Ps
 108:9.
 
+@@SPLIT:stem@@
+
 Pu`al
 Participle
 מְחֻקָּק
 that which is decreed
 
 Prov 31:5 (late).
+
+@@SPLIT:stem@@
 
 Hoph`al
 Imperfect

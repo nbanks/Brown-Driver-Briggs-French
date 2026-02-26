@@ -6,6 +6,8 @@ verbe
 dénominatif
 Niph`al etc., être extraordinaire, surpassant (comparer Gerber^212^) ; —
 
+@@SPLIT:stem@@
+
 Niph`al
 Parfait 3 féminin singulier נִפְלָאת
 Ps 118,23
@@ -90,11 +92,15 @@ Mi 7,15 ;
 Ps 78,11
 .
 
+@@SPLIT:stem@@
+
 Pi`el
 Infinitif construit לְפַלֵּא נֶדֶר
 faire une offrande votive spéciale, Lv 22,21 ; Nb 15,3 ; Nb 15,8 (
 P
 ).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Hiph`il
@@ -169,6 +175,8 @@ a agi merveilleusement en recevant de l'aide ; du temple גָּדוֺל
 
 Jg 13,19
 opérant des merveilles en agissant.
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Imparfait

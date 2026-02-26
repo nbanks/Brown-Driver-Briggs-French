@@ -13,6 +13,8 @@ id.;
 Esth 8:15 =
 Biblical Hebrew); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 feminine singular צָֽהֲלָה
 Esth 8:15 3

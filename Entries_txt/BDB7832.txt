@@ -10,6 +10,8 @@ Niph`al
 Hiph`il
 3]? so Thes); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 plural כְּפִירִים רָשׁוּ וְרָעֵ֑בוּ
 Ps 34:11
@@ -31,6 +33,8 @@ Eccl 4:14 as substantive = poor man (
 men), 2Sam 12:3; Ps 82:3; Eccl 5:7, especially Prov 10:4; Prov 13:8
 ; Prov 13:23
 + 12 t. Proverbs.
+
+@@SPLIT:stem@@
 
 Hithpo`lel
 Participle

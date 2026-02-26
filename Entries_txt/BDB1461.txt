@@ -14,12 +14,14 @@ constraint; Ethiopic
 play the man, is denominative from
 [placeholder795: Placeholders/795.gif] man) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 ׳
 ג
 Ps 103:11 +
-5 t.; גָּבְרוּ
+5 t.; גָּבְרוּ
 Gen 7:19 + 6 t.;
 גָּבֵ֑רוּ
 2Sam 1:23
@@ -30,7 +32,7 @@ Imperfect
 Gen 7:18; Gen 7:24 —
 
 1.
-be strong, mighty, absolute גָּבְרוּ חַיִל
+be strong, mighty, absolute גָּבְרוּ חַיִל
 mighty in power
 Job 21:7 with
 מִן
@@ -64,6 +66,8 @@ prevail over, subject enemies 2Sam 11:23, blessings Gen 49:26(
 J
 ), mercy of God Ps 103:11; Ps 117:2.
 
+@@SPLIT:stem@@
+
 Pi`el
 Perfect
 גִּבַּרְתִּי
@@ -77,6 +81,8 @@ Eccl 10:10
 
 make strong, strengthen.
 
+@@SPLIT:stem@@
+
 Hiph`il
 Perfect
 הִגְבִּיר בְּרִית לְ
@@ -89,6 +95,8 @@ Ew
 Ol
 Che (or, to our tongue will we give strength Hi
 De) Ps 12:5.
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Imperfect

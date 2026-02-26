@@ -11,6 +11,7 @@ avoir peu de cheveux,
 [placeholder3083: Placeholders/3083.gif]
 arracher les cheveux) ; —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 1 singulier וָאֶמְרְטָה
 Esd 9,3, suffixe 3
@@ -60,6 +61,7 @@ Sm
 Co
 Berthol).
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait
 יִמָּרֵט ראֹשׁוֺ
@@ -68,6 +70,7 @@ Lv 13,40
 13,41
 sa tête est rendue chauve (par la lèpre).
 
+@@SPLIT:stem@@
 Pu`al
 Parfait 3 féminin singulier מֹרָ֑טָה
 Ez

@@ -33,6 +33,8 @@ festival,
 affirmed
 Dl^HWB 32^); — only intensive :
 
+@@SPLIT:stem@@
+
 Pi`el
 surround (compare Ethiopic), Perfect 3 masculine singular suffix
 עִוְּדֻנִי
@@ -40,10 +42,14 @@ Ps 119:61
 (compare סְבָבוּנִי
 Ps 18:6).
 
+@@SPLIT:stem@@
+
 Pol`el, restore, relieve (compare Arabic IV.), Imperfect 3
 masculine
 singular יְעוֺדֵד, with accusative of person Ps 146:9 (|| שָׁמַר, opposed to
 עִוֵּת), Ps 147:6 (opposed to הִשְׁפִּיל).
+
+@@SPLIT:stem@@
 
 Hithpolel
 be restored, Imperfect 1 plural וַנִּתְעוֺדָּ֑ד

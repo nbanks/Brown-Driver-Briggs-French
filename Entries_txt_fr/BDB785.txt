@@ -13,6 +13,7 @@ mirsu
 Pi`el
 Pu`al ;
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 3 masculin singulier אֵרֵשׂ
 Dt 20,7
@@ -31,6 +32,7 @@ suivi de ב du prix payé au père et ל du mari 2 S 3,14
 ב du don à la fiancée et ל du mari Os 2,21 ; Os 2,22, où figuré
 de l'alliance miséricordieuse de Yahvé envers Israël.
 
+@@SPLIT:stem@@
 Pu`al
 Parfait 3 féminin singulier אֹרָ֑שָׂה
 être fiancée, avec לֹא, sujet בְּתוּלָה

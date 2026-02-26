@@ -6,6 +6,7 @@ conduire, guider (arabe
 [placeholder3263: Placeholders/3263.gif]
 aller dans la direction de, tourner (les yeux) vers) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait suffixe נָחַ֫נִי
 Gn 24,27 + 2
@@ -37,6 +38,7 @@ Ps 5,9 (|| הושׁר דרך), Ps 27,11 (suivi de בְּאֹרַה ; || הורה
 ), Ps
 139,24 (suivi de בדרך עולם) ; comparer Es 58,11.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait suffixe הִנְחַ֫נִי
 Gn 24,48 2

@@ -6,6 +6,7 @@ I. [יָעֵף] verbe
 [placeholder2255: Placeholders/2255.gif]
 courir et montrer de la lassitude) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 וְיָעֵ֑פוּ consécutif Jr 51,58 ; Jr 51,64
@@ -28,6 +29,7 @@ craignant Dieu Es
 40,31 (|| id.) ; être défaillant par manque d'eau Es 44,12 (||
 אֵין כֹּחַ par la faim).
 
+@@SPLIT:stem@@
 Hoph`al
 Participe
 épuisé

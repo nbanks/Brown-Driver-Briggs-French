@@ -12,6 +12,8 @@ promise, threaten, predict, III. appoint a time or place
 , decide, M-A^17^
 Dl^HWB 230^; Phoenician proper name אשמניעד) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect suffix יְעָדוֺ
 2Sam 20:5
@@ -25,6 +27,8 @@ J
 
 E
 ).
+
+@@SPLIT:stem@@
 
 Niph`al
 Perfect
@@ -77,6 +81,8 @@ P
 P
 ).
 
+@@SPLIT:stem@@
+
 Po`el
 Perfect 1 singular יוֺעַדְתִּי (for
 
@@ -92,6 +98,8 @@ Dr
 Kit
 Bu.
 
+@@SPLIT:stem@@
+
 Hiph`il
 Imperfect
 מִי
@@ -104,6 +112,8 @@ Job 9:19
 
 who will make me meet him at the appointed place (of judgement)? i.e.
 who will summon or arraign me?
+
+@@SPLIT:stem@@
 
 Hoph`al
 Participle

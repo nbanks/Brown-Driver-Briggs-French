@@ -10,10 +10,12 @@ Gn 4,19 + 7 t. ;
 לָ֑מֶךְ
 Gn 4,18 + 2 t. ; —
 
+@@SPLIT:sense@@
 1. fils de מְתוּשָׁאֵל (Caïnite) Gn 4,18 ; Gn 4,19 ; Gn 4,23 (deux fois dans le verset) ; Gn 4,24 (tous
 J
 ).
 
+@@SPLIT:sense@@
 2. fils de מְתוּשֶׁלַח (Séthite) Gn 5,25 ; Gn 5,26 ; Gn 5,28 ; Gn 5,30 ; Gn 5,31 (tous
 P
 ), 1 Ch 1,3.

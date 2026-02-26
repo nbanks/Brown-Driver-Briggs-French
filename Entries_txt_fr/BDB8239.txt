@@ -18,6 +18,8 @@ comprendre, rendre sage ;
 , habileté, Meissn^Suppl.93^
 ) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Parfait 3 masculin singulier ׳
 שׂ
@@ -26,6 +28,8 @@ Parfait 3 masculin singulier ׳
 HPS) ; Kit
 Buhl
 Gerber et autres : prospérer.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Parfait 3 masculin singulier הִשְׂכִּיל

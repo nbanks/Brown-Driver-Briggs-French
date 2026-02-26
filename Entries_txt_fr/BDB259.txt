@@ -10,6 +10,7 @@ aller (surtout en poésie) (
 id., araméen biblique אֲזַל, syriaque
 [placeholder121: Placeholders/121.gif]) —
 
+@@SPLIT:stem@@
 Qal. Parfait
 אַזַל
 1 S 9,7 3 féminin
@@ -32,6 +33,7 @@ force) ; suivi de מִן
 הַלֶּחֶם אָזַל מִכֵּלֵינוּ ; Jb 14,11
 אָֽזְלוּ מַיִם מִנִּייָֿם
 
+@@SPLIT:stem@@
 Pu`al
 Participe
 מְאוּזָּל

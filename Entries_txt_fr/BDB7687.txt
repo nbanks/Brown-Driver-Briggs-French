@@ -6,6 +6,7 @@ nom masculin^
 Dt 32,33
 ^ une herbe amère et vénéneuse, puis venin, toujours figuré ; —
 
+@@SPLIT:sense@@
 1. une herbe amère et vénéneuse, + (ou ||) לַעֲנָה
 Dt 29,17 ;
 Lm 3,19, ainsi (
@@ -27,6 +28,7 @@ Os 10,4,
 הְפַכְתֶּם לר
 Am 6,12.
 
+@@SPLIT:sense@@
 2.
 venin, de serpents, פְּתָנִים
 ׳

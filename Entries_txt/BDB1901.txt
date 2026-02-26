@@ -8,6 +8,8 @@ push, thrust (Late Hebrew id., Aramaic דְּחִי,
 [placeholder1121: Placeholders/1121.gif]; cf also Arabic
 [placeholder1122: Placeholders/1122.gif], spread, extend, also throw, propel) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 2 masculine singular suffix דְּחִיתַנִי
 Ps 118:13
@@ -46,6 +48,8 @@ wall
 Ps 62:4 (||
 קיר נטוי).
 
+@@SPLIT:stem@@
+
 Niph`al
 Imperfect
 יִדָּחֶה
@@ -57,6 +61,8 @@ Isa 11:12;
 Isa 56:8; Ps 147:2,
 see below נדח); — be thrust or cast down,
 figurative of wicked Prov 14:32, compare Ps 35:6 above
+
+@@SPLIT:stem@@
 
 Pu`al
 Perfect 3 plural

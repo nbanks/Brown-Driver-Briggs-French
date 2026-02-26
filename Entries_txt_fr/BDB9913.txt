@@ -9,9 +9,13 @@ Dn 2,6 +, féminin
 pluriel שֵׂגִּיאָן
 Dn 2,48 ; Esd 5,11 —
 
+@@SPLIT:sense@@
+
 1.
 grand, d'une image Dn 2,31 (dans une vision), hauteur d'un arbre Dn 4,7 (id.) ; d'honneur
 Dn 2,6.
+
+@@SPLIT:sense@@
 
 2.
 beaucoup, fruit
@@ -21,6 +25,8 @@ Dn 4,9 ; Dn
 années Esd
 5,11, dons
 Dn 2,48.
+
+@@SPLIT:sense@@
 
 3. comme adverbe extrêmement, Dn 2,12 ; Dn 5,9 ; Dn 6,15 ; Dn 6,24 ; Dn 7,28.
 

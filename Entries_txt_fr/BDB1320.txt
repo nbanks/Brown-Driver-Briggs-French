@@ -7,6 +7,7 @@ traverser, fuir (comparer allemand durchgehen (arabe
 [placeholder700: Placeholders/700.gif]
 s'en aller, se retirer, fuir) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 בָּרַח
@@ -139,6 +140,7 @@ fuir, suivi de l'infinitif 1 R 11,17 ; Dn 10,7.
 3. fuir = se hâter, venir vite
 Ct 8,14.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait
 הִבְרִיחוּ

@@ -17,6 +17,8 @@ Soc^Arab. Dial.^ voir Marokko 44, Anm. 103 ;
 Gn 32,28 ; Gn 43,3 et
 ailleurs) ; —
 
+@@SPLIT:sense@@
+
 1. après une négation (= hébreu biblique כִּי אִם, q. v.) :
 
 a.
@@ -25,6 +27,8 @@ Dn 2,11 ; Dn 3,28 ; Dn 6,6 ; Dn 6,8.
 
 b.
 mais (allemand sondern) Dn 2,30.
+
+@@SPLIT:sense@@
 
 2. sans négation : cependant, mais
 Esd 5,12.

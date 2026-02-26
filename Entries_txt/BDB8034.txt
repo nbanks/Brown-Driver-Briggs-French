@@ -24,6 +24,8 @@ Jer 44:9; Exod 23:2 suffix
 1Sam 10:19 +,
 etc.; —
 
+@@SPLIT:sense@@
+
 1.
 evil, misery, distress:
 פַּחַד רָעָה
@@ -100,6 +102,8 @@ J
 ; Jer
 26:13; Jer 26:19; Jer 42:10.
 
+@@SPLIT:sense@@
+
 2.
 evil, injury, wrong:
 עשׂה רעה
@@ -170,6 +174,8 @@ Eccl 2:21
 רָעָה חוֺלָה
 Eccl 5:12;
 Eccl 5:15.
+
+@@SPLIT:sense@@
 
 3. ethical evil, 1Sam 12:17; 1Sam 12:19; 1Sam 24:12; 1Sam 26:18;
 

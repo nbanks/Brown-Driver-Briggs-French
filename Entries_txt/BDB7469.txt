@@ -8,10 +8,14 @@ bind together; Aramaic קְמַט = Biblical Hebrew;
 [placeholder4775: Placeholders/4775.gif]
 seize, compress); —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 2 masculine singular suffix וַתִּקְמְטֵנִי
 Job 16:8
 and thou didst seize me.
+
+@@SPLIT:stem@@
 
 Pu`al
 be snatched (untimely) Perfect 3 pluralקֻמְּטוּ

@@ -5,10 +5,14 @@ Biblical Hebrew
 verb
 incline, attend, of ears; —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 3 feminine plural תִּקְשַׁבְנָה
 Isa 32:3 (subject
 אזנים).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 masculine singular הִקְשִׁיב

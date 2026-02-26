@@ -10,6 +10,8 @@ Mi 7,10 +,
 
 Es 7,25 ; Ez 34,19 —
 
+@@SPLIT:sense@@
+
 1.
 lieu de piétinement, שֶׂה
 ׳
@@ -20,6 +22,8 @@ Es 7,25 (||
 מ
 Ez 34,19
 (figuré).
+
+@@SPLIT:sense@@
 
 2.
 piétinement, ׳

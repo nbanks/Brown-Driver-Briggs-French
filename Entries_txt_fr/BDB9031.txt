@@ -4,9 +4,11 @@ hébreu biblique
 שָׁרָב
 nom masculin
 
+@@SPLIT:sense@@
 1.
 chaleur brûlante ;
 
+@@SPLIT:sense@@
 2.
 sol desséché ;
 — seulement absolu : וָשָׁ֑מֶשׁ

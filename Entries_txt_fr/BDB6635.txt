@@ -7,12 +7,14 @@ fendre (arabe
 fendre ; araméen פְּלַח (habituellement),
 [placeholder4245: Placeholders/4245.gif], sont labourer, travailler, servir [=עָבַד]) ; —
 
+@@SPLIT:stem@@
 Qal
 Participe
 פֹּלֵחַ
 Ps 141,7 de
 fendre, labourer, בָּאָרֶץ (|| בקע).
 
+@@SPLIT:stem@@
 Pi`el
 Imparfait
 

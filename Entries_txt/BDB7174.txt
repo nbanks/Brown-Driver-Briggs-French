@@ -7,6 +7,8 @@ look out or about, spy, keep watch (Late Hebrew id., Pi`el hope
 ;; Ethiopic
 [placeholder4597: Placeholders/4597.gif] III. hope); —
 
+@@SPLIT:stem@@
+
 Qal_28_
 Imperfect 3 masculine singular jussive יִצֶף בֵּינִי
 וּבֵינֶ֑ךָ
@@ -68,6 +70,7 @@ Perles^Anal. 29^
 צָפוּן compare Di
 Bu).
 
+@@SPLIT:stem@@
 Pi`el
 Perfect 1 plural צִפִּינוּ
 Lam 4:17

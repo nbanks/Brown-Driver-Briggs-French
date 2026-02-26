@@ -19,6 +19,8 @@ Ps 69,23 suffixe
 שְׁמָֹיו
 Ps 55,21 —
 
+@@SPLIT:sense@@
+
 1.
 complétude en nombre, הָגְלָת שְׁלוֺמִים
 Jr 13,19
@@ -30,6 +32,8 @@ We^Amos^
 SS
 Buhl).
 
+@@SPLIT:sense@@
+
 2.
 sécurité, intégrité, du corps, אֵין שָׁלוֺם בַּעֲצָמַי
 Ps 38,4
@@ -38,6 +42,8 @@ Es 38,17
 שָׁלוֺם אָהֳלֶ֑ךָ (Ges^«GKC:141c»§ 141c^)
 Jb 5,24
 est sain et sauf.
+
+@@SPLIT:sense@@
 
 3.
 bien-être, santé, prospérité :
@@ -146,6 +152,8 @@ Pr 3,2
 Jb 15,21
 en temps de prospérité.
 
+@@SPLIT:sense@@
+
 4.
 paix, tranquillité, sérénité, contentement, Es 32,17 (|| וָבֶטַח הַשְׁקֵט) ;
 ׳
@@ -199,6 +207,8 @@ Jerome
 
 ) וּשְׁלָמִים
 offrandes de paix, et שֻׁלְחָן v^a^).
+
+@@SPLIT:sense@@
 
 5.
 paix, amitié :
@@ -316,6 +326,8 @@ châtiment pour notre paix (mais SS
 Buhl
 שִׁלֻּמֵינוּ).
 
+@@SPLIT:sense@@
+
 6.
 paix dans le sens d'absence de guerre : (ל) ׳
 עשׂה שׁ
@@ -383,6 +395,8 @@ Es 9,5 (titre
 messianique), comparer ׳
 זֶה שׁ
 Mi 5,4.
+
+@@SPLIT:sense@@
 
 7. comme adjectif שְׁמָֹיו
 Ps 55,21

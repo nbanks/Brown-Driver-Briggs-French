@@ -11,6 +11,7 @@ murmurer, se plaindre, comparer judéo-araméen (pas
 
 )) ; —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 3 masculin singulier יָרוּן (Ges
 ^«GKC:67q»§ 67q^) Pr 29,6 (mais lire peut-être יָרוּץ, Pinsk Toy, voir
@@ -70,6 +71,7 @@ Che^Hpt.^
 3.
 crier fort, en appel, exhortation (de la sagesse) Pr 1,20 (|| נָתַן קוֺל), Pr 8,3.
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 3 pluriel consécutif וְרִנְּנוּ
 Jr 31,12 ;
@@ -115,11 +117,13 @@ Ps 96,12 (||
 Ps 71,23 (||
 זִמֵּר).
 
+@@SPLIT:stem@@
 Poual
 Imparfait 3 masculin singulier impersonnel לֹא יְרֻנָּן
 Es 16,10
 aucun cri retentissant ne sera poussé (|| יְרֹעַ֑ע).
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait
 faire retentir de joie, 1 singulier לֵב אַלְמָנָה אַרְנִן
@@ -137,6 +141,7 @@ Dt 32,43 (voir
 Dr ; comparer
 Pi`el). —
 
+@@SPLIT:stem@@
 Hithpolel
 Ps 78,65
 comparer רון.

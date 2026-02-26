@@ -9,9 +9,11 @@ Lm 5,17, féminin
 Lv 15,33 + 3
 t. ;
 
+@@SPLIT:sense@@
 1.
 faible, Lm 1,13 (|| שֹׁמֵמָה) Lm 5,17.
 
+@@SPLIT:sense@@
 2.
 souffrant, menstruée
 Lv 15,33 ;

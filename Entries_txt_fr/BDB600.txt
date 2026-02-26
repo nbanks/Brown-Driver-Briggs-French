@@ -9,6 +9,8 @@ id., comparer arabe
 [placeholder309: Placeholders/309.gif] assyrien etc. dans les dérivés)
 en hébreu, verbe dénominatif de אַף. —
 
+@@SPLIT:stem@@
+
 Qal
 Parfait
 אָנַפְתָּ
@@ -21,6 +23,8 @@ Ps 2,12, etc. ; —
 1 R 8,46 = 2 Ch 6,36 ; Es 12,1 ; Ps 85,6 ; Esd 9,14 absolu
 Ps 60,3 ; Ps 79,5 comparer aussi
 Ps 2,12.
+
+@@SPLIT:stem@@
 
 Hithpa`el id. toujours suivi de בְּ et toujours de ׳
 י, Parfait

@@ -10,10 +10,14 @@ uddudu
 , sharpen, Dl^Pr 174, W 121^
 ) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 וְחַדּ֫וּ מִזְּאֵבֵי עֶרֶב consecutive Hab 1:8
 are keener than evening wolves (of impetuous Chaldean horses).
+
+@@SPLIT:stem@@
 
 Hiph`il
 הֵחֵד (Che Or Brd
@@ -24,6 +28,8 @@ Hiph`il
 ᵑ6
 
 : the smith sharpeneth an axe.
+
+@@SPLIT:stem@@
 
 Hoph`al
 Perfect 3 feminine singular הוּחַדָּה

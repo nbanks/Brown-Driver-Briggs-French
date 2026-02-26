@@ -8,11 +8,13 @@ nettoyer l'utérus de la chamelle, araméen
 [placeholder3098: Placeholders/3098.gif] nettoyer, frotter, le visage, etc. ; מְשָׁא (Talmud) laver les
 mains ; Zinjirli משׂי[י] peut-être se laver, DHM^Sendsch. 60^) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait suffixe מִןהַֿמַּיִם מְשִׁיתִהוּ
 Ex 2,10
 des eaux je l'ai tiré (employé pour expliquer משֶׁה, mais voir ci-dessous)
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait suffixe =
 Qal, figuré יַמְשֵׁנִי מִמַיִם רַבִּים

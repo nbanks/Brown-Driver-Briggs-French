@@ -7,6 +7,7 @@ ouvrir, fendre (arabe
 libérer,
 [placeholder4273: Placeholders/4273.gif] Pael libérer) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 féminin singulier פָּֽצְתָה
 Gn 4,11 +, 2

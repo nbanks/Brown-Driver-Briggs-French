@@ -9,6 +9,7 @@ Zim^BP 104 n^ ; comparer aussi arabe
 [placeholder748: Placeholders/748.gif]
 secuit, amputavit) — seulement
 
+@@SPLIT:stem@@
 Pi`el
 Parfait consécutif וּבִתְּקוּךְ
 בחרבותם

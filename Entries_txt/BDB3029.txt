@@ -11,6 +11,8 @@ a small arrow; Di^134^ puts here Ethiopic
 [placeholder1918: Placeholders/1918.gif]
 arrow, compare חֵצִי) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 חָצָה
@@ -56,6 +58,8 @@ shall not halve their days, i.e. enjoy even half of the normal number; Isa 30:28
 ׳
 צואר יח
 shall halve unto the neck = shall reach to the neck and so divide the man in half.
+
+@@SPLIT:stem@@
 
 Niph`al
 Imperfect 3 feminine singular with apocope תֵּחָץ

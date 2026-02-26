@@ -97,6 +97,7 @@ RV
 , des mots comme ou, alors, mais, néanmoins, cependant, ainsi, donc, que,
 apparaissent constamment là où l'hébreu a simplement וְ.
 
+@@SPLIT:sense@@
 1.
 Et, reliant à la fois des mots (voir ci-dessus) et des phrases (Gn 1,5
 ׳
@@ -426,6 +427,7 @@ Am 9,5-6 ; Es 51,15
 et moi [qui promets cela] je suis Yahvé ton Dieu, qui . . . . ! Jr 29,23 ; Ps 89,38b (comparer dans le
 Coran le fréquent « Et Dieu est . . . . [le puissant, le miséricordieux, etc.] »).
 
+@@SPLIT:sense@@
 2. Le ו consécutif (autrefois appelé le Waw « conversif ») ; —
 
 a.
@@ -492,6 +494,7 @@ RV
 quitte son père, il mourra, Gn 33,13 ; Gn 42,38 ; Ex 4,14 ; Ex 12,13 ; 1 S 16,2 ; 1 S 19,3 ; Ez 33,3 ; Ez 39,15 etc. (Dr^§ 147-9^,
 Ges^«GKC:159»§ 159^. 2 e).
 
+@@SPLIT:sense@@
 3. Avec un volontatif (cohortatif ou jussif) וְ exprime
 une intention,
 que ou afin que (une élégance par laquelle l'emploi trop fréquent de לְמַעַן ou בַּעֲבוּר
@@ -534,6 +537,7 @@ Gn 34,12 ;
 Pr 3,9s. Pr 4,4 ; Pr 4,8 ; Es 55,2 : voir
 Dr^§ 152^.
 
+@@SPLIT:sense@@
 4. Il exprime souvent une déduction informelle, ou une conséquence, ainsi, alors, surtout au début
 d'un discours : Gn 27,8
 ;
@@ -553,6 +557,7 @@ alors apportez de la farine, Ez 18,32. Ainsi le וְ consécutif avec le parfait
 119^
 δ).
 
+@@SPLIT:sense@@
 5.
 ו introduit le prédicat ou l'apodose : à savoir
 

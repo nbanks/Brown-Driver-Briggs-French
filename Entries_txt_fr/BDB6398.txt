@@ -5,6 +5,7 @@ hébreu biblique
 adjectif
 rusé, avisé, sensé ; —
 
+@@SPLIT:sense@@
 1.
 rusé, ׳
 ע comme prédicat, du serpent Gn 3,1 pluriel comme substantif מַחְשְׁבוֺת עֲרוּמִים
@@ -13,6 +14,7 @@ Jb 5,12,
 לְשׁוֺן ע
 Jb 15,5.
 
+@@SPLIT:sense@@
 2. dans les Proverbes, en bonne part (opposé à אֱוִיל, כְּסִיל,
 פֶּתִי) ; comme attribut אָדָם עָרוּם
 Pr 12,23

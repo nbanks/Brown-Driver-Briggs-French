@@ -11,12 +11,14 @@ entourer quelque chose de (2 accusatifs) ; Parfait 3 féminin singulier הקיפ
 aussi = s'attacher à, être attaché, joint à, et ainsi araméen אַקֵּיף (Aphel),
 [placeholder3444: Placeholders/3444.gif]) ;
 
+@@SPLIT:stem@@
 Qal
 Imparfait
 חַגִּים יִנְקֹ֑פוּ
 Es 29,1
 (figuré) que les fêtes fassent le tour, c.-à-d. accomplissent le cycle (de l'année).
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait
 הִקִּיף

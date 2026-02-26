@@ -17,6 +17,8 @@ Ct 2,17 ; Ct 4,6 construit
 צִלְלֵי
 Jr 6,4 —
 
+@@SPLIT:sense@@
+
 1.
 ombre sur le cadran solaire 2 R 20,9 ; 2 R 20,10 (deux fois dans le verset) ; 2 R 20,11 || Es 38,8
 צִלְלֶיעָֿ֑רֶב
@@ -25,6 +27,8 @@ Ct 2,17 ;
 Ct 4,6 de
 montagne Jg 9,36
 .
+
+@@SPLIT:sense@@
 
 2.
 ombre, ombrage, comme protection (contre le soleil) : de branches, Jg 9,15 (dans une allégorie), Os 4,13 ; Jb 40,22 ; Jon 4,5 ; Jon 4,6 et (au
@@ -67,6 +71,8 @@ Du
 Che^Hpt^ (Che^Heb^
 
 Hpt transposent וּבָֽקְעָה וְדָֽגְרָה).
+
+@@SPLIT:sense@@
 
 3.
 ombre comme symbole du caractère transitoire de la vie Jb 8,9 ; Jb 14,2 ; Ps 144,4 (כְּצֵל עוֺבֵר), Qo 6,12 ;

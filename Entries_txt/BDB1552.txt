@@ -9,6 +9,8 @@ cross,
 [placeholder836: Placeholders/836.gif]
 pass away, fail —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 גָּז

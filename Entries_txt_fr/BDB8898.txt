@@ -3,6 +3,7 @@ hébreu biblique
 
 [שָׁסַס] verbe id. (|| forme de שׁסה) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 pluriel שַׁסֻּ֫הוּ
 Ps 89,42 ils
@@ -19,6 +20,7 @@ voir
 שׁסה
 ), forme araméenne, Ges «GKC:67s»§ 67s.
 
+@@SPLIT:stem@@
 Niph`al
 être pillé, saccagé, des maisons : Parfait 3 pluriel consécutif
 וְנָשַׁ֫סּוּ

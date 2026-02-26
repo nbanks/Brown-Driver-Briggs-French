@@ -28,6 +28,8 @@ compare especially
 
 Pa`el); —
 
+@@SPLIT:stem@@
+
 Qal_460_
 Perfect 3 masculine singular קָם
 1Sam 17:48 +,
@@ -374,6 +376,8 @@ vision
 1Sam 4:15; 1Kgs 14:4 (עַיִן
 1.i.).
 
+@@SPLIT:stem@@
+
 Pi`el
 Perfect 3 masculine singular קִיַּם
 Esth 9:31
@@ -429,6 +433,8 @@ Now, or קָמִים
 GASm
 Buhl.
 
+@@SPLIT:stem@@
+
 Hithpolel
 raise oneself, = rise up: Participle feminine singular
 
@@ -454,6 +460,8 @@ also Ps
 וּבִתְק; || מְשַׂנְאֶיךָ); see also
 קוּט
 .
+
+@@SPLIT:stem@@
 
 Hiph`il_146_
 Perfect 3 masculine singular הֵקִים
@@ -722,6 +730,8 @@ to cause the dead man's name to stand upon his inheritance
 (compare
 Qal
 7.i).
+
+@@SPLIT:stem@@
 
 Hoph`al
 Perfect 3 masculine singular הֻ֫קַםעָ֑ל

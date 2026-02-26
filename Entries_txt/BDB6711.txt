@@ -9,6 +9,8 @@ Arabic
 [placeholder4268: Placeholders/4268.gif]
 id.; Old Aramaic; פעל; Syriac in derived species and derivatives ); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular Deut 32:27 +, פָ֫עַל אֵל
 Num 23:23, 2

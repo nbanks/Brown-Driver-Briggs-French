@@ -4,8 +4,12 @@ Biblical Hebrew
 מַלְבֵּן
 noun [masculine]
 
+@@SPLIT:sense@@
+
 1.
 brick-mould;
+
+@@SPLIT:sense@@
 
 2.
 quadrangle
@@ -18,6 +22,8 @@ Dr^
 [placeholder2749: Placeholders/2749.gif]; Syriac
 [placeholder2750: Placeholders/2750.gif]); —
 
+@@SPLIT:sense@@
+
 1.
 brick-mould, 2Sam 12:31
 
@@ -25,6 +31,8 @@ Qr
 (
 Kt
 , by error, מלכן), Nah 3:14.
+
+@@SPLIT:sense@@
 
 2.
 quadrangle, Jer 43:9 (at Tahpanhes).

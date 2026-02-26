@@ -8,6 +8,8 @@ arâru
 Zim^BP 68^; on relation of meanings bind
 & curse in Assyrian see Dl^Pr 101^) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 וְאָרוֺתִ֫י, אָרוֺתִיהָ
@@ -75,11 +77,15 @@ Ri), הָאֲרוּרָה הַזּאֹת
 this cursed woman
 2Kgs 9:34.
 
+@@SPLIT:stem@@
+
 Niph`al
 Participle
 נֵאָרִים
 cursed
 Mal 3:9.
+
+@@SPLIT:stem@@
 
 Pi`el 3 masculine singular suffix אֵרֲרָהּ
 curse, lay under a curse
@@ -93,6 +99,8 @@ Num 5:18-27
 (
 P
 6 t. waters destroying the perjured adulteress drinking them).
+
+@@SPLIT:stem@@
 
 Hoph`al
 Imperfect

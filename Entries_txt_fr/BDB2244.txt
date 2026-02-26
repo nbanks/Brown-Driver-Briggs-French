@@ -3,6 +3,7 @@ hébreu biblique
 
 [הָתַל] verbe — seulement
 
+@@SPLIT:stem@@
 Pi`el
 tromper, se moquer, Imparfait
 וַיְהַתֵּל בָּהֶם

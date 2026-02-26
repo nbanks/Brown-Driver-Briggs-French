@@ -4,6 +4,7 @@ hébreu biblique
 אֲחִימַ֫עַץ
 nom propre, masculin (mon frère est colère)
 
+@@SPLIT:sense@@
 1. fils de Tsadoq 2 S 15,27 ; 2 S 15,36 ; 2 S 17,17 ; 2 S 17,20 ; 2 S 18,19 ; 2 S 18,22 ; 2 S 18,23 ;
 2 S 18,27 ;
 2 S 18,28 ;
@@ -11,6 +12,7 @@ nom propre, masculin (mon frère est colère)
 1 Ch 5,34 (
 אֲחִימָ֑עַץ v.1 Ch 6,35 ; 1 Ch 6,38 peut-être aussi 1 R 4,15 (gendre de Salomon)
 
+@@SPLIT:sense@@
 2.
 אֲחִימָ֑עַץ, beau-père de Saül 1 S 14,50.
 

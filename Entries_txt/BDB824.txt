@@ -16,6 +16,8 @@ plural אֲשָׁמוֺת
 suffix אַשְׁמוֺתַי
 Ps 69:6 —
 
+@@SPLIT:sense@@
+
 1.
 doing wrong, committing a trespass or offence
 2Chr 24:18
@@ -31,6 +33,8 @@ Lev 5:26 (
 P
 ; || לַחֲטֹא בָהֵנָּה v.Lev 6:22).
 
+@@SPLIT:sense@@
+
 2.
 becoming guilty
 1Chr 21:3;
@@ -41,6 +45,8 @@ Ezra 10:10
 sin to the becoming guilty of the people (so that the people incur guilt) Lev 4:3
 אַשְׁמַת שֹׁמְרוֺן
 guilt of Samaria (their idols) Amos 8:14.
+
+@@SPLIT:sense@@
 
 3.
 bringing a trespass-offering, בְּיוֺם אַשְׁמָתוֺ

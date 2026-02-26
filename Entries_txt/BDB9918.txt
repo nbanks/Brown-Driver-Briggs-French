@@ -3,6 +3,8 @@ Biblical Aramaic
 
 [שְׂכַל] verb
 
+@@SPLIT:stem@@
+
 Hithpe`el
 consider, contemplate (see Biblical Hebrew I. שׂכל); — Participle
 מִשְׂתַּכַּל

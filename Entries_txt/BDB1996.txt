@@ -5,6 +5,8 @@ Biblical Hebrew
 pierce, pierce through (Late Hebrew id., Aramaic דְּקַר,
 [placeholder1185: Placeholders/1185.gif]) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 plural
 דָּקָ֑רוּ
@@ -33,10 +35,14 @@ also Zech 12:10
 (compare
 John 19:37).
 
+@@SPLIT:stem@@
+
 Niph`al
 Imperfect
 יִדָּקֵר
 be pierced through, slain Isa 13:15 (in conquest of Babylonian by Medes).
+
+@@SPLIT:stem@@
 
 Pu`al
 Participle plural מְדֻקָּרִים

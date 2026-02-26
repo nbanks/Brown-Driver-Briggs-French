@@ -12,11 +12,13 @@ Pr 16,26 +
 2 t. ; pluriel עֲמֵלִים
 Jg 5,26 —
 
+@@SPLIT:sense@@
 1.
 travailleur, ouvrier :
 Jg 5,26 ; Pr 16,26
 .
 
+@@SPLIT:sense@@
 2.
 souffrant, Jb 3,20 (|| מָרֵי נֶפֶשׁ), Jb 20,22.
 

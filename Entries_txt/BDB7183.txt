@@ -5,12 +5,16 @@ II. [צָפָה]_47_
 verb
 lay out, lay over (Late Hebrew Pi`el= Biblical Hebrew); —
 
+@@SPLIT:stem@@
+
 Qal
 Infinitive absolute
 צָפֹה הַצָּפִית
 Isa 21:5
 they lay out the rug! or the like, so most moderns, see
 צָפִית
+
+@@SPLIT:stem@@
 
 Pi`el
 overlay, plate: Perfect 3 masculine singular צִפָּה
@@ -34,6 +38,8 @@ P
 1Kgs 6:35
 with accusative + ב mater. 1Kgs 6:15
 overlaid the floor of the house with timbers.
+
+@@SPLIT:stem@@
 
 Pu`al
 Participle

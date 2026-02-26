@@ -20,6 +20,7 @@ Lane^3032^ (comparer RS^Semitic
 i. 213 ; 2e éd. 229^), c.-à-d. verser le sang de la victime, verser
 du vin We^Heid. 2, 114, 118, 142^ ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier נָסַךְ
 Es 29,10 ;
@@ -54,6 +55,7 @@ couler des images de métal, avec accusatif פֶּסֶל
 Es 40,19 ;
 Es 44,10.
 
+@@SPLIT:stem@@
 Pi`el
 Imparfait
 יְנַסֵךְ
@@ -63,6 +65,7 @@ verser comme libation, avec accusatif מַיִם + ליהוה (=
 2 S 23,16
 Hiph`il).
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 masculin pluriel הִסִּכוּ
 Jr 32,39
@@ -103,6 +106,7 @@ Jr 44,19
 (deux fois dans le verset) ;
 Jr 44,25 ; Ez 20,28 ; Ps 16,4.
 
+@@SPLIT:stem@@
 Hoph`al
 Imparfait 3 masculin singulier יֻסַּךְ
 être versé, Ex 25,29 ; Ex 37,16, du vin sacré, avec בְ des

@@ -7,6 +7,7 @@ gifler, frapper des mains (hébreu tardif Pi`el id. ; arabe
 gifler (le visage), frapper (les mains)
 Lane^1373^) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier וְסָפַק consécutif Jr 48,26, suffixe סְפָקָם
 
@@ -48,6 +49,7 @@ Buhl^Lex 13^
 se vider (?), vomir (comparer syriaque
 [placeholder3646: Placeholders/3646.gif] Pa`el).
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait 3 masculin pluriel וּבְיַלְרֵי נָכְרִים
 יַשְׂפִּ֫יקוּ

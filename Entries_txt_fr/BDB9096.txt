@@ -25,6 +25,8 @@ Jr 24,2 suffixe
 תְּאֵנֵיכֶם
 Am 4,9 —
 
+@@SPLIT:sense@@
+
 1.
 figuier (ficus carica
 Post^Flora. 730 ; Hast. DB, sous le mot^
@@ -59,6 +61,8 @@ Jl 1,7 ; Jl 1,12 ;
 Jl 2,22 ;
 Ps 105,33
 .
+
+@@SPLIT:sense@@
 
 2.
 figue, toujours pluriel : Nb 13,23 (

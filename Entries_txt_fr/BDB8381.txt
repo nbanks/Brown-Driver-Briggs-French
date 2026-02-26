@@ -18,12 +18,14 @@ reste, nabatéen שארית, voir
 Lzb^371^
 SAC^110^) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier ׳
 שׁ
 1 S 16,11 le
 plus jeune reste encore.
 
+@@SPLIT:stem@@
 Niphal_93_
 Parfait 3 masculin singulier נִשְׁאַר
 Gn 47,18 + ;
@@ -167,6 +169,7 @@ J
 ), comparer Es 49,21 ; Dn 10,8 d'une veuve Rt 1,3 + מִן du mort
 Rt 1,5.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 masculin singulier הִשְׁאִיר
 Ex 10,12

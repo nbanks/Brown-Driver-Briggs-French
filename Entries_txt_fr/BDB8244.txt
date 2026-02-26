@@ -15,6 +15,8 @@ loué, de terre labourée à gage, Bergheim^PEQ 1894, 196^ ; palmyrénien שכר
 peut-être récompensant
 Lzb^375^) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Parfait 3 masculin singulier ׳
 שׂ
@@ -56,10 +58,14 @@ J
 Now Toy ; dans un but malveillant Dt 23,5 = Ne 13,2 (על
 contre), Ne 6,12 ; Ne 6,13,
 
+@@SPLIT:stem@@
+
 Niph`al
 se louer soi-même, Parfait
 בַּלֶּחֶם נִשְׂכָּ֑רוּ
 1 S 2,5.
+
+@@SPLIT:stem@@
 
 Hithpa`el
 gagner un salaire, Participe

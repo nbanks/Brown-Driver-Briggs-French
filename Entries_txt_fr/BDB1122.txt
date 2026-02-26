@@ -8,6 +8,7 @@ devenir vieux et usé (arabe
 [placeholder603: Placeholders/603.gif]
 id.) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 בָּלְתָה
@@ -29,6 +30,7 @@ des cieux (avec comparaison du vêtement) Es 50,9 ; Ps 102,27
 J
 ) אַחֲרֵי בְלֹתִי après m'être usée.
 
+@@SPLIT:stem@@
 Pi`el
 causatif du Qal.
 

@@ -4,6 +4,8 @@ Biblical Hebrew
 III. יָבֵשׁ, יָבֵישׁ
 proper name [of a location or person]
 
+@@SPLIT:sense@@
+
 1. proper name [of a location] יָבֵשׁ גִּלְעָד
 Jabesh of Gilead,
 
@@ -34,6 +36,8 @@ L
 יָבֵ֑ישָׁה 1Chr 10:12 || יָבֵ֫שָׁה
 1Sam 31:12;
 1Sam 31:13.
+
+@@SPLIT:sense@@
 
 2. proper name [of a person] יָבֵשׁ father of Shallum 2Kgs 15:10; 2Kgs 15:13; 2Kgs 15:14.
 

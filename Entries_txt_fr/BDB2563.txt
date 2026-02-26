@@ -8,6 +8,7 @@ se réjouir (assyrien
 Dl^Pr 153^ ; araméen
 [placeholder1632: Placeholders/1632.gif], חֲדָא) —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 3 masculin singulier וַיִּ֫חַדְּ
 Ex 18,9 (
@@ -21,6 +22,7 @@ joyeusement parmi eux (figuré du jour de la naissance de Job). — Klo propose
 1 S 6,19 pour
 וַיַּךְבְּ֗֗֗ comparer aussi Dr
 
+@@SPLIT:stem@@
 Pi`el
 Imparfait suffixe (causatif) תְּחַדֵּהוּ בְשִׂמְחְה
 Ps 21,7

@@ -6,6 +6,7 @@ dégoutter, distiller, synonyme de נזל, II. ערף (comparer arabe
 [placeholder5133: Placeholders/5133.gif]
 couler (du sang), saigner (du nez)) ; —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 3 masculin pluriel יִרְעֲפוּ, des nuages Jb 36,28 (avec עֲלֵי
 personne ; || יִזְּלוּ), avec accusatif de matière טַל
@@ -14,6 +15,7 @@ figuré מַעְגָּלֶיךָ יִרְעֲפוּן דָּ֑שֶׁן
 Ps 65,12 (c.-à-d.
 pluie fertilisante) ; sujet le sol humide, נְאוֺת מִדְבָּר, Ps 65,13.
 
+@@SPLIT:stem@@
 Hiph`il
 Impératif masculin pluriel הַרְעִיפוּ
 Es 45,8

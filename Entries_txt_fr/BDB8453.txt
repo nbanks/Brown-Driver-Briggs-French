@@ -35,6 +35,8 @@ t. ; construit שַׁבְּתתֹ Lv 23,38 ; Lv 25,3 ; Lv 25,8 suffixe שַׁב�
 Es 56,4 +, etc. ;
 —
 
+@@SPLIT:sense@@
+
 1.
 sabbat :
 
@@ -164,6 +166,8 @@ chaque sabbat, abréviation שַׁבַּת שַׁבָּת
 Nb 15,36
 le commerce interdit Ne 10,32 ; Ne 13,15-21.
 
+@@SPLIT:sense@@
+
 2.
 le jour des Expiations est un שַׁבַּת שַׁבָּתוֺן
 Lv 16,31 ;
@@ -173,6 +177,8 @@ P
 ), comparer שָׁבַת שַׁבָּת Lv 23,32 (
 P
 ).
+
+@@SPLIT:sense@@
 
 3.
 année sabbatique, שַׁבַּת שַׁבָּתוֺן
@@ -189,6 +195,8 @@ H
 ),
 2 Ch 36,21.
 
+@@SPLIT:sense@@
+
 4. = semaine (?) : שֶׁבַע שַׁבָּתוֺת
 Lv 23,15 (
 
@@ -203,6 +211,8 @@ H
 שַׁבָּת
 Es 66,23 =
 semaine (Du).
+
+@@SPLIT:sense@@
 
 5.
 שַׁבַּת הָאָ֫רֶץ

@@ -12,6 +12,7 @@ proéminence du front ; comparer peut-être aussi assyrien
 gabâni
 , hauteurs (?) Lotz^TP 133^) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 ׳
@@ -72,6 +73,7 @@ Ez 16,50
 3,11
 .
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait
 הִגְבַּהְתִּי

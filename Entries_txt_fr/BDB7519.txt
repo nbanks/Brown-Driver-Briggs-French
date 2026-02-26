@@ -12,6 +12,8 @@ Gn 47,21 + 4
 t. ; קְצֵיהֶם (מִ) Ez 33,2 (singulier ; Ges
 ^«GKC:93ss»§ 93ss^) ; pluriel (construit) fourni par קְצוֺת, voir suivant ; —
 
+@@SPLIT:sense@@
+
 1.
 extrémité, du bâton Jg 6,21, de la verge 1 S 14,27 ; 1 S 14,43, des rideaux Ex 26,5 = Ex 36,12 (
 P
@@ -98,6 +100,8 @@ Ne 1,9
 וְַעדקֿ
 Dt 4,32.
 
+@@SPLIT:sense@@
+
 2.
 bord, abords, de la ville 1 S 9,27 ; 1 S 14,2 ; Jos 4,19 ; Jos 18,15, du camp Nb 11,1 (
 J
@@ -134,6 +138,8 @@ P
 ), Rt 3,7
 .
 
+@@SPLIT:sense@@
+
 3. terme condensé pour ce qui est inclus entre les extrémités, = le tout : אֶחָיו
 ׳
 מִק
@@ -154,6 +160,8 @@ Di, mais omis ׳
 Du
 Che
 Marti.
+
+@@SPLIT:sense@@
 
 4.
 מִקְצֵה

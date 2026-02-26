@@ -19,6 +19,8 @@ create, fabricate; Aramaic פְּטַר,
 [placeholder4222: Placeholders/4222.gif]
 withdraw, depart); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular ׳
 פ
@@ -62,6 +64,8 @@ in temple, dubious, usually out-spread (garlands) of flowers
 1Kgs 6:29;
 1Kgs 6:32;
 1Kgs 6:35.
+
+@@SPLIT:stem@@
 
 Hiph`il
 

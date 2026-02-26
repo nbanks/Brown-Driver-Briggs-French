@@ -15,10 +15,12 @@ Ab 1,3 suffixe
 זְדֹנְךָ
 1 S 17,28 —
 
+@@SPLIT:sense@@
 1.
 insolence, présomption envers les hommes ; affirmée de David par Éliab 1 S 17,28 (|| רֹעַ
 לְבָבֶ֑ךָ) ; habituellement
 
+@@SPLIT:sense@@
 2. d'impiété présomptueuse (comparer זוּד, זֵד), manifestée dans
 la désobéissance au prêtre ou au juge Dt 17,12 dans la fausse prédiction Dt 18,22 en général Pr 11,2 (opposé à צְנוּעִים),
 Pr 13,10

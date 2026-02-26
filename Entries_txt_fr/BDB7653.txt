@@ -47,6 +47,7 @@ Ps 37,15,
 Ne 4,7 (
 קַשְׁתֹּתָיו etc., van d. H. [sauf Ps 37,15]) ; —
 
+@@SPLIT:sense@@
 1.
 arc :
 
@@ -179,6 +180,7 @@ f.
 ׳
 ק figuré du jugement divin Jb 20,24 (|| נֵשֶׁק בַּרְזֶל)
 
+@@SPLIT:sense@@
 2.
 arc-en-ciel : אֲשַׁר יִהְיֶה בֶעָנָן בְּיוֺם הַנֶּשֶׁם
 ׳

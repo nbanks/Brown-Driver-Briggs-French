@@ -3,6 +3,8 @@ hébreu biblique
 
 [עָתַם] verbe douteux ;
 
+@@SPLIT:stem@@
+
 Niph`al
 Parfait 3 masculin singulier נֶעְתַּם
 אָ֑רֶץ

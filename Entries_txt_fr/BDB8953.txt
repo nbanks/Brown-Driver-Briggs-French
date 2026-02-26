@@ -14,6 +14,8 @@ Gn 12,16 + ;
 suffixe שִׁפְחֹתֶ֑ךָ
 Rt 2,13, etc. ; —
 
+@@SPLIT:sense@@
+
 1. littéralement, servante, domestique, comme appartenant à une maîtresse Gn 16,1 ; Gn 16,3 ; Gn 16,6 ; Gn 16,8 (PJ) Gn 29,24 ; Gn 29,29 (
 
 P
@@ -53,6 +55,8 @@ P
 (
 J
 ; collectif) Dt 28,68 ; 1 S 8,16 ; 2 R 5,26 ; Es 14,2 ; Jr 34,9 ; Jr 34,10 ; Jr 34,11 (deux fois dans le verset) ; Jr 34,16 (deux fois dans le verset) ; Jl 3,2 ; Qo 2,7 ; 2 Ch 28,10 ; Est 7,4.
+
+@@SPLIT:sense@@
 
 2.
 figuré dans le discours, שִׁפְחָֽתְךָ, etc., de la locutrice, en signe d'humilité (voir

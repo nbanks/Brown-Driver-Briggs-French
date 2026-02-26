@@ -20,6 +20,8 @@ drag, draw, lead;
 leader; Ethiopic
 [placeholder3166: Placeholders/3166.gif] is travel); —
 
+@@SPLIT:stem@@
+
 Hiph`il_328_
 Perfect
 הִגִּיד
@@ -182,6 +184,8 @@ Participle> = messenger
 הָאִישׁ הַמּ
 2Sam 18:11
 .
+
+@@SPLIT:stem@@
 
 Hoph`al
 Perfect

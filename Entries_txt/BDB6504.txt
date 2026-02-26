@@ -3,6 +3,8 @@ Biblical Hebrew
 
 I. [פָּאַר] verb
 
+@@SPLIT:stem@@
+
 Pi`el
 beautify, glorify; — Perfect 3 masculine singular suffix פֵּאֲרָ֑ךְ
 (object Israel) Isa 55:5
@@ -12,6 +14,8 @@ Isa 60:7
 Infinitive construct
 פָּאֵר Isa 60:13; Ezra 7:27 so פָּאֵר עֲנָוִים בִּישׁוּעָה
 Ps 149:4.
+
+@@SPLIT:stem@@
 
 Hithpa`el
 1.

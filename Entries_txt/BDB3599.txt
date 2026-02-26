@@ -17,13 +17,15 @@ eƒêpu
 
 Dl) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 יָסַף
 Gen 38:26 +;
-יָסְפָה
+יָסְפָה
 Gen 8:12
-וְיָסְפָה consecutive 2Kgs 19:30 = Isa 37:31
+וְיָסְפָה consecutive 2Kgs 19:30 = Isa 37:31
 יָסַ֫פְתָּ
 Isa 26:15;
 2Chr 9:6
@@ -53,8 +55,8 @@ Isa 26:15
 (twice in verse) (יָסַפְתָּ
 לַגּוֺי); followed by accusative increase, have more
 Isa 29:19 (
-וְיַסְפוּ עֲנָוִים
-ביהוה שִׂמְחָה); 14 t. followed by infinitive Gen 8:12 (אליו עוֺד לֹא יָסְפָה שׁוּב, i.e. it
+וְיַסְפוּ עֲנָוִים
+ביהוה שִׂמְחָה); 14 t. followed by infinitive Gen 8:12 (אליו עוֺד לֹא יָסְפָה שׁוּב, i.e. it
 did not again return unto him), Gen 38:26 (+עוד), Lev 26:18; Num 32:15 (+ עוד), Deut 5:22 ( +
 עוֺד),
 Deut 20:8; Judg
@@ -64,6 +66,8 @@ Deut 20:8; Judg
 2Kgs 6:23 (+עוֺד), Isa 29:14 compare Num 11:25; Deut 5:19, where infinitive not expressed, but implied from
 context; both with לֹא
 and did not do it again.
+
+@@SPLIT:stem@@
 
 Niph`al
 Perfect
@@ -87,6 +91,8 @@ Prov 11:24
 participle feminine plural = things added, additions (i.e. additional
 calamities) Isa
 15:9.
+
+@@SPLIT:stem@@
 
 Hiph`il 172 Perfect
 הֹסִיף

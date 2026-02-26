@@ -13,6 +13,8 @@ derivatives; Assyrian
 decision, Hoffm^AGG xxxvi, May 1889, 11^)
 —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular ׳
 ח
@@ -56,6 +58,8 @@ his days are determined, fixed (|| מִסְפַּר חדשׁיו), Isa 10:22
 ׳
 כִּלָּיוֺן ח; act with decision
 2Sam 5:24.
+
+@@SPLIT:stem@@
 
 Niph`al
 Participle

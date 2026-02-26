@@ -11,6 +11,7 @@ CIS^22^ ; CIS^44^
 indirectement ou obliquement, Fl^De Pr.1,
 6^) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin לַצְתָּ
 Pr 9,12
@@ -45,6 +46,7 @@ est un moqueur Pr 20,1
 .
 —
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 masculin pluriel suffixe הֱלִיצֻנִי
 Ps 119,51
@@ -73,10 +75,12 @@ ambassadeur
 2 Ch 32,31
 .
 
+@@SPLIT:stem@@
 Po`lel
 Participe pluriel לֹצֲצִים (מְ supprimé Kö^ii. 479^) moqueurs
 Os 7,5.
 
+@@SPLIT:stem@@
 Hithpa`el
 Imparfait
 תִּתְלוֺצָ֑צוּ

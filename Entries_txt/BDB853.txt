@@ -1,22 +1,22 @@
 === BDB853 H853 ===
 Biblical Hebrew
 
-I. אֵת, with makk. אֶתֿ, with suffix אֹתִי; אֹתְךָ
-, אֹתְכָה
+I. אֵת, with makk. אֶתֿ, with suffix אֹתִי; אֹתְךָ
+, אֹתְכָה
 Num 22:33,
 אֹתָ֑ךְ, אֹתָ֑כָה
 Exod 29:35,
 feminine אֹתָךְ; אֹתוֺ etc.; 2 plural אֶתְכֶם, once
-אוֺתְכֶם
+אוֺתְכֶם
 Josh 23:15 3
 masculine plural regularly אֹתָם, rarely אֶתְהֶם
 Gen 32:1; Exod 18:20; Num 21:3; Ezek 34:12;
 1Chr 6:50, once
-אוֺתְהֶם
+אוֺתְהֶם
 Ezek 23:45 3
 feminine plural, on the contrary, regularly אֶתְהֶן (13 t.), once אֹתָן
 Ezek 16:54
-(also אוֺתְהֶן
+(also אוֺתְהֶן
 Ezek 23:47,
 אֹתָ֖נָה
 Exod 35:26,
@@ -55,6 +55,8 @@ combination with another preposition: thus בְּאוֺתוֺ
 הַיּוֺם = Bibl. בַּיּוֺם הַהוּא, בְּאוֺתָהּ הַשָּׁעָה; or as
 a nomin., e.g. אוֺתוֺ הָאִישׁ = Bibl. הָאִישׁ הַהוּא).
 
+@@SPLIT:sense@@
+
 1. As mark of the accusative prefixed to substantives defined either by the article (or כֹּל
 ), or by a genitive or pronominal affix, or in virtue of being proper names:
 
@@ -63,7 +65,7 @@ transitive verbs, Gen 1:1
 ; Gen 1:16
 ;
 Gen 1:29; Gen 1:30; Gen 2:11; Gen 4:1; Gen 4:2; Gen 9:3 (
-אֶתֿכֹּל׃) etc. Similarly אֶתמִֿי
+אֶתֿכֹּל׃) etc. Similarly אֶתמִֿי
 whom (in particular), Josh 24:15; 1Sam 12:3; 1Sam 28:11; Isa 6:8 and elsewhere (but never
 אֶתמָֿה); also with זֶה
 
@@ -121,7 +123,7 @@ J
 ) וַיִּוָּלֵד לַחֲנוֺךְ
 אֶתעֿירָד, Gen 17:5 (
 P
-), לֹא יִקָּרֵא עוֺד אֶתשִֿׁמְךָ אַברָם
+), לֹא יִקָּרֵא עוֺד אֶתשִֿׁמְךָ אַברָם
 there shall not be called (=one shall not call) thy name Abram,
 Gen 21:5 (
 
@@ -167,6 +169,8 @@ Isa
 W^AG i. § 196, 43^]; and Num 10:2; Ezek 17:9
 לְמַסַּע, לְמַשְׂאוֺת are Aramaizing infinitives: compare Ew^§ 239 a^).
 
+@@SPLIT:sense@@
+
 2.
 את marks an accusative in other relations than that of direct object to a verb:
 
@@ -179,6 +183,8 @@ b. denoting time
 (duration), also very rare: Exod 13:7; Lev 25:22; Deut 9:25.
 
 c. expressing the accusative of limitation (rare): Gen 17:11; Gen 17:14; 1Kgs 15:23.
+
+@@SPLIT:sense@@
 
 3. Chiefly in an inferior or later style, אֵת (or וְאֵת) is used
 irregularly, partly (α), as it would seem, to give greater definiteness (so especially וְאֵת

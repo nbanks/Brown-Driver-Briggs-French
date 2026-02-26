@@ -5,6 +5,7 @@ hébreu biblique
 nom [masculin]
 lieu nu, dénudé (d'où Μαραθών, Marathon, selon Lewy^Fremdw. 144^) ; —
 
+@@SPLIT:sense@@
 1.
 lieu ou espace dénudé : construit מִמַּעֲרִהגָּֿ֑בַע
 Jg 20,33
@@ -16,6 +17,7 @@ selon l'espace libre sur chaque (plaque, voir
 לוּחַ
 ).
 
+@@SPLIT:sense@@
 2. suffixe מַעְרֵח
 Na 3,5 figuré de
 Ninive (parties honteuses exposées en punition ignominieuse ; comparer עֶרְוָה).

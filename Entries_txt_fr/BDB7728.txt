@@ -23,6 +23,7 @@ CIS^iv. no. 5, 2^ ;
 [placeholder4949: Placeholders/4949.gif]
 être étendu aux repas, Schw^Idioticon 87^) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier ׳
 ר
@@ -76,6 +77,7 @@ Dt 29,19 (ב personne) ; du péché, לַפֶּתַח חַטָאת רֹבֵץ
 Gn 4,7
 à la porte le péché fait son repaire.
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait 3 masculin singulier suffixe יַרְבִּיצֵנִי
 Ps 23,2, 2

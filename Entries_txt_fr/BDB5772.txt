@@ -4,6 +4,7 @@ hébreu biblique
 [עָבַר] verbe
 dénominatif
 
+@@SPLIT:stem@@
 Hithpa`el
 être arrogant, s'emporter ; — Parfait 3 masculin singulier הִתְעַבָּ֑ר
 

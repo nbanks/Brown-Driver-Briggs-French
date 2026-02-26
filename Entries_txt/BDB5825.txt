@@ -4,6 +4,7 @@ Biblical Hebrew
 עַדְנָא
 proper name, masculine
 
+@@SPLIT:sense@@
 1.
 man with foreign wife
 Ezra 10:30 (
@@ -20,6 +21,8 @@ Baer),
 ^L^
 
 Εδνα.
+
+@@SPLIT:sense@@
 
 2.
 Neh 12:5,

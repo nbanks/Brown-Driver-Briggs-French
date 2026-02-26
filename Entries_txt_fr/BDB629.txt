@@ -5,8 +5,10 @@ hébreu biblique
 nom propre, masculin (collecteur, comparer phénicien nom propre, féminin
 אספת)
 
+@@SPLIT:sense@@
 1. père de יוֺאָח l'archiviste 2 R 18,18 ; 2 R 18,37 = Es 36,3 ; Es 36,22.
 
+@@SPLIT:sense@@
 2. un des musiciens principaux de David, un lévite, fils de Bérékia 1 Ch 6,24 (deux fois dans le verset) (|| הֵימָן
 v.1 Ch 6,18
 , אֵיתָן v.1 Ch 6,29 voir ces noms) ; 1 Ch 15,17 (|| Héman et Étan, tous appelés)
@@ -38,6 +40,7 @@ Ne 11,17,
 Ne 12,35,
 appelé בֶּןאָֿסָף, voir ces noms.
 
+@@SPLIT:sense@@
 3. gardien du parc royal Ne 2,8.
 
 ---

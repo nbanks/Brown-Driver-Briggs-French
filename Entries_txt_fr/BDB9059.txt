@@ -6,6 +6,8 @@ dénominatif
 
 1.
 
+@@SPLIT:stem@@
+
 Pi`el = traiter les racines ; —
 déraciner : Parfait 3 masculin singulier suffixe consécutif וְשֵׁרֶשְׁךָ
 
@@ -15,6 +17,8 @@ il te déracinera de (מִן) la terre des vivants ; du feu
 Jb 31,12
 car (figuré) s'enracine dans tout mon revenu.
 
+@@SPLIT:stem@@
+
 Pu`al
 Imparfait 3 masculin pluriel יְשֹׁרָשׁוּ
 Jb 31,8
@@ -22,16 +26,22 @@ Jb 31,8
 
 2.
 
+@@SPLIT:stem@@
+
 Po`el
 prendre racine, s'établir fermement : Parfait 3 masculin singulier
 גִּזְעָם שֹׁרֵשׁ בָּאָרֶץ
 Es
 40,24 (figuré des princes, etc.).
 
+@@SPLIT:stem@@
+
 Po`al
 id. : Parfait 3 masculin pluriel שֹׁרָֹשׁוּ
 Jr 12,2
 (figuré des méchants).
+
+@@SPLIT:stem@@
 
 Hiph`il
 id. : Imparfait 3 masculin singulier יַשְׁרֵשׁ

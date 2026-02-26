@@ -21,6 +21,8 @@ Ps 102,11,
 קִצְפּוֺ
 Jr 10,10-
 
+@@SPLIT:sense@@
+
 1. de Dieu : absolu Nb 17,11 (
 P
 ), Dt
@@ -48,6 +50,8 @@ Es 34,2 ; Za 1,2 ; Za 1,15
 ׳
 בְּשֶׁצֶף ק
 Es 54,3.
+
+@@SPLIT:sense@@
 
 2. de l'homme (tardif), Est 1,18 ; Qo 5,16. — Os 10,7 voir II.
 קֶצֶף

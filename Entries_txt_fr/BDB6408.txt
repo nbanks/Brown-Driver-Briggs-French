@@ -12,6 +12,7 @@ passim ; comparer égyptien
 , ils terrifièrent (= ערצו)
 WMM^As.u.Eur.76^) ; —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 2 masculin singulier תַּעֲרֹץ
 Dt 7,21 + ; 2
@@ -48,12 +49,14 @@ D
 avec accusatif
 Jb 31,34 parce que je tremblais devant la grande multitude.
 
+@@SPLIT:stem@@
 Niph`al
 Participe
 אֵל נַעֲרָץ
 Ps 89,8
 El, redoutable dans l'assemblée des saints (|| נוֺרָא).
 
+@@SPLIT:stem@@
 Hiph`il
 
 1.

@@ -11,6 +11,7 @@ kabâsu
 kibšu
 , pas, chemin, Dl^HWB^) —
 
+@@SPLIT:stem@@
 Qal
 Participe seulement מְסִלַּת שְׂדֵה כוֺבֵס
 chaussée du champ du foulon
@@ -18,6 +19,7 @@ chaussée du champ du foulon
 
 Es 7,3 ; Es 36,2 = 2 R 18,17.
 
+@@SPLIT:stem@@
 Pi`el
 Parfait
 וְכִּבֶּס consécutif Lv 13,6 + 11 t. ; כִּבֵּס
@@ -79,11 +81,13 @@ Jr 4,14
 avec suffixe Ps
 51,4 (|| טהר ; + מֵעָוֺן) ; Ps 51,9 (|| חִטֵּא).
 
+@@SPLIT:stem@@
 Poual
 Parfait
 וְכֻבַּס consécutif Lv 13,58 ; Lv 15,17
 être lavé, d'un vêtement.
 
+@@SPLIT:stem@@
 Hothpaal (Ges
 ^«GKC:54»§ 54^, 3) Infinitif
 אַחֲרֵי הֻכַּבֵּס

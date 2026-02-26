@@ -14,12 +14,14 @@ Lv 25,53 suffixe
 שְׂכִירְךָ Lv 25,6 pluriel suffixe שְׂכִרֶיהָ
 Jr 46,21 —
 
+@@SPLIT:sense@@
 1.
 engagé à gages, d'un animal Ex 22,14 (
 E
 ), rasoir
 Es 7,20 (figuré).
 
+@@SPLIT:sense@@
 2. habituellement comme substantif mercenaire, ouvrier engagé
 Dt 15,18 ;
 Dt 24,14 ;

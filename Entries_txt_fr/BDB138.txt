@@ -11,6 +11,7 @@ Ps 8,2 + ; féminin
 Ez 17,8 ? (voir
 ci-dessous) etc. —
 
+@@SPLIT:sense@@
 1. majestueux (large, élevé) des eaux de la mer Ex 15,10 ; Ps 93,4 un navire Es 33,21 un arbre Ez 17,23 une vigne Ez 17,8 (גֶּפֶן אַדֶּרֶת
 , ainsi Fü ; ou ׳
 א nom abstrait voir ci-dessous אַדֶּרֶת ci-dessous) ; aussi figuré des rois Ps 136,18
@@ -23,6 +24,7 @@ Ps 93,4 ; Ps 76,5 du nom de
 י
 Ps 8,2 ; Ps 8,10.
 
+@@SPLIT:sense@@
 2. substantif personne majestueuse, des nobles, chefs, etc., Jg 5,13 ; Jg 5,25 ; Na 2,6 ; Na 3,18
 Jr 14,3 ; Jr 25,34 (
 אַדִּירֵי הַצּאֹן figuré ainsi) : Jr 25,35 ; Jr 25,36 ; Jr 30,21 ; Za 11,2 ; 2 Ch 23,20 ; Ne 3,5 ; Ne 10,30 de ׳

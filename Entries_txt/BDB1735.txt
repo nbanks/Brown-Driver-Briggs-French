@@ -34,6 +34,8 @@ Ps 115:7; Ps 149:6,
 Ps 5:10 —
 throat;
 
+@@SPLIT:sense@@
+
 1. of the visible exterior (front) of throat, neck
 ׳
 נְטֻו֯וֺת ג
@@ -41,6 +43,8 @@ Isa 3:16
 outstretched of neck (= with outstretched neck); וְרָבִיד עַלגְּֿרוֺנֵךְ
 Ezek 41:19
 and a chain upon thy neck.
+
+@@SPLIT:sense@@
 
 2.
 throat, as capable of thirst Jer 2:25 as organ of speech קְרָא בְגָרוֺן

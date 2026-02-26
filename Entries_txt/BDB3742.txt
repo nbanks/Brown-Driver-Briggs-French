@@ -30,6 +30,8 @@ Exod 28:42
 suffix יְרֵכַיִךְ
 Song 7:2 —
 
+@@SPLIT:sense@@
+
 1.
 thigh,
 
@@ -79,6 +81,8 @@ J
 ),
 Gen 47:29.
 
+@@SPLIT:sense@@
+
 2.
 side (flank) of altar 2Kgs 16:14; Lev 1:11 (
 P
@@ -98,6 +102,8 @@ We
 Dr
 Bu
 Kit.
+
+@@SPLIT:sense@@
 
 3.
 base (loins) of candlestick Exod 25:31; Exod 37:17; Num 8:4 (all

@@ -13,6 +13,8 @@ rescue;
 ; [slip away, escape from hand is
 [placeholder2996: Placeholders/2996.gif]]); —
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect 3 masculine singular נִמְלַט
 Judg 3:26 + 6
@@ -125,6 +127,8 @@ Ps 22:6
 11:21; Prov 28:26; Job 22:30; Dan 12:1
 (later usage).
 
+@@SPLIT:stem@@
+
 Pi`el
 Perfect 3 masculine singular מִלֵּט
 
@@ -195,6 +199,8 @@ Amos 2:15; Ps 89:49; Ps 116:4
 form not in Hexateuch, Judges,
 Chronicles, Isa^1^)
 
+@@SPLIT:stem@@
+
 Hiph`il
 Perfect 3 masculine singular הִמְלִיט
 Isa
@@ -212,6 +218,8 @@ Pi`el
 2.
 deliver: absolute Isa 31:5 (||
 גָּנַן, הִצִּיל, פָּסַח).
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Imperfect 1 singular וָאֶתְמַלְּטָה

@@ -27,6 +27,7 @@ t. ; זְקַנְכֶם
 2 S 10,4 ; Lv 21,5 jamais pluriel
 —
 
+@@SPLIT:sense@@
 1.
 menton (opposé à ראֹשׁ, sommet de la tête) Lv 13,29 ; Lv 13,30 ; Lv 14,9 (tous
 P
@@ -37,6 +38,7 @@ P
 Ps 133,4
 (où cependant menton barbu peut être le sens) ; menton, ou mâchoire inférieure, du lion et de l'ours 1 S 17,35.
 
+@@SPLIT:sense@@
 2.
 barbe, comme poussant (צמח) 2 S 10,5 = 1 Ch 19,5 comme coupée Es 7,20 (ספה), Es 15,2 = Jr 48,37 (
 גרע) ; comparer מְגֻלְּחֵי זָקָן

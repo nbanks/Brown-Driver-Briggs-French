@@ -10,6 +10,8 @@ go (mostly in poetry) (
 id., Biblical Aramaic אֲזַל, Syriac
 [placeholder121: Placeholders/121.gif]) —
 
+@@SPLIT:stem@@
+
 Qal. Perfect
 אַזַל
 1Sam 9:7 3 feminine
@@ -31,6 +33,8 @@ strength); followed by מִן
 1Sam 9:7
 הַלֶּחֶם אָזַל מִכֵּלֵינוּ; Job 14:11
 אָֽזְלוּ מַיִם מִנִּייָֿם
+
+@@SPLIT:stem@@
 
 Pu`al
 Participle

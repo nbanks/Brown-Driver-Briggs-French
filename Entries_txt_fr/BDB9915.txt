@@ -5,6 +5,7 @@ araméen biblique
 verbe
 placer, faire (voir hébreu biblique ; pour l'influence perse sur l'usage comparer Scheft^65^) ; —
 
+@@SPLIT:stem@@
 Pe`al
 Parfait 3 masculin singulier שָׂם
 Esd 5,3 +, suffixe
@@ -38,6 +39,7 @@ Dn 3,12 ;
 Dn 6,14
 prêter dûment attention (טְעֵם) à (עַל personne).
 
+@@SPLIT:stem@@
 Pe`il 3 masculin singulier מִנִּי שִׂים טְעֵם
 Esd 4,19
 , de moi un décret est rendu, ainsi Esd 5,17 ; Esd 6,8 ; Esd 6,11 ; Esd 7,13 ; Esd 7,21 ;
@@ -47,6 +49,7 @@ littéral 3 féminin singulier שֻׂמַת (lire probablement שִׂימַת
 K^§ 45, Beisp. 1.^
 d)) Dn 6,18 (de pierre, עַל local).
 
+@@SPLIT:stem@@
 Hithpe`el
 être fait : Imparfait 3 masculin singulier יִתְּשָׂם
 Esd 4,24 (de

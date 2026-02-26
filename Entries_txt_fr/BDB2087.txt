@@ -93,6 +93,7 @@ En usage הוּא (féminin הִיא ; pluriel הֵ֫מָּה, הֵם
 הֵ֫מָּה
 ) est
 
+@@SPLIT:sense@@
 1. un il (elle, cela, ils/elles) emphatique, parfois équivalent à lui-même (elle-même, cela même, eux-mêmes), ou
 (surtout avec l'article) ce, celui-là (ceux-là) :
 
@@ -184,6 +185,7 @@ Ne 10,38
 (comparer en syriaque
 [placeholder1263: Placeholders/1263.gif], Nö^§ 227^) : comparer Ps 87,5 ; 1 S 20,29.
 
+@@SPLIT:sense@@
 2. Il reprend le sujet avec emphase :
 
 a. quand le prédicat est un
@@ -257,6 +259,7 @@ après אֲשֶׁר dans une phrase affirmative, Gn 9,3 tout ce qui rampe
 הוּא רָשָׁע לָמוּת qui est coupable de mort, Dt 20,20 ; 1 S 10,19 ; Ag 1,9 et ailleurs (Sur 2
 , comparer Dr^§ 199^, avec Obs.)
 
+@@SPLIT:sense@@
 3. Quand, cependant, le pronom suit le prédicat, sa position lui donne le
 minimum d'emphase, et il exprime (ou reprend) le sujet de la manière la plus discrète possible : ainsi
 
@@ -320,6 +323,7 @@ laissèrent le camp כַּאֲשֶׁר הִיא comme il était (comparer
 הֵמָּה 2 R 7,10). (Sur 3, comparer
 Dr^§ 198^, avec Obs.)
 
+@@SPLIT:sense@@
 4. Il anticipe (semble-t-il) le sujet, à savoir
 
 a.
@@ -414,6 +418,7 @@ habituellement ἐγώ εἰμι : dans les Psaumes σὺ δὲ ὁ αὐτὸς
 הוא est-il
 un simple prédicat d'identité ? voir plutôt 3.b.
 
+@@SPLIT:sense@@
 6. Au sens neutre, cela, ce (d'une action, occurrence, affaire, etc.) —
 
 a.

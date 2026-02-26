@@ -10,6 +10,8 @@ Dl^HWB 426^; Arabic
 sick person, sickness, Mordt^ZMG 1876, 32^; Aramaic verb
 [placeholder3085: Placeholders/3085.gif], מְרַע); —
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect 3 plural נִמְרְצוּ
 Job 6:25 (but see
@@ -33,6 +35,8 @@ Dl^HWB 425 f.^; always of something repelling]. More probably
 נמרצו = נמלצו
 be sweet (compare Ps 119:103) or read נמלצו (q. v.), Che^JQ July, 1897^
 Du.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imperfect suffix מַהיַּֿמְרִיצְךָ

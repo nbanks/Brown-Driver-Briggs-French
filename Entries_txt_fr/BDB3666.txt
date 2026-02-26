@@ -6,6 +6,7 @@ Hiph`il
 placer, poser, un synonyme vif et énergique de שָׂם (Kö^i. 430^
 Ges^«GKC:71»§ 71^) —
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait suffixe הִצִּיגַּ֫נִי
 Jr 51,34
@@ -65,6 +66,7 @@ Am 5,15
 
 לארץ הניחו).
 
+@@SPLIT:stem@@
 Hoph`al
 Imparfait
 יצָֻּ֑ג

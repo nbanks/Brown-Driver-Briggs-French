@@ -22,10 +22,14 @@ Judg 4:5
 Num 13:29
 ^. — always with article, except Num 21:29; Ezek 16:45.
 
+@@SPLIT:sense@@
+
 1. called son of Canaan Gen 10:16 (
 J
 ) 1Chr 1:14
 =
+
+@@SPLIT:sense@@
 
 2. a chief people dispossessed by Hebrews; (a) living east of Jordan Num 21:13 (twice in verse); Num 21:25 + 9 t.
 Numbers + Josh 24:8
@@ -90,6 +94,8 @@ E
 ); Judg 3:5;
 1Kgs 9:20; 2Chr 8:7; Ezra 9:1; Neh 9:8 compare Ezek 16:3; Ezek 16:45 (on
 these lists compare Bu^Urgesch 344 ff.^ & We^JBTh xxi. 602^.)
+
+@@SPLIT:sense@@
 
 3.
 adjective [of a people] singular Gen 14:13; Deut 2:24.

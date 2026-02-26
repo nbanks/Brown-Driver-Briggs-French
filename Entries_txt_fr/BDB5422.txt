@@ -14,12 +14,14 @@ Jb 34,14
 pluriel נְשָׁמוֺת
 Es 57,16 —
 
+@@SPLIT:sense@@
 1.
 souffle de Dieu comme vent brûlant allumant une flamme Es 30,33 comme vent destructeur 2 S 22,16 = Ps 18,16 ; Jb 4,9 comme vent
 froid produisant la glace
 Jb 32,8 ;
 Jb 33,4.
 
+@@SPLIT:sense@@
 2.
 souffle de l'homme 1 R 17,17 ; Es 42,5 ; Jb 27,3 ; Dn 10,7 souffle de vie נשׁמת חיים
 Gn 2,7 (
@@ -34,6 +36,7 @@ J
 Es 2,22
 l'homme dans les narines duquel il n'y a qu'un souffle (glose tardive).
 
+@@SPLIT:sense@@
 3. synonyme נפשׁ כָּל נְשָׁמָה
 tout être qui respire
 Dt 20,16 ;
@@ -46,6 +49,7 @@ Ps 150,6
 נְשָׁמוֺת
 Es 57,16.
 
+@@SPLIT:sense@@
 4.
 esprit de l'homme, || רוּחַ, אָדָם
 ׳

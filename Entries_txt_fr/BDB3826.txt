@@ -11,10 +11,12 @@ t. ; suffixe יָשְׁרוֺ
 Jb 33,23 ;
 Pr 14,2 —
 
+@@SPLIT:sense@@
 1.
 droiture, régularité, de chemins (avec implication morale)
 Pr 2,13 ; Pr 4,11.
 
+@@SPLIT:sense@@
 2.
 rectitude, intégrité
 Pr 17,26
@@ -35,6 +37,7 @@ Dt 9,5 ; Ps 119,7 ;
 
 4.
 
+@@SPLIT:sense@@
 3.
 ce qui est dû, juste
 Jb 33,23 ;

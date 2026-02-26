@@ -4,6 +4,8 @@ Biblical Hebrew
 I. [שָׂכַךְ] verb
 cover, lay over, so as to screen (compare || √ I. סכן); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 1 singular וְשַׂכֹּתִי כַפִּי
 עָלֶיךָ

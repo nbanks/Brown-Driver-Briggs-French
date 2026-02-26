@@ -24,6 +24,7 @@ construit id. Gn
 26,18 comparer בֶּאֱרֹת בֶּאֱרֹת חֵמָר
 Gn 14,10 —
 
+@@SPLIT:sense@@
 1.
 un puits, souvent fait en creusant (חָפַר) Gn 21,25 ; Gn 21,30 (
 E
@@ -81,6 +82,7 @@ Ct 4,15
 מַעְיַן גַּנִּים בְּאֵר מַיִם חַיִּים
 וְנוֺזְלִים מִןלְֿבָנוֺן.
 
+@@SPLIT:sense@@
 2.
 fosse (= בּוֺר) ; fosses de bitume Gn 14,10 (comparer ci-dessus) ; בְּאֵר
 שַׁחַת
@@ -92,6 +94,7 @@ de la femme étrangère בְּאֵר צָרָה
 une fosse étroite, d'où il est difficile de se tirer Pr 23,27 (|| שׁוּחָה
 עֲמֻקָּה).
 
+@@SPLIT:sense@@
 3. comme nom propre [d'un lieu]
 
 a. avec ָ  ה locatif בְּאֵ֫רָה une station d'Israël dans le désert

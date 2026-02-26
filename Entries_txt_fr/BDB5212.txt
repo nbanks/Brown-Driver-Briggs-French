@@ -5,6 +5,7 @@ hébreu biblique
 dénominatif
 agir ou traiter comme étranger, ou étrange ; déguiser, mal interpréter ; —
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait
 יִנָּכֵר
@@ -12,6 +13,7 @@ Pr 26,24
 de ses lèvres celui qui hait se déguise (dissimule, dit ce qui est étranger
 à sa pensée).
 
+@@SPLIT:stem@@
 Pi`el
 Parfait
 נִכַּר
@@ -41,6 +43,7 @@ Dr ; Kit l'un ou l'autre ; >
 סִגַּר
 Bu ; Löhr soit סִגַּר soit סִכַּר.
 
+@@SPLIT:stem@@
 Hithpa`el
 Imparfait
 וַיִּתְנַכֵּר אֲלֵיהֶם

@@ -8,6 +8,7 @@ faire captif (hébreu tardif, ancien araméen id. ; arabe
 [placeholder5380: Placeholders/5380.gif]) ; araméen שְׁבָא,
 [placeholder5381: Placeholders/5381.gif]) —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier ׳
 שׁ
@@ -95,6 +96,7 @@ Dt 21,10
 =
 le faire captif.
 
+@@SPLIT:stem@@
 Niph`al
 être fait captif :
 Parfait 3 masculin singulier נִשְׁבָּה, d'un homme Gn 14,14, d'un animal Ex 22,9 (

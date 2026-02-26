@@ -17,6 +17,7 @@ ressemblance (d'où arabe
 image, effigie, comme emprunt Frä^272^)
 comparer דְּמוּת) —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier ׳
 ד
@@ -51,6 +52,7 @@ absolu Es 46,5
 suivi de אֶל
 Ez 31,2.
 
+@@SPLIT:stem@@
 Pi`el
 Parfait
 דִּמָּה

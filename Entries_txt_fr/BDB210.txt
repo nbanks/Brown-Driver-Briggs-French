@@ -5,8 +5,10 @@ II. אֵלוֺן
 nom propre, masculin (= id. comparer אֵלָה
 nom propre)
 
+@@SPLIT:sense@@
 1. un fils de Zabulon Gn 46,14 ; Nb 26,26.
 
+@@SPLIT:sense@@
 2.
 אֵילֹן
 Gn 26,34
@@ -14,12 +16,14 @@ Gn 26,34
 Gn 36,2 un hittite,
 beau-père d'Ésaü.
 
+@@SPLIT:sense@@
 3.
 אֵילוֺן
 Jg 12,11 ;
 Jg 12,12 un
 juge d'Israël, de la tribu de Zabulon
 
+@@SPLIT:sense@@
 4.
 nom propre [d'un lieu]
 אֵילוֺן

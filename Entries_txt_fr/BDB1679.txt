@@ -21,6 +21,7 @@ achever, apparenté à גמר ; — arabe
 [placeholder940: Placeholders/940.gif]
 être beau, agréable) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 Ps 13,6 + ;
@@ -124,6 +125,7 @@ Es 28,9
 
 devenir mûr (raisins) Es 18,5.
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait
 יִגָּמֵל

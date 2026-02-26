@@ -14,6 +14,7 @@ un sac pendant,
 [placeholder3229: Placeholders/3229.gif]
 suspendre, pendre) ; —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 3 féminin singulier תָּנוּט
 Ps 99,1

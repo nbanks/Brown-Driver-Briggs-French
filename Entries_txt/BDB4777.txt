@@ -9,6 +9,8 @@ id.; Arabic
 [placeholder3066: Placeholders/3066.gif] II. drain to the last drop (Dozy
 ); compare מָצַץ); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 2 feminine singular מָצִית
 Isa 51:17,
@@ -26,6 +28,8 @@ Isa 51:17 ( + שׁתה; of personified Jerusalem), compare, object בּוֺס,
 Ezek 23:24 (+
 שׁתה); object שְׁמָרֶיהָ
 the dregs of it (namely בּוֺס) Ps 75:9 (subject the wicked).
+
+@@SPLIT:stem@@
 
 Niph`al
 Perfect

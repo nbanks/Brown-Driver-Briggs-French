@@ -11,6 +11,7 @@ rompre (p. ex. du pain) ; arabe
 [placeholder4818: Placeholders/4818.gif]
 extrémité éloignée) ; —
 
+@@SPLIT:stem@@
 Qal
 Infinitif
 קְצוֺת עַמִּים
@@ -21,6 +22,7 @@ Vrss
 קַצּוֺת (√ קצץ) ; Gr
 Now conjecturent הֲצִיקוֺתָ.
 
+@@SPLIT:stem@@
 Pi`el
 Infinitif construit
 לִקַצּוֺת בְּ
@@ -44,6 +46,7 @@ Benz,
 Pr 26,6
 (figuré).
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 pluriel הִקְצוּ
 Lv 14,41,

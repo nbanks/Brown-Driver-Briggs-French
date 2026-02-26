@@ -14,6 +14,8 @@ Num 109:8, etc.;
 plural פְּקֻדּ(וֺ)ת
 Jer 52:11 +; —
 
+@@SPLIT:sense@@
+
 1.
 visitation:
 
@@ -28,6 +30,8 @@ Jer 6:15; Jer 49:8; Jer 50:31),
 בֵּית הַפּ = prison Jer 52:11.
 
 b. gracious visitation, providence Job 10:12.
+
+@@SPLIT:sense@@
 
 2.
 
@@ -63,12 +67,16 @@ charge = thing entrusted Num 4:16 (
 P
 ).
 
+@@SPLIT:sense@@
+
 3.
 mustering
 2Chr 17:14
 ;
 2Chr
 26:11.
+
+@@SPLIT:sense@@
 
 4.
 store, things laid up, Isa 15:7; Ps 109:8 (perhaps; Hup

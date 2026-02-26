@@ -29,6 +29,8 @@ implore (compare Amharic, Tigrinya), &
 [placeholder1317: Placeholders/1317.gif]
 swear) —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 2 masculine plural תָּהֹ֑לּוּ
 Ps 75:5
@@ -42,6 +44,8 @@ Ps 75:5 (||
 
 Ps 5:6 (||
 פֹּעֲלֵי אָוֶן); Ps 73:3; Ps 75:5 (both || רְשָׁעִים).
+
+@@SPLIT:stem@@
 
 Pi`el
 Perfect
@@ -258,6 +262,8 @@ Che
 praiseth (׳
 י) for (i.e. in a mercenary spirit).
 
+@@SPLIT:stem@@
+
 Pu`al
 Perfect 3 plural הוּלָּ֑לוּ
 Ps
@@ -306,6 +312,8 @@ Ps 96:4 = 1Chr 16:25; Ps 145:3 so ׳
 מְה
 Ps
 113:3.
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Imperfect
@@ -399,6 +407,8 @@ together with thine heritage (|| לִשְׂמֹהַ בְּשִׂמְהַת גּ�
 God-fearing woman
 Prov 31:30.
 
+@@SPLIT:stem@@
+
 Po`el
 Imperfect
 יְהוֺלֵל
@@ -419,6 +429,8 @@ Isa
 Eccl 7:7 (subject הָעשֶׁק; || וִיאַבֵּד אֶתלֵֿב מַתָּנָה
 ).
 
+@@SPLIT:stem@@
+
 Po`al
 Participle
 לִשְׂהוֺק אָמַרְתִּי מְהוֺלָ֑ל
@@ -428,6 +440,8 @@ of laughter I said, It is mad (folly);
 Ps 102:9
 
 those mad against me (|| אוֺיְבָ֑י).
+
+@@SPLIT:stem@@
 
 Hithpo`el
 Imperfect

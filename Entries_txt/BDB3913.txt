@@ -10,6 +10,8 @@ tread down, beat or make a path, subdue; Arabic
 press, squeeze, knead (body or limb, as in the bath, message), also
 attack, assault) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 plural וְכָֽבְשׁוּ consecutive Zech 9:15
 Imperfect
@@ -48,6 +50,8 @@ P
 figurative subdue, followed by עֲוֺנֹתֵינוּ
 Mic 7:19.
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect 3 feminine singular נִכְבְּשָׁה
 Josh 18:1 +
@@ -64,11 +68,15 @@ P
 ), 1Chr
 22:18.
 
+@@SPLIT:stem@@
+
 Pi`el
 Perfect
 כִּבֵּשׁ
 
 2Sam 8:11, object גּוֺיִם (of conquest).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imperfect

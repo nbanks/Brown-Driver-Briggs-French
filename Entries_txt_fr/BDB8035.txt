@@ -6,6 +6,7 @@ verbe
 dénominatif
 être mauvais, méchant ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier רַע
 Nb 22,34 + 3
@@ -83,12 +84,14 @@ J
 1 Ch 21,7
 .
 
+@@SPLIT:stem@@
 Niph`al
 subir un dommage : Imparfait 3 masculin singulier (רַע) יֵרוֺעַ
 Pr 11,15
 ; Pr
 13,20.
 
+@@SPLIT:stem@@
 Hiphil_70_
 Parfait 3 masculin singulier הֵרַע
 Ex 5,23 + ; 2

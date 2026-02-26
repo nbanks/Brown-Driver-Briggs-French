@@ -4,6 +4,7 @@ hébreu biblique
 אָ֑פֶס אֶ֫פֶס
 nom masculin proprement cessation, d'où
 
+@@SPLIT:sense@@
 1.
 fin, extrémité, seulement dans l'expression poétique אַפְסֵי
 אֶרֶץ (Ps 59,14
@@ -15,6 +16,7 @@ Es 45,22 ;
 Es 52,10b (=
 Ps 98,3b) Ps 22,28 ; Ps 67,8 ; Pr 30,4.
 
+@@SPLIT:sense@@
 2. Exprimant la non-existence :
 
 a. comme substantif (surtout un

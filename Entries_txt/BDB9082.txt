@@ -5,6 +5,8 @@ Biblical Hebrew
 שׁתם
 open [vessel]); — only
 
+@@SPLIT:stem@@
+
 Qal
 Passive participle construct הַגֶּבֶר שְׁתֻם הְעָ֑יִן
 Num 24:3; Num 24:15 (poems

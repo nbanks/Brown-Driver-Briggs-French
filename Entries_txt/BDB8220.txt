@@ -6,6 +6,8 @@ verb
 denominative
 muse, complain, in poetry talk (of); —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 3 masculine singular יָשִׂיחַ
 Ps 119:23 3
@@ -62,6 +64,8 @@ Di
 Bu read שֶׁרֶץ; Kau
 
 חַיַּת (so Bu as alternative), Bö and others below II. שִׂיחַ).
+
+@@SPLIT:stem@@
 Pol`el
 meditate, consider: Imperfect 3 masculine singular יְשׂוֺחֵחַ
 Isa 53:8

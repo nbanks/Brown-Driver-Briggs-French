@@ -9,6 +9,7 @@ arabe
 [placeholder2275: Placeholders/2275.gif] est mettre ou poser (par terre, en un lieu, etc.), mais
 [placeholder2276: Placeholders/2276.gif] = araméen ע) —
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait
 יַצִּיעַ
@@ -22,6 +23,7 @@ Ps 139,8
 si j'étendais le Shéol
 (comme ma couche).
 
+@@SPLIT:stem@@
 Hoph`al
 Imparfait
 יֻצַּע (

@@ -8,6 +8,8 @@ stupefy; III., 1 & 2
 [placeholder1161: Placeholders/1161.gif]
 be astounded, stupefied) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 דַּ֫מּוּ
@@ -63,6 +65,8 @@ as seat of mental excitement Job 30:27; Lam 2:18
 be struck dumb, astounded, in amazement and fear Exod 15:16 (כאבן) Isa 23:2 (but
 compare II. דמם).
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect 3 plural וְנָדַמּוּ consecutive Jer 25:37
 Imperfect
@@ -78,11 +82,15 @@ Jer 51:6
 men of war
 Jer 49:25; Jer 50:30 dwellings Jer 25:37.
 
+@@SPLIT:stem@@
+
 Po.
 Perfect 1 singular שִׁוִּיתִי וְדוֺמַ֫מְתִּי נַפְשִׁי
 Ps 131:2
 'composed and quieted my soul' Che
 (as a weaned child).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 masculine singular suffix הֲדִמָּנוּ

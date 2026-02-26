@@ -15,6 +15,8 @@ melt and pour into mould; Ethiopic
 [placeholder5685: Placeholders/5685.gif] Aramaic שְׁפַח,
 [placeholder5686: Placeholders/5686.gif] (rare) = Biblical Hebrew); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular ׳
 שׁ
@@ -173,6 +175,8 @@ Ps 102:1
 Ezek
 16:15, compare Ezek 23:8.
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect 3 masculine singular נִשְׁפַּח
 Lam 2:11,
@@ -202,6 +206,8 @@ Ezek
 Qal
 2.b.).
 
+@@SPLIT:stem@@
+
 Pu`al
 Perfect 3 masculine singular consecutive וְשֻׁפַּח
 Zeph
@@ -221,6 +227,8 @@ my steps were caused to slip (
 Qr
 
 שֻׁפְּכוּ).
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Imperfect 3 feminine singular עָלַי

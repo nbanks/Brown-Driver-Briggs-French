@@ -16,11 +16,15 @@ Ex 25,4 + ; suffixe
 תּוֺלַעְתָּם
 Es 66,24 —
 
+@@SPLIT:sense@@
+
 1.
 ver, larve, charançon de la vigne Jon 4,7 ; Dt 28,39 (collectif) ; dévorant les morts Es 14,11 (collectif : ||
 רִמָּה), Es 66,24 (collectif) symbole d'insignifiance Es 41,14 ; Jb 25,6 (|| רִמָּה
 ), Ps 22,7
 .
+
+@@SPLIT:sense@@
 
 2. ailleurs (
 P

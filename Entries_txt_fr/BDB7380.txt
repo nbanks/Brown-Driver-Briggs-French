@@ -12,6 +12,8 @@ avoir en horreur,
 [placeholder4711: Placeholders/4711.gif]
 craindre) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Parfait 3 féminin singulier קָ֫צָה
 Nb 21,5 1 singulier
@@ -62,6 +64,8 @@ J
 E
 ), Es 7,16
 .
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imparfait 1 pluriel suffixe נְקִיצֶנָּה

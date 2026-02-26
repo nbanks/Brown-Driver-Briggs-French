@@ -7,6 +7,8 @@ then (probably from פּוֺ, a particle with a demonstrative force, compare
 פּוֺ, פֹּה here, with א prefixed. In the Targs. פּוֺן
 is used somewhat similarly, e.g. Gen 26:10; Num 11:29; Isa 1:9; Isa 48:18; Isa 48:19), — used
 
+@@SPLIT:sense@@
+
 1. in connection with interrogatory pronouns or adverbs (like ἄρα, ποτε
 tandem): מִי אֵפוֺא
 Gen 27:3 who,
@@ -19,10 +21,14 @@ Exod 33:16
 Isa 22:1
 מַהלָּֿח אֵפוֺא what is there to thee, pray. . .?
 
+@@SPLIT:sense@@
+
 2. in a command or wish: 2Kgs 10:10
 דְּעוּ אֵפוֺא ? know, then; (in apodosis) Prov 6:3; Job 19:6; Job 19:23
 מִיּיִֿתֵּן אֵפוֺ וְיִכָּֽתְבוּן מִלָּי֑ would, then, that my words were
 written !
+
+@@SPLIT:sense@@
 
 3. after אִם
 Gen 43:11

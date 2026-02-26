@@ -21,6 +21,7 @@ katâmu
 ; Zinjirli כתם (?) DHM^Sendsch. P. 37^
 ) ; —
 
+@@SPLIT:stem@@
 Niph`al
 Participe, figuré, נִכְתָּם עֲוֺנֵךְ לְפָנַי
 Jr 2,22

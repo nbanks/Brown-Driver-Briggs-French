@@ -12,10 +12,14 @@ Ithpe`el bickbite, slander); —
 1.
 murmur (rebelliously): —
 
+@@SPLIT:stem@@
+
 Qal
 Participle plural רוֺגְנִים
 Isa 29:24
 murmurers;
+
+@@SPLIT:stem@@
 
 Niph`al
 Imperfect 3 masculine plural וַיֵּרָֽגְנוּ
@@ -26,6 +30,8 @@ Deut 1:27.
 
 2.
 whisper (maliciously), backlite, slander:,
+
+@@SPLIT:stem@@
 
 Niph`al
 Participle

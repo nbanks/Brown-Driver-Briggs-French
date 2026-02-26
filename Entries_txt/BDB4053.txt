@@ -3,6 +3,8 @@ Biblical Hebrew
 
 כִּמְהָם
 
+@@SPLIT:sense@@
+
 proper name, masculine
 1.
 attendant of David
@@ -20,6 +22,8 @@ L
 ^
 
 Αχιμααμ.
+
+@@SPLIT:sense@@
 
 2. in noun [of location]
 גֵּרוּת כִמְהָם

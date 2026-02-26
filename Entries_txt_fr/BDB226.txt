@@ -8,6 +8,7 @@ Gn 49,3 + etc. ;
 pluriel אוֺנִים
 Ps 78,51 +.
 
+@@SPLIT:sense@@
 1.
 vigueur virile
 בְּאוֺנוֺ שָׂרָה אֶתאֱֿלֹהִים
@@ -19,6 +20,7 @@ Ruben, premier-né de Jacob) ; Dt 21,17 ; Ps 105,36 (premiers-nés égyptiens), 
 où ׳
 א est assimilé à מִצְרַיִם, ou pluriel intensif
 
+@@SPLIT:sense@@
 2.
 force de l'homme Jb 18,7 ; Jb 18,12 béhémoth Jb 40,16 pluriel intensif מֵרֹב
 אוֺנִים
@@ -35,6 +37,7 @@ RV
 AV
 ).
 
+@@SPLIT:sense@@
 3.
 richesse
 Jb 20,10 ;

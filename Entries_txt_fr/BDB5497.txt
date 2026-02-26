@@ -25,10 +25,12 @@ Jr 51,58
 
 Gie) ; —
 
+@@SPLIT:sense@@
 1.
 préfets d'Assyrie et de Babylone Ez 23,6 ; Ez 23,12 ; Ez 23,23 ; Jr 51,23 ; Jr 51,57 (tous +
 פַּחוֺת), Es 41,25, du roi des Mèdes Jr 51,28 (+ פַּחוֺת).
 
+@@SPLIT:sense@@
 2.
 petits gouverneurs, fonctionnaires de Juda (seulement Néhémie Esdras dans les sources) : distingués de
 חֹרִים

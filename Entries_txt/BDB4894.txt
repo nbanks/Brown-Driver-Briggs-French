@@ -10,6 +10,8 @@ bridle (Aramaic (
 ) מִתְגָּא; Late Hebrew מֶתֶג of secondary accent ָֽ;
 מִתֵּג Pi`el denominative put on a bridle); —
 
+@@SPLIT:sense@@
+
 1. literally bridle, for animals; מֶתֶג
 לַחֲמוֺר
 Prov 26:3 a whip
@@ -25,6 +27,8 @@ with bridle and halter (on text of verse compare Che
 and I will put (וְשַׂמְתִּי) my hook in thy nose and my bridle in thy lips =
 Isa 37:29 (see
 Dr^Is. ed. 2, 220^).
+
+@@SPLIT:sense@@
 
 2.
 figurative = control, authority, only in הָאַמָּה

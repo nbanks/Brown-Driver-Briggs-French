@@ -13,6 +13,8 @@ hang; perhaps Old Aramaic תלה
 id., Lzb^386^; Ethiopic
 [placeholder5819: Placeholders/5819.gif] in derived sense, be devoted, addicted, to); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular ׳
 ת
@@ -93,6 +95,8 @@ Esth 7:9; Esth 7:10;
 Esth 8:7; Esth 9:13;
 Esth 9:25.
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect 3 plural שָׂרִים בְּיָדָם נִתְלוּ
 Lam 5:12
@@ -105,6 +109,8 @@ they were hanged on a tree; + 3 masculine singular with apocope וַיִּתָּ
 נתן
 
 Hoph`al).
+
+@@SPLIT:stem@@
 
 Pi`el
 hang up for display, with accusative of thing: Perfect 3 plural

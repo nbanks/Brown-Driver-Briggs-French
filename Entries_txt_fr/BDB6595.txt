@@ -19,6 +19,7 @@ créer, fabriquer ; araméen פְּטַר,
 [placeholder4222: Placeholders/4222.gif]
 se retirer, partir) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier ׳
 פ
@@ -63,6 +64,7 @@ dans le temple, douteux, habituellement (guirlandes) étalées de fleurs
 1 R 6,32 ;
 1 R 6,35.
 
+@@SPLIT:stem@@
 Hiph`il
 
 comparer en syriaque PS^3093^. Imparfait 3 masculin singulier

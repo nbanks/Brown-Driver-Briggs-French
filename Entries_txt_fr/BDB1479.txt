@@ -3,6 +3,7 @@ hébreu biblique
 
 II. [גַּד]
 
+@@SPLIT:sense@@
 1.
 nom [masculin]
 fortune, bonne fortune (arabe
@@ -22,6 +23,7 @@ Qr
 
 ἐν τύχῃ, par ou avec bonne fortune.
 
+@@SPLIT:sense@@
 2.
 nom propre, masculin
 dieu de la fortune (arabe

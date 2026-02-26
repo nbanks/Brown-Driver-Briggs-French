@@ -29,6 +29,8 @@ Exod 26:29
 טַבְּעֹתָם
 Exod 36:34 —
 
+@@SPLIT:sense@@
+
 1.
 signet-ring, of king, taken from his hand and given as token of authority Gen 41:42 (
 E
@@ -36,11 +38,15 @@ E
 3:10; Esth
 8:2 used in sealing official missives Esth 3:12; Esth 8:8 (twice in verse); Esth 8:10 (verb חָתַם).
 
+@@SPLIT:sense@@
+
 2.
 ring, as ornament Isa 3:21 as gift for sacred purposed Exod 35:22; Num 31:50
 (both
 P
 ).
+
+@@SPLIT:sense@@
 
 3. most often (only in Exodus) of rings for staves of ark, for curtains, for ephod, and other
 sacred furniture

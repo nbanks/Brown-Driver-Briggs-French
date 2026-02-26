@@ -8,6 +8,7 @@ donner un titre, un surnom, un épithète (hébreu tardif id. ; araméen
 [placeholder2558: Placeholders/2558.gif] ; arabe
 [placeholder2559: Placeholders/2559.gif]) —
 
+@@SPLIT:stem@@
 Pi`el
 Imparfait 1 singulier suffixe בִשְׁמֶ֑ךָ אֲכַנְּךָוָאֶקְרָא לְךָ
 Es 45,4
@@ -24,6 +25,7 @@ Jb 32,21
 et à l'homme je ne donne pas de titres flatteurs (|| אַללֿנָא אֶשָּׂא פְנֵי אִישׁ
 ) ; absolu Jb 32,22.
 
+@@SPLIT:stem@@
 Poual
 Imparfait
 יְכֻנֶּה

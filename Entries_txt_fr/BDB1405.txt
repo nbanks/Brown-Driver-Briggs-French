@@ -6,6 +6,7 @@ verbe
 racheter, agir comme parent proche (hébreu tardif, Niph`al être racheté ; aussi
 גּוֺאֵל, גְּאוּלָּה) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 ׳
@@ -193,6 +194,7 @@ Es 63,4
 
 (comparer גְּאוּלַי ci-dessous), Ps 107,2.
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 נִגְאָ֑ל

@@ -8,6 +8,7 @@ araméen biblique
 
 syriaque ; voir hébreu biblique ישׁב) ; —
 
+@@SPLIT:stem@@
 Pe`al
 
 1.
@@ -23,6 +24,7 @@ habiter, Participe pluriel absolu יָתְבִין
 Esd 4,17 (
 ב lieu).
 
+@@SPLIT:stem@@
 Haph`el
 faire habiter : Parfait 3 masculin singulier הוֺתֵב
 Esd 4,10

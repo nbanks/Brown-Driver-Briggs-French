@@ -10,6 +10,7 @@ se réjouir, être joyeux (hébreu tardif id. ; comparer peut-être assyrien
 [placeholder5284: Placeholders/5284.gif]
 être élevé, fier ; punique nom propre, féminin שמחת) ; —
 
+@@SPLIT:stem@@
 Qal_126_
 Parfait 3 masculin singulier שָׂמַח
 Ps 16,9
@@ -114,6 +115,7 @@ Perles^RÉJ xxxiv. 63^
 être doux, arabe
 [placeholder5285: Placeholders/5285.gif]), ב de chose Ps 104,31.
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 3 masculin singulier וְשִׂמַּח consécutif Dt 24,5, suffixe
 שִׁמְּחָהוּ
@@ -171,6 +173,7 @@ Ps
 ;
 Qo 10,19 ; Pr 12,25 ; Pr 15,30 ; Pr 27,9.
 
+@@SPLIT:stem@@
 Hiph`il =
 Pi`el
 Parfait 2 masculin singulier הִשְׂמַחְתָּ

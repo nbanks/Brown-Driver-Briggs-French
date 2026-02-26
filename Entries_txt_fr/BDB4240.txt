@@ -13,9 +13,11 @@ Est 1,22 + 2 t.;
 Esd 2,62 + 3 t.;
 — écriture :
 
+@@SPLIT:sense@@
 1.
 registre, enregistrement, Ez 13,9; Esd 2,62 = Ne 7,64.
 
+@@SPLIT:sense@@
 2. = mode d'écriture, caractère, lettre, הִנִּשְׁתְּוָן כָּתוּב
 אֲרָמִית
 ׳
@@ -24,11 +26,14 @@ Esd 4,7
 et l'écriture de la lettre était écrite en araméen (caractères; ainsi probablement, voir BeRy Ryle, comparer hébreu tardif Hoffm^ZAW
 i.(1881), 334 ss.^); comparer Est 1,22; Est 3,12; Est 8,9 (deux fois dans le verset).
 
+@@SPLIT:sense@@
 3. = lettre, 2 Ch 2,10; Est 9,27.
 
+@@SPLIT:sense@@
 4. d'un décret royal, édit 2 Ch 35,4 (|| מִכְתָּב), Est 3,14; Est 8,8; Est 8,13 plus complètement כְּתָבהַֿדָּת
 Est 4,8.
 
+@@SPLIT:sense@@
 5. d'un écrit ayant une autorité divine 1 Ch 28,19
 אֱמֶת
 ׳

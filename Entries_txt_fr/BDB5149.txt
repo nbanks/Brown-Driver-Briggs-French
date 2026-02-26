@@ -6,6 +6,7 @@ hébreu biblique
 [placeholder3285: Placeholders/3285.gif] ; palmyrénien נחת
 Lzb^323^) ; —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 3 masculin singulier יֵחַת
 Jr 21,13 3
@@ -30,6 +31,7 @@ descendre en châtiment Ps 38,3 (main de ׳
 Niph`al voir ci-dessous) ; suivi de בְּ
 descendre dans c.-à-d. faire impression sur, Pr 17,10 (de la réprimande).
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 masculin pluriel נִחֲתוּ suivi de בְּ =
 pénétrer
@@ -37,6 +39,7 @@ Ps 38,3
 , (des flèches de ׳
 י).
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 3 masculin singulier consécutif וְנִחַת
 
@@ -59,6 +62,7 @@ HPS
 et fait de mes bras un arc de bronze ; de presser,
 aplanir, les sillons de la terre Ps 65,11.
 
+@@SPLIT:stem@@
 Hiph`il
 Impératif
 הַנְחַת

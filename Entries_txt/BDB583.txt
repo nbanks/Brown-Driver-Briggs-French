@@ -7,6 +7,8 @@ be opportune, meet, encounter opportunely (Arabic
 the right time is come, or it is come to the right time, or
 to maturity, or is opportune).
 
+@@SPLIT:stem@@
+
 Pi`el
 Perfect
 אִנָּה
@@ -16,6 +18,8 @@ cause (or allow) to meet in בְיָדוֺ
 ׳
 הָאֱלֹהִים א (object omitted), i.e. without any purpose of the man to whom suffix Ref.
 
+@@SPLIT:stem@@
+
 Pu`al
 be allowed to meet, be sent, Imperfect
 יְאֻנֶּה
@@ -23,6 +27,8 @@ Prov 12:21
 (with ל); 3 feminine singular תְּאֻנֶּה
 Ps 91:10
 (with אֶל), subject evil.
+
+@@SPLIT:stem@@
 
 Hithpa`el
 cause oneself to meet, seek occasion (= seek a quarrel with) followed by ל

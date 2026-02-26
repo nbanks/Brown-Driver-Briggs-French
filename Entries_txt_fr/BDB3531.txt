@@ -5,6 +5,7 @@ hébreu biblique
 nom propre [de personne] (= מֵיטִיב אֵל
 Dieu fait du bien) —
 
+@@SPLIT:sense@@
 1.
 féminin
 une princesse édomite
@@ -14,6 +15,7 @@ P
 ), 1 Ch 1,50
 .
 
+@@SPLIT:sense@@
 2.
 masculin
 ancêtre du faux prophète Shemaïa

@@ -8,10 +8,14 @@ dissolve, melt, intransitive (
 
 מְסַס; compare מסה, and II. מאס); —
 
+@@SPLIT:stem@@
+
 Qal. Infinitive construct
 מְסֹס נֹסֵס
 Isa 10:18
 like the melting (wasting away) of a נֹסֵס (q. v.)
+
+@@SPLIT:stem@@
 
 Niph`al
 Perfect
@@ -56,6 +60,8 @@ worthless, literally rejected (see
 מאס
 
 Niph`al)
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 plural הֵמַסּוּ אֶתלְֿבָבֵנוּ

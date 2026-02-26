@@ -26,6 +26,7 @@ plumas (Frey) ; —
 [placeholder3471: Placeholders/3471.gif]
 celeriter extraxit, etc., est dénominatif d'un mot emprunté selon Frä^88^) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 וְנָשַׁל consécutif Dt 7,1 + 2 t. ; Imparfait 3 masculin singulier יִשַּׁל
@@ -55,6 +56,7 @@ E
 chasser les nations מִפָּנֶיךָ
 Dt 7,1 ; Dt 7,22.
 
+@@SPLIT:stem@@
 Pi`el
 Imparfait 3 masculin singulier וַיְנַשֵּׁל
 2 R 16,6

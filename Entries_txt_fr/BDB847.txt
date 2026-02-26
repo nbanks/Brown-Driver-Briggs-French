@@ -5,6 +5,7 @@ hébreu biblique
 [placeholder462: Placeholders/462.gif]
 fonder, établir)
 
+@@SPLIT:stem@@
 Hithpo`el
 וְהִתְאשָׁ֑שׁוּ
 Es 46,8 (dérivé

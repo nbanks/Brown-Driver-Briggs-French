@@ -7,6 +7,8 @@ lie in wait (Arabic
 [placeholder394: Placeholders/394.gif]
 be crafty) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 וְאָרַב consecutive Deut 19:11; Judg 21:20
@@ -19,7 +21,7 @@ Imperfect
 Ps 10:9 (twice in
 verse); יֶאֱרֹ֑בוּ
 Prov 1:18; Mic 7:2
-וָיֶּ אֶרְבוּ
+וָיֶּ אֶרְבוּ
 Judg 9:34; Judg 16:2
 נֶָֽאֶרְבָה
 Prov 1:11
@@ -54,6 +56,8 @@ Ezra 8:31 plural of this singular = ambuscades Jer 51:12 singular = place of lyi
 (local sense)
 Josh 8:7.
 
+@@SPLIT:stem@@
+
 Pi`el
 Participle plural liers-in-wait
 id quod
@@ -62,6 +66,8 @@ Participle
 מְאָֽרְבִים
 Judg 9:25
 (with ל), 2Chr 20:22 (with עַל). ?
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imperfect

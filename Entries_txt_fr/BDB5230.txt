@@ -23,6 +23,7 @@ id., aussi araméen נוסחא (d'où arabe
 [placeholder3342: Placeholders/3342.gif]
 copie) ; —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 3 masculin singulier ׳
 בְּית גֵּאִים יִסַּח י
@@ -42,6 +43,7 @@ seront arrachés ; || יִכָּרֵ֑תוּ ; comparer
 Ges^«GKC:144»§ 144^, 3b. R Da^Synt. § 108. b^
 ).
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 2 masculin pluriel consécutif וְנִסַּחְתֶּם מֵעַל הָאֲדָמָה
 Dt 28,63

@@ -33,6 +33,7 @@ Es 59,3, etc. ;
 pluriel לְשֹׁנוֺת absolu Ps 31,21 ; Es 66,18 construit Za 8,23 suffixe לְשֹׁנֹתָם
 Gn 10,20 ; Gn 10,31 —
 
+@@SPLIT:sense@@
 1.
 langue des hommes,
 
@@ -243,6 +244,7 @@ Es 35,6,
 Ps
 119,172.
 
+@@SPLIT:sense@@
 2. = langue, langage
 Dt 28,49 ;
 Jr 5,15 et
@@ -265,6 +267,7 @@ P
 13,24 ; Est
 1,22 (deux fois dans le verset) ; Est 3,12 ; Est 8,9 (deux fois dans le verset) ; Dn 1,4.
 
+@@SPLIT:sense@@
 3.
 langue des animaux : chien Ex 11,7 (
 J
@@ -275,6 +278,7 @@ q. v. ; comparer 1.b.), Ps 68,24 vipère Jb 20,16 (sujet de תַּהֲרֹג
 crocodile Jb 40,25
 .
 
+@@SPLIT:sense@@
 4.
 langue de feu, dévorante, כֶּאֱכֹל קַשׁ לְשׁוֺן אֵשׁ
 Es 5,24
@@ -283,6 +287,7 @@ comparer de ׳
 Es 30,27
 (|| שְׂפָתָיו מָֽלְאוּ זַעַם).
 
+@@SPLIT:sense@@
 5. = lingot (en forme de langue) d'or Jos 7,21 ; Jos 7,24 (
 J
 
@@ -292,6 +297,7 @@ Ainsi assyrien
 lišânu
 ; voir Meissn^ZAW xxlii {1905}, 151 s.^ Johns^Assyrian Deeds 2, 281^.
 
+@@SPLIT:sense@@
 6. = baie (en forme de langue) de la mer Es 11,15 ; Jos 15,2 ; Jos 15,5 ; Jos 18,19 (tous
 P
 ).

@@ -8,6 +8,8 @@ bend, curve,
 [placeholder166: Placeholders/166.gif]
 what surrounds, encloses
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 3 feminine singular תֶּאְטַר
 Ps 69:16 (

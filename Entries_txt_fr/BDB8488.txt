@@ -12,6 +12,7 @@ t. (6 + 10 = 16 sont supplémentaires) ; — six (Hexateuque surtout
 P
 ) :
 
+@@SPLIT:sense@@
 1. aucun autre nombre :
 
 a. devant nom pluriel 75 t. : p. ex.
@@ -48,11 +49,13 @@ P
 ) + (distributif 2 S 21,20 = 1 Ch 20,6).
 
 b. = ordinal
-׳שְׁנַת שֵׁשׁ לְחִזְק
+׳
+שְׁנַת שֵׁשׁ לְחִזְק
 2 R 18,10
 (
 Ges «GKC:134o»§ 134o).
 
+@@SPLIT:sense@@
 2. 16, avec nom féminin : שֵׁשׁ עֶשְׂרֵה, devant נָ֑פֶשׁ
 Gn 46,18 (
 
@@ -79,28 +82,37 @@ P
 = ordinal 16e
 1 Ch 24,14 ;
 1 Ch 25,23 +,
-׳ע
-׳יוֺם שׁ
+׳
+ע
+׳
+יוֺם שׁ
 2 Ch 29,27.
 
+@@SPLIT:sense@@
 3. 600 = שֵׁשׁ מֵאוֺת, Gn 7,6 (
 P
 ) + 63 t. ; 6000 = שֵׁשֶׁת אֲלָפִים
 Nb 3,34 (
 P
 ) + 8 t. ; אֶלֶף
-׳שׁ
+׳
+שׁ
 Jg 20,15 + 2
 t.
 
+@@SPLIT:sense@@
 4. avec dizaines,
-׳שׁ suit Gn 46,26 + 13 t., précède Nb 31,44 (
+׳
+שׁ suit Gn 46,26 + 13 t., précède Nb 31,44 (
 P
 ).
 
+@@SPLIT:sense@@
 5.
-׳שׁ comme nombre rond,
-׳חָמֵשׁ אוֺשֿׁ
+׳
+שׁ comme nombre rond,
+׳
+חָמֵשׁ אוֺשֿׁ
 2 R 13,19,
 comparer Jb 5,19 ;
 Pr 6,16.

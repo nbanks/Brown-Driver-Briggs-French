@@ -6,8 +6,12 @@ noun masculine^
 Jer 13:12
 ^
 
+@@SPLIT:sense@@
+
 1.
 skin-bottle, skin;
+
+@@SPLIT:sense@@
 
 2.
 jar, pitcher;
@@ -15,6 +19,8 @@ jar, pitcher;
 Baer^
 1Sam 1:24
 ^); —
+
+@@SPLIT:sense@@
 
 1.
 skin of wine, נֵ֫בֶל יַיִן
@@ -25,6 +31,8 @@ compare also Jer
 : figurative נִבְלֵי שָׁמַיִם
 Job 38:37
 i.e. clouds (|| שְׁחָקִים).
+
+@@SPLIT:sense@@
 
 2. earthen jar, pitcher: figurative of connections of Eliakim כְּלֵי
 נְבָלִים

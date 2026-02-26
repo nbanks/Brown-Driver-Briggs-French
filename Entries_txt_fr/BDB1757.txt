@@ -9,6 +9,7 @@ garâru
 , courir, Zim^BP 102^ ; etc.)
 —
 
+@@SPLIT:stem@@
 Qal
 Imparfait suffixe יְנֹרֵהוּ
 Ha 1,15,
@@ -16,6 +17,7 @@ Ha 1,15,
 Pr 21,7 —
 entraîner, des poissons dans un filet, figuré Ha 1,15 (Chaldéens, leurs adversaires) ; violence, les méchants Pr 21,7.
 
+@@SPLIT:stem@@
 Niph`al (lire
 Qal ? Samaritain יָגוֺר comparer Di)
 Imparfait
@@ -29,12 +31,14 @@ avec accusatif de sens apparenté au verbe גֵּרָה לֹאיִֿגָּ֑ר =
 
 (Di).
 
+@@SPLIT:stem@@
 Po`al
 Participe (dénominatif ; ainsi hébreu tardif Qal et Niph`al) מִגֹרָרוֺת
 בַּמְּגֵרָה
 1 R 7,9
 sciées avec la scie.
 
+@@SPLIT:stem@@
 Hithpo`el
 סַעַר מִתְגּוֺרֵ֑ר
 Jr

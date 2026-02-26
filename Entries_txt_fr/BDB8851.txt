@@ -4,6 +4,7 @@ hébreu biblique
 שֹׁמֵר
 nom propre, masculin
 
+@@SPLIT:sense@@
 1.
 père d'un des meurtriers de Joas
 2 R 12,21,
@@ -17,6 +18,7 @@ père d'un des meurtriers de Joas
 שִׁמְרִית
 q. v., une Moabite, || 2 Ch 24,26).
 
+@@SPLIT:sense@@
 2. Asérite 1 Ch 7,32, Σαμηρ, Σωμηρ ; = שֶׁמֶר
 2.b.
 

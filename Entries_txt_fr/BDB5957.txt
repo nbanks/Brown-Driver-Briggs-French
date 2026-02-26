@@ -5,6 +5,7 @@ hébreu biblique
 nom propre, masculin
 Οζει :
 
+@@SPLIT:sense@@
 1. Lévites :
 
 a.
@@ -19,8 +20,10 @@ Ne 11,22.
 
 c. nom sacerdotal Ne 12,19 ; Ne 12,42.
 
+@@SPLIT:sense@@
 2. nom en Issacar 1 Ch 7,2 ; 1 Ch 7,3.
 
+@@SPLIT:sense@@
 3. nom benjamite 1 Ch 7,7 ; 1 Ch 9,8.
 
 ---

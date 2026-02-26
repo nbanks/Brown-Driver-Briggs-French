@@ -11,6 +11,8 @@ Lane^1459^,
 abitus et adventus
 Frey (Kam)); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular סָג
 Ps 53:4
@@ -29,6 +31,8 @@ absolute Ps 53:4
 סוּג לֵב
 Prov 14:14
 a backslider in heart.
+
+@@SPLIT:stem@@
 
 Niph`al
 Perfect 3 masculine singular נָסוֺג
@@ -92,6 +96,8 @@ Jer 46:5
 Isa 42:17;
 Ps 35:4; Ps 40:15 = Ps 70:3; Ps 5.
 
+@@SPLIT:stem@@
+
 Hiph`il
 
 1. usually of displacing, moving back a boundary mark (גְּבוּ
@@ -115,6 +121,8 @@ remove carry away, valuables, to rescue them, jussive, 2 masculine singular
 Mic 6:14
 si vera lectio (on synt.see Dr^§§ 152, 1. 2; 155 Obs.^
 )
+
+@@SPLIT:stem@@
 
 Hoph`al
 Perfect 3 masculine singular וְהֻסַּג אָחוֺר מִשְׁפָּט

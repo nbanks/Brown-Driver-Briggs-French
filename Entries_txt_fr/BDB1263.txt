@@ -5,6 +5,7 @@ hébreu biblique
 verbe
 enfler —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 féminin singulier בָּעֵ֑קָה
 Dt 8,4 3 pluriel

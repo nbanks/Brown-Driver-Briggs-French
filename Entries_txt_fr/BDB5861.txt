@@ -10,6 +10,7 @@ Ps 119,14
 Jr 44,23 + 4
 t. ; —
 
+@@SPLIT:sense@@
 1.
 témoignage des Dix Paroles sur les tables comme charge divine solennelle, ׳
 לֻחֹת הע
@@ -84,6 +85,7 @@ P
 ) 2 Ch
 24,6.
 
+@@SPLIT:sense@@
 2. le code de loi en général (tardif), comme témoignage de Dieu : Ps 19,8 ; Ps 119,88 ;
 Ps 122,4 ||
 תּוֺרָה

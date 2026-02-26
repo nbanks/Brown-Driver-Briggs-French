@@ -25,11 +25,13 @@ Ez 35,8 —
 colline, hauteur, élévation, haute et basse, comparer Ps 148,9
 ההרים וכל גבעות, Ps 65,13 —
 
+@@SPLIT:sense@@
 1. en prose ordinaire, colline, plus basse que montagne Ex 17,9 ; Ex 17,10 (
 E
 ) 2 S 2,25
 il peut s'agir d'un nom propre dans 1 S 7,1 ; 1 S 10,10 ; 2 S 6,3 ; 2 S 6,4 voir aussi ci-dessous II. גִּבְעָה.
 
+@@SPLIT:sense@@
 2. surtout comme lieu de culte illicite גְּבֹהָה ותחת כל עץ רענן
 ׳
 עַל כָּלגֿ
@@ -39,6 +41,7 @@ Jr 2,20 comparer
 Dt 12,2 ; 2 R 16,4 ; 2 Ch 28,4 (ces
 deux + במות) ; aussi Os 4,13 ; Jr 13,27 ; Jr 17,2 ; Ez 6,13 (voir ci-dessus).
 
+@@SPLIT:sense@@
 3. très couramment || הר en poésie et prophètes Dt 33,15 ; Ps 72,3 ; Ps 114,4 ; Ps 114,6 ; Ps 148,9 ; Ct 2,8 ; Ct 4,6 ; Es 2,2 ; Es 2,14 ; Es 30,17 ; Es 30,25 ; Es 31,4 ; Es 40,4 ; Es 40,12 ; Es 41,15 ; Es 42,15 ; Es 54,10 ; Es 55,12 ; Es 65,7 ; Jr 3,23 ; Jr 4,24 ; Jr 16,16 ; Jr 50,7 ; Ez 6,3 ; Ez 34,6 ; Ez 35,8 ; Ez 36,4 ; Ez 36,6 ; Os 4,13 ; Os 10,8 ; Jos 4,18 ; Am 9,13 ; Mi 4,1 ; Mi 6,1 ; Na 1,5 ; Ha 3,6 rarement en prose Dt 12,2 parfois comme hautes et
 majestueuses (poésie) עולם
 ׳
@@ -48,6 +51,7 @@ Gn 49,26 ; Dt 33,15 ; Ha 3,6 (« collines
 Jb 15,7 ;
 Pr 8,25 (avec adjectif haut, comparer ci-dessus) ; voir aussi Jr 49,16.
 
+@@SPLIT:sense@@
 4. collines avec des noms spéciaux, certaines presque ou tout à fait = nom propre, d'un lieu, que l'on verra sous les
 mots respectifs : מֹרֶה
 ׳

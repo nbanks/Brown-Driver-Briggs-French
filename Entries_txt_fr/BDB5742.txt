@@ -12,6 +12,7 @@ forme douteuse, voir
 
 ) ; —
 
+@@SPLIT:sense@@
 1. père d'Adoniram 1 R 4,6
 
 ᵐ5
@@ -27,6 +28,7 @@ A
 
 Εδραμ.
 
+@@SPLIT:sense@@
 2. un lévite Ne 11,17
 
 ᵐ5

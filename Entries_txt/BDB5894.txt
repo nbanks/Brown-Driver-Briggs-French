@@ -22,6 +22,8 @@ augur; also
 [placeholder3776: Placeholders/3776.gif]
 fly about, of birds); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine plural וְעָפוּ consecutive Isa 11:14
 Imperfect 3 masculine singular יָעוּף
@@ -99,6 +101,8 @@ Qr
 dost thou cause thine eyes to fly, etc. ?) is difficult, and line perhaps not
 original (see Toy).
 
+@@SPLIT:stem@@
+
 Po`l.
 
 1.
@@ -121,12 +125,16 @@ cause to fly to and fro, brandish, Infinitive construct suffix בְּעוֺפְ�
 Ezek 32:10
 when I brandish my sword before them.
 
+@@SPLIT:stem@@
+
 Hithpo`el
 Imperfect 3 masculine singular כָּעוֺף יִתְעוֺפֵף
 כְּבוֺדָם
 Hos 9:11
 
 like a bird their glory shall fly away.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imperfect 2 masculine singular

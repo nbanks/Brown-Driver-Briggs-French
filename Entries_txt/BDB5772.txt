@@ -4,6 +4,8 @@ Biblical Hebrew
 [עָבַר] verb
 denominative
 
+@@SPLIT:stem@@
+
 Hithpa`el
 be arrogant, infuriate oneself; — Perfect 3 masculine singular הִתְעַבָּ֑ר
 

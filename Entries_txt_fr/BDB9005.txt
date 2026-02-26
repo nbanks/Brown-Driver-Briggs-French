@@ -13,6 +13,7 @@ construit מַשְׁקֵה
 3 t. ; suffixe מַשְׁקֵ֫הוּ
 Gn 40,21 —
 
+@@SPLIT:sense@@
 1.
 irrigation
 Gn 13,10 (
@@ -28,6 +29,7 @@ Berthol Toy Krae
 מִשְׁפְּחוֺת ; Gr
 מִקְנֵה).
 
+@@SPLIT:sense@@
 2.
 boisson
 Es 32,6 ; Lv 11,34
@@ -38,6 +40,7 @@ vases à boire
 = 2 Ch 9,20
 .
 
+@@SPLIT:sense@@
 3. = fonction d'échanson, échansonnerie
 Gn 40,21(
 

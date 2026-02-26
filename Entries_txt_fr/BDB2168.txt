@@ -12,10 +12,12 @@ nouvelle lune ; assyrien
 , brillant
 COT^Gloss^) —
 
+@@SPLIT:stem@@
 Qal seulement Infinitif suffixe בְּהִלּוֺ נֵרוֺ עֲלֵי ראֹשִׁי
 Jb 29,3
 quand il, à savoir sa lampe, brillait sur ma tête (comparer Ew^§ 309 c^), figuré de la faveur de Dieu.
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait
 יָהֵל

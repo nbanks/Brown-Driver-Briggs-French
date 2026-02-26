@@ -20,6 +20,8 @@ etc.; plural פְּעָלִים
 2Sam 23:20;
 1Chr 11:22 —
 
+@@SPLIT:sense@@
+
 1.
 deed, thing done:
 
@@ -52,6 +54,8 @@ Isa 59:6 good
 action Prov 21:8
 .
 
+@@SPLIT:sense@@
+
 2.
 work, thing made:
 
@@ -64,10 +68,14 @@ Di and others; > read בַּעֲלוֺ
 Lag^Semitic i. 5^
 Sta^ZAW iii (1888), 12f.^).
 
+@@SPLIT:sense@@
+
 3.
 wages of work
 Jer 22:13;
 Job 7:2.
+
+@@SPLIT:sense@@
 
 4.
 acquisition of treasures Prov 21:6.

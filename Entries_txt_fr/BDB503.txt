@@ -13,11 +13,13 @@ suffixe אַלֻּפֵינוּ
 Ps 144,14,
 etc. ; —
 
+@@SPLIT:sense@@
 1.
 apprivoisé, docile, כֶּבֶשׂ אַלּוּף
 un agneau docile (doux)
 Jr 11,19.
 
+@@SPLIT:sense@@
 2.
 nom masculin
 ami, intime
@@ -30,6 +32,7 @@ Pr 2,17
 figuré de ׳
 י comme époux de Juda, id., Jr 3,4.
 
+@@SPLIT:sense@@
 3. c.-à-d. I. אֶלֶף ; אַלּוּפֵינוּ מְסֻבָּלִים
 Ps 144,14
 (c.-à-d. vaches).

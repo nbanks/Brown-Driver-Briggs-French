@@ -9,6 +9,7 @@ inventer ; comparer arabe
 [placeholder500: Placeholders/500.gif]
 commencer, faire un commencement) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 בָּדָא

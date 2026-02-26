@@ -6,9 +6,11 @@ nom masculin^
 Es 28,1
 ^
 
+@@SPLIT:sense@@
 1.
 fleur, floraison.
 
+@@SPLIT:sense@@
 2.
 objet brillant
 ; — ׳
@@ -17,6 +19,7 @@ Es 42,7 +, construit Es 42,6 + ; pluriel צִצִּים
 1 R 6,18 + 3 t.
 6 (sur la forme voir Kö^ii. l, 60^) ; —
 
+@@SPLIT:sense@@
 1.
 fleur, floraison, Nb 17,23 (
 P
@@ -36,6 +39,7 @@ Es 28,1
 צִיצַת נ ; ainsi Marti) ; פְּטוּרֵי צִצִּים
 , comme ornements du temple 1 R 6,18 ; 1 R 6,29 ; 1 R 6,32 ; 1 R 6,35.
 
+@@SPLIT:sense@@
 2.
 objet brillant, plaque d'or, constituant le diadème sur le devant de la tiare du grand prêtre, Lv 8,9 ; Ex 28,36
 ; Ex

@@ -16,6 +16,8 @@ Buhl compare Arabic
 draw or sew together, conjoin (letters), etc., compare
 Fl^ZMG 1873, 427^) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 ׳
@@ -325,6 +327,8 @@ Job 13:26
 thou (׳
 י) decrest against me bitter things.
 
+@@SPLIT:stem@@
+
 Niph`al (chiefly late, especially Esther), Imperfect
 יִכָּתֵב
 Esth 1:19
@@ -402,6 +406,8 @@ Jer
 17:13
 is difficult; Gie reads, plausibly, מֵאֶרֶץ
 יִכָּרֵ֑תוּ (compare Ps 34:17; Ps 101:8, etc.)
+
+@@SPLIT:stem@@
 
 Pi`el frequently, Perfect and Participle, only
 כִּתֵּ֑בוּוּמְכַתְּבִים עָמָל

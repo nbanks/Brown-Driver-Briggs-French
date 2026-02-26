@@ -4,6 +4,7 @@ hébreu biblique
 [חָפַשׁ] verbe
 être libre — seulement
 
+@@SPLIT:stem@@
 Pu`al
 Parfait 3 féminin singulier כִּי לֹא חֻפָּ֑שָׁה
 Lv 19,20 (

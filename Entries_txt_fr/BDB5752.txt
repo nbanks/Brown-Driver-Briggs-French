@@ -16,6 +16,7 @@ feuillage dense ; éthiopien
 être grand
 Di^985^) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier מִמָּתְנֵי אָבִי
 ׳

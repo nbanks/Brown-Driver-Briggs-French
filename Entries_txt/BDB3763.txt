@@ -18,6 +18,8 @@ Ps 10:9; Ps 35:8
 רִשְׁתָּם
 Ezek 19:8; Ps 35:7 —
 
+@@SPLIT:sense@@
+
 1.
 net:
 
@@ -56,6 +58,8 @@ Ps 9:16 (||
 הֵכִין
 Ps 57:7 (||
 שִׁיחָה).
+
+@@SPLIT:sense@@
 
 2. brazen network for altar of tabernacle הָרֶשֶׁת
 Exod 27:4;

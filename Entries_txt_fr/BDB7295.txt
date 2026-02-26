@@ -6,6 +6,7 @@ s'incliner (assyrien (y compris Tel Amarna)
 ‡adâdu
 , s'incliner) ; —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 3 masculin singulier וַּיִּקֹּד
 Gn 24,26 +,

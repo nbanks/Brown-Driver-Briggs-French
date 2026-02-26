@@ -4,10 +4,12 @@ araméen biblique
 [אֲבַד] verbe
 périr (hébreu biblique) ; —
 
+@@SPLIT:stem@@
 Pe`al
 mpl. 3 masculin pluriel יֵאבַ֫דוּ (non וּן- voir K^§ 26, 1^) Jr 10,11
 ils périront, disparaîtront.
 
+@@SPLIT:stem@@
 Haph`el (ancien araméen האבד
 Lzb^205^
 Cooke^189^) détruire :
@@ -22,6 +24,7 @@ Dn 2,24 (tous deux
 avec ל personne), דָה- Dn 7,26
 (absolu).
 
+@@SPLIT:stem@@
 Hoph`al (K^§ 41 c^
 W^CG 225^) être détruit :
 Parfait 3 masculin singulier הוּבַד

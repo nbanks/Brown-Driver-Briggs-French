@@ -8,6 +8,7 @@ arâru
 Zim^BP 68^ ; sur le rapport des sens lier
 et maudire en assyrien voir Dl^Pr 101^) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 וְאָרוֺתִ֫י, אָרוֺתִיהָ
@@ -75,12 +76,14 @@ Ri), הָאֲרוּרָה הַזּאֹת
 cette femme maudite
 2 R 9,34.
 
+@@SPLIT:stem@@
 Niph`al
 Participe
 נֵאָרִים
 maudit
 Ml 3,9.
 
+@@SPLIT:stem@@
 Piël 3 masculin singulier suffixe אֵרֲרָהּ
 maudire, frapper de malédiction
 Gn 5,29 (
@@ -94,6 +97,7 @@ Nb 5,18-27
 P
 6 t. eaux détruisant la femme adultère parjure qui les boit).
 
+@@SPLIT:stem@@
 Hoph`al
 Imparfait
 יוּאָ֑ר

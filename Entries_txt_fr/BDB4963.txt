@@ -15,6 +15,7 @@ locatif
 Ps 116,14 ;
 Ps 116,18 —
 
+@@SPLIT:sense@@
 1. comme accusatif adverbial en face de,
 
 a. localement (plutôt
@@ -104,6 +105,7 @@ devant votre face est = dans votre intention, ou dessein (comparer לא אשׁי
 דברבֿליעל
 Ps 101,3).
 
+@@SPLIT:sense@@
 2. Avec prépositions :
 
 a.

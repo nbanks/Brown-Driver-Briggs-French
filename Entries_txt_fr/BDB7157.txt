@@ -13,6 +13,7 @@ Gn 45,17
 araméen טְעַן,
 [placeholder4584: Placeholders/4584.gif] aussi porter, transporter) ; —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 3 masculin singulier יִצְעָן
 Es 33,20

@@ -62,6 +62,7 @@ Jr 16,17 + 5
 t. ; דַּרְכֵיהֶן
 Ez 16,47 —
 
+@@SPLIT:sense@@
 1.
 chemin, route, sentier
 Gn 35,3 (
@@ -301,6 +302,7 @@ D
 1 R 2,2 (comparer Gn 19,31
 4.a.).
 
+@@SPLIT:sense@@
 2.
 voyage
 Gn 24,21 ;
@@ -404,6 +406,7 @@ Es 56,11
 לַזָּרִים
 Jr 3,13.
 
+@@SPLIT:sense@@
 3. de direction, presque ou tout à fait = vers, 1 R 8,44 ; 1 R 8,48 = 2 Ch 6,34 ; 2 Ch 6,38
 prier vers la ville, etc. ;
 
@@ -449,6 +452,7 @@ Co
 Da) comparer לֹאיִֿפְנֶה דֶּרֶךְ כְּרָמִים
 Jb 24,18.
 
+@@SPLIT:sense@@
 4.
 chemin, manière :
 
@@ -481,6 +485,7 @@ la manière d'Égypte, c.-à-d. comme il fut fait en Égypte ; Es 10,24 ; Es 10,
 d.
 habitude des animaux, fourmis Pr 6,6 (pluriel)
 
+@@SPLIT:sense@@
 5.
 figuré du cours de la vie, ou de l'action, entreprises, etc. לֹא תַצְלִיחַ אֶתדְּֿרָכֶיךָ
 
@@ -516,6 +521,7 @@ et Es 57,18
 = gain Es 56,11
 , plaisir, etc. Es 58,13.
 
+@@SPLIT:sense@@
 6.
 
 a.

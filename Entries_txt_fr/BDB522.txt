@@ -29,6 +29,7 @@ pluriel
 אַמּוֺת
 Ex 26,16 + ; —
 
+@@SPLIT:sense@@
 1.
 coudée, ainsi אַמַּתאִֿישׁ c.-à-d. coudée ordinaire, Dt 3,11 (comparer Es 8,1) ; dans Ez 40,5 ; Ez 43,13
 est une coudée plus longue d'un palme, comparer 2 Ch 3,3
@@ -134,6 +135,7 @@ suivi de בַּמִּדָּה
 en mesure
 Jos 3,4 ; 2 Ch 3,3.
 
+@@SPLIT:sense@@
 2.
 mesure, pleine mesure, limite, seulement אַמַּת בִּצְעֵךְ
 la mesure de tes gains

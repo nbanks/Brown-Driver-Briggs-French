@@ -4,6 +4,7 @@ hébreu biblique
 [טָלָא] verbe
 rapiécer, tacheter (hébreu tardif id., rapiécer) —
 
+@@SPLIT:stem@@
 Qal
 Participe passif
 טָלוּא
@@ -24,7 +25,8 @@ les deux, Gn 30,39
 J
 ) ; des hauts lieux, bigarrés (sanctuaires aux couleurs vives) Ez 16,16.
 
-Poual
+@@SPLIT:stem@@
+Pu`al
 Participe
 מְטֻלָּאוֺת
 rapiécé, de sandales Jos 9,5 (

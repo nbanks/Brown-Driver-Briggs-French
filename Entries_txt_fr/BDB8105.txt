@@ -4,13 +4,16 @@ hébreu biblique
 מִרְקַ֫חַת
 nom
 
+@@SPLIT:sense@@
 1.
 mélange d'onguent.
 
+@@SPLIT:sense@@
 2.
 pot à onguent (?) ;
 —
 
+@@SPLIT:sense@@
 1. absolu ׳
 רֹקְחֵי הַמּ
 1 Ch 9,30
@@ -18,6 +21,7 @@ pot à onguent (?) ;
 רֹקַח מ
 Ex 30,25.
 
+@@SPLIT:sense@@
 2.
 ׳
 בְּמ

@@ -12,6 +12,8 @@ nisû
 [placeholder3350: Placeholders/3350.gif] [rare] pull up, away, so Ba^ES
 51^); —
 
+@@SPLIT:stem@@
+
 Qal_137_
 Perfect 3 masculine singular ׳
 נ
@@ -255,6 +257,8 @@ Num 11:31
 there set forth (sprang up) a wind from ׳
 י.
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect
 be pulled up, removed: 3 masculine singular דּוֺרִי נִסַּע וְנִגְלָה
@@ -265,6 +269,8 @@ Job 4:21
 (reading יְתֵדָם for יִתְרָם, see II.
 יֶתֶר
 ).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imperfect 3 masculine singular יַסַּע

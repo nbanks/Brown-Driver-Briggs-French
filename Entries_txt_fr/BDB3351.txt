@@ -11,6 +11,7 @@ enterrer, cacher (emprunt Frä^137^) ; araméen
 [placeholder2121: Placeholders/2121.gif], טְמַר
 id.) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 טְמֵן
@@ -93,6 +94,7 @@ Jb 20,26
 toutes les ténèbres sont mises en réserve pour ses trésors, c.-à-d. toutes les calamités sont amassées pour
 eux.
 
+@@SPLIT:stem@@
 Niph`al
 Impératif
 חִטָּמֵן בֶּעָפָר
@@ -103,6 +105,7 @@ cache-toi dans la poussière, devant la terreur de
 ׳
 י.
 
+@@SPLIT:stem@@
 Hiph`il (ou
 Qal ? Ba^ZMG 1889, 180^) Imparfait
 

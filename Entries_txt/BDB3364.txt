@@ -4,12 +4,18 @@ Biblical Hebrew
 טֶ֫פַח
 noun [masculine]
 
+@@SPLIT:sense@@
+
 1.
 a span, hand-breadth;
+
+@@SPLIT:sense@@
 
 2.
 coping (?);
 —
+
+@@SPLIT:sense@@
 
 1.
 a span, hand-breadth, טֶ֫פַח
@@ -18,6 +24,8 @@ a span, hand-breadth, טֶ֫פַח
 thickness of the molten sea; plural טְפָחוֺת
 Ps 39:6 (a few)
 hand-breadths are my days.
+
+@@SPLIT:sense@@
 
 2. architectural term, perhaps coping, וּמִמַּסַּד עַדהַֿטְּפָחוֺת
 

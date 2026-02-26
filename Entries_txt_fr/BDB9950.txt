@@ -3,6 +3,8 @@ araméen biblique
 
 [שְׁכַח] verbe
 
+@@SPLIT:stem@@
+
 Haphel (K^§ 40, 4^
 Nö^GGA 1884, 1019^) trouver (
 
@@ -29,6 +31,8 @@ personne, accusatif de chose omis), Esd 7,16 (ב locatif) ; suivi de proposition
 Esd 4,15 (
 ב locatif), Esd 4,19 accusatif de personne Dn 2,25
 ל personne Dn 6,12 ( + participe action.).
+
+@@SPLIT:stem@@
 
 Hithpeel
 Parfait 3 masculin singulier הִשְׁתְּכַח

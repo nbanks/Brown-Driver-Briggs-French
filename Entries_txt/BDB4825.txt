@@ -8,6 +8,8 @@ scour, polish (Late Hebrew id.; Aramaic
 [placeholder3087: Placeholders/3087.gif]
 scrape off wool from a skin); —
 
+@@SPLIT:stem@@
+
 Qal
 Imperative
 מִרְקוּ הָֽרְמָחִים
@@ -17,6 +19,8 @@ polish the lances! Passive participle
 2Chr 4:16
 polished, of bronze utensils of temple (= מְמוֺרָט
 1Kgs 7:45).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imperfect 3 feminine singular חַמְרִיק only Prov 20:30
@@ -40,6 +44,8 @@ Qr
 συναντᾷ κακοῖς, whence Gr
 תַּקְדִּים, Frankenb. תִּקְרֶינָה
 , but improbable).
+
+@@SPLIT:stem@@
 
 Pu`al
 Perfect

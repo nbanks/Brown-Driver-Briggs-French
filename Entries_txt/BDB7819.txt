@@ -17,6 +17,8 @@ Judg 5:18 suffix
 מְרוֺמָיו
 Job 25:2 —
 
+@@SPLIT:sense@@
+
 1.
 height, elevation (concrete), elevated place:
 מְרוֺמֵי שָׂדֶה
@@ -70,6 +72,8 @@ Job 39:18,
 adverb = in a high place
 Isa 22:16.
 
+@@SPLIT:sense@@
+
 2.
 ׳
 מ alone = height of heaven: אֱלֹהֵי מָרוֺם
@@ -109,6 +113,8 @@ Isa 37:23 =
 מִמּ in figure Ps 73:8 they speak (as if) from the sky, from heaven (i.e.
 so arrogantly).
 
+@@SPLIT:sense@@
+
 3.
 ׳
 מ adverb figurative, = proudly
@@ -117,6 +123,8 @@ Hup-Now and others, compare Che,
 but dubious), Bae
 in high station; Du reads מַריוֺם (
 יוֺם to Ps 56:4 as dittograph?).
+
+@@SPLIT:sense@@
 
 4.
 figurative of nobles (collective) מְרוֺם עַםהָֿאָרֶץ

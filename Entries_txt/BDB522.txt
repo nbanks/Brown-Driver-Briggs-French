@@ -29,6 +29,8 @@ plural
 אַמּוֺת
 Exod 26:16 +; —
 
+@@SPLIT:sense@@
+
 1.
 cubit, so אַמַּתאִֿישׁ i.e. ordinary cubit, Deut 3:11 (compare Isa 8:1); in Ezek 40:5; Ezek 43:13
 is a cubit one hand-breadth longer, compare 2Chr 3:3
@@ -133,6 +135,8 @@ etc.; compare שֵׁשׁ אַמּוֺת וָזָרֶ֑ת
 followed by בַּמִּדָּה
 in measurement
 Josh 3:4; 2Chr 3:3.
+
+@@SPLIT:sense@@
 
 2.
 measure, full measure, limit, only אַמַּת בִּצְעֵךְ

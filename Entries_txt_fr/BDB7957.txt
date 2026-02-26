@@ -4,6 +4,7 @@ hébreu biblique
 IV. רִמּוֺן
 nom propre [d'un lieu]
 
+@@SPLIT:sense@@
 1. dans סֶלַע הָרִמּוֺן
 rocher de Rimmon
 Jg 20,45 ;
@@ -17,6 +18,7 @@ Buhl^G 100^, comparer GFM^
 Jg 2 0, 45.
 ^
 
+@@SPLIT:sense@@
 2. dans le sud de Juda, ׳
 עַיִן וְר
 Jos 15,32
@@ -34,6 +36,7 @@ Za 14,10
 
 2, p. 745, et עֵין רִמּוֺן.
 
+@@SPLIT:sense@@
 3. dans Zabulon Jos 19,13 (Ρεμμωνα(μ)), = רִמּוֺנוֺ
 1 Ch 6,62 (
 Ρεμμων) ; +

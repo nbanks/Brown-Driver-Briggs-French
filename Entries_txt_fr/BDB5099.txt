@@ -13,6 +13,7 @@ Gn 35,4 construit
 נִזְמֵי
 Ex 32,2 + ; —
 
+@@SPLIT:sense@@
 1.
 anneau de nez (syriaque
 [placeholder3258: Placeholders/3258.gif]) ornement de femme, עַלאַֿפָּהּ
@@ -33,6 +34,7 @@ Es 3,21 (||
 Pr 11,22
 .
 
+@@SPLIT:sense@@
 2.
 boucle d'oreille ornement d'hommes et de femmes, Gn 35,4, אֲשֶׁר בְּאָזְנֵיהֶם
 ׳

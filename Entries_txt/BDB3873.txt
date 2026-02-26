@@ -16,6 +16,8 @@ kêbtu
 Hpt in KAT^2 Glossary i^
 .) —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect
 יִכְאָבֿ
@@ -38,6 +40,8 @@ J
 Prov 14:13
 
 (subject לֵב; probably also Ps 69:30 (|| עָנִי).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 1 singular suffix הִכְאַבְתִּיו

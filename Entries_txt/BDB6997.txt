@@ -13,6 +13,8 @@ shine, sparkle (perhaps original meaning of √, but connection of
 צִיץ
 noun = Biblical Hebrew); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 
@@ -33,6 +35,8 @@ Ps 92:8 (||
 
 2.
 shine, gleam: of crown (נֵזֶר) Ps 132:18.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imperfect 3 masculine singular וַיָּצֵץ צִיץ

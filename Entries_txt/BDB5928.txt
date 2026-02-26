@@ -21,6 +21,8 @@ suffix עֹרֹתָם
 Lev 16:27 —
 skin:
 
+@@SPLIT:sense@@
+
 1. of men (55 t.), שִׂמְלָתוֺ לְעֹרוֺ
 Exod 22:26 (
 
@@ -50,6 +52,8 @@ Lev 13:38 Lev 13:39 Lev 13:43);
 Job 2:4
 skin in behalf of, for, skin, apparently proverb. phrase of barter, = everything has its
 price (on varieties of interpretation see Commentaries).
+
+@@SPLIT:sense@@
 
 2.
 hide of animals (44 t.), always — except Job 40:31 — after skinning: Gen 27:16 (

@@ -5,6 +5,7 @@ II. [בָּעַר] verbe
 dénominatif
 être stupide —
 
+@@SPLIT:stem@@
 Qal
 Imparfait
 יִבְעֲרוּ
@@ -14,6 +15,7 @@ Jr 10,8 (||
 Ps 94,8 (||
 כסילים) ; d'hommes inhumains, cruels, barbares Ez 21,36.
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 נִבְעַר
@@ -34,11 +36,13 @@ Jr 10,14
 = Jr 51,17
 plutôt hébété (par le spectacle Jr 10,13 = Jr 51,16).
 
+@@SPLIT:stem@@
 Pi`el
 Parfait
 וּבִעֵר consécutif Ex 22,4
 faire paître (בשׂדה אחר).
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait
 יַבְעֶרֿ

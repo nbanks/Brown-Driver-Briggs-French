@@ -17,12 +17,14 @@ arabe
 [placeholder3319: Placeholders/3319.gif]
 rusé Lane^2850 a^. —
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 masculin pluriel לֹא
 נִכְּרוּ
 Lm 4,8
 ils ne sont pas reconnus.
 
+@@SPLIT:stem@@
 Pi`el
 Parfait
 לֹא נִכַּר שׁוֺע לִפְנֵידָֿ֑ל
@@ -35,6 +37,7 @@ Jb 21,29
 
 ne reconnaissez-vous pas leurs signes.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait
 הִכִּיר
@@ -152,6 +155,7 @@ Ne
 13,24
 comprendre comment parler, etc.
 
+@@SPLIT:stem@@
 Hithpa`el
 Imparfait
 יִתְנַכֶּרנָֿ֑עַר

@@ -15,6 +15,7 @@ Ces textes contiennent un mélange de langues — c'est **parfaitement normal** 
 - Noms propres de personnes et lieux en graphie conventionnelle
 - Placeholders : [placeholder8: Placeholders/8.gif], etc.
 - Références bibliques en format français : Gn 35,8 ; 2 R 25,12 ; Es 1,1
+- Marqueurs de découpage structurel : `@@SPLIT:stem@@`, `@@SPLIT:sense@@`, `@@SPLIT:section@@` — ce sont des balises internes du pipeline, pas du contenu à traduire. Cependant, ils **doivent correspondre exactement** entre l'anglais et le français : même nombre, même type, même position relative dans la structure de l'entrée. Si le français a des marqueurs manquants, en trop, ou d'un type différent par rapport à l'anglais, c'est une ERROR (catégorie C — contenu altéré)
 - Titres d'ouvrages savants en langue originale (anglais, allemand) : *Survey*, *Desert of Exodus*, *Comm.*, *Higher Crit.*, *Entstehung*, *Reisebericht*, *Landwirthschaft*, etc.
 - **Mots français identiques ou quasi-identiques à l'anglais** — ce ne sont PAS du franglais : village, instruments, obscure, terrible, conjectural, pot, aversion, information, destruction, ruine, sanctification, ordinal, balances, raisons (≠ reasons), milles (≠ miles), comparer (≠ compare), Ps (même abréviation en français et en anglais)
 

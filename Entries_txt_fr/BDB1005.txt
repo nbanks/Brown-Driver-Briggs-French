@@ -8,6 +8,7 @@ choisir (comparer araméen בְּחַר, syriaque
 bêru
 (√ באר):3 Dl^Pr 76^) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 בָּחַר
@@ -266,6 +267,7 @@ Rab Calv
 AV
 .
 
+@@SPLIT:stem@@
 Niph`al
 נִבְחַר
 Jr 8,3
@@ -300,6 +302,7 @@ préférable (plus acceptable) pour Yahvé qu'un sacrifice de paix
 Pr 21,3
 .
 
+@@SPLIT:stem@@
 Pu`al
 יְבֻחַר
 choisi, sélectionné

@@ -22,6 +22,8 @@ Hos 14:7 + 3 t.;
 הֹדֹה
 Jer 22:18 —
 
+@@SPLIT:sense@@
+
 1.
 splendour, majesty, of king הוֺדְךָ וַהֲדָרֶ֑ךָ
 Ps 45:4
@@ -36,12 +38,14 @@ Zech 6:13
 1Chr 29:25
 (׳
 י confers on Solomon); ׳
-וְלֹא ָנתְנוּ עָלָיו ה
+וְלֹא ָנתְנוּ עָלָיו ה
 מַלְכוּת
 Dan 11:21
 (of usurper); see also וְהוֺי הֹדֹה
 Jer 22:18
 in lament for king. Hence also
+
+@@SPLIT:sense@@
 
 2. divine splendour, majesty, light & glory which God wears as king:
 הוֺד וְהָדָר לָבָ֑שְׁתָּ
@@ -72,6 +76,8 @@ voice אֶתהֿוֺד קוֺלוֺ
 זְהִשְׁמִיעַ י
 Isa 30:30.
 
+@@SPLIT:sense@@
+
 3.
 
 a.
@@ -91,6 +97,8 @@ warning against licentiousness; as displayed in outward appearance וְהוֺד�
 לְמַשְׁחִית
 Dan 10:8
 (|| כֹּחַ).
+
+@@SPLIT:sense@@
 
 4. of a horse, majesty, majestic force
 הוֺד נַחְרוֺ אֵימָה

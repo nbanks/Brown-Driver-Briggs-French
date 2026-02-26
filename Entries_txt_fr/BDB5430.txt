@@ -17,6 +17,7 @@ Es 22,8,
 נֵ
 Jb 20,24 —
 
+@@SPLIT:sense@@
 1.
 équipement, armes
 1 R 10,25
@@ -34,6 +35,7 @@ Ps 140,8
 c.-à-d. jour de bataille ; ainsi ׳
 נ seul Jb 39,21.
 
+@@SPLIT:sense@@
 2. apparemment arsenal
 Ne 3,19.
 

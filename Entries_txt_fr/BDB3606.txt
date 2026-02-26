@@ -12,6 +12,7 @@ promettre, menacer, prédire, III. fixer un temps ou un lieu
 , décider, M-A^17^
 Dl^HWB 230^ ; phénicien nom propre אשמניעד) —
 
+@@SPLIT:stem@@
 Qal
 Parfait suffixe יְעָדוֺ
 2 S 20,5
@@ -26,6 +27,7 @@ J
 E
 ).
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 נוֺעַדְתִּי
@@ -77,6 +79,7 @@ P
 P
 ).
 
+@@SPLIT:stem@@
 Po`el
 Parfait 1 singulier יוֺעַדְתִּי (pour
 
@@ -92,6 +95,7 @@ Dr
 Kit
 Bu.
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait
 מִי
@@ -105,6 +109,7 @@ Jb 9,19
 qui me fera comparaître au lieu fixé (du jugement) ? c.-à-d.
 qui me citera ou me traduira en justice ?
 
+@@SPLIT:stem@@
 Hoph`al
 Participe
 מוּעָדִים לִפְנֵי

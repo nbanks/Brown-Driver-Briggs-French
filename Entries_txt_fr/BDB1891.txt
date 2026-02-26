@@ -5,6 +5,7 @@ hébreu biblique
 nom [masculin]
 cercle, boule —
 
+@@SPLIT:sense@@
 1.
 cercle : Du^
 Es 29,3
@@ -21,6 +22,7 @@ Es 29,3 (
 Brd
 כְּדָוִד).
 
+@@SPLIT:sense@@
 2.
 boule
 צָנוֺף
@@ -34,6 +36,7 @@ SS sous le mot ; voir
 כדר
 ). [
 
+@@SPLIT:sense@@
 3.
 tas, amas
 Ez 24,5

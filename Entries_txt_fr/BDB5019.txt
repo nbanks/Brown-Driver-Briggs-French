@@ -6,6 +6,7 @@ gronder, gémir (néo-hébreu id. ; arabe
 [placeholder3200: Placeholders/3200.gif] ; araméen
 [placeholder3201: Placeholders/3201.gif], נְהַם) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 וְנָהַמְתָּ֫

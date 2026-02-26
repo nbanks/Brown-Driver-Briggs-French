@@ -11,12 +11,14 @@ Pi`el ci-dessous ; sabéen רפדת pluriel protection, garde, CIS^iv, no. 40, 3
 terrasses
 DHM^Hofmus^.) ; —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 3 masculin singulier יִרְפַּד
 Jb 41,22
 il (le crocodile) étend un traîneau à battre sur la boue
 (y laisse des marques de ses écailles).
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 1 sud de couche (figuré) רִפַּדְתּי יְצוּעָ֑י
 Jb 17,13

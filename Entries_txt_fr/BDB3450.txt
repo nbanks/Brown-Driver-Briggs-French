@@ -14,6 +14,7 @@ t. ; תּוֺדֹת
 Ne 12,31 ;
 Ne 12,40 —
 
+@@SPLIT:sense@@
 1.
 rendre louange à
 ׳
@@ -36,6 +37,7 @@ Be
 RV
 et autres confession.
 
+@@SPLIT:sense@@
 2.
 action de grâce dans les chants du culte liturgique
 ׳
@@ -53,6 +55,7 @@ Ps 100,4 ||
 כִּנּוֺר
 Ps 147,7.
 
+@@SPLIT:sense@@
 3.
 chœur d'action de grâce, procession, file, compagnie
 Ne 12,31 ;
@@ -61,6 +64,7 @@ Ne 12,40,
 probablement aussi
 Jr 30,19 (|| קוֺל מְשַׂחֲקִים).
 
+@@SPLIT:sense@@
 4.
 sacrifice d'action de grâce
 ׳

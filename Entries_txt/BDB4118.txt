@@ -4,16 +4,24 @@ Biblical Hebrew
 כֶּ֫סֶל
 noun masculine
 
+@@SPLIT:sense@@
+
 1.
 loins,
 
+@@SPLIT:sense@@
+
 2.
 stupidity,
+
+@@SPLIT:sense@@
 
 3.
 confidence
 (Late Hebrew id. lion; Aramaic כִּסְלָא
 id.); —
+
+@@SPLIT:sense@@
 
 1.
 loins
@@ -23,6 +31,8 @@ plural כְּסָלִים
 Lev 3:4; Lev 3:10; Lev 3:15; Lev 4:9; Lev 7:4 suffix
 כְּסָלַי, Ps 38:8.
 
+@@SPLIT:sense@@
+
 2.
 stupidity, folly
 ׳
@@ -30,6 +40,8 @@ stupidity, folly
 Eccl 7:25 (||
 סִכְלוּת), כֵּסֶל
 Ps 49:14.
+
+@@SPLIT:sense@@
 
 3.
 confidence, suffix כִּסְלִי

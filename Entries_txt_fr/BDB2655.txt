@@ -4,6 +4,7 @@ hébreu biblique
 חוּשַׁי
 nom propre, masculin
 
+@@SPLIT:sense@@
 1.
 הָאַרְכִּי
 ׳
@@ -14,6 +15,7 @@ appelé רֵעֶה דוד
 2 S 15,37
 ami de David, de même 2 S 16,16a ; comparer 2 S 16,16b ; 2 S 16,17 ; 2 S 16,18 ; 1 Ch 27,33 aussi 1 S 17,6 ; 1 S 17,7 ; 1 S 17,8 ; 1 S 17,15.
 
+@@SPLIT:sense@@
 2.
 1 R 4,16 père
 d'un des officiers de Salomon.

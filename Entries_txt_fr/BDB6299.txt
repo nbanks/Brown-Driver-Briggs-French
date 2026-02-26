@@ -10,12 +10,14 @@ fermer les yeux (hébreu tardif Hiph`il ; possible lien avec syriaque
 עִמֵּץ
 fermer les yeux d'un mort ; comparer Ba^ES 5f.^) ; —
 
+@@SPLIT:stem@@
 Qal
 Participe
 וְעֹצֵם עֵינָיו מִן
 Es 33,15
 fermant ses yeux pour ne pas voir
 
+@@SPLIT:stem@@
 Pi`el
 Imparfait 3 masculin singulier וַיְעַצֵּם אֶתעֵֿינֵיכֶם
 Es 29,10

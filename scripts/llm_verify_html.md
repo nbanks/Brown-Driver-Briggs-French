@@ -6,7 +6,15 @@ Tu es un vérificateur de qualité pour la traduction d'un lexique d'hébreu bib
 
 Les fichiers HTML contiennent des balises spécifiques au lexique. Voici les règles :
 
-### Balises dont le contenu doit être traduit
+### Principe : visible vs invisible
+
+**Tout ce que le lecteur voit** (texte affiché) doit être en français.
+**Tout ce qui est invisible** (attributs) doit rester identique à l'anglais.
+Exemple : `<lookup onclick="bdbabb('Isa')">Isa<sup>3</sup></lookup>` →
+`<lookup onclick="bdbabb('Isa')">Es<sup>3</sup></lookup>` (attribut inchangé,
+texte visible traduit).
+
+### Balises dont le texte visible doit être traduit
 - `<pos>...</pos>` — catégorie grammaticale
 - `<primary>...</primary>` — glose principale
 - `<highlight>...</highlight>` — texte mis en évidence
@@ -15,12 +23,12 @@ Les fichiers HTML contiennent des balises spécifiques au lexique. Voici les rè
 - `<language>...</language>` — "Biblical Hebrew" → "hébreu biblique", "Biblical Aramaic" → "araméen biblique"
 - `<gloss>...</gloss>` — glose
 - `<ref ...>texte</ref>` — le texte affiché (nom du livre) doit être traduit, les attributs (ref, b, cBegin, etc.) restent inchangés
+- `<lookup ...>...</lookup>` — le texte visible doit être traduit (noms de livres : `Isa` → `Es`, prose dans `<sup>`/`<sub>`). Les codes savants (Dl, Dr, Kö, etc.) sont des noms propres — ils restent tels quels. Les attributs (`onclick`, etc.) restent inchangés.
 
 ### Balises dont le contenu ne doit PAS être traduit
 - `<bdbheb>...</bdbheb>` — hébreu
 - `<bdbarc>...</bdbarc>` — araméen
 - `<entry>...</entry>` — identifiants
-- `<lookup ...>...</lookup>` — abréviations savantes
 - `<transliteration>...</transliteration>`
 - `<reflink>...</reflink>`
 - `<placeholder* />` — images de scripts apparentés
@@ -30,7 +38,7 @@ Les fichiers HTML contiennent des balises spécifiques au lexique. Voici les rè
 
 - Texte hébreu/araméen (tout ce qui est dans `<bdbheb>` ou `<bdbarc>`)
 - Grec ancien
-- Abréviations savantes (dans `<lookup>`)
+- Codes savants dans `<lookup>` (Dl, Dr, Kö, etc. — noms propres de savants)
 - Attributs de balises `<ref>` (ref, b, cBegin, vBegin, etc.)
 - Translittérations, citations latines
 - Noms de thèmes verbaux : Qal, Niphal, Piel, etc.
@@ -89,7 +97,7 @@ Réponds **ERROR** si le fichier français présente l'un de ces problèmes :
 Chaque balise HTML du fichier ENGLISH doit apparaître dans le FRENCH. Vérifier :
 - Toutes les balises `<bdbheb>...</bdbheb>`, `<bdbarc>...</bdbarc>` sont présentes avec le même contenu
 - Toutes les balises `<placeholder* />` sont présentes (même numéro, même position)
-- Toutes les balises `<lookup ...>...</lookup>` sont présentes avec le même contenu
+- Toutes les balises `<lookup ...>...</lookup>` sont présentes avec les mêmes attributs ; le texte visible peut être traduit (noms de livres : `Isa` → `Es`, prose dans `<sup>`)
 - Toutes les balises `<entry>...</entry>` sont présentes
 - Toutes les balises `<ref ...>` sont présentes avec les mêmes attributs (ref, b, cBegin, vBegin, etc.)
 - Toutes les balises `<reflink>`, `<transliteration>`, `<checkingNeeded />`, `<wrongReferenceRemoved />` sont préservées
@@ -99,7 +107,7 @@ Chaque balise HTML du fichier ENGLISH doit apparaître dans le FRENCH. Vérifier
 - Sections, sens ou paragraphes présents dans l'anglais mais absents du français
 
 ### 9. Abréviations savantes accidentellement traduites
-Les codes dans `<lookup>` (Dl, Dr, Bev, Kau, Tg, Aq, Symm, Theod, etc.) ne doivent **jamais** être traduits.
+Les codes savants dans `<lookup>` (Dl, Dr, Bev, Kau, Tg, Aq, Symm, Theod, etc.) sont des noms propres de savants — ne jamais les traduire. En revanche, les noms de livres bibliques dans `<lookup>` (Isa, Gen, etc.) doivent être traduits (Es, Gn, etc.) comme dans `<ref>`.
 
 ### 10. Traduction de mauvaise qualité
 - Calque mot à mot de l'anglais victorien

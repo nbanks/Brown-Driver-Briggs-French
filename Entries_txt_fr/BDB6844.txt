@@ -5,12 +5,14 @@ hébreu biblique
 écarter, ouvrir largement (hébreu tardif פָּסַק, araméen פְּסַק,
 [placeholder4368: Placeholders/4368.gif], tous couper, séparer, fendre) ; —
 
+@@SPLIT:stem@@
 Qal
 Participe
 שֲֵֹׁק שְׂפָתָיו
 Pr 13,3 c.-à-d.
 un bavard.
 
+@@SPLIT:stem@@
 Pi`el
 Imparfait 2 féminin singulier וַתְּפַשְּׂקִי אֶתרַֿגְלַיִךְ
 Ez 16,23

@@ -7,6 +7,7 @@ Pi`el
 munir de tringles ou d'anneaux, et
 Pu`al passif ;
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 3 masculin singulier חִשַּׁק
 Ex 38,28
@@ -14,6 +15,7 @@ Ex 38,28
 P
 ), sujet Betsalel.
 
+@@SPLIT:stem@@
 Pu`al
 Participe
 מְחֻשָּׁקִים כֶּסֶף

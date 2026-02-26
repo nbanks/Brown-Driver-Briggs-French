@@ -12,6 +12,7 @@ Lv 12,2 + ; suffixe
 P
 et Ézéchiel) :
 
+@@SPLIT:sense@@
 1. d'impureté rituelle, comme l'union avec la femme du frère, Lv 20,21 surtout de la menstruation Ez 18,6 (lire
 אִשָּׁה בְּנִדָּתָהּ pour
 
@@ -40,6 +41,7 @@ Nb 19,9 ; Nb 19,13 ; Nb 19,20 ; Nb 19,21 (deux fois
 dans le v.) ; Nb 31,23
 .
 
+@@SPLIT:sense@@
 2.
 figuré (avec allusion à l'usage rituel), chose impure, Ez 7,19 ; Ez 7,20 (de l'or), Lm 1,17 (de
 Jérusalem) ; de l'idolâtrie, immoralité, etc., 2 Ch 29,5 ; Esd 9,11 (אֶרֶץ נִדָּה), Esd 9,11, Za 13,1 (לְחַטַּאת וּלְנִדָּה).

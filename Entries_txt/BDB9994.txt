@@ -12,6 +12,8 @@ Syriac; Biblical Hebrew
 שָׁבַר
 ); —
 
+@@SPLIT:stem@@
+
 Pe`al
 Participle
 passive feminine singular תְּבִירָה

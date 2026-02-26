@@ -25,10 +25,12 @@ Gn 33,17 + ;
 2 S 11,11 + ;
 —
 
+@@SPLIT:sense@@
 1.
 fourré, repaire des lions Jb 38,40 (comparer [סֹךְ]
 1.).
 
+@@SPLIT:sense@@
 2.
 hutte, abri rudimentaire ou temporaire, pour le bétail Gn 33,17 (
 J
@@ -44,6 +46,7 @@ AV
 'pavillon') de ׳
 י dans la tempête Ps 18,12 = 2 S 22,12 ; Jb 36,29.
 
+@@SPLIT:sense@@
 3. spécifiquement des huttes, faites de branches, dans lesquelles le peuple vivait à la
 fête de la récolte Lv
 23,42 (deux fois dans le verset) ; Lv 23,43 (

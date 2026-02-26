@@ -9,6 +9,8 @@ Lzb^386^
 SAC^121^
 Cooke^361^) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Parfait 3 féminin singulier תָּֽמְכָה
 Ps 63,9, etc. ;
@@ -72,6 +74,8 @@ tenir, garder, avec accusatif de chose Pr 4,4 que ton cœur garde mes
 paroles (|| שָׁמַר) ; tenir fermement
 Ps 17,5 (
 ב lieu ; opposé à נָמֹ֫טוּ).
+
+@@SPLIT:stem@@
 
 Niph`al
 Imparfait

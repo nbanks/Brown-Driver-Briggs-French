@@ -3,6 +3,7 @@ hébreu biblique
 
 [עִמֵּר] verbe
 
+@@SPLIT:stem@@
 Pi`el
 dénominatif
 lier des gerbes (hébreu tardif id., ainsi

@@ -17,6 +17,7 @@ Esd 2,68 pluriel
 suffixe מְכוֺנֶיהָ
 Ps 104,5 —
 
+@@SPLIT:sense@@
 1.
 lieu fixe de la demeure de ׳
 י sur terre Ex 15,17 (cantique), 1 R 8,13 = 2 Ch 6,2 (fragment poétique : voir
@@ -45,6 +46,7 @@ comparer Ps 33,14
 Ps 89,15,
 de même Ps 97,2.
 
+@@SPLIT:sense@@
 2.
 fondation, seulement pluriel, en poésie יָסַד אֶרֶץ
 עַלמְֿכוֺנֶיהָ

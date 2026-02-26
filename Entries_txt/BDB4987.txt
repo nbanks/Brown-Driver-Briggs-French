@@ -19,6 +19,8 @@ suffix נִדְבֹתֶ֫יךָ
 Deut 12:7 + 4 t.
 suffixes; —
 
+@@SPLIT:sense@@
+
 1.
 voluntariness
 אֹהֲבֵם נְדָבָה
@@ -35,6 +37,8 @@ Ps 54:8
 voluntarily, and adverb. accusative נדבה
 Deut 23:24 (see
 Dr.).
+
+@@SPLIT:sense@@
 
 2.
 freewill, voluntary, offering:

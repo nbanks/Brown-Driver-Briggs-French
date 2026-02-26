@@ -22,6 +22,8 @@ Dan 2:17 +; plural
 suffix בָּֽתֵּיכוֺן
 Dan 2:5 —
 
+@@SPLIT:sense@@
+
 1.
 house, of men: Ezra 6:11 (twice in verse); Dan 2:5; Dan 2:17; Dan 3:29; Dan 6:11 of king Ezra 6:4; Dan 4:4, מִשְׁתְּיָא
 ׳
@@ -43,6 +45,8 @@ Ezra 6:1
 
 Ezra 4:30
 royal residence (of Babylonian ).
+
+@@SPLIT:sense@@
 
 2.
 house of God, temple at Jerusalem Dan 5:3; Dan 5:23; Ezra 4:24 + 28 t. Ezra.

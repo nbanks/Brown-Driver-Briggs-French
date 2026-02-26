@@ -23,6 +23,8 @@ lie stretched out, Syriac
 [placeholder4949: Placeholders/4949.gif]
 recline at meals, Schw^Idioticon 87^); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular ׳
 ר
@@ -75,6 +77,8 @@ figurative of curse
 Deut 29:19 (ב person); of sin, לַפֶּתַח חַטָאת רֹבֵץ
 Gen 4:7
 at the door sin makes its lair.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imperfect 3 masculine singular suffix יַרְבִּיצֵנִי

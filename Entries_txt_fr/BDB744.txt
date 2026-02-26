@@ -33,6 +33,8 @@ Za 11,1
 Es 37,24 =
 2 R 19,23 —
 
+@@SPLIT:sense@@
+
 1.
 cèdre (arbre),
 (a) comme poussant
@@ -56,6 +58,8 @@ d'individus Jr
 22,7 ;
 Ps 92,13 ; Ez 17,22 ; Ez 17,23 comparer d'autres exemples d'emploi figuré ci-dessus ; comparaison
 de la droiture et de la force Jb 40,17 (queue de l'hippopotame).
+
+@@SPLIT:sense@@
 
 2.
 bois de cèdre pour la construction, עֲצֵי אֲרָזִים
@@ -85,6 +89,8 @@ Es 44,14 ;
 1 R 5,20 ;
 Ez 27,5 ; Esd
 3,7 ci-dessus)
+
+@@SPLIT:sense@@
 
 3.
 bois de cèdre utilisé dans les purifications, avec עֵץ

@@ -4,6 +4,7 @@ hébreu biblique
 [עָלַל] verbe
 dénominatif
 
+@@SPLIT:stem@@
 Po`el. glaner (raisins ou olives ; לִפֵּט des céréales) ; — Imparfait
 2 masculin singulier תְּעוֺלֵל
 Lv 19,10

@@ -10,6 +10,8 @@ Vrss
 usually Κενόν, οὐδέν, μάταιον, inane, vacuum, vanum
 ; compare Lag^Or. ii. 60^; BN 144); —
 
+@@SPLIT:sense@@
+
 1.
 formlessness, of primaeval earth Gen 1:2 (
 P
@@ -28,6 +30,8 @@ city of chaos (of ruined city); = nothingness, empty space, Job 26:7
 עַלתּֿ; of empty, trackless waste
 Deut 32:10
 (|| מִדְבָּר), Job 6:18; Job 12:24 = Ps 107:40.
+
+@@SPLIT:sense@@
 
 2.
 figurative of what is empty, unreal, as idols 1Sam 12:21 (collective: אֲשֶׁר

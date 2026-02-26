@@ -13,6 +13,7 @@ balâlu
 nom d'un sacrifice, et hébreu tardif בִּלְבֵּל ; araméen בַּלְבֵּל,
 [placeholder614: Placeholders/614.gif]) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 בָּלַל
@@ -91,6 +92,7 @@ infinitif construit suffixe, abstrait pour concret, mon dépérissement = ma for
 déclinante, de l'âge avancé ; Israël sous la figure d'un vieillard ; cependant cela n'est pas favorisé par le
 contexte. Le passage est donc douteux.
 
+@@SPLIT:stem@@
 Hithpolel
 Imparfait
 יִתְבּוֺלָ֑ל

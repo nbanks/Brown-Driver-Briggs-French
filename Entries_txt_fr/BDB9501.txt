@@ -5,6 +5,7 @@ araméen biblique
 
 [חֲבַל] verbe
 
+@@SPLIT:stem@@
 Pael
 détruire, faire du mal (voir hébreu biblique II.
 חבל
@@ -17,6 +18,7 @@ de l'arbre) ; Infinitif
 Esd 6,12
 (accusatif du temple).
 
+@@SPLIT:stem@@
 Hithpa`al
 être détruit : Imparfait 3 féminin singulier תִּתְחַבַּל
 Dn 2,44 ; Dn 6,27 ; Dn 7,14 (

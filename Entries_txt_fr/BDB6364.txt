@@ -5,6 +5,7 @@ hébreu biblique
 dénominatif
 devenir soir ; s'assombrir (?) ; —
 
+@@SPLIT:stem@@
 Qal. Infinitif construit
 רָפָה הַיּוֺם לַעֲרוֺב
 Jg 19,9, mais lire
@@ -24,6 +25,7 @@ Gr
 Perles^Anal. 91^
 Che^Hpt^ et d'autres
 
+@@SPLIT:stem@@
 Hiph`il
 Infinitif absolu
 הַשְׁכֵּם

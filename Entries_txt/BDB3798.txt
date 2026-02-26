@@ -17,6 +17,8 @@ sleep Assyrian
 , dream, Id^ib, Flood: iv. 22^
 Asrb^Annals,v R. 2, 97^) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 יָשַׁנְתִּי
@@ -65,6 +67,8 @@ Jer 51:57 (see
 הַמָּוֶת
 Ps 13:4.
 
+@@SPLIT:stem@@
+
 Niph`al only in derivative sense of become inactive or stationary; Perfect
 
 וְנוֺשַׁנְתֶּם consecutive Deut 4:25
@@ -81,6 +85,8 @@ Lev 13:11 =
 old leprosy (
 P
 ); these possibly denominative from יָשָׁן
+
+@@SPLIT:stem@@
 
 Pi`el
 causative. Imperfect

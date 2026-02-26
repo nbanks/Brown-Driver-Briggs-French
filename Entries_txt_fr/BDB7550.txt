@@ -15,6 +15,8 @@ le †or°a¹n
 appeler, etc., ainsi ancien araméen קרא, nabatéen id.,
 palmyrénien id., קרה) ; —
 
+@@SPLIT:stem@@
+
 Qal_655_
 Parfait
 ׳
@@ -627,6 +629,8 @@ appeler des villes (accusatif) בְּשֵׁם, c.-à-d. les spécifier,
 Jos 21,9 ; 1 Ch 6,50 (
 בְּשֵׁמוֺת).
 
+@@SPLIT:stem@@
+
 Niph`al
 Parfait 3 masculin singulier נִקְרָא
 Jr
@@ -800,6 +804,8 @@ Es 14,20 (9) sujet
 
 Qo 6,10, c.-à-d. la chose est
 connue.
+
+@@SPLIT:stem@@
 
 Pu`al (Ézéchiel et
 Es^2^) Parfait 3 masculin

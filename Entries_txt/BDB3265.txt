@@ -10,6 +10,8 @@ id.; Ethiopic
 [placeholder2053: Placeholders/2053.gif] is scrutari, examinare, see Di^Lex,
 105^) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular חַת
 Jer 50:2 3
@@ -104,11 +106,15 @@ Isa 51:7
 
 (|| יָרֵא) Jer 1:17; Jer 10:2 (twice in verse).
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect only 3 masculine singular וּמִפְּנֵי
 שְׁמִי נִחַת
 Mal 2:5
 and at my name he is put in awe (|| יָרֵא).
+
+@@SPLIT:stem@@
 
 Pi`el
 Perfect
@@ -124,6 +130,8 @@ shattered, but text probably erroneous. Gie
 חַתָּה (see
 Qal
 1).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 2 masculine singular הַחִתֹּתָ

@@ -17,6 +17,7 @@ descendre ; sabéen ורד et הורד
 id., DHM dans MV
 ) —
 
+@@SPLIT:stem@@
 Qal_306_
 Parfait
 יָרַד
@@ -557,6 +558,7 @@ Pr 18,8
 =
 Pr 26,22. — Voir aussi ci-dessus 1.k.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 masculin singulier הוֺרִד
 2 R
@@ -841,6 +843,7 @@ Lm 2,10
 
 les vierges de Jérusalem ont incliné la tête vers le sol.
 
+@@SPLIT:stem@@
 Hoph`al
 Parfait
 הוּרַד

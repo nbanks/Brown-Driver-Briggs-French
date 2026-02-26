@@ -5,12 +5,14 @@ hébreu biblique
 dénominatif
 user de la langue, seulement spécifiquement, calomnier ; —
 
+@@SPLIT:stem@@
 Po`el
 Participe
 מְלָו֯שְׁנִי בַּסֵּתֶד רֵעֵהוּ
 Ps 101,5
 (sur la forme, comparer Ges^«GKC:90»§ 90^, 3 Kö^Lgb. i. § 26^).
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait 2 masculin singulier jussif ׳
 אַלתַּֿלְשֵׁן עֶבֶד וגו

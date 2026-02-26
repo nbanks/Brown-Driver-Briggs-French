@@ -18,6 +18,7 @@ construit פִּנּוֺת
 1 R 7,34 +,
 etc. ; —
 
+@@SPLIT:sense@@
 1.
 
 a.
@@ -67,6 +68,7 @@ So 1,16 des
 nations So 3,6
 .
 
+@@SPLIT:sense@@
 2.
 figuré du chef, dirigeant comme coin (soutien ou défense), Jg 20,2 ; 1 S 14,38 ;
 Es 19,13

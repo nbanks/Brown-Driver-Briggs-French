@@ -3,8 +3,12 @@ araméen biblique
 
 [אֶצְבַּע] nom féminin
 
+@@SPLIT:sense@@
+
 1.
 doigt ;
+
+@@SPLIT:sense@@
 
 2.
 orteil (
@@ -13,8 +17,12 @@ orteil (
 
 syriaque ; hébreu biblique id.) ; — pluriel
 
+@@SPLIT:sense@@
+
 1. absolu אֶצְבְּעָן
 Dn 5,5.
+
+@@SPLIT:sense@@
 
 2. emph תָָ֯א
 Dn 2,41 construit

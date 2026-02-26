@@ -23,6 +23,8 @@ AV
 RV
 ; —
 
+@@SPLIT:stem@@
+
 Qal. Perfect
 גָּר
 Isa 54:15
@@ -57,6 +59,8 @@ quarrel, followed by אֶתֿ
 with
 Isa 54:15.
 Here also
+
+@@SPLIT:stem@@
 
 Hithpolel
 Imperfect

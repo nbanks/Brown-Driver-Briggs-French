@@ -3,6 +3,8 @@ Biblical Hebrew
 
 [בשׁס] verb
 
+@@SPLIT:stem@@
+
 Po`el
 Infinitive suffix בּוֺשַׁסְכֶם
 Amos 5:11

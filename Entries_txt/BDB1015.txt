@@ -4,11 +4,15 @@ Biblical Hebrew
 [בָּטָה, בָּטָא] verb
 speak rashly, thoughtlessly (Late Hebrew id., בטי) —
 
+@@SPLIT:stem@@
+
 Qal
 Participle
 בּוֺטֶה
 Prov 12:18
 one that babbleth (opposed to לְשׁוֺן חֲכָמִים).
+
+@@SPLIT:stem@@
 
 Pi`el
 Imperfect

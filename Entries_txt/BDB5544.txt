@@ -9,6 +9,8 @@ sûru
 , noun rebel
 Wkl^Gloss^); —
 
+@@SPLIT:stem@@
+
 Qal_161_
 Perfect masculine singular סָר
 Exod 3:4 +; 3 feminine
@@ -250,10 +252,13 @@ the
 rebellious, or below סרר, or even = שָׂרֵי
 princes, chiefs (compare 1Sam 22:14).
 
+@@SPLIT:stem@@
 Pô`lel
 Perfect 3 masculine singular סוֺרֵר דְּרָכָיו
 Lam 3:11
 he turned aside my ways (my steps).
+
+@@SPLIT:stem@@
 
 Hiph`il_133_
 Perfect 3 masculine singular הֵסִיר
@@ -401,6 +406,8 @@ unto
 2Sam 6:10 =
 1Chr 13:13
 .
+
+@@SPLIT:stem@@
 
 Hoph`al
 Perfect 3 masculine singular הוּסַר

@@ -10,6 +10,7 @@ comprimer ; comparer arabe
 [placeholder1454: Placeholders/1454.gif]
 tordre la lèvre d'une bête) —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 pluriel זֹ֫רוּ
 Es 1,6 (passif ; >

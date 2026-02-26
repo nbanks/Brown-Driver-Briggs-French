@@ -5,6 +5,7 @@ hébreu biblique
 verbe
 faire du bruit, agiter bruyamment, confondre, mettre en déroute (comparer [הום]) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 וְהָמַם consécutif Es 28,28 suffixe הֲמָמַ֫נִי

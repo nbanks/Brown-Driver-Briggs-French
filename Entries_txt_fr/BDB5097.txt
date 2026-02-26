@@ -13,6 +13,7 @@ PS^2331^ ; arabe
 [placeholder3257: Placeholders/3257.gif]
 descendre (le lait dans la mamelle, mais aussi en général)) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 נָָֽזְלוּ
@@ -56,6 +57,7 @@ distiller, d'épices בְּשָׂמִים
 Ct 4,16
 figuré de paroles, comme la rosée Dt 32,2 (|| ערף).
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait
 lyZIhi

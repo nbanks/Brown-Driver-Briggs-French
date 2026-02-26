@@ -16,6 +16,7 @@ ss.^ ; araméen
 [placeholder1605: Placeholders/1605.gif]
 חַבֵּר et nombreux dérivés ; comparer phénicien nom חבר associé) —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin pluriel חָֽבְרוּ
 Gn 14,3
@@ -91,6 +92,7 @@ Dt 18,11 (dans une longue série d'expressions apparentées), spécifiquement du
 Ps
 58,6 (|| מְלַחֲשִׁים).
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 3 masculin singulier חִבַּר
 Ex 36,10
@@ -124,6 +126,7 @@ Ex 36,13. suivi d'accusatif seulement Ex 26,9 ; Ex 36,16 objet
 אתהֿאהל
 joindre la tente ensemble, Ex 26,11 ; Ex 36,18.
 
+@@SPLIT:stem@@
 Pu`al
 Parfait 3 masculin singulier חֻבָּ֑ר
 Ex 39,4,
@@ -193,6 +196,7 @@ Ps
 jointe ensemble pour elle-même c.-à-d. bâtie de façon compacte (de
 Jérusalem).
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait 1 singulier אַחְבִּ֫ירָה עליכם בְּמִלִּים
 
@@ -206,6 +210,7 @@ RV
 VB
 ) contre vous.
 
+@@SPLIT:stem@@
 Hithpa`el (tardif) Parfait
 אֶתְחַבֵּר (Ges
 ^«GKC:54»§ 54^ 1 n.) 2 Ch 20,35

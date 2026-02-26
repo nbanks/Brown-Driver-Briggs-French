@@ -3,6 +3,7 @@ hébreu biblique
 
 [הִתְיַחֵשׂ] verbe
 
+@@SPLIT:stem@@
 Hithpa`el
 dénominatif
 s'inscrire ou être inscrit par généalogie (hébreu tardif souvent au Pi`el (aussi

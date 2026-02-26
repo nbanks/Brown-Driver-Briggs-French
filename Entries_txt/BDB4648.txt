@@ -20,6 +20,8 @@ Os^14^
 Levy-Os^ZMG xix.1863, 211 f.^
 DHM^ZMG xxix.1875, 595^); —
 
+@@SPLIT:stem@@
+
 Qal_99_
 Perfect
 ׳
@@ -179,6 +181,8 @@ meaning obscure, see [שֶׁלֶט]; Gie proposes ׳
 מִרְטוּ הַשּׁ
 polish.
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect
 נִמְלָאֿ
@@ -241,6 +245,8 @@ adjective , so
 be accomplished, ended, subject days Exod 7:25 of an exchange,
 requital, Job
 15:32.
+
+@@SPLIT:stem@@
 
 Pi`el_112_
 Perfect
@@ -423,6 +429,8 @@ men
 4.
 confirm words 1Kgs 1:14.
 
+@@SPLIT:stem@@
+
 Pu`al
 Participle
 filled, i.e. set with jewels
@@ -430,6 +438,8 @@ filled, i.e. set with jewels
 בַּתַּרְשִׁישׁ
 
 Song 5:14.
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Imperfect

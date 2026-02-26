@@ -13,6 +13,7 @@ id. ; araméen חֲרוֺב
 —uribtu
 , désert, Lotz^TP^) ; —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 3 féminin singulier תֶּחֱרַ֔ב
 Jr 26,9,
@@ -41,6 +42,7 @@ d'autres, être stupéfait, consterné (sur le rapport des sens voir
 שׁמם
 ).
 
+@@SPLIT:stem@@
 Niph`al
 Participe féminin נֶחֱרֶבֶת
 Ez 26,19
@@ -49,6 +51,7 @@ comme adjectif, ville désolée, c.-à-d. inhabitée, voir le contexte ; נַח�
 Ez 30,17
 de pays désolés (|| נָשַׁמּוּ).
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait
 הֶחֱרִיב
@@ -80,6 +83,7 @@ Ez 19,7
 rues So 3,6
 (|| נָשַׁמּוּ).
 
+@@SPLIT:stem@@
 Hoph`al
 Parfait 3 féminin singulier הָחֳרָ֑בָה
 Ez 26,2

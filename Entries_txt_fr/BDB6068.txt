@@ -22,6 +22,7 @@ DHM^ZMG xxxvii. 415^, comparer עלוהו =
 [placeholder3867: Placeholders/3867.gif]
 SabDenkm^91^) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier ׳
 ע
@@ -494,6 +495,7 @@ est difficile, comparer Comm., et voir
 עַוְלָה
 ).
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 masculin singulier נַעֲלָה
 Nb 10,11 + ;
@@ -549,6 +551,7 @@ réfléchi : s'en aller
 dieux Ps 97,9
 .
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait
 הֶעֱלָךְ
@@ -962,6 +965,7 @@ Jos 8,31 ; 1 Ch 16,40
 ; Esd 3,3
 .
 
+@@SPLIT:stem@@
 Hoph`al
 Parfait ;.; —
 
@@ -985,6 +989,7 @@ Jg 6,28 (
 על המזבח
 ).
 
+@@SPLIT:stem@@
 Hithpa`el
 s'élever : Imparfait 3 masculin singulier
 אֶליִֿתְעַל

@@ -16,11 +16,13 @@ astucieux, syriaque
 [placeholder4090: Placeholders/4090.gif]
 id., et verbe dans les espèces dérivées (Pe`al dans les Lexiques)) ; —
 
+@@SPLIT:stem@@
 Qal
 Infinitif absolu dans עָרֹם יַעְרִם
 1 S 23,22
 il est extrêmement rusé.
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait
 être rusé, 3 masculin singulier יַעְרִם

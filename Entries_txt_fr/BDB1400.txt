@@ -10,6 +10,7 @@ Lv 26,19 + 31
 t. ; suffixe גְּאוֺנְךָ etc. Ex 15,7 + 9 t. ; pluriel suffixe גְּאוֺנָ֑יִךְ
 Ez 16,56 —
 
+@@SPLIT:sense@@
 1.
 exaltation, majesté, excellence,
 
@@ -69,6 +70,7 @@ agitées) ; גְּאוֺן גַּלֶּיךָ
 majesté de tes vagues
 Jb 38,11.
 
+@@SPLIT:sense@@
 2.
 orgueil (sens péjoratif) Jb 35,12 ; Ps 59,13 ; Pr 8,13 ; Pr 16,18 ; Ez 7,20 ; Ez 16,49 ; So 2,10
 de

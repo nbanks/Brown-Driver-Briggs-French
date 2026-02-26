@@ -11,6 +11,7 @@ Dl^HWB 416^ ; arabe
 assigner, répartir ; araméen
 [placeholder3034: Placeholders/3034.gif], מְנָא) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 מָנָה
@@ -54,6 +55,7 @@ estimer, assigner, désigner
 Es 65,12
 (avec jeu de mots sur מְנִי Es 65,11).
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 נִמְנָה
@@ -86,6 +88,7 @@ J
 Es
 53,12 (avec אֶת פּשְׁעִים).
 
+@@SPLIT:stem@@
 Pi`el (tardif et en poésie) (araméen biblique et
 
 ᵑ7
@@ -116,6 +119,7 @@ Ps 61,8
 (sujet ׳
 י).
 
+@@SPLIT:stem@@
 Poual
 Participe pluriel מְמֻנִּים
 

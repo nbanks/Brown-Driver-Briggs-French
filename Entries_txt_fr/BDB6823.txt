@@ -14,6 +14,7 @@ parašu
 , voler (espèce dérivée ; proprement étendre [les ailes]) ;
 voir aussi Nö^ZA i. 417^) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier ׳
 פ
@@ -128,6 +129,7 @@ voir
 פָּרַס
 .
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait 3 masculin pluriel יִכָר֑שׂוּ
 Ez 17,21
@@ -137,6 +139,7 @@ ils seront dispersés
 צאֹן נִפְרָשׂוֺת pour שׁוֺת-, Hä Krae
 ; sur l'émendation du contexte voir surtout Toy Krae).
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 3 masculin singulier consécutif וּפֵרַשׂ
 Es 25,11

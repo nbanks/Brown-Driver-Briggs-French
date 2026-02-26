@@ -3,6 +3,8 @@ Biblical Hebrew
 
 II. [גַּד]
 
+@@SPLIT:sense@@
+
 1.
 noun [masculine]
 fortune, good fortune (Arabic
@@ -21,6 +23,8 @@ Qr
 ᵐ5
 
 ἐν τύχῃ, by or with good fortune.
+
+@@SPLIT:sense@@
 
 2.
 proper name, masculine

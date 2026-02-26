@@ -9,6 +9,7 @@ id. ; arabe
 [placeholder3066: Placeholders/3066.gif] II. égoutter jusqu'à la dernière goutte (Dozy
 ) ; comparer מָצַץ) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 2 féminin singulier מָצִית
 Es 51,17,
@@ -27,6 +28,7 @@ Ez 23,24 (+
 שׁתה) ; objet שְׁמָרֶיהָ
 la lie (à savoir de בּוֺס) Ps 75,9 (sujet les méchants).
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 וְנִמְצָה consécutif Lv 1,15

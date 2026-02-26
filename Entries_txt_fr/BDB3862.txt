@@ -4,6 +4,7 @@ hébreu biblique
 יִתְרָן
 nom propre, masculin
 
+@@SPLIT:sense@@
 1.
 un Édomite
 Gn 36,26 = 1 Ch 1,41,
@@ -12,6 +13,7 @@ Gn 36,26 = 1 Ch 1,41,
 
 Ι(ε)θραν, etc.
 
+@@SPLIT:sense@@
 2. un homme d'Aser 1 Ch 7,37 (voir III.
 יֶתֶר
 

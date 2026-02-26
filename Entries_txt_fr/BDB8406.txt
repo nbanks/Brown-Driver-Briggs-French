@@ -11,6 +11,8 @@ pašâ—u
 , devenir calme, ainsi Ba^ES9^
 Schulth^Lex^.) ; —
 
+@@SPLIT:stem@@
+
 Pi`el
 Imparfait 3 masculin singulier sf יְשַׁבְּחֶ֑נָּה
 Pr 29,11
@@ -20,6 +22,8 @@ son humeur (Bi Toy lisent חָשַׁךְ
 אַפּוֺ ) ; 2 masculin singulier sf תְּשַׁבְּחֵם
 Ps 89,10
 tu les apaises, c.-à-d. les vagues (|| גֵּאוּת הַיָּם).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Participe (probablement erreur massorétique pour Pi`el

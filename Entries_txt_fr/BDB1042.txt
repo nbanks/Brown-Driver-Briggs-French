@@ -23,6 +23,7 @@ Ps 49,4 + 4t. ;
 תְּבוּנוֺתֵיכֶם
 Jb 32,11 —
 
+@@SPLIT:sense@@
 1.
 l'acte
 Jb 26,12 ;
@@ -34,6 +35,7 @@ Pr 21,30
 ; Jr
 10,12 (= Jr 51,15) Ez 28,4 ; Os 13,2 ; Ab 1,7.
 
+@@SPLIT:sense@@
 2.
 la faculté
 Ex 31,3 ; Ex 35,31 ;
@@ -52,6 +54,7 @@ Pr 11,12
 où אישׁ omis par erreur de scribe) ; דֶּרֶךְ תְּבוּנָה
 Es 40,14.
 
+@@SPLIT:sense@@
 3.
 l'objet de la connaissance
 Pr 2,3 ; Pr 3,13 ;
@@ -66,6 +69,7 @@ incline ton cœur vers l'intelligence Pr 2,2
 raisons
 Jb 32,11.
 
+@@SPLIT:sense@@
 4. personnifiée Pr 8,1 comme enseignante.
 
 ---

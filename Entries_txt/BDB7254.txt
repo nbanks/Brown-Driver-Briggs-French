@@ -11,6 +11,8 @@ bind, tie up; so Aramaic צְרַר,
 
 A. transitive:
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular צָרַר
 Hos 4:19; Prov 30:4
@@ -48,12 +50,16 @@ vera lectio) pregnantly, the wind hath wrapped her up in its wings, to carry her
 Prov 26:8
 like the tying up of a stone, but unintellig. in context (see Toy).
 
+@@SPLIT:stem@@
+
 Pu`al
 Participle plural מְצֹרָרִים
 Josh 9:4
 tied up (mended by tying), of old wine-skins.
 
 B. intransitive:
+
+@@SPLIT:stem@@
 
 Qal
 Perfect 3 feminine singular צָ֫רָה
@@ -81,6 +87,8 @@ Job 20:22
 Judg 10:9;
 1Sam 30:6
 (see Dr).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 masculine singular וְהֵצַר

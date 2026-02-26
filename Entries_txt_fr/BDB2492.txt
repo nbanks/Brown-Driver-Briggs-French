@@ -4,6 +4,7 @@ hébreu biblique
 [חָבָה] verbe
 se retirer, se cacher, comparer חבא ; —
 
+@@SPLIT:stem@@
 Qal
 Impératif masculin singulier חֲבִי
 Es 26,20
@@ -12,6 +13,7 @@ Ew^§ 224.c^
 Du ; Di lit חֲבֵּי
 = חֲבֵה), se retirer dans l'intimité (|| בּאֹ בַחֲדָרֶיךָ).
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 וְנֶחְבָּה consécutif Jr 49,10

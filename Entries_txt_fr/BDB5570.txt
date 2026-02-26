@@ -21,6 +21,7 @@ Ex 27,3,
 Ps 58,10 —
 marmite :
 
+@@SPLIT:sense@@
 1.
 
 a.
@@ -56,6 +57,7 @@ b.
 Ps 60,10
 ma marmite à laver, Ps 108,10.
 
+@@SPLIT:sense@@
 2.
 marmites utilisées dans le sanctuaire, Ez 27,3 ; Ez 38,3 (les deux
 P

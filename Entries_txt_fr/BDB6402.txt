@@ -12,6 +12,7 @@ Jb 16,12,
 Dt 31,27,
 etc. ; —
 
+@@SPLIT:sense@@
 1.
 nuque de l'ennemi en fuite ׳
 וגו
@@ -47,6 +48,7 @@ défaveur de ׳
 Jr 18,17
 c'est le dos et non la face que je leur montrerai.
 
+@@SPLIT:sense@@
 2.
 figuré dans ׳
 קְשֵׁהעֿ
@@ -66,6 +68,7 @@ Es 48,4 (||
 קָשֶׁה אָ֑תָּה) ; ׳
 הִקְשָׁה ע d'un individu 2 Ch 36,13 ; Pr 29,1.
 
+@@SPLIT:sense@@
 3. d'un oiseau : briser sa tête מִמּוּל
 עָרְפּוֺ
 Lv 5,8 (

@@ -18,6 +18,7 @@ plier, courber ; palmyrénien כפתא
 niche, de כפף
 courber selon Vog^No. 70, p. 50^) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 נַפְשִׁי
@@ -31,6 +32,7 @@ courber, comme un jonc, sa tête. Participe passif
 (הַ)כְּפוּפִים
 ceux qui sont courbés, dans la détresse, l'humiliation, etc., Ps 145,14 ; Ps 146,8.
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait 1 singulier מָרוֺם אִכַּף לֵאלֹהֵי
 Mi 6,6 avec quoi

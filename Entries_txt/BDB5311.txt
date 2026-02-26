@@ -10,6 +10,8 @@ refresh;
 be refreshed; Ethiopic
 [placeholder3390: Placeholders/3390.gif]); —
 
+@@SPLIT:stem@@
+
 Niph`al
 Imperfect 3 masculine singular יִנָּפֵשׁ
 Exod 23:12 (

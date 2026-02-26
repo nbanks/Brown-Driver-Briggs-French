@@ -12,6 +12,8 @@ Gen 27:9 + 65 t.;
 suffix עִזֶּיךָ
 Gen 31:38 —
 
+@@SPLIT:sense@@
+
 1. as property Gen 30:32; Gen 30:33; Gen 30:35 (
 J
 ), Gen 31:15
@@ -20,6 +22,8 @@ J
 E
 ), 1Sam 25:2
 .
+
+@@SPLIT:sense@@
 
 2. as food: גְּדָיֵי (גְּדִי) עִזִּים
 kid(s) of she-goats
@@ -38,6 +42,8 @@ P
 חֲלֵב ע
 Prov 27:27
 goats' milk.
+
+@@SPLIT:sense@@
 
 3. as sacrificial victim, chiefly
 P
@@ -104,11 +110,15 @@ Lev 4:28; Lev 5:6
 
 he-goats.
 
+@@SPLIT:sense@@
+
 4.
 עִזִּים = goats' hair, as material 1Sam 19:13; 1Sam 19:16; Exod 25:4 + 6 t.
 P
 (Exod 35:26
 object of טָווּ!).
+
+@@SPLIT:sense@@
 
 5. in simile חֲשַׂפֵי עִזִּים
 1Kgs 20:27
@@ -118,6 +128,8 @@ object of טָווּ!).
 כְּעֵדַר הָע
 Song 4:1; Song 6:5, of flowing,
 undulating hair.
+
+@@SPLIT:sense@@
 
 6.
 ׳

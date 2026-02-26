@@ -12,6 +12,7 @@ lû
 comparer Kö^ii. 333^), conjonction
 si, ô si : —
 
+@@SPLIT:sense@@
 1.
 si (énonçant un cas qui n'a pas été, ou n'est pas susceptible d'être, réalisé) :
 
@@ -42,6 +43,7 @@ Avec l'apodose omise, Gn 50,15
 לוּ יִשְׂטְמֵנוּ
 si Joseph venait à nous haïr (comment nous en sortirions-nous alors ?).
 
+@@SPLIT:sense@@
 2.
 Si seulement... ! c.-à-d. ô si ! que ne ! (comparer εἰ γάρ,
 εἴθε

@@ -5,6 +5,8 @@ Biblical Hebrew
 noun [masculine]
 mound; —
 
+@@SPLIT:sense@@
+
 1.
 mound, ruin-heep (of city): construct תֵּל(ֿ)עוֺלָם
 Josh 8:28 (
@@ -15,6 +17,8 @@ E
 ), Deut
 13:17, תֵּל שְׁמָמָה
 Jer 49:2.
+
+@@SPLIT:sense@@
 
 2.
 mound or hill on which city stood: suffix תִּלָּם

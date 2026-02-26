@@ -17,6 +17,8 @@ Adler^PAOS Oct. 1888, xcix^.; also dilûtu, bucket, Id^ib^;
 dalâni
 COT^Gloss^) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 דָּלָה
@@ -38,6 +40,8 @@ down (helpless) so Ew
 Sta^§ 413 a^; other views in De
 
 Now.
+
+@@SPLIT:stem@@
 
 Pi`el
 Perfect 2 masculine singular suffix דִּלִּיתָ֑נִי

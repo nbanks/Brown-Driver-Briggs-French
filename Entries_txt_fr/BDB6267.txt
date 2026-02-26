@@ -5,6 +5,7 @@ I. עֶ֫צֶב
 nom [masculin]
 douleur, blessure, labeur ; —
 
+@@SPLIT:sense@@
 1.
 ׳
 ע
@@ -13,12 +14,14 @@ Gn 3,16 (de
 l'enfantement), Pr
 10,22.
 
+@@SPLIT:sense@@
 2.
 blessure (de l'esprit), ׳
 דְּבַרעֿ
 Pr 15,1
 une parole qui blesse (opposé à מַעֲנֶהרַֿךְ).
 
+@@SPLIT:sense@@
 3.
 labeur
 Pr 14,23

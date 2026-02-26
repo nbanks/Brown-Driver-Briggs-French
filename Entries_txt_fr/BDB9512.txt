@@ -9,6 +9,8 @@ Haphel (M^§ 65 c^) déclarer (
 
 syriaque ; hébreu biblique III. [חָוָה] (tardif)) ; —
 
+@@SPLIT:stem@@
+
 Pael avec accusatif פִּשְׁרָא (ou équivalent) : Imparfait 3
 masculin singulier suffixe יְחַוִּנַּ֫נִי (suffixe personne objet indirect) Dn 5,7,
 יְּחֵוִנֵּהּ
@@ -16,6 +18,8 @@ Dn 2,11
 (קֳדָּם personne) ; 1 singulier אֲחַוֶה
 Dn 2,24
 (ל de personne), 1 pluriel אְחַוֶּה Dn 2,4.
+
+@@SPLIT:stem@@
 
 Haphel habituellement avec accusatif פִשְׁרָא (ou équivalent) :
 Imparfait 3 masculin singulier יְהַחֲוֶה

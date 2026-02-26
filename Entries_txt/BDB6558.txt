@@ -7,6 +7,8 @@ flow, overflow (Arabic
 [placeholder4193: Placeholders/4193.gif]
 flow, compare Ba^ES 69^); —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 3 masculine plural יָפוּצוּ
 Prov 5:16 of

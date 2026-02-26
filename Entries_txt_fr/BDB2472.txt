@@ -54,6 +54,7 @@ Dn 11,15 ;
 Dn 11,22 ;
 Dn 11,31). —
 
+@@SPLIT:sense@@
 1.
 bras,
 
@@ -189,6 +190,7 @@ Es
 Jb 40,9
 . D'où,
 
+@@SPLIT:sense@@
 2.
 bras, comme symbole de force :
 
@@ -232,12 +234,14 @@ Str pense masculin pour éviter la terminaison verbale נָה,
 comparer Es
 49,11] ; et secours Es 33,2 (|| יְשׁוּעָה) comparer Es 59,16 ; Es 63,5 voir aussi Es 53,1.
 
+@@SPLIT:sense@@
 3. Pluriel forces, politiques et militaires, avec יִעֲמֹ֑דוּ
 Dn 11,15 ;
 Dn 11,31 v
 Dn 11,22 (voir
 Bev).
 
+@@SPLIT:sense@@
 4.
 Épaule de l'animal sacrifié, appartenant au prêtre Nb 6,19 (
 P

@@ -10,10 +10,14 @@ ascend, Aph`el cause to go up (in flame), offer sacrifice;
 [placeholder5274: Placeholders/5274.gif], Palmyrene סלק
 ascend); —
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect 3 feminine singular אֵשׁ נִשְּׂקָה בְיַעֲקֹב
 Ps 78:21
 a fire was kindled against Jacob.
+
+@@SPLIT:stem@@
 
 Hiph`il
 make a fire, burn: Perfect 3 plural consecutive וְהִשִּׂיקוּ, with

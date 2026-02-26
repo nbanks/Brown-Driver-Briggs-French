@@ -4,6 +4,8 @@ araméen biblique
 [שְׁנָא] verbe
 changer (voir hébreu biblique I. שׁנה) ; —
 
+@@SPLIT:stem@@
+
 Peal
 Parfait 3 masculin pluriel שְׁנוֺ
 Dn 3,27, suffixe
@@ -24,6 +26,8 @@ Dn 7,3 — intransitif
 changer, être changé : de vêtement, par le feu Dn 3,27, éclat (זִיו) du visage Dn 5,6 ; Dn 5,9, dessein Dn 6,18
 être différent de (מִן) Dn 7,3 ; Dn 7,19 ; Dn 7,23 ; Dn 7,24.
 
+@@SPLIT:stem@@
+
 Pael
 Parfait 3 masculin pluriel שַׁנִּי (K^§ 47 e),
 et Beisp. 3^) Dn Dn 3,28
@@ -37,6 +41,8 @@ Dn 4,13 (
 intransitif différent
 Dn 7,7 (
 מִן).
+
+@@SPLIT:stem@@
 
 Ithpaal
 Parfait 3 masculin pluriel אִשְׁתַּנּוֺ
@@ -63,6 +69,8 @@ aussi Cooke^166^) Dn 5,10, נוֺן- Dn 7,28 —
 Peal ; עַל personne) ; צְלֵם אַנְפּוֺהִי
 Dn 3,19 (
 id.) ; de temps, conditions Dn 2,9.
+
+@@SPLIT:stem@@
 
 Haphel
 Imparfait 3 masculin singulier יְהַשְׁנֵא

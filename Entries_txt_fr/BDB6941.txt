@@ -12,6 +12,7 @@ t. ; צִדְקִי
 Es 41,10 + 8
 t., etc. ; —
 
+@@SPLIT:sense@@
 1.
 ce qui est droit, juste, normal ; droiture, justesse, des poids et mesures, אֵיפָה
 , אֶבֶן
@@ -39,6 +40,7 @@ sacrifices de paix justes
 Dt 33,19 ;
 Ps 4,6 ; Ps 51,21.
 
+@@SPLIT:sense@@
 2.
 justice, dans le gouvernement :
 
@@ -120,6 +122,7 @@ Ps 4,2 Dieu
 de ma justice (qui me justifie) ; sa ׳
 צ est éternelle Ps 119,142.
 
+@@SPLIT:sense@@
 3.
 justice, justification, dans une cause ou un procès Jb 6,29 ; Jb 8,6 ; Jb 29,14 ; Ps 35,27 ; Es 59,4 Dieu ׳
 שׁפט כצ
@@ -136,6 +139,7 @@ Ps 17,1
 הוציא צ
 Ps 37,6.
 
+@@SPLIT:sense@@
 4.
 droiture, dans la parole, ׳
 דבּר צ
@@ -153,6 +157,7 @@ Pr 8,8
 Pr 16,13
 .
 
+@@SPLIT:sense@@
 5.
 justice, comme éthiquement droit Jb 35,2 ; Ps 17,15 ; Ps 45,8 ; Pr 1,3 ; Pr 2,9 ; Qo 7,15 ; Jr 22,13 ; Ez 3,20 ; Os 10,12 (lire ׳
 פְּרִי צ, ainsi
@@ -184,6 +189,7 @@ Es 51,1
 ידע צ
 Es 51,7.
 
+@@SPLIT:sense@@
 6.
 justice comme justifiée, justification dans la lutte contre les ennemis et les
 épreuves, délivrance, victoire, prospérité :

@@ -12,6 +12,8 @@ Biblical Hebrew,
 [placeholder4823: Placeholders/4823.gif]
 fine dust); —
 
+@@SPLIT:stem@@
+
 Hiph`il
 id. Imperfect 3 masculine singular אֶתהַֿבַּיִת יַקְצִעַ
 Lev 14:41.

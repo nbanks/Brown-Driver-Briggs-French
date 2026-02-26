@@ -4,6 +4,7 @@ araméen biblique
 [דּוּר] verbe
 habiter (voir hébreu biblique) ; —
 
+@@SPLIT:stem@@
 Peal
 Imparfait 3 féminin singulier d'animaux תְּדוּר
 Dn 4,18 3

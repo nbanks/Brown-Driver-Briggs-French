@@ -4,10 +4,14 @@ Biblical Aramaic
 [לְבֵשׁ] verb
 be clothed (see Biblical Hebrew); —
 
+@@SPLIT:stem@@
+
 Pe`al
 Imperfect accusative אַרְנְּוָנָא: 3 masculine singular יִלְבַּשׁ.
 Dan 5:7, 2 masculine
 singular תִּלְבַּשׁ Dan 5:16.
+
+@@SPLIT:stem@@
 
 Haph`el
 Perfect 3 masculine plural הַלְבִּ֫שׁוּ Dan 5:29

@@ -4,6 +4,7 @@ hébreu biblique
 II. עֵיפָה
 nom propre
 
+@@SPLIT:sense@@
 1. d'un peuple « fils » de Madian
 Gn 25,4 (
 J
@@ -15,6 +16,7 @@ J
 
 Γαφερ, Γεφαρ, Γαιφα(ρ).
 
+@@SPLIT:sense@@
 2.
 masculin
 nom en Juda
@@ -24,6 +26,7 @@ nom en Juda
 
 Γαιφα.
 
+@@SPLIT:sense@@
 3.
 féminin
 concubine de Caleb

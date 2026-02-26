@@ -9,6 +9,8 @@ Jb 15,4 suffixe
 שִׂיחָתִי
 Ps 119,97 —
 
+@@SPLIT:sense@@
+
 1.
 plainte :
 לִפְנֵיאֵֿל
@@ -19,6 +21,8 @@ Bu et autres, comparer שִׁיחַ
 1.
 De et autres méditation, comparer [גָּרֵע
 ]).
+
+@@SPLIT:sense@@
 
 2. (objet de) méditation, étude :
 תּוֺרָה

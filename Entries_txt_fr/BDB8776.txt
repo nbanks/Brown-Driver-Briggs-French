@@ -46,6 +46,8 @@ Nb 13,4 +,
 Ez 23,4 (deux fois
 dans le verset) ; — nom :
 
+@@SPLIT:sense@@
+
 1. de rivière Gn 2,11 ; Gn 2,13 ; Gn 2,14, animaux Gn 2,19 Gn 2,20, ville Gn 26,33 (tous
 J
 ) + ; היּוֺם
@@ -55,6 +57,8 @@ Ez 24,2, c.-à-d.
 désignation exacte de celui-ci (+ הַזֶּה
 ׳
 אֶתעֶֿצֶם הַיּ).
+
+@@SPLIT:sense@@
 
 2.
 
@@ -251,6 +255,8 @@ Na 1,14
 (de Ninive) ; כֵּן יַעֲמֹד זַרְעֲכֶם וְשִׁמְכֶם
 Es 66,22
 plus abstrait (|| זֵכֶר) Jb 18,17 ; Pr 10,7.
+
+@@SPLIT:sense@@
 
 3.
 nom, comme désignation de Dieu, spécifiquement de ׳
@@ -480,6 +486,8 @@ Hup-Now
 ׳
 קָרָנוּ בִשׁ (= קָרָאנוּ).
 
+@@SPLIT:sense@@
+
 4. des faux dieux, usage interdit Ex 23,13 (
 E
 ), Jos
@@ -504,6 +512,8 @@ Dt 18,20
 ׳
 יֵלְכוּ בְשׁ
 Mi 4,5.
+
+@@SPLIT:sense@@
 
 5. = mémorial, monument
 Es 55,13

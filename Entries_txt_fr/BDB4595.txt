@@ -4,6 +4,7 @@ hébreu biblique
 II. מַחֲלַת
 nom propre, féminin
 
+@@SPLIT:sense@@
 1.
 fille d'Ismaël
 Gn 28,9,
@@ -12,6 +13,7 @@ Gn 28,9,
 
 Μαελεθ.
 
+@@SPLIT:sense@@
 2. petite-fille de David 2 Ch 11,18,
 
 ᵐ5

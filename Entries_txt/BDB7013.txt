@@ -8,6 +8,8 @@ siege-enclosure, siege, entrenchment; — always ׳
 Ezek 4:7 suffix
 מְצוּרֶ֑ךָ Ezek 4:8 —
 
+@@SPLIT:sense@@
+
 1.
 siege
 שָׂם עָלֵינוּ
@@ -51,6 +53,8 @@ Deut 28:53;
 Deut 28:55;
 Deut 28:57;
 Jer 19:9.
+
+@@SPLIT:sense@@
 
 2.
 enclosure, i.e. siege-works

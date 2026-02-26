@@ -6,15 +6,21 @@ se réjouir (|| avec עָלַז, עָלַץ, q.v. ; hébreu tardif
 עֲלִיסָה
 réjouissance (une fois Levy^NHWB iii. 657^)) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Imparfait 3 masculin singulier יַעֲלֹס
 Jb 20,18
 il ne se réjouira pas.
 
+@@SPLIT:stem@@
+
 Niph`al
 Parfait 3 féminin singulier נֶעֱלָ֑סָה
 Jb 39,13 (de
 l'aile de l'autruche) = battre joyeusement.
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Imparfait 1 pluriel cohortatif נִתְעַלְּסָה

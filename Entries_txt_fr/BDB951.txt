@@ -4,6 +4,7 @@ hébreu biblique
 I. [בּוּז] verbe
 mépriser (hébreu tardif id.) —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier בַּז
 Za 4,10

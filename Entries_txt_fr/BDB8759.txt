@@ -14,6 +14,8 @@ tirer l'épée, dans les lexiques enlever la cuirasse ; arabe
 [placeholder5582: Placeholders/5582.gif]
 dépouiller, piller, etc.) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Parfait 3 masculin singulier ׳
 שׁ

@@ -4,6 +4,7 @@ hébreu biblique
 [יָשַׁם] verbe
 être désolé (comparer שָׁמַם) —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 3 féminin singulier תֵּשַׁם
 Ez 12,19

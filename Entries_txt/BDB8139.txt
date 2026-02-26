@@ -7,10 +7,14 @@ bind (Arabic
 close up and repair, sew up; Talmud רִיתְקָא
 fenced enclosure); —
 
+@@SPLIT:stem@@
+
 Pu`al
 Perfect 3 plural רֻתְּקוּ בַזִּקִּים
 Nah 3:10 her great
 ones were bound with fetters
+
+@@SPLIT:stem@@
 
 Niph`al
 Imperfect 3 masculine singular יֵרָתֵק

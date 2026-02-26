@@ -6,12 +6,16 @@ strike, only = clap (the hand) (Aramaic form of II.
 מָחָה
 q. v.); —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 3 masculine plural only figurative, of joy of inanimate things before ׳
 נְהָרוֺת יִמְחֲאוכָֿ֑ף ׃י
 Ps 98:8
 הַשָּׂדֶה יִמְחֲאוּכָֽֿף ׃וְכָלעֲֿצֵי
 Isa 55:12. —
+
+@@SPLIT:stem@@
 
 Pi`el
 Infinitive construct suffix id., of exultation over foe יַעַן מַחְאֲךָ

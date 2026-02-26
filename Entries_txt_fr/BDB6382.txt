@@ -14,6 +14,7 @@ Ps 55,14,
 עֶרְכְּךָ
 Lv 5,15 +, etc. ; —
 
+@@SPLIT:sense@@
 1.
 ordre, rangée, בְּגָדִים
 ׳
@@ -38,6 +39,7 @@ sa symétrie (voir
 חִין
 ci-dessous חנן).
 
+@@SPLIT:sense@@
 2.
 estimation, évaluation, faite par ordonnancement, classification : אִישׁ
 כְּעֶרְכּוֺ

@@ -3,6 +3,7 @@ hébreu biblique
 
 [צוּת]
 
+@@SPLIT:stem@@
 Hiph`il
 Es 27,4 voir
 

@@ -17,6 +17,7 @@ arabe
 [placeholder3949: Placeholders/3949.gif]
 au moment, c.-à-d. maintenant) ; — maintenant :
 
+@@SPLIT:sense@@
 1.
 
 a.
@@ -93,6 +94,7 @@ comme encouragement, impliquant que le temps est venu de suivre l'exhortation ou
 עתה קים צא, Ex 18,19
 עתה שְׁמַע בקולי, Nb 22,11 ; Dt 2,13 ; 1 S 30,8.
 
+@@SPLIT:sense@@
 2. Locutions :
 
 a.

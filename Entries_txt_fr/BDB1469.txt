@@ -4,11 +4,13 @@ hébreu biblique
 גְּבֶ֫רֶת
 nom
 
+@@SPLIT:sense@@
 1.
 dame, reine,
 Es 47,5 ; Es 47,7
 .
 
+@@SPLIT:sense@@
 2.
 maîtresse de servantes, suffixe גְּבִרְתִּי
 Gn 16,8

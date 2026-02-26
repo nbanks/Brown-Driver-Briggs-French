@@ -6,6 +6,8 @@ denominative
 Niph`al
 Pi`el:
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect 3 masculine singular נִתְעַב
 1Chr 21:6
@@ -27,6 +29,8 @@ abhorred and corrupt, from disease (נאלח elsewhere Ps 14:3
 || התעיב).
 
 2. ethically: David's census, according to 1Chr 21:6.
+
+@@SPLIT:stem@@
 
 Pi`el
 Perfect 3 plural sf תִּעֲבוּנִי
@@ -94,6 +98,8 @@ Pu`al
 SS
 Bu
 Du).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 2 feminine singular הִתְעַבְתְּ

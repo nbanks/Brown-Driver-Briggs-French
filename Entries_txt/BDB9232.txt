@@ -5,6 +5,8 @@ Biblical Hebrew
 denominative
 sound the timbrel, beat; —
 
+@@SPLIT:stem@@
+
 Qal
 Participle
 עֲלָמוֺת תֹּפֵפוֺת
@@ -18,6 +20,8 @@ Imperfect
 (see
 תוה
 ).
+
+@@SPLIT:stem@@
 
 Po`el
 Participle

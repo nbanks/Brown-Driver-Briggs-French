@@ -20,6 +20,8 @@ Exod 17:3 +,
 Gen 47:16 +,
 etc.; —
 
+@@SPLIT:sense@@
+
 1.
 cattle in general, including cows, sheep, horses, asses, camels (any or all of them), as
 purchasable domestic animals, Gen 47:16 (twice in verse); Gen 47:17 (twice in verse); Exod 9:3 + (
@@ -43,6 +45,8 @@ Gen 47:18 (
 
 J
 ).
+
+@@SPLIT:sense@@
 
 2. specifically of cows, sheep, and goats in herds and flocks
 Gen 13:2 (

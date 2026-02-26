@@ -3,6 +3,7 @@ hébreu biblique
 
 [שָׁקָה] verbe
 
+@@SPLIT:stem@@
 Hiph`il
 faire boire de l'eau, donner à boire (hébreu tardif Hiph`il id. ; arabe
 [placeholder5703: Placeholders/5703.gif] I. donner à boire ; sabéen סקי
@@ -104,6 +105,7 @@ accusatif de chose omis, littéral Jg 4,19 ; Ex 32,20 (
 E
 ), figuré Jr 25,17. — Voir aussi I. מַשְׁקֶה ci-dessous.
 
+@@SPLIT:stem@@
 Pu`al
 Imparfait 3 masculin singulier וּמֹחַ עַצְמוֺתָיו
 יְשֻׁקֶּה

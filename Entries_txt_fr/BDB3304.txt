@@ -14,6 +14,7 @@ dérivés content, joyeux ; assyrien
 vigoureux
 Dl^HWB 299^) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 טוֺב
@@ -120,6 +121,7 @@ si cela semble bon à (ainsi assyrien
 Dl^HWB 300 a^), 1 Ch 13,2 ; Ne 2,5 ; Ne 2,7 ; Est 1,19 ; Est 3,9 ; Est 5,4 ; Est 5,8 ; Est 7,3 ; Est 8,5 ; Est 9,13
 (comparer טוֺב adjectif).
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 2 masculin singulier הֱטִיבוֺתָ
 2 Ch 6,8,

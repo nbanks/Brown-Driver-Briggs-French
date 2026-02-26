@@ -9,6 +9,8 @@ Os 9,7, nom
 rétribution ; — pluriel שִׁלּוּמִים
 Es 34,8 —
 
+@@SPLIT:sense@@
+
 1.
 rétribution, châtiment, ׳
 יְמֵי הַשׁ
@@ -17,6 +19,8 @@ Os 9,7 (||
 שְׁנַת שׁ
 Es 34,8 (||
 נָקָם).
+
+@@SPLIT:sense@@
 
 2.
 récompense, pot-de-vin

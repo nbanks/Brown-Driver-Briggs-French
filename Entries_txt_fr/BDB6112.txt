@@ -3,6 +3,7 @@ hébreu biblique
 
 עָלֶ֫מֶת
 
+@@SPLIT:sense@@
 1.
 nom propre, masculin [personne]
 un Benjamite
@@ -14,6 +15,7 @@ un Benjamite
 
 Σαλαμαιθ, Γαλεμαθ, Αλαμωθ, etc.
 
+@@SPLIT:sense@@
 2.
 nom propre [d'un lieu] (= עַלְמוֺן q. v.) 1 Ch 6,45
 Baer

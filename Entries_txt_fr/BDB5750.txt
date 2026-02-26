@@ -11,6 +11,8 @@ Lzb^333^, ancien hébreu עבדיהו Id.^334^) ;
 I.
 עֹבַדְיָ֫הוּ :
 
+@@SPLIT:sense@@
+
 1. chef de la maison d'Achab 1 R 18,3 (deux fois dans le verset) ; 1 R 18,4 ; 1 R 18,5 ; 1 R 18,6 ; 1 R 18,7 ;
 1 R 18,16
 ,
@@ -19,11 +21,15 @@ I.
 
 Αβδ(ε)ιου.
 
+@@SPLIT:sense@@
+
 2. père d'un des chefs de Zabulon 1 Ch 27,19,
 
 ᵐ5
 
 Αβδ(ε)ιου (génitif).
+
+@@SPLIT:sense@@
 
 3. un lévite contremaître au temps de Josias 2 Ch 34,12,
 
@@ -40,6 +46,8 @@ A
 
 II.> עֹבַדְיָה :
 
+@@SPLIT:sense@@
+
 1. le prophète
 
 Ab 1,1,
@@ -47,6 +55,8 @@ Ab 1,1,
 ᵐ5
 
 Οβδ(ε)ιου (génitif), Αβδ(ε)ιου.
+
+@@SPLIT:sense@@
 
 2. un descendant de David 1 Ch 3,21,
 
@@ -59,6 +69,8 @@ Ab 1,1,
 ^L^
 
 Οβδιας.
+
+@@SPLIT:sense@@
 
 3. chef de la tribu d'Issacar 1 Ch 7,3,
 
@@ -75,11 +87,15 @@ A
 
 Αβδια.
 
+@@SPLIT:sense@@
+
 4. un Benjaminite 1 Ch 8,38 ; 1 Ch 9,44,
 
 ᵐ5
 
 Αβδ(ε)ια.
+
+@@SPLIT:sense@@
 
 5. un lévite 1 Ch 9,16 (|| עַבְדָּא
 Ne 11,17
@@ -99,17 +115,23 @@ A
 
 Αβια.
 
+@@SPLIT:sense@@
+
 6. un chef gadite 1 Ch 12,9,
 
 ᵐ5
 
 Αβδ(ε)ια.
 
+@@SPLIT:sense@@
+
 7. un prince au temps de Josaphat 2 Ch 17,7,
 
 ᵐ5
 
 Αβ(δ)ιαν.
+
+@@SPLIT:sense@@
 
 8. compagnon sacerdotal d'Esdras Esd 8,9 ; Ne 10,6,
 
@@ -122,6 +144,8 @@ A
 ^L^
 
 Αβδιου, Αβιας.
+
+@@SPLIT:sense@@
 
 9. un portier Ne 12,25, א
 Οβδιας,

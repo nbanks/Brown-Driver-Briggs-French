@@ -9,6 +9,8 @@ strike, blow horn; Ethiopic
 [placeholder5869: Placeholders/5869.gif]
 blow trumpet); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular ׳
 ת
@@ -125,6 +127,8 @@ Prov 17:18
 ;
 Prov 22:26 absolute Prov 11:15.
 
+@@SPLIT:stem@@
+
 Niph`al
 Imperfect 3 masculine singular
 
@@ -140,7 +144,7 @@ it shall be blown (a blast shall be given) on a horn.
 
 2.
 מִיהֿוּא
-לְיָדִי יִתֵָּקעַ ׃
+לְיָדִי יִתֵָּקעַ ׃
 Job 17:3
 who is there that will strike himself (i.e. pledge himself) into my hand ?
 

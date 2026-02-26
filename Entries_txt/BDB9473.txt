@@ -8,6 +8,8 @@ go (Biblical Hebrew;
 
 ; Syriac only Pa.); —
 
+@@SPLIT:stem@@
+
 Pe`al
 syncop. (so
 
@@ -24,12 +26,16 @@ Ezra 7:13
 Infinitive
 לִמְהַח (K^l.c^.; al. חָ֯) Ezra 7:13.
 
+@@SPLIT:stem@@
+
 Pa`el
 Participle
 מְהַלֵח
 walking about
 Dan 4:26 (
 עַל location).
+
+@@SPLIT:stem@@
 
 Haph`el
 id.: Participle plural מַהְלְכִין

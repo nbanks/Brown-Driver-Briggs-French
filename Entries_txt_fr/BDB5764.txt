@@ -4,6 +4,7 @@ hébreu biblique
 יַעְבֵּץ
 nom propre
 
+@@SPLIT:sense@@
 1.
 masculin [personne]
 Jabets, un homme des Calébites, 1 Ch 4,9 (deux fois dans le verset) ; 1 Ch 4,10 (où interprété comme apparenté à עצב ; sur
@@ -17,6 +18,7 @@ A
 
 Ιαγβης, Γαβης, GL Ιαβιης, Ιαβηλ, Ιαβεις.
 
+@@SPLIT:sense@@
 2. lieu en Juda, apparemment près de Bethléem
 1 Ch 2,55
 (comparer 1 Ch 2,54

@@ -32,6 +32,7 @@ Ez 43,11 ;
 Ez 44,5 + 5 t.
 suffixes ; —
 
+@@SPLIT:sense@@
 1.
 instruction :
 
@@ -94,6 +95,7 @@ Ag 2,11 ; Ml 2,6 ; Ml 2,7 ; Ml 2,8 ; Ml 2,9 ; So 3,4 ; Ez 22,26
 לֹא כֹּחֵן מוֺרֶה
 2 Ch 15,3.
 
+@@SPLIT:sense@@
 2.
 loi (proprement direction) : à savoir
 
@@ -367,6 +369,7 @@ Ps 119,142 ; Ps 119,150 ; Ps 119,153 ; Ps 119,163 ; Ps
 תּוֺרָה (indéfini) || חקים, מצוות
 Ne 9,14.
 
+@@SPLIT:sense@@
 3.
 coutume, manière :
 תּוֺרַת הָאָדָם

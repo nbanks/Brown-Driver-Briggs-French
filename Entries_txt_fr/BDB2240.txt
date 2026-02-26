@@ -48,6 +48,7 @@ Ez 35,8 ; Ml 1,3
 הֲרָרֶיהָ
 Dt 8,9 —
 
+@@SPLIT:sense@@
 1.
 montagne, colline (souvent non nettement distinguées, mais) :
 
@@ -591,6 +592,7 @@ moins permanentes et immuables que la bonté de Yahvé (|| גְּבָעוֺת) ;
 Jr 51,25
 & הַר שְׂרֵפָה Jr 51,25 figuré de Babylone.
 
+@@SPLIT:sense@@
 2.
 région montagneuse, pays de montagnes,
 

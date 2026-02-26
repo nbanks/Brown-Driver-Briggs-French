@@ -11,6 +11,7 @@ Dozy^ii. 195^ ; syriaque
 [placeholder3839: Placeholders/3839.gif]
 colère, injure) ; — seulement
 
+@@SPLIT:stem@@
 Qal
 Imparfait 3 masculin singulier וַיָּ֫עַט בָּהֶם
 1 S 25,14

@@ -6,6 +6,7 @@ s'éteindre (en poésie etsurtout littérature sapientiale) (araméen דְּעִ
 ,
 [placeholder1178: Placeholders/1178.gif]) —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin pluriel דָּֽעֲכוּ
 Es 43,17
@@ -24,10 +25,12 @@ Pr 24,20 des
 armées hostiles Es
 43,17 (|| כָּב֫וּ).
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 pluriel נִדְעֲכוּ
 être anéanti, tari, Jb 6,17 (des torrents).
 
+@@SPLIT:stem@@
 Pu`al
 Parfait 3 pluriel דֹּעֲכוּ des assaillants, être éteint, étouffé
 , כְּאֵשׁ קוֺצִים

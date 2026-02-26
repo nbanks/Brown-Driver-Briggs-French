@@ -12,6 +12,8 @@ bukru
 , first-born, Dl^§ 65, 5^)
 —
 
+@@SPLIT:stem@@
+
 Pi`el
 Imperfect
 יְבַכֵּר
@@ -30,12 +32,16 @@ make or constitute as first-born
 Deut 21:16
 (denominative of בכיר).
 
+@@SPLIT:stem@@
+
 Pu`al
 Imperfect
 יְבֻכַּר
 Lev 27:26
 
 born or made a firstling.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Participle

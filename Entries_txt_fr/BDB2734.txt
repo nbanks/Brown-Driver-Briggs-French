@@ -14,6 +14,7 @@ sagesse, DHM^Sendsch.57^ ; assyrien
 empêcher d'agir de manière mauvaise, juger, gouverner ; IV. rendre ferme, sain, exempt
 de défaut par l'exercice de l'habileté) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 ׳
@@ -64,6 +65,7 @@ avec accusatif שׁחכמתי
 Qo 2,19
 en quoi j'ai agi sagement.
 
+@@SPLIT:stem@@
 Pi`el
 Imparfait
 יְחַכֵּם
@@ -74,6 +76,7 @@ Jb 35,11
 Ps 119,98
 tous rendre sage, enseigner la sagesse, avec acc.
 
+@@SPLIT:stem@@
 Pu`al
 Participe
 rendu sage, intensif, pour ainsi dire l'incarnation de la sagesse חוֺבֵר חֲבָרִים
@@ -84,11 +87,13 @@ pluriel הֵמָּה
 Pr 30,24
 (d'animaux intelligents).
 
+@@SPLIT:stem@@
 Hiph`il
 Participe construit מַחְכִּימַת פֶּ֑תִי
 Ps 19,8
 rendant sage le simple.
 
+@@SPLIT:stem@@
 Hithpa`el
 Imparfait
 נִתְחַכְּמָה לוֺ

@@ -26,6 +26,8 @@ Jos 9,4 +, suffixe
 שַׂקֵּיהֶם
 Gn 42,35 —
 
+@@SPLIT:sense@@
+
 1.
 sac, pour le grain Gn 42,25 ; Gn 42,27 (|| אַמְתַּחַת), Gn 42,35 Gn 42,35 (
 
@@ -38,6 +40,8 @@ E
 ), peut-être aussi Lv 11,32 (
 P
 ).
+
+@@SPLIT:sense@@
 
 2.
 toile de sac :

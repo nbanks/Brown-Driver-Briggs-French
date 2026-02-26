@@ -15,6 +15,8 @@ Ezek 40:31;
 Ezek 40:34;
 Ezek 40:37
 
+@@SPLIT:sense@@
+
 1.
 ascent of hill or mountain: to a city 1Sam 9:11, to the royal sepulchers (in Jerusalem) 2Chr 32:33
 הַזֵּיתִית
@@ -41,6 +43,8 @@ south of valley of Achor, between Jerusalem and Jericho, compare modern Tel`at e
 בֵּית חוֺרֹן
 I. גּוּר, II. חֶרֶס, לוּחִית, II. ציץ
 .
+
+@@SPLIT:sense@@
 
 2. of stairs Ezek 40:31; Ezek 40:34; Ezek 40:37 to a wall Neh 12:27
 מַעֵלֵה הַלִּוִיִּם

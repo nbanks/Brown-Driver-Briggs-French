@@ -7,6 +7,7 @@ conseiller (seulement deux fois dans l'Hexateuque) (araméen יְעט ; arabe
 [placeholder2258: Placeholders/2258.gif]
 exhorter, admonester) —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier יָעַץ
 Es 7,5 + 11 t. ;
@@ -120,6 +121,7 @@ prophète
 Es 41,28,
 presque = agents (engagés par les adversaires de Juda) Esd 4,5.
 
+@@SPLIT:stem@@
 Niph`al (réfléchi ou réciproque) Parfait
 נוֺעַץ
 Es 40,14
@@ -167,6 +169,7 @@ suivi de לֵב יַחְדָּו (avec le cœur ensemble) Ps 83,6 presque = déc
 d'infinitif
 2 Ch 30,23.
 
+@@SPLIT:stem@@
 Hithpa`el
 Imparfait
 יִתְיָעֲצוּ

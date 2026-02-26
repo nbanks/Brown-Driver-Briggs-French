@@ -9,11 +9,15 @@ id.; Arabic
 [placeholder2466: Placeholders/2466.gif]
 measure grain) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect only Isa 40:12
 מִיכָּ֗֗֗ל בְּשָׁלִשׁ
 עֲפַר הָאָרֶץ
 who hath comprehended the dust of the earth in a shalish-measure?
+
+@@SPLIT:stem@@
 
 Pilpel
 Perfect
@@ -74,11 +78,15 @@ Prov 18:14
 Ps 112:5
 .
 
+@@SPLIT:stem@@
+
 Polpal
 Perfect 3 plural כָּלְכְּלוּ
 were supplied with food
 1Kgs 20:27
 (Klo proposes בַּגִּלְבֹּעַ).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imperfect

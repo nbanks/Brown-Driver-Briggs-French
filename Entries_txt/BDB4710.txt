@@ -11,6 +11,8 @@ Dl^HWB 416^; Arabic
 assign, apportion; Aramaic
 [placeholder3034: Placeholders/3034.gif], מְנָא); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 מָנָה
@@ -54,6 +56,8 @@ reckon, assign, appoint
 Isa 65:12
 (with play on מְנִי Isa 65:11).
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect
 נִמְנָה
@@ -86,6 +90,8 @@ be reckoned, assigned (a place), of servant of ׳
 Isa
 53:12 (with אֶת פּשְׁעִים).
 
+@@SPLIT:stem@@
+
 Pi`el (late and in poetry) (Biblical Aramaic and
 
 ᵑ7
@@ -115,6 +121,8 @@ story of Jonah, object. fish Jonah 2:1, ricinus Jonah 4:6 worm Jonah 4:7, wind J
 Ps 61:8
 (subject ׳
 י).
+
+@@SPLIT:stem@@
 
 Pu`al
 Participle plural מְמֻנִּים

@@ -21,6 +21,8 @@ Exod 22:20 + 9
 t., גֵּירִים
 2Chr 2:16 —
 
+@@SPLIT:sense@@
+
 1.
 sojourner, temporary dweller, new-comer (no inherited rights), compare Exod 12:19; Lev 24:16;
 Num 15:30;
@@ -50,6 +52,8 @@ H
 ) 1Chr
 29:15;
 Ps 39:13 (in all || תּוֺשָׁב) compare Ps 119:19.
+
+@@SPLIT:sense@@
 
 2. usually of גֵּרים in Israel 2Sam 1:13 (Amalekite) compare Josh 8:33; Josh 8:35 (
 E

@@ -5,6 +5,8 @@ Biblical Aramaic
 adjective
 living (Biblical Hebrew id); —
 
+@@SPLIT:sense@@
+
 1. of God: absolute ׳
 ח
 Dan 4:31, emphatic
@@ -13,6 +15,8 @@ Dan 6:21. 27; men,
 plural emphatic חַיַיָא
 the lilving
 Dan 2:30; Dan 4:14.
+
+@@SPLIT:sense@@
 
 2. plural as abstract noun life (Biblical Hebrew חַיִּים):
 חַיִּין

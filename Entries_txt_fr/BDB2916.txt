@@ -26,6 +26,7 @@ Es 2,4 =
 חֲנִיתֹתֵיהֶם
 Mi 4,3 —
 
+@@SPLIT:sense@@
 1.
 lance, comme projetée 1 S 18,10 ; 1 S 18,11 ; 1 S 19,9 ; 1 S 19,10 (deux fois dans le verset) ; 1 S 20,33
 tenue par le roi 1 S
@@ -56,6 +57,7 @@ Ps 35,3 ||
 קֶשֶׁת
 Ps 46,10.
 
+@@SPLIT:sense@@
 2.
 
 a.

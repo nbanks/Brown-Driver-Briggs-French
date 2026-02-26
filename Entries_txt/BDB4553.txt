@@ -8,10 +8,14 @@ change (Late Hebrew id., Hiph`il; Arabic
 [placeholder2925: Placeholders/2925.gif]
 buy or import food, Nö^ZMG xi. 1886, 154^); —
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect
 נָמָ֑ר (as if from מרר) be changed, Jer 48:11 subject
 רֵיחוֺ (of wine, figurative of Moab);
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect
@@ -62,6 +66,8 @@ object Lev
 above); without object Ezek 48:14 (but Ew
 Co
 יוּמַר, Hoph`al).
+
+@@SPLIT:stem@@
 
 Hoph`al
 Imperfect

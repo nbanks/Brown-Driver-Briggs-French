@@ -7,6 +7,7 @@ s'attarder, tarder (comparer arabe
 [placeholder2896: Placeholders/2896.gif]
 marche lente, retard (†am.)) ; —
 
+@@SPLIT:stem@@
 Hithpalpel
 Parfait 1 singulier הִתְמַהְמָ֑הְתִּי
 Ps 119,60

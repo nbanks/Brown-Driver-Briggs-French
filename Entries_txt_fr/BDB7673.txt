@@ -4,6 +4,7 @@ hébreu biblique
 [רָאַם] verbe (Masora Thes et autres)
 s'élever (si vera lectio, || forme de רום) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 féminin singulier רָאֲמָה
 Za 14,10,

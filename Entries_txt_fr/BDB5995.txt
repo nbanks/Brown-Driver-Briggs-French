@@ -10,6 +10,7 @@ Lzb^339^ ; araméen עֲטַר ; assyrien
 etêru
 , épargner, secourir) ; —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 2 masculin singulier suffixe כַּצִּנָּה רָצוֺן תַּעְטְרֶנּוּ
 Ps 5,13

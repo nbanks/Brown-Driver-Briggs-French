@@ -15,6 +15,7 @@ voir I.
 Ol
 We) ; —
 
+@@SPLIT:sense@@
 1.
 humilité, douceur
 Ps 45,5
@@ -23,6 +24,7 @@ Ps 45,5
 
 Now).
 
+@@SPLIT:sense@@
 2.
 condescendance
 Ps 18,36

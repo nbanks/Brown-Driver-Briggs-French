@@ -36,6 +36,8 @@ Ez 39,27 +
 6 t. ; suffixe אַרְצֹתָם
 Gn 10,5 + 2 t. ; —
 
+@@SPLIT:sense@@
+
 1.
 
 a.
@@ -90,6 +92,8 @@ terre = habitants de la terre Gn 6,11 ; 1 R 2,2 ; 1 R 10,24 ; Ps 33,8 ; Ps 66,4 
 Pr 8,31
 ;
 Jb 37,12.
+
+@@SPLIT:sense@@
 
 2.
 pays =
@@ -166,6 +170,8 @@ irƒit la târat
 , pays sans retour, dans la Descente d'Ishtar, voir Jr^10. 65^) ; voir aussi Ps 139,15 ; Es 44,23
 .
 
+@@SPLIT:sense@@
+
 3.
 
 a.
@@ -220,6 +226,8 @@ Esd
 ;
 Ne
 9,35.
+
+@@SPLIT:sense@@
 
 4.
 אֶרֶץ dans des locutions :
@@ -320,6 +328,8 @@ Es 41,5
 ;
 Es 41,9
 .
+
+@@SPLIT:sense@@
 
 5. pluriel אֲרָצוֺת est presque entièrement tardif, Jr 16,15 + 6 t. Jérémie ; 23
 t.

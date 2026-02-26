@@ -5,6 +5,7 @@ II. גָּלִיל
 nom masculin
 cylindre, barre, circuit, district ; —
 
+@@SPLIT:sense@@
 1.
 cylindre, barre, seulement pluriel construit גְּלִילֵי
 כֶסֶף
@@ -14,6 +15,7 @@ support de riches tentures (|| עַמּוּדֵי
 Ct 5,14,
 comparaison des (? doigts des) mains : cylindres d'or sertis de topaze.
 
+@@SPLIT:sense@@
 2.
 circuit, district, à la frontière nord d'Israël en Nephtali (voir ci-dessous), population largement
 païenne (hébreu tardif id. araméen גְּלִילָא,

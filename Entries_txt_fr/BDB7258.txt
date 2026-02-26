@@ -4,6 +4,7 @@ hébreu biblique
 [צָרַר] verbe
 dénominatif
 
+@@SPLIT:stem@@
 Hiph`il
 souffrir la détresse (spécifiquement de l'enfantement, comparer Jr 4,31 ; Jr 49,24) ; — Participe
 לֵב אִשָּׁה

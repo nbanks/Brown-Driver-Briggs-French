@@ -4,6 +4,8 @@ Biblical Hebrew
 סמן
 verb whence
 
+@@SPLIT:stem@@
+
 Niph`al
 Participle
 נִסְמָן

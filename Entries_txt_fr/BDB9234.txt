@@ -6,6 +6,8 @@ verbe
 saisir, manier ( = hébreu tardif תָּפַשׂ, תָּפַם, araméen
 תְּפַשׂ, תְּפַם) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Parfait 3 masculin singulier ׳
 ת
@@ -115,6 +117,8 @@ Nb 31,27
 P
 ) ceux habiles à la guerre. — Jr 34,8 voir ci-dessous
 
+@@SPLIT:stem@@
+
 Niph`al
 Parfait 3 masculin singulier נִתְפַּשׂ
 Ez 19,4
@@ -144,6 +148,8 @@ Jr 34,3
 
 qu'ils soient pris dans (ב) les machinations
 qu'ils ont ourdies.
+
+@@SPLIT:stem@@
 
 Pi`el
 Imparfait 2 masculin singulier תְּתַפֵּשׂ

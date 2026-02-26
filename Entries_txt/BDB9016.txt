@@ -19,6 +19,8 @@ look down upon, from
 [placeholder5723: Placeholders/5723.gif]
 rise); —
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect 3 feminine singular נִשְׁקְפָה
 Judg 5:28+,
@@ -51,6 +53,8 @@ Num 21:20
 We
 Dr
 HPS and others).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 masculine singular הִשְׁקִיף

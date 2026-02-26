@@ -4,6 +4,7 @@ hébreu biblique
 תֶּ֫רַח
 nom propre
 
+@@SPLIT:sense@@
 1.
 masculin
 père d'Abraham : (une espèce de bouquetin (comparer assyrien
@@ -32,6 +33,7 @@ Gn 11,24 ; 1 Ch 1,26
 
 Θαρα. — Voir Selbie^Hast. DB TERAH.^
 
+@@SPLIT:sense@@
 2. lieu étape sur le parcours de l'Exode
 Nb 33,27 ; Nb 33,28
 Ταραθ.

@@ -36,6 +36,7 @@ Ez 28,18
 Es 64,6 +, etc. (
 SS doutent de tous ceux-ci) ; —
 
+@@SPLIT:sense@@
 1.
 iniquité, Jb 15,5 ; Jb 20,27 ; Jr 11,10 ; Jr 14,7 ; Jr 16,17 ; Lm 2,14 ; Ez 7,13 || חטאת
 1 S 20,1 ; Jb 13,23 ;
@@ -261,6 +262,7 @@ Ps 130,8
 
 rançon de l'iniquité.
 
+@@SPLIT:sense@@
 2.
 Culpabilité de l'iniquité (pas toujours facile à distinguer de
 1 ; SS en donnent davantage, Buhl
@@ -369,6 +371,7 @@ Ez 18,17
 18,18 ;
 Ez 33,8 ; Ez 33,9.
 
+@@SPLIT:sense@@
 3.
 Conséquence de, ou châtiment pour, l'iniquité (SS
 incluent

@@ -28,6 +28,7 @@ trois classes ne soient pas clairement définies et qu'elles se chevauchent parf
 I.
 Dans :
 
+@@SPLIT:sense@@
 1. au sens strict, de position dans un lieu (souvent exprimé plus précisément
 par בְּקֶרֶב, בְּתוֺךְ), comme בַּבַּיִת
 dans la maison, בָּעִיר
@@ -60,6 +61,7 @@ aux oreilles de … ; être bon (ou mauvais, etc.) בְּעֵינֵי
 
 aux yeux de …
 
+@@SPLIT:sense@@
 2. de présence au milieu d'une multitude, parmi, Ex 14,28 il n'en resta pas
 
 בָּהֶם
@@ -115,6 +117,7 @@ Gn 17,23
 ; Ex
 12,19 ; Nb 31,11 ; Nb 31,26 ; Os 4,3.
 
+@@SPLIT:sense@@
 3. en référence aux limites enclosant un espace, à l'intérieur de :
 Ex 20,10
 בִּשְׁעָרֶיךָ
@@ -122,6 +125,7 @@ Ex 20,10
 בְּחוֺמוֺתַי
 à l'intérieur de mes murs.
 
+@@SPLIT:sense@@
 4. souvent pregnant avec des verbes de mouvement, quand le déplacement vers un lieu aboutit au
 repos dans celui-ci, dans : après בָּא
 Gn 19,8 ; Es 19,23
@@ -152,6 +156,7 @@ qu'hostile (Am 9,8
 ; Jb 7,8)
 .
 
+@@SPLIT:sense@@
 5. appliqué au temps, comme Gn 1,1
 בְּרֵאשִׁית
 au commencement ; Gn 2,2
@@ -160,6 +165,7 @@ le septième jour ; Jg 10,8
 בַּשָּׁנָה הַהִיא
 cette année-là ; et constamment.
 
+@@SPLIT:sense@@
 6. d'un état ou d'une condition, matérielle ou mentale, dans laquelle une action
 se déroule : ainsi souvent, בְּשָׁלוֺם
 en paix Gn 15,15
@@ -169,6 +175,7 @@ dans la détresse Ps 91,15
 בְּרָע
 en mauvaise posture.
 
+@@SPLIT:sense@@
 7.
 בְּ introduit le prédicat, le désignant comme ce en
 quoi le sujet consiste, ou en quoi il se manifeste (le Beth essentiae
@@ -253,6 +260,7 @@ sous la forme de, comme, la fumée Ps 78,33 ; Ps 102,4 ; Jb 34,36 ; Jb 36,14
 II.
 Dénotant la proximité —
 
+@@SPLIT:sense@@
 1.
 à, près de (peu fréquent) : 1 S 29,1
 בָּעַיִן
@@ -261,6 +269,7 @@ près de la source ; Ez 10,15 ; Ez 10,20
 près du fleuve Kebar (Ez 1,3
 עַל).
 
+@@SPLIT:sense@@
 2.
 sur :
 Gn 8,20
@@ -272,6 +281,7 @@ sur les cous des chameaux ; 1 R 2,5 et ailleurs בְּמָתְנָיו
 sur ses reins ; Es 59,17 un casque בְּראֹשׁוֺ
 sur sa tête.
 
+@@SPLIT:sense@@
 3. souvent avec des verbes de toucher, approcher, saisir, s'attacher
 , etc.,
 comme אָחַז, דָּבֵק, חָשַׁק, נָגַע,
@@ -280,6 +290,7 @@ comme אָחַז, דָּבֵק, חָשַׁק, נָגַע,
 (voir
 ces mots).
 
+@@SPLIT:sense@@
 4. avec des mots exprimant ou impliquant un acte d'hostilité —
 
 a.
@@ -345,6 +356,7 @@ Ps 7,17 (
 
 III.
 
+@@SPLIT:sense@@
 1.
 Avec —
 
@@ -397,6 +409,7 @@ dans la méchanceté ; Ps 90,10
 בִּגְבוּרֹת
 avec vigueur.
 
+@@SPLIT:sense@@
 2. de l'instrument ou du moyen : comme
 
 a.
@@ -528,6 +541,7 @@ Gn 34,15
 34,22 ;
 1 S 11,2 ; Es 27,9.
 
+@@SPLIT:sense@@
 3. du coût ou du prix (le Beth pretii), le prix, qu'il soit donné ou
 reçu,
 étant traité comme le moyen instrumental par lequel l'acte s'accomplit, avec, pour, au prix
@@ -602,6 +616,7 @@ et ailleurs ;
 1 Ch 27,1
 .
 
+@@SPLIT:sense@@
 4. assez particulièrement, dans certains cas où l'objet d'une action peut être traité comme
 l'instrument par lequel elle s'accomplit : comme הֵנַיעַ בְּראֹשׁ secouer
 la tête Jr 18,6 ; Jb 16,4 (aussi bien que הֵנִיעַ ראֹשׁ
@@ -648,6 +663,7 @@ Jb
 
 ^ ; Pr 20,30.
 
+@@SPLIT:sense@@
 5. avec une force causale, à cause de, en raison de :
 Gn 18,28
 
@@ -681,6 +697,7 @@ Ps 42,10
 , גָּלָל), et (parfois) dans בִּדְבַר
 à, par, la parole de ….
 
+@@SPLIT:sense@@
 6. du matériau avec lequel un ouvrage est fait, tant absolu
 עָשָׁה
 בַזָּהָב travailler avec l'or Ex 31,4 ; 1 R 7,14 que faire une chose
@@ -690,6 +707,7 @@ Sans verbe Lv
 13,52 ;
 2 Ch 9,18.
 
+@@SPLIT:sense@@
 7.
 avec pour bien que, malgré (comparer allemand bei
 
@@ -704,6 +722,7 @@ malgré tout cela Es 5,25 ; Es 9,11 ; Es 9,16 ; Es 9,20 ; Es 10,4 ; Ps 78,32 et
 ailleurs (comparer en arabe
 [placeholder488: Placeholders/488.gif] Qor 9,25.)
 
+@@SPLIT:sense@@
 8. d'une norme de mesure ou de calcul, avec, par :
 Ex 12,4
 בְּמִכְסַת נְפָשֹׁת
@@ -755,6 +774,7 @@ ou de la satisfaction, etc., comme גִּיל, עָלַץ
 
 שָׂבַע (mais avec ce verbe מִן est plus courant). [Probablement un cas de
 
+@@SPLIT:sense@@
 III. 5.]
 
 d. avec des verbes de perception sensible, pour
@@ -787,6 +807,7 @@ bien qu'
 en
 français il se rende couramment par un verbe et une conjonction, à savoir : —
 
+@@SPLIT:sense@@
 1. comme conjonction temporelle, comme Gn 2,4
 בְּהִבָּֽרְאָם
 lors de leur création = quand ils
@@ -816,6 +837,7 @@ laquelle on quitta l'Égypte (comparer 2 R 2,1, où le temps inclus est futur). 
 cette
 explication s'applique difficilement, comme Dt 27,4 ; Dt 24,12.
 
+@@SPLIT:sense@@
 2. comme conjonction causale (comparer ci-dessus III.5), comme Gn 19,16
 
 ׳
@@ -835,6 +857,7 @@ Ez 43,8 ;
 Ez 44,7 ;
 2 Ch 28,6.
 
+@@SPLIT:sense@@
 3. comme conjonction concessive, quand =
 bien que :
 Es 1,15

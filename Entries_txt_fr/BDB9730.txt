@@ -10,6 +10,8 @@ syriaque ; voir hébreu biblique II.
 שׂבר
 (tardif)) ; —
 
+@@SPLIT:stem@@
+
 Peal
 Imparfait 3 masculin singulier יִסְבַּר
 Dn 7,25, suivi

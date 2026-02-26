@@ -4,6 +4,7 @@ hébreu biblique
 II. [חֶ֫רֶס]
 nom propre [d'un lieu]
 
+@@SPLIT:sense@@
 1.
 demeure des Amorites, בְּהַרחֶֿרֶס בְּאַיָּלוֺן וּבְשַׁעַלְבִֿים
 Jg 1,35, puisque
@@ -20,6 +21,7 @@ Bla ;
 
 ἐν τῷ [ὄρει τοῦ] Μυρσινῶνι (-ος) = הַר הֲדַס.
 
+@@SPLIT:sense@@
 2. lieu à l'est du Jourdain מִלְמַעֲלֵה הֶחָ֑רֶס
 Jg 8,13
 de la montée de Hérès,

@@ -12,6 +12,7 @@ Qo 45,14) ;
 — ׳
 ת toujours absolu ; —
 
+@@SPLIT:sense@@
 1. le plus ancien et le plus fréquent comme adverbe, continuellement :
 
 a. d'une action se poursuivant sans interruption = continuellement, Os 12,7 ; Jr 6,7 ; Na 3,19 ; Es 21,8 ; Es 49,16 ; Es 51,13
@@ -94,6 +95,7 @@ comparer 1 Ch
 24,14
 .
 
+@@SPLIT:sense@@
 2. comme substantif :
 
 a. de la continuité ininterrompue, ׳

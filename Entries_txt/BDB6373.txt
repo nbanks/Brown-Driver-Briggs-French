@@ -17,6 +17,8 @@ Biblical Hebrew,
 עִירְיְתָא; Syriac
 [placeholder4069: Placeholders/4069.gif] in Lexicons); —
 
+@@SPLIT:stem@@
+
 Pi`el
 Perfect 3 masculine singular עֵרָה
 Isa 22:6; Zeph 2:14
@@ -53,6 +55,8 @@ pour out, אַלתְּֿעַר נַפְּשִׁי
 Ps 141:8
 (i.e. slay).
 
+@@SPLIT:stem@@
+
 Hiph`il
 Perfect 3 masculine singular ׃ הֶעֱרָה
 
@@ -68,12 +72,16 @@ Isa 53:12
 Qal
 3).
 
+@@SPLIT:stem@@
+
 Niph`al passive of
 Hiph`il
 2: 3 masculine singular יֵעָרֶה עָלֵינוּ רוּחַ
 Isa
 32:15 (figurative) until there be poured upon us a spirit from on
 high.
+
+@@SPLIT:stem@@
 
 Hithpa`el
 

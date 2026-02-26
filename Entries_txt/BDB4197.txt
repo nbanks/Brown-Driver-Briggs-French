@@ -5,6 +5,8 @@ Biblical Hebrew
 denominative
 tend vineyards, dress vines, only
 
+@@SPLIT:stem@@
+
 Qal
 Participle plural vinedressers
 כֹּרְמִים

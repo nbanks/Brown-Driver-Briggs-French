@@ -10,6 +10,7 @@ unir,
 [placeholder2205: Placeholders/2205.gif]
 mettre à part) —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 3 féminin singulier Gn 49,6
 בִּקְהָלָם אַלתֵּֿחַד כְּבוֺדִי dans leur assemblée que ma gloire ne soit pas unie
@@ -17,6 +18,7 @@ Imparfait 3 féminin singulier Gn 49,6
 תָּבאֹ נַפְשִׁי) ; 2 féminin singulier Es 14,20
 לֹא תֵחַד אִתָּם בִּקְבוּרָה.
 
+@@SPLIT:stem@@
 Pi`el
 Impératif
 Ps 86,11

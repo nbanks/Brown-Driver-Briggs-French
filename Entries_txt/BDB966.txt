@@ -3,6 +3,8 @@ Biblical Hebrew
 
 יְבוּסִי, יְבֻסִי
 
+@@SPLIT:sense@@
+
 1.
 adjective [of a people]
 Jebusite, Jebusites, singular אורנה הַיְבֻסִי
@@ -49,6 +51,8 @@ J
 also עִיר הַיְבוּסִי הַזּאֹת
 Judg 19:11
 whence
+
+@@SPLIT:sense@@
 
 2.
 Jerusalem, Hexateuch only

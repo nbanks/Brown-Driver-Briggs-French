@@ -4,6 +4,7 @@ hébreu biblique
 II. שָׁפָן
 nom propre, masculin Saf(f)an :
 
+@@SPLIT:sense@@
 1. secrétaire (הַסִּפֵר) sous Josias 2 R 22,3 ; 2 R 22,8 (deux fois dans le verset) ; 2 R 22,9 ; 2 R 22,10 (deux fois dans le verset) ;
 2 R 22,12 ;
 2 R 22,14 ;
@@ -11,19 +12,23 @@ nom propre, masculin Saf(f)an :
 (deux fois dans le verset) ;
 2 Ch 34,16 ; 2 Ch 34,18 (deux fois dans le verset) ; 2 Ch 34,20.
 
+@@SPLIT:sense@@
 2. père de אֲחִיקָם, contemporain de
 1 (improbable =
 1) : 2 R 22,12 ; 2 R 25,22 ; Jr 26,24 ; Jr 39,14 ; Jr 40,5 ; Jr 40,9 ; Jr 40,11 ; Jr 41,2 ; Jr 43,6 ; 2 Ch 34,20.
 
+@@SPLIT:sense@@
 3. père de אֶלְעָשָׂה
 Jr 29,3, peut-être
 = 2.
 
+@@SPLIT:sense@@
 4. père de גְּמַרְיָ֫הוּ
 Jr 36,10
 (appelé הַסִּפֵר), Jr 36,11 Jr 36,12, peut-être =
 1.
 
+@@SPLIT:sense@@
 5. père de יַאֲזַנְיָ֫הוּ
 Ez 8,11,
 peut-être = 1.

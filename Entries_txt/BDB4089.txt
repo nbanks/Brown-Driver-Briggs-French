@@ -7,6 +7,8 @@ also כנשׁ); Ethiopic
 [placeholder2566: Placeholders/2566.gif] in derived conjugation assemble for worship, etc.; Arabic
 [placeholder2567: Placeholders/2567.gif] is sweep, sweep away, destroy) —
 
+@@SPLIT:stem@@
+
 Qal (late) Perfect 1 singular כָּנַסְתִּי
 Eccl 2:8
 Imperative
@@ -31,6 +33,8 @@ stones Eccl 3:5
 (opposed to השׁליך); silver and gold = amass wealth Eccl 2:8 absolute Eccl 2:26 (||
 אסף).
 
+@@SPLIT:stem@@
+
 Pi`el
 Perfect 1 singular וְכִנַּסְתִּ֫י אֶתְכֶם
 Ezek 22:21
@@ -43,6 +47,8 @@ Ezek 22:20); of restoration וְכִנַּסְתִּים אֶלאַֿדְמָת�
 Ezek 39:28
 , and יְכַנֵּס
 Ps 147:2.
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Infinitive construct

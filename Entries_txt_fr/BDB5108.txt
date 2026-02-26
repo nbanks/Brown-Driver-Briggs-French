@@ -23,6 +23,7 @@ Es 49,8,
 נְחָלֹת
 Jos 19,51
 
+@@SPLIT:sense@@
 1.
 propriété :
 
@@ -201,6 +202,7 @@ aussi, la montagne sainte Ex 15,17 (cantique), temple Jr 12,7 ; Ps 79,1, pays Jr
 ; Jr
 50,11.
 
+@@SPLIT:sense@@
 2.
 portion, part :
 
@@ -220,6 +222,7 @@ b. par choix, || חֵלֶק, לנו בבן ישׁי
 
 nous n'avons pas de part dans le fils de Jessé = 1 R 12,16 = 2 Ch 10,16.
 
+@@SPLIT:sense@@
 3.
 héritage (45 t.) חֵלֶק וְנַחֲלָה
 בְּבֵית אָבִּינוּ

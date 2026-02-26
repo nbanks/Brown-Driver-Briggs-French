@@ -8,6 +8,7 @@ Jb 37,2
 grondement, rugissement, gémissement : — ׳
 ה absolu Ez 2,10 + 2 t. ; —
 
+@@SPLIT:sense@@
 1.
 un grondement, son rugissant
 מִפִּיו יֵצֵא
@@ -16,6 +17,7 @@ un grondement, son rugissant
 Jb 37,2 du
 tonnerre, comme son sortant de la bouche de Dieu.
 
+@@SPLIT:sense@@
 2.
 un gémissement
 וָהִי
@@ -24,6 +26,7 @@ un gémissement
 Ez 2,10
 lamentations et gémissement et malheur.
 
+@@SPLIT:sense@@
 3.
 un soupir ou gémissement, comme passager, כִּלִּינוּ שָׁנֵינוּ
 כְמוֺהֶֿ֑גֶה

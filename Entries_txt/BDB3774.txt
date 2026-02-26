@@ -26,6 +26,8 @@ Lane^2919^; Ethiopic
 Hiph`il
 4) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular יָשַׁב
 Gen 13:12 +;
@@ -625,6 +627,8 @@ Qr
 Jer 30:18
 .
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect 3 feminine singular נוֺשָׁ֑בָה
 Jer 6:8 3
@@ -662,6 +666,8 @@ Ezek 26:17 see above; Ezek 35:9 see
 Qal
 4.
 
+@@SPLIT:stem@@
+
 Pi`el
 Perfect 3 masculine plural וְיִשְּׁבוּ טִירוֺתֵיהֶם בָּ֑ךְ
 Ezek
@@ -676,6 +682,8 @@ and they shall set their encampments in thee (
 Co
 וְיֵשְׁבוּ
 inhabit.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 masculine singular השִׁיב
@@ -814,6 +822,8 @@ Ezra 10:17; Ezra 10:18; Neh 13:27 so השִׁיבוּ
 נָשִׁים אַשְׁדֳּו֯דִיּוֺת
 
 Neh 13:23.
+
+@@SPLIT:stem@@
 
 Hoph`al
 Perfect

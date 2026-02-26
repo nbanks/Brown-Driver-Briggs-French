@@ -7,6 +7,7 @@ aussi כנשׁ) ; éthiopien
 [placeholder2566: Placeholders/2566.gif] en conjugaison dérivée se rassembler pour le culte, etc. ; arabe
 [placeholder2567: Placeholders/2567.gif] est balayer, emporter, détruire) —
 
+@@SPLIT:stem@@
 Qal (tardif) Parfait 1 singulier כָּנַסְתִּי
 Qo 2,8
 Impératif
@@ -31,6 +32,7 @@ pierres Qo 3,5
 (opposé à השׁליך) ; argent et or = amasser des richesses Qo 2,8 absolu Qo 2,26 (||
 אסף).
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 1 singulier וְכִנַּסְתִּ֫י אֶתְכֶם
 Ez 22,21
@@ -44,6 +46,7 @@ Ez 39,28
 , et יְכַנֵּס
 Ps 147,2.
 
+@@SPLIT:stem@@
 Hithpa`el
 Infinitif construit
 כְּהִתְכַּנֵּסוְהַמַּסֵּכָה צָרָה

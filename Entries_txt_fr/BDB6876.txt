@@ -3,6 +3,8 @@ hébreu biblique
 
 II. [פָּתַח] verbe
 
+@@SPLIT:stem@@
+
 Pi`el
 graver (hébreu tardif Pi`el id., פִּתּוּחַ = hébreu
 biblique, ainsi
@@ -32,6 +34,8 @@ au verbe פִּתּוּחֵי חוֺתָם), sur pierre Ex 28,9 avec accusatif �
 sens apparenté au verbe Ex 28,11 (tous
 P
 ) ; avec accusatif de sens apparenté au verbe seulement, Za 3,9 (sur pierre), et, en général, 2 Ch 2,6 ; 2 Ch 2,13.
+
+@@SPLIT:stem@@
 
 Pu`al
 Participe féminin pluriel מְפֻתָּחֹת פִתּוּחֵי חוֺתָם

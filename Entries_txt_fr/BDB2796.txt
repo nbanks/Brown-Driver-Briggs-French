@@ -22,6 +22,7 @@ et son fils lui succéda ; éthiopien
 [placeholder1777: Placeholders/1777.gif]
 passer à côté, à travers) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 חָלַף
@@ -93,6 +94,7 @@ Es
 (|| עבר), (comparer arabe IV. rompre une
 promesse).
 
+@@SPLIT:stem@@
 Pi`el
 Imparfait
 וַיְחַלֵּף (faire passer) changer
@@ -101,6 +103,7 @@ E
 ) 2 S
 12,20.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait
 חֶחֱלִף

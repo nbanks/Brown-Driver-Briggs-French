@@ -3,6 +3,7 @@ hébreu biblique
 
 [שָׁעַן] verbe
 
+@@SPLIT:stem@@
 Niph`al
 s'appuyer, se soutenir ; — Parfait 3 masculin singulier consécutif וְנִשְׁעַן
 
@@ -28,11 +29,13 @@ sur, 2 S 1,6 ; 2 R 5,18 ; 2 R 7,2 ; 2 R 7,17, contre des colonnes Jg 16,26, une 
 Gn 18,4 (
 J
 ) ; poétique d'une falaise, לִגְּבוּל
-׳וְנִשׁ
+׳
+וְנִשׁ
 Nb 21,15
 s'appuie sur (contre) la frontière de Moab ; s'appuyer
 (figuré = faire confiance) sur, עַל personne roi Es 10,20 ; Ez 29,7 ; 2 Ch 16,7
-׳עַליֿ
+׳
+עַליֿ
 Mi 3,11 ; Es 10,20 ; 2 Ch 13,18 ;
 2 Ch 14,10 ;
 2 Ch 16,7 ; 2 Ch 16,8

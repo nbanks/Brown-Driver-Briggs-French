@@ -14,6 +14,7 @@ Vog^No. 55^ ; arabe
 [placeholder1257: Placeholders/1257.gif]
 inflatus, tumens (venter)) —
 
+@@SPLIT:stem@@
 Qal
 Parfait 2 masculin singulier וְהָדַרְתָּ֫
 Lv 19,32
@@ -67,12 +68,14 @@ orner, seulement participe passif orné, rendu splendide
 הָדוֺר בִּלְבוּשׁוֺ
 Es 63,1.
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 נֶהְדָּ֑רוֺ
 Lm 5,12
 n'ont (pas) été honorés, sujet פְּנֵי זְקֵנִים.
 
+@@SPLIT:stem@@
 Hithpa`el
 Imparfait jussif 2 masculin singulier תִּתְהַדַּר
 Pr 25,6

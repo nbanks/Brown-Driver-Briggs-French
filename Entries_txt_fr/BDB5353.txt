@@ -15,10 +15,12 @@ P
 sauf Dt
 4,16) :
 
+@@SPLIT:sense@@
 1.
 femme (ou fillette) Jr 31,22 (opposé à גֶּבֶר), Gn 1,27 ; Gn 5,2 ; Lv 12,5 ; Lv 12,7 ; Lv 15,33 ; Lv 27,4 ; Lv 27,5 ; Lv 27,6 ; Lv 27,7) Nb 5,3 (tous opposés à
 זָבָר), Nb 31,15.
 
+@@SPLIT:sense@@
 2.
 animal femelle
 Gn 6,19 ; Gn 7,3 ; Gn 7,9 ; Gn 7,16 ; Lv 3,1 ; Lv 3,6 (tous opposés

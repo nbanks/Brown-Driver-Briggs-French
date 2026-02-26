@@ -5,6 +5,8 @@ Biblical Hebrew
 [placeholder462: Placeholders/462.gif]
 found, establish)
 
+@@SPLIT:stem@@
+
 Hithpo`el
 וְהִתְאשָׁ֑שׁוּ
 Isa 46:8 (derived

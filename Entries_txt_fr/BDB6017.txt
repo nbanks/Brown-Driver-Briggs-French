@@ -4,6 +4,7 @@ hébreu biblique
 III. עַ֫יִן
 nom propre [d'un lieu]
 
+@@SPLIT:sense@@
 1.
 לָעָ֑יִן, sur la frontière nord-est de Canaan
 Nb 34,11,
@@ -12,6 +13,7 @@ Nb 34,11,
 
 ἐπὶ πηγάς
 
+@@SPLIT:sense@@
 2.
 
 a.

@@ -8,11 +8,13 @@ se dissoudre, fondre, intransitif (
 
 מְסַס ; comparer מסה, et II. מאס) ; —
 
+@@SPLIT:stem@@
 Qal. Infinitif construit
 מְסֹס נֹסֵס
 Es 10,18
 comme la fonte (le dépérissement) d'un נֹסֵס (q. v.)
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 וְנָמֵס consécutif Ez 21,12
@@ -57,6 +59,7 @@ sans valeur, littéralement rejeté (voir
 
 Niph`al)
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 pluriel הֵמַסּוּ אֶתלְֿבָבֵנוּ
 Dt 1,28

@@ -11,6 +11,7 @@ dépérir (hébreu tardif id.
 
 ) מְקַק) ; —
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 pluriel נָמַ֫קּוּ
 Ps 38,6, ׳
@@ -50,6 +51,7 @@ Ez 24,23
 33,10 ;
 Lv 26,39 (deux fois dans le verset).
 
+@@SPLIT:stem@@
 Hiph`il
 Infinitif absolu
 הָמֵק, transitif בְּשָׂרוֺ

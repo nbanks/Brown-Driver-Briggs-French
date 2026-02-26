@@ -13,6 +13,7 @@ Mi 4,3 + ; suffixe
 עֲצוּמָיו
 Ps 10,10 —
 
+@@SPLIT:sense@@
 1.
 puissant, surtout d'un peuple, fort en nombre (souvent || רַב
 , גָּדוֺל) Gn 18,18 ; Ex 1,9 + 3 t.
@@ -41,6 +42,7 @@ De
 Che
 Bae et autres).
 
+@@SPLIT:sense@@
 2.
 nombreux, innombrables (tous || רַב) : Am 5,12 ; Ps 35,18 comme substantif =
 beaucoup

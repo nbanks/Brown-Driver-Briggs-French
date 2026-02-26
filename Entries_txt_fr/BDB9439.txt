@@ -10,6 +10,8 @@ syriaque ; hébreu biblique II.
 זָחַל
 ] ; —
 
+@@SPLIT:stem@@
+
 Pe`al
 Participe
 actif pluriel דָּֽחְלִין
@@ -20,6 +22,8 @@ terrible
 Dn 2,31, féminin
 דְּחִילָה
 Dn 7,7 ; Dn 7,19.
+
+@@SPLIT:stem@@
 
 Pa`el
 Imparfait 3 masculin singulier suffixe וִידֵחֲלִנַּנִי

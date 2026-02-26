@@ -15,6 +15,7 @@ clameur, tapage (voir Nö^l.c^.) ; sur sabéen
 nom propre ריב = arabe
 [placeholder5060: Placeholders/5060.gif] voir DHM^ib. 14^) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier רָב
 Jg 11,25 ;
@@ -155,6 +156,7 @@ qui
 Jg 21,22 ;
 Jr 2,29 ; Jr 12,1 ; Jb 33,13.
 
+@@SPLIT:stem@@
 Hiph`il
 Participe suffixe מריבו
 1 S 2,10

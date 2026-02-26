@@ -37,6 +37,7 @@ pluriel רְגָלִים
 Ex 23,14 + 3
 t. (voir 2 ci-dessous) ; —
 
+@@SPLIT:sense@@
 1.
 pied :
 
@@ -223,6 +224,7 @@ Kt
 Es 7,20
 , c.-à-d. poils des parties intimes.
 
+@@SPLIT:sense@@
 2. pluriel seulement dans l'expression שָׁלשׁ רְגָלִים
 trois fois (pieds, pas, comparer פַּעַם)
 Ex 23,14 (

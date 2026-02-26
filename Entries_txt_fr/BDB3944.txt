@@ -17,6 +17,7 @@ DHM^ZMG 1875, 599, phénicien^
 כון
 être (souvent)) ; —
 
+@@SPLIT:stem@@
 Niph`al
 Parfait (sur 3 masculin singulier voir Participe ci-dessous), 3 féminin singulier
 נָכּ֫וֺנָה
@@ -195,6 +196,7 @@ comme encens) ; être arrangé, ordonné, du service du temple 2 Ch 29,35 ; 2 Ch
 ;
 2 Ch 35,16.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait
 הֵכִין
@@ -476,6 +478,7 @@ arranger, ordonner
 (de vases sacrés ; + הִקְדַּשְׁנוּ), 2 Ch 35,20 (du
 temple).
 
+@@SPLIT:stem@@
 Hoph`al
 Parfait
 הוּכַן
@@ -508,6 +511,7 @@ Pr 21,31 absolu Na 2,6
 Za 5,11
 .
 
+@@SPLIT:stem@@
 Poʿlel.
 Parfait 3 masculin singulier כּוֺנֵן
 Ps 9,8
@@ -621,6 +625,7 @@ Dt 32,10
 , voir Ol
 Di).
 
+@@SPLIT:stem@@
 Poʿlal.
 Parfait
 être établi :
@@ -647,6 +652,7 @@ B
 
 et d'autres
 
+@@SPLIT:stem@@
 Hithpo`el
 Imparfait ; être établi, d'une maison, 3 masculin
 singulier

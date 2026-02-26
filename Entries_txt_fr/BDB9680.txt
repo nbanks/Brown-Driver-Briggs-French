@@ -4,6 +4,8 @@ araméen biblique
 [מְרַט] verbe
 arracher (voir hébreu biblique) ; —
 
+@@SPLIT:stem@@
+
 Peil
 Parfait 3 masculin pluriel מְרִ֫יטוּ
 Dn 7,4

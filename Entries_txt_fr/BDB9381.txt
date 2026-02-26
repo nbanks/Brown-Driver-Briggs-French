@@ -7,6 +7,7 @@ demander, chercher, seulement Daniel (hébreu biblique
 בעה
 (rare)) ; —
 
+@@SPLIT:stem@@
 Peal
 Parfait 3 masculin singulier ׳
 ב
@@ -45,6 +46,7 @@ Dn 6,12,
 2.
 chercher, accusatif de personne Dn 2,13, accusatif de chose Dn 6,5.
 
+@@SPLIT:stem@@
 Pael
 Imparfait 3 masculin pluriel יְבַעוֺן (K^§
 47, 3^ ; M^sur le passage^

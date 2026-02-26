@@ -9,6 +9,8 @@ MI
 הרם; ? Arabic
 [placeholder1342: Placeholders/1342.gif], bruise, bray, pound, crush (grain)) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 ׳
@@ -109,6 +111,8 @@ followed by ׳
 J
 ).
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect 3 feminine singular נֶהֱרָ֑סָה
 Prov 24:31
@@ -147,6 +151,8 @@ Jer 31:40
 
 it shall not be plucked up nor thrown down, apparently proverb. expression, implying
 destruction, removal.
+
+@@SPLIT:stem@@
 
 Pi`el
 Imperfect 2 masculine singular suffix תְּהָֽרְסֵם

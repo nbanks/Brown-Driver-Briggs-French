@@ -19,6 +19,8 @@ suffix מְשִׁיחָ֑י
 Ps 105:15;
 1Chr 16:22 —
 
+@@SPLIT:sense@@
+
 1. king of Israel anointed by divine command, יהוה
 ׳
 מ
@@ -41,14 +43,20 @@ suffixes reference to ׳
 Ps 20:7; Ps 28:8; Hab 3:13 Davidic
 dynasty with Messianic ideals attached Ps 2:2; Ps 18:51, = 2Sam 22:51; Ps 89:39; Ps 89:52; Ps 132:10 = 2Chr 6:42; Ps 132:17; 1Sam 2:10; 1Sam 2:35.
 
+@@SPLIT:sense@@
+
 2. high priest of Israel, הַכֹּהֵן הַמָּשִׁיחַ, Lev 4:3; Lev 4:5; Lev 4:16; Lev 6:15 (
 P
 ); מְשִׁיחֶ֑ךָ
 Ps 84:10.
 
+@@SPLIT:sense@@
+
 3. Cyrus as commissioned by ׳
 י, מְשִׁיחוֺ
 Isa 45:1.
+
+@@SPLIT:sense@@
 
 4.
 Messianic prince, עַדמָֿשִׁיחַ נָגִיד
@@ -67,6 +75,8 @@ Gr
 Co
 Bev
 Behrm]).
+
+@@SPLIT:sense@@
 
 5. patriarchs, regarded as anointed kings Ps 105:15 = 1Chr 16:22.
 

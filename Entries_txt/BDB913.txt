@@ -9,6 +9,8 @@ separation, concrete part (
 לְבַדְּהֶן, Gen 21:29
 לְבַדָּ֫נָה; —
 
+@@SPLIT:sense@@
+
 1. with לְ, only in singular, לְבַד properly in a state
 of (see below לְ) separation, alone, by itself (French
 à part).
@@ -40,7 +42,7 @@ Exod 22:19;
 Judg 3:20; Ps 51:6
 לְךָ לְבַדְּךָ against thee alone have I sinned; a genitive Ps 71:16 I
 will
-make mention of צִדְקָֽתְךָ לְבֶַדּךָ׃ the righteousness of thee alone.
+make mention of צִדְקָֽתְךָ לְבֶַדּךָ׃ the righteousness of thee alone.
 
 c. as adverb of limitation, Isa 26:13
 only through thee do we celebrate thy name, Eccl 7:29.
@@ -99,6 +101,8 @@ suffix Deut 4:35
 Isa 45:21
 ).
 
+@@SPLIT:sense@@
+
 2. concrete part
 Exod 30:34
 (
@@ -107,6 +111,8 @@ P
 ) בַּד בְּבַד יִהְיֶה
 part for (i.e. like; compare בְּ
 III.3. end) part shall it be.
+
+@@SPLIT:sense@@
 
 3.
 בַּדִּים

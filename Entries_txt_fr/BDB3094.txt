@@ -11,12 +11,14 @@ guerre, bataille ; syriaque
 [placeholder1949: Placeholders/1949.gif]
 frapper, tuer) —
 
+@@SPLIT:stem@@
 Qal
 Impératif masculin singulier חֲרֹב
 Jr 50,21
 attaque (+ וְהַחֲרֵם אַחֲרֵיהֶם) ; masculin pluriel חִרְבוּ Jr 50,27 objet
 כָּלפָּֿרֶיהָ, figuré des hommes de Babylone.
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 pluriel נֶחֶרְבוּ המלכים (voir
 Hoph`al) הָחֳרֵב
@@ -24,6 +26,7 @@ Hoph`al) הָחֳרֵב
 les rois se sont attaqués les uns les autres, ont combattu ensemble (|| וַיַּכּוּ אִישׁ
 אֶתרֵֿעֵהוּ).
 
+@@SPLIT:stem@@
 Hoph`al
 Infinitif absolu
 2 R 3,23

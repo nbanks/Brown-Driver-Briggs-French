@@ -9,6 +9,7 @@ Gn 6,9 + ; pluriel
 צַדִּיקִים
 Ex 23,8 +, etc. ; —
 
+@@SPLIT:sense@@
 1.
 juste, droit, dans le gouvernement :
 
@@ -32,6 +33,7 @@ J
 voies Ps
 145,17.
 
+@@SPLIT:sense@@
 2.
 juste dans sa cause, ayant raison :
 Ex 23,7 ; Ex 23,8 (
@@ -57,6 +59,7 @@ en justice, non passible de peine 2 S 4,11 ; 1 R 2,32 innocent d'une faute spéc
 comparer 1 S
 24,18.
 
+@@SPLIT:sense@@
 3.
 juste, droit, dans la conduite et le caractère :
 
@@ -90,6 +93,7 @@ Ps 32,11 ;
 Ps 64,11 ;
 Ps 97,11.
 
+@@SPLIT:sense@@
 4. juste, comme justifié et défendu par ׳
 י, surtout serviteur de ׳
 י
@@ -108,6 +112,7 @@ Ps 1,5
 Ps 1,6 singulier collectif Ps 34,20 ; Ps 34,22 ; Ps 75,11 ; Es 24,16 ; Es 26,7 (deux fois dans le verset) ; גּוֺי צַדִּיק Es 26,2 (|| שֹׁמֵר
 אֱמֻנִים).
 
+@@SPLIT:sense@@
 5.
 juste, correct, Es 41,26 (comparer אֱמֶת
 Es 43,9) ;

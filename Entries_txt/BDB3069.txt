@@ -5,6 +5,8 @@ Biblical Hebrew
 verb only Pu`al
 cut in, carve (Late Hebrew represent, imitate; || חקק) —
 
+@@SPLIT:stem@@
+
 Pu`al
 Participle
 מְחֻקֶּה
@@ -24,6 +26,8 @@ Co
 substantive carved work
 1Kgs 6:35 (on
 doors of temple).
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Imperfect 2 masculine singular עלשָֿׁרְשֵׁי רַגְלַי תִּתְחַקֶּה

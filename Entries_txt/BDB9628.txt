@@ -5,6 +5,8 @@ Biblical Aramaic
 verb
 write (see Biblical Hebrew); —
 
+@@SPLIT:stem@@
+
 Pe`al
 Perfect 3 masculine singular ׳
 כ
@@ -17,6 +19,8 @@ accusative of thing; Participle
 active absolute feminine singular כָּֽתְבָה
 Dan 5:5, subject
 יְדָא, feminine plural כָּֽתְבָן Dan 5:5, subject אֶצְבְּעָן.
+
+@@SPLIT:stem@@
 
 Pe`il (
 W^CG 224^) Perfect 3 masculine singular

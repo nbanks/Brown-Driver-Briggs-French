@@ -4,6 +4,7 @@ hébreu biblique
 קָנָה
 nom propre
 
+@@SPLIT:sense@@
 1. du wadi entre Éphraïm et Manassé, ׳
 נַחַל ק
 Jos 16,8 ; Jos 17,9 (les deux
@@ -12,6 +13,7 @@ P
 ), Κα(ρα)να, Καναι, etc. ; identification par Rob BR iii. 135. avec le Wadi Kânah, au sud et au sud-ouest de
 Naplouse, comparer Buhl^Geogr. 101, 105.^
 
+@@SPLIT:sense@@
 2. lieu en Aser, Jos 19,28, Καν(θ)α(ν
 ), etc. ; probablement
 †âna

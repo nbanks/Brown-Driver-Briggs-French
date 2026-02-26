@@ -4,6 +4,7 @@ hébreu biblique
 III. יָבֵשׁ, יָבֵישׁ
 nom propre [d'un lieu ou d'une personne]
 
+@@SPLIT:sense@@
 1. nom propre [d'un lieu] יָבֵשׁ גִּלְעָד
 Jabès de Galaad,
 
@@ -35,6 +36,7 @@ L
 1 S 31,12 ;
 1 S 31,13.
 
+@@SPLIT:sense@@
 2. nom propre [d'une personne] יָבֵשׁ père de Shallum 2 R 15,10 ; 2 R 15,13 ; 2 R 15,14.
 
 ---

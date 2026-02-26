@@ -14,6 +14,8 @@ Dl^HWB 446^; Ethiopic
 
 נוֺגְהָא planet Venus) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 אוֺר
@@ -28,6 +30,8 @@ Imperfect
 ולאיִֿגַּהּ שְׁבִיב
 אִשּׁוֺ
 Job 18:5.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imperfect

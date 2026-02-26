@@ -12,6 +12,7 @@ boire (hébreu tardif id. ; assyrien
 DHM^ZMG xxxvii (1883), 403^
 Hom^Chr 124^) ; —
 
+@@SPLIT:stem@@
 Qal_216_
 Parfait 3 masculin singulier ׳
 שׁ
@@ -237,6 +238,7 @@ Est 3,15 ;
 Est 7,1 (comparer
 מִשְׁתֶּה).
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait 3 masculin singulier יִשָּׁתֶה
 Lv 11,34 (

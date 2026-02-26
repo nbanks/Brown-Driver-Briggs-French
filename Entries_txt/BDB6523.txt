@@ -4,6 +4,8 @@ Biblical Hebrew
 [פָּגַשׁ] verb
 meet, encounter (synonym פָּגַע); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 1 singular פָּגָ֑שְׁתִּי
 Gen 33:8 3 plural
@@ -29,11 +31,15 @@ meet, with accusative Gen 33:8; 1Sam 25:20; Isa 34:14; Jer 41:6, so with suffix 
 meet, encounter, of bear, with ב person Prov 17:12, of ׳
 י (like a bear) Hos 13:8 (with suffix person).
 
+@@SPLIT:stem@@
+
 Niph`al
 meet together, each other, Perfect 3 plural נִפְגָָּֽשׁוּ
 Prov 22:2; Prov 29:13,
 figurative of חֶסֶד וֶאֱמֶת
 Ps 85:11.
+
+@@SPLIT:stem@@
 
 Pi`el intensive Imperfect 3 masculine plural יְפַגְּשׁוּ חשֶׁךְ
 Job 5:14

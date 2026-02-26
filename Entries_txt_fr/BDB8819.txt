@@ -20,6 +20,8 @@ MI^28^
 
 obéissance) ; —
 
+@@SPLIT:stem@@
+
 Qal_1052_
 Parfait 3 masculin singulier ׳
 שׁ
@@ -411,6 +413,8 @@ P
 ) ; objet omis 2 R 22,19 ; Ps 22,23 + 3 t. + Ps 34,7 ; Ps
 34,18 (entendre et délivrer) ; avec proposition temporelle Jr 11,14
 
+@@SPLIT:stem@@
+
 Niphal_42_
 Parfait 3 masculin singulier נִשְׁמַע
 
@@ -471,6 +475,8 @@ Qal. comparer Now).
 = une audience (favorable)
 fut accordée à leur voix
 
+@@SPLIT:stem@@
+
 Pi`el
 Imparfait 3 masculin singulier וַיְשַׁמַּע
 
@@ -478,6 +484,8 @@ Imparfait 3 masculin singulier וַיְשַׁמַּע
 il fit entendre et répondre le peuple (accusatif), c.-à-d. il les rassembla), ainsi 1 S 23,8 (voir
 Hiph`il
 1.c.).
+
+@@SPLIT:stem@@
 
 Hiphil_63_
 Parfait 3 masculin singulier הִשְׁמִיעַ

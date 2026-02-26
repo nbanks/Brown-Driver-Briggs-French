@@ -33,6 +33,7 @@ suffixe כַּסְפֵּיהֶם
 Gn 42,25 ; Gn 42,35 —
 argent,
 
+@@SPLIT:sense@@
 1. = minerai d'argent, argent brut (rare et surtout tardif) Jb 28,1, aussi (au figuré) Ez 22,20 ; Ez 22,22 ; Za 13,9 ; Pr 2,4 ; Pr 17,3 ; Pr 27,21 ;
 Ml 3,3 (deux fois dans le
 verset) ; Ps 12,7 ;
@@ -65,10 +66,12 @@ Jr 6,29),
 כַּסְפֵּךְ הָיָה לְסִיגִים
 Es 1,22.
 
+@@SPLIT:sense@@
 2. argent comme brillant, luisant, figuré des ailes de la colombe כַּנְפֵי יוֺנָה נֶחְפָּה בַכֶּ֑סֶף
 
 Ps 68,14.
 
+@@SPLIT:sense@@
 3. argent, comme richesse, Gn 13,2 (
 J
 ) + souvent (env. 54 t. en tout ; fréquemment avec or, etc., voir
@@ -90,6 +93,7 @@ E
 כ
 argent de choix, Pr 18,19 ; Pr 10,20.
 
+@@SPLIT:sense@@
 4. argent comme butin de guerre (avec
 זהב
 , q. v.) Jg
@@ -97,14 +101,17 @@ argent de choix, Pr 18,19 ; Pr 10,20.
 8,11 =
 1 Ch 18,11 + 11 t.
 
+@@SPLIT:sense@@
 5. argent comme marchandise Ez 27,12 ; Pr 3,14 (׳
 סְחַרכֿ), So 1,12 comparer aussi 1 R 10,22 = 2 Ch 9,21.
 
+@@SPLIT:sense@@
 6. argent comme cadeau précieux (avec
 זהב
 , q. v.)
 1 R 15,18 ; 1 R 15,19 = 2 Ch 16,2 ; 2 Ch 16,3 ; 2 R 16,8 ; 2 R 18,15 ; 2 Ch 9,14 ; 2 Ch 17,11 ; 2 Ch 21,3 ; Es 60,9 ; Dn 11,38 (autres exemples sous 8).
 
+@@SPLIT:sense@@
 7. argent comme matériau (env. 117 t. en tout ; souvent avec
 זהב
 , q. v.), de coupe
@@ -122,6 +129,7 @@ J
 tabernacle Ex 26.
 27. 36. 38. (19 t.), et ceux offerts par les chefs du peuple Nb 7 (28 t.), etc.
 
+@@SPLIT:sense@@
 8. argent comme mesure de poids et de valeur (env. 184 t.) : —
 
 a. sicles : —
@@ -297,6 +305,7 @@ Lv 27,19
 c.-à-d.
 valeur estimée, etc.
 
+@@SPLIT:sense@@
 9. parmi les verbes et expressions avec ׳
 כ : — צרף
 éprouver, affiner, Za 13,9 ; Es 48,10 ; Ml 3,3 a Ps 12,7 ; Ps 66,10

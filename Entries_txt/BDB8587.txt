@@ -12,6 +12,8 @@ slay (but
 —
 ; is this loan-word in Arabic ?); Late Hebrew = Biblical Hebrew, especially in ritual); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular ׳
 שׁ
@@ -106,6 +108,8 @@ Qr
 Kt
 
 שׁוֺחֵט) hammered (i.e. sharpened) arrow.
+
+@@SPLIT:stem@@
 
 Niph`al
 Imperfect 3 masculine singular יִשָּׁחֵט

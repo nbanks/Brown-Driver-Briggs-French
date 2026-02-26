@@ -9,6 +9,8 @@ Arabic
 [placeholder2275: Placeholders/2275.gif] is put or lay (down, on a place, etc.), but
 [placeholder2276: Placeholders/2276.gif] = Aramaic ע) —
 
+@@SPLIT:stem@@
+
 Hiph`il
 Imperfect
 יַצִּיעַ
@@ -21,6 +23,8 @@ Isa 58:5
 Ps 139:8
 if I spread out Sh®°ôl
 (as my couch).
+
+@@SPLIT:stem@@
 
 Hoph`al
 Imperfect

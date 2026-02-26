@@ -4,10 +4,12 @@ hébreu biblique
 [תְּשׁוּבָה] nom féminin
 retour, réponse ; —
 
+@@SPLIT:sense@@
 1. suffixe וּתְשֻׁבָתוֺ הָרָמָ֫תָה
 1 S 7,17
 et son retour était (= il retournait) à Rama.
 
+@@SPLIT:sense@@
 2. surtout construit לִתְשׁוּבַת
 הַשָּׁנָה
 au retour de l'année, c.-à-d. du printemps, 2 S 11,1 ; 1 R 20,22 ; 1 R 20,26 ; 2 Ch 36,10, ׳
@@ -17,6 +19,7 @@ au retour de l'année, c.-à-d. du printemps, 2 S 11,1 ; 1 R 20,22 ; 1 R 20,26 ;
 1 Ch 20,1 (||
 2 S 11,1).
 
+@@SPLIT:sense@@
 3.
 réponse, pluriel absolu תְּשֻׁבֹת
 Jb 34,36,

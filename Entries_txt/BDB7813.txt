@@ -4,6 +4,8 @@ Biblical Hebrew
 רָ(א)מוֺת_26_
 proper name
 
+@@SPLIT:sense@@
+
 1. location Heights, Ramôth; —
 
 a.
@@ -79,6 +81,8 @@ Josh
 19:21
 
 ^).
+
+@@SPLIT:sense@@
 
 2.
 masculine

@@ -8,6 +8,7 @@ Pr 1,3 ailleurs
 Es 26,7 + 17 t. ;
 —
 
+@@SPLIT:sense@@
 1.
 égalité, niveau
 Es 26,7, du
@@ -20,6 +21,7 @@ Pr 23,31
 למ
 Ct 7,10.
 
+@@SPLIT:sense@@
 2. au sens éthique, droiture, équité, comme enseigné dans l'école de sagesse
 Pr 8,6, ||
 צֶדֶק
@@ -39,6 +41,7 @@ prendre plaisir à l'équité ; ׳
 Dn 11,6
 conclure un arrangement équitable.
 
+@@SPLIT:sense@@
 3. adverbe justement, avec חזה
 Ps 17,2
 אהב

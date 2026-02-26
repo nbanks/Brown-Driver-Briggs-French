@@ -16,12 +16,14 @@ distiller, tomber comme rosée ;
 [placeholder3243: Placeholders/3243.gif]
 tamiser) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 1 singulier ׳
 נַ֫פְתִּי מִשְׁכָּבִי מֹר וגו
 Pr 7,17
 j'ai aspergé ma couche de myrrhe, etc.
 
+@@SPLIT:stem@@
 Po`lel
 Imparfait 3 masculin singulier ׳
 יְנֹפֵף יָדוֺ הַר וגו
@@ -31,6 +33,7 @@ comparer
 Ges^«GKC:118f»§ 118f^. Da^Synt.
 § 69, R 2^).
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 masculin singulier הֵנִיף
 Jos 8,31 +, 2
@@ -156,6 +159,7 @@ pluie abondante tu as répandue [comparer
 ], mais le verbe n'est pas tout à fait approprié ; Lag
 Gr propose תַּטִּיף, pourtant cela aussi est douteux.
 
+@@SPLIT:stem@@
 Hoph`al
 Parfait 3 masculin singulier הוּנַף, être agité, Ex 29,27
 (

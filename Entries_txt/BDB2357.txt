@@ -19,6 +19,8 @@ Hos 12:6 +,
 זִכְרָם
 Deut 32:26 +: —
 
+@@SPLIT:sense@@
+
 1.
 remembrance, memory:
 
@@ -42,6 +44,8 @@ c. of ׳
 d.
 remembrance of particular days, i.e. their observance Esth 9:28 (הַפּוּרִים יְמֵי
 ).
+
+@@SPLIT:sense@@
 
 2.
 memorial, by which one is remembered:

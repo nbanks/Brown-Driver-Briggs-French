@@ -16,6 +16,8 @@ hold back (rare), follow, Pa`el investigate, search out:
 Ethiopic
 [placeholder4031: Placeholders/4031.gif] is keep, guard); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular Hos 12:4
 בַּבֶּטֶן עָקַב אֶתאָֿחִיו he attacked his brother at the heel
@@ -32,6 +34,8 @@ Jer 9:3
 
 πτερνίζω, to attack with the heel; but this dubious In 'supplant,' also, the
 figurative is a different one.]
+
+@@SPLIT:stem@@
 
 Pi`el
 Job 37:4

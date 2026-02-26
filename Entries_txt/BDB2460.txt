@@ -8,10 +8,14 @@ zarâmu
 Dl^Pr 73 & in^
 Zim^BP 119^) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 2 masculine singular suffix זְרַמְתָּם
 Ps 90:5
 thou floodest them with rain, sweepest them (men) away.
+
+@@SPLIT:stem@@
 
 Po.
 Perfect 3 plural זֹ֫רְמוּ מַ֫יִם עָבוֺת

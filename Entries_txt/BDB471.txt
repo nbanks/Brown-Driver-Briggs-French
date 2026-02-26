@@ -6,6 +6,8 @@ verb
 swear, curse (compare I. אלה ? so Thes
 Lag^Or ii. 3^) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 1Kgs 8:31 ( =
@@ -30,6 +32,8 @@ swear, take oath before God 1Kgs 8:31 ( = 2Chr 6:22); in covenants Hos 4:2; Hos 
 2.
 curse
 Judg 17:2.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imperfect

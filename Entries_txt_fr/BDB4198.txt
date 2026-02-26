@@ -4,10 +4,12 @@ hébreu biblique
 I. כַּרְמִי
 nom propre, masculin
 
+@@SPLIT:sense@@
 1.
 un fils de Ruben
 Gn 46,9 ; Ex 6,14 ; Nb 26,6 ; 1 Ch 5,3.
 
+@@SPLIT:sense@@
 2. un Judaïte
 Jos 7,1 ; Jos
 7,18 ; 1 Ch 2,7

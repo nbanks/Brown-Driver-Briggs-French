@@ -3,6 +3,8 @@ Biblical Hebrew
 
 II. [תָּלַל] verb
 
+@@SPLIT:stem@@
+
 Hiph`il
 mock, deceive, trifle with (perhaps akin to Arabic
 [placeholder5823: Placeholders/5823.gif]
@@ -26,6 +28,8 @@ Job 13:19 and
 (
 J
 ).
+
+@@SPLIT:stem@@
 
 Hoph`al
 Perfect 3 masculine singular הוּתַל

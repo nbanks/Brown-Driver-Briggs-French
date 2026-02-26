@@ -7,6 +7,8 @@ draw near, approach, less frequently synonym of
 קרב
 q. v. (Late Hebrew id. Hiph`il (rare) and derivatives ); —
 
+@@SPLIT:stem@@
+
 Qal_68_
 Imperfect
 יִגַּשׁ
@@ -148,6 +150,8 @@ Qal not in
 D
 .
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect
 נִגַּשׁ
@@ -195,6 +199,8 @@ J
 20:2 (|| קרב), Deut 21:5; Exod 34:32 (
 P
 ), so figurative of worship Isa 29:13.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 masculine singular suffix consecutive וְהִגִּישׁוֺ
@@ -319,6 +325,8 @@ who is made ruler of its fellows (other conjectures see Di
 Bu); Amos 9:10 read תִּגַּשׁ
 Qal q. v. ).
 
+@@SPLIT:stem@@
+
 Hoph`al
 Perfect 3 masculine plural לאֹלִֿנְחֻשְׁתַּיִם הֻגַּ֑שׁוּ
 
@@ -330,6 +338,8 @@ into) fetters; Participle
 Mal
 1:11
 it (impersonal) is offered to my name.
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Imperative masculine plural הִתְנַגְּשׁוּ

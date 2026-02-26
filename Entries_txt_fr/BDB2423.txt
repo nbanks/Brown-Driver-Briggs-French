@@ -13,6 +13,7 @@ Jb 16,18
 זַעֲקָתָם
 Es 15,5 + 3 t. ; —
 
+@@SPLIT:sense@@
 1.
 clameur, contre, זַעֲקַת
 ׳
@@ -22,6 +23,7 @@ Gn 18,20 (
 J
 ).
 
+@@SPLIT:sense@@
 2.
 cri de détresse, concernant quelque chose זַעֲקַתשֶֿׁבֶר
 Es 15,5
@@ -40,6 +42,7 @@ cri du pauvre ; ׳
 Es 65,19
 (|| קול בכי), Jr 51,54 ; Ez 27,28.
 
+@@SPLIT:sense@@
 3.
 clameur, vacarme
 זעקת מושׁל בַּכְּסִילִים

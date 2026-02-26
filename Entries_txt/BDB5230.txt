@@ -23,6 +23,8 @@ id., also Aramaic נוסחא (whence Arabic
 [placeholder3342: Placeholders/3342.gif]
 copy); —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 3 masculine singular ׳
 בְּית גֵּאִים יִסַּח י
@@ -41,6 +43,8 @@ transgressors shall (men) tear away from the land (read perhaps
 shall be torn away; || יִכָּרֵ֑תוּ; compare
 Ges^«GKC:144»§ 144^, 3b. R Da^Synt. § 108. b^
 ).
+
+@@SPLIT:stem@@
 
 Niph`al
 Perfect 2 masculine plural consecutive וְנִסַּחְתֶּם מֵעַל הָאֲדָמָה

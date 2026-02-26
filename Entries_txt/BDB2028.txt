@@ -10,6 +10,8 @@ grease, fat; Late Hebrew דִּשֵּׁן
 make fat, compare Late Hebrew דֶּשֶׁן
 fat) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular וְדָשֵׁן consecutive Deut 31:20 (
 J
@@ -17,12 +19,14 @@ J
 E
 ) figurative of Israel's prosperity.
 
+@@SPLIT:stem@@
+
 Pi`el
 Perfect
 דִּשַּׁנְתָּ
 Ps 23:5
 וְדִשְּׁנוּ consecutive Num 4:13
-Imperfect: יְדַשְּׁנֶהֶֿסּלָה
+Imperfect: יְדַשְּׁנֶהֶֿסּלָה
 Ps 20:4 volunt.
 (compare Ges^«GKC:48»§ 48^, 3
 De; but perhaps read suffix נֶהָ-, נָהּ- see Ki Gee^l.c^.); 3 feminine singular תְּדַשֶּׁןֿ
@@ -53,6 +57,8 @@ Exod 27:3 (
 P
 ).
 
+@@SPLIT:stem@@
+
 Pu`al
 Imperfect
 יְדֻשָּׁ֑ן
@@ -68,6 +74,8 @@ Isa 34:7
 figurative of prosperity of the liberal Prov 11:25, the diligent Prov 13:4, the
 trustful Prov
 28:25.
+
+@@SPLIT:stem@@
 
 Hothpa`al
 Perfect 3 feminine singular הֻדַּ֫שְׁנָה (compare

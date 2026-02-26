@@ -15,6 +15,7 @@ m¹har
 , guerrier entraîné
 Bondi^57^) ; —
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 féminin singulier נִמְהָ֑רָה
 Jb 5,13
@@ -32,6 +33,7 @@ Jb 5,13 ainsi
 participe comme substantif Es 32,4
 impétueux, des Chaldéens, Ha 1,6 (|| מַר).
 
+@@SPLIT:stem@@
 Pi`el
 Parfait
 מִהַר

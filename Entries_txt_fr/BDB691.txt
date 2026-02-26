@@ -21,6 +21,7 @@ Ps 78,43
 1 Ch 16,12 ;
 Ps 105,5 —
 
+@@SPLIT:sense@@
 1.
 prodige, comme manifestation spéciale de la puissance de Dieu Ex 7,3 ; Ex 11,9 ; Ps 105,5 ; 1 Ch 16,12 ; Jl 3,3 par Moïse et Aaron Ex 4,21 ; Ex 11,10
 comparer Ex 7,9
@@ -35,6 +36,7 @@ Ps 105,27
 י
 Ps 71,7.
 
+@@SPLIT:sense@@
 2.
 signe ou présage d'un événement futur (comparer אוֺת) 1 R 13,3
 (deux fois dans le verset) ;

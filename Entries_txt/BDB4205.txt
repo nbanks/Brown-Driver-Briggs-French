@@ -7,6 +7,8 @@ bow down (Late Hebrew id.; Aramaic כְּרַע; Arabic
 put one's mouth into water, or water-vessel; i.e. kneel to drink ? denominative from
 following ? —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 miles ׳
 כ
@@ -71,6 +73,8 @@ pregnant without נפל
 Isa 65:12,
 with תַּחַת
 Isa 10:4. —
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 masculine singular הִכְרִיעַ

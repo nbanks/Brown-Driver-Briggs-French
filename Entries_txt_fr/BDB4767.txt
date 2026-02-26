@@ -11,6 +11,7 @@ chuchoter, médire,
 [placeholder3059: Placeholders/3059.gif]
 perfidie, fraude) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier מָעַל
 Jos 22,20 + 4

@@ -4,6 +4,8 @@ Biblical Hebrew
 קָרַן
 verb
 
+@@SPLIT:stem@@
+
 Qal
 denominative of קֶרֶן
 5, send out rays; — Perfect 3 masculine singular קָרַן עוֺר
@@ -14,6 +16,8 @@ Exod 34:35 (
 
 P
 ).
+
+@@SPLIT:stem@@
 
 Hiph`il
 denominative of קֶרֶן

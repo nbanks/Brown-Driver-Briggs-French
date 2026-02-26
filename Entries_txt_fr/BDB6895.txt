@@ -7,6 +7,7 @@ hébreu biblique
 [placeholder4397: Placeholders/4397.gif] ; syriaque
 [placeholder4398: Placeholders/4398.gif]) ; —
 
+@@SPLIT:stem@@
 Qal
 Infinitif absolu du pain de פָּתוֺת אֹתָהּ פִּתִּים ׃מִנְתָה
 Lv 2,6.

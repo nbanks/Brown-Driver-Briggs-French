@@ -5,6 +5,7 @@ hébreu biblique
 porter du fruit (poésie) (araméen נוֺבָא
 fruit (rare)) ; —
 
+@@SPLIT:stem@@
 Qal
 Imparfait
 יָנוּב
@@ -17,6 +18,7 @@ Ps 62,11 si
 la richesse porte du fruit ; Pr 10,31
 פִּי צַדִּיק יָנוּב חָכְמָה
 porte le fruit de la sagesse.
+@@SPLIT:stem@@
 Polel
 Imparfait
 יְנוֺבֵב

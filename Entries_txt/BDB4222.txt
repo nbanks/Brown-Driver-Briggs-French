@@ -11,6 +11,8 @@ Kasdim = Chaldeans, Chaldea,
 from earlier (Babylonian) form [* Kašdu] — š before dental becoming l
 , Dl^Par 128 f.^ 200 f.; Assyrian Gr. § 51, 3; Schr^KGF 94ff.^; COT on Gen 11:28); —
 
+@@SPLIT:sense@@
+
 1.
 Chaldeans:
 
@@ -162,6 +164,8 @@ Chaldeans, as learned class, skilled in interpretations Dan 2:2 (+
 
 אַשָּׁפִים
 מְכַשְּׁפִים), Dan 2:4.
+
+@@SPLIT:sense@@
 
 2.
 Chaldea, וְהָֽיְתָה כַּשְׂדִּים לְשָׁלָל

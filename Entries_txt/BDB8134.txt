@@ -9,14 +9,20 @@ make hot; Aramaic רְתַח,
 [placeholder5201: Placeholders/5201.gif]
 boil); —
 
+@@SPLIT:stem@@
+
 Pi`el
 Imperative masculine singular רַתַּח causative Ezek 24:5
 cause to boil, bring to boiling, with accusative of thing.
+
+@@SPLIT:stem@@
 
 Pu`al
 Perfect 3 plural רֻתְּחוּ
 Job 30:27 my
 bowels have been made to boil without quiet (figurative of violent emotion).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imperfect 3 masculine singular יַרְתִּיחַ כַּסּיר מְצוּלָה

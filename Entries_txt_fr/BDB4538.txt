@@ -21,6 +21,7 @@ l'humidification est suggérée, cela peut peut-être dériver d'agiter, desserr
 dissoudre.
 —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 3 féminin singulier תָּמוּג 46,7 ; וַתָּמוֺג
 Am 9,5 2
@@ -53,6 +54,7 @@ Es 64,6
 voir
 ci-dessus)
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 נָמוֺג
@@ -68,6 +70,7 @@ se liquéfier, figuré pour être impuissant, désorganisé (par la terreur, etc
 1 S 14,16 (comparer We
 Dr), Jr 49,23, comparer Na 2,7 ; Es 14,31 ; Ps 75,4.
 
+@@SPLIT:stem@@
 Polel.
 amollir, dissoudre, actif : seulement Imparfait 2 masculin singulier suffixe (sujet Dieu) :
 בִּרְבִיבִם
@@ -84,6 +87,7 @@ Ha 3,6 pour
 
 Polel.
 
+@@SPLIT:stem@@
 Hithpolel Parfait 3 pluriel הִתְמֹגָָֽגוּ
 Na 1,5
 Imparfait 3 féminin singulier תִּתְמוֺגָ֑ג

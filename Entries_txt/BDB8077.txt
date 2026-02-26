@@ -8,6 +8,8 @@ murder, slay (Late Hebrew (rare, also in derivatives) = Biblical Hebrew; compare
 [placeholder5161: Placeholders/5161.gif]
 break, bruise, crush); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular consecutive ׳
 וְר
@@ -54,6 +56,8 @@ in verse); Num 35:19
 Num 30:31 also
 Job 24:14.
 
+@@SPLIT:stem@@
+
 Niph`al
 Imperfect 1 singular אֵרָצֵחַ
 Prov 22:13
@@ -61,6 +65,8 @@ I shall be slain; Participle feminine singular as adjective אִשָּׁה הַ�
 
 Judg 20:4
 the murdered woman.
+
+@@SPLIT:stem@@
 
 Pi`el (intensive) murder, assassinate: 3 masculine plural יְרַצְּחוּ
 
@@ -72,6 +78,8 @@ Ps 94:6
 murderer, assassin; plural מְרֵצְּחִים
 Isa 1:21
 assassins.
+
+@@SPLIT:stem@@
 
 Pu`al
 Imperfect, 2 masculine plural תְּרָצְּחוּ

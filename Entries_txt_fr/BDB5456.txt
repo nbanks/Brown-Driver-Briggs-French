@@ -4,6 +4,7 @@ hébreu biblique
 [נָתַס] verbe
 démolir, abattre (= נָחַץ) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 pluriel נָָֽתְסוּ נְתִיבָתִי
 Jb 30,13

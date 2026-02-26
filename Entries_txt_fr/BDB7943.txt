@@ -14,6 +14,7 @@ frapper, viser un coup ; araméen רְמָא,
 [placeholder5082: Placeholders/5082.gif]
 jeter, lancer) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier ׳
 ר, sujet ׳

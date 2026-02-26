@@ -13,6 +13,8 @@ Arabic
 protect Qor 21:43 compare Ba^ZMG 1887, 605 Anm. 4^
 ) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular suffix כְּלָאוֺ
 Jer 32:3 3
@@ -96,6 +98,8 @@ probably also v^a^ (read טָ֑ל for
 (that is, exiles)
 Isa 43:6 (|| תְּנִי).
 
+@@SPLIT:stem@@
+
 Niph`al
 Imperfect
 וַיִּכָּלֵא הַגֶּשֶׁם מִןהַֿשָּׁמַיִם
@@ -110,6 +114,8 @@ Exod 36:6 (
 
 P
 ).
+
+@@SPLIT:stem@@
 
 Pi`el [Perfect כִּלָּא and] Infinitive construct
 לְכַלֵּא see

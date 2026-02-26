@@ -17,6 +17,7 @@ Gn 37,8 (suffixes
 I. singulier discours, propos, parole, mot, comme la somme de ce qui
 est dit :
 
+@@SPLIT:sense@@
 1.
 des hommes,
 
@@ -209,6 +210,7 @@ le récit de sa grande puissance
 Jb
 41,4.
 
+@@SPLIT:sense@@
 2.
 parole de Dieu, comme communication divine sous forme de commandements, prophétie, et paroles
 de
@@ -482,6 +484,7 @@ peuple, dans leur bouche et leur cœur Dt 30,14 une lampe à leurs pieds Ps 119,
 II.
 parole, énoncé, sentence, comme section d'un discours : —
 
+@@SPLIT:sense@@
 1.
 des hommes,
 
@@ -604,6 +607,7 @@ visés ; dans le
 dernier cas ce sont des actes, IV. 2, voir
 Dr^Intr 497^.)
 
+@@SPLIT:sense@@
 2.
 de Dieu :
 עֲשֶׂרֶת הַדְּבָרִים
@@ -671,6 +675,7 @@ Ps 119,139 promesses 2 S 7,28 ; Ne 9,8, comparer
 III.
 un mot, des mots : —
 
+@@SPLIT:sense@@
 1.
 des hommes :
 שָׂפָה אֶחָ֑ת
@@ -721,6 +726,7 @@ et quel murmure de parole nous entendons de lui !
 
 Jb 26,14.
 
+@@SPLIT:sense@@
 2.
 de Dieu. Il est difficile de déterminer combien des suivants
 devraient
@@ -765,6 +771,7 @@ Za 1,6
 IV.
 affaire, chose dont on parle : —
 
+@@SPLIT:sense@@
 1.
 affaire, occupation :
 דְּבַר הַמֶּלֶךְ
@@ -831,6 +838,7 @@ Dn
 2 Ch 9,24
 .
 
+@@SPLIT:sense@@
 2. pluriel actes construit דִּבְרֵי
 
 1 R 11,41
@@ -899,6 +907,7 @@ Ps 105,27,
 
 Ps 145,5.
 
+@@SPLIT:sense@@
 3.
 affaire, chose :
 דבר אוריה
@@ -934,6 +943,7 @@ Dt 19,4
 1 R 6,38
 quant à tous ses détails.
 
+@@SPLIT:sense@@
 4.
 événements, choses : dans l'expression, אחר הדברים האלה
 
@@ -966,6 +976,7 @@ J
 2 Ch
 32,1.
 
+@@SPLIT:sense@@
 5.
 cause, cas pour enquête judiciaire : כִּייִֿהְיֶה
 
@@ -994,6 +1005,7 @@ comparer Jos
 20,4
 .
 
+@@SPLIT:sense@@
 6.
 quelque chose, quoi que ce soit (indéfini) : עשׂה דבר
 faire une chose
@@ -1066,6 +1078,7 @@ nudité d'une chose, c.-à-d. chose impure ou indécente
 
 Dt 24,1.
 
+@@SPLIT:sense@@
 7.
 manière, façon :
 זֶה דְּבַר הַשְּׁמִטָּה
@@ -1134,6 +1147,7 @@ J
 1 S 2,23
 (mais habituellement le pluriel = ces paroles).
 
+@@SPLIT:sense@@
 8.
 raison, cause :
 זֶּה דְבַרהַֿמַּס

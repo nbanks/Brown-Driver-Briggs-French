@@ -8,6 +8,8 @@ grow strong (
 
 Syriac; Biblical Hebrew, q. v., (late)) —
 
+@@SPLIT:stem@@
+
 Pe`al
 Perfect 3 masculine singular תְּקִ֑ף, of tree, Dan 4:8; Dan 4:17 2 masculine singular תְּקֵמְתְּ
 
@@ -15,6 +17,8 @@ Dan 4:19 of king;
 3 feminine singular תְִּקַפַת
 Dan 5:20
 figurative grow arrogant, of spirit of man.
+
+@@SPLIT:stem@@
 
 Pa`el
 make strong, stringent: Infinitive

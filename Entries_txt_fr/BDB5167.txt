@@ -27,6 +27,7 @@ Co
 Berthol Toy ; pluriel construit מַטָּעֵי
 Mi 1,6 —
 
+@@SPLIT:sense@@
 1.
 lieu de plantation, מַטָּעֵי
 כָ֑רֶם
@@ -47,12 +48,14 @@ Berthol Toy c.-à-d. lieu de plantation paisible (fructueux)
 Ez 17,7 =
 plates-bandes où il était planté.
 
+@@SPLIT:sense@@
 2. acte de plantation
 ׳
 נֵצֶר מ
 Es 60,21
 rejeton de sa (ma) plantation (figuré du peuple).
 
+@@SPLIT:sense@@
 3.
 ׳
 י

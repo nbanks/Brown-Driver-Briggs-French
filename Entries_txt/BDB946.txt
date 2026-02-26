@@ -11,6 +11,8 @@ Hpt^KAT 499, Ethiopic^
 [placeholder527: Placeholders/527.gif]
 return) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 בָּא
@@ -531,6 +533,8 @@ a ship going to Tarshish; go to war
 Num 32:6
 .
 
+@@SPLIT:stem@@
+
 Hiph`il
 Perfect
 הֵבִיא
@@ -921,6 +925,8 @@ bring, procure
 בְּנַפְשֵׁנוּ נָבִיא לַחְמֵנוּ
 
 Lam 5:9.
+
+@@SPLIT:stem@@
 
 Hoph`al
 Perfect

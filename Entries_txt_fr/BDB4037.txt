@@ -45,6 +45,7 @@ Gn 42,36 ; Pr 31,29
 1 R 7,37 : —
 le tout,
 
+@@SPLIT:sense@@
 1. avec génitif suivant (comme habituellement) le tout de, à rendre cependant
 souvent dans notre idiome, pour éviter la raideur, tout ou chaque :
 
@@ -413,6 +414,7 @@ avec celui-ci (étant l'idée réellement importante), p. ex. Gn 5,5
 כָֹּל הַנְּשָׁמָה תְּהַלֵּל les exceptions étant très rares, Es 64,10b Pr 16,2 (Ges
 ^«GKC:141»§ 141^. 1 R. 2).
 
+@@SPLIT:sense@@
 2. Absolument :
 
 a. sans l'article, toutes choses, tout

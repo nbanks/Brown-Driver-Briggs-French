@@ -4,11 +4,13 @@ hébreu biblique
 אֶשְׁכֹּל
 nom propre
 
+@@SPLIT:sense@@
 1.
 masculin
 un Amorite, frère de Mamré, habitant aux environs d'Hébron
 Gn 14,13 ; Gn 14,24.
 
+@@SPLIT:sense@@
 2. en combinaison נַחַל אֶשְׁכֹּל
 Nb 13,23 ; Dt 1,24
 אֶשְׁכּוֺל

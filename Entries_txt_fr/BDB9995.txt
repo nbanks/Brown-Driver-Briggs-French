@@ -11,10 +11,12 @@ syriaque ; hébreu biblique
 שׁוּב
 ) ; —
 
+@@SPLIT:stem@@
 Pe`al
 Imparfait 3 masculin singulier יְתוּב, avec עַל personne, de l'éclat
 (זִיו) du visage Dn 4,33 b, de la connaissance v.Dn 4,31 v.Dn 4,33 a.
 
+@@SPLIT:stem@@
 Haph`el
 Parfait 3 masculin singulier הֲתִיב
 Dn 2,14 3

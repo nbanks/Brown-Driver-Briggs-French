@@ -10,6 +10,7 @@ t. ; suffixe תַּמָּתִי
 Ct 5,2 ; Ct 6,9 (tardif, sauf
 Gn 25,27) ; —
 
+@@SPLIT:sense@@
 1.
 complet, parfait : en beauté Ct 5,2 ; Ct 6,9 de force physique Ps 73,4 (lire לָ֑מוֺ תָּם
 Ew
@@ -18,6 +19,7 @@ Dr^Sam. xxxi^
 Che
 Bae et autres).
 
+@@SPLIT:sense@@
 2.
 sain, intègre :
 אישׁ תָּם, de Jacob comme habitant de tentes, opposé à Ésaü, chasseur, Gn 25,27 (
@@ -32,6 +34,7 @@ RV
 plain man ; ׳
 ת ici peut-être rédactionnel, = 3).
 
+@@SPLIT:sense@@
 3.
 complet, moralement innocent, ayant l'intégrité :
 אִישׁ תָּם

@@ -3,6 +3,7 @@ hébreu biblique
 
 סֻכּוֺת_18_
 nom propre [d'un lieu] ; —
+@@SPLIT:sense@@
 1.
 סֻכֹּ֫תָה (ה locatif) Gn 33,17 (deux fois dans le verset) (
 J
@@ -36,6 +37,7 @@ Dêr `alla, 1 mille au nord du Jabboq Nbr^Geogr. du Talm. 248^
 Gn 33 comparer
 Psaumes).
 
+@@SPLIT:sense@@
 2.
 סֻכֹּ֫תָה (ה locatif) Ex 12,37, ailleurs סֻכֹּת ; — première station
 d'Israël à l'Exode,

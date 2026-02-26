@@ -4,6 +4,7 @@ hébreu biblique
 אַחַר proprement substantif la partie postérieure ou suivante
 (comparer le pluriel)
 
+@@SPLIT:sense@@
 1.
 adverbe
 
@@ -43,6 +44,7 @@ P
 Nb 5,26 et
 ailleurs
 
+@@SPLIT:sense@@
 2.
 préposition
 
@@ -86,6 +88,7 @@ RV
 en outre ; mais texte probablement corrompu, voir Be
 Ry.
 
+@@SPLIT:sense@@
 3.
 conjonction
 אַחַר אֲשֶׁר
@@ -103,12 +106,14 @@ Pluriel seulement construit אַחֲרֵי avec suffixe אַחֲרַי
 ,
 אַחֲרֶיךָ, etc.
 
+@@SPLIT:sense@@
 1.
 substantif
 partie postérieure
 2 S 2,23
 בְּאַחֲרֵי הַחֲנִית avec le bout postérieur de la lance.
 
+@@SPLIT:sense@@
 2.
 préposition
 
@@ -250,6 +255,7 @@ local
 וְאַחֲרֵיהֶם בְּפִיהֶם יִרְצוּ et après eux (c.-à-d. les suivant,
 les imitant) les hommes applaudissent leurs paroles, comparer Jb 21,33.
 
+@@SPLIT:sense@@
 3.
 conjonction
 אַחֲרֵי אֲשֶׁר
@@ -267,6 +273,7 @@ courante de אחרי est comme préposition avec l'infinitif construit) Jos 2,7
 סָפַר
 voir Dr.
 
+@@SPLIT:sense@@
 4. avec d'autres prépositions : —
 
 a.

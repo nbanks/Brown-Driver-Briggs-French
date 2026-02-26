@@ -10,6 +10,7 @@ haïr, avoir en horreur, reculer devant, Aphel mettre en fuite, etc. ;
 נְדַד
 fuir ) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 féminin singulier נָָֽדְדָה
 Es 10,31 ;
@@ -71,17 +72,20 @@ j'errerai au loin.
 
 4. transitif battre des ailes (d'un oiseau, en figure) Es 10,14.
 
+@@SPLIT:stem@@
 Po`el
 Parfait consécutif שֶׁמֶשׁ זָָֽרְחָה וְנֹדַ֔ד
 Na 3,17 le
 soleil s'est levé et il (l'essaim de sauterelles) s'enfuit.
 
+@@SPLIT:stem@@
 Hiph`il
 chasser, Imparfait 3 masculin pluriel suffixe וּמִתֵּבֵל יְנִדֻּ֑הוּ
 
 Jb 18,18
 (du méchant, || יֶהְדְּפֻהוּ מֵאוֺר).
 
+@@SPLIT:stem@@
 Hoph`al
 être chassé, Imparfait 3 masculin singulier וְיֻדַּד כְּחֶזְיוֺן
 
@@ -97,6 +101,7 @@ HPS
 ׳
 ק).
 
+@@SPLIT:stem@@
 Hithpo`el
 Imparfait
 יִתְנוֺדְדוּ

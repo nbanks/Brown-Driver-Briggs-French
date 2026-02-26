@@ -8,10 +8,12 @@ garder, s'attacher à, se familiariser avec ; araméen אֲלַף,
 [placeholder235: Placeholders/235.gif], apprendre,
 [placeholder236: Placeholders/236.gif], Pa enseigner).
 
+@@SPLIT:stem@@
 Qal
 Imparfait 2 masculin singulier תֶּאֱלַף אֹרְחֹתָו֯
 Pr 22,25
 
+@@SPLIT:stem@@
 Pi`el
 enseigner, suivi d'accusatif
 יְאַלֵּף פִּיךָ

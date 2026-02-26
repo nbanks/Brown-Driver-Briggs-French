@@ -31,6 +31,7 @@ pieux, lire ירתא
 pieux
 Vog^No. 29^) —
 
+@@SPLIT:stem@@
 Qal
 Impératif
 יְדוּ אֶלֿ
@@ -38,6 +39,7 @@ tirez (des flèches) sur
 Jr 50,14
 (lire probablement, avec quelques manuscrits יְרוּ).
 
+@@SPLIT:stem@@
 Pi`el
 Imparfait
 וַיַּדּוּ בִּי
@@ -47,6 +49,7 @@ et ils ont jeté (des pierres) sur moi ; Infinitif
 Za 2,4
 pour abattre (les cornes des nations).
 
+@@SPLIT:stem@@
 Hiph`il (lien avec ידה
 jeter, obscur, pourtant voir ci-dessus) Parfait
 הוֺדוּ
@@ -226,6 +229,7 @@ Pr 28,13
 celui qui confesse et abandonne (ses transgressions ; opposé à מְכַסֶּה
 ).
 
+@@SPLIT:stem@@
 Hithpa`el
 Parfait
 הִתְוַדָּה

@@ -30,6 +30,7 @@ Dn 9,16 ; Ps 103,10,
 חֲטָאֵיכֶם
 Es 1,18 —
 
+@@SPLIT:sense@@
 1.
 péché :
 
@@ -59,6 +60,7 @@ Ps 51,11
 et il est dit dans la foi, tu jetteras derrière ton dos tous mes péchés
 Es 38,17.
 
+@@SPLIT:sense@@
 2.
 culpabilité du péché :
 היה חטא ב
@@ -88,6 +90,7 @@ Ps 103,10
 
 ce n'est pas selon nos péchés (leur culpabilité) qu'il nous a traités.
 
+@@SPLIT:sense@@
 3.
 châtiment du péché :
 ׳

@@ -9,14 +9,20 @@ rendre chaud ; araméen רְתַח,
 [placeholder5201: Placeholders/5201.gif]
 bouillir) ; —
 
+@@SPLIT:stem@@
+
 Pi`el
 Impératif masculin singulier רַתַּח causatif Ez 24,5
 faire bouillir, amener à ébullition, avec accusatif de chose.
+
+@@SPLIT:stem@@
 
 Pu`al
 Parfait 3 pluriel רֻתְּחוּ
 Jb 30,27 mes
 entrailles ont été mises en ébullition sans repos (figuré d'une émotion violente).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imparfait 3 masculin singulier יַרְתִּיחַ כַּסּיר מְצוּלָה

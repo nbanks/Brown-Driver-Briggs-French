@@ -14,6 +14,8 @@ to meet, opposite; Arabic
 put part to part; Minaean קרא
 set opposite, Hom^Chrest. 127^); —
 
+@@SPLIT:stem@@
+
 Qal_131_
 Perfect_53_ masculine singular suffix קְרָאַנִי
 Jer 13:22;
@@ -102,6 +104,8 @@ befall with accusative of person, bad sense Gen 42:4; Gen 42:38; Deut 31:29; Jer
 ; Jer
 44:23; Isa 51:19; Job 4:14; Lev 10:19 of war Exod 1:10 (see above) in general, Gen 49:1.
 
+@@SPLIT:stem@@
+
 Niph`al
 meet unexpectedly; Perfect 3 masculine singular נִקְרָא, with
 עַל person
@@ -115,6 +119,8 @@ with שָׁם, chanced to be there; Imperfect of bird's nest Deut 22:6 (
 נִקְרֹא see
 קרה
 .
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imperfect 2 masculine singular וַחַקְרֵא

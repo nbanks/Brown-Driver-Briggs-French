@@ -9,6 +9,7 @@ corrompre (
 (une fois), syriaque
 [placeholder6169: Placeholders/6169.gif] ; hébreu biblique [שָׁחַת]) ; —
 
+@@SPLIT:stem@@
 Pe`al
 Participe passif féminin singulier שְׁחִיתָה
 Dn 2,9

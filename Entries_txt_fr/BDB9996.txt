@@ -10,6 +10,8 @@ verbe
 id., syriaque
 [placeholder6188: Placeholders/6188.gif]) ; —
 
+@@SPLIT:stem@@
+
 Pe`al
 Parfait 3 masculin singulier ׳
 ת

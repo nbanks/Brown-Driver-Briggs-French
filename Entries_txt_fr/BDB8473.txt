@@ -12,6 +12,8 @@ expulser ; assyrien
 šadâdu
 est tirer, traîner) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Parfait 3 pluriel consécutif וְשָֽׁדְדוּ
 Ez 32,12
@@ -78,10 +80,14 @@ Ab 1,5 (||
 GASm ; ennemi personnel Jb 15,21 représentant le méchant en général Jb 12,6 (|| מַרְגִּיזֵי
 אֵל).
 
+@@SPLIT:stem@@
+
 Niph`al
 Parfait 1 pluriel שָׁדוֺד נְשַׁדֻּנוּ (Ges
 ^«GKC:67u»§ 67u^
 Kö^i. 342 s.^) nous sommes totalement ruinés.
+
+@@SPLIT:stem@@
 
 Pi`el
 Imparfait 2 masculin singulier אַלתְּֿשַׁדֵּד רִבְצוֺ
@@ -92,6 +98,8 @@ comme substantif מְשַׁדֶּדאָֿב
 Pr 19,26
 
 celui qui assaille, maltraite (son) père (|| יַבְרִיחַ אֵם).
+
+@@SPLIT:stem@@
 
 Pu`al
 Parfait 3 masculin singulier שֻׁדַּד
@@ -110,6 +118,8 @@ Za 11,33
 violemment : Imparfait 3 masculin singulier יְשֹׁרֵד מַצֵּבוֺתָם
 Os 10,2 (||
 יַעֲרֹף מִוְבְּחֹתָם).
+
+@@SPLIT:stem@@
 
 Hoph`al
 Imparfait (ou

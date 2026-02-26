@@ -4,10 +4,12 @@ araméen biblique
 [דְּקַק] verbe
 être brisé, tomber en morceaux (hébreu biblique) ; —
 
+@@SPLIT:stem@@
 Pe`al
 Parfait 3 masculin pluriel דָּקוּ
 Dn 2,35.
 
+@@SPLIT:stem@@
 Haph`el
 mettre en pièces : Parfait 3 féminin singulier הַדֶּ֫קֶת
 Dn 2,34 ; Dn 2,45, 3

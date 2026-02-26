@@ -36,6 +36,8 @@ Lag^BN 116^) ; — שְׂמאֹל absolu, Gn 13,9 +, construit Gn 48,13 ; 2 R 23
 Gn 48,13 +,
 etc. ; — opposé à יָמִין sauf Gn 14,15 ; Jg 19,27 ; 2 R 23,8 —
 
+@@SPLIT:sense@@
+
 1.
 gauche, région à gauche, Gn 13,9 (
 J
@@ -75,6 +77,8 @@ Za 12,6, ׳
 ׳
 שׂ seul 1 S 6,12 ; Es 9,20 + 13 t.
 
+@@SPLIT:sense@@
+
 2.
 ׳
 יַדשֿׂ
@@ -88,6 +92,8 @@ E
 3,16 ; Dn 12,7
 ; Ct 2,6 ;
 Ct 8,3.
+
+@@SPLIT:sense@@
 
 3. = nord (à gauche de celui qui fait face à l'est, comparer
 אָחוֺר

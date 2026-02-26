@@ -13,6 +13,8 @@ Deut 15:8 plural
 suffix מַחְסֹרֶיךָ
 Prov 24:34 —
 
+@@SPLIT:sense@@
+
 1.
 need = thing needed
 דֵּי מַחְסֹרוֺ
@@ -24,6 +26,8 @@ verb); עָלָ֑י
 Judg 19:20
 all thy need be upon me (for me to provide).
 
+@@SPLIT:sense@@
+
 2.
 lack, want
 כָּלדָּֿבָר
@@ -31,6 +35,8 @@ lack, want
 אֵין מ
 Judg 18:10
 no lack of anything, Judg 19:19; Ps 34:10.
+
+@@SPLIT:sense@@
 
 3. in general, need, poverty
 Prov 6:11 (||

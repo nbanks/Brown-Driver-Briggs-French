@@ -4,6 +4,7 @@ hébreu biblique
 [מָעַד] verbe
 glisser, déraper, chanceler, trembler (seulement hébreu) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 pluriel מָֽעֲדוּ
 2 S 22,37 =
@@ -18,6 +19,7 @@ glisser, sujet pieds, (figuré) 2 S 22,37 = Ps 18,37 ; Jb 12,5 sujet אֲשֻׁ�
 Ps 37,31
 comparer Ps 26,1.
 
+@@SPLIT:stem@@
 Pu`al
 Participe
 מוּעָ֑דֶת ( = ׳
@@ -35,6 +37,7 @@ actif voir Schw^ZAW x, 1890, 176^
 Pr
 25,19 (comparaison de ce qui n'est pas digne de confiance).
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait
 וְהִמְעַדְתָּ֫ (lire ainsi pour HCT והעמדת, comparer Sm

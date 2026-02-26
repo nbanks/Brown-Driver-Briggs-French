@@ -8,6 +8,7 @@ Ps 9,5,
 דִּינֵךְ
 Jr 30,13 —
 
+@@SPLIT:sense@@
 1.
 כסא דין
 trône de jugement
@@ -16,6 +17,7 @@ Pr 20,8
 du ciel tu as fait entendre le jugement
 Ps 76,9.
 
+@@SPLIT:sense@@
 2.
 cause, plaidoyer, בין דין לדין
 entre plaidoyer et plaidoyer
@@ -44,6 +46,7 @@ Jr 5,28
 דין כל בני חֲלוֺף
 Pr 31,8.
 
+@@SPLIT:sense@@
 3.
 jugement, condamnation, דין רשׁע
 jugement du méchant
@@ -51,12 +54,14 @@ Jb 36,17
 דין ומשׁפט
 jugement et justice Jb 36,17.
 
+@@SPLIT:sense@@
 4.
 querelle, דין וקלון
 Pr 22,10
 (querelle juridique, procès
 Str).
 
+@@SPLIT:sense@@
 5.
 gouvernement, דת ודין
 loi et gouvernement

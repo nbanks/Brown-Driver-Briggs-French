@@ -11,6 +11,7 @@ imparfait), 1 S 3,7 a
 (v:b imparfait), et בְּטֶרֶם
 Ps 90,2 ; Pr 8,25) : —
 
+@@SPLIT:sense@@
 1.
 טֶרֶם dans une proposition indépendante, pas encore, Gn 2,5 et toutes les plantes des champs
 טרם יהיה בארץ n'étaient pas encore sur la terre, etc., Gn 19,4
@@ -20,6 +21,7 @@ pas encore s'étaient-ils couchés, quand etc., Gn 24,15 ; Gn 24,45 ; Nb 11,33 ;
 avant que, Ex 12,34 ils prirent leur pâte טרם יחמץ
 avant qu'elle fût levée, Jos 3,1 ; Ps 119,67 du temps futur Es 65,24. Plus fréquemment
 
+@@SPLIT:sense@@
 2.
 בְּטֶרֶם_39_, avec la même valeur : du temps passé, Gn 27,33 j'ai mangé de tout בטרם תבא
 avant que tu vinsses, Gn 37,18 ; Gn 41,50 ; Jg 14,18 ; 1 S 2,15 ; Jr 1,5 ; Jr 47,1 ; Ez 16,57 ; Ps 90,2 ; Pr 8,25 (tous deux avec le parfait) ; plus souvent du présent ou du futur, comme Gn 27,4
@@ -38,6 +40,7 @@ We
 בְּטֶרֶם לאֹ
 תֵהְיוּן כְּמוֺץ עֹבֵר, sans יוֺם, « avant que vous deveniez comme la bale qui passe »).
 
+@@SPLIT:sense@@
 3.
 מִטֶּרֶם
 Ag 2,15 (suivi de

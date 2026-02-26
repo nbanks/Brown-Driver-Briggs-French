@@ -21,6 +21,7 @@ Kt
 ; Kö^ii. 1, 61^ dérive ces formes plurielles de [
 קָ֑צוּ]) ; —
 
+@@SPLIT:sense@@
 1.
 extrémité, des coins de la grille Ex 38,5 (|| קְצוֺתָיו
 Ex 27,4),
@@ -30,10 +31,12 @@ ci-dessus (tous
 P
 ) ; extrémités de la terre Ps 65,9.
 
+@@SPLIT:sense@@
 2.
 מִקְצָת (une partie) de l'extrémité de, une partie de (מִן
 3.b.) Ne 7,69 (ainsi hébreu tardif), Dn 1,2.
 
+@@SPLIT:sense@@
 3.
 ׳
 מִק

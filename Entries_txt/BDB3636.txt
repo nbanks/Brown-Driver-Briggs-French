@@ -7,6 +7,8 @@ advise, counsel (only twice in Hexateuch) (Aramaic יְעט; Arabic
 [placeholder2258: Placeholders/2258.gif]
 exhort, admonish) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular יָעַץ
 Isa 7:5 + 11 t.;
@@ -120,6 +122,8 @@ prophet
 Isa 41:28,
 nearly = agents (hired by adversaries of Judah) Ezra 4:5.
 
+@@SPLIT:stem@@
+
 Niph`al (reflexive or reciprocal) Perfect
 נוֺעַץ
 Isa 40:14
@@ -166,6 +170,8 @@ Neh 6:7; Isa 45:21
 followed by לֵב יַחְדָּו (with heart together) Ps 83:6 nearly = determine, followed
 by infinitive
 2Chr 30:23.
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Imperfect

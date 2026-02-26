@@ -18,6 +18,8 @@ Exod 16:31 + 4
 t.; טַעְמֵךְ
 1Sam 25:33 —
 
+@@SPLIT:sense@@
+
 1.
 taste of manna Exod 16:31 (
 P
@@ -28,6 +30,8 @@ J
 E
 ), compare
 Num 11:8 in juice of purslain Job 6:6 of Moab under figure of wine Jer 48:11 (|| רֵיחַ).
+
+@@SPLIT:sense@@
 
 2.
 figurative
@@ -45,6 +49,8 @@ change, disguise one's judgement, sense
 1Sam 21:13;
 Ps 34:1, of
 David feigning madness.
+
+@@SPLIT:sense@@
 
 3. (late Aramaism, compare Dan 3:10 etc.) decision, decree
 טַעַם מֶלָךְ וּגְּדֹלָיו

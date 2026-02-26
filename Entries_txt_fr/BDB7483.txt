@@ -11,6 +11,7 @@ Gn 17,12 + ;
 suffixe מִקְנָתוֺ
 Lv 25,16 + ; —
 
+@@SPLIT:sense@@
 1.
 achat, מִקְנַת כֶּסֶף
 Gn 17,12 ;
@@ -27,11 +28,13 @@ Jr 32,11 ;
 Jr 32,12
 (deux fois dans le verset) ; Jr 32,14 ; Jr 32,16.
 
+@@SPLIT:sense@@
 2.
 prix d'achat, Lv 25,16 (deux fois dans le verset) ; Lv 25,51 ; Lv 27,22 (
 P
 ).
 
+@@SPLIT:sense@@
 3.
 possession (acquise par achat), לְמִקְנָה
 Gn 23,18 (

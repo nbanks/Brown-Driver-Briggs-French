@@ -7,10 +7,12 @@ Esd 5,8 ; Dn 2,49, construit
 עֲבִידַת
 Esd 4,24 + ; —
 
+@@SPLIT:sense@@
 1.
 travail, de la construction du temple, Esd 4,24 ; Esd 5,8 ; Esd 6,7 = administration
 Dn 2,49 ; Dn 3,12.
 
+@@SPLIT:sense@@
 2.
 rituel, service, de Dieu Esd 6,18.
 

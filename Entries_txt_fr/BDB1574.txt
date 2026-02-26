@@ -4,6 +4,7 @@ hébreu biblique
 III. [גּוּר] verbe
 redouter (comparer יָגֹר) —
 
+@@SPLIT:stem@@
 Qal
 Imparfait
 וַיָּגָר

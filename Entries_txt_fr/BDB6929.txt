@@ -6,6 +6,8 @@ entasser (hébreu tardif id. ; araméen צְבַר syriaque
 [placeholder4428: Placeholders/4428.gif] est bavarder, divaguer ; arabe
 [placeholder4429: Placeholders/4429.gif] est rassembler, lier ensemble ; comparer en outre Dozy) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Imparfait 3 masculin singulier יִצְבֹּר
 Gn 41,35 ; Ps 39,7 3 féminin

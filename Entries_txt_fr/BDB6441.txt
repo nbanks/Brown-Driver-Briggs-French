@@ -33,6 +33,7 @@ t. ; féminin pluriel עֲשָׂרֹת
 Ex 18,21 + 2
 t. ; — sur le pluriel עֶשְׂרִים, 20, voir ci-dessous ; —
 
+@@SPLIT:sense@@
 1.
 a dix, seulement féminin pluriel dizaines dans l'expression ׳
 שָׂרֵי ע
@@ -44,6 +45,7 @@ E
 ), Dt
 1,15.
 
+@@SPLIT:sense@@
 2.
 dix, pour énumérer personnes ou choses, habituellement sans autre nombre :
 
@@ -152,6 +154,7 @@ Bu), + אֲלָפִים
 ׳
 ע (c.-à-d. sicles) Jg 17,10.
 
+@@SPLIT:sense@@
 3. rarement + autre nombre :
 
 a.
@@ -167,7 +170,7 @@ E
 ), Jg 2,8
 .
 
-b.
+a.
 ׳
 ע avant un nombre plus grand עֶשֶׂר שָׁנִים וּתְשַׁע מֵאוֺת שָׁנָה
 Gn 5,14 (

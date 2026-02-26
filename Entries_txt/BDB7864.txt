@@ -7,6 +7,8 @@ love.
 Pi`el
 have compassion; —
 
+@@SPLIT:stem@@
+
 Qal Imperfect 1 singular suffix אֶרְחָֽמְךָ
 Ps 18:2
 I love thee (perhaps gloss; see not in || 2Sam 22:2
@@ -14,6 +16,8 @@ Hi
 Ch
 SS
 Gerber read אֲרֹמִמְךָ).
+
+@@SPLIT:stem@@
 
 Pi`el
 Perfect 3 masculine singular רִחַם
@@ -63,6 +67,8 @@ Jer 50:42
 elsewhere of children, with accusative Isa 13:18; Isa 49:15 with עַל
 Ps 103:13
 .
+
+@@SPLIT:stem@@
 
 Pu`al
 Perfect 3 feminine singular רֻחָ֑מָה

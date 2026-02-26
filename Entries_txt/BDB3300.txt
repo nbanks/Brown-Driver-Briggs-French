@@ -5,6 +5,8 @@ Biblical Hebrew
 noun [masculine]
 purity, purifying —
 
+@@SPLIT:sense@@
+
 1.
 purity, כְּעֶצֶם הַשָּׁמַיִם לָטֹּ֫הַר
 Exod 24:10
@@ -13,6 +15,8 @@ J
 
 E
 ), as the body of heavens for purity.
+
+@@SPLIT:sense@@
 
 2. suffix יְמֵי טָהֳרָהּ
 Lev 12:4; Lev 12:6

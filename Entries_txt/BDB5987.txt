@@ -6,6 +6,8 @@ grasp (Arabic
 [placeholder3820: Placeholders/3820.gif],
 [placeholder3821: Placeholders/3821.gif] I, VII. take with hands); —
 
+@@SPLIT:stem@@
+
 Qal
 Infinitive absolute + Participle
 active suffix וְעֹטְךָ עָטֹה

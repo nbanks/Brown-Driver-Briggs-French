@@ -9,6 +9,7 @@ frapper, sonner du cor ; éthiopien
 [placeholder5869: Placeholders/5869.gif]
 sonner de la trompette) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier ׳
 ת
@@ -125,6 +126,7 @@ Pr 17,18
 ;
 Pr 22,26 absolu Pr 11,15.
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait 3 masculin singulier
 

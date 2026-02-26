@@ -4,11 +4,13 @@ hébreu biblique
 בָּנִי
 nom propre, masculin
 
+@@SPLIT:sense@@
 1.
 un des héros de David
 2 S 23,36
 בָּנִי הַגָּדִי (|| 1 Ch 11,38 a בֶּןהַֿגְרִי, mais voir Dr^Sm^).
 
+@@SPLIT:sense@@
 2. Lévites,
 
 a.
@@ -32,6 +34,7 @@ pour
 Esd 5,26
 Καδμιηλου καὶ Βαννου.
 
+@@SPLIT:sense@@
 3. un homme de Juda 1 Ch 9,4 (מִן) בָּנִי
 
 Qr
@@ -40,10 +43,12 @@ Kt
 
 בנימן).
 
+@@SPLIT:sense@@
 4.
 Esd 2,10 lire
 בִּנּוּי comparer || Ne 7,15.
 
+@@SPLIT:sense@@
 5. chefs de familles d'Israël
 
 a.
@@ -57,6 +62,7 @@ Esd 10,34
 
 mais lire peut-être בִּנּוּי ou בִּגְּוַי comparer ci-dessus
 
+@@SPLIT:sense@@
 6. un Israélite Esd 10,38. — (בני comme nom propre palmyrénien Vog^No. 94^.)
 
 ---

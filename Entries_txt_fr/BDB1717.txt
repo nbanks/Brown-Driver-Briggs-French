@@ -9,8 +9,10 @@ suffixe גַּעֲרָֽתְךָ
 Ps 18,16 +
 (suffixes 6 t.) ; —
 
+@@SPLIT:sense@@
 1. de l'homme Pr 13,1 ; Pr 13,8 ; Pr 17,10 ; Qo 7,5 ; Es 30,17 (deux fois dans le verset).
 
+@@SPLIT:sense@@
 2. de Dieu Jb 26,11 ; Ps 18,16 (= 2 S 22,16) Ps 76,7 ; Ps 80,17 ; Ps 104,7 ; Es 50,2 ; Es 51,20 ; Es 66,15.
 
 ---

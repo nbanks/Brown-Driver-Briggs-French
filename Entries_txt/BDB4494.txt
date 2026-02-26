@@ -11,6 +11,8 @@ ma°âsu
 is perhaps destroy
 Meissn^Suppl. 55^); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular מָאַס
 Isa 8:6 + 4 t; suffix
@@ -32,7 +34,7 @@ Ps 36:5; Job 36:5 suffix
 Hos 4:6 (so Baer, compare De^Complut. Var. 18 f.^
 ; not ׳
 וָא
-van d. H) read וְאֶמְאסְךָ; 3 masculine plural
+van d. H) read וְאֶמְאסְךָ; 3 masculine plural
 יִמְאֲסוּ
 Jer 6:19 + 2 t.;
 יִמְאָס֑וּן
@@ -182,6 +184,8 @@ Symm
 
 Bö
 אֶמָּאֵס) Ezek 21:18 (but see above). —
+
+@@SPLIT:stem@@
 
 Niph`al
 be rejected: Imperfect

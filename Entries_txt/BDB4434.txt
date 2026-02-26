@@ -11,6 +11,8 @@ jest (Late Hebrew Hiph`il id.;
 [placeholder2837: Placeholders/2837.gif]
 play, sport, jest); — only
 
+@@SPLIT:stem@@
+
 Hiph`il
 Participle
 ׳

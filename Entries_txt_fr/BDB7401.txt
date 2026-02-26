@@ -13,6 +13,7 @@ cueillir des raisins ;
 ‡atâpu
 , apparemment arracher) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier קָטָ֑ף
 Ez 17,4
@@ -27,6 +28,7 @@ de) ; Participe masculin pluriel הַקֹּטְפִים
 Jb 30,4
 ceux qui arrachent la mauve.
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait 3 masculin singulier יָקָּטֵב
 Jb 8,12

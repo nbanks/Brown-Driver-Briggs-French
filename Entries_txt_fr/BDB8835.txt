@@ -4,6 +4,7 @@ hébreu biblique
 I. שִׁמְעִי_43_
 nom propre, masculin habituellement Σευεει :
 
+@@SPLIT:sense@@
 1. dans Benjamin :
 
 a.
@@ -30,6 +31,7 @@ b.
 
 2. un Ramathite 1 Ch 27,27.
 
+@@SPLIT:sense@@
 3. lévites :
 
 a. « fils » de Guershon Ex 6,17 ; Nb 3,18 ; 1 Ch 6,2 ; 1 Ch 23,7 ; 1 Ch 23,9 ; 1 Ch 23,10 (deux fois dans le verset)
@@ -58,20 +60,25 @@ g.
 Esd 10,23
 .
 
+@@SPLIT:sense@@
 4. frère de Zorobabel 1 Ch 3,19.
 
+@@SPLIT:sense@@
 5
 dans Siméon
 1 Ch 4,26 ;
 1 Ch 4,27.
 
+@@SPLIT:sense@@
 6. dans Ruben 1 Ch 5,4.
 
+@@SPLIT:sense@@
 7.
 1 Ch 8,13 =
 (II.)
 שֶׁמַע 1 Ch 8,13.
 
+@@SPLIT:sense@@
 8. noms post-exiliques :
 
 a.
@@ -80,8 +87,10 @@ Esd 10,33
 
 b. Esd 10,38 (comparer 3.g. ci-dessus).
 
+@@SPLIT:sense@@
 9. grand-père de Mardochée Est 2,5.
 
+@@SPLIT:sense@@
 10.
 2 S 21,21
 

@@ -19,6 +19,7 @@ Ez 28,10
 suffixe בְּמֹתָיו
 Es 53,9 —
 
+@@SPLIT:sense@@
 1.
 mort, opposé à vie, Dt 30,15 ; Dt 30,19 ; 2 S 15,21
 כל האדם
@@ -77,6 +78,7 @@ premier-né de la mort (maladie mortelle) ; de mouches Qo 10,1, d'animaux impurs
 P
 ).
 
+@@SPLIT:sense@@
 2.
 mort par violence comme peine : ׳
 מִשְׁפַּט מ + לְ ou בְּ personne : un cas de mort pour
@@ -104,6 +106,7 @@ messagers de mort ; במותָיו
 Es 53,9
 dans sa mort (de martyr) (voir Br^MP 359^).
 
+@@SPLIT:sense@@
 3.
 état de mort ou lieu de mort (|| שׁאול) Es 28,15 ;
 Es 28,18 ;

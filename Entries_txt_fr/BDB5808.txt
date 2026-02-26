@@ -35,6 +35,7 @@ Fl^Kl. Schr. i. 402 s.^) :
 I.
 préposition
 
+@@SPLIT:sense@@
 1. d'espace ; —
 
 a.
@@ -134,6 +135,7 @@ même jusqu'à (c.-à-d. y compris) sa base et sa fleur, comparer
 1 S
 18,4.
 
+@@SPLIT:sense@@
 2. De temps :
 
 a.
@@ -290,6 +292,7 @@ pendant qu'ils tardaient, Ex 33,22 ; Jb 7,19
 Jon 4,2
 .
 
+@@SPLIT:sense@@
 3. De degré, pour suggérer un degré plus élevé ou le plus élevé ; comme עַד מְאֹד
 
 même jusqu'à beaucoup, c.-à-d. extrêmement (voir
@@ -332,6 +335,7 @@ trois.
 II.
 conjonction
 
+@@SPLIT:sense@@
 1.
 jusqu'à ce que ; —
 
@@ -455,6 +459,7 @@ et al.
 עֹד il fera encore, etc., en comprenant Jb 8,20 comme présent, non
 futur).
 
+@@SPLIT:sense@@
 2.
 Tandis que (rare : comparer 12 b) : —
 
@@ -492,6 +497,7 @@ Mt
 (comparer Talmud
 עַד דְּלָא, Mishna שֶׁלּאֹ עַד).
 
+@@SPLIT:sense@@
 3. De degré, au point que, de sorte que même (rare), Es 47,7
 
 Tu as dit : Je serai à
@@ -526,6 +532,7 @@ III.
 Esdras, et
 apparaissant dans la plupart des sens ci-dessus. Ainsi
 
+@@SPLIT:sense@@
 1. d'espace :
 לְבוֺא חֲמָת עַד
 Jos 13,5
@@ -561,6 +568,7 @@ Jg 3,3 ;
 ; Esd 9,6
 .
 
+@@SPLIT:sense@@
 2. De temps :
 עד לעולם
 1 Ch
@@ -615,6 +623,7 @@ en ce qui concerne, forme renforcée de לְ) ; suivi d'infinitif
 לָמוּת seul) ; Esd 10,14
 עד להשׁיב.
 
+@@SPLIT:sense@@
 3. De degré :
 עַד לְמַחֲנֶה גָדוֺל
 même jusqu'à (jusqu'à ce qu'il y eût) un grand camp, 1 Ch 12,23

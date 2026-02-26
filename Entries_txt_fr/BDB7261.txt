@@ -32,6 +32,7 @@ Dr^
 1 S 1,6
 ^) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 pluriel וְצָֽרֲרוּ
 Nb 33,55

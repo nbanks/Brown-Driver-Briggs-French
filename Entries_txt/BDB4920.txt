@@ -10,6 +10,8 @@ contemn, spurn (Late Hebrew id., Pi`el;
 נִיאוּצָא
 reviling); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 ׳
@@ -37,6 +39,8 @@ Jer 33:24
 Deut 32:19;
 Jer 14:21;
 Lam 2:6.
+
+@@SPLIT:stem@@
 
 Pi`el
 Perfect
@@ -84,10 +88,14 @@ RV
 ) 2Sam
 12:14 (twice in verse) (but אֹיְבֵי probably interp.; see Comm).
 
+@@SPLIT:stem@@
+
 Hiph`il
 Imperfect
 יָנֵ֯אץ see
 נצץ
+
+@@SPLIT:stem@@
 
 Hithpo`el
 Participle

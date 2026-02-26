@@ -19,6 +19,8 @@ Exod 21:2
 P
 ; always with article:
 
+@@SPLIT:sense@@
+
 1.
 masculine
 7th day
@@ -30,6 +32,8 @@ noun omitted also 1Chr
 2:15; 1Chr
 26:3; 1Chr
 26:5 (son), 1Chr 12:11 (man), 1Chr 27:10 (captain).
+
+@@SPLIT:sense@@
 
 2.
 feminine

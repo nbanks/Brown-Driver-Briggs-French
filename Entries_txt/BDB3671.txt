@@ -5,6 +5,8 @@ Biblical Hebrew
 verb
 pour, cast, flow (Talmud id.) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 יְצַק
@@ -23,7 +25,7 @@ t.; וַּ֫יִּצֶק
 אֶצֹק
 Isa 44:3
 אֶצָּקֿ Isa 44:3
-וַיִּצְקוּ
+וַיִּצְקוּ
 2Kgs 4:40
 Imperative
 יְצֹק
@@ -108,6 +110,8 @@ of crocodile's heart v.Job 41:16 v.Job 41:16 (as stone).
 בְּצֶקֶת
 עָפָר לַמּוּצָק
 
+@@SPLIT:stem@@
+
 Hiph`il
 Imperfect
 וַיַּצִּ֫קוּ
@@ -127,6 +131,8 @@ of the ark,
 set down (?); but read וַיַצִּיגוּ (
 Dr
 Gr).
+
+@@SPLIT:stem@@
 
 Hoph`al
 Perfect

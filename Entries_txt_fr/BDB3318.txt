@@ -10,6 +10,7 @@ Jb 41,22 + 6
 t. ; construit id.
 Mi 7,10 + 5 t. ; —
 
+@@SPLIT:sense@@
 1.
 boue, fange des rues (toujours en comparaison de mépris, traitement ignominieux) חוּצוֺת
 
@@ -27,6 +28,7 @@ Jr 38,6 (deux fois dans le verset) ; de la fange dans laquelle gît le crocodile
 
 Ps 40,30.
 
+@@SPLIT:sense@@
 2. poétique de l'argile du potier (|| חֹמֶר) Es 41,25, argile à briques
 (|| id.) Na 3,14.
 

@@ -13,6 +13,8 @@ e‰û
 e‰ûtu
 , darkness); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular ׳
 וְע (consecutive) Jer 43:12 3 plural וְעָטוּ (consecutive) Mic 3:7
@@ -89,6 +91,8 @@ wandering woman, see
 ; מְעֻטָּה etc., see also
 עיט
 .
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 2 masculine singular הֶעֲטִיתָ עָלָיו כּוּשָׁה

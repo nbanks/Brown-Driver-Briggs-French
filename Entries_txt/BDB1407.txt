@@ -13,6 +13,8 @@ Ezek 11:15,
 Lev 25:26 + 4
 t.; —
 
+@@SPLIT:sense@@
+
 1.
 kin, אַנְשֵׁי גְּאֻלָּתֶ֑ךָ
 men of thy kindred
@@ -34,11 +36,15 @@ Co
 א
 thy fellow-exiles.
 
+@@SPLIT:sense@@
+
 2.
 redemption, of field Lev 25:24 (
 H
 ) Ruth 4:7
 .
+
+@@SPLIT:sense@@
 
 3.
 right of redemption
@@ -52,6 +58,8 @@ H
 ; Jer 32:8 =
 משׁפט הגאלה
 Jer 32:7.
+
+@@SPLIT:sense@@
 
 4.
 price of redemption

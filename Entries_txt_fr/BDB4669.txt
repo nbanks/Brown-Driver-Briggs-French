@@ -57,6 +57,7 @@ Es 7,16 + 3 t. ;
 Dt 7,24 + 16 t.,
 etc. ; —
 
+@@SPLIT:sense@@
 1.
 roi : d'Égypte Gn 39,20s. ; Ex 1,8s. ; Dt 11,3 ; 1 R 3,1 de Mésopotamie, Shinéar, Assyrie, Babylone, Perse, etc. Jg 3,8 ; Jg 3,10 ; Gn 14,1s. ; 2 R 15,19
 ; 2 R 15,20
@@ -103,18 +104,21 @@ dit ; dans les livres tardifs habituellement המלך
 ׳
 שׁלמה וגו) דוד ; comparer araméen כּוֺרֶשׁ מַלְכָּא, etc.
 
+@@SPLIT:sense@@
 2. du roi davidique, sous la protection divine, 1 S 2,10 (|| מְשִׁיחוֺ), Ps 2,6 ; Ps 18,51 ; Ps 89,19 ; Ps 61,7, comparer Ps 99,4 ainsi dans la (messianique)
 prédiction Os 3,5 ;
 Es 32,1 ; Jr 23,5 ; Ez 37,22 ;
 Ez 37,24 ;
 Za 9,9.
 
+@@SPLIT:sense@@
 3. employé pour ׳
 י comme roi d'Israël 1 S 12,12 en poésie Dt 33,5 comparer Ps 5,3 ; Ps 10,16 ; Ps 29,10 ; Ps 44,5 ; Ps 48,3 ; Ps 68,25 ; Ps 74,12 ; Ps 84,4 ; Ps 145,1 ; Ps 149,2 ; Es 41,21 ; Es 43,15 ; Es 44,6 ; So 3,15
 מֶלֶךְ הַכָּבוֺד
 Ps 24,7 ; Ps 24,8 ; Ps 24,9 ; Ps 24,10 (deux fois
 dans le verset) ; roi universel Ps 47,3 ; Ps 47,8 ; Ps 95,3 ; Ps 98,6 ; Jr 10,7 ; Jr 10,10, comparer Jr 46,18 ; Jr 48,15 ; Jr 51,57 ; Za 14,9 ; Za 14,16 ; Za 14,17 ; Ml 1,14 d'un faux dieu Am 5,26.
 
+@@SPLIT:sense@@
 4. dans une fable, roi des arbres Jg 9,8 ; Jg 9,15 figuré du crocodile Jb 41,26
 אֵין לָאַרְבֶּה
 ׳
@@ -123,6 +127,7 @@ Pr 30,27 de la
 mort, מֶלֶךְ בַּלָּהוֺת
 Jb 18,14.
 
+@@SPLIT:sense@@
 5. combinaisons : —
 
 a.

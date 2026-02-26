@@ -9,6 +9,7 @@ castravit,
 [placeholder2163: Placeholders/2163.gif]
 être écorché (du pied) ; du cheval, avoir mal au sabot) —
 
+@@SPLIT:stem@@
 Niph`al
 Participe féminin pluriel נוּגוֺת (sur la forme voir
 Kö^i. 582^) Lm 1,4 (|| נֶאֱנָחִים, מַר)
@@ -16,12 +17,14 @@ affligées, masculin pluriel construit נוּגֵי (voir
 Kö^l.c^.) So 3,18 (suivi de préposition, comparer Ges
 ^«GKC:130»§ 130^. 1) ; des vierges de Sion Lm 1,4 des exilés So 3,18.
 
+@@SPLIT:stem@@
 Pi`el
 Imparfait
 וַיַּגֶּה (pour וַיְיַגֶּה, voir Kö^i.
 582. 412^) affliger, suivi d'accusatif Lm 3,33 (||
 עִנָּה).
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 masculin singulier הוֺגה
 Lm 1,12

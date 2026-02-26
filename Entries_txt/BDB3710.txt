@@ -17,6 +17,8 @@ Job 4:6 + 3 t.;
 יִרְאָתֶ֑ךָ
 Ps 5:8 + 2 t.; —
 
+@@SPLIT:sense@@
+
 1.
 fear, terror
 Isa 7:25; Ezek 30:13
@@ -31,10 +33,14 @@ Deut 2:25 ||
 רעד(הׅ
 Ps 2:11; Ps 55:6.
 
+@@SPLIT:sense@@
+
 2.
 a terror = object of terror, || גֹּבַהּ
 Ezek 1:18
 (strike out Co).
+
+@@SPLIT:sense@@
 
 3.
 fear of God, reverence, piety
@@ -82,6 +88,8 @@ Ps 119:38
 63:17, of me
 Jer 32:40,
 but subject, thy fear (i.e. thy religion) Job 4:6; Job 22:4.
+
+@@SPLIT:sense@@
 
 4.
 יִרְאַת

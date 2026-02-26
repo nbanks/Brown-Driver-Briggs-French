@@ -9,6 +9,8 @@ Arabic
 cover, and perhaps סִכֵּךְ
 roof over); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect only 2 masculine singular סַכֹּ֫תָ
 Exod 40:3,
@@ -55,6 +57,8 @@ lectio; compare Lam
 3:44
 above.).
 
+@@SPLIT:stem@@
+
 Hiph`il
 Imperfect. 3 masculine singular יָ֫סֶךְ לָךְ
 Ps 91:4,
@@ -86,6 +90,8 @@ Exod 40:21
 of protection Ps
 5:12
 with לְ person + בְּ instrumental Ps 91:4 (of protection).
+
+@@SPLIT:stem@@
 
 Pilpel
 סִכְסֵךְ, denominative, see below IV.

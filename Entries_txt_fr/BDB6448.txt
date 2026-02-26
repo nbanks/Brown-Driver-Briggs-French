@@ -19,9 +19,11 @@ Ne 12,44
 suffixe מַעְשְׂרֹתֵידֶם
 Am 4,4 + 3 t. ; —
 
+@@SPLIT:sense@@
 1.
 dixième partie d'un homer Ez 45,11, d'un bath Ez 45,14.
 
+@@SPLIT:sense@@
 2.
 dîme, paiement de la dixième partie : avec מִן de chose Gn 14,20 ; Nb 18,26 habituellement construit
 devant le nom de chose Dt 12,17 ; Dt 14,23 ; Dt 14,28 ; Dt 26,12 ; Lv 27,30 ; Lv 27,32 ; 2 Ch 31,5 ;

@@ -6,12 +6,14 @@ hébreu biblique
 [placeholder1867: Placeholders/1867.gif] ; arabe
 [placeholder1868: Placeholders/1868.gif]) ; —
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait
 וַיֵּחָנַ֑ק
 2 S 17,23
 s'étrangla (+וַיָּ֫מָת).
 
+@@SPLIT:stem@@
 Pi`el
 Participe
 מְחַנֵּק

@@ -47,6 +47,7 @@ Di] ; Jg 18,7 [mais ישֶׁבֶת doit s'accorder avec un mot perdu ville
 שׁוֺבְבָה
 Gie]) ; —
 
+@@SPLIT:sense@@
 1.
 un peuple, une nation (parfois || גּוֺי), nom collectif (singulier Ex 21,8 ; Jos 17,14 ;
 Jos 17,15 ;
@@ -124,6 +125,7 @@ Hup-Now). — Sur Jg 1,16 voir
 עֲמָלֵקִי
 .
 
+@@SPLIT:sense@@
 2. = unités plus petites, p. ex.
 
 a. habitants d'une ville Gn 19,4 (
@@ -193,9 +195,11 @@ Jg
 une bande (combattante) ; peut-être aussi Jg 5,14 (lire singulier ? voir GFM
 Bu).
 
+@@SPLIT:sense@@
 3. = peuple du commun Jr 21,7 ; Jr 22,4 ; Lv 4,27 (opposé au chef Lv 4,22), Ne 5,1 (opposé à יְהוּדִים), Ne 7,5 (opposé aux
 chefs).
 
+@@SPLIT:sense@@
 4.
 gens en général, personnes
 Gn 50,20 (
@@ -221,6 +225,7 @@ Ez 26,30
 
 peuple d'autrefois (maintenant dans le Shéol).
 
+@@SPLIT:sense@@
 5. expressions :
 
 a. (עַמָּהּ, עַמִּי,

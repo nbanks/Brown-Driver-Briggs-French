@@ -38,6 +38,7 @@ Es 2,4 + 5 t. ;
 חַרְבֹתֵיהֶם
 Mi 4,3 + 2 t. ; —
 
+@@SPLIT:sense@@
 1. épée,
 
 a.
@@ -282,6 +283,7 @@ k.
 violence, guerre, etc., Gn 27,40 en comparaison Pr 5,4 (de la fin pénible des
 relations avec des femmes étrangères).
 
+@@SPLIT:sense@@
 2.
 couteau
 צֻרִים
@@ -296,6 +298,7 @@ iii,
 l'épée
 comme rasoir est significatif).
 
+@@SPLIT:sense@@
 3. d'outils utilisés pour tailler la pierre חַרְבְּךָ הֵנַפְתָּ עליה
 Ex 20,25
 

@@ -35,6 +35,8 @@ Ezek 18:21;
 Ezek 33:16,
 etc., + 40 t. suffix; —
 
+@@SPLIT:sense@@
+
 1.
 sin:
 
@@ -367,6 +369,8 @@ man is clean from sin
 טהר מח
 Lev 16:30.
 
+@@SPLIT:sense@@
+
 2.
 condition of sin, guilt of sin
 Gen 18:20
@@ -388,6 +392,8 @@ the
 horns of your altars
 Jer 17:1.
 
+@@SPLIT:sense@@
+
 3.
 punishment for sin:
 כָלהַֿגּוֺיִם
@@ -400,6 +406,8 @@ Zech 14:19
 this will be the punishment for sin of Egypt and the punishment for sin of all nations
 
 (the plague with which Yahweh will smite them).
+
+@@SPLIT:sense@@
 
 4.
 sin-offering: one of the kinds of offerings of
@@ -580,6 +588,8 @@ Ezek 44:27
 Lev 14:13;
 Ezek 40:39
 .
+
+@@SPLIT:sense@@
 
 5.
 purification from sins of ceremonial uncleanness, all

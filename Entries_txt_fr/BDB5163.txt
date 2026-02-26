@@ -8,6 +8,7 @@ planter (hébreu tardif id., et dérivés ; comparer sabéen נטעת
 pavillon [? comme planté, établi] DHM^ZMG
 xxxvii.(1883), 337, 349^) : —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier Nb 24,6 +, 2 masculin singulier נָטָ֑עֵתָּ
 Dt 6,11, suffixe 3
@@ -117,6 +118,7 @@ clous plantés, c.-à-d. fixés dans ; même אֹזֶן
 Ps 94,9
 celui qui a planté l'oreille.
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 pluriel נִטָּ֑עוּ
 Es 40,24

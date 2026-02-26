@@ -4,6 +4,7 @@ hébreu biblique
 II. תַּ֫חַת
 nom propre
 
+@@SPLIT:sense@@
 1.
 masculin
 
@@ -13,6 +14,7 @@ lévite
 
 b. Éphraïmite 1 Ch 7,20 (deux fois dans le verset). — Θααθ, Κααθ, etc.
 
+@@SPLIT:sense@@
 2. lieu station dans le désert
 Nb 33,26 ; Nb 33,27
 Κατααθ.

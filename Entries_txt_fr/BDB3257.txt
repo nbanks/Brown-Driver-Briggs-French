@@ -35,6 +35,7 @@ d'un Lévite Jg 19,4
 ; Jg 19,7 ;
 Jg 19,9.
 
+@@SPLIT:sense@@
 2.
 féminin
 mère de l'épouse, seulement suffixe חֹתַנְתּוֺ

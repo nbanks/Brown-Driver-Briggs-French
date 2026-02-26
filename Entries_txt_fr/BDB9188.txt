@@ -29,6 +29,7 @@ les deux temps, c.-à-d. nuit et jour, en forme un infinitif de VI.
 spécialisé en hier) ; — hier, mais habituellement figuré = récemment
 ou autrefois :
 
+@@SPLIT:sense@@
 1.
 2 S 15,20
 תְּמוֺל בּוֺאֲךָ
@@ -37,6 +38,7 @@ hier (= tout récemment) fut ta venue, Jb 8,9
 nous sommes, Ps 90,4
 (génitif) בְּיוֺם אֶתְמוֺל.
 
+@@SPLIT:sense@@
 2. habituellement en combinaison avec שִׁלְשֹׁם
 hier (et) l'avant-veille, pour exprimer l'idée
 d'autrefois : ainsi
@@ -105,6 +107,7 @@ Dt 4,42 ; Dt 19,4 ; Dt 19,6 ; Jos 20,5 ainsi
 מִתְּ
 Ex 4,10.
 
+@@SPLIT:sense@@
 3.
 מֵאֶתְמוּל (seul) Es 30,33
 depuis hier = déjà ; וְאֶתְּמוּל עַמִּי

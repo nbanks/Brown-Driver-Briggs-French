@@ -23,6 +23,7 @@ AV
 RV
 ; —
 
+@@SPLIT:stem@@
 Qal. Parfait
 גָּר
 Es 54,15
@@ -58,6 +59,7 @@ avec
 Es 54,15.
 Ici aussi
 
+@@SPLIT:stem@@
 Hithpolel
 Imparfait
 Os 7,14

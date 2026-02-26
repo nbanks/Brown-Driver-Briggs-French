@@ -6,6 +6,8 @@ step, march (Late Hebrew id. (rare); Arabic
 [placeholder4577: Placeholders/4577.gif]
 ascend); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 feminine singular צָֽעֲדָה
 Gen 49:22: (but
@@ -40,6 +42,8 @@ verb see Ges^«GKC:145k»§ 145k^; others think הָ֯,
 old feminine plural ending, e.g. Nö^ZMG xxxiii (1884), 411^
 JPPeters^Hebraica iii (1887), 111; v (1888), 199^; conjectured emendation of text see in Ball^Hpt^
 Holz).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imperfect 3 feminine singular suffix וְתַצְעִדֵהוּ

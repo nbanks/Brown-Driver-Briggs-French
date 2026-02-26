@@ -18,6 +18,8 @@ etc.; perhaps also Ethiopic
 be inferior, worthless, diminished
 Di^590 and derivatives^) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular ׳
 ח
@@ -116,6 +118,8 @@ P
 P
 ), waters continually diminished (see הלך above).
 
+@@SPLIT:stem@@
+
 Pi`el
 cause to lack, with accusative of person, Imperfect 2 masculine
 singular
@@ -126,6 +130,8 @@ and thou didst make him lack little of God; Participle
 Eccl 4:8
 for
 whom am I labouring and depriving myself of good things?
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect

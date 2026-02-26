@@ -3,6 +3,8 @@ hébreu biblique
 
 [פָּרַט] verbe très douteux,
 
+@@SPLIT:stem@@
+
 Qal
 Participe pluriel הַפֹּרְטִים עַלפִּֿי הַנָּ֑בֶל
 Am 6,5 (hébreu tardif

@@ -16,6 +16,7 @@ propre ידֿכראל
 DHM^Epigr. Denkm. 43^, mais éthiopien
 [placeholder1478: Placeholders/1478.gif]) —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier ׳
 ז
@@ -449,6 +450,7 @@ de Jérusalem) Ps
 137,7 (+ לִבְנֵי אֱדוֺם
 , c.-à-d. contre eux).
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 2 masculin pluriel consécutif וְנִזְכַּרְתֶּם
 Nb 10,9
@@ -557,6 +559,7 @@ Ez 25,10.
 (suivi de וְנַעֲשִׂים
 observer, célébrer).
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 masculin singulier הִזְכִּיר
 Es 49,1

@@ -9,6 +9,8 @@ Lzb^386^
 SAC^121^
 Cooke^361^); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect. 3 feminine singular תָּֽמְכָה
 Ps 63:9, etc.;
@@ -72,6 +74,8 @@ hold, keep, with accusative of thing Prov 4:4 let thy heart keep my
 words (|| שָׁמַר); hold firmly
 Ps 17:5 (
 ב location; opposed to נָמֹ֫טוּ).
+
+@@SPLIT:stem@@
 
 Niph`al
 Imperfect

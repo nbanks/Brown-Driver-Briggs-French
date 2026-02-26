@@ -15,6 +15,7 @@ PS^1320^ ; araméen
 embaumer ; ainsi éthiopien
 [placeholder1848: Placeholders/1848.gif] (emprunt Di^110^)) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 féminin singulier חָֽנְטָה
 Ct 2,13

@@ -114,6 +114,7 @@ Es 1,24
 על
 Es 57,6.
 
+@@SPLIT:stem@@
 Pi`el
 Parfait
 נִחַם
@@ -194,6 +195,7 @@ Jb 16,2
 Lm 1,2 ; Lm 1,9 ; Lm 1,17 ;
 Lm 1,21.
 
+@@SPLIT:stem@@
 Pu`al
 Parfait
 נֻחָ֑מָה
@@ -205,6 +207,7 @@ Es 66,13
 
 être consolé, réconforté.
 
+@@SPLIT:stem@@
 Hithpa`el Parfait 1 singulier וְהִנֶּחָ֑מְתּי (pour ׳
 הִתְנ ; mais supprimer Co) Ez 5,13
 Imparfait

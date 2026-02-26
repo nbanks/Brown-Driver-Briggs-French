@@ -18,6 +18,7 @@ arabe
 Di^641, peut-être apparenté à II.^
 נשׁק) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier ׳
 נ
@@ -81,6 +82,7 @@ Buhl^Lex^, mais ce sens est incertain, et le texte peut-être corrompu,
 voir Di
 Holz).
 
+@@SPLIT:stem@@
 Pi`el
 Imparfait 3 masculin singulier וַיְנַשֵּׁק
 Gn 32,1 ; Gn 45,15,
@@ -103,6 +105,7 @@ E
 Ps 2,12 est
 douteux, comparer I. בַּר a ci-dessus
 
+@@SPLIT:stem@@
 Hiph`il
 Participe
 מַשִּׁיקוֺתּ

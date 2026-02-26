@@ -11,10 +11,14 @@ relâcher, ainsi araméen שְׁרָא,
 [placeholder5736: Placeholders/5736.gif]
 remettre, pardonner) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Imparfait 3 masculin singulier suffixe יִשְׁרֵ֫הוּ
 Jb 37,3
 il (Dieu) le lâche (c.-à-d. le tonnerre).
+
+@@SPLIT:stem@@
 
 Pi`el
 Parfait 1 singulier suffixe שֵׁרִיתִ֫ךָ

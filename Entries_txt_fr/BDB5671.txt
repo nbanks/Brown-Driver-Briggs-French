@@ -4,16 +4,19 @@ hébreu biblique
 I. [סָפח] verbe
 joindre, attacher à ; —
 
+@@SPLIT:stem@@
 Qal
 Impératif masculin singulier suffixe ׳
 סְפָחֵ֫נִי נָא אֶלוֿגו
 1 S 2,36
 attache-moi, je te prie, à l'une des charges sacerdotales.
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 pluriel וְנִסְפְּחוּ עַלֿ consécutif Es 14,1
 et ils s'attacheront à la maison de Jacob (|| נִלְוָה).
 
+@@SPLIT:stem@@
 Pi`el
 Participe
 מְסַפֵּהַ חֲסָֽתְךָ
@@ -25,6 +28,7 @@ Now
 GASm
 Da).
 
+@@SPLIT:stem@@
 Poual
 Imparfait 3 masculin pluriel יְסֻפָּ֑חוּ
 Jb 30,7
@@ -32,6 +36,7 @@ sont joints ensemble, se tiennent ensemble (mais lire peut-être Niph`al יִס�
 
 Bu).
 
+@@SPLIT:stem@@
 Hithpa`el
 Infinitif construit
 מֵהִסְתַּפֵּחַ

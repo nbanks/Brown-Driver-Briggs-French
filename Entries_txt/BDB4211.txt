@@ -8,9 +8,15 @@ Gen 13:10
 Exod 29:32
 a round : hence
 
+@@SPLIT:sense@@
+
 1. a round district.
 
+@@SPLIT:sense@@
+
 2. a round loaf.
+
+@@SPLIT:sense@@
 
 3. a round weight, talent
 (Late Hebrew id.; loaf, weight, talent; Aramaic
@@ -38,6 +44,8 @@ construct כִּכַּר
 2Kgs 5:5 + 2 t.
 Chronicles; כִּכְּרוֺת (loaves) Judg 8:5; 1Sam 10:3 —
 
+@@SPLIT:sense@@
+
 1.
 the round (or oval) especially of the Jordan valley, כִּכַּר
 הַיַּרְדֵּן
@@ -61,6 +69,8 @@ Buhl^G. 112^; district of Jerusalem, ׳
 הַכּ
 Neh 3:22; Neh 12:28.
 
+@@SPLIT:sense@@
+
 2.
 loaf of bread (from round shape), כִּכַּר לָ֑חֶם
 1Sam 2:36;
@@ -68,6 +78,8 @@ loaf of bread (from round shape), כִּכַּר לָ֑חֶם
 , compare Exod 29:23; Jer 37:21; 1Chr 16:3
 כִּכְּרוֺת לֶחֶם
 1Sam 10:3; Judg 8:5.
+
+@@SPLIT:sense@@
 
 3.
 

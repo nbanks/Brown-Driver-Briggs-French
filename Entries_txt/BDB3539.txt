@@ -9,13 +9,15 @@ akâlu
 , Hpt in KAT^2 Gloss
 i^,) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 יָכֹל
 Gen 32:26 + 8
 t.; יָכוֺל
 1Sam 4:15 + 2 t.; 3
-feminine singular יָכְלָה
+feminine singular יָכְלָה
 Gen 36:7; Exod 2:3 2 masculine
 singular וְיָכָלְתָּ֫
 Exod 18:23 1
@@ -268,7 +270,7 @@ Esth 6:13.
 c.
 once with suffix, יְכָלְתִּיו
 Ps 13:5
-I have prevailed over him, + Zech 9:15 (where read וְיָכְלוּם
+I have prevailed over him, + Zech 9:15 (where read וְיָכְלוּם
 for
 וְאָֽכְלוּ with
 

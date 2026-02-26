@@ -10,6 +10,8 @@ Qo 11,25
 (deux fois dans le verset) ; araméen שְׁכַךְ
 [placeholder5527: Placeholders/5527.gif] est trouver) ; —
 
+@@SPLIT:stem@@
+
 Qal_86_
 Parfait 3 masculin singulier ׳
 שׁ
@@ -120,6 +122,8 @@ c. voix des ennemis Ps 74,23.
 d.
 suivi d'infinitif Ps 77,10.
 
+@@SPLIT:stem@@
+
 Niph`al
 Parfait 3 masculin singulier נִשְׁכַּח
 Qo 9,5, etc. ;
@@ -151,6 +155,8 @@ Qo 9,5
 הַנִּשׁ
 Jb 28,4.
 
+@@SPLIT:stem@@
+
 Pi`el
 Parfait 3 masculin singulier ׳
 וגו
@@ -161,11 +167,15 @@ Lm 2,6
 י
 a fait oublier (être oublié) en Sion assemblée et sabbat.
 
+@@SPLIT:stem@@
+
 Hiph`il
 Infinitif
 לְהַשְׁכִּיחַ
 Jr 23,27
 faire oublier à mon peuple mon nom (double accusatif).
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Imparfait 3 masculin pluriel יִשְׁתַּכְּחוּ

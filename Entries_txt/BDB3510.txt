@@ -10,6 +10,8 @@ Aramaic יָחִיד, יְחִידַי,
 [placeholder2208: Placeholders/2208.gif]
 solitary) —
 
+@@SPLIT:sense@@
+
 1.
 only one, especially of an only son, Gen 22:2; Gen 22:12; Gen 22:16
 את בנך את יְחִידְךָ thy son, thine only one, אֵבֶל יָחִיד
@@ -22,9 +24,13 @@ Zech 12:10
 רַךְ וְיָחִיד לפני אמי; so feminine יְחִידָה
 Judg 11:34.
 
+@@SPLIT:sense@@
+
 2. feminine יְחִידָה as substantive Ps 22:21; Ps 35:17
 יְחִידָתִי my only one, poetic for my life, as the
 one unique and priceless possession which can never be replaced (in each || נַפְשִׁי).
+
+@@SPLIT:sense@@
 
 3.
 solitary, Ps 25:16

@@ -11,6 +11,8 @@ avoir une mauvaise odeur, puer (arabe
 bîšu
 Lotz^TP 78^) —
 
+@@SPLIT:stem@@
+
 Qal
 Parfait
 וּבָאַשׁ consécutif Ex 7,18
@@ -40,6 +42,8 @@ Lo
 Di lisent תִּיבַשׁ, se dessécher et mourir,
 ce qui convient au ||, mais pas à l'usage de יָבֵשׁ).
 
+@@SPLIT:stem@@
+
 Niph`al
 Parfait
 נִבְאַשׁ
@@ -57,6 +61,8 @@ tu es devenu odieux envers ton père ; aussi suivi de בְּ (assez
 étrangement) 1 S 13,4
 
 Israël s'est rendu odieux aux Philistins ; 2 S 10,6 les Ammonites envers David
+
+@@SPLIT:stem@@
 
 Hiph`il
 Parfait
@@ -109,6 +115,8 @@ Ew
 Hi
 Zö
 agit odieusement et honteusement).
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Parfait

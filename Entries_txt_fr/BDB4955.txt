@@ -11,6 +11,7 @@ arabe
 [placeholder3152: Placeholders/3152.gif] v, VIII. mourir ; araméen נְבֵילָא
 cadavre) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier ׳
 נ

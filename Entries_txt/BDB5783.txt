@@ -20,6 +20,8 @@ Ps 2:3 plural
 Judg 15:13 +,
 עֲבֹתֹת +, Exod 28:14 +, etc.; —
 
+@@SPLIT:sense@@
+
 1.
 cord, rope:
 
@@ -65,6 +67,8 @@ Exod
 the chains of cords (cordlike chains); שְׁתֵּי (הָ)עֲבֹתֹת
 the two cords Exod 28:24 Exod 28:25; Exod 39:17; Exod 39:18
 .
+
+@@SPLIT:sense@@
 
 2.
 interwoven foliage (?) in phrase (עַלֿ)בֵּין עֲבֹתִים of top of a vine

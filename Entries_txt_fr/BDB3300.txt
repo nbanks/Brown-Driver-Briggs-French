@@ -5,6 +5,7 @@ hébreu biblique
 nom [masculin]
 pureté, purification —
 
+@@SPLIT:sense@@
 1.
 pureté, כְּעֶצֶם הַשָּׁמַיִם לָטֹּ֫הַר
 Ex 24,10
@@ -14,6 +15,7 @@ J
 E
 ), comme le corps des cieux en pureté.
 
+@@SPLIT:sense@@
 2. suffixe יְמֵי טָהֳרָהּ
 Lv 12,4 ; Lv 12,6
 les jours de sa purification (menstruation).

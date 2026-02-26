@@ -10,6 +10,7 @@ graisse ; hébreu tardif דִּשֵּׁן
 engraisser, comparer hébreu tardif דֶּשֶׁן
 graisse) —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier וְדָשֵׁן consécutif Dt 31,20 (
 J
@@ -17,6 +18,7 @@ J
 E
 ) figuré de la prospérité d'Israël.
 
+@@SPLIT:stem@@
 Pi`el
 Parfait
 דִּשַּׁנְתָּ
@@ -53,6 +55,7 @@ Ex 27,3 (
 P
 ).
 
+@@SPLIT:stem@@
 Pu`al
 Imparfait
 יְדֻשָּׁ֑ן
@@ -69,6 +72,7 @@ figuré de la prospérité du libéral Pr 11,25, du diligent Pr 13,4, du
 confiant Pr
 28,25.
 
+@@SPLIT:stem@@
 Hothpaal
 Parfait 3 féminin singulier הֻדַּ֫שְׁנָה (comparer
 Ol^§ 271^

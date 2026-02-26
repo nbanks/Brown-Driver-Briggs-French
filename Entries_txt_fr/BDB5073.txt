@@ -5,9 +5,11 @@ hébreu biblique
 nom masculin
 Am 2,14
 
+@@SPLIT:sense@@
 1.
 fuite.
 
+@@SPLIT:sense@@
 2.
 lieu d'échappée, refuge ;
 — absolu ׳
@@ -16,10 +18,12 @@ Am 2,14 + 5 t. ;
 suffixe מְנוּסִי
 2 S 22,3 ; Jr 16,19 —
 
+@@SPLIT:sense@@
 1.
 fuite, accusatif de sens apparenté au verbe avec נוּס
 Jr 46,5.
 
+@@SPLIT:sense@@
 2. (lieu d') échappée ; מִן
 ׳
 אָבַד מ

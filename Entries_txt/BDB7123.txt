@@ -11,11 +11,15 @@ Syriac
 [placeholder4567: Placeholders/4567.gif]
 be silent (in Lexicons)); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 plural צָֽמְתוּ ֗֗֗ חַיָּ֑י
 Lam 3:63 =
 they have put an end to my life (Bu
 conjectures Pi`el).
+
+@@SPLIT:stem@@
 
 Niph`al
 be ended, annihilated; Perfect 1 singular נִצְמַתִּת מִפְּנֵיאחשֶׁךְ
@@ -26,6 +30,8 @@ I am [not] annihilated because of (the) darkness
 Job 6:17
 (of dried-up brooks).
 
+@@SPLIT:stem@@
+
 Pi`el
 Perfect 3 feminine singular suffix צִמְּתַתְנִי
 Ps
@@ -33,12 +39,15 @@ Ps
 קִנְאָתִי
 hath put an end to me (it is so intense).
 
+@@SPLIT:stem@@
 Pi`lel
 Perfect 3 plural suffix צִמְּתֻתוּנִי (but read צִמְּתוּנִי
 Ges^«GKC:55d»§ 55d^, or צִמְּתָ֑תְנִי)
 Hi [Ges^«GKC:145k»§
 145k^]; compare Bae) Ps 88:17 thine alarms
 have annihilated me.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 2 masculine singular הִצְמַתָּה

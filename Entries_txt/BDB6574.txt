@@ -9,16 +9,22 @@ q. v.; Late Hebrew id. Pi`el (opposed to כנס = כנשׁ
 [placeholder4204: Placeholders/4204.gif]
 rend, slit, also separate, disperse); —
 
+@@SPLIT:stem@@
+
 Qal
 Passive participle feminine שֶׂה פְזוּרָה
 Jer 50:17
 a scattered sheep is Israel (i.e. driven off, isolated).
+
+@@SPLIT:stem@@
 
 Niph`al
 Perfect 3 plural נִפְזְרוּ
 Ps 141:7 our
 bones are scattered
 לִפִי שְׁאוֺל.
+
+@@SPLIT:stem@@
 
 Pi`el
 Perfect 3 masculine singular פִּזַּר
@@ -37,6 +43,8 @@ Ps 89:11; Ps 53:6; Ps 147:16
 4:2 object דְּרָכַיִךְ
 Jer 3:13, of
 Israel running hither and thither to strange gods; absolute of spending money Ps 112:9 (alms), Prov 11:24.
+
+@@SPLIT:stem@@
 
 Pu`al
 Participle

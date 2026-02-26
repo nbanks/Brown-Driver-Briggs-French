@@ -23,6 +23,7 @@ dons d'honneur, = hébreu נדבה
 offrande volontaire
 DHM^ZMG 1883, 341 s.^ —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 ׳
@@ -114,6 +115,7 @@ est חָזַק, q. v.)
 être honoré (comparer βαρύς) d'un homme Jb 14,21 (opposé à יצערו :
 comparer Hiph`il 3), de Tyr Ez 27,25, de Yahvé Es 66,5.
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 נִכְבַּד
@@ -207,6 +209,7 @@ Lv 10,3 (
 P
 ).
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 2 masculin suffixe כִּבַּדְתָּ֫נִי
 Es
@@ -302,6 +305,7 @@ e. objet un dieu païen
 Dn
 11,38 (deux fois dans le verset).
 
+@@SPLIT:stem@@
 Pu`al
 être rendu honorable, honoré. Imparfait
 יְכֻבָּ֑ד
@@ -313,6 +317,7 @@ Participe
 Es
 58,13.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait
 הִכְבִּיד
@@ -379,6 +384,7 @@ Es 8,23, de la nation restaurée Jr 30,19 (||
 לְהַכְבִּיד (dans le || 2 R 14,10
 הִכָּבֵד).
 
+@@SPLIT:stem@@
 Hithpa`el
 Impératif
 הִתְכַּבֵּד

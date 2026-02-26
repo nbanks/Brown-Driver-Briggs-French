@@ -29,6 +29,7 @@ comme sens originel de la √, et compare arabe
 [placeholder2638: Placeholders/2638.gif]
 la jambe est ronde) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier כָּרָה
 2 Ch 16,14 ;
@@ -82,6 +83,7 @@ Ps 40,7 des oreilles
 tu as creusé (avec allusion à la cavité de l'oreille) pour moi, tu
 m'as donné le moyen d'entendre et d'obéir à ta volonté. — Sur Ps 22,17 verset. II. כּוּר.
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait 3 masculin singulier עַד יִכָּרֶה שַׁהַּת
 Ps 94,13

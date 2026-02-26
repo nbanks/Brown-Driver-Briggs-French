@@ -7,6 +7,8 @@ cligner, briller (des yeux) (transposé [erreur textuelle ?] pour arabe
 [placeholder5016: Placeholders/5016.gif] ; ainsi hébreu tardif רָמַז (rare), רֶמֶז
 signe, indication) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Imparfait 3 masculin pluriel וּמַהיִּֿרְזְמוּן עֵינֶיךָ
 Jb 15,12

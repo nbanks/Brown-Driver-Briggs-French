@@ -14,6 +14,8 @@ Gen 12:16 +;
 suffix שִׁפְחֹתֶ֑ךָ
 Ruth 2:13, etc.; —
 
+@@SPLIT:sense@@
+
 1. literally, maid, maid-servant, as belonging to a mistress Gen 16:1; Gen 16:3; Gen 16:6; Gen 16:8 (PJ) Gen 29:24; Gen 29:29 (
 
 P
@@ -53,6 +55,8 @@ P
 (
 J
 ; collective) Deut 28:68; 1Sam 8:16; 2Kgs 5:26; Isa 14:2; Jer 34:9; Jer 34:10; Jer 34:11 (twice in verse); Jer 34:16 (twice in verse); Joel 3:2; Eccl 2:7; 2Chr 28:10; Esth 7:4.
+
+@@SPLIT:sense@@
 
 2.
 figurative in address, שִׁפְחָֽתְךָ, etc., of speaker, in token of humility (see

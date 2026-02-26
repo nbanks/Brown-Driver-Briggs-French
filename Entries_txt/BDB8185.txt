@@ -22,6 +22,8 @@ CIS^iv. 1^; Arabic
 שׂוּם, Syriac
 [placeholder5229: Placeholders/5229.gif] Old Aramaic שים); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular שָׂם
 Gen 21:14 +
@@ -814,6 +816,8 @@ Neh 8:8
 
 giving understanding (making sense clear).
 
+@@SPLIT:stem@@
+
 Hiph`il
 Perfect 1 singular consecutive וַהֲשִׂמֹתִיהוּ
 Ezek 14:8,
@@ -844,6 +848,8 @@ Qal (לֵב) שׂום (
 Job 4:23
 b), but phrase dubious, and text perhaps corrupt, see Me
 Nö^l.c.^
+
+@@SPLIT:stem@@
 
 Hoph`al
 Imperfect 3 masculine singular וַּיּוּשׂם

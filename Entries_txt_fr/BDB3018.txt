@@ -20,6 +20,7 @@ timide, pudique ; éthiopien
 [placeholder1915: Placeholders/1915.gif]
 avoir honte, rougir) —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 féminin singulier חָֽפְרָה
 Jr 50,12
@@ -48,6 +49,7 @@ ainsi de Babylone Jr
 Es 24,33
 être couvert de honte (déception), des caravanes cherchant de l'eau Jb 6,20.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait
 הֶחְפִּיר

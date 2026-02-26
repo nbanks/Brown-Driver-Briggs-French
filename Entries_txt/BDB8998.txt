@@ -11,6 +11,8 @@ be insistent; see
 
 שְׁקֵד = Biblical Hebrew); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular ׳
 שׁ
@@ -75,6 +77,8 @@ Bu) watch has been kept over my transgressions
 
 ׳
 נִשְׂקַד עֹל פ. —
+
+@@SPLIT:stem@@
 
 Pu`al
 denominative see below.

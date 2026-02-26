@@ -6,6 +6,7 @@ hébreu biblique
 [placeholder1892: Placeholders/1892.gif]
 se hâter, inciter, presser) ; —
 
+@@SPLIT:stem@@
 Qal
 Imparfait
 יַחְפּוֺז
@@ -36,6 +37,7 @@ Ps 116,11
 Dt 20,3 (||
 תיראו), Jb 40,23 (de l'hippopotame)
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 נֶחְפָּ֑זוּ

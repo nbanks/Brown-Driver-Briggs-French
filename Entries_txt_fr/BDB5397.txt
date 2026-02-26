@@ -4,12 +4,15 @@ hébreu biblique
 שְׂאֵת
 nom
 
+@@SPLIT:sense@@
 1.
 élévation, dignité.
 
+@@SPLIT:sense@@
 2.
 enflure.
 
+@@SPLIT:sense@@
 3. soulèvement ;
 — ׳
 שׂ absolu
@@ -18,6 +21,7 @@ Jb 13,11 + ;
 (מִ)שֵּׂתוֺ
 Jb 41,17 —
 
+@@SPLIT:sense@@
 1.
 dignité
 Gn 49,3
@@ -26,6 +30,7 @@ Ps 62,5, des Chaldéens Ha 1,7 de Dieu, son élévation, majesté
 Jb 13,11 ;
 Jb 31,23.
 
+@@SPLIT:sense@@
 2.
 enflure, éruption, בְּעוֺר בֶּשָׂר
 Lv 13,2 ( +
@@ -39,10 +44,12 @@ Lv 13,43 (tous
 P
 ).
 
+@@SPLIT:sense@@
 3.
 soulèvement, Jb 41,17
 à son soulèvement les puissants sont dans l'effroi.
 
+@@SPLIT:sense@@
 4.
 Gn 4,7 est douteux ; — n'y a-t-il
 pas acceptation ?

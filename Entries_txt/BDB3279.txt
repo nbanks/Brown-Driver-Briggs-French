@@ -13,6 +13,8 @@ cook meat, also bake bread; Ethiopic
 [placeholder2060: Placeholders/2060.gif]
 slay) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular suffix וּטְבָחוֺ consecutive Exod 21:37 3 feminine singular
 טָֽבְחָה

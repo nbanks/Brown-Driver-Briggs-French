@@ -36,6 +36,7 @@ suffixe אֲבוֺתַי (אֲבֹתַי, אֲבוֺתָ֑י) Gn 47,9 + 15 t. ; 
 Ex 4,5 + 106 t. etc. ;
 —
 
+@@SPLIT:sense@@
 1.
 père d'un individu
 Gn 2,24 (+
@@ -129,6 +130,7 @@ etc. D'où métaphore de lien intime
 Jb 17,14
 à la corruption je crie : Mon père es-tu (|| אִמִּי וַאֲחֹתִי לָֽרִמָּה).
 
+@@SPLIT:sense@@
 2. de Dieu comme père de son peuple (voir
 RS^Sem 42^), qui l'a constitué, le dirige, le guide et veille sur lui avec amour : Dt 32,6 ; Jr 3,4 ; Jr 3,19 ; Jr 31,9 ; Es 63,16
 (deux fois dans le verset) ; Es
@@ -148,6 +150,7 @@ père de la lignée davidique
 s. des nécessiteux (tardif) Ps 68,6 (comparer Ps 103,13) (dans les noms propres, s. d'un individu,
 comparer ci-dessous)
 
+@@SPLIT:sense@@
 3.
 chef de maisonnée, de famille ou de clan ; בֵּית אָבִי comme demeure Gn 38,11 (deux fois dans le verset) ;
 Lv 22,13 + ;
@@ -175,6 +178,7 @@ dans l'Hexateuque) ; aussi 1 Ch 5,13 ; 1 Ch 5,15 + souvent dans les Chroniques ;
 ר)
 Ex 6,25 comparer 1 R 8,1 ; 1 Ch 6,4 ; 1 Ch 7,11 + souvent Chroniques Esdras Néhémie.
 
+@@SPLIT:sense@@
 4.
 ancêtre
 
@@ -245,14 +249,17 @@ vers la fin lire וּבְמַלְכְּכֶם
 We
 Dr.
 
+@@SPLIT:sense@@
 5.
 fondateur ou patron d'une classe, d'une profession ou d'un art Gn 4,20 ; Gn 4,21.
 
+@@SPLIT:sense@@
 6.
 figuré pour producteur, générateur
 Jb 38,28
 הֲיֵשׁ לַמָּטָר אָ֑ב (|| הוֺלִיד אֶגְלֵיטָֽֿל׃ מִיֿ).
 
+@@SPLIT:sense@@
 7.
 figuré pour bienveillance et protection Jb 29,6
 אָב אָֽנֹכִי לָֽאֶבְיוֺנִים, comparer Jb 31,18 d'Éliakim Es 22,21 peut-être aussi du gracieux
@@ -267,6 +274,7 @@ Kn
 Kue
 Br^MP^).
 
+@@SPLIT:sense@@
 8. terme de respect et d'honneur (Abbas,
 Pater, Papa, Pape) ; appliqué au maître 2 R 5,13 prêtre Jg 17,10 ; Jg 18,19 prophète 2 R 2,12 (deux fois dans le verset) ; 2 R 6,21 ; 2 R 13,14 (deux fois dans le verset) ;
 comparer 2 R 8,9
@@ -288,6 +296,7 @@ artisan 2 Ch 2,12
 ; 2 Ch 4,16
 .
 
+@@SPLIT:sense@@
 9. spécifiquement, chef, dirigeant (tardif) 1 Ch 2,24 ; 1 Ch 2,42 (deux fois dans le verset) ; etc. (comparer Ew^§ 273 b^) voir aussi Ew^Geschichte. i. 524. H i. 365^. Sur la
 valeur de אָב dans les noms propres (dans beaucoup probablement un titre divin), voir Che^Ency. Bib., ABI, NAMES
 WITH^ Nö^ib., NAMES, §§ 44, 45^.

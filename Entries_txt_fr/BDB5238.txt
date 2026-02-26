@@ -8,11 +8,13 @@ d'où nasîku, prince, Dl^HWB 472^
 ; voir aussi Muss-Arn^Hebraica. vi. 89. R. 17 et références^
 ) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 1 singulier נָסַכְתִּי מַלְכִּי עַלצִֿיּוֺן
 Ps 2,6
 j'ai installé mon roi sur Sion.
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 1 singulier נִסַּכְתִּי
 Pr 8,23

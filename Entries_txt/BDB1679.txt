@@ -21,6 +21,8 @@ accomplish, cognate גמר; — Arabic
 [placeholder940: Placeholders/940.gif]
 be beautiful, goodly) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 Ps 13:6 +;
@@ -123,6 +125,8 @@ Isa 28:9
 3. transitive ripen, bear ripe (almonds) Num 17:23 intransitive
 
 become ripe (grapes) Isa 18:5.
+
+@@SPLIT:stem@@
 
 Niph`al
 Imperfect

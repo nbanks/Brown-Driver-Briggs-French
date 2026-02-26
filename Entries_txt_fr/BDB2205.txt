@@ -49,6 +49,7 @@ Dt 1,10 ; Jr 16,12
 Gn 40,5 + souvent (37
 t.) — voici !
 
+@@SPLIT:sense@@
 a. désignant des personnes ou des choses, Gn 12,19 et maintenant הִנֵּה אִשְׁתְּךָ
 voici ta femme ! Gn 18,9
 הִנֵּה בָאֹהֶל
@@ -73,6 +74,7 @@ comparer Ez 6,3. sur
 
 4, p. 40.
 
+@@SPLIT:sense@@
 b. introduisant des propositions impliquant une prédication :
 
 (a)
@@ -144,6 +146,7 @@ me voici, celui qui ajoutera (ainsi Es 38,5) ; mais il est douteux si
 le participe
 יֹסֵד, יוֺסֵף ne devrait pas être lu.
 
+@@SPLIT:sense@@
 c.
 וְהִנֵּה ֗֗֗ très fréquemment dans le style historique, surtout (mais pas exclusivement) après des verbes
 de
@@ -156,6 +159,7 @@ un participe (le contexte
 fixant le sens au passé), Gn 24,30 ; Gn 37,15 (tous deux sans suffixe) ; Jg 9,43 ; Jg 11,34 ; 1 R 19,5 ; 1 R 19,11
 +.
 
+@@SPLIT:sense@@
 d. comme II. הֵן
 (b), presque = si (rare) : Lv 13,5 ; Lv 13,6 ; Lv 13,7 ; Lv 13,8 (et ailleurs dans ce chapitre et
 le suivant) וְהִנֵּה

@@ -22,6 +22,8 @@ Ez 21,20 ;
 Ez 48,34,
 etc. ; —
 
+@@SPLIT:sense@@
+
 1.
 
 a.
@@ -200,6 +202,8 @@ Ez
 48,31, trois de chaque côté, nommées d'après les tribus, Ez 48,31 Ez 48,31 Ez
 48,31 Ez 48,31 + 12 t. Ez 48.
 
+@@SPLIT:sense@@
+
 2.
 
 a.
@@ -302,6 +306,8 @@ comme entrée du pays) ; de maison privée, שַׁעֲרֵי צַדִּיק
 Pr 14,19
 (peut-être comparer Jg 18,16
 1.a. ci-dessus).
+
+@@SPLIT:sense@@
 
 3.
 
@@ -406,6 +412,8 @@ Ex 35,17
 
 + 6 t. Exode + Nb
 4,36.
+
+@@SPLIT:sense@@
 
 4.
 figuré

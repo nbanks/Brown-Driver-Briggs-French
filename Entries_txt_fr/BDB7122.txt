@@ -4,6 +4,7 @@ hébreu biblique
 צְמָרַיִם
 nom propre [d'un lieu]
 
+@@SPLIT:sense@@
 1.
 en Benjamin
 Jos 18,22,
@@ -19,6 +20,7 @@ A
 Σαμαρειμ, peut-être Es-samra, au nord de Jéricho
 Buhl^Geogr. 180.^
 
+@@SPLIT:sense@@
 2.
 ׳
 הַרצֿ montagne en Éphraïm 2 Ch 13,4, Σομορων, inconnu.

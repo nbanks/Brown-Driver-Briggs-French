@@ -12,6 +12,8 @@ bind,
 [placeholder4735: Placeholders/4735.gif]
 chain); —
 
+@@SPLIT:stem@@
+
 Qal
 Passive participle plural חֲצֵדוֺת
 קְטֻרוֺת

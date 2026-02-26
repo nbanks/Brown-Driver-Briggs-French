@@ -5,6 +5,7 @@ hébreu biblique
 nom [masculin]
 union.
 
+@@SPLIT:sense@@
 1. comme
 substantif seulement 1 Ch 12,17 (particulier) יִהְיֶהלִּֿי עֲלֵיכֶֹם לֵבָב לֳי֑חַד j'aurai
 un cœur envers vous pour l'union, c.-à-d. mon cœur sera prêt à ne faire qu'un avec le vôtre
@@ -12,6 +13,7 @@ un cœur envers vous pour l'union, c.-à-d. mon cœur sera prêt à ne faire qu'
 12,38
 לב אחד).
 
+@@SPLIT:sense@@
 2. ailleurs toujours à l'accusatif comme adverbe
 en union, ensemble (comparer arabe
 [placeholder2209: Placeholders/2209.gif] à l'accusatif avec suffixe dans sa solitude = seul) —

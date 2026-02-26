@@ -5,6 +5,7 @@ hébreu biblique
 nom propre [d'un lieu]
 Γαι, etc. (comme si עַי) :
 
+@@SPLIT:sense@@
 1. station d'Israël sur la frontière est de Moab, avant דִּיבֹן גָּד
 Nb 33,45, =
 עִיֵּי הָעֲבָרִים Nb 33,44 ; Nb 21,11 (tous
@@ -15,6 +16,7 @@ P
 
 ignore הָעֲבָרִים).
 
+@@SPLIT:sense@@
 2. ville en Juda Jos 15,29 (
 P
 ).

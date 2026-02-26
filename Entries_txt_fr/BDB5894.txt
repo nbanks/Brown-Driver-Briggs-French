@@ -22,6 +22,7 @@ augure ; aussi
 [placeholder3776: Placeholders/3776.gif]
 voler çà et là, des oiseaux) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin pluriel וְעָפוּ consécutif Es 11,14
 Imparfait 3 masculin singulier יָעוּף
@@ -99,6 +100,7 @@ Qr
 fais-tu voler tes yeux, etc. ?) est difficile, et la ligne peut-être pas
 originale (voir Toy).
 
+@@SPLIT:stem@@
 Po`l.
 
 1.
@@ -121,6 +123,7 @@ faire voler çà et là, brandir, Infinitif construit suffixe בְּעוֺפְפ
 Ez 32,10
 quand je brandirai mon épée devant eux.
 
+@@SPLIT:stem@@
 Hithpo`el
 Imparfait 3 masculin singulier כָּעוֺף יִתְעוֺפֵף
 כְּבוֺדָם
@@ -128,6 +131,7 @@ Os 9,11
 
 comme un oiseau leur gloire s'envolera.
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait 2 masculin singulier
 Qr

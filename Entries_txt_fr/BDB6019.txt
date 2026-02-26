@@ -4,6 +4,7 @@ hébreu biblique
 עֵין גַּנִּיםs
 nom propre [d'un lieu]
 
+@@SPLIT:sense@@
 1.
 dans la Shéphéla de Juda
 Jos 15,34,
@@ -12,6 +13,7 @@ Umm-³îna
 , environ 1 mille au sud-ouest de Beth-Shémesh ClGann
 Buhl^Geogr.194 s.^
 
+@@SPLIT:sense@@
 2. dans Issachar Jos 19,21 (
 A
 

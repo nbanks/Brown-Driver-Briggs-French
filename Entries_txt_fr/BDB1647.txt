@@ -33,6 +33,7 @@ Ps 89,10 + 6
 t. ; גַּלֵּיהֶם
 Ps 65,8 + 2 t. ; —
 
+@@SPLIT:sense@@
 1.
 tas de pierres,
 
@@ -59,6 +60,7 @@ tas de ruines Es 25,2 ailleurs pluriel Os 12,12 ; 2 R 19,25 = Es 37,26
 9,10 ;
 Jr 51,37.
 
+@@SPLIT:sense@@
 2.
 vagues (rouleaux) en poésie, seulement pluriel, vagues de la mer Jr 5,22 ; Jr 31,35 ; Es 51,15
 ; Jb
@@ -84,6 +86,7 @@ VB
 comparer
 Ez 27,9).
 
+@@SPLIT:sense@@
 3.
 source, Ct 4,12
 גַּן נָעוּל אֲחוֺתִי כַּלָּ֑ה גַּל נָעוּל מַעְיָן חָתוּם

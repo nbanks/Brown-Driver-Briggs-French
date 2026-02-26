@@ -22,6 +22,8 @@ construct מַלְאֲכוֺת
 suffix מַלְאֲכוֺתֶיךָ
 Ps 73:28 —
 
+@@SPLIT:sense@@
+
 1.
 occupation, business, מַה מְּלַאכְתְּךָ
 what is thy occupation
@@ -30,6 +32,8 @@ business of a steward
 Gen 39:11 (
 J
 ); diligent in business Prov 22:29 slack in business Prov 18:9.
+
+@@SPLIT:sense@@
 
 2.
 property in which one is occupied, רעהוּ
@@ -48,6 +52,8 @@ J
 great property
 2Chr 17:13
 .
+
+@@SPLIT:sense@@
 
 3.
 work as something done or made:
@@ -122,6 +128,8 @@ Num 29:7 (
 P
 ).
 
+@@SPLIT:sense@@
+
 4.
 workmanship, כל מלאכה
 in every kind of workmanship, phrase of
@@ -136,6 +144,8 @@ Exod 35:31; Exod 35:33; Exod 35:35 and Chronicles: 1Chr 22:15; 1Chr 28:21
 29:5;
 1Kgs 7:14.
 
+@@SPLIT:sense@@
+
 5.
 service, use
 Lev 7:24;
@@ -145,6 +155,8 @@ Judg 16:11
 ;
 Ezek 28:13
 .
+
+@@SPLIT:sense@@
 
 6.
 public business:

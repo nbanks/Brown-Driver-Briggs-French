@@ -13,6 +13,7 @@ duel אָזְנַיִם (נָ֑יִם) Dt 29,3 + ; construit אָזְנֵי
 Gn 23,10 + ;
 suffixe אָזְנַי (נָֿ֑י) Nb 14,28 + ; (jamais avec l'article). —
 
+@@SPLIT:sense@@
 1.
 oreille, comme partie du corps ; d'un être humain, portant une boucle d'oreille Gn 35,4 ; Ex 32,2 ; Ex 32,3 (tous
 J
@@ -30,6 +31,7 @@ lobe de l'oreille) Lv 8,23 ; Lv 8,24 ; Lv 14,14 ; Lv 14,17 ; Lv 14,25 ; Lv 14,28
 q. v.) ; oreille du chien Pr 26,17
 מַחֲזִיק בְּאָזְנֵיכָּֿ֑לֶב ; du mouton Am 3,12 (fragment arraché au lion).
 
+@@SPLIT:sense@@
 2. surtout comme organe de l'ouïe,
 
 a. de l'homme Dt 29,3 ; 2 S 22,45 =
@@ -215,6 +217,7 @@ comparer Es 59,1
 ׳
 אַלתַּֿעְלֵם א.
 
+@@SPLIT:sense@@
 3.
 ׳
 גָּלָה א

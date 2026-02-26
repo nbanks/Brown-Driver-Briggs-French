@@ -11,6 +11,8 @@ pine away (Late Hebrew id.
 
 ) מְקַק); —
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect 3 plural נָמַ֫קּוּ
 Ps 38:6, ׳
@@ -33,7 +35,7 @@ fester, of wounds Ps 38:6 ( + הבאישׁ, see
 ).
 
 2.
-rot, rot away, עֵתנָיו תִּמַּקְנָה בְחֹרֵיהֶן וּלְשׁוֺנוֺ תִּמִק בְּפִיֶהם ׃
+rot, rot away, עֵתנָיו תִּמַּקְנָה בְחֹרֵיהֶן וּלְשׁוֺנוֺ תִּמִק בְּפִיֶהם ׃
 Zech 14:12
 (plague upon foes of Jerusalem).
 
@@ -49,6 +51,8 @@ Ezek 24:23
 ; Ezek
 33:10;
 Lev 26:39 (twice in verse).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Infinitive absolute

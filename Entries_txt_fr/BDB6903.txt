@@ -24,6 +24,7 @@ comparer
 [placeholder4408: Placeholders/4408.gif]
 jeune homme) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin pluriel צבְאוּ
 Ex 38,8 ; Za 14,12
@@ -66,6 +67,7 @@ P
 ) 1 S
 2,22.
 
+@@SPLIT:stem@@
 Hiph`il
 Participe
 ׳

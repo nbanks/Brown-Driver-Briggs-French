@@ -46,6 +46,8 @@ Num 13:4 +,
 Ezek 23:4 (twice
 in verse); — name:
 
+@@SPLIT:sense@@
+
 1. of river Gen 2:11; Gen 2:13; Gen 2:14, beasts Gen 2:19 Gen 2:20, city Gen 26:33 (all
 J
 ) +; היּוֺם
@@ -55,6 +57,8 @@ Ezek 24:2, i.e.
 exact designation of it (+ הַזֶּה
 ׳
 אֶתעֶֿצֶם הַיּ).
+
+@@SPLIT:sense@@
 
 2.
 
@@ -211,7 +215,7 @@ J
 ; 1Chr
 12:31 (van d. H. v.1Chr 12:30); with negative
 בְּנֵי
-בְלִישֵֿׁ
+בְלִישֵֿׁ
 Job 30:3
 (2) bad sense, וְהוֺצִא עָלָיהָ שֵׁם רָ֑ע
 
@@ -251,6 +255,8 @@ Nah 1:14
 (of Nineveh); כֵּן יַעֲמֹד זַרְעֲכֶם וְשִׁמְכֶם
 Isa 66:22
 more abstract (|| זֵכֶר) Job 18:17; Prov 10:7.
+
+@@SPLIT:sense@@
 
 3.
 name, as designation of God, specifically of ׳
@@ -480,6 +486,8 @@ Hup-Now
 ׳
 קָרָנוּ בִשׁ (= קָרָאנוּ).
 
+@@SPLIT:sense@@
+
 4. of false gods, use forbidden Exod 23:13 (
 E
 ), Josh
@@ -504,6 +512,8 @@ Deut 18:20
 ׳
 יֵלְכוּ בְשׁ
 Mic 4:5.
+
+@@SPLIT:sense@@
 
 5. = memorial, monument
 Isa 55:13

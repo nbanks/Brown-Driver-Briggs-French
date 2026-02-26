@@ -10,6 +10,8 @@ SabDenkm^93^; Aramaic צְלַח,
 [placeholder4523: Placeholders/4523.gif]
 prosper ); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 feminine singular צָלֵ֑חָה
 Jer 12:1
@@ -36,6 +38,8 @@ Co Toy; >Sta^ZAW vi (1886), 337
 f.^
 Krae
 לִמְלָאכָה i.e. harlotry).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 masculine singular הִצְלִיחַ

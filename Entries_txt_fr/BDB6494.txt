@@ -8,6 +8,7 @@ prier, supplier (toujours envers Dieu) (comparer arabe
 De^Gn (4) 381^
 We^Skizzen iii. 115, 166 ; Heid. (2). 118, 142^ ; RS^Sem i. 210 s. ; 2e éd. ; 227 s.^) ; —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 3 masculin singulier ׳
 וַיֶעְתַּר לי
@@ -19,6 +20,7 @@ Ex 8,26 ; Ex 10,18 ;
 יֶעְתַּד אֶלאֱֿלוֺהַּ
 Jb 33,26.
 
+@@SPLIT:stem@@
 Niph`al
 être supplié, exaucé (et accorder la supplication ; toujours de Dieu), habituellement avec ל
 du suppliant (voir
@@ -45,6 +47,7 @@ construit (comme substantif) הֵעָתֶרלֿוֺ
 2 Ch 33,19
 .
 
+@@SPLIT:stem@@
 Hiph`il =
 Qal, faire supplication, avec אֶל, לְ :
 Parfait

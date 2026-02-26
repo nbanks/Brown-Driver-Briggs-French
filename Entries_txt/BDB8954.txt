@@ -19,6 +19,8 @@ Amos 3:2 +; suffix
 Gen 8:19 + 2 t.,
 usually תָם- Num 1:18 + 84 t., etc.; —
 
+@@SPLIT:sense@@
+
 1.
 clan:
 
@@ -164,9 +166,13 @@ Jer 33:24
 Zech 14:18
 compare Ps 107:41.
 
+@@SPLIT:sense@@
+
 2. = guild
 1Chr 2:55 (of
 scribes; originally hereditary in families).
+
+@@SPLIT:sense@@
 
 3. = species, kind:
 
@@ -177,6 +183,8 @@ Gen 8:19 (
 
 P
 ).
+
+@@SPLIT:sense@@
 
 4. plural = aristocrats
 Job 31:34

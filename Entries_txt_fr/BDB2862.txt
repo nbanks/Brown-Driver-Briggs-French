@@ -9,6 +9,7 @@ hébreu biblique
 [placeholder1807: Placeholders/1807.gif]
 devenir chaud, de l'eau ; aussi chauffer, allumer du feu) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 חַם
@@ -72,6 +73,7 @@ Ps 39,4 (||
 
 3. de la chaleur dans la conception (animaux) Gn 30,38 ; Gn 30,39 (comparer יחם).
 
+@@SPLIT:stem@@
 Niph`al
 Participe
 נֵחָמִים באלים
@@ -79,12 +81,14 @@ Es 57,5 (
 Kö^i. 371^), s'enflammer avec, de
 l'idolâtrie.
 
+@@SPLIT:stem@@
 Piël
 Imparfait 3 féminin singulier תְּחַמֵּם
 Jb 39,14
 
 garder les œufs au chaud (de l'autruche).
 
+@@SPLIT:stem@@
 Hithpaël
 Imparfait
 יִתְחַמָּם

@@ -6,6 +6,8 @@ verb
 Pi`el
 refuse (
 
+@@SPLIT:stem@@
+
 Qal
 perhaps
 be distasteful, compare Syr,
@@ -15,6 +17,8 @@ techn. of girl, refuse to acknowledge marriage contract; possibly akin to Ethiop
 [placeholder2873: Placeholders/2873.gif]
 reject; Arabic
 [placeholder2874: Placeholders/2874.gif] is sustain, maintain); —
+
+@@SPLIT:stem@@
 
 Pi`el
 Perfect

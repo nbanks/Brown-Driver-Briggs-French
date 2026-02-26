@@ -7,6 +7,7 @@ avaler goulûment (= arabe
 [placeholder2768: Placeholders/2768.gif]
 bœuf, vache) ; — seulement
 
+@@SPLIT:stem@@
 Hithpa`el
 Participe
 מִתְלַהֲמִים

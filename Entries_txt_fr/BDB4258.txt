@@ -8,6 +8,7 @@ piler, broyer fin, concasser (hébreu tardif id. ; araméen כְּתַשׁ
 briser en morceaux, fracasser, DHM^Sendsch. 58^
 ) ; —
 
+@@SPLIT:stem@@
 Qal
 Imparfait
 אִםתִּֿכְתּוֺשׁ אֶתהָֿאֱוִיל בַּמַּכְתֵּשׁ

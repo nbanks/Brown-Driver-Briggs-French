@@ -24,6 +24,8 @@ Ct 1,3,
 נַיִח-
 Ct 4,10 —
 
+@@SPLIT:sense@@
+
 1.
 graisse, embonpoint :
 ׳
@@ -45,6 +47,8 @@ Du
 Marti
 est monté de Pene-Rimmon [??], comparer Di-Kit
 ).
+
+@@SPLIT:sense@@
 
 2.
 

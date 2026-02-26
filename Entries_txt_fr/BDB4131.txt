@@ -4,6 +4,7 @@ hébreu biblique
 [כִּרְסֵם] verbe
 quadrilitère =
 
+@@SPLIT:stem@@
 Pi`el, arracher (comparer קִרְסֵם hébreu tardif couper
 ou ronger, Dt 28,38
 

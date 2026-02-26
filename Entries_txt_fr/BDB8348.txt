@@ -27,6 +27,7 @@ Jr 44,21,
 שָׂרֵיהֶם
 Es 3,4 + ; —
 
+@@SPLIT:sense@@
 1.
 chef, dirigeant :
 
@@ -62,6 +63,7 @@ comparer גְּדוּד
 , pluriel 2 S 4,2
 .
 
+@@SPLIT:sense@@
 2.
 vassal, noble, officiel, sous le roi (agissant, selon les cas, comme conseiller, commandant, etc.) :
 
@@ -133,6 +135,7 @@ officiels de ville
 Jg 8,6 ; Jg 8,14
 (distingués des זְקֵנִים), comparer 2 R 10,1 ; 2 Ch 29,20.
 
+@@SPLIT:sense@@
 3. spécifiquement militaire, = capitaine, général :
 
 a.
@@ -240,6 +243,7 @@ capitaine de la charrerie
 1 R 9,22
 = 2 Ch 8,9.
 
+@@SPLIT:sense@@
 4.
 
 a.
@@ -312,6 +316,7 @@ Kit, Be
 יָסֹר = יָשׂר ; voir une autre opinion יָסַר
 Qal.
 
+@@SPLIT:sense@@
 5.
 de charge religieuse :
 שָׂרֵי הַכֹּהֲנִים
@@ -355,6 +360,7 @@ Klo
 Che^Hpt^
 Gr (pour l'essentiel).
 
+@@SPLIT:sense@@
 6. tardif, de dirigeants représentatifs du peuple, chefs de tribu, ׳
 שׂ
 ׳
@@ -392,6 +398,7 @@ Esd 8,29 ;
 1 Ch 27,1 ;
 Ne 7,70).
 
+@@SPLIT:sense@@
 7. tardif, comme terme de rang et de dignité, Es 23,8 (comparer « princes marchands »), Jb 3,15 ; Jb 29,9 (||
 נְגִירִים), Jb 34,19 ; Ps 45,17 ; Ps 82,7 ; Ps 148,11, opposé à עבד(יםׅ
 Pr 19,10
@@ -400,6 +407,7 @@ Qo 10,7
 ennemis redoutables
 Ps 119,23 ; Ps 119,161.
 
+@@SPLIT:sense@@
 8. = ange-patron, seulement Daniel : שַׂר (מַלְכוּת) פָּרַס
 Dn 10,13 ;
 Dn 10,20,
@@ -408,6 +416,7 @@ Dn 10,20,
 שׂ Dn 10,20 spécifiquement de מִיכָאֵל Dn 10,13 ; Dn 10,21 ;
 Dn 12,1
 
+@@SPLIT:sense@@
 9.
 שַׂרהַֿצָּבָא
 Dn 8,11 =

@@ -6,8 +6,12 @@ smite (see Biblical Hebrew II.
 מָחָה
 ); —
 
+@@SPLIT:stem@@
+
 Pe`al
 Perfect 3 feminine singular מְחַת, ל of thing, Dan 2:34; Dan 2:35 (+ עַל).
+
+@@SPLIT:stem@@
 
 Pa`el
 Imperfect 3 masculine singular ימַחֵא בִידֵהּ
@@ -18,6 +22,8 @@ Eccl 8:4
 ᵑ7
 
 ; D^Aramaic Dialektproben. p. 5^; Talmud: Levy^NHWB under the word^ ).
+
+@@SPLIT:stem@@
 
 Hithpa`al
 Imperfect 3 masculine singular יִתְמְחֵא

@@ -3,6 +3,7 @@ hébreu biblique
 
 אִיתִיאֵל
 
+@@SPLIT:sense@@
 1.
 Pr 30,1 (deux fois
 dans le verset) נְאֻם הַגֶּבֶר לְאִיתִיאֵל
@@ -13,6 +14,7 @@ je me suis fatigué (voir
 לָאָה
 ), ô Dieu, je me suis fatigué, ô Dieu, et je suis consumé.
 
+@@SPLIT:sense@@
 2. un Benjaminite Ne 11,7.
 
 ---

@@ -11,6 +11,7 @@ Es 29,11
 suffixe חָזוּתְכֶם
 Es 28,18 —
 
+@@SPLIT:sense@@
 1.
 vision, oracle d'un prophète
 חָזוּת קָשָׁה הֻגַּדלִֿי
@@ -34,6 +35,7 @@ Vrss
 
 2.
 
+@@SPLIT:sense@@
 2.
 caractère remarquable dans l'apparence :
 קֶרֶן הָזוּת

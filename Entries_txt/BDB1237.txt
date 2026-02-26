@@ -11,6 +11,8 @@ burn;
 [placeholder654: Placeholders/654.gif]
 seek out, collect, glean; this apparently earlier meaning) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 feminine singular בָּֽעֲרָה
 Num 11:3 + 2 t.,
@@ -85,6 +87,8 @@ Ps 79:5; Isa 30:27 (
 ׳
 שֵׁם י) Mal 3:19 (היום בא); of human anger Esth 1:12 subject wickedness Isa 9:17.
 
+@@SPLIT:stem@@
+
 Pi`el
 Perfect
 בִּעֵר
@@ -153,12 +157,16 @@ Num 24:22
 compare רוּחַ בָּעֵר
 Isa 4:4.
 
+@@SPLIT:stem@@
+
 Pu`al
 Participle
 מְבֹעָ֑רֶת
 Jer
 36:22 — burn (i.e. be supplied with fire), of fire-jar, הָאָח
 .
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect

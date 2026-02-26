@@ -11,6 +11,7 @@ abandonner ; arracher la peau d'un animal mort ; arabe
 [placeholder3296: Placeholders/3296.gif] = abstinens ab impuro selon †am
 (Frey)) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier ׳
 נ
@@ -109,6 +110,7 @@ Es 21,15
 ׳
 ח.
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 féminin singulier נִטְּשָׁה
 Am 5,2
@@ -135,6 +137,7 @@ lieu).
 Es 16,8
 (figuré de Moab).
 
+@@SPLIT:stem@@
 Pu`al
 Parfait seulement אַדְמוֺן נֻטָּ֑שׁ
 

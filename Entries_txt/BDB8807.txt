@@ -12,6 +12,8 @@ Phoenician (Punic) שמן
 oil, so Palmyrene שמנא
 Lzb^378^; on relation of meanings Frä^147^); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 2 masculine singular שָׁמַ֫נְתָּ
 Deut 32:15 and
@@ -19,6 +21,8 @@ Imperfect 3 masculine singular וַיִשְׁמַן Deut 32:15 both of Israel (p
 under figure of fat beast; so Perfect 3 plural שָֽׁמְנוּ
 Jer 5:28 (of
 wicked).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imperfect 3 masculine plural וַיַשְׁמִינוּ

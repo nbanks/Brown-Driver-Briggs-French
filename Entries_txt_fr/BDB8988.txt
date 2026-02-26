@@ -4,8 +4,10 @@ hébreu biblique
 שֻׁפִּים
 nom propre, masculin
 
+@@SPLIT:sense@@
 1.
-׳שׁ
+׳
+שׁ
 1 Ch 7,15,
 Μαμφειν,
 A
@@ -24,6 +26,7 @@ L
 
 Σαφαν (comparer שֻׁפִּים, שְׁפוּפָם).
 
+@@SPLIT:sense@@
 2.
 שֻׁפִּים portier, 1 Ch 26,16.
 

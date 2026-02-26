@@ -6,6 +6,7 @@ charger (hébreu tardif id. ; araméen
 [placeholder2132: Placeholders/2132.gif], טְעֵן, טְעַן
 porter, aussi charger) —
 
+@@SPLIT:stem@@
 Qal
 Impératif
 טַעֲנוּ

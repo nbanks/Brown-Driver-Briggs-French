@@ -5,6 +5,7 @@ araméen biblique
 adjectif
 vivant (hébreu biblique id.) ; —
 
+@@SPLIT:sense@@
 1. de Dieu : absolu ׳
 ח
 Dn 4,31, emphatique
@@ -14,6 +15,7 @@ pluriel emphatique חַיַיָא
 les vivants
 Dn 2,30 ; Dn 4,14.
 
+@@SPLIT:sense@@
 2. pluriel comme nom abstrait vie (hébreu biblique חַיִּים) :
 חַיִּין
 Dn 7,12 construit

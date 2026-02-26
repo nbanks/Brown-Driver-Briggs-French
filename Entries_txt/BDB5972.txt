@@ -5,6 +5,8 @@ Biblical Hebrew
 proper name, masculine
 Εσρας, Εσδρας, Εζδρας;
 
+@@SPLIT:sense@@
+
 1.
 Ezra
 Ezra 7:1; Ezra 7:10; Ezra 10:1; Ezra 10:2; Ezra 10:5; Ezra 10:6; Neh 8:6 called
@@ -15,7 +17,11 @@ Ezra 10:10;
 Ezra 10:16;
 Neh 8:2; Neh 8:9, both Ezra 7:11; Neh 12:26.
 
+@@SPLIT:sense@@
+
 2. priest with Zerubbabel Neh 12:1; Neh 12:13.
+
+@@SPLIT:sense@@
 
 3.
 Neh 12:33.

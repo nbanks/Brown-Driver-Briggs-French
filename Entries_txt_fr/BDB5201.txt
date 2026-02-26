@@ -16,18 +16,21 @@ agir perfidement,
 [placeholder3313: Placeholders/3313.gif]
 perfide, Prä^Amhr. Spr. 90^) ; —
 
+@@SPLIT:stem@@
 Qal
 Participe
 נוֺכֵל
 Ml 1,14
 fripon.
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 3 masculin pluriel avec accusatif de sens apparenté avec le verbe נִכְלֵיהֶם אֲשֶׁר
 נִכְּלוּ לָכֶם
 Nb 25,18
 leurs ruses par lesquelles ils vous ont trompés.
 
+@@SPLIT:stem@@
 Hithpa`el
 Imparfait
 וַיִּתְנַכְּלוּ אֹתוֺ לַהֲמִיתוֺ

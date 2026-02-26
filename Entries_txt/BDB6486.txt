@@ -3,6 +3,8 @@ Biblical Hebrew
 
 [עָתַם] verb dubious;
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect 3 masculine singular נֶעְתַּם
 אָ֑רֶץ

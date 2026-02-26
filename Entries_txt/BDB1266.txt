@@ -11,6 +11,8 @@ side, edge,
 [placeholder673: Placeholders/673.gif]
 land in which are sharp stones (compare Lane)) —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect
 יִבְצֹר
@@ -23,7 +25,7 @@ Judg 9:27,
 Lev 25:11
 Participle active בּוֺצֵר
 Jer 6:9,
-בֹּצְרִים
+בֹּצְרִים
 Jer 49:9; Obad 1:5 passive
 masculine בָּצוּר
 Zech 11:2
@@ -78,12 +80,16 @@ Sm
 Co
 בְּתוֺכָהּ, doubtless right.
 
+@@SPLIT:stem@@
+
 Niph`al
 Imperfect
 יִבָּצֵר
 be withheld
 Gen 11:6 (
 מֵהֶם), Job 42:2 (מִמְּךָ).
+
+@@SPLIT:stem@@
 
 Pi`el
 Imperfect 3 feminine singular תְּבַצֵּר

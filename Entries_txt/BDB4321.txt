@@ -12,6 +12,8 @@ labâšu
 [placeholder2752: Placeholders/2752.gif]; Ethiopic
 [placeholder2753: Placeholders/2753.gif]); —
 
+@@SPLIT:stem@@
+
 Qal Perfect 3 masculine singularלָבֵשׁ
 Ps 93:1 (twice in
 verse), לָבַשׁ
@@ -201,12 +203,16 @@ Job 29:14
 and
 it clothed itself in me, as it were, became incarnate in me.
 
+@@SPLIT:stem@@
+
 Pu`al only Participle plural מְלֻבָּשִׁים
 arrayed, with accusative of garment 1Kgs 22:10 = 2Chr 18:9; 2Chr 5:12 absolute
 in full apparel
 
 Ezra 3:10
 .
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 masculine singular suffix הִלְבִּישַׁנִי
@@ -241,7 +247,7 @@ Prov
 Zech 3:4
 construct הַלְבִּישׁ
 Esth 4:4
-Participle suffix הַמַּלְבִּשְׁכֶם
+Participle suffix הַמַּלְבִּשְׁכֶם
 1Sam 1:24
 —
 clothe, array with.

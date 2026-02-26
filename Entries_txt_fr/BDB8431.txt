@@ -16,6 +16,7 @@ Kö^Hast. DB NUMBER, 565^
 RS^Semitic i. 166, 2ᵉ éd., 182^
 We^Reste^ arabe Heid. 2, 186) ; —
 
+@@SPLIT:stem@@
 Qal (selon Thes
 Rob Ges) Participe passif
 שְׁבֻעֵי שְׁבֻעוֺת
@@ -36,6 +37,7 @@ Sm
 שׁ
 semaines sur semaines (beaucoup de temps).
 
+@@SPLIT:stem@@
 Niph`al
 Parfait, 3 masculin singulier נִשְׁבַּע
 Gn 24,7, + etc. ;
@@ -293,6 +295,7 @@ P
 ; Dt 6,18
 + 8 t. Deutéronome (objet alliance Dt 4,31 ; Dt 8,18) ; ל personne omis Dt 31,21.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 masculin singulier הִשְׁבִּיעַ
 Ex 13,19

@@ -21,6 +21,7 @@ t. etc. ; pluriel
 אֲדָמוֺת
 Ps 49,12 —
 
+@@SPLIT:sense@@
 1.
 sol (comme cultivé, produisant la subsistance) Gn 2,5 ; Gn 2,9 ; Gn 3,17 ; Gn 3,23 ; Gn 4,2 ; Gn 4,3 ; Gn 4,12 ; Gn 5,29 ; Gn 8,21 ; Gn 19,25 ; Gn 47,23 ; Ex 34,26 (tous
 J
@@ -53,6 +54,7 @@ c.-à-d. amateur d'agriculture (ou ces emplois renvoient-ils à un sens antérie
 אִישׁ עֹבֵד א
 Za 13,5.
 
+@@SPLIT:sense@@
 2.
 parcelle de terrain, propriété foncière Gn 47,18 ; Gn 47,19 (3 t. dans le verset) ; Gn 47,20 ; Gn 47,22 (deux fois dans le verset) ;
 Gn 47,23 ;
@@ -62,6 +64,7 @@ J
 ) Ps
 49,12 (pluriel)
 
+@@SPLIT:sense@@
 3.
 terre comme substance matérielle ; dont l'homme est fait Gn 2,7 (׳
 עָפָד מִןהָֿא) ; ainsi les animaux Gn 2,19 (׳
@@ -85,6 +88,7 @@ Dn 12,2
 comparer Gn 3,19
 ; Gn 3,23 ; Ps 146,4.
 
+@@SPLIT:sense@@
 4.
 sol comme surface visible de la terre ; ׳
 רֶמֶס הָא
@@ -136,6 +140,7 @@ D
 ) 1 S
 20,15 + 9 t.
 
+@@SPLIT:sense@@
 5.
 pays, territoire, contrée (= ארץ) Gn 47,19 (
 J
@@ -175,12 +180,14 @@ Dt 21,23 ; Dt 29,27 ; 2 R 17,23 ; Es 6,11 ; Es 7,16 ; Es 14,1 +, Ez 34,13 ; Ez 3
 Za 2,16
 (comparer ci-dessous 4 ci-dessus) ; d'où aussi comme terre de Yahvé Dt 32,43 ; Es 14,2 ; Za 9,16 ; 2 Ch 7,20.
 
+@@SPLIT:sense@@
 6. terre entière, terre habitée (rare ; comparer aussi ׳
 פְּנֵי הָא ci-dessous 4 ci-dessus) Gn 12,3 ; Gn 28,14 (tous deux
 J
 comparer אֶרֶץ
 Gn 18,18 ; Gn 22,18 ; Gn 26,4) Dt 14,2 ; Am 3,2 ; Es 24,21.
 
+@@SPLIT:sense@@
 7.
 nom propre [d'un lieu]
 ville en Nephtali (comme construite comparer אָדָם

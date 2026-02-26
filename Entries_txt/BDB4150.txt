@@ -18,6 +18,8 @@ bend, curve; Palmyrene כפתא
 niche, from כפף
 curve according to Vog^No. 70, p. 50^); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 נַפְשִׁי
@@ -30,6 +32,8 @@ Isa 58:5
 to bend down, like a rush, his head. Passive participle
 (הַ)כְּפוּפִים
 those bowed down, in distress, humiliation, etc., Ps 145:14; Ps 146:8.
+
+@@SPLIT:stem@@
 
 Niph`al
 Imperfect 1 singular מָרוֺם אִכַּף לֵאלֹהֵי

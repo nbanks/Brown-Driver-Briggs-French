@@ -10,6 +10,8 @@ float, compare Nes^Mar. x:^ Aramaic
 צְלַל,
 [placeholder4536: Placeholders/4536.gif], are filter, clarify); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 plural צָֽלְלוּ כַּעוֺפֶרֶת בְּמַיִם
 Exod 15:10.

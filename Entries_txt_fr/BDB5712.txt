@@ -11,6 +11,7 @@ pâturage ; II. laisser une femme libre ; laisser pendre les cheveux ;
 facile. — Hébreu tardif סָרַח, araméen
 [placeholder3661: Placeholders/3661.gif] habituellement = corrompre, pécher) ; —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 3 féminin singulier תִּסְרַח
 Ex 26,12
@@ -55,6 +56,7 @@ Ez 23,15
 pendant de turbans, étendu quant aux turbans, = avec des turbans pendants (comparer [
 טְבוּל]).
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 féminin singulier נִסְרְחָה חָכְמָתָם
 Jr 49,7 habituellement

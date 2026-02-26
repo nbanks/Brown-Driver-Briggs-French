@@ -25,6 +25,7 @@ Jr 13,25
 מַדָּיו
 1 S 4,12 + 4 t. ; —
 
+@@SPLIT:sense@@
 1.
 mesure (seulement pluriel) = attribution Jr 13,25, מְנָָֽתמִֿדַּיִךְ (du sort de
 Juda, || גּוֺרָל) ; comparer littéralement 2 S 21,20
@@ -34,10 +35,12 @@ Kt
 מִדָּה
 ).
 
+@@SPLIT:sense@@
 2. peut-être étoffe, tapis (pour s'asseoir), Jg 5,10 (ainsi la plupart, conjecture d'après le
 contexte ; sur le pluriel en ן, voir Ges^«GKC:87»§ 87^,
 1. a).
 
+@@SPLIT:sense@@
 3.
 vêtement, vêtement extérieur Jg 3,16 ; 1 S 4,12, comparer (comparaison) Ps 109,18 de tenue de combat 1 S 17,38 (avec verbe
 הִלְבִּשׁ), 1 S 17,39 ; 1 S 18,4 ; 2 S 20,8 (|| לְבוּשׁ) ; du vêtement du prêtre

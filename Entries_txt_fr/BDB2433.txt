@@ -10,6 +10,7 @@ Lane^968^ ;
 [placeholder1542: Placeholders/1542.gif]
 homme décrépit) —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier זָקֵן
 Gn 18,12 + 14
@@ -47,6 +48,7 @@ Gn 24,1 (||
 Rt 1,12
 je suis trop vieille pour appartenir à un homme (mari).
 
+@@SPLIT:stem@@
 Hiph`il seulement Imparfait 3 masculin singulier יַזְקִין inchoatif
 montrer l'âge, vieillir = senescere
 Ew^§ 122 c^, comparer Di

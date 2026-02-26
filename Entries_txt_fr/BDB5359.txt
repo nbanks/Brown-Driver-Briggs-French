@@ -4,6 +4,7 @@ hébreu biblique
 [נִקּוּד] nom [masculin] peut-être ce qui est émietté ou s'émiette facilement, miette
 (comparer נְקֻדָּה) ; — seulement pluriel
 
+@@SPLIT:sense@@
 1.
 miettes :
 כֹּל לֶחֶם צֵידָם יָבֵ֖שׁ הָיָה נִקֻּדִים
@@ -20,6 +21,7 @@ in frusta comminuti), comparer ׳
 יָבֵשׁ וְהָיָה נ Jos 9,12 (voir Di
 Benn).
 
+@@SPLIT:sense@@
 2. apparemment une sorte de biscuit (dur) ou de gâteau 1 R 14,3 (apporté comme présent ; + לֶחֶם, etc.).
 
 ---

@@ -8,6 +8,8 @@ stoop, bend, incline (Arabic
 [placeholder4580: Placeholders/4580.gif]) incline, lean, compare also
 [placeholder4581: Placeholders/4581.gif]); —
 
+@@SPLIT:stem@@
+
 Qal
 Participle
 
@@ -30,6 +32,8 @@ obscoeno).
 Pi`el q. v.) plural צֹעִים
 Jer 48:12
 men inclining, tipping a vessel, to empty it.
+
+@@SPLIT:stem@@
 
 Pi`el
 Perfect 3 plural suffix וְצֵעֻהוּ

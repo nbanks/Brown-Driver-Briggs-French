@@ -4,6 +4,7 @@ hébreu biblique
 [בָּגַד] verbe
 agir ou se conduire traîtreusement —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 בָּֽגְדָה

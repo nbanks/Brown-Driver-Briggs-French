@@ -5,6 +5,8 @@ Biblical Hebrew
 proper name, masculine
 Iddo; —
 
+@@SPLIT:sense@@
+
 1. father of an officer of Solomon עִדֹּא
 1Kgs 4:14
 
@@ -21,6 +23,8 @@ A
 
 Αχιαβ
 
+@@SPLIT:sense@@
+
 2. grandfather of prophet Zechariah עִדּוֺ
 Zech 1:1,
 עִדּוֺא Zech
@@ -29,6 +33,8 @@ Zech 1:1,
 ᵐ5
 
 Αδδω.
+
+@@SPLIT:sense@@
 
 3. a Levite עִדּוֺ
 1Chr 6:6
@@ -42,6 +48,8 @@ Zech 1:1,
 ^L^
 
 Αδδω.
+
+@@SPLIT:sense@@
 
 4. a priestly name עִדּוֺא
 van d. H.
@@ -68,6 +76,8 @@ Qr
 ^L^
 
 τῳ Αδαια.
+
+@@SPLIT:sense@@
 
 5. a seer עִדּוֺ הַחֹזֶה
 2Chr 12:15 =

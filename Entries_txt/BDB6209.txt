@@ -23,6 +23,8 @@ be lowly subsmissive, see Rahlfs^
 עַנִּי Pa`el oppress; Syriac Ethpe`el humble oneself,
 and derivatives); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 1 singular עָנִיתִי
 Ps 116:10
@@ -43,6 +45,8 @@ Isa 31:4
 be afficted
 Ps
 116:10; Ps 119:67; Zech 10:2.
+
+@@SPLIT:stem@@
 
 Niph`al
 Perfect 1 singular נַעֲניתִי
@@ -70,6 +74,8 @@ be afficted
 Ps
 119:107;
 Isa 53:7; Isa 58:10.
+
+@@SPLIT:stem@@
 
 Piel.
 Perfect 3 masculine singular עִנָּה
@@ -178,6 +184,8 @@ by an oath Num
 P
 ).
 
+@@SPLIT:stem@@
+
 Pu`al
 Perfect 1 singular עֻנֵּיתִי
 Ps
@@ -204,12 +212,16 @@ be humbled by fasting Lev 23:29 (
 P
 ).
 
+@@SPLIT:stem@@
+
 Hiph`il
 Imperfect 2 masculine singular suffix תַּעֲנֵם
 1Kgs
 8:35 =
 2Chr 6:26
 afflict, in discipline.
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Perfect 3 masculine singular הִתְעַנָּה

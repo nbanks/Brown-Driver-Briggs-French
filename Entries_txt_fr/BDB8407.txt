@@ -3,6 +3,7 @@ hébreu biblique
 
 II. [שָׁבַח] verbe
 
+@@SPLIT:stem@@
 Pi`el
 louer, célébrer (aramaïsme tardif, comparer araméen (y compris ancien araméen) שׁבח,
 [placeholder5383: Placeholders/5383.gif], Pa`el louer voir Schw^Idioticon
@@ -31,6 +32,7 @@ comparer) ; la joie, comme meilleure chose, Parfait 1 singulier שִׁבַּחְ
 Qo 8,15
 .
 
+@@SPLIT:stem@@
 Hitph.
 se glorifier de (בְּ) : Infinitif construit
 הִשְׁתַּבֵּחַ

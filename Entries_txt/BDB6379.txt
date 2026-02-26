@@ -8,6 +8,8 @@ Ps 52:4
 ) feminine
 razor, sheath; —
 
+@@SPLIT:sense@@
+
 1.
 
 a.
@@ -34,6 +36,8 @@ b. construct הַסֹּפֵר
 ת
 Jer 36:23
 = penknife.
+
+@@SPLIT:sense@@
 
 2.
 sheath, always suffix of sword: בְּתַעְרָהּ

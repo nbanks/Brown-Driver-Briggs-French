@@ -31,6 +31,8 @@ Ezek 44:24
 Num 15:3 + 6 t.
 suffixes; —
 
+@@SPLIT:sense@@
+
 1.
 appointed time:
 
@@ -199,6 +201,8 @@ Ke
 
 וַיְכַלּוּ.
 
+@@SPLIT:sense@@
+
 2.
 appointed meeting:
 לְכָלחַֿי
@@ -224,6 +228,8 @@ gods in the extreme north, the oriental Olympus, Persian
 Alborg
 , Hindu Meru, Babylon. Aralli, compare Len^Origines ii, ch. ix^).
 
+@@SPLIT:sense@@
+
 3.
 appointed place:
 
@@ -244,8 +250,12 @@ Ps 74:8 =
 Sota
 Ps 9:15.
 
+@@SPLIT:sense@@
+
 4.
 appointed sign, signal, Judg 20:38.
+
+@@SPLIT:sense@@
 
 5.
 אֹהֶל מוֺעֵד

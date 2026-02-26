@@ -5,6 +5,8 @@ Biblical Aramaic
 noun masculine and feminine
 four; —
 
+@@SPLIT:sense@@
+
 1.
 masculine: before feminine plural noun
 Dan 7:2; Dan 7:3
@@ -16,6 +18,8 @@ Ezra 6:17 after
 feminine plural noun
 Dan 7:6 as predicate
 אַרְבַּ֑ע Dan 7:17.
+
+@@SPLIT:sense@@
 
 2.
 feminine: before masculine plural noun

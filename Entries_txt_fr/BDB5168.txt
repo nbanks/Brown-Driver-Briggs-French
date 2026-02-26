@@ -19,6 +19,7 @@ id.,
 [placeholder3292: Placeholders/3292.gif]
 colare (stillando), expercolare) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin pluriel נָָֽטְפוּ
 Jg 5,4 + 2 t. ;
@@ -50,6 +51,7 @@ ses lèvres distillent la myrrhe (peut-être du doux souffle). Intransitif seule
 Jb 29,22
 sur eux ma parole tombait goutte à goutte.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 masculin pluriel וְהִטִּיפוּ consécutif Am 9,13
 Imparfait 2 masculin singulier תַּטִּיף

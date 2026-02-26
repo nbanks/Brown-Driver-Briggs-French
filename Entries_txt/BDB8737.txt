@@ -13,6 +13,8 @@ Deut 25:15 +;
 plural שְׁלֵמוֺת
 Deut 27:6; Josh 8:31 —
 
+@@SPLIT:sense@@
+
 1.
 complete:
 
@@ -39,6 +41,8 @@ E
 b.
 finished: stones for temple 1Kgs 6:7 temple 2Chr 8:16.
 
+@@SPLIT:sense@@
+
 2.
 safe, unharmed, of person Gen 33:18 (
 P
@@ -47,6 +51,8 @@ Gen 28:21
 not proper name, of a location as
 Vrss
 ).
+
+@@SPLIT:sense@@
 
 3.
 in covt. of peace, friendship, with אֵת

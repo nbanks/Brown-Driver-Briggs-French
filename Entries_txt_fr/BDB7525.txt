@@ -19,6 +19,7 @@ Es 1,40 + ; suffixe
 קְצִינַיִח
 Es 22,3 —
 
+@@SPLIT:sense@@
 1.
 chef, commandant de guerre Jos 10,24 (
 J
@@ -28,11 +29,13 @@ E
 ; Jg
 11,11 (|| ראֹשׁ), Dn 11,18.
 
+@@SPLIT:sense@@
 2.
 dictateur,
 
 Es 3,67.
 
+@@SPLIT:sense@@
 3. plus généralement, dirigeant, homme d'autorité, Es 1,10 ; Es 22,3 ; Mi 3,1 ; Mi 3,9 des fourmis, ׳
 אֵין ק
 Pr 6,7 (+

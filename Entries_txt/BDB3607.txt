@@ -13,6 +13,8 @@ suffix עֲדָתִי
 Job 16:7 + 9 t.
 suffixes; —
 
+@@SPLIT:sense@@
+
 1.
 עֲדַתאֵֿל
 Ps 82:1
@@ -63,6 +65,8 @@ Ps 106:17,
 compare Ps
 106:18.
 
+@@SPLIT:sense@@
+
 2. of animals
 ׳
 ע
@@ -73,6 +77,8 @@ Ps 68:31
 ע
 Judg 14:8
 a swarm of bees.
+
+@@SPLIT:sense@@
 
 3. elsewhere of Israel Hos 7:12
 עֲדָתָם i.e. the whole assemblage of them; 1Kgs 8:5 (= 2Chr 5:6) ׳

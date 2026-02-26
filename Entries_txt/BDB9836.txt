@@ -3,8 +3,12 @@ Biblical Aramaic
 
 [אֶצְבַּע] noun feminine
 
+@@SPLIT:sense@@
+
 1.
 finger;
+
+@@SPLIT:sense@@
 
 2.
 toe (
@@ -13,8 +17,12 @@ toe (
 
 Syriac; Biblical Hebrew id.); — plural
 
+@@SPLIT:sense@@
+
 1. absolute אֶצְבְּעָן
 Dan 5:5.
+
+@@SPLIT:sense@@
 
 2. emph תָָ֯א
 Dan 2:41 construct

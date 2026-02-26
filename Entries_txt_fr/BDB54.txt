@@ -4,6 +4,7 @@ hébreu biblique
 II. אָבֵל
 nom
 
+@@SPLIT:sense@@
 1. prairie (?) 1 S 6,18
 
 ᵑ0
@@ -18,6 +19,7 @@ mais lire אֶבֶן comparer 1 S 6,14
 We
 Dr.
 
+@@SPLIT:sense@@
 2.
 nom propre [d'un lieu] ville dans le nord d'Israël 2 S 20,18, près de Beth Maaka 2 S 20,14 = אָבֵל בֵּית
 מַעֲכָה
@@ -35,6 +37,7 @@ Dr), 1 R 15,20 ; 2 R 15,29 = מַיִם
 Abil el †amµ, prairie du blé au nord-ouest de Dan et au sud de
 Mutulleh Rob^BR III, 372^).
 
+@@SPLIT:sense@@
 3.
 אָבֵל הַשִּׁטִּים
 nom propre [d'un lieu] (= prairie d'acacias) dans les basses terres de Moab Nb 33,49 =
@@ -42,16 +45,19 @@ nom propre [d'un lieu] (= prairie d'acacias) dans les basses terres de Moab Nb 3
 Nb 25,1 ; Mi 6,5 (= Tel Kefrein
 (?) Tristr & Merrill^PESoc. 4th Statement, 89^).
 
+@@SPLIT:sense@@
 4.
 אָבֵל כְּרָמִים
 nom propre [d'un lieu] (= prairie de vignes) en Ammon Jg 11,33 (voir Euseb.
 Ἀβελαμπελων).
 
+@@SPLIT:sense@@
 5.
 אָבֵל מְחוֺלָה
 nom propre [d'un lieu] (= prairie de la danse) Jg 7,22 ; 1 R 4,12 lieu de naissance d'Élisée 1 R 19,16 (voir Euseb.
 Ἀβελμαελαι).
 
+@@SPLIT:sense@@
 6.
 אָבֵל מִצְרַיִם
 nom propre [d'un lieu] (= prairie d'Égypte, c.-à-d. fertile comme l'Égypte ?) à l'est du

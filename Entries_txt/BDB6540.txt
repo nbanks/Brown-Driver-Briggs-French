@@ -20,6 +20,8 @@ be cold;
 פּוּג
 cease, be helpless; Late Hebrew id. vanish); —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 3 masculine singular וַיָּפָג לִבּוֺ
 Gen 45:26 3
@@ -28,6 +30,8 @@ Ps 77:3 of hand (si
 vera lectio, see
 נגר
 ), i.e. drop helpless; Hab 1:4 of תּוֺרָה, i.e. be ineffective.
+
+@@SPLIT:stem@@
 
 Niph`al
 Perfect 1 singular נְפוּגֹתִי וְנִדְכֵּיתִי

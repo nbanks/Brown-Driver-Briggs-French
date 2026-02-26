@@ -27,6 +27,8 @@ Jer 44:21,
 שָׂרֵיהֶם
 Isa 3:4 +; —
 
+@@SPLIT:sense@@
+
 1.
 chieftain, leader:
 
@@ -61,6 +63,8 @@ compare גְּדוּד
 1Kgs 11:24
 , plural 2Sam 4:2
 .
+
+@@SPLIT:sense@@
 
 2.
 vassal, noble, official, under king (acting, on occasion, as counselor, commander, etc.):
@@ -132,6 +136,8 @@ city officials
 שׂ
 Judg 8:6; Judg 8:14
 (distinguished from זְקֵנִים), compare 2Kgs 10:1; 2Chr 29:20.
+
+@@SPLIT:sense@@
 
 3. specifically military, = captain, general:
 
@@ -240,6 +246,8 @@ captain of the chariotry
 1Kgs 9:22
 = 2Chr 8:9.
 
+@@SPLIT:sense@@
+
 4.
 
 a.
@@ -312,6 +320,8 @@ Kit, Be
 יָסֹר = יָשׂר; see another view יָסַר
 Qal.
 
+@@SPLIT:sense@@
+
 5.
 of religious office:
 שָׂרֵי הַכֹּהֲנִים
@@ -355,6 +365,8 @@ Klo
 Che^Hpt^
 Gr (substantially).
 
+@@SPLIT:sense@@
+
 6. late, of representative leaders of people, tribal heads, ׳
 שׂ
 ׳
@@ -392,6 +404,8 @@ Ezra 8:29;
 1Chr 27:1;
 Neh 7:70).
 
+@@SPLIT:sense@@
+
 7. late, as term of rank and dignity, Isa 23:8 (compare 'merchant- princes'), Job 3:15; Job 29:9 (||
 נְגִירִים), Job 34:19; Ps 45:17; Ps 82:7; Ps 148:11, opposed to עבד(יםׅ
 Prov 19:10
@@ -400,6 +414,8 @@ Eccl 10:7
 formidable foes
 Ps 119:23; Ps 119:161.
 
+@@SPLIT:sense@@
+
 8. = patron-angel, only Daniel: שַׂר (מַלְכוּת) פָּרַס
 Dan 10:13;
 Dan 10:20,
@@ -407,6 +423,8 @@ Dan 10:20,
 ׳
 שׂ Dan 10:20 specifically of מִיכָאֵל Dan 10:13; Dan 10:21;
 Dan 12:1
+
+@@SPLIT:sense@@
 
 9.
 שַׂרהַֿצָּבָא

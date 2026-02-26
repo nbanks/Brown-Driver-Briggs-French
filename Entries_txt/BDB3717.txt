@@ -17,6 +17,8 @@ descend; Sabean ורד and הורד
 id., DHM in MV
 ) —
 
+@@SPLIT:stem@@
+
 Qal_306_
 Perfect
 יָרַד
@@ -551,11 +553,13 @@ of sword descending on (על) Edom Isa 34:5.
 
 j.
 figurative of
-words of talebearer; יָרְדוּ חַדְרֵיבָּֿ֑טֶן
+words of talebearer; יָרְדוּ חַדְרֵיבָּֿ֑טֶן
 
 Prov 18:8
 =
 Prov 26:22. — See also above 1.k.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 masculine singular הוֺרִד
@@ -840,6 +844,8 @@ compare also הוֺרִידוּ
 Lam 2:10
 
 the virgins of Jerusalem have bowed down their heads to the ground.
+
+@@SPLIT:stem@@
 
 Hoph`al
 Perfect

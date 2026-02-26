@@ -25,12 +25,16 @@ Hab 1:6; Ps 132:5
 construct מִשׁכְּנוֺת
 Ps 87:2 +, etc.; —
 
+@@SPLIT:sense@@
+
 1.
 dwelling-place:
 מִשְׁכַּןקֹֿרַח דָּתָן וַאֲבִירָם; Num 16:24; Num 16:27 (
 P
 ) [but here originally ׳
 מִשְׁכַּן י; see Commentaries]; in poetry = tomb, Isa 22:16.
+
+@@SPLIT:sense@@
 
 2. elsewhere in singular always of abode of
 ׳
@@ -115,6 +119,8 @@ Exod 40:2; Exod 40:6; Exod 40:29;
 1Chr 23:26
 
 compare מִשְׁכָּן (probably gloss on אהל), 2Sam 7:6 || 1Chr 17:5, + 76 t. P.
+
+@@SPLIT:sense@@
 
 3. plural מִשְׁכָּנוֺת, dwellings (only in poetry):
 

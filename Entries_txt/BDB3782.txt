@@ -28,6 +28,8 @@ VB
 ; מוֺשְׁבוֺתֵיהֶם
 Ezek 6:14 —
 
+@@SPLIT:sense@@
+
 1.
 
 a.
@@ -45,6 +47,8 @@ sitting = those sitting, sitting company or assembly, מוֺשַׁב
 עֲבָדָיו
 1Kgs 10:5
 (|| מַעֲמַד מְשָֽׁרְתָיו) = 2Chr 9:4 so Ps 1:1; Ps 107:32 (|| קהל).
+
+@@SPLIT:sense@@
 
 2.
 
@@ -132,9 +136,13 @@ Lev
 H
 ).
 
+@@SPLIT:sense@@
+
 3.
 situation of city 2Kgs 2:19
 location of image Ezek 8:3.
+
+@@SPLIT:sense@@
 
 4.
 time of dwelling
@@ -143,6 +151,8 @@ Exod 12:40
 (
 P
 ).
+
+@@SPLIT:sense@@
 
 5.
 collective = those dwelling, ׳

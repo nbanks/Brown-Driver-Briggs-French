@@ -6,6 +6,8 @@ verb
 cease (Sabean חדל
 be negligent, SabDenkm^76^) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 חָדַל
@@ -127,6 +129,8 @@ Amos 7:5; 1Kgs 22:6;
 41:8; Zech 11:12; Ps 49:9; Job 16:6; 2Chr 25:16 specifically of refusal to hear Ezek 2:5; Ezek 2:7; Ezek 3:11;
 Ezek 3:27
 (all opposed to שָׁמַע).
+
+@@SPLIT:stem@@
 
 Hoph`al
 Perfect (contracted) with interrogative particle הֶחֳדַלְתִּי

@@ -26,6 +26,7 @@ Ex 8,15 ; Ex 9,11 construit
 חַרְטֻמֵּי
 Gn 41,8 + 2 t. ; —
 
+@@SPLIT:sense@@
 1.
 magiciens d'Égypte Gn 41,8 (
 E
@@ -39,6 +40,7 @@ E
 P
 ).
 
+@@SPLIT:sense@@
 2.
 magiciens de Babylone Dn 2,2 (|| אַשָּׁפִים, מְכַשְּׁפִים,
 כַּשְׂדִּים).

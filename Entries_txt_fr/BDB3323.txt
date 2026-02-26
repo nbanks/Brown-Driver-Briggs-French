@@ -17,6 +17,7 @@ Nb 31,10 ; Gn 25,16
 טִירוֺתֵיהֶם
 Ez 25,4 —
 
+@@SPLIT:sense@@
 1.
 campement, surtout campement circulaire de tribus nomades, mentionné avec חצר
 
@@ -27,12 +28,14 @@ Ez 25,4 (||
 מִשׁכניהם) ; campement (poésie) = habitation Ps 69,26 (|| אהליהם
 ) ; plus généralement, 1 Ch 6,39 (|| מושׁבות).
 
+@@SPLIT:sense@@
 2. en métaphore כָּ֑סֶף
 ׳
 ט
 Ct 8,9
 un créneau d'argent.
 
+@@SPLIT:sense@@
 3.
 rangée de pierres, seulement pluriel טִירוֺת
 Ez 46,23

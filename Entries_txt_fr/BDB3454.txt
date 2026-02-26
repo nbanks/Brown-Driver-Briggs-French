@@ -11,6 +11,7 @@ idû
 sabéen ידע, surtout dans les noms propres composés DHM^ZMG 1875,
 612^) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 יָדַע
@@ -557,6 +558,7 @@ Pr
 Qo 8,16
 .
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 נוֺדַע
@@ -690,6 +692,7 @@ Ps 74,5.
 Hiph`il) Jr 31,19, au sens spirituel, par le
 châtiment.
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 2 masculin singulier יִדַּ֫עְתָּ, seulement
 ידעתה
@@ -712,6 +715,7 @@ Aq
 Symm
 .
 
+@@SPLIT:stem@@
 Po.
 Parfait
 יוֺדַעְתִּי
@@ -729,6 +733,7 @@ lire יוֺעַדְתִּי ou יָעַדְתִּי, de
 We
 Dr.
 
+@@SPLIT:stem@@
 Poual
 Participe
 connu
@@ -769,6 +774,7 @@ Qr
 
 מוֺדַע q. voir ci-dessous)
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait
 הוֺדִיעַ
@@ -1011,6 +1017,7 @@ qui déclarent, aux nouvelles lunes, parmi (les choses) qui
 doivent
 venir.
 
+@@SPLIT:stem@@
 Hoph`al
 Parfait
 הוֺדַע
@@ -1044,6 +1051,7 @@ Lv 4,28 (
 P
 ).
 
+@@SPLIT:stem@@
 Hithpa`el
 Imparfait
 אֶתְוַדָּ֑ע

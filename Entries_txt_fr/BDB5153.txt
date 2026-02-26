@@ -8,6 +8,7 @@ verbe
 [placeholder3286: Placeholders/3286.gif]
 étendre) ; —
 
+@@SPLIT:stem@@
 Qal_137_
 Parfait 3 masculin singulier ׳
 נ
@@ -351,6 +352,7 @@ Ps 21,12
 (
 עַל).
 
+@@SPLIT:stem@@
 Niph`al
 être étendu ; — Parfait 3 masculin pluriel נִטָּ֫יוּ
 
@@ -367,6 +369,7 @@ masculin pluriel יִנָּטוּ
 Jr 6,4 (des
 ombres, || פָּנָה הַיּוֺם).
 
+@@SPLIT:stem@@
 Hiphil_75_
 Parfait
 הִטָּה

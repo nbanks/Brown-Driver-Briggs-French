@@ -13,6 +13,8 @@ Prov 27:7
 masculine plural שְׂבֵעִים
 1Sam 2:5 —
 
+@@SPLIT:sense@@
+
 1.
 
 a.
@@ -39,6 +41,8 @@ Gen 25:8 (
 
 P
 ; + id. + זָקֵן)
+
+@@SPLIT:sense@@
 
 2. bad sense, surfeited with trouble etc.: שְׂבַע רֹגֶז
 Job 14:1,

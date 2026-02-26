@@ -12,6 +12,7 @@ Am 3,7 ; Pr 3,32
 סֹדָם
 Gn 49,6 —
 
+@@SPLIT:sense@@
 1.
 conseil, en conversation familière ; —
 
@@ -60,6 +61,7 @@ Ps 89,8
 Gn 49,6
 (|| קהל).
 
+@@SPLIT:sense@@
 2.
 délibération, prise par ceux en conversation familière :
 

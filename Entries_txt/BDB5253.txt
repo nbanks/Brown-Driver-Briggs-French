@@ -13,12 +13,16 @@ furnish with sandals, shoe horse or camel; Syriac
 [placeholder3356: Placeholders/3356.gif]
 shoe horse); —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 1 singular suffix וָאֶנְעֲלֵךְ
 תָּ֑חַשׁ
 Ezek 16:10
 and I shod thee with
 תחשׁ (q. v.).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imperfect 3 masculine plural suffix וַיַּנְעִלוּם

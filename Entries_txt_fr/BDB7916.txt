@@ -8,6 +8,8 @@ salive, crachat ; comparer arabe
 [placeholder5065: Placeholders/5065.gif]
 baver) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Parfait 3 masculin singulier רָר בְּשָׂרוֺ אֶתזֿוֺבוֺ
 Lv 15,3

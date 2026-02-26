@@ -15,6 +15,7 @@ que, afin que, et
 alors, enclitique, comme le latin nam dans quisnam?
 ) —
 
+@@SPLIT:sense@@
 1.
 que (ὅτι, allemand dass) :
 
@@ -357,6 +358,7 @@ ajouté aux prépositions כִּי les convertit, comme אֲשֶׁר
 יַעַן, עַד, עַל, עֵקֶב, תַּחַת
 .
 
+@@SPLIT:sense@@
 2.
 
 a.
@@ -580,6 +582,7 @@ Now), Ps 119,88 (Ew
 
 De).
 
+@@SPLIT:sense@@
 3.
 Parce que, puisque
 ὅτι —
@@ -871,6 +874,7 @@ Quand ils t'humilient, et tu dis (= te plains) Orgueil ! il sauvera, etc.
 כִּיאִֿם est lu par les
 Massorètes : Fr^MM 241^) —
 
+@@SPLIT:sense@@
 1. chaque particule conservant sa force indépendante, et se rapportant à une proposition
 
 différente :
@@ -914,6 +918,7 @@ Jr 37,20 ; Am 5,22,
 mais si
 Jr 7,5.
 
+@@SPLIT:sense@@
 2. (environ 140 t.) les deux particules étant étroitement jointes, et se rapportant à la
 même
 proposition —

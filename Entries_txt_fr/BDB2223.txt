@@ -13,6 +13,7 @@ combattre
 Os^4, l. 17^, tuer
 SabDenkm^24. 25^) —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier ׳
 ה
@@ -354,6 +355,7 @@ Jb 5,2 ; Ps 135,11
 Ps
 136,19 ; Ps 136,20 (mais dans les 3 derniers le premier objet est à l'accusatif).
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait
 
@@ -376,6 +378,7 @@ Ez
 Co
 בַּהֲרֹג חֶרֶב.
 
+@@SPLIT:stem@@
 Pu`al
 Parfait 3 masculin singulier הֹרָ֑ג
 Es

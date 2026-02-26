@@ -15,6 +15,8 @@ Isa 53:1 plural
 absolute שְׁמֻעוֺת
 Dan 11:44 —
 
+@@SPLIT:sense@@
+
 1.
 report, sometimes after שָׁמַע
 1Sam 2:24; 1Sam 4:19 (=
@@ -53,6 +55,8 @@ Now^
 
 Obad 1:1
 ^).
+
+@@SPLIT:sense@@
 
 2. = mention
 בְּפִיךְ

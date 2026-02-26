@@ -33,6 +33,7 @@ Lewy^Framdw. 118 s.^ ; — sur le lien entre les sens comparer
 peser transitif et intransitif = allemand wägen, wiegen, aussi
 heave, heavy, heft (= poids, obs. ou familier)) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier ׳
 שׁ
@@ -85,6 +86,7 @@ Est 3,9
 , עַלגִּֿנְזֵי הַמֶּלֶךְ
 Est 4,7
 
+@@SPLIT:stem@@
 Niph`al
 être pesé :
 

@@ -5,6 +5,8 @@ hébreu biblique
 dénominatif
 être méchant, agir méchamment ; —
 
+@@SPLIT:stem@@
+
 Qal
 Parfait 1 singulier רָשַׁעָתִּי
 2 S 22,22 +,
@@ -23,6 +25,8 @@ Jb 9,29 ; Jb 10,7 —
 
 2.
 être coupable, Jb 9,29 ; Jb 10,7 ; Jb 10,15.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Parfait 3 masculin singulier הִרְשִׁיעַ

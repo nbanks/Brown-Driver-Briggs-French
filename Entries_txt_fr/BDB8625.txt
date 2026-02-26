@@ -10,6 +10,7 @@ déborder, rincer ou laver (hébreu tardif id., de même judéo-araméen
 [placeholder5508: Placeholders/5508.gif]
 id., Cuche) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier ׳
 שׁ
@@ -69,6 +70,7 @@ P
 Jb
 14,19.
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait 3 masculin singulier יִשָּׁטֵף בַּמַּיִם
 Lv 15,12
@@ -81,6 +83,7 @@ Dn
 être balayés (vaincus), lire probablement יִשָּׁטֵף (pour
 יִשְׁטֹף), aussi Dn 11,26 (comparer Dr).
 
+@@SPLIT:stem@@
 Pu`al
 Parfait 3 masculin singulier וּמֹרַק וְּשֻׁטַּף בַּמָּ֑יִם
 Lv 6,21

@@ -6,6 +6,7 @@ languir, se flétrir, se faner (apparemment √ secondaire de
 אמל
 q. v.) ; —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 3 masculin singulier יִמַּל
 Jb 18,16
@@ -25,6 +26,7 @@ Jb 24,24 (||
 Ps 37,2 (||
 יִבּוֺלוּן).
 
+@@SPLIT:stem@@
 Po'l.
 Imparfait
 יְמוֺלֵל

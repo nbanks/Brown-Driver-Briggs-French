@@ -55,6 +55,8 @@ as to which, the wind drives it = which the wind drives, etc.; & so אֲשֶׁר
 Sometimes also (see below) the relation expressed by it is specifically temporal, local causal, etc. More
 particularly
 
+@@SPLIT:sense@@
+
 1.
 it includes its pronominal antecedent, whether in the nominative or oblique cases, as Num 22:6
 וַאֲשֶׁר תָּאֹר יוּאָר and he whom thou cursest is cursed, Exod 4:12 and I will
@@ -76,6 +78,8 @@ than those whom; Lev 27:24
 to him from whom he bought it, Num 5:7; Isa 24:2
 כַּאֲשֶׁר נשֶׁא בוֺ
 like him against whom there is a creditor.
+
+@@SPLIT:sense@@
 
 2.
 instances of אֲשֶׁר followed by a pronominal affix, or by שָׁם,
@@ -116,6 +120,8 @@ Ps 16:3
 )
 are the nobles, in whom,' etc.
 
+@@SPLIT:sense@@
+
 3.
 sometimes (though rarely) the defining adjunct is a pronoun of 1 or 2 person as well as of 3
 person. In such cases it is strictly to be rendered I who . . ., thou who, etc.
@@ -137,6 +143,8 @@ Exod 14:13
 for
 ye who have seen the Egyptians to-day, — ye shall not see them again for ever! (compare
 Ps 41:9).
+
+@@SPLIT:sense@@
 
 4.
 the defining pronominal adjunct is dispensed with
@@ -302,12 +310,16 @@ pronoun, compare Deut
 (
 זֶה):23 +; compare 2Sam 11:16; 2Kgs 17:12; 2Kgs 21:4.
 
+@@SPLIT:sense@@
+
 5.
 אֲשֶׁר
 sometimes in poetry = one who, a man who (men who
 ), ὅστις, οἵτινες, Ps 24:4; Ps 55:20; Ps 95:4; Ps 95:5; Job 4:19;
 Job 5:5; Job 9:5 (
 Hi) Job 15:17.
+
+@@SPLIT:sense@@
 
 6.
 אֲשֶׁר
@@ -348,6 +360,8 @@ Amos 5:1
 which I
 take
 up over you (as) a dirge.
+
+@@SPLIT:sense@@
 
 7.
 
@@ -459,6 +473,8 @@ with (as || Jer 52:14); 2Chr 34:22 read וַאֲשֶׁר אָמַר הַמֶּל
 
 ) and those whom the king appointed (abbreviated from 2Kgs 22:14); compare Ew^§
 292 a, b^ with note.
+
+@@SPLIT:sense@@
 
 8.
 

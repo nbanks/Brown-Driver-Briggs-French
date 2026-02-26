@@ -13,6 +13,8 @@ Aph`el, Ithpe`el; Arabic
 [placeholder2537: Placeholders/2537.gif] is wound;
 [placeholder2538: Placeholders/2538.gif] also speak to, converse with); —
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect 2 feminine singular וְנִכְלַמְתְּ consecutive Jer 22:22 + 2 t.; 1
 singular נִכְלַמְתִּי
@@ -76,6 +78,8 @@ Ps
 40:15; Ps
 70:3.
 
+@@SPLIT:stem@@
+
 Hiph`il
 Perfect 3 masculine singular suffix הִכְּלִמוֺ
 1Sam
@@ -133,6 +137,8 @@ the land).
 exhibit shame
 Jer
 6:15 (|| בוֺשׁ).
+
+@@SPLIT:stem@@
 
 Hoph`al
 Perfect

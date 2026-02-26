@@ -22,6 +22,7 @@ construit מַלְאֲכוֺת
 suffixe מַלְאֲכוֺתֶיךָ
 Ps 73,28 —
 
+@@SPLIT:sense@@
 1.
 occupation, affaire, מַה מְּלַאכְתְּךָ
 quelle est ton occupation
@@ -31,6 +32,7 @@ Gn 39,11 (
 J
 ) ; diligent dans les affaires Pr 22,29 négligent dans les affaires Pr 18,9.
 
+@@SPLIT:sense@@
 2.
 bien dont on s'occupe, רעהוּ
 ׳
@@ -49,6 +51,7 @@ grandes possessions
 2 Ch 17,13
 .
 
+@@SPLIT:sense@@
 3.
 travail comme chose faite ou produite :
 
@@ -122,6 +125,7 @@ Nb 29,7 (
 P
 ).
 
+@@SPLIT:sense@@
 4.
 art, כל מלאכה
 dans toute sorte d'art, expression de
@@ -136,6 +140,7 @@ Ex 35,31 ; Ex 35,33 ; Ex 35,35 et Chroniques : 1 Ch 22,15 ; 1 Ch 28,21
 29,5 ;
 1 R 7,14.
 
+@@SPLIT:sense@@
 5.
 service, usage
 Lv 7,24 ;
@@ -146,6 +151,7 @@ Jg 16,11
 Ez 28,13
 .
 
+@@SPLIT:sense@@
 6.
 affaires publiques :
 

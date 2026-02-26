@@ -5,6 +5,8 @@ Biblical Hebrew
 noun [masculine]
 might, bones; —
 
+@@SPLIT:sense@@
+
 1.
 might, construct יָדִי
 ׳
@@ -25,6 +27,8 @@ Isa 11:15
 
 ׳
 בַּעְיָם ר).
+
+@@SPLIT:sense@@
 
 2.
 bones (collective): suffix עָצְמִי

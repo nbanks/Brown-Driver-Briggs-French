@@ -4,6 +4,8 @@ Biblical Hebrew
 [זִנֵּב] verb
 denominative
 
+@@SPLIT:stem@@
+
 Pi`el
 cut off, or smite, the tail, only figurative, of hostile attack in war; Perfect
 consecutive 2 masculine plural וְזִנַּבְתֶּם

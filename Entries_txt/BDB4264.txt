@@ -44,6 +44,8 @@ denoting direction (not properly motion, as אֶל) towards,
 or reference to; and hence used in many varied applications, in some of which the idea of direction
 predominates, in others that of reference (compare Gies^Die Präp. Lamed, 1876^): —
 
+@@SPLIT:sense@@
+
 1. very often, with various classes of verbs, to, towards, for: namely
 
 a. verbs of looking, listening, attending, waiting, etc., as
@@ -369,6 +371,8 @@ addition (rare); Isa 28:10; Isa 28:13
 אחת לאחת (adding) one to another, Ezra 8:24; Neh 11:17 (על
 is more usual in this sense).
 
+@@SPLIT:sense@@
+
 2. Expressing locality, at, near, idiomatic in the phrases לִפְנֵי
 = before (sometimes after verbs of motion, as 1Kgs 1:23, but very often otherwise),
 לְעֵינֵי
@@ -389,6 +393,8 @@ Prov 8:3; Hos 5:1
 לְמִצְפָּה, 2Chr 35:15. לִפְנִימָה = within, 1Kgs 6:30;
 Ezek 40:16
 .
+
+@@SPLIT:sense@@
 
 3. To denote the object of a verb —
 
@@ -520,6 +526,8 @@ Jer 30:17;
 Lam 4:4.) compare
 Ges^«GKC:117n»§ 117n^.
 
+@@SPLIT:sense@@
+
 4.
 Into (εἰς), of a transition into a new state or condition, or into a new character
 or
@@ -635,6 +643,8 @@ Hab 2:7; Ps 33:12; Ps 94:22; Ps 132:13; Ps 139:22; Job 13:24
 
 ותחשׁבני
 לאויב לך, Job 16:12 etc.
+
+@@SPLIT:sense@@
 
 5.
 With reference to, namely
@@ -1554,14 +1564,14 @@ Num 22:34
 שׁובו לכם, 1Sam 22:5; 1Sam
 26:11
 וְנֵָֽלְכָה לָנוּ, 1Sam 26:12
-וַיֵּלְכוּ לָהֶם, 2Sam 2:21
+וַיֵּלְכוּ לָהֶם, 2Sam 2:21
 נְטֵה לְךָ, 2Sam 2:22; 1Kgs
 17:3;
 Isa 31:8
 נָס לוֺ, Isa 40:9
 עֲלִי לָךְ
 Jer 5:5
-ֵאלְכָה לִי, Hos 8:9 a wild ass כֹּדֵד
+ֵאלְכָה לִי, Hos 8:9 a wild ass כֹּדֵד
 לוֺ going alone at its
 pleasure, Mic 1:11; Ps 58:8
 
@@ -1585,7 +1595,7 @@ Ezek 37:11
 נִגְזַרְנוּ לָנוּ we are quite cut off, Job 6:19
 קִוּוּ לָמוֺ (implying that they fed themselves
 on hope), Job 15:28
-יֵ שְׁבוּ לָמוֺ which should not sit (be inhabited), Job 19:29
+יֵ שְׁבוּ לָמוֺ which should not sit (be inhabited), Job 19:29
 גּוּרוּ לָכֶם, Song 2:17; Song
 8:14
 דְּמֵה לְךָ, and the frequent הִשָּׁמֶרלְֿךָ take
@@ -1731,7 +1741,7 @@ according to their simplicity, i.e. unsuspectingly (so 1Kgs 22:34), 1Kgs 9:11
 לְכָלחֶֿפְצוֺ, Isa 54:16; Ezek 22:6
 לִזְרֹעוֺ, Job 12:5; Ps
 119:91; Ps 119:154
-לְאִמְִרתְךָ (|| ׳
+לְאִמְִרתְךָ (|| ׳
 כְּ Ps 119:58 Ps 119:116 Ps
 119:170), Eccl 1:10 long ago לְעולמים
 
@@ -1745,7 +1755,7 @@ itself also, in various figurative applications, has the force of
 according to, Gen 47:12, etc.
 (see
 פֶּה
-); and in יֵשׁ (אֵין) לְאֵל יָדְךָ it is (not)
+); and in יֵשׁ (אֵין) לְאֵל יָדְךָ it is (not)
 according to the power of thy hand. Similarly Deut 11:11
 לִמְטַר הַשָּׁמַיִם
 after the manner of the rain of heaven, i.e. as the rain
@@ -1792,6 +1802,8 @@ of, at, Job 29:3
 Job
 21:12;
 Ezra 3:13.
+
+@@SPLIT:sense@@
 
 6. Of time:
 
@@ -1912,6 +1924,8 @@ d.
 for, during, Isa 63:18
 לַמִּצְעָר (si vera lectio), 2Chr 11:17
 לשׁנים שׁלושׁ, 2Chr 29:17.
+
+@@SPLIT:sense@@
 
 7. With an Infinitive (Ges^«GKC:114»§
 114^, 2), ל denotes

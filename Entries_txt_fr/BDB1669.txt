@@ -26,6 +26,7 @@ Str et la plupart font dériver le sens hébreu de l'arabe b
 ; montrer les dents, puis grogner, quereller (comparer arabe conjugaison
 III), mais voir Gr^l.c^.) —
 
+@@SPLIT:stem@@
 Hithpa`el
 Parfait
 הִתְגַּלַּע

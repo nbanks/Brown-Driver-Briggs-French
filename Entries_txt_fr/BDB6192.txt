@@ -5,6 +5,7 @@ hébreu biblique
 nom [masculin]
 délicatesse, luxe, délice exquis ; —
 
+@@SPLIT:sense@@
 1.
 luxe :
 ׳
@@ -13,6 +14,7 @@ Pr 19,10
 ailleurs pluriel ; construit תַּעֲנֻגוֺת
 Qo 2,8.
 
+@@SPLIT:sense@@
 2. suffixe בְּנֵי תַּעֲנוּנָ֑יִךְ
 Mi 1,16
 tes fils délicats ; בֵּית תַּעֲנֻגֶיהָ
@@ -23,6 +25,7 @@ Mi 2,9
 We
 Now.
 
+@@SPLIT:sense@@
 3.
 délice de l'amour, pluriel absolu בַּתַּעֲנוּגִים
 Ct 7,7 (Perles^Anal. 22 s.^ conjecture בַּת עַמִּינָדָב

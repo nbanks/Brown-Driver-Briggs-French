@@ -10,6 +10,7 @@ fendre, labourer, arabe
 [placeholder2012: Placeholders/2012.gif]
 labourer) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 חָֽרְשׁוּ
@@ -101,11 +102,13 @@ Pr 12,20
 ; Pr
 14,22 mais aussi חֹרְשֵׁי טוֺב Pr 14,22.
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait 3 féminin singulier צִיּוֺן שָׂדֶה תֵּחָרֵשׁ
 Mi 3,12
 Sion, comme un champ elle sera labourée = Jr 26,18.
 
+@@SPLIT:stem@@
 Hiph`il
 Participe
 מַחֲרִישׁ רָעָה עַלֿ

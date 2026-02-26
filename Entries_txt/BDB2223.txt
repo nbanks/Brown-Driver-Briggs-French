@@ -13,6 +13,8 @@ fight
 Os^4, l. 17^, kill
 SabDenkm^24. 25^) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular ׳
 ה
@@ -354,6 +356,8 @@ Job 5:2; Ps 135:11
 Ps
 136:19; Ps 136:20 (but in last 3 first object is accusative).
 
+@@SPLIT:stem@@
+
 Niph`al
 Imperfect
 
@@ -375,6 +379,8 @@ Ezek
 
 Co
 בַּהֲרֹג חֶרֶב.
+
+@@SPLIT:stem@@
 
 Pu`al
 Perfect 3 masculine singular הֹרָ֑ג

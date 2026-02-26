@@ -17,6 +17,7 @@ Jb 23,2,
 שִׂיחוֺ
 2 R 9,11 ; Ps 102,1 —
 
+@@SPLIT:sense@@
 1.
 plainte, lamentation :
 Jb 7,13 ; Jb 9,27 ; Jb 10,1 (||
@@ -31,6 +32,7 @@ Ps 102,1 ;
 Ps 142,3.
 Les suivants sont douteux :
 
+@@SPLIT:sense@@
 2.
 méditation, 1 R 18,27 (
 E
@@ -45,6 +47,7 @@ discours) ; Ps 104,34 de l'homme (Buhl
 SS. Bae
 'Rede, oder Gesang'). — Voir aussi [שֵׂחַ] ci-dessous
 
+@@SPLIT:sense@@
 3.
 anxiété, souci :
 מֵרֹב שִׂיחִי
@@ -56,6 +59,7 @@ anxiété, souci :
 par כַּעַס, comparer HPS ; ainsi Buhl
 SS, mais peut-être = 1).
 
+@@SPLIT:sense@@
 4.
 discours :
 שִׂיחוֺ

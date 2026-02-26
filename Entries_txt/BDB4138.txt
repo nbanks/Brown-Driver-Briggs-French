@@ -6,6 +6,8 @@ verb
 be vexed, angry (Late Hebrew כָּעַס, Aramaic כְּעַם (not
 Syriac)); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 ׳
@@ -34,6 +36,8 @@ Ezek 16:42
 ; Eccl 7:9,
 with אֶל person 2Chr 16:10.
 
+@@SPLIT:stem@@
+
 Piel.
 Perfect 3 feminine singular suffix כִּעֲסַתָּה
 1Sam 1:6 3
@@ -42,6 +46,8 @@ Deut 32:21
 provoke to anger.
 
 >
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect

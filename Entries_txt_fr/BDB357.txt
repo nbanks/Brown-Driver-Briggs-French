@@ -8,6 +8,7 @@ courber, plier,
 [placeholder166: Placeholders/166.gif]
 ce qui entoure, enferme
 
+@@SPLIT:stem@@
 Qal
 Imparfait 3 féminin singulier תֶּאְטַר
 Ps 69,16 (

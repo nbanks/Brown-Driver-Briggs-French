@@ -3,6 +3,8 @@ Biblical Hebrew
 
 [חָסַן] verb only
 
+@@SPLIT:stem@@
+
 Niph`al
 denominative
 Imperfect 3 masculine singular יֵחָסֵן

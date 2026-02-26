@@ -11,6 +11,8 @@ Ez 40,46 ;
 Ez 45,4 —
 qui s'approche :
 
+@@SPLIT:sense@@
+
 1. comme prédicat, אֶלדָּֿוִד
 ׳
 הֹלֵח וְק
@@ -25,6 +27,8 @@ article comme substantif,
 1 R 5,7 (+ אֶלוֺשֻׁלְחָן), Nb 17,28 (deux fois dans le verset) (+ אֶלֿ
 ׳
 מִשְׁכַּן י).
+
+@@SPLIT:sense@@
 
 2. avec article s'approchant du
 temple ou tabernacle de ׳

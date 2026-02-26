@@ -4,6 +4,8 @@ Biblical Hebrew
 I. חֵ֫פֶר
 proper name, masculine
 
+@@SPLIT:sense@@
+
 1.
 a Manassite
 Num 26:32; Num 26:33; Num 27:1; Josh 17:2; Josh 17:3,
@@ -11,6 +13,8 @@ Num 26:32; Num 26:33; Num 27:1; Josh 17:2; Josh 17:3,
 ᵐ5
 
 Οφερ.
+
+@@SPLIT:sense@@
 
 2. a man of Judah 1Chr 4:6
 
@@ -24,6 +28,8 @@ L
 ^
 
 Αφερ.
+
+@@SPLIT:sense@@
 
 3. one of David's heroes, according to 1Chr 11:36 (but on text see Be
 

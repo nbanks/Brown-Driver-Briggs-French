@@ -6,6 +6,7 @@ nom [masculin]] pays du sud, Néguev, sud (comparer Lag^BN 78^) ; — ׳
 נ absolu Gn 20,1 + ; construit Jos 11,2 + ; נֶ֫גְבָּה
 Gn 13,14 + ; —
 
+@@SPLIT:sense@@
 1.
 pays du sud, c.-à-d.
 
@@ -88,6 +89,7 @@ Dn 11,40
 Bev
 Behrm, comparer Dn 11,43).
 
+@@SPLIT:sense@@
 2. d'où sud (opposé à nord, est, ouest) Gn 13,14 ; Gn 28,14 (tous deux
 J
 ), Jos

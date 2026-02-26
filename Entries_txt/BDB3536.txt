@@ -7,6 +7,8 @@ decide, adjudge, prove, (Late Hebrew Pi`el וִכַּח
 argue with (עם), compare Hithpa`el, Hiph`il prove, correct
 ; Aramaic Pa וַכַּח Aph`el אוֺכַח, id.) —
 
+@@SPLIT:stem@@
+
 Hiph`il
 Perfect
 הוֺכִיחַ
@@ -111,12 +113,16 @@ happy the man whom God corrects Job 5:17 for God loves him Prov 3:12 God is entr
 anger Ps 6:2;
 Ps 38:2.
 
+@@SPLIT:stem@@
+
 Hoph`al
 Perfect
 וְהוּכַח בְּמַכְאוֺב
 he is chastened also with pain
 Job
 33:19.
+
+@@SPLIT:stem@@
 
 Niph`al
 Imperfect
@@ -137,6 +143,8 @@ E
 SS read וְנֹכַחַתְּ 2 feminine singular
 Perfect
 and thou art set right, righted, justified.
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Imperfect

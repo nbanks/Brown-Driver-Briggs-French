@@ -19,6 +19,7 @@ Jb 19,8 ; Lm 3,9,
 Jb 24,13,
 etc. ; — sentier :
 
+@@SPLIT:sense@@
 1. littéral הֹלְכֵי
 נְתִיבוֺת
 Jg 5,6
@@ -29,6 +30,7 @@ Klo
 à travers la mer Es
 43,16 (dans un figuré) ; du sentier vers la maison de la lumière (personnifiée) et des ténèbres Jb 38,20.
 
+@@SPLIT:sense@@
 2. souvent || דֶּרֶךְ
 
 a. = cours de la vie Jb 19,8 ; Jb 30,13 ; Lm 3,9 ; Ps 119,105 ; Ps 142,4, d'Israël Os 2,8 du sentier de la volonté de Dieu

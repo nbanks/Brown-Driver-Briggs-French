@@ -4,6 +4,8 @@ Biblical Hebrew
 I. שִׁמְעִי_43_
 proper name, masculine usually Σευεει:
 
+@@SPLIT:sense@@
+
 1. in Benjamin:
 
 a.
@@ -29,6 +31,8 @@ b.
 1Kgs 4:18.
 
 2. a Ramathite 1Chr 27:27.
+
+@@SPLIT:sense@@
 
 3. Levites:
 
@@ -58,19 +62,29 @@ g.
 Ezra 10:23
 .
 
+@@SPLIT:sense@@
+
 4. brother of Zerubbabel 1Chr 3:19.
+
+@@SPLIT:sense@@
 
 5
 in Simeon
 1Chr 4:26;
 1Chr 4:27.
 
+@@SPLIT:sense@@
+
 6. in Reuben 1Chr 5:4.
+
+@@SPLIT:sense@@
 
 7.
 1Chr 8:13 =
 (II.)
 שֶׁמַע 1Chr 8:13.
+
+@@SPLIT:sense@@
 
 8. post-exilic names:
 
@@ -80,7 +94,11 @@ Ezra 10:33
 
 b. Ezra 10:38 (compare 3.g. above).
 
+@@SPLIT:sense@@
+
 9. grandfather of Mordecai Esth 2:5.
+
+@@SPLIT:sense@@
 
 10.
 2Sam 21:21

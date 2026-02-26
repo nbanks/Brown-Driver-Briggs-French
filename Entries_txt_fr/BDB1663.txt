@@ -12,9 +12,11 @@ Jg 9,53 ; 1 Ch 10,10
 pluriel suffixe גֻּלְגְּלֹתָם
 Nb 1,2 + 5 t. ; —
 
+@@SPLIT:sense@@
 1.
 crâne, brisé par une pierre Jg 9,53 séparé du corps 2 R 9,35 ; 1 Ch 10,10.
 
+@@SPLIT:sense@@
 2.
 tête, personne (dans le dénombrement, la taxation, etc. ; seulement
 P

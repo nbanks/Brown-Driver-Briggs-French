@@ -4,6 +4,7 @@ hébreu biblique
 דִּיבֹן, דִּיבוֺן
 nom propre [d'un lieu] —
 
+@@SPLIT:sense@@
 1. ville en Moab (
 MI^21; 28^
 
@@ -28,6 +29,7 @@ l'Arnon, comparer Seetzen^:Reisen i. 409^
 Tristr^Land of Moab 132 ss.^
 Bd^Pal 193^.
 
+@@SPLIT:sense@@
 2.
 דִּיבֹן
 Ne 11,25

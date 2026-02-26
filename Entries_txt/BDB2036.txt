@@ -12,6 +12,8 @@ interrogative (Biblical Aramaic and
 הֲ, Arabic
 [placeholder1226: Placeholders/1226.gif]), prefixed, as a rule, to the first word of a sentence (or clause).
 
+@@SPLIT:sense@@
+
 1. in direct questions:
 
 a. as a simple interrogative,
@@ -46,7 +48,7 @@ live
 Ew
 Ke
 Di etc. הֶאָדָם for הָאָדָם), 2Sam 7:5
-ַהאַתָּה תִּבְנֶהלִּֿי בַיִת (altered in 1Chr 17:4 to the negative ׳
+ַהאַתָּה תִּבְנֶהלִּֿי בַיִת (altered in 1Chr 17:4 to the negative ׳
 לֹא אַתָּה תִּבְנֶה וג), 2Kgs 6:22
 הַאֲשֶׁר שָׁבִיתָ ֗֗֗ those whom thou hast taken captive with thy sword and with thy bow, wilt
 thou smite ? Isa
@@ -139,6 +141,8 @@ Be and others, for הֲלֹא), or אוֺ
 Judg 18:19;
 Job 16:3; Job 38:28;
 Job 38:31.
+
+@@SPLIT:sense@@
 
 2. In indirect interrogation, whether (German
 ob. . . .?) —

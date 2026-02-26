@@ -17,6 +17,8 @@ dent, hébreu tardif id., assyrien
 [placeholder5648: Placeholders/5648.gif] araméen שִׁנָּא,
 [placeholder5649: Placeholders/5649.gif]) ; —
 
+@@SPLIT:stem@@
+
 Qal
 aiguiser, affûter : Parfait 1 singulier אִם שַׁנּוֺתִ֫י בְּרַק חַרְבִּי (
 Ges^«GKC:67ee»§ 67ee^) Dt 32,41, de la préparation de ׳
@@ -27,10 +29,14 @@ proférer des paroles acérées ; Participe passif
 שְׁנוּנִים
 aiguisées, de flèches, Es 5,28 ; Ps 45,6, figuré de la langue Ps 120,4, du faux témoin Pr 25,18.
 
+@@SPLIT:stem@@
+
 Pi`el
 Parfait consécutif וְשִׁנַּנְתָּם לְבָנֶיךָ
 Dt 6,7 c.-à-d. enseigner les
 paroles de manière incisive, allemand « einschärfen ».
+
+@@SPLIT:stem@@
 
 Hithpolel
 Imparfait 1 singulier Ps 73,21 dans mes reins אֶשְׁתּוֺנָ֑ן

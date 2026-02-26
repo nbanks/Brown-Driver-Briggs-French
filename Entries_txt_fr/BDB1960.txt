@@ -61,6 +61,7 @@ Lv 12,7 + 2 t. ;
 Lv 20,11 + 5
 t. ; —
 
+@@SPLIT:sense@@
 1.
 sang de l'homme ou de l'animal, = la vie (נֶפֶשׁ) Gn 9,4 (
 P
@@ -87,6 +88,7 @@ Dt 12,23 ; Dt 15,23 ; 1 S 14,32 ; 1 S 14,33 ; 1 S 14,34 ; Ez 33,25 (comparer RS^
 ), mais doit être répandu et couvert de terre Lv 17,13
 (comparer RS^Semitic i. 216 s.^).
 
+@@SPLIT:sense@@
 2. habituellement sang devenu visible,
 
 a. comme d'une blessure הַמַּכָּה
@@ -603,6 +605,7 @@ comparer
 2 R 3,23
 .
 
+@@SPLIT:sense@@
 3. sang utilisé avec une signification religieuse,
 
 a. sang de l'agneau pascal
@@ -770,6 +773,7 @@ Ps 16,4
 (voir
 Che).
 
+@@SPLIT:sense@@
 4.
 figuré du vin דַּםעֲֿנָבִים
 Gn 49,11

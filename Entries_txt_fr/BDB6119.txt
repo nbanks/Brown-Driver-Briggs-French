@@ -20,6 +20,7 @@ Ps 145,13 +
 2 t. ; construit עוֺלְמֵי
 Es 45,17 —
 
+@@SPLIT:sense@@
 1. du temps passé :
 
 a.
@@ -130,6 +131,7 @@ Es 51,9
 Qo 1,10 =
 dans les temps anciens.
 
+@@SPLIT:sense@@
 2.
 
 a. avenir indéfini, avec préposition pour toujours, toujours

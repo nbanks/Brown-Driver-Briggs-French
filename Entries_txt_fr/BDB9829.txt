@@ -4,6 +4,8 @@ araméen biblique
 [פְּתַח] verbe
 ouvrir (voir hébreu biblique) ; —
 
+@@SPLIT:stem@@
+
 Pe`al
 Participe passif féminin pluriel פְּתִיחָן
 Dn 6,11

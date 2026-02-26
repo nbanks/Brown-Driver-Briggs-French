@@ -7,6 +7,8 @@ regarder fixement (avec intérêt, etc.) (assyrien
 še°û
 , contempler, chercher, viser) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Parfait 3 masculin singulier ׳
 שׁ
@@ -44,6 +46,8 @@ ne contempleront pas n'a pas de sens, lire probablement תְּשֹׁעֶינָה
 ils regardent (autour d'eux) cherchant du secours, < comme || Ps 18,42
 יְשַׁוְּעוּ.
 
+@@SPLIT:stem@@
+
 Hiph`il
 Impératif masculin singulier הָשַׁע מִמֶּנִּי
 Ps 39,14
@@ -53,6 +57,8 @@ Qal
 Bae
 Du
 Ges^«GKC:75gg»§ 75gg^.
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Imparfait 2 masculin singulier avec apocope אַלתִּֿשְׁתָּע

@@ -4,6 +4,7 @@ hébreu biblique
 קָרַן
 verbe
 
+@@SPLIT:stem@@
 Qal
 dénominatif de קֶרֶן
 5, émettre des rayons ; — Parfait 3 masculin singulier קָרַן עוֺר
@@ -15,6 +16,7 @@ Ex 34,35 (
 P
 ).
 
+@@SPLIT:stem@@
 Hiph`il
 dénominatif de קֶרֶן
 1.a, exhiber (faire croître) des cornes (être pleinement développé), Participe

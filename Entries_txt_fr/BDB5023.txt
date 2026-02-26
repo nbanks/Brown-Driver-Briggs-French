@@ -14,6 +14,7 @@ araméen
 [placeholder3205: Placeholders/3205.gif], נַהֲרָא
 fleuve) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 pluriel consécutif וְנָָֽהֲרוּ
 Es 2,2 + 2 t. ;

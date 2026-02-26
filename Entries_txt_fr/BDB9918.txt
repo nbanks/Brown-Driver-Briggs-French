@@ -3,6 +3,7 @@ araméen biblique
 
 [שְׂכַל] verbe
 
+@@SPLIT:stem@@
 Hithpe`el
 considérer, contempler (voir hébreu biblique I. שׂכל) ; — Participe
 מִשְׂתַּכַּל

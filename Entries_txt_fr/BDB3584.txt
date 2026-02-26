@@ -12,6 +12,7 @@ maltraiter ; arabe
 [placeholder2236: Placeholders/2236.gif] est laxus, debilis fuit, IV. debilitavit, defatigavit
 , mais lien douteux) —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 1 pluriel suffixe נִינָם
 Ps 74,8
@@ -44,6 +45,7 @@ Kt
 גַּאֲיוֺן
 q. v. ci-dessus)
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait
 הוֺנָה

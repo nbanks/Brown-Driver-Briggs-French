@@ -12,6 +12,8 @@ form dubious, see
 
 ); —
 
+@@SPLIT:sense@@
+
 1. father of Adoniram 1Kgs 4:6
 
 ᵐ5
@@ -26,6 +28,8 @@ A
 ^L^
 
 Εδραμ.
+
+@@SPLIT:sense@@
 
 2. a Levite Neh 11:17
 

@@ -9,6 +9,7 @@ couper, déterminer, circoncire ; éthiopien
 [placeholder878: Placeholders/878.gif] araméen גְּזַר,
 [placeholder879: Placeholders/879.gif]) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 גָּזַר
@@ -47,6 +48,7 @@ accusatif ; sujet indéfini), suivi de מִן local
 6.
 décréter (aramaïsme, comparer araméen biblique) Jb 22,28 avec accusatif
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 נִגְזַר

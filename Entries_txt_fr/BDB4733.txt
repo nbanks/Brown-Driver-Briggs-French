@@ -26,6 +26,7 @@ Jos 17,13 + ;
 pluriel מִסִּים
 Ex 1,11 —
 
+@@SPLIT:sense@@
 1.
 équipe de travail, corps de corvéables, pour le service public, formé par levée sur le peuple
 par Salomon וַיַּ֫עַל הַמֶּלֶךְ
@@ -47,6 +48,7 @@ apparemment instituée plus tôt par David, comparer וַאֲדֹרָם עַלה
 2 S 20,24
 , c.-à-d. avait la charge du corps de travailleurs, ainsi 1 R 4,6 ; 1 R 5,28 ; 1 R 12,18 = 2 Ch 10,18.
 
+@@SPLIT:sense@@
 2.
 
 a.
@@ -73,6 +75,7 @@ Jos 17,13,
 comparer (׳
 וַיָּ֫שֶׂם וגו) Jg 1,28.
 
+@@SPLIT:sense@@
 3. en général : וַיְהִי לְמַסעֹֿבֵד
 Gn 49,15
 et il (Issacar) devint une équipe de corvéables (poème dans
@@ -84,6 +87,7 @@ Pr 12,24
 
 (ici apparemment d'un individu)
 
+@@SPLIT:sense@@
 4. service forcé, servage (ou peut-être (dans un passage tardif)
 tribut =
 paiement imposé, comparer hébreu tardif,

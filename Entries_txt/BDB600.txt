@@ -9,6 +9,8 @@ id., compare Arabic
 [placeholder309: Placeholders/309.gif] Assyrian etc. in derivatives)
 in Hebrew, verb denominative from אַף. —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 אָנַפְתָּ
@@ -21,6 +23,8 @@ be angry, of ׳
 1Kgs 8:46 = 2Chr 6:36; Isa 12:1; Ps 85:6; Ezra 9:14 absolute
 Ps 60:3; Ps 79:5 compare also
 Ps 2:12.
+
+@@SPLIT:stem@@
 
 Hithpa`el id. always followed by בְּ & always of ׳
 י, Perfect

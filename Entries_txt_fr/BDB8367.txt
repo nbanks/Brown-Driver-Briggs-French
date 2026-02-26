@@ -15,6 +15,7 @@ Ldzb^371^, nabatéen Hiph`il prêter
 Id^ib^. ; — sur ׳
 שׁ comparer Jastr^JBL xix (1900), 82 ss.^) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier ׳
 שׁ
@@ -289,6 +290,7 @@ peut-être = recevoir comme oracle
 Dt 18,16 (׳
 מֵעִם י, Jastr^l.c.^
 
+@@SPLIT:stem@@
 Niph`al
 demander pour soi-même (Ges
 ^«GKC:51e»§ 51e^), spécifiquement demander la permission de s'absenter, avec
@@ -303,6 +305,7 @@ absolu
 
 Ne 13,6 (absolu).
 
+@@SPLIT:stem@@
 Pi`el
 
 1.
@@ -327,6 +330,7 @@ mendier, pratiquer la mendicité, Parfait 3 pluriel
 וְשִׁאֵ֑לוּ (consécutif)
 Ps 109,10.
 
+@@SPLIT:stem@@
 Hiph`il (proprement laisser quelqu'un demander
 [avec succès], donner, ou prêter, sur
 demande, puis) accorder, céder à (comme une

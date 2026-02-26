@@ -4,6 +4,8 @@ Biblical Hebrew
 חוּשַׁי
 proper name, masculine
 
+@@SPLIT:sense@@
+
 1.
 הָאַרְכִּי
 ׳
@@ -13,6 +15,8 @@ proper name, masculine
 called רֵעֶה דוד
 2Sam 15:37
 friend of David, so 2Sam 16:16a; compare 2Sam 16:16b; 2Sam 16:17; 2Sam 16:18; 1Chr 27:33 also 1Sam 17:6; 1Sam 17:7; 1Sam 17:8; 1Sam 17:15.
+
+@@SPLIT:sense@@
 
 2.
 1Kgs 4:16 father

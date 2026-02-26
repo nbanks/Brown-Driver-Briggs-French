@@ -36,6 +36,7 @@ suffixe קַרְנֹתָיו
 Ex 27,2 +, etc. ;
 — corne :
 
+@@SPLIT:sense@@
 1.
 
 a.
@@ -69,6 +70,7 @@ Ez 27,15
 
 (d'après la forme courbée des défenses).
 
+@@SPLIT:sense@@
 2.
 figuré, d'une personne, symbole de force Dt 33,17, יִשְׁעִי
 ׳
@@ -103,6 +105,7 @@ mais לְדָוִד
 Ps 132,17
 de l'élévation d'un souverain individuel de la lignée davidique.
 
+@@SPLIT:sense@@
 3. de l'autel, projections en forme de cornes aux coins (26 t.), Am 3,14 ; Jr 17,1 ; Ez 43,15 ; Ez 43,20 ; Ps 118,27 ;
 
 Ex 27,22 +
@@ -112,9 +115,11 @@ Lévitique (tous
 P
 ) ; comme sanctuaire, refuge 1 R 1,50 ; 1 R 1,51 ; 1 R 2,28.
 
+@@SPLIT:sense@@
 4.
 colline (ainsi en arabe, sommet, colline isolée, comparer Ges) Es 5,1.
 
+@@SPLIT:sense@@
 5.
 קַרְנַיִם מִיָּדוֺ לוֺ
 Ha 3,4

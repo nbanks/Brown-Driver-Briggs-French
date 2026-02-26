@@ -5,6 +5,7 @@ hébreu biblique
 verbe
 aimer —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 אָהֵ֑ב
@@ -268,12 +269,14 @@ Ps 99,4 ;
 Es 61,8 ;
 Ml 2,11.
 
+@@SPLIT:stem@@
 Niph`al
 Participe pluriel הַנֶּאֱהָבִים
 2 S 1,23
 
 aimables, dignes d'amour de Saül et Jonathan (|| הַנְּעִימִם).
 
+@@SPLIT:stem@@
 Pi`el
 Participe pluriel suffixe (בָֿ֑י) מְאַהֲבַי
 Os 2,7

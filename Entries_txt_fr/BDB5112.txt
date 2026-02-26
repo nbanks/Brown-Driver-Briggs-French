@@ -54,6 +54,7 @@ Dt 8,7 + ; suffixe
 נְחֶלֶיהָ
 Es 34,9 —
 
+@@SPLIT:sense@@
 1.
 torrent, d'eau qui se précipite dans un chenal étroit Jg 5,21 (3 t. dans le verset) ; Jg 4,7 ; Jg 4,13 ; Ps 83,10 (tous de קִישֹׁן
 , q. v.) ; torrent de montagne Dt 9,21 (comparer Ex 32,20) ; ainsi Am 5,24 (comparaison de la justice) ; הַשּׁוֺטֵף
@@ -116,6 +117,7 @@ Es 30,33 (גָּפְרִית
 ׳
 נ).
 
+@@SPLIT:sense@@
 2.
 Vallée torrentielle, wadi, comme lit de torrent 1 S 17,40 ; Ne 2,15 ; Es 57,6 avec un torrent y coulant, אֵיתָן
 
@@ -326,6 +328,7 @@ Nb 21,15
 אֶשֶׁד
 .
 
+@@SPLIT:sense@@
 3.
 Puits de mine, ׳
 פָּרַץ נ

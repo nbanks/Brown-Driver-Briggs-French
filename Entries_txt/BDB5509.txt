@@ -3,9 +3,13 @@ Biblical Hebrew
 
 [שְׂדֵרָה]
 
+@@SPLIT:sense@@
+
 noun
 1.
 row, rank of soldiers in line.
+
+@@SPLIT:sense@@
 
 2. architectural term. (probably for סְדֵרָה, see above and compare Ba^§ 92 a^
 ); — only plural absolute שְׂדֵרוֺת
@@ -14,9 +18,13 @@ row, rank of soldiers in line.
 6:9; 2Kgs
 11:15 —
 
+@@SPLIT:sense@@
+
 1.
 rows, ranks, 2Kgs 11:8, and 2Kgs 11:15 = 2Chr 23:14 (where thought to be gloss by Benz, on account of מִבַּיִת, within
 ).
+
+@@SPLIT:sense@@
 
 2. technical term of building, גֵּבִים וּשְׂדֵרֹת בָּאֲרָוִים
 1Kgs 6:9, meaning

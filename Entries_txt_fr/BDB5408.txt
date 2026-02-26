@@ -9,6 +9,7 @@ souffler (hébreu tardif = hébreu biblique ;
 נְשַׁב (mais aussi נְחַב), syriaque
 [placeholder3461: Placeholders/3461.gif], tous souffler ; || forme de נָשַׁף) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 féminin singulier נָָֽשְׁבָה בּוֺ
 ׳
@@ -19,6 +20,7 @@ le souffle de
 י
 a soufflé sur elle.
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait 3 masculin singulier יַשֵּׁב רוּחַ
 Ps 147,18

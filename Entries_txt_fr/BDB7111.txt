@@ -14,6 +14,7 @@ jaillir ou briller,
 brillant, aussi germer ; phénicien צמח
 postérité) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier צָֽמַחבּֿוֺ
 Lv 13,37 3
@@ -60,6 +61,7 @@ P
 ; comparer
 Pi`el).
 
+@@SPLIT:stem@@
 Pi`el
 croître abondamment, toujours des cheveux ; — Parfait 3 masculin singulier צִמֵּחַ
 Ez 16,7 (dans une
@@ -71,6 +73,7 @@ barbe) ; Infinitif construit
 Jg 16,22
 (cheveux de Samson).
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 masculin singulier suffixe וְהִצְמִיחָהּ
 Es 55,10

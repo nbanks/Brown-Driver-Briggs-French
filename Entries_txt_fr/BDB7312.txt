@@ -18,6 +18,7 @@ féminin pluriel קַדְמֹנִיּוֺת
 Es 43,18 ;
 Ml 3,4 —
 
+@@SPLIT:sense@@
 1.
 ancien, d'autrefois, ׳
 יָמִים ק
@@ -33,6 +34,7 @@ Es 43,18
 1 S 24,14
 un proverbe des anciens.
 
+@@SPLIT:sense@@
 2.
 oriental : du שַׁעַר
 Ez 10,19

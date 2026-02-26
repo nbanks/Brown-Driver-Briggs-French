@@ -9,6 +9,7 @@ ss.^ ; selon Thes apparenté à
 לַיְלָה
 (q.v. infra), avec échange de ל et ן) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 לָן
@@ -127,12 +128,14 @@ Jr 4,14
 Pr 19,23
 il demeurera rassasié.
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait
 יָלִין
 faire reposer, loger, suivi de l'accusatif, 2 S 17,8 voir
 Kö^i. 509.^
 
+@@SPLIT:stem@@
 Hithpalpel
 Imparfait
 יִתְלֹנָ֑ן

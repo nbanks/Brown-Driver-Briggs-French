@@ -9,6 +9,8 @@ Num 4:10 + 5 t.;
 suffix מֹטֵ֫הוּ
 Nah 1:13 —
 
+@@SPLIT:sense@@
+
 1.
 a shaking; tottering (c. negative, of security) לַצַּדִּיק לֹאיִֿתֵּן
 ׳
@@ -21,10 +23,14 @@ Ps 66:9,
 compare Ps 121:3
 .
 
+@@SPLIT:sense@@
+
 2.
 pole, or bar for carrying (named from springing motion) Num 4:10; Num 4:12 compare
 especially Num
 13:23.
+
+@@SPLIT:sense@@
 
 3.
 bar of yoke Nah 1:13 (אֶשְׁבֹּר מֹטֵהוּ מֵעָלַיַךְ), figurative of

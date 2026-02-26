@@ -19,6 +19,7 @@ Gn 28,8 + 14 t. ;
 Gn 41,27 (18 t.
 nom) ; —
 
+@@SPLIT:sense@@
 1.
 mauvais, désagréable, malin : d'une femme, רָעָה בְּעֵינֵי
 Ex 21,8 (
@@ -44,6 +45,7 @@ H
 5,17 ;
 Ez 14,15 ; Ez 14,21 ; Ez 34,25 chose impure Dt 23,10.
 
+@@SPLIT:sense@@
 2.
 mauvais, déplaisant, causant douleur, malheur, misère : ימים רעים
 jours mauvais (d'épreuve et de détresse) Gn 47,9 (
@@ -110,11 +112,13 @@ E
 
 9).
 
+@@SPLIT:sense@@
 3.
 mauvais, déplaisant
 עָשָׂח רָ֔ע בְּעֵינֵי סַרְנֵי פְלשְׁתִּים
 1 S 29,7.
 
+@@SPLIT:sense@@
 4.
 mauvais de son espèce, terre Nb 13,19 (
 J
@@ -132,6 +136,7 @@ Dt 15,21,
 comparer Dt 17,1
 .
 
+@@SPLIT:sense@@
 5.
 mauvais, c.-à-d. de faible valeur Lv 27,10 (deux fois dans le verset) ; Lv 27,12 ; Lv 27,14 ; Lv 27,33 (
 H
@@ -140,12 +145,14 @@ H
 Pr 20,14
 (deux fois dans le verset).
 
+@@SPLIT:sense@@
 6. + מִן comparatif, pire que, 2 S 19,8 comme superlatif, רָעֵי
 
 גוֺיִם
 Ez 7,24
 les pires des nations (supprimer Co).
 
+@@SPLIT:sense@@
 7.
 triste, malheureux :
 לֶברָֿע֑
@@ -156,12 +163,14 @@ E
 ) Ne 2,2
 רע לְפָנָיו Ne 2,1.
 
+@@SPLIT:sense@@
 8.
 חָשַׁב מַחֲשֶׁבֶת(ה)רָעָה
 ourdir un mauvais (nuisible) dessein
 Ez 38,10 ;
 Est 9,25.
 
+@@SPLIT:sense@@
 9.
 mauvais, méchant, vicieux de disposition ou de tempérament : וְלֵברָֿ֑ע
 quand l'esprit est vicieux, nuisible Pr 26,23
@@ -171,6 +180,7 @@ celui qui a l'œil mauvais Pr 23,6 ; Pr 28,22
 Jg 9,23
 mauvais tempérament.
 
+@@SPLIT:sense@@
 10. éthiquement mauvais, mal, méchant :
 
 a. en général, אם טוב ואם רע

@@ -36,12 +36,14 @@ Ps 96,8,
 וּבְחַצְרֹתֵיהֶם
 Ne 8,16 —
 
+@@SPLIT:sense@@
 1.
 enclos (en Égypte), peut-être cours, ou parcs à bétail, distincts des maisons et des champs
 Ex 8,9 (
 J
 ).
 
+@@SPLIT:sense@@
 2.
 cour de maison privée 2 S 17,18 (contenant un puits), comparer Ne 8,16 d'un palais, חָצֵר הָאַחֶרֶת
 
@@ -87,6 +89,7 @@ Jr 32,12 ; Jr
 ;
 Jr 38,28 ; Jr 39,14 ; Jr 39,15. Spécialement
 
+@@SPLIT:sense@@
 3.
 
 a.

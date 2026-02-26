@@ -13,6 +13,8 @@ id. ;
 Est 8,15 =
 hébreu biblique) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Parfait 3 féminin singulier צָֽהֲלָה
 Est 8,15 3

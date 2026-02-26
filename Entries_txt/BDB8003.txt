@@ -4,6 +4,8 @@ Biblical Hebrew
 [רָעָה] verb
 denominative
 
+@@SPLIT:stem@@
+
 Pi`el
 be a special friend; — Perfect 3 masculine singular מֵרֵעֵהוּ אֲשֶׁר רֵעָה
 לוֺ

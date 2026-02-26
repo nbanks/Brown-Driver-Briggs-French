@@ -55,6 +55,7 @@ N.) ; 3 féminin pluriel עֲלֵיהֶן, Lv 3,4 ; Lv 3,10 ; Lv 3,15
 עָלַי etc., voir Kö^ii. 309 ss.^, et comparer
 ci-dessous עַד).
 
+@@SPLIT:sense@@
 1. Sur, du substrat sur lequel un objet repose de quelque manière, ou
 sur lequel une action est accomplie ; comme עלהֿארץ
 sur la terre Gn 1,11 ; Gn 1,26 ; Gn 7,6, etc., Ps 110,6
@@ -624,6 +625,7 @@ Lv 4,14
 עַלדְּֿבַר ֗֗֗
 au sujet de, Nb 25,18 ; Nb 31,16.
 
+@@SPLIT:sense@@
 2. Il exprime l'excès (synonyme
 מִן
 q. v.) ;
@@ -656,6 +658,7 @@ ne se situe pas en dehors de toi. — Du temps, Lv 15,25 si elle a un écoulemen
 au-delà de son temps d'impureté (comparer Es 32,10, 4.b
 .).
 
+@@SPLIT:sense@@
 3. Il dénote l'élévation ou la prééminence, comme
 
 עליון על haut (figuré) au-dessus de, Dt 26,19
@@ -694,6 +697,7 @@ le gouverneur du palais Es 22,15 et ailleurs (voir כַּיִת
 עלהֿעיר le gouverneur de la ville 2 R 10,5, אשׁר על המלתחה 2 R
 10,22.
 
+@@SPLIT:sense@@
 4. Il exprime l'addition (comparer ἐπὶ en grec, p. ex.
 ἐπὶ
 τούτοις) ; à savoir
@@ -823,6 +827,7 @@ Lv 10,15 ; Lv 14,31 ; Lv 23,18 ; Lv 23,20 ; Nb 6,17
 ;
 Nb 19,5 ; 1 Ch 7,4.
 
+@@SPLIT:sense@@
 5. Il exprime l'idée d'être suspendu, ou étendu, au-dessus de
 quelque chose,
 sans cependant être en contact avec, au-dessus de, sur : Gn 1,20 que les oiseaux volent au-dessus de la
@@ -873,6 +878,7 @@ Jr 4,16
 קרא
 ).
 
+@@SPLIT:sense@@
 6. Du sens de se pencher ou menacer au-dessus
 ,
 על en vient à dénoter la contiguïté ou la proximité
@@ -1019,6 +1025,7 @@ Jg
 Dt
 16,21).
 
+@@SPLIT:sense@@
 7. En relation avec des verbes de mouvement (réel ou figuré) :
 —
 
@@ -1789,6 +1796,7 @@ Jg
 
 עָלֶיהָ בְּגוֺרָל Contre elle par le sort !
 
+@@SPLIT:sense@@
 8. Par les écrivains de l'époque tardive, על est parfois utilisé avec la force
 d'un
 datif, 1 Ch 13,2
@@ -1864,6 +1872,7 @@ syriaque
 de
 [placeholder3886: Placeholders/3886.gif], W^AG ii. § 59^.
 
+@@SPLIT:sense@@
 9. Avec d'autres particules : — עַל אַחֲרֵי
 
 Ez
@@ -1958,6 +1967,7 @@ bien qu'il n'ait pas fait de violence, Jb 16,7
 IV.
 Composés : —
 
+@@SPLIT:sense@@
 1. avec כְּ (rare et tardif),
 
 a.
@@ -1989,6 +1999,7 @@ Es
 63,7
 selon.
 
+@@SPLIT:sense@@
 2.
 מֵעַל_304_ de dessus, d'au-dessus de, de près de — utilisé avec beaucoup de finesse
 d'application dans

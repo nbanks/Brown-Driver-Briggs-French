@@ -8,9 +8,11 @@ Es 24,23 + 4
 t. ; חַמָּתוֺ
 Ps 19,7 —
 
+@@SPLIT:sense@@
 1.
 chaleur du soleil Ps 19,7.
 
+@@SPLIT:sense@@
 2. = soleil
 Jb 30,28 ||
 לְבָנָה

@@ -6,8 +6,12 @@ noun masculine^
 Lev 27:28
 ^
 
+@@SPLIT:sense@@
+
 1.
 devoted thing.
+
+@@SPLIT:sense@@
 
 2.
 devotion, ban;
@@ -23,6 +27,8 @@ Josh 7:1 suffix
 Isa 34:5 —
 thing devoted to ׳
 י:
+
+@@SPLIT:sense@@
 
 1. thing hostile to theocracy, and therefore (in the strictest application) to be either destroyed,
 or, in the case of certain objects (e.g. silver and gold, vessels of brass and iron Josh 6:19; Josh 6:24), set apart to sacred uses;
@@ -97,6 +103,8 @@ verse); every human being who became ׳
 P
 ; see Di).
 
+@@SPLIT:sense@@
+
 2. apparently (so Di) anything devoted
 
 to sanctuary under specially stringent conditions Lev 27:28 (see Di; and
@@ -117,6 +125,8 @@ every such ׳
 ח (as in case of metals and metal objects Josh 6:17; Josh 6:19) went to Aaron and his sons Num 18:14 (
 P
 ), to Zadokite priests Ezek 44:29.
+
+@@SPLIT:sense@@
 
 3.
 devotion, ban, involving destruction; אִישׁ חֶרְמִי

@@ -8,6 +8,7 @@ comparer arabe
 être
 [placeholder2454: Placeholders/2454.gif], c.-à-d. faible, lâche) —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 féminin singulier כָּֽהֲתָה
 Dt 34,7
@@ -34,6 +35,7 @@ serviteur de ׳
 Che
 De), ou devenir faible (comparer Di).
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 3 féminin singulier וְכִהֲתָה consécutif Ez 21,12 (sujet
 כָּלרֿוּחַ ; || וְנָמֵס כָּללֵֿב) devenir faible (Pi`el

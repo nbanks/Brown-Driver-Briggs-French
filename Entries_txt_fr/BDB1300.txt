@@ -22,6 +22,7 @@ banû
 בְּרָא,
 [placeholder690: Placeholders/690.gif], créer) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 Gn 1,1 + 19 t. ;
@@ -90,6 +91,7 @@ place des anciens) ; transformation de la nature Es 41,20 avec double accusatif 
 transformer Jérusalem en allégresse
 Es 65,18.
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 2 féminin singulier נִבְרֵאתְ
 Ez 21,35
@@ -135,6 +137,7 @@ J
 ) ; choses nouvelles, חדשׁות
 Es 48,6.
 
+@@SPLIT:stem@@
 Pi`el
 Parfait
 בֵּרֵאתָ

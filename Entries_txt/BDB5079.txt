@@ -16,11 +16,15 @@ distil, drop like dew;
 [placeholder3243: Placeholders/3243.gif]
 sift); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 1 singular ׳
 נַ֫פְתִּי מִשְׁכָּבִי מֹר וגו
 Prov 7:17
 I have besprinkled my couch with myrrh, etc.
+
+@@SPLIT:stem@@
 
 Po`lel
 Imperfect 3 masculine singular ׳
@@ -30,6 +34,8 @@ he brandisheth his hand toward the mountain (on accusative הַר
 compare
 Ges^«GKC:118f»§ 118f^. Da^Synt.
 § 69, R 2^).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 masculine singular הֵנִיף
@@ -155,6 +161,8 @@ Ps 68:10
 bounteous rain thou didst shed abroad [compare
 ], but verb not wholly suitable; Lag
 Gr proposes תַּטִּיף, yet this also questionable.
+
+@@SPLIT:stem@@
 
 Hoph`al
 Perfect 3 masculine singular הוּנַף, be waved, Exod 29:27

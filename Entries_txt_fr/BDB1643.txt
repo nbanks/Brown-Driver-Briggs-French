@@ -5,6 +5,7 @@ hébreu biblique
 être chauve (arabe
 [placeholder908: Placeholders/908.gif]) ;
 
+@@SPLIT:stem@@
 Pi`el
 raser, raser (ainsi hébreu tardif, araméen) — Parfait
 וְגִלַּח consécutif Lv 14,8 + 2 t. ; suffixe וְגִלְּחוֺ consécutif 2 S 14,26 3
@@ -60,6 +61,7 @@ figuré de la dévastation par les Assyriens Es 7,20 (objet הָראֹשׁ, שַ
 E
 ).
 
+@@SPLIT:stem@@
 Pu`al
 Parfait
 גֻּלָּ֑ח
@@ -73,6 +75,7 @@ Jr 41,5 —
 מְגֻלְּחֵי זָקָן
 Jr 41,5.
 
+@@SPLIT:stem@@
 Hithpa`el
 Parfait
 וְהִתְגַּלָּ֑ח consécutif Lv 13,33

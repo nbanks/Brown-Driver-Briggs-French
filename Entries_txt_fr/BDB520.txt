@@ -21,6 +21,7 @@ Lm 5,3
 Jr 16,3 ; Lm 2,12 (deux fois dans
 le verset) ; —
 
+@@SPLIT:sense@@
 1. littéral, mère (humaine), comme parent Gn 20,12 ; Gn 32,12 ; Gn 44,20 ; Ex 2,8 ; Ps 51,7 ; Ps 113,9 (opposé à עֲקֶרֶת)
 Jr 15,8 ; Jr 15,10 ; Jr 20,14 ; Jr 22,26 ; Jr 50,12 ; 1 Ch 4,9 ; Ct 6,9 ; Ct 8,5 + ; d'où pour
 Ève אֵם
@@ -98,6 +99,7 @@ un mari Dt 21,13
 contraire comparer Ps
 27,10) ; aimée, soignée Jos 2,13 comparer Jos 2,18 ; Jos 6,23. 1 S 22,3 ; 1 R 19,20 comparer 2 S 19,38.
 
+@@SPLIT:sense@@
 2.
 figuré, de Débora comme prenant soin de son peuple אֵם בְּיִשְׂרָאֵל
 Jg 5,7 (comparer
@@ -120,6 +122,7 @@ aussi Ez 19,2
 et voir Ez
 23,2.
 
+@@SPLIT:sense@@
 3. des animaux, femelle
 Ex 22,29 (du
 bœuf et du mouton) Lv
@@ -131,6 +134,7 @@ figuré Jb 17,14
 
 לַשַּׁחַת קָרָאתִי אָבִי אָ֑תָּה אִמִּי וַאֲחֹתִי לָרִמָּֽה ׃.
 
+@@SPLIT:sense@@
 4. = point de départ ou de division
 אֵם הַדֶּרֶךְ
 Ez 21,26.

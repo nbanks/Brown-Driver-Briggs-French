@@ -5,6 +5,8 @@ Biblical Hebrew
 noun [masculine]
 daintiness, luxury, exquisite delight; —
 
+@@SPLIT:sense@@
+
 1.
 luxury:
 ׳
@@ -12,6 +14,8 @@ luxury:
 Prov 19:10
 elsewhere plural; construct תַּעֲנֻגוֺת
 Eccl 2:8.
+
+@@SPLIT:sense@@
 
 2. suffix בְּנֵי תַּעֲנוּנָ֑יִךְ
 Mic 1:16
@@ -22,6 +26,8 @@ her (their) dainty house(s), > of tender love (reading
 Mic 2:9
 We
 Now.
+
+@@SPLIT:sense@@
 
 3.
 delight of love, plural absolute בַּתַּעֲנוּגִים

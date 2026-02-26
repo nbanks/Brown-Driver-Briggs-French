@@ -22,6 +22,7 @@ Ez 40,17 + ;
 construit לִשְׁכוֺת
 Ne 10,38 + ; —
 
+@@SPLIT:sense@@
 1.
 
 a.
@@ -96,6 +97,7 @@ utilisée par des individus Esd 10,6 ; Ne 13,5 (
 ל),
 Ne 13,8, en général Ne 13,4 Ne 13,9.
 
+@@SPLIT:sense@@
 2. de la salle du scribe dans le palais royal Jr 36,12 ; Jr 36,20 ; Jr 36,21.
 
 ---

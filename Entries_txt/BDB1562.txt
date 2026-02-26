@@ -8,6 +8,8 @@ sojourn (compare Arabic
 turn aside tarry, see especially III. IV. VIII. X; Aramaic
 [placeholder845: Placeholders/845.gif] Eth. in derivatives) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 גָּר
@@ -119,6 +121,8 @@ Ew
 Di & Che critical note
 (> Stu
 גֵּרִים)
+
+@@SPLIT:stem@@
 
 Hithpolel
 Participle

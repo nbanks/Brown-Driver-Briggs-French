@@ -3,6 +3,7 @@ hébreu biblique
 
 [פָּלָה] verbe
 
+@@SPLIT:stem@@
 Niph`al
 être séparé, distinct (|| forme de
 פלא
@@ -32,6 +33,7 @@ We
 י] es merveilleux (פלא
 3).
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 masculin singulier הִפְלָה
 Ps 4,4, ׳

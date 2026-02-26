@@ -5,6 +5,8 @@ Biblical Hebrew
 denominative
 be simple (Late Hebrew Pi`el entice); —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 3 masculine singular יִפְתֶּה
 Deut 11:16
@@ -31,6 +33,8 @@ be enticed, deceived
 Deut 11:16
 ; Job
 31:27.
+
+@@SPLIT:stem@@
 
 Niph`al
 Perfect 3 masculine singular נַפְתָּה
@@ -75,6 +79,8 @@ Hiph`il above); subject׳
 22:20; 1Kgs 22:21; 1Kgs 22:22 = 2Chr 18:19; 2Chr
 18:20; 2Chr 18:21 object׳
 י, Ps 78:36.
+
+@@SPLIT:stem@@
 
 Pu`al
 Imperfect 3 masculine singular יְפֻתֶּה:

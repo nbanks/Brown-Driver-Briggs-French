@@ -4,6 +4,7 @@ hébreu biblique
 [עָדַן] verbe
 dénominatif
 
+@@SPLIT:stem@@
 Hithpa`el
 se délecter (hébreu tardif Pi`el réjouir (actif), ainsi syriaque
 [placeholder3726: Placeholders/3726.gif] ; — Imparfait 3 masculin pluriel וַיִּתְעַדְּנוּ בְּטוּבְךָ

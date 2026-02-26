@@ -19,6 +19,8 @@ slit ear of camel,
 [placeholder5334: Placeholders/5334.gif]
 sign, mark (RS^K 214 f.^); —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 3 masculine plural with accusative of cognate meaning with verb וּבִבְשָׂרָם לֹא
 יִשְׂרְטוּ שָׂרָ֑טֶת

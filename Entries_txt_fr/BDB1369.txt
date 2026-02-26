@@ -9,10 +9,12 @@ DHM^ZMG 1876, 672^), 2 S 4,10 + 3 t. ; בְּשׂוֺרָה
 2 S 18,25 ;
 2 S 18,27 —
 
+@@SPLIT:sense@@
 1.
 bonne nouvelle
 1 R 7,9.
 
+@@SPLIT:sense@@
 2.
 nouvelle, information
 2 S 18,20
@@ -21,6 +23,7 @@ nouvelle, information
 2 S 18,27
 .
 
+@@SPLIT:sense@@
 3.
 récompense pour une bonne nouvelle
 2 S 4,10 ;

@@ -4,13 +4,16 @@ hébreu biblique
 מִשְׁלַח
 nom [masculin]
 
+@@SPLIT:sense@@
 1.
 extension ;
 
+@@SPLIT:sense@@
 2.
 lieu où l'on lâche ; — ׳
 מ seulement construit :
 
+@@SPLIT:sense@@
 1.
 ׳
 יַד פ
@@ -18,6 +21,7 @@ lieu où l'on lâche ; — ׳
 בְּכָלמֿ
 en toute extension de sa main, = toute entreprise, Dt 12,7 ; Dt 12,18 ; Dt 15,10 ; Dt 23,21 ; Dt 28,8 ; Dt 28,20.
 
+@@SPLIT:sense@@
 2.
 ׳
 למ

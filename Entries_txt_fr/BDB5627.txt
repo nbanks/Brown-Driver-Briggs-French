@@ -12,6 +12,7 @@ retirer ; arabe
 monter, Lane^1410^ (aussi emprunt ?)) ; —
 seulement
 
+@@SPLIT:stem@@
 Qal
 Imparfait 1 singulier אֶסַּק
 Ps 139,8

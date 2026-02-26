@@ -4,6 +4,8 @@ Biblical Hebrew
 מְשַׁמָּה
 noun feminine = שַׁמָּה: — absolute
 
+@@SPLIT:sense@@
+
 1. = devastation, waste, ׳
 אֶתהָֿאָרֶץ שְׁמָמָה וּמ
 ׳
@@ -18,6 +20,8 @@ see
 
 Isa 15:16 =
 Jer 48:34.
+
+@@SPLIT:sense@@
 
 2.
 horror, ׳

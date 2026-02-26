@@ -19,6 +19,7 @@ Os 12,6 +,
 זִכְרָם
 Dt 32,26 + : —
 
+@@SPLIT:sense@@
 1.
 souvenir, mémoire :
 
@@ -43,6 +44,7 @@ d.
 souvenir de jours particuliers, c.-à-d. leur observance Est 9,28 (הַפּוּרִים יְמֵי
 ).
 
+@@SPLIT:sense@@
 2.
 mémorial, par lequel on est rappelé :
 

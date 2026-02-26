@@ -10,6 +10,8 @@ Eccl 11:25
 (twice in verse); Aramaic שְׁכַךְ
 [placeholder5527: Placeholders/5527.gif] is find); —
 
+@@SPLIT:stem@@
+
 Qal_86_
 Perfect 3 masculine singular ׳
 שׁ
@@ -120,6 +122,8 @@ c. voice of foes Ps 74:23.
 d.
 followed by infinitive Ps 77:10.
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect 3 masculine singular נִשְׁכַּח
 Eccl 9:5, etc.;
@@ -151,6 +155,8 @@ Eccl 9:5
 הַנִּשׁ
 Job 28:4.
 
+@@SPLIT:stem@@
+
 Pi`el
 Perfect 3 masculine singular ׳
 וגו
@@ -161,11 +167,15 @@ Lam 2:6
 י
 hath caused to forget (be forgotten) in Zion assembly and sabbath.
 
+@@SPLIT:stem@@
+
 Hiph`il
 Infinitive
 לְהַשְׁכִּיחַ
 Jer 23:27
 to make my people forget my name (double accusative).
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Ipmf. 3 masculine plural יִשְׁתַּכְּחוּ

@@ -3,6 +3,8 @@ Biblical Hebrew
 
 [יזן] verb only
 
+@@SPLIT:stem@@
+
 Pu`al
 Participle plural מְיֻזָּנִים
 Jer 5:8
@@ -29,6 +31,8 @@ and very uncertain).
 ---
 
 יון, √ of
+
+@@SPLIT:stem@@
 
 Pu`al
 Participle plural מְיֻוָּנִים

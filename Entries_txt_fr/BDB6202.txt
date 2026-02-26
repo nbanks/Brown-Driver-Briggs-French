@@ -9,6 +9,7 @@ Kö^ii. 403^ ; comparer
 [placeholder3950: Placeholders/3950.gif]
 vouloir, avoir l'intention) : —
 
+@@SPLIT:sense@@
 1. comme préposition, rarement avec un substantif, Ez 5,9
 יַעַן תּוֺעֲבוֺתֵיכֶם, Ag 1,9
 יַעַן מָה, Ag 1,9
@@ -25,6 +26,7 @@ Jr 23,38 ;
 Jr 48,7, et
 souvent. (env. 18 t.) dans Ez., comme Jr 5,7 (lire יַעַן הַמְרֹתְכֶם), Jr 13,8 ; Jr 13,22 ; Jr 25,3 ; Jr 25,6 ; Jr 25,8 ; Jr 25,12.
 
+@@SPLIT:sense@@
 2. Comme conjonction :
 
 a.
@@ -58,6 +60,7 @@ en premier pour emphase,
 Ez 5,11
 יַעַן אֶתמִֿקְדָּשִׁי טִמֵּאתָ, Ez 20,16 ; Ez 20,24 ; Ez 36,6, comparer Ez 34,21.
 
+@@SPLIT:sense@@
 3.
 יַעַן וּבְיַעַן, c.-à-d. parce que et par la cause (que), suivi de
 peut-être,

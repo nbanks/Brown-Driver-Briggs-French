@@ -7,11 +7,13 @@ verbe
 [placeholder4968: Placeholders/4968.gif]
 retourner, proprement retourner au repos, après les errances, etc.) ; —
 
+@@SPLIT:stem@@
 Niph`al
 Impératif 2 féminin singulier Jr 47,6 (de l'épée) sois rentrée dans ton fourreau, הֵרָֽגְעִי
 וָדֹ֫מִּי
 repose, et sois tranquille.
 
+@@SPLIT:stem@@
 Hiph`il
 
 a. transitif donner du repos à ; — Infinitif construit

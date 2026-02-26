@@ -9,6 +9,8 @@ give (
 
 Syriac; compare Biblical Hebrew); —
 
+@@SPLIT:stem@@
+
 Pe`al
 Perfect 3 masculine singular ׳
 י
@@ -48,6 +50,8 @@ SAC^JQ 1904, 274^; see
 2.
 Schulth^Lex; and ZAW xxii (1902), 162^; compare D^WB 171^).
 
+@@SPLIT:stem@@
+
 Pe`il (W^CG
 224^), be given, subject thing, with ל person: 3
 masculine singular יְהִיב
@@ -64,6 +68,8 @@ Ezra 7:27 3
 masculine plural וִיהִ֫יבוּ
 Ezra 5:14
 be given up (ל of flame) Dan 7:11.
+
+@@SPLIT:stem@@
 
 Hithpe`el
 Imperfect 3 masculine singular יִתְיְהֵב

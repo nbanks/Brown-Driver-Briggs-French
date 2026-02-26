@@ -18,6 +18,8 @@ construct id., 1Kgs 6:5 +; suffix קִירֹתָיו
 Exod 30:3 +, etc.;
 — wall, especially as flat surface:
 
+@@SPLIT:sense@@
+
 1. usually of house or chamber:
 
 a. inner surface, Amos 5:19; 1Sam 18:11 + 9 t., + (of temple) 1Kgs 6:15 a + v
@@ -61,6 +63,8 @@ as enclosing, 2Kgs 4:10 (of
 עֲלִיָּה
 , q. v.); as separating Ezek 43:8.
 
+@@SPLIT:sense@@
+
 2.
 wall of (temple-)court Ezek 8:7; Ezek 8:8 (twice in verse) (in vision); of vineyard Num 22:25 (twice in verse) (
 J
@@ -76,6 +80,8 @@ J
 
 E
 ) the (inner) surface of the wall.
+
+@@SPLIT:sense@@
 
 3. more generally, 1Kgs 5:13, and (in phrase מַשְׁתִּין בְּקִיר) 1Sam 25:22; 1Sam 25:34; 1Kgs 14:10;
 1Kgs 16:11;
@@ -111,9 +117,13 @@ Brd
 Wkl^Alttest. Unters. 177^
 קוֺע, so WMM^Hast. DB KIR^, but see Dr^ib.KOA.^
 
+@@SPLIT:sense@@
+
 4. of flat side of altar Ezek 41:22; Exod 30:3; Exod 37:26; Lev 1:15; Lev 5:9 (all
 P
 ).
+
+@@SPLIT:sense@@
 
 5.
 קִירוֺת

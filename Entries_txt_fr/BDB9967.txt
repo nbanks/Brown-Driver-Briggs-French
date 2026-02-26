@@ -5,6 +5,8 @@ araméen biblique
 verbe
 entendre (voir hébreu biblique) ; —
 
+@@SPLIT:stem@@
+
 Pe`al
 Parfait 3 masculin singulier ׳
 שׁ
@@ -24,6 +26,8 @@ Dn 5,23 avec
 accusatif de son Dn 3,5
 ; Dn 3,7 ; Dn 3,10 ; Dn 3,15, parole Dn 6,15 avec
 proposition דִּי + עַל personne concernant, Dn 5,14 ; Dn 5,16.
+
+@@SPLIT:stem@@
 
 Hithpe`el
 se montrer obéissant : Imparfait 3 masculin pluriel יִשְׁתַּמְעוּן

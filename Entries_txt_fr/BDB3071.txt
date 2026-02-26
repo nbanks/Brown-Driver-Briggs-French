@@ -11,6 +11,7 @@ Zinjirli חקק ; phénicien id. Participe Hiph`il ; arabe
 justesse, vérité, nécessité, obligation ; éthiopien
 [placeholder1939: Placeholders/1939.gif] adjectif modéré, suffisant ; comparer aussi חקה) —
 
+@@SPLIT:stem@@
 Qal
 וְחַקּוֺתָ֫
 Ez 4,1 suffixe
@@ -60,6 +61,7 @@ Po`el)
 Jg
 5,9 (|| מחקקים Jg 5,14).
 
+@@SPLIT:stem@@
 Po`el
 Imparfait
 יְחוֺקְקוּ
@@ -106,6 +108,7 @@ Gn
 49,10 (|| שֵׁבֶט), Nb 21,18 (tous deux poésie), Ps 60,9 = Ps
 108,9.
 
+@@SPLIT:stem@@
 Pu`al
 Participe
 מְחֻקָּק
@@ -113,6 +116,7 @@ ce qui est décrété
 
 Pr 31,5 (tardif).
 
+@@SPLIT:stem@@
 Hoph`al
 Imparfait
 יֻחָ֑קֿוּ

@@ -8,6 +8,7 @@ q. v. ; arabe
 [placeholder1531: Placeholders/1531.gif], araméen
 [placeholder1532: Placeholders/1532.gif]) —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 féminin singulier וְזָעָ֑קָה
 2 S 13,19 1
@@ -138,6 +139,7 @@ si ma terre crie contre moi (|| יִבְכָּיוּן) ; comparer aussi
 (absolu, et sans préposition) Ha 2,11
 la pierre criera du (מִן) mur.
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 2 masculin singulier נִזְעָ֑קְתָּ
 Jg
@@ -173,6 +175,7 @@ Jg 6,34
 6,35
 assemblés après lui, c.-à-d. l'ont rejoint comme ses partisans.
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait
 וַיַּזְעֵק

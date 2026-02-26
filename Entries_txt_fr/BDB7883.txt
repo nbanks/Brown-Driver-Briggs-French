@@ -16,6 +16,7 @@ CIS^iv, nos. 95, 98^ ; araméen רְחֵיק,
 רְחַק, et (souvent dans les espèces dérivées et les dérivés)
 [placeholder5044: Placeholders/5044.gif]) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier ׳
 ר
@@ -102,6 +103,7 @@ De
 Siegf
 Buhl^Lex.^
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 3 masculin singulier רִחַק
 Es 6,12, de
@@ -116,6 +118,7 @@ tu as étendu au loin (avec accusatif) toutes les extrémités (frontières) du 
 Imparfait 3 masculin pluriel יְרַחֲקוּ אֶתוְֿנוּתָם
 Ez 43,9.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 masculin singulier הִרְחִיק
 Jb 19,13 ;

@@ -9,6 +9,8 @@ Isa 10:7 +, plural
 מְעַטִּים
 Ps 109:8; Eccl 5:1 —
 
+@@SPLIT:sense@@
+
 1.
 
 a.
@@ -21,8 +23,8 @@ the little that thou hadst, Gen 47:9
 few and evil, Lev 25:52; Num 26:54 (compare Num 33:54) וְלַמְעַט תמעיט נחלתו and
 to the
 small (few) thou shalt make small his inheritance, Num 33:56; Num 35:8
-וּמֵאֵת ַהמְעַט תמעיטו, Deut 7:7
-וכי אתם ַהמְעַט מכלֿ
+וּמֵאֵת ַהמְעַט תמעיטו, Deut 7:7
+וכי אתם ַהמְעַט מכלֿ
 העמים ye are the fewest out of all peoples, 1Sam 14:6
 לְהוֺשִׁיעַ בְּרַב אוֺ בִמְעָ֑ט, Jer 42:2
 כִּי נִשְׁאַרְנוּ מְעַט מֵהַרְבֵּה we are left as few out of many, Ezek 5:3
@@ -85,18 +87,18 @@ by little, by little = gradually, Exod 23:30; Deut 7:22.
 e.
 phrases: — a.
 with the interrogative הֲ, Gen 30:15
-ַהמְעַט קַחְתֵּךְ אֶתֿ
+ַהמְעַט קַחְתֵּךְ אֶתֿ
 אִישִׁי וְלָקַחַת was thy taking my husband (too) little? and (wilt thou be) for taking also my
 son's love-apples? Num
 16:9-10
-ַהמְעַט מִכֶּם כִּי
+ַהמְעַט מִכֶּם כִּי
 הִבְדִּיל ֗֗֗ וּבִקַּשְׁתֶּם גַּם כְּהֻנָּה is it too little for you
 that J.
 hath separated, etc., … and do ye seek, etc.? Num 16:13
-ַהמְעַט כִּי הֶעֱלִיתָנוּ ֗֗֗ כִּי תִשְׂתָּרֵר גַּם הִשְׂתָּרֵר, Josh 22:17f. ׳
-ַהמְעַט לָנוּ ֗֗֗ וְאַתֶּם תָּשׁוּבוּ וגו, Isa 7:13
+ַהמְעַט כִּי הֶעֱלִיתָנוּ ֗֗֗ כִּי תִשְׂתָּרֵר גַּם הִשְׂתָּרֵר, Josh 22:17f. ׳
+ַהמְעַט לָנוּ ֗֗֗ וְאַתֶּם תָּשׁוּבוּ וגו, Isa 7:13
 ׳
-ַהמְעַט מִכֶּם הַלְאוֺת אֲנָשִׁים כִּי תַּלְאוּ וגו is wearying men too little
+ַהמְעַט מִכֶּם הַלְאוֺת אֲנָשִׁים כִּי תַּלְאוּ וגו is wearying men too little
 for you, that you will weary also my God? Ezek 34:18 (as Ew
 Co
 
@@ -105,7 +107,7 @@ AV
 RV
 ), Job
 15:11
-ַהמְעַט מִמְּךָ תַּנְחוּמוֺת אֵל. But Ezek 16:20 (si vera lectio) was it (too) little
+ַהמְעַט מִמְּךָ תַּנְחוּמוֺת אֵל. But Ezek 16:20 (si vera lectio) was it (too) little
 
 because of thy whoredom? (was that insufficient for thee? Kö^
 iii. 406 m^). b.
@@ -119,6 +121,8 @@ Isa 10:25;
 Isa 29:17
 compare Hag 2:6;
 Job 24:24.
+
+@@SPLIT:sense@@
 
 2.
 

@@ -8,6 +8,7 @@ passer sur, plaire ; Buhl compare araméen
 [placeholder5660: Placeholders/5660.gif], Ithpe`el s'amuser, badiner, arabe vulgaire
 [placeholder5661: Placeholders/5661.gif] (emprunt ?) Vollers^ZMG xiv (1891), 86, 1. 3^) ; —
 
+@@SPLIT:stem@@
 Pilpel
 Parfait 3 masculin singulier consécutif וְשִׁעֲשַׁע
 Es 29,9 le
@@ -20,11 +21,13 @@ je prends plaisir à ta loi (accusatif ; mais ? lire שַׁעֲשֻׁעָ֑י, P
 Ps 94,19
 tes consolations délectent mon âme (accusatif).
 
+@@SPLIT:stem@@
 Palpel
 Imparfait 2 masculin pluriel תְּשָֽׁעֳשָׁ֑עוּ
 Es 66,12
 sur (עַל) les genoux vous serez dorlotés.
 
+@@SPLIT:stem@@
 Hithpalpel
 Imparfait 1 singulier אֶשְׁתַּעֲשָׁ֑ע
 Ps 119,16

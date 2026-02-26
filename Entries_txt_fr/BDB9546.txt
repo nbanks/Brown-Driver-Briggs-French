@@ -12,6 +12,8 @@ dans le besoin de ; pas
 
 ; —
 
+@@SPLIT:stem@@
+
 Pe`al
 Participe pluriel חָֽשְׁחִין
 Dn 3,16, singulier

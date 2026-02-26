@@ -10,6 +10,8 @@ murmur, growl, roar, be boisterous (
 [placeholder1324: Placeholders/1324.gif]
 murmur); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine plural הָמוּ
 Ps 46:7 + 2t.;

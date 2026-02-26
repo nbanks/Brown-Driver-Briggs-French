@@ -29,6 +29,8 @@ Lam 3:13
 Jer 12:2 —
 kidneys:
 
+@@SPLIT:sense@@
+
 1. literally, as physical organ,
 
 a. of man, only in poetry, as created by
@@ -56,6 +58,8 @@ Isa 34:6
 transferred to wheat,חֵלֶב כִּלְיוֺת חִטָּה
 Deut 32:14
 kidney-fat (i.e. the choicest, richest) of wheat.
+
+@@SPLIT:sense@@
 
 2.
 figurative, as seat of emotion and affection Job 19:27; Prov 23:16; Ps 16:7; Ps 73:21

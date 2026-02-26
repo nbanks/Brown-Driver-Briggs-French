@@ -26,6 +26,8 @@ plumas (Frey); —
 [placeholder3471: Placeholders/3471.gif]
 celeriter extraxit, etc., is denominative from loan-word according to Frä^88^); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 וְנָשַׁל consecutive Deut 7:1 + 2 t.; Imperfect 3 masculine singular יִשַּׁל
@@ -54,6 +56,8 @@ E
 3.
 clear away nations מִפָּנֶיךָ
 Deut 7:1; Deut 7:22.
+
+@@SPLIT:stem@@
 
 Pi`el
 Imperfect 3 masculine singular וַיְנַשֵּׁל

@@ -9,6 +9,8 @@ devenir grand (
 
 syriaque ; voir hébreu biblique I. רבה) ; —
 
+@@SPLIT:stem@@
+
 Peal
 Parfait 3 masculin singulier ׳
 ר
@@ -24,6 +26,8 @@ K^§ 47, Beisp. 1^)a)) v.Dn 4,19 — devenir haut
 et grand, d'un arbre Dn 4,8 ; Dn 4,17
 devenir long, de cheveux v.Dn 4,30 figuré devenir grand, d'un roi v.Dn 4,19,
 augmenter, de grandeur v.Dn 4,19.
+
+@@SPLIT:stem@@
 
 Pael
 rendre grand : Parfait 3 masculin singulier רַבִּי

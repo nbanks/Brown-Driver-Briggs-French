@@ -18,6 +18,7 @@ Dr^
 
 ^) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 ׳
@@ -580,6 +581,7 @@ E
 (comparer Niph`al
 Jos 17,16 ; Za 10,10).
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 נִמְצָא
@@ -885,6 +887,7 @@ J
 E
 ), comparer Za 10,10 (aussi Qal Nb 11,22 ; Jg 21,14).
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 1 singulier suffixe הִמְצִיתִךָ
 2 S 3,8

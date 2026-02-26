@@ -4,11 +4,15 @@ Biblical Hebrew
 [שֹׁ֫עַל] noun [masculine]
 hollow hand, handful; —
 
+@@SPLIT:sense@@
+
 1.
 hollow hand: suffix בְּשָׁעֳלוֺ
 Isa 40:12
 (figurative of ׳
 י holding waters).
+
+@@SPLIT:sense@@
 
 2.
 handful: plural שְׁעָלִים

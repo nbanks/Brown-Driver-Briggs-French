@@ -4,17 +4,23 @@ hébreu biblique
 שִׁבְיָה
 nom féminin
 captivité, captifs (collectif), comparer שְׁבִי ; — toujours absolu
-׳שׁ ; —
+׳
+שׁ ; —
 
+@@SPLIT:sense@@
 1. état de captivité, Jr 48,46 (de בָּבוֺת, || שְׁבִי
 de בָּנִים) ;
-׳אֶרֶץ שׁ
+׳
+אֶרֶץ שׁ
 Ne 3,36.
 
+@@SPLIT:sense@@
 2. ensemble de captifs, Dt 21,11 ; Dt 32,42 || חָלָל), 2 Ch 28,14 ; 2 Ch 28,15,
 objet de שָׁבָה, 2 Ch 28,5 (גדולה
-׳שׁ),
-׳הָשִׁיבוּ הַשּׁ
+׳
+שׁ),
+׳
+הָשִׁיבוּ הַשּׁ
 אֲשֶׁר שְׁבִיתֶם 2 Ch 28,11.
 
 ---

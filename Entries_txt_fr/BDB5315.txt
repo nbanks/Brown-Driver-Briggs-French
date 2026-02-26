@@ -4,6 +4,7 @@ hébreu biblique
 [נָצָא] verbe = נָצָה = voler, accusatif Thes
 Gf et autres ; — seulement
 
+@@SPLIT:stem@@
 Qal
 Infinitif absolu (si vera 1.) נָצֹא תֵצֵא
 Jr 48,9, mais

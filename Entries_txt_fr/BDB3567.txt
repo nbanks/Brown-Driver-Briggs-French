@@ -28,6 +28,7 @@ pluriel יַמִּים
 Jg 5,17 + 29 t. ;
 — mer : surtout
 
+@@SPLIT:sense@@
 1.
 Méditerranée
 Nb 13,29 (
@@ -87,6 +88,7 @@ Esd 3,7.
 
 De la Méditerranée au pluriel Dn 11,45 [comparer 8 d] Hi Ke Meinh Bev Dr (mers encerclant le monde Behrm).
 
+@@SPLIT:sense@@
 2.
 יַםסֿוּף
 « mer Rouge » (voir
@@ -108,6 +110,7 @@ Es 11,15 « mer
 Rouge » nommée ou mentionnée environ 66 t. ; יִםסֿוּף clairement du golfe d'Élath 1 R 9,26 (comparer
 2 Ch 8,17).
 
+@@SPLIT:sense@@
 3.
 mer Morte, יָם
 מֶלַח
@@ -131,6 +134,7 @@ Gr
 Che
 Gie.
 
+@@SPLIT:sense@@
 4.
 mer de Galilée
 יָם כִּנֶּרֶת
@@ -141,6 +145,7 @@ Jos 12,3
 simplement יָם
 Dt 33,23.
 
+@@SPLIT:sense@@
 5. plus généralement mer, opposée à terre et (ou) ciel Gn 1,26 ; Gn 1,28 ; Gn 9,2 (
 P
 ), Ex
@@ -154,6 +159,7 @@ pour בקרים (voir
 עָלָה עַלבָּֿבֶל הַיָּם
 Jr 51,42.
 
+@@SPLIT:sense@@
 6. d'un grand fleuve, le Nil Na 3,8 (deux fois dans le verset) ; Es 19,5 (|| נָהָר) ; comparer
 הַתַּנִּין אֲשֶׁר בַּיָּם
 Es 27,1 et
@@ -162,6 +168,7 @@ Ez 32,2 (comparaison
 de Pharaon) ; de l'Euphrate Es 21,1 ; Jr 51,36 (selon Che
 Gf et autres ; Es 21,1 peut-être mieux du golfe Persique, voir Di).
 
+@@SPLIT:sense@@
 7. le grand bassin dans la cour du temple, appelé la mer :
 וַיַּעַשׂ אֶתהַֿיָּם מוּצָק
 1 R 7,23 = 2 Ch 4,2
@@ -170,6 +177,7 @@ Gf et autres ; Es 21,1 peut-être mieux du golfe Persique, voir Di).
 1 Ch 18,8 ; Jr 52,17
 הַיָּם seul 1 R 7,24 ; 1 R 7,25 + 10 t. Rois Chroniques + Jr 52,20.
 
+@@SPLIT:sense@@
 8. combinaisons :
 
 a.
@@ -216,6 +224,7 @@ comparer Mi 7,12
 ; Za 14,8
 (deux fois dans le verset) ; Jl 2,20 (deux fois dans le verset) ; Dn 11,45.
 
+@@SPLIT:sense@@
 9. = ouest, vers l'ouest (à l'origine vers la mer, d'après la position de la Méditerranée
 par rapport à la Palestine, et ce sens souvent encore perceptible) : avec les trois autres points cardinaux Gn 13,14 ;
 Gn 28,14 (

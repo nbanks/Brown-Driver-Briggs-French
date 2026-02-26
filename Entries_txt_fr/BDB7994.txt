@@ -13,6 +13,8 @@ ru—i
 [placeholder5111: Placeholders/5111.gif] araméen רְעָא,
 [placeholder5112: Placeholders/5112.gif], tous = hébreu biblique) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Parfait 3 masculin singulier consécutif וְרָעָה
 Mi 5,3 +, 1 singulier
@@ -332,7 +334,11 @@ Jb
 חֵרַע pour ׳
 ר ; conjectures plus radicales dans Du.
 
+@@SPLIT:stem@@
+
 Niph`al peut-être Jb 20,26, voir 2.d. ci-dessus
+
+@@SPLIT:stem@@
 
 Hiph`il
 Ps

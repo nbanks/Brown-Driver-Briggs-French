@@ -31,6 +31,7 @@ féminin pluriel רִאשֹׁנוֺת
 Es 41,22 +,
 etc. ; —
 
+@@SPLIT:sense@@
 1.
 ancien :
 
@@ -84,6 +85,7 @@ choses passées, c.-à-d. événements passés Es 41,22 ; Es 43,9 ; Es 43,18 ; E
 
 b. lieu, en tête, de deux 2 S 18,27.
 
+@@SPLIT:sense@@
 2
 premier :
 
@@ -162,6 +164,7 @@ transgression ;
 1 Ch 18,17 ; Dn 10,13 (Chroniques, Est
 1,14 ci-dessous).
 
+@@SPLIT:sense@@
 3.
 
 a. féminin avec préposition comme locution adverbiale : (1) de temps, בָּרִאשֹׁנָה

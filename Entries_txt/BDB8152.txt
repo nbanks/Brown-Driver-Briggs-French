@@ -11,6 +11,8 @@ be sated, satisfied, surfeited (Late Hebrew (derived species) = Biblical Hebrew;
 [placeholder5210: Placeholders/5210.gif], Palmyrene שבע; the Ethiopic verb of same, meaning is
 [placeholder5211: Placeholders/5211.gif]:); —
 
+@@SPLIT:stem@@
+
 Qal_79_
 Perfect 3 masculine singular שָׂבַע
 1Chr 23:1,
@@ -119,12 +121,16 @@ troubles Ps
 88:4
 , of reproach Lam 3:30.
 
+@@SPLIT:stem@@
+
 Niph`al
 Participle
 נִשְׂבָּע
 sated
 Job 31:31
 .
+
+@@SPLIT:stem@@
 
 Pi`el
 satisfy, Imperfect 3 masculine plural יְשַׂבִּ֑עוּ
@@ -143,6 +149,8 @@ Hab 3:9, for
 שְׁבֻעוֺת, compare GASm; Gr Marti שְׂבֵעַת (adjective feminine construct)
 thy
 bow is sated with shafts. We thinks hopeless.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 masculine singular הִשְׂבִּיע

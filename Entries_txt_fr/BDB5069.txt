@@ -16,6 +16,7 @@ Hiph`il ?) Imparfait
 Kt
 ; >
 
+@@SPLIT:stem@@
 Niph`al
 ינּוֺן
 

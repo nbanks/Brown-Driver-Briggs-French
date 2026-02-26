@@ -3,6 +3,8 @@ Biblical Hebrew
 
 [פָּלָה] verb
 
+@@SPLIT:stem@@
+
 Niph`al
 be separated, distinct (|| form of
 פלא
@@ -31,6 +33,8 @@ We
 תָ- thou [׳
 י] art wonderful (פלא
 3).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 masculine singular הִפְלָה

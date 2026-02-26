@@ -11,9 +11,11 @@ Jr 13,17 + 6
 t. ; suffixe מִסְתָּרָיו
 Jr 49,10 —
 
+@@SPLIT:sense@@
 1.
 lieu(x) secret(s), caché(s) à la vue, Jr 13,17 où les trésors sont entreposés Es 45,3.
 
+@@SPLIT:sense@@
 2.
 cachette(s) :
 

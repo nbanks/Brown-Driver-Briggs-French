@@ -13,6 +13,7 @@ aider, palmyrénien עדר, rarement עזר
 Lzb^338^
 Cook^89. 90^) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier suffixe עֲזָרָ֑נִי
 Ps 118,13,
@@ -137,6 +138,7 @@ Jb 9,13
 
 Es 31,3.
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 וְנֶעֱזָרְ֑תִּי
@@ -155,6 +157,7 @@ Infinitif construit
 il fut merveilleusement aidé (littéralement rendit merveilleux le fait d'être aidé
 ).
 
+@@SPLIT:stem@@
 Hiph`il douteux : Infinitif construit
 2 S 18,3
 

@@ -5,6 +5,8 @@ Biblical Hebrew
 commit adultery (Late Hebrew id.; Aramaic נְאַף (rare)):
 —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 3 masculine singular יִנְאַף
 Lev 20:10 (twice
@@ -51,6 +53,8 @@ Ezek 23:45 (twice in verse).
 2.
 figurative of idolatrous worship, את האבן ואת העץ
 Jer 3:9.
+
+@@SPLIT:stem@@
 
 Piel
 Perfect 3 feminine singular נִאֲפָה

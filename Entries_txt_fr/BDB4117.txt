@@ -12,6 +12,7 @@ confiance ; en mauvaise part : כֶּסֶל, כִּסְלָה,
 stupidité, folie, כְּסִיל
 sot) —
 
+@@SPLIT:stem@@
 Qal
 Imparfait
 יִכְסָ֑לוּ

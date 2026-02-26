@@ -10,6 +10,8 @@ pašât‰u
 [placeholder4373: Placeholders/4373.gif], are stretch out, extend, make plain, so Arabic
 [placeholder4374: Placeholders/4374.gif]); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular ׳
 פ
@@ -61,6 +63,8 @@ with בְּ
 אַלֿ) We
 Dr and others
 
+@@SPLIT:stem@@
+
 Pi`el
 Infinitive construct
 לְפַשֵּׁט, with accusative of person 1Sam 31:8
@@ -68,6 +72,8 @@ to strip the slain = 1Chr 10:8 absolute only to strip (that
 is, the slain) 2Sam
 23:10 (insert also || 1Chr 11:13
 Dr).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 masculine singular הִפְשִׁיט
@@ -119,6 +125,8 @@ flay, with accusative הָעֹלָה
 Lev 1:6
 ; 2Chr
 29:4 accusative omitted 2Chr 35:11.
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Imperfect 3 masculine singular וַיִּתְפַּשֵּׁט

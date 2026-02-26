@@ -14,6 +14,7 @@ araméen נְבַל Pael rejeter, mépriser, voir
 Ne 3,6 ; Jr 14,21 dans les
 dérivés comme hébreu tardif) ; —
 
+@@SPLIT:stem@@
 Qal = être sot
 Pr 30,32 est
 mis en doute par Frankenb Toy (où voir les divers rendus), et d'autres, qui pensent le texte corrompu. Parfait 2
@@ -21,6 +22,7 @@ masculin singulier נָבַלְתָּ
 Pr 30,32
 si tu as été insensé en t'élevant (opposé à זַמּוֺתָ).
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 1 singulier suffixe consécutif וְנִבַּלְתִּיךְ
 Na 3,6

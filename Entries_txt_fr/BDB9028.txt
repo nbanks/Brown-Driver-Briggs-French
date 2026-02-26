@@ -13,6 +13,7 @@ Ps 101,7 + 3
 t. ; suffixe שִׁקְרֵיהֶם
 Jr 23,22 —
 
+@@SPLIT:sense@@
 1.
 tromperie, ce qui trompe, déçoit et trahit : une image de fonte Jr 10,14 = Jr 51,17
 don Pr 25,14
@@ -37,6 +38,7 @@ pour la déception, en vain
 1 S 25,21 ;
 Jr 3,23.
 
+@@SPLIT:sense@@
 2.
 fraude, tromperie, tort :
 ׳
@@ -75,6 +77,7 @@ Ps 69,5 ; Ps 119,78
 ; Ps
 119,86.
 
+@@SPLIT:sense@@
 3. fausseté préjudiciable, dans le témoignage, surtout devant les tribunaux : עַד
 שֶׁקֶר
 Ex 20,16 (
@@ -119,6 +122,7 @@ comparer Ps
 119,163 absolu faux !
 2 R 9,12 ; Jr 37,14.
 
+@@SPLIT:sense@@
 4.
 fausseté, des prophètes faux ou abusés :
 ׳
@@ -150,6 +154,7 @@ Jr 14,14,
 etc., (+ 12 t.) ; ׳
 רוּח שׁ.
 
+@@SPLIT:sense@@
 5.
 mensonge, fausseté, en général : ׳
 דבר שׁ

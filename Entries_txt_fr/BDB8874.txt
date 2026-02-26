@@ -19,6 +19,8 @@ Jr 15,9 pluriel
 suffixe שִׁמְשֹׁתַ֫יִךְ
 Es 54,12 —
 
+@@SPLIT:sense@@
+
 1.
 soleil,
 Gn 37,9 (
@@ -99,6 +101,8 @@ Ps 148,3 (+
 יָרֵךְַ) ; devant être obscurci par le jugement de ׳
 י, Ez 32,7 ; Jl 2,10 ; Jl 3,4 ; Jl 4,15 (comparer Am 8,9 ci-dessus, Mi 3,6).
 
+@@SPLIT:sense@@
+
 2.
 de direction :
 ׳
@@ -115,12 +119,16 @@ t. (voir
 
 2, p. 99).
 
+@@SPLIT:sense@@
+
 3. objet de culte (habituellement + lune, étoiles, etc.) 2 R 23,5 ; Jr 8,2 ; Ez 8,16 ; Dt 4,19 des chevaux donnés à ׳
 שׁ
 2 R 23,11,
 ׳
 מַרְכְּבוֺת השּׁ 2 R 23,11. — Voir aussi ׳
 בֵּית שׁ p. 112 :b.
+
+@@SPLIT:sense@@
 
 4. autres expressions :
 
@@ -149,6 +157,8 @@ c.
 ׳
 תַּחַת הַשּׁ, c.-à-d. sur la terre, Qo 1,3 + 28 t. Qohéleth (comparer grec ὐφ' ἠλίῳ,
 Kue^Ond. iii. 196^ ; Ein1. iii. 192).
+
+@@SPLIT:sense@@
 
 5.
 pinacle, comme brillant, luisant, pluriel Es 54,12

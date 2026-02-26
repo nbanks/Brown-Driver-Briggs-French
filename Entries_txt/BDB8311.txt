@@ -25,6 +25,8 @@ Qr
 Kt
 ); —
 
+@@SPLIT:sense@@
+
 1.
 survivor (often || פָּלִיט): especially ׳
 עַד בִּלְתִּי הִשְׁאִיר לוֺ שׂ
@@ -83,6 +85,8 @@ plural also Josh
 שׂ read perhaps יִשְׂרָאֵל
 GFM
 Now compare Bu), Jer 47:4; Lam 2:22.
+
+@@SPLIT:sense@@
 
 2. of things: לְאָכְלוֺ
 ׳

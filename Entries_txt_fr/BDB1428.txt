@@ -8,6 +8,7 @@ hauteur — Jb 22,12 + 9 t. ; suffixe גָּבְהוֺ
 pluriel construit גָּבְהֵי
 Jb 11,8 —
 
+@@SPLIT:sense@@
 1.
 hauteur, de bâtiments et d'arbres Ez 1,18 ; Ez 19,11 ; Ez 31,10 ; Ez 31,14 ; Ez 40,42 ; Ez 41,8 ;
 2 Ch 3,4 ; Am 2,9 probablement
@@ -24,10 +25,12 @@ Co pour
 גַּב
 (q. v.) ; de l'homme 1 S 17,4 ciel Jb 11,8 ; Jb 22,12 (גבה construit ST:6 du rocher).
 
+@@SPLIT:sense@@
 2.
 exaltation, grandeur
 Jb 40,10.
 
+@@SPLIT:sense@@
 3.
 hauteur d'esprit, Jr 48,29
 אַף

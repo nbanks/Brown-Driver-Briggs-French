@@ -6,6 +6,7 @@ diviser, traverser (? comparer araméen בְּזַע,
 [placeholder541: Placeholders/541.gif]
 fendre —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 בָּֽזְאוּ נהרים

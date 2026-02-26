@@ -4,10 +4,14 @@ araméen biblique
 [לְבֵשׁ] verbe
 être revêtu (voir hébreu biblique) ; —
 
+@@SPLIT:stem@@
+
 Pe`al
 Imparfait accusatif אַרְנְּוָנָא : 3 masculin singulier יִלְבַּשׁ.
 Dn 5,7, 2 masculin
 singulier תִּלְבַּשׁ Dn 5,16.
+
+@@SPLIT:stem@@
 
 Haph`el
 Parfait 3 masculin pluriel הַלְבִּ֫שׁוּ Dn 5,29

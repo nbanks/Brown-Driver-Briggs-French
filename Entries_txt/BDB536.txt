@@ -4,6 +4,8 @@ Biblical Hebrew
 אֲמָנָה
 proper name [of a river]
 
+@@SPLIT:sense@@
+
 1.
 a river (
 constant ?
@@ -16,6 +18,8 @@ Qr
 
 Kt
 ), the Greek Chrysorrhoas, modern Arabic Nahr Barad'.
+
+@@SPLIT:sense@@
 
 2. the region from which it flows Cant 4:8.
 

@@ -6,6 +6,8 @@ go astray, err (Aramaic שְׁגָא,
 [placeholder5408: Placeholders/5408.gif]
 id.); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 1 singular שָׁגִיתִי
 Job 6:24; Job 19:4, etc.;
@@ -56,6 +58,8 @@ Prov 19:27.
 P
 ) Ezek
 45:20 (compare שׁגג).
+
+@@SPLIT:stem@@
 
 Hiph`il
 lead astray:

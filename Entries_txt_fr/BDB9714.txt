@@ -20,6 +20,8 @@ Cooke^Inscr. 212^, arabe
 dépense du ménage (emprunt araméen Schw^ZMG iii (1898).
 133^)) ; —
 
+@@SPLIT:stem@@
+
 Pe`al
 Parfait 3 masculin singulier ׳
 נ
@@ -38,6 +40,8 @@ sortez ! Participe pluriel נָָֽפְקִין Lc 3,26 (les deux d'hommes) ; si
 נָפֵק
 Lc 7,10 (=
 couler).
+
+@@SPLIT:stem@@
 
 Haph`el
 faire sortir, accusatif de chose + מִן local : Parfait 3

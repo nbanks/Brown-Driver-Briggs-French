@@ -9,6 +9,8 @@ sharpen,
 [placeholder1984: Placeholders/1984.gif]
 sharp, keen, acute); —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect
 לֹאיֶֿחֱרַף לְבָבִי מִיָּמָ֑י
@@ -20,6 +22,8 @@ Ps 119:42;
 Prov 27:11
 חוֺרְפֶיךָ
 Ps 69:10.
+
+@@SPLIT:stem@@
 
 Piel
 Perfect

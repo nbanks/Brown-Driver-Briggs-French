@@ -6,6 +6,7 @@ couper, rompre, acquérir par violence (ainsi hébreu tardif, arabe
 [placeholder665: Placeholders/665.gif], éthiopien
 [placeholder666: Placeholders/666.gif] araméen בְּצַע) —
 
+@@SPLIT:stem@@
 Qal
 Imparfait
 יִבְצָ֑ע
@@ -38,6 +39,7 @@ sens apparenté avec le verbe בֶּ֫צַע
 Pr 1,19 ; Pr 15,27 ;
 Jr 6,13 ; Jr 8,10 ; Ha 2,9.
 
+@@SPLIT:stem@@
 Pi`el
 Parfait
 בִּצַּע

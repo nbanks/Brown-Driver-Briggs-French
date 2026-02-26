@@ -10,6 +10,8 @@ crawl,
 [placeholder5745: Placeholders/5745.gif]
 germinate, sprout); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular ׳
 שׁ

@@ -3,6 +3,7 @@ hébreu biblique
 
 בֵּית לֶ֫חֶם_41_
 
+@@SPLIT:sense@@
 nom propre [d'un lieu]
 1.
 en Juda (lieu de pain (nourriture), arabe moderne
@@ -44,6 +45,7 @@ Bd^Pal 123^
 Survey^iii. 28, 83^
 Guérin^Judée i. 120-206.^
 
+@@SPLIT:sense@@
 2.
 בֵּית לָ֑חֶם en Zabulon Jos 19,15 peut-être aussi Jg 12,8 ; Jg 12,10 =
 Beit Laµm

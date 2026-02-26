@@ -12,7 +12,11 @@ Esd 7,15 +,
 Dn 2,32 emphatique
 כַּסְפָּא Dn 2,35 + ; —
 
+@@SPLIT:sense@@
+
 1. comme matériau Dn 2,32 ; Dn 2,35 ; Dn 2,45 ; Esd 5,14 ; Esd 6,5.
+
+@@SPLIT:sense@@
 
 2. comme monnaie ou son équivalent Esd 7,17, Esd 7,15 Esd 7,16 Esd 7,18 Esd 7,22.
 

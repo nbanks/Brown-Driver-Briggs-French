@@ -4,6 +4,7 @@ hébreu biblique
 עָמְרִי_18_
 nom propre, masculin
 
+@@SPLIT:sense@@
 1.
 Omri, roi d'Israël (
 MI^4,5,7^
@@ -17,6 +18,7 @@ COT^Gloss^) ; — 1 R 16,16 + 11 t. 1 R 16 ; 2 R 8,26 = 2 Ch 22,2 ; Mi 6,16,
 
 (ζ)αμβρ(ε)ι.
 
+@@SPLIT:sense@@
 2.
 
 a.

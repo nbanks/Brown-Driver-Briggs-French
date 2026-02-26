@@ -7,12 +7,14 @@ chuchoter, charmer (hébreu tardif id. ; araméen לְחַשׁ
 [placeholder2816: Placeholders/2816.gif] ; chuchoter, voir RS^JPh xiv. 1885, 122,
 peut-être^ à l'origine charme de serpent) ; —
 
+@@SPLIT:stem@@
 Pi`el
 Participe pluriel קוֺל מְלַחֲשִׁים
 Ps 58,6
 voix de chuchoteurs (c.-à-d. charmeurs de serpents ; || חוֺבֵר תֲבָרִים
 ).
 
+@@SPLIT:stem@@
 Hithpa`el
 chuchoter ensemble, Imparfait
 יִתְלַחֲשׁוּ avec עַל

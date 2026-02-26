@@ -8,10 +8,14 @@ lier ensemble ; araméen קְמַט = hébreu biblique ;
 [placeholder4775: Placeholders/4775.gif]
 saisir, comprimer) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Imparfait 2 masculin singulier suffixe וַתִּקְמְטֵנִי
 Jb 16,8
 et tu m'as saisi.
+
+@@SPLIT:stem@@
 
 Pu`al
 être arraché (prématurément) Parfait 3 pluriel קֻמְּטוּ

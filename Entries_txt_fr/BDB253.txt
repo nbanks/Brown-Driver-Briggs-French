@@ -3,6 +3,7 @@ hébreu biblique
 
 [אוּת] verbe seulement
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait
 consentir, accepter (comparer rab. נֵיאוֺת Participe Niph`al surtout

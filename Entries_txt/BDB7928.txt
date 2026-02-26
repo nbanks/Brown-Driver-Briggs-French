@@ -6,6 +6,8 @@ be tender, weak, soft (Arabic
 [placeholder5070: Placeholders/5070.gif] Aramaic רְכַךְ (in derived species and derivatives),
 [placeholder5071: Placeholders/5071.gif], id.); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular רַךְ
 2Kgs 22:19;
@@ -30,12 +32,16 @@ Niph`al,
 חָלַק
 ).
 
+@@SPLIT:stem@@
+
 Pu`al
 Perfect 3 feminine singular רֻכְּכָה
 Isa 1:6
 it has not been softened, mollified, with oil (of wound,
 
 מַכָּךְ).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 masculine singular וְאֵל הֵרַךְ לִבִּי

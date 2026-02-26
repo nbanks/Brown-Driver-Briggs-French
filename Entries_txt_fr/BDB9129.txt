@@ -15,6 +15,8 @@ substantif miséricorde ; arabe
 [placeholder5804: Placeholders/5804.gif]
 un intermédiaire) —
 
+@@SPLIT:stem@@
+
 Qal
 Parfait 1 singulier תַּרְתִּי
 Ez 20,6 ; Qo 2,3 3 pluriel
@@ -96,6 +98,8 @@ P
 ᵑ6
 
 2 Chroniques, propose הֶעָרִים pour הַתָּרִים
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imparfait 3 masculin pluriel וַיָּתִ֫ירוּ בְּבֵיתאֵֿל

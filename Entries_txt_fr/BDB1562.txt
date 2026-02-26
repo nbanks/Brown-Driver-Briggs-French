@@ -8,6 +8,7 @@ séjourner (comparer arabe
 se détourner s'attarder, voir surtout III. IV. VIII. X ; araméen
 [placeholder845: Placeholders/845.gif] éth. dans les dérivés) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 גָּר
@@ -120,6 +121,7 @@ Di et Che note critique
 (> Stu
 גֵּרִים)
 
+@@SPLIT:stem@@
 Hithpolel
 Participe
 מִתְגּוֺרֵר

@@ -18,6 +18,7 @@ Nb 12,8 suffixe
 חִידֹתָם
 Pr 1,6 —
 
+@@SPLIT:sense@@
 1.
 devinette = propos obscur, ténébreux Nb 12,8 (
 J
@@ -38,6 +39,7 @@ ouvrir, proposer ; || מָשָׁל), une leçon enseignée indirectement Ps 78,2
 ׳
 ח, avec הִבִּיעַ ; || מָשָׁל).
 
+@@SPLIT:sense@@
 2.
 devinette, énigme, à deviner, dans Jg 14 :
 
@@ -59,6 +61,7 @@ trouver la solution d'une devinette
 Jg
 14,18.
 
+@@SPLIT:sense@@
 3.
 questions embarrassantes par lesquelles la reine de Saba mit Salomon à l'épreuve (נִסָּה
 )
@@ -67,6 +70,7 @@ questions embarrassantes par lesquelles la reine de Saba mit Salomon à l'épreu
 2 Ch 9,1
 .
 
+@@SPLIT:sense@@
 4. avec הֵבִין habile en double jeu
 Dn 8,23
 (Bev).

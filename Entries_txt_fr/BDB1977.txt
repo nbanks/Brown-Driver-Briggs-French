@@ -7,6 +7,7 @@ pleurer (hébreu tardif id., arabe
 [placeholder1165: Placeholders/1165.gif] ; araméen דְּמַע,
 [placeholder1166: Placeholders/1166.gif] : assyrien dans les dérivés, voir ci-dessous),
 
+@@SPLIT:stem@@
 Qal
 Imparfait 3 féminin singulier, et Infinitif absolu, וְדָמֹעַ תִּדְמַע
 וְתֵרֵד עֵינִי דִּמְעָה

@@ -20,6 +20,8 @@ silver, money, compare Mordtm^Him. Inschr. pp. 14,
 29^
 CIS^iv, No. 291, 1.1^); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular ׳
 צ
@@ -96,11 +98,15 @@ Isa 40:19
 Che
 Marti), Isa 41:7; Isa 46:6; Prov 25:4 as a guild Neh 3:8; Neh 3:32.
 
+@@SPLIT:stem@@
+
 Niph`al
 Imperfect 3 masculine plural יִצָּֽרְפוּ
 Dan 12:10
 many shall be refined (by suffering; + יִתְבָּֽרְרוּ,
 יִתְלַבְּנוּ).
+
+@@SPLIT:stem@@
 
 Pi`el
 Participle

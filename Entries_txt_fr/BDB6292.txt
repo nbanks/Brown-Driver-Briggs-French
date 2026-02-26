@@ -5,6 +5,7 @@ hébreu biblique
 nom [masculin]
 puissance, os ; —
 
+@@SPLIT:sense@@
 1.
 puissance, construit יָדִי
 ׳
@@ -26,6 +27,7 @@ Es 11,15
 ׳
 בַּעְיָם ר).
 
+@@SPLIT:sense@@
 2.
 os (collectif) : suffixe עָצְמִי
 Ps 139,15

@@ -3,6 +3,8 @@ Biblical Hebrew
 
 סֻכּוֺת_18_
 proper name [of a location]; —
+
+@@SPLIT:sense@@
 1.
 סֻכֹּ֫תָה (ה locative) Gen 33:17 (twice in verse) (
 J
@@ -35,6 +37,8 @@ Dêr `alla, 1 mile north of Jabbok Nbr^Geogr. du Talm. 248^
 Σοκχωθ (Σκηναί
 Gen 33 compare
 Psalms).
+
+@@SPLIT:sense@@
 
 2.
 סֻכֹּ֫תָה (ה locative) Exod 12:37, elsewhere סֻכֹּת; — first station

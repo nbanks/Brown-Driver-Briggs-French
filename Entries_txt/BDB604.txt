@@ -5,6 +5,8 @@ Biblical Hebrew
 cry, groan (Aramaic אֲנַק
 [placeholder313: Placeholders/313.gif] —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect
 יֶאֱנֹק
@@ -13,6 +15,8 @@ Infinitive construct
 אֱנֹק
 Ezek 26:15,
 both of groaning of wounded (חָלָל).
+
+@@SPLIT:stem@@
 
 Niph`al
 id., in mourning, lamentation; Infinitive construct

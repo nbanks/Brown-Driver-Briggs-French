@@ -9,6 +9,8 @@ ci-dessous ; Thes et la plupart comparent l'arabe
 [placeholder489: Placeholders/489.gif]
 creuser une fosse ou un puits, mais cela est probablement dénominatif voir Lag^l.c^.) —
 
+@@SPLIT:stem@@
+
 Pi`el
 Parfait 3 masculin singulier בֵּאֵר
 Dt 1,5,

@@ -5,6 +5,8 @@ Biblical Hebrew
 noun feminine
 majesty, Ps 93:1 + 7 t.; —
 
+@@SPLIT:sense@@
+
 1.
 lifting up
 גֵּאוּת עָשָׁן
@@ -13,6 +15,8 @@ Isa 9:17
 גֵּאוּת הַיָּם
 swelling of the sea
 Ps 89:10.
+
+@@SPLIT:sense@@
 
 2.
 majesty of God Ps 93:1; Isa 26:10
@@ -23,6 +27,8 @@ Isa 12:5
 crown of majesty
 Isa 28:1; Isa 28:3
 (Samaria, on a round hill majestically commanding the country).
+
+@@SPLIT:sense@@
 
 3.
 pride

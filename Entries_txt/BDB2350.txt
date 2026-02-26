@@ -4,6 +4,8 @@ Biblical Hebrew
 [זָכַךְ] verb
 be bright, clean, pure (kindred with foregoing. Only Lamentations, Job) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect only 3 masculine plural זַכּ֫וּ; —
 
@@ -19,6 +21,8 @@ be clean, pure in God's sight, of heavens Job 15:15, of stars Job 25:5 (|| יַ�
 compare also יִזְכֶּה
 Job 15:14;
 Job 25:4).
+
+@@SPLIT:stem@@
 
 Hiph`il
 cleanse, only Perfect 1 singular וַהֲזִכּוֺתִי בְּבֹר כַּפָּֽי׃

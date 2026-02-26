@@ -18,6 +18,7 @@ pluriel אֵילִים (אֵילִם, אֵלִים) Gn 32,15 + ; construit אֵ�
 Gn 31,38 ; Es 60,7. —
 bélier,
 
+@@SPLIT:sense@@
 1. utilisé comme nourriture Gn 31,38 (
 E
 ) Dt 32,14
@@ -31,6 +32,7 @@ Perse Dn 8,3 ; Dn 8,4 ; Dn 8,6 ; Dn 8,7 (4 t. dans le
 verset) ; Dn 8,20
 figuré des riches et puissants en Israël Ez 34,17.
 
+@@SPLIT:sense@@
 2. immolé dans la cérémonie de ratification de l'alliance entre ׳
 י et Abraham Gn 15,9 (
 J
@@ -117,6 +119,7 @@ Jr 51,40 ;
 Ez 39,18
 .
 
+@@SPLIT:sense@@
 3.
 עֹרֹת אֵילִים מְאָדָּמִים
 peaux de béliers teintes en rouge, pour la couverture du tabernacle Ex 25,5 ; Ex 26,14 ; Ex 35,7 ; Ex 35,23 ; Ex 36,19 comparer Ex 39,34

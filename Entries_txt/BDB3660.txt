@@ -8,6 +8,8 @@ Job 27:14
 [placeholder2272: Placeholders/2272.gif]
 origin, root, stock) —
 
+@@SPLIT:sense@@
+
 1.
 offspring of men, absolute הַצֶּאֱצָאִים וְהַצְּפִעוֺת
 Isa 22:24
@@ -23,6 +25,8 @@ Job 27:14
 (|| בָּנָיו); צֶאֱצָאֵיהֶ ם
 Job 21:8 (||
 זַרְעָם) Isa 61:9 (|| id.), Isa 65:23.
+
+@@SPLIT:sense@@
 
 2.
 produce of earth, suffix תֵּבל וְכָלצֶֿאֱצָאֶ֑יהָ

@@ -6,6 +6,7 @@ prêter à intérêt, ou à usure, être créancier (comparer arabe
 [placeholder3460: Placeholders/3460.gif]
 reporter, retarder ; vendre à crédit ; || forme de I. נָשָׁה, voir Ges^«GKC:75oo»§ 75oo^) ; —
 
+@@SPLIT:stem@@
 Qal
 Participe
 actif
@@ -23,6 +24,7 @@ Kt
 Qr
 , de נָשָׁה), + accusatif de sens apparenté avec le verbe מַשָּׁא.
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait 3 masculin singulier לֹאיַֿשִּׁיא אוֺיֵב בּוֺ
 Ps 89,23

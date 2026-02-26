@@ -24,6 +24,8 @@ Deut 17:8 construct
 Job 13:6 —
 strife, quarrel:
 
+@@SPLIT:sense@@
+
 1. in words, Exod 17:7 (
 J
 ), Deut 1:12
@@ -57,6 +59,8 @@ Jer 15:10 (+
 ׳
 א).
 
+@@SPLIT:sense@@
+
 2. of public hostilities 2Sam 22:44 = Ps 18:44, compare אִישׁ רִיב
 Judg 12:2,
 
@@ -66,6 +70,8 @@ Isa 41:11
 ||
 חָמָס
 Ps 55:10.
+
+@@SPLIT:sense@@
 
 3._39_ especially dispute, controversy, case at law:
 Exod 23:2; Exod 23:3; Exod 23:6 (
@@ -101,6 +107,8 @@ dispute as to guilt; אִישׁ דִיבִי
 Job 31:35
 =
 accuser.
+
+@@SPLIT:sense@@
 
 4.
 plea:

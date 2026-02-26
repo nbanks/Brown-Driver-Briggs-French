@@ -7,6 +7,8 @@ slap, clap (Late Hebrew Pi`el id.; Arabic
 slap (face), strike (hands)
 Lane^1373^); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular וְסָפַק consecutive Jer 48:26, suffix סְפָקָם
 
@@ -47,6 +49,8 @@ Thes
 Buhl^Lex 13^
 empty himself (?), throw up (compare Syriac
 [placeholder3646: Placeholders/3646.gif] Pa`el).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imperfect 3 masculine plural וּבְיַלְרֵי נָכְרִים

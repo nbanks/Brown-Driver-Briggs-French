@@ -15,6 +15,8 @@ eš‡u
 [placeholder4131: Placeholders/4131.gif]
 roughness, injustice); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 ׳
@@ -96,6 +98,8 @@ falls, sinks); עָשֻׁק בְּדַם נֶפֶשׁ
 Prov 28:17
 
 oppressed (? burdened) with the blood of a person.
+
+@@SPLIT:stem@@
 
 Pu`al
 Participle feminine הַמְּעֻשָּׁקָה

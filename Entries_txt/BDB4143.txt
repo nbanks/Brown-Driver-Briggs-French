@@ -22,6 +22,8 @@ posteriors, buttocks; Ethiopic
 [placeholder2605: Placeholders/2605.gif]
 a part) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 2 masculine singular וְכָפַלְתָּ֫
 Exod 26:9
@@ -31,6 +33,8 @@ folded double, of the breastpiece (חשֶׁןׅ
 Exod 28:16;
 Exod 39:9 (twice in
 verse).
+
+@@SPLIT:stem@@
 
 Niph`al
 Imperfect 3 feminine singular וְתִכָּפֵל

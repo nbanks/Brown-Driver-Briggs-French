@@ -4,6 +4,8 @@ Biblical Aramaic
 [זְמַן] verb
 denominative
 
+@@SPLIT:stem@@
+
 Hithpa`el
 agree together (
 
@@ -16,6 +18,8 @@ Qr
 הִזְדַּמִּנְתּוּן (D^211, 2nd ed. 263^
 M^§ 12 a^;
 Kt
+
+@@SPLIT:stem@@
 
 Haph`el
 הַזְמִנְתּוּן, see

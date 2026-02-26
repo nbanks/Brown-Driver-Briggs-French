@@ -28,6 +28,7 @@ Gn 6,5 suffixe
 Es 55,8 etc. + 19
 t. suffixes ; —
 
+@@SPLIT:sense@@
 1.
 pensée :
 
@@ -57,6 +58,7 @@ Ps 40,6
 Jr 51,29
 les pensées de Dieu sont extrêmement profondes Ps 92,6 plus élevées que les pensées de l'homme Es 55,8 (deux fois dans le verset) ; Es 55,9 (deux fois dans le verset).
 
+@@SPLIT:sense@@
 2.
 dessein, plan, projet
 Es 55,7 ;
@@ -136,6 +138,7 @@ anéantir des plans
 Pr 15,22
 .
 
+@@SPLIT:sense@@
 3.
 invention
 Ex 31,4 ;

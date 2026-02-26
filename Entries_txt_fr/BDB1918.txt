@@ -4,8 +4,10 @@ hébreu biblique
 דָּן
 nom propre, masculin (juge) —
 
+@@SPLIT:sense@@
 1. fils de Jacob et de Bilha Gn 30,6 ; Gn 35,25 ; Ex 1,4 ; Jos 19,47 ; Jg 18,29 ; 1 Ch 2,2.
 
+@@SPLIT:sense@@
 2. la tribu de Dan, מַטֵּה דָן
 Ex 31,6 ; Ex 35,34 ; Ex 38,23 ; Lv 24,11 ; Nb 1,39 ; Nb 13,12 ; Jos 21,5 ; Jos 21,23 (tous
 
@@ -41,6 +43,7 @@ P
 ; 2 Ch 2,13
 ; Ez 48,1 ; Ez 48,2 ; Ez 48,32.
 
+@@SPLIT:sense@@
 3. une ville à la frontière nord d'Israël, à l'une des sources du Jourdain, à l'origine
 לַיִשׁ
 Jg 18,29

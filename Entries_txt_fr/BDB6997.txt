@@ -13,6 +13,7 @@ briller, étinceler (peut-être sens originel de la √, mais le lien entre
 צִיץ
 nom = hébreu biblique) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 
@@ -34,6 +35,7 @@ Ps 92,8 (||
 2.
 briller, luire : de la couronne (נֵזֶר) Ps 132,18.
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait 3 masculin singulier וַיָּצֵץ צִיץ
 Nb 17,23

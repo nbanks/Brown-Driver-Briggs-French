@@ -3,6 +3,7 @@ araméen biblique
 
 [בְּקַר] verbe
 
+@@SPLIT:stem@@
 Pa`el
 s'enquérir, chercher (seulement Esdras) (
 
@@ -22,6 +23,7 @@ Dn 7,14
 avec sujet indéfini, = passif, Dn 4,19
 on fit des recherches, ainsi Dn 6,1 ; Dn 4,15.
 
+@@SPLIT:stem@@
 Hithpa`al
 Imparfait 3 masculin singulier יִתְבַּקַּר
 Dn 5,17,

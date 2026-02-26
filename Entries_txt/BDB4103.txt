@@ -1,14 +1,16 @@
 === BDB4103 H3672 ===
 Biblical Hebrew
 
-כִּנֶּ֫רֶתֵ, ִכּנְַֿרוֺת
+כִּנֶּ֫רֶתֵ, ִכּנְַֿרוֺת
 proper name [of a location]
 in Galilee (Naphtali), כִּנֶּרֶת
 Deut 3:17; Josh 13:27; Num 34:11
 כִּנָּ֑רֶת
 Josh 19:35
-ִכּנְַֿרוֺת (so Baer; ִכּנְרוֺת
+ִכּנְַֿרוֺת (so Baer; ִכּנְרוֺת
 Norzi) Josh 11:2; Josh 12:3; 1Kgs 15:20 —
+
+@@SPLIT:sense@@
 
 1. a city Josh 19:35 (
 P
@@ -43,6 +45,8 @@ B
 Μαχαναρεθ; — Μαχ‐ = ׳
 מִכּ).
 
+@@SPLIT:sense@@
+
 2.
 יָםכִּֿנֶּרֶת, lake near the city, Num 34:11 (
 P
@@ -72,7 +76,7 @@ A
 L
 ^
 
-Ξενερωθ), יָם ִכּנְַֿרוֺת
+Ξενερωθ), יָם ִכּנְַֿרוֺת
 Josh 12:3 (
 D
 ;
@@ -84,7 +88,7 @@ B
 Ξενερεθ;
 A
 
-Ξεννερεθ); כָּלִֿכּנְַֿרוֺת
+Ξεννερεθ); כָּלִֿכּנְַֿרוֺת
 1Kgs 15:20 =
 all the territory about the city and lake, compare πᾶσαν τὴνγῆν Ξενερεθ
 

@@ -17,6 +17,7 @@ Dn 8,3 + 2 t. ;
 גְּבֹהֹת
 Dt 28,52 —
 
+@@SPLIT:sense@@
 1.
 haut, élevé, grand, p. ex. arbre Ez 17,24, tour Es 2,15 ; So 1,16, montagne Gn 7,19 ; Ps 104,18 ; Es 40,9 ; Es 57,7 ; Ez 17,22
 ; Ez 40,2
@@ -43,6 +44,7 @@ porte Jr 51,58
 autel
 Ez 41,22 choses élevées Jb 41,26 ; Qo 12,5.
 
+@@SPLIT:sense@@
 2.
 élevé en dignité
 Ez 21,31
@@ -59,6 +61,7 @@ De
 Now et autres de plus hauts (terrestres), potentats
 au-dessus d'eux.
 
+@@SPLIT:sense@@
 3.
 hautain
 Ps 138,6 ;
@@ -75,6 +78,7 @@ Pr 16,5
 ג
 Qo 7,8.
 
+@@SPLIT:sense@@
 4.
 nom [masculin]
 hauteur, גִּבֹהַּ קוֺמַתוֺ

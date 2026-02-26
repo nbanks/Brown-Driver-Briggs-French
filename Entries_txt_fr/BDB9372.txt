@@ -22,6 +22,7 @@ Dn 2,17 + ; pluriel
 suffixe בָּֽתֵּיכוֺן
 Dn 2,5 —
 
+@@SPLIT:sense@@
 1.
 maison, des hommes : Esd 6,11 (deux fois dans le verset) ; Dn 2,5 ; Dn 2,17 ; Dn 3,29 ; Dn 6,11 du roi Esd 6,4 ; Dn 4,4, מִשְׁתְּיָא
 ׳
@@ -44,6 +45,7 @@ Esd 6,1
 Esd 4,30
 résidence royale (de Babylone).
 
+@@SPLIT:sense@@
 2.
 maison de Dieu, temple à Jérusalem Dn 5,3 ; Dn 5,23 ; Esd 4,24 + 28 t. Esdras.
 

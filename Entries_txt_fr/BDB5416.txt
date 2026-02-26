@@ -20,6 +20,7 @@ Di^642^ ; Ba^ZMG xliii (1889),
 [placeholder3469: Placeholders/3469.gif], défaire les fils, détordre une corde,
 désintégrer, dissoudre) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier נָשַׁךְ
 Nb 21,9, suffixe
@@ -54,6 +55,7 @@ qui mordent avec leurs dents, et crient : Paix ! figuré de l'oppression, etc.,
 Ha 2,7 (avec jeu sur le
 sens tes débiteurs, ceux qui te paient des intérêts).
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 3 pluriel וְנִשְּׁכוּ אֶתְכֶם
 Jr 8,17

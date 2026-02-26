@@ -11,6 +11,8 @@ Hos 12:11 + 25
 t.; construct חֲזוֺן
 Isa 1:1 + 8 t.
 
+@@SPLIT:sense@@
+
 1.
 vision, as seen in the ecstatic state || קסם
 Mic 3:6 ||
@@ -45,9 +47,13 @@ vision appeared unto; ׳
 Lam 2:9
 find a vision from Yahweh; also Ezek 12:22; Ezek 12:23; Dan 8:13; Dan 8:17; Dan 8:26; Dan 10:14; Dan 11:14.
 
+@@SPLIT:sense@@
+
 2.
 vision, in the night חֲזוֺן לַיְלָה
 Isa 29:7.
+
+@@SPLIT:sense@@
 
 3.
 divine communication in a vision, oracle, prophecy
@@ -74,6 +80,8 @@ Hab 2:2 also Hos 12:11;
 Hab 2:3; Prov 29:18
 ; Ezek 7:13
 (strike out Co).
+
+@@SPLIT:sense@@
 
 4.
 vision, as title of book of prophecy, ספר חזון נחוּם

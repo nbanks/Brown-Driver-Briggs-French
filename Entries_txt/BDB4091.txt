@@ -7,6 +7,8 @@ id.; Arabic
 [placeholder2568: Placeholders/2568.gif] is be contracted, wrinkled; also fold wings (of
 eagle)) —
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect 3 masculine singular נִכְנַע
 1Kgs 21:29 +
@@ -70,6 +72,8 @@ Judg 11:33
 under some one תַּחַת
 Judg 3:30; Ps 106:42
 .
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 masculine singular הִכְנִיעַ

@@ -4,11 +4,15 @@ Biblical Hebrew
 רַכָּב
 noun masculine
 
+@@SPLIT:sense@@
+
 1.
 charioteer, רַכָּבוֺ
 1Kgs 22:34 =
 הָדַכּב
 2Chr 18:33.
+
+@@SPLIT:sense@@
 
 2.
 horseman, דַכָּב

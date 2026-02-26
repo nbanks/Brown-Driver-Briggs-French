@@ -4,6 +4,7 @@ hébreu biblique
 [יהד] verbe
 dénominatif
 
+@@SPLIT:stem@@
 Hithpa`el
 devenir juif — seulement participe מִתְיַהֲדִים
 Est 8,17 beaucoup de

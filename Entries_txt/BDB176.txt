@@ -4,6 +4,8 @@ Biblical Hebrew
 [אָוָה] verb
 incline, desire (compare Stem 2).
 
+@@SPLIT:stem@@
+
 Pi`el
 Perfect
 אִוָּה
@@ -24,6 +26,8 @@ Isa 26:9
 נַפְשִׁי אִוִּיתִךָ בַּלַּיְלָה; of God וְנַפְשׁוֺ אִוְּתָה וַיַּעַשׂ
 Job 23:13 as
 desiring Zion for dwelling-place (late, only cases without נפשׁ) Ps 132:13; Ps 132:14
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Perfect

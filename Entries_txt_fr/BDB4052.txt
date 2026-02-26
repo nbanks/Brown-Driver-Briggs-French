@@ -11,6 +11,7 @@ aveugle de naissance ; syriaque
 [placeholder2541: Placeholders/2541.gif]
 être aveugle), seulement figuré —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier לְךָ בְשָׂרִי
 ׳

@@ -29,6 +29,8 @@ Nb 15,4 + 2 t. ; —
 quatrième, habituellement ׳
 הָֽר :
 
+@@SPLIT:sense@@
+
 1.
 masculin
 Gn 2,14 ; Gn 15,16 (
@@ -54,6 +56,8 @@ N¢rab
 ] בני רבע
 Cook^107^).
 
+@@SPLIT:sense@@
+
 2.
 féminin
 d'années, 1 R 6,1 ; 1 R 6,37 ; 2 R 18,9 ; Jr 25,1 ; Jr 28,1 ; Jr 36,1 ; Jr 45,1 ; Jr 46,2 ; Jr 51,59 ; Za 6,8 ; Lv 19,24 (
@@ -73,10 +77,14 @@ Kit
 Benz
 Bur.
 
+@@SPLIT:sense@@
+
 3.
 רְבִיעִית
 Ez 48,20
 carré (lire peut-être רְבוּעָה).
+
+@@SPLIT:sense@@
 
 4.
 רְבִ(י) עִ(י)ת comme nom = quart, construit, הַהִין

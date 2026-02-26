@@ -10,6 +10,7 @@ araméen יָחִיד, יְחִידַי,
 [placeholder2208: Placeholders/2208.gif]
 solitaire) —
 
+@@SPLIT:sense@@
 1.
 unique, surtout d'un fils unique, Gn 22,2 ; Gn 22,12 ; Gn 22,16
 את בנך את יְחִידְךָ ton fils, ton unique, אֵבֶל יָחִיד
@@ -22,10 +23,12 @@ Za 12,10
 רַךְ וְיָחִיד לפני אמי ; ainsi féminin יְחִידָה
 Jg 11,34.
 
+@@SPLIT:sense@@
 2. féminin יְחִידָה comme substantif Ps 22,21 ; Ps 35,17
 יְחִידָתִי mon unique, poétique pour ma vie, comme
 l'unique et inestimable bien qui ne peut jamais être remplacé (dans chaque cas || נַפְשִׁי).
 
+@@SPLIT:sense@@
 3.
 solitaire, Ps 25,16
 כי יחיד ועני אני ; Ps 68,7

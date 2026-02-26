@@ -9,6 +9,7 @@ traverser,
 [placeholder836: Placeholders/836.gif]
 passer, s'évanouir —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 גָּז

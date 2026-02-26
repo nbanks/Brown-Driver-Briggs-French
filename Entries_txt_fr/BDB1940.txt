@@ -4,6 +4,7 @@ hébreu biblique
 [דָּלַג] verbe
 sauter (hébreu tardif sauter par-dessus, omettre (un verset), omettre) —
 
+@@SPLIT:stem@@
 Qal
 Participe
 דּוֺלֵג
@@ -17,6 +18,7 @@ sauter, avec article celui qui saute
 ὑπερβαίνοντες ὑπερβαίνουσιν = דָּלֹג יִדְלֹ֑גוּ comparer
 Dr.
 
+@@SPLIT:stem@@
 Pi`el
 Imparfait
 יְדַלֵּג

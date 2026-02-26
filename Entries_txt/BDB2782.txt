@@ -5,6 +5,8 @@ II. [חלל] verb
 denominative
 play the pipe, pipe —
 
+@@SPLIT:stem@@
+
 Qal
 Participle plural וְשָׁרִים כְּחֹלֲלִים
 Ps 87:7
@@ -18,9 +20,13 @@ De
 Che
 Bae and others
 
+@@SPLIT:stem@@
+
 Polel
 Participle from 1. חוּל
 dancers.
+
+@@SPLIT:stem@@
 
 Pi`el
 Participle

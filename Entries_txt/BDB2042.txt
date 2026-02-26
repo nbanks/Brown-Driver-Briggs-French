@@ -6,6 +6,8 @@ verb
 denominative
 act emptily, become vain —
 
+@@SPLIT:stem@@
+
 Qal
 Jer 2:5 = 2Kgs 17:15
 they went after vanity וַיֶּהְבָּ֑לוּ and became vain, Ps 62:11
@@ -16,6 +18,8 @@ Job 27:12
 לָמָּה
 זֶה הֶבֶל תֶּהְבָּ֑לוּ why do ye become vain with vanity (i.e. shew
 yourselves utterly vain) ?
+
+@@SPLIT:stem@@
 
 Hiph`il
 cause to become vain

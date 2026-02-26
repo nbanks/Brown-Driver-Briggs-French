@@ -4,6 +4,7 @@ hébreu biblique
 II. חֶ֫בֶר, חֵ֫בֶר
 
 nom propre, masculin
+@@SPLIT:sense@@
 1.
 חֶבֶר (
 
@@ -11,6 +12,7 @@ nom propre, masculin
 
 Χαβερ) le Qénite, mari de Débora Jg 4,11 ; Jg 4,17 (deux fois dans le verset) ; Jg 4,21 ; Jg 5,24.
 
+@@SPLIT:sense@@
 2. un homme d'Aser חִבֶר
 Gn 46,17 (
 
@@ -42,6 +44,7 @@ Nb 26,45
 de Tel el Amarna v Jastr^JBL 1892, xi. 118 ss.^
 1893, xii. 61 ff
 
+@@SPLIT:sense@@
 3.
 חֶבֶר nom dans Juda 1 Ch 4,18
 
@@ -56,6 +59,7 @@ L
 
 Αβερ.
 
+@@SPLIT:sense@@
 4.
 חָ֑בֶר un Benjaminite 1 Ch 8,17
 

@@ -4,6 +4,7 @@ hébreu biblique
 [עוּב] verbe
 dénominatif
 
+@@SPLIT:stem@@
 Hiph`il
 assombrir, Imparfait 3 masculin singulier יָעִיב בְּאַפוֺ אֲדֹנָי
 אֶתכַּֿתצִֿיּוֺן

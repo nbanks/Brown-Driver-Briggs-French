@@ -15,12 +15,16 @@ takânu
 [placeholder5868: Placeholders/5868.gif], תֵּקֵּין
 fixer, arranger, préparer, etc. ; palmyrénien Pa`el ériger) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Infinitif construit
 לִתְקֹן
 Qo 1,15
 (opposé à מְעֻוָּת
 tordu).
+
+@@SPLIT:stem@@
 
 Pi`el
 Infinitif construit

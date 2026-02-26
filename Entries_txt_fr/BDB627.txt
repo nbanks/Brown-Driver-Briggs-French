@@ -7,6 +7,7 @@ rassembler, retirer (assyrien
 asâpu
 , Dl^Pr 45^) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 אָסַף
@@ -146,6 +147,7 @@ Jr 8,13 ; So 1,2 (joint
 ; considéré comme Infinitif absolu Hiph`il par Ba^NB 73^
 voir ci-dessus)
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 נֶאֱסַף
@@ -278,6 +280,7 @@ Es 16,10
 de la lune Es
 60,20 (|| בוא שׁמשׁ).
 
+@@SPLIT:stem@@
 Pi`el
 Participe
 מְאַסֵּף
@@ -308,6 +311,7 @@ Jos
 E
 ) ; figuré de Dieu Es 52,12.
 
+@@SPLIT:stem@@
 Pu`al
 Parfait
 וְאֻסַּף (cons.) Es 33,4 ; Za 14,14 etc. ; Participe
@@ -318,6 +322,7 @@ Ez 38,12 — être rassemblé, des hommes Es 24,22 ; Os
 10,10 (suivi de עַל
 contre), Ez 38,12 butin Es 33,4 richesses Za 14,14.
 
+@@SPLIT:stem@@
 Hithpa`el
 Infinitif
 הִתְאַסֵּף

@@ -12,6 +12,8 @@ abâtu
 Dl^W 184^ Aramaic אֲבַד,
 [placeholder2: Placeholders/2.gif]). —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 ׳
@@ -293,6 +295,8 @@ perhaps Deut
 26:5
 .
 
+@@SPLIT:stem@@
+
 Pi`el
 causative of Qal. — Perfect
 אִבַּד
@@ -410,6 +414,8 @@ cause to stray, lose; object Israel under figure of flock Jer 23:1 (|| הֵפִ�
 Eccl 3:6
 (||
 בִּקֵּשׁ).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect

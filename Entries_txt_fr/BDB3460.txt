@@ -3,7 +3,7 @@ hébreu biblique
 
 יַדוּעַ
 nom propre, masculin
-
+@@SPLIT:sense@@
 1.
 un chef du peuple, un de ceux qui ont scellé Ne 10,22
 
@@ -14,6 +14,7 @@ L
 
 Ιεδδαυα.
 
+@@SPLIT:sense@@
 2. un prêtre, probablement le grand prêtre au temps d'Alexandre le Grand Ne 12,11 ; Ne 12,22
 
 ᵐ5

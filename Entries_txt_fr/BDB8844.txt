@@ -4,6 +4,8 @@ hébreu biblique
 [מִשְׁמַ֫עַת] nom féminin
 troupe obéissante, corps de sujets ; — seulement suffixe :
 
+@@SPLIT:sense@@
+
 1. probablement = garde du corps, comme particulièrement tenu à l'obéissance,
 מִשְׁמַעְתּ֑ךָ
 1 S 22,14
@@ -12,6 +14,8 @@ Be^Ch^
 Dr
 Bu
 Now), comparer תּוֺ- 2 S 23,23 = 1 Ch 11,25.
+
+@@SPLIT:sense@@
 
 2.
 תָּם- Es 11,14 les fils d'Ammon (seront) leurs sujets (||

@@ -11,6 +11,7 @@ railler (hébreu tardif Hiph`il id. ;
 [placeholder2837: Placeholders/2837.gif]
 jouer, s'amuser, plaisanter) ; — seulement
 
+@@SPLIT:stem@@
 Hiph`il
 Participe
 ׳

@@ -9,17 +9,20 @@ q. v. ; hébreu tardif id. Pi`el (opposé à כנס = כנשׁ
 [placeholder4204: Placeholders/4204.gif]
 déchirer, fendre, aussi séparer, disperser) ; —
 
+@@SPLIT:stem@@
 Qal
 Participe passif féminin שֶׂה פְזוּרָה
 Jr 50,17
 une brebis dispersée est Israël (c.-à-d. chassée, isolée).
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 pluriel נִפְזְרוּ
 Ps 141,7 nos
 os sont dispersés
 לִפִי שְׁאוֺל.
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 3 masculin singulier פִּזַּר
 Ps 53,6 ; Ps 112,9, etc. ;
@@ -38,6 +41,7 @@ Ps 89,11 ; Ps 53,6 ; Ps 147,16
 Jr 3,13, d'
 Israël courant çà et là vers des dieux étrangers ; absolu de dépenser de l'argent Ps 112,9 (aumônes), Pr 11,24.
 
+@@SPLIT:stem@@
 Pu`al
 Participe
 מְפֻוָּר

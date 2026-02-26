@@ -4,12 +4,18 @@ Biblical Hebrew
 מִשְׁלַ֫חַת
 noun
 
+@@SPLIT:sense@@
+
 1.
 discharge;
+
+@@SPLIT:sense@@
 
 2.
 deputation, sending;
 —
+
+@@SPLIT:sense@@
 
 1. absolute ׳
 בַּמִּלְח
@@ -17,6 +23,8 @@ deputation, sending;
 אֵין מ
 Eccl 8:8
 there is no discharge in war.
+
+@@SPLIT:sense@@
 
 2. construct מַלְאֲכֵי רָעִים
 ׳

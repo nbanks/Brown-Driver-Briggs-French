@@ -3,6 +3,8 @@ hébreu biblique
 
 [שָׁוַע] verbe
 
+@@SPLIT:stem@@
+
 Pi`el
 crier au secours (Gerb^33^ pense à un dénominatif de שֵׁוְעָה, et celui-ci
 de √ apparenté à ישׁע

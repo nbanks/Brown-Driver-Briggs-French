@@ -12,6 +12,7 @@ nisû
 [placeholder3350: Placeholders/3350.gif] [rare] arracher, éloigner, ainsi Ba^ES
 51^) ; —
 
+@@SPLIT:stem@@
 Qal_137_
 Parfait 3 masculin singulier ׳
 נ
@@ -255,6 +256,7 @@ Nb 11,31
 il se leva (surgit) un vent de ׳
 י.
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 être arraché, enlevé : 3 masculin singulier דּוֺרִי נִסַּע וְנִגְלָה
@@ -266,6 +268,7 @@ Jb 4,21
 יֶתֶר
 ).
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait 3 masculin singulier יַסַּע
 Ps

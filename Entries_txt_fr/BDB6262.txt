@@ -4,6 +4,7 @@ hébreu biblique
 עָפְרָה
 nom propre
 
+@@SPLIT:sense@@
 1. lieu :
 
 a.
@@ -31,6 +32,7 @@ Jg 8,32 avec
 ה locatif עָפְרָ֫תָה
 Jg 9,5.
 
+@@SPLIT:sense@@
 2. personne, masculin en Juda
 1 Ch 4,14,
 

@@ -16,6 +16,7 @@ Jb 12,19
 1 R 8,2 ; Mi 6,2 (dans la forme, un
 « élatif », Ew^§ 162 b^ = comparatif et superlatif arabe) ; —
 
+@@SPLIT:sense@@
 1.
 à écoulement permanent (opposé à אַכְזָב), נַחַל אֵיתָן
 Am 5,24 un
@@ -29,6 +30,7 @@ J
 1 R 8,2 mois des
 écoulements réguliers = 7e mois, oct.-nov. (post-biblique Tishri).
 
+@@SPLIT:sense@@
 2.
 figuré
 permanent, durable

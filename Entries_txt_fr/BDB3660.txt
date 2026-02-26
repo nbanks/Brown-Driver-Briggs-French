@@ -8,6 +8,7 @@ Jb 27,14
 [placeholder2272: Placeholders/2272.gif]
 origine, racine, souche) —
 
+@@SPLIT:sense@@
 1.
 descendance d'hommes, absolu הַצֶּאֱצָאִים וְהַצְּפִעוֺת
 Es 22,24
@@ -24,6 +25,7 @@ Jb 27,14
 Jb 21,8 (||
 זַרְעָם) Es 61,9 (|| id.), Es 65,23.
 
+@@SPLIT:sense@@
 2.
 produit de la terre, suffixe תֵּבל וְכָלצֶֿאֱצָאֶ֑יהָ
 Es 34,1

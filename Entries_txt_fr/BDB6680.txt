@@ -32,6 +32,8 @@ Qr
 
 I.
 
+@@SPLIT:sense@@
+
 1.
 face, faces (Jr 30,6 ; Ez 27,35 +, comparer Ez 1,6 ; Ez 10,14 ; Ez 10,21 etc.) :
 
@@ -154,6 +156,8 @@ Voir
 plus loin ci-dessous
 7.
 
+@@SPLIT:sense@@
+
 2.
 
 a. = présence, personne, de ׳
@@ -205,12 +209,16 @@ Gn 33,10, comparer Jb 33,26 (Hiph`il), et, avec חזה
 11,7 ;
 Ps 17,15.
 
+@@SPLIT:sense@@
+
 3.
 face de séraphins Es 6,2, chérubins Ex 25,20 (deux fois dans le verset) = Ex 37,9
 (deux fois dans le verset),
 Ez 1,8 ;
 Ez 1,11 ;
 2 Ch 3,13 +.
+
+@@SPLIT:sense@@
 
 4.
 face d'animaux, פְּנֵי הַצּאֹן
@@ -236,6 +244,8 @@ Ez 41,19
 פִּתְחֵי פ
 Jb 41,6
 du crocodile.
+
+@@SPLIT:sense@@
 
 5.
 face (= surface) du sol (הָאֲדָמָה) Gn 2,6 ; Gn 4,14 ; Gn 7,4 ;
@@ -320,6 +330,8 @@ apparence ; du troupeau Pr 27,23
 2 S 14,20
 l'apparence (situation, attitude) de l'affaire.
 
+@@SPLIT:sense@@
+
 6. comme adverbe [de lieu]
 מִפָּנִים וּמֵאָחוֺר
 2 S 10,9
@@ -361,6 +373,8 @@ Jos
 Es
 41,26
 d'autrefois (|| מֵראֹשׁ).
+
+@@SPLIT:sense@@
 
 7. pour d'autres expressions voir :
 אוֺר
@@ -453,6 +467,8 @@ II.
 פְּנֵי
 avec prépositions :
 —
+
+@@SPLIT:sense@@
 
 1.
 אֶלפְּֿנֵי :
@@ -622,6 +638,8 @@ Ez
 16,5
 
 .
+
+@@SPLIT:sense@@
 
 2.
 אֶתפְּֿנֵי
@@ -949,6 +967,8 @@ II.
 
 4.a.
 
+@@SPLIT:sense@@
+
 3.
 בִּפְנֵי :
 
@@ -1064,6 +1084,8 @@ Ez
 42,12
 
 .
+
+@@SPLIT:sense@@
 
 4.
 לִפְנֵי, proprement à la face ou au devant de, le mot le plus général pour
@@ -2979,6 +3001,8 @@ pro
 
 ).
 
+@@SPLIT:sense@@
+
 5.
 מִלִּפְנֵי _73_ de devant : —
 
@@ -3580,6 +3604,8 @@ aussi
 
 Kö^ii.
 320.^
+
+@@SPLIT:sense@@
 
 6.
 מִפְּנֵי
@@ -4449,6 +4475,8 @@ voir
 
 .
 
+@@SPLIT:sense@@
+
 7.
 עַלפְּֿנֵי
 (comparer phénicien עַל פְּנֵ, עלת פְּנֵ, Lzb^352^)
@@ -5231,6 +5259,8 @@ Jb
 5,10
 
 +.
+
+@@SPLIT:sense@@
 
 8.
 מֵעַלפְּֿנֵי

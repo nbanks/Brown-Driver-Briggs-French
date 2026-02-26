@@ -9,6 +9,8 @@ invent; compare Arabic
 [placeholder500: Placeholders/500.gif]
 begin, make a beginning) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 בָּדָא

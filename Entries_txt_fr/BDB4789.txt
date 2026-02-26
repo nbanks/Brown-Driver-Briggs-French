@@ -31,6 +31,7 @@ pluriel absolu מַקְלוֺת
 Gn 30,37 + 6
 t. ; —
 
+@@SPLIT:sense@@
 1. branche d'arbre comme baguette, bâton, utilisé par Jacob pour la reproduction de ses troupeaux, Gn 30,37 (
 לִבְנֶה לַח
 ׳
@@ -50,6 +51,7 @@ figuré de Moab תִּבְּאָרָה
 Jr 48,17 (||
 מַטֵּהעֹֿז).
 
+@@SPLIT:sense@@
 2.
 bâton, utilisé en voyage Gn 32,11 ; Ex 12,11 ; 1 S 17,40 comparer 1 S 17,43 porté même en montant à cheval Nb 22,27 ainsi
 aussi מַקֵּל יָד
@@ -59,6 +61,7 @@ Da
 Berthol ; < une arme ( + מָגֵּן, צִנָּה
 , קֶשֶׁת, חִצִּים, רֹמַח.
 
+@@SPLIT:sense@@
 3.
 baguette de devin Os 4,12.
 

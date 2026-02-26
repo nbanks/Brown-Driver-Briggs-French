@@ -26,6 +26,8 @@ sling, Eth
 [placeholder4770: Placeholders/4770.gif]
 sling); —
 
+@@SPLIT:stem@@
+
 Qal
 Participle
 קֹלֵעַ בָּאֶבֶן אֶלֿ
@@ -34,6 +36,8 @@ one slinging (with) a stone at a hair;
 ׳
 קוֺ with accusative of person Jer 10:18
 I will sling forth the inhabitants.
+
+@@SPLIT:stem@@
 
 Pi`el
 Imperfect 3 masculine singular וַיִקַלַּע

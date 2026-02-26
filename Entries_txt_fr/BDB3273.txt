@@ -10,6 +10,7 @@ Pr 10,14 +
 Pr 10,15 ;
 Pr 14,28 —
 
+@@SPLIT:sense@@
 1.
 
 a.
@@ -19,6 +20,7 @@ terreur, Es 54,14 (|| עשֶׁק), Jr 17,17 = objet de terreur, Jr 48,39
 b.
 consternation, Pr 21,15 (opposé à שִׂמְחָה).
 
+@@SPLIT:sense@@
 2.
 ruine, des forteresses Ps 89,41
 רָזוֺן

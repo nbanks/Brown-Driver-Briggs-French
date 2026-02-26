@@ -20,6 +20,8 @@ Pr 29,4,
 2 S 1,21 ;
 Nb 18,19 suffixe תְּרוּמֹתָ֑י Nb 18,8, etc. ; —
 
+@@SPLIT:sense@@
+
 1. usage le plus ancien : contribution des produits du sol pour ׳
 י, תְּרוּמַת יֶדְכֶם
 Dt 12,6 ; Dt 12,11,
@@ -29,7 +31,11 @@ aussi Esz
 Dt 20,40 ;
 Nb 15,19 ; Nb 15,20 ; Nb 15,21.
 
+@@SPLIT:sense@@
+
 2. contribution pour le prince, dans le plan d'Ézéchiel : Ez 45,13 ; Ez 45,16
+
+@@SPLIT:sense@@
 
 3. parcelle de terre à mettre à part pour le temple et pour l'usage des prêtres et des lévites, dans le plan d'Ézéchiel :
 Ez 45,1 ; Ez 48,8 ; Ez 48,9 ; Ez 48,21b ;
@@ -43,6 +49,8 @@ Ez 48,18 ; Ez 45,18 ; Ez 45,20b ; Ez 45,21a ; Ez 45,21c ; הָאָרֶץ קֹד�
 
 ׳
 ת Ez 45,12.
+
+@@SPLIT:sense@@
 
 4. contribution à ׳
 י, mise à part pour les prêtres, Ez 44,30 ; Lv 22,12 ; Nb 5,9 ; Nb 18,8 ; Nb 18,11 ; Nb 18,19 ; 2 Ch 31,10 ; 2 Ch 31,12 ; 2 Ch 31,14 en particulier :
@@ -84,6 +92,8 @@ d. du butin Nb 31,29 ; Nb 31,41 ; Nb 31,52.
 
 e. dîme pour les lévites Nb 18,24.
 
+@@SPLIT:sense@@
+
 5. matériaux pour le tabernacle, vêtements sacrés, etc., Ex 25,2 (deux fois dans le verset) ; Ex 25,3 ; Ex 35,5 (deux fois dans le verset) ; Ex 35,21 ;
 Ex 35,24
 (deux fois dans le verset) ;
@@ -94,7 +104,11 @@ pour le temple
 Esd
 8,25.
 
+@@SPLIT:sense@@
+
 6. demi-sicle pour l'entretien du service du sanctuaire Ex 30,13 ; Ex 30,14 ; Ex 30,15.
+
+@@SPLIT:sense@@
 
 7. tardif, contribution, en général, אִישׁ תְּרוּמוֺת
 Pr 29,4

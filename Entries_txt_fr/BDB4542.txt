@@ -16,6 +16,7 @@ perche, barre
 Dl^Prol.184^
 Gerber^Verb. denominative 195 s.^, comparer Buhl) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 féminin singulier מָ֫טָה
 Ps 60,4 + 2 t. ; 3
@@ -61,6 +62,7 @@ sujet מַמְלָכוֺת
 Ps 46,7 sujet
 אֶרֶץ (= pays) Ps 60,4 comparer Es 24,19 (voir ci-dessous Hithpa`el)
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 pluriel נָמ֫וֺטוּ
 Ps 17,5
@@ -101,6 +103,7 @@ RV
 Kt
 Hiph`il q. v.) ; figuré de l'obéissance ferme (sujet פְּעָמַי) Ps 17,5.
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait 3 masculin pluriel יָמִ֫יטוּ
 Ps 55,4 ;
@@ -125,6 +128,7 @@ Bae
 Dr), que Bi
 Che insèrent.
 
+@@SPLIT:stem@@
 Hithpo`el
 Parfait 3 féminin singulier הִתְמוֺטְטָה מוֺט
 Es

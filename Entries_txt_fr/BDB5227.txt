@@ -12,6 +12,7 @@ Pael נַסִּי ; syriaque Pael
 [placeholder3339: Placeholders/3339.gif]
 tentation) ; —
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 3 masculin singulier נִסָּה
 Dt 4,34 + 3

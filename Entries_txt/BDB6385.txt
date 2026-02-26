@@ -5,6 +5,8 @@ Biblical Hebrew
 noun feminine
 row, rank, battle-line; —
 
+@@SPLIT:sense@@
+
 1.
 
 a.
@@ -75,6 +77,8 @@ Kt
 נֵרוֺת הַמַּעֲרָכָה
 Exod 39:37
 lamps of the row, i.e. arranged in a row.
+
+@@SPLIT:sense@@
 
 3.
 order, arrangement:

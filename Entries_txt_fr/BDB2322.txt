@@ -13,6 +13,7 @@ mouvoir, agiter, secouer (sur ceux-ci voir Nö^ZMG 1886, 725^
 zû
 , vent de tempête (= araméen זוֺעָא) Zim^BP 94^ —
 
+@@SPLIT:stem@@
 Qal (tardif) Parfait 3 masculin singulier זָע
 Est 5,9
 Imparfait 3 masculin pluriel avec rel. שֶׁיָּזֻעזּ
@@ -20,6 +21,7 @@ Qo 12,3 —
 trembler, être ébranlé, en présence d'un supérieur puissant Est 5,9 (suivi de מִמֶּנּוּ) ; dit
 de שֹׁמְרֵי הַבַּיִת dans la description du vieillard infirme Qo 12,3
 
+@@SPLIT:stem@@
 Pilpel
 Participe suffixe מְזַעְזְעֶיךָ
 Ha 2,7 causatif et

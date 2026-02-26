@@ -4,6 +4,8 @@ Biblical Hebrew
 I. [רָמֹם] verb
 be exalted (|| form (according to Masora) of רום ); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 plural רוֺמּוּ מְעַט וְאֵינֶנּוּ
 Job 24:24
@@ -15,10 +17,14 @@ Bu; Du
 
 Po-'l.
 
+@@SPLIT:stem@@
+
 Niph`al
 Imperfect 1 singular אֵרוֺמָ֔ם
 Isa 33:10 (||
 אֶנָּשֵׂא;
+
+@@SPLIT:stem@@
 
 Hithpo`lel from רום
 Kö^i. 454^

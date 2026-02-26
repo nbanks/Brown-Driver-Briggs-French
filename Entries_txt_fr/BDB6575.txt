@@ -13,6 +13,7 @@ craindre pour ;
 
 פַּחְדָּא n.) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier פָּחַד
 Ps 119,161
@@ -49,6 +50,7 @@ Os 3,5 ; Mi 7,17
 être dans la crainte révérentielle (devant la faveur de ׳
 י), absolu, Es 60,5.
 
+@@SPLIT:stem@@
 Pi`el
 être dans une grande crainte, Imparfait 2 masculin singulier וַתְּפַחֵד
 Es 51,13,
@@ -57,6 +59,7 @@ Pr 28,14
 
 redoutant profondément (c.-à-d. le péché).
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 masculin singulier הִפְחַיד
 Jb 4,14

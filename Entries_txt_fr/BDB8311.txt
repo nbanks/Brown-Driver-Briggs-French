@@ -25,6 +25,7 @@ Qr
 Kt
 ) ; —
 
+@@SPLIT:sense@@
 1.
 survivant (souvent || פָּלִיט) : surtout ׳
 עַד בִּלְתִּי הִשְׁאִיר לוֺ שׂ
@@ -84,6 +85,7 @@ pluriel aussi Jos
 GFM
 Now comparer Bu), Jr 47,4 ; Lm 2,22.
 
+@@SPLIT:sense@@
 2. de choses : לְאָכְלוֺ
 ׳
 אֵין שׂ

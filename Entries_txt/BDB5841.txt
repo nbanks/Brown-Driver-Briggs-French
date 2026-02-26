@@ -22,6 +22,8 @@ Gen 29:2 +,
 construct עֶדְרֵי
 Mic 5:7 +, etc.; —
 
+@@SPLIT:sense@@
+
 1.
 flock:
 
@@ -81,6 +83,8 @@ Song 4:1;
 Song 6:5.
 
 c. undefined Judg 5:16; Job 24:2; Song 1:7.
+
+@@SPLIT:sense@@
 
 2.
 herds, flocks and herds;

@@ -4,6 +4,8 @@ Biblical Hebrew
 [צָוָה]_485_
 verb
 
+@@SPLIT:stem@@
+
 Pi`el
 lay charge (upon), give charge (to), charge, command, order
 (Ba^ZMG xii (1887), 641^
@@ -416,6 +418,8 @@ Ps 78:23; Isa 34:16, redemption Ps 7:7; Ps 44:5; Ps 68:29
 ; Ps
 71:3 so of idol Isa 48:5
 (|| עשׂה).
+
+@@SPLIT:stem@@
 
 Pu`al
 Perfect 3 masculine singular צֻוָּה

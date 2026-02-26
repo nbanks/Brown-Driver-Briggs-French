@@ -17,6 +17,8 @@ servir, syriaque
 [placeholder6127: Placeholders/6127.gif] ; palmyrénien פלחא
 soldat) ; —
 
+@@SPLIT:stem@@
+
 Peal
 
 1.

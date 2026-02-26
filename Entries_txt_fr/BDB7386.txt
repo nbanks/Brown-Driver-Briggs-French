@@ -17,6 +17,8 @@ Lv 12,7 ; Lv 20,18 suffixe
 Os 13,15,
 etc. ; —
 
+@@SPLIT:sense@@
+
 1.
 source d'eau :
 
@@ -56,8 +58,12 @@ de la source originelle, de la souche d'une nation Ps 68,27 (Kay
 Che, du temple) ; source de joie Pr 5,18 (figuré de l'épouse ; || אֵשֶׁת
 ).
 
+@@SPLIT:sense@@
+
 2.
 figuré de l'œil, מְקוֺר דַּמְעָה, Jr 8,23.
+
+@@SPLIT:sense@@
 
 3.
 source du sang menstruel, דָּמֶיהָ
@@ -67,6 +73,8 @@ Lv 20,18,
 de même מְקֹרָהּ Lv 20,18 (
 H
 ).
+
+@@SPLIT:sense@@
 
 4. = flux de sang après l'accouchement דָּמֶיהָ
 ׳

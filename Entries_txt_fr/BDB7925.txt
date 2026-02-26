@@ -7,16 +7,19 @@ Lv 15,9
 ^
 char, siège de monte (proprement lieu de monte) ; —
 
+@@SPLIT:sense@@
 1.
 char ( = le suivant), suffixe סוּסִים לְמֶרְכָּבוֺ
 1 R 5,6.
 
+@@SPLIT:sense@@
 2. absolu ׳
 מ, probablement selle
 Lv 15,9 (
 P
 ).
 
+@@SPLIT:sense@@
 3.
 מֶרְכָּבוֺ
 siège de litière Ct 3,10.

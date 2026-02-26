@@ -57,6 +57,7 @@ Nb 16,32 + ; (
 Ps 49,12),
 etc. ; —
 
+@@SPLIT:sense@@
 1.
 maison,
 
@@ -474,6 +475,7 @@ Os 8,1 ; Os 9,15
 אֶרֶץ י
 Os 9,3).
 
+@@SPLIT:sense@@
 2.
 lieu, de Jérusalem בֵּית קִבְרוֺת אֲבֹתַי
 Ne 2,3 (||
@@ -496,6 +498,7 @@ ces deux voir
 בֵּית
 ci-dessous [בַּיִן] בֵּין p. 108.
 
+@@SPLIT:sense@@
 3.
 réceptacle, תְּעָלָה כְּבֵית סָאתַיִם
 1 R 18,32
@@ -525,6 +528,7 @@ B
 Hi
 Co).
 
+@@SPLIT:sense@@
 4. de la maison comme contenant une famille, d'où dans l'expression, des esclaves appartenant à la maisonnée
 יְלִידֵי
 בֵיתוֺ
@@ -553,6 +557,7 @@ Gn 36,6
 Gn 46,27.
 D'où
 
+@@SPLIT:sense@@
 5.
 maisonnée, famille (592 t.)
 
@@ -935,6 +940,7 @@ Yeush et Beria n'avaient pas beaucoup de fils, c'est pourquoi ils devinrent
 לְבֵית אָב לִפְקֻדָּה אֶחָ֑ת (comparer ראשׁי אבות, ci-dessous אב
 ).
 
+@@SPLIT:sense@@
 6. maison, incluant les affaires du ménage, les personnes, les biens, etc.
 וַיַּפְקִדֵהוּ עַלבֵּֿיתוֺ
 Gn 39,4 comparer
@@ -966,6 +972,7 @@ biens personnels
 13,8
 אִםתִּֿתֶּןלִֿי אֶתחֲֿצִי בֵּיתֶ֑ךָ ; famille et biens (tout ce dont on dépend) Jb 8,15.
 
+@@SPLIT:sense@@
 7.
 בַּ֫יְתָה, בָּ֑יְתָה, littéralement vers la maison, d'où
 métaphore
@@ -975,6 +982,7 @@ supportant la mer de fonte) ; 2 S 5,9
 מִןהַֿמִּלּוֺא וָבָ֑יְתָה du Millo et vers l'intérieur, Ez 44,17
 .
 
+@@SPLIT:sense@@
 8.
 מִבַּיִת
 

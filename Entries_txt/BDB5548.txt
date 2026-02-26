@@ -5,8 +5,10 @@ Biblical Hebrew
 Hiph`il
 incite, allure, instigate (Late Hebrew Hiph`il, id.); —
 
+@@SPLIT:stem@@
+
 Hiph`il
-Perfect 3 masculine singular suffix הֱִסיתְךָ
+Perfect 3 masculine singular suffix הֱִסיתְךָ
 1Sam 26:19,
 הֲסֵיתְךָ
 Job 36:16
@@ -21,7 +23,7 @@ singular יַסִּית
 + 2 t., but also וַיָּ֫סֶת
 2Sam 24:1;
 1Chr 21:1,
-suffix יְִסיתְךָ
+suffix יְִסיתְךָ
 Deut 13:7; Job 36:18,
 etc.; Participle
 מַסִּית

@@ -15,6 +15,7 @@ Hal^144^, יאוסאל
 Hal^192^, comparer DHM^ZMG
 1883, 15^) ; —
 
+@@SPLIT:sense@@
 1.
 ׳
 יְהו roi de Juda, fils d'Achazia (Joachaz 3) 2 R 12,1 ; 2 R 12,2 ; 2 R 12,3 ; 2 R 12,5 ; 2 R 12,7 ; 2 R 12,8 ; 2 R 12,19 ; 2 R 14,13, = יוֺאָשׁ
@@ -34,6 +35,7 @@ Hal^192^, comparer DHM^ZMG
 יאָֹשׁ
 2 Ch 24,1.
 
+@@SPLIT:sense@@
 2.
 ׳
 יְהוֺ roi d'Israël, fils de Joachaz 2, 2 R 13,10 ; 2 R 13,25 ; 2 R 14,8 ; 2 R 14,9 ; 2 R 14,11 ; 2 R 14,13 ;
@@ -47,16 +49,19 @@ Hal^192^, comparer DHM^ZMG
 2 R 13,14 ; 2 R 13,25 ; 2 R 14,1 ; 2 R 14,23 ; 2 R 14,27 ; 2 Ch 25,17 ; 2 Ch 25,18 ; 2 Ch 25,21 ; 2 Ch 25,23 ; 2 Ch 25,25 ;
 Os 1,1 ; Am 1,1.
 
+@@SPLIT:sense@@
 3.
 ׳
 יו père de Gédéon (Jerubbaal) Jg 6,11 ; Jg 6,29 ; Jg 6,30 ; Jg 6,31 ; Jg 7,14 ; Jg 8,13 ; Jg 8,29 ; Jg 8,32 (deux fois dans le verset).
 
+@@SPLIT:sense@@
 4.
 ׳
 יו un prince de la maison d'Achab, appelé בֶּןהַֿמֶּלֶךְ
 1 R 22,26 =
 2 Ch 18,25.
 
+@@SPLIT:sense@@
 5.
 ׳
 יו un des héros de David 1 Ch 12,3 (
@@ -68,6 +73,7 @@ A
 
 Ἰωρας).
 
+@@SPLIT:sense@@
 6.
 יוֺאָשׁ un prince judaïte 1 Ch 4,22 (
 

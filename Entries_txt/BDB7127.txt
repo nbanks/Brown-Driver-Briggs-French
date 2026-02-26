@@ -4,6 +4,8 @@ Biblical Hebrew
 [צָנַח] verb
 descend (meaning inferred from context); —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 3 feminine singular וַתִּצְנַח מֵעַל הַחֲמוֺר
 Judg 1:14 = Josh 15:18

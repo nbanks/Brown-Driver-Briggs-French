@@ -11,6 +11,7 @@ Mordtm^ib. xxx (1876), 36 SabDenkm No. 14, 1. 1^ ; arabe
 רָם,
 [placeholder5006: Placeholders/5006.gif] (très souvent dans les espèces dérivées et les dérivés)) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier consécutif וְרָם
 Dt 8,14 + ; 3
@@ -153,6 +154,7 @@ J
 רָאמוֺת
 b.
 
+@@SPLIT:stem@@
 Polel
 Parfait 3 féminin singulier suffixe רֹמְמָ֑תְהוּ
 Ez 31,4
@@ -259,6 +261,7 @@ Ex 15,2 accusatif ׳
 
 Ps 34,4 (|| גִּדֵּל).
 
+@@SPLIT:stem@@
 Polal
 Imparfait 3 féminin pluriel תְּרוֺמַמְנָה
 Ps
@@ -281,6 +284,7 @@ exalté, du nom de ׳
 3), + ׳
 עַלכָּֿלבְּֿרָכָה וג.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 masculin singulier הֵרִים
 
@@ -557,6 +561,7 @@ contribuer, accusatif de chose,
 35,9
 .
 
+@@SPLIT:stem@@
 Hoph`al
 Parfait 3 masculin singulier
 הוּרָ֑ם
@@ -598,6 +603,7 @@ Hiph`il
 Dn 8,13
 .
 
+@@SPLIT:stem@@
 Hithpolel
 Imparfait 3 masculin singulier
 וְיִתְרוֺמֵם וְיִתְגַּדֵּל עַלכָּֿלאֵֿל

@@ -9,11 +9,13 @@ nager, se baigner, aussi סָחְיָא, סַחְיָנָא, שָׂחְיָנָ�
 
 nageur ; Aph`el laver) ; —
 
+@@SPLIT:stem@@
 Qal
 Participe + Infinitif construit
 כַּאֲשֶׁר יְפָרֵשׂ הַשּׂחֶה לִשְׂחוֺת
 Es 25,11.
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait 1 singulier אַשְׂחֶה
 Ps 6,7

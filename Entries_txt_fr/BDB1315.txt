@@ -24,6 +24,7 @@ Ex 2,24 = 18 t. ;
 I.
 entre hommes.
 
+@@SPLIT:sense@@
 1.
 traité, alliance, ligue : Abraham et les Amorites Gn 14,13 Édom et ses alliés Ab 1,7 avec les Philistins Gn 21,27 ;
 Gn 21,32 (
@@ -60,11 +61,13 @@ AV
 RV
 ) ; figuré, avec la mort Es 28,15 ; Es 28,18 avec les pierres du champ Jb 5,23.
 
+@@SPLIT:sense@@
 2.
 constitution, ordonnance, entre monarque et sujets : David et Abner 2 S 3,12 ; 2 S 3,13 ;
 2 S 3,21
 David et les anciens d'Israël 2 S 5,3 = 1 Ch 11,3 Sédécias et son peuple Jr 34,8-18 prince hostile et Israélites Dn 9,27.
 
+@@SPLIT:sense@@
 3.
 accord, engagement : Joïada et les capitaines 2 R 11,4 = 2 Ch 23,1 avec soi-même Jb 31,1 avec le Léviathan pour être un
 serviteur Jb
@@ -73,9 +76,11 @@ Jg 8,33 ; Jg 9,4 =
 אל ברית
 Jg 9,46.
 
+@@SPLIT:sense@@
 4.
 alliance d'amitié entre David et Jonathan 1 S 18,3 ; 1 S 20,8 ; 1 S 23,18 comparer Ps 55,21.
 
+@@SPLIT:sense@@
 5.
 alliance de mariage Pr 2,17 ; Ml 2,14. — Dans tous les cas כרת ברית est l'expression technique pour
 conclure une alliance sauf Jr 34,10
@@ -92,9 +97,11 @@ Gn 26,28 +,
 II.
 entre Dieu et l'homme.
 
+@@SPLIT:sense@@
 1.
 alliance d'amitié (|| סוֺד) Ps 25,14.
 
+@@SPLIT:sense@@
 2.
 alliance, comme constitution ou ordonnance divine avec signes ou gages (voir
 אוֺת
@@ -330,6 +337,7 @@ Ml 3,1.
 III.
 Expressions.
 
+@@SPLIT:sense@@
 1.
 conclusion d'alliance :
 כרת ברית
@@ -465,6 +473,7 @@ Ps 50,16
 .
 (comparer en outre sur ces points Dr^J Ph xi. 1882, 210 ss.^)
 
+@@SPLIT:sense@@
 2.
 fidélité à l'alliance : de la part de l'homme שׁמר ברית
 1 R
@@ -593,6 +602,7 @@ Ez
 20,37
 .
 
+@@SPLIT:sense@@
 3.
 violation d'alliance :
 עבר ברית

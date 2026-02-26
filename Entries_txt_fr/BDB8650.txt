@@ -12,6 +12,8 @@ Qo 31,27
 [placeholder5520: Placeholders/5520.gif]
 qualité, apparence) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Parfait 3 masculin singulier שָׁת
 Gn 4,25 +, 3
@@ -222,6 +224,8 @@ Beer (le mieux) שְׁעֵה (Jb 7,19), avec יְמֵי חֶלְדִּי (
 Bu
 Be
 Du) pour יָמַי יחדל probablement à juste titre.
+
+@@SPLIT:stem@@
 
 Hoph`al (ou
 Qal

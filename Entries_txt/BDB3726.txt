@@ -32,6 +32,8 @@ Ezek 43:11;
 Ezek 44:5 + 5 t.
 suffixes; —
 
+@@SPLIT:sense@@
+
 1.
 instruction:
 
@@ -93,6 +95,8 @@ Hag 2:11; Mal 2:6; Mal 2:7; Mal 2:8; Mal 2:9; Zeph 3:4; Ezek 22:26
 || לֹא תוֺרָה
 לֹא כֹּחֵן מוֺרֶה
 2Chr 15:3.
+
+@@SPLIT:sense@@
 
 2.
 law (properly direction): namely
@@ -367,6 +371,8 @@ Ps 119:142; Ps 119:150; Ps 119:153; Ps 119:163; Ps
 
 תּוֺרָה (indefinite) || חקים, מצוות
 Neh 9:14.
+
+@@SPLIT:sense@@
 
 3.
 custom, manner:

@@ -26,6 +26,7 @@ Pr 15,26
 féminin pluriel טְהֹרוֺת
 Lv 14,4 ; Ps 12,7 —
 
+@@SPLIT:sense@@
 1. rituellement pur, des animaux Gn 7,2 (deux fois dans le verset) ; Gn 7,8 (deux fois dans le verset) ; Gn 8,20 (deux fois dans le verset) (tous
 
 J
@@ -68,6 +69,7 @@ mais lire טֹהַר Pu`al, voir
 30,17 ; Esd
 6,20.
 
+@@SPLIT:sense@@
 2. physiquement pur : de l'or זָהָב
 Ex 25,11 ;
 Ex 25,17 ;
@@ -109,6 +111,7 @@ H
 13,11
 pur, du turban Za 3,5 (deux fois dans le verset).
 
+@@SPLIT:sense@@
 3. éthiquement pur, propre
 Pr 30,12 ;
 Qo 9,2 ; Jb 14,4 du cœur

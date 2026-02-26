@@ -4,6 +4,8 @@ Biblical Hebrew
 [חָרַת] verb
 grave, engrave, only
 
+@@SPLIT:stem@@
+
 Qal
 Passive participle
 חָרוּת עַל הַלֻּחֹת

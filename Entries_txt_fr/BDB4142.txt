@@ -11,6 +11,7 @@ comparer arabe
 [placeholder2600: Placeholders/2600.gif]
 renverser, retourner) ; — seulement
 
+@@SPLIT:stem@@
 Qal
 Imparfait
 מַתָּן בַּסֵּתֶר יִכְפֶּהאָֿ֑ף

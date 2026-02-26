@@ -4,6 +4,8 @@ araméen biblique
 [קְרָא] verbe
 appeler, lire à haute voix (voir hébreu biblique I. קרא) ; —
 
+@@SPLIT:stem@@
+
 Pe`al
 Imparfait 3 masculin singulier יִקְרֵה
 Dn 5,7, 1 singulier
@@ -32,12 +34,16 @@ Dn 5,16 ;
 Dn 5,17 (
 ל personne).
 
+@@SPLIT:stem@@
+
 Pe`îl (W^CG 225^)
 Parfait 3 masculin singulier קֱרִי
 Esd 4,18
 ; Esd 4,23
 
 ce fut lu, קֳדָם personne
+
+@@SPLIT:stem@@
 
 Hithpe`el
 être convoqué, Imparfait 3 masculin singulier יִתְקְרֵי

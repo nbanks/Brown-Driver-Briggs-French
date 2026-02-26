@@ -13,6 +13,7 @@ Gn 13,3,
 מַסְעֵיהֶם
 Ex 17,1 + 6 t. ; —
 
+@@SPLIT:sense@@
 1.
 
 a.
@@ -24,6 +25,7 @@ Nb 10,6,
 comparer Nb
 10,23.
 
+@@SPLIT:sense@@
 2.
 station, étape, voyage (par étapes), ׳
 וַיֵּלֶךְ לְמ

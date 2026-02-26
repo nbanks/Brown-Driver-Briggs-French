@@ -13,6 +13,7 @@ violer ; hébreu tardif חלל
 [placeholder1768: Placeholders/1768.gif] Pael est purifier,
 [placeholder1769: Placeholders/1769.gif] Aphel est profaner) —
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 נִחָ֑ל
@@ -58,6 +59,7 @@ et
 même Dieu lui-même
 Ez 22,16 ; Ez 22,26.
 
+@@SPLIT:stem@@
 Pi`el
 Parfait
 חִלֵּל
@@ -238,6 +240,7 @@ Lv
 H
 ).
 
+@@SPLIT:stem@@
 Pu`al
 Participe
 בַּגּוֺיִם שְׁמִי הַגָּדוֺל הַמְֿחֻלָּל
@@ -245,6 +248,7 @@ Ez
 36,23
 mon grand nom qui est profané parmi les nations.
 
+@@SPLIT:stem@@
 Hiph`il
 
 1.
@@ -452,6 +456,7 @@ commençant et achevant
 (c.-à-d.
 accomplissant tout mon dessein, voir Dr).
 
+@@SPLIT:stem@@
 Hoph`al
 Parfait
 ׳

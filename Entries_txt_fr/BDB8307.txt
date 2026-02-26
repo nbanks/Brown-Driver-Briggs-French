@@ -3,6 +3,7 @@ hébreu biblique
 
 [שָׂרַג] verbe
 
+@@SPLIT:stem@@
 Pu`al
 être entrelacé (Talmud סָרַג Pi`el enlacer, tisser autour ;
 araméen
@@ -15,6 +16,7 @@ mettre en ordre, joindre, tisser, mélanger) ; — Imparfait 3 masculin pluriel
 Jb 40,17
 sont entrelacés (des nerfs de l'hippopotame).
 
+@@SPLIT:stem@@
 Hithpa`el
 Imparfait 3 masculin pluriel יִשְׂתָּֽרְגוּ
 Lm 1,14

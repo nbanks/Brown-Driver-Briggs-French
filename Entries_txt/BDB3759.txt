@@ -20,6 +20,8 @@ D
 D
 in Joshua); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular יָרַשׁ
 Jer 49:1
@@ -28,7 +30,7 @@ Jer 49:1
 וְיָרַשְׁתָּ֫
 Deut 6:18 + 2 t.;
 suffix וִירִשְׁתָּהּ consecutive Deut 17:14 + 2 t. on this and kindred forms see Kö^i. 406, 411^); וִירִשְׁתָּם consecutive Deut 19:1; Deut 31:3 3 plural
-יָרְשׁוּ
+יָרְשׁוּ
 Deut 3:20 +; suffix
 וִיִרֵשׁוּךָ consecutive Ezek 36:12 (Kö^l.c^.);
 וִירֵשׁוּהָ consecutive Isa 34:11 + 3 t.; 2 masculine plural וִירִשְׁתֶּם consecutive
@@ -291,6 +293,8 @@ Judg 14:15
 
 to impoverish us did ye call (us)?
 
+@@SPLIT:stem@@
+
 Niph`al
 Imperfect
 יִוָּרֵשׁ
@@ -315,9 +319,11 @@ E
 ),
 Prov 20:13; Prov 23:21; Prov 30:9 (opposed to אֶשְׂבַּע).
 
+@@SPLIT:stem@@
+
 Pi`el
 Imperfect
-פְּרִי אַדְמָתֶ֑ךָ יְיָרֵשׁ הַצְּלַָצל
+פְּרִי אַדְמָתֶ֑ךָ יְיָרֵשׁ הַצְּלַָצל
 Deut
 28:42
 
@@ -326,6 +332,8 @@ Hos 9:6
 ;
 Isa 34:11
 ), i.e. devour.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 masculine singular הוֺרִישׁ

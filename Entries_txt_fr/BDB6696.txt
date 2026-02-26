@@ -9,6 +9,8 @@ Gerber^73^ II. ׳
 פ est dénominatif de פִּסֵּחַ [et celui-ci sous I. ׳
 פ ?]) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Participe pluriel פֹּסְחִים עַלשְֿׁתֵּי הַסְּעַפִּים
 1 R 18,21
@@ -16,10 +18,14 @@ figuré (voir [
 סְעִפָּה
 ]).
 
+@@SPLIT:stem@@
+
 Niph`al
 Imparfait 3 masculin singulier וַיִּפֹּל וַיִּפָּסֵחַ
 2 S 4,4
 et il tomba et devint boiteux.
+
+@@SPLIT:stem@@
 
 Pi`el
 Imparfait 3 masculin pluriel וַיְפַסְּחוּ עַלהַֿמִּזְבֵּחַ

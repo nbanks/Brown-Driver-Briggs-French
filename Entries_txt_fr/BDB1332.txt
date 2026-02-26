@@ -20,6 +20,7 @@ Gn 49,25 + 5
 t. ; suffixe בִּרְכוֺתֵיכֶם
 Ml 2,2 —
 
+@@SPLIT:sense@@
 1.
 bénédiction :
 
@@ -80,6 +81,7 @@ du peuple, en reconnaissance des hommes bons Ps 109,17 ; Pr 10,6 ; Pr 11,26 ; Pr
 d.
 d'un pauvre, en reconnaissance de bienfaits Jb 29,13.
 
+@@SPLIT:sense@@
 2.
 source de bénédiction : Abraham Gn 12,2 (
 J
@@ -88,6 +90,7 @@ mémoire
 du juste
 Pr 10,7 vin nouveau Es 65,8.
 
+@@SPLIT:sense@@
 3.
 bénédiction, prospérité :
 בברכת ישׁרים
@@ -105,10 +108,12 @@ Gn 49,26
 et je maudirai votre prospérité
 Ml 2,2.
 
+@@SPLIT:sense@@
 4.
 bénédiction, louange de Dieu
 Ne 9,5.
 
+@@SPLIT:sense@@
 5.
 un don, un présent
 Gn 33,11
@@ -131,6 +136,7 @@ Pr 11,25
 [placeholder709: Placeholders/709.gif], éthiopien
 [placeholder710: Placeholders/710.gif]).
 
+@@SPLIT:sense@@
 6.
 traité de paix
 2 R 18,31

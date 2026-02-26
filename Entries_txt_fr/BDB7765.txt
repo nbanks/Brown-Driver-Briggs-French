@@ -15,6 +15,7 @@ repousser, rejeter (Nö^M 75^) ; assyrien
 radâdu
 est poursuivre (rare)) ; —
 
+@@SPLIT:stem@@
 Qal, figuré, abattre :
 Infinitif construit
 לְרַד לְפָנָיו גּוֺיִם
@@ -35,6 +36,7 @@ accusatif Ew et autres (pour
 
 Hiph`il). — Jg 19,11 lire יָרַד.
 
+@@SPLIT:stem@@
 Hiph`il littéralement aplatir : Imparfait 3 masculin singulier
 וַיָּ֫רֶד
 עַלהַֿכְּרוּבִים ֗֗֗ אֶתהַֿזָּהָב

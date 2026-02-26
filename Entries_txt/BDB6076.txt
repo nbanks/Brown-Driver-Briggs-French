@@ -3,6 +3,8 @@ Biblical Hebrew
 
 I. עֶלְיוֺן_22_ adjective
 
+@@SPLIT:sense@@
+
 1.
 high; — masculine singular ׳
 ע
@@ -19,6 +21,8 @@ Benz) = 2Chr 7:21, of ׳
 י
 Ps 97:9.
 
+@@SPLIT:sense@@
+
 2.
 upper Bethhoron, ׳
 ע
@@ -33,6 +37,8 @@ the highest side-chamber (צֵלָע) Ezek 41:7 feminine plural הָעֶלְיו
 
 Ezek 42:5
 the upper chambers (לְשָׁכוֺת).
+
+@@SPLIT:sense@@
 
 3. of Davidic king exalted above monarchs Ps 89:28 (compare Deut 28:1, above).
 

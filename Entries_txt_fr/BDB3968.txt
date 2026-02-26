@@ -11,6 +11,7 @@ Id^ib.^
 Dl^Pa 251^ ; Kaši dans les tablettes de Tel Amarna, voir
 Wkl^Tel Am. 39*^) ; —
 
+@@SPLIT:sense@@
 1. 1er « fils » de חָם
 Gn 10,6 ; Gn 10,7 (
 P
@@ -26,6 +27,7 @@ P
 Chus, dont descendent selon ces versets les peuples les plus méridionaux connus des
 Hébreux.
 
+@@SPLIT:sense@@
 2. pays et peuple de la vallée méridionale du Nil, ou Haute-Égypte, s'étendant de Syène (Ez 29,10)
 indéfiniment vers le sud,
 
@@ -50,6 +52,7 @@ Ps 87,4 (
 
 λαὸς Αιθιοπων).
 
+@@SPLIT:sense@@
 3. dans Gn
 10,8 (
 J

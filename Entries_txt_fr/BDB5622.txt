@@ -19,6 +19,7 @@ Es 31,9 pluriel
 סְלָעִים
 Es 2,21 + ; —
 
+@@SPLIT:sense@@
 1. littéralement falaise, rocher
 Jg 6,20 ; Es 2,21 ; Es 7,19 ; Am 6,12 ; Nb 20,8 (deux fois dans le
 verset) ; Nb 20,10
@@ -55,6 +56,7 @@ voir aussi II.
 סֶלַע
 .
 
+@@SPLIT:sense@@
 2.
 figuré, surtout סַלְעִי de ׳
 י (seulement Psaumes), Ps 18,3 = 2 S 22,2 ; Ps 31,4 ; Ps 42,10 ; Ps 71,3 du dieu assyrien Es 31,9 (probablement ; comparer צוּר

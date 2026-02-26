@@ -10,6 +10,8 @@ rabû
 [placeholder4933: Placeholders/4933.gif],
 [placeholder4934: Placeholders/4934.gif], all grow, increase); —
 
+@@SPLIT:stem@@
+
 Qal_59_, Perfect 3 feminine singular רָֽבְתָה
 1Sam 14:30 2
 masculine singular וְרָבִ֫יתָ consecutive Deut 30:16 3 plural רָבוּ
@@ -133,6 +135,8 @@ Job 39:4
 . (2) of glory Ps 49:17, knowledge Dan 12:4. — 2Chr 24:27 see
 above
 
+@@SPLIT:stem@@
+
 Piel.,
 make large, increase; — Imperative masculine singular
 רַבֶּה
@@ -153,6 +157,8 @@ thy wealth) by their price (Hup
 Bae); = bring up, rear (children)
 Lam 2:22
 (+ טפּח), whelps Ezek 19:2 (in figurative).
+
+@@SPLIT:stem@@
 
 Hiph`il_162_
 Perfect 3 masculine singular הִרְבָּה

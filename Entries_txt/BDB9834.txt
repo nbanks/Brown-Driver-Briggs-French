@@ -10,11 +10,15 @@ Syriac; compare Biblical Hebrew I.
 צבע
 ); —
 
+@@SPLIT:stem@@
+
 Pa`el
 Participle
 active plural מְצַבְּעִין
 Dan 4:22
 wet thee (ל), + מִטַּל.
+
+@@SPLIT:stem@@
 
 Hithpa`al
 Imperfect

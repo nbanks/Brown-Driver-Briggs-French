@@ -13,6 +13,7 @@ faire s'appuyer sur, etc. Di^335^ ; arabe
 [placeholder3605: Placeholders/3605.gif]
 toit ; —
 
+@@SPLIT:stem@@
 Qal_41_
 Parfait 3 masculin singulier ׳
 ס
@@ -104,6 +105,7 @@ son cœur est soutenu, ferme, et ainsi ׳
 Es 26,3
 .
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 1 singulier נִסְמַ֫כְתִּי
 Ps 71,6 3 pluriel
@@ -124,6 +126,7 @@ Jg 16,29
 et il s'arc-bouta contre (sur) eux (les colonnes) ; 2 R 18,21 (si) un homme
 s'appuie sur elle (l'Égypte comme un roseau fendu) = Es 36,6 sur des paroles d'encouragement 2 Ch 32,8 sur Dieu Es 48,2 ; Ps 71,6.
 
+@@SPLIT:stem@@
 Pi`el
 Impératif masculin pluriel suffixe + בְּ instr. : סַמְּכוּנִי
 Ct 2,5

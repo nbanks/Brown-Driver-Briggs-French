@@ -5,6 +5,7 @@ hébreu biblique
 courir, courir çà et là, se précipiter (apparemment apparenté à √ I. שׁוק, d'où שׁוֺק
 ) ; —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 3 masculin pluriel בָּעִיר יָשֹׁקּוּ
 Jl 2,9, des sauterelles
@@ -17,6 +18,7 @@ Pr 28,15 (à moins de lire שָׁקוּל, Toy) ; figuré de נֶפֶשׁ
 languissant d'eau Es 29,8 (|| עָיֵם et, v^a,^
 רֵקָה), Ps 107,9 (|| רְעֵבָה).
 
+@@SPLIT:stem@@
 Hithpalpel
 Imparfait 3 masculin pluriel יִשְׁתַּקְשְׁקוּן
 Na 2,5, des chars,

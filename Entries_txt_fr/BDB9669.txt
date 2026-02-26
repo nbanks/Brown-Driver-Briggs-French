@@ -22,6 +22,8 @@ W^CG 123:^ hébreu biblique
 מִי
 ) ; —
 
+@@SPLIT:sense@@
+
 1.
 qui ?
 Esd 5,3 ;
@@ -43,6 +45,8 @@ quels (littéralement qui : comparer מִי
 ᵑ7
 
 ) sont les noms de . . . ?
+
+@@SPLIT:sense@@
 
 2.
 מַןדּֿי

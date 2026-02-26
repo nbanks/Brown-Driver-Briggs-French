@@ -10,6 +10,7 @@ t. ; suffixe כְּסוּתְךָ
 Dt 22,12 + 3
 t. suffixes ; —
 
+@@SPLIT:sense@@
 1.
 couverture, vêtement
 Ex 21,10 ;
@@ -18,6 +19,7 @@ Ex 22,26
 Dt 22,12 ; Jb 24,7 ; Jb 31,19 de שַׂק comme vêtement des cieux Es 50,3 en
 figure
 
+@@SPLIT:sense@@
 2.
 couverture pour la dissimulation, d'Abaddon, le séjour souterrain des morts Jb 26,6
 עֵינַיִם

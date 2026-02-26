@@ -19,6 +19,8 @@ Lane^1360^,
 forearm Id^1362^; Sabean סעד
 DHM^Südar. Ait. p. 16^); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular וְסָעַד consecutive Prov 20:28
 Imperfect 3 masculine singular יִסְעָ֑ד 3 feminine singular suffix

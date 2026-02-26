@@ -11,6 +11,8 @@ id., Phoenician תם, Syriac
 [placeholder5844: Placeholders/5844.gif]
 Perfect); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular תַּם
 Gen 47:18 + 3 t.
@@ -154,6 +156,8 @@ we have completed (read probably הֲתִמֹּנוּ); Jer 27:8
 עַדתֻּֿמֹּי אֹתָם בְּיָדוֺ (read with Gr
 תִּתִּי).
 
+@@SPLIT:stem@@
+
 Hiph`il
 Perfect 1 singular הֲתִמֹּ֫תִי
 Ezek 22:15
@@ -172,7 +176,7 @@ Ezek 24:10
 construct, id., Dan 8:23 + Dan 9:24
 
 Qr
-(see Dr.); suffix הֲִתמְךְ (Ges^«GKC:67v»§ 67v^) Isa 33:1 —
+(see Dr.); suffix הֲִתמְךְ (Ges^«GKC:67v»§ 67v^) Isa 33:1 —
 
 1.
 finish, complete, perfect, a matter 2Sam 20:18 (but
@@ -208,6 +212,8 @@ Qal
 Job
 22:3
 make sound thy ways.
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Imperfect 2 masculine singular תִּתַּמָּם

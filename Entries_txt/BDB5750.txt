@@ -11,6 +11,8 @@ Lzb^333^, Old Hebrew עבדיהו Id.^334^);
 I.
 עֹבַדְיָ֫הוּ:
 
+@@SPLIT:sense@@
+
 1. chief of Ahab's household 1Kgs 18:3 (twice in verse); 1Kgs 18:4; 1Kgs 18:5; 1Kgs 18:6; 1Kgs 18:7;
 1Kgs 18:16
 ,
@@ -19,11 +21,15 @@ I.
 
 Αβδ(ε)ιου.
 
+@@SPLIT:sense@@
+
 2. father of one of the chiefs of Zebulun 1Chr 27:19,
 
 ᵐ5
 
 Αβδ(ε)ιου (genitive).
+
+@@SPLIT:sense@@
 
 3. a Levite overseer in time of Josiah 2Chr 34:12,
 
@@ -40,6 +46,8 @@ A
 
 II.> עֹבַדְיָה:
 
+@@SPLIT:sense@@
+
 1. the prophet
 
 Obad 1:1,
@@ -47,6 +55,8 @@ Obad 1:1,
 ᵐ5
 
 Οβδ(ε)ιου (genitive), Αβδ(ε)ιου.
+
+@@SPLIT:sense@@
 
 2. a descendant of David 1Chr 3:21,
 
@@ -59,6 +69,8 @@ Obad 1:1,
 ^L^
 
 Οβδιας.
+
+@@SPLIT:sense@@
 
 3. chief of tribe of Issachar 1Chr 7:3,
 
@@ -75,11 +87,15 @@ A
 
 Αβδια.
 
+@@SPLIT:sense@@
+
 4. a Benjamite 1Chr 8:38; 1Chr 9:44,
 
 ᵐ5
 
 Αβδ(ε)ια.
+
+@@SPLIT:sense@@
 
 5. a Levite 1Chr 9:16 (|| עַבְדָּא
 Neh 11:17
@@ -99,17 +115,23 @@ A
 
 Αβια.
 
+@@SPLIT:sense@@
+
 6. a Gadite chief 1Chr 12:9,
 
 ᵐ5
 
 Αβδ(ε)ια.
 
+@@SPLIT:sense@@
+
 7. a prince in time of Jehoshaphat 2Chr 17:7,
 
 ᵐ5
 
 Αβ(δ)ιαν.
+
+@@SPLIT:sense@@
 
 8. priestly companion of Ezra Ezra 8:9; Neh 10:6,
 
@@ -122,6 +144,8 @@ A
 ^L^
 
 Αβδιου, Αβιας.
+
+@@SPLIT:sense@@
 
 9. a doorkeeper Neh 12:25, א
 Οβδιας,

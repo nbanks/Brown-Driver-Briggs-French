@@ -9,6 +9,7 @@ se hâter, faire vite (assyrien
 Dl^Pr 180^, éthiopien
 [placeholder1694: Placeholders/1694.gif] ; sur ce verbe v. Nö^ZMG 1883, 538^) —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier חָשׁ
 Dt 32,35 (ou
@@ -68,6 +69,7 @@ Di comparer Ex 13,18 etc.) ; Ba^NB 180
 conserve^
 חוּשִׁים et le considère comme actif (intransitif) = se hâtant.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait
 הֵחִישׁוּ

@@ -11,6 +11,7 @@ rota,
 [placeholder915: Placeholders/915.gif]
 fluctus, etc.) —
 
+@@SPLIT:stem@@
 Qal
 Parfait 1 singulier גַּלּוֺתִי
 Jos 5,9,
@@ -59,6 +60,7 @@ Ps 37,5, comparer
 Ps 22,9 ; Pr 16,3 (tous deux
 suivis de אֶלֿ).
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 וְנָגֹלּוּ consécutif Es 34,4
@@ -70,6 +72,7 @@ et les cieux s'enrouleront comme un livre ; יִגַּל כַּמַּיִם מִ
 Am 5,24
 que le droit roule (coule) comme les eaux.
 
+@@SPLIT:stem@@
 Pilpel
 Parfait
 וְגִלְגַּלְתִּיךָ consécutif Jr 51,25
@@ -77,6 +80,7 @@ et je te ferai rouler du haut (מִן) des rochers (sujet ׳
 
 י ; objet Babylone sous la figure d'une montagne)
 
+@@SPLIT:stem@@
 Poal
 Participe
 שִׂמְלָה
@@ -84,6 +88,7 @@ Participe
 Es 9,4
 vêtement roulé (souillé, roulé de part et d'autre) dans le sang.
 
+@@SPLIT:stem@@
 Hithpo`el
 Infinitif
 לְהִתְגֹּלֵל
@@ -105,6 +110,7 @@ se rouler sur nous, c.-à-d. nous assaillir avec une force écrasante (||
 וּלְהִתְנַפֵּל
 עָלֵינוּ).
 
+@@SPLIT:stem@@
 Hithpalpel
 Parfait
 הִתְגַּלְגָּ֑לוּ
@@ -112,6 +118,7 @@ Jb
 30,14 (absolu ; || כְּפֶרֶץ רָחָב יֶאֱתָ֑יוּ) comparer Hithpo`el Gn 43,8
 .
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait
 וַיָּ֫גֶל

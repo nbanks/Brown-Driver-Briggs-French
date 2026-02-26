@@ -4,24 +4,28 @@ araméen biblique
 [רוּם] verbe
 s'élever (voir hébreu biblique) ; —
 
+@@SPLIT:stem@@
 Pe`al
 Participe passif
 רִם
 Dn 5,20
 élevé, du cœur, c.-à-d. présomptueux.
 
+@@SPLIT:stem@@
 Po`l.
 exalter : Participe
 מְרוֺמֵם
 Dn 4,34 (
 ל de divinité).
 
+@@SPLIT:stem@@
 Haph`el
 exalter : Participe
 מָרִים
 Dn 5,19
 (accusatif de personne).
 
+@@SPLIT:stem@@
 Hithpo`lel
 s'élever contre, Dn 5,23 (עַל de divinité).
 

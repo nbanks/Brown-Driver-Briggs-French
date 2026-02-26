@@ -8,6 +8,8 @@ errer (|| forme de
 , q. v. ; araméen (parfois) תְּעָא, תְּעִי
 id. ; hébreu tardif = hébreu biblique (rare)) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Parfait 3 masculin singulier ׳
 ת
@@ -60,6 +62,8 @@ Ez 44,10
 ; Ez
 44,15.
 
+@@SPLIT:stem@@
+
 Niph`al
 
 1.
@@ -72,6 +76,8 @@ Es 19,14
 être égaré
 Jb 15,31
 (avec בשׁוֺא).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Parfait 3 masculin singulier הִתְעָה

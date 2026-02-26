@@ -8,6 +8,7 @@ DHM^Sendsch. 60^ ; arabe
 [placeholder3042: Placeholders/3042.gif] ; sabéen מנע
 Levy-Os^ZMG xix. 1865, 268^ ; araméen מְנַע) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 ׳
@@ -55,6 +56,7 @@ suivi de מִן + infinitif 1 S 25,26 ; 1 S 25,34 suivi de לְ, sujet ׳
 Ps 84,12
 (bien).
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 נִמְנַע

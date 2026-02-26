@@ -15,6 +15,7 @@ Dl^HWB 507^ ; comparer amharique
 complainte funèbre
 Prä^ZMG xxxv (1881), 762^) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 féminin singulier וְסָֽפְדָה consécutif Za 12,12, 3 pluriel
 וְסָֽפְדוּ consécutif 1 R 14,13 ; Za 12,10
@@ -78,6 +79,7 @@ pour les champs, etc., mais lire probablement שָׂדִים (וֺֿת,
 יִַ֯ם) Ges^Comm.^ (q. v.) Buhl^Lex 13 Skinner^ et d'autres : sur les champs se lamentant,
 sur les champs délicieux, etc.
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait 3 masculin pluriel לֹא יִסָּֽפְדוּ
 Jr 16,4

@@ -18,6 +18,8 @@ be dumb, speechless, compare Assyrian
 ; see Lag^BN 120^)
 —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect
 יֶחֱרָ֑שׁ
@@ -48,6 +50,8 @@ Ps 28:1
 subject
 אָזְנַיִם
 Mic 7:16.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect
@@ -175,6 +179,8 @@ be deaf, shew deafness:
 1Sam 7:8
 
 be not deaf (turning) from us, so as not to cry.
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Imperfect 3 masculine plural וַיִּתְחָֽרְשׁוּ

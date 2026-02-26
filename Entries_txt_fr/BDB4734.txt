@@ -13,6 +13,7 @@ est laver ; voir aussi
 מסס
 ) ; — seulement
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 pluriel הִמְסִיו
 Jos 14,8 (sur la forme

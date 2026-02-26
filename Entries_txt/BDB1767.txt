@@ -8,6 +8,8 @@ MI^19^
 
 ויגרשה) —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect
 וַיִּגְרְשׁוּ
@@ -44,6 +46,8 @@ on internal grounds, compare
 
 ᵐ5
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect
 נִגְרָ֑שׁ
@@ -55,6 +59,8 @@ be driven away, followed by מִנֶּגֶד עֵינֶיךָ, i.e. from the pre
 Yahweh Jonah 2:5
 be driven, tossed, as the Nile Amos 8:8 of the sea Isa 57:20 rel. clause, אֲשֶׁר omitted,
 like the sea that is tossed.
+
+@@SPLIT:stem@@
 
 Pi`el
 Perfect 3 feminine singular וְגֵרְשָׁה consecutive Exod 23:28
@@ -158,6 +164,8 @@ Balak) Num 22:6
 22:11 Judah from Canaan (subject Moab & Ammon) 2Chr 20:11 Egypt from her land (׳
 
 י subject) Ezek 31:11 (but compare text, above); Ashdod (indefinite subject) Zeph 2:4.
+
+@@SPLIT:stem@@
 
 Pu`al
 Perfect

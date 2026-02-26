@@ -9,6 +9,7 @@ parler, converser (rare) ; araméen
 [placeholder1495: Placeholders/1495.gif] est sonuit, resonavit, le nom
 [placeholder1496: Placeholders/1496.gif] est tinnitus, strepitus) — seulement
 
+@@SPLIT:stem@@
 Qal
 Parfait
 זָמַם

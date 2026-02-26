@@ -10,18 +10,21 @@ diviser (hébreu tardif fait une cloison ; assyrien
 [placeholder1927: Placeholders/1927.gif]
 écourter, diminuer) —
 
+@@SPLIT:stem@@
 Qal
 Participe
 חֹצֵץ intransitif Pr 30,27 des sauterelles כלו
 ׳
 ויצא ח ; c.-à-d. se divisant en bandes ou essaims.
 
+@@SPLIT:stem@@
 Pi`el
 Participe
 מְחַצְצִים voir II.
 חצץ
 .
 
+@@SPLIT:stem@@
 Poual
 Parfait
 מספר חדשׁיו חֻצָּ֑צוּ

@@ -3,12 +3,16 @@ Biblical Hebrew
 
 [רָשַׁשׁ] verb
 
+@@SPLIT:stem@@
+
 Po`el
 beat down, shatter (Syriac
 [placeholder5200: Placeholders/5200.gif]
 bruise, grind); — Imperfect 3 masculine singular יְרשֵׁשׁ
 Jer 5:17 one
 shall beat down thy fortified cities
+
+@@SPLIT:stem@@
 
 Pu`al
 Perfect 1 plural רֻשּׁשְׁנוּ

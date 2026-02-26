@@ -11,6 +11,7 @@ Os 12,11 + 25
 t. ; construit חֲזוֺן
 Es 1,1 + 8 t.
 
+@@SPLIT:sense@@
 1.
 vision, telle que vue dans l'état extatique || קסם
 Mi 3,6 ||
@@ -45,10 +46,12 @@ une vision apparut à ; ׳
 Lm 2,9
 trouver une vision de Yahvé ; aussi Ez 12,22 ; Ez 12,23 ; Dn 8,13 ; Dn 8,17 ; Dn 8,26 ; Dn 10,14 ; Dn 11,14.
 
+@@SPLIT:sense@@
 2.
 vision, dans la nuit חֲזוֺן לַיְלָה
 Es 29,7.
 
+@@SPLIT:sense@@
 3.
 communication divine dans une vision, oracle, prophétie
 ׳
@@ -75,6 +78,7 @@ Ha 2,3 ; Pr 29,18
 ; Ez 7,13
 (supprimer Co).
 
+@@SPLIT:sense@@
 4.
 vision, comme titre de livre de prophétie, ספר חזון נחוּם
 Na 1,1

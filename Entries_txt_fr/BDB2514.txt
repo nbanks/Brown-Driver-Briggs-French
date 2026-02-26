@@ -12,9 +12,11 @@ Ps 58,6, suffixe
 חֲבָרַיִךְ
 Es 47,9 ; Es 47,11 —
 
+@@SPLIT:sense@@
 1.
 compagnie, bande de (mauvais) prêtres Os 6,9.
 
+@@SPLIT:sense@@
 2.
 association, société (abstrait), seulement dans בֵּית חָ֑בֶר
 Pr 21,9 =
@@ -26,6 +28,7 @@ RVm
 VB
 ).
 
+@@SPLIT:sense@@
 3. enchantement :
 
 a. comme accusatif de sens apparenté avec le verbe avec

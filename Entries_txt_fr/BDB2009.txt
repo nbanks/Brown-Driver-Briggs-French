@@ -13,6 +13,7 @@ atteindre, rattraper ; éthiopien
 [placeholder1201: Placeholders/1201.gif]
 seuil, vestibule) —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier דָּרַךְ
 Nb 24,17 + 6
@@ -143,6 +144,7 @@ Es 21,15
 קַשְׁתֹֿתָיו דְּרֻכוֺת
 Es 5,28.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait
 וְהִדְרִיךְ

@@ -6,18 +6,26 @@ noun masculine^
 1Kgs 6:25
 ^
 
+@@SPLIT:sense@@
+
 1.
 cut, shape;
+
+@@SPLIT:sense@@
 
 2.
 extremity;
 —
+
+@@SPLIT:sense@@
 
 1.
 ׳
 ק absolute, shape of cherubim 1Kgs 6:25 ( + מִדָּה), of bases
 1Kgs 7:37 (+
 id.).
+
+@@SPLIT:sense@@
 
 2.
 extremity, plural construct קִצְבֵי הָרִים

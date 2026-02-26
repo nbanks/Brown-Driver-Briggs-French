@@ -14,12 +14,13 @@ contrainte ; éthiopien
 jouer l'homme, est dénominatif de
 [placeholder795: Placeholders/795.gif] homme) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 ׳
 ג
 Ps 103,11 +
-5 t. ; גָּבְרוּ
+5 t. ; גָּבְרוּ
 Gn 7,19 + 6 t. ;
 גָּבֵ֑רוּ
 2 S 1,23
@@ -30,7 +31,7 @@ Imparfait
 Gn 7,18 ; Gn 7,24 —
 
 1.
-être fort, puissant, absolu גָּבְרוּ חַיִל
+être fort, puissant, absolu גָּבְרוּ חַיִל
 puissants en force
 Jb 21,7 avec
 מִן
@@ -64,6 +65,7 @@ prévaloir sur, sujet ennemis 2 S 11,23, bénédictions Gn 49,26 (
 J
 ), miséricorde de Dieu Ps 103,11 ; Ps 117,2.
 
+@@SPLIT:stem@@
 Pi`el
 Parfait
 גִּבַּרְתִּי
@@ -77,6 +79,7 @@ Qo 10,10
 
 rendre fort, fortifier.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait
 הִגְבִּיר בְּרִית לְ
@@ -90,6 +93,7 @@ Ol
 Che (ou, à notre langue nous donnerons force Hi
 De) Ps 12,5.
 
+@@SPLIT:stem@@
 Hithpa`el
 Imparfait
 יִתְגַּבָּ֑ר

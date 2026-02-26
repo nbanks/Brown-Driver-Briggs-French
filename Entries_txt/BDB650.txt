@@ -3,6 +3,8 @@ Biblical Hebrew
 
 אַף כִּי
 
+@@SPLIT:sense@@
+
 1.
 furthermore
 Ezek 23:40
@@ -10,14 +12,18 @@ Ezek 23:40
 Ges
 quin imo, quin etiam).
 
+@@SPLIT:sense@@
+
 2. in a question, indeed (is it) that . . .? Gen 3:1
 אַף כִּיאָֿמַר אֱלֹהִים
 indeed, that God has said . . .? i.e. has God really said . . .?
 (compare הַאַף above).
 
+@@SPLIT:sense@@
+
 3. with reference to a preceding sentence (which is often introduced by הֵן or
 הִנֵּה), yea, that . . .! i.e. how much more (or
-less)! Prov 11:31 lo, the righteous is recompensed in the earth ַאֹף כִּי רָשָׁע
+less)! Prov 11:31 lo, the righteous is recompensed in the earth ַאֹף כִּי רָשָׁע
 וְחוֺטֵא
 'tis indeed that (= how much more) the wicked and the sinner! Prov 15:11; Prov 17:7; Prov 19:7; Prov 19:10; Job 9:14; Job 15:16; Job 25:6; 1Sam 14:30; 1Kgs 8:27 (= 2Chr 6:18) lo, the heavens . . .
 cannot contain thee אַ֕ף כִּי הַבַּיִת הַזֶּה

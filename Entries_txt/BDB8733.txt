@@ -40,6 +40,8 @@ Bondi^70^ (after Brugsch), compare
 šarm¹
 , greet, do homage, as loan-word in Egyptian); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 plural שָֽׁלְמוּ
 Isa 60:20
@@ -55,6 +57,8 @@ be complete, finished, ended: temple 1Kgs 7:51 = 2Chr 5:1 walls of city Neh 6:15
 
 2.
 be sound, uninjured, Job 9:4.
+
+@@SPLIT:stem@@
 
 Pi`el_89_
 Perfect 3 masculine singular שִׁלַּם
@@ -150,6 +154,8 @@ J
 ) +
 Gen 35:12; Gen 38:21 (read מְשַׁלְּמֵנִי).
 
+@@SPLIT:stem@@
+
 Pu`al
 Imperfect 3 masculine singular יְשֻׁלַּם
 Ps 65:2;
@@ -165,6 +171,8 @@ be performed, of vow Ps 65:2.
 
 2.
 be repaid, requited, Jer 18:20; Prov 11:31; Prov 13:13.
+
+@@SPLIT:stem@@
 
 Hiph`il
 

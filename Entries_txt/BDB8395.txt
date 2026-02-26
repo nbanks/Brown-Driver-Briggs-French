@@ -8,13 +8,15 @@ take captive (Late Hebrew, Old Aramaic id.;Arabic
 [placeholder5380: Placeholders/5380.gif]); Aramaic שְׁבָא,
 [placeholder5381: Placeholders/5381.gif]) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular ׳
 שׁ
 Jer 41:14
 suffixוְשָׁבָם (consecutive) Jer 43:12 (but read וְשָׁבָה
 Gie; Du conjectures
-וְשׁמְמוּ); 2 masculine singular שָׁבִיתָ
+וְשׁמְמוּ); 2 masculine singular שָׁבִיתָ
 2Kgs 6:22; Ps 68:19, etc.,
 Imperfect 3 masculine singular וַיִּשְׁבְּ
 Num 21:1; Jer 41:10,
@@ -94,6 +96,8 @@ E
 Deut 21:10
 =
 take him captive.
+
+@@SPLIT:stem@@
 
 Niph`al
 be taken captive:

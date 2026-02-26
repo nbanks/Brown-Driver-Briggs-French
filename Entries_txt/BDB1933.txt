@@ -27,6 +27,8 @@ VB
 Che; possible would be יִדָּכֶה Niph`al (||
 יָשֹׁחַ and ונפל).
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect
 וְנִדְכֵּ֫יתִי
@@ -37,6 +39,8 @@ Ps 51:19
 — be crushed, broken, of physical distress Ps 38:9 (|| נְפוּגֹתִי
 ); be contrite (לֵב נִדְכֶּה) Ps 51:19 (|| נִשְׁבָּר
 ).
+
+@@SPLIT:stem@@
 
 Pi`el
 Perfect

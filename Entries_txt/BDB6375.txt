@@ -9,7 +9,7 @@ Exod 28:42;
 Lev 18:6 usually
 construct עֶרְוַת
 Gen 9:22 +, suffix
-עֶרְוָתְךָ
+עֶרְוָתְךָ
 Exod 20:23 (
 Ginsb), Lev 18:10
 עֶרְוָתֵךְ
@@ -19,6 +19,8 @@ Lev 20:17,
 תָ֯הּ
 Lev 18:7 +; suffix 3
 feminine plural עֶרְוָתָן Lev 18:9 Lev 18:10 —
+
+@@SPLIT:sense@@
 
 1.
 pudenda, of man ׳
@@ -69,12 +71,16 @@ P
 1Sam 20:30
 (compare Doughty^Arab. Deserta i. 269^).
 
+@@SPLIT:sense@@
+
 2.
 עֶרְוַת דָּבָר
 nakedness of a thing, i.e. probably indecency, improper
 behaviour
 Deut 23:15;
 Deut 24:1 (see Dr).
+
+@@SPLIT:sense@@
 
 3.
 figurative

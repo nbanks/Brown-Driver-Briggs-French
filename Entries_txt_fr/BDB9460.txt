@@ -11,11 +11,17 @@ Esd 7,12 + ;
 suffixe דָּֽתְכוֺן
 Dn 2,9 —
 
+@@SPLIT:sense@@
+
 1.
 décret du roi Dn 2,13 ; Dn 2,15 ; Esd 7,26 avec suffixe Dn 2,9
 décret contre vous.
 
+@@SPLIT:sense@@
+
 2. loi immuable des Mèdes et des Perses Dn 6,9 ; Dn 6,13 ; Dn 6,16.
+
+@@SPLIT:sense@@
 
 3.
 loi de Dieu (dans la bouche de non-Juifs) : Dn 6,6 ; Esd 7,12 ; Esd 7,14 ; Esd 7,21 ; Esd 7,26, ainsi (absolu) Dn 7,25

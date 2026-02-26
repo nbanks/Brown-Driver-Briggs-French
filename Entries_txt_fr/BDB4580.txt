@@ -9,6 +9,7 @@ comparer phénicien למחת
 d'après la mesure = exactement Hoffin^Phoenician Inschr., Abh. GGW, xxxvi. mai 1889,
 9^). —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier מָחָה
 Nb 5,23 + 3 t. ; 3
@@ -85,6 +86,7 @@ Pr 31,3
 (avec la correction textuelle, voir ci-dessus) = destructrices de rois (c.-à-d. femmes impures), mais
 l'expression est étrange et douteuse.
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 masculin pluriel נִמְחוּ
 Ez 6,6
@@ -115,6 +117,7 @@ Gn 7,23 (
 J
 ) ; des œuvres idolâtres d'Israël Ez 6,6.
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait 2 masculin singulier תֶּ֫מַח
 Ne 13,14

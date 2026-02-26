@@ -15,6 +15,8 @@ Song 1:13; Song 8:10,
 Song 4:5 +, etc.; —
 breast:
 
+@@SPLIT:sense@@
+
 1. of woman
 Hos 2:4; Ezek
 16:7; Ezek
@@ -37,8 +39,12 @@ Song 8:1; Job 3:12; Joel 2:15; Hos 9:14 (see [
 Isa 28:9 i.e.
 those already weaned, mature (|| גְּמוּלֵי מֵךְָלָב). — Isa 32:12 see [ספד].
 
+@@SPLIT:sense@@
+
 2. of animal
 Lam 4:3.
+
+@@SPLIT:sense@@
 
 3. both human and animal, וָרָ֑חַם
 ׳

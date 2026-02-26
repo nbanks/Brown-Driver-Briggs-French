@@ -15,6 +15,7 @@ Ex 33,4 +,
 Ex 33,5, etc. ; —
 ornements :
 
+@@SPLIT:sense@@
 1. de femmes 2 S 1,24 (זָהָב
 ׳
 ע), Jr
@@ -41,6 +42,7 @@ ton âge, ta fleur (comparer I.
 Che
 Du.
 
+@@SPLIT:sense@@
 2. d'hommes
 Ex 33,4 ; Ex
 33,5 ; Ex 33,6
@@ -50,10 +52,12 @@ J
 E
 )
 
+@@SPLIT:sense@@
 3. en général, comme nourrissant l'orgueil
 Ez 7,20 (
 צְבִי עֶדְיוֺ, suffixe référant à l'argent et à l'or, Ez 7,19)
 
+@@SPLIT:sense@@
 4.
 harnachement de cheval Ps 32,9 (De
 Hup, comparer Du), si versa l.,

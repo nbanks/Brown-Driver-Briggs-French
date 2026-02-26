@@ -8,6 +8,7 @@ Jos 10,12 + 8
 t. ; אַיָּ֫לֹנָה
 1 S 14,31 —
 
+@@SPLIT:sense@@
 1. ville dans Dan Jos 19,42 ; Jos 21,24 (ville lévitique) Jg 1,35 ; 1 S 14,31 sans doute la même ; ainsi 1 Ch 6,54 (où Dan est omis) ; apparemment
 plus tard dans Benjamin 1 Ch
 8,13 ; 1 Ch
@@ -18,6 +19,7 @@ presque certainement nommé d'après la même ; = Épiph. Ἰαλω moderne Jâl
 Rob^BR ii. 253^,
 Survey^iii. 19.^
 
+@@SPLIT:sense@@
 2. ville dans Zabulon Jg 12,12.
 
 ---

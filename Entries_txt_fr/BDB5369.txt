@@ -25,6 +25,7 @@ i‡‡imu
 , vengeance, rétribution, est possiblement de √
 אקם Jäger^BAS ii. 279^) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier suffixe נְקָמֵ֫נִי
 1 S 24,13
@@ -113,6 +114,7 @@ Lv 19,18
 H
 ).
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 1 singulier נִקַּ֫מְתִּי
 Jg 15,7 ;
@@ -196,6 +198,7 @@ Jr
 
 exercer la vengeance pour toi.
 
+@@SPLIT:stem@@
 Hoph`al
 Imparfait
 יֻקַּם
@@ -207,6 +210,7 @@ Ex
 Gn 4,15
 être vengé, vengeance être prise (pour le sang).
 
+@@SPLIT:stem@@
 Hithpa`el
 Imparfait
 תִּתְנַקֵּם

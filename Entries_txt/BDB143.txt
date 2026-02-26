@@ -5,6 +5,8 @@ Biblical Hebrew
 verb
 love —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 אָהֵ֑ב
@@ -13,7 +15,7 @@ Gen 27:9 + 7 t;
 Gen 27:14
 אָהַב
 Gen 37:3 + 3 t.;
-אֲֵהבָךָ
+אֲֵהבָךָ
 Deut 15:16 3
 feminine singular אָֽהֲבָה
 Song 1:7 +, etc.;
@@ -268,11 +270,15 @@ Ps 99:4;
 Isa 61:8;
 Mal 2:11.
 
+@@SPLIT:stem@@
+
 Niph`al
 Participle plural הַנֶּאֱהָבִים
 2Sam 1:23
 
 lovely, loveable of Saul & Jonath. (|| הַנְּעִימִם).
+
+@@SPLIT:stem@@
 
 Pi`el
 Participle plural suffix (בָֿ֑י) מְאַהֲבַי

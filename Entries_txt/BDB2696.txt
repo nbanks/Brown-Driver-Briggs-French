@@ -3,8 +3,12 @@ Biblical Hebrew
 
 [חַטָּא] adjective and noun masculine
 
+@@SPLIT:sense@@
+
 1.
 sinful,
+
+@@SPLIT:sense@@
 
 2.
 sinners
@@ -16,6 +20,8 @@ t.; construct חַטָּאֵי
 Amos 9:10 suffix
 חַטָּאֶיהָ
 Isa 13:9 —
+
+@@SPLIT:sense@@
 
 1.
 adjective
@@ -30,6 +36,8 @@ b.
 exposed to condemnation, reckoned as offenders
 1Kgs 1:21
 (compare Hiph`il Participle Isa 29:21). Elsewhere
+
+@@SPLIT:sense@@
 
 2.
 noun masculine

@@ -10,6 +10,7 @@ trembler, être terrifié (assyrien
 être timide, honteux ; hébreu tardif חֲרָדָה
 un tremblement) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 וְחָרַד consécutif Es 19,16, חָֽרְדָה
@@ -91,6 +92,7 @@ Os 11,11
 (
 מִמִּצְרַיִם).
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait
 הֶחֱרִיד

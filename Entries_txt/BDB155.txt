@@ -14,6 +14,8 @@ J
 אֹהֶל
 );
 
+@@SPLIT:stem@@
+
 Pi`el
 Imperfect
 יַהֵל (contracted for יְאַהֵל) pitch one's tent like nomad

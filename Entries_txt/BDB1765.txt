@@ -5,6 +5,8 @@ Biblical Hebrew
 be crushed (Aramaic
 [placeholder1021: Placeholders/1021.gif] [be crushed,] perish) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 feminine singular גָָּֽרְסָה
 Ps 119:20
@@ -13,6 +15,8 @@ figurative נַפְשִׁי לְ
 ג
 my soul is crushed (i.e. perisheth: compare Syriac) with longing for
 (compare כָּלָה לְ).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imperfect

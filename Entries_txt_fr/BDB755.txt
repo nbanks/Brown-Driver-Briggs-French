@@ -8,6 +8,7 @@ arâku
 COT^Gloss^, araméen אֲרַךְ,
 [placeholder415: Placeholders/415.gif]) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 אָֽרְכוּ
@@ -30,6 +31,7 @@ Gn 1,1) ; d'accomplissement retardé de prophétie Ez 12,22 sujet פּאֹרֹת
 Ez 31,5 (mais
 comparer ci-dessus)
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait
 הֶאֱרִיךְ

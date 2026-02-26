@@ -11,6 +11,7 @@ t. ; construit Ex
 suffixe מִדְבָּרָהּ
 Es 51,3 —
 
+@@SPLIT:sense@@
 1. étendues de terre, utilisées pour la pâture des troupeaux et des bêtes, דָּֽשְׁאוּ נְאוֺת מִדְבָּר
 
 les pâturages du désert produisent de l'herbe verte
@@ -28,6 +29,7 @@ sont desséchés
 Jr 23,10,
 comparer Jr 9,9 ; Jl 1,19 ; Jl 1,20.
 
+@@SPLIT:sense@@
 2.
 terre inhabitée, מִדְבָּר לֹאאָֿדָם בּוֺ
 désert dans lequel il n'y a pas d'homme
@@ -43,6 +45,7 @@ mieux vaut habiter dans une terre déserte, qu'avec une femme querelleuse Pr 21,
 dans une terre déserte, et dans un chaos hurlant de solitude
 Dt 32,10.
 
+@@SPLIT:sense@@
 3.
 grandes étendues de ce type portant divers noms, dans certains districts desquels il pouvait y avoir
 des villes et des cités : יִשְׂאוּ
@@ -97,6 +100,7 @@ Dt 2,8,
 קדמות
 Dt 2,26.
 
+@@SPLIT:sense@@
 4.
 figuré
 וְשַׂמְתִּיהָ כַמִּדְבָּר וְשַׁתִּהָ כְּאֶרֶץ

@@ -17,11 +17,15 @@ be shrewd, apparently rare, compare
 [placeholder3319: Placeholders/3319.gif]
 cunning Lane^2850 a^. —
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect 3 masculine plural לֹא
 נִכְּרוּ
 Lam 4:8
 they are not recognized.
+
+@@SPLIT:stem@@
 
 Pi`el
 Perfect
@@ -34,6 +38,8 @@ he regardeth not the opulent above the poor (|| לֹאנָֿשָׂא פְּנֵ�
 Job 21:29
 
 do ye not recognize their tokens.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect
@@ -66,12 +72,12 @@ Job 7:10
 , וַיַּכִּירָהּ
 Gen 37:33
 , etc.; Imperative
-ַהכֶּרֿ
+ַהכֶּרֿ
 Gen 31:32
 + 2 t.; Infinitive absolute
-הֵַכּרֿ (Ginsb
+הֵַכּרֿ (Ginsb
 van d. H.
-ַהכֶּרֿ) Prov 24:23; Prov 28:21
+ַהכֶּרֿ) Prov 24:23; Prov 28:21
 construct suffix הַכִּירֵנִי
 Ruth 2:10
 
@@ -151,6 +157,8 @@ could not distinguish its appearance; הִכִּיר לְדַבֵּר
 Neh
 13:24
 understand how to speak, etc.
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Imperfect

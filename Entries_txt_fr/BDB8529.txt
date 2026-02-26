@@ -16,6 +16,8 @@ Ez 19,4 ; Ez 19,8 (+
 שַׁחְתֹּה
 Ps 35,8b We) ; —
 
+@@SPLIT:sense@@
+
 1.
 fosse, pour capturer un lion (en figure) Ez 19,4 ; Ez 19,8 figuré ׳
 פעל שׁ
@@ -36,6 +38,8 @@ b
 We (pour שׁוֺאֶה) ; ׳
 טָבַל בּשׁ
 Jb 9,31.
+
+@@SPLIT:sense@@
 
 2.
 fosse du Shéol, ׳

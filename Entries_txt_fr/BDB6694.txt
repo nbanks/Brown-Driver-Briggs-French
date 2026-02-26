@@ -18,6 +18,7 @@ Ex 12,11 + ;
 2 Ch 30,17 +
 3 t. ; —
 
+@@SPLIT:sense@@
 1.
 sacrifice de la Pâque, impliquant un repas de communion, donc une espèce de sacrifice de paix (comparer I.
 זֶבַח II. 2), ׳
@@ -38,6 +39,7 @@ Dt 16,2 ; Dt 16,5 ; Dt 16,6
 le trait distinctif résidait dans l'application du sang aux maisons pour les consacrer : comparer de même
 le rite babylonien de purification Zim^ib. ii. 126-7.^
 
+@@SPLIT:sense@@
 2.
 l'animal victime de la pâque :
 ׳
@@ -72,6 +74,7 @@ nombre de tous ceux-ci (שֶׂה non utilisé) à la Pâque de Josias, applicabl
 2 Ch 35,9,
 mais mélange évident d'holocaustes pour la pâque avec la victime pascale spéciale.]
 
+@@SPLIT:sense@@
 3.
 fête de la Pâque :
 ׳

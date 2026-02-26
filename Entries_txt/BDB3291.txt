@@ -17,6 +17,8 @@ seal, stamp, imprint; Ethiopic
 [placeholder2066: Placeholders/2066.gif]
 dip) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 טָבַעְתִּי
@@ -38,12 +40,16 @@ forehead); Jer 38:6
 ט;
 Ps 69:15 (|| הצילני מִטִּיט); nations into the pit (בַּשַּׁחַת) Ps 9:16.
 
+@@SPLIT:stem@@
+
 Pu`al
 Perfect
 טֻבְּעוּ
 be sunk
 Exod 15:4
 (poem) of Egyptians drowned בְּיַםסֿוּף.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect

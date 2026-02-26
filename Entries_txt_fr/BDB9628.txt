@@ -5,6 +5,7 @@ araméen biblique
 verbe
 écrire (voir hébreu biblique) ; —
 
+@@SPLIT:stem@@
 Pe`al
 Parfait 3 masculin singulier ׳
 כ
@@ -18,6 +19,7 @@ actif absolu féminin singulier כָּֽתְבָה
 Dn 5,5, sujet
 יְדָא, féminin pluriel כָּֽתְבָן Dn 5,5, sujet אֶצְבְּעָן.
 
+@@SPLIT:stem@@
 Pe`il (
 W^CG 224^) Parfait 3 masculin singulier
 כִּדְנָה

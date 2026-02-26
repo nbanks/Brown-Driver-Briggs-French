@@ -6,6 +6,7 @@ araméen biblique
 חרב
 ) ; —
 
+@@SPLIT:stem@@
 Hoph`al
 Parfait
 הָחָרְבַ֑ת

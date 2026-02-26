@@ -12,6 +12,7 @@ interrogative (araméen biblique et
 הֲ, arabe
 [placeholder1226: Placeholders/1226.gif]), préfixée, en règle générale, au premier mot d'une phrase (ou proposition).
 
+@@SPLIT:sense@@
 1. dans les questions directes :
 
 a. comme simple interrogatif,
@@ -140,6 +141,7 @@ Jg 18,19 ;
 Jb 16,3 ; Jb 38,28 ;
 Jb 38,31.
 
+@@SPLIT:sense@@
 2. Dans l'interrogation indirecte, si (allemand
 ob. . . .?) —
 

@@ -4,6 +4,8 @@ Biblical Hebrew
 [זָעַךְ] verb
 extinguish, only
 
+@@SPLIT:stem@@
+
 Niph`al
 be extinguished
 יָמַי נִזְעָ֑כוּ

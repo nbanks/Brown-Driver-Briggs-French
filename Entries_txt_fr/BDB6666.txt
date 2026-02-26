@@ -3,6 +3,8 @@ hébreu biblique
 
 [פָּלַס] verbe
 
+@@SPLIT:stem@@
+
 Pi`el
 dénominatif
 peser, aplanir (phénicien פלס Pi`el aplanir (?) dans les

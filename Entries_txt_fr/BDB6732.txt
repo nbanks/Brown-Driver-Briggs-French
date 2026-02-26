@@ -9,6 +9,7 @@ parƒu
 , commander, comparer Ba^ZMG xliii (1889),
 188^) ; —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 3 masculin singulier וַיִּפְצַרֿ
 Gn 19,3 +, 3
@@ -28,6 +29,7 @@ Kit^id.^
 Bu
 HPS Löhr.
 
+@@SPLIT:stem@@
 Hiph`il
 Infinitif absolu
 הַפְצַ֑ר

@@ -9,6 +9,8 @@ castravit,
 [placeholder2163: Placeholders/2163.gif]
 be abraded (of the foot); of horse, have pain in the hoof) —
 
+@@SPLIT:stem@@
+
 Niph`al
 Participle feminine plural נוּגוֺת (on form see
 Kö^i. 582^) Lam 1:4 (|| נֶאֱנָחִים, מַר)
@@ -16,11 +18,15 @@ grieved, masculine plural construct נוּגֵי (see
 Kö^l.c^.) Zeph 3:18 (followed by preposition, compare Ges
 ^«GKC:130»§ 130^. 1); of virgins of Zion Lam 1:4 of exiles Zeph 3:18.
 
+@@SPLIT:stem@@
+
 Pi`el
 Imperfect
 וַיַּגֶּה (for וַיְיַגֶּה, see Kö^i.
 582. 412^) grieve, followed by accusative Lam 3:33 (||
 עִנָּה).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 masculine singular הוֺגה

@@ -15,6 +15,8 @@ couper, קִיצָּא,
 [placeholder4832: Placeholders/4832.gif]
 fin) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Parfait 2 masculin singulier consécutif וְקַצֹּתָה
 Dt 25,12
@@ -25,6 +27,8 @@ Jr 9,25 ; Jr 25,23 ; Jr 49,32 (voir
 פֵּאָה
 
 1).
+
+@@SPLIT:stem@@
 
 Pi`el
 Parfait 3 masculin singulier קִצֵּץ
@@ -43,6 +47,8 @@ P
 הַמְּכֹנוֺת) 2 R 16,17 (ainsi Kit
 Benz, transposant הַמִּסְגְּרוֺת), portes 2 R 18,16
 (les deux, pour le revêtement métallique).
+
+@@SPLIT:stem@@
 
 Pu`al
 Participe pluriel מְקֻצָּצִים

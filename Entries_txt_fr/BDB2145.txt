@@ -15,6 +15,7 @@ SI^6^
 הָוָה
 ci-dessus) —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier הָיָה
 Gn 3,1 + ;
@@ -1857,6 +1858,7 @@ et la porte était sur le point d'être fermée ; mais aussi וַיְהִי
 26,5 (presque
 = וַיְהִי + Participe)
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 נִהְיָה

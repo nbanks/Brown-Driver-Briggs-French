@@ -7,6 +7,7 @@ nom masculin pluriel (féminin
 le nombre d'occurrences de אֵל, אֱלוֺהַּ, אֱלֹהִים comparer aussi
 Nes^l. c^,)
 
+@@SPLIT:sense@@
 1.
 
 pluriel en nombre
@@ -287,6 +288,7 @@ J
 H
 ).
 
+@@SPLIT:sense@@
 2.
 
 Pluriel intensif
@@ -360,6 +362,7 @@ Dieu (voir
 3
 & 4).
 
+@@SPLIT:sense@@
 3.
 הָאֱלֹהִים
 le (vrai) Dieu, הוא האלהים
@@ -623,6 +626,7 @@ E
 t.) Ps 87,3
 ; Qo 9,1.
 
+@@SPLIT:sense@@
 4.
 אֱלֹהִים = Dieu
 אֱלֹהִים אֱמֶת

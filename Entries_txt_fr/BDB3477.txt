@@ -18,6 +18,7 @@ COT^Gloss^) —
 I.
 nom propre, masculin
 
+@@SPLIT:sense@@
 1.
 fils de Jacob et de Léa, expliqué par les paroles de Léa je louerai
 ׳
@@ -55,6 +56,7 @@ P
 ;
 1 Ch 2,4 ; 1 Ch 4,1.
 
+@@SPLIT:sense@@
 2.
 tribu descendant de Juda Dt 33,7 (poème), Nb 1,7 (
 P
@@ -111,6 +113,7 @@ amelûti [ƒabê] Ia-u-du
 Tel el-Amarna^No. 39^
 Jastr^JBL xii, 1893, 64^).
 
+@@SPLIT:sense@@
 3.
 nation, du royaume du sud sous la dynastie de David, par opposition au royaume du nord d'
 Éphraïm ou Israël :
@@ -144,12 +147,16 @@ personnifié, ׳
 Lm 1,15 ;
 Lm 2,2 ; Lm 2,5.
 
+@@SPLIT:sense@@
 4. lévite, à l'époque d'Esdras, Esd 10,23.
 
+@@SPLIT:sense@@
 5. un surveillant de Jérusalem Ne 11,9.
 
+@@SPLIT:sense@@
 6. lévite musicien Ne 12,8.
 
+@@SPLIT:sense@@
 7. prêtre Ne 12,36.
 
 II.

@@ -8,6 +8,7 @@ verbe
 allumer, araméen (Nasar.)
 [placeholder112: Placeholders/112.gif] Aph`el illuminer, et dérivés en assyrien) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 אוֺר
@@ -33,6 +34,7 @@ J
 Qr
 ) 29.
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait
 וַיֵּאֹר
@@ -46,6 +48,7 @@ Ps 76,5 —
 s'illuminer du point du jour 2 S 2,32 par la lumière de la vie, renouveau Jb 33,30 par la lumière de la
 gloire, enveloppé de lumière Ps 76,5.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait
 וְהֵאִיר

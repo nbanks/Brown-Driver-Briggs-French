@@ -3,6 +3,8 @@ hébreu biblique
 
 [שָׁלַב] verbe
 
+@@SPLIT:stem@@
+
 Pu`al
 être lié, assemblé (hébreu tardif punique = hébreu biblique ; שְׁלִיבָה
 barreau d'échelle ; araméen שְׁלִיבִין apparemment seulement 1 R 7,28 ; 1 R 7,29,

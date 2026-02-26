@@ -8,11 +8,13 @@ et dérivés ; arabe
 être seul, unique, aussi (Dozy) déplier,
 dérouler) : —
 
+@@SPLIT:stem@@
 Qal
 Participe passif féminin pluriel פְּרֻדוֺת
 Ez 1,11
 divisées, c.-à-d. étendues, des ailes.
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 pluriel נִפְרְדוּ
 Gn 10,5 ; Gn 10,32,
@@ -55,17 +57,20 @@ P
 2.
 être divisé, séparé, 2 S 1,23 ; Ne 4,13 de la perte d'amitié Pr 19,4.
 
+@@SPLIT:stem@@
 Pi`el
 Imparfait 3 masculin singulier יְפָרֵ֑דוּ
 Os 4,14
 faire une séparation, c.-à-d. s'écarter (en compagnie de [עִם] prostituées, comparer
 RS^Semitic i. 436, 2nd ed. 455^).
 
+@@SPLIT:stem@@
 Pu`al
 Participe
 divisé, עַםמְ֗֗֗פֻזָּר וּמְפֹרָד בֵּין הָעַמִּים
 Est 3,8
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 masculin singulier הִפְרִיד
 Gn 30,40
@@ -99,6 +104,7 @@ Dt 32,8, de la séparation d'amis Pr 16,28 ; Pr
 faire une division, une séparation, entre (בֵּין), 2 R 2,11 ; Rt 1,17
 de la séparation de disputeurs (avec בֵּין) Pr 18,18.
 
+@@SPLIT:stem@@
 Hithpa`el
 Parfait 3 pluriel וְהִתְפָּֽרְדוּ
 Ps 22,15

@@ -10,8 +10,12 @@ Ez 21,15
 21,18
 ^ mais corrompu) :
 
+@@SPLIT:sense@@
+
 1.
 bâton, verge, massue, sceptre.
+
+@@SPLIT:sense@@
 
 2.
 tribu ; — ׳
@@ -26,6 +30,8 @@ Gn 49,16 +, suffixe
 שְׁבָטֶיךָ
 Dt 12,14 +,
 etc. ; —
+
+@@SPLIT:sense@@
 
 1.
 
@@ -115,6 +121,8 @@ Pr 22,8
 (si vera lectio, comparer Frankenb. Toy). — voir
 מַטֶּה
 , מַקֵּל, מִשְׁעֶנֶת.
+
+@@SPLIT:sense@@
 
 2. 145 : tribu (synonyme מַטֶּה, q. v. 3, p. 641:b),
 surtout

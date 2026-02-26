@@ -27,6 +27,7 @@ Lane^1395^ = שָׁלַל, mais
 , mur de siège, emprunt égyptien de סֹלְלָה selon
 WMM^As.u.Eur.101^) ; —
 
+@@SPLIT:stem@@
 Qal
 Imparfait
 וַיָּסֹ֫לּוּ
@@ -64,11 +65,13 @@ Jb 30,12
 זמּר ; la plupart comme
 1.).
 
+@@SPLIT:stem@@
 Pilpel
 Impératif suffixe סַלְסְלֶהָ
 Pr 4,8
 exalte-la (c.-à-d. la Sagesse), c.-à-d. (comparer Toy) estime hautement, prise.
 
+@@SPLIT:stem@@
 Hithpa`el
 Participe
 מִסְתּוֺלֵל

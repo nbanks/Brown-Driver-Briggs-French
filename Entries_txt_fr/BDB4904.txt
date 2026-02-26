@@ -13,6 +13,7 @@ Qo 5,11 pluriel
 מְתוּקִים
 Ps 19,11 —
 
+@@SPLIT:sense@@
 1.
 doux, du miel Jg 14,14 (où ׳
 מ = substantif une chose douce), Jg 14,18 (tous deux l'énigme de Samson), Pr 24,13
@@ -33,6 +34,7 @@ Es 5,20
 faisant de l'amer du doux et du doux de l'amer (obscurcissant les distinctions morales ; ||
 הָאֹמְרִים לָרַע טוֺב וְלַטּוֺב רָ֑ע).
 
+@@SPLIT:sense@@
 2. = agréable, sommeil du travailleur Qo 5,11 lumière Qo 1,17 (|| טוֺב לַעֵינַיִם
 לִרְאוֺת אֶתהַֿשֶּׁמֶשׁ).
 

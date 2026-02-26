@@ -7,6 +7,7 @@ aboyer (en parlant des chiens) (hébreu tardif id. ; arabe
 [placeholder3146: Placeholders/3146.gif] ; araméen
 [placeholder3147: Placeholders/3147.gif], נְבַח) ; —
 
+@@SPLIT:stem@@
 Qal
 Infinitif construit seulement כֻּלָּם כְּלָבִים אִלְּמִים לֹא יוּכְלוּ לִנְבֹּחַ
 Es 56,10

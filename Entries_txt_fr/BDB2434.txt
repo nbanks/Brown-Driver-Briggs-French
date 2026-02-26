@@ -27,6 +27,7 @@ Ex 10,9 ; Jos 9,11,
 זִקְנֵיכֶם
 Dt 5,20 + 2 t. ; —
 
+@@SPLIT:sense@@
 1.
 vieux, d'êtres humains, comme adjectif prédicat Gn 18,11 (
 J
@@ -67,6 +68,7 @@ P
 
 Sam Di ; comparer aussi Esd 3,12.
 
+@@SPLIT:sense@@
 2. habituellement comme substantif :
 
 a.

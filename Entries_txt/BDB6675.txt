@@ -4,6 +4,8 @@ Biblical Hebrew
 פֶּ֫לֶת
 proper name, masculine
 
+@@SPLIT:sense@@
+
 1.
 Reubenite
 Num 16:1,
@@ -11,6 +13,8 @@ Num 16:1,
 פַּלּוּא
 (q. v.) so Gf
 Dr and others
+
+@@SPLIT:sense@@
 
 2. Judahite 1Chr 2:33: Θαλεθ, Φαλεθ[ατ].
 

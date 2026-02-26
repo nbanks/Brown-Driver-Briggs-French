@@ -27,6 +27,7 @@ erreur ; arabe
 [placeholder5548: Placeholders/5548.gif] (
 [placeholder5549: Placeholders/5549.gif]) être oublieux, négligent, content, libre (d'anxiété)) ; —
 
+@@SPLIT:stem@@
 Qal
 
 1.
@@ -45,10 +46,12 @@ II.
 שׁלח
 ).
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait 2 masculin pluriel תִּשָּׁלוּ jussif 2 Ch 29,11
 ne soyez pas négligents (nonchalants ; allemand 'bequem').
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait 2 masculin singulier תַּשְׁלֶה jussif 2 R 4,28
 ne me trompe pas (comparer תְּכַזֵּב 2 R 4,16),

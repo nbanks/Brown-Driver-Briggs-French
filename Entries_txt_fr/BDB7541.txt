@@ -12,6 +12,7 @@ Dn 8,17 suffixe
 Es 37,24 +,
 קִצּהֹ || 2 R 19,23, etc. ; —
 
+@@SPLIT:sense@@
 1.
 fin, habituellement de temps, surtout dans l'expression מִקֵּץ
 à la fin d'un temps défini Gn 8,6 (
@@ -75,6 +76,7 @@ pas de fin, de la paix Es 9,6, iniquités Jb 22,5, labeur Qo 4,8, עֲשׂוֺת
 Qo 12,12
 .
 
+@@SPLIT:sense@@
 2.
 fin, dans l'espace, מְלוֺן קִצּה
 2 R 19,23

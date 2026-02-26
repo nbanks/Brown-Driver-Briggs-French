@@ -18,6 +18,8 @@ amitié vient de l'hébreu biblique
 רֵעַ
 ) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Impératif masculin singulier וּרְעֵה אֱמוּנָה
 Ps 37,3
@@ -41,6 +43,8 @@ Pr 28,7,
 Pr 29,3 (
 Thes et d'autres pensent ces emplois figurés de I. רעה, voir
 2.b.).
+
+@@SPLIT:stem@@
 
 Hithpa`el 2 masculin singulier אַלתִּֿתְרַע
 אֶתבַּֿעַל אָ֑ף

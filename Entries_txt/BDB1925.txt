@@ -4,6 +4,8 @@ Biblical Hebrew
 מִדְיָן
 proper name, masculine
 
+@@SPLIT:sense@@
+
 1.
 son of Abraham and Keturah
 Gen 25:2; Gen 25:4 (
@@ -11,6 +13,8 @@ J
 ) 1Chr 1:32
 ; 1Chr 1:33
 .
+
+@@SPLIT:sense@@
 
 2. an Arabian tribe Gen 36:35 (= 1Chr 1:46) Num 31:3 (twice in verse); Num 31:7; Num 31:8 (twice in verse); Num 31:9 (
 P
@@ -43,6 +47,8 @@ over Midian Judg 7-8) compare
 
 Judg 10:26;
 Ps 83:10,
+
+@@SPLIT:sense@@
 
 3.
 אֶרֶץ

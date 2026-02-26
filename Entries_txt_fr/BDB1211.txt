@@ -19,6 +19,7 @@ JosKi Thes, comparant l'arabe
 ) ; ainsi Buhl : Gie Du Co dans Jr 31,32 lisent גָּעַלְתִּי (traitant Jr 3,14 comme I. בָּעַל).
 —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 Ml 2,11 + 6 t. ;
@@ -46,6 +47,7 @@ régner sur
 1 Ch 4,22
 (suivi de לְ) Es 26,13.
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait
 תִּבָּעֵל

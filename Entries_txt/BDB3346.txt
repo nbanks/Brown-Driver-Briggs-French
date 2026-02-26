@@ -8,6 +8,8 @@ be or become unclean (Late Hebrew Pi`el pollute (ceremonially); Aramaic
 [placeholder2117: Placeholders/2117.gif] Pa`el pollute; see RS^K 307 ff.^
 ) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular ׳
 ט
@@ -141,6 +143,8 @@ P
 P
 ).
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect 3 masculine singular נִטְמָא
 Hos 5:3; Hos 6:10 3
@@ -185,6 +189,8 @@ Job 18:3
 we are accounted as unclean; metal. from; on another view see
 טמה
 .
+
+@@SPLIT:stem@@
 
 Pi`el
 Perfect
@@ -274,11 +280,15 @@ P
 H
 ).
 
+@@SPLIT:stem@@
+
 Pu`al
 Participle
 נַפְשִׁי לֹא מְטֻמָּאָה
 Ezek 4:14
 myself is not polluted.
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Imperfect
@@ -319,6 +329,8 @@ P
 H
 ),
 Ezek 44:25.
+
+@@SPLIT:stem@@
 
 Hothpa`al
 Perfect

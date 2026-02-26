@@ -7,6 +7,7 @@ mentir, être menteur (arabe
 [placeholder2488: Placeholders/2488.gif]
 id. surtout Pa`el ; hébreu tardif כָּזַב) —
 
+@@SPLIT:stem@@
 Qal
 Participe
 כָּלהָֿאָדָם כֹּזֵב
@@ -14,6 +15,7 @@ Ps 116,11
 (comparer כָּזָּב
 Ps 62,10).
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 féminin singulier תֹּחַלְתּוֺ נִכְזָ֑בָה
 Jb 41,1
@@ -22,6 +24,7 @@ consécutif וְנִכְזָ֑בְתָּ
 Pr 30,6
 de peur qu'il ne te confonde et que tu ne sois convaincu de mensonge.
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 3 masculin singulier כִּזֵּב
 Mi 2,11
@@ -51,6 +54,7 @@ avec, c.-à-d. dans les relations, la conversation avec 2 R 4,16.
 2.
 décevoir, faillir, d'une révélation divine Ha 2,3 des eaux d'une source Es 58,11.
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait 3 masculin singulier suffixe יַכְזִיבֵנִי
 Jb

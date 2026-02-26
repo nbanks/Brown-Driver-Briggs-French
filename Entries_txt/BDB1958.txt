@@ -7,6 +7,8 @@ burn (intransitive), hotly pursue (Late Hebrew id.,
 Aramaic דְּלַק,
 [placeholder1150: Placeholders/1150.gif] all intransitive burn, kindle; Hiph`il, Aph`el transitive) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 2 masculine singular דָּלַקְתָּ
 Gen 31:36 3
@@ -43,6 +45,8 @@ Gen 31:36 (
 
 E
 ; followed by אַחֲרֵי) 1Sam 17:53 (followed by id.); Ps 10:2; Lam 4:19 (both followed by accusative)
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imperfect suffix יַדְלִיקֵם

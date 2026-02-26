@@ -16,6 +16,8 @@ Ethiopic
 [placeholder3496: Placeholders/3496.gif]
 detrahere, etc.); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 1 plural suffix וּנְתַקְּנוּהוּ consecutive Judg 20:32 (on dagesh forte dirimens
 see Ges^«GKC:20h»§ 20h^); Imperfect 1 singular suffix
@@ -38,6 +40,8 @@ draw or pull off ring from (מִן) finger Jer 22:24
 pull, tear away
 Lev 22:24
 (passive, of testicles, + מָעוּךְ, כָּתוּת, כָּרוּת).
+
+@@SPLIT:stem@@
 
 Niph`al
 Perfect 3 masculine singular נִתַּק
@@ -74,6 +78,8 @@ Job
 be separated, in smelting, figurative, רָעִים לֹא נִתָּ֑קוּ
 Jer 6:29
 .
+
+@@SPLIT:stem@@
 
 Pi`el
 Perfect 1 singular נִתַּקְתִּי
@@ -121,6 +127,8 @@ away
 , object breasts Ezek 23:34 (in violent figurative of Jerusalem as
 drunken woman).
 
+@@SPLIT:stem@@
+
 Hiph`il
 
 1.
@@ -133,6 +141,8 @@ Qal
 Imperative masculine singular suffix הַתִּקֵם
 drag them away like sheep to slaughter Jer 12:3 (of ׳
 י's dealing with wicked).
+
+@@SPLIT:stem@@
 
 Hoph`al
 Perfect (si vera lectio) הָנְתְּקוּ מִןהָֿעִיר

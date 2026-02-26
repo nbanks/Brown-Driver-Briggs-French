@@ -16,11 +16,13 @@ Est 5,6 +,
 שֶׁאֱלָתָם
 Ps 106,15 —
 
+@@SPLIT:sense@@
 1.
 demande, requête, Jg 8,24 ; 1 R 2,16 ; 1 R 2,20 (les deux accusatif de sens apparenté avec le verbe avec
 שָׁאַל), Est 5,6 ; Est 5,7 (avec נָתַן = accorder), Est 7,2 ; Est 7,3 ; Est 9,12.
 Ceci passe aisément à
 
+@@SPLIT:sense@@
 2.
 chose demandée, 1 S 2,20, avec נָתַן
 Est 5,8 ; Ps 106,15

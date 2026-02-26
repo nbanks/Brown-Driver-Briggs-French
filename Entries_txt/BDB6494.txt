@@ -8,6 +8,8 @@ slaughter for sacrifice
 De^Gn (4) 381^
 We^Skizzen iii. 115, 166; Heid. (2). 118, 142^; RS^Sem i. 210 f.; 2nd ed.; 227 f.^); —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 3 masculine singular ׳
 וַיֶעְתַּר לי
@@ -18,6 +20,8 @@ Exod 8:26; Exod 10:18;
 
 יֶעְתַּד אֶלאֱֿלוֺהַּ
 Job 33:26.
+
+@@SPLIT:stem@@
 
 Niph`al
 be supplicated, entreated (and grant entreaty; always of God), usually with ל
@@ -44,6 +48,8 @@ Infinitive absolute
 construct (as substantive) הֵעָתֶרלֿוֺ
 2Chr 33:19
 .
+
+@@SPLIT:stem@@
 
 Hiph`il =
 Qal, make supplication, with אֶל, לְ:

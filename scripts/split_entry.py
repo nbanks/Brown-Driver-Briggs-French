@@ -165,69 +165,64 @@ def _build_chunks(html_text, spans, div_type):
     return chunks
 
 
-def _has_hebrew(s):
-    """Check if a string contains Hebrew/Aramaic characters."""
-    return any('\u0590' <= c <= '\u05FF' or '\uFB1D' <= c <= '\uFB4F' for c in s)
-
-
-# Conjugation terms that follow real stem headings
-_CONJ_TERMS = frozenset({
-    'Perfect', 'Imperfect', 'Participle', 'Infinitive', 'Imperative',
-    'Jussive', 'Cohortative',
-})
-
-
-def _is_real_stem_heading(lines, stem_idx):
-    """Distinguish a real stem heading from an inline stem reference.
-
-    Real stem headings (e.g. "Qal" as a section header) are followed by
-    conjugation paradigms containing Hebrew verb forms. Inline references
-    (e.g. "passive of Qal") are followed by English prose or punctuation.
-
-    Uses Hebrew text as an anchor: Hebrew is preserved verbatim, so its
-    presence near a stem name reliably indicates a conjugation paradigm.
-    """
-    for j in range(stem_idx + 1, min(stem_idx + 4, len(lines))):
-        line = lines[j].strip()
-        if not line:
-            continue
-        if _has_hebrew(line):
-            return True
-        first_word = line.split()[0] if line.split() else ''
-        if first_word.rstrip('.,;:') in _CONJ_TERMS:
-            return True
-        # Short non-Hebrew line after stem name → inline reference
-        if len(line) < 15:
-            return False
-        break
-    return False
-
 
 def _is_verb_entry_txt(txt_text):
-    """Detect if a txt entry is a verb entry by looking for real stem
-    headings (validated with Hebrew-context heuristic)."""
+    """Detect if a txt entry is a verb entry by looking for stem headings
+    preceded by blank lines."""
     lines = txt_text.split('\n')
     for i, line in enumerate(lines):
         stripped = line.strip()
         if STEM_LINE_RE.match(stripped):
             if i > 0 and lines[i - 1].strip() == '':
-                if _is_real_stem_heading(lines, i):
-                    return True
+                return True
     return False
 
 
 def split_txt(txt_text):
-    """Split a txt entry into chunks at stem boundaries (verbs) or
-    top-level sense numbers (non-verbs).
+    """Split a txt entry into chunks at @@SPLIT:type@@ markers (if present)
+    or fall back to heuristic stem/sense detection for unmarked files.
 
     Returns list of dicts: {"type": str, "txt": str}
     """
+    # Primary: use @@SPLIT markers injected by extract_txt.py v4
+    marker_re = re.compile(r'^@@SPLIT:(\w+)@@$')
     lines = txt_text.split('\n')
+    marker_indices = []
+    for i, line in enumerate(lines):
+        m = marker_re.match(line.strip())
+        if m:
+            marker_indices.append((i, m.group(1)))
 
+    if marker_indices:
+        return _split_txt_by_markers(lines, marker_indices)
+
+    # Fallback: heuristic splitting (for txt_fr or legacy files)
     if _is_verb_entry_txt(txt_text):
         return _split_txt_by_stems(lines)
     else:
         return _split_txt_by_senses(lines, txt_text)
+
+
+def _split_txt_by_markers(lines, marker_indices):
+    """Split txt at @@SPLIT:type@@ marker lines."""
+    chunks = []
+
+    # Header: everything before first marker
+    header_lines = lines[:marker_indices[0][0]]
+    header = '\n'.join(header_lines)
+    if header.strip():
+        chunks.append({"type": "header", "txt": header})
+
+    for i, (idx, stype) in enumerate(marker_indices):
+        if i + 1 < len(marker_indices):
+            chunk_lines = lines[idx:marker_indices[i + 1][0]]
+        else:
+            chunk_lines = lines[idx:]
+        chunk_txt = '\n'.join(chunk_lines)
+        chunks.append({"type": stype, "txt": chunk_txt})
+
+    _split_footer(chunks)
+    return chunks
 
 
 def _split_txt_by_stems(lines):
@@ -239,8 +234,7 @@ def _split_txt_by_stems(lines):
         stripped = line.strip()
         if STEM_LINE_RE.match(stripped):
             if i > 0 and lines[i - 1].strip() == '':
-                if _is_real_stem_heading(lines, i):
-                    split_indices.append(i)
+                split_indices.append(i)
 
     if not split_indices:
         return [{"type": "whole", "txt": '\n'.join(lines)}]

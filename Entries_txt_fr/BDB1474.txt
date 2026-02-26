@@ -40,6 +40,7 @@ Jr 32,29,
 גַּגֹּתֵיהֶם
 Jr 19,13 —
 
+@@SPLIT:sense@@
 1.
 toit (de maison) Dt 22,8 ; Jos 2,6 (deux fois dans le verset) ; Jos 2,8 ;
 
@@ -60,6 +61,7 @@ Pr 25,24
 Co
 קיר).
 
+@@SPLIT:sense@@
 2. sommet de l'autel des parfums, dans le tabernacle Ex 30,3 ; Ex 37,26 (tous deux P).
 
 ---

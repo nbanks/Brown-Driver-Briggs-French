@@ -5,6 +5,8 @@ Biblical Hebrew
 denominative (Gerber^20^) be, or act as,
 prince, rule; —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 3 masculine singular וַיָּ֫שַׂר עַלֿ
 יִשְׂרָאֵל
@@ -18,6 +20,8 @@ Esth 1:22
 that every man should bear rule
 בְּבֵיתוֺ.
 
+@@SPLIT:stem@@
+
 Hithpa`el
 Imperfect, 2 masculine singular + Infinitive absolute
 כִּיתִֿשְׂתָּרֵר עָלֵינוּ גַּםהִֿשְׂתָּרֵר
@@ -29,6 +33,8 @@ see
 
 Qal and שַׂר
 4.b.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 plural metaplastic הֵשִׂירוּ (Ges

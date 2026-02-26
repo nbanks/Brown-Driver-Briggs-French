@@ -11,6 +11,8 @@ one who deviates from right way: Ethiopic
 [placeholder2127: Placeholders/2127.gif]
 apostasy, superstition, idolatry) —
 
+@@SPLIT:stem@@
+
 Qal
 Participle feminine כְּׅטֹׅעֲיָה
 Song 1:7
@@ -31,6 +33,8 @@ Symm
 Bö
 Hi
 Gr and others
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect

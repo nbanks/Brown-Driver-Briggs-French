@@ -11,6 +11,7 @@ celui qui dévie du droit chemin : éthiopien
 [placeholder2127: Placeholders/2127.gif]
 apostasie, superstition, idolâtrie) —
 
+@@SPLIT:stem@@
 Qal
 Participe féminin כְּׅטֹׅעֲיָה
 Ct 1,7
@@ -32,6 +33,7 @@ Bö
 Hi
 Gr et autres
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait
 הִטְעוּ אֶתעַֿמִּי

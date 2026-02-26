@@ -4,6 +4,7 @@ hébreu biblique
 [סָבַךְ] verbe
 entrelacer (|| forme de שׂבך q. v.) ; —
 
+@@SPLIT:stem@@
 Qal
 Participe passif pluriel סִירִים סְבֻכִים
 Na 1,10
@@ -16,6 +17,7 @@ Da) ; Gunk^ZAW xiii (1893), 235^ propose (d'après
 
 Vollers) כְּסוּחִים c.-à-d. coupés, retranchés (Es 33,12) comparer Now ; texte très douteux
 
+@@SPLIT:stem@@
 Poual
 Imparfait 3 masculin pluriel עַלגַּֿל שָׁרָשָׁיו יְסֻבָּ֑כוּ
 Jb 8,17

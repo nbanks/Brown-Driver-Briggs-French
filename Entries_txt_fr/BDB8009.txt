@@ -5,6 +5,8 @@ hébreu biblique
 nom propre, masculin
 Ραγουηλ :
 
+@@SPLIT:sense@@
+
 1. beau-père de Moïse Ex 2,18 (
 J
 ;
@@ -22,6 +24,8 @@ E
 יִתְרוֺ
 q. v.
 
+@@SPLIT:sense@@
+
 2. Édomite
 Gn 36,4 ;
 Gn 36,10 ;
@@ -32,8 +36,12 @@ P
 1,35 ; 1 Ch
 1,37.
 
+@@SPLIT:sense@@
+
 3. Gadite
 Nb 2,14, voir דְּעוּאל p. 396.
+
+@@SPLIT:sense@@
 
 4. Benjaminite 1 Ch 9,8.
 

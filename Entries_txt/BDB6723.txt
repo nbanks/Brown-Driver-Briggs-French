@@ -7,6 +7,8 @@ part, open (Arabic
 set free,
 [placeholder4273: Placeholders/4273.gif] Pa`el set free); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 feminine singular פָּֽצְתָה
 Gen 4:11 +, 2

@@ -45,6 +45,7 @@ pluriel absolu לֵילוֺת
 1 S 30,12 + 4
 t. ; construit id., Es 21,8 + 5 t. ; —
 
+@@SPLIT:sense@@
 1. littéralement nuit, opposé à jour, Gn 8,22 (
 J
 ), Dt 1,33
@@ -226,6 +227,7 @@ comme de nuit
 Jb 5,14 (opposé
 à צָהֳרָ֑יִם).
 
+@@SPLIT:sense@@
 2.
 figuré
 שִׁיתִי כַּלַיִל צִלֵּךְ

@@ -26,6 +26,8 @@ Josh 17:13 +;
 plural מִסִּים
 Exod 1:11 —
 
+@@SPLIT:sense@@
+
 1.
 labour-band, labour-gang, body of task-workers for public service, formed by levy upon the people
 by Solomon וַיַּ֫עַל הַמֶּלֶךְ
@@ -46,6 +48,8 @@ and Solomon levied them for a toiling labour-band (compare Gen 49:15; Josh 16:10
 apparently instituted, earlier, by David, compare וַאֲדֹרָם עַלהַֿמַּ֑ס
 2Sam 20:24
 , i.e. had charge of the body of labourers, so 1Kgs 4:6; 1Kgs 5:28; 1Kgs 12:18 = 2Chr 10:18.
+
+@@SPLIT:sense@@
 
 2.
 
@@ -73,6 +77,8 @@ Josh 17:13,
 compare (׳
 וַיָּ֫שֶׂם וגו) Judg 1:28.
 
+@@SPLIT:sense@@
+
 3. in general: וַיְהִי לְמַסעֹֿבֵד
 Gen 49:15
 and he (Issachar) became a slaving labour-band (poem in
@@ -83,6 +89,8 @@ Josh 16:10;
 Prov 12:24
 
 (here apparently of individual)
+
+@@SPLIT:sense@@
 
 4. forced service, serfdom (or possibly (in late passage)
 tribute =

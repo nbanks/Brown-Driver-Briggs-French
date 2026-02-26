@@ -4,6 +4,7 @@ hébreu biblique
 רְחֹבוֺת
 nom propre [d'un lieu]
 
+@@SPLIT:sense@@
 1.
 רְחֹבֹת עִיר près de Ninive Gn 10,11 (
 J
@@ -15,6 +16,7 @@ Gn 10,11
 .
 ^
 
+@@SPLIT:sense@@
 2.
 רְחֹבוֺת, nom d'un puits Gn 26,22 (
 J
@@ -22,6 +24,7 @@ J
 er-Ruµaibeh (dans le Wady R.) environ 45 milles au sud-ouest d'Hébron, au nord de
 la latitude 31°.
 
+@@SPLIT:sense@@
 3.
 הַנָּהָר
 ׳

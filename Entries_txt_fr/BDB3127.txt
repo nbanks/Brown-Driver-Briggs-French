@@ -207,6 +207,7 @@ biens privés, qu'il s'agisse d'un homme, d'un animal ou d'un champ Lv 27,28 (
 P
 ).
 
+@@SPLIT:stem@@
 Hoph`al
 Imparfait
 יָחֳרַם

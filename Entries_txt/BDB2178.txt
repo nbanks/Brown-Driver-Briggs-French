@@ -17,7 +17,7 @@ Kt
 Jer 48:2 + 2 t.;
 suffix תְּהִלָּתִי
 Jer 17:14 + 6
-t.; תְּהִלָּתְךָ
+t.; תְּהִלָּתְךָ
 Deut 10:21;
 Ps 48:11,
 תְּהִלָּתֶ֑ךָ
@@ -35,6 +35,8 @@ Exod 15:11
 construct תְּהִלּוֺת
 Ps 22:4 + 3 t.;
 —
+
+@@SPLIT:sense@@
 
 1.
 praise, adoration, thanksgiving, paid to ׳
@@ -97,6 +99,8 @@ Isa 48:9 (||
 י
 Isa 42:8.
 
+@@SPLIT:sense@@
+
 2. the act of general, public, praise (compare also above especially Ps 22:4; Ps 33:1; Ps 106:12;
 Neh 12:46); —
 בּאֹוּ שְׁעָרָיו בְּתוֺדָה
@@ -114,11 +118,15 @@ exhortation to the peoples הַשְׁמִיעוּ
 Ps 66:8 (||
 בָּֽרֲכוּ עַמִּים אֱלֹהֵינוּ), compare Isa 42:12.
 
+@@SPLIT:sense@@
+
 3.
 praise-song, as title, תְּהִלָּה לְדָוִד
 Ps 145:1
 (so Late Hebrew ספר תהלות & תְּהִלִּים, תִּילִּים, =
 Psalms).
+
+@@SPLIT:sense@@
 
 4. qualities, deeds, etc., of ׳
 י, demanding praise: — נוֺרָא תְהִלֹּת
@@ -144,6 +152,8 @@ Isa 63:7 vid also
 Ps 106:47 =
 1Chr 16:35
 to give thanks unto thy holy name, to glory in thy praises (= praiseworthy deeds).
+
+@@SPLIT:sense@@
 
 5.
 renown, fame, glory:

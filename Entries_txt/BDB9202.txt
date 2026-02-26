@@ -4,10 +4,14 @@ Biblical Hebrew
 I. [תָּנָה] verb
 hire (si vera lectio, akin to נתן); —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 3 masculine plural יִתְּנוּ בַגּוֺיִם
 Hos 8:10
 hire (allies) among the nations;
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 plural הִתְנוּ Hos 8:9

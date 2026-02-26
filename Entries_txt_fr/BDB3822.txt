@@ -17,6 +17,7 @@ t. ; תְּשׁוּעָֽתְךָ
 Ps 40,11 + 2
 t. ; תְּשׁוּעָתֶ֑ךָ Ps 40,17 ; Ps 71,15 —
 
+@@SPLIT:sense@@
 1.
 délivrance, habituellement par Dieu, par l'intermédiaire d'agents humains, surtout de l'oppression 1 S 11,9, et
 au combat 1 Ch
@@ -70,6 +71,7 @@ Ps 108,13
 , comparer
 Ps 146,3.
 
+@@SPLIT:sense@@
 2. plus exclusivement spirituel dans le sens, = salut, semblent être
 אֱלֹהֵי תְשׁוּעָתִי
 Ps 51,16 ; Ps 119,41

@@ -4,6 +4,7 @@ hébreu biblique
 יִשְׁעִי
 nom propre, masculin (salutaire) —
 
+@@SPLIT:sense@@
 1. un de la lignée de Jerahméel 1 Ch 2,31 (deux fois dans le verset),
 
 ᵐ5
@@ -20,14 +21,17 @@ L
 
 Ιεσσαυει.
 
+@@SPLIT:sense@@
 2. un chef de Manassé 1 Ch 5,24,
 
 ᵐ5
 
 Σεει, Ιες(ς)ει.
 
+@@SPLIT:sense@@
 3. un chef de Juda 1 Ch 4,20.
 
+@@SPLIT:sense@@
 4. un chef de Siméon 1 Ch 4,42.
 
 ---

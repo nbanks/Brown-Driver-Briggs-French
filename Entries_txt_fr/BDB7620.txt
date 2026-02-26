@@ -15,9 +15,13 @@ Ez 27,6 pluriel
 Ez 35,11 + ;
 —
 
+@@SPLIT:sense@@
+
 1.
 collectif
 planches, du pont Ez 27,6 (de Tyr sous la figure d'un navire).
+
+@@SPLIT:sense@@
 
 2.
 planche du tabernacle Ex 26,15 ; Ex 26,16 (deux fois dans le verset) + 45 t. 26-40 ; Nb 3,36 ; Nb 4,31 (tous

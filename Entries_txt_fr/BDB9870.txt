@@ -5,6 +5,8 @@ araméen biblique
 verbe
 s'approcher (voir hébreu biblique I. קרב) ; —
 
+@@SPLIT:stem@@
+
 Peal
 Parfait 3 masculin singulier ׳
 ק
@@ -17,10 +19,14 @@ Infinitif suffixe כְּמִקְרְבֵהּ
 Dn 6,21
 quand il s'approcha, ל locatif
 
+@@SPLIT:stem@@
+
 Pael
 offrir un sacrifice : Imparfait 2 masculin singulier תְּקָרֵב
 Esd 7,17,
 avec accusatif + עַל de l'autel.
+
+@@SPLIT:stem@@
 
 Haphel
 

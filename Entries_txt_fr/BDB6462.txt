@@ -10,6 +10,7 @@ abonder en herbage,
 [placeholder4134: Placeholders/4134.gif]
 abondance, d'herbage, de biens, etc.) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 1 singulier עָשַׁרְתִּי
 Os 12,9
@@ -17,6 +18,7 @@ je suis devenu riche ; Imparfait 3 masculin singulier יֶעְשַׁר
 Jb 15,29
 il ne sera pas riche. — 1 R 22,49 lire עָשָׂה
 
+@@SPLIT:stem@@
 Hiph`il
 
 1.
@@ -64,6 +66,7 @@ Pr 23,4 ;
 Pr 28,20
 .
 
+@@SPLIT:stem@@
 Hithpa`el
 Participe
 מִתְעַשֵּׁר

@@ -16,6 +16,8 @@ retenir (rare), suivre, Pa`el examiner, rechercher :
 éthiopien
 [placeholder4031: Placeholders/4031.gif] est garder, surveiller) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Parfait 3 masculin singulier Os 12,4
 בַּבֶּטֶן עָקַב אֶתאָֿחִיו il a attaqué son frère au talon
@@ -32,6 +34,8 @@ Jr 9,3
 
 πτερνίζω, attaquer avec le talon ; mais cela est douteux. Dans « supplanter », aussi, le
 figuré est différent.]
+
+@@SPLIT:stem@@
 
 Pi`el
 Jb 37,4

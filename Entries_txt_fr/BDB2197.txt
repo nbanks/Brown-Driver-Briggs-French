@@ -15,6 +15,7 @@ AV
 
 multiplier ; mais très douteux) — seulement
 
+@@SPLIT:stem@@
 Qal
 Infinitif suffixe יַעַן הֲמָנְכֶם
 מִןהַֿגּוֺיִם

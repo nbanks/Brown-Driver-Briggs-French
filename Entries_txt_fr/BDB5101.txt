@@ -17,6 +17,7 @@ nazâru
 , maudire
 Dl^HWB 457^) ; —
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait
 יִנָּזֵר
@@ -39,6 +40,7 @@ H
 7,3
 me consacrant (moi-même), c.-à-d. par le jeûne.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait
 מִטֻּמְאָתָם

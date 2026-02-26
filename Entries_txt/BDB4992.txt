@@ -10,6 +10,8 @@ hate, abominate, shrink from, Aph`el put to flight, etc.;
 נְדַד
 flee ); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 feminine singular נָָֽדְדָה
 Isa 10:31;
@@ -71,16 +73,22 @@ I will wander afar.
 
 4. transitive flutter wings (of bird, in figure) Isa 10:14.
 
+@@SPLIT:stem@@
+
 Po`el
 Perfect consecutive שֶׁמֶשׁ זָָֽרְחָה וְנֹדַ֔ד
 Nah 3:17 the
 sun hath arisen and it ( the locust swarm) fleeth away.
+
+@@SPLIT:stem@@
 
 Hiph`il
 chase away, Imperfect 3 masculine plural suffix וּמִתֵּבֵל יְנִדֻּ֑הוּ
 
 Job 18:18
 (of wicked, || יֶהְדְּפֻהוּ מֵאוֺר).
+
+@@SPLIT:stem@@
 
 Hoph`al
 be chased away, Imperfect 3 masculine singular וְיֻדַּד כְּחֶזְיוֺן
@@ -96,6 +104,8 @@ HPS
 מִדְבָּר
 ׳
 ק).
+
+@@SPLIT:stem@@
 
 Hithpo`el
 Imperfect

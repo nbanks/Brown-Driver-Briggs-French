@@ -5,11 +5,15 @@ Biblical Hebrew
 touch (strings), play a stringed instrument (Late Hebrew Pi`el; Aramaic
 נְגַן Pa`el); —
 
+@@SPLIT:stem@@
+
 Qal
 Participle
 נֹגְנִים
 Ps 68:26
 players (|| שָׁרִים, עֲלָמוֺת תּוֺפֵפוֺת).
+
+@@SPLIT:stem@@
 
 Pi`el
 Perfect

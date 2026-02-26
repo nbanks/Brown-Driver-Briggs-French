@@ -15,6 +15,7 @@ oublier, négliger ; comparer éthiopien
 ignoscere, condonare, indulgere
 Di^633^) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 1 singulier וְנָשִׁיתִי
 אֶתְכֶם נָשׁאֹ
@@ -47,6 +48,7 @@ pour
 Jr 23,39 (voir
 ci-dessus).
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait 2 masculin singulier suffixe תִּנָּשֵׁנִי
 Es 44,21
@@ -55,6 +57,7 @@ tu ne seras pas oublié de moi, mais douteux ; Ges
 Che^Hpt^
 תִּטְּשֵׁנִי (comparer Dt 32,15).
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 3 masculin singulier suffixe נַשַּׁ֫נִי
 Gn 41,51
@@ -64,6 +67,7 @@ E
 syllabe seulement ici, influence de מְנַשֶּׁה
 Ges^«GKC:52m»§ 52m^).
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 masculin singulier suffixe הִשָּׁהּ
 חָכְמָה

@@ -12,6 +12,7 @@ lier,
 [placeholder4735: Placeholders/4735.gif]
 chaîne) ; —
 
+@@SPLIT:stem@@
 Qal
 Participe passif pluriel חֲצֵדוֺת
 קְטֻרוֺת

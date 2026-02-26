@@ -24,6 +24,7 @@ f.^; sur un lien possible avec l'arabe
 [placeholder5682: Placeholders/5682.gif] voir Nö^ZMG xi (1886), 724^; sur l'usage du verbe
 voir Ferguson^JBL viii (1888), 130 ss.^); —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier ׳
 שׁ
@@ -364,6 +365,7 @@ Ps
 
 Ps 75,3.
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 1 singulier נִשְׁפַּטְתִּי
 Ez 20,36
@@ -416,6 +418,7 @@ Es 59,4
 
 2. passif être jugé, Ps 9,20 ; Ps 37,33 ; Ps 109,7
 .
+@@SPLIT:stem@@
 Poël
 Participe suffixe מְשֹׁפְטִי (douteux ; Hi
 

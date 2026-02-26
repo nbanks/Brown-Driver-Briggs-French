@@ -14,6 +14,8 @@ DHM^ZMG xxxvii (1883), 326^; Arabic
 [placeholder5141: Placeholders/5141.gif]
 stitch together, mend; compare Küchenmeister^ZWiss. Th. xxx (1887), 257 ff.^); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular consecutive ׳
 וְר
@@ -126,6 +128,8 @@ Ps 147:3
 longing exiles, compare
 Isa 61:3); absolute Job 5:18 (opposed to מחץ); participle as substantive Job 13:4.
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect 3 masculine singular נִרְפָּא
 Lev 13:37 +,
@@ -173,6 +177,8 @@ healing has come to us.
 b. of personal distress, subject person Jer 17:14, subject the distress Jer 15:18
 .
 
+@@SPLIT:stem@@
+
 Pi`el
 Perfect 1 singular רִפִּאתִי
 2Kgs 2:21
@@ -219,6 +225,8 @@ work at healing, treat (accusative of hurt) Jer 6:14; Jer 8:11 (both
 Niph`al
 2),
 Jer 51:9.
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Infinitive construct of purpose, לְהִתְרַפֵּא, literally, in

@@ -6,6 +6,7 @@ verbe
 Pi`el
 refuser (
 
+@@SPLIT:stem@@
 Qal
 peut-être
 être répugnant, comparer syriaque,
@@ -16,6 +17,7 @@ technique de la jeune fille, refuser de reconnaître le contrat de mariage ; peu
 rejeter ; arabe
 [placeholder2874: Placeholders/2874.gif] est soutenir, maintenir) ; —
 
+@@SPLIT:stem@@
 Pi`el
 Parfait
 מֵאֵן

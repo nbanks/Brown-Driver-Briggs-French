@@ -10,10 +10,14 @@ dwell (Biblical Hebrew
 שָׁכַן
 , מִשְׁכָּן); —
 
+@@SPLIT:stem@@
+
 Pe`al
 Imperfect 3 feminine plural יִשְׁכְּנָן
 Dan 4:18
 dwell, of birds, ב location
+
+@@SPLIT:stem@@
 
 Pa`el
 causative:

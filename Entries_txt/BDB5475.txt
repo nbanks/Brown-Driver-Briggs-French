@@ -12,6 +12,8 @@ rope,
 lock of hair; possibly also
 [placeholder3512: Placeholders/3512.gif] II. prepare a means of attaining something Lane^1284^); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular ׳
 ס
@@ -282,6 +284,8 @@ Kit
 Bu Löhr HPS
 .
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect 3 masculine singular נָסַב
 
@@ -359,12 +363,16 @@ circle about, skirt, with accusative Josh
 2. passive be turned over to (לְ
 ), into the power of, Jer 6:12.
 
+@@SPLIT:stem@@
+
 Pi`el
 Infinitive construct
 סַבֵּב אֶתפְּֿנֵי הַדָּבָר
 2Sam
 14:20
 to change, transform, the aspect of the matter.
+
+@@SPLIT:stem@@
 
 Po`.
 Imperfect 3 masculine singular suffix יְסֹבְבֵנִי
@@ -421,6 +429,8 @@ go about in (בְּ) city Song 3:2.
 enclose, envelop, with accusative of person Jonah 2:4;
 Jonah 2:6
 (of waters).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 masculine singular הֵסֵב
@@ -595,6 +605,8 @@ Ps
 140:10
 those encompassing me (others
 below מֵסַב below).
+
+@@SPLIT:stem@@
 
 Hoph`al
 Imperfect 3 masculine singular

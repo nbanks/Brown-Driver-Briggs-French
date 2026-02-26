@@ -5,6 +5,7 @@ hébreu biblique
 nom propre, masculin (sabéen nom propre ידעאל
 DHM^ZMG 1875, 605^) nom sacerdotal ; —
 
+@@SPLIT:sense@@
 1.
 1 Ch 9,10
 
@@ -17,6 +18,7 @@ DHM^ZMG 1875, 605^) nom sacerdotal ; —
 
 (Ανε)ιδεια.
 
+@@SPLIT:sense@@
 2.
 Esd 2,36 ; Ne 7,39
 
@@ -25,6 +27,7 @@ Esd 2,36 ; Ne 7,39
 Ιεουδα, (Ι)εδδουα,
 Ιωαδε.
 
+@@SPLIT:sense@@
 3.
 Ne 11,10 ;
 Ne 12,6 ; Ne 12,19
@@ -35,6 +38,7 @@ Ne 12,6 ; Ne 12,19
 Ιαδιασς,
 Ιδειας, etc.
 
+@@SPLIT:sense@@
 4.
 Ne 12,7 ; Ne 12,21
 
@@ -45,6 +49,7 @@ L
 
 Ωδουιας.
 
+@@SPLIT:sense@@
 5.
 Za 6,10 ; Za 6,14
 

@@ -21,6 +21,7 @@ Lv 2 ;
 Lv 2,18 + 24 t.
 suffixes ; — vœu :
 
+@@SPLIT:sense@@
 1. de service personnel à ׳
 י
 Gn 28,20 ; Gn 31,13 (de
@@ -31,6 +32,7 @@ P
 , quiconque), de naziréen Nb 6,2 ; Nb 6,5 ; Nb 6,21 consécration par Anne de son fils 1 S 1,11, comparer בר נדרי
 Pr 31,2.
 
+@@SPLIT:sense@@
 2. en général de toute sorte d'offrandes votives ou de dons promis à
 ׳
 י
@@ -51,15 +53,18 @@ Pr 20,25 ;
 Jb 22,27 ;
 Qo 5,3.
 
+@@SPLIT:sense@@
 3. la fille de Jephté comme עולה
 Jg 11,30 ;
 Jg 11,39.
 
+@@SPLIT:sense@@
 4. l'anathème
 Nb 21,2 (
 E
 ).
 
+@@SPLIT:sense@@
 5. || עוֺלָה
 Ps 66,13
 תּוֺדָה
@@ -81,6 +86,7 @@ H
 ; 1 S 1,21 ;
 Jon 1,16.
 
+@@SPLIT:sense@@
 6. une fois d'idolâtrie Jr 44,25 (לְקַטֵּר לִמְלֶכֶת הַשָּׁמַיִם
 ׳
 נ). — Verbes utilisés : נָדַר q. v. ; שִׁלֵּם

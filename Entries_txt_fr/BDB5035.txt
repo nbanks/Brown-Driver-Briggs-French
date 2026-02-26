@@ -12,6 +12,7 @@ fuir (voir ci-dessous) ; arabe (
 [placeholder3217: Placeholders/3217.gif]
 vaciller, chanceler) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier נָד ainsi lire pour
 
@@ -118,6 +119,7 @@ compatir, manifester de la sympathie avec Jb 2,11 ; Jb 42,11 absolu
 
 Ps 69,21.
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait 3 masculin singulier יָנִיד
 
@@ -163,6 +165,7 @@ faire un hochement, hocher la tête, בְּראֹשׁ
 
 Jr 18,16.
 
+@@SPLIT:stem@@
 Hoph`al
 Participe
 כְּקוֺץ מֻנָֿד
@@ -173,6 +176,7 @@ voleter (jetées au loin) sont-ils (texte douteux ; Klo
 Bu
 HPS lisent מדבר).
 
+@@SPLIT:stem@@
 Hithpolel
 Parfait 3 féminin singulier וְהִתְנוֺדֲדָה
 consécutif

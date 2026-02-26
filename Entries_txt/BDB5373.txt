@@ -13,6 +13,8 @@ probably= mutilated; Ethiopic
 peel, flay
 Di^649^); —
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect 3 masculine singular וְנִקַּף סִבְכֵי הַיַּ֫עַר consecutive Isa 10:34 and
 the thickets of the forest shall be struck away (on singular verb compare Ges^«GKC:145o»§ 145o^
@@ -20,6 +22,8 @@ Da^Synt. § 113 b^; or. read נִקְּפוּ; — form
 possibly Pi`el, but compare Di
 Du
 Che^Hpt^).
+
+@@SPLIT:stem@@
 
 Pi`el
 Perfect 3 plural וְאַחַר

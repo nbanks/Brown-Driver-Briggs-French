@@ -3,6 +3,8 @@ Biblical Hebrew
 
 עָלֶ֫מֶת
 
+@@SPLIT:sense@@
+
 1.
 proper name, masculine [person[
 a Benjamite
@@ -13,6 +15,8 @@ a Benjamite
 ᵐ5
 
 Σαλαμαιθ, Γαλεμαθ, Αλαμωθ, etc.
+
+@@SPLIT:sense@@
 
 2.
 proper name [of a location] (= עַלְמוֺן q. v.) 1Chr 6:45

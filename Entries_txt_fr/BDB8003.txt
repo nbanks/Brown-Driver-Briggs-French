@@ -4,6 +4,7 @@ hébreu biblique
 [רָעָה] verbe
 dénominatif
 
+@@SPLIT:stem@@
 Pi`el
 être un ami intime ; — Parfait 3 masculin singulier מֵרֵעֵהוּ אֲשֶׁר רֵעָה
 לוֺ

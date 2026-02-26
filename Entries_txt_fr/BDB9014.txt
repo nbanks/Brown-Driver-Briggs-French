@@ -7,6 +7,8 @@ a
 [placeholder5716: Placeholders/5716.gif]
 être frappé, prosterné, s'effondrer ) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Parfait 3 féminin singulier consécutif וְשָֽׁקְעָה ; Am 9,5
 elle s'enfoncera comme le Nil (de la terre ; opposé à עָלַה) ; 3 féminin singulier
@@ -19,6 +21,8 @@ E
 Jr 51,64, de
 Babylone (comme pierre dans l'eau ; opposé à קוּם).
 
+@@SPLIT:stem@@
+
 Niph`al 3 féminin singulier נִשְׁקְעָה
 Am 8,8
 
@@ -29,6 +33,8 @@ Am 9,5
 
 Kt
 erroné נשקה, comparer W^SG287^).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imparfait 1 singulier אַשְׁקִיעַ

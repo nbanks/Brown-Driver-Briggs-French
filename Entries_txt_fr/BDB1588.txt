@@ -10,6 +10,7 @@ Niph`al, araméen גְּזַל,
 [placeholder865: Placeholders/865.gif]
 couper) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 גָּזַל
@@ -71,6 +72,7 @@ Ml 1,13
 boiteux et חוֺלֶה
 malade), probablement ce qui a été récupéré après saisie par des bêtes sauvages, donc mutilé.
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 féminin singulier וְנִגְזְלָה, sujet le sommeil
 Pr 4,16

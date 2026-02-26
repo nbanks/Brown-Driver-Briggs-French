@@ -15,6 +15,7 @@ le suintement d'un nuage, assyrien
 irpu, irpitu, nuage(s)
 ) ; —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 3 masculin pluriel שָׁמָיו יַעַרְפוּטָֿ֑ל
 Dt 33,28

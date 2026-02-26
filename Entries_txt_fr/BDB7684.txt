@@ -19,6 +19,8 @@ Qo 7,8,
 Jb 42,12,
 etc. ; —
 
+@@SPLIT:sense@@
+
 1.
 
 a.
@@ -105,6 +107,8 @@ Ne 12,44
 ׳
 ר
 Ez 48,14
+
+@@SPLIT:sense@@
 
 2.
 premier, chef, Am 6,1

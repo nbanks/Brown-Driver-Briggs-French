@@ -7,6 +7,7 @@ Pi`el) débarrasser des pierres (semble dénominatif, mais nom inconnu ; hébreu
 סְקִילָא
 exécution par lapidation) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 2 masculin singulier suffixe וּסְקַלְתּוֺ consécutif Dt 13,11 3 masculin pluriel
 suffixe וּסְקָלֻנִי consécutif Ex 17,4 2 masculin pluriel וּסְקַלְתֶּם consécutif
@@ -42,6 +43,7 @@ Dt 22,24 ;
 
 Dt 1,13.
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait 3 masculin singulier יִסָּקֵל
 être lapidé à mort
@@ -54,6 +56,7 @@ J
 E
 ).
 
+@@SPLIT:stem@@
 Pi`el
 Imparfait 3 masculin singulier יְסַקֵּל
 2 S 16,6 ;
@@ -92,6 +95,7 @@ Es
 62,10
 débarrasser (le chemin) des pierres.
 
+@@SPLIT:stem@@
 Pu`al
 Parfait
 סֻקַּל

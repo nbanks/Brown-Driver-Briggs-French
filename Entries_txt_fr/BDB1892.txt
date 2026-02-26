@@ -37,6 +37,7 @@ Gn 17,12 + 27
 t., דֹּרֹתָם
 Gn 17,7 + 10 t. ; —
 
+@@SPLIT:sense@@
 1.
 période, âge, génération, surtout poétique :
 
@@ -109,6 +110,7 @@ Ps 145,13
 לְדוֺר וָדוֺר
 Lm 5,19.
 
+@@SPLIT:sense@@
 2. des hommes vivant à une époque particulière (période, âge), génération, en tant que transitoire
 דּוֺר הֹלֵךְ וְדוֺר בָּא
 Qo 1,4 :
@@ -210,6 +212,7 @@ Jos 22,28
 P
 ).
 
+@@SPLIT:sense@@
 3. génération caractérisée par une qualité ou condition, classe d'hommes :
 דּוֺר עִקֵּשׁ
 génération perverse
@@ -228,6 +231,7 @@ classe Ps 14,5 ; Ps 24,6 ; Ps 73,15 (
 la plupart ; cependant voir
 ci-dessous ci-dessous 4).
 
+@@SPLIT:sense@@
 4.
 lieu d'habitation, demeure
 Es 38,12

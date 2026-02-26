@@ -17,6 +17,8 @@ Num 31:10; Gen 25:16
 טִירוֺתֵיהֶם
 Ezek 25:4 —
 
+@@SPLIT:sense@@
+
 1.
 encampment, especially of circular encampment of nomad tribes, mentioned with חצר
 
@@ -27,11 +29,15 @@ Ezek 25:4 (||
 מִשׁכניהם); encampment (poetry) = habitation Ps 69:26 (|| אהליהם
 ); more generally, 1Chr 6:39 (|| מושׁבות).
 
+@@SPLIT:sense@@
+
 2. in metaphor כָּ֑סֶף
 ׳
 ט
 Song 8:9
 a battlement of silver.
+
+@@SPLIT:sense@@
 
 3.
 row of stones, only plural טִירוֺת

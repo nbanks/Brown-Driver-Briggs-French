@@ -27,6 +27,8 @@ Prov 28:8 plural
 suffix הוֺנַיִךְ
 Ezek 27:33 —
 
+@@SPLIT:sense@@
+
 1.
 wealth
 Ps 112:3 (||
@@ -43,12 +45,16 @@ see Prov 19:4
 Prov 24:4; Prov 28:22
 (opposed to חֶסֶר) Prov 29:3; Ezek 27:12; Ezek 27:18; Ezek 27:27; Ezek 27:33.
 
+@@SPLIT:sense@@
+
 2. with מָכַר + בְּ pretii, = high value, or
 price
 תִּעמכֹּר עַמְּךָ בְּלֹא הוֺן
 Ps 44:13 —
 i.e.
 cheaply, = 'for no price at all' (|| מחיר).
+
+@@SPLIT:sense@@
 
 3.
 sufficiency, enough! in exclamation Prov 30:15; Prov 30:16 (so also

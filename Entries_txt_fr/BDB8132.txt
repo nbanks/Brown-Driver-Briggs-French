@@ -3,6 +3,7 @@ hébreu biblique
 
 [רָשַׁשׁ] verbe
 
+@@SPLIT:stem@@
 Po`el
 abattre, fracasser (syriaque
 [placeholder5200: Placeholders/5200.gif]
@@ -10,6 +11,7 @@ meurtrir, broyer) ; — Imparfait 3 masculin singulier יְרשֵׁשׁ
 Jr 5,17 on
 abattra tes villes fortifiées
 
+@@SPLIT:stem@@
 Pu`al
 Parfait 1 pluriel רֻשּׁשְׁנוּ
 Ml 1,4

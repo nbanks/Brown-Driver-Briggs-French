@@ -21,6 +21,8 @@ set, found, DHM^Sendsch. 57^, compare
 [placeholder2299: Placeholders/2299.gif],
 [placeholder2300: Placeholders/2300.gif]; but evidence for this division hardly sufficient) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 ׳
@@ -85,12 +87,16 @@ early rain (compare
 Hiph`il
 3).
 
+@@SPLIT:stem@@
+
 Niph`al
 Imperfect
 יִיָּרֶה
 shot through (with arrows) Exod 19:13 (
 E
 ).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 masculine singular suffix הֹרַנִי

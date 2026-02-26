@@ -3,13 +3,16 @@ hébreu biblique
 
 [גְּנָזִים] nom [masculin] pluriel
 
+@@SPLIT:sense@@
 1.
 coffres (?) ;
 
+@@SPLIT:sense@@
 2.
 trésor
 — seulement pluriel construit גִּנְזֵי ; —
 
+@@SPLIT:sense@@
 1. peut-être coffres d'étoffe bariolée בְּרֹמִים
 ׳
 ג
@@ -23,6 +26,7 @@ RV
 Co et d'autres étoffes, tapis, Ew
 Taschen.
 
+@@SPLIT:sense@@
 2.
 trésor (hébreu tardif גֶּנֶז, araméen גִּנְזָא, גְּנִיז
 , araméen biblique construit pluriel גִּנְזֵי ; mot emprunté au persan de

@@ -17,6 +17,8 @@ force to do a thing, Ethiopic
 [placeholder4901: Placeholders/4901.gif]
 bind); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular קָשַׁר
 Amos 7:10; 1Kgs 16:16 2
@@ -90,6 +92,8 @@ verb קֶשֶׁר, 1Kgs 16:20; 2Kgs 12:21; 2Kgs 15:15, + עַל person 2Kgs 14:1
 2Chr 25:27; 2Kgs 15:30 absolute 1Kgs 16:16; Neh 4:2 (+ infinitive purpose); with
 עִם, together with, 2Sam 15:31.
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect 3 feminine singular נִקְשְׁרָה
 1Sam 18:1
@@ -100,6 +104,8 @@ Qal
 
 Neh 3:38
 all the wall was joined together (the circuit complete).
+
+@@SPLIT:stem@@
 
 Pi`el
 Imperfect
@@ -116,6 +122,8 @@ Job
 38:31
 canst thou bind fast the bands of the Pleiades?
 
+@@SPLIT:stem@@
+
 Pu`al
 Participle
 הַצּאִן
@@ -126,6 +134,8 @@ J
 ), =
 Qal
 1c.
+
+@@SPLIT:stem@@
 
 Hithpa`el
 conspire: Perfect 3 plural הִתְקַשְּׁרוּ עַלֿ

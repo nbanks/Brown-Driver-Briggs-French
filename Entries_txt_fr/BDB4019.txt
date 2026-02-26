@@ -14,6 +14,7 @@ cesser, périr (pas
 
 ) ; sur le sens radical enfermer comparer כלא et Ba^ZMG 1887, 605^) —
 
+@@SPLIT:stem@@
 Qal. Parfait
 ׳
 כ
@@ -225,6 +226,7 @@ d'après
 
 וּכְכַלּוֺת נַפֵּץ יַדעַֿםקֹֿדֶשׁ).
 
+@@SPLIT:stem@@
 Piel_140_
 Parfait
 כִּלָּה
@@ -612,6 +614,7 @@ sujet rouleau volant Za 5,4
 
 (objet maison).
 
+@@SPLIT:stem@@
 Pu`al
 Parfait 3 pluriel
 כָּלּוּ

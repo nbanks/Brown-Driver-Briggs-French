@@ -8,6 +8,7 @@ Pi`el), (araméen כַּתַּר Pa`el, attendre, espérer ;
 , voir Jb
 36,2 ci-dessous) —
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 3 pluriel כִּתְּרוּ
 Jg 20,43
@@ -18,6 +19,7 @@ Ps 22,13
 Jb 36,2
 attends, je te prie (comme en araméen)
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait 3 masculin pluriel בִּי יַכְּתִּרוּ
 צַדִּיקִים

@@ -4,6 +4,7 @@ hébreu biblique
 תָּבוֺר
 nom propre
 
+@@SPLIT:sense@@
 1. montagne au bord nord-est de la Grande Plaine, au sud-ouest de la mer de Galilée, à la frontière
 d'Issacar, Zabulon et Nephtali, moderne
 Jebel e‰-ˆûr
@@ -32,6 +33,7 @@ P
 Jews 4:1»iv. 1^. 8 [54]. etc. (autres formes grecques voir
 Cooke^l.c^.).
 
+@@SPLIT:sense@@
 2. lieu Jg 8,18 (trop éloigné pour être = 1
 Be et autres), GFM conjecture
 טַבּוּר (Jg 9,37), Bu
@@ -42,6 +44,7 @@ Jg 9,50) ;
 
 Θαβωρ.
 
+@@SPLIT:sense@@
 3. lieu ville lévitique en Zabulon
 1 Ch 6,62
 apparemment = ׳
@@ -62,6 +65,7 @@ A
 
 Θαβωρ.
 
+@@SPLIT:sense@@
 4. arbre. dans ׳
 אֵלוֺן ת
 1 S 10,3, près de

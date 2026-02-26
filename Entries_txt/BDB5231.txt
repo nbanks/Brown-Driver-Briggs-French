@@ -20,6 +20,8 @@ Lane^3032^ (compare RS^Semitic
 i. 213; 2d ed. 229^), i.e. pour out blood of victim, pour
 out wine We^Heid. 2, 114, 118, 142^; —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular נָסַךְ
 Isa 29:10;
@@ -54,6 +56,8 @@ cast metal images, with accusative פֶּסֶל
 Isa 40:19;
 Isa 44:10.
 
+@@SPLIT:stem@@
+
 Pi`el
 Imperfect
 יְנַסֵךְ
@@ -62,6 +66,8 @@ Imperfect
 pour out as libation, with accusative מַיִם + ליהוה (=
 2Sam 23:16
 Hiph`il).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 masculine plural הִסִּכוּ
@@ -102,6 +108,8 @@ Jer 44:18;
 Jer 44:19
 (twice in verse);
 Jer 44:25; Ezek 20:28; Ps 16:4.
+
+@@SPLIT:stem@@
 
 Hoph`al
 Imperfect 3 masculine singular יֻסַּךְ

@@ -5,10 +5,14 @@ Biblical Hebrew
 denominative
 take the tenth of, tithe; —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 3 masculine singular יַעְשׂר
 1Sam 8:15; 1Sam 8:17 (with
 accusative of thing tithed).
+
+@@SPLIT:stem@@
 
 Pi`el
 Imperfect + Infinitive absolute
@@ -22,6 +26,8 @@ P
 ); Participle
 taking the tenth, הַמְעַשְּׂרִים
 Neh 10:38.
+
+@@SPLIT:stem@@
 
 Hiph`il (so usually explained) Infinitive
 לַעְשֵׂר

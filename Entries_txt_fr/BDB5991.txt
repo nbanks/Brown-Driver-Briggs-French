@@ -8,6 +8,7 @@ tourner, revenir ; arabe
 [placeholder3824: Placeholders/3824.gif]
 incliner, plier) ; —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 3 masculin singulier יַעֲטֹף
 se détourner (ainsi Ew

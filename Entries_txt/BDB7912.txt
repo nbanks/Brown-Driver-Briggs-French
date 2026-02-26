@@ -3,6 +3,8 @@ Biblical Hebrew
 
 [רִיק] verb
 
+@@SPLIT:stem@@
+
 Hiph`il
 make empty, empty out (Arabic
 [placeholder5061: Placeholders/5061.gif] (
@@ -74,6 +76,8 @@ De
 Dr < אֲרִיקֵם (see
 דקק
 ).
+
+@@SPLIT:stem@@
 
 Hoph`al
 be emptied out from vessel : Perfect 3 masculine singular הוּרק

@@ -6,16 +6,22 @@ verb
 bow down (Late Hebrew id.; Jewish-Aramaic שְׁחִי (rare);
 akin to שׁוח, שׁחח); —
 
+@@SPLIT:stem@@
+
 Qal
 Imperative feminine singular שְׁחִי
 Isa 51:23
 bow down.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imperfect 3 masculine singular suffix יַשְׁחֶ֑נָּה
 Prov 12:25
 , figurative, anxiety depresses it (that is לֵב; opposed to
 שִׂמֵּחַ).
+
+@@SPLIT:stem@@
 
 Hithpa`lel_170_ (Ges^«GKC:75kk»§ 75kk^)
 Perfect 3 masculine singular הִשְׁתַּחֲוָה

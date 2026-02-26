@@ -5,6 +5,7 @@ hébreu biblique
 crier, gémir (araméen אֲנַק
 [placeholder313: Placeholders/313.gif] —
 
+@@SPLIT:stem@@
 Qal
 Imparfait
 יֶאֱנֹק
@@ -14,6 +15,7 @@ Infinitif construit
 Ez 26,15,
 tous deux du gémissement des blessés (חָלָל).
 
+@@SPLIT:stem@@
 Niph`al
 id., dans le deuil, la lamentation ; Infinitif construit
 הֵאָנֵק

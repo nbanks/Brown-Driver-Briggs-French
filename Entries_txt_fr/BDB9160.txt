@@ -13,6 +13,8 @@ pendre ; peut-être ancien araméen תלה
 id., Lzb^386^ ; éthiopien
 [placeholder5819: Placeholders/5819.gif] en sens dérivé, être dévoué, adonné, à) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Parfait 3 masculin singulier ׳
 ת
@@ -93,6 +95,8 @@ Est 7,9 ; Est 7,10 ;
 Est 8,7 ; Est 9,13 ;
 Est 9,25.
 
+@@SPLIT:stem@@
+
 Niph`al
 Parfait 3 pluriel שָׂרִים בְּיָדָם נִתְלוּ
 Lm 5,12
@@ -105,6 +109,8 @@ ils furent pendus à un arbre ; + 3 masculin singulier avec apocope וַיִּת
 נתן
 
 Hoph`al).
+
+@@SPLIT:stem@@
 
 Pi`el
 suspendre pour exposer, avec accusatif de chose : Parfait 3 pluriel

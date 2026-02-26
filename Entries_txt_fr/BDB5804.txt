@@ -5,6 +5,7 @@ hébreu biblique
 nom propre, masculin
 Iddo ; —
 
+@@SPLIT:sense@@
 1. père d'un officier de Salomon עִדֹּא
 1 R 4,14
 
@@ -21,6 +22,7 @@ A
 
 Αχιαβ
 
+@@SPLIT:sense@@
 2. grand-père du prophète Zacharie עִדּוֺ
 Za 1,1,
 עִדּוֺא Za
@@ -30,6 +32,7 @@ Za 1,1,
 
 Αδδω.
 
+@@SPLIT:sense@@
 3. un Lévite עִדּוֺ
 1 Ch 6,6
 
@@ -43,6 +46,7 @@ Za 1,1,
 
 Αδδω.
 
+@@SPLIT:sense@@
 4. un nom sacerdotal עִדּוֺא
 van d. H.
 Ginsb (Baer
@@ -69,6 +73,7 @@ Qr
 
 τῳ Αδαια.
 
+@@SPLIT:sense@@
 5. un voyant עִדּוֺ הַחֹזֶה
 2 Ch 12,15 =
 הַנָּכִיא עִדּוֺ

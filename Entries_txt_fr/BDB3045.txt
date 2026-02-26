@@ -4,6 +4,7 @@ hébreu biblique
 II. [חצץ] verbe
 dénominatif seulement
 
+@@SPLIT:stem@@
 Pi`el
 Participe
 מְחַצְצִים

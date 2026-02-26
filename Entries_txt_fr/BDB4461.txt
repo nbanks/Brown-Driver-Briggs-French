@@ -6,6 +6,7 @@ laper, lécher (hébreu tardif id., Pi`el ; arabe
 [placeholder2852: Placeholders/2852.gif]
 lécher, laper du chien (Wahrm)) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier לָֽקְקוּ
 1 R 21,19
@@ -21,6 +22,7 @@ Jg 7,5, comme un chien v
 Jg 7,5 (absolu) ; de
 chiens lapant le sang (accusatif), 1 R 21,19 (deux fois dans le verset) ; 1 R 22,38.
 
+@@SPLIT:stem@@
 Pi`el
 Participe pluriel avec article הַמְֿלַקְקִים
 Jg 7,6 (

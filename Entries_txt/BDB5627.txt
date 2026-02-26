@@ -12,6 +12,8 @@ remove; Arabic
 ascend, Lane^1410^ (also loan-word ?)); —
 only
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 1 singular אֶסַּק
 Ps 139:8

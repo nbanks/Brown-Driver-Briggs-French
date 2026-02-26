@@ -8,6 +8,8 @@ divide (
 
 Syriac; compare Biblical Hebrew (chiefly late)); —
 
+@@SPLIT:stem@@
+
 Pe`al
 passive feminine singular פְּלִיגָה תֶּהֱוֵה
 Dan 2:41

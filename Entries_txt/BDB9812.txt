@@ -17,6 +17,8 @@ serve, Syriac
 [placeholder6127: Placeholders/6127.gif]; Palmyrene פלחא
 soldier); —
 
+@@SPLIT:stem@@
+
 Pe`al
 
 1.

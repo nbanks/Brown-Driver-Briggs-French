@@ -4,6 +4,7 @@ hébreu biblique
 מִרְיָם
 nom propre, féminin et masculin
 
+@@SPLIT:sense@@
 1.
 féminin
 sœur d'Aaron
@@ -31,6 +32,7 @@ E
 
 Μαριαμ.
 
+@@SPLIT:sense@@
 2.
 masculin (probablement) un Judéen 1 Ch 4,17.
 

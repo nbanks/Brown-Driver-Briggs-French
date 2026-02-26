@@ -18,10 +18,14 @@ Ez 2,4 ; Ez 3,7 féminin
 pluriel קָשׁוֺת
 Gn 42,7 ; Gn 42,30 —
 
+@@SPLIT:sense@@
+
 1.
 dur, difficile, d'une question juridique (דָּבָר) Ex 18,26 (
 E
 ).
+
+@@SPLIT:sense@@
 
 2.
 
@@ -64,6 +68,8 @@ b.
 féroce, intense, véhément, de קִנְאָה
 Ct 8,6 (||
 עַזָּה ; comparer Gn 49,9).
+
+@@SPLIT:sense@@
 
 3.
 עַםקְֿשֵׁהעֹֿרֶף

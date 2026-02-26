@@ -27,6 +27,7 @@ Ps 50,5
 1 S 2,9 + 15 t.
 suffixes ; —
 
+@@SPLIT:sense@@
 1.
 bienveillant :
 
@@ -46,6 +47,7 @@ cigogne (l'autruche est-elle bienveillante comme la cigogne ?).
 c. de Dieu, seulement Jr 3,12 ; Ps 145,17
 .
 
+@@SPLIT:sense@@
 2.
 pieux, dévot, soit comme manifestation d'un « amour fidèle » envers Dieu (
 Che^OP 378^), soit (vu la rareté de passages tels que Os 6,4 ; Os 6,6 ; Jr 2,2, et leur ambiguïté possible)

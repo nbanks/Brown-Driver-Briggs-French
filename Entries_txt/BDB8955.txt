@@ -24,6 +24,8 @@ f.^; on possible connection with Arabic
 [placeholder5682: Placeholders/5682.gif] see Nö^ZMG xi (1886), 724^; on usage of verb
 See Ferguson^JBL viii (1888), 130 ff.^); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular ׳
 שׁ
@@ -364,6 +366,8 @@ Ps
 
 Ps 75:3.
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect 1 singular נִשְׁפַּטְתִּי
 Ezek 20:36
@@ -416,6 +420,8 @@ Isa 59:4
 
 2. passive be judged, Ps 9:20; Ps 37:33; Ps 109:7
 .
+
+@@SPLIT:stem@@
 Pô`el
 Participle suffix מְשֹׁפְטִי (dubious; Hi
 

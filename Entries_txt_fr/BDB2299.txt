@@ -13,6 +13,7 @@ briller est tardif en hébreu ; le sens habituel tel que donné ci-dessous n'est
 mentalement, mais avertir ; voir aussi construction avec deux accusatifs Ex 18,20) ;
 —
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait
 וְהִזְהִיר consécutif Ez 33,3 suffixe וְהִזְהִירהֹ
@@ -61,6 +62,7 @@ avertir le juste (צַדִּיק) Ez 3,21 suivi d'Infinitif
 afin que le juste ne pèche pas, comparer 2 Ch 19,10 suivi d'accusatif de
 personne + proposition finale avec וְ.
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 masculin singulier נִזְהָ֔ר
 Ez 3,21

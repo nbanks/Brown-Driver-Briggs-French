@@ -16,6 +16,8 @@ Dn 7,27 emphatique
 Dn 2,44 ; Dn
 7,23 —
 
+@@SPLIT:sense@@
+
 1.
 royauté, souveraineté, autorité royale :
 Dn 4,23 ; Dn 4,28 ; Dn 4,33
@@ -23,6 +25,8 @@ Dn 4,23 ; Dn 4,28 ; Dn 4,33
 הֵיכַל מ v. Dn 4,26, ׳
 בֵּית מ v. Dn 4,27, כָּרְסֵא
 Dn 5,20.
+
+@@SPLIT:sense@@
 
 2. royaume (mondial) organisé : Dn 2,39 (deux fois dans le verset) ; Dn 2,40 ; Dn 2,41 ; Dn 2,42 ; Dn 2,44 ; Dn 7,23 (deux fois dans le verset) ; Dn 7,24 ; Dn 7,27
 אֲנָשָׁא
@@ -37,8 +41,12 @@ Dn 5,28 ; Dn 6,1 de Dieu Dn 3,33 ; Dn 7,27 (les deux
 מ), Dn
 2,44 (deux fois dans le verset) ; Dn 3,33 ; Dn 4,31 ; Dn 6,27 ; Dn 7,27 du Messie Dn 7,14 (deux fois dans le verset) ; des saints Dn 7,18 (deux fois dans le verset) ; Dn 7,22 ; Dn 7,27.
 
+@@SPLIT:sense@@
+
 3.
 domaine (territorial) Dn 4,15 ; Dn 4,33b ; Dn 5,7 ; Dn 5,11 ; Dn 5,16 ; Dn 5,29 ; Dn 6,2 (deux fois dans le verset) ; Dn 6,4 ; Dn 6,8 ; Dn 6,27 ; Esd 7,13 ; Esd 7,23 métonymie Esd 6,5 = administration du domaine.
+
+@@SPLIT:sense@@
 
 4.
 règne, temps de régner Dn 5,26 ; Dn 6,29 (deux fois dans le verset) ; Esd 4,24 ; Esd 6,15.

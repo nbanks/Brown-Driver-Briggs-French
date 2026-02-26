@@ -11,6 +11,8 @@ abide, encamp, settle, DHM^ZMG xxix (1875), 593^
 [placeholder4945: Placeholders/4945.gif]
 abide, dwell) —
 
+@@SPLIT:stem@@
+
 Qal only Infinitive: suffix רִבְעִי
 Ps 139:3
 my lying down (for repose, opposed to אָרְחִי); elsewhere (
@@ -26,6 +28,8 @@ Berthol (and Dr^
 ^); לְרִבְעָהּ
 2Sam 18:23,
 read לְרִבְעָה (compl. omitted; see id.).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imperfect 2 masculine singular בְּהֶמְתְּךָ לֹא תַרְבִּיעַ

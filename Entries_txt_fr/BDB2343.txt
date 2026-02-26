@@ -4,6 +4,7 @@ hébreu biblique
 זִיף
 nom propre
 
+@@SPLIT:sense@@
 1.
 nom propre [d'un lieu]
 
@@ -21,6 +22,7 @@ verset) ; avec ה locatif, זִ֫יפָה
 
 b. ville du sud de Juda Jos 15,24, site inconnu.
 
+@@SPLIT:sense@@
 2.
 nom propre, masculin
 un fils de

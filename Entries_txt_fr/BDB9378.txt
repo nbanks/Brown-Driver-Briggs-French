@@ -6,6 +6,7 @@ construire (hébreu biblique
 בָּנָה
 ) ; —
 
+@@SPLIT:stem@@
 Pe`al
 Parfait 3 masculin singulier suffixe 3 masculin singulier בְּנָ֫הִי
 Esd 5,11 1
@@ -35,6 +36,7 @@ accusatif du temple Esd
 Esd 5,11 ; Esd 5,13 ; Esd 5,17 ; Esd 6,7 ; Esd 6,8, ainsi Esd 5,4 (accusatif
 de sens apparenté au verbe) ; passif du temple Esd 5,11 avec accusatif de la ville Esd 4,12 ; Dn 4,27 absolu Esd 6,14 (deux fois dans le verset).
 
+@@SPLIT:stem@@
 Hithpe`el
 être construit : Imparfait 3 masculin singulier יִתְבְּנֵא du temple Esd 5,15 ; Esd 6,3 3 féminin
 singulier תִּתְבְּנֵא de la ville Esd 6,13 Esd 6,16 Esd 6,21

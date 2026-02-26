@@ -34,6 +34,8 @@ suffixe מִשְׁפָּטֶיךָ
 Dt 33,10 +,
 etc. ; —
 
+@@SPLIT:sense@@
+
 1.
 jugement :
 
@@ -266,6 +268,8 @@ temps du jugement, ׳
 
 Ps 1,5 (tardif ; probablement jugement de la résurrection).
 
+@@SPLIT:sense@@
+
 2. attribut du שֹׁפֵט, justice, droit, droiture :
 
 a. de Dieu, ׳
@@ -336,6 +340,8 @@ comparer Pr
 
 ; Pr 28,5.
 
+@@SPLIT:sense@@
+
 3.
 ordonnance promulguée par le שֹׁפֵט : 1 S 8,9 ; 1 S 8,11 ; 1 S 10,25 (loi du roi) ;
 ordonnances lévitiques
@@ -398,6 +404,8 @@ Ps 119,7
 16 t., Ps
 147,20.
 
+@@SPLIT:sense@@
+
 4.
 décision du שֹׁפֵט dans un cas de droit (voir
 Br^Hexateuch 252 sq^.) : singulier d'une décision particulière d'un cas Ex 21,31
@@ -435,6 +443,8 @@ rédactionnelles et tardives, Lv 26,46 ; Nb 36,13 ; Dt 30,16 ; 2 R 17,37 ; 2 Ch 
 ;
 Ps 147,19
 .
+
+@@SPLIT:sense@@
 
 5. droit (légal), privilège, dû de quelqu'un :
 הַכּהֲנִים
@@ -486,6 +496,8 @@ Jb 27,2 ; Jb 34,5,
 comparer
 Es 40,27 ;
 Es 49,4.
+
+@@SPLIT:sense@@
 
 6.
 

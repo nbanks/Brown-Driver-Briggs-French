@@ -11,6 +11,8 @@ Di^166^; Aramaic
 ימשׁ
 , II. מושׁ); —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 3 masculine singular suffix יְמֻשֵּׁנִי
 Gen 27:12
@@ -18,6 +20,8 @@ perhaps my father will feel me; וַיְמֻשֵּׁהוּ Gen 27:22
 and he felt of him (both
 J
 ).
+
+@@SPLIT:stem@@
 
 Pi`el
 Perfect 2 masculine singular מִשַּׁשְׁתָּ; Imperfect 3 masculine
@@ -51,6 +55,8 @@ Deut 28:29
 a and thou shalt become one that gropes at noonday (figurative of judicial
 blindness); compare
 Job 5:14; Job 12:25.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imperfect

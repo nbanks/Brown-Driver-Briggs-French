@@ -11,6 +11,8 @@ loosen.
 abide
 (see Biblical Hebrew I. שׁרה); —
 
+@@SPLIT:stem@@
+
 Pe`al
 Infinitive
 לְמִשְׁרֵא
@@ -36,12 +38,16 @@ abide (from loosening girths, loads, at encampment; compare
 
 Late Hebrew [also on passive participle]), figurative Dan 2:22 (עִם of person).
 
+@@SPLIT:stem@@
+
 Pa`el
 Perfect 3 masculine plural שָׁרִיו
 Ezra 5:2
 begin (see Biblical Hebrew III. [חָלַל]
 Hiph`il
 2), followed by infinitive
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Participle masculine plural מִשְׁתָּרַ֫יִן

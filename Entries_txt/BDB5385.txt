@@ -22,6 +22,8 @@ suscipere, tollere
 Di^635^, so Old Ethiopic,
 DHM^Epigr.Denkm.aus Abess.(1894),52^); —
 
+@@SPLIT:stem@@
+
 Qal_599_
 Perfect
 ׳
@@ -840,6 +842,8 @@ the
 roots, but dubious; ׳
 נ not elsewhere in this sense.
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect
 נִשָּׂא
@@ -1008,6 +1012,8 @@ Hi as
 
 ).
 
+@@SPLIT:stem@@
+
 Pi`el
 Perfect
 נִשֵּׂא
@@ -1120,6 +1126,8 @@ Now
 וְנָָֽשְׂאוּ).
 —
 
+@@SPLIT:stem@@
+
 Hithpa`el
 Imperfect
 יִתְנַשָּׂ֑א
@@ -1209,6 +1217,8 @@ P
 ), Prov
 30:32; Dan
 11:14.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 masculine

@@ -14,6 +14,7 @@ construit אֶצְבְּעֹת
 2 S 21,20 +,
 etc. ; —
 
+@@SPLIT:sense@@
 1.
 doigt, surtout
 
@@ -51,6 +52,7 @@ Pr 6,13
 (de geste méprisant) ; comme mesure d'épaisseur, Jr 52,21
 quatre doigts.
 
+@@SPLIT:sense@@
 2.
 orteils :
 אֶצְבְּעֹת רַגְלָיו

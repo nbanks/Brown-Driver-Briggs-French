@@ -23,6 +23,8 @@ Josh 1:4 + 3 t.;
 feminine plural חִתִּיֹּת
 1Kgs 11:1 —
 
+@@SPLIT:sense@@
+
 1.
 adjective, of seller of Machpelah to Abraham, עֶפְרוֺן הַחִתִּי
 Gen 23:10; Gen 49:29; Gen 49:30; Gen 50:13
@@ -57,6 +59,8 @@ thy father was the Amorite, and thy mother was a Hittite woman
 1Kgs 11:1
 Hittite women (+ מוֺאֲבִיּוֺת, עַמּוֺנִיּוֺת,
 אֲדֹמִיֹּת, צֵדְנִיֹּת).
+
+@@SPLIT:sense@@
 
 2.
 noun usually

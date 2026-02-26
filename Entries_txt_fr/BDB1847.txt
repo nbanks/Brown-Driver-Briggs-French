@@ -7,6 +7,7 @@ entasser ; ainsi
 [placeholder1087: Placeholders/1087.gif]
 Nasar.) —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier דָּ֨גָר
 Jr 17,11 3

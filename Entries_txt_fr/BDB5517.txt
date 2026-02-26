@@ -18,6 +18,7 @@ enclos fait avec des épines, etc., autour de vignes, etc. Lane^1460^,
 [placeholder3542: Placeholders/3542.gif] II. faire un
 [placeholder3543: Placeholders/3543.gif] ; — seulement
 
+@@SPLIT:stem@@
 Qal
 Participe passif féminin בִּטְנֵךְ עֲרֵמַת חִטִּים סוּגָה בַּשּׁוֺשַׁנִּים
 
@@ -25,6 +26,7 @@ Ct 7,3
 ton corps un tas de blé enclos de lis (comparer surtout De
 Bu).
 
+@@SPLIT:stem@@
 Pilpel
 intensif
 Imparfait 2 féminin singulier תְּשַׂגְֿשֵׂ֑גִי

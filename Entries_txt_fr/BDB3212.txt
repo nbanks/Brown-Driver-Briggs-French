@@ -4,6 +4,7 @@ hébreu biblique
 חֲשַׁבְיָ֫הוּ, חֲשַׁבְיָה
 nom propre, masculin (Yah(u) a pris en compte) —
 
+@@SPLIT:sense@@
 1.
 חֲשַׁבְיָהוּ un musicien du temple 1 Ch 25,3 = חֲשַׁבְיָה 1 Ch 25,19
 
@@ -11,6 +12,7 @@ nom propre, masculin (Yah(u) a pris en compte) —
 
 dans les deux Ασαβια.
 
+@@SPLIT:sense@@
 2.
 חֲשַׁבְיָה un Lévite, époque de David 1 Ch 27,17 peut-être = חֲשַׁבְיָהוּ, officier de David à
 Hébron 1 Ch 26,30
@@ -20,6 +22,7 @@ dans les deux
 
 Ασαβιας.
 
+@@SPLIT:sense@@
 3.
 חֲשַׁבְיָהוּ un Lévite, époque de Josias 2 Ch 35,9
 
@@ -27,12 +30,14 @@ dans les deux
 
 Ασαβια. Ailleurs חשׁביה :
 
+@@SPLIT:sense@@
 4. Lévite dans la lignée de Merari 1 Ch 6,30
 
 ᵐ5
 
 Ασεβ(ε)ι, Ασαβια.
 
+@@SPLIT:sense@@
 5. Lévite 1 Ch 9,14,
 
 ᵐ5
@@ -48,6 +53,7 @@ L
 
 Ασαβιου[ας]
 
+@@SPLIT:sense@@
 6. Lévite, époque d'Esdras Esd 8,19 ; Esd 8,24 ; Ne 10,12 ; Ne 11,22 ; Ne 12,24 (
 
 ᵐ5
@@ -55,12 +61,14 @@ L
 Ασαβιας etc.) = חֲשַׁבְנְיָה
 2, q. v.
 
+@@SPLIT:sense@@
 7. chef d'une famille de prêtres Ne 12,21,
 
 ᵐ5
 
 Ασαβιας.
 
+@@SPLIT:sense@@
 8. un bâtisseur à la muraille Ne 3,17,
 
 ᵐ5

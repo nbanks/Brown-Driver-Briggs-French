@@ -25,6 +25,8 @@ et tous les modernes, voir
 ) ; suffixe שָׁבֻעֹתֵיבֶם
 Nb 28,26 —
 
+@@SPLIT:sense@@
+
 1.
 période de sept jours (à partir d'un moment donné), semaine :
 Dt 16,9
@@ -49,6 +51,8 @@ J
 שׁ seul Nb 28,26 (
 P
 ).
+
+@@SPLIT:sense@@
 
 2.
 heptade ou septénaire d'années, tardif, Dn 9,24 ; Dn 9,25 ; Dn 9,26 ; Dn 9,27 (deux fois dans le verset). — שֻׁבֻעוֺת

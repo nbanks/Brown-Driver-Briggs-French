@@ -11,6 +11,8 @@ Dl^Pr 140^; Arabic
 [placeholder2167: Placeholders/2167.gif]
 have pain, suffer) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 יָגְָֽעָה
@@ -63,6 +65,8 @@ Ps 6:7; Ps
 Isa 43:22; Isa 57:10; Jer 45:3 absolute Isa 40:28; Isa 40:30; Isa 40:31 (in all || יעף
 ).
 
+@@SPLIT:stem@@
+
 Pi`el
 Imperfect 3 feminine singular suffix 3 masculine singular תְּיַגְּעֶנּוּ
 Eccl 10:15
@@ -72,6 +76,8 @@ weary, make weary, subject עֲמַל הכסילים; 2 masculine singular
 cause to go toilsomely
 Josh 7:3,
 followed by accusative
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 2 masculine singular suffix הוֺגַעְתַּנִי

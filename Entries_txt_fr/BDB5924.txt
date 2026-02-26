@@ -4,9 +4,11 @@ hébreu biblique
 עֵירֹם, עֵרֹם
 adjectif et nom [masculin]
 
+@@SPLIT:sense@@
 1.
 nu ;
 
+@@SPLIT:sense@@
 2.
 nudité
 (√ עור
@@ -20,12 +22,14 @@ Gn 3,10 ; Gn 3,11 + 4 t.,
 Ez 16,7 + 2 t.
 Ézéchiel ; pluriel עֵירֻמִּים) Gn 3,7 —
 
+@@SPLIT:sense@@
 1.
 adjectif
 nu
 Gn 3,7 ; Gn 3,10 ; Gn 3,11 (tous
 prédicat) ; comme substantif concret Ez 18,7 ; Ez 18,16.
 
+@@SPLIT:sense@@
 2.
 nom
 abstrait

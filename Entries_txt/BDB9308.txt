@@ -3,6 +3,8 @@ Biblical Aramaic
 
 [אֲמַן] verb
 
+@@SPLIT:stem@@
+
 Haph`el
 trust (Biblical Hebrew); — Perfect 3 masculine singular חֵימִן בֵּאלָחֵהּ
 

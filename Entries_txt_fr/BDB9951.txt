@@ -10,10 +10,14 @@ habiter (hébreu biblique
 שָׁכַן
 , מִשְׁכָּן) ; —
 
+@@SPLIT:stem@@
+
 Pe`al
 Imparfait 3 féminin pluriel יִשְׁכְּנָן
 Dn 4,18
 habiter, des oiseaux, ב lieu
+
+@@SPLIT:stem@@
 
 Pa`el
 causatif :

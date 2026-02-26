@@ -9,6 +9,7 @@ faire la ronde, [cheminer], rôder ; syriaque
 [placeholder3979: Placeholders/3979.gif]
 explorer, voir Brock) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 2 masculin pluriel figuré הָֽרְשָׁעִים
 וְעַסּוֺתֶם

@@ -8,11 +8,13 @@ zarâmu
 Dl^Pr 73 et dans^
 Zim^BP 119^) —
 
+@@SPLIT:stem@@
 Qal
 Parfait 2 masculin singulier suffixe זְרַמְתָּם
 Ps 90,5
 tu les emportes par un déluge, tu les balais (les hommes).
 
+@@SPLIT:stem@@
 Po.
 Parfait 3 pluriel זֹ֫רְמוּ מַ֫יִם עָבוֺת
 Ps 77,18

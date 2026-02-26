@@ -5,6 +5,8 @@ Biblical Hebrew
 denominative
 be wicked, act wickedly; —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 1 singular רָשַׁעָתִּי
 2Sam 22:22 +,
@@ -23,6 +25,8 @@ be wicked, act wickedly, 1Kgs 8:47 = 2Chr 6:37; Dan 9:15; Eccl 7:17 +מֵאֱל�
 
 2.
 be guilty, Job 9:29; Job 10:7; Job 10:15.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 masculine singular הִרְשִׁיעַ

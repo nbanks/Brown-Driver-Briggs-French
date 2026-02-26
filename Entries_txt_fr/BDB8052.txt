@@ -12,6 +12,7 @@ Jr 8,15 construit
 מַרְפֵּא
 Pr 15,4 —
 
+@@SPLIT:sense@@
 1.
 guérison, cure, des maux nationaux, Jr 8,15 ; Jr 14,19b (|| שָׁלוֺם), Jr 36,6 (+
 אֲרֻכָה) ; surtout ׳
@@ -22,6 +23,7 @@ il n'y a pas de remède pour nous, ׳
 2 Ch 36,16
 .
 
+@@SPLIT:sense@@
 2.
 figuré de personne, santé, profit, Pr 4,22 (|| חַיִּים), Pr 12,18 ;
 Pr 13,17 ;
@@ -43,6 +45,7 @@ Qo 10,4
 Qo 15,4
 guérison de la langue, = une langue apaisante (Toy).
 
+@@SPLIT:sense@@
 3. littéralement, de maladie, ׳
 לְאֵין מ
 2 Ch 21,18.

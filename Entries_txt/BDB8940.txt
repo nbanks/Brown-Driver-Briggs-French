@@ -12,11 +12,15 @@ smooth, limpid,
 [placeholder5672: Placeholders/5672.gif]
 make level, smooth (and derivatives)); —
 
+@@SPLIT:stem@@
+
 Niph`al
 be wind-swept, bare; Participle
 הַרנִֿשְׁפֶּה
 Isa 13:2
 a bare mountain;
+
+@@SPLIT:stem@@
 
 Pu`al
 Perfect consecutive וְשֻׁפוּ עַצְמֹתָיו

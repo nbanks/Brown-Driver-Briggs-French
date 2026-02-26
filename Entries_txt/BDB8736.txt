@@ -5,6 +5,8 @@ Biblical Hebrew
 denominative
 be in covenant of peace;-
 
+@@SPLIT:stem@@
+
 Qal
 Imperative
 שְׁלָ֑ם
@@ -21,6 +23,8 @@ read שָׂמוּ
 
 Ew^G iii. 264^
 Dr (compare We) HPS and modern
+
+@@SPLIT:stem@@
 
 Pu`al
 Participle
@@ -39,6 +43,8 @@ Ew and others one resigned (to God), read then
 Grä
 Marti
 מְשֻׁלָּחַי).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 feminine singular הִשְׁלִ֫ימָה
@@ -63,6 +69,8 @@ submitting unto.
 
 2.
 cause to be at peace, אֶת, Prov 16:7.
+
+@@SPLIT:stem@@
 
 Hoph`al
 Perfect 3 feminine singular הָשְׁלְאָה

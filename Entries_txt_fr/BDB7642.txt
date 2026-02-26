@@ -4,6 +4,7 @@ hébreu biblique
 [קָשַׁח]
 verbe
 
+@@SPLIT:stem@@
 Hiph`il
 
 1.

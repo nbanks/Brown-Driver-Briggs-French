@@ -6,6 +6,7 @@ perpétuité (= temps qui avance, comparer assyrien
 adû, temps au temps présent
 ) ; —
 
+@@SPLIT:sense@@
 1. du temps passé :
 מִנִּי עַר
 Jb 20,4
@@ -16,6 +17,7 @@ montagnes anciennes (comparer עולם
 ainsi
 Gn 49,26 (lire הַרְרֵי עַד pour הוֺרַ֔י עַד).
 
+@@SPLIT:sense@@
 2. du temps futur, לָעַד (habituellement לָעַ֑ד)
 pour toujours :
 

@@ -18,6 +18,8 @@ to its use in Greek or German: but naturally there are applications peculiar to 
 Ges^«GKC:126»§ 126^
 Ew^§ 277^): —
 
+@@SPLIT:sense@@
+
 1. joined with substantives:
 
 a. to mark a definite concrete object, as Gen 1:1
@@ -483,7 +485,7 @@ Help,
 O king ! 1Kgs 18:26
 הַבַּעַל עֲנֵנוּ, 2Kgs 9:5
 אֵלֶיךָ הַשָּׂר, Isa 42:18
-הֵַחרְשִׁים שְׁמָ֑עוּ, Jer 2:31
+הֵַחרְשִׁים שְׁמָ֑עוּ, Jer 2:31
 ׳
 הַדּֿוֺר אַתֶּם רְאוּ וג, Ezek 37:4
 הָעֲצָמוֺת הַיְּבֵשׁוֺת
@@ -534,6 +536,8 @@ Judg
 9:6; Ps
 9:17
 & often רָשָׁע; Isa 1:2; Isa 1:6; Isa 1:21; Isa 3:10; Isa 3:11; Isa 11:6; Isa 11:7; Isa 11:8.
+
+@@SPLIT:sense@@
 
 2. With adjectives, participles, and demonstrative pronouns
 (הוא, היא, המה, הם,
@@ -685,6 +689,8 @@ Gen 45:12
 ὁ διδοὺς σοί, Isa 14:27; Isa 66:9 (see Dr^§ 135. 7^
 ).
 
+@@SPLIT:sense@@
+
 3. The article is prefixed exceptionally — mostly in the latest Hebrew — with the force of a
 relative
 to the verb:
@@ -697,7 +703,7 @@ that went with him, Ezek 26:17, הָעִיר הַהֻ֫לָּלָה, 1Chr 26:28
 1Chr 29:17
 ;
 2Chr 1:4
-ַבּהֵכִין in (the place) that he had prepared, 2Chr 29:36
+ַבּהֵכִין in (the place) that he had prepared, 2Chr 29:36
 ; Ezra
 8:25;
 Ezra 10:14

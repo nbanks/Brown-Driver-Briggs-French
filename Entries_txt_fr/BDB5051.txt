@@ -16,6 +16,7 @@ Jb 17,16 + 2
 t. ; construit נַ֫חַת
 Jb 36,16 —
 
+@@SPLIT:sense@@
 1.
 tranquillité, attitude calme
 Es 30,15
@@ -37,6 +38,7 @@ ce qui est placé sur ta table sera, etc. De et
 autres, faisant de ׳
 נ le sujet de מָלֵא, et donc masculin).
 
+@@SPLIT:sense@@
 2.
 repos de la mort Jb 17,16 lire נֵחָ֑ת (ᵐ5 Du Dr), √
 נחת = descendre (comparer Jb 21,13) ; d'un enfant mort-né Qo 6,5. — II, III.

@@ -9,6 +9,8 @@ think, account (Late Hebrew id.; Aramaic חֲשַׁב,
 [placeholder2027: Placeholders/2027.gif]
 id.; Phoenician noun חשב meaning dubious see CIS^i. 86^) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 ׳
@@ -247,6 +249,8 @@ E
 Niph`al
 3); not impute iniquity to one Ps 32:2.
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect
 נֶחְשַׁב
@@ -333,6 +337,8 @@ Qal
 II
 3).
 
+@@SPLIT:stem@@
+
 Pi`el
 Perfect 3 masculine singular חִשַּׁב
 
@@ -394,6 +400,8 @@ P
 ); with אֶת
 2Kgs
 12:16.
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Imperfect

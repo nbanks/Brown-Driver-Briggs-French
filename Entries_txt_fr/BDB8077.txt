@@ -8,6 +8,7 @@ assassiner, tuer (hébreu tardif (rare, aussi dans les dérivés) = hébreu bibl
 [placeholder5161: Placeholders/5161.gif]
 briser, meurtrir, écraser) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier consécutif ׳
 וְר
@@ -54,6 +55,7 @@ dans le verset) ; Nb 35,19
 Nb 30,31 aussi
 Jb 24,14.
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait 1 singulier אֵרָצֵחַ
 Pr 22,13
@@ -62,6 +64,7 @@ je serai tué ; Participe féminin singulier comme adjectif אִשָּׁה הַ�
 Jg 20,4
 la femme assassinée.
 
+@@SPLIT:stem@@
 Pi`el (intensif) assassiner : 3 masculin pluriel יְרַצְּחוּ
 
 Os 6,9
@@ -73,6 +76,7 @@ meurtrier, assassin ; pluriel מְרֵצְּחִים
 Es 1,21
 assassins.
 
+@@SPLIT:stem@@
 Pu`al
 Imparfait, 2 masculin pluriel תְּרָצְּחוּ
 Ps 62,4, ainsi

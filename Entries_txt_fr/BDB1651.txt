@@ -19,6 +19,7 @@ Th, ainsi || 2 Ch 4,12 comparer Be), v
 2 Ch 4,41 + 3 t. ;
 —
 
+@@SPLIT:sense@@
 1.
 bassin (étang, puits ?)
 מַיִם
@@ -32,6 +33,7 @@ Jos 15,19
 (deux fois dans le verset) =
 Jg 1,15 (deux fois dans le verset) (probablement ancien nom propre [d'un lieu], comparer Di).
 
+@@SPLIT:sense@@
 2.
 coupe,
 

@@ -6,6 +6,7 @@ II. [חמץ] verbe
 [placeholder1813: Placeholders/1813.gif] Ethpaal rougir, avoir honte, peut-être à l'origine être rouge
 ) ; —
 
+@@SPLIT:stem@@
 Qal
 Participe passif construit חֲמוּץ בְּגָדִים
 rouge de vêtements

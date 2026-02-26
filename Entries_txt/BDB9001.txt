@@ -3,6 +3,8 @@ Biblical Hebrew
 
 [שָׁקָה] verb
 
+@@SPLIT:stem@@
+
 Hiph`il
 cause to drink water, give to drink (Late Hebrew Hiph`il id.; Arabic
 [placeholder5703: Placeholders/5703.gif] I. give to drink; Sabean סקי
@@ -103,6 +105,8 @@ Ps 80:6
 accusative of thing omitted, literal Judg 4:19; Exod 32:20 (
 E
 ), figurative Jer 25:17. — See also I. מַשְׁקֶה infra.
+
+@@SPLIT:stem@@
 
 Pu`al
 Imperfect 3 masculine singular וּמֹחַ עַצְמוֺתָיו

@@ -16,6 +16,7 @@ mélanger, échanger, mettre en gage — mais très incertain ; comparer
 Buhl^Lex^
 Lag^BN 203^) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier ׳
 ע
@@ -73,6 +74,7 @@ Ez 27,9
 ; Ez
 27,27.
 
+@@SPLIT:stem@@
 Hithpa`el
 1. réciproque : Impératif
 הִתְעָ֫רֶב נָא אֶתאֲֿדֹנִי

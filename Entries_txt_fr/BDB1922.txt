@@ -17,6 +17,7 @@ Pr 6,14
 construit מִדְיְנֵי
 Pr 19,13.
 
+@@SPLIT:sense@@
 1.
 querelle, contestation, presque entièrement Proverbes : — Pr 18,19 ; Pr 23,29 ; Pr 26,20 aussi Pr 17,14
 (|| רִיב), Pr 22,10 (|| דִּין וְקָלוֺן) ; יִשָּׂא
@@ -47,6 +48,7 @@ Pr 25,24
 Pr 21,19
 .
 
+@@SPLIT:sense@@
 2.
 objet de contestation
 Ps 80,7,

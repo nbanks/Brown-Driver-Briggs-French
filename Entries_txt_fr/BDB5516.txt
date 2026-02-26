@@ -4,9 +4,11 @@ hébreu biblique
 סִיג, שִׂיג
 nom [masculin]
 
+@@SPLIT:sense@@
 1.
 un recul ou éloignement ;
 
+@@SPLIT:sense@@
 2.
 scories (ce qui est retiré du métal) ;
 — absolu סִיג
@@ -26,6 +28,7 @@ Ez 22,18 +
 2 t. ; suffixe סִיגָ֑יִךָ
 Es 1,25 —
 
+@@SPLIT:sense@@
 1.
 un recul, éloignement :
 שִׂיג לוֺ
@@ -35,6 +38,7 @@ il y a un recul pour lui = il s'est retiré, éloigné (probablement d'un retrai
 temporaire, différent de דֶּרֶךְ
 voyage).
 
+@@SPLIT:sense@@
 2.
 scories, habituellement d'argent Pr 25,4 (מִכָּ֑סֶף), Pr 26,23
 ׅ

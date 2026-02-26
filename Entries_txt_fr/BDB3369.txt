@@ -10,6 +10,7 @@ léger, vif, rapide, du cheval ; possiblement comparer syriaque
 [placeholder2139: Placeholders/2139.gif]
 vaciller) —
 
+@@SPLIT:stem@@
 Qal
 Infinitif absolu
 טָפֹף

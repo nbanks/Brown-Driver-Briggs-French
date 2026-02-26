@@ -5,9 +5,11 @@ I. כַּפְתּוֺר
 כַּפְתֹּר
 nom masculin
 
+@@SPLIT:sense@@
 1.
 chapiteau,
 
+@@SPLIT:sense@@
 2.
 bouton, bulbe
 (
@@ -16,12 +18,14 @@ bouton, bulbe
 [placeholder2626: Placeholders/2626.gif]
 poire (Löw^No. 153^), d'après la forme) ; —
 
+@@SPLIT:sense@@
 1.
 כַּפְתּוֺר
 Am 9,1
 chapiteau de colonne ; ainsi pluriel suffixe כַּפְתֹּרֶיהָ
 So 2,14.
 
+@@SPLIT:sense@@
 2.
 כַּפְתֹּר, bouton ou bulbe, ornement sur le chandelier d'or dans le tabernacle ;
 

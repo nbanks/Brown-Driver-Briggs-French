@@ -4,6 +4,7 @@ hébreu biblique
 [קִדְמָה] nom féminin
 devant, Est ; — seulement construit קִדְמַת comme préposition :
 
+@@SPLIT:sense@@
 1.
 en face de, vis-à-vis (comparer Nö^ZMG xxxiii (1879),
 532^), Gn 2,14 (c.-à-d. du point de vue de l'auteur ; en réalité, pour des raisons géographiques, = à l'ouest
@@ -11,6 +12,7 @@ de ; pourtant voir Di^ed. 6^), Gn 4,16 (les deux
 J
 ),
 
+@@SPLIT:sense@@
 2.
 à l'est de, Ez 39,11 ; 1 S 13,5 peut être l'un ou l'autre.
 

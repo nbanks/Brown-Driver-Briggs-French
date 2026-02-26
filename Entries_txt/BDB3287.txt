@@ -8,6 +8,8 @@ dip, bathe; compare perhaps Arabic
 [placeholder2061: Placeholders/2061.gif]
 saturavit tinctura vestem, Frey) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 וְטָבַל consecutive Lev 4:6 + 5 t.; וְטָבַלְתְּ consecutive Ruth 2:14
@@ -49,6 +51,8 @@ Lev 14:16
 
 2. intransitive, dip (oneself), followed by בְּ, 2Kgs 5:14 in
 Jordan (|| רָחַץ בְּ 2Kgs 5:10 2Kgs 5:12).
+
+@@SPLIT:stem@@
 
 Niph`al
 Perfect 3 masculine plural נִּטְבְּלוּ

@@ -8,6 +8,8 @@ DHM^Sendsch. 60^; Arabic
 [placeholder3042: Placeholders/3042.gif]; Sabean מנע
 Levy-Os^ZMG xix. 1865, 268^; Aramaic מְנַע) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 ׳
@@ -54,6 +56,8 @@ followed by מִן + infinitive 1Sam 25:26; 1Sam 25:34 followed by לְ, subject
 י
 Ps 84:12
 (good).
+
+@@SPLIT:stem@@
 
 Niph`al
 Perfect

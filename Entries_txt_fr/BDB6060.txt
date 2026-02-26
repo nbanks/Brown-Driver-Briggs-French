@@ -7,6 +7,8 @@ remuer, troubler, perturber (hébreu tardif id., rendre trouble ; arabe
 [placeholder3861: Placeholders/3861.gif]
 être trouble) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Parfait 3 masculin singulier ׳
 ע
@@ -44,6 +46,8 @@ ci-dessus) ; אֶתהָֿאָרֶץ
 ׳
 ע
 1 S 14,29.
+
+@@SPLIT:stem@@
 
 Niph`al
 Parfait 3 masculin singulier וּכְאֵבִי נֶעְכָּ֑ר

@@ -12,6 +12,7 @@ fissurer ;
 Jr 22,14,
 découper, faire, fenêtre) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 2 masculin singulier suffixe de la terre, פְּצַמְתָּ֑הּ
 Ps 60,4 (sujet

@@ -67,6 +67,7 @@ Gn 29,21+ 8 t. ;
 Jr 35,8 + 7 t.,
 etc. ; —
 
+@@SPLIT:sense@@
 1.
 jour, opposé à nuit, Gn 7,14 ; Gn 7,12 ; Gn 8,22 (tous
 J
@@ -133,6 +134,7 @@ le déclin du jour ; רַד מְאֹד
 הַיּ Jg 19,11
 le jour a beaucoup baissé (est très avancé).
 
+@@SPLIT:sense@@
 2.
 Jour comme division du temps :
 
@@ -396,6 +398,7 @@ aussi de faux dieux, יִמֵי
 Os
 2,11.
 
+@@SPLIT:sense@@
 3.
 ׳
 יוֺם י
@@ -441,6 +444,7 @@ mais il y aura un jour, connu de
 ni jour ni nuit ; comparer aussi ביום ההוא
 7.g. ci-dessous
 
+@@SPLIT:sense@@
 4. Pluriel jours de quelqu'un :
 
 a. = sa vie, son âge Gn 6,3 (
@@ -596,6 +600,7 @@ c. d'où dans la formule סֵפֶר דִּבְרֵי הַיָּמִים לְ
 סֵפֶר הַזִּכְרֹנוֺת דִּבְרֵי הַיָּמִים
 Est 6,1.
 
+@@SPLIT:sense@@
 5.
 Jours :
 
@@ -708,6 +713,7 @@ surtout (ב)אַחֲרִית
 Dn 12,13
 .
 
+@@SPLIT:sense@@
 6.
 יוֺם = temps ;
 
@@ -825,6 +831,7 @@ la fin de deux (séries de) jours (c.-à-d. probablement
 
 années, voir Be).
 
+@@SPLIT:sense@@
 7. Formules, sans préposition et avec, sont :
 
 a. (1) הַיּוֺם =

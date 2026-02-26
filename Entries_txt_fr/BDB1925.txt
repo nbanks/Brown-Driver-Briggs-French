@@ -4,6 +4,7 @@ hébreu biblique
 מִדְיָן
 nom propre, masculin
 
+@@SPLIT:sense@@
 1.
 fils d'Abraham et de Keturah
 Gn 25,2 ; Gn 25,4 (
@@ -12,6 +13,7 @@ J
 ; 1 Ch 1,33
 .
 
+@@SPLIT:sense@@
 2. une tribu arabe Gn 36,35 (= 1 Ch 1,46) Nb 31,3 (deux fois dans le verset) ; Nb 31,7 ; Nb 31,8 (deux fois dans le verset) ; Nb 31,9 (
 P
 ) Jg 6-9 (31 t.) ; ayant un כֹּהֵן (comme chef ?) Ex 2,16 ; Ex 3,1 ; Ex 18,1 (
@@ -44,6 +46,7 @@ sur Madian Jg 7-8) comparer
 Jg 10,26 ;
 Ps 83,10,
 
+@@SPLIT:sense@@
 3.
 אֶרֶץ
 מִרְיָן

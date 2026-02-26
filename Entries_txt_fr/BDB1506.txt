@@ -17,6 +17,7 @@ Ct 5,13 (?) ;
 suffixe מִגְדְּלֹתַיִךְ
 Ez 26,9 ; Ez 27,11 —
 
+@@SPLIT:sense@@
 1.
 tour
 Gn 11,4 ; Gn 11,5 ; Jg 8,9 ; Jg 9,51 (deux fois
@@ -53,9 +54,11 @@ Za 14,10
 Ne 3,11 ; Ne 12,38
 (tour des fours).
 
+@@SPLIT:sense@@
 2.
 estrade surélevée, pupitre de bois Ne 8,4.
 
+@@SPLIT:sense@@
 3.
 plate-bande surélevée || עֲרוּגָה
 Ct 5,13,

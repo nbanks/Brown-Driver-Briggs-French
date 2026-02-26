@@ -17,6 +17,8 @@ Prov 6:14
 construct מִדְיְנֵי
 Prov 19:13.
 
+@@SPLIT:sense@@
+
 1.
 strife, contention, almost wholly Proverbs: — Prov 18:19; Prov 23:29; Prov 26:20 also Prov 17:14
 (|| רִיב), Prov 22:10 (|| דִּין וְקָלוֺן); יִשָּׂא
@@ -46,6 +48,8 @@ Prov 25:24
 אשׁת מ
 Prov 21:19
 .
+
+@@SPLIT:sense@@
 
 2.
 object of contention

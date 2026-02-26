@@ -19,6 +19,8 @@ ezêzu
 , be furious, ezzu, fierce);
 —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 3 masculine singular יָעֹז
 Ps 9:20; Ps 52:9,
@@ -61,6 +63,8 @@ Isa 30:2 see
 
 עוּז
 .
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 masculine singular חֵעֵז אִישׁ רָשָׁע בְּפָנָיו

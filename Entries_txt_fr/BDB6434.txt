@@ -21,6 +21,7 @@ Jr 1,16 + ; suffixe
 singulier, ainsi Dr) +, etc. ; — souvent accusatif de sens apparenté avec verbe
 avec עשׂה ; —
 
+@@SPLIT:sense@@
 1.
 
 a. (1) action, chose faite par l'homme Nb 16,28 (
@@ -178,6 +179,7 @@ D
 ׳
 מ en général Qo 7,13 ; Qo 8,17 ; Qo 11,5 comparer Qo 3,11.
 
+@@SPLIT:sense@@
 2.
 
 a. (1) œuvre, chose fabriquée, par l'homme, אֹפֶה

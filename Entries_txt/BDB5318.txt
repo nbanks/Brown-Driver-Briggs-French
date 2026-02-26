@@ -36,6 +36,8 @@ Kit
 Bu
 HPS; —
 
+@@SPLIT:sense@@
+
 1.
 pillar, מֶלַח
 ׳
@@ -44,6 +46,8 @@ Gen 19:26 (
 
 J
 ).
+
+@@SPLIT:sense@@
 
 2.
 prefect, deputy

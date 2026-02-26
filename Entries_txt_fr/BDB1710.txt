@@ -4,6 +4,7 @@ hébreu biblique
 מָגַן
 verbe seulement
 
+@@SPLIT:stem@@
 Pi`el
 livrer, remettre (dénominatif de מָגֵן ; sur le lien des sens comparer
 סָגַר) — Parfait

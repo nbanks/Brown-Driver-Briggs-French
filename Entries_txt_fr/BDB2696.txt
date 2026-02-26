@@ -3,9 +3,11 @@ hébreu biblique
 
 [חַטָּא] adjectif et nom masculin
 
+@@SPLIT:sense@@
 1.
 pécheur (adj.),
 
+@@SPLIT:sense@@
 2.
 pécheurs (n.)
 — comme adjectif féminin חַטָּאָה
@@ -17,6 +19,7 @@ Am 9,10 suffixe
 חַטָּאֶיהָ
 Es 13,9 —
 
+@@SPLIT:sense@@
 1.
 adjectif
 
@@ -31,6 +34,7 @@ exposé à la condamnation, considéré comme coupable
 1 R 1,21
 (comparer Hiph`il Participe Es 29,21). Ailleurs
 
+@@SPLIT:sense@@
 2.
 nom masculin
 pécheurs

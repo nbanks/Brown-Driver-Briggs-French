@@ -11,6 +11,7 @@ couvrir, voiler, dissimuler ;
 עֲמַם
 s'obscurcir) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 pluriel suffixe עֲמָמֻהוּ
 Ez 31,8
@@ -20,6 +21,7 @@ Ez 28,3 aucun
 secret n'est tenu obscur (= n'est obscur) pour toi (Ges
 ^«GKC:117x»§ 117x^).
 
+@@SPLIT:stem@@
 Hoph`al
 Imparfait 3 masculin singulier יוּעַם זָהָב
 Lm 4,1 (figuré)

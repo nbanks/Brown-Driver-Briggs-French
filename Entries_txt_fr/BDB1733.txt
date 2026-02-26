@@ -10,6 +10,7 @@ CIS^338. 4^ ; comparer aussi arabe
 peler ou arracher l'écorce, raser le poil d'une peau
 etc.) —
 
+@@SPLIT:stem@@
 Hithpa`el
 Infinitif
 לְהִתְגָּרֵד

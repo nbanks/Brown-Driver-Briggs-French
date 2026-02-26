@@ -8,9 +8,13 @@ keep, cleave to, become familiar with; Aramaic אֲלַף,
 [placeholder235: Placeholders/235.gif], learn,
 [placeholder236: Placeholders/236.gif], Pa teach).
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 2 masculine singular תֶּאֱלַף אֹרְחֹתָו֯
 Prov 22:25
+
+@@SPLIT:stem@@
 
 Pi`el
 teach, followed by accusative

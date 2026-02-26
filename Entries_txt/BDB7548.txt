@@ -15,9 +15,13 @@ Judg 15:1 +; suffix
 Lev 19:9 +, etc.; —
 harvest:
 
+@@SPLIT:sense@@
+
 1. process of harvesting, Gen 45:6 (
 E
 ; + חָרִישׁ), Ruth 2:21.
+
+@@SPLIT:sense@@
 
 2.
 what is reaped, harvested, crop, specifically of grain: Gen 8:22 (+זֶרַע;
@@ -73,6 +77,8 @@ Isa 4:13 (
 ׳
 בָּשַׁל ק); figurative of punishment Hos 6:11 of vintage Isa 16:9 (|| קַיִץ; read probably
 בָּצִיר as || Jer 48:32, Buhl^Lex 13^).
+
+@@SPLIT:sense@@
 
 3.
 time of harvest, Exod 34:21 (+ חָרִישׁ;

@@ -8,6 +8,7 @@ stupéfier ; III., 1 et 2
 [placeholder1161: Placeholders/1161.gif]
 être stupéfait, hébété) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 דַּ֫מּוּ
@@ -63,6 +64,7 @@ comme siège de l'agitation mentale Jb 30,27 ; Lm 2,18
 être frappé de mutisme, stupéfait, dans l'étonnement et la crainte Ex 15,16 (כאבן) Es 23,2 (mais
 comparer II. דמם).
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 pluriel וְנָדַמּוּ consécutif Jr 25,37
 Imparfait
@@ -78,12 +80,14 @@ Jr 51,6
 hommes de guerre
 Jr 49,25 ; Jr 50,30 demeures Jr 25,37.
 
+@@SPLIT:stem@@
 Po.
 Parfait 1 singulier שִׁוִּיתִי וְדוֺמַ֫מְתִּי נַפְשִׁי
 Ps 131,2
 « j'ai calmé et apaisé mon âme » Che
 (comme un enfant sevré).
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 masculin singulier suffixe הֲדִמָּנוּ
 il (Dieu) nous a réduits au silence (= fait périr) Jr 8,14

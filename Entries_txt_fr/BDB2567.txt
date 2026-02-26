@@ -6,6 +6,7 @@ verbe
 cesser (sabéen חדל
 être négligent, SabDenkm^76^) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 חָדַל
@@ -128,6 +129,7 @@ Am 7,5 ; 1 R 22,6 ;
 Ez 3,27
 (tous opposés à שָׁמַע).
 
+@@SPLIT:stem@@
 Hoph`al
 Parfait (contracté) avec particule interrogative הֶחֳדַלְתִּי
 Jg 9,9 ; Jg 9,11 ;

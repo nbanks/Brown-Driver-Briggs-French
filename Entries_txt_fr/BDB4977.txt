@@ -20,9 +20,11 @@ Gn 12,17 ; Ps 89,33
 construit נִגְעִי
 2 S 7,14 —
 
+@@SPLIT:sense@@
 1.
 coup, blessure, infligée par un homme à un autre Dt 17,8 ; Dt 21,5 (|| רִיב, Pr 6,33.
 
+@@SPLIT:sense@@
 2.
 coup, métaphore, surtout d'une maladie, considérée comme envoyée en châtiment divin, Gn 12,17 (
 
@@ -43,6 +45,7 @@ Israël Ps 38,12
 de ׳
 י, נֶגַע לָ֑מוֺ).
 
+@@SPLIT:sense@@
 3.
 marque (60 t. Lv 13, 14), indéterminé Lv 13,5 ; Lv 13,6 (מִסְפַּחַת), Lv 13,17 Lv 13,29 v
 Lv 13,30 v

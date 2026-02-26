@@ -33,6 +33,7 @@ Am 4,10,
 Jos 11,6+ ; —
 cheval :
 
+@@SPLIT:sense@@
 1. non israélite ; chevaux de char des Cananéens Jg 5,22 (comparer Jg 5,28 ; Jg 4,3 ; Jg 4,13
 ׳
 עִקְבֵי ס ; ׳
@@ -58,6 +59,7 @@ montés, pour la fuite), Assyriens Es 5,28 + 3 t., Chaldéens Jr 4,13 + 6 t. ; a
  ; Ez 38,15
 + 13 t. (tardif).
 
+@@SPLIT:sense@@
 2. en Israël ; chevaux de char d'Absalom 2 S 15,1, surtout de Salomon, et plus tard, 1 R 5,6 ; 1 R 5,8 ; 1 R 10,25 ; 1 R 10,28 ; 1 R 10,29,
 et || Chroniques ; 1 R
 18,5 et (comme équipement de guerre) 1 R 22,4 ; 2 R 3,7 ; 2 R 9,33 ; 2 R 10,2 ; Pr 21,31
@@ -81,6 +83,7 @@ Ginsb q. v.) ; description du cheval Jb 39,19 dans diverses comparaisons et figu
 Es 63,13 ;
 Jl 2,4 ; Pr 27,3 ; Ps 32,9 ; Ps 147,10.
 
+@@SPLIT:sense@@
 3.
 chevaux de char de ׳
 י

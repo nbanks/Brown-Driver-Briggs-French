@@ -5,6 +5,8 @@ Biblical Hebrew
 beat, crush by beating (Late Hebrew id.; Aramaic כְּתַת);
 —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 1 singular וְכַתּוֺתִ֫י
 Ps 89:24
@@ -29,6 +31,8 @@ Pi`el
 2)
 Joel 4:10.
 
+@@SPLIT:stem@@
+
 Pi`el
 Perfect 3 masculine singular כִּתַּת
 2Kgs 18:4
@@ -49,11 +53,15 @@ Qal
 2:4 = Mic 4:3
 .
 
+@@SPLIT:stem@@
+
 Pu`al
 Perfect 3 masculine plural וְכֻתְּתוּ
 2Chr 15:6
 
 and they were beaten in pieces, one nation against another.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imperfect 3 masculine plural וַיַּכְּתוּ
@@ -63,6 +71,8 @@ beat in pieces an enemy, suffix וַיַּכּוּם וַיַּכְּתוּם
 
 Num
 14:45.
+
+@@SPLIT:stem@@
 
 Hoph`al
 Imperfect 3 masculine singular וּשְׁאִיָּה יֻכַּתשָֿׁ֑עַר

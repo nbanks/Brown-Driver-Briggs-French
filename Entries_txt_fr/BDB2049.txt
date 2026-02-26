@@ -10,6 +10,7 @@ méditer, surtout Ethpaal ; arabe
 [placeholder1238: Placeholders/1238.gif]
 satiriser, insulter, gronder, aussi épeler (sens emprunté)) —
 
+@@SPLIT:stem@@
 Qal
 Parf. 2 masculin singulier וְהָגִ֫יתָ consécutif Jos 1,8 1 singulier הָגִ֫יתִי
 
@@ -71,6 +72,7 @@ b.
 imaginer, tramer, avec accusatif Ps 2,1 ; Pr 24,2 (sujet לֵב
 ) ; avec Infinitif Pr 15,28 (sujet id.)
 
+@@SPLIT:stem@@
 Po.
 Infinitif absolu seulement הֹרוֺ וְהֹגוֺ מִלֵּב
 דִּבְרֵישֶֿׁקֶר
@@ -87,6 +89,7 @@ Ba^NB 77 retient^
 
 & explication comme Qal Infinitif passif
 
+@@SPLIT:stem@@
 Hiph`il
 Participe pluriel הַמְּצַפְצְפִים
 וְהַמַּהְגִּ֥ים

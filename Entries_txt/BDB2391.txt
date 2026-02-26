@@ -4,12 +4,16 @@ Biblical Hebrew
 II. [זָמַר] verb
 trim, prune (Late Hebrew id.; relation to √ I. obscure) —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 2 masculine singular תִּזְמֹר
 Lev 25:3; Lev 25:4 of pruning a
 vineyard (כֶּרֶם;
 H
 ).
+
+@@SPLIT:stem@@
 
 Niph`al
 Imperfect

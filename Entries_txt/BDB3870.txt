@@ -55,6 +55,8 @@ Kö^ii. 1, 279 ff.^, who treats כְּ as demonstrative adverb); but Hebrew
 having no case-endings, its proper sense was doubtless forgotten, and כְּ became practically
 equivalent to a preposition like, as: —
 
+@@SPLIT:sense@@
+
 1.
 
 a.
@@ -242,6 +244,8 @@ Josh 3:4; 1Sam 9:13; Isa 1:7; Hos 5:10,
 they extended it unduly (e.g. to Num 11:1; Lam 1:20;
 Hos 11:4).
 
+@@SPLIT:sense@@
+
 2. repeated, כְּכְּ֗֗֗, to signify the completeness of the correspondency
 between
 two objects (peculiar to Hebrew):
@@ -323,6 +327,8 @@ with
 they sinned against me, Gen 6:22; 1Sam 8:8; Isa 38:14; Ezek 22:22; Ps 42:2;
 Ps 83:15
 + often
+
+@@SPLIT:sense@@
 
 3. before an infinitive:
 

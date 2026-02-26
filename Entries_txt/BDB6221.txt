@@ -5,6 +5,8 @@ Biblical Hebrew
 proper name, masculine
 Levites: —
 
+@@SPLIT:sense@@
+
 1.
 1Chr 15:18;
 1Chr 15:20,
@@ -15,6 +17,8 @@ Levites: —
 ^L^
 
 Ανανιας.
+
+@@SPLIT:sense@@
 
 2.
 Neh 12:9

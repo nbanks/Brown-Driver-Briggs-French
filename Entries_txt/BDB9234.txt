@@ -6,6 +6,8 @@ verb
 lay hold of, wield ( = Late Hebrew תָּפַשׂ, תָּפַם, Aramaic
 תְּפַשׂ, תְּפַם); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular ׳
 ת
@@ -115,6 +117,8 @@ Num 31:27
 P
 ) those skilled in war. — Jer 34:8 see below
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect 3 masculine singular נִתְפַּשׂ
 Ezek 19:4
@@ -144,6 +148,8 @@ be seized, of fortress, city Jer 48:41 (both ||
 
 may they be caught in (ב) the devices
 which they have planned.
+
+@@SPLIT:stem@@
 
 Pi`el
 Imperfect 2 masculine singular תְּתַפֵּשׂ

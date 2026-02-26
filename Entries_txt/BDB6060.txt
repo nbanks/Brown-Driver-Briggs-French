@@ -7,6 +7,8 @@ stir up, disturb, trouble (Late Hebrew id., make turbid; Arabic
 [placeholder3861: Placeholders/3861.gif]
 be turbid); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular ׳
 ע
@@ -44,6 +46,8 @@ above); אֶתהָֿאָרֶץ
 ׳
 ע
 1Sam 14:29.
+
+@@SPLIT:stem@@
 
 Niph`al
 Perfect 3 masculine singular וּכְאֵבִי נֶעְכָּ֑ר

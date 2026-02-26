@@ -10,6 +10,8 @@ thunderbolt,
 [placeholder4593: Placeholders/4593.gif]
 bellow (of bull)); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular׳
 צ
@@ -100,6 +102,8 @@ Job 19:7 (||
 make outcry, clamour, Isa 42:2 (+ יִשָּׂא, יַשְׁמִיעַ
 קוֺלוֺ ).
 
+@@SPLIT:stem@@
+
 Niph`al
 be summoned (i.e. to arms), absolute; Imperfect 3 masculine singular
 וַיִּצָּעֵק
@@ -109,10 +113,14 @@ Judg 10:17;
 2Kgs 3:21,
 followed by אַחֲרֵי שָׁאוּל + accusative of location 1Sam 13:4.
 
+@@SPLIT:stem@@
+
 Pi`el
 Participle
 מְצַעֵק
 cry aloud, in grief, 2Kgs 2:12.
+
+@@SPLIT:stem@@
 
 Hiph`il
 call together

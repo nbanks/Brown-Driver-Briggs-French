@@ -4,6 +4,7 @@ hébreu biblique
 [שָׁזַף] verbe
 apercevoir, regarder (de l'œil) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 féminin singulier suffixe personne, sujet עַיִן, שְׁוֶפַתּוּ
 Jb 20,9, ainsi (de

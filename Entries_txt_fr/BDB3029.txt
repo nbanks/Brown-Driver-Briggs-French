@@ -11,6 +11,7 @@ une petite flèche ; Di^134^ place ici éthiopien
 [placeholder1918: Placeholders/1918.gif]
 flèche, comparer חֵצִי) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 חָצָה
@@ -57,6 +58,7 @@ n'atteindront pas la moitié de leurs jours, c.-à-d. ne jouiront même pas de l
 צואר יח
 atteindra la moitié jusqu'au cou = atteindra le cou et ainsi divisera l'homme en deux.
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait 3 féminin singulier avec apocope תֵּחָץ
 Dn 11,4

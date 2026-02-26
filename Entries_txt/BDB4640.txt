@@ -12,6 +12,8 @@ makkûru, namkur(r)u
 , nakkuru, possession, property
 , Dl^HWB 408^); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 ׳
@@ -102,6 +104,8 @@ woman); also Ezek
 B
 and others)
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect
 נִמְכַּר
@@ -136,6 +140,8 @@ Lev 25:50
 י,
 Isa 50:1 for (בְּ) their sins, Isa 52:3 compare Esth 7:4 = given over to
 death.
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Perfect

@@ -9,10 +9,14 @@ swim, bathe, also סָחְיָא, סַחְיָנָא, שָׂחְיָנָא
 
 swimmer; Aph`el wash); —
 
+@@SPLIT:stem@@
+
 Qal
 Participle + Infinitive construct
 כַּאֲשֶׁר יְפָרֵשׂ הַשּׂחֶה לִשְׂחוֺת
 Isa 25:11.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imperfect 1 singular אַשְׂחֶה

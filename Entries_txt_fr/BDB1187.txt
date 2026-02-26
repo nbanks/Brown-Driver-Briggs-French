@@ -4,6 +4,7 @@ hébreu biblique
 בֻּנִּי
 nom propre, masculin
 
+@@SPLIT:sense@@
 1.
 Lévites,
 
@@ -16,6 +17,7 @@ b.
 בּוּנִּי (בֶּן) Ne 11,15, mais lire peut-être מִן בְּנֵי etc. comparer
 BeRy.
 
+@@SPLIT:sense@@
 2. un chef du peuple Ne 10,16, peut-être répétition de בָּנִי V:15 comparer BeRy.
 
 ---

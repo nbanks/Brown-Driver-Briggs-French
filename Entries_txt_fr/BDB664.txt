@@ -11,6 +11,7 @@ Es 58,10
 pluriel אֲפֵלוֺת
 Es 59,9 —
 
+@@SPLIT:sense@@
 1.
 ténèbres
 Dt 28,29 ;
@@ -19,6 +20,7 @@ Pr 7,9 (||
 י (comparer Am 5,20 ci-dessous אָפֵל) Jl 2,2 ; So 1,15 (les deux || חשׁך
 ענן, רְפל) image de la méchanceté Jr 23,18 ; Pr 4,19.
 
+@@SPLIT:sense@@
 2.
 figuré de la calamité
 Es 8,22 (||

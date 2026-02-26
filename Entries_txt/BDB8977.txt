@@ -4,6 +4,8 @@ Biblical Hebrew
 II. שָׁפָן
 proper name, masculine Saf(f)an:
 
+@@SPLIT:sense@@
+
 1. secretary (הַסִּפֵר) under Josiah 2Kgs 22:3; 2Kgs 22:8 (twice in verse); 2Kgs 22:9; 2Kgs 22:10 (twice in verse);
 2Kgs 22:12;
 2Kgs 22:14;
@@ -11,18 +13,26 @@ proper name, masculine Saf(f)an:
 (twice in verse);
 2Chr 34:16; 2Chr 34:18 (twice in verse); 2Chr 34:20.
 
+@@SPLIT:sense@@
+
 2. father of אֲחִיקָם, contemporary of
 1 (improbable =
 1): 2Kgs 22:12; 2Kgs 25:22; Jer 26:24; Jer 39:14; Jer 40:5; Jer 40:9; Jer 40:11; Jer 41:2; Jer 43:6; 2Chr 34:20.
+
+@@SPLIT:sense@@
 
 3. father of אֶלְעָשָׂה
 Jer 29:3, perhaps
 = 2.
 
+@@SPLIT:sense@@
+
 4. father of גְּמַרְיָ֫הוּ
 Jer 36:10
 (called הַסִּפֵר), Jer 36:11 Jer 36:12, perhaps =
 1.
+
+@@SPLIT:sense@@
 
 5. father of יַאֲזַנְיָ֫הוּ
 Ezek 8:11,

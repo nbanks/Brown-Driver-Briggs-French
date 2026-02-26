@@ -20,6 +20,8 @@ Gen 28:8 + 14 t.;
 Gen 41:27 (18 t.
 noun); —
 
+@@SPLIT:sense@@
+
 1.
 bad, disagreeable, malignant: of a woman, רָעָה בְּעֵינֵי
 Exod 21:8 (
@@ -44,6 +46,8 @@ H
 ) Ezek
 5:17;
 Ezek 14:15; Ezek 14:21; Ezek 34:25 unclean thing Deut 23:10.
+
+@@SPLIT:sense@@
 
 2.
 bad, unpleasant, giving pain, unhappiness, misery: ימים רעים
@@ -112,10 +116,14 @@ E
 
 9).
 
+@@SPLIT:sense@@
+
 3.
 evil, displeasing
 עָשָׂח רָ֔ע בְּעֵינֵי סַרְנֵי פְלשְׁתִּים
 1Sam 29:7.
+
+@@SPLIT:sense@@
 
 4.
 bad of its kind, land Num 13:19 (
@@ -134,6 +142,8 @@ Deut 15:21,
 compare Deut 17:1
 .
 
+@@SPLIT:sense@@
+
 5.
 bad, i.e. of low value Lev 27:10 (twice in verse); Lev 27:12; Lev 27:14; Lev 27:33 (
 H
@@ -142,11 +152,15 @@ H
 Prov 20:14
 (twice in verse).
 
+@@SPLIT:sense@@
+
 6. + מִן comparative, worse than, 2Sam 19:8 as superlative, רָעֵי
 
 גוֺיִם
 Ezek 7:24
 worst of nations (strike out Co).
+
+@@SPLIT:sense@@
 
 7.
 sad, unhappy:
@@ -158,11 +172,15 @@ E
 ) Neh 2:2
 רע לְפָנָיו Neh 2:1.
 
+@@SPLIT:sense@@
+
 8.
 חָשַׁב מַחֲשֶׁבֶת(ה)רָעָה
 devise evil (hurtful) device
 Ezek 38:10;
 Esth 9:25.
+
+@@SPLIT:sense@@
 
 9.
 bad, unkind, vicious in disposition or temper: וְלֵברָֿ֑ע
@@ -172,6 +190,8 @@ one evil of eye Prov 23:6; Prov 28:22
 רוּחַ רָעָה
 Judg 9:23
 bad temper.
+
+@@SPLIT:sense@@
 
 10. ethically bad, evil, wicked:
 

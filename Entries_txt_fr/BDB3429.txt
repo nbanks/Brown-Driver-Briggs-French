@@ -11,6 +11,7 @@ Dl^Pr 140^ ; arabe
 [placeholder2167: Placeholders/2167.gif]
 avoir de la douleur, souffrir) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 יָגְָֽעָה
@@ -63,6 +64,7 @@ Ps 6,7 ; Ps
 Es 43,22 ; Es 57,10 ; Jr 45,3 absolu Es 40,28 ; Es 40,30 ; Es 40,31 (dans tous || יעף
 ).
 
+@@SPLIT:stem@@
 Pi`el
 Imparfait 3 féminin singulier suffixe 3 masculin singulier תְּיַגְּעֶנּוּ
 Qo 10,15
@@ -73,6 +75,7 @@ faire aller péniblement
 Jos 7,3,
 suivi de l'accusatif
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 2 masculin singulier suffixe הוֺגַעְתַּנִי
 Es

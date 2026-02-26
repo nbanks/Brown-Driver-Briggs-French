@@ -6,6 +6,8 @@ masculin, עֲשִׂירִיָּה, et עֲשִׂירִית_8_ féminin
 adjectif numéral ordinal
 dixième ; —
 
+@@SPLIT:sense@@
+
 1.
 דּוֺר עֲשִׂירִי
 Dt 23,3 ; Dt 23,4
@@ -38,6 +40,8 @@ Ez 29,1,
 ׳
 בַּשּׁ
 Jr 32,1.
+
+@@SPLIT:sense@@
 
 2. comme substantif un dixième : f. absolu עֲשִׂרִיָּה
 Es 6,13 féminin

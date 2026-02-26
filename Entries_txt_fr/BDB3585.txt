@@ -11,6 +11,7 @@ mušeni‡tu
 , nourrice, Jen^ZA, 1886, 402^
 ) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 וְיָנַקְתְּ consécutif Es 60,16
@@ -57,6 +58,7 @@ Es 11,8 — sur Es 53,2 voir
 יוֺנֵק
 ci-dessous.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait
 הֵינִ֫יקָה

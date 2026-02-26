@@ -4,9 +4,11 @@ hébreu biblique
 גְּבִירָה
 nom
 
+@@SPLIT:sense@@
 1.
 dame, reine, 1 R 11,19
 
+@@SPLIT:sense@@
 2. reine mère, 1 R 15,13 = 2 Ch 15,16
 ׳
 וַיְסִרֶהָ מִגּ

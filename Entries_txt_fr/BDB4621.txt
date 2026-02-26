@@ -4,6 +4,7 @@ hébreu biblique
 מִיכָא
 nom propre, masculin (ainsi en palmyrénien, Vog^No. 36a^).
 
+@@SPLIT:sense@@
 1. fils de Mephibosheth (
 
 ᵐ5
@@ -12,9 +13,11 @@ nom propre, masculin (ainsi en palmyrénien, Vog^No. 36a^).
 9,12 ( = מִיכָה
 4)
 
+@@SPLIT:sense@@
 2.
 Ne 10,2.
 
+@@SPLIT:sense@@
 3.
 Ne 11,7 ( = 1 Ch 9,15), 1 Ch 9,22 (appelé
 מִיכָיָה

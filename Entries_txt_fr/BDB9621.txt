@@ -3,6 +3,7 @@ araméen biblique
 
 [כְּרָא] verbe
 
+@@SPLIT:stem@@
 Ithpe`el
 être angoissé (comparer כַּרְיָא III. adjectif souffrant,
 כְּ רִיוּחָא nom id.

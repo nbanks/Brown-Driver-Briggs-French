@@ -28,6 +28,7 @@ DHM^ZMG xxx (1876), 672^ arabe
 kurbannu
 (כ), DI^HWS 351^) ; —
 
+@@SPLIT:stem@@
 Qal_93_
 Parfait 3 masculin singulier ׳
 ק
@@ -170,6 +171,7 @@ Dt 31,14 ;
 1 R
 2,1
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 masculin singulier consécutif וְנִקְרַב אֶלהָֿאֱםהִים
 Ex 22,7
@@ -181,6 +183,7 @@ Jos 7,14
 Qal
 h).
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 1 singulier קֵרַכְתִּי
 
@@ -242,6 +245,7 @@ RS^Proph. iv, N.19^), comparer
 
 Now.
 
+@@SPLIT:stem@@
 Hiphil_177_
 Parfait 3 masculin singulier הִקְרִיב
 

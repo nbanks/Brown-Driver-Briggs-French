@@ -4,6 +4,8 @@ Biblical Hebrew
 [פֵּאֵר] verb
 denominative
 
+@@SPLIT:stem@@
+
 Pi`el
 go over the boughs; — Imperfect 2 masculine singular תְּפָאֵר
 Deut 24:20

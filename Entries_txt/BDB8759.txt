@@ -14,6 +14,8 @@ draw sword, in Lexicons remove corselet; Arabic
 [placeholder5582: Placeholders/5582.gif]
 strip, plunder, etc.); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular ׳
 שׁ

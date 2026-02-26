@@ -4,6 +4,8 @@ Biblical Hebrew
 [קָרָה] verb
 denominative
 
+@@SPLIT:stem@@
+
 Pi`el
 lay the beams of, furnish with beams; — with accusative of the building: Perfect 3
 plural suffix קֵרוּהוּ

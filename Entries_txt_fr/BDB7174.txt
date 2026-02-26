@@ -7,6 +7,7 @@ guetter, observer, monter la garde (hébreu tardif id., Pi`el espérer
 ;; éthiopien
 [placeholder4597: Placeholders/4597.gif] III. espérer) ; —
 
+@@SPLIT:stem@@
 Qal_28_
 Imparfait 3 masculin singulier jussif יִצֶף בֵּינִי
 וּבֵינֶ֑ךָ
@@ -68,6 +69,7 @@ Perles^Anal. 29^
 צָפוּן comparer Di
 Bu).
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 1 pluriel צִפִּינוּ
 Lm 4,17

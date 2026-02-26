@@ -12,6 +12,8 @@ expel; Assyrian
 šadâdu
 is draw, drag); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 plural consecutive וְשָֽׁדְדוּ
 Ezek 32:12
@@ -78,10 +80,14 @@ Obad 1:5 (||
 GASm; personal foe Job 15:21 representing wicked in general Job 12:6 (|| מַרְגִּיזֵי
 אֵל).
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect 1 plural שָׁדוֺד נְשַׁדֻּנוּ (Ges
 ^«GKC:67u»§ 67u^
 Kö^i. 342 f.^) we are utterly ruined.
+
+@@SPLIT:stem@@
 
 Pi`el
 Imperfect 2 masculine singular אַלתְּֿשַׁדֵּד רִבְצוֺ
@@ -92,6 +98,8 @@ as substantive מְשַׁדֶּדאָֿב
 Prov 19:26
 
 he who assaults, maltreats (his) father (|| יַבְרִיחַ אֵם).
+
+@@SPLIT:stem@@
 
 Pu`al
 Perfect 3 masculine singular שֻׁדַּד
@@ -110,6 +118,8 @@ Zech 11:33
 destroy: Imperfect 3 masculine singular יְשֹׁרֵד מַצֵּבוֺתָם
 Hos 10:2 (||
 יַעֲרֹף מִוְבְּחֹתָם).
+
+@@SPLIT:stem@@
 
 Hoph`al
 Imperfect (or

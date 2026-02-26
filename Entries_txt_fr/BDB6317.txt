@@ -30,6 +30,7 @@ J
 E
 ; 180 t. Genèse, une fois Lévitique, etc.), 34 t. Psaumes, 42 t. Ésaïe (27 t. 40-66), etc. ; —
 
+@@SPLIT:sense@@
 1. comme nom propre, masculin
 Gn 25,26 + 205
 t. (+ אַבְרָהָם, יִצְחָק 19 t.) ; aussi ׳
@@ -52,6 +53,7 @@ f), ׳
 עַיִן
 ), etc.
 
+@@SPLIT:sense@@
 2. comme nom propre [d'un peuple] (env. 100 t. ; poésie et prophètes) Nb 24,5 ; Nb 24,19 ; Dt 32,9 ; Ps 44,5 ; Es 10,21 ; Es 17,4 ; Jr 10,25 ; Jr 30,7 + ; || יִשְׂרָאֵל
 
 Nb 23,7 ; Dt 33,10 ; Es 14,1 ; Ps 14,7 +

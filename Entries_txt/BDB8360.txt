@@ -5,6 +5,8 @@ Biblical Hebrew
 noun feminine
 roaring; —
 
+@@SPLIT:sense@@
+
 1. like lion, absolute ׳
 שׁ
 Isa 5:29 (of
@@ -13,6 +15,8 @@ Zech 11:3; Job 4:10
 (figurative of wicked), suffix קוֺל שַׁאֲגָתוֺ
 Ezek 19:7
 (figurative of conquering king).
+
+@@SPLIT:sense@@
 
 2. human cry in distress, שַׁאֲגְתִי
 Ps 32:3, ׳

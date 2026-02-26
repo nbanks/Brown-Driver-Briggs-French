@@ -13,6 +13,8 @@ SAC^113^
 Cooke^271^, Syriac
 [placeholder5469: Placeholders/5469.gif] (? Arabic loan-word, Frä^180^)); —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 2 feminine singular וַתָּשֻׁרִי לַמֶּלֶךְ
 בַּשֶּׁמֶן
@@ -25,7 +27,7 @@ Ezek 27:25
 ships of Tarshish were thy travellers (i.e. traders), but improbable; Krae
 שָׁרוֺת לָךְ בְּ
 journey for thee with thy wares; Toy רֹכְלַיִךְ בְּ; Co
-ֵשׁרְתוּךְ
+ֵשׁרְתוּךְ
 served thee.
 
 ---

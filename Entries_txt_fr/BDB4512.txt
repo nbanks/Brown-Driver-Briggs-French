@@ -15,6 +15,7 @@ Ps 133,2
 מִדּוֺתֶיהָ
 Ez 48,16 —
 
+@@SPLIT:sense@@
 1.
 mesure, acte de mesurage, c.-à-d. mesure de longueur Ez 41,17 (supprimer Co), Ez 42,15 ; Ez 48,30 ; Ez 48,33 comparer Jos 3,4 (
 P
@@ -37,6 +38,7 @@ Ez 42,16
 (supprimer Co), Ez 42,16 Ez 42,17 Ez 42,18 Ez 42,19
 .
 
+@@SPLIT:sense@@
 2.
 mesurage, taille des rideaux du tabernacle Ex 26,2 ; Ex 26,8 ; Ex 36,9 ; Ex 36,15 (tous
 P
@@ -64,9 +66,11 @@ Dr
 Kit
 Bu ; pluriel Nb 13,32 ; Es 45,14.
 
+@@SPLIT:sense@@
 3.
 portion mesurée, étendue, tronçon (de muraille) Ne 3,11 ; Ne 3,19 ; Ne 3,20 ; Ne 3,21 ; Ne 3,24 ; Ne 3,27 ; Ne 3,30, comparer Ez 45,3.
 
+@@SPLIT:sense@@
 4.
 vêtement (pluriel poétique) Ps 133,2.
 

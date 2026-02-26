@@ -7,6 +7,8 @@ tordre (hébreu tardif Pi`el et dérivés ; arabe
 [placeholder4390: Placeholders/4390.gif] ; araméen פְּתַל, surtout dérivés, au sens figuré ; syriaque
 [placeholder4391: Placeholders/4391.gif]) ; —
 
+@@SPLIT:stem@@
+
 Niph`al
 Parfait 1 singulier נִפְּתַּלְתִּי עִם
 Gn 30,8
@@ -16,6 +18,8 @@ Jb 5,13
 le dessein des tortueux ; נִפְתָּל וְעִקֵּשׁ
 Pr 8,8 quoi que ce soit de
 tortueux et de retors.
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Imparfait 2 masculin singulier עִםֿ

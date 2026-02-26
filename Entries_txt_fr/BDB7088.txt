@@ -19,6 +19,7 @@ verset) +, suffixe צְלָמָיו
 צַלְמֵיכֶם
 Am 5,26 —
 
+@@SPLIT:sense@@
 1.
 images de tumeurs et de souris (en or) 1 S 6,5 (deux fois dans le verset) ; 1 S 6,11 surtout de dieux païens Am 5,26
 (texte douteux ; supprimer We comme glose, comparer GASm
@@ -32,6 +33,7 @@ Ez 16,17
 Nb 33,52
 leurs images de fonte ; d'images peintes d'hommes Ez 23,14.
 
+@@SPLIT:sense@@
 2.
 image, ressemblance, de similitude, ׳
 בְּצ (בָּרָא) עָשָׂה, de Dieu faisant l'homme à son image,
@@ -43,6 +45,7 @@ Gn 5,3 (||
 P
 ).
 
+@@SPLIT:sense@@
 3.
 figuré = simple, vaine, image, apparence, ׳
 בְּצ

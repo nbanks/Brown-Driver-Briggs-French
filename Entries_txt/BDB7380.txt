@@ -12,6 +12,8 @@ loathe,
 [placeholder4711: Placeholders/4711.gif]
 fear); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 feminine singular קָ֫צָה
 Num 21:5 1 singular
@@ -62,6 +64,8 @@ J
 E
 ), Isa 7:16
 .
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imperfect 1 plural suffix נְקִיצֶנָּה

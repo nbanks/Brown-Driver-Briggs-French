@@ -24,6 +24,8 @@ Job 6:19 suffix
 הֲלִיכוֺתֶיךָ
 Ps 68:25 —
 
+@@SPLIT:sense@@
+
 1.
 going, walk,
 
@@ -54,6 +56,8 @@ Prov 31:27
 watching the doings of her household; of God Hab 3:6
 הֲלִכוֺת עוֺלָם לוֺ
 ways of eternity (al of old) are his.
+
+@@SPLIT:sense@@
 
 2.
 travelling-company, caravan

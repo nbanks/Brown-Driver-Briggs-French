@@ -8,6 +8,7 @@ DHM^ZMG 1885,598^ ; araméen אֲמַן,
 [placeholder276: Placeholders/276.gif] au Haph`el, éthiopien
 [placeholder277: Placeholders/277.gif], assyrien dans les dérivés) — seulement
 
+@@SPLIT:stem@@
 Qal
 Participe
 אֹמֵן —
@@ -75,6 +76,7 @@ Che comme nom abstrait voir
 אֵמֻן
 .
 
+@@SPLIT:stem@@
 Niph`al
 נֶאֱמַן
 Pr 11,13
@@ -185,6 +187,7 @@ dans toute ma maison (de Moïse) Nb 12,7 (
 E
 ).
 
+@@SPLIT:stem@@
 Hiph`il
 הֶאֱמִין
 Gn 45,26

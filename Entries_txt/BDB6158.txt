@@ -11,6 +11,8 @@ cover, veil, conceal;
 עֲמַם
 grow dark); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 plural suffix עֲמָמֻהוּ
 Ezek 31:8
@@ -19,6 +21,8 @@ eclipse him; עֲמָמוּךָ
 Ezek 28:3 no
 secret do they hold dark (= is held dark) for thee (Ges
 ^«GKC:117x»§ 117x^).
+
+@@SPLIT:stem@@
 
 Hoph`al
 Imperfect 3 masculine singular יוּעַם זָהָב

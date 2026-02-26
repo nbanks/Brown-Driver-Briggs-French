@@ -12,10 +12,14 @@ Ithpe`el médire, calomnier) ; —
 1.
 murmurer (de façon rebelle) : —
 
+@@SPLIT:stem@@
+
 Qal
 Participe pluriel רוֺגְנִים
 Es 29,24
 murmurateurs ;
+
+@@SPLIT:stem@@
 
 Niph`al
 Imparfait 3 masculin pluriel וַיֵּרָֽגְנוּ
@@ -26,6 +30,8 @@ Dt 1,27.
 
 2.
 chuchoter (malicieusement), médire, calomnier :,
+
+@@SPLIT:stem@@
 
 Niph`al
 Participe

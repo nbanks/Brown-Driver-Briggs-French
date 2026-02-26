@@ -11,6 +11,8 @@ harvest, in ׳
 [placeholder4673: Placeholders/4673.gif] is fail, despair; Late Hebrew קִבָּץ = Biblical Hebrew);
 —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular ׳
 ק
@@ -79,6 +81,8 @@ Neh 5:16 for
 1Sam 28:1 (1Sam 29:1 see
 above).
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect 3 plural נִקְבְּצוּ
 Josh 10:6 +, etc.;
@@ -127,6 +131,8 @@ person Isa 56:8
 (|| אסף) read תִּקָּבֵר
 Hi (not Sm) Co
 Berthol Toy Krae.
+
+@@SPLIT:stem@@
 
 Pi`el_51_ Perfect 3 masculine singular suffix וְקִכֶּצְךָ
 Deut 30:3
@@ -196,11 +202,15 @@ Joel 2:6 see
 פָּארוּר
 .
 
+@@SPLIT:stem@@
+
 Pu`al
 Participle
 מְקֻבֶּצֶת
 Ezek 38:8
 (with מִן) of land (for people) of Israel
+
+@@SPLIT:stem@@
 
 Hithpa`el
 gather together (intransitive), be gathered together.

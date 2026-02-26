@@ -7,11 +7,15 @@ be healthy, strong (Late Hebrew id.; Aramaic
 חֲלַם
 press firmly together) —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect
 יַחְלְמוּ בְנֵיהֶם
 Job 39:4
 their young are healthy.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imperfect 2 masculine singular וְתַחֲלִימֵנִי

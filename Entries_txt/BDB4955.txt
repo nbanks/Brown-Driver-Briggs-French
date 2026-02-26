@@ -11,6 +11,8 @@ Arabic
 [placeholder3152: Placeholders/3152.gif] v, VIII. die; Aramaic נְבֵילָא
 corpse); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular ׳
 נ
@@ -57,7 +59,7 @@ Baer, after
 
 2. usually fall like a leaf, or flower wither and fall, fade
 :
-כְּאֵלָה נֹבֶ֫לֶת עֶָלהָ
+כְּאֵלָה נֹבֶ֫לֶת עֶָלהָ
 Isa 1:30
 like an oak falling as to it leaves (simile of people of Jerusalem); the host of heaven
 יִבּוֺל כִּנְבֹל עָלֶה

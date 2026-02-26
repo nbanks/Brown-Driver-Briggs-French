@@ -17,6 +17,8 @@ Dt 21,10,
 Nb 31,19, etc. ;
 —
 
+@@SPLIT:sense@@
+
 1.
 = état de captivité
 , ׳
@@ -57,6 +59,8 @@ Esd 2,1 = Ne 7,6, ׳
 הַבָּאִים מֵהַשְּׁ
 Esd 3,8 ; Esd 8,35.
 
+@@SPLIT:sense@@
+
 2.
 acte de capture
 , סוּסֵיכֶם
@@ -68,6 +72,8 @@ Dt 21,13 c.-à-d.
 vêtement dans lequel elle a été capturée (> d'autres captivité, dans les deux : Am 4,10 = vos
 chevaux captifs ; Dt 21,13
 le vêtement de captive).
+
+@@SPLIT:sense@@
 
 3 = captifs (collectif) : Ex 12,29 (
 

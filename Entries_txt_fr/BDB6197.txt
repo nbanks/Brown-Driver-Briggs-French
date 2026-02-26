@@ -37,6 +37,7 @@ P
 H
 ; —
 
+@@SPLIT:sense@@
 1.
 
 temps d'un événement, etc.
@@ -200,6 +201,7 @@ d. suivi de proposition avec
 verbe fini (en poésie ou tardif) Dt 32,35 ; Jb 6,17 ; 2 Ch 20,22 ; 2 Ch 24,11 ; 2 Ch
 29,27 + (comparer 2.c.).
 
+@@SPLIT:sense@@
 2.
 
 a.
@@ -316,12 +318,14 @@ d. comme incertain עֵת וָפֶגַע
 Qo 9,11
 .
 
+@@SPLIT:sense@@
 3. = expériences, fortunes, pluriel אֱמוּנַת
 עִתֶּיךָ
 Es 33,6 ; Ps 31,16
 הָעִתִּים אֲשֶׁר עָֽבְרוּ עָלָיו
 1 Ch 29,30
 
+@@SPLIT:sense@@
 4.
 occurrence, occasions (= פַּעַם), רַבּוֺת עִתִּים
 Ne 9,28

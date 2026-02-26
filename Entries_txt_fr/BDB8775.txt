@@ -17,6 +17,7 @@ S-C^Pap. A 4, J 6^,
 [placeholder5591: Placeholders/5591.gif] ; Zenj^Had. 8^ (Cooke^159^)
 שם) ; —
 
+@@SPLIT:sense@@
 1.
 
 a.
@@ -83,6 +84,7 @@ Ges^«GKC:130c»§ 130 c, d^) Ez 39,11
 Co
 Or et autres lisent שֵׁם un lieu de renom.
 
+@@SPLIT:sense@@
 2.
 là-bas, après des verbes de mouvement ( = שָׁ֫מָּה, voir 3), Dt 1,37
 לֹא תָבאֹ שָׁם, Jg 19,15 ; Jg 21,10 ; 1 S 2,14 ; 1 S 9,6 et ailleurs ; אֲשֶׁר ֗֗֗ שָׁם
@@ -95,6 +97,7 @@ Ez 12,16
 Ez 36,22 + ; ainsi שֶׁשָּׁם
 Ps 122,4.
 
+@@SPLIT:sense@@
 3. avec ה locatif, שָׁ֫מָּה (sh¹mm¹h
 ) :
 
@@ -154,6 +157,7 @@ Ps
 Qo
 3,16.
 
+@@SPLIT:sense@@
 4.
 מִשָּׁם
 de là :

@@ -5,12 +5,14 @@ hébreu biblique
 nom [masculin]
 burin, stylet —
 
+@@SPLIT:sense@@
 1.
 burin, avec lequel Aaron façonna (וַיָּצַר) le veau de fonte Ex 32,4 (
 
 E
 ).
 
+@@SPLIT:sense@@
 2.
 stylet, pour écrire sur une tablette (גִּלָּיוֺן) : כְּתֹב עָלָיו בְּחֶרֶט
 אֱנוֺשׁ

@@ -6,6 +6,8 @@ verb
 be dislocated, alienated (Arabic
 [placeholder2288: Placeholders/2288.gif] is fall, fall down, fall upon, befal, happen) —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 3 feminine singular תֵּקַע
 Jer 6:8
@@ -17,6 +19,8 @@ Gen 32:26
 one, followed by מִן
 Jer 6:8; Ezek 23:17
 followed by מֵעַל Ezek 23:18.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect
@@ -47,6 +51,8 @@ crucify; Rs^Rel. Semitic 398^ (419) throw down (Arabic
 2Sam 21:6 (
 ׳
 לפני י 2Sam 21:9), Num 25:4.
+
+@@SPLIT:stem@@
 
 Hoph`al
 Participle

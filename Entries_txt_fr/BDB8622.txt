@@ -8,6 +8,7 @@ hébreu biblique
 [placeholder5506: Placeholders/5506.gif] araméen שְּׁטַח
 [placeholder5507: Placeholders/5507.gif]) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 pluriel suffixe consécutif לַשֶּׁמֶשׁ וּטָחוּם
 Jr 8,2
@@ -32,6 +33,7 @@ Jb 12,23
 élargissant les nations (comparer ל
 3.b.).
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 1 singulier שִׁטַּחְתִּי אֵלֶיךָ כַפָּ֑י
 Ps 88,10

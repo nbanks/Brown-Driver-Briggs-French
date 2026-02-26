@@ -20,6 +20,8 @@ Gen 49:25 + 5
 t.; suffix בִּרְכוֺתֵיכֶם
 Mal 2:2 —
 
+@@SPLIT:sense@@
+
 1.
 blessing:
 
@@ -80,6 +82,8 @@ of the people, in recognition of good men Ps 109:17; Prov 10:6; Prov 11:26; Prov
 d.
 of a poor man, in recognition of benefits Job 29:13.
 
+@@SPLIT:sense@@
+
 2.
 source of blessing: Abraham Gen 12:2 (
 J
@@ -87,6 +91,8 @@ J
 memory
 of the righteous
 Prov 10:7 new wine Isa 65:8.
+
+@@SPLIT:sense@@
 
 3.
 blessing, prosperity:
@@ -105,9 +111,13 @@ Gen 49:26
 and I will curse your prosperity
 Mal 2:2.
 
+@@SPLIT:sense@@
+
 4.
 blessing, praise of God
 Neh 9:5.
+
+@@SPLIT:sense@@
 
 5.
 a gift, present
@@ -130,6 +140,8 @@ Prov 11:25
 (compare Syriac
 [placeholder709: Placeholders/709.gif], Ethiopic
 [placeholder710: Placeholders/710.gif]).
+
+@@SPLIT:sense@@
 
 6.
 treaty of peace

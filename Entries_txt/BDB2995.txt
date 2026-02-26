@@ -6,6 +6,8 @@ be in trepidation, hurry, or alarm (Arabic
 [placeholder1892: Placeholders/1892.gif]
 hasten, incite, urge); —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect
 יַחְפּוֺז
@@ -35,6 +37,8 @@ Ps 116:11
 be alarmed
 Deut 20:3 (||
 תיראו), Job 40:23 (of hippopotamus)
+
+@@SPLIT:stem@@
 
 Niph`al
 Perfect

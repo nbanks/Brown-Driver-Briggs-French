@@ -4,10 +4,12 @@ hébreu biblique
 I. [מֶ֫שֶׁךְ] nom [masculin]
 une traction, un tirage, une traînée ; —
 
+@@SPLIT:sense@@
 1. construit מֶשֶׁךְ חָכְמָה מִפְּנִינִים
 Jb 28,18
 le tirage (la pêche, c.-à-d. l'acquisition après effort) de la sagesse dépasse les coraux.
 
+@@SPLIT:sense@@
 2. construit une traînée (de semence), הַזָּ֑רַע
 ׳
 מֶ

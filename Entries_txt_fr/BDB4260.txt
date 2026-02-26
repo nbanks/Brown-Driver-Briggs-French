@@ -5,6 +5,7 @@ hébreu biblique
 battre, écraser par le battement (hébreu tardif id.; araméen כְּתַת);
 —
 
+@@SPLIT:stem@@
 Qal
 Parfait 1 singulier וְכַתּוֺתִ֫י
 Ps 89,24
@@ -29,6 +30,7 @@ Pi`el
 2)
 Jl 4,10.
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 3 masculin singulier כִּתַּת
 2 R 18,4
@@ -49,12 +51,14 @@ Qal
 2,4 = Mi 4,3
 .
 
+@@SPLIT:stem@@
 Pu`al
 Parfait 3 masculin pluriel וְכֻתְּתוּ
 2 Ch 15,6
 
 et ils furent mis en pièces, une nation contre l'autre.
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait 3 masculin pluriel וַיַּכְּתוּ
 Dt 1,44
@@ -64,6 +68,7 @@ mettre en pièces un ennemi, suffixe וַיַּכּוּם וַיַּכְּתוּ
 Nb
 14,45.
 
+@@SPLIT:stem@@
 Hoph`al
 Imparfait 3 masculin singulier וּשְׁאִיָּה יֻכַּתשָֿׁ֑עַר
 

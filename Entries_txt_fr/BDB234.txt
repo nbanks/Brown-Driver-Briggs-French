@@ -13,6 +13,7 @@ Gn 10,29
 אֹפִיר
 1 R 10,11 —
 
+@@SPLIT:sense@@
 1.
 nom propre, masculin
 11e fils de Yoqtân
@@ -26,6 +27,7 @@ J
 Οὐφειρ, Ὠφειρ, nom d'une tribu arabe, voir Gn 10,30 et Di
 .
 
+@@SPLIT:sense@@
 2.
 nom propre [d'un lieu] (pays ou ville au sud ou au sud-est de la Palestine, position exacte inconnue,
 comparer ci-dessous ;
@@ -46,6 +48,7 @@ ils venaient une fois tous les trois ans avec or, argent, ivoire, singes et paon
 Tarsis (mais sur navires de Tarsis, c.-à-d. grands navires de haute mer, navires marchands, voir 1 R 22,49 et ci-dessous
 תַּרְשִׁישׁ).
 
+@@SPLIT:sense@@
 3. caractéristique de l'or fin (en poésie et tardif) ׳
 זְהַב א
 1 Ch 29,4
@@ -55,6 +58,7 @@ Es 13,12 ;
 Jb 28,16 ;
 Ps 45,10.
 
+@@SPLIT:sense@@
 4. d'où pour l'or fin lui-même Jb 22,24 (|| בֶּצֶר). — (Si 2 = 1,
 alors le sud, probablement le sud-est, de l'Arabie (comparer Di
 Gn 10,29)

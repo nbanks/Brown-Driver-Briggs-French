@@ -11,6 +11,8 @@ Gn 33,13
 féminin pluriel absolu רַכּוֺת
 Gn 29,17 ; Jb 40,27 —
 
+@@SPLIT:sense@@
+
 1.
 tendre de chair Gn 18,7 (
 J
@@ -30,9 +32,13 @@ délicat, faible, des yeux Gn 29,17 (
 E
 ).
 
+@@SPLIT:sense@@
+
 2.
 רֵךְ (ה)לֵבָב
 faible de cœur, timide, Dt 20,8 ( + יָרֵא), 2 Ch 13,7 (נַעַד).
+
+@@SPLIT:sense@@
 
 3.
 doux, des paroles, absolu רַכּוֺת

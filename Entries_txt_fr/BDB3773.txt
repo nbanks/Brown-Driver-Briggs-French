@@ -22,11 +22,13 @@ Sta^§ 370 b^) Dt 29,14 ; 1 S 14,39 (+ 1 S 14,41
 We
 Dr), 1 S 23,23 ; Est 3,8 ; —
 
+@@SPLIT:sense@@
 1.
 substance, seulement Pr 8,21
 לְהַנְחִיל אֹהֲבַי יֵשׁ pour faire hériter ceux qui m'aiment de la substance
 (ainsi Sir 42,3).
 
+@@SPLIT:sense@@
 2. ailleurs (proprement comme substantif au construit statif), il affirme
 l'existence, et correspond donc au verbe substantif, est (sont, était,
 étaient, sera), littéralement l'être, la présence de… (ainsi araméen biblique אִתַי

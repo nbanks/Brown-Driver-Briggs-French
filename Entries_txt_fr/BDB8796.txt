@@ -5,6 +5,8 @@ hébreu biblique
 être désolé, être consterné (lien entre les sens pas clair) (hébreu tardif id
 . ; judéo-araméen שְׁמַם Ithpe`el être hébété) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Parfait 3 féminin singulier שָׁמֵ֑מָה
 Ez 35,15,
@@ -74,6 +76,8 @@ Ez 26,16 ; Ez 27,35 ; Ez 28,19 ; Es 52,14 ; Jb 17,8, comparer 1 R 9,8 =
 49,17 ; Jr 50,13 sur soi-même Ps 40,16 (עַלעֵֿקֶב). — Es 42,14
 voir [נשׁם].
 
+@@SPLIT:stem@@
+
 Niph`al
 Parfait 3 féminin singulier נָשַׁ֫מָּה
 Jr 12,11
@@ -110,6 +114,8 @@ Jr 4,9 ; Lm 4,5 ; Ez 4,17 ;
 Ez 30,7
 , avec עַל de chose Jb 18,20.
 
+@@SPLIT:stem@@
+
 Po`
 Participe
 
@@ -138,6 +144,8 @@ Dn 12,11
 Dn 8,13
 le crime causant l'horreur, et ׳
 שׁ comme nom causeur d'horreur, épouvanteur, Dn 9,27b.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Parfait 2 masculin singulier הֲשִׁמּ֫וֺתָ
@@ -186,6 +194,8 @@ Ez 3,15
 montrant l'horreur, Jb 21,5 (Bu Niph`al
 הִשַּׁמוּ).
 
+@@SPLIT:stem@@
+
 Hoph`al
 Infinitif construit
 כָּליְֿמֵי הָשַּׁמָּה (c.-à-d. הָאָרֶץ) Lv 26,34 (
@@ -194,6 +204,8 @@ H
 ; 2 Ch
 36,21 aramaïsant, בָּהְשַׁמָּה (Ges
 ^«GKC:67y»§ 67y^) Lv 26,43.
+
+@@SPLIT:stem@@
 
 Hithpo`el
 Imparfait 3 masculin singulier יִשְׁתּוֺמֵם

@@ -9,6 +9,8 @@ feel pain; Aramaic
 [placeholder1696: Placeholders/1696.gif], חוּשׁ, feel pain; Ethiopic
 [placeholder1697: Placeholders/1697.gif]: perception) — only
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 3 masculine singular מִּי יאֹכַל וּמִי יָחוּשׁ
 Eccl 2:25

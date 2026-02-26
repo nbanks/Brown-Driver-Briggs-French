@@ -19,6 +19,7 @@ un troupeau de moutons (ou de chèvres) ; alors
 butin, et (rare) syriaque
 [placeholder5573: Placeholders/5573.gif] sont des emprunts) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier consécutif ׳
 וְשׁ
@@ -43,6 +44,7 @@ Ha 2,8 ; Ez 39,10,
 גּוֺיִם רַבּים
 Ha 2,8, comparer Za 2,12.
 
+@@SPLIT:stem@@
 Hithpolel
 Parfait 3 pluriel אֶשְׁתּוֺלְלוּ
 אַבִּירֵי לֵב (א dans ׳

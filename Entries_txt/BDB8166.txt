@@ -4,6 +4,8 @@ Biblical Hebrew
 [שָׂגָה] verb
 grow, increase (late; || form of שׂגא); —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 3 masculine singular יִשְׂגֶּה
 Ps 92:13
@@ -11,6 +13,8 @@ righteous shall grow great like cedar (|| יִפְרַח), compare Job 8:7 (oppo
 מִצְעָר; Job 8:11 see
 שׂגא
 ).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 plural הִשְׂגּוּחַֿיִל

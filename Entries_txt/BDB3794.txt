@@ -4,6 +4,8 @@ Biblical Hebrew
 [יָשַׁם] verb
 be desolate (compare שָׁמַם) —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 3 feminine singular תֵּשַׁם
 Ezek 12:19

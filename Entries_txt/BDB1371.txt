@@ -14,12 +14,16 @@ bašâlu
 (bašlu, cooked) Zim^BP 76^
 ) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 בָּשַׁל Joel 1Sam 4:13, בָּֽשְׁלוּ
 Ezek 24:5 —
 boil, cook (intransitive) Ezek 24:5
 grow ripe (of קציר) Joel 4:13 —
+
+@@SPLIT:stem@@
 
 Pi`el
 Perfect 3 masculine singular suffix בִּשְּׁלָם
@@ -93,6 +97,8 @@ Deut 16:7
 אֵשׁ opposed to מְבֻשָּׁל בַּמַּיִם) 2Chr 35:13 (בָּאֵשׁ), cakes (
 הלבבות) 2Sam 13:8.
 
+@@SPLIT:stem@@
+
 Pu`al
 Perfect 3 feminine singular בֻּשָּׁ֑לָה
 Lev 6:21
@@ -109,6 +115,8 @@ compare Lev 6:21
 P
 ) 1Sam
 2:15.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect

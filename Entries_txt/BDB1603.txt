@@ -8,6 +8,8 @@ Ezek 41:12 +
 6 t.; suffix גִּזְרָתָם
 Lam 4:7 —
 
+@@SPLIT:sense@@
+
 1.
 cutting, i.e. polishing (
 AV
@@ -18,6 +20,8 @@ VB
 ) סַפִּיר גִּזְרָתָם
 Lam 4:7 their
 polishing, (or beauty of form) was as sapphire.
+
+@@SPLIT:sense@@
 
 2.
 separation, הַגִּזְרָה

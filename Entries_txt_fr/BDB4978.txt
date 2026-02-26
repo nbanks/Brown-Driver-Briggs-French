@@ -5,6 +5,7 @@ hébreu biblique
 verbe
 frapper, battre (araméen נְגַף) ; -
 
+@@SPLIT:stem@@
 Qal
 Parfait
 ׳
@@ -52,6 +53,7 @@ Jg 20,35 ;
 1 S 4,3 ; 2 Ch 13,15 ;
 2 Ch 14,11.
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 נִגַּף
@@ -90,6 +92,7 @@ Dt 28,25
 
 Niph`al
 
+@@SPLIT:stem@@
 Hithpa`el
 Imparfait
 יִתְנַגְּפוּ

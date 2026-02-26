@@ -42,6 +42,7 @@ Ne 10,37 lire
 We
 Dr ; —
 
+@@SPLIT:sense@@
 1. surtout collectif
 
 a.
@@ -98,6 +99,7 @@ troupeau particulier de bétail Gn 18,7 (
 J
 ) ; comparer pluriel בְּקָרֵינוּ, nos troupeaux, seulement Ne 10,37.
 
+@@SPLIT:sense@@
 2. plus individuellement, tête de bétail, — pourtant toujours de plus d'un
 (Hexateuque
 surtout

@@ -7,6 +7,7 @@ lécher (hébreu tardif id. ; ainsi araméen לְחַךְ
 [placeholder2802: Placeholders/2802.gif] ; arabe
 [placeholder2803: Placeholders/2803.gif] ; -
 
+@@SPLIT:stem@@
 Qal
 Infinitif construit
 כִּלְחֹךְ
@@ -14,6 +15,7 @@ Nb 22,4 (
 E
 ), suivi d'accusatif ; du bœuf léchant l'herbe.
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 3 féminin singulier לִחֵ֑כָה
 1 R 18,38

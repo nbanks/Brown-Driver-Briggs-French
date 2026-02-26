@@ -18,6 +18,8 @@ Exod 12:11 +;
 2Chr 30:17 +
 3 t.; —
 
+@@SPLIT:sense@@
+
 1.
 sacrifice of Passover, involving communion-meal, hence a species of peace-offering (compare I.
 זֶבַח II. 2), ׳
@@ -37,6 +39,8 @@ Deut 16:2; Deut 16:5; Deut 16:6
 2Chr 30:18
 the special feature lay in the application of blood to homes to consecrate them: compare simile
 Babylonian rite of purification Zim^ib. ii. 126-7.^
+
+@@SPLIT:sense@@
 
 2.
 the animal victim of the passover:
@@ -71,6 +75,8 @@ Deut 16:2 large
 numbers of all these (שֶׂה not used) in Josiah's Passover, active to 2Chr 35:7; 2Chr 35:8;
 2Chr 35:9,
 but evident mingling of whole burnt-offerings for the passover with special passover victim.]
+
+@@SPLIT:sense@@
 
 3.
 festival of the passover:

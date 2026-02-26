@@ -4,6 +4,8 @@ hébreu biblique
 [קָרָה] verbe
 dénominatif
 
+@@SPLIT:stem@@
+
 Pi`el
 poser les poutres de, pourvoir de poutres ; — avec accusatif du bâtiment : Parfait 3
 pluriel suffixe קֵרוּהוּ

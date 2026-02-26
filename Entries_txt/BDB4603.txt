@@ -10,6 +10,8 @@ ma—ru
 , front, often of time, though always of former time, of old
 , Dl^HWB 402^); —
 
+@@SPLIT:sense@@
+
 1.
 to-morrow (the day following the present day),
 
@@ -59,6 +61,8 @@ Exod
 הַיּוֺם וּמָחָר, Josh 22:18; 2Sam 11:12a; rhetorically, Isa 22:13
 
 כִּי מָחָר נָמוּת.
+
+@@SPLIT:sense@@
 
 2. = in future time, Exod 13:14
 כִּי יִשְׁאָֽלְךָ בִנְךָ מָחָר לֵאמֹר = Deut 6:20; Josh 4:6; Josh 4:21; Josh 22:24; Josh 22:27; Josh 22:28 so בְּיוֺם

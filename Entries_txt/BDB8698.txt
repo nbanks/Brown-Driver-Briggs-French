@@ -6,6 +6,8 @@ Biblical Hebrew
 adjective
 quiet, at ease; —
 
+@@SPLIT:sense@@
+
 1. of person at ease, שָׁלֵו
 Job 16:12,
 שָׁלֵיו
@@ -19,9 +21,13 @@ masculine plural construct וְשַׁלְוֵי
 Ps 73:12 (
 Re^H. iii. 131^ proposes יִשְׁלָיוּ עֲוִילִים).
 
+@@SPLIT:sense@@
+
 2. of land, quiet, שְׁלֵשׁלֵוָה
 1Chr 4:40 (||
 שֹׁקֶטֶת).
+
+@@SPLIT:sense@@
 
 3. in לֹא יָדַע שָׁלֵו בְּבִטְנוֺ
 Job 20:20

@@ -5,6 +5,7 @@ hébreu biblique
 adjectif
 lisse —
 
+@@SPLIT:sense@@
 1. littéral אִישׁ חָלָק
 Gn 27,11 (
 
@@ -24,10 +25,12 @@ Es 57,6 (voir I.
 adores de vulgaires pierres rondes (avec mépris, voir Che
 Di).
 
+@@SPLIT:sense@@
 2.
 figuré de la bouche prononçant des paroles doucereuses וְחָלָק מִשֶּׁמֶן חִכָּהּ
 Pr 5,3 comparer Pr 26,28.
 
+@@SPLIT:sense@@
 3. comme substantif = flatterie
 מִקְסָם חָלָק
 Ez 12,24

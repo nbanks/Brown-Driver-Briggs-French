@@ -15,6 +15,7 @@ joug, Id. ; assyrien
 (religieusement) dévoué ; araméen צְמַד,
 [placeholder4559: Placeholders/4559.gif], lier) ; —
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait 3 masculin singulier וַיִּצָּ֫מֶד
 Nb 25,3 3 masculin
@@ -28,11 +29,13 @@ J
 E
 ), d'où Ps 106,28.
 
+@@SPLIT:stem@@
 Pu`al
 Participe féminin צְצֻמֶּ֫דֶת
 2 S 20,8 une épée
 liée sur (עַל) ses reins.
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait 3 féminin singulier תַּצְמִיד מִרְמָה
 Ps 50,19

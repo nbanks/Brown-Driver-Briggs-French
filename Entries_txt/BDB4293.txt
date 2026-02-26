@@ -13,6 +13,8 @@ Aramaic לִבָּא
 [placeholder2732: Placeholders/2732.gif] Sabean לב, SabDenkm^p. 13, No. 1, 1.
 7^); — the literary usage of לֵב and לֵבָב is:
 
+@@SPLIT:sense@@
+
 1. earliest poetry,
 J
 and
@@ -20,6 +22,8 @@ E
 chiefly,
 Ephr
 document of Judges/Samuel/Kings chiefly, Amos, Hosea, Zech 9-11, Isa 15 use לֵב.
+
+@@SPLIT:sense@@
 
 2.
 לֵבָב first appears in Isaiah and certain strata of
@@ -32,19 +36,31 @@ D
 H
 Deuteronomy editors and some Psalms
 
+@@SPLIT:sense@@
+
 3. Jeremiah Ezekiel Job prefer לֵב but use occasionally לֵבָב.
+
+@@SPLIT:sense@@
 
 4.
 Isa^2^, Isa^3^,
 Lamentations and exilic Psalms use לֵב.
 
+@@SPLIT:sense@@
+
 5. Isa 13-14:23; Jeremiah 50-51, Haggai, Zechariah 1-8, Joshua, Jonah, Psalm 25, 90, 104, use
 לבב.
+
+@@SPLIT:sense@@
 
 6. Malachi, Obadiah, Zech 12-14, Memorials of Ezra and Nehemiah, Proverbs, Ruth, Canticles and many
 Psalms of Persian period use לֵב.
 
+@@SPLIT:sense@@
+
 7. Chronicles and Daniel use לֵבָב.
+
+@@SPLIT:sense@@
 
 8. Ecclesiastes Esther and latest Psalms use לֵב. Exceptions will be noted and
 suspected passages indicated by ? under לבב and לב which are treated apart. See

@@ -12,6 +12,7 @@ précéder, sortir, devenir libre, vieillir ; araméen
 vieillir, palmyrénien adjectif עתק
 vieux) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 féminin singulier עָֽתְקָה
 Ps 6,8, 3 pluriel
@@ -35,6 +36,7 @@ Ps 6,8 (de l'œil,
 ||
 עָֽשְׁשָׁה).
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 pluriel הֶעְתִּיקוּ
 Jb 32,16

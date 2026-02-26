@@ -5,6 +5,8 @@ Biblical Aramaic
 verb
 know (see Biblical Hebrew); —
 
+@@SPLIT:stem@@
+
 Pe`al
 Perfect 3 masculine singular ׳
 י
@@ -40,6 +42,8 @@ person Dan
 4:12; Ezra
 4:13; Ezra 5:8
 .
+
+@@SPLIT:stem@@
 
 Haph`el
 Perfect 3 masculine singular הוֺדַע

@@ -10,6 +10,7 @@ disque, galette ronde ; comparer hébreu tardif קַרְסוֺל, קַרְצוֺ
 
 קַרְסוּלָּא, קַרְצוּלָא tous cheville) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 pluriel קָֽרְסוּ
 Es 46,2

@@ -39,6 +39,7 @@ Baer (Gi
 S-C^Pap. F 5, 8^+) Esd 7,24, עֲלֵיהוֺן
 Esd 5,1 ; Esd 5,3 —
 
+@@SPLIT:sense@@
 1.
 
 a.
@@ -85,14 +86,17 @@ g), Dn 2,18 ; Dn 5,14 ; Dn
 6,13 ;
 Esd 7,14 + souvent
 
+@@SPLIT:sense@@
 2.
 au-dessus de, avec des verbes de domination, de nomination, etc., Dn 2,48 ; Dn 2,49 ; Dn 3,12 ; Dn 4,14 +,
 Esd 4,20
 ; Esd 6,18
 .
 
+@@SPLIT:sense@@
 3. dans un sens comparatif, au-dessus de, au-delà de, Dn 3,19 ; Dn 6,4.
 
+@@SPLIT:sense@@
 4. exprimant la direction :
 
 a.
@@ -121,6 +125,7 @@ contre, Dn 3,19 ; Dn 3,29 ; Dn 5,23 ; Dn 6,5 ; Dn 6,6 + ; Esd 4,8
 ;
 Esd 7,23.
 
+@@SPLIT:sense@@
 5. dans des expressions telles que שְׁפַר עַל, טְאֵב (être) bon ou
 acceptable
 pour (comme en syriaque et hébreu tardif : voir hébreu biblique 8

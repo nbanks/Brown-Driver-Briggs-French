@@ -12,6 +12,8 @@ pavement, paved terrace,
 רוֺבֵדָא
 pavement); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 1 singular מַרְבֵרִּים רָבֵדְתִּי
 עַרְשִׂי

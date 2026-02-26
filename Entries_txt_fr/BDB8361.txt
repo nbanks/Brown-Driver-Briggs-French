@@ -9,11 +9,13 @@ faire un fracas ou un vacarme, s'effondrer en ruines (peut-être apparenté à �
 שַׁהֲוָוא, שַׁהֲוָתָא
 désert) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 pluriel שָׁאוּ
 Es 6,11 jusqu'à ce que
 les villes se soient effondrées en ruines ; + peut-être Na 1,5 (p. 671a).
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait 3 féminin singulier תִּשָּׁאֶה שְׁמָמָה
 Es 6,11, habituellement,
@@ -32,6 +34,7 @@ Du
 Che^Hpt^
 Marti).
 
+@@SPLIT:stem@@
 Hiph`il
 Infinitif construit
 לְהַשְׁאוֺת

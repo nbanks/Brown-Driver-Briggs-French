@@ -5,6 +5,7 @@ hébreu biblique
 dénominatif
 considérer comme prépuce, c.-à-d. comme incirconcis ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 2 masculin pluriel, avec accusatif de sens apparenté au verbe וַעֲרַלְתֶּם
 עָרְלָתוֺ
@@ -21,6 +22,7 @@ enlever son prépuce (son fruit), comme
 
 περικαθαριεῖτε τὴν ἀκαθαπσίαν αὐτοῦ).
 
+@@SPLIT:stem@@
 Niph`al
 Impératif
 הֵעָרֵל

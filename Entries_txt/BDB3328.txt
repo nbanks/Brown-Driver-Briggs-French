@@ -10,6 +10,8 @@ grind; Arabic
 grind; Ethiopic
 [placeholder2090: Placeholders/2090.gif]: polenta, farina bordacea) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 וְטָֽחֲנוּ

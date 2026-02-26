@@ -10,11 +10,15 @@ Jb 17,4 suffixe
 שִׂכְלוֺ
 Pr 12,8 ; Dn 8,25 —
 
+@@SPLIT:sense@@
+
 1.
 prudence, bon sens :
 ׳
 טוֺבַת שׂ femme de bon sens
 1 S 25,3.
+
+@@SPLIT:sense@@
 
 2.
 discernement, intelligence : || בִינָה
@@ -49,6 +53,8 @@ Pr 23,9
 Ne 8,8 (||
 הֵבִין) exposer le sens (c.-à-d. la
 signification).
+
+@@SPLIT:sense@@
 
 3. sens péjoratif, ruse, artifice, Dn 8,25.
 

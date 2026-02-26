@@ -4,6 +4,7 @@ hébreu biblique
 [כָּמַס] verbe
 mettre en réserve (si vera l.), dans
 
+@@SPLIT:stem@@
 Qal
 Participe passif
 כָּמֻס

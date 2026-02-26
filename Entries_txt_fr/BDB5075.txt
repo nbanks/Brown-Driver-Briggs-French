@@ -15,6 +15,7 @@ sorte, espèce, variété ; Di comparer éthiopien
 [placeholder3240: Placeholders/3240.gif]
 chasser) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 נָ֫עוּ
@@ -77,6 +78,7 @@ vagabond
 Gn 4,12 ; Gn 4,14 (tous deux ||
 נָד) ; figuré = errer, pécher, Jr 14,10.
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait
 יִנּוֺעַ
@@ -84,6 +86,7 @@ Am 9,9
 être secoué (du grain) dans un crible ; יִנּוֺעוּ
 id., de remparts comme des figuiers Na 3,12 (|| נפל).
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 féminin singulier הֵנִ֫יעָה
 2 R

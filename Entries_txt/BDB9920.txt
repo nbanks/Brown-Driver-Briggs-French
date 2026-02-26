@@ -11,6 +11,8 @@ hate (
 שָׂנֵא
 ); —
 
+@@SPLIT:stem@@
+
 Pe`al
 Participle plural suffix שׂנאיך
 

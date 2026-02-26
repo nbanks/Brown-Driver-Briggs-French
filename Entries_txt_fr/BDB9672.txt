@@ -5,12 +5,16 @@ araméen biblique
 verbe
 compter, dénombrer (voir hébreu biblique) ; —
 
+@@SPLIT:stem@@
+
 Peal
 Parfait 3 masculin singulier ׳
 מ
 Dn 5,26 Dieu
 a compté (les jours de) ton royaume (accusatif ; c.-à-d. y a mis fin) ; — מְנֵא
 voir ci-dessous
+
+@@SPLIT:stem@@
 
 Pael
 nommer, accusatif de personne : Parfait 3 masculin singulier מַנִּי

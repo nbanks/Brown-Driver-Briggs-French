@@ -4,6 +4,7 @@ hébreu biblique
 [חָרַת] verbe
 graver, seulement
 
+@@SPLIT:stem@@
 Qal
 Participe passif
 חָרוּת עַל הַלֻּחֹת

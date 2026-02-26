@@ -4,6 +4,8 @@ Biblical Hebrew
 [עָפַר] verb
 denominative
 
+@@SPLIT:stem@@
+
 Pi`el
 וְעִפַּר בֶּעָפָר
 2Sam 16:13

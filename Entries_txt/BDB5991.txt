@@ -8,6 +8,8 @@ turn, return; Arabic
 [placeholder3824: Placeholders/3824.gif]
 incline, bend); —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 3 masculine singular יַעֲטֹף
 turn aside (so Ew

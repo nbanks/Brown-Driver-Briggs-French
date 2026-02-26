@@ -2,11 +2,17 @@
 """Verify French translations using a local LLM via llama.cpp server.
 
 Supports three modes (--mode txt/json/html) with appropriate defaults for
-directories, prompts, and results files. Results are stored one line per
-file in aligned CSV format (readable as both CSV and plain text):
+directories, prompts, and results files. Results are stored in aligned CSV
+format, one line per verification unit:
 
-    BDB1234.txt,            CORRECT, 2026-02-19T14:32:01, a1b2c3d4, "Traduction correcte, refs bibliques ok."
-    BDB5678.txt,            ERROR,   2026-02-19T14:32:05, e5f6g7h8, "«of king» non traduit ligne 6."
+    BDB1234.txt,              CORRECT, 2026-02-19T14:32:01, a1b2c3d4, "Traduction correcte."
+    BDB5678.txt:1/3,          CORRECT, 2026-02-19T14:32:05, e5f6g7h8, "header: OK"
+    BDB5678.txt:2/3,          ERROR,   2026-02-19T14:32:10, e5f6g7h8, "stem Qal: 'of king' non traduit"
+    BDB5678.txt:3/3,          CORRECT, 2026-02-19T14:32:15, e5f6g7h8, "footer: OK"
+
+For txt mode, entries that split into 2+ aligned chunks (via split_entry)
+are verified chunk-by-chunk, producing one row per chunk. Non-chunked
+entries produce a single row with the plain filename as key.
 """
 
 import argparse
@@ -19,6 +25,9 @@ from llm_common import (ContextOverflow, check_server, file_hash,
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 ROOT = SCRIPT_DIR.parent
+
+sys.path.insert(0, str(SCRIPT_DIR))
+from split_entry import split_txt
 
 # Per-mode defaults: (french_dir, english_dir, prompt_file, results_file, extensions)
 MODE_DEFAULTS = {
@@ -40,12 +49,84 @@ MODE_DEFAULTS = {
 }
 
 # Column widths for aligned CSV output.
-COL_FILENAME = 13
+# BDB10012.txt:2/5 = 18 chars, pad to 20
+COL_FILENAME = 20
 COL_VERDICT = 7
 
 
 def build_prompt(template: str, english: str, french: str) -> str:
+    """Fill template placeholders with English and French texts."""
     return template.replace("{{ENGLISH}}", english).replace("{{FRENCH}}", french)
+
+
+# Verdict severity ordering for picking the worst
+_VERDICT_RANK = {"CORRECT": 0, "WARN": 1, "ERROR": 2}
+
+
+def _chunk_key(filename: str, idx: int, total: int) -> str:
+    """CSV key for a chunk row, e.g. 'BDB7516.txt:2/5'."""
+    return f"{filename}:{idx + 1}/{total}"
+
+
+def _chunk_note_prefix(chunk: dict) -> str:
+    """Short prefix for the explanation, e.g. 'stem Qal: ' or 'header: '."""
+    ctype = chunk.get("type", "")
+    name = chunk.get("name", "")
+    if name:
+        return f"{ctype} {name}: "
+    if ctype:
+        return f"{ctype}: "
+    return ""
+
+
+def verify_chunked(template: str, english: str, french: str,
+                   filename: str,
+                   server_url: str) -> list[tuple[str, str, str, float]] | None:
+    """Verify an entry chunk-by-chunk if both sides split consistently.
+
+    Returns a list of (csv_key, verdict, explanation, prompt_kb) tuples —
+    one per verified chunk. Returns None if chunking isn't applicable
+    (fall back to whole-entry).
+    """
+    en_chunks = split_txt(english)
+    fr_chunks = split_txt(french)
+
+    # Need matching chunk counts and at least 2 to be worth chunking
+    if len(en_chunks) != len(fr_chunks) or len(en_chunks) < 2:
+        return None
+
+    results = []
+    total = len(en_chunks)
+
+    for idx, (en_c, fr_c) in enumerate(zip(en_chunks, fr_chunks)):
+        en_txt = en_c["txt"]
+        fr_txt = fr_c["txt"]
+
+        # Skip chunks that are purely structural (empty or markers only)
+        en_stripped = en_txt.strip()
+        fr_stripped = fr_txt.strip()
+        if not en_stripped or not fr_stripped:
+            continue
+        # Skip very short chunks (just a "---" separator)
+        if en_stripped == "---" and fr_stripped == "---":
+            continue
+
+        key = _chunk_key(filename, idx, total)
+        prefix = _chunk_note_prefix(en_c)
+
+        prompt = build_prompt(template, en_txt, fr_txt)
+        prompt_kb = len(prompt.encode("utf-8")) / 1024
+
+        try:
+            raw = query_llm(prompt, server_url)
+        except ContextOverflow:
+            results.append((key, "SKIPPED", f"{prefix}too large", prompt_kb))
+            continue
+
+        verdict, explanation = parse_response(raw)
+        results.append((key, verdict, f"{prefix}{explanation}", prompt_kb))
+
+    return results
 
 
 def parse_response(raw: str) -> tuple[str, str]:
@@ -188,13 +269,28 @@ Modes and their defaults:
     digits = args.digits if args.digits else None
     pairs = get_file_pairs(fr_dir, en_dir, extensions, digits)
 
-    # Load existing results and figure out what needs checking
+    # Load existing results and figure out what needs checking.
+    # Results may have chunk keys like "BDB7516.txt:2/5" or plain filenames.
+    # A file is "done" if its plain key matches hash, OR if any chunk key
+    # for that filename matches hash (chunk keys share the same hash).
     existing = load_results(results_path)
+
+    def _file_done(filename: str, fhash: str) -> bool:
+        """Check if this file (plain or chunked) is already verified."""
+        # Plain key match
+        if filename in existing and existing[filename][2] == fhash:
+            return True
+        # Check for any chunk key like "filename:N/M"
+        prefix = filename + ":"
+        for key, (_, _, khash) in existing.items():
+            if key.startswith(prefix) and khash == fhash:
+                return True
+        return False
 
     to_check = []
     for filename, en_path, fr_path in pairs:
         fhash = file_hash(fr_path)
-        if filename in existing and existing[filename][2] == fhash:
+        if _file_done(filename, fhash):
             continue
         to_check.append((filename, en_path, fr_path, fhash))
 
@@ -204,10 +300,15 @@ Modes and their defaults:
         print(f"{args.mode}: {total} total, {done} done, {len(to_check)} remaining")
         if existing:
             counts = {"CORRECT": 0, "WARN": 0, "ERROR": 0}
-            for v, _, _ in existing.values():
+            n_chunks = 0
+            for key, (v, _, _) in existing.items():
                 counts[v] = counts.get(v, 0) + 1
+                if ":" in key and "/" in key.split(":")[-1]:
+                    n_chunks += 1
+            chunk_note = f" ({n_chunks} chunk rows)" if n_chunks else ""
             print(f"  Results so far: {counts.get('CORRECT', 0)} correct, "
-                  f"{counts.get('WARN', 0)} warn, {counts.get('ERROR', 0)} error")
+                  f"{counts.get('WARN', 0)} warn, "
+                  f"{counts.get('ERROR', 0)} error{chunk_note}")
         sys.exit(0)
 
     if not to_check:
@@ -228,6 +329,27 @@ Modes and their defaults:
         filename, en_path, fr_path, fhash = item
         english = en_path.read_text()
         french = fr_path.read_text()
+
+        # Try chunked verification first (txt mode, 2+ aligned chunks)
+        if args.mode == "txt":
+            chunk_results = verify_chunked(
+                template, english, french, filename, args.server)
+            if chunk_results is not None:
+                timestamp = datetime.now(timezone.utc).strftime(
+                    "%Y-%m-%dT%H:%M:%S")
+                worst = "CORRECT"
+                total_kb = 0.0
+                for key, verdict, explanation, kb in chunk_results:
+                    total_kb += kb
+                    if _VERDICT_RANK.get(verdict, 2) > _VERDICT_RANK.get(worst, 0):
+                        worst = verdict
+                    save_result(results_path, key, verdict, timestamp,
+                                fhash, explanation,
+                                col_filename=COL_FILENAME,
+                                col_status=COL_VERDICT, lock=file_lock)
+                return filename, worst, total_kb
+
+        # Whole-entry fallback (non-chunked txt, json, html)
         prompt = build_prompt(template, english, french)
         prompt_kb = len(prompt.encode("utf-8")) / 1024
 

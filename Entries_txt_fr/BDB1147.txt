@@ -14,6 +14,7 @@ bêlû
 , Pi`el détruire
 Zim^BP 27^) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 בָּלַע
@@ -87,6 +88,7 @@ Ps 124,3
 submersion par la calamité Ps 69,16 (sujet מצולה) ; de la pleine jouissance, du profit Jb 20,18
 (pas d'objet)
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 נִבְלַע
@@ -101,6 +103,7 @@ Es 3,12
 ׳
 נ, || שָׁגוּ בַשֵּׁכָר).
 
+@@SPLIT:stem@@
 Pi`el
 Parfait
 בִּלַּע
@@ -198,6 +201,7 @@ Pr
 19,28, pour extravagance, gaspillage
 Pr 21,20.
 
+@@SPLIT:stem@@
 Pu`al
 Imparfait
 יְבֻלַּע
@@ -215,6 +219,7 @@ Es 9,15 — être englouti, c.-à-d. détruit Jb 37,20 comparer
 comparer ci-dessous
 Pi`el)
 
+@@SPLIT:stem@@
 Hithpa`el
 Imparfait 3 féminin singulier תִּתְבַּלָּ֑ע
 

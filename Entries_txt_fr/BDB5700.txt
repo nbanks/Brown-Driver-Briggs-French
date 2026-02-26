@@ -18,6 +18,8 @@ Jg 21,23 + ;
 pluriel construit מִסְפְּרֵי
 1 Ch 12,23 —
 
+@@SPLIT:sense@@
+
 1.
 
 a.
@@ -157,6 +159,8 @@ lire סָפַר מִי, comparer v^a,^ ainsi
 
 Di
 So^Kau.^
+
+@@SPLIT:sense@@
 
 2.
 récit, relation

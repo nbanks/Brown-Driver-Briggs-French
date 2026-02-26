@@ -14,6 +14,8 @@ split, divide;;
 withdraw (intransitive), also remove, rescue; Ethiopic
 [placeholder4345: Placeholders/4345.gif]: set free); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 2 masculine singular וּפָרַקְדָמתּ֫
 Gen 27:40
@@ -40,6 +42,8 @@ Du
 We), > Hup
 Bae and others snatch away as prey.
 
+@@SPLIT:stem@@
+
 Pi`el
 Imperfect 3 masculine singular יְפָרֵק
 Zech 11:16
@@ -51,6 +55,8 @@ E
 מְפָרֵק
 1Kgs 19:11 a
 great wind rending mountains (|| מְשַׁבֵּר).
+
+@@SPLIT:stem@@
 
 Hithpa`el
 tear off (for, i.e. from, oneself Ges^«GKC:54f»§

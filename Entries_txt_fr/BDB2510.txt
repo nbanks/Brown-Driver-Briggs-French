@@ -12,6 +12,7 @@ hébreu biblique
 [placeholder1602: Placeholders/1602.gif] II. rassembler ses biens, etc.,
 Frey) —
 
+@@SPLIT:stem@@
 Qal
 Infinitif
 לַחֲבוֺק
@@ -28,6 +29,7 @@ Qo 4,5 (dit de
 הַכְּסִיל = croiser les bras, c.-à-d. être oisif ; comparer חִבֻּק) ; pas d'objet exprimé Qo 3,5 (||
 Pi`el).
 
+@@SPLIT:stem@@
 Pi`el
 Parfait
 חִבְּקוּ

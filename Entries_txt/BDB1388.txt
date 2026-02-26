@@ -6,6 +6,8 @@ Gen 15:10
 ^
 part, piece.
 
+@@SPLIT:sense@@
+
 1.
 בִּתְרוֺ
 Gen 15:10 plural
@@ -14,6 +16,8 @@ Jer 34:18,
 בִּתְרֵי הָעֵגֶל
 Jer 34:19
 always of halves of animals cut in two in making covenants.
+
+@@SPLIT:sense@@
 
 2.
 הָרֵי בָּ֑תֶר

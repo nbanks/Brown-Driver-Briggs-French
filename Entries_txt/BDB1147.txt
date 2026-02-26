@@ -14,6 +14,8 @@ bêlû
 , Pi`el destroy
 Zim^BP 27^) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 בָּלַע
@@ -87,6 +89,8 @@ Ps 124:3
 over-whelming by calamity Ps 69:16 (subject מצולה); of full enjoyment, profit Job 20:18
 (no object)
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect
 נִבְלַע
@@ -100,6 +104,8 @@ Isa 3:12
 28:7 (מןהֿיין
 ׳
 נ, || שָׁגוּ בַשֵּׁכָר).
+
+@@SPLIT:stem@@
 
 Pi`el
 Perfect
@@ -198,6 +204,8 @@ Prov
 19:28, for extravagance, squandering
 Prov 21:20.
 
+@@SPLIT:stem@@
+
 Pu`al
 Imperfect
 יְבֻלַּע
@@ -214,6 +222,8 @@ Isa 9:15 — be swallowed up, i.e. destroyed Job 37:20 compare
 (impersonal); ruined Isa 9:15 (yet
 compare below
 Pi`el)
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Imperfect 3 feminine singular תִּתְבַּלָּ֑ע

@@ -26,6 +26,7 @@ ici,
 où ? comparer אֵיכָה, p. 32, et Kö^ii.
 1, 252^) —
 
+@@SPLIT:sense@@
 1. de manière, ainsi (le plus fréquemment, et indiquant habituellement ce qui va
 suivre, tandis que כֵּן renvoie communément à ce qui a précédé), Gn 15,5
 כה יהיה זרעך
@@ -62,6 +63,7 @@ parlait
 de cette manière (|| 2 Ch 18,19
 כָכָהכָּ֗֗֗כָה ; probablement correct).
 
+@@SPLIT:sense@@
 2. de lieu, ici (rare, principalement dans
 E
 ), Gn
@@ -81,6 +83,7 @@ Gn 22,5 et nous
 irons עַדכֹּֿה
 jusque-là (δεικτικῶς) c.-à-d. là-bas.
 
+@@SPLIT:sense@@
 3. de temps, עַד כֹּה
 jusqu'ici, Ex 7,16 (comparer עַדהֵֿנָּה), Jos 17,14
 עַדכֹּֿה

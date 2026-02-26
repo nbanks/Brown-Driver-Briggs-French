@@ -31,6 +31,7 @@ Es 10,30
 ענה
 ) ; —
 
+@@SPLIT:sense@@
 1.
 pauvre, nécessiteux, || אביון
 Dt 15,11 ;
@@ -50,6 +51,7 @@ Pr 15,15
 Kt
 ).
 
+@@SPLIT:sense@@
 2.
 pauvre et faible, opprimé par les riches et les puissants Es 3,14 ; Es 3,15 ; Es 32,7 (
 Qr
@@ -73,6 +75,7 @@ Ez 16,49
 ; Ez
 18,12 ; Ez 22,29.
 
+@@SPLIT:sense@@
 3.
 pauvre, faible, Israël affligé, ou le pieux en Israël affligé
 par des nations méchantes ou les méchants en Israël même Ps 10,2 ; Ps 10,9 (deux fois dans le verset) ; Ps 14,6 (douteux, comparer Ps 53,6) Ps 102,1 (ou
@@ -130,6 +133,7 @@ Kt
 Ps 140,13
 , le roi aussi juge Ps 72,2 ; Ps 72,4, et délivre Ps 72,12.
 
+@@SPLIT:sense@@
 4.
 humble, modeste, Za 9,9 (roi victorieux) ; opposé à לֵצִים
 Pr 3,34 (

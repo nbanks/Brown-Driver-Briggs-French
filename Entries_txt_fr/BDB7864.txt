@@ -7,6 +7,8 @@ aimer.
 Pi`el
 avoir compassion ; —
 
+@@SPLIT:stem@@
+
 Qal Imparfait 1 singulier suffixe אֶרְחָֽמְךָ
 Ps 18,2
 je t'aime (peut-être glose ; voir absent dans || 2 S 22,2
@@ -14,6 +16,8 @@ Hi
 Ch
 SS
 Gerber lire אֲרֹמִמְךָ).
+
+@@SPLIT:stem@@
 
 Pi`el
 Parfait 3 masculin singulier רִחַם
@@ -63,6 +67,8 @@ Jr 50,42
 ailleurs d'enfants, avec accusatif Es 13,18 ; Es 49,15 avec עַל
 Ps 103,13
 .
+
+@@SPLIT:stem@@
 
 Pu`al
 Parfait 3 féminin singulier רֻחָ֑מָה

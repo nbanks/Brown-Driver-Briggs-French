@@ -11,6 +11,7 @@ nom propre, masculin
 a jugé, comparer אֱלִישָׁפָט, שְׁפַטְיָהוּ et
 références) —
 
+@@SPLIT:sense@@
 1.
 ׳
 יְהוֺ (ainsi pour tous sauf 5 et 6) roi de Juda, fils d'Asa
@@ -26,8 +27,10 @@ dans le verset) ; 2 R 3,14
 1 Ch 3,10 ;
 2 Ch 17,1 + 40 t. 2 Chroniques.
 
+@@SPLIT:sense@@
 2. père de Jéhu roi d'Israël 2 R 9,2 ; 2 R 9,14.
 
+@@SPLIT:sense@@
 3. chroniqueur sous David et Salomon, fils d'Ahilud 2 S 8,16 ; 1 R 4,3 ; 1 Ch 18,15 aussi 2 S 20,24 (
 
 ᵐ5
@@ -36,6 +39,7 @@ dans le verset) ; 2 R 3,14
 
 Σαφαν).
 
+@@SPLIT:sense@@
 4. un des 12 officiers de Salomon qui pourvoyaient aux vivres de la maison royale 1 R 4,17 (
 
 ᵐ5
@@ -44,14 +48,17 @@ dans le verset) ; 2 R 3,14
 
 Ἰωασαφατ).
 
+@@SPLIT:sense@@
 5.
 ׳
 יוֺ un des héros de David 1 Ch 11,43.
 
+@@SPLIT:sense@@
 6.
 ׳
 יוֺ un prêtre et joueur de trompette au temps de David 1 Ch 15,24.
 
+@@SPLIT:sense@@
 7. dans un nom propre [d'un lieu]
 עֵמֶק יְהוֺשָׁפָט Jl 1 Ch 4,2 ; 1 Ch 4,12, nom symbolique d'une vallée près de Jérusalem, lieu du jugement ultime.
 

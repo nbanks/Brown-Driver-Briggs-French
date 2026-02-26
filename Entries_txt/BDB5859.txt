@@ -5,6 +5,8 @@ Biblical Hebrew
 denominative (Gerber^42 f.^) bear witness
 ; —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 1 singular suffix אֲעוּדֵךְ
 Lam 2:13
@@ -17,6 +19,8 @@ Qr
 
 Bu.
 
+@@SPLIT:stem@@
+
 Hiph`il
 Perfect 3 masculine singular הֵעִיד
 2Kgs 17:15
@@ -24,11 +28,11 @@ Perfect 3 masculine singular הֵעִיד
 
 הֵעִד
 Gen 43:3 2
-masculine singular ַהעִי֫דֹתָ
+masculine singular ַהעִי֫דֹתָ
 Neh 9:34
-ַהעֵדֹ֫תָה
+ַהעֵדֹ֫תָה
 Exod 19:23
-1 singular ַהעִידֹ֫תִי
+1 singular ַהעִידֹ֫תִי
 Deut 4:26; Jer 42:19 3
 masculine plural הֵעִ֫ידוּ
 Neh 9:26,
@@ -95,6 +99,8 @@ enjoin solemnly, with בְּ person + accusative of thing
 9:34, דברים
 Deut
 32:46.
+
+@@SPLIT:stem@@
 
 Hoph`al
 Perfect 3 masculine singular וְהוּעַד consecutive Exod 21:29 (

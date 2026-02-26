@@ -4,6 +4,7 @@ hébreu biblique
 שְׁבַנְיָה(וּׅ
 nom propre, masculin
 
+@@SPLIT:sense@@
 1.
 יָה-
 
@@ -22,6 +23,7 @@ b. prêtre Ne 10,5, famille sacerdotale Ne 12,14 (
 (
 Ισχανια, Σεχενια).
 
+@@SPLIT:sense@@
 2.
 יָהוּ-, prêtre, 1 Ch 15,24 (Σομνια,
 

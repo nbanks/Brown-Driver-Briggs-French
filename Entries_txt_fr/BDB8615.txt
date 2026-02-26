@@ -25,6 +25,7 @@ Lzb^374^, araméen שְׁחַת,
 [placeholder5503: Placeholders/5503.gif]), mutiler ; — très improbable
 Gerber^179 dénominatif^ de שַׁחַת) ; —
 
+@@SPLIT:stem@@
 Niph`al
 être gâté, abîmé, Parfait 3 masculin singulier נִשְׁחַת, d'une
 ceinture
@@ -46,6 +47,7 @@ P
 ) ; ainsi Participe féminin pluriel comme adjectif נִשְׁחָתוֺת
 Ez 20,44.
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 3 masculin singulier שִׁחֵת
 Ex 32,7 +, suffixe
@@ -117,6 +119,7 @@ E
 שׁ
 Dt 32,5.
 
+@@SPLIT:stem@@
 Hiphil_103_
 Parfait 3 masculin singulier הִשְׁחִית
 Gn 6,12 + ; 1
@@ -266,6 +269,7 @@ Pr 59,1
 Pr 75,1
 .
 
+@@SPLIT:stem@@
 Hoph`al
 Participe
 מָשְׁחָת

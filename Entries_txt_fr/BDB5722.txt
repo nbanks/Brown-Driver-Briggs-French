@@ -21,6 +21,7 @@ bit sutummu
 , entrepôt, trésor, Zehnpf^BAS i. 531^.
 —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier ׳
 ס
@@ -63,12 +64,14 @@ habituellement aucun secret n'est trop obscur pour toi, mais douteux (voir II.
 חַרְטֻמִּים < Toy חֲכָמִים, ou
 Berthol. קֹסְמִים.
 
+@@SPLIT:stem@@
 Niph`al
 Infinitif construit
 לְהִסָּתֵם
 Ne 4,1 les
 brèches [dans les murailles] avaient commencé à être bouchées.
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 3 pluriel suffixe סִתְּמוּם
 Gn 26,16

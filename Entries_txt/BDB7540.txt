@@ -15,6 +15,8 @@ cut off, קִיצָּא,
 [placeholder4832: Placeholders/4832.gif]
 end);-
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 2 masculine singular consecutive וְקַצֹּתָה
 Deut 25:12
@@ -25,6 +27,8 @@ Jer 9:25; Jer 25:23; Jer 49:32 (see
 פֵּאָה
 
 1).
+
+@@SPLIT:stem@@
 
 Pi`el
 Perfect 3 masculine singular קִצֵּץ
@@ -43,6 +47,8 @@ P
 הַמְּכֹנוֺת) 2Kgs 16:17 (so Kit
 Benz, transposing הַמִּסְגְּרוֺת), doors 2Kgs 18:16
 (both, for the sake of metal sheathing).
+
+@@SPLIT:stem@@
 
 Pu`al
 Participle plural מְקֻצָּצִים

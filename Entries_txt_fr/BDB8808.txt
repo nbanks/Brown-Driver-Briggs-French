@@ -4,9 +4,11 @@ hébreu biblique
 שָׁמֵן
 adjectif
 gras, robuste ; —
-׳שׁ masculin Jg 3,29 +, féminin שְׁנֵנָה
+׳
+שׁ masculin Jg 3,29 +, féminin שְׁנֵנָה
 Gn 49,20 + ; —
 
+@@SPLIT:sense@@
 1.
 gras, riche, de la nourriture, Gn 49,20 (poème dans
 J
@@ -22,6 +24,7 @@ E
 
 3).
 
+@@SPLIT:sense@@
 2.
 corpulent, robuste, d'hommes Jg 3,29 (|| אִישׁ חַיִל ; voir
 GFM) ; féminin collectif (figuré du troupeau) Ez 34,16 (+ הַחֲזְקָהִ).

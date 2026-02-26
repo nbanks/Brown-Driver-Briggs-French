@@ -8,6 +8,8 @@ pursue, chase, persecute (Late Hebrew id., Aramaic רְדַף,
 [placeholder4981: Placeholders/4981.gif]; Sabean רדף
 id., SabDenkm^No. 7, 1. 2^); —
 
+@@SPLIT:stem@@
+
 Qal_128_
 Perfect 3 masculine singular ׳
 ר
@@ -17,7 +19,7 @@ Jer 29:18,
 etc.; Imperfect
 יִרְדֹּף
 Deut 19:6 +,
-ִירַדֹּף
+ִירַדֹּף
 Ps 7:6 (apparently to
 give choice of Qal or Pi, Ki
 JHMich
@@ -219,6 +221,8 @@ Ps 34:15
 Ps 38:21
 .
 
+@@SPLIT:stem@@
+
 Niph`al passive: Perfect 1 plural עַלצַֿוָּארֵנוּ נִרְדָּ֑פְנוּ
 Lam 5:5
 upon our neck (i.e. closely) we are pursued (improbable,
@@ -234,6 +238,8 @@ Bu (for תִּרְדֹּף); Participle
 יְבַקֵּשׁ אֶתנִֿרְדָּ֑ף
 Eccl 3:15
 God seeketh the pursued (i.e. what has disappeared, is past, but dubious).
+
+@@SPLIT:stem@@
 
 Pi`el
 Perfect 3 feminine singular consecutive וְרִדְּפָה
@@ -277,12 +283,16 @@ Prov 15:9
 
 .
 
+@@SPLIT:stem@@
+
 Pu`al
 Perfect 3 masculine singular consecutive וְרֻדַּף כְמֹץ הָרִים
 Isa
 17:13
 
 it shall be chased away like chaff of the mountains (|| וְנָס).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 masculine singular suffix הִרְּדִיפֻהוּ

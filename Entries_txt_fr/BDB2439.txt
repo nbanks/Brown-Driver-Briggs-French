@@ -13,17 +13,20 @@ araméen
 [placeholder1545: Placeholders/1545.gif], זִיקָּא
 vent violent, pluie violente avec tourbillon) —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 3 masculin pluriel יָזֹ֫קּוּ
 Jb 28,1 objet
 זָהָב, Jb 36,27 objet מָטָר (voir Di
 ).
 
+@@SPLIT:stem@@
 Pi`el
 Parfait
 וְזִקַּק consécutif Ml 3,3 (|| וְטִהַר) figuré, de la purification des fils de Lévi,
 comme l'or et l'argent כְּזָהָב etc.
 
+@@SPLIT:stem@@
 Pu`al
 Participe
 מְזֻקָּק

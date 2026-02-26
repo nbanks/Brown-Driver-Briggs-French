@@ -10,12 +10,14 @@ Hpt
 KAT^2, Gloss i.^,
 COT^Gloss^) —
 
+@@SPLIT:stem@@
+
 Qal_328_
 Perfect
 ׳
 יר
 Gen 19:30 + 14
-t.; 3 feminine יָרְאָה
+t.; 3 feminine יָרְאָה
 Jer 3:8; Ps 76:9
 יָרֵ֑אָה
 Gen 18:15 plural
@@ -502,6 +504,8 @@ Ps
 1:11
 .
 
+@@SPLIT:stem@@
+
 Niph`al_45_
 Imperfect 2 masculine תִּוָּרֵא
 Ps 130:4
@@ -629,6 +633,8 @@ Judg 13:6
 place of theophany Gen 28:17 (
 E
 ).
+
+@@SPLIT:stem@@
 
 Piel. _5_
 Perfect 3 masculine suffix יֵָֽרְאֻנִי

@@ -20,6 +20,7 @@ Gn 26,5 + 14 t. ;
 Lv 18,4 + 21 t.
 etc. ; —
 
+@@SPLIT:sense@@
 1. singulier statut, de lois rituelles spéciales : de la Pâque Ex 13,10 (
 J
 ) ; ailleurs seulement dans
@@ -55,6 +56,7 @@ H
 ) ; חֻקָּה אַחַת לַגֵּר ולאזרךְ
 Nb 9,14 ; Nb 15,15.
 
+@@SPLIT:sense@@
 2. pluriel statuts :
 
 a. de la nature שׁמים

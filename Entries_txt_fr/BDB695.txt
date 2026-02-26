@@ -5,6 +5,7 @@ hébreu biblique
 dénominatif
 mettre de côté, réserver, retirer, retenir —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 אָצַלְתָּ
@@ -20,12 +21,14 @@ retenir
 מֵהֶם
 Qo 2,10.
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 נֶאֱצַל
 Ez 42,6
 être retiré, c.-à-d. raccourci ou rétréci.
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait
 וַיָּאצֶל

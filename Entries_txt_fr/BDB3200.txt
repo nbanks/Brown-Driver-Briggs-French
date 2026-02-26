@@ -5,6 +5,7 @@ hébreu biblique
 verbe
 dépouiller, mettre à nu —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 חָשַׂף

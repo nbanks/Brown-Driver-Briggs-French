@@ -5,11 +5,15 @@ hébreu biblique
 être émoussé, terne (hébreu tardif id. ; araméen קְהָא,
 [placeholder4689: Placeholders/4689.gif]) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Imparfait 3 féminin pluriel תִּקְהֶינָה
 Jr 31,29 :
 Jr 30 ; Ez 18,2 (tous des
 dents).
+
+@@SPLIT:stem@@
 
 Pi`el au sens du
 Qal : Parfait 3 masculin singulier קֵהָה

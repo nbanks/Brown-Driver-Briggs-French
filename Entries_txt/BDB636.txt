@@ -10,6 +10,8 @@ asâru
 [placeholder347: Placeholders/347.gif], Ethiopic
 [placeholder348: Placeholders/348.gif]) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect suffix אֲסָרָם
 Job 36:13 3
@@ -183,6 +185,8 @@ without
 ׳
 א (עַלנֶֿפֶשׁ omitted)
 
+@@SPLIT:stem@@
+
 Niph`al passive of Qal 3, be, bound, imprisoned, Imperfect
 (jussive) יֵאָסֵר
 Gen 42:19 (
@@ -197,6 +201,8 @@ Gen 42:16 (
 
 E
 ).
+
+@@SPLIT:stem@@
 
 Pu`al
 Perfect

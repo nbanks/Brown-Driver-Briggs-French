@@ -12,6 +12,7 @@ Am 6,1 +,
 שַׁאֲנַנּוֺת
 Es 32,9 ; Es 32,11 ; Es 32,18 —
 
+@@SPLIT:sense@@
 1.
 tranquille, en sécurité :
 ׳
@@ -22,13 +23,16 @@ Es 33,20
 Es 32,18
 (|| מִבְטָחִים).
 
+@@SPLIT:sense@@
 2. comme substantif, celui qui est tranquille, à l'abri du malheur, Jb 12,5.
 
+@@SPLIT:sense@@
 3.
 tranquille, avec l'idée accessoire d'insouciant, insolent, arrogant, Am 6,1 ; Es 32,9 ; Es 32,11 ;
 Za 1,15 ;
 Ps 123,4.
 
+@@SPLIT:sense@@
 4. comme substantif abstrait = arrogance : suffixe שַׁאֲנַנְךָ,
 2 R 19,28
 (|| הִתְרַגֶּזְךָ) = Es 37,29, mais < שְׁאוֺנְךָ

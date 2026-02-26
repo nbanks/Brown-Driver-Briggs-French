@@ -6,6 +6,8 @@ break (Aramaic loan-word = Hebrew
 רָצַץ
 q. v.); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 plural רָעוּ
 Jer 11:16
@@ -69,6 +71,8 @@ read דְּעוּ (
 
 Lo
 Che and others, || הַאֲזִינוּ).
+
+@@SPLIT:stem@@
 
 Hithpo`el
 Perfect 3 feminine singular +

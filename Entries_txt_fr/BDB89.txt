@@ -15,12 +15,16 @@ Es 14,23
 אַגְמֵיהֶם
 Ex 7,19 —
 
+@@SPLIT:sense@@
+
 1.
 mares troubles ou boueuses (sombres) ou
 marécages, pluriel מַיִם
 ׳
 א
 Es 14,23.
+
+@@SPLIT:sense@@
 
 2. toute mare, étang, singulier מַיִם
 ׳
@@ -33,6 +37,8 @@ Ex 7,19 ; Ex 8,1 (
 P
 ) Es 42,15
 .
+
+@@SPLIT:sense@@
 
 3.
 roseau des marais, jonc (= אַגְמוֺן) Jr 51,32.

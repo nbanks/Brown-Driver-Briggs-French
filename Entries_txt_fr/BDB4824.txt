@@ -10,6 +10,7 @@ Dl^HWB 426^ ; arabe
 malade, maladie, Mordt^ZMG 1876, 32^ ; araméen verbe
 [placeholder3085: Placeholders/3085.gif], מְרַע) ; —
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 pluriel נִמְרְצוּ
 Jb 6,25 (mais voir
@@ -34,6 +35,7 @@ Dl^HWB 425 s.^ ; toujours de quelque chose de repoussant]. Plus probablement
 être doux (comparer Ps 119,103) ou lire נמלצו (q. v.), Che^JQ juillet, 1897^
 Du.
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait suffixe מַהיַּֿמְרִיצְךָ
 Jb 16,3

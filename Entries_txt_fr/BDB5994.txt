@@ -6,6 +6,7 @@ III. [עָטַף] verbe
 [placeholder3830: Placeholders/3830.gif]
 périr, faiblir) ; —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 3 masculin singulier יַעֲטֹף
 Ps 102,1,
@@ -33,6 +34,7 @@ l'esprit défaillirait devant moi (׳
 Ps 61,3 ; Ps 101,2
 (titre).
 
+@@SPLIT:stem@@
 Niph`al
 Infinitif construit
 בֵּעָטֵף עוֺלֵל
@@ -41,12 +43,14 @@ quand les nourrissons défaillent (pour ׳
 בְּהֵע ; mais lire peut-être בַּעֲטֹף
 Qal, ainsi Buhl).
 
+@@SPLIT:stem@@
 Hiph`il
 Infinitif construit
 בְּהַעֲטִיף הַצּאֹן
 Gn 30,42
 quand le troupeau montrait de la faiblesse.
 
+@@SPLIT:stem@@
 Hithpa`el
 Imparfait 3 féminin singulier תִּתְעַטֵף
 Ps 77,4,

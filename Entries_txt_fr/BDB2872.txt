@@ -6,6 +6,7 @@ traiter violemment, faire tort (hébreu tardif id., agir violemment, traiter
 violemment ; araméen חֲמַס (rare) saisir violemment ; arabe
 [placeholder1808: Placeholders/1808.gif] est être dur, strict, rigoureux) —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 pluriel חָֽמְסוּ
 Ez 22,26 ;
@@ -50,6 +51,7 @@ les desseins (par lesquels) vous me faites violence.
 חֹמֵס נַפְשׁוֺ
 Pr 8,36.
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 pluriel נֶחְמְסוּ
 Jr 13,22

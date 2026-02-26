@@ -3,6 +3,8 @@ hébreu biblique
 
 [שִׁקֵּץ] verbe
 
+@@SPLIT:stem@@
+
 Pi`el
 dénominatif
 détester, rendre détestable ; — Parfait 3 masculin singulier שִׁקַּץ

@@ -6,6 +6,7 @@ verbe
 être disloqué, aliéné (arabe
 [placeholder2288: Placeholders/2288.gif] est tomber, tomber sur, arriver, survenir) —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 3 féminin singulier תֵּקַע
 Jr 6,8
@@ -17,6 +18,7 @@ Gn 32,26
 Jr 6,8 ; Ez 23,17
 suivi de מֵעַל Ez 23,18.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait
 וְהוֺקַעֲנוּם consécutif 2 S 21,6
@@ -47,6 +49,7 @@ crucifier ; Rs^Rel. Semitic 398^ (419) précipiter (arabe
 ׳
 לפני י 2 S 21,9), Nb 25,4.
 
+@@SPLIT:stem@@
 Hoph`al
 Participe
 הַמּוּקָעִים

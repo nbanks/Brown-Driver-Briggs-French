@@ -15,6 +15,7 @@ garû, girû
 50^ (KB^ii. 190^) aussi SASmith^Assurbanipal i. ii. Glossary^ ; arabe
 [placeholder990: Placeholders/990.gif] est courir, surtout de l'eau, couler, etc.) —
 
+@@SPLIT:stem@@
 Pi`el
 Imparfait 3 masculin singulier יְגָרֶה
 Pr 15,18
@@ -26,6 +27,7 @@ voir I.
 גֵּרָה
 ci-dessous גרר.
 
+@@SPLIT:stem@@
 Hithpa`el
 Parfait 2 féminin singulier הִתְגָּרִיתְ
 Jr

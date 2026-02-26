@@ -6,6 +6,8 @@ lap, lick (Late Hebrew id., Pi`el; Arabic
 [placeholder2852: Placeholders/2852.gif]
 lick, lap of dog (Wahrm)); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular לָֽקְקוּ
 1Kgs 21:19
@@ -20,6 +22,8 @@ lap, יָלֹק בִּלְשׁוֺנוֺ מִןֿ
 Judg 7:5, like of dog v
 Judg 7:5 (absolute); of
 dogs lapping up blood (accusative), 1Kgs 21:19 (twice in verse); 1Kgs 22:38.
+
+@@SPLIT:stem@@
 
 Pi`el
 Participle plural with article הַמְֿלַקְקִים

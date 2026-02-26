@@ -6,9 +6,11 @@ nom masculin^
 Ps 65,12
 ^
 
+@@SPLIT:sense@@
 1.
 retranchement ;
 
+@@SPLIT:sense@@
 2.
 piste ; — absolu ׳
 מ
@@ -28,6 +30,7 @@ Ps 17,5,
 Pr 5,21,
 תֶיהָ- Pr 2,12 ; Pr 5,6, תָם- Pr 2,15 ; Es 59,8 —
 
+@@SPLIT:sense@@
 1.
 circumvallation, retranchement
 1 S 17,20
@@ -35,6 +38,7 @@ circumvallation, retranchement
 ; 1 S 26,7
 .
 
+@@SPLIT:sense@@
 2.
 piste (proprement ornière de chariot), seulement figuré :
 

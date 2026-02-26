@@ -11,6 +11,7 @@ pieux, bienveillant, vrai ;
 [placeholder720: Placeholders/720.gif]
 il était pieux, bon, vertueux, honnête) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 בָּרוֺתִי
@@ -63,6 +64,7 @@ RV
 בּוּר
 .
 
+@@SPLIT:stem@@
 Niph`al
 הִבָּרוּ
 Es 52,11
@@ -78,6 +80,7 @@ a. rituellement, les porteurs des vases sacrés Es 52,11.
 b.
 moralement 2 S 22,27 = Ps 18,27.
 
+@@SPLIT:stem@@
 Pi`el
 Infinitif
 לְבָרֵר
@@ -85,6 +88,7 @@ Dn
 11,35
 purifier (|| לִצְרוֺף, לַלְבֵּן).
 
+@@SPLIT:stem@@
 Hiph`il
 
 1.
@@ -102,6 +106,7 @@ Jr
 51,11
 polir les flèches (voir 3 ci-dessus).
 
+@@SPLIT:stem@@
 Hithpa`el
 
 1.

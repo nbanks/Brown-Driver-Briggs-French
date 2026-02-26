@@ -3,6 +3,7 @@ hébreu biblique
 
 II. בְּרָכָה
 
+@@SPLIT:sense@@
 1.
 nom propre [d'un lieu]
 vallée dans le désert près de Teqoa
@@ -10,6 +11,7 @@ vallée dans le désert près de Teqoa
 (deux fois dans le verset) ; moderne Bereikût comparer Be et
 références
 
+@@SPLIT:sense@@
 2.
 nom propre, masculin [personne]
 un membre de la bande de David

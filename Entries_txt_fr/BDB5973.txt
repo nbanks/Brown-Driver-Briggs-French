@@ -16,6 +16,7 @@ Es 31,2 + ; suffixe
 Ps 22,20 +,
 etc. ; —
 
+@@SPLIT:sense@@
 1.
 aide, secours
 Es 10,3 ; Es 20,6 (+
@@ -39,6 +40,7 @@ Ps 40,14
 Ps 60,13
 (|| תְּשׁוּעָה) = Ps 108,13.
 
+@@SPLIT:sense@@
 2. concret, aide incarnée, celui qui aide (comparer 1 עֵזֶר
 2) :
 

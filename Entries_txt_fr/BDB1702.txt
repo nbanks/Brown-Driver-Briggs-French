@@ -6,6 +6,7 @@ couvrir, entourer, défendre (arabe
 [placeholder963: Placeholders/963.gif], araméen אַגֵּן (Aphel), palmyrénien אגן
 Vog^Palm.132 ss.^) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 וְגַנּוֺתִי
@@ -19,6 +20,7 @@ Es 37,35 ;
 Es 38,6 = 2 R 20,6 ; 2 R 19,34
 avec אֶלֿ (|| הוֺשִׁיעַ).
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait — ou
 Qal selon Ba^ZMG 1889, 178^, qui

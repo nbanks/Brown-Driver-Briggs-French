@@ -6,6 +6,7 @@ verbe
 dénominatif
 agir vainement, devenir vain —
 
+@@SPLIT:stem@@
 Qal
 Jr 2,5 = 2 R 17,15
 ils sont allés après la vanité וַיֶּהְבָּ֑לוּ et sont devenus vains, Ps 62,11
@@ -17,6 +18,7 @@ Jb 27,12
 זֶה הֶבֶל תֶּהְבָּ֑לוּ pourquoi devenez-vous vains de vanité (c.-à-d. vous montrez-vous
 totalement vains) ?
 
+@@SPLIT:stem@@
 Hiph`il
 rendre vain
 Jr 23,16

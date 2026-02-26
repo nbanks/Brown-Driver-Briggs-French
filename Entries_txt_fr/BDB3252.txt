@@ -10,6 +10,7 @@ sceller, apposer un sceau, sceller hermétiquement (hébreu tardif id. ; aramée
 [placeholder2040: Placeholders/2040.gif] (d'où
 [placeholder2041: Placeholders/2041.gif]) est un emprunt selon Frä^252^) —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 3 masculin singulier יַחְתֹּם
 Jb 9,7 ; Jb 33,6,
@@ -96,6 +97,7 @@ Qr
 33,16 ; Jb
 37,7 voir ci-dessous 1.
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 masculin singulier [ou Participe ?] נִכְתָּ֔ב
 וְנֶחְתָּ֖ם
@@ -110,6 +112,7 @@ Est 8,8
 Qal
 1.
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 3 pluriel יוֺמָם חִתְּמוּלָֿמוֺ
 Jb
@@ -129,6 +132,7 @@ conjecture de façon plausible ׳
 ils scellent les jours pour eux-mêmes, c.-à-d. le temps diurne est pour eux scellé et
 inutilisé.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 masculin singulier אוֺהֶֿחְתִּים בְּשָׁרוֺ מִזּוֺבוֺ
 Lv 15,3

@@ -20,6 +20,8 @@ Ct 7,9 suffixe
 אַשְׁכְּלֹתֶיהָ
 Gn 40,10 —
 
+@@SPLIT:sense@@
+
 1.
 grappe de raisins, עֲנָבִים
 ׳
@@ -44,6 +46,8 @@ MV pensent aux grappes de dattes, voir
 תָּמָר
 
 palmier, ib.)
+
+@@SPLIT:sense@@
 
 2.
 grappe de fleurs de henné, הַכֹּפֶר

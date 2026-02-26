@@ -4,6 +4,8 @@ hébreu biblique
 [קוּשׁ] verbe
 poser un appât ou un piège (|| √ de יקשׁ) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Imparfait 3 masculin pluriel יְקשׁוּן
 Es 29,21,

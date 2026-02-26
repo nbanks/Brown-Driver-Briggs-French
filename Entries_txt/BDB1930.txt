@@ -7,11 +7,15 @@ dakû
 , crush, Muss-Arn^Hebraica. Oct. 1890,
 66^) not in Qal; —
 
+@@SPLIT:stem@@
+
 Niph`al
 Participle
 נִדְכָּאִים
 Isa 57:15
 — crushed, figurative = contrite ones.
+
+@@SPLIT:stem@@
 
 Pi`el
 Perfect
@@ -61,6 +65,8 @@ Job 19:2
 , but rather to שֹׁכְנֵי, i.e. men inhabiting the clay houses, bodies, compare
 Di.
 
+@@SPLIT:stem@@
+
 Pu`al
 Perfect
 דֻּכְּאוּ
@@ -81,6 +87,8 @@ nobles); figurative of servant of ׳
 י
 Isa 53:5
 made humble, contrite Jer 44:10.
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Imperfect

@@ -12,6 +12,7 @@ COT^Gloss^ ; phénicien דק
 id., araméen דַּקֵּק Pael id.,
 [placeholder1184: Placeholders/1184.gif]) —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier דַּק
 Dt 9,21,
@@ -37,6 +38,7 @@ Ex 32,20
 הֵיטֵב עַד אֲשֶׁרדַּֿק לְעָפָר
 Dt 9,21.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait
 הֵדַק
@@ -81,6 +83,7 @@ et tu en broyeras une partie finement (c.-à-d. l'encens) ; 2 S 22,43 lire אֲ�
 (|| Ps
 18,43) pour אֲדִקֵּם.
 
+@@SPLIT:stem@@
 Hoph`al
 Imparfait
 יוּדָ֑ק

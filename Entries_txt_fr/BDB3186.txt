@@ -18,6 +18,7 @@ verbe
 ; voir Lag^BN 120^)
 —
 
+@@SPLIT:stem@@
 Qal
 Imparfait
 יֶחֱרָ֑שׁ
@@ -49,6 +50,7 @@ sujet
 אָזְנַיִם
 Mi 7,16.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait
 חֶחֱרִשׁ
@@ -176,6 +178,7 @@ Ps 50,21.
 
 ne sois pas sourd (te détournant) de nous, au point de ne pas crier.
 
+@@SPLIT:stem@@
 Hithpa`el
 Imparfait 3 masculin pluriel וַיִּתְחָֽרְשׁוּ
 Jg 16,2

@@ -12,6 +12,8 @@ lû
 compare Kö^ii. 333^), conjunction
 if, O that: —
 
+@@SPLIT:sense@@
+
 1.
 if (stating a case which has not been, or is not likely to be, realized):
 
@@ -41,6 +43,8 @@ Job 16:4. —
 With the apodosis omitted, Gen 50:15
 לוּ יִשְׂטְמֵנוּ
 if Joseph were to hate us (how should we fare then ?).
+
+@@SPLIT:sense@@
 
 2.
 If only …! i.e. O that! would that! (compare εἰ γάρ,

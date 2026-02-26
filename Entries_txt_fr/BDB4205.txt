@@ -7,6 +7,7 @@ s'agenouiller, se prosterner (hébreu tardif id. ; araméen כְּרַע ; arabe
 mettre sa bouche dans l'eau, ou dans un récipient d'eau ; c.-à-d. s'agenouiller pour boire ? dénominatif du
 suivant ? —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin ׳
 כ
@@ -72,6 +73,7 @@ Es 65,12,
 avec תַּחַת
 Es 10,4. —
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 masculin singulier הִכְרִיעַ
 Ps 78,31 2

@@ -18,6 +18,7 @@ Gn 4,22 + 74 t. (
 בַּרְזֶל֑
 Gn 4,22 etc.) ; —
 
+@@SPLIT:sense@@
 1.
 fer, littéral :
 
@@ -73,6 +74,7 @@ Ez 4,3
 בְּרִיחֵי ב, c.-à-d. de Babylone, contre Cyrus Es 45,2 comparer 1 S 17,7 et Es 60,17 (deux fois dans le verset)
 (figuré)
 
+@@SPLIT:sense@@
 2.
 outil de fer Dt 27,5 ; Jos 8,31 ; Pr 27,17 (deux fois dans le verset) ; Qo 10,10 ; Es 10,34
 (métaphore) ; tête
@@ -92,6 +94,7 @@ Nb
 Jos
 22,8 où le fer comme butin de guerre.
 
+@@SPLIT:sense@@
 3.
 fer en figure de terre sans eau Dt 28,23 de la servitude égyptienne, ׳
 כּוּר הַבּ

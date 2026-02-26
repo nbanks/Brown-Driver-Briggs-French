@@ -22,6 +22,7 @@ construit Gn 49,24
 Gn 31,46 +,
 etc. ; — une pierre (grande ou petite).
 
+@@SPLIT:sense@@
 1. à l'état naturel, utilisée comme oreiller Gn 28,11 ; Gn 28,18 (
 E
 ) ; siège Ex
@@ -124,6 +125,7 @@ H
 q. v.) ; (voir pour d'autres pierres remarquables
 9 ci-dessous
 
+@@SPLIT:sense@@
 2.
 pierre, comme matériau, des tablettes Ex 24,12 ; Ex 31,18 ; Ex 34,1 (pluriel) Ex 34,4 Ex 34,4 (
 J
@@ -189,6 +191,7 @@ tailleurs de pierres
 comparer 1 Ch
 22,2.
 
+@@SPLIT:sense@@
 3.
 pierres précieuses, généralement avec le qualificatif יְקָרָה
 ׳
@@ -239,12 +242,14 @@ distinctif Ex 25,7
 P
 ).
 
+@@SPLIT:sense@@
 4.
 pierres contenant du métal, = minerai, Dt 8,9 (voir Di
 ) Jb 28,2
 comparer Jb
 28,3.
 
+@@SPLIT:sense@@
 5. un poids, à l'origine en pierre (voir Pr 27,3 comparer l'anglais weight, stone = 14 lb)
 אַבְנֵיכִֿיס
 Pr 16,11
@@ -272,6 +277,7 @@ Lv 19,36
 Pr 11,1 d'où
 aussi masse lourde de métal (plomb) Za 5,8.
 
+@@SPLIT:sense@@
 6.
 fil à plomb
 Es 34,11
@@ -283,6 +289,7 @@ fait de métal הַבְּדִּיל
 Za 4,10
 (inversement l'anglais plummet du latin plumbum).
 
+@@SPLIT:sense@@
 7. objets semblables à des pierres ; en particulier la grêle, explicitement, אַבְנֵי הַבָּרָד
 
 Jos 10,11
@@ -303,6 +310,7 @@ E
 אַבְנֵיגִֿר
 Es 27,9.
 
+@@SPLIT:sense@@
 8. en comparaison (surtout poésie) de ce qui coule dans l'eau Ex 15,5 = Ne 9,11 immobilité Ex 15,16 force Jb 6,12 fermeté Jb 41,16 solidité (de la glace)
 Jb 38,30 en
 prose, de la banalité 1 R 10,27 ; 2 Ch 1,15 aussi métaphore de celui qui a peur 1 S 25,37 (c.-à-d. pétrifié
@@ -314,6 +322,7 @@ Za 9,16 (du
 peuple d'Israël racheté) — ׳
 א personnifié Ha 2,11 comparer Ha 2,19 comparer Ez 13,11 (voir 7 ci-dessus)
 
+@@SPLIT:sense@@
 9. dans des termes topographiques (presque = nom propre) ; אֶבֶן בֹּהַן
 Jos 15,6 ; Jos 18,17
 הָעֶזֶר

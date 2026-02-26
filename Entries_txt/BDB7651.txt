@@ -4,6 +4,8 @@ Biblical Hebrew
 [קָשַׁשׁ] verb
 denominative
 
+@@SPLIT:stem@@
+
 Po`el
 gather stubble; — Perfect 3 plural consecutive וְקשְׁשׁוּ
 Exod 5:7

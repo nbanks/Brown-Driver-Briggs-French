@@ -8,6 +8,8 @@ Job 8:22 + 20 t.;
 suffix בָּשְׁתִּי
 Ps 69:20 + 7 t.
 
+@@SPLIT:sense@@
+
 1.
 shame
 1Sam 20:30
@@ -35,6 +37,8 @@ Mic 1:11
 compare Ps 45:5
 בּשֶׁת עֶרְוַת אמך
 1Sam 20:30.
+
+@@SPLIT:sense@@
 
 2.
 shameful thing, substituted for

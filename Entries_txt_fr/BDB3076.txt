@@ -5,6 +5,7 @@ hébreu biblique
 chercher, sonder (hébreu tardif id., Niph`al passif, araméen חֲקַר)
 —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier suffixe וַחֲקָרוֺ consécutif Pr 18,17
 חֲקָרָהּ
@@ -78,6 +79,7 @@ Pr 18,17, comparer Pr 28,11 ainsi de l'examen de soi-même דרכים
 Lm 3,40
 (|| חפשׂ).
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 נֶחְקַר
@@ -96,6 +98,7 @@ bronze utilisé dans les ustensiles du temple), de la forêt Jr 46,23
 fouillée, Jr 31,37 sujet מוסדיֿ
 ארץ
 
+@@SPLIT:stem@@
 Pi`el
 Parfait
 חִקֵּר

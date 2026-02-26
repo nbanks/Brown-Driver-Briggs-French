@@ -3,6 +3,7 @@ hébreu biblique
 
 I. [עָלַל] verbe
 
+@@SPLIT:stem@@
 Po`el, agir sévèrement (envers) (hébreu tardif id., traiter
 (rare), et dérivés ; arabe
 [placeholder3889: Placeholders/3889.gif]
@@ -27,11 +28,13 @@ traite-les sévèrement. — Voir aussi ׳
 ע
 dénominatif ci-dessous
 
+@@SPLIT:stem@@
 Poal
 Parfait 3 masculin singulier מַכְאֹבִי אֲשֶׁר עוֺלַל לִי
 Lm 1,12
 ma douleur qui m'est sévèrement infligée.
 
+@@SPLIT:stem@@
 Hithpa`el
 Parfait
 
@@ -60,6 +63,7 @@ Imparfait 3 masculin pluriel וַיִּתְעַלְּלוּקּבָהּ
 Jg
 19,25 (d'abuser d'une femme ; || וַיֵּדְעוּ אֹתָהּ).
 
+@@SPLIT:stem@@
 Hithpo`el
 Infinitif construit
 לֵהִתְעוֺלֵל עֲלִלוֺר

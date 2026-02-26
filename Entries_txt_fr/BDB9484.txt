@@ -9,6 +9,8 @@ nourrir (
 ; syriaque
 [placeholder6001: Placeholders/6001.gif] ; comparer hébreu biblique) ; —
 
+@@SPLIT:stem@@
+
 Hithpe`el
 être nourri : Imparfait
 יִתְּזִין (K^§ 45, 1 d^) ; ainsi en syriaque W^CG 254^

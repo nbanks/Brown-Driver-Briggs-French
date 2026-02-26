@@ -8,6 +8,7 @@ Ez 41,12 +
 6 t. ; suffixe גִּזְרָתָם
 Lm 4,7 —
 
+@@SPLIT:sense@@
 1.
 coupe, c.-à-d. polissage (
 AV
@@ -19,6 +20,7 @@ VB
 Lm 4,7 leur
 polissage (ou beauté de forme) était comme le saphir.
 
+@@SPLIT:sense@@
 2.
 séparation, הַגִּזְרָה
 Ez 41,12

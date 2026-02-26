@@ -12,6 +12,8 @@ open eyes, etc.; Syriac
 [placeholder4290: Placeholders/4290.gif]
 blossom; —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular ׳
 פ
@@ -60,6 +62,8 @@ b. eyes of others Gen 21:19; 2Kgs 6:17 (twice in verse); 2Kgs 6:20
 
 2.
 open ears = hear Isa 42:20 (without understanding; figurative of Israel).
+
+@@SPLIT:stem@@
 
 Niph`al
 Perfect 3 plural consecutive וְנִפְקְחוּ

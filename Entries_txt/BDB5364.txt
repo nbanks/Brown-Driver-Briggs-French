@@ -37,12 +37,16 @@ clean of bread or fruit Gen 40:16
 ᵑ7^J i^, Deut 6:3
 ᵑ7^J ii^, = exempt (Biblical Hebrew נָקִי) 1Kgs 15:22. —
 
+@@SPLIT:stem@@
+
 Qal
 Infinitive absolute
 נָקֹה
 Jer 49:12 (
 נָקֹה תִּנָּקֶה, probably error for ׳
 הנקה ת, compare Jer 25:29).
+
+@@SPLIT:stem@@
 
 Niph`al
 Perfect 3 masculine singular נִקָּה
@@ -108,6 +112,8 @@ J
 ); מִמֵּי הַמָּרִים from effects of drinking the bitter water Num 5:19 (
 P
 ).
+
+@@SPLIT:stem@@
 
 Piel
 Perfect 1 singular נִקֵּיתִי

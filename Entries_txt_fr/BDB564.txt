@@ -22,11 +22,13 @@ Jg 4,5
 Nb 13,29
 ^. — toujours avec article, sauf Nb 21,29 ; Ez 16,45.
 
+@@SPLIT:sense@@
 1. appelé fils de Canaan Gn 10,16 (
 J
 ) 1 Ch 1,14
 =
 
+@@SPLIT:sense@@
 2. un peuple important dépossédé par les Hébreux ; (a) habitant à l'est du Jourdain Nb 21,13 (deux fois dans le verset) ; Nb 21,25 + 9 t.
 Nombres + Jos 24,8
 (tous
@@ -91,6 +93,7 @@ E
 1 R 9,20 ; 2 Ch 8,7 ; Esd 9,1 ; Ne 9,8 comparer Ez 16,3 ; Ez 16,45 (sur
 ces listes comparer Bu^Urgesch 344 ss.^ et We^JBTh xxi. 602^.)
 
+@@SPLIT:sense@@
 3.
 adjectif [d'un peuple] singulier Gn 14,13 ; Dt 2,24.
 

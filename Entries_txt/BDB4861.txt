@@ -23,6 +23,8 @@ id.; Arabic
 measurement, compare Dl^Prol. 178^
 Frä^282^)); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular ׳
 מ
@@ -54,7 +56,7 @@ We
 GASm
 Now; מָשְׁחָה
 Exod 29:29
-suffix מְשׁחֳךָ
+suffix מְשׁחֳךָ
 1Sam 15:1 (Baer); מָשְׁחוֺ
 Lev 7:36
 מָשְׁחָתָם
@@ -168,6 +170,8 @@ E
 P
 ); קדשׁ קדשׁים
 Dan 9:24.
+
+@@SPLIT:stem@@
 
 Niph`al
 Perfect 3 masculine singular נִמְשַׁח

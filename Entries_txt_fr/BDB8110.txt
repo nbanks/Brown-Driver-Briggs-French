@@ -22,12 +22,16 @@ Gn 1,14 + ; —
 
 firmamentum, comparer syriaque ci-dessous √ ci-dessus ; —
 
+@@SPLIT:sense@@
+
 1. étendue (plate) (comme de glace, comparer כְּעֵין הַקֶּרַח),
 comme base, support (Wkl^Altor. Forsch. iv. 347^) Ez 1,22 ; Ez 1,23 ; Ez 1,25 (glose ?
 comparer Co Toy), Ez 1,26 (supportant le trône de ׳
 י). D'où (Co^
 Ez 1,22
 ^)
+
+@@SPLIT:sense@@
 
 2. la voûte du ciel, ou « firmament », considérée par les Hébreux comme solide, et supportant les « eaux » au-dessus
 d'elle, Gn 1,6 ; Gn 1,7 (3 t. dans le verset) ;

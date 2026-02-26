@@ -8,11 +8,13 @@ id. ; forme secondaire de
 משׁשׁ
 q. v.) ; —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 1 singulier suffixe וַאֲֻמשְׁךָ
 Gn 27,21 approche-toi
 que je te palpe.
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait 3 masculin pluriel וְלֹא יִמִישׁוּן יְדֵיהֶם
 Ps 115,7

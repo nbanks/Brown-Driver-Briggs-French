@@ -8,6 +8,8 @@ betitle, title, give an epithet or cognomen (Late Hebrew id.; Aramaic
 [placeholder2558: Placeholders/2558.gif]; Arabic
 [placeholder2559: Placeholders/2559.gif]) —
 
+@@SPLIT:stem@@
+
 Pi`el
 Imperfect 1 singular suffix בִשְׁמֶ֑ךָ אֲכַנְּךָוָאֶקְרָא לְךָ
 Isa 45:4
@@ -23,6 +25,8 @@ Job 32:21
 
 and unto man I do not give flattering titles (|| אַללֿנָא אֶשָּׂא פְנֵי אִישׁ
 ); absolute Job 32:22.
+
+@@SPLIT:stem@@
 
 Pu`al
 Imperfect

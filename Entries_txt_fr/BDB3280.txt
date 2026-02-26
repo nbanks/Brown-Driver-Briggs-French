@@ -13,6 +13,7 @@ Ez 21,20 +
 3 t. ; suffixe טִבְחָהּ
 Pr 9,2 —
 
+@@SPLIT:sense@@
 1.
 abattage, d'animaux pour la nourriture ; comme accusatif de sens apparenté avec le verbe après
 
@@ -37,6 +38,7 @@ métaphore des chefs babyloniens, sous la figure de taureaux ; ainsi probablemen
 לַטּ
 Es 65,12.
 
+@@SPLIT:sense@@
 2. en poésie figuré massacre, auquel les nations sont livrées par
 ׳
 י

@@ -10,6 +10,7 @@ moudre ; arabe
 moudre ; éthiopien
 [placeholder2090: Placeholders/2090.gif] : polenta, farina bordacea) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 וְטָֽחֲנוּ

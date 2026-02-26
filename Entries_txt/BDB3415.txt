@@ -4,6 +4,8 @@ Biblical Hebrew
 [יָגַב] verb
 till, be husbandman, only
 
+@@SPLIT:stem@@
+
 Qal
 Participle plural לְכֹרְמִים וּלְֹיגְבִים
 Jer 52:16;

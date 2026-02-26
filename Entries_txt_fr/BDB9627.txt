@@ -33,8 +33,12 @@ Qr
 , Dn 2,5 ;
 Dn 2,10 ; Dn 4,4 ; Dn 5,7 —
 
+@@SPLIT:sense@@
+
 1.
 Chaldéen par race Dn 3,8 ; Dn 5,30 ; Esd 5,12.
+
+@@SPLIT:sense@@
 
 2. comme érudits, de la classe des Mages (hébreu biblique ׳
 כ

@@ -17,6 +17,7 @@ dans le verset) ; Ne 11,35
 2 S 5,11 + 6 t. ;
 —
 
+@@SPLIT:sense@@
 1.
 graveur, artisan :
 
@@ -96,6 +97,7 @@ artisans
 a^
 Kö^ii, § 60. 5^ ; lire חָֽרָשִׁים ?
 
+@@SPLIT:sense@@
 2.
 figuré
 מַשְׁחִית

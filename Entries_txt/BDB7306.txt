@@ -4,15 +4,21 @@ Biblical Hebrew
 [קַדְמָה] noun feminine
 antiquity, former state; —
 
+@@SPLIT:sense@@
+
 1.
 antiquity, beginning, suffix קַדְמָתָהּ
 Isa 23:7 (of
 Tyre).
 
+@@SPLIT:sense@@
+
 2. former state, suffix קַדְמָתָן
 Ezek 16:55
 (twice in verse), קַדְמַתְכֶן Ezek 16:55 plural suffix קַדְמוֺתֵיכֶם
 Ezek 36:11.
+
+@@SPLIT:sense@@
 
 3. construct singular = conjunction
 before (temporal; Aramaic) שֶׁקַּדְמַת שָׁלַף

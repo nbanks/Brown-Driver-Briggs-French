@@ -6,6 +6,8 @@ Biblical Hebrew
 [placeholder3285: Placeholders/3285.gif]; Palmyrene נחת
 Lzb^323^); —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 3 masculine singular יֵחַת
 Jer 21:13 3
@@ -30,12 +32,16 @@ descend in chastisement Ps 38:3 (hand of ׳
 Niph`al see below); followed by בְּ
 descend into i.e. make impression on, Prov 17:10 (of reproof).
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect 3 masculine plural נִחֲתוּ followed by בְּ =
 penetrate
 Ps 38:3
 , (of arrows of ׳
 י).
+
+@@SPLIT:stem@@
 
 Pi`el
 Perfect 3 masculine singular consecutive וְנִחַת
@@ -58,6 +64,8 @@ HPS
 וַיָּ֫שֶׁת
 and makes my arms a bow of bronze; of pressing down,
 smoothing out, furrows of land Ps 65:11.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imperative

@@ -5,6 +5,8 @@ Biblical Hebrew
 be bald (Arabic
 [placeholder908: Placeholders/908.gif]);
 
+@@SPLIT:stem@@
+
 Pi`el
 shave, shave off (so Late Hebrew, Aramaic) — Perfect
 וְגִלַּח consecutive Lev 14:8 + 2 t.; suffix וְגִלְּחוֺ consecutive 2Sam 14:26 3
@@ -60,6 +62,8 @@ figurative of devastation by Assyrians Isa 7:20 (object הָראֹשׁ, שַׂע
 E
 ).
 
+@@SPLIT:stem@@
+
 Pu`al
 Perfect
 גֻּלָּ֑ח
@@ -72,6 +76,8 @@ Jer 41:5 —
 be shaven, subject person (of Samson) Judg 16:17; Judg 16:22
 מְגֻלְּחֵי זָקָן
 Jer 41:5.
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Perfect

@@ -32,11 +32,13 @@ Ps 9,6 ; Ps
 Ps 119,21 ; Ml 2,3
 où accusatif ; —
 
+@@SPLIT:sense@@
 1.
 réprimander, un père son fils Gn 37,10 (
 E
 ), des moissonneurs Ruth Rt 2,16, le prêtre Jérémie Jr 29,27.
 
+@@SPLIT:sense@@
 2. de Dieu réprimandant les nations Ps 9,6 ; Es 17,13, les orgueilleux Ps 119,21, Satan Za 3,2 (deux fois dans le verset), חית קנה
 Ps 68,31,
 בָּאֹכֵל (l'essaim dévorant de sauterelles, les retenant) Ml 3,11, la mer en la desséchant Ps 106,9 ; Na 1,4, Sion Es 54,9

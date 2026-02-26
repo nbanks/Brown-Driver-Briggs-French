@@ -6,6 +6,8 @@ verb
 denominative
 bound, border —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 גָָּֽבְּלוּ
@@ -22,6 +24,8 @@ Zech 9:2 transitive
 set bounds
 Deut 10:14
 (with accusative of cognate meaning with verb).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 2 masculine singular set bounds for, with accusative

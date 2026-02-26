@@ -23,6 +23,7 @@ Jos 1,4 + 3 t. ;
 féminin pluriel חִתִּיֹּת
 1 R 11,1 —
 
+@@SPLIT:sense@@
 1.
 adjectif, du vendeur de Macpéla à Abraham, עֶפְרוֺן הַחִתִּי
 Gn 23,10 ; Gn 49,29 ; Gn 49,30 ; Gn 50,13
@@ -58,6 +59,7 @@ ton père était l'Amorite, et ta mère était une femme hittite
 femmes hittites (+ מוֺאֲבִיּוֺת, עַמּוֺנִיּוֺת,
 אֲדֹמִיֹּת, צֵדְנִיֹּת).
 
+@@SPLIT:sense@@
 2.
 nom habituellement
 

@@ -33,6 +33,7 @@ Es 50,11
 אִשָּׁם
 Es 66,24 —
 
+@@SPLIT:sense@@
 1.
 feu, de conflagration, p. ex. dans les épines, mettant en danger ou détruisant les récoltes תֵּצֵא אֵשׁ
 וּמָֽצְאָה קֹצִים
@@ -60,6 +61,7 @@ Jos 8,8 ; Jos 8,19 ; Jr 17,27
 ; 2 S
 14,30 ; 2 S 14,31 (d'un champ, comparer Ex 22,5 ci-dessus)
 
+@@SPLIT:sense@@
 2. du feu surnaturel, accompagnant la théophanie Ex 3,2 ; Ex 19,18 (les deux
 J
 
@@ -111,6 +113,7 @@ E
 ; Ps 148,8
 etc.
 
+@@SPLIT:sense@@
 3. feu pour cuire, rôtir, griller, etc. צְלִי אֵשׁ
 rôti au feu
 Ex 12,8 ; Ex 12,9 (
@@ -124,6 +127,7 @@ Qr
 
 מֵאֵשׁ תַּם עֹפֶרֶת ; comparer Ml 3,2 (comparaison de l'œuvre purificatrice du messager de l'alliance).
 
+@@SPLIT:sense@@
 4. surtout du feu de l'autel Lv 1,7 (deux fois dans le verset) ; Lv 6,2 ; Lv 6,3 ; Lv 6,5 ; Lv 6,6 + ; pour offrir l'encens Lv 10,1, aussi אֵשׁ זָרָה
 feu étranger, c.-à-d. un encens non prescrit, offert présomptueusement Lv 10,1 ; Nb 3,4 ; Nb 26,61 feu de ׳
 י consumant le sacrifice (comparer 2) Lv 9,24 ; 2 Ch 7,1 ; 2 Ch 7,3 du feu dans le sacrifice d'enfants (habituellement הֶעֱבִיר בֵּן
@@ -134,6 +138,7 @@ feu étranger, c.-à-d. un encens non prescrit, offert présomptueusement Lv 10,
 בער בָּא
 2 Ch 28,3.
 
+@@SPLIT:sense@@
 5.
 figuré de la colère de Yahvé Ps 89,47 (comparaison) comparer Na 1,6 ; Lm 2,4
 אֵשׁעֶֿבְרָתִי
@@ -149,6 +154,7 @@ de la parole de ׳
 Jr 23,29
 figuré de l'émotion jaillissante Ps 39,4 de la méchanceté flagrante Es 9,17, etc. :
 
+@@SPLIT:sense@@
 6. dans diverses combinaisons, לַפִּיד אֵשׁ
 Gn 15,17 (
 

@@ -4,6 +4,7 @@ hébreu biblique
 II. בָּצְרָה
 nom propre [d'un lieu]
 
+@@SPLIT:sense@@
 1.
 ville d'Édom (forteresse ; (voir palmyrénien nom propre d'un lieu
 בצרא
@@ -17,6 +18,7 @@ Jr 49,13 ;
 Jr 49,22 ;
 Am 1,12.
 
+@@SPLIT:sense@@
 2. de Moab Jr 48,24, probablement = II. בֶּצֶר
 1 ; — sur
 Mi 2,12 comparer ce qui précède.

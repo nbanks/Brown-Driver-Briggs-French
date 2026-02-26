@@ -3,6 +3,8 @@ Biblical Hebrew
 
 [טֵאטֵא] verb
 
+@@SPLIT:stem@@
+
 Pilpel, only Perfect 1 singular suffix וְטֵאטֵאתִיהָ בְּמַטְאֲטֵא הַשְׁמֵד
 
 Isa 14:23

@@ -15,6 +15,7 @@ Dt 32,11+,
 etc. ; pluriel קִנִּים
 Gn 6,14 —
 
+@@SPLIT:sense@@
 1.
 nid, d'oiseau Dt 22,6 ; Jb 39,27 dans la comparaison Es 10,14 ; Pr 27,8, d'oisillons
 Dt 32,11 ;
@@ -34,6 +35,7 @@ E
 49,16 ; Ab
 1,4 figuré de la demeure sûre des Chaldéens Ha 2,9 temple comme foyer sûr pour Israël Ps 84,4 (figuré de l'hirondelle).
 
+@@SPLIT:sense@@
 2.
 cellules, comme des nids, dans l'arche de Noé Gn 6,14 (
 P

@@ -13,6 +13,7 @@ assyrien
 [placeholder4454: Placeholders/4454.gif] ; ancien araméen צידא
 chasse) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 pluriel צָד֣וּ
 Lm 4,18 suffixe
@@ -67,6 +68,7 @@ probablement לָצוּד (ou לָצַיִד), pour
 צֹר
 .
 
+@@SPLIT:stem@@
 Polel
 chasser (ardemment, avidement ?), Imparfait 2 féminin pluriel תְּצוֺדֵדְנָה
 

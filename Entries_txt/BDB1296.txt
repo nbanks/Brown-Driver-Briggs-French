@@ -5,6 +5,8 @@ Biblical Hebrew
 verb
 seek (Phoenician בקש) —
 
+@@SPLIT:stem@@
+
 Pi`el
 Perfect
 בִּקֵּשׁ
@@ -401,6 +403,8 @@ person Dan
 1:8 (object clause
 with אשׁר), Ps 104:21
 מִן person 2Chr 20:4.
+
+@@SPLIT:stem@@
 
 Pu`al
 Imperfect

@@ -4,6 +4,7 @@ hébreu biblique
 [נָתַע] verbe
 briser, démolir, ou arracher ; —
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 pluriel שִׁנֵּי כְפִירִים נִתָּ֑עוּ
 Jb 4,10, —

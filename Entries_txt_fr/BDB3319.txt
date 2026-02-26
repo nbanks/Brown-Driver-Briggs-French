@@ -14,6 +14,7 @@ araméen
 [placeholder2082: Placeholders/2082.gif]
 étendre) —
 
+@@SPLIT:stem@@
 Pilpel
 Participe
 מְטַלְטֶלְךָ
@@ -21,6 +22,7 @@ Participe
 Es 22,17
 te lance violemment.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait
 הֵטִיל
@@ -70,6 +72,7 @@ suivi d'accusatif + מעל du pays d'où, et על de celui vers lequel ;
 Jr 22,26
 avec accusatif + על du pays vers lequel.
 
+@@SPLIT:stem@@
 Hoph`al
 Parfait
 הוּטֲלוּ

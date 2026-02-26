@@ -4,6 +4,7 @@ hébreu biblique
 [שָׂקַד] verbe douteux, †i
 lier ; —
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 masculin singulier נִשְׂקַד עֹל
 Lm 1,14

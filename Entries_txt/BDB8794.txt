@@ -12,6 +12,8 @@ Kam),
 [placeholder5607: Placeholders/5607.gif]
 string of pearls); —
 
+@@SPLIT:stem@@
+
 Qal
 let drop, fall: Imperative masculine plural suffix + Imperfect 3
 masculine singular suffix וַיִּשְׁמְטוּהָ (final ו dittograph) שִׁמְטוּהָו
@@ -38,10 +40,14 @@ the oxen let it fall (reading שְׁמָטוֺ, that is, the ark); > Thes the ox
 
 slipped (the yoke)? see further Dr.
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect 3 plural נִשְׁמְטוּ
 Ps 141:6 their
 judges have been thrown down.
+
+@@SPLIT:stem@@
 
 Hiph`il 2 masculine singular (?) jussive (?) תַּשְׁמֵט
 Deut 15:3

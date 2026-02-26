@@ -19,6 +19,7 @@ Ps 143,3, etc. ;
 pluriel חַיּוֺת
 Lv 14,4 + 12 t. —
 
+@@SPLIT:sense@@
 1.
 animal, en tant qu'être vivant, actif :
 
@@ -124,15 +125,18 @@ Ez 1,19
 (deux fois dans le verset) ;
 Ez 1,20 ; Ez 1,21 ; Ez 1,22 ; Ez 3,13 ; Ez 10,15 ; Ez 10,17 ; Ez 10,20.
 
+@@SPLIT:sense@@
 2.
 vie, seulement dans la poésie tardive, Ps 143,3 ; Jb 33,18 ; Jb 33,20 ; Jb 33,22 ; Jb 33,28 ; Jb 36,14 ; Ez 7,13
 (deux fois dans le verset), et (douteux) Ps 74,19 ; Ps 78,50.
 
+@@SPLIT:sense@@
 3.
 appétit, activité de la faim : חית כפרים
 appétit de jeunes lions
 Jb 38,39.
 
+@@SPLIT:sense@@
 4.
 renouveau, restauration :
 חַיַּת יָדֵךְ מָצָאתְ

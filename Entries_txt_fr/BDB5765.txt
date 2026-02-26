@@ -25,6 +25,7 @@ DHM^ZMG xxix (1875), 614^ aussi rive ou
 voisinage d'un cours d'eau
 SabDenkm^49^) ; —
 
+@@SPLIT:stem@@
 Qal_465_
 Parfait 3 masculin singulier ׳
 ע
@@ -791,6 +792,7 @@ Woods^Hebraica 1887, 262,^
 ses nuages brûlèrent avec grêlons, etc. ; lire
 plutôt עברו à la 2e singulier
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait 3 masculin singulier נַחַל אֲשֶׁר
 לֹא יֵעָבֵר
@@ -798,6 +800,7 @@ Imparfait 3 masculin singulier נַחַל אֲשֶׁר
 Ez 47,5
 un torrent qui ne peut être traversé à gué.
 
+@@SPLIT:stem@@
 Pi`el
 
 1.
@@ -825,10 +828,12 @@ Imparfait 3 masculin singulier ׳
 il fit passer avec des chaînes
 d'or. —
 
+@@SPLIT:stem@@
 Hithpa`el voir [
 עָבַר
 ] ci-dessous
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 masculin singulier הֶעֱבִיר
 

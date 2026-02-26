@@ -13,12 +13,16 @@ move, agitate, shake (on these see Nö^ZMG 1886, 725^
 zû
 , storm-wind (= Aramaic זוֺעָא) Zim^BP 94^ —
 
+@@SPLIT:stem@@
+
 Qal (late) Perfect 3 masculine singular זָע
 Esth 5:9
 Imperfect 3 masculine plural with rel. שֶׁיָּזֻעזּ
 Eccl 12:3 —
 tremble, quake, in presence of powerful superior Esth 5:9 (followed by מִמֶּנּוּ); said
 of שֹׁמְרֵי הַבַּיִת in description of infirm old man Eccl 12:3
+
+@@SPLIT:stem@@
 
 Pilpel
 Participle suffix מְזַעְזְעֶיךָ

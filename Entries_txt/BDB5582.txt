@@ -25,9 +25,13 @@ Gen 33:17 +;
 2Sam 11:11 +;
 —
 
+@@SPLIT:sense@@
+
 1.
 thicket, lurking-place of lions Job 38:40 (compare [סֹךְ]
 1.).
+
+@@SPLIT:sense@@
 
 2.
 booth, rude or temporary shelter, for cattle Gen 33:17 (
@@ -43,6 +47,8 @@ compare (figurative) Isa
 AV
 'pavilion') of ׳
 י in storm Ps 18:12 = 2Sam 22:12; Job 36:29.
+
+@@SPLIT:sense@@
 
 3. specifically of booths, made of boughs, in which people lived at
 harvest-feast Lev

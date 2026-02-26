@@ -23,6 +23,8 @@ DHM^ZMG xxxvii (1883), 5^), plural אעמדן
 pillars
 DHM^Epigr. Denkm. sus Abess. 80^); —
 
+@@SPLIT:stem@@
+
 Qal_435_
 Perfect
 ׳
@@ -508,6 +510,8 @@ a; so Bev
 Behrm
 Marti^Kau^.
 
+@@SPLIT:stem@@
+
 Hiph`il_83_ (compare Dr^Intr. (6) 535^
 )
 Perfect 3 masculine singular הֶעֱמִיד
@@ -711,6 +715,8 @@ Hoph`al; Ps 30:8 see
 Ezek 29:7 see
 מָעַד
 .
+
+@@SPLIT:stem@@
 
 Hoph`al
 Imperfect 3 masculine singular יָעֳמַדֿ

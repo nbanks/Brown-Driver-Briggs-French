@@ -12,6 +12,8 @@ Eccl 31:27
 [placeholder5520: Placeholders/5520.gif]
 quality, appearance); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular שָׁת
 Gen 4:25 +, 3
@@ -222,6 +224,8 @@ Beer (best) שְׁעֵה (Job 7:19), with יְמֵי חֶלְדִּי (
 Bu
 Be
 Du) for יָמַי יחדל probably rightly.
+
+@@SPLIT:stem@@
 
 Hoph`al (or
 Qal

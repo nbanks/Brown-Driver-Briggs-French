@@ -18,6 +18,8 @@ zalâlu
 easy; but זְלַל,
 [placeholder1490: Placeholders/1490.gif], are more common (all intransitive)) —
 
+@@SPLIT:stem@@
+
 Qal only Participle active זוֺלֵל
 Deut 21:20 + 2
 t.; זוֺלֵלָ֑ה
@@ -41,6 +43,8 @@ Jer 15:19
 Prov 23:20
 
 (|| סֹבְאֵי יַיִן), absolute Prov 23:21; Deut 21:20 (both || סֹבֵא), Prov 28:7.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect suffix הִזִּילוּהָ

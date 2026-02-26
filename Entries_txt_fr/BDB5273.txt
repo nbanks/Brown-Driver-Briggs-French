@@ -13,6 +13,7 @@ secouer, agiter, surtout Pi`el, Niph`al ;
 [placeholder3369: Placeholders/3369.gif]
 bouillonner, être en violente agitation, être très en colère) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 1 singulier נָעַ֫רְתִּי
 Ne 5,13
@@ -36,6 +37,7 @@ participe secoué, vidé
 Ne 5,13 (c.-à-d.
 dépouillé de ses biens) ; faire tomber (des feuilles) Es 33,9 (comparer || proposition).
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 1 singulier נַנְעַ֫רְתִּי כָאַרְבֶּה
 Ps 109,23
@@ -49,6 +51,7 @@ Jg 16,20
 je me secouerai (libre ? comparer Hithpa`el et GFM
 ).
 
+@@SPLIT:stem@@
 Pi`el
 Imparfait 3 masculin singulier jussif יְנַעֵר
 Ne 5,13
@@ -64,6 +67,7 @@ précipita les Égyptiens dans (ב) la mer, = Parfait
 Ps 136,15
 (aussi avec accusatif + ב).
 
+@@SPLIT:stem@@
 Hithpa`el
 Impératif féminin singulier הִתְנַעֲרִי מֵעָפָר
 Es 52,2

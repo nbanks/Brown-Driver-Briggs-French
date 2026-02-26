@@ -4,9 +4,13 @@ Biblical Hebrew
 I. [חָדָה] verb
 be or grow sharp; —
 
+@@SPLIT:stem@@
+
 Qal
 grow sharp, Imperfect with apocope = jussive יָ֑חַד
 Prov 27:17 a;
+
+@@SPLIT:stem@@
 
 Hiph`il
 sharpen (figurative), Imperfect

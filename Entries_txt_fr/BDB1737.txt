@@ -6,6 +6,7 @@ couper, retrancher (arabe
 [placeholder993: Placeholders/993.gif]
 couper, retrancher, exterminer) —
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 נִגְרַזְתִּי

@@ -4,6 +4,8 @@ hébreu biblique
 [בּוּס] verbe
 fouler aux pieds, piétiner —
 
+@@SPLIT:stem@@
+
 Qal
 Imparfait
 יָבוּס
@@ -23,6 +25,8 @@ id., figuré avec accusatif (sujet ׳
 rejeter, mépriser
 Pr 27,7.
 
+@@SPLIT:stem@@
+
 Polel
 Parfait
 בּוֺסְסוּ
@@ -34,12 +38,16 @@ fouler aux pieds en mauvais sens, sujet les ennemis de ׳
 ) Es 63,18
 .
 
+@@SPLIT:stem@@
+
 Hithpolel
 Participe féminin מִתְבּוֺסֶסֶת
 Ez 16,6 ;
 Ez 16,22
 — des mouvements aveugles des membres d'un nourrisson, s'agiter (de-ci de-là),
 figuré de Jérusalem.
+
+@@SPLIT:stem@@
 
 Hoph`al
 Participe

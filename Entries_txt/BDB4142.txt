@@ -11,6 +11,8 @@ compare Arabic
 [placeholder2600: Placeholders/2600.gif]
 overturn, turn back); — only
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect
 מַתָּן בַּסֵּתֶר יִכְפֶּהאָֿ֑ף

@@ -4,10 +4,12 @@ hébreu biblique
 [דָּחַף] verbe
 pousser, hâter (tardif) (hébreu tardif id., araméen דְּחַף) —
 
+@@SPLIT:stem@@
 Qal
 Participe passif pluriel דְּחוּפִים de courriers Est 3,15 ; Est 8,14 (|| מְבֹהָלִים
 ).
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 se hâter, se presser

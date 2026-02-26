@@ -14,6 +14,7 @@ DHM^ZMG xxxvii (1883), 326^ ; arabe
 [placeholder5141: Placeholders/5141.gif]
 coudre ensemble, raccommoder ; comparer Küchenmeister^ZWiss. Th. xxx (1887), 257 ss.^) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier consécutif ׳
 וְר
@@ -126,6 +127,7 @@ Ps 147,3
 exilés languissants, comparer
 Es 61,3) ; absolu Jb 5,18 (opposé à מחץ) ; participe comme substantif Jb 13,4.
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 masculin singulier נִרְפָּא
 Lv 13,37 +,
@@ -173,6 +175,7 @@ la guérison est venue à nous.
 b. de détresse personnelle, sujet personne Jr 17,14, sujet la détresse Jr 15,18
 .
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 1 singulier רִפִּאתִי
 2 R 2,21
@@ -220,6 +223,7 @@ Niph`al
 2),
 Jr 51,9.
 
+@@SPLIT:stem@@
 Hithpa`el
 Infinitif construit de but, לְהִתְרַפֵּא, littéralement, afin
 de

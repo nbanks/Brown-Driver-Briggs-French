@@ -20,6 +20,7 @@ traîner, tirer, conduire ;
 chef ; éthiopien
 [placeholder3166: Placeholders/3166.gif] est voyager) ; —
 
+@@SPLIT:stem@@
 Hiphil_328_
 Parfait
 הִגִּיד
@@ -183,6 +184,7 @@ Participe> = messager
 2 S 18,11
 .
 
+@@SPLIT:stem@@
 Hoph`al
 Parfait
 הֻגַּד

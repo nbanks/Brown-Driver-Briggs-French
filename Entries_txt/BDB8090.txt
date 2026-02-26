@@ -8,6 +8,8 @@ bruise, bray, crush; Aramaic רְעַ,
 [placeholder5170: Placeholders/5170.gif]
 crush, shatter); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 2 masculine singular suffix רַצּוֺתָנוּ
 1Sam 12:4 1
@@ -59,6 +61,8 @@ get crushed (read יֵרוֺץ?), of servant of ׳
 י, under figure of wick, Isa 42:4 (+ יִכְהֶה) he shall not grow dim or be
 crushed out.
 
+@@SPLIT:stem@@
+
 Niph`al
 be crushed, broken: Perfect 3 masculine singular consecutive נְרֹץ (
 Ges^«GKC:67t»§ 67t^) Eccl 12:6b (of wheel at cistern);
@@ -74,6 +78,8 @@ Pi`el), are crushed (as) poor men, Bu
 SS
 Gerber. — Isa 42:2; Eccl 12:6 a see
 Qal.
+
+@@SPLIT:stem@@
 
 Pi`el
 crush in pieces:
@@ -92,6 +98,8 @@ Imperfect 3 masculine singular וַיְרַצֵּץ מִן הָעָם
 
 2Chr 16:10.
 
+@@SPLIT:stem@@
+
 Po`el
 Imperfect 3 masculine plural וַיְרֹצְצוּ
 Judg 10:8
@@ -101,6 +109,8 @@ Pi`el
 Bu
 Now).
 
+@@SPLIT:stem@@
+
 Hiph`il
 Imperfect 3 feminine singular וַתָּ֫רִץ (
 Kö^i. 352^;
@@ -108,6 +118,8 @@ Ba^ZMG xliii (1889), 181^ thinks
 Qal)
 Judg 9:53
 she crushed his skull.
+
+@@SPLIT:stem@@
 
 Hithpo`el reciprocal, Imperfect 3 masculine plural
 וִיִּתְרֹצְצוּ הַבָּנִים בְּקִרְבָּהּ

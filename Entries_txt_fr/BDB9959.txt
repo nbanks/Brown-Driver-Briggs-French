@@ -14,9 +14,13 @@ Dn 4,19,
 3,33 +, נְהוֺן- Dn 7,12 pluriel emphatique שָׁלְטָנַיָּא
 Dn 7,27 —
 
+@@SPLIT:sense@@
+
 1.
 domination, souveraineté (habituellement de Dieu) : Dn 3,33 ; Dn 4,19 ; Dn 4,31 (deux fois dans le verset) ; Dn 6,27b ; Dn 7,6 ; Dn 7,12 ; Dn 7,14 (3 t. dans le verset) ; Dn 7,26 ; Dn 7,27 (deux fois
 dans le verset).
+
+@@SPLIT:sense@@
 
 2.
 royaume

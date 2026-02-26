@@ -12,6 +12,7 @@ Ct 1,12,
 רֵיחֵנוּ
 Ex 5,21 —
 
+@@SPLIT:sense@@
 1.
 parfum, odeur, des plantes et des champs Gn 27,27 (
 J
@@ -32,6 +33,7 @@ J
 ) Jr
 48,11.
 
+@@SPLIT:sense@@
 2. terme technique, רֵיחַ נִיחֹחַ
 odeur d'apaisement (envers Dieu), odeur tranquillisante (des sacrifices qui montent, voir
 נִיחֹחַ

@@ -12,6 +12,8 @@ rukûšu
 animal de selle) ; araméen רִכְשָׁא,
 [placeholder5079: Placeholders/5079.gif] = hébreu biblique רֶכֶשׁ) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Parfait 3 masculin singulier ׳
 ר, accusatif קִנְיָן, Gn 31,18b Gn 36,6 ailleurs avec accusatif de sens apparenté au verbe

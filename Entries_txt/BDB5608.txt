@@ -10,6 +10,8 @@ forgive, pardon (
 id., Late Hebrew סְלִיחָה
 forgiveness): —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 2 masculine singular סָלַחְתָּ
 Exod 34:9 + 9 t.,
@@ -60,6 +62,8 @@ J
 לְ of sinner Deut 29:19; 1Kgs 8:50 = 2Chr 6:39; 2Kgs 5:18 (twice in verse); Jer 5:1; Jer 5:7; Jer 50:20, and in law, Num 30:6; Num 30:9; Num 30:13 (
 P
 ).
+
+@@SPLIT:stem@@
 
 Niph`al
 Perfect 3 masculine singular נִסְלַח with לְ technical term in code

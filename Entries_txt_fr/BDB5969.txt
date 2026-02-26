@@ -12,6 +12,7 @@ Ex 18,4,
 Ez 12,14,
 etc. ; —
 
+@@SPLIT:sense@@
 1.
 aide, secours
 Es 30,5 (||
@@ -34,6 +35,7 @@ Dt 33,29
 (= ׳
 י).
 
+@@SPLIT:sense@@
 2. concret = celui qui aide (comparer 1. עֶזְרָה
 2) ׳
 בְּע (בְּ essentiel, voir

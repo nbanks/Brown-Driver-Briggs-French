@@ -8,11 +8,13 @@ araméen biblique
 
 syriaque ; voir hébreu biblique רצץ) ; —
 
+@@SPLIT:stem@@
 Pe`al
 Imparfait 3 féminin singulier (וְ)תֵרֹעַ
 Dn 2,40 (objet
 omis).
 
+@@SPLIT:stem@@
 Pa`el
 Participe
 actif

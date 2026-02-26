@@ -9,6 +9,7 @@ Qo 43,20
 araméen קְרַם,
 [placeholder4865: Placeholders/4865.gif], incruster, recouvrir) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 1 singulier וְקָרַמְתִּ֫י עֲלֵיכֶם עוֺר
 Ez 37,6

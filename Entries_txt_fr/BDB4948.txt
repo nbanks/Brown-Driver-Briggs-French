@@ -6,9 +6,11 @@ nom masculin^
 Jr 13,12
 ^
 
+@@SPLIT:sense@@
 1.
 outre, peau ;
 
+@@SPLIT:sense@@
 2.
 jarre, cruche ;
 — נֵ֫בֶל absolu 1 S 10,5 + ; construit 1 S 10,3 + (sur נֶכֶל voir
@@ -16,6 +18,7 @@ Baer^
 1 S 1,24
 ^) ; —
 
+@@SPLIT:sense@@
 1.
 outre de vin, נֵ֫בֶל יַיִן
 1 S 1,24 ; 1 S 10,3 ; 2 S 16,1,
@@ -26,6 +29,7 @@ comparer aussi Jr
 Jb 38,37
 c.-à-d. nuages (|| שְׁחָקִים).
 
+@@SPLIT:sense@@
 2. jarre en terre, cruche : figuré des connexions d'Éliakim כְּלֵי
 נְבָלִים
 Es 22,24

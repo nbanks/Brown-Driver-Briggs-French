@@ -11,6 +11,8 @@ pašâ—u
 , grow calm, so Ba^ES9^
 Schulth^Lex^.); —
 
+@@SPLIT:stem@@
+
 Pi`el
 Imperfect 3 masculine singular sf יְשַׁבְּחֶ֑נָּה
 Prov 29:11
@@ -20,6 +22,8 @@ his temper (Bi Toy read חָשַׁךְ
 אַפּוֺ ); 2 masculine singular sf תְּשַׁבְּחֵם
 Ps 89:10
 thou stillest them, i.e. waves (|| גֵּאוּת הַיָּם).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Participle (probably Masoretic error for Pi`el

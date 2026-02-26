@@ -15,6 +15,8 @@ restrain, destroy; Aramaic תְּבַר,
 [placeholder5405: Placeholders/5405.gif]
 break); —
 
+@@SPLIT:stem@@
+
 Qal_53_
 Perfect 3 masculine singular ׳
 שׁ
@@ -82,6 +84,8 @@ Job 38:10
 broke for it my boundary, of sea, reference to abrupt ending of mainland; =
 quench thirst (frangere sitim) Ps 104:11.
 
+@@SPLIT:stem@@
+
 Niph`al_57_
 Perfect 3 masculine singular נִשְׁבַּר
 Exod 22:9 +,
@@ -132,6 +136,8 @@ Berthol Toy Krae);
 Co
 בְּשָׁבְרִי.
 
+@@SPLIT:stem@@
+
 Pi`el_36_
 Perfect 3 masculine singular שִׁבַּר
 Isa 21:9 +,
@@ -172,12 +178,16 @@ J
 Ps 74:13
 wrecking ship Ps 48:8.
 
+@@SPLIT:stem@@
+
 Hiph`il
 cause to break out, i.e. bring to the birth, Imperfect
 1 singular הַאֲנִי אַשְׁבִּיר וְלֹא אוֺלִיד
 Isa 66:9 (
 ׳
 י subject; compare מַשְׁבֵּר below).
+
+@@SPLIT:stem@@
 
 Hoph`al
 be broken, shattered (in heart), Perfect 1 singular עַלשֶֿׁבֶר

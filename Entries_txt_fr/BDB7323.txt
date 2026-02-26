@@ -28,6 +28,7 @@ Dt 33,3 ; Ps 34,10,
 קְדשָׁו֯
 Jb 15,15 —
 
+@@SPLIT:sense@@
 1. de Dieu, comme séparé, à part, et donc sacré, saint :
 
 a. exalté sur le trône théophanique Es 6,3 (3 t. dans le verset), Ps 22,4 trône céleste Es 57,15 dans la victoire Es 5,16 ; 1 S 2,2 ; Ps 99,3 (||
@@ -96,6 +97,7 @@ intensif שׁים (ו) קד
 Os 12,1 ; Pr 9,10 ;
 Pr 30,3.
 
+@@SPLIT:sense@@
 2.
 
 a. de lieu, sacré, saint, chambres des prêtres Ez 42,13, camp d'Israël

@@ -5,6 +5,8 @@ Biblical Hebrew
 denominative
 thunder; —
 
+@@SPLIT:stem@@
+
 Qal
 make the sound of thunder, thunder: Imperfect 3 masculine singular יִרְעַם
 let the sea thunder (in praise, || שׂמה, גיל
@@ -27,6 +29,8 @@ are troubled) in face, lacks etymological support (otherwise Gerber^47^, but see
 
 Co
 דָּֽמְעוּ פְּנֵיהֶם.
+
+@@SPLIT:stem@@
 
 Hiph`il (Gerbe^47^) thunder, cause thunder; — Perfect 3 masculine
 singular הִרְעִים

@@ -4,6 +4,7 @@ hébreu biblique
 יִדּוֺ
 nom propre, masculin
 
+@@SPLIT:sense@@
 1.
 un Manassite, 1 Ch 27,21,
 
@@ -11,6 +12,7 @@ un Manassite, 1 Ch 27,21,
 
 Ιαδδαι.
 
+@@SPLIT:sense@@
 2. un de ceux qui prirent des femmes étrangères Esd 10,43
 
 Kt

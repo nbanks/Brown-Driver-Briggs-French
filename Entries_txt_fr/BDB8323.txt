@@ -19,6 +19,7 @@ fendre l'oreille du chameau,
 [placeholder5334: Placeholders/5334.gif]
 signe, marque (RS^K 214 s.^) ; —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 3 masculin pluriel avec accusatif de sens apparenté au verbe וּבִבְשָׂרָם לֹא
 יִשְׂרְטוּ שָׂרָ֑טֶת

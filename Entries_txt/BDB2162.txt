@@ -19,6 +19,8 @@ Dl^w^; also Arabic
 [placeholder1310: Placeholders/1310.gif]
 perish) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular ׳
 ה
@@ -185,7 +187,7 @@ feminine הֹלְכָה
 Jer 3:6
 הֹלֶכֶת
 Gen 32:21 +
-2 t.+ הֹלָכֶתי
+2 t.+ הֹלָכֶתי
 2Kgs 4:23
 plural הֹלְכִים
 Exod 33:15
@@ -1207,7 +1209,7 @@ Isa
 1Kgs
 18:35
 (הַמַּיִם סָבִיב לַמִּזְבֵּ֑חַוַיֵּלְכוּ), Ps 105:41 (
-ָהלְכוּ בַּצִיּוֺת נָהָר
+ָהלְכוּ בַּצִיּוֺת נָהָר
 , they flowed through dry regions as a river); (on Infinitive
 absolute
 used of
@@ -1448,7 +1450,7 @@ read הֹלְכִים
 Hi compare Gf. (2)
 with
 a
-following finite verb with ו consecutive (rare): הֹלְכִים הָלוֺךְ וְתקְעוּ
+following finite verb with ו consecutive (rare): הֹלְכִים הָלוֺךְ וְתקְעוּ
 
 Josh 6:13
 (
@@ -2408,6 +2410,8 @@ Isa
 45:16
 they have gone into confusion (judgment on idol-makers); etc.
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect 1 singular כְּצֵל כִּנְטוֺתוֺ נֶהֱלָ֑כְּתִּי
 
@@ -2417,6 +2421,8 @@ like a shadow when it stretches out I am gone (compare
 היה
 
 Niph`al)
+
+@@SPLIT:stem@@
 
 Pi`el (chiefly in poetry & late) Perfect
 הִלַּכְּתִּי
@@ -2637,6 +2643,8 @@ I do not walk (move, tread) among great things
 humility,
 compare
 also v^a^).
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Perfect
@@ -3194,6 +3202,8 @@ and I was walking in a
 tent
 and
 in a tabernacle.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 masculine

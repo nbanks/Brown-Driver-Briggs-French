@@ -18,6 +18,8 @@ strike in, carve, etc., is loan-word Frä^194^
 stick, perhaps like a boomerang, see description and illustration in Wilkinson^gypten 323^
 WMM^Asien u. Europa.123f.^); —
 
+@@SPLIT:stem@@
+
 Qal
 Participle
 נוֺקֵשׁ
@@ -37,10 +39,14 @@ We
 Buhl^Lex^ read נוֺקַשׁ,
 Niph`al from יקשׁ.
 
+@@SPLIT:stem@@
+
 Niph`al
 Imperfect 2 masculine singular תִּנָּקֵשׁ אַחֲרֵיהֶם
 Deut 12:30
 lest thou be thrust (impelled) after them.
+
+@@SPLIT:stem@@
 
 Pi`el
 Imperfect
@@ -50,6 +56,8 @@ Ps
 ל); 3 masculine plural וַיְנַקְּשׁוּ
 Ps 38:13
 (absolute).
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Participle

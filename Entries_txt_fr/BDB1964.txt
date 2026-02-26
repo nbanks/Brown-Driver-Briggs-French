@@ -4,6 +4,7 @@ hébreu biblique
 II. [דָּמָה] verbe
 cesser, faire cesser, retrancher, détruire —
 
+@@SPLIT:stem@@
 Qal
 Parfait 1 singulier דָּמִיתִי
 Jr 6,2,
@@ -25,6 +26,7 @@ faire cesser, retrancher, détruire, avec accusatif Israël (sous la figure de �
 
 (sous la figure de אִמֶּ֑ךָ) Os 4,5.
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 נִדְמָה

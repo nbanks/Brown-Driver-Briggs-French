@@ -19,6 +19,7 @@ ezêzu
 , être furieux, ezzu, féroce) ;
 —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 3 masculin singulier יָעֹז
 Ps 9,20 ; Ps 52,9,
@@ -62,6 +63,7 @@ Es 30,2 voir
 עוּז
 .
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 masculin singulier חֵעֵז אִישׁ רָשָׁע בְּפָנָיו
 Pr 21,29

@@ -10,6 +10,7 @@ balayer, emporter, détruire, supprimer ; comparer sabéen כסח
 vaincre, conquérir, Hom^ZMG 1892, 532^) —
 seulement
 
+@@SPLIT:stem@@
 Qal
 Participe passif, féminin singulier כְּסוּחָה
 Ps 80,17,

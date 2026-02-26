@@ -13,6 +13,8 @@ Lzb^329^; compare perhaps Tel Amarna
 zukini
 as loan-word Wkl^l.c^.); —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 3 masculine singular only Job: יִסְכֹּן
 
@@ -42,6 +44,8 @@ Isa 22:15
 benefit, profit, absolute Job 15:3 with לְ person Job 22:2; Job 35:3, עַלֿ person Job 22:2 with
 accusative Job 34:9
 (or absolute gain benefit, גבר subject).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 1 singular הִסְכַּ֫נְתִּי

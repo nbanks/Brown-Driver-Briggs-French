@@ -14,6 +14,8 @@ rest, dwell, compare Assyrian
 dwelling), intransitive be situated (of city), maškanu, place, dwelling-place
 ); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular ׳
 שׁ
@@ -227,6 +229,8 @@ Isa
 Prov 8:12
 .
 
+@@SPLIT:stem@@
+
 Pi`el
 Perfect 3 masculine singular שִׁכֵּן
 Ps 78:60
@@ -270,6 +274,8 @@ J
 )
 Jer 7:3;
 Jer 7:7.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 1 singular הִשְׁכַּ֫נְתִּי

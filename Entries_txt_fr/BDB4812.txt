@@ -7,6 +7,7 @@ arabe
 [placeholder3080: Placeholders/3080.gif]
 oindre, enduire) ; —
 
+@@SPLIT:stem@@
 Qal
 Imparfait
 יִשְׂאוּ דְּבֶלֶת תְּאֵנִים וְיִמְרְחוּ עַלהַֿשְּׁחִין

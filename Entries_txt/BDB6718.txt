@@ -25,6 +25,8 @@ Judg 5:28 +; suffix
 Ps 57:7; Ps 119:133
 , etc.; פַּעֲמֹתָיו (only 1.c.) Exod 25:12 + 2 t.; —
 
+@@SPLIT:sense@@
+
 1.
 
 a. in poetry, hoof-beat
@@ -52,7 +54,11 @@ P
 
 1Kgs 7:30 read פִּנּוֺתָיו (compare 1Kgs 7:34).
 
+@@SPLIT:sense@@
+
 2. = anvil (struck by hammer) Isa 41:7.
+
+@@SPLIT:sense@@
 
 3.
 occurrence, time (originally stroke, beat):

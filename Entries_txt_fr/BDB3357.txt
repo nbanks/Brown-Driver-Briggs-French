@@ -17,6 +17,7 @@ manger, goûter, examiner en goûtant ; éthiopien
 [placeholder2131: Placeholders/2131.gif]
 goûter, examiner en goûtant, etc.) —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier ׳
 ט

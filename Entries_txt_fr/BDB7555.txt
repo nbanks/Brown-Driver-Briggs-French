@@ -10,6 +10,7 @@ convocation ; assemblée, lecture ; — ׳
 Lv 23,2 + ; suffixe
 מִקְרָאֶהָ (Ges^«GKC:91k»§ 91k^) Es 4,5 —
 
+@@SPLIT:sense@@
 1.
 convocation, assemblée sacrée
 Es 1,13
@@ -22,12 +23,14 @@ pour rassemblement religieux le sabbat et certains jours sacrés, Ex 12,16 (deux
 ; Lv 23,4
 ; Lv 23,37.
 
+@@SPLIT:sense@@
 2. (nom verbal, comme l'infinitif araméen, Ges^«GKC:45e»§
 45e^, comparer 115 d) convocation, הָעֵדָה
 ׳
 מ
 Nb 10,2
 
+@@SPLIT:sense@@
 3.
 lecture
 Ne 8,8.

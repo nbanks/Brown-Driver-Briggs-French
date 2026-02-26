@@ -14,6 +14,7 @@ Es 47,9; Es 47,12
 Na 3,4; 2 R 9,22 —
 sorcelleries :
 
+@@SPLIT:sense@@
 1. littéral מִיָּדֶיךָ
 ׳
 וְהִכְרַתִּי כ
@@ -23,6 +24,7 @@ Israël; ׳
 Es 47,9; Es 47,12 ||
 חֲבָרַיִךְ, dit de Babylone.
 
+@@SPLIT:sense@@
 2.
 figuré d'influences séductrices et corruptrices : de Jézabel 2 R 9,22 || זְנוּנִים; de Ninive
 personnifiée en prostituée Na

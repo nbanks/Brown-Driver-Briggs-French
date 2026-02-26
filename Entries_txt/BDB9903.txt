@@ -4,6 +4,8 @@ Biblical Aramaic
 [רְמָא] verb
 cast, throw (see Biblical Hebrew I. רמךְ (rare)); —
 
+@@SPLIT:stem@@
+
 Pe`al
 Perfect 3 masculine plural רְמוֺ
 Dan 6:17; Dan 6:25 1 plural
@@ -22,6 +24,8 @@ person omitted v.Dan
 figurative
 throw (burden of) tribute, עַל person, Ezra 7:24.
 
+@@SPLIT:stem@@
+
 Pe`il
 Perfect 3 masculine plural רְמִיו (W^CG
 225^):
@@ -39,6 +43,8 @@ Dr, and Biblical Hebrew
 ירח
 
 2).
+
+@@SPLIT:stem@@
 
 Hithpe`el
 be cast, subject person with ל location: Imperfect 3

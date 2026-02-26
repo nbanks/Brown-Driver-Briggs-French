@@ -4,6 +4,8 @@ Biblical Hebrew
 עָפְרָה
 proper name
 
+@@SPLIT:sense@@
+
 1. location:
 
 a.
@@ -30,6 +32,8 @@ Judg 6:24, but
 Judg 8:32 with
 ה locative עָפְרָ֫תָה
 Judg 9:5.
+
+@@SPLIT:sense@@
 
 2. person, masculine in Judah
 1Chr 4:14,

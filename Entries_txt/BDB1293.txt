@@ -12,6 +12,8 @@ Gen 1:5 + (always
 absolute); plural בְּקָרִים
 Job 7:18 + 4 t.; —
 
+@@SPLIT:sense@@
+
 1.
 morning (of point of time, time at which, never during which, English morning
 = forenoon): —
@@ -320,6 +322,8 @@ Exod 14:24
 ;
 1Sam 11:11
 .
+
+@@SPLIT:sense@@
 
 2.
 morrow, next day (compare German Morgen, morgen) without article Exod 16:19

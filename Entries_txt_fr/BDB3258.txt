@@ -30,6 +30,7 @@ Jg 19,5
 Gn 19,14 (deux fois
 dans le verset) ; —
 
+@@SPLIT:sense@@
 1. en relation avec un père, gendre, ou fiancé
 Gn 19,12 ; Gn 19,14 (
 לֹקְחֵי בְּנֹתָיו
@@ -47,6 +48,7 @@ aussi חֲתַן בֵּית אַחְאָב
 gendre de la maison d'Achab, dit d'Achazia, dont la mère Athalie était la fille
 d'Achab.
 
+@@SPLIT:sense@@
 2. en relation avec la fiancée, fiancé
 דָּמִים אַתָּה לִי
 ׳

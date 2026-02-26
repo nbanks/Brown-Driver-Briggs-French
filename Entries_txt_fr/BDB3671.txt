@@ -5,6 +5,7 @@ hébreu biblique
 verbe
 verser, couler, fondre (talmudique id.) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 יְצַק
@@ -108,6 +109,7 @@ du cœur du crocodile v. Jb 41,16 v. Jb 41,16 (comme la pierre).
 בְּצֶקֶת
 עָפָר לַמּוּצָק
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait
 וַיַּצִּ֫קוּ
@@ -128,6 +130,7 @@ déposer (?) ; mais lire וַיַצִּיגוּ (
 Dr
 Gr).
 
+@@SPLIT:stem@@
 Hoph`al
 Parfait
 הוּצַק

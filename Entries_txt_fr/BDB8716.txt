@@ -4,13 +4,19 @@ hébreu biblique
 מִשְׁלוֺחַ
 nom [masculin]
 
+@@SPLIT:sense@@
+
 1.
 extension ;
+
+@@SPLIT:sense@@
 
 2.
 envoi ;
 — ׳
 מ seulement construit :
+
+@@SPLIT:sense@@
 
 1.
 יָדָם
@@ -21,6 +27,8 @@ et Moab sont l'extension de leur main (ce dont ils prennent possession, comparer
 
 Qal
 3).
+
+@@SPLIT:sense@@
 
 2.
 מִשְׁלֹחַ מָנוֺת אִישׁ לְרֵעֵהוּ

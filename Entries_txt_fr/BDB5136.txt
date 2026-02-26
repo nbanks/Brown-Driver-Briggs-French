@@ -19,6 +19,7 @@ Nb 21,9 + 2 t. ;
 pluriel נְחָשִׁים
 Nb 21,6 ; Jr 8,17 —
 
+@@SPLIT:sense@@
 1.
 serpent :
 
@@ -75,11 +76,13 @@ d. comme rusé
 tentateur Gn 3,1 ;
 Gn 3,2 ; Gn 3,4 ; Gn 3,13 ; Gn 3,14.
 
+@@SPLIT:sense@@
 2.
 (הַ)נְּחשֶׁת
 ׳
 נ, image de bronze du serpent Nb 21,9 (deux fois dans le verset) ; 2 R 18,4 (comparer נְחֻשְׁתָּן).
 
+@@SPLIT:sense@@
 3. mythologique בָּרִחַ
 ׳
 נ

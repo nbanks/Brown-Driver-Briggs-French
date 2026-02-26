@@ -14,6 +14,8 @@ Nb 25,11 +,
 etc. ; pluriel קְנָאֹת
 Nb 5,15 ; Nb 5,18 ; Nb 5,25 ; Nb 5,29 —
 
+@@SPLIT:sense@@
+
 1.
 ardeur de la jalousie du mari Pr 6,34 ; Pr 27,4
 ׳
@@ -37,6 +39,8 @@ Es 11,13
 amour ardent, || אחכה
 Ct 8,6.
 
+@@SPLIT:sense@@
+
 2. ardeur du zèle :
 
 a. des hommes pour Dieu Nb 25,11 (deux fois dans le verset)(
@@ -58,6 +62,8 @@ Es 59,17
 Es 9,6 ; Es 37,32 =
 2 R 19,31
 .
+
+@@SPLIT:sense@@
 
 3. ardeur de la colère :
 

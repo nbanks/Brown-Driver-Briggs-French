@@ -13,6 +13,7 @@ a donné ; comparer אֶלְנָתָן, נְתַנְיָהוּ,
 Hal^RÉJ 1884, ix. 7 s.^
 Nbr^Stud. Bib. i. 211^ ; sabéen והבאום, Hal^10^) —
 
+@@SPLIT:sense@@
 1.
 ׳
 יְהוֺ fils de Saül 1 S 14,6 ; 1 S 14,8 ; 1 S 18,1 (deux fois dans le verset) + 40 t. 1 Samuel ; 2 S 1,4 + 18 t. 2 Samuel ; 1 Ch 8,33 ; 1 Ch 8,34 ; 1 Ch 9,39 ; 1 Ch 9,40 = ׳
@@ -21,12 +22,14 @@ Nbr^Stud. Bib. i. 211^ ; sabéen והבאום, Hal^10^) —
 Samuel ; 1 Ch 10,2
 .
 
+@@SPLIT:sense@@
 2.
 ׳
 יְהוֺ fils d'Abiathar 2 S 15,27 ; 2 S 15,36 ; 2 S 17,17 ; 2 S 17,20 = ׳
 יוֺ
 1 R 1,42 ; 1 R 1,43.
 
+@@SPLIT:sense@@
 3.
 ׳
 יְהוֺ neveu de David 2 S 21,21 = 1 Ch 20,7 apparemment : appelé Jonadab 2 S 13,3ss. où
@@ -38,24 +41,29 @@ Samuel ; 1 Ch 10,2
 Ἰωναθαν, comparer יהונדב
 2.
 
+@@SPLIT:sense@@
 4.
 ׳
 יְהוֺ ; דּוֺד de David, c.-à-d. son oncle ? 1 Ch 27,32.
 
+@@SPLIT:sense@@
 5.
 ׳
 יְהוֺ l'un des héros de David 2 S 23,32 (comparer Dr) =
 יוֺנָתָן
 1 Ch 11,34.
 
+@@SPLIT:sense@@
 6.
 ׳
 יְהוֺ l'un des trésoriers de David 1 Ch 27,25.
 
+@@SPLIT:sense@@
 7.
 ׳
 יְהוֺ un scribe Jr 37,15 ; Jr 37,20. Jr 38,26.
 
+@@SPLIT:sense@@
 8. Lévites
 
 a.
@@ -68,34 +76,42 @@ b.
 יוֺ
 Ne 12,35.
 
+@@SPLIT:sense@@
 9.
 ׳
 יְהוֺ un prêtre Ne 12,18.
 
+@@SPLIT:sense@@
 10.
 ׳
 יְהוֺ prêtre de la tribu de Dan, fils de Gershom Jg 18,30.
 
+@@SPLIT:sense@@
 11.
 ׳
 יוֺ un capitaine judéen, après la chute de Jérusalem Jr 40,8.
 
+@@SPLIT:sense@@
 12.
 ׳
 יוֺ un Judéen 1 Ch 2,32 ; 1 Ch 2,33.
 
+@@SPLIT:sense@@
 13.
 ׳
 יוֺ père d'Ébed Esd 8,6.
 
+@@SPLIT:sense@@
 14.
 ׳
 יוֺ fils d'Asaël Esd 10,15.
 
+@@SPLIT:sense@@
 15.
 ׳
 יוֺ un prêtre Ne 12,14.
 
+@@SPLIT:sense@@
 16.
 ׳
 יוֺ un fils de Joïada Ne 12,11 (deux fois dans le verset) apparemment = יְהוֺחָנָן 2.

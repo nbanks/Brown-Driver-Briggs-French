@@ -18,11 +18,15 @@ ii.c.19 ii b. 18) Dan 2:38; Dan 7:19 (
 Qr
 feminine כָּכְּהֵּן); —
 
+@@SPLIT:sense@@
+
 1.
 כֹּל חַכִּימֵי בָבֶכ
 the whole of ( = all) the wise men of Babylon Dan 3:2; Dan 3:3; Dan 3:5, etc.; Dan 6:2
 כלמֿלכותא
 the whole ofthe kingdom, v.Dan 6:4 with suffix the whole of them, Dan 2:38; Dan 7:19.
+
+@@SPLIT:sense@@
 
 2. with a singular noun, understood collectively, every, any, or with a
 negative none (Biblical Hebrew 1.b.):Dan 3:29
@@ -41,6 +45,8 @@ Dan 2:38
 (compare אְִשֶׁר
 4.b.
 γ).
+
+@@SPLIT:sense@@
 
 3. emphatic כֹּלָּא, used absolutely, as Hebrew הַכֹּל (Biblical
 Hebrew 2.b.): Dan 2:40

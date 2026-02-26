@@ -20,6 +20,8 @@ Gen 26:5 + 14 t.;
 Lev 18:4 + 21 t.
 etc.; —
 
+@@SPLIT:sense@@
+
 1. singular statute, of special ritual laws: of passover Exod 13:10 (
 J
 ); elsewhere only in
@@ -54,6 +56,8 @@ Lev 23:41 (
 H
 ); חֻקָּה אַחַת לַגֵּר ולאזרךְ
 Num 9:14; Num 15:15.
+
+@@SPLIT:sense@@
 
 2. plural statutes:
 

@@ -17,6 +17,7 @@ Jb 4,6 + 3 t. ;
 יִרְאָתֶ֑ךָ
 Ps 5,8 + 2 t. ; —
 
+@@SPLIT:sense@@
 1.
 crainte, terreur
 Es 7,25 ; Ez 30,13
@@ -31,11 +32,13 @@ Dt 2,25 ||
 רעד(הׅ
 Ps 2,11 ; Ps 55,6.
 
+@@SPLIT:sense@@
 2.
 une terreur = objet de terreur, || גֹּבַהּ
 Ez 1,18
 (supprimer Co).
 
+@@SPLIT:sense@@
 3.
 crainte de Dieu, révérence, piété
 יִרְאַת אֱלֹהִים
@@ -83,6 +86,7 @@ Ps 119,38
 Jr 32,40,
 mais sujet, ta crainte (c.-à-d. ta religion) Jb 4,6 ; Jb 22,4.
 
+@@SPLIT:sense@@
 4.
 יִרְאַת
 יהוֺה

@@ -8,6 +8,7 @@ rêver (hébreu tardif id. ; araméen
 [placeholder1772: Placeholders/1772.gif] arabe
 [placeholder1773: Placeholders/1773.gif], rêver, avoir une émission séminale, atteindre la puberté) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 ׳
@@ -56,6 +57,7 @@ prophètes Dt 13,2
 Dt 13,4 ; Dt 13,6 ; Jr 23,25
 (deux fois dans le verset).
 
+@@SPLIT:stem@@
 Hiph`il
 Participe, מַחְלְמִים
 rêver (de faux prophètes, avec accusatif de sens apparenté au verbe) Jr 29,8

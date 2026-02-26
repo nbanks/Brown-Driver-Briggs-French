@@ -37,6 +37,8 @@ Gen 17:12 + 27
 t., דֹּרֹתָם
 Gen 17:7 + 10 t.; —
 
+@@SPLIT:sense@@
+
 1.
 period, age, generation, mostly poetic:
 
@@ -108,6 +110,8 @@ Ps 145:13
 
 לְדוֺר וָדוֺר
 Lam 5:19.
+
+@@SPLIT:sense@@
 
 2. of men living at a particular time (period, age), generation, as transitory
 דּוֺר הֹלֵךְ וְדוֺר בָּא
@@ -210,6 +214,8 @@ Josh 22:28
 P
 ).
 
+@@SPLIT:sense@@
+
 3. generation characterized by quality or condition, class of men:
 דּוֺר עִקֵּשׁ
 crooked generation
@@ -227,6 +233,8 @@ class Ps 14:5; Ps 24:6; Ps 73:15 (
 2.c.); so also דּוֺר אֲבוֺתָיו i.e. the dead Ps 49:20 (so
 most; yet see
 below below 4).
+
+@@SPLIT:sense@@
 
 4.
 dwelling-place, habitation

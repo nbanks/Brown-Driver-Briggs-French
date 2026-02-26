@@ -5,6 +5,8 @@ Biblical Hebrew
 verb
 strip off, strip, make bare —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 חָשַׂף

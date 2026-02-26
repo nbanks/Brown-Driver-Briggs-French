@@ -16,6 +16,7 @@ Es 33,12 + ;
 construit קוֺצֵי
 Jg 8,7 ; Jg 8,16 —
 
+@@SPLIT:sense@@
 1.
 buisson d'épines, +
 דַּרְדַּר
@@ -39,6 +40,7 @@ Ps 118,12
 
 Es 12,18.
 
+@@SPLIT:sense@@
 2.
 épine, figuré, Ez 28,24 (avec מַכְאִב, voir
 כאב

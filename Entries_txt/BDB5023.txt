@@ -14,6 +14,8 @@ Aramaic
 [placeholder3205: Placeholders/3205.gif], נַהֲרָא
 river); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 plural consecutive וְנָָֽהֲרוּ
 Isa 2:2 + 2 t.;

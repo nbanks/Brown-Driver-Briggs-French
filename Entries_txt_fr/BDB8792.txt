@@ -34,6 +34,7 @@ Lv 26,19, avec
 verbe pluriel, Os 2,23
 —
 
+@@SPLIT:sense@@
 1.
 
 a.
@@ -241,6 +242,7 @@ Dt 32,40
 שׁ seul 1 R 8,22 ; 1 R 8,54 ;
 Jb 35,5 ; Pr 23,5.
 
+@@SPLIT:sense@@
 2.
 
 a.
@@ -334,10 +336,12 @@ Ps 20,7.
 b. Élie enlevé ׳
 הַשּׁ dans un tourbillon 2 R 2,1, comparer 2 R 2,11.
 
+@@SPLIT:sense@@
 3.
 ׳
 הַשּׁ personnifié dans diverses relations Es 1,2 ; Jr 2,12 ; Jb 15,15 ; Ps 19,2 ; Ps 50,6 = Ps 97,6 ; Ps 89,6 ; Ps 148,4.
 
+@@SPLIT:sense@@
 4.
 מְלֶכֶת
 ׳

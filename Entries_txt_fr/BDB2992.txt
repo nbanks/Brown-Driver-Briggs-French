@@ -13,6 +13,7 @@ Dt 15,8 pluriel
 suffixe מַחְסֹרֶיךָ
 Pr 24,34 —
 
+@@SPLIT:sense@@
 1.
 besoin = chose nécessaire
 דֵּי מַחְסֹרוֺ
@@ -24,6 +25,7 @@ verbe) ; עָלָ֑י
 Jg 19,20
 tout ton besoin soit sur moi (à moi de pourvoir).
 
+@@SPLIT:sense@@
 2.
 manque, privation
 כָּלדָּֿבָר
@@ -32,6 +34,7 @@ manque, privation
 Jg 18,10
 aucun manque de quoi que ce soit, Jg 19,19 ; Ps 34,10.
 
+@@SPLIT:sense@@
 3. en général, besoin, pauvreté
 Pr 6,11 (||
 רֵאשׁ) = Pr 24,34 (|| רֵישׁ), Pr 11,24 ; Pr 14,23 ; Pr 21,5 ; Pr 22,16 ; Pr 28,27

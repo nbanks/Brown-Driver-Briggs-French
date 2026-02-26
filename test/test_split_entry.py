@@ -208,3 +208,66 @@ def test_verb_detection():
     chunks200 = split_txt(txt200)
     sense_types = [c["type"] for c in chunks200 if c["type"] == "sense"]
     assert len(sense_types) >= 2, "BDB200 should have multiple sense chunks"
+
+
+# --- Hebrew preservation across split chunks (txt vs txt_fr) ---
+
+_HEBREW_RE = re.compile(r'[\u0590-\u05FF\uFB1D-\uFB4F]+')
+
+
+def _extract_hebrew(text):
+    """Return all Hebrew/Aramaic characters in order as a single string."""
+    return ''.join(_HEBREW_RE.findall(text))
+
+
+def test_split_chunks_hebrew_preservation():
+    """For every entry with splits, each corresponding txt/txt_fr chunk
+    must contain the same Hebrew words in the same order.
+
+    This verifies that @@SPLIT markers were inserted at structurally
+    equivalent positions in the French files.
+    """
+    fr_ids = _all_txt_fr_ids()
+    failures = []
+
+    for entry_id in fr_ids:
+        txt_path = os.path.join(TXT_DIR, f"{entry_id}.txt")
+        fr_path = os.path.join(TXT_FR_DIR, f"{entry_id}.txt")
+
+        with open(txt_path, encoding="utf-8") as f:
+            txt = f.read()
+        with open(fr_path, encoding="utf-8") as f:
+            txt_fr = f.read()
+
+        if not txt.strip() or not txt_fr.strip():
+            continue
+
+        txt_chunks = split_txt(txt)
+        fr_chunks = split_txt(txt_fr)
+
+        if len(txt_chunks) != len(fr_chunks):
+            continue  # chunk count mismatch tested separately
+
+        if len(txt_chunks) <= 1:
+            continue  # no splits, nothing to check
+
+        for i, (tc, fc) in enumerate(zip(txt_chunks, fr_chunks)):
+            en_heb = _extract_hebrew(tc["txt"])
+            fr_heb = _extract_hebrew(fc["txt"])
+            if en_heb != fr_heb:
+                failures.append(
+                    f"{entry_id} chunk {i} ({tc['type']}): "
+                    f"en has {len(en_heb)} Hebrew chars, "
+                    f"fr has {len(fr_heb)} Hebrew chars"
+                )
+                break  # one failure per entry is enough
+
+    if not fr_ids:
+        pytest.skip("no txt_fr files")
+
+    pct = (len(fr_ids) - len(failures)) / len(fr_ids) * 100
+    assert pct >= 98.0, (
+        f"Only {pct:.1f}% of entries have matching Hebrew in split chunks "
+        f"({len(failures)} failures out of {len(fr_ids)}). "
+        f"First 10: {failures[:10]}"
+    )

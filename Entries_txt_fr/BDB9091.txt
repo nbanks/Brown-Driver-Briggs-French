@@ -3,6 +3,7 @@ hébreu biblique
 
 [תָּאָה] verbe
 
+@@SPLIT:stem@@
 Pi`el
 Imparfait 3 masculin pluriel תְּתָאוּ
 Nb 34,7 ; Nb 34,8 apparemment

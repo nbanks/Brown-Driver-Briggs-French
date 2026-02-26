@@ -29,6 +29,7 @@ L
 ^
 omis) ; —
 
+@@SPLIT:sense@@
 1.
 sécheresse
 Jg 6,37 ; Jg 6,39 ; Jg 6,40 (tous
@@ -40,12 +41,14 @@ de l'absence de rosée) ; Jr 50,38 (|| יָבֵשׁ) ; ainsi lire aussi Za 11,17
 Sta^ZAW i. 1881, 29^), un dessèchement sur son bras
 (c.-à-d. un flétrissement) et sur son œil droit.
 
+@@SPLIT:sense@@
 2.
 sécheresse
 Ag 1,11 +
 Dt 28,22
 voir ci-dessus
 
+@@SPLIT:sense@@
 3.
 chaleur torride (du soleil) Gn 31,40 (opposé à קֶ֫רַח), Jr 36,30 (opposé à
 id.) ;

@@ -7,6 +7,7 @@ prosterner, abattre (hébreu tardif סחף, araméen סְחַף
 sa—âpu
 , jeter à terre, submerger) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 מָטָר סֹחֵף
@@ -15,6 +16,7 @@ une pluie qui abat (couchant le grain), וְאֵין
 לָ֑חֶם
 et (ainsi) il n'y a pas de pain.
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 masculin singulier נִסְחַף אַבִּירֶיךָ
 Jr 46,15

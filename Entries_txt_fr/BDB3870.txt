@@ -55,6 +55,7 @@ Kö^ii. 1, 279 ss.^, qui traite כְּ comme adverbe démonstratif) ; mais l'hé
 n'ayant pas de désinences casuelles, son sens propre fut sans doute oublié, et כְּ devint pratiquement
 équivalent à une préposition comme, en tant que : —
 
+@@SPLIT:sense@@
 1.
 
 a.
@@ -242,6 +243,7 @@ Jos 3,4 ; 1 S 9,13 ; Es 1,7 ; Os 5,10,
 ils l'ont étendu indûment (p. ex. à Nb 11,1 ; Lm 1,20 ;
 Os 11,4).
 
+@@SPLIT:sense@@
 2. répété, כְּכְּ֗֗֗, pour signifier la complétude de la correspondance
 entre
 deux objets (propre à l'hébreu) :
@@ -324,6 +326,7 @@ ils péchèrent contre moi, Gn 6,22 ; 1 S 8,8 ; Es 38,14 ; Ez 22,22 ; Ps 42,2 ;
 Ps 83,15
 + souvent
 
+@@SPLIT:sense@@
 3. devant un infinitif :
 
 a.

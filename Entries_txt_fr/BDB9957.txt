@@ -7,6 +7,8 @@ envoyer (hébreu biblique I.
 שָׁלַח
 ) ; —
 
+@@SPLIT:stem@@
+
 Pe`al
 Parfait 3 masculin singulier ׳
 שׁ

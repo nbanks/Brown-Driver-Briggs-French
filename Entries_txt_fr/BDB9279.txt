@@ -10,6 +10,8 @@ id. [rare] ; comparer arabe
 [placeholder5892: Placeholders/5892.gif]
 allumer, brûler) ; —
 
+@@SPLIT:stem@@
+
 Pe`al
 Infinitif
 לְמֵזֵא (§ 11, 3 b)) Dn 3,19 (ל accusatif), suffixe לְמֵזְיֵהּ v

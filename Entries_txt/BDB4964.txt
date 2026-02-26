@@ -19,6 +19,8 @@ Job 29:10;
 Job 31:37 (in
 simile). Especially
 
+@@SPLIT:sense@@
+
 1. of king of Israel: of Saul עַל
 ׳
 מָשַׁח לְנ (+ accusative of person), 1Sam 9:16 (subject prophet), compare of Solomon, subject people, 1Chr 29:22;
@@ -66,8 +68,12 @@ Solomon צִוָּה אֹתוֺ
 ׳
 לְנ ( + accusative of person) 2Chr 11:22 (of Abijah, subject Rehob.); of Judah 1Chr 28:4.
 
+@@SPLIT:sense@@
+
 2. of a foreign ruler or prince
 Ezek 28:2; Dan 9:25; Dan 9:26.
+
+@@SPLIT:sense@@
 
 3. the title of some high official connected with the temple Jer 20:1 (of Pashhur) וְהוּא פָקִיד נָגִיד
 
@@ -85,6 +91,8 @@ Ezek 28:2; Dan 9:25; Dan 9:26.
 ׳
 בְּרִית נ.
 
+@@SPLIT:sense@@
+
 4.
 ruler in other capacities (late): of tribe 1Chr 27:16; 2Chr 19:11 of Korahites 2Chr 9:20 of Aaronite warriors
 
@@ -96,6 +104,8 @@ army: || שַׂר); of temple-treasuries 1Chr 26:24, compare 2Chr 31:12
 נ
 2Chr 28:7
 (i.e. of palace?).
+
+@@SPLIT:sense@@
 
 5.
 princely thimgs, plural abstract Prov 8:6.

@@ -12,6 +12,8 @@ Ps 17,1 +,
 Jr 14,12 + ; —
 cri perçant :
 
+@@SPLIT:sense@@
+
 1. en supplication, à ׳
 י,
 1 R 8,28 =
@@ -22,7 +24,11 @@ cri perçant :
 Ps 88,3 (tous +
 תְּפִלָּה), Ps 106,44 ; Ps 119,169 ; Ps 142,7 ; Jr 14,12.
 
+@@SPLIT:sense@@
+
 2. en proclamation 1 R 22,36.
+
+@@SPLIT:sense@@
 
 3. en joie, surtout louange à ׳
 י, +שִׂמְחָה

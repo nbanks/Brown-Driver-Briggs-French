@@ -11,6 +11,8 @@ have little hair,
 [placeholder3083: Placeholders/3083.gif]
 pluck out hair); —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 1 singular וָאֶמְרְטָה
 Ezra 9:3, suffix 3
@@ -60,6 +62,8 @@ Sm
 Co
 Berthol).
 
+@@SPLIT:stem@@
+
 Niph`al
 Imperfect
 יִמָּרֵט ראֹשׁוֺ
@@ -67,6 +71,8 @@ Lev 13:40
 ; Lev
 13:41
 his head is made bald (by leprosy).
+
+@@SPLIT:stem@@
 
 Pu`al
 Perfect 3 feminine singular מֹרָ֑טָה

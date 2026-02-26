@@ -13,9 +13,13 @@ Job 71:16
 Deut 3:24 +
 (suffixes 6 t.); —
 
+@@SPLIT:sense@@
+
 1.
 strength, of horse Job 39:19; Ps 147:10, crocodile Job 41:4, sun Judg 5:31, body of man Ps 90:10;
 Exod 9:16; Exod 10:17.
+
+@@SPLIT:sense@@
 
 2.
 might, valour, of warriors Judg 8:21; Prov 8:14; Isa 3:25; Isa 28:6; Isa 30:15; Jer 9:22; Jer 23:10; Jer 49:35; Jer 51:30;
@@ -43,6 +47,8 @@ compare phrases of compiler of Kings כֹּל גְּבוּרָתוֺ
 1Chr 29:30
 , תָקְפּוֺ וּגְבוּרָתוֺ
 Esth 10:2.
+
+@@SPLIT:sense@@
 
 3.
 might of God Job 26:14; Ps 21:14; Ps 54:3; Ps 65:7; Ps 66:7; Ps 71:18; Ps 80:3; Ps 89:14; Ps 106:8; Ps 145:11; Isa 33:13; Jer 10:6; Jer 16:21 compare phrases

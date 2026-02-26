@@ -16,6 +16,7 @@ construit Gn 9,12
 + ; pluriel אוֺתוֺת
 Ex 4,9 + etc. —
 
+@@SPLIT:sense@@
 1.
 signe, gage, marque
 Gn 4,15 (
@@ -33,6 +34,7 @@ marque en bien
 Ps 86,17
 gages, assurances de voyageurs Jb 21,29.
 
+@@SPLIT:sense@@
 2.
 signes, présages promis par les prophètes comme gages d'événements prédits 1 S 10,7 ; 1 S 10,9 + 1 S 10,1 où
 ׳
@@ -51,9 +53,11 @@ Ex 3,12 ; 1 S 2,34 ; 1 S 14,10 ;
 7,11 ; Es
 7,14 probablement aussi Es 44,25 (de faux prophètes).
 
+@@SPLIT:sense@@
 3.
 signe, symbole des prophètes Es 8,18 comparer Ez 4,3.
 
+@@SPLIT:sense@@
 4.
 signes, miracles, comme gages ou attestations de la présence et de l'intervention divines Ex 4,8 (deux fois dans le
 verset) ; Ex 4,9 (
@@ -113,6 +117,7 @@ avec שָׁלַח
 Dt 34,11 ;
 Ps 135,9.
 
+@@SPLIT:sense@@
 5.
 signes, mémoriaux, pierres du Jourdain Jos 4,6 (
 J
@@ -131,6 +136,7 @@ J
 ; Dt
 11,18, appartiennent probablement ici ; aussi stèle commémorative en Égypte Es 19,20.
 
+@@SPLIT:sense@@
 6.
 signe, gage d'alliance, הַבְּרִית
 ׳
@@ -143,6 +149,7 @@ P
 ) ;
 Ez 20,12 ; Ez 20,20.
 
+@@SPLIT:sense@@
 7.
 enseignes, étendards
 Nb 2,2 (
@@ -150,6 +157,7 @@ P
 ) Ps 74,4
 .
 
+@@SPLIT:sense@@
 8.
 signes, marques des changements de temps et de saisons Gn 1,14 (
 P

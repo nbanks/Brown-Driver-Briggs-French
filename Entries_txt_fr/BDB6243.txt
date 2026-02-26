@@ -5,6 +5,7 @@ hébreu biblique
 dénominatif (Gerber^61 s.^) infliger une amende, frapper d'amende
 ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait consécutif וְעָֽנְשׁוּ
 Dt 22,19 (2
@@ -22,6 +23,7 @@ Participe passif
 Am 2,8
 ceux frappés d'amende, taxés.
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait +
 Qal

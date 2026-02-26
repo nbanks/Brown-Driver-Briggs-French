@@ -9,6 +9,8 @@ Gerber^73^ II. ׳
 פ is denominative from פִּסֵּחַ [and this below I. ׳
 פ?]); —
 
+@@SPLIT:stem@@
+
 Qal
 Participle plural פֹּסְחִים עַלשְֿׁתֵּי הַסְּעַפִּים
 1Kgs 18:21
@@ -16,10 +18,14 @@ figurative (see [
 סְעִפָּה
 ]).
 
+@@SPLIT:stem@@
+
 Niph`al
 Imperfect 3 masculine singular וַיִּפֹּל וַיִּפָּסֵחַ
 2Sam 4:4
 and he fell and was made limping (lame).
+
+@@SPLIT:stem@@
 
 Pi`el
 Imperfect 3 masculine plural וַיְפַסְּחוּ עַלהַֿמִּזְבֵּחַ

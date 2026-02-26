@@ -6,6 +6,8 @@ be dry, dried up (compare יָבֵשׁ) (Aramaic חֲרוֺב
 be dry, חוּרְבָּא
 drought); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 plural חָֽרְבוּ
 Gen 8:13 (twice in
@@ -37,10 +39,14 @@ Isa 19:5 (||
 Ephraim's
 freshness and vigour Hos 13:15.
 
+@@SPLIT:stem@@
+
 Pu`al
 Perfect 3 plural לֹא חֹרָ֑בוּ
 Judg 16:7; Judg 16:8, of
 fresh bow-strings (of gut, see Bla).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect

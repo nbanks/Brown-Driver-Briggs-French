@@ -16,6 +16,7 @@ construit id. 1 S 23,29 (Gi, 1 S 24,1
 van d. H.
 Baer), Es 33,16 —
 
+@@SPLIT:sense@@
 1.
 forteresse de montagne
 Jg 6,2 ; 1 S 23,14 ;
@@ -26,6 +27,7 @@ Ez 33,27 ; 1 Ch 12,8 ; 1 Ch 12,16
 מְצָדוֺת סְלָעִים
 Es 33,16.
 
+@@SPLIT:sense@@
 2. plus généralement, forteresse
 Jr 48,41 ;
 Jr 51,30 ;

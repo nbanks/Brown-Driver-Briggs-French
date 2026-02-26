@@ -3,6 +3,7 @@ araméen biblique
 
 [סְעַד] verbe
 
+@@SPLIT:stem@@
 Pa`el
 soutenir, maintenir (
 

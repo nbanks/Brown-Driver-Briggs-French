@@ -5,6 +5,7 @@ hébreu biblique
 nom féminin
 foi, soutien.
 
+@@SPLIT:sense@@
 1.
 אֲנַחְנוּ
 כֹּרְתִים אֲמָנָה
@@ -15,6 +16,7 @@ RV
 ) Ne 10,1
 .
 
+@@SPLIT:sense@@
 2.
 ׳
 עַל המ

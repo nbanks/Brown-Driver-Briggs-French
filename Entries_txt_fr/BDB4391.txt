@@ -16,6 +16,7 @@ ajuster aussi menacer ; Gerber^Verb.
 Denom. 59^ pense que le verbe en hébreu est dénominatif de מִלְחָמָה
 ligne de bataille, mais douteux) ; —
 
+@@SPLIT:stem@@
 Qal (poésie) seulement Impératif masculin singulier et Participe
 actif –– combattre, livrer bataille avec, rare, seulement Psaumes, apparemment usage
 tardif : — לְחַם אֶתלֹֿחֲמָ֑י
@@ -26,6 +27,7 @@ comparer préposition avec, comparer Ol ; ||
 Ps 56,3
 combattant contre moi ; לֹחֵם Ps 56,2 comme substantif combattant.
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 נִלְחַם

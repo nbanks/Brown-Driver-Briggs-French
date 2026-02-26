@@ -24,6 +24,8 @@ voir, de même éthiopien
 hébreu רְָאִי
 2)) ; —
 
+@@SPLIT:stem@@
+
 Qal_1141_
 Parfait 3 masculin singulier ׳
 ר
@@ -757,6 +759,8 @@ lire probablement
 יִרְאָה comparer Now
 GASm.
 
+@@SPLIT:stem@@
+
 Niph`al
 Parfait 3 masculin singulier נִרְאָה
 Gn
@@ -1071,6 +1075,8 @@ verset) =
 Jr 13,26 ; Es
 47,3.
 
+@@SPLIT:stem@@
+
 Pu`al
 Parfait 3 pluriel עַצְמֹתָיו לֹא רֻוְּ
 
@@ -1099,6 +1105,8 @@ corrompu,
 Bu
 נָאווּ, Du
 supprimer comme doublet.
+
+@@SPLIT:stem@@
 
 Hithpa`el réciproque se regarder l'un
 l'autre : Imparfait 2 masculin pluriel
@@ -1131,6 +1139,8 @@ Niph`al
 ᵑ0
 
 כִּרְאֹתוֺ אֹתוֺ.
+
+@@SPLIT:stem@@
 
 Hiphil_62_
 Parfait 3 masculin singulier
@@ -1397,6 +1407,8 @@ Dt 1,33
 (comparer
 Dr
 ). Psaumes
+
+@@SPLIT:stem@@
 
 Hoph`al
 

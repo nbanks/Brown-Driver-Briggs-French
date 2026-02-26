@@ -14,6 +14,7 @@ TP^Prism vi. 15^
 DHM^ZMG 1883, 15 et dans nom propre, Id. dans^
 MV^10, pp. 242, 983^) —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier זָרַע
 Jg 6,3 1 singulier
@@ -239,6 +240,7 @@ Vrss
 Ol Hu Bae
 Che et autres
 
+@@SPLIT:stem@@
 Niph`al
 être semé, fécondé, Parfait 3 féminin singulier וְנִזְרְעָה
 
@@ -295,12 +297,14 @@ Nb 5,28
 P
 ; d'une femme).
 
+@@SPLIT:stem@@
 Pu`al
 Parfait 3 pluriel זֹרָ֑עוּ
 Es
 40,24 des princes et des juges sous la figure d'arbres (|| נִטָּ֑עוּ,
 שֹׁרֵשׁ בָּאָרֶץ גִּזְעָם).
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait 3 féminin singulier תַּזְרִיעַ
 Lv 12,2

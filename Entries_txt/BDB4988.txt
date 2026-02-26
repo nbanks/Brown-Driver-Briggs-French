@@ -19,6 +19,8 @@ Num 21:18 + 2
 t.; suffix נְדִיבֵמוֺ
 Ps 83:12 —
 
+@@SPLIT:sense@@
+
 1.
 incited, inclined, willing, נְדִיב לֵב
 Exod 35:5; Exod 35:22 (
@@ -37,6 +39,8 @@ Qal), נָדִיב בְחָכְמָה
 Ps 51:14
 
 a willing spirit.
+
+@@SPLIT:sense@@
 
 2.
 noble, princely, in rank 1Sam 2:8 (poem), Job 12:21 = Ps 107:40; Job 34:18
@@ -64,6 +68,8 @@ Song 7:2
 נְדִיבֵי הָעָם
 Num 21:18
 (poem).
+
+@@SPLIT:sense@@
 
 3.
 noble in mind and character || צדּיק

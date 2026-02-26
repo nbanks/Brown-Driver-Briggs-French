@@ -28,6 +28,8 @@ error; Arabic
 [placeholder5548: Placeholders/5548.gif] (
 [placeholder5549: Placeholders/5549.gif]) be. forgetful, neglectful, content, free (from anxiety)); —
 
+@@SPLIT:stem@@
+
 Qal
 
 1.
@@ -46,9 +48,13 @@ II.
 שׁלח
 ).
 
+@@SPLIT:stem@@
+
 Niph`al
 Imperfect 2 masculine plural תִּשָּׁלוּ jussive 2Chr 29:11
 be not negligent (easy-going; German 'bequem').
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imperfect 2 masculine singular תַּשְׁלֶה jussive 2Kgs 4:28

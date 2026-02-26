@@ -24,6 +24,7 @@ Ps 48,14,
 Ol^§ 40 environ 75g. 96 e^
 Sta^§ 347 c^ ; —
 
+@@SPLIT:sense@@
 1.
 rempart (défini par les Juifs comme בֶּן
 חוֺמָה, c.-à-d. un petit mur, comparer Ki sous le mot),
@@ -44,6 +45,7 @@ lire probablement
 חֵלֶק
 , q. v.
 
+@@SPLIT:sense@@
 2.
 forteresse
 גָּלֻת הַחֵל הַזֶּה

@@ -4,6 +4,7 @@ hébreu biblique
 [מַעֲבָר] nom [masculin]
 gué, col, passage ; — seulement construit :
 
+@@SPLIT:sense@@
 1.
 מַעֲבַר יַבֹּק
 Gn 32,23 (
@@ -11,11 +12,13 @@ Gn 32,23 (
 J
 ) le gué du Jabbok.
 
+@@SPLIT:sense@@
 2.
 col, מַעֲבַר מִכְמָשׂ
 1 S 13,23
 le col de M.
 
+@@SPLIT:sense@@
 3.
 passage, balayage, כָּלמַֿעֲבַר
 מַטֶּה

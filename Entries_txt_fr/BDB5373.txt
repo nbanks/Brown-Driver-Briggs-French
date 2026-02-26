@@ -13,6 +13,7 @@ probablement = mutilé ; éthiopien
 peler, écorcher
 Di^649^) ; —
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 masculin singulier וְנִקַּף סִבְכֵי הַיַּ֫עַר consécutif Es 10,34 et
 les fourrés de la forêt seront abattus (sur le verbe au singulier comparer Ges^«GKC:145o»§ 145o^
@@ -21,6 +22,7 @@ est peut-être Pi`el, mais comparer Di
 Du
 Che^Hpt^).
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 3 pluriel וְאַחַר
 עוֺרִי נִקְּפוּזֹֿאת

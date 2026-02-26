@@ -19,6 +19,8 @@ MI^13, 18^
 לפני, suffixe מפני
 Ez 1,19) ; —
 
+@@SPLIT:stem@@
+
 Qal_117_
 Parfait 3 masculin singulier ׳
 פ
@@ -188,6 +190,8 @@ figuré
 regarder (ב de chose) = considérer Qo 2,11. — 2 Ch
 25,23 voir פַּנָּה
 
+@@SPLIT:stem@@
+
 Pi`el
 Parfait 3 masculin singulier פִּנָּה
 
@@ -211,6 +215,8 @@ Es
 62,10 ; Ml 3,1
 accusatif omis déblayer
 (le sol) devant elle, c.-à-d. pour la planter Ps 80,10 (figuré).
+
+@@SPLIT:stem@@
 
 Hiph`il (surtout Jérémie) Parfait 3 masculin singulier
 הִפְנָה
@@ -257,6 +263,8 @@ opposé à נָסוּ
 Jr 46,5, comparer Na 2,9 + אֶל personne
 
 Na 47,3.
+
+@@SPLIT:stem@@
 
 Hoph`al
 Impératif masculin pluriel הָפְנוּ

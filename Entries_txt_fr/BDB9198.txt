@@ -4,6 +4,7 @@ hébreu biblique
 II. תָּמָר_25_
 nom propre
 
+@@SPLIT:sense@@
 1.
 féminin
 
@@ -18,6 +19,7 @@ t. 13, 2 Ch 3,9.
 
 c. fille d'Absalom 2 S 14,27.
 
+@@SPLIT:sense@@
 2. lieu Ez 47,19 ; Ez 48,28 ; 1 R 9,18
 
 Kt

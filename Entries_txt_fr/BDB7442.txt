@@ -13,6 +13,7 @@ Es 22,18
 suffixe קְלוֺנֵךְ
 Jr 13,26 + ; —
 
+@@SPLIT:sense@@
 1. d'ignominie nationale
 Os 4,7 ; Os 4,18 (douteux
 Line, voir Che
@@ -24,6 +25,7 @@ Gie
 Co
 Hpt), Ha 2,16 ; Ps 83,17 de la nation sous la figure d'une femme, = pudenda, Jr 13,26 ; Na 3,5 (|| מַעְרֵךְ).
 
+@@SPLIT:sense@@
 2. déshonneur personnel, disgrâce, de Shebna, comme disgrâce
 pour la maison de son maître
 Es 22,18 (opposé à כְּבוֺדֶ֑ךָ) ; individuel,

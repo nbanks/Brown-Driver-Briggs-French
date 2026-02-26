@@ -10,6 +10,8 @@ perhaps Syriac
 Kö^ii. 196^);
 [placeholder5097: Placeholders/5097.gif] is bury, and conceal grave); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular consecutive ׳
 וְר
@@ -59,6 +61,8 @@ beast 2Kgs 14:9
 וְר
 Mic 5:7 (simile);
 participle as substantive collective tramplers (i.e. devastators) Isa 16:4.
+
+@@SPLIT:stem@@
 
 Niph`al
 be trampled, Imperfect 3 feminine plural בְּרַגֶלַיִם תֵּרָמַ֑סְנָה

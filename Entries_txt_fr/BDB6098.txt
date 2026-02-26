@@ -19,6 +19,7 @@ Es 1,16 +,
 Es 3,10 +, etc. ;
 —
 
+@@SPLIT:sense@@
 1. habituellement (surtout Jr 17 t.) mauvaises pratiques des hommes, רַע מַעֲלָלִים
 
 1 S 25,3 il était
@@ -57,6 +58,7 @@ Mi 3,4
 ׳
 פְּרִי מ, c.-à-d. leurs conséquences, Es 3,10 ; Jr 17,10 ; Jr 21,14 ; Jr 32,19 (+ דֶּרֶךְ).
 
+@@SPLIT:sense@@
 2.
 actions de ׳
 י
@@ -65,6 +67,7 @@ de אֵל
 Ps 78,7 comparer
 Mi 2,7.
 
+@@SPLIT:sense@@
 3.
 actes, en général, de la jeunesse Pr 20,11 (|| פָּעֳלוֺ).
 

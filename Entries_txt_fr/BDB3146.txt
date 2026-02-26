@@ -9,6 +9,7 @@ aiguiser,
 [placeholder1984: Placeholders/1984.gif]
 aigu, vif, acéré) ; —
 
+@@SPLIT:stem@@
 Qal
 Imparfait
 לֹאיֶֿחֱרַף לְבָבִי מִיָּמָ֑י
@@ -21,6 +22,7 @@ Pr 27,11
 חוֺרְפֶיךָ
 Ps 69,10.
 
+@@SPLIT:stem@@
 Pi`el
 Parfait
 חֵרֵף

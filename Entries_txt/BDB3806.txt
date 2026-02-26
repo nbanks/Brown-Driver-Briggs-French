@@ -25,12 +25,16 @@ Ps 62:2 + 12 t., +
 
 2Sam 53:7 —
 
+@@SPLIT:sense@@
+
 1.
 welfare, prosperity:
 כעב
 עברה ישׁעתי
 Job 30:15
 as a cloud my prosperity passed away.
+
+@@SPLIT:sense@@
 
 2.
 deliverance:
@@ -39,6 +43,8 @@ and thou wilt be to me for deliverance
 2Sam 10:11
 = 1Chr
 19:12.
+
+@@SPLIT:sense@@
 
 3.
 salvation by God, primarily from external evils, but often with added spiritual idea: Gen 49:18
@@ -105,6 +111,8 @@ Isa 49:6
 my salvation unto the ends of the earth; בְּכָלאגּוֺיִם יְשׁוּעָתֶ֑ךָ
 Ps 67:3
 among all nations thy salvation.
+
+@@SPLIT:sense@@
 
 4.
 victory: with עָשָׂה

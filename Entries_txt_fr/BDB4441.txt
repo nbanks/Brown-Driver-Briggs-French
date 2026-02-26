@@ -9,6 +9,7 @@ mâchoire ; comparer arabe
 [placeholder2844: Placeholders/2844.gif]
 parler confusément, émettre des sons indistincts) ; — seulement
 
+@@SPLIT:stem@@
 Hiph`il
 Impératif masculin singulier suffixe causatif, הַלְעִיטֵנִי
 Gn 25,30 (

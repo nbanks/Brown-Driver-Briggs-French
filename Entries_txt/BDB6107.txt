@@ -4,12 +4,16 @@ Biblical Hebrew
 I. [עָלַם] verb
 conceal (Late Hebrew id., derived species); —
 
+@@SPLIT:stem@@
+
 Qal
 Participle
 passive
 עֲלֻמֵנוּ
 Ps 90:8 as
 substantive our secret, i.e. hidden sin (|| עֲוֺנֹת).
+
+@@SPLIT:stem@@
 
 Niph`al
 Perfect
@@ -42,6 +46,8 @@ but very doubtful, read perhaps נעלפה ? [Dr].
 Ps 26:4
 those who conceal themselves, i.e. their thoughts; dissemblers (||
 מְתֵי שָׁוְא).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 masculine singular הֶעְלִים
@@ -82,6 +88,8 @@ Ps 10:1
 why dost thou [׳
 י] hide, that is, thine eyes (so most), or practise
 concealment (= hide thyself)?
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Perfect 2 masculine singular consecutive וְהִתְעַלַּמְתָּ מֵהֶם

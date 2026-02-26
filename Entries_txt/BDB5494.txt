@@ -18,6 +18,8 @@ shrine (?) Lzb^152. 328^, Syriac
 [placeholder3519: Placeholders/3519.gif] = Arabic; compare We^Skizzen iii. 165^; Heid.
 141); —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 3 masculine singular יִסְגּוֺד לוֺ
 Isa 44:17

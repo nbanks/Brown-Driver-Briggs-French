@@ -27,6 +27,7 @@ Ba^ZMG xll (1887), 612, 621, 636^ (surtout contre DHM^VIme Orient. Congr. ii. 1,
 Thes ; une suggestion audacieuse par Jen^ZA
 vii (1892), 177^) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 1 singulier לאֹ שָׁנִיתִי
 Ml 3,6 je suis ׳
@@ -77,6 +78,7 @@ Eccl 42,24) ;
 Pr 24,21
 ceux qui changent (mais douteux, voir Toy).
 
+@@SPLIT:stem@@
 Pi`el transitif, changer, modifier : Parfait 3 masculin singulier
 שִׁנָּה
 Jr 52,33 avec
@@ -109,6 +111,7 @@ ci-dessus) ; Participe
 Jb 14,20
 altérant sa face, c.-à-d. dans la mort (sujet Dieu).
 
+@@SPLIT:stem@@
 Pu`al
 Imparfait 3 masculin singulier וְעֹז פָּנָיו יְשֻׁנֶּא (Ges^«GKC:75rr»§ 75rr^) Qo 8,1, habituellement est changé,
 adouci, Siegf
@@ -119,6 +122,7 @@ est haï (sur ׳
 
 4, √עזז).
 
+@@SPLIT:stem@@
 Hithpa`el
 Parfait 2 féminin singulier consécutif קוּמִי וְהִשְׁתַּנִּית
 1 R 14,2

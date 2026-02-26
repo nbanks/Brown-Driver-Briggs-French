@@ -15,6 +15,7 @@ Gn 45,22 + 2
 t. ; חֲלִפֹת
 Gn 45,22 ; Jg 14,12 —
 
+@@SPLIT:sense@@
 1.
 changement de vêtement שׂמלת
 ׳
@@ -30,6 +31,7 @@ Jg 14,13 ;
 sans בגדים
 Jg 14,19.
 
+@@SPLIT:sense@@
 2.
 relèves
 1 R 5,28
@@ -39,8 +41,10 @@ comparer וצבא
 Jb 10,17
 (Di).
 
+@@SPLIT:sense@@
 3. renouveau après la mort, sous la figure d'un congé du service militaire Jb 14,14.
 
+@@SPLIT:sense@@
 4.
 changement, variation, du cours de la vie אֲשֶׁר אֵין חֲלִיפוֺת לָ֑מוֺ
 Ps 55,20 des

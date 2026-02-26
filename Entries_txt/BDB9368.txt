@@ -4,10 +4,14 @@ Biblical Aramaic
 [בְּטֵל] verb
 cease (late Biblical Hebrew); —
 
+@@SPLIT:stem@@
+
 Pe`al
 Perfect 3 feminine singular בְּטִלַת
 Ezra 4:24,
 Participle feminine singular בָּֽטְלָא Ezra 4:24 (both of work).
+
+@@SPLIT:stem@@
 
 Pa`el
 make to cease, accusative of person: Perfect 3 masculine plural

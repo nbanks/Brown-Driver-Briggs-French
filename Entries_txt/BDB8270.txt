@@ -17,6 +17,8 @@ CIS^iv, No. 173, 1. 6^; Arabic
 hater, etc.; Ethiopic hate is
 [placeholder5292: Placeholders/5292.gif]); —
 
+@@SPLIT:stem@@
+
 Qal_128_
 Perfect 3 masculine singular ׳
 שׂ
@@ -164,6 +166,8 @@ verse); 2Chr 19:2
 
 .
 
+@@SPLIT:stem@@
+
 Niph`al
 Imperfect 3 masculine singular יִשָּׂנֵא
 Prov 14:17
@@ -173,6 +177,8 @@ is hated, so Prov 14:20 (+ ל person by, see
 לְ
 
 5.d.).
+
+@@SPLIT:stem@@
 
 Pi`el
 Participle suffix מְשַׂנְאִי

@@ -17,6 +17,7 @@ sceller, estamper, imprimer ; éthiopien
 [placeholder2066: Placeholders/2066.gif]
 tremper) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 טָבַעְתִּי
@@ -37,6 +38,7 @@ s'enfoncer, couler, intransitif, avec בְּ ; 1 S 17,49 (pierre dans le front d
 ט ;
 Ps 69,15 (|| הצילני מִטִּיט) ; les nations dans la fosse (בַּשַּׁחַת) Ps 9,16.
 
+@@SPLIT:stem@@
 Pu`al
 Parfait
 טֻבְּעוּ
@@ -44,6 +46,7 @@ Parfait
 Ex 15,4
 (poème) des Égyptiens noyés בְּיַםסֿוּף.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait
 הָטְבְּעוּ

@@ -5,6 +5,7 @@ hébreu biblique
 nom [masculin]
 une dizaine, décade ; —
 
+@@SPLIT:sense@@
 1. habituellement de jours :
 
 a.
@@ -28,6 +29,7 @@ P
 52,4 ;
 Jr 52,12 (septième jour dans || 2 R 25,8).
 
+@@SPLIT:sense@@
 2. de cordes d'un instrument : ׳
 נֵבֶל ע
 harpe, à dix (cordes) Ps 33,2 ; Ps 144,9

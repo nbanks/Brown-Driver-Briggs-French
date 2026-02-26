@@ -5,11 +5,15 @@ hébreu biblique
 dénominatif
 agir ou traiter faussement ; —
 
+@@SPLIT:stem@@
+
 Qal
 Imparfait 2 masculin singulier ; תִּשְׁקֹר
 Gn 21,23
 tu n'agiras pas faussement envers moi (׳
 לִ).
+
+@@SPLIT:stem@@
 
 Pi`el
 Parfait 1 pluriel שִׁקַּ֫רְ נוּ

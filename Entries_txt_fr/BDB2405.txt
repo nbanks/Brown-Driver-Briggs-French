@@ -20,6 +20,7 @@ Jg 15,4 construit
 זַנְבוֺת
 Es 7,4 —
 
+@@SPLIT:sense@@
 1.
 
 a.
@@ -31,6 +32,7 @@ b. figuré du peuple ordinaire, opposé aux dirigeants Es 9,13 ; Es 19,15 (dans 
 וְזָנָב, || כִּפָּה וְאַגְמוֺן ; Es 9,14 est une glose incorrecte) ; d'un peuple assujetti (opposé à
 ראֹשׁ) Dt 28,13 ; Dt 28,44.
 
+@@SPLIT:sense@@
 2.
 bout, moignon (de tison, אוּד) dans une métaphore Es 7,4.
 

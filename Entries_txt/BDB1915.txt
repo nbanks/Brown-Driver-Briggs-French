@@ -27,6 +27,8 @@ judgment,
 city; — on √ עי֞ see Nö^ZMG 1883,
 533^), synonym שָׁפַט —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 דָּן
@@ -116,6 +118,8 @@ Zech 3:7.
 6.
 לֹאיֿוּכַל לָדִין עִם
 he cannot contend with one mightier than he Eccl 6:10.
+
+@@SPLIT:stem@@
 
 Niph`al
 Participle

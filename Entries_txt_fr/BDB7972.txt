@@ -4,6 +4,7 @@ hébreu biblique
 [רָנָה] verbe
 cliqueter (onomatopée ?) ; —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 3 féminin singulier תִּרְנֶה
 Jb 39,23 le

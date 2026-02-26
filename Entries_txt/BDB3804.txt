@@ -28,6 +28,8 @@ Dr); proper name, masculine משע
 deliverance, ClGann^^
 Dr) —
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect 3 masculine נוֺשַׁע
 Deut 33:29
@@ -99,6 +101,8 @@ Deut
 a people victorious in
 ׳
 י (poem), compare Isa 45:17.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 masculine singular הוֺשִׁעַ

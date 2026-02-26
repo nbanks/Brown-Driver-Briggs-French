@@ -15,6 +15,8 @@ dominion, also ruler, sultan; Ethiopic
 [placeholder5567: Placeholders/5567.gif] Aramaic שְׁלַט,
 [placeholder5568: Placeholders/5568.gif] (especially derived species), Nabataean שלט, שלטן); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular ׳
 שׁ
@@ -28,6 +30,8 @@ domineer, lord it over, עַל person, Neh 5:15
 ב person
 Eccl 8:9 (לְרַע לוֺ); ב of thing Eccl 2:19
 become master of, ב person Esth 9:1 (twice in verse).
+
+@@SPLIT:stem@@
 
 Hiph`il
 

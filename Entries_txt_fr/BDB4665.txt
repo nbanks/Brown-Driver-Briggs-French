@@ -13,6 +13,7 @@ secours ;
 ; [s'esquiver, échapper de la main est
 [placeholder2996: Placeholders/2996.gif]]) ; —
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 masculin singulier נִמְלַט
 Jg 3,26 + 6
@@ -125,6 +126,7 @@ Ps 22,6
 11,21 ; Pr 28,26 ; Jb 22,30 ; Dn 12,1
 (usage tardif).
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 3 masculin singulier מִלֵּט
 
@@ -195,6 +197,7 @@ Am 2,15 ; Ps 89,49 ; Ps 116,4
 forme absente de l'Hexateuque, Juges,
 Chroniques, Es^1^)
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 masculin singulier הִמְלִיט
 Es
@@ -213,6 +216,7 @@ Pi`el
 délivrer : absolu Es 31,5 (||
 גָּנַן, הִצִּיל, פָּסַח).
 
+@@SPLIT:stem@@
 Hithpa`el
 Imparfait 1 singulier וָאֶתְמַלְּטָה
 

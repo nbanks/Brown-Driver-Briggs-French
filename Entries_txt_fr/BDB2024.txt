@@ -11,6 +11,7 @@ frotter, effacer (un site), fouler (le blé), figuré lire
 battre (un chemin), discuter, Pa`el pratiquer ; hébreu tardif
 rechercher (un sens), exposer) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 1 Ch 10,14
@@ -364,6 +365,7 @@ etc. ;
 דְּרוּשָׁה
 objet de sollicitude (de Jérusalem) Es 62,12.
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 נִדְרָ֑שׁ

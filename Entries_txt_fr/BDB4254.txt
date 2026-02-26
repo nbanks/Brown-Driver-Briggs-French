@@ -32,6 +32,7 @@ Dt 33,12 + 3
 t., כְּתֵפֶיהָ
 1 R 7,34 —
 
+@@SPLIT:sense@@
 1.
 
 a.
@@ -98,6 +99,7 @@ Ex 39,20
 P
 ).
 
+@@SPLIT:sense@@
 2.
 
 a.
@@ -138,6 +140,7 @@ Ez 40,44 (deux fois dans le verset) ; Ez 41,2 ; Ez 41,26 ; Ez 46,19 ; Ez 47,1
 ;
 Ez 47,2.
 
+@@SPLIT:sense@@
 3.
 supports des socles pour les cuves près du temple 1 R 7,30 (deux fois dans le verset) ; 1 R 7,34
 (deux fois dans le verset).

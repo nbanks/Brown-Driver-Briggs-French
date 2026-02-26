@@ -17,6 +17,8 @@ Josh 6:4 + 2 t.;
 יֹבְלִים
 Josh 6:13 —
 
+@@SPLIT:sense@@
+
 1.
 ram, only in combination: ׳
 בִּמְשֹׁךְ בְּקֶרֶן הַיּ
@@ -27,6 +29,8 @@ rams' horns (see Benz^Archäol. 276^);
 יֹבֵל alone, בִּמְשֹׁךְ הַיֹּבֵל
 Exod 19:13
 at the sounding of the ram ('s horn).
+
+@@SPLIT:sense@@
 
 2. designation of 50th year, marked by blowing of cornets,
 AV

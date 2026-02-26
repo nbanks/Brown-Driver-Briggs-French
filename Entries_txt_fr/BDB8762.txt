@@ -43,6 +43,7 @@ Nb 12,4,
 P
 ) :
 
+@@SPLIT:sense@@
 1. pas d'autre nombre :
 
 a. devant un nom pluriel, שָׁלשׁ 51 t., p. ex.
@@ -86,6 +87,7 @@ tous deux = il y a trois jours ; surtout לְ
 +
 7 t. (Ges^«GKC:134o»§ 134o^).
 
+@@SPLIT:sense@@
 2. 13, avec nom féminin : שְׁלשׁ עֶשְׂרֵהשָׁנַה
 Gn 17,25 ; 1 R 7,1 + (comme
 ordinal) Gn 14,4 (
@@ -108,6 +110,7 @@ Est 3,12 ; Est 9,1 après, Est 9,17
 יוֺם omis Est 3,13 ; Est 8,12 ; Est 9,18
 גוֺרָל omis 1 Ch 24,13 ; 1 Ch 25,20 ; 1 Ch 26,11.
 
+@@SPLIT:sense@@
 3. 300 = שְׁלשׁ
 מֵאוֺת
 Gn 5,22 + 59 t. (
@@ -123,10 +126,12 @@ Dr et modernes) ; 3000 = שְׁלשֶׁת אֲלָפִים
 Ex 32,28 + 28
 t.
 
+@@SPLIT:sense@@
 4. avec dizaines, ׳
 שׁ suivant Nb 1,43 + 11 t., précède Lv 12,4 + 17 t., + (comme ordinal) 3 + 20 Jr 52,30 + 3 t. ; 20 + 32 Ki
 Jr 12,7 + 2 t.
 
+@@SPLIT:sense@@
 5. comme nombre rond, ou conventionnel : 2 (ou) 3, Am 4,8 ; Dt 17,6 ; Jos 7,3 ; 2 R 9,32 ; Es 17,6 3 (et)
 4, Pr 30,15
 ; Pr 30,18 ;

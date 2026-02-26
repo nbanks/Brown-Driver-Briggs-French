@@ -18,6 +18,8 @@ Judg 21:23 +;
 plural construct מִסְפְּרֵי
 1Chr 12:23 —
 
+@@SPLIT:sense@@
+
 1.
 
 a.
@@ -158,6 +160,8 @@ read סָפַר מִי, compare v^a,^ so
 
 Di
 So^Kau.^
+
+@@SPLIT:sense@@
 
 2.
 recounting, relation

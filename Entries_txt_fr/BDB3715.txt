@@ -6,12 +6,14 @@ tirer, verser (orthographe araméenne de
 יָרָה
 q. v.) —
 
+@@SPLIT:stem@@
 Qal
 Infinitif construit
 לִירוֺא בַּחִצִּים
 2 Ch 26,15
 tirer avec des flèches.
 
+@@SPLIT:stem@@
 Hiph`il
 Imparfait
 וַיֹּרא֯וּ
@@ -25,6 +27,7 @@ Kt
 comme superflu, lirait וַיֹּרוּ, הַמּוֺרִים de יָרָה
 (Bö^§ 1088^ (8), (9)).
 
+@@SPLIT:stem@@
 Hoph`al
 Imparfait seulement dans וּמַרְוֶה גַּם הוּא יוֺרֶ֑א
 Pr 11,25

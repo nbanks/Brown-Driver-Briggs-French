@@ -8,6 +8,8 @@ steal (Late Hebrew id., Aramaic גְּנַב,
 [placeholder956: Placeholders/956.gif]
 side) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 feminine singular suffix גְּנָבַתּוּ
 Job 21:18;
@@ -49,7 +51,7 @@ t.; Participle
 Exod 21:16 + 2
 t., גָּנוּב
 Gen 30:33
-feminine construct גְּנֻבְתִי
+feminine construct גְּנֻבְתִי
 Gen 31:39 (twice
 in verse); plural גְּנוּבִים
 Prov 9:17 in
@@ -80,9 +82,13 @@ Di; אֹתִי
 Gen 31:27
 id.; of sudden sweeping off by storm, in simile Job 21:18 figurative of destruction of wicked Job 27:20.
 
+@@SPLIT:stem@@
+
 Niph`al
 be stolen, subject of thing גָּנֹב יִגָּנֵב
 Exod 22:11.
+
+@@SPLIT:stem@@
 
 Pi`el
 steal away (transitive) וַיְגַגֵּב אבשׁלום אתלֵֿב
@@ -91,6 +97,8 @@ steal away (transitive) וַיְגַגֵּב אבשׁלום אתלֵֿב
 Jer 23:30
 .
 
+@@SPLIT:stem@@
+
 Pu`al
 be stolen away subject person גֻּנֹּב גֻּנַּבְתִּי
 Gen 40:15
@@ -98,6 +106,8 @@ subject of thing וְגֻנַּב consecutive Exod 22:6
 be brought by stealth
 Job 4:12.
 יְגֻנָּ֑ב.
+
+@@SPLIT:stem@@
 
 Hithpa`el
 go by stealth, steal away

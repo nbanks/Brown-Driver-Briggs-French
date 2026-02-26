@@ -14,6 +14,7 @@ Hom^Chrest. 48^ ; éthiopien
 
 I. comme cardinal :
 
+@@SPLIT:sense@@
 1. sans autre nombre :
 
 a. habituellement suivi d'un nom singulier (surtout
@@ -45,6 +46,7 @@ f. + בָּאַמָּה
 Za 5,12
 .
 
+@@SPLIT:sense@@
 2. + autre nombre :
 
 a. avec unités, habituellement 20 + (avec וְ
@@ -98,6 +100,7 @@ pluriel + 100 + 20 1 Ch
 
 II. comme ordinal :
 
+@@SPLIT:sense@@
 1. 20 seul, ׳
 בִּשְׁנַת ע
 en la vingtième année
@@ -107,6 +110,7 @@ nom omis
 Nb 10,11
 + 3 t.
 
+@@SPLIT:sense@@
 2.
 
 a. 20 + unité + ns. Ez 29,17 ; Ez 40,1.

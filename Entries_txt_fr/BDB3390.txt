@@ -14,6 +14,7 @@ arabe
 [placeholder2152: Placeholders/2152.gif]
 désespérer) —
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 וְנוֺאַש consécutif 1 S 27,1
@@ -32,6 +33,7 @@ c'est désespéré ! = il n'y a pas d'espoir !
 Jr 2,25 ; Jr 18,12 ;
 Es 57,10.
 
+@@SPLIT:stem@@
 Pi`el
 Infinitif
 לְיַאֵשׁ

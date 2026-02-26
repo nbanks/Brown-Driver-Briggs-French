@@ -12,6 +12,8 @@ syriaque ; comparer hébreu biblique II.
 צבה
 ) ; —
 
+@@SPLIT:stem@@
+
 Peal
 
 1.

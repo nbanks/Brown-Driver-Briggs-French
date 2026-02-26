@@ -10,6 +10,7 @@ Niph`al
 Hiph`il
 3] ? ainsi Thes) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 pluriel כְּפִירִים רָשׁוּ וְרָעֵ֑בוּ
 Ps 34,11
@@ -32,6 +33,7 @@ hommes), 2 S 12,3 ; Ps 82,3 ; Qo 5,7, surtout Pr 10,4 ; Pr 13,8
 ; Pr 13,23
 + 12 t. Proverbes.
 
+@@SPLIT:stem@@
 Hithpolel
 Participe
 מִתְרוֺשֵׁשׁ

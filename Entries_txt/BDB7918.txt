@@ -15,6 +15,8 @@ Mordtm^Him. Inschr.25^ (of horse; but his trappings
 CIS^iv, no. 306, 5^); Ethiopic
 [placeholder5068: Placeholders/5068.gif] is attain, acquire); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular ׳
 ר
@@ -113,6 +115,8 @@ Hag 2:22b;
 Esth 8:10;
 Esth 8:14
 suffix of chariot Jer 51:21b Hag 2:22.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 2 masculine singular הִרְכַּבְתָּ

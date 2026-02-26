@@ -24,6 +24,7 @@ Jb 6,19 suffixe
 הֲלִיכוֺתֶיךָ
 Ps 68,25 —
 
+@@SPLIT:sense@@
 1.
 marche, démarche,
 
@@ -55,6 +56,7 @@ surveillant les actions de sa maisonnée ; de Dieu Ha 3,6
 הֲלִכוֺת עוֺלָם לוֺ
 les voies de l'éternité (al d'autrefois) sont les siennes.
 
+@@SPLIT:sense@@
 2.
 caravane
 הֲלִיכֹת שְׁבָא

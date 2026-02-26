@@ -8,6 +8,7 @@ Dt 5,21 + 5 t. ;
 גֻּדְלוֺ
 Ps 150,2 —
 
+@@SPLIT:sense@@
 1.
 grandeur, magnitude, arbre Ez 31,7, bras de Dieu Ps 79,11
 גְּדֹל
@@ -15,6 +16,7 @@ Ex 15,16,
 miséricorde de Dieu Nb
 14,19.
 
+@@SPLIT:sense@@
 2.
 magnificence,
 
@@ -22,6 +24,7 @@ a. roi Ez 31,2 ; Ez 31,18
 
 b. Dieu Dt 3,24 ; Dt 5,21 ; Dt 9,26 ; Dt 11,2 ; Dt 32,3 ; Ps 150,2.
 
+@@SPLIT:sense@@
 3. dans un mauvais sens, גֹּדֶל לֵבָב = orgueil, insolence du cœur
 
 Es 9,8 ; Es 10,12.

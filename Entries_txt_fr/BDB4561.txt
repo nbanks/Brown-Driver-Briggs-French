@@ -13,6 +13,7 @@ Dl^HWB 395^, arabe
 Eut^Nab 14, 6^ ; Zinjirli מת
 DHM^Sendsch. Glossary^) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier מֵת
 Gn 42,38 + ; 3
@@ -498,6 +499,7 @@ Ps 9,1 ; Ps 48,15 voir
 עַלְמָה
 ci-dessous II. עלם.
 
+@@SPLIT:stem@@
 Polel.
 Parfait 3 masculin singulier suffixe מוֺתְתַנִי
 Jr 20,17
@@ -534,6 +536,7 @@ accusatif Jg
 1,10 ;
 2 S 1,16 ; Jr 20,17 ; Ps 34,22 ; Ps 109,16.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 masculin singulier הֵמִית
 Jg 16,30
@@ -697,6 +700,7 @@ E
 
 4. amener à une mort prématurée Pr 19,18 ; Pr 21,25.
 
+@@SPLIT:stem@@
 Hoph`al
 Parfait
 הוּמָ֑ת

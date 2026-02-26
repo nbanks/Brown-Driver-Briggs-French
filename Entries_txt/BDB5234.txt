@@ -4,7 +4,11 @@ Biblical Hebrew
 I. מַסֵּכָה
 noun feminine
 
+@@SPLIT:sense@@
+
 1. molten metal, or image;
+
+@@SPLIT:sense@@
 
 2. libation;
 — ׳
@@ -17,10 +21,14 @@ plural מַסֵּכוֺת
 suffix מַסֵּכֹתָם
 Num 33:52 —
 
+@@SPLIT:sense@@
+
 1.
 libation, with covenant sacrifice in making covenant Isa 30:1 (=
 1.
 נֶסֶךְ; see, however, below II. [נָסַךְ]).
+
+@@SPLIT:sense@@
 
 2.
 molten metal, or image:

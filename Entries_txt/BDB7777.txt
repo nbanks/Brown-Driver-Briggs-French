@@ -18,6 +18,8 @@ be alarmed, frightened; Syriac
 [placeholder4983: Placeholders/4983.gif], Pe`al Participle trembling, hastening, Aph`el terrify, hasten
 ); —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 3 masculine plural יִרְחֲבוּ הַנַּעַר
 בַּזָּקֵן
@@ -32,6 +34,8 @@ Prov 6:3
 beset, importune, thy friend (Perles^Anal. 61^
 conjecture רְהַן
 give surety, compare Late Hebrew הרהין).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 masculine plural suffix הִרְהִיבֻ֑נִי

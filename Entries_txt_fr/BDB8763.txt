@@ -3,6 +3,8 @@ hébreu biblique
 
 I. [שִׁלֵּשׁ]
 
+@@SPLIT:stem@@
+
 Pi`el
 dénominatif
 faire une troisième fois, diviser en trois parties, etc. ; — Parfait 2 masculin singulier
@@ -33,6 +35,8 @@ Dr et autres (comparer
 1 R 18,34,
 et Impératif masculin pluriel שַׁלֵּ֑שׁוּ 1 R 18,34
 faire une troisième fois.
+
+@@SPLIT:stem@@
 
 Pu`al
 Participe

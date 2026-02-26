@@ -27,6 +27,8 @@ Ethiopic
 be pleasant, =
 [placeholder3360: Placeholders/3360.gif]); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 feminine singular נָעֵ֑מָה
 Gen 49:15 (poem

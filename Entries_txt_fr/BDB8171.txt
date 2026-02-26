@@ -37,6 +37,7 @@ etc. ; aussi שָׂדֶיךָ
 שָׂדֵינוּ
 Mi 2,4 —
 
+@@SPLIT:sense@@
 1. champ ouvert, campagne :
 
 a. pâturage Gn 29,2 ; Gn 30,16 ; Ex 9,3 (tous
@@ -261,6 +262,7 @@ voir
 שָׂדַי
 ).
 
+@@SPLIT:sense@@
 2. portion définie de terrain, champ, terre :
 
 a. terrain cultivé Gn 37,7 (
@@ -344,6 +346,7 @@ Jg 20,6.
 
 e. territoire de roi, 2 S 9,7 ; 2 S 13,30.
 
+@@SPLIT:sense@@
 3.
 terre, opposé à mer, 1 Ch 16,32 (opposé à הַיָּם ; = שָׂדַי
 

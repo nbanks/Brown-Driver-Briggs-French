@@ -34,6 +34,8 @@ Dn 2,8 +, suffixe
 לְקָבְלָךְ
 Dn 2,31 —
 
+@@SPLIT:sense@@
+
 1. avec לְ
 
 a.
@@ -55,6 +57,8 @@ b. suivi de דִּי comme conjonction
 parce que
 Esd 6,13 (de même
 palmyrénien CIS^ii. 164^).
+
+@@SPLIT:sense@@
 
 2. avec כֹּל, כָּלקֳֿבֵל
 en vue de, à cause de (mais lire probablement כְּלָקֳבֵל

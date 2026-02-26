@@ -15,6 +15,7 @@ Mordtm^Him. Inschr.25^ (du cheval ; mais ses harnachements
 CIS^iv, no. 306, 5^) ; éthiopien
 [placeholder5068: Placeholders/5068.gif] est atteindre, acquérir) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier ׳
 ר
@@ -114,6 +115,7 @@ Est 8,10 ;
 Est 8,14
 suffixe de char Jr 51,21b Ag 2,22.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 2 masculin singulier הִרְכַּבְתָּ
 Ps 66,12,

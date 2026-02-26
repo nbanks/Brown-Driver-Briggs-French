@@ -5,6 +5,7 @@ hébreu biblique
 verbe
 dénominatif
 
+@@SPLIT:stem@@
 Pi`el
 être jaloux, zélé (Gerber^131^) ; —
 Parfait 3 masculin singulier קִנֵּא
@@ -83,6 +84,7 @@ Za 8,2
 exciter à la jalousie, avec בִּ instrumental Dt 32,21 a (douteux ; probablement
 הַקְנִאוּנִי ; comparer Dt 32,16.21 b), 1 R 14,22.
 
+@@SPLIT:stem@@
 Hiph`il
 provoquer à la jalousie : Imparfait 3 masculin pluriel suffixe יַקְנִאֻהוּ
 

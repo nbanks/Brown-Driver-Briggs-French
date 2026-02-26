@@ -4,6 +4,8 @@ Biblical Hebrew
 [מִשְׁמַ֫עַת] noun feminine
 obedient band, body of subjects; — only suffix:
 
+@@SPLIT:sense@@
+
 1. probably = body-guard, as especially bound to obedience,
 מִשְׁמַעְתּ֑ךָ
 1Sam 22:14
@@ -12,6 +14,8 @@ Be^Ch^
 Dr
 Bu
 Now), compare תּוֺ- 2Sam 23:23 = 1Chr 11:25.
+
+@@SPLIT:sense@@
 
 2.
 תָּם- Isa 11:14 the sons of Ammon (shall be) their subjects (||

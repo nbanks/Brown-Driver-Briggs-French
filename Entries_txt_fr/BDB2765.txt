@@ -10,6 +10,7 @@ quelqu'un doux ou agréable (comparer arabe
 [placeholder1758: Placeholders/1758.gif], חֲלִי, id., adjectif חָלֵי
 doux) ; —
 
+@@SPLIT:stem@@
 Pi`el
 Parfait
 חִלָּה

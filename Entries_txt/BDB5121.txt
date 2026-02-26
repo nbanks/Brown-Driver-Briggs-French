@@ -3,10 +3,14 @@ Biblical Hebrew
 
 [נִחוּם] noun masculine
 
+@@SPLIT:sense@@
+
 1.
 comfort, plural נִחֻמִים
 Isa 57:18;
 Zech 1:13.
+
+@@SPLIT:sense@@
 
 2.
 compassion, suffix נִחוּיָ֑

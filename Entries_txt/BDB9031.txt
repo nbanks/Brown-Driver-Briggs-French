@@ -4,8 +4,12 @@ Biblical Hebrew
 שָׁרָב
 noun masculine
 
+@@SPLIT:sense@@
+
 1.
 burning heat;
+
+@@SPLIT:sense@@
 
 2.
 parched ground;

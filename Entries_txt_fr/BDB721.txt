@@ -18,6 +18,7 @@ Rob-Ges ; voir MV ; Thes plus ancien, de רגם ; mais probablement emprunt, com
 Lag^BN 205^ ; persan
 [placeholder397: Placeholders/397.gif] est aussi cité par PS) — forme toujours comme ci-dessus —
 
+@@SPLIT:sense@@
 1.
 fil pourpre, comparer surtout Ex 35,25 ; Ex 39,3 ; Est 1,6
 
@@ -52,6 +53,7 @@ avec רִקְמָה et בּוּץ Ez 27,16 (comme articles de commerce) ; aussi 
 בּוּץ
 Est 1,6.
 
+@@SPLIT:sense@@
 2.
 tissu pourpre, principalement pour les vêtements, ׳
 בֶּגֶד א

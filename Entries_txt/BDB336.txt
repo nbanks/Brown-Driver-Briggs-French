@@ -4,6 +4,8 @@ Biblical Hebrew
 אַחַר properly substantive the hinder or following part
 (compare the plural)
 
+@@SPLIT:sense@@
+
 1.
 adverb
 
@@ -42,6 +44,8 @@ P
 ;
 Num 5:26 and
 elsewhere
+
+@@SPLIT:sense@@
 
 2.
 preposition
@@ -86,6 +90,8 @@ RV
 besides; but text probably corrupt, see Be
 Ry.
 
+@@SPLIT:sense@@
+
 3.
 conjunction
 אַחַר אֲשֶׁר
@@ -103,11 +109,15 @@ Plural only construct אַחֲרֵי with suffix אַחֲרַי
 ,
 אַחֲרֶיךָ, etc.
 
+@@SPLIT:sense@@
+
 1.
 substantive
 hinder part
 2Sam 2:23
 בְּאַחֲרֵי הַחֲנִית with the hinder end of the spear.
+
+@@SPLIT:sense@@
 
 2.
 preposition
@@ -251,6 +261,8 @@ local
 imitating
 them) men applaud their speech, compare Job 21:33.
 
+@@SPLIT:sense@@
+
 3.
 conjunction
 אַחֲרֵי אֲשֶׁר
@@ -261,12 +273,14 @@ Lev 25:48
 1Sam 5:9 . (The
 most
 common construction of אחרי is as a preposition with the infinitive construct) Josh 2:7
-אַחֲרֵי כַּאֲשֶׁר יָצְאוּ must be an error, either for אחרי אשׁר or for
+אַחֲרֵי כַּאֲשֶׁר יָצְאוּ must be an error, either for אחרי אשׁר or for
 
 כאשׁר alone (notice אחריהם twice in the same verse); 2Sam 24:10 read
 אַחֲרֵי
 סָפַר
 see Dr.
+
+@@SPLIT:sense@@
 
 4. with other prepositions: —
 

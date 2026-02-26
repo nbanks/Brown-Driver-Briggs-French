@@ -11,6 +11,7 @@ veni, age !
 Di^§ 160. 1 Lex:675^
 Kö^ii. 244^) ; — attaché :
 
+@@SPLIT:sense@@
 1. à l'impératif, surtout en style familier, quand il exprime une prière ou une exhortation, comme
 Gn 12,13
 אִמְרִינָֿא dis, je te prie, Gn 13,9
@@ -23,10 +24,12 @@ Gn 12,13
 Di
 אַלנָֿא ; voir 3.b.).
 
+@@SPLIT:sense@@
 2. au parfait avec waw consécutif, en sens précatif (Dr^§ 119^
 δ) Gn
 40,14.
 
+@@SPLIT:sense@@
 3. à l'imparfait, quand on demande la permission, ou qu'une prière ou un souhait est exprimé ;
 
 a. à la
@@ -73,6 +76,7 @@ ironiquement Es
 אַלנָֿא יִחַר
 לַאדֹנָי, Gn 37,27 ; Nb 12,12.
 
+@@SPLIT:sense@@
 4. joint à des conjonctions et interjections :
 
 a. [אָהּנָֿא,

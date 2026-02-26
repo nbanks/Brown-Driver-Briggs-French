@@ -4,6 +4,7 @@ hébreu biblique
 מִגְרוֺן
 nom propre [d'un lieu]
 
+@@SPLIT:sense@@
 1.
 1 S 14,2
 district (?) près de Guibea (patrie de Saül), comparer Buhl^Geogr.
@@ -27,6 +28,7 @@ L
 aire de battage ; ainsi Bu, mais mot absent en hébreu ;
 Klo, improbable, מִגְרָשׁ).
 
+@@SPLIT:sense@@
 2.
 Es 10,28,
 lieu au nord de Michmash (et de Guibea),

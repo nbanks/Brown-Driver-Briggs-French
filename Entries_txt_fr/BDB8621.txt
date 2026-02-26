@@ -5,6 +5,7 @@ hébreu biblique
 nom propre [d'un lieu] toujours ׳
 הַשּׁ ; habituellement Σαττειν :
 
+@@SPLIT:sense@@
 1. à l'est du Jourdain, Jos 2,1 ; Jos 3,1 (
 E
 ), Mi 6,5 ;
@@ -18,6 +19,7 @@ Gray^
 Nb 25,1.
 ^
 
+@@SPLIT:sense@@
 2.
 ׳
 נַחַל הַשּׁ

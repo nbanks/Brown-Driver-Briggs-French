@@ -19,6 +19,8 @@ Isa 1:40 +; suffix
 קְצִינַיִח
 Isa 22:3 —
 
+@@SPLIT:sense@@
+
 1.
 chief, commander in war Josh 10:24 (
 J
@@ -28,10 +30,14 @@ E
 ; Judg
 11:11 (|| ראֹשׁ), Dan 11:18.
 
+@@SPLIT:sense@@
+
 2.
 dictator,
 
 Isa 3:67.
+
+@@SPLIT:sense@@
 
 3. more generally, ruler, man in authority, Isa 1:10; Isa 22:3; Mic 3:1; Mic 3:9 of ants, ׳
 אֵין ק

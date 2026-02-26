@@ -13,6 +13,7 @@ et autres ; araméen גְּמַר,
 [placeholder953: Placeholders/953.gif]
 rassembler, assembler) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 ׳

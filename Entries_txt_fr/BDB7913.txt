@@ -13,6 +13,7 @@ Jg 7,16 + ;
 féminin pluriel רֵקוֺת
 Gn 41,27 —
 
+@@SPLIT:sense@@
 1.
 vide, de récipients 2 R 4,3 ; Jg 7,16 ; Ez 24,11 + (probablement) Jr 14,3 (רֵיקִים pour
 דֵיקָם), Jr 51,34 (רֵיק pour רִיק) ; de fosse Gn 37,24 (
@@ -27,6 +28,7 @@ Es 29,8
 √
 1).
 
+@@SPLIT:sense@@
 2.
 vide, oisif, sans valeur, éthiquement ; אנשׁים ריקים
 hommes sans valeur

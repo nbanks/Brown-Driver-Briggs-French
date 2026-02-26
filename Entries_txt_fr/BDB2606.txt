@@ -10,6 +10,7 @@ fil, cordon, ligne (hébreu tardif id. ; arabe
 [placeholder1663: Placeholders/1663.gif], חוּטָא) — ׳
 ח absolu Gn 14,23 + 2 t. ; construit Jos 2,18 + 3 t. ; —
 
+@@SPLIT:sense@@
 1.
 fil, comme facilement rompu Jg 16,12 (comparaison) ; comme composant une corde ou un cordon ; הַשָּׁנִי הַזֶּה
 
@@ -29,12 +30,14 @@ d'un fil à une courroie de sandale ; dans une comparaison ׳
 Ct 4,3
 comme un fil d'écarlate sont tes lèvres.
 
+@@SPLIT:sense@@
 2. cordon, הַמְּשֻׁלָּשׁ
 ׳
 הַח
 Qo 4,12
 un cordon triple.
 
+@@SPLIT:sense@@
 3.
 ligne, comme mesure de longueur 1 R 7,15
 et une ligne de douze coudées l'entourait (c.-à-d. l'entourerait)

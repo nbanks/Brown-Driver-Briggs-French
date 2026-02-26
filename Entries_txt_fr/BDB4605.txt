@@ -15,6 +15,7 @@ Jb 28,15
 pluriel suffixe מְחִירֵיהֶם
 Ps 44,13 —
 
+@@SPLIT:sense@@
 1.
 prix, souvent בִּמְחִיר
 pour un prix ; dans le commerce 2 S 24,24 ; 1 R 10,28 ; 2 Ch 1,16 comparer Lm 5,4 (|| כֶּסֶף),
@@ -29,6 +30,7 @@ Es 55,1 dans
 l'achat des bénédictions de ׳
 י ; du prix des gens, figuré Ps 44,13, comparer Jr 15,13.
 
+@@SPLIT:sense@@
 2. salaire, כֶּלֶב
 ׳
 מ (c.-à-d. du prostitué mâle) Dt 23,19 (|| אֶתְנַן זוֺנָה) voir

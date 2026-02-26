@@ -3,6 +3,7 @@ hébreu biblique
 
 [הָכַר] verbe seulement
 
+@@SPLIT:stem@@
 Qal ou
 Hiph`il (Ges^«GKC:53»§ 53^ R. 4 Kö^i. 251^) Imparfait 2 masculin pluriel
 תַּהְכְּרוּ dans l'expression לֹאתֵֿבשׁוּ

@@ -11,6 +11,7 @@ réussir, atteindre, progresser ;
 
 comme l'hébreu biblique) ; —
 
+@@SPLIT:stem@@
 Qal
 Imparfait
 יִגַּח
@@ -22,6 +23,7 @@ E
 ), יִגָּ֑ח Ex 21,31 — encorner, sujet שׁוֺר, suivi
 de l'accusatif de la personne
 
+@@SPLIT:stem@@
 Pi`el
 Imparfait
 יְנַגַּח
@@ -43,6 +45,7 @@ du bœuf sauvage Dt
 33,17, comparer 1 R 22,11 = 2 Ch 18,10 ; Ps 44,6 (|| בּוּס) ; voir aussi Ez 34,21
 (d'Israël sous la figure de brebis), comparer Dn 8,4 (du bélier dans la vision ; objet non exprimé).
 
+@@SPLIT:stem@@
 Hithpa`el
 Imparfait
 יִתְנַגַּח עִמּוֺ מֶלֶךְ הַנֶּגֶב

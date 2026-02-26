@@ -10,6 +10,8 @@ akâlu
 Dl^W^, Aramaic אֲבַל,
 [placeholder188: Placeholders/188.gif]) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 אָכַל
@@ -222,6 +224,8 @@ Ps 27:2.
 Job 19:22
 ).
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect
 וְנֶאֱבַל consecutive Exod 22:5
@@ -276,6 +280,8 @@ Ezek 23:25
 3.
 be wasted, destroyed, of flesh Num 12:12; Jer 30:16.
 
+@@SPLIT:stem@@
+
 Pu`al
 Perfect
 אֻכְּלוּ
@@ -284,6 +290,8 @@ Participle
 אֻכָּל (= מְאֻכָּל
 Ew^§ 169 d^) Exod 3:2 by sword Isa 1:20
 תְּאֻכְּלוּ.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 2 masculine singular suffix הֶאֱכַלְתָּם

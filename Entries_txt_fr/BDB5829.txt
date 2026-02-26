@@ -4,6 +4,7 @@ hébreu biblique
 II. עָדִין
 nom propre, masculin
 
+@@SPLIT:sense@@
 1. dans ׳
 בְּנֵי ע, exilés revenus Esd 2,15 = Ne 7,20 ; Esd 8,6,
 
@@ -11,6 +12,7 @@ nom propre, masculin
 
 . Αδ(δ)ιν, Ηδ(ε)ί, etc.
 
+@@SPLIT:sense@@
 2. un chef Ne 10,17,
 
 ᵐ5

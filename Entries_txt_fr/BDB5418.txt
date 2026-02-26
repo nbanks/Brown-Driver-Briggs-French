@@ -6,12 +6,14 @@ dénominatif
 payer, donner un intérêt (comparer Gerber^Verba denominative
 89^) ; —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 3 masculin singulier יִשָּׁ֑ךְ
 Dt 23,20
 intérêt de quoi que ce soit dont on donne intérêt (comparer Dr
 ).
 
+@@SPLIT:stem@@
 Hiph`il
 faire donner un intérêt ; Imparfait 2 masculin singulier
 תַּשִּׁיךְ

@@ -11,6 +11,8 @@ be sour, leavened,
 [placeholder1811: Placeholders/1811.gif]
 be leavened) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect
 חָמֵץ
@@ -24,6 +26,8 @@ be leavened, of dough (בָּצֵק), Exod 12:34; Exod 12:39 (
 E
 ), compare Hos 7:4
 .
+
+@@SPLIT:stem@@
 
 Hithp.
 be soured, embittered, Ps 73:21 (|| כִּלְיוֺתַי אֶשְׁתּוֺנָן).

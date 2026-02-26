@@ -14,6 +14,7 @@ J
 אֹהֶל
 ) ;
 
+@@SPLIT:stem@@
 Pi`el
 Imparfait
 יַהֵל (contracté pour יְאַהֵל) dresser sa tente comme un nomade

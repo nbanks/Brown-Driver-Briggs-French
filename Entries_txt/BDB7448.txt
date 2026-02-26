@@ -22,6 +22,8 @@ shake,
 מַקֵּל
 ); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 2 masculine singular קַלּוֺתָ
 Nah 1:14 1
@@ -32,7 +34,7 @@ Gen 8:11 +;
 Imperfect. 3 feminine singular וַתֵּקַל
 Gen 16:4 1 singular
 וָאֵקַל
-Gen 16:5 3 masculine plural יֵָ֑קלּוּ
+Gen 16:5 3 masculine plural יֵָ֑קלּוּ
 1Sam 2:30 —
 
 1.
@@ -52,6 +54,8 @@ Job 9:25.
 trifling, i.e. of little account, of person, Gen 16:4; Gen 16:5 (
 J
 ; both with בְּעֵינֶיהָ; 1Sam 2:30 (opposed to אֲכַבֵּד).
+
+@@SPLIT:stem@@
 
 Niph`al
 Perfect 3 masculine singular נָקֵל (Ges
@@ -92,6 +96,8 @@ lightly i.e. superficially, Jer 6:14; Jer 8:11.
 be lightly esteemed
 2Sam 6:22
 (|| שָׁפָל; opposed to אִכָּכֵ֑דָה).
+
+@@SPLIT:stem@@
 
 Pi`el_40_
 Perfect 3 masculine singular קִלֵּל
@@ -152,6 +158,8 @@ Comm.), + (object omitted) Lev 24:11; Lev 24:14; Lev 24:23
 3. with accusative of thing Gen 8:21(׳
 י subject), Job 3:1.
 
+@@SPLIT:stem@@
+
 Pu`al
 Imperfect) 3 masculine singular יְקֻלָּ֑ל
 Isa 65:20
@@ -162,6 +170,8 @@ their portion is cursed; Participle plural suffix
 מְקֻלָּלָיו
 Ps 37:22
 = those cursed by him (opposed to מְברָכָיו).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 masculine singular הֵקַל
@@ -197,6 +207,8 @@ treat with contempt, accusative of person 2Sam 19:44; Isa 23:9; Ezek
 Isa 8:23
 (opposed to הִכְבִּיד).
 
+@@SPLIT:stem@@
+
 Pilpel
 Perfect 3 masculine singular
 
@@ -209,6 +221,8 @@ Ezek 21:26 (in divination).
 2. (peculiarly) whet
 Eccl
 10:10 (properly move quickly to and fro).
+
+@@SPLIT:stem@@
 
 Hithpalpel reflexive of
 1.: Perfect 3 plural הִחְקַלְקָ֑לוּ

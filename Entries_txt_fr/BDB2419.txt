@@ -10,6 +10,7 @@ tempête ; comparer samaritain
 [placeholder1530: Placeholders/1530.gif]
 souffler, respirer) —
 
+@@SPLIT:stem@@
 Qal
 Imparfait
 יִזְעַף

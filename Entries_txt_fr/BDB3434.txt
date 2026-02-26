@@ -28,6 +28,7 @@ Os 12,9 (mais
 
 Che) ; —
 
+@@SPLIT:sense@@
 1.
 labeur, כַּפַּיִם
 ׳
@@ -37,6 +38,7 @@ Gn 31,42 (
 E
 ; || עֳנִי), Jb 39,11 ( = travail agricole), ponte des œufs Jb 39,16.
 
+@@SPLIT:sense@@
 2. résultat du labeur, produit, bien acquis ; יְגִיעַי
 
 Os 12,9 (||

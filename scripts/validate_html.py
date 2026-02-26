@@ -71,16 +71,16 @@ def extract_preserved(html_content, soup=None):
         elif name == "ref":
             result["ref_attrs"].append(dict(tag.attrs))
         elif name in ("lookup", "reflink"):
-            # Only compare the abbreviation code, not <sup>/<sub> prose
-            # (which may be translated). Extract direct text + non-sup children.
-            parts = []
-            for child in tag.children:
-                if getattr(child, "name", None) in ("sup", "sub"):
-                    continue
-                parts.append(child.get_text() if hasattr(child, "get_text") else str(child))
-            text = "".join(parts).strip()
-            if text:
-                result["lookup_texts"].append(text)
+            # Compare by onclick attribute (the scholarly code identifier),
+            # not by visible text (which may be translated, e.g. Isa → Es).
+            onclick = tag.get("onclick", "")
+            if onclick:
+                result["lookup_texts"].append(onclick)
+            else:
+                # Fallback for reflink or lookup without onclick
+                text = tag.get_text().strip()
+                if text:
+                    result["lookup_texts"].append(text)
 
     return result
 
@@ -112,6 +112,19 @@ def _find_mismatch(frag, haystack, ctx=15):
             hi = mid - 1
     match_len = lo - 1  # length of the longest matching prefix
     if match_len < len(frag) * 0.4:
+        # Prefix match too short — try suffix match to catch cases where
+        # a single punctuation change near the start breaks the prefix.
+        for suffix_start in range(1, min(10, len(frag))):
+            suffix = frag[suffix_start:]
+            spos = haystack.find(suffix)
+            if spos != -1:
+                # Found a suffix match — the divergence is in the first
+                # few characters
+                txt_exp = frag[:suffix_start + ctx]
+                txt_got = haystack[max(0, spos - suffix_start):spos + ctx]
+                return (f"French text nearly matches HTML (diverges near "
+                        f"start). txt_fr has ...{txt_exp}... "
+                        f"but HTML has ...{txt_got}...")
         return None  # too little overlap — not a near-miss
 
     # Show context around the divergence point
@@ -135,35 +148,20 @@ def normalize_for_compare(text):
     return re.sub(r"\s+", "", text)
 
 
-def validate_file(bdb_id, errors=None, *, entries_dir=None,
-                   entries_fr_dir=None, txt_fr_dir=None):
-    """Validate one translated entry. Returns list of (bdb_id, message) tuples.
+def validate_html(orig_html, fr_html, txt_fr_content=None):
+    """Core validation: compare French HTML against original, return error messages.
 
-    If *errors* is provided (a list), issues are also appended to it for
-    backwards compatibility. The returned list is the canonical result.
+    All inputs are in-memory strings. Returns a list of plain error message
+    strings (no bdb_id prefix). The caller is responsible for tagging errors
+    with an identifier if needed.
 
-    Optional keyword arguments override the module-level directory paths,
-    allowing callers (tests, other scripts) to point at custom locations.
+    Args:
+        orig_html: Original English HTML content.
+        fr_html: French translated HTML content.
+        txt_fr_content: Optional French plain-text content. When provided,
+            checks that every line appears verbatim in fr_html.
     """
-    _entries = entries_dir or ENTRIES_DIR
-    _fr = entries_fr_dir or ENTRIES_FR_DIR
-    _txt_fr = txt_fr_dir or TXT_FR_DIR
-
-    orig_path = os.path.join(_entries, bdb_id + ".html")
-    fr_path = os.path.join(_fr, bdb_id + ".html")
-    txt_fr_path = os.path.join(_txt_fr, bdb_id + ".txt")
-
     found = []
-
-    if not os.path.isfile(fr_path):
-        if errors is not None:
-            errors.extend(found)
-        return found
-
-    with open(orig_path, "r", encoding="utf-8") as f:
-        orig_html = f.read()
-    with open(fr_path, "r", encoding="utf-8") as f:
-        fr_html = f.read()
 
     orig_soup = BeautifulSoup(orig_html, "lxml")
     fr_soup = BeautifulSoup(fr_html, "lxml")
@@ -173,36 +171,40 @@ def validate_file(bdb_id, errors=None, *, entries_dir=None,
     # 1. Hebrew/Aramaic text preserved
     orig_heb = set(orig["hebrew_texts"])
     fr_heb = set(fr["hebrew_texts"])
-    missing_heb = orig_heb - fr_heb
-    for t in missing_heb:
-        found.append((bdb_id, f"missing Hebrew/Aramaic: {t}"))
+    for t in orig_heb - fr_heb:
+        found.append(f"missing Hebrew/Aramaic: {t}")
 
     # 2. Placeholders preserved
     orig_ph = sorted(orig["placeholder_tags"])
     fr_ph = sorted(fr["placeholder_tags"])
     if orig_ph != fr_ph:
-        found.append((bdb_id, f"placeholder mismatch: orig={orig_ph} fr={fr_ph}"))
+        found.append(f"placeholder mismatch: orig={orig_ph} fr={fr_ph}")
 
     # 3. Ref attributes preserved (counted — catches duplicates changed)
     orig_refs = Counter(a.get("ref", "") for a in orig["ref_attrs"] if a.get("ref"))
     fr_refs = Counter(a.get("ref", "") for a in fr["ref_attrs"] if a.get("ref"))
-    missing_refs = orig_refs - fr_refs
-    for r, count in sorted(missing_refs.items()):
-        found.append((bdb_id, f"missing ref attribute: {r} (×{count})"))
+    for r, count in sorted((orig_refs - fr_refs).items()):
+        found.append(f"missing ref attribute: {r} (×{count})")
 
-    # 4. Lookup/reflink abbreviations preserved
+    # 4. Lookup/reflink abbreviations preserved (by onclick attribute)
     orig_lu = set(orig["lookup_texts"])
     fr_lu = set(fr["lookup_texts"])
     missing_lu = orig_lu - fr_lu
+    extra_lu = fr_lu - orig_lu
     for t in missing_lu:
-        found.append((bdb_id, f"missing lookup/abbreviation: {t}"))
+        hint = ""
+        if extra_lu:
+            hint = (f" (French HTML has {extra_lu} instead — "
+                    f"attributes must be copied exactly from the "
+                    f"original, only the visible display text between "
+                    f"the tags should be translated)")
+        found.append(f"missing lookup attribute: \"{t}\"{hint}")
 
     # 5. Entry IDs preserved
     orig_ent = set(orig["entry_texts"])
     fr_ent = set(fr["entry_texts"])
-    missing_ent = orig_ent - fr_ent
-    for t in missing_ent:
-        found.append((bdb_id, f"missing entry ID: {t}"))
+    for t in orig_ent - fr_ent:
+        found.append(f"missing entry ID: {t}")
 
     # 6. Ref display text: check for untranslated English book abbreviations
     _ENG_BOOK_ABBREVS = {
@@ -222,83 +224,84 @@ def validate_file(bdb_id, errors=None, *, entries_dir=None,
         m = _ENG_BOOK_RE.search(display_stripped)
         if m:
             found.append(
-                (bdb_id, f"English book name in <ref> display text: "
-                 f"\"{display_stripped}\" (in <ref ref=\"{ref_attr}\">)")
-            )
+                f"English book name in <ref> display text: "
+                f"\"{display_stripped}\" (in <ref ref=\"{ref_attr}\">)")
         elif ":" in display_stripped and re.search(r"\d+:\d+", display_stripped):
             found.append(
-                (bdb_id, f"colon in <ref> display text (use comma): "
-                 f"\"{display_stripped}\" (in <ref ref=\"{ref_attr}\">)")
-            )
+                f"colon in <ref> display text (use comma): "
+                f"\"{display_stripped}\" (in <ref ref=\"{ref_attr}\">)")
 
-    # 7. French text content present verbatim (if txt_fr exists)
-    if os.path.isfile(txt_fr_path):
-        with open(txt_fr_path, "r", encoding="utf-8") as f:
-            txt_fr = f.read()
+    # 6b. Lookup display text: check for untranslated English book abbreviations
+    for tag in fr_soup.find_all("lookup"):
+        parts = []
+        for child in tag.children:
+            child_name = getattr(child, "name", None)
+            if child_name in ("sup", "sub", "bdbheb", "bdbarc", "reflink"):
+                continue
+            parts.append(child.get_text() if hasattr(child, "get_text") else str(child))
+        base_text = normalize_ws("".join(parts))
+        if base_text:
+            m = _ENG_BOOK_RE.search(base_text)
+            if m:
+                onclick = tag.get("onclick", "")
+                found.append(
+                    f"English book name in <lookup> display text: "
+                    f"\"{base_text}\" (in <lookup onclick=\"{onclick}\">)")
 
-        # Extract visible text from the French HTML (strip all tags, decode entities)
+    # 7. French text content present verbatim (if txt_fr provided)
+    if txt_fr_content is not None:
         fr_visible = re.sub(r"<[^>]+>", " ", fr_html)
         fr_visible = html.unescape(fr_visible)
+        fr_visible = re.sub(r"&", "et", fr_visible)
+        fr_visible = fr_visible.replace("`", "")
         fr_visible_cmp = normalize_for_compare(fr_visible)
 
-        for line in txt_fr.strip().split("\n"):
+        for line in txt_fr_content.strip().split("\n"):
             line = line.strip()
-            # Skip headers, separators, blank lines
             if not line or line.startswith("===") or line == "---":
                 continue
-            # Strip placeholder notation, keep surrounding text
+            if line.startswith("@@SPLIT:") and line.endswith("@@"):
+                continue
             line = _PLACEHOLDER_RE.sub("", line).strip()
-            # Strip caret superscript markers (from extract_txt.py)
             line = line.replace("^", "")
-            # Strip _N_ subscript markers (from extract_txt.py)
+            line = line.replace("`", "")
             line = re.sub(r"_(\d+)_", "", line)
             if not line:
                 continue
-            # Skip lines that are purely Hebrew/Aramaic + punctuation/spaces
             if re.match(
                 r"^[\u0590-\u05FF\u0600-\u06FF\s\[\]:.,;/\-—–()+|=^'\"]+$",
                 line,
             ):
                 continue
-            # Normalize and check if this fragment appears in the HTML text
+            line = line.replace("&", "et")
             frag = normalize_for_compare(line)
             if not frag:
                 continue
             if frag not in fr_visible_cmp:
-                # Try to pinpoint where the mismatch occurs by finding
-                # the longest prefix of frag that appears in fr_visible_cmp
                 diff_msg = _find_mismatch(frag, fr_visible_cmp)
                 if diff_msg:
-                    found.append((bdb_id, diff_msg))
+                    found.append(diff_msg)
                 else:
-                    # No partial match at all — show the full line
                     display = normalize_ws(line)
                     if len(display) > 80:
                         display = display[:77] + "..."
-                    found.append(
-                        (bdb_id,
-                         f"French text missing from HTML: \"{display}\"")
-                    )
+                    found.append(f"French text missing from HTML: \"{display}\"")
 
     # 8. Extra refs in French not in original (fabricated/duplicated)
     extra_refs = fr_refs - orig_refs
     for r, count in sorted(extra_refs.items()):
-        found.append((bdb_id, f"extra ref attribute not in original: {r} (×{count})"))
+        found.append(f"extra ref attribute not in original: {r} (×{count})")
 
     # 9. &amp; should be "et" in French text
-    #    The original BDB uses & as shorthand; French output must spell out "et".
-    #    Only flag & that appears in visible text (not inside tag attributes).
+    _visible_text = re.sub(r"<[^>]+>", " ", fr_html)
     _AMP_RE = re.compile(r"&amp;", re.IGNORECASE)
-    amp_count = len(_AMP_RE.findall(fr_html))
+    amp_count = len(_AMP_RE.findall(_visible_text))
     if amp_count:
         found.append(
-            (bdb_id, f"&amp; in HTML should be \"et\" ({amp_count} occurrence"
-             f"{'s' if amp_count > 1 else ''})"))
+            f"&amp; in HTML should be \"et\" ({amp_count} occurrence"
+            f"{'s' if amp_count > 1 else ''})")
 
     # 10. Tag sequence check
-    #    All structural tags must appear in the same order and count in
-    #    the French HTML as in the original.  This catches dropped,
-    #    duplicated, and reordered tags.
     _STRUCTURAL_TAGS = {"pos", "primary", "highlight", "descrip", "meta",
                         "language", "gloss", "sense", "ref", "bdbheb",
                         "bdbarc", "entry", "lookup", "reflink",
@@ -306,15 +309,9 @@ def validate_file(bdb_id, errors=None, *, entries_dir=None,
     _HAS_LATIN = re.compile(r"[a-zA-Z\u00C0-\u024F]")
 
     def _tag_seq(soup):
-        """Extract ordered list of (tag_name,) for structural tags.
-
-        For tags with identifying attributes (ref, entry, sense), include
-        enough info to tell them apart.
-        """
         seq = []
         for tag in soup.find_all(True):
             name = tag.name
-            # Include placeholder tags
             if re.match(r"placeholder\d+", name):
                 seq.append(name)
                 continue
@@ -326,6 +323,8 @@ def validate_file(bdb_id, errors=None, *, entries_dir=None,
                 seq.append(f"entry[{tag.get_text().strip()}]")
             elif name == "sense":
                 seq.append(f"sense[{tag.get_text().strip()}]")
+            elif name == "highlight":
+                seq.append("highlight")
             else:
                 seq.append(name)
         return seq
@@ -334,7 +333,20 @@ def validate_file(bdb_id, errors=None, *, entries_dir=None,
     fr_seq = _tag_seq(fr_soup)
 
     if orig_seq != fr_seq:
-        # Use SequenceMatcher to produce a clear diff
+        # Build a map from sequence index to original highlight content,
+        # so error messages can show what text was supposed to be highlighted.
+        _orig_highlights = [
+            tag.get_text().strip()
+            for tag in orig_soup.find_all("highlight")
+        ]
+        _highlight_idx = 0
+        _orig_highlight_at = {}  # seq index -> highlight text
+        for si, key in enumerate(orig_seq):
+            if key == "highlight":
+                if _highlight_idx < len(_orig_highlights):
+                    _orig_highlight_at[si] = _orig_highlights[_highlight_idx]
+                _highlight_idx += 1
+
         import difflib
         sm = difflib.SequenceMatcher(None, orig_seq, fr_seq)
         for op, i1, i2, j1, j2 in sm.get_opcodes():
@@ -343,18 +355,23 @@ def validate_file(bdb_id, errors=None, *, entries_dir=None,
             orig_part = orig_seq[i1:i2]
             fr_part = fr_seq[j1:j2]
             if op == "delete":
-                for t in orig_part:
+                for k, t in enumerate(orig_part):
+                    hint = ""
+                    if t == "highlight":
+                        content = _orig_highlight_at.get(i1 + k, "")
+                        if content:
+                            hint = (f" (original: \"{content[:60]}\" "
+                                    f"— wrap the French equivalent "
+                                    f"in <highlight>)")
                     found.append(
-                        (bdb_id, f"missing tag in French: <{t}>"))
+                        f"missing tag in French: <{t}>{hint}")
             elif op == "insert":
                 for t in fr_part:
-                    found.append(
-                        (bdb_id, f"extra tag in French: <{t}>"))
+                    found.append(f"extra tag in French: <{t}>")
             elif op == "replace":
                 found.append(
-                    (bdb_id,
-                     f"tag sequence mismatch: original has "
-                     f"{orig_part} but French has {fr_part}"))
+                    f"tag sequence mismatch: original has "
+                    f"{orig_part} but French has {fr_part}")
 
     # 10b. Empty translated tag content check
     _TRANSLATED_TAGS = {"pos", "primary", "highlight", "descrip", "meta",
@@ -368,9 +385,8 @@ def validate_file(bdb_id, errors=None, *, entries_dir=None,
         fr_text = ft.get_text().strip()
         if orig_text and _HAS_LATIN.search(orig_text) and not fr_text:
             found.append(
-                (bdb_id, f"empty <{ft.name}> tag (original had: "
-                 f"\"{orig_text[:50]}\")")
-            )
+                f"empty <{ft.name}> tag (original had: "
+                f"\"{orig_text[:50]}\")")
 
     # 11. English remnant check (heuristic)
     text_only = re.sub(r"<[^>]+>", " ", fr_html)
@@ -383,7 +399,41 @@ def validate_file(bdb_id, errors=None, *, entries_dir=None,
     ]
     for marker in english_markers:
         if marker in text_only:
-            found.append((bdb_id, f"possible English remnant: '{marker.strip()}'"))
+            found.append(f"possible English remnant: '{marker.strip()}'")
+
+    return found
+
+
+def validate_file(bdb_id, errors=None, *, entries_dir=None,
+                   entries_fr_dir=None, txt_fr_dir=None):
+    """Validate one translated entry from disk. Returns list of (bdb_id, message) tuples.
+
+    Thin wrapper around validate_html that reads files from disk and
+    prepends bdb_id to each error message.
+    """
+    _entries = entries_dir or ENTRIES_DIR
+    _fr = entries_fr_dir or ENTRIES_FR_DIR
+    _txt_fr = txt_fr_dir or TXT_FR_DIR
+
+    fr_path = os.path.join(_fr, bdb_id + ".html")
+    if not os.path.isfile(fr_path):
+        return []
+
+    orig_path = os.path.join(_entries, bdb_id + ".html")
+    txt_fr_path = os.path.join(_txt_fr, bdb_id + ".txt")
+
+    with open(orig_path, "r", encoding="utf-8") as f:
+        orig_html = f.read()
+    with open(fr_path, "r", encoding="utf-8") as f:
+        fr_html = f.read()
+
+    txt_fr_content = None
+    if os.path.isfile(txt_fr_path):
+        with open(txt_fr_path, "r", encoding="utf-8") as f:
+            txt_fr_content = f.read()
+
+    msgs = validate_html(orig_html, fr_html, txt_fr_content)
+    found = [(bdb_id, msg) for msg in msgs]
 
     if errors is not None:
         errors.extend(found)

@@ -3,6 +3,7 @@ hébreu biblique
 
 אֶצְבּוֺן
 
+@@SPLIT:sense@@
 nom propre, masculin
 1.
 אֶצְבֹּן un fils de Gad (samaritain אצבעון,
@@ -17,6 +18,7 @@ Nb 26,16 (
 
 Ἀζενει, Ἀζαν), cette forme plus courte est moins probable.
 
+@@SPLIT:sense@@
 2.
 אֶצְבּוֺן un petit-fils de Benjamin 1 Ch 7,7 (
 

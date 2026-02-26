@@ -15,6 +15,7 @@ couvrir de honte, Ethpaal avoir honte ; éthiopien
 [placeholder2492: Placeholders/2492.gif]
 nier, apostasier) —
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 masculin singulier נִכְחַד
 Os 5,3
@@ -54,6 +55,7 @@ ruine
 
 Za 11,9 ; Za 11,16.
 
+@@SPLIT:stem@@
 Pi`el
 Parfait
 כִּחֵד
@@ -103,6 +105,7 @@ désavouer
 
 Jb 6,10.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 1 singulier consécutif suffixe וְהִכְחַדְתִּיו
 Ex 23,23

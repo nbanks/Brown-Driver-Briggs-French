@@ -5,6 +5,8 @@ Biblical Aramaic
 verb
 denominative
 
+@@SPLIT:stem@@
+
 Pa`el
 receive (Biblical Hebrew (late), (q. v.;
 

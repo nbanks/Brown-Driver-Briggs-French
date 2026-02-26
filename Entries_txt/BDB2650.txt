@@ -9,6 +9,8 @@ haste, make haste (Assyrian
 Dl^Pr 180^, Ethiopic
 [placeholder1694: Placeholders/1694.gif]; on this verb V. Nö^ZMG 1883, 538^) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular חָשׁ
 Deut 32:35 (or
@@ -67,6 +69,8 @@ probably for חֲמֻשִׁים (Kn
 Di compare Exod 13:18 etc.); Ba^NB 180
 retains^
 חוּשִׁים and regards it as active (intransitive) = hastening.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect

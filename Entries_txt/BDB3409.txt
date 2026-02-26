@@ -4,6 +4,8 @@ Biblical Hebrew
 [יָבַם] verb
 denominative, only
 
+@@SPLIT:stem@@
+
 Pi`el
 do the duty of
 יָבָם

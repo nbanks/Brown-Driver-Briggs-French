@@ -38,6 +38,7 @@ Es 37,24,
 בְּרשָׁיו
 2 R 19,23 —
 
+@@SPLIT:sense@@
 1. (littéral) un arbre noble, habituellement || ארז (sauf 2 S 6,5 ; 1 R 6,34 ; 2 Ch 3,5 ; Ps 104,17 ; Es 55,13 ; Os 14,9 ; Na 2,4) ; debout et poussant
 Es 14,8 ; Es 37,24 =
 2 R 19,23 ;
@@ -45,6 +46,7 @@ Es 41,19 ;
 Es 55,13 (||
 הֲדַס) Es 60,13 (|| כבוד לבנון = ארז) Ps 104,17.
 
+@@SPLIT:sense@@
 2. image de luxuriance, de majesté Ez 31,8, de fécondité Os 14,9 (Now
 pense au cyprès), figuré pour des hampes de lance Na 2,4
 Hi-St, mais
@@ -55,6 +57,7 @@ Hi-St, mais
 
 פרשׁים ; figuré pour des hommes puissants Za 11,2.
 
+@@SPLIT:sense@@
 3. comme matériau (toujours pluriel), pour la construction du temple (׳
 עצי ב) 1 R 5,22 ; 1 R 5,24 ; 1 R 6,34 comparer 1 R 9,11 ; 2 Ch 2,7
 ׳

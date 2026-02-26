@@ -7,6 +7,7 @@ saisir, ravir (comparer araméen
 [placeholder2052: Placeholders/2052.gif]
 mort) —
 
+@@SPLIT:stem@@
 Qal
 Imparfait pas d'objet exprimé הֵן יַחְתֹּף וּמִי יְשִׁיבֶנּוּ
 Jb 9,12

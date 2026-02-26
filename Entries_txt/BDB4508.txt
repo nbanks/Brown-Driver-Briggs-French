@@ -11,11 +11,15 @@ lapsus est et cecidit Lexicons;
 Pa מַגֵּר
 hurl down 2 Kings (Neh 9:33, overthrow); —
 
+@@SPLIT:stem@@
+
 Qal
 Participle passive plural construct מְגוּרֵי אֶלחֶֿרֶב הָיוּ
 Ezek 21:17
 they are thrown to the sword (on construct before preposition see Ges^«GKC:130»§ 130^. l Da^Synt. §
 28 R 1^).
+
+@@SPLIT:stem@@
 
 Pi`el
 Perfect 2 masculine singular וְכִסְאוֺ לָאָרֶץ מִגַָּֽ֯רְתָּה׃

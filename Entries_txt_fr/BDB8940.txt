@@ -12,11 +12,15 @@ lisse, limpide,
 [placeholder5672: Placeholders/5672.gif]
 rendre plat, lisse (et dérivés)) ; —
 
+@@SPLIT:stem@@
+
 Niph`al
 être balayé par le vent, dénudé ; Participe
 הַרנִֿשְׁפֶּה
 Es 13,2
 une montagne dénudée ;
+
+@@SPLIT:stem@@
 
 Pu`al
 Parfait consécutif וְשֻׁפוּ עַצְמֹתָיו

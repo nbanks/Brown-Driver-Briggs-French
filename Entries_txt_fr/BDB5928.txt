@@ -21,6 +21,7 @@ suffixe עֹרֹתָם
 Lv 16,27 —
 peau :
 
+@@SPLIT:sense@@
 1. d'êtres humains (55 t.), שִׂמְלָתוֺ לְעֹרוֺ
 Ex 22,26 (
 
@@ -51,6 +52,7 @@ Jb 2,4
 peau pour peau, apparemment expression proverbiale de troc, = tout a son
 prix (pour les variétés d'interprétation voir les Commentaires).
 
+@@SPLIT:sense@@
 2.
 peau d'animaux (44 t.), toujours — sauf Jb 40,31 — après l'écorchage : Gn 27,16 (
 J

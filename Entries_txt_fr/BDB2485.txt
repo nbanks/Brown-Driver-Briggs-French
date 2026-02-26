@@ -14,6 +14,7 @@ Dl^Pr 175^ ;
 
 Ethpaal se cacher) —
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 masculin singulier נֶחְבָּא
 Jg 9,5 + 1 S 10,22 ;
@@ -62,12 +63,14 @@ révérence, = étouffé (de même on parle d'une voix voilée) ; être caché p
 protection בִּשׁוֺט לָשׁוֺן
 Jb 5,21.
 
+@@SPLIT:stem@@
 Pu`al
 Parfait 3 pluriel חֻבְּאוּ
 ont été cachés (= sont amenés à se cacher, Di
 
 sur le passage) Jb 24,4.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 masculin singulier suffixe הֶחְבִּיאָ֑נִי
 Es 49,2
@@ -90,6 +93,7 @@ Kö^i. 624 ss. etc.^ ; Imparfait
 ׳
 בְּצֵל יָדוֺ ה.
 
+@@SPLIT:stem@@
 Hoph`al
 Parfait
 être caché
@@ -97,6 +101,7 @@ Parfait
 Es
 42,22 (בְּבָתֵּי כלאים), c.-à-d. emprisonnés.
 
+@@SPLIT:stem@@
 Hithpa`el
 Parfait
 הִתְחַבְּאוּ

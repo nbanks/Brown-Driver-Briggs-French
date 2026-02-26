@@ -6,6 +6,7 @@ ceindre, entourer, équiper (Talmud id., arabe
 [placeholder130: Placeholders/130.gif], araméen dans la dérivation Lag^BN 177^ dérive de
 [placeholder131: Placeholders/131.gif]).
 
+@@SPLIT:stem@@
 Qal
 Parfait
 אָֽזְרוּ
@@ -31,12 +32,14 @@ actif avec accusatif de personne Jb 30,18
 כְּפִי כֻתָּנְתִּי יַאַזְרֵנִי, sujet לְבוּשִׁי voir Di ; figuré 1 S 2,4
 אָֽזְרוּ חַיִל
 
+@@SPLIT:stem@@
 Niph`al
 Participe
 נֶאֱזָר figuré Ps 65,7 de Dieu (בִּגְבוּרֶה
 ׳
 נ) ceint de puissance.
 
+@@SPLIT:stem@@
 Pi`el
 Imparfait 2 masculin singulier suffixe וַתְּאַזְּרֵנִי
 Ps 18,40
@@ -64,6 +67,7 @@ Kn
 Brd
 Di).
 
+@@SPLIT:stem@@
 Hithpa`el
 Parfait
 הִתְאַזָּ֑ר

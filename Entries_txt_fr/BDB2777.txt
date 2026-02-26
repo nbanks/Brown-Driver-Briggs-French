@@ -17,6 +17,7 @@ fourreau, etc. ; hébreu tardif dans les dérivés חָלָל nom creux
 , adjectif tué, חָלִיל
 flûte) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 לִבִּי חָלַל בְּקִרְבִּי
@@ -40,6 +41,7 @@ Bi
 Che lisent חֲלוֺתִי
 ma maladie).
 
+@@SPLIT:stem@@
 Pi`el
 Participe pluriel (Baer) בְּיַד מְחַללֶי֑ךָ
 
@@ -47,6 +49,7 @@ Ez 28,9
 dans la main de ceux qui te blessent (Sm
 Co lisent מְחוֺלְלֶ֑ךָ).
 
+@@SPLIT:stem@@
 Pu`al
 Participe
 מְחֻלֲלֵי חֶרֶב
@@ -54,6 +57,7 @@ percés par l'épée
 Ez
 32,26.
 
+@@SPLIT:stem@@
 Po`el
 Parfait 3 féminin singulier חֹלֲלָה יָדוֺ נָחָשׁ
 בָּרִחַ
@@ -65,6 +69,7 @@ Es 51,9
 
 qui a percé le dragon.
 
+@@SPLIT:stem@@
 Po`al
 Participe
 מֲחֹלָל מִפְּשָׁעֵינוּ

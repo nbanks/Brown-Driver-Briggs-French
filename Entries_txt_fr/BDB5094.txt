@@ -13,6 +13,7 @@ pour הִזָּה syriaque
 Es 63,3, aussi
 prominutt, etc. PS^2291^) ; —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 3 masculin singulier יִזֶּה
 Lv 6,20
@@ -34,6 +35,7 @@ Lv 6,20,
 comparer v. Lv 6,20
 (les deux avec עַלֿ de la chose).
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 masculin singulier וְהִזָּת consécutif Lv 4,6 + 12 t. ; 2 masculin
 singulier וְהִזֵּיתָ֫

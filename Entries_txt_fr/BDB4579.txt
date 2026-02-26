@@ -6,6 +6,7 @@ frapper, seulement = battre (la main) (forme araméenne de II.
 מָחָה
 q. v.) ; —
 
+@@SPLIT:stem@@
 Qal
 Imparfait 3 masculin pluriel seulement figuré, de la joie des choses inanimées devant ׳
 נְהָרוֺת יִמְחֲאוכָֿ֑ף ׃י
@@ -13,6 +14,7 @@ Ps 98,8
 הַשָּׂדֶה יִמְחֲאוּכָֽֿף ׃וְכָלעֲֿצֵי
 Es 55,12. —
 
+@@SPLIT:stem@@
 Pi`el
 Infinitif construit suffixe id., d'exultation sur l'ennemi יַעַן מַחְאֲךָ
 יָד

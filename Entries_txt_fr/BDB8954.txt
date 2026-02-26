@@ -19,6 +19,8 @@ Am 3,2 + ; suffixe
 Gn 8,19 + 2 t.,
 habituellement תָם- Nb 1,18 + 84 t., etc. ; —
 
+@@SPLIT:sense@@
+
 1.
 clan :
 
@@ -164,9 +166,13 @@ Jr 33,24
 Za 14,18
 comparer Ps 107,41.
 
+@@SPLIT:sense@@
+
 2. = guilde
 1 Ch 2,55 (de
 scribes ; à l'origine héréditaire dans les familles).
+
+@@SPLIT:sense@@
 
 3. = espèce, genre :
 
@@ -177,6 +183,8 @@ Gn 8,19 (
 
 P
 ).
+
+@@SPLIT:sense@@
 
 4. pluriel = aristocrates
 Jb 31,34

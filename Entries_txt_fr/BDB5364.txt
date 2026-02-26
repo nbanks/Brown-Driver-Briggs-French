@@ -37,6 +37,7 @@ pur de pain ou de fruit Gn 40,16
 ᵑ7^J i^, Dt 6,3
 ᵑ7^J ii^, = exempté (hébreu biblique נָקִי) 1 R 15,22. —
 
+@@SPLIT:stem@@
 Qal
 Infinitif absolu
 נָקֹה
@@ -44,6 +45,7 @@ Jr 49,12 (
 נָקֹה תִּנָּקֶה, probablement erreur pour ׳
 הנקה ת, comparer Jr 25,29).
 
+@@SPLIT:stem@@
 Niph`al
 Parfait 3 masculin singulier נִקָּה
 Za 5,3 + 5 t. ;
@@ -109,6 +111,7 @@ J
 P
 ).
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 1 singulier נִקֵּיתִי
 Jos 4,21 (

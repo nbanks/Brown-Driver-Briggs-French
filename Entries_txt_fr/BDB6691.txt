@@ -4,6 +4,7 @@ hébreu biblique
 פָּסַג
 verbe
 
+@@SPLIT:stem@@
 Pi`el douteux ; si correct, passer entre (hébreu tardif Pi`el fendre, couper
 , aussi = hébreu biblique ;
 

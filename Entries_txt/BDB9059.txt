@@ -6,6 +6,8 @@ denominative
 
 1.
 
+@@SPLIT:stem@@
+
 Pi`el = deal with the roots; —
 root up, out: Perfect 3 masculine singular suffix consecutive וְשֵׁרֶשְׁךָ
 
@@ -15,6 +17,8 @@ he shall root thee up from (מִן) the land of the living; of fire
 Job 31:12
 fore (figurative) roots at all my increase.
 
+@@SPLIT:stem@@
+
 Pu`al
 Imperfect 3 masculine plural יְשֹׁרָשׁוּ
 Job 31:8
@@ -22,16 +26,22 @@ be rooted up (of produce).
 
 2.
 
+@@SPLIT:stem@@
+
 Po`el
 take root, establish oneself firmly: Perfect 3 masculine singular
 גִּזְעָם שֹׁרֵשׁ בָּאָרֶץ
 Isa
 40:24 (figurative of princes, etc.).
 
+@@SPLIT:stem@@
+
 Po`al
 id.: Perfect 3 masculine plural שֹׁרָֹשׁוּ
 Jer 12:2
 (figurative of wicked).
+
+@@SPLIT:stem@@
 
 Hiph`il
 id.: Imperfect 3 masculine singular יַשְׁרֵשׁ

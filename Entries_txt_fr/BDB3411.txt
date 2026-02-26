@@ -10,6 +10,7 @@ Nb 6,3 féminin pluriel
 יְבֵשׁוֺת
 Ez 37,2 ; Ez 37,4 —
 
+@@SPLIT:sense@@
 1.
 desséché, littéral seulement עֲנָבִים יְבֵשִׁיס
 Nb 6,3
@@ -26,6 +27,7 @@ E
 ) notre âme (c.-à-d. notre appétit) est desséchée, à savoir, par
 manque de viande fraîche et juteuse.
 
+@@SPLIT:sense@@
 2.
 sec, de la paille, קַשׁ
 Na 1,10 en

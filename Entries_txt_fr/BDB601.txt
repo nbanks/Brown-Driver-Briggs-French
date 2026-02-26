@@ -27,6 +27,7 @@ E
 (Jos 7,1 P ?
 Jos 23,16 D ?).
 
+@@SPLIT:sense@@
 1.
 narine, comme organe de la respiration Gn 2,7 ; Gn 7,22 ; Jb 27,3 comparer Nb 11,20 ; 2 S 22,9 = Ps 18,9 comparer Es 65,5 ; Es 2,22 ; Lm 4,20 ; Ez 38,18 (supprimer Co
 ) Am 4,10

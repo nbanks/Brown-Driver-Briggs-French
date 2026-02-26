@@ -6,19 +6,23 @@ nom masculin^
 1 R 6,25
 ^
 
+@@SPLIT:sense@@
 1.
 coupe, forme ;
 
+@@SPLIT:sense@@
 2.
 extrémité ;
 —
 
+@@SPLIT:sense@@
 1.
 ׳
 ק absolu, forme des chérubins 1 R 6,25 ( + מִדָּה), des bases
 1 R 7,37 (+
 id.).
 
+@@SPLIT:sense@@
 2.
 extrémité, pluriel construit קִצְבֵי הָרִים
 Jon 2,7

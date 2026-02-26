@@ -3,6 +3,7 @@ hébreu biblique
 
 [רוּעַ] verbe
 
+@@SPLIT:stem@@
 Hiphil_40_
 
 1.
@@ -109,6 +110,7 @@ Es
 16,10
 un cri ne sera pas poussé (de joie à la moisson ; || יְרֻנָּן).
 
+@@SPLIT:stem@@
 Hithpolel
 Imparfait 1 singulier אֶתְרוֺעָ֑ע
 Ps 108,10

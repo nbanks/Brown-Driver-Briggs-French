@@ -4,6 +4,7 @@ hébreu biblique
 I. [נָצָה] verbe
 voler (?) ; — seulement
 
+@@SPLIT:stem@@
 Qal Parfait 3 pluriel (si vera lectio) נָצ֫וּ גַּםנָֿ֑עוּ
 Lm 4,15 (au sujet
 des exilés sans foyer) ; texte très douteux ; lire peut-être נָ֫דוּ (comparer Gn 4,12 ; Gn 4,14), ainsi Bu ; Löhr (plus audacieusement) כִּי לֹא יִמְצְאוּ

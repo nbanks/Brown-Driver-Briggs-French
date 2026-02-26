@@ -17,6 +17,7 @@ lancer sur, percer,
 javelot = éthiopien
 [placeholder1576: Placeholders/1576.gif]) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 ׳
@@ -97,6 +98,7 @@ eau de purification, suivi de על, Ez 36,25.
 
 זָָֽרְחָה, comme dans 2 Ch 26,19).
 
+@@SPLIT:stem@@
 Poual
 Parfait
 זֹרַק, de l'eau de purification versée sur (עַל) quelqu'un

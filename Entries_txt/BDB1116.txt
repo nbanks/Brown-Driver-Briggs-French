@@ -5,6 +5,8 @@ Biblical Hebrew
 gleam, smile (Arabic
 [placeholder600: Placeholders/600.gif]) — only
 
+@@SPLIT:stem@@
+
 Hiph`il
 Imperfect 1 singular with וְ subordinate וְאַבְ֫לִיגָה
 Job 9:27 + 2 t.;

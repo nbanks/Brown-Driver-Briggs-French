@@ -10,11 +10,13 @@ uddudu
 , aiguiser, Dl^Pr 174, W 121^
 ) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 וְחַדּ֫וּ מִזְּאֵבֵי עֶרֶב consécutif Ha 1,8
 sont plus acérés que les loups du soir (des impétueux chevaux chaldéens).
 
+@@SPLIT:stem@@
 Hiph`il
 הֵחֵד (Che Or Brd
 ) ou יַחֵד (Näg comparer Dr^§ 123 a, R^), insérer Es 44,12 après
@@ -25,6 +27,7 @@ Hiph`il
 
 : le forgeron aiguise une hache.
 
+@@SPLIT:stem@@
 Hoph`al
 Parfait 3 féminin singulier הוּחַדָּה
 Ez 21,14

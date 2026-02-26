@@ -46,6 +46,7 @@ Ez 32,30 —
 Ez 5,7 voir ci-dessous
 המן ci-dessous ; —
 
+@@SPLIT:sense@@
 1.
 son, murmure, grondement, rugissement, surtout son produit par une foule de gens, murmure, rugissement
 
@@ -94,9 +95,11 @@ Jr 47,3 (||
 קוֺל שַׁעֲטַת
 פַּרְסוֺת et רַעַשׁ לְרִכְבּוֺ).
 
+@@SPLIT:sense@@
 2.
 tumulte, confusion (comme causant un rugissement) 1 S 14,19 ; 2 S 18,29.
 
+@@SPLIT:sense@@
 3.
 foule, multitude (surtout fréquent dans Esdras, Chroniques) : —
 
@@ -150,6 +153,7 @@ P
 Es 29,7 ;
 Es 29,8 de même, sous la figure d'une masse accablante de vagues Jr 51,42.
 
+@@SPLIT:sense@@
 4.
 grand nombre, abondance (tardif) נָשִׁים
 ׳
@@ -164,6 +168,7 @@ dîmes et
 dons 2 Ch
 31,10. D'où
 
+@@SPLIT:sense@@
 5.
 abondance, richesse, Ps 37,16 comparer Qo 5,9 (|| כֶּסֶף), Es 60,5 (יָם
 ׳

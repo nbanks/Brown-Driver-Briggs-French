@@ -8,6 +8,7 @@ fermer (arabe (
 [placeholder4000: Placeholders/4000.gif] IV. fermer les yeux ; éthiopien
 [placeholder4001: Placeholders/4001.gif] : fermer la porte) ; —
 
+@@SPLIT:stem@@
 Qal
 Participe
 actif

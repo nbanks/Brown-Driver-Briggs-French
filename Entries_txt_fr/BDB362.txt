@@ -5,6 +5,7 @@ hébreu biblique
 (araméen אֵיךְ,
 [placeholder170: Placeholders/170.gif] [prononcé âch]) adverbe
 
+@@SPLIT:sense@@
 1.
 interrogatif
 Comment ?
@@ -14,6 +15,7 @@ serait-il profané ? איך תאמר(וׅ
 comment peux-tu ou dis-tu . . . ? Jg 16,15 ; Es 19,11 ; Jr 2,23 (comparer Jr 8,8
 אֵיכָה) Jr 48,14 ; Ps 11,1 dans une proposition indirecte 2 R 17,28 ; Jr 36,17 ; Rt 3,18.
 
+@@SPLIT:sense@@
 2. comme exclamation
 Comment ! que ce soit de lamentation 2 S 1,19 ; Jr 2,21 ; Jr 9,18 ; Mi 2,4 ou de satisfaction Es 14,4 ; Es 14,12 ; Jr 48,39 ; Jr 51,41 ; Ab 1,5 et
 ailleurs ; avec force intensive = comme

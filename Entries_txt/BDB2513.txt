@@ -16,6 +16,8 @@ ff.^; Aramaic
 [placeholder1605: Placeholders/1605.gif]
 חַבֵּר and many derivatives; compare Phoenician noun חבר associate) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine plural חָֽבְרוּ
 Gen 14:3
@@ -91,6 +93,8 @@ Deut 18:11 (in a long series of kindred phrases), specifically of charming serpe
 Ps
 58:6 (|| מְלַחֲשִׁים).
 
+@@SPLIT:stem@@
+
 Pi`el
 Perfect 3 masculine singular חִבַּר
 Exod 36:10
@@ -123,6 +127,8 @@ verse);
 Exod 36:13. followed by accusative only Exod 26:9; Exod 36:16 object
 אתהֿאהל
 join the tent together, Exod 26:11; Exod 36:18.
+
+@@SPLIT:stem@@
 
 Pu`al
 Perfect 3 masculine singular חֻבָּ֑ר
@@ -193,6 +199,8 @@ Ps
 joined together for itself i.e. compactly built (of
 Jerusalem).
 
+@@SPLIT:stem@@
+
 Hiph`il
 Imperfect 1 singular אַחְבִּ֫ירָה עליכם בְּמִלִּים
 
@@ -205,6 +213,8 @@ RV
 
 VB
 ) against you.
+
+@@SPLIT:stem@@
 
 Hithpa`el (late) Perfect
 אֶתְחַבֵּר (Ges

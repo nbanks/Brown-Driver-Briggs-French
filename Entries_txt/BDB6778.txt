@@ -9,6 +9,8 @@ fly;
 [placeholder4317: Placeholders/4317.gif]
 insect, bird); —
 
+@@SPLIT:stem@@
+
 Qal
 Participle feminine plural לְפֹרְחוֺת
 Ezek 13:20

@@ -32,6 +32,8 @@ Dr^
 1Sam 1:6
 ^); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 plural וְצָֽרֲרוּ
 Num 33:55

@@ -29,6 +29,7 @@ t., suffixe מִזְבְּחוֺתֶיךָ
 Ps 84,4, autres
 suffixes 21 t. ; —
 
+@@SPLIT:sense@@
 1.
 
 J
@@ -74,6 +75,7 @@ E
 ; 1 R 1,51
 ; 1 R 2,28.
 
+@@SPLIT:sense@@
 2.
 
 D
@@ -81,6 +83,7 @@ prescrit un unique autel central Dt 12,5s. 27 ; mais aucune tentative d'applique
 2 R 18,4 ; 2 R 18,22),
 et Josias, dont la réforme est plus efficace, 2 R 23,8-20.
 
+@@SPLIT:sense@@
 3. P limite les sacrifices aux autels du tabernacle. Un grand autel fut bâti à l'est du Jourdain,
 mais c'était selon
 P
@@ -136,6 +139,7 @@ Lv 4,7 ces autels
 ne sont
 nommés ailleurs que dans les Chroniques : 1 Ch 6,34 ; 1 Ch 16,40 ; 1 Ch 21,29 ; 1 Ch 2,5 ; 1 Ch 2,6.
 
+@@SPLIT:sense@@
 4. Salomon fit deux autels pour le temple à Jérusalem :
 
 a.
@@ -173,6 +177,7 @@ b. un autel de cèdre, plaqué d'or, dans le temple devant le דְּבִיר
 2 Ch 26,16
 .
 
+@@SPLIT:sense@@
 5. Ézéchiel prévoit deux autels pour le nouveau temple :
 
 a. une table de bois de 3*2 coudées
@@ -181,12 +186,15 @@ Ez 41,22
 b. un autel pour la cour, probablement mêmes dimensions que 4.a
 ., avec des escaliers Ez 43,13-17.
 
+@@SPLIT:sense@@
 6. après le retour, Josué bâtit un autel sur l'ancien emplacement dans la cour du temple Esd 3,2.
 
+@@SPLIT:sense@@
 7. outre ces autels utilisés dans le culte de Yahvé, Achab bâtit un autel à Baal à Samarie 1 R 16,32
 Achaz fit un autel sur le toit de la chambre haute, et d'autres rois de Juda firent des autels dans les deux cours, tous
 furent détruits par Josias 2 R 23,12.
 
+@@SPLIT:sense@@
 8. le terme ancien et le plus courant pour faire des autels était בָּנָה
 Gn 35,7 (
 E
@@ -235,6 +243,7 @@ Ex 37,25 ;
 Ex 38,1 ; Ex 38,30, ainsi
 2 Ch 4,1 ; 2 Ch 4,19 ; 2 Ch 7,7 ; 2 Ch 28,24.
 
+@@SPLIT:sense@@
 9. la dédicace de l'autel était חֲנֻכַּת המזבח
 Nb 7,10 ; Nb 7,11 ; Nb 7,84 ; Nb 7,88 ; 2 Ch 7,9 il était
 oint d'huile מָשַׁח
@@ -243,6 +252,7 @@ Lv 8,11 ; Nb 7,10 (tous
 P
 ).
 
+@@SPLIT:sense@@
 10. le retrait des autels illicites est exprimé par נָתַץ
 Ex 34,13 (
 
@@ -267,6 +277,7 @@ Es 36,7 ; 2 Ch 14,2 ; 2 Ch 30,14 ;
 2 Ch 32,12 ;
 2 Ch 33,15.
 
+@@SPLIT:sense@@
 11. le service à l'autel était ׳
 מִשְׁמֶרֶת הַמּ
 Nb 18,5 ; Ez 40,46,
@@ -324,6 +335,7 @@ Ex 29,13
 Lv 14,20
 .
 
+@@SPLIT:sense@@
 12. les cornes de l'autel servaient spécialement à l'application du sang du
 sacrifice pour le péché dans le rituel ; le péché est représenté comme gravé לְקַרְנוֺת מִזְבְּחוֺתֵיכֶם
 Jr 17,1
@@ -348,6 +360,7 @@ de nombreux sacrifices,' ainsi De ; mais Che
 'liez la procession avec des branches, (avancez) jusqu'aux cornes de l'autel,' c'est-à-dire en procession sacrée
 autour de l'autel.
 
+@@SPLIT:sense@@
 13. le
 יְסוֺד
 (q. v.) est aussi mentionné dans le rituel des sacrifices pour le péché dans les expressions יָצַק אל
@@ -367,6 +380,7 @@ P
 אל יסוד
 Lv 5,9.
 
+@@SPLIT:sense@@
 14. l'autel était קֹדֶשׁ קָדָשִׁים
 Ex 29,37
 ; Ex

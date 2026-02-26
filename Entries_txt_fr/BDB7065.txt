@@ -10,6 +10,7 @@ SabDenkm^93^ ; araméen צְלַח,
 [placeholder4523: Placeholders/4523.gif]
 prospérer) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 féminin singulier צָלֵ֑חָה
 Jr 12,1
@@ -37,6 +38,7 @@ f.^
 Krae
 לִמְלָאכָה c.-à-d. prostitution).
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 masculin singulier הִצְלִיחַ
 Gn 24,21, 2

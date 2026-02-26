@@ -6,6 +6,7 @@ nom pluriel féminin
 abstrait
 caractère lisse, glissant, flatterie, belles promesses ;
 
+@@SPLIT:sense@@
 1.
 caractère glissant
 יהידֿרכם חשׁך וַחֲלַקְלַקֹּת
@@ -14,6 +15,7 @@ Ps 35,6
 להם כַּחֲלַקְלַקּוֺת
 Jr 23,12.
 
+@@SPLIT:sense@@
 2.
 belles promesses
 והחזיק

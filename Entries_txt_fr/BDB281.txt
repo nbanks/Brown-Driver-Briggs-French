@@ -32,6 +32,7 @@ supprimer Co comparer
 
 ; —
 
+@@SPLIT:sense@@
 1.
 un
 Gn 1,9 ; Gn 27,38 ;
@@ -84,11 +85,13 @@ spécialement Es
 65,25 (|| plus ancien יַחְדֶּו
 Es 11,6 ; Es 11,7).
 
+@@SPLIT:sense@@
 2. = chaque, tout
 Ex 36,30 ;
 Nb 7,3 ; Nb 7,85 ; Nb 28,21 ; 1 R 4,7 ; 2 R 15,20 + ;
 aussi répété, sens distributif Nb 7,11 ; Nb 13,2 ; Nb 17,21 ; Jos 3,12 ; Jos 4,2 ; Jos 4,4.
 
+@@SPLIT:sense@@
 3. = un certain
 1 S 1,1 ; 2 S 18,10 ;
 2 R 4,1 ; Est 3,8 + comparer
@@ -96,6 +99,7 @@ aussi répété, sens distributif Nb 7,11 ; Nb 13,2 ; Nb 17,21 ; Jos 3,12 ; Jos 
 Dr
 1 S 1,1 d'où
 
+@@SPLIT:sense@@
 4. = article indéfini 1 S 6,7 ; 1 S 24,15 ; 1 S 26,20 (mais supprimer
 
 ᵐ5
@@ -103,6 +107,7 @@ Dr
 We
 Dr) 1 R 19,4 ; 1 R 19,5 +.
 
+@@SPLIT:sense@@
 5.
 seulement
 1 R 4,19
@@ -135,6 +140,7 @@ Nb 10,4
 pour un de mes deux yeux » (voir GFM). Jr 10,8
 בְּאַחַת probablement = en un, tout à fait. אחד.
 
+@@SPLIT:sense@@
 6.
 l'un . . . l'autre, le premier . . . le second
 ׳
@@ -157,6 +163,7 @@ Es 27,12
 comparer Qo 7,27
 .
 
+@@SPLIT:sense@@
 7. comme ordinal, premier (surtout
 P
 & tardif) Gn 1,5
@@ -187,6 +194,7 @@ verset) ; Ez 26,1
 ; Ez 29,17 ;
 Ez 31,1 ; Ez 32,1 ; Ez 45,18.
 
+@@SPLIT:sense@@
 8. en combinaison,
 
 a.

@@ -13,6 +13,7 @@ suffixe עֲדָתִי
 Jb 16,7 + 9 t.
 suffixes ; —
 
+@@SPLIT:sense@@
 1.
 עֲדַתאֵֿל
 Ps 82,1
@@ -63,6 +64,7 @@ Ps 106,17,
 comparer Ps
 106,18.
 
+@@SPLIT:sense@@
 2. d'animaux
 ׳
 ע
@@ -74,6 +76,7 @@ Ps 68,31
 Jg 14,8
 un essaim d'abeilles.
 
+@@SPLIT:sense@@
 3. ailleurs d'Israël Os 7,12
 עֲדָתָם c.-à-d. toute leur assemblée ; 1 R 8,5 (= 2 Ch 5,6) ׳
 כל עדת ישׂ de ceux rassemblés auprès de Salomon ;

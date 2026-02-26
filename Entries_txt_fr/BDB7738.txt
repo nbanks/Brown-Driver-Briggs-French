@@ -15,6 +15,7 @@ trembler, être en rage,
 être enragé ; Zinjirli רגז
 colère, Lzb^367^) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 masculin singulier consécutif וְרָגַז
 Pr 29,9, 3
@@ -84,6 +85,7 @@ Pr 29,9 de
 י
 Es 28,21.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait 3 masculin singulier הִרְגִּיז
 Es 23,11
@@ -114,6 +116,7 @@ aussi probablement
 Ez 16,43 (lisant תַּרְגִּזִי לִי), voir
 Qal vers la fin.
 
+@@SPLIT:stem@@
 Hithpa`el
 s'exciter, seulement Infinitif construit suffixe אלי
 הִתְרַגֶּזְךָ

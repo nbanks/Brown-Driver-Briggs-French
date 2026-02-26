@@ -9,6 +9,8 @@ hébreu biblique
 rêbitu
 , place ouverte ; araméen רְחַב dans les dérivés) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Parfait 3 masculin singulier פִּי
 ׳
@@ -30,11 +32,15 @@ probablement erreur, Co
 וְיָָֽסְפוּ
 רָֽחֲבוּ [וְ?].
 
+@@SPLIT:stem@@
+
 Niph`al
 Participe comme adjectif נִרְחָב
 Es 30,23
 
 un pâturage large et spacieux.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Parfait 3 masculin singulier הִרְחִיב

@@ -9,6 +9,8 @@ cause to fly, scatter (of wind), winnow; Aramaic דְּרָא
 [placeholder1554: Placeholders/1554.gif]; Ethiopic
 [placeholder1555: Placeholders/1555.gif] —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect
 וַיִּ֫זֶר
@@ -46,6 +48,8 @@ of winnowing; figurative fan, winnow, in purification Jer 4:11 (|| לְהָכַ�
 ׳
 ז).
 
+@@SPLIT:stem@@
+
 Niph`al
 Imperfect
 וַיִּזָּרוּ
@@ -56,6 +60,8 @@ be scattered, dispersed, of Israel; Infinitive
 Ezek 6:8
 when ye shall be dispersed (on plural suffix Ew^§
 259 b^, but Co strike out י).
+
+@@SPLIT:stem@@
 
 Pi`el
 Perfect suffix וְזֵרָם
@@ -109,6 +115,8 @@ my path and my couch thou siftest (Che
 measurest, determinest, whence
 זֶרֶת
 q. v.)
+
+@@SPLIT:stem@@
 
 Pu`al
 be scattered, Imperfect

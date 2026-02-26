@@ -11,6 +11,7 @@ parler de manière indistincte ; arabe
 [placeholder2842: Placeholders/2842.gif]
 déformer ; IV. parler obscurément, de manière ambiguë) ; — seulement
 
+@@SPLIT:stem@@
 Qal
 Participe
 עַם לֹעֵז

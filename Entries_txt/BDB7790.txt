@@ -10,6 +10,8 @@ wander restlessly, roam (compare Arabic
 [placeholder4990: Placeholders/4990.gif]
 run upon, invade, attack); —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 masculine singular עִד רָד עִם אֵל
 Hos 12:1,
@@ -27,6 +29,8 @@ figurative of Israel; read וְרַדְתִּי perhaps Judg 11:37 literal, see
 ירד
 
 1.g.
+
+@@SPLIT:stem@@
 
 Hiph`il
 shew restlessness: Imperfect 2 masculine singular כַּאֲשֶׁר תָּרִיד

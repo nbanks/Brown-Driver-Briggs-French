@@ -4,6 +4,8 @@ Biblical Hebrew
 מְעֹנָה
 noun feminine id.; —
 
+@@SPLIT:sense@@
+
 1.
 den, lair of wild beasts: of כְּפִיר, מְעֹנָתוֺ
 Amos 3:4, so
@@ -26,6 +28,8 @@ figurative also of ׳
 י dwelling in temple, singular suffix, מְעוֺנָתוֺ בְּצִיּוֺן
 Ps 76:3 (||
 סוּכּוֺ).
+
+@@SPLIT:sense@@
 
 2.
 figurative

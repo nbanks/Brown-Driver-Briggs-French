@@ -13,6 +13,8 @@ Job 20:3 + 3 t.,
 etc., plural כְּלִמּוֺת
 Mic 2:6; Isa 50:6 —
 
+@@SPLIT:sense@@
+
 1. specifically, insult, reproach, ׳
 לֹא יִסַּג כ
 Mic 2:6
@@ -20,6 +22,8 @@ reproaches do not cease; מוּסַר כְּלִמָּתִי
 Job 20:3 =
 my beshaming (insulting) correction, i.e. the
 correction which insults me.
+
+@@SPLIT:sense@@
 
 2. in general, reproach, ignominy, opposed to כָּבוֺד
 Ps 4:3

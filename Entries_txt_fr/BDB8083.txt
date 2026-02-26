@@ -15,6 +15,7 @@ Hal^JAS, 1872, Juin, 534^ ; araméen רְצַף,
 [placeholder5164: Placeholders/5164.gif], arranger en ligne ; comparer araméen רִצְפְּתָא,
 [placeholder5165: Placeholders/5165.gif], hébreu tardif רְצְפָה, tous = dallage) ; —
 
+@@SPLIT:stem@@
 Qal
 Participe passif
 תּוֺכוֺ רָצוּף אַהֲבָה

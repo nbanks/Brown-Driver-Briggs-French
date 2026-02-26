@@ -9,17 +9,23 @@ fouler, syriaque
 [placeholder5146: Placeholders/5146.gif]
 donner un coup de pied) ; —
 
+@@SPLIT:stem@@
+
 Qal
 Imparfait 2 masculin singulier וַתִּרְפֹּס
 Ez 32,2, avec
 accusatif rivières ; 2 masculin pluriel תִּרְפּשֹׁ֑וּן
 Ez 34,18.
 
+@@SPLIT:stem@@
+
 Niph`al
 Participe
 מַעְיָן נִרְפָּשׂ
 Pr 25,26
 une source souillée.
+
+@@SPLIT:stem@@
 
 Hithpa`el (se piétiner soi-même, puis figuré), Impératif
 masculin singulier הִתְרַפֵּס

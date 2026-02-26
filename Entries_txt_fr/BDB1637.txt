@@ -11,6 +11,7 @@ une compagnie d'exilés) — Jr 28,6 + 38 t., גֹּלָה
 Es 49,21 ;
 1 Ch 5,22 ; Est 2,6 ; Na 3,10 —
 
+@@SPLIT:sense@@
 1.
 collectif
 exilés,
@@ -23,6 +24,7 @@ Jr 29,31,
 קהל הגולה
 Esd 10,8.
 
+@@SPLIT:sense@@
 2. abstrait, exil, Esd 6,21 ; Esd 9,4 ; Esd 10,6 ; Za 6,10
 הלך בגולה
 aller en exil

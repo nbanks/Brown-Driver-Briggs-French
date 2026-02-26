@@ -22,6 +22,7 @@ Rt 2,22 ; Rt 3,2,
 נַעֲרֹתֶיהָ
 Gn 24,61 ; Ex 2,5, etc. ; —
 
+@@SPLIT:sense@@
 1.
 fille, jeune fille ; קְטַנָּה
 ׳
@@ -54,6 +55,7 @@ jeune veuve Rt 2,6
 ; Rt 4,12
 d'une concubine Jg 19,3 ; Jg 19,4 ; Jg 19,5 ; Jg 19,6 ; Jg 19,8 ; Jg 19,9, une prostituée Am 2,7.
 
+@@SPLIT:sense@@
 2. de servantes, suivantes (toujours pluriel), Gn 24,61 (
 J
 ), Ex 2,5 (

@@ -21,6 +21,7 @@ Ex 25,6 + 18 t.,
 בְּשָׂמָיו
 Ct 4,16 —
 
+@@SPLIT:sense@@
 1.
 aromate, parfum, bonne odeur
 Es 3,24

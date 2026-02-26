@@ -29,6 +29,8 @@ t., suffix מִזְבְּחוֺתֶיךָ
 Ps 84:4, other
 suffixes 21 t.; —
 
+@@SPLIT:sense@@
+
 1.
 
 J
@@ -71,12 +73,16 @@ E
 ; 1Kgs 1:51
 ; 1Kgs 2:28.
 
+@@SPLIT:sense@@
+
 2.
 
 D
 prescribes one central altar Deut 12:5f. 27; but no attempt to enforce this principle appears before Hezekiah(
 2Kgs 18:4; 2Kgs 18:22),
 and Josiah, whose reform is more effectual, 2Kgs 23:8-20.
+
+@@SPLIT:sense@@
 
 3. P limits sacrifices to the altars of the tabernacle. A great altar was built east of the Jordan,
 but it was according to
@@ -133,6 +139,8 @@ Lev 4:7 these altars
 are
 named elsewhere only in Chronicles: 1Chr 6:34; 1Chr 16:40; 1Chr 21:29; 1Chr 2:5; 1Chr 2:6.
 
+@@SPLIT:sense@@
+
 4. Solomon made two altars for the temple at Jerusalem:
 
 a.
@@ -170,6 +178,8 @@ b. an altar of cedar, plated with gold, in the temple before the דְּבִיר
 2Chr 26:16
 .
 
+@@SPLIT:sense@@
+
 5. Ezekiel plans two altars for the new temple:
 
 a. a table of wood 3*2 cubits
@@ -178,11 +188,17 @@ Ezek 41:22
 b. an altar for the court, probably same dimensions as 4.a
 ., with stairs Ezek 43:13-17.
 
+@@SPLIT:sense@@
+
 6. after the return Jeshua built an altar on the ancient site in the court of the temple Ezra 3:2.
+
+@@SPLIT:sense@@
 
 7. besides these altars used in the worship of Yahweh, Ahab built an altar to Baal in Samaria 1Kgs 16:32
 Ahaz made an altar on the roof of the upper chamber, and other kings of Judah made altars in the two courts, all of
 which were destroyed by Josiah 2Kgs 23:12.
+
+@@SPLIT:sense@@
 
 8. the ancient and most common term for making altars was בָּנָה
 Gen 35:7 (
@@ -232,6 +248,8 @@ Exod 37:25;
 Exod 38:1; Exod 38:30, so
 2Chr 4:1; 2Chr 4:19; 2Chr 7:7; 2Chr 28:24.
 
+@@SPLIT:sense@@
+
 9. the dedication of the altar was חֲנֻכַּת המזבח
 Num 7:10; Num 7:11; Num 7:84; Num 7:88; 2Chr 7:9 it was
 anointed with oil מָשַׁח
@@ -239,6 +257,8 @@ Exod 40:10;
 Lev 8:11; Num 7:10 (all
 P
 ).
+
+@@SPLIT:sense@@
 
 10. removal of unlawful altars is expressed by נָתַץ
 Exod 34:13 (
@@ -263,6 +283,8 @@ Judg 6:25; 1Kgs 19:10;
 Isa 36:7; 2Chr 14:2; 2Chr 30:14;
 2Chr 32:12;
 2Chr 33:15.
+
+@@SPLIT:sense@@
 
 11. ministry at the altar was ׳
 מִשְׁמֶרֶת הַמּ
@@ -321,6 +343,8 @@ Exod 29:13
 Lev 14:20
 .
 
+@@SPLIT:sense@@
+
 12. the horns of the altar were especially for the application of the blood of the
 sin-offering in the ritual; sin is represented as graven לְקַרְנוֺת מִזְבְּחוֺתֵיכֶם
 Jer 17:1
@@ -345,6 +369,8 @@ many sacrifices,' so De; but Che
 'bind the procession with branches, (step on) to the altar-horns,' that is in sacred procession
 round the altar.
 
+@@SPLIT:sense@@
+
 13. the
 יְסוֺד
 (q. v.) is also referred to in the ritual of the sin-offerings in the phrases יָצַק אל
@@ -363,6 +389,8 @@ P
 ) יִמָּצֵה
 אל יסוד
 Lev 5:9.
+
+@@SPLIT:sense@@
 
 14. the altar was קֹדֶשׁ קָדָשִׁים
 Exod 29:37

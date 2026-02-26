@@ -18,6 +18,7 @@ le but ; IV. manquer le but, manquer le chemin ; éthiopien
 ne pas trouver ou avoir ; parfois pécher, surtout
 dans les dérivés) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 ׳
@@ -297,6 +298,7 @@ Lv 5,11
 Lv 5,16
 ce qu'il a encouru en prenant de la chose sainte il le paiera.
 
+@@SPLIT:stem@@
 Pi`el
 Parfait
 חִטֵּא
@@ -399,6 +401,7 @@ Nb
 P
 ), par aspersion avec un rameau d'hysope Ps 51,9.
 
+@@SPLIT:stem@@
 Hiph`il
 Parfait
 הֶחֱטִיא
@@ -491,6 +494,7 @@ Qo 5,4
 
 ne permets pas à ta bouche d'amener ta chair au châtiment.
 
+@@SPLIT:stem@@
 Hithpa`el
 Imparfait
 יִתְחַטָּא

@@ -29,6 +29,7 @@ Lm 3,13
 Jr 12,2 —
 reins :
 
+@@SPLIT:sense@@
 1. littéralement, comme organe physique,
 
 a. de l'homme, seulement en poésie, comme créés par
@@ -57,6 +58,7 @@ transféré au blé, חֵלֶב כִּלְיוֺת חִטָּה
 Dt 32,14
 graisse des reins (c.-à-d. le plus choisi, le plus riche) du blé.
 
+@@SPLIT:sense@@
 2.
 figuré, comme siège de l'émotion et de l'affection Jb 19,27 ; Pr 23,16 ; Ps 16,7 ; Ps 73,21
 קָרוֺב אַתָּה בְּפִיהֶם

@@ -6,6 +6,8 @@ treat violently, wrong (Late Hebrew id., act violently, treat
 violently; Aramaic חֲמַס (rare) violently seize; Arabic
 [placeholder1808: Placeholders/1808.gif] is be hard, strict, rigorous) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3 plural חָֽמְסוּ
 Ezek 22:26;
@@ -49,6 +51,8 @@ the devices (wherewith) ye do me violence.
 3. both physical and ethical חֹטְאִי
 חֹמֵס נַפְשׁוֺ
 Prov 8:36.
+
+@@SPLIT:stem@@
 
 Niph`al
 Perfect 3 plural נֶחְמְסוּ

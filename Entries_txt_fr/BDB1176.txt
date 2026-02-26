@@ -6,6 +6,7 @@ Gn 35,18 + ;
 habituellement בִּנְיָמִן
 nom propre, masculin_166_ (fils de (la) droite) —
 
+@@SPLIT:sense@@
 1. fils cadet de Jacob, ainsi appelé par lui, mais par Rachel, la mère, qui mourut à la naissance de Benjamin,
 appelé
 בֶּןאֿוֺנִי
@@ -65,9 +66,11 @@ Jr 37,13 ;
 Jr 38,7 ; Ez 48,32 ;
 Za 14,10.
 
+@@SPLIT:sense@@
 2. un fils de Bilhân et arrière-petit-fils de Benjamin 1.
 1 Ch 7,10.
 
+@@SPLIT:sense@@
 3. un Juif du temps d'Esdras Esd 10,32 comparer Ne 3,23 ; Ne 12,34. — בנימן בני פרץ
 1 Ch 9,4
 

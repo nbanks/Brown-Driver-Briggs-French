@@ -15,6 +15,7 @@ ville-neuve = Carthage ; araméen
 , neuf, etc. Dl^W 199 ss.^
 ) —
 
+@@SPLIT:stem@@
 Pi`el
 Parfait
 וְחִדְּשׁוּ consécutif Es 61,4
@@ -58,6 +59,7 @@ Jb
 2.
 réparer, villes Es 61,4, temple 2 Ch 24,4 ; 2 Ch 24,12, autel 2 Ch 15,8.
 
+@@SPLIT:stem@@
 Hithpa`el
 Imparfait 3 féminin singulier תִּתְחַדֵּשׁ avec sujet pluriel
 כַּנֶּשֶׁר נְעוּרָ֑יְכִת

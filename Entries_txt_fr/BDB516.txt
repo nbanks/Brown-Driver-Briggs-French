@@ -6,6 +6,7 @@ hébreu biblique
 [placeholder263: Placeholders/263.gif]
 espérer, attendre).
 
+@@SPLIT:stem@@
 Qal
 Participe passif féminin מָה אֲמֻלָה
 לִכָּתֵךְ
@@ -14,6 +15,7 @@ Ez 16,30
 (mais < Co
 מַהלִּֿי וְלִבְרִיתֵח) ;
 
+@@SPLIT:stem@@
 Pu`lal
 Parfait
 אֻמְלַל

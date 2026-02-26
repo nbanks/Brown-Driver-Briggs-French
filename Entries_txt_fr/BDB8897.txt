@@ -10,6 +10,7 @@ piller, dépouiller (synonyme plus rare de שׁלל, בזז ; avec cette √ WMM
 ] ; lien mis en doute par Jen^ZA x (1895), 331^) ;
 —
 
+@@SPLIT:stem@@
 Qal
 Parfait 3 pluriel שָׁ֫סוּ לָ֫מוֺ
 Ps 44,11
@@ -39,6 +40,7 @@ passif
 עַםבָּֿזוּז וְשָׁסוּי
 Es 42,22.
 
+@@SPLIT:stem@@
 Po`. = Qal
 Parfait 1 singulier שׁוֺשֵׂתִי (Ges
 

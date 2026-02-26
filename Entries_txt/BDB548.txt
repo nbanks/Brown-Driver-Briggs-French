@@ -5,6 +5,8 @@ Biblical Hebrew
 be stout, strong, bold, alert (according to Lag^BN 28
 f.^ from earlier אָמֹץ compare אֹמֶץ) —
 
+@@SPLIT:stem@@
+
 Qal
 Perfect 3
 plural אָֽמְצוּ
@@ -40,6 +42,8 @@ be bold (always || חֲזַק, חִזְקוּ), Deut 31:7; Deut 31:23; Josh 1:6;
 אַל
 תִּירְאוּ וְאַל תֵּחָ֑תּוּ) Josh 10:25; 1Chr 22:13; 1Chr 28:20; 2Chr 32:7.
 
+@@SPLIT:stem@@
+
 Pi`el
 Perfect
 אִמֵּץ
@@ -72,7 +76,7 @@ make firm, strengthen, followed by accusative, of giving clouds their place Prov
 י); of repairing temple 2Chr 24:13 of physical vigour Prov 31:17
 ׳
 חָֽגְרָה בְעוֺז מָתְנֶי֑הָ וַתְּא
-זְרוֺעֶֹתיהָ ׃ (subject אֵשֶׁת חַיִל); of strength for war כֹּחַ
+זְרוֺעֶֹתיהָ ׃ (subject אֵשֶׁת חַיִל); of strength for war כֹּחַ
 
 ׳
 א
@@ -111,6 +115,8 @@ Deut 2:30
 י; || הִקְשָׁה רוּחוֺ) Deut 15:7 (of unkind man); 2Chr 36:13 (of king Zedekiah, ||
 הִקְשָׁה אֶתעָֿדְפּוֺ).
 
+@@SPLIT:stem@@
+
 Hithpa`el
 Perfect
 הִתְאַמֵּץ
@@ -135,6 +141,8 @@ Ruth 1:18
 3.
 make oneself alert, make haste 1Kgs 12:18 = 2Chr 10:18 (followed by
 ל + Infinitive)
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imperfect>

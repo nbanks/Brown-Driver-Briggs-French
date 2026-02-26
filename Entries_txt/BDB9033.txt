@@ -11,10 +11,14 @@ loose, so Aramaic שְׁרָא,
 [placeholder5736: Placeholders/5736.gif]
 remit, condone); —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect 3 masculine singular suffix יִשְׁרֵ֫הוּ
 Job 37:3
 he (God) lets it loose (i.e. the thunder).
+
+@@SPLIT:stem@@
 
 Pi`el
 Perfect 1 singular suffix שֵׁרִיתִ֫ךָ

@@ -17,6 +17,7 @@ Jg 5,11+ ; suffixe
 צִדְקֹתֶיךָ
 Dn 9,16, etc. ; —
 
+@@SPLIT:sense@@
 1.
 justice, dans le gouvernement :
 
@@ -50,6 +51,7 @@ Dt 33,21.
 
 c. du roi davidique, Messie, || משׁפט, Ps 72,1 ; Ps 72,3 ; Es 9,6 ; Jr 23,5 ; Jr 33,15.
 
+@@SPLIT:sense@@
 2. attribut de Dieu en tant que souverain Ps 36,7 ; Ps 71,19 dans le gouvernement, עשׂה
 ׳
 משׁפט וצ
@@ -64,6 +66,7 @@ Es 28,17 ;
 Dn 9,7 vindication de
 son peuple Mi 7,9.
 
+@@SPLIT:sense@@
 3.
 justice, dans une cause ou un procès, בצדקתי החזקתי
 Jb 27,6
@@ -85,6 +88,7 @@ Jb 33,26
 1 R 8,52 =
 2 Ch 6,23.
 
+@@SPLIT:sense@@
 4.
 justice = véracité, ׳
 באמת ובצ
@@ -94,6 +98,7 @@ Es 45,28 ;
 Es 63,1, serment
 Jr 4,2.
 
+@@SPLIT:sense@@
 5.
 justice, comme éthiquement droit : Gn 30,33 (
 J
@@ -165,6 +170,7 @@ Pr 21,21
 ^B^
 Toy).
 
+@@SPLIT:sense@@
 6.
 justice comme justifiée, justification, salut, etc. (comparer
 צֶדֶק
@@ -216,6 +222,7 @@ Pr 8,18
 pluie d'automne pour la prospérité
 Jl 2,23.
 
+@@SPLIT:sense@@
 7. > pluriel actes de justice :
 
 a. de Dieu Jg 5,11 (deux fois dans le verset) ; 1 S 12,7 ; Mi 6,5 vindication du droit Ps 103,6 rédemptrice Es 45,24 ;

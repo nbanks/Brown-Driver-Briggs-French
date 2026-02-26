@@ -5,6 +5,7 @@ hébreu biblique
 nom propre [d'un lieu] (sur l'étymologie comparer Di
 Gn 45,10) —
 
+@@SPLIT:sense@@
 1. district en Égypte à l'est du bas Nil, voir Eb^GS 500 ss.^
 ; Naville^Goshen, 1887,^ qui lit les hiéroglyphes Kesem, mais comparer
 Gross^JAs xiv. 527^ (
@@ -39,6 +40,7 @@ Gn 47,11 etc.,
 comparer Di
 Gn 45,10.
 
+@@SPLIT:sense@@
 2.
 ארץ
 הַגּשֶׁן

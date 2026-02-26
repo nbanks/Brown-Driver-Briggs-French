@@ -5,6 +5,8 @@ Biblical Hebrew
 denominative, only Passive participle
 squared, square; —
 
+@@SPLIT:stem@@
+
 Qal
 Passive participle
 רָבוּעַ
@@ -19,6 +21,8 @@ Ezek 41:21
 Krae reads מְזוּזתֹ רְבֻעֹת, compare 1Kgs 6:33, רְבִייְִ
 
 2.).
+
+@@SPLIT:stem@@
 
 Pu`al
 Participle square, מְרֻבַּע

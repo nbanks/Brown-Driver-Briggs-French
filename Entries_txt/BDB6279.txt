@@ -8,6 +8,8 @@ shut (Arabic (
 [placeholder4000: Placeholders/4000.gif] IV. shut eyes; Ethiopic
 [placeholder4001: Placeholders/4001.gif]: shut door); —
 
+@@SPLIT:stem@@
+
 Qal
 Participle
 active

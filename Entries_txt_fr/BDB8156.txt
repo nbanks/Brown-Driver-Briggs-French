@@ -13,6 +13,8 @@ Pr 27,7
 masculin pluriel שְׂבֵעִים
 1 S 2,5 —
 
+@@SPLIT:sense@@
+
 1.
 
 a.
@@ -39,6 +41,8 @@ Gn 25,8 (
 
 P
 ; + id. + זָקֵן)
+
+@@SPLIT:sense@@
 
 2. sens péjoratif, repu de malheur etc. : שְׂבַע רֹגֶז
 Jb 14,1,

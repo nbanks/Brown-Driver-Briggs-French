@@ -17,6 +17,8 @@ DHM^ZMG 1875, 599, Phoenician^
 כון
 be (often)); —
 
+@@SPLIT:stem@@
+
 Niph`al
 Perfect (on 3 masculine singular see Participle below), 3 feminine singular
 נָכּ֫וֺנָה
@@ -194,6 +196,8 @@ be arranged, set in order, as incense before thee (> present itself
 as incense); be arranged, ordered, of temple service 2Chr 29:35; 2Chr 35:10
 ;
 2Chr 35:16.
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect
@@ -476,6 +480,8 @@ arrange, order
 (of sacred vessels; + הִקְדַּשְׁנוּ), 2Chr 35:20 (of
 temple).
 
+@@SPLIT:stem@@
+
 Hoph`al
 Perfect
 הוּכַן
@@ -507,6 +513,8 @@ be ready
 
 Zech 5:11
 .
+
+@@SPLIT:stem@@
 
 Po`lel.
 Perfect 3 masculine singular כּוֺנֵן
@@ -621,6 +629,8 @@ Deut 32:10
 , see Ol
 Di).
 
+@@SPLIT:stem@@
+
 Po`lal.
 Perfect
 be established:
@@ -646,6 +656,8 @@ B
 ᵑ6
 
 and others
+
+@@SPLIT:stem@@
 
 Hithpo`el
 Imperfect; be established, of house, 3 masculine

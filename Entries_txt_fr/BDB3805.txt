@@ -14,11 +14,13 @@ suffixe יִשְׁעִי
 2 S 22,3 + 11
 t., + 14 t. suffixes ; —
 
+@@SPLIT:sense@@
 1.
 sécurité, bien-être, prospérité
 2 S 23,5 ;
 Ps 12,6 ; Jb 5,4 ; Jb 5,11.
 
+@@SPLIT:sense@@
 2.
 salut, c.-à-d. principalement délivrance physique, par Dieu, souvent avec idée spirituelle ajoutée : Es 62,11 ;
 Ps 69,14 ;
@@ -61,6 +63,7 @@ Ps 132,16
 
 ses prêtres je revêtirai de salut.
 
+@@SPLIT:sense@@
 3.
 victoire :
 גְּבוּרוֺת יֵשַׁע יְמִינוֺ

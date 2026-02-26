@@ -15,6 +15,7 @@ suffixe גְּדוּדָיו
 Jb 19,12 ;
 Jb 25,3 —
 
+@@SPLIT:sense@@
 1.
 bande de pillards (faisant des incursions, des raids, comparer גדד)
 1 S 30,8 ; 1 S 30,15
@@ -32,6 +33,7 @@ Os 6,9 ; Os 7,1 ; Jr 18,22
 1 Ch 12,19
 figuré des forces d'attaque de Dieu, ses châtiments Jb 19,12 (comparer Jb 25,3 ci-dessous)
 
+@@SPLIT:sense@@
 2.
 troupe, de divisions de l'armée d'Israël (tardif) גְּדוּדֵי
 צְבָא מִלְחָמָה
@@ -50,6 +52,7 @@ en comparaison ; aussi Mi
 4,14
 בַּתגְּֿדוּד de Sion.
 
+@@SPLIT:sense@@
 3.
 incursion, raid
 2 S 3,22.

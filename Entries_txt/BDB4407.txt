@@ -9,6 +9,8 @@ sharpen; Arabic
 [placeholder2819: Placeholders/2819.gif]
 strike, tap); —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect
 יִלְטוֺשׁ
@@ -35,6 +37,8 @@ figurative עֵינַיִם לִי
 ל
 Job 16:9 my
 foe whets his eye for me
+
+@@SPLIT:stem@@
 
 Pu`al
 Participle

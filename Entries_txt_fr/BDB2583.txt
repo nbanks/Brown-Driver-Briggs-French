@@ -11,6 +11,7 @@ hébreu biblique
 pécher, est un emprunt selon Bev
 Dn 1,10) ; —
 
+@@SPLIT:stem@@
 Qal pas dans le TM ; mais lire peut-être חַבְתִּי (pour סַבֹּתִי) 1 S 22,22
 je suis coupable, ainsi
 
@@ -20,6 +21,7 @@ Th
 We
 Dr.
 
+@@SPLIT:stem@@
 Pi`el
 Parfait
 inculper

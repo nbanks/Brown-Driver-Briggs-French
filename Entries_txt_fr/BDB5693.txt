@@ -30,6 +30,7 @@ Ex 32,33,
 סִפְרְךָ Ex 32,33 ; Ps 139,16 pluriel סְפָרִים
 1 R 21,8 + ; —
 
+@@SPLIT:sense@@
 1.
 missive :
 
@@ -67,6 +68,7 @@ b. d'un prophète Jr 29,1, d'autres personnes
 influentes Jr
 29,25 Jr 29,29.
 
+@@SPLIT:sense@@
 2.
 document juridique, כְּרִיתֻת
 ׳
@@ -101,6 +103,7 @@ Jr 32,12 ;
 Jr 32,44
 ).
 
+@@SPLIT:sense@@
 3.
 livre, ou rouleau, dans lequel quelque chose est écrit pour le conserver en vue d'un usage
 futur Ex 17,14
@@ -336,6 +339,7 @@ Ps 69,29
 
 Dn 12,1 (citoyens du royaume messianique).
 
+@@SPLIT:sense@@
 4.
 ׳
 ס = savoir livresque, surtout écriture :

@@ -31,6 +31,7 @@ Diplom^.) = arabe
 [placeholder1116: Placeholders/1116.gif]
 longue durée, âge) —
 
+@@SPLIT:stem@@
 Qal dans l'Infinitif
 מִדּוּר באהלירֿשׁע
 Ps 84,11

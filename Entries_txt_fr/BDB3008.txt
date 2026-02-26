@@ -15,6 +15,7 @@ Ps 111,2
 féminin חֲפֵצָ֑ה
 1 Ch 28,9 —
 
+@@SPLIT:sense@@
 1.
 de l'homme, avec accusatif Ps 34,13 ; Ps 35,27 ; Ml 3,1 avec infinitif Ne 1,11 absolu הֶחָפֵץ
 quiconque voudrait
@@ -31,6 +32,7 @@ pluriel construit devant noms absolus Ps 35,22 ; Ps 40,15 = Ps 70,3
 recherchées par tous ceux qui y prennent plaisir
 Ps 111,2.
 
+@@SPLIT:sense@@
 2.
 de Dieu, לֹא אֵלֿ
 חָפֵץ רֶשַׁע אַתָּה

@@ -8,6 +8,7 @@ Levy^NWB ii. 323 s.^) ; arabe
 [placeholder2639: Placeholders/2639.gif]
 louer) ; — seulement
 
+@@SPLIT:stem@@
 Qal
 Imparfait 1 singulier suffixe וָאֶכְּרֶהָ
 Os 3,2 (dagesh forte

@@ -11,6 +11,7 @@ Nö^M74^ compare mandéen הלאצא, torture, NS.
 [placeholder2814: Placeholders/2814.gif]
 presser ensemble, pousser, s'efforcer) ; voir aussi les dérivés rares en syriaque PS^1932^) ; —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 ׳
@@ -45,6 +46,7 @@ E
 ; Ps
 106,42 absolu Es 19,20
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait 3 féminin singulier וַתִּלָּחֵץ
 Nb 22,25

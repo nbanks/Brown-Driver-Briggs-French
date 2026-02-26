@@ -8,10 +8,14 @@ and derivatives; Arabic
 be single, sole, also (Dozy) unfold,
 unroll): —
 
+@@SPLIT:stem@@
+
 Qal
 Passive participle feminine plural פְּרֻדוֺת
 Ezek 1:11
 divided, i.e. spread, of wings.
+
+@@SPLIT:stem@@
 
 Niph`al
 Perfect 3 plural נִפְרְדוּ
@@ -55,16 +59,22 @@ P
 2.
 be divided, separated, 2Sam 1:23; Neh 4:13 of loss of friendship Prov 19:4.
 
+@@SPLIT:stem@@
+
 Pi`el
 Imperfect 3 masculine singular יְפָרֵ֑דוּ
 Hos 4:14
 make a separation, i.e. go apart (in company with [עִם] harlots, compare
 RS^Semitic i. 436, 2nd ed. 455^).
 
+@@SPLIT:stem@@
+
 Pu`al
 Participle
 divided, עַםמְ֗֗֗פֻזָּר וּמְפֹרָד בֵּין הָעַמִּים
 Esth 3:8
+
+@@SPLIT:stem@@
 
 Hiph`il
 Perfect 3 masculine singular הִפְרִיד
@@ -98,6 +108,8 @@ Deut 32:8, of separating friends Prov 16:28; Prov
 2.
 make a division, separation, between (בֵּין), 2Kgs 2:11; Ruth 1:17
 of parting disputants (with בֵּין) Prov 18:18.
+
+@@SPLIT:stem@@
 
 Hithpa`el
 Perfect 3 plural וְהִתְפָּֽרְדוּ

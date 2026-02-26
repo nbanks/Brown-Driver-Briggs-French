@@ -4,12 +4,16 @@ Biblical Hebrew
 I. [נָתַר] verb
 spring or start up; —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect
 וְיִתַּר מִמְּקוֺמוֺ
 Job 37:1
 yea, it (the heart) starts up from its place (|| יֶחֱרַד
 ).
+
+@@SPLIT:stem@@
 
 Pi`el
 Infinitive
@@ -19,6 +23,8 @@ Lev 11:21 (
 P
 ), to leap with them (i.e. its legs) upon the earth (of
 locust).
+
+@@SPLIT:stem@@
 
 Hiph`il
 Imperfect

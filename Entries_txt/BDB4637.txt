@@ -6,11 +6,15 @@ be low, humiliated (Aramaic מְכַךְ,
 [placeholder2979: Placeholders/2979.gif]; Arabic
 [placeholder2980: Placeholders/2980.gif] is suck entirely out, diminish, consume) —
 
+@@SPLIT:stem@@
+
 Qal
 Imperfect
 וַיָּמֹ֫כּוּ
 Ps 106:43
 of perverse Israel
+
+@@SPLIT:stem@@
 
 Niph`al
 Imperfect
@@ -18,6 +22,8 @@ Imperfect
 Eccl 10:18
 
 sink (in decay) of house-timbers.
+
+@@SPLIT:stem@@
 
 Hoph`al
 Perfect

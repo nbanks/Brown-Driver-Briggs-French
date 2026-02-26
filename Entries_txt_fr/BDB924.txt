@@ -4,6 +4,8 @@ hébreu biblique
 בְּדָן
 nom propre, masculin (= עַבְדָּן ?).
 
+@@SPLIT:sense@@
+
 1. un juge d'Israël 1 S 12,11 mais lire probablement בָּרָק, ainsi
 
 ᵐ5
@@ -11,6 +13,8 @@ nom propre, masculin (= עַבְדָּן ?).
 ᵑ6
 
 We, comparer Dr (voir Jg 4,6s.).
+
+@@SPLIT:sense@@
 
 2. un Manassite 1 Ch 7,17.
 

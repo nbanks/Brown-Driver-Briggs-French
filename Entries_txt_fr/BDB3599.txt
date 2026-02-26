@@ -17,6 +17,7 @@ eƒêpu
 
 Dl) —
 
+@@SPLIT:stem@@
 Qal
 Parfait
 יָסַף
@@ -65,6 +66,7 @@ Dt 20,8 ; Jg
 contexte ; les deux avec לֹא
 et ne le fit plus.
 
+@@SPLIT:stem@@
 Niph`al
 Parfait
 נוֺסַף
@@ -88,6 +90,7 @@ participe féminin pluriel = choses ajoutées, additions (c.-à-d. calamités
 supplémentaires) Es
 15,9.
 
+@@SPLIT:stem@@
 Hiph`il 172 Parfait
 הֹסִיף
 2 R 24,7

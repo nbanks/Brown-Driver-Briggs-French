@@ -57,6 +57,8 @@ Isa 7:16 + 3 t.;
 Deut 7:24 + 16 t.,
 etc.; —
 
+@@SPLIT:sense@@
+
 1.
 king: of Egypt Gen 39:20f.; Exod 1:8f.; Deut 11:3; 1Kgs 3:1 of Mesopotamia, Shinar, Assyria, Babylon, Persia, etc. Judg 3:8; Judg 3:10; Gen 14:1f.; 2Kgs 15:19
 ; 2Kgs 15:20
@@ -103,17 +105,23 @@ said; in late books usually המלך
 ׳
 שׁלמה וגו) דוד; compare Aramaic כּוֺרֶשׁ מַלְכָּא, etc.
 
+@@SPLIT:sense@@
+
 2. of Davidic king, as under divine protection, 1Sam 2:10 (|| מְשִׁיחוֺ), Ps 2:6; Ps 18:51; Ps 89:19; Ps 61:7, compare Ps 99:4 so in (Messianic)
 prediction Hos 3:5;
 Isa 32:1; Jer 23:5; Ezek 37:22;
 Ezek 37:24;
 Zech 9:9.
 
+@@SPLIT:sense@@
+
 3. used of ׳
 י as king of Israel 1Sam 12:12 in poetry Deut 33:5 compare Ps 5:3; Ps 10:16; Ps 29:10; Ps 44:5; Ps 48:3; Ps 68:25; Ps 74:12; Ps 84:4; Ps 145:1; Ps 149:2; Isa 41:21; Isa 43:15; Isa 44:6; Zeph 3:15
 מֶלֶךְ הַכָּבוֺד
 Ps 24:7; Ps 24:8; Ps 24:9; Ps 24:10 (twice
 in verse); universal king Ps 47:3; Ps 47:8; Ps 95:3; Ps 98:6; Jer 10:7; Jer 10:10, compare Jer 46:18; Jer 48:15; Jer 51:57; Zech 14:9; Zech 14:16; Zech 14:17; Mal 1:14 of false god Amos 5:26.
+
+@@SPLIT:sense@@
 
 4. in fable, king of trees Judg 9:8; Judg 9:15 figurative of crocodile Job 41:26
 אֵין לָאַרְבֶּה
@@ -122,6 +130,8 @@ in verse); universal king Ps 47:3; Ps 47:8; Ps 95:3; Ps 98:6; Jer 10:7; Jer 10:1
 Prov 30:27 of
 death, מֶלֶךְ בַּלָּהוֺת
 Job 18:14.
+
+@@SPLIT:sense@@
 
 5. combinations are: —
 

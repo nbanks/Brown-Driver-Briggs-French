@@ -10,11 +10,13 @@ maigrir ; כַּחְשָׁא
 maigreur, כְּחִישׁוּתָא
 maigreur, faiblesse ; Aphel comme hébreu tardif Hiph`il) —
 
+@@SPLIT:stem@@
 Qal. Parfait 3 masculin singulier וּבְשָׂרִי כָּחַשׁ מִשָּׁ֑מֶן
 Ps 109,24
 ma chair a maigri (loin) de la graisse (|| בִּרְכַּי
 כָּֽשְׁלוּ מִצּוֺם).
 
+@@SPLIT:stem@@
 Niph`al
 Imparfait
 וְיִכָּֽחֲשׂוּ אֹיְבֶיךָ לָךְ
@@ -25,6 +27,7 @@ Pi`el
 3,
 Hithpa`el)
 
+@@SPLIT:stem@@
 Pi`el
 Parfait 3 masculin singulier כִּחֵשׁ
 
@@ -99,6 +102,7 @@ Ha
 3,17
 le produit de l'olivier a fait défaut (pour le sens comparer Os 9,2 ci-dessus)
 
+@@SPLIT:stem@@
 Hithpa`el
 Imparfait
 יִתְכַּחֲשׁוּ לִי

@@ -19,6 +19,8 @@ Exod 30:8 + 4 t.,
 P
 ); —
 
+@@SPLIT:sense@@
+
 1.
 
 a.
@@ -123,6 +125,8 @@ Dan 9:21 ;
 morning, see ׳
 ב
 1.d, e.,
+
+@@SPLIT:sense@@
 
 2. (late poetry) = night
 , עָ֑רֶב
