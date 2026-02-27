@@ -188,3 +188,41 @@ BDB6515 html  LLM: le texte français contient des balises Markdown `[placeholde
 BDB2035 html  chunk 2/4 failed after 3 retries: English book name in <ref> display text: "Prov 18,5" (in <ref ref="Prov 18:5">); English book name in <ref> display text: "Prov 24,23" (in <ref ref="Prov 24:23">); English book name in <ref> display text: "Prov 2,2" (in <ref ref="Prov 2:2">); English book name in <ref> display text: "Prov 7,4" (in <ref ref="Prov 7:4">); English book name in <ref> display text: "Prov 2,3" (in <ref ref="Prov 2:3">)
 BDB8695 html  chunk 4/4 failed after 3 retries: missing tag in French: <gloss>; missing tag in French: <gloss>
 BDB9675 html  chunk 3/3 failed after 3 retries: French text missing from HTML: "2. offrande végétale (terme technique), pluriel suffixe מִנְחָֽתְהוֺן"
+BDB2185 html  'Jer' in lookup tag is scholar abbreviation (Quaestiones in librum Geneseos), not book name - correct as-is
+BDB7215 html  LLM: contenu tronqué — le texte français ne couvre qu'une fraction de l'entrée originale (manque les références bibliques complètes et les détails des conjectures savantes)
+BDB3925 html  chunk 1/1 failed after 3 retries: French text nearly matches HTML (65% prefix match). Diverges at: txt_fr has ...e ainsi, Ol§ 223 h ; soit de כָּה... but HTML has ...e ainsi ,  Ol § 223 h  ; ou de  כָּה
+        כָה 
+     Kö ii....
+BDB6845 html  LLM: Le texte français contient des erreurs de traduction et de structure par rapport au HTML original.
+BDB2185 html  false positive: Jer in <lookup onclick="bdbabb('Jer')"> is scholar code (Jerome/Hieronymus), not book of Jeremiah
+BDB6225 html  chunk 1/1 failed after 3 retries: French text nearly matches HTML (68% prefix match). Diverges at: txt_fr has ...Denkm. 26 s. ; ou < arabe... but HTML has ...r.
+            Denkm. 26 s.   ; ou  
+     apparaître, se pré...
+BDB4315 html  chunk 1/1 failed after 3 retries: missing tag in French: <descrip>
+BDB5695 html  chunk 4/5 failed after 3 retries: missing tag in French: <highlight> (original: "rehearsing" — wrap the French equivalent in <highlight>)
+BDB4895 html  LLM (chunk 1/2): Le texte français contient des erreurs de traduction et de structure par rapport au HTML original.
+BDB3585 html  chunk 1/3 failed after 4 retries: raw tag extra in French: '</p>'; raw tag extra in French: '</html>'
+BDB8925 html  chunk 1/4 failed after 4 retries: raw tag extra in French: '</html>'
+BDB4575 html  chunk 1/3 failed after 4 retries: raw tag extra in French: '</p>'
+BDB7835 html  chunk 1/1 failed after 4 retries: French text nearly matches HTML (96% prefix match). Diverges at: txt_fr has ...sé à בִּרְיָה), de la... but HTML has ...sé à  בִּרְיָה ),  de
+    terre, = stérile ,  N...
+BDB8255 html  chunk 2/2 failed after 4 retries: French text missing from HTML: "se détourner à gauche (du vrai chemin) 2 S 14,19 ; Es 30,21"
+BDB8605 html  chunk 1/1 failed after 4 retries: French text nearly matches HTML (80% prefix match). Diverges at: txt_fr has ...Ct 5,11 de la... but HTML has ...ׁחֹרוֺת 
+     Ct 5,11  de
+    peau, féminin sing...
+BDB8655 html  LLM (chunk 1/5): balise `<div>` ouverte dans le HTML original sans fermeture correspondante dans le morceau fourni — structure HTML déséquilibrée.
+BDB4305 html  chunk 1/1 failed after 4 retries: French text nearly matches HTML (49% prefix match). Diverges at: txt_fr has ...eté et de joie) ; des dents וּלְבֶןשִֿ... but HTML has ...eté et de joie); de dents  וּלְבֶןשִֿׁ...; missing tag in French: <gloss>
+BDB8835 html  chunk 3/10 failed after 4 retries: French text nearly matches HTML (diverges near start). txt_fr has ...3. lévites :... but HTML has ...3.   Lévites  :  
+         a.   « fils » d...
+BDB8995 html  chunk 1/1 failed after 4 retries: French text nearly matches HTML (43% prefix match). Diverges at: txt_fr has ...construit שׁוֺפַר... but HTML has ...x 19,16  + ;
+    construct  שׁוֺפַר 
+     Lv 25,9  p...; French text nearly matches HTML (diverges near start). txt_fr has ...construit שׁוֺפְרוֺת... but HTML has ...construct  שׁוֺפְרוֺת 
+     Jos 6,...
+BDB5805 html  chunk 1/3 failed after 4 retries: raw tag extra in French: '</html>'
+BDB6465 html  LLM (chunk 1/2): balise <lookup> manquante autour de "De" — le texte français indique "selon De^Ps 6,8^", ce qui correspond à une balise <lookup> dans le HTML original. Le HTML produit doit contenir <lookup onclick="bdbabb('De')">De<sup>Ps 6,8</sup></lookup>.
+BDB8955 html  chunk 2/4 failed after 4 retries: French text nearly matches HTML (94% prefix match). Diverges at: txt_fr has ...cuter le jugement :... but HTML has ...cuter le jugement 
+         
+             a. 
+              en discernant , d...
+BDB1815 html  LLM (chunk 1/7): contenu sévèrement tronqué — le texte français ne couvre qu'une fraction de l'entrée originale (manque la fin de la phrase et les références bibliques potentielles)
+BDB5665 html  LLM: référence biblique erronée « Jr 148,8 » (devrait être « Ps 148,8 »)

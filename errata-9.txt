@@ -159,3 +159,35 @@ BDB7249 html  chunk 1/1 failed after 3 retries: French text nearly matches HTML 
 BDB5409 html  chunk 3/3 failed after 3 retries: missing tag in French: <gloss>
 BDB4209 html  chunk 1/1 failed after 3 retries: French text missing from HTML: "dans le champ ; bélier (de siège) comme en anglais, de heurter ;"; French text nearly matches HTML (91% prefix match). Diverges at: txt_fr has ...parer Dozyii. 440) ; —... but HTML has ...parer  Dozy ii. 440   ; —
     singulier seule...
+BDB4979 html  chunk 2/3 failed after 3 retries: French text missing from HTML: "1. coup fatal, fléau, Ex 12,13 (mort des premiers-nés) ; Ex 30,12 ; Nb 8,19 (..."
+BDB7529 html  chunk 1/1 failed after 3 retries: French text nearly matches HTML (diverges near start). txt_fr has ...latin casia, LewyFr... but HTML has ...Latin  casia ,  Lewy Fr...
+BDB6429 html  chunk 3/4 failed after 3 retries: French text nearly matches HTML (diverges near start). txt_fr has ...2. lévites :... but HTML has ...2.   Lévites  :  
+         a. 
+         2 Ch 17,8...
+BDB4249 html  chunk 1/1 failed after 3 retries: French text nearly matches HTML (70% prefix match). Diverges at: txt_fr has ...r BaePs. p. xiii s.) ; toujours avec... but HTML has ...r  Bae Ps. p. xiii s.   ; toujours avec
+     לְד...
+BDB9629 html  LLM (chunk 1/3): contenu tronqué — le texte français ne couvre qu'une fraction de l'entrée originale (manque la fin de la phrase et les références bibliques complètes)
+BDB7919 html  chunk 2/5 failed after 4 retries: French text nearly matches HTML (diverges near start). txt_fr has ...1. collectif chars, c... but HTML has ...09   collectif   chars, c...
+BDB5449 html  chunk 1/1 failed after 4 retries: French text nearly matches HTML (41% prefix match). Diverges at: txt_fr has ...construit מַתְּנַת... but HTML has ...8,6  + 4 t. ;
+    construct  מַתְּנַת 
+     Dt 16,1...; French text nearly matches HTML (diverges near start). txt_fr has ...pluriel מַתָּנֹת... but HTML has ...7 
+    plural  מַתָּנֹת 
+     Gn 25,6  +...; French text nearly matches HTML (41% prefix match). Diverges at: txt_fr has ...construit מַתְּנֹת... but HTML has ...8,6  + 4 t. ;
+    construct  מַתְּנַת 
+     Dt 16,1...; French text nearly matches HTML (diverges near start). txt_fr has ...suffixe מַתְּנֹתֵיכֶם... but HTML has ...,
+    suffix  מַתְּנֹתֵיכֶם 
+     Ez 2...; missing tag in French: <highlight> (original: "gift" — wrap the French equivalent in <highlight>)
+BDB4979 html  chunk 2/3 failed after 4 retries: French text missing from HTML: "1. coup fatal, fléau, Ex 12,13 (mort des premiers-nés) ; Ex 30,12 ; Nb 8,19 (..."
+BDB6309 html  chunk 1/1 failed after 4 retries: French text nearly matches HTML (83% prefix match). Diverges at: txt_fr has ...si fin, extrémité) ; — ׳... but HTML has ...si  fin, extrémité  ; —  ׳ 
+     ע  absolu  Gn 3,15...
+BDB9569 html  LLM (chunk 1/3): Le HTML original fourni est incomplet (il manque la balise de fermeture `</p>` et `</html>`). Le texte français fourni correspond à un morceau de phrase qui se termine par un tiret (`—`), indiquant que l'entrée n'est pas terminée. Cependant, pour respecter la consigne de produire le HTML pour ce morceau en reproduisant la structure fournie, je vais générer le HTML en fermant les balises ouvertes de manière cohérente avec le contenu fourni, mais en notant que le HTML original était tronqué.
+BDB5149 html  chunk 1/5 failed after 4 retries: raw tag extra in French: '</p>'
+BDB6349 html  chunk 1/3 failed after 4 retries: raw tag extra in French: '</html>'
+BDB5049 html  chunk 1/4 failed after 4 retries: French text nearly matches HTML (85% prefix match). Diverges at: txt_fr has ...7, ii, 63, 486, 642) ; —... but HTML has ...7, ii, 63, 486, 642   ; —...; raw tag extra in French: '</p>'; raw tag extra in French: '</html>'
+BDB2289 html  LLM (chunk 1/7): contenu tronqué — le texte français ne couvre qu'une fraction de l'entrée originale (manque la phrase "Tant en hébreu que dans les autres dialectes, le")
+BDB9859 html  chunk 1/5 failed after 4 retries: raw tag extra in French: '</html>'
+BDB7969 html  chunk 2/3 failed after 4 retries: French text nearly matches HTML (66% prefix match). Diverges at: txt_fr has ...(figuré).... but HTML has ...׳ 
+         מ 
+         Ez 34,19
+          ( figuratif )....
+BDB8049 html  LLM: erreur de typographie dans le texte français — « Lévite » avec majuscule (devrait être « lévite » en minuscule selon le texte fourni) et espace incorrect avant la virgule dans le HTML produit. Le texte français indique « lévite » (minuscule) et le HTML doit respecter la ponctuation française (espace avant la virgule).

@@ -196,3 +196,61 @@ BDB8360 html  chunk 2/3 failed after 3 retries: French text nearly matches HTML 
 BDB7490 html  chunk 1/1 failed after 3 retries: French text missing from HTML: "{1896,1897} ; grec κιννάμων de l'hébreu (contre Lag"
 BDB9680 html  chunk 2/2 failed after 3 retries: French text nearly matches HTML (50% prefix match). Diverges at: txt_fr has ...Peil... but HTML has ...Peîl 
      Parfait  3 mascul...
+BDB2120 html  LLM (chunk 1/10): le texte français contient des symboles HTML non échappés (`&amp;`) qui doivent être traduits en français (« et ») dans le contenu visible. Le HTML produit précédemment a conservé ces symboles au lieu de les remplacer par le texte français correspondant.
+BDB8650 html  chunk 2/3 failed after 3 retries: missing tag in French: <meta>
+BDB4290 html  LLM: accent manquant sur majuscule « Israë » (devrait être « Israël »)
+BDB420 html  Sense 1 descrip has 2 gloss tags (to/unto) in English but txt_fr collapses to single 'vers'; validator fails text-match check. File is correct French HTML.
+BDB430 html  Entry too large for single-context assembly (1373 lines HTML, 5 chunks). Skipped; needs chunked assembly session.
+BDB6850 html  chunk 4/7 failed after 3 retries: French text nearly matches HTML (81% prefix match). Diverges at: txt_fr has ...Ps 32,5, ne la... but HTML has ...tre à  ׳ 
+         י 
+         Ps 32,5 , ne
+        couvre pas ( כסה )  Jb...; French text nearly matches HTML (49% prefix match). Diverges at: txt_fr has ...5 ; Es 53,8 avec על, selon elle Am 2,4 ; A... but HTML has ...5 ;  Es 53,8  avec  על ,  acc.  à elle  Am 2,4 ;  A...; French text nearly matches HTML (50% prefix match). Diverges at: txt_fr has ...Jb 8,4 il n'accorde... but HTML has ...בְּיַד פ 
+         Jb 8,4  il ne
+        accorde
+        pas
+        le par...; French text nearly matches HTML (54% prefix match). Diverges at: txt_fr has ...vre (כפר) Ps 65,4 ; — comparer (du prêt... but HTML has ...vre ( כפר )  Ps 65,4  ;-comparer (du prêt...; French text missing from HTML: "פ sur (על) le bouc Lv 16,21 — Dieu efface (מחה) Es 43,25 ; Es 44,22 ;"
+BDB430 html  4 false-positive validator warnings: <lookup onclick="bdbabb('Isa')">Isa<sup>2/3</sup></lookup> are scholar abbreviations (Isaiah commentary sections), not book names. Same in original English HTML.
+BDB2120 html  False positive: validator sees 'en ֵ֯ tardif' in txt_fr but HTML has correct order 'en tardif <bdbheb>ֵ֯</bdbheb>' matching original English 'to later <bdbheb>ֵ֯</bdbheb>'. Content is correct.
+BDB6210 html  chunk 3/5 failed after 3 retries: French text missing from HTML: "pauvre et faible, opprimé par les riches et les puissants Am 2,7 ; Es 29,19 ;..."
+BDB8940 html  LLM (chunk 1/3): le texte français fourni contient des erreurs de traduction (ex: "dénuder par le vent" au lieu de "dénuder", "peu" au lieu de "scanty", etc.) et des placeholders mal formatés. Le HTML produit doit refléter fidèlement le texte français tel quel, sans correction. Cependant, le texte français fourni dans le prompt contient des erreurs évidentes (ex: "dénuder par le vent" au lieu de "dénuder", "peu" au lieu de "scanty", etc.) qui ne correspondent pas aux règles de traduction. De plus, les placeholders sont mal formatés (ex: `[placeholder5668: Placeholders/5668.gif]` au lieu de `<placeholder5668 />`). Je vais produire le HTML en suivant strictement le texte français fourni, même s'il contient des erreurs, car la règle est de reproduire le texte français tel quel.
+BDB6910 html  chunk 2/2 failed after 3 retries: French text nearly matches HTML (76% prefix match). Diverges at: txt_fr has ...ַצְבּוֺת Nb 5,22, < lire... but HTML has ...ַצְבּוֺת   Nb 5,22 ,  lire 
+     Qal 
+     לִצְבּוֺת...; extra tag in French: <descrip>; missing tag in French: <descrip>
+BDB9280 html  LLM: Le texte français contient des erreurs de traduction et de structure par rapport au HTML original.
+BDB8050 html  chunk 2/6 failed after 4 retries: French text nearly matches HTML (87% prefix match). Diverges at: txt_fr has ...1 Ch 3,21,... but HTML has ...e de David 
+     1 Ch 3,21  ;  
+        Ραφαλ  ;  
+         A 
+     
+     
+         
+             ᵐ5 
+         
+          L  
+     
+     Ραφαι...; French text nearly matches HTML (83% prefix match). Diverges at: txt_fr has ...Ραφαλ,... but HTML has ...id 
+     1 Ch 3,21  ;  
+        Ραφαλ  ;  
+         A 
+     
+     
+         
+             ᵐ5 
+         
+          L  
+     
+     Ραφαια ....
+BDB5180 html  LLM: contenu tronqué — le texte français ne couvre qu'une fraction de l'entrée originale (manque les marqueurs `<checkingNeeded />`, `<wrongReferenceRemoved />`, et la fin de la phrase "called...")
+BDB9430 html  LLM: contenu tronqué — le texte français ne couvre qu'une fraction de l'entrée originale (manque "c'est-à-dire" et les références complètes dans les balises <lookup> et <highlight>)
+BDB2320 html  chunk 1/2 failed after 4 retries: raw tag extra in French: '</p>'; raw tag extra in French: '</html>'
+BDB8290 html  chunk 2/5 failed after 4 retries: French text nearly matches HTML (50% prefix match). Diverges at: txt_fr has ...figuré il (׳... but HTML has ...ּוּ 
+     Ps 58,10 
+    figuratif  il  ( ׳ 
+     י )  le bala...
+BDB6050 html  chunk 1/1 failed after 4 retries: French text nearly matches HTML (diverges near start). txt_fr has ...construit עַכְבְּרֵי... but HTML has ...construct  עַכְבְּרֵי 
+     (ה)זָ...
+BDB3870 html  LLM (chunk 1/4): Le texte français contient des erreurs de traduction et de formatage par rapport au HTML original.
+BDB2220 html  chunk 1/3 failed after 4 retries: raw tag extra in French: '</p>'
+BDB7970 html  chunk 1/2 failed after 4 retries: raw tag extra in French: '</p>'; raw tag extra in French: '</html>'
+BDB2560 html  chunk 1/1 failed after 4 retries: French text nearly matches HTML (70% prefix match). Diverges at: txt_fr has ...n 25,15 (comparer n. de Baer ; van d. H.... but HTML has ...n 25,15  (comparer  Baer's  n. ;  van d. H....
+BDB9400 html  LLM: contenu tronqué — le texte français ne couvre qu'une fraction de l'entrée originale (manque la traduction de "ones" et la structure `<descrip>`)

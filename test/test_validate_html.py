@@ -456,7 +456,10 @@ class TestLookupTranslation(unittest.TestCase):
         self.assertEqual(lookup_issues, [],
                          f"False positive on translated lookup: {lookup_issues}")
 
-    def test_untranslated_lookup_book_flagged(self):
+    def test_lookup_book_abbreviation_not_flagged(self):
+        """Lookup tags use scholarly abbreviations (e.g. Isa for Isaiah's
+        writings, Jer for Jerome) that happen to match book names.
+        These should NOT be flagged — only <ref> display text matters."""
         fr = (
             '<html><head></head><body>'
             '<language>h\u00e9breu biblique</language>'
@@ -474,8 +477,8 @@ class TestLookupTranslation(unittest.TestCase):
         issues = validate_html(self._ORIG, fr)
         book_issues = [i for i in issues if "English book" in i
                        and "lookup" in i.lower()]
-        self.assertTrue(len(book_issues) >= 1,
-                        f"Should flag untranslated Isa in <lookup>: {issues}")
+        self.assertEqual(book_issues, [],
+                         f"Should not flag scholarly Isa in <lookup>: {book_issues}")
 
     def test_scholarly_code_preserved_no_flag(self):
         orig = (
@@ -519,6 +522,412 @@ class TestLookupTranslation(unittest.TestCase):
                          or "missing tag" in i.lower()]
         self.assertTrue(len(lookup_issues) >= 1,
                         f"Should flag missing lookup tag: {issues}")
+
+
+class TestChunkExtraClosingTags(unittest.TestCase):
+    """When validating a chunk, extra closing tags not in the original should
+    be flagged.  E.g. chunk 0 has no </p></html> but the LLM adds them."""
+
+    def test_extra_closing_html_in_chunk(self):
+        """Chunk 0 original ends mid-stream (no </p></html>).
+        LLM output adds </p></html> — validator should flag this."""
+        # Simulate chunk 0: starts with <html><head>... but does NOT close
+        orig_chunk = (
+            '<html><head><link rel="stylesheet" href="style.css"></head>\n'
+            '<h1>\n'
+            '    <entry onclick="bdbid(\'BDB6210\')">BDB6210</entry>'
+            ' [<entry onclick="sn(\'H6035\')">H6035</entry>]\n'
+            '</h1>\n'
+            '<language>Biblical Hebrew</language>\n'
+            '<p>\n'
+            '    <bdbheb>\u05E2\u05B8\u05E0\u05B8\u05D9</bdbheb>'
+            ' <pos>noun masculine</pos>\n'
+            '    <primary>poor, afflicted</primary> ; \u2014\n'
+        )
+        # LLM output: correct translation but adds </p>\n</html> at end
+        fr_chunk = (
+            '<html><head><link rel="stylesheet" href="style.css"></head>\n'
+            '<h1>\n'
+            '    <entry onclick="bdbid(\'BDB6210\')">BDB6210</entry>'
+            ' [<entry onclick="sn(\'H6035\')">H6035</entry>]\n'
+            '</h1>\n'
+            '<language>h\u00e9breu biblique</language>\n'
+            '<p>\n'
+            '    <bdbheb>\u05E2\u05B8\u05E0\u05B8\u05D9</bdbheb>'
+            ' <pos>nom masculin</pos>\n'
+            '    <primary>pauvre, afflig\u00e9</primary> ; \u2014\n'
+            '</p>\n</html>'
+        )
+        issues = validate_html(orig_chunk, fr_chunk)
+        # Should detect that </p></html> were added when the original didn't
+        # have them — this breaks chunk concatenation
+        self.assertTrue(
+            len(issues) >= 1,
+            "Should flag extra closing tags (</p></html>) not in original chunk"
+        )
+
+    def test_chunk_without_extra_closing_passes(self):
+        """Same chunk but without the spurious closing tags — should pass."""
+        orig_chunk = (
+            '<html><head><link rel="stylesheet" href="style.css"></head>\n'
+            '<h1>\n'
+            '    <entry onclick="bdbid(\'BDB6210\')">BDB6210</entry>'
+            ' [<entry onclick="sn(\'H6035\')">H6035</entry>]\n'
+            '</h1>\n'
+            '<language>Biblical Hebrew</language>\n'
+            '<p>\n'
+            '    <bdbheb>\u05E2\u05B8\u05E0\u05B8\u05D9</bdbheb>'
+            ' <pos>noun masculine</pos>\n'
+            '    <primary>poor, afflicted</primary> ; \u2014\n'
+        )
+        fr_chunk = (
+            '<html><head><link rel="stylesheet" href="style.css"></head>\n'
+            '<h1>\n'
+            '    <entry onclick="bdbid(\'BDB6210\')">BDB6210</entry>'
+            ' [<entry onclick="sn(\'H6035\')">H6035</entry>]\n'
+            '</h1>\n'
+            '<language>h\u00e9breu biblique</language>\n'
+            '<p>\n'
+            '    <bdbheb>\u05E2\u05B8\u05E0\u05B8\u05D9</bdbheb>'
+            ' <pos>nom masculin</pos>\n'
+            '    <primary>pauvre, afflig\u00e9</primary> ; \u2014\n'
+        )
+        issues = validate_html(orig_chunk, fr_chunk)
+        tag_issues = [i for i in issues if "tag" in i.lower()
+                      or "extra" in i.lower()]
+        self.assertEqual(tag_issues, [],
+                         f"False positive on correct chunk: {tag_issues}")
+
+
+class TestRawTagCornerCases(unittest.TestCase):
+    """Corner cases for the raw tag sequence check (10b)."""
+
+    def test_bare_angle_bracket_in_source(self):
+        """Bare > in English source text (occurs in ~11 entries) should not
+        break raw tag extraction or cause false positives."""
+        orig = (
+            '<html><head></head><body>'
+            '<language>Biblical Hebrew</language>'
+            '<p><pos>noun masculine</pos> '
+            '<primary>constitution, ordinance</primary>, '
+            '>between monarch and subjects:</p>'
+            '</body></html>'
+        )
+        fr = (
+            '<html><head></head><body>'
+            '<language>h\u00e9breu biblique</language>'
+            '<p><pos>nom masculin</pos> '
+            '<primary>constitution, ordonnance</primary>, '
+            '>entre monarque et sujets :</p>'
+            '</body></html>'
+        )
+        issues = validate_html(orig, fr)
+        raw_issues = [i for i in issues if "raw tag" in i]
+        self.assertEqual(raw_issues, [],
+                         f"Bare > caused false positive: {raw_issues}")
+
+    def test_xml_declaration_added_by_llm(self):
+        """LLM sometimes prepends <?xml version="1.0"?> — should be flagged."""
+        orig = (
+            '<html><head></head><body>'
+            '<language>Biblical Hebrew</language>'
+            '<p><pos>verb</pos> <primary>test</primary></p>'
+            '</body></html>'
+        )
+        fr = (
+            '<?xml version="1.0" encoding="UTF-8"?>'
+            '<html><head></head><body>'
+            '<language>h\u00e9breu biblique</language>'
+            '<p><pos>verbe</pos> <primary>test</primary></p>'
+            '</body></html>'
+        )
+        issues = validate_html(orig, fr)
+        raw_issues = [i for i in issues if "raw tag" in i and "xml" in i.lower()]
+        self.assertTrue(len(raw_issues) >= 1,
+                        f"Should flag spurious <?xml?> declaration: {issues}")
+
+    def test_extra_closing_hr(self):
+        """LLM turns self-closing <hr> into <hr></hr> — extra </hr> flagged."""
+        orig = (
+            '<html><head></head><body>'
+            '<language>Biblical Hebrew</language>'
+            '<p><pos>verb</pos> <primary>test</primary></p>'
+            '<hr>'
+            '</body></html>'
+        )
+        fr = (
+            '<html><head></head><body>'
+            '<language>h\u00e9breu biblique</language>'
+            '<p><pos>verbe</pos> <primary>test</primary></p>'
+            '<hr></hr>'
+            '</body></html>'
+        )
+        issues = validate_html(orig, fr)
+        raw_issues = [i for i in issues if "raw tag" in i and "hr" in i.lower()]
+        self.assertTrue(len(raw_issues) >= 1,
+                        f"Should flag extra </hr>: {issues}")
+
+    def test_middle_chunk_no_html_wrapper(self):
+        """A middle chunk has no <html>/<head> at start and no </html> at end.
+        Both original and French match — should pass."""
+        orig_chunk = (
+            '<div class="sense">\n'
+            '    <sense>2.</sense>\n'
+            '    <gloss>poor and weak.</gloss> '
+            '<descrip>oppressed by rich and powerful</descrip> '
+            '<ref ref="Amos 2:7" b="30" cBegin="2" vBegin="7"'
+            ' cEnd="2" vEnd="7" onclick="bcv(30,2,7)">Amos 2:7</ref>\n'
+            '</div>'
+        )
+        fr_chunk = (
+            '<div class="sense">\n'
+            '    <sense>2.</sense>\n'
+            '    <gloss>pauvre et faible.</gloss> '
+            '<descrip>opprim\u00e9 par les riches et les puissants</descrip> '
+            '<ref ref="Amos 2:7" b="30" cBegin="2" vBegin="7"'
+            ' cEnd="2" vEnd="7" onclick="bcv(30,2,7)">Am 2,7</ref>\n'
+            '</div>'
+        )
+        issues = validate_html(orig_chunk, fr_chunk)
+        raw_issues = [i for i in issues if "raw tag" in i]
+        self.assertEqual(raw_issues, [],
+                         f"False positive on matching middle chunk: {raw_issues}")
+
+    def test_missing_div_sense_in_chunk(self):
+        """French chunk drops a <div class="sense"> wrapper — should be flagged."""
+        orig_chunk = (
+            '<div class="sense">\n'
+            '    <sense>2.</sense>\n'
+            '    <gloss>poor and weak.</gloss>\n'
+            '</div>'
+        )
+        fr_chunk = (
+            '    <sense>2.</sense>\n'
+            '    <gloss>pauvre et faible.</gloss>\n'
+        )
+        issues = validate_html(orig_chunk, fr_chunk)
+        raw_issues = [i for i in issues if "raw tag" in i and "div" in i.lower()]
+        self.assertTrue(len(raw_issues) >= 1,
+                        f"Should flag missing <div>: {issues}")
+
+
+class TestStrictTextMatching(unittest.TestCase):
+    """Text from txt_fr must appear as a contiguous substring in the HTML,
+    not merely as a subsequence with arbitrary characters interspersed."""
+
+    def test_subsequence_not_sufficient(self):
+        """txt_fr text that's a subsequence but not a substring should fail."""
+        orig = (
+            '<html><head></head><body>'
+            '<language>Biblical Hebrew</language>'
+            '<p><pos>verb</pos> <primary>mourn</primary></p>'
+            '</body></html>'
+        )
+        fr = (
+            '<html><head></head><body>'
+            '<language>h\u00e9breu biblique</language>'
+            '<p><pos>verbe</pos> <primary>porter le deuil</primary></p>'
+            '</body></html>'
+        )
+        # txt_fr says "pleurer" but HTML has "porter le deuil" —
+        # "pleurer" is NOT a subsequence of "porter le deuil" so this
+        # would fail anyway. Use a trickier case: txt_fr has "abc"
+        # and HTML has "aXbYc" (subsequence but not substring).
+        txt = (
+            "h\u00e9breu biblique\n"
+            "verbe\n"
+            "porter le deuil\n"
+            "cette phrase manque du HTML\n"
+        )
+        issues = validate_html(orig, fr, txt)
+        missing = [i for i in issues if "French text missing" in i
+                   or "nearly matches" in i]
+        self.assertTrue(len(missing) >= 1,
+                        f"Should flag text not in HTML: {issues}")
+
+    def test_contiguous_text_passes(self):
+        """txt_fr text present as contiguous substring should pass."""
+        orig = (
+            '<html><head></head><body>'
+            '<language>Biblical Hebrew</language>'
+            '<p><pos>verb</pos> <primary>mourn</primary></p>'
+            '</body></html>'
+        )
+        fr = (
+            '<html><head></head><body>'
+            '<language>h\u00e9breu biblique</language>'
+            '<p><pos>verbe</pos> <primary>pleurer</primary></p>'
+            '</body></html>'
+        )
+        txt = (
+            "h\u00e9breu biblique\n"
+            "verbe\n"
+            "pleurer\n"
+        )
+        issues = validate_html(orig, fr, txt)
+        missing = [i for i in issues if "French text missing" in i]
+        self.assertEqual(missing, [],
+                         f"False positive on correct text: {missing}")
+
+
+class TestScholarlyCodes(unittest.TestCase):
+    """Scholarly abbreviation codes (Isa, Jer, etc.) in <lookup> tags are
+    names of scholars/works and should NOT be flagged as English book names."""
+
+    def test_isa_in_lookup_not_flagged(self):
+        """'Isa' in <lookup onclick="bdbabb('Isa')"> is a scholarly code."""
+        orig = (
+            '<html><head></head><body>'
+            '<language>Biblical Hebrew</language>'
+            '<p><pos>noun masculine</pos> <primary>chosen</primary> '
+            '<lookup onclick="bdbabb(\'Isa\')">Isa<sup>3</sup></lookup></p>'
+            '</body></html>'
+        )
+        fr = (
+            '<html><head></head><body>'
+            '<language>h\u00e9breu biblique</language>'
+            '<p><pos>nom masculin</pos> <primary>choisi</primary> '
+            '<lookup onclick="bdbabb(\'Isa\')">Isa<sup>3</sup></lookup></p>'
+            '</body></html>'
+        )
+        issues = validate_html(orig, fr)
+        book_issues = [i for i in issues if "English book" in i]
+        self.assertEqual(book_issues, [],
+                         f"Should not flag scholarly Isa in lookup: {book_issues}")
+
+    def test_jer_in_lookup_not_flagged(self):
+        """'Jer' in <lookup> referring to Jerome should not be flagged."""
+        orig = (
+            '<html><head></head><body>'
+            '<language>Biblical Hebrew</language>'
+            '<p><pos>verb</pos> <primary>test</primary> '
+            '<lookup onclick="bdbabb(\'Jer\')">Jerome</lookup></p>'
+            '</body></html>'
+        )
+        fr = (
+            '<html><head></head><body>'
+            '<language>h\u00e9breu biblique</language>'
+            '<p><pos>verbe</pos> <primary>test</primary> '
+            '<lookup onclick="bdbabb(\'Jer\')">Jerome</lookup></p>'
+            '</body></html>'
+        )
+        issues = validate_html(orig, fr)
+        book_issues = [i for i in issues if "English book" in i]
+        self.assertEqual(book_issues, [],
+                         f"Should not flag Jerome/Jer in lookup: {book_issues}")
+
+    def test_isa_in_ref_still_flagged(self):
+        """'Isa' in <ref> display text IS an English book name (should be Es)."""
+        orig = (
+            '<html><head></head><body>'
+            '<language>Biblical Hebrew</language>'
+            '<p><ref ref="Isa 42:1" b="23" cBegin="42" vBegin="1"'
+            ' cEnd="42" vEnd="1" onclick="bcv(23,42,1)">Isa 42:1</ref></p>'
+            '</body></html>'
+        )
+        fr = (
+            '<html><head></head><body>'
+            '<language>h\u00e9breu biblique</language>'
+            '<p><ref ref="Isa 42:1" b="23" cBegin="42" vBegin="1"'
+            ' cEnd="42" vEnd="1" onclick="bcv(23,42,1)">Isa 42:1</ref></p>'
+            '</body></html>'
+        )
+        issues = validate_html(orig, fr)
+        book_issues = [i for i in issues if "English book" in i]
+        self.assertTrue(len(book_issues) >= 1,
+                        f"Should flag untranslated Isa in <ref>: {issues}")
+
+
+class TestExtraHebrew(unittest.TestCase):
+    """French HTML should not contain Hebrew text absent from the original."""
+
+    def test_extra_hebrew_flagged(self):
+        """Hebrew in French not in original should be flagged."""
+        orig = (
+            '<html><head></head><body>'
+            '<language>Biblical Hebrew</language>'
+            '<p><bdbheb>\u05D0</bdbheb> <pos>verb</pos>'
+            ' <primary>mourn</primary></p>'
+            '</body></html>'
+        )
+        fr = (
+            '<html><head></head><body>'
+            '<language>h\u00e9breu biblique</language>'
+            '<p><bdbheb>\u05D0</bdbheb> '
+            '<bdbheb>\u05D1\u05D2\u05D3</bdbheb> '
+            '<pos>verbe</pos>'
+            ' <primary>pleurer</primary></p>'
+            '</body></html>'
+        )
+        issues = validate_html(orig, fr)
+        extra = [i for i in issues if "extra Hebrew" in i]
+        self.assertTrue(len(extra) >= 1,
+                        f"Should flag extra Hebrew: {issues}")
+
+    def test_missing_hebrew_flagged(self):
+        """Hebrew in original but not in French should be flagged."""
+        orig = (
+            '<html><head></head><body>'
+            '<language>Biblical Hebrew</language>'
+            '<p><bdbheb>\u05D0</bdbheb> <bdbheb>\u05D1\u05D2</bdbheb>'
+            ' <pos>verb</pos> <primary>mourn</primary></p>'
+            '</body></html>'
+        )
+        fr = (
+            '<html><head></head><body>'
+            '<language>h\u00e9breu biblique</language>'
+            '<p><bdbheb>\u05D0</bdbheb>'
+            ' <pos>verbe</pos> <primary>pleurer</primary></p>'
+            '</body></html>'
+        )
+        issues = validate_html(orig, fr)
+        missing = [i for i in issues if "missing Hebrew" in i]
+        self.assertTrue(len(missing) >= 1,
+                        f"Should flag missing Hebrew: {issues}")
+
+    def test_matching_hebrew_passes(self):
+        """Same Hebrew in both should not trigger extra Hebrew warning."""
+        orig = (
+            '<html><head></head><body>'
+            '<language>Biblical Hebrew</language>'
+            '<p><bdbheb>\u05D0\u05D1</bdbheb> <pos>verb</pos>'
+            ' <primary>mourn</primary></p>'
+            '</body></html>'
+        )
+        fr = (
+            '<html><head></head><body>'
+            '<language>h\u00e9breu biblique</language>'
+            '<p><bdbheb>\u05D0\u05D1</bdbheb> <pos>verbe</pos>'
+            ' <primary>pleurer</primary></p>'
+            '</body></html>'
+        )
+        issues = validate_html(orig, fr)
+        extra = [i for i in issues if "extra Hebrew" in i]
+        self.assertEqual(extra, [],
+                         f"False positive on matching Hebrew: {extra}")
+
+
+class TestEmptyTagContent(unittest.TestCase):
+    """Empty translated tags when original has content should be flagged."""
+
+    def test_empty_pos_flagged(self):
+        """French <pos></pos> when original has <pos>verb</pos>."""
+        orig = (
+            '<html><head></head><body>'
+            '<language>Biblical Hebrew</language>'
+            '<p><pos>verb</pos> <primary>mourn</primary></p>'
+            '</body></html>'
+        )
+        fr = (
+            '<html><head></head><body>'
+            '<language>h\u00e9breu biblique</language>'
+            '<p><pos></pos> <primary>pleurer</primary></p>'
+            '</body></html>'
+        )
+        issues = validate_html(orig, fr)
+        empty = [i for i in issues if "empty" in i.lower() and "pos" in i]
+        self.assertTrue(len(empty) >= 1,
+                        f"Should flag empty <pos>: {issues}")
 
 
 if __name__ == "__main__":

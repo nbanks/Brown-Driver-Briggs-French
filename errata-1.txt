@@ -171,3 +171,30 @@ BDB8511 html  LLM: le texte français contient des erreurs de ponctuation et de 
 BDB8671 html  LLM (chunk 1/3): le texte français contient des espaces manquants autour des balises `<sub>` (ex: `]_49_` au lieu de `] <sub>49</sub>`), ce qui indique une erreur de formatage dans la source. Le HTML doit refléter la structure correcte avec les espaces appropriés.
 BDB3671 html  chunk 1/4 failed after 3 retries: French text nearly matches HTML (58% prefix match). Diverges at: txt_fr has ..., couler, fondre (talmudique id.) —... but HTML has ..., couler, fondre  (Talmud  id. ) —...
 BDB2031 html  LLM (chunk 1/3): Le texte français contient "id." (anglais non traduit) qui devrait être "id." (latin) ou "même" (français), mais surtout, le texte français indique "id." sans balise `<highlight>`, alors que l'original anglais a `<highlight>id.</highlight>`. De plus, le texte français a "Spieg^APK 225^" mais l'original a `<lookup onclick="bdbabb('Spieg')">Spieg<sup>APK 225</sup></lookup>`. Il faut s'assurer que le `<highlight>` entoure bien "id." dans le HTML final.
+BDB9611 html  LLM (chunk 1/3): contenu sévèrement tronqué — le texte français ne couvre qu'une fraction de l'entrée originale (manque la fin de la phrase et les références bibliques)
+BDB6801 html  LLM (chunk 1/4): Le texte français fourni contient des erreurs de traduction et de structure par rapport au HTML original.
+BDB7401 html  chunk 1/3 failed after 3 retries: empty <descrip> tag (original had: "(twigs, etc.)")
+BDB6841 html  chunk 2/2 failed after 3 retries: French text nearly matches HTML (87% prefix match). Diverges at: txt_fr has ...contre..... but HTML has ...,4 , avec  ב 
+     contre ....
+BDB7321 html  LLM: Le texte français contient des erreurs de traduction (ex: "id." au lieu de "identique", "anneau" mal placé) et des références bibliques non converties (ex: "Nö^l.c.^" au lieu de "Nö^l.c.^" est correct mais la structure est confuse). De plus, le texte français a des erreurs de ponctuation et de mise en page qui ne correspondent pas au HTML original. Le HTML produit doit être corrigé pour refléter fidèlement le texte français fourni, en respectant les règles de traduction et de formatage.
+BDB6441 html  chunk 2/4 failed after 3 retries: French text nearly matches HTML (diverges near start). txt_fr has ...a dix, seulement fém... but HTML has ...n dix , seulement fém...
+BDB8171 html  LLM (chunk 1/4): Le texte français contient des références bibliques non converties (p. ex. `Lv 27,24` au lieu de `Lv 27,24` est correct, mais `Gn 2,5` est correct. Cependant, le texte français contient `Lv 27,24` qui est correct. Vérifions les autres. `Gn 14,7` est correct. `Jr 32,7` est correct. `Dt 11,15` est correct. `Dt 24,19` est correct. `Lv 25,3` est correct. `1 S 22,7` est correct. `Ne 12,29` est correct. `2 S 1,21` est correct. `Es 32,12` est correct. `Rt 1,1` est correct. `Rt 1,6a` est correct. `Rt 4,3` est correct. `Ne 11,30` est correct. `1 R 2,26` est correct. `Mi 2,4` est correct.
+BDB7601 html  LLM (chunk 1/2): Le texte français fourni contient une erreur de traduction : "tous cheville" est incorrect. Le mot "ankle" dans le contexte de la liste de mots hébreux doit être traduit par "cheville" (singulier) ou "tous [signifient] cheville". Cependant, la structure "tous cheville" est grammaticalement incorrecte en français pour cette liste. Il manque un verbe ou une préposition. De plus, la balise `<highlight>` pour "ankle" a été omise dans la tentative précédente. Le texte français doit être : "tous [signifient] cheville" ou "tous [sont] cheville". Mais en regardant le texte français fourni : "tous cheville", c'est une erreur de traduction (manque de verbe ou préposition). De plus, la balise `<highlight>` autour de "cheville" est manquante dans la tentative précédente.
+BDB9101 html  chunk 1/1 failed after 4 retries: missing tag in French: <descrip>
+BDB601 html  LLM (chunk 1/2): contenu tronqué — le texte français ne couvre qu'une fraction de l'entrée originale (manque la suite de l'entrée après "Jos 23,16 D ?")
+BDB8331 html  chunk 1/5 failed after 4 retries: raw tag extra in French: '</p>'; raw tag extra in French: '</html>'
+BDB9121 html  chunk 2/3 failed after 4 retries: French text nearly matches HTML (95% prefix match). Diverges at: txt_fr has ...) les portes : mais <... but HTML has ...) les portes : mais  
+         
+             ᵐ5 
+         
+     
+     
+         
+             ᵑ9 
+         
+     
+     Th 
+     We 
+     Dr 
+     Ges l.c...; raw tag extra in French: '< <lookup onclick="bdbabb(\'Sept\')">'
+BDB3831 html  LLM (chunk 1/4): Le texte français fourni est incomplet. Il manque la fin de l'entrée (la suite après "—") et les marqueurs de fin de paragraphe/HTML qui sont présents dans le HTML original. Le HTML original se termine par une balise `<p>` ouverte et une ligne de séparation "—", mais le texte français s'arrête abruptement sans correspondre à la structure complète du HTML source. De plus, le texte français ne contient pas les marqueurs de fin de paragraphe (`</p>`) ou de fin de document (`</html>`) qui sont présents dans le HTML original, ce qui a causé les erreurs de validation précédentes.

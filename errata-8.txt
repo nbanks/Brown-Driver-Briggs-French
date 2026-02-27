@@ -170,3 +170,79 @@ BDB548 html  LLM (chunk 5/5): erreur de balisage dans le texte français — "Im
 BDB8858 html  chunk 1/1 failed after 3 retries: French text nearly matches HTML (74% prefix match). Diverges at: txt_fr has ...; Ez 23,4 ; Ez 23,33 le roi du royaume du... but HTML has ...;  Ez 23,4  ;  Ez 23,33  ; le roi du royaume d...
 BDB7448 html  chunk 2/8 failed after 3 retries: missing Hebrew/Aramaic: מֵעַל; missing Hebrew/Aramaic: מִן; French text nearly matches HTML (diverges near start). txt_fr has ...Imparfait 3 féminin singulie... but HTML has ...mparfait . 3 féminin singulie...; missing tag in French: <bdbheb>; missing tag in French: <bdbheb>
 BDB5128 html  chunk 2/2 failed after 3 retries: French text nearly matches HTML (47% prefix match). Diverges at: txt_fr has ...articipe passif (Participe actif en... but HTML has ...articipe passif  ( actif  Participe en...
+BDB7428 html  chunk 2/2 failed after 3 retries: French text nearly matches HTML (50% prefix match). Diverges at: txt_fr has ...ubstantif Jr 9,16 pleureuses (profe... but HTML has ...ubstantif  Jr 9,16  (professionnelle...
+BDB3658 html  chunk 2/4 failed after 3 retries: missing ref attribute: Exod 25:33 (×1); English book name in <ref> display text: "Exod 34,34" (in <ref ref="Exod 34:34">); English book name in <ref> display text: "Num 33,3" (in <ref ref="Num 33:3">); English book name in <ref> display text: "Num 26,20" (in <ref ref="Num 26:20">); English book name in <ref> display text: "Exod 12,41" (in <ref ref="Exod 12:41">)
+BDB7908 html  LLM (chunk 1/3): texte français tronqué — le texte fourni ne contient pas la fin de la phrase « est la forme originelle » et manque la balise `<bdbheb>` fermante pour « מרי בעל » dans la traduction. Le texte français doit être complet pour une conversion HTML correcte.
+BDB2468 html assembly_validation_failed
+BDB2518 html assembly_validation_failed
+BDB2578 html assembly_validation_failed
+BDB2708 html assembly_validation_failed
+BDB2728 html assembly_validation_failed
+BDB2738 html assembly_validation_failed
+BDB2768 html assembly_validation_failed
+BDB2778 html assembly_validation_failed
+BDB2788 html assembly_validation_failed
+BDB2798 html assembly_validation_failed
+BDB2808 html assembly_validation_failed
+BDB2828 html assembly_validation_failed
+BDB2838 html assembly_validation_failed
+BDB2848 html assembly_validation_failed
+BDB2888 html assembly_validation_failed
+BDB2898 html assembly_validation_failed
+BDB2928 html assembly_validation_failed
+BDB2948 html assembly_validation_failed
+BDB2958 html assembly_validation_failed
+BDB2968 html assembly_validation_failed
+BDB58 html validation_failed_v3
+BDB3008 html validation_failed_v3
+BDB3028 html validation_failed_v3
+BDB3078 html validation_failed_v3
+BDB3128 html validation_failed_v3
+BDB3148 html validation_failed_v3
+BDB3178 html validation_failed_v3
+BDB3188 html validation_failed_v3
+BDB3198 html validation_failed_v3
+BDB3208 html validation_failed_v3
+BDB3218 html validation_failed_v3
+BDB3228 html validation_failed_v3
+BDB3278 html validation_failed_v3
+BDB3298 html validation_failed_v3
+BDB3318 html validation_failed_v3
+BDB3348 html validation_failed_v3
+BDB3358 html validation_failed_v3
+BDB3368 html validation_failed_v3
+BDB3378 html validation_failed_v3
+BDB3388 html validation_failed_v3
+BDB8628 html  chunk 1/1 failed after 3 retries: French text nearly matches HTML (57% prefix match). Diverges at: txt_fr has ...Nb 11:16... but HTML has ...r 
+             Dt 1 . 15
+          
+     Gray 
+             Nb 11,16
+             
+          ) ; organisant l...
+BDB6878 html  LLM: le texte français contient une erreur de structure — il manque le signe de césure « — » avant « פ », et la ponctuation est incorrecte (virgule au lieu de point-virgule après « Es 3,24 »). De plus, le texte français ne respecte pas la mise en page du HTML original (les balises `<lookup>` et `<grk>` sont mal intégrées). Le HTML doit refléter fidèlement la structure de l'original tout en traduisant le texte visible.
+BDB7678 html  chunk 1/9 failed after 3 retries: French text nearly matches HTML (81% prefix match). Diverges at: txt_fr has ...CB Jan. 8, 1887, 60) ; — ׳... but HTML has ...CB Jan. 8, 1887, 60   ; —  ׳ 
+     ר  absolu  Gn 3,15...; missing tag in French: <highlight> (original: "a" — wrap the French equivalent in <highlight>)
+BDB5438 html  LLM: contenu tronqué — le texte français ne couvre qu'une fraction de l'entrée originale (manque la fin de la phrase "d'animaux sacrificiels" et les références suivantes, ainsi que la fin de la section sur "d'une femme").
+BDB428 html  validator false positive: subscript _217_ comparison issue, HTML structure correct
+BDB508 html  validator false positive: Jer in lookup is scholar abbreviation for Jerome, not book of Jeremiah
+BDB9318 html  chunk 1/1 failed after 3 retries: French text nearly matches HTML (83% prefix match). Diverges at: txt_fr has ...xxii (1902), 164) face (hébreu... but HTML has ...xxii (1902), 164  )  visage  (hébreu
+    bib...; French text missing from HTML: "SchulthLex.14, etc.) ; — pluriel suffixe 3 masculin singulier"
+BDB1848 txt_fr  "Duel construit" should be "Du. construit" (Du = scholar Duhm); txt_fr not writable; HTML is correct with "Du."
+BDB8628 html  chunk 1/1 failed after 3 retries: French text nearly matches HTML (57% prefix match). Diverges at: txt_fr has ...Nb 11:16... but HTML has ...r 
+             Dt 1 . 15
+          
+     Gray 
+             Nb 11,16
+             
+          ) ; organisant l...
+BDB5438 html  LLM: contenu tronqué — le texte français ne couvre qu'une fraction de l'entrée originale (manque les références bibliques complètes dans les balises `<ref>` et les notes de bas de page comme `Hi-Sm Co Berthol Toy Siegf^Kau^ Krae Da ('peut-être')` sont mal intégrées dans la structure HTML attendue). De plus, le texte français contient des références bibliques non converties (ex: `Ez 24,4` au lieu de `Ez 24,4` est correct, mais la structure des balises `<ref>` dans le texte français est absente, ce qui empêche une reconstruction fidèle du HTML original). Le texte français semble être une version simplifiée ou tronquée qui ne correspond pas à la structure détaillée du HTML anglais original.
+BDB4838 html  chunk 1/5 failed after 4 retries: raw tag extra in French: '</html>'
+BDB1958 html  chunk 1/3 failed after 4 retries: raw tag extra in French: '</p>'
+BDB5018 html  chunk 1/1 failed after 4 retries: missing tag in French: <descrip>
+BDB5268 html  LLM: référence biblique non convertie « Qo 45,9 » (devrait être « Qo 45,9 » — format correct, mais le texte français utilise « Qo » alors que le HTML original utilise « Eccl ». Vérifier la cohérence des abréviations bibliques. De plus, le texte français contient « marge » sans traduction de « margin » dans le contexte de « compare Hiph`il margin » — devrait être « comparer Hiph`il à la marge » ou similaire. Enfin, le texte français semble tronqué ou incomplet par rapport au HTML original (manque de contexte pour « margin »).)
+BDB9208 html  chunk 1/1 failed after 4 retries: French text missing from HTML: "four portatif ou brasero (emprunt à l'assyrien"; missing tag in French: <bdbheb>
+BDB3708 html  LLM (chunk 1/4): Le texte français fourni contient des erreurs de formatage et de traduction par rapport au HTML original.
+BDB9568 html  chunk 1/1 failed after 4 retries: French text missing from HTML: "tas (de pierres) ("
+BDB8968 html  LLM (chunk 1/5): Le texte français fourni est incomplet et ne correspond pas à la structure HTML originale. Il manque des éléments essentiels comme "féminin singulier", "construit", "pluriel" et les références bibliques associées à ces formes. De plus, le texte français contient des balises de fermeture (`</p>`, `</html>`) qui ne doivent pas être incluses dans le contenu traduit, car elles font partie de la structure HTML originale. Le réassemblage doit suivre strictement la structure HTML originale en traduisant uniquement le texte visible.
+BDB1368 html  LLM (chunk 1/7): Le texte français fourni est incomplet — il manque la suite de l'entrée (les sens, les définitions, etc.) qui sont présentes dans le HTML anglais original. Le HTML produit doit refléter fidèlement le contenu du texte français fourni, mais le texte français semble tronqué par rapport à la structure HTML originale. Cependant, en suivant strictement la règle de reproduire le texte français tel quel, je vais produire le HTML correspondant au texte fourni, en conservant la structure HTML originale mais en traduisant uniquement le contenu visible.

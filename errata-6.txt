@@ -237,3 +237,49 @@ BDB9576 html  chunk 1/1 failed after 3 retries: French text nearly matches HTML 
     construct  יוֺמֵי 
      Dn 5,11 , e...; French text nearly matches HTML (80% prefix match). Diverges at: txt_fr has ...d 4,15 ; Esd 4,19 : d'une... but HTML has ...d 4,15  ;  Esd 4,19  :  de
     période : durée de...; French text nearly matches HTML (62% prefix match). Diverges at: txt_fr has ...rnière partie des jours (futurs).... but HTML has ...rnière partie des  (futurs)  jours....
+BDB2236 html  LLM: le texte français contient un caractère "<" isolé sans traduction ni contexte ("mais peut-être <"), ce qui suggère une erreur de traduction ou de formatage dans le texte source. De plus, la traduction de "overthrow" par "renversement" est correcte, mais l'ordre dans le texte français ("destruction, renversement") ne correspond pas à l'ordre de l'original ("overthrow, destruction"). Cependant, la règle 8 interdit de changer l'ordre des mots du texte français. Le problème principal est le caractère "<" isolé.
+BDB2176 html  formatting issue with colon in source txt_fr
+BDB2696 validation_issue  Validation reports missing <pos> tag in sense 2 but tag appears present in file - may be false positive from validator
+BDB2836 validation_issue  Missing Hebrew characters and spacing issues with txt_fr source alignment - requires txt_fr correction
+BDB2606 validation_issue  Empty <highlight> tag for "it" - English has partial word that's hard to map to French
+BDB2156 validation_issue  Hebrew character variation (זְרֵههָֽֿלְאָה vs זְרֵههָֽֿלְאָה) - Unicode diacritic mismatch with source
+BDB1866 validation_issue  Complex entry with multiple subsenses - text structure issues in matching txt_fr layout
+BDB2806 validation_issue  Missing transliterated text and complex etymology section - txt_fr format divergence
+BDB1946 html  spacing issues with Duel/Du and du/de structure, missing highlight tag in sense 2
+BDB2036 html  quote formatting issue and missing highlight tag for 'to God'
+BDB2346 html  missing text 'olivier frais' comparaison section spacing issue
+BDB2446 html  spacing issues and missing meta tag
+BDB2626 html  Hebrew/Aramaic encoding issues (Latin vs Arabic characters)
+BDB3666 html  LLM (chunk 1/3): contenu tronqué — le texte français ne couvre qu'une fraction de l'entrée originale (manque la fin de la phrase et les références)
+BDB5586 html  chunk 1/4 failed after 3 retries: French text nearly matches HTML (66% prefix match). Diverges at: txt_fr has ...chwIdioticon 62 ; assyrien... but HTML has ...chw Idioticon 62  ; Assyrian  
+         saklu 
+     , pe...
+BDB6836 html  LLM: balise <descrip> manquante dans le texte français — le contenu "lire peut-être פֶּרֶשׁ" doit être inclus dans la balise <descrip> pour correspondre à la structure HTML originale.
+BDB5156 html  chunk 1/7 failed after 4 retries: raw tag extra in French: '</p>'; raw tag extra in French: '</html>'
+BDB2506 html  chunk 1/5 failed after 4 retries: raw tag extra in French: '</p>'
+BDB9016 html  chunk 1/3 failed after 4 retries: raw tag extra in French: '</html>'
+BDB8756 html  chunk 3/4 failed after 4 retries: French text nearly matches HTML (diverges near start). txt_fr has ...2. lévite, יָהוּ- 1 Ch 2... but HTML has ...2.   Lévite ,  יָהוּ -  1 Ch 2...
+BDB7656 html  LLM (chunk 1/7): contenu tronqué — le texte français ne couvre qu'une fraction de l'entrée originale (manque la suite de la définition et les sens numérotés)
+BDB3586 html  LLM: contenu tronqué — le texte français ne couvre qu'une fraction de l'entrée originale (manque la balise `<meta>` et son contenu "simile")
+BDB6746 html  chunk 1/1 failed after 4 retries: French text nearly matches HTML (69% prefix match). Diverges at: txt_fr has ...) SchrCOT 2k 15, 30) ; — 2 R 15,25 ;... but HTML has ...)  Schr COT 2k 15, 30   ; —  2 R 15,25  ;
+     2 R 15,2...
+BDB4076 html  LLM (chunk 1/4): Le texte français contient des erreurs de formatage et de traduction par rapport au HTML original.
+BDB7286 html  LLM (chunk 1/6): Le texte français contient une erreur de formatage dans la référence bibliographique : `237 s.` au lieu de `237 f.` (ou `237 sq.`). De plus, la balise `<highlight>` pour "fail, despair" a été omise dans la tentative précédente. Le texte français indique clairement "faiblir, désespérer" qui doit être entouré de `<highlight>`.
+BDB9826 html  chunk 1/3 failed after 4 retries: raw tag extra in French: '</p>'
+BDB5706 html  chunk 4/5 failed after 4 retries: missing tag in French: <gloss>; missing tag in French: <highlight> (original: "was cleansing what from stones" — wrap the French equivalent in <highlight>)
+BDB4936 html  chunk 1/1 failed after 4 retries: missing lookup attribute: "bdbabb('Baer')"; French text nearly matches HTML (56% prefix match). Diverges at: txt_fr has ...Nabuchodonosor (babylonien... but HTML has ...n 
+     Nabuchodonosor, Nabuchodonosar  (...; missing tag in French: <lookup>
+BDB7116 html  LLM (chunk 1/2): Le texte français contient "id." (anglais) au lieu de "id." (latin) ou une traduction appropriée dans la balise `<highlight>`. La règle exige que le texte visible dans `<highlight>` soit traduit ou conservé en latin si c'est un terme savant, mais ici "id." est une abréviation latine courante qui devrait être conservée, cependant l'erreur signalée précédemment indique un manque de balise `<highlight>` autour du texte français correspondant. Le texte français dit "id." mais le HTML original a `<highlight>id.</highlight>`. Le texte français doit être entouré de `<highlight>` si c'est le contenu de la balise.
+BDB9836 html  chunk 3/5 failed after 4 retries: French text nearly matches HTML (85% prefix match). Diverges at: txt_fr has ...orteil (... but HTML has ...2. 
+     orteil 
+     
+         ᵑ7 
+     
+    syriaque ; hébre...; extra tag in French: <bdbheb>; extra tag in French: <reflink>
+BDB4396 html  chunk 2/4 failed after 4 retries: French text nearly matches HTML (diverges near start). txt_fr has ...b. = blé à pain, la matiè... but HTML has .... 
+     b. 
+     blé à pain ,  la matiè...; extra ref attribute not in original: 2Kgs 18:32 (×1); extra ref attribute not in original: Ezek 48:18 (×1); extra ref attribute not in original: Gen 41:54 (×1); extra ref attribute not in original: Gen 41:55 (×1)
+BDB5006 html  chunk 1/2 failed after 4 retries: raw tag extra in French: '</p>'; raw tag extra in French: '</html>'
+BDB5836 html  LLM (chunk 1/2): contenu sévèrement tronqué — le texte français ne couvre qu'une fraction de l'entrée originale (manque la fin de la phrase et la structure de la balise <reflink> correctement imbriquée dans <bdbheb>)
+BDB7726 html  chunk 3/3 failed after 4 retries: French text nearly matches HTML (59% prefix match). Diverges at: txt_fr has ...ail tu ne feras pas coucher (c.-à-d.... but HTML has ...ail tu ne feras pas  (laisser)  coucher...
+BDB7456 html  chunk 2/3 failed after 4 retries: French text nearly matches HTML (52% prefix match). Diverges at: txt_fr has ...de Jérusalem sous la figure d'une pro... but HTML has ...de Jérusalem sous  figure  d'une prost...; missing tag in French: <gloss>

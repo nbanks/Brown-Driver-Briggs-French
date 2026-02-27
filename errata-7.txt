@@ -167,3 +167,45 @@ BDB8367 html  chunk 2/5 failed after 3 retries: French text nearly matches HTML 
 BDB6467 html  chunk 2/2 failed after 3 retries: French text nearly matches HTML (diverges near start). txt_fr has ...(figuré) ils sont devenus g... but HTML has ...guratif )  ils sont devenus g...
 BDB7427 html  chunk 1/1 failed after 3 retries: French text nearly matches HTML (76% prefix match). Diverges at: txt_fr has ...ense que le rythme Qina est toujours 3... but HTML has ...ense que le rythme  Kina  est toujours 3...
 BDB8407 html  chunk 2/3 failed after 3 retries: missing Hebrew/Aramaic: ׳; missing tag in French: <bdbheb>
+BDB457 html  LLM: le symbole "&amp;" dans le texte français doit être traduit par "et" (ou "&" si c'est un symbole bibliographique), et non conservé tel quel. Le texte français indique "Eg 194 &", ce qui correspond à "&" ou "et" dans le contexte bibliographique, mais le HTML précédent a conservé "&amp;" qui est une erreur de codage. De plus, le texte français indique "Eg 194 &" (avec un espace avant le &), ce qui doit être traduit correctement dans le HTML.
+BDB1127 html  chunk 2/3 failed after 3 retries: French text nearly matches HTML (83% prefix match). Diverges at: txt_fr has ...figuré... but HTML has ...1. 
+     figuratif 
+     destruction 
+     E...
+BDB4957 html  LLM: Le texte français contient des erreurs de formatage dans les références bibliographiques et les notes savantes. Les références doivent utiliser la virgule (Ne 11,34) et les notes savantes doivent être correctement intégrées dans les balises `<lookup>` avec les attributs `onclick` préservés. De plus, le texte français semble avoir des erreurs de ponctuation et de mise en page qui ne correspondent pas exactement au HTML original.
+BDB1127 html  chunk 2/3 failed after 3 retries: French text nearly matches HTML (83% prefix match). Diverges at: txt_fr has ...figuré... but HTML has ...1. 
+     figuratif 
+     destruction 
+     E...
+BDB1157 html  chunk 1/5 failed after 3 retries: French text nearly matches HTML (61% prefix match). Diverges at: txt_fr has ...ZimBP 48, moab.... but HTML has ...n  
+         bâmâtê 
+     
+     Zim BP 48, Moab.  
+     במת 
+     
+         MI  3, 27 
+     ) —...; French text nearly matches HTML (diverges near start). txt_fr has ...) ; suffixe בָּמֹתַי... but HTML has ...m 
+      ; suffixe  בָּמֹתַי...
+BDB467 html  LLM: espace manquant avant le point d'interrogation dans « Dieu monte ? » (devrait être « Dieu monte ? ») et espace manquant avant la parenthèse fermante dans « (Dieu monte ?) » (devrait être « (Dieu monte ?) »). Le texte français original contient « (Dieu monte ?) » sans espace avant le point d'interrogation, ce qui est une erreur de typographie française. De plus, le texte français a « (Dieu monte ?) » alors que le HTML original a « ( Dieu monte ? ) » avec des espaces. La règle est de traduire le texte visible, donc « Dieu monte ? » est correct, mais l'espace avant le point d'interrogation est manquant dans le texte français fourni. Cependant, la règle 8 dit de reproduire le texte français exactement. Si le texte français a une erreur, je dois la signaler. Mais l'exemple d'erreur 3 montre que les accents manquants sont des erreurs. Ici, l'espace avant le point d'interrogation est une erreur de typographie française. Donc je dois signaler ERRATA.
+BDB467 html  LLM: espace manquant autour du point d'interrogation dans la traduction française (« Dieu monte ? » au lieu de « Dieu monte ? ») et espace manquant avant le point d'interrogation dans le HTML original (le texte français indique « Dieu monte ? » mais le HTML original a « Dieu monte ? » sans espace avant le point d'interrogation). De plus, le texte français a « d'un village » alors que le HTML original a « d'un village » (pas de différence, mais l'espace avant le point d'interrogation est critique).
+BDB2307 html  LLM: le texte français contient des erreurs de traduction et de formatage par rapport au HTML original.
+BDB6267 html  chunk 2/4 failed after 3 retries: French text nearly matches HTML (82% prefix match). Diverges at: txt_fr has ...l'enfantement), Pr... but HTML has ...e
+    l'enfantement) ;  Pr
+        10,22 ....
+BDB7487 html  chunk 2/3 failed after 3 retries: French text nearly matches HTML (63% prefix match). Diverges at: txt_fr has ...b BR iii. 135. avec le Wadi Kânah, au su... but HTML has ...b  BR iii. 135. avec  Wadi Kânah , au sud e...
+BDB7227 html  chunk 1/1 failed after 3 retries: missing Hebrew/Aramaic: מִבְצַרצֿ; missing ref attribute: 2Sam 24:7 (×1); missing tag in French: <bdbheb>; missing tag in French: <bdbheb>; missing tag in French: <ref[2Sam 24:7]>
+BDB8127 html  chunk 1/4 failed after 4 retries: raw tag extra in French: '</p>'
+BDB6717 html  chunk 2/4 failed after 4 retries: French text nearly matches HTML (47% prefix match). Diverges at: txt_fr has ...י commença à l'impulser.... but HTML has ...it de  ׳ 
+     י  commença à   impulser  lui ....
+BDB6937 html  chunk 1/2 failed after 4 retries: raw tag extra in French: '</html>'
+BDB6557 html  LLM (chunk 1/2): contenu tronqué — le texte français ne couvre qu'une fraction de l'entrée originale (la phrase est coupée après "verbe" et manque la fin de la description et les références potentielles).
+BDB8227 html  chunk 1/3 failed after 4 retries: raw tag extra in French: '</p>'
+BDB5837 html  chunk 1/1 failed after 4 retries: extra tag in French: <reflink>; extra tag in French: <lookup>
+BDB9977 html  chunk 1/1 failed after 4 retries: French text nearly matches HTML (82% prefix match). Diverges at: txt_fr has ...ugenblick », mais le verbe ׳... but HTML has ...ugenblick » , mais verbe  ׳ 
+     שׁ  plutôt du...; French text nearly matches HTML (diverges near start). txt_fr has ...שׁ est plutôt du regard fi... but HTML has ...be  ׳ 
+     שׁ  plutôt du regard fi...
+BDB5797 html  chunk 5/5 failed after 4 retries: French text nearly matches HTML (96% prefix match). Diverges at: txt_fr has ..., seulement figuré :... but HTML has ..., seulement  figuratif   :  
+         a. 
+         dans la fig...; French text nearly matches HTML (diverges near start). txt_fr has ...les pistes de ׳... but HTML has ...9,8 
+         traces  de  ׳ 
+         י  sont celles...; French text nearly matches HTML (diverges near start). txt_fr has ...figuré d'un chariot riche... but HTML has ...uratif d'un chariot riche...; missing tag in French: <meta>

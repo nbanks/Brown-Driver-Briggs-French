@@ -22,6 +22,7 @@ Usage:
 Requires: beautifulsoup4, lxml
 """
 
+import difflib
 import html
 import os
 import re
@@ -193,6 +194,71 @@ def normalize_for_compare(text):
     return re.sub(r"\s+", "", text)
 
 
+_ENG_BOOK_ABBREVS = {
+    "Gen", "Exod", "Lev", "Num", "Deut", "Josh", "Judg", "Ruth",
+    "1Sam", "2Sam", "1Kgs", "2Kgs", "1Chr", "2Chr", "Ezra", "Neh",
+    "Esth", "Job", "Prov", "Eccl", "Song", "Isa", "Jer", "Lam",
+    "Ezek", "Dan", "Hos", "Joel", "Amos", "Obad", "Jonah",
+    "Mic", "Nah", "Hab", "Zeph", "Hag", "Zech", "Mal",
+}
+_ENG_BOOK_RE = re.compile(
+    r"\b(" + "|".join(re.escape(b) for b in sorted(_ENG_BOOK_ABBREVS, key=lambda x: -len(x))) + r")\b"
+)
+
+_STRUCTURAL_TAGS = {"pos", "primary", "highlight", "descrip", "meta",
+                    "language", "gloss", "sense", "ref", "bdbheb",
+                    "bdbarc", "entry", "lookup", "reflink",
+                    "transliteration"}
+_HAS_LATIN = re.compile(r"[a-zA-Z\u00C0-\u024F]")
+
+_RAW_TAG_RE = re.compile(r"<[^>]+>")
+_RAW_TAG_COVERED = re.compile(
+    r"^</?(highlight|pos|primary|descrip|meta|language|gloss|sense"
+    r"|ref|bdbheb|bdbarc|entry|lookup|reflink|transliteration"
+    r"|grk|sup|sub|placeholder\d+|checkingNeeded|wrongReferenceRemoved)\b",
+    re.IGNORECASE,
+)
+
+_TRANSLATED_TAGS = {"pos", "primary", "highlight", "descrip", "meta",
+                    "language", "gloss"}
+
+
+def _tag_seq(soup):
+    seq = []
+    for tag in soup.find_all(True):
+        name = tag.name
+        if re.match(r"placeholder\d+", name):
+            seq.append(name)
+            continue
+        if name not in _STRUCTURAL_TAGS:
+            continue
+        if name == "ref":
+            seq.append(f"ref[{tag.get('ref', '')}]")
+        elif name == "entry":
+            seq.append(f"entry[{tag.get_text().strip()}]")
+        elif name == "sense":
+            seq.append(f"sense[{tag.get_text().strip()}]")
+        elif name == "highlight":
+            seq.append("highlight")
+        else:
+            seq.append(name)
+    return seq
+
+
+def _dedup_highlights(seq):
+    out = []
+    for tag in seq:
+        if tag == "highlight" and out and out[-1] == "highlight":
+            continue
+        out.append(tag)
+    return out
+
+
+def _normalize_tag(t):
+    """Normalize whitespace inside a tag for comparison."""
+    return re.sub(r"\s+", " ", t.strip())
+
+
 def validate_html(orig_html, fr_html, txt_fr_content=None):
     """Core validation: compare French HTML against original, return error messages.
 
@@ -218,6 +284,8 @@ def validate_html(orig_html, fr_html, txt_fr_content=None):
     fr_heb = set(fr["hebrew_texts"])
     for t in orig_heb - fr_heb:
         found.append(f"missing Hebrew/Aramaic: {t}")
+    for t in fr_heb - orig_heb:
+        found.append(f"extra Hebrew/Aramaic not in original: {t}")
 
     # 2. Placeholders preserved
     orig_ph = sorted(orig["placeholder_tags"])
@@ -252,16 +320,6 @@ def validate_html(orig_html, fr_html, txt_fr_content=None):
         found.append(f"missing entry ID: {t}")
 
     # 6. Ref display text: check for untranslated English book abbreviations
-    _ENG_BOOK_ABBREVS = {
-        "Gen", "Exod", "Lev", "Num", "Deut", "Josh", "Judg", "Ruth",
-        "1Sam", "2Sam", "1Kgs", "2Kgs", "1Chr", "2Chr", "Ezra", "Neh",
-        "Esth", "Job", "Prov", "Eccl", "Song", "Isa", "Jer", "Lam",
-        "Ezek", "Dan", "Hos", "Joel", "Amos", "Obad", "Jonah",
-        "Mic", "Nah", "Hab", "Zeph", "Hag", "Zech", "Mal",
-    }
-    _ENG_BOOK_RE = re.compile(
-        r"\b(" + "|".join(re.escape(b) for b in sorted(_ENG_BOOK_ABBREVS, key=lambda x: -len(x))) + r")\b"
-    )
     for tag in fr_soup.find_all("ref"):
         display = tag.get_text()
         display_stripped = normalize_ws(display)
@@ -275,23 +333,6 @@ def validate_html(orig_html, fr_html, txt_fr_content=None):
             found.append(
                 f"colon in <ref> display text (use comma): "
                 f"\"{display_stripped}\" (in <ref ref=\"{ref_attr}\">)")
-
-    # 6b. Lookup display text: check for untranslated English book abbreviations
-    for tag in fr_soup.find_all("lookup"):
-        parts = []
-        for child in tag.children:
-            child_name = getattr(child, "name", None)
-            if child_name in ("sup", "sub", "bdbheb", "bdbarc", "reflink"):
-                continue
-            parts.append(child.get_text() if hasattr(child, "get_text") else str(child))
-        base_text = normalize_ws("".join(parts))
-        if base_text:
-            m = _ENG_BOOK_RE.search(base_text)
-            if m:
-                onclick = tag.get("onclick", "")
-                found.append(
-                    f"English book name in <lookup> display text: "
-                    f"\"{base_text}\" (in <lookup onclick=\"{onclick}\">)")
 
     # 7. French text content present verbatim (if txt_fr provided)
     if txt_fr_content is not None:
@@ -341,54 +382,15 @@ def validate_html(orig_html, fr_html, txt_fr_content=None):
 
     # 9. &amp; should be "et" in French text
     _visible_text = re.sub(r"<[^>]+>", " ", fr_html)
-    _AMP_RE = re.compile(r"&amp;", re.IGNORECASE)
-    amp_count = len(_AMP_RE.findall(_visible_text))
+    amp_count = len(re.findall(r"&amp;", _visible_text, re.IGNORECASE))
     if amp_count:
         found.append(
             f"&amp; in HTML should be \"et\" ({amp_count} occurrence"
             f"{'s' if amp_count > 1 else ''})")
 
     # 10. Tag sequence check
-    _STRUCTURAL_TAGS = {"pos", "primary", "highlight", "descrip", "meta",
-                        "language", "gloss", "sense", "ref", "bdbheb",
-                        "bdbarc", "entry", "lookup", "reflink",
-                        "transliteration"}
-    _HAS_LATIN = re.compile(r"[a-zA-Z\u00C0-\u024F]")
-
-    def _tag_seq(soup):
-        seq = []
-        for tag in soup.find_all(True):
-            name = tag.name
-            if re.match(r"placeholder\d+", name):
-                seq.append(name)
-                continue
-            if name not in _STRUCTURAL_TAGS:
-                continue
-            if name == "ref":
-                seq.append(f"ref[{tag.get('ref', '')}]")
-            elif name == "entry":
-                seq.append(f"entry[{tag.get_text().strip()}]")
-            elif name == "sense":
-                seq.append(f"sense[{tag.get_text().strip()}]")
-            elif name == "highlight":
-                seq.append("highlight")
-            else:
-                seq.append(name)
-        return seq
-
     orig_seq = _tag_seq(orig_soup)
     fr_seq = _tag_seq(fr_soup)
-
-    # Collapse consecutive highlights — merging adjacent highlights is
-    # acceptable because French word order often differs from English,
-    # making 1:1 highlight splits unnatural.
-    def _dedup_highlights(seq):
-        out = []
-        for tag in seq:
-            if tag == "highlight" and out and out[-1] == "highlight":
-                continue
-            out.append(tag)
-        return out
 
     orig_seq_cmp = _dedup_highlights(orig_seq)
     fr_seq_cmp = _dedup_highlights(fr_seq)
@@ -415,7 +417,6 @@ def validate_html(orig_html, fr_html, txt_fr_content=None):
             else:
                 prev_was_hl = False
 
-        import difflib
         sm = difflib.SequenceMatcher(None, orig_seq_cmp, fr_seq_cmp)
         for op, i1, i2, j1, j2 in sm.get_opcodes():
             if op == "equal":
@@ -441,9 +442,33 @@ def validate_html(orig_html, fr_html, txt_fr_content=None):
                     f"tag sequence mismatch: original has "
                     f"{orig_part} but French has {fr_part}")
 
-    # 10b. Empty translated tag content check
-    _TRANSLATED_TAGS = {"pos", "primary", "highlight", "descrip", "meta",
-                        "language", "gloss"}
+    # 10b. Raw tag sequence check (catches extra/missing tags that
+    # BeautifulSoup auto-completes, e.g. </p></html> added by LLM in chunks)
+    orig_raw_tags = [_normalize_tag(m.group()) for m in _RAW_TAG_RE.finditer(orig_html)
+                     if not _RAW_TAG_COVERED.match(m.group())]
+    fr_raw_tags = [_normalize_tag(m.group()) for m in _RAW_TAG_RE.finditer(fr_html)
+                   if not _RAW_TAG_COVERED.match(m.group())]
+
+    if orig_raw_tags != fr_raw_tags:
+        sm = difflib.SequenceMatcher(None, orig_raw_tags, fr_raw_tags)
+        for op, i1, i2, j1, j2 in sm.get_opcodes():
+            if op == "equal":
+                continue
+            orig_part = orig_raw_tags[i1:i2]
+            fr_part = fr_raw_tags[j1:j2]
+            if op == "delete":
+                for t in orig_part:
+                    found.append(f"raw tag missing in French: {t!r}")
+            elif op == "insert":
+                for t in fr_part:
+                    found.append(f"raw tag extra in French: {t!r}")
+            elif op == "replace":
+                for t in orig_part:
+                    found.append(f"raw tag missing in French: {t!r}")
+                for t in fr_part:
+                    found.append(f"raw tag extra in French: {t!r}")
+
+    # 10c. Empty translated tag content check
     orig_ttags = [t for t in orig_soup.find_all(_TRANSLATED_TAGS)]
     fr_ttags = [t for t in fr_soup.find_all(_TRANSLATED_TAGS)]
     for ot, ft in zip(orig_ttags, fr_ttags):
