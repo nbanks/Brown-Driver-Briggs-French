@@ -85,9 +85,10 @@ def build_prompt(template: str, orig_html: str, french_txt: str) -> str:
 CHUNK_NOTE_TEMPLATE = (
     "\n\n## Mode morceau ({idx}/{total})\n\n"
     "Vous recevez un **morceau** d'une entrée, pas l'entrée complète. "
-    "Produisez le HTML uniquement pour ce morceau — n'ajoutez pas "
-    "`<html>`, `<head>` ni `<hr>` sauf s'ils apparaissent dans le "
-    "HTML original ci-dessous.\n"
+    "Produisez le HTML uniquement pour ce morceau. "
+    "Le HTML original ci-dessus peut commencer ou finir au milieu d'une "
+    "page (`<head>` sans `</head>`, etc.) — c'est normal, reproduisez "
+    "exactement la structure fournie.\n"
 )
 
 

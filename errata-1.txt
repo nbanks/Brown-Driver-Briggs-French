@@ -81,3 +81,93 @@ BDB5101 html  chunk 3/3 failed after 3 retries: missing tag in French: <gloss>
 BDB5831 html  chunk 1/1 failed after 3 retries: French text missing from HTML: "mets délicat, délice seulement pluriel ; — מַעֲדַגֵּי מֶלָךְ"
 BDB9381 html  chunk 2/3 failed after 3 retries: French text missing from HTML: "demander, requérir, avec מִן de personne Dn 2,16 (proposition objet avec דִּי"
 BDB6981 html  chunk 1/1 failed after 3 retries: missing Hebrew/Aramaic: ׳; French text nearly matches HTML (diverges near start). txt_fr has ...י;Ges... but HTML has ...s;GesCheComm.eta...; French text missing from HTML: "Di règle (de charpentier) (+ קַו ="; missing tag in French: <bdbheb>
+BDB6961 html  chunk 1/1 failed after 3 retries: French text nearly matches HTML (diverges near start). txt_fr has ...צfigurédel'iniquité,co... but HTML has ...guratifdel'iniquité,co...
+BDB3761 html  chunk 1/1 failed after 3 retries: French text missing from HTML: "(prise en possession, c.-à-d. épousée ?) mère du roi Jotham :"
+BDB5981 html  chunk 2/2 failed after 3 retries: French text nearly matches HTML (diverges near start). txt_fr has ...) ; — souvent + Hesbon... but HTML has ...4 
+      ; — souvent + Hesbon...
+BDB1471 html  chunk 1/1 failed after 3 retries: French text missing from HTML: ", ZimBP 76, et derivatives ; comparer aussi"; &amp; in HTML should be "et" (1 occurrence)
+BDB211 html  chunk 2/2 failed after 3 retries: French text missing from HTML: "1. (comme nom collectif) Nb 26,26."
+BDB211 html  chunk 2/2 failed after 3 retries: French text missing from HTML: "1. (comme nom collectif) Nb 26,26."
+BDB5831 html  chunk 1/1 failed after 3 retries: French text missing from HTML: "mets délicat, délice seulement pluriel ; — מַעֲדַגֵּי מֶלָךְ"
+BDB6551 html  LLM: balise <transliteration> manquante dans le texte français — le mot "Pulu" doit être entouré de <transliteration>...</transliteration> comme dans l'original.
+BDB3931 html  chunk 3/9 failed after 3 retries: French text nearly matches HTML (diverges near start). txt_fr has ...י : Potiphéra אֹן... but HTML has ...s :  Potiphéra  אֹן 
+     ׳ 
+     כ 
+     G...; French text nearly matches HTML (diverges near start). txt_fr has ...) ; כהנים égyptiens... but HTML has ...,20  ( 
+         P 
+     ); égyptiens  כהנים 
+     Gn...; French text nearly matches HTML (97% prefix match). Diverges at: txt_fr has ...alcam Jr 49,3 Mattân... but HTML has ...alcam  Jr 49,3  Mattan
+    était  הבעל 
+     ׳ 
+     כ 
+     2 R 1...
+BDB5581 html  LLM: contenu tronqué — le texte français ne couvre qu'une fraction de l'entrée originale (manque les balises `<meta>` et les références bibliques complètes dans le texte source)
+BDB2241 html  LLM (chunk 1/3): balise `<p>` non fermée dans le HTML produit — la balise `<p>` ouverte dans le texte français doit être fermée par `</p>` à la fin du morceau.
+BDB81 html  LLM: erreur de formatage dans le texte français — le texte `Jos^Ant.«JOSEPHUS:Antiquities 11:6»xi.6^.5` contient des balises de formatage incorrectes (`.^` au lieu de `^`) et une ponctuation incohérente (`»xi.6^.5`) qui ne correspond pas à la structure HTML attendue. Le texte français doit être corrigé pour refléter fidèlement la structure du HTML source (notamment la fermeture des balises `<sup>` et la ponctuation).
+BDB511 html  chunk 2/7 failed after 3 retries: French text nearly matches HTML (diverges near start). txt_fr has ...(1) avec l'imparfait (contin... but HTML has ...):  
+             (1)  avec  imparfait  (contin...; French text nearly matches HTML (diverges near start). txt_fr has ...(2) avec le participe... but HTML has ...+.
+         
+         
+             (2)  avec  participe
+              (exprim...; French text nearly matches HTML (diverges near start). txt_fr has ...avec le parfait (a) de temp... but HTML has ...3) 
+            avec  parfait  (a) de temp...; French text nearly matches HTML (60% prefix match). Diverges at: txt_fr has ...le parfait seul en... but HTML has ...ent par le parfait et waw consécutif o...; French text nearly matches HTML (diverges near start). txt_fr has ...(4) avec l'infinitif une fois... but HTML has ....)
+         
+         
+             (4)  avec  infinitif  une fois...
+BDB5861 html  chunk 1/3 failed after 3 retries: French text nearly matches HTML (46% prefix match). Diverges at: txt_fr has ...עֵדוּת et עֵדֻת... but HTML has ...u biblique 
+ 
+     עֵדוּת  19  et  עֵדֻת  27 
+     nom fé...
+BDB5391 html  chunk 1/1 failed after 3 retries: French text nearly matches HTML (91% prefix match). Diverges at: txt_fr has ...prophétique :... but HTML has ...role
+                prophétique  
+                parole  :
+             2 R 9,25 
+            ;  Es...
+BDB9951 html  chunk 3/3 failed after 3 retries: French text missing from HTML: "Dieu, faire habiter son nom là."
+BDB4351 html  chunk 3/3 failed after 3 retries: English book name in <ref> display text: "Jer 50,5" (in <ref ref="Jer 50:5">); French text nearly matches HTML (80% prefix match). Diverges at: txt_fr has ...י), Jr... but HTML has ...),  
+        Za 2,15  (à  ׳ 
+     י ),  Jer
+        50,5  (à  ׳ 
+     י ),  
+        Gn 29...
+BDB7211 html  chunk 2/3 failed after 3 retries: French text missing from HTML: "1. oiseau isolé, Am 3,5 ; Os 11,11 (comparaison ; || יוֺנָה), Lm 3,52 ; Jb 40..."; French text nearly matches HTML (85% prefix match). Diverges at: txt_fr has ...Dt 4,17,... but HTML has ...נָף כָּלצֿ 
+     Dt 4,17  ;  
+        טְהוֺרָה 
+     ׳ 
+     כָּלצֿ...; French text nearly matches HTML (84% prefix match). Diverges at: txt_fr has ...nid d'oiseau, ׳... but HTML has ...22,6 
+     nid d'oiseau  ;  ׳ 
+     קוֺל הַצּ 
+     Qo 12,4...; French text nearly matches HTML (95% prefix match). Diverges at: txt_fr has ...,5 (comparaison),... but HTML has ...,5  (comparaison) ;  Ne 5,18  ;  Lv 14,4  ( 
+        ש...; French text nearly matches HTML (63% prefix match). Diverges at: txt_fr has ...i. 402, 2e éd. 422), Lv 14,49 (id.),... but HTML has ...i. 402, 2e éd. 422  ) ;  Lv 14,49  ( id. ) ;  Ps...
+BDB4571 html  chunk 1/1 failed after 3 retries: French text missing from HTML: "מ : — en comparaison de la malédiction enveloppant le méchant Ps 109,19 (|| ב..."
+BDB7481 html  LLM (chunk 1/3): le texte français contient « chose acquise, acquisition » alors que le HTML original indique « thing got or aquired, acquisition ». La traduction doit refléter fidèlement le texte source : « chose acquise ou acquise, acquisition » (ou une traduction plus précise de « got or acquired »). De plus, le texte français manque l'espace avant le point-virgule dans « ; absolu » et « ; — ».
+BDB7111 html  chunk 4/4 failed after 3 retries: French text nearly matches HTML (87% prefix match). Diverges at: txt_fr has ...Es 61,11,... but HTML has ...ice, etc.  Es 61,11 b ; comparer aussi  2...; French text nearly matches HTML (56% prefix match). Diverges at: txt_fr has ...de la pluie, faire germer la terre... but HTML has ...de la pluie ,  faire  la terre  germer 
+        (ab...
+BDB3441 html  LLM (chunk 1/4): Le texte français contient "id." (anglais) au lieu de "id." (latin) ou une traduction appropriée, et l'attribut de balise `<highlight>` est mal fermé dans la tentative précédente. Le texte français indique "id." qui est un terme savant latin, donc il doit être conservé tel quel, mais la balise `<highlight>` doit être correctement fermée autour de ce terme dans le HTML. De plus, le texte français ne contient pas de traduction pour "id." (c'est un terme latin standard), donc il doit être conservé. La tentative précédente a mal fermé la balise `<highlight>`.
+BDB7471 html  LLM (chunk 1/2): contenu tronqué — le texte français ne couvre qu'une fraction de l'entrée originale (manque la fin de la phrase et les éléments suivants)
+BDB5941 html  chunk 1/1 failed after 3 retries: French text nearly matches HTML (54% prefix match). Diverges at: txt_fr has ...KitHpt ; voir... but HTML has ...Oettli  Kau 
+     Kit Hpt  .; voir  
+         עַי 
+     ....; missing tag in French: <descrip>
+BDB4671 html  LLM: contenu sévèrement tronqué — le texte français est incomplet (manque la fin de l'entrée avec les références bibliques et les citations savantes) et contient des erreurs de formatage (espaces manquants avant les ponctuations doubles, virgules au lieu de points-virgules dans les références). De plus, le texte français contient des mots anglais non traduits ("Ishtar" au lieu de "Ištar" ou une traduction, mais surtout la structure est brisée). Le texte fourni ne couvre qu'une fraction de l'entrée originale.
+BDB931 html  chunk 1/1 failed after 3 retries: French text nearly matches HTML (90% prefix match). Diverges at: txt_fr has ...rdiale ; Jr 4,23 de la... but HTML has ...rdiale ;  Jr 4,23  de
+    terre sous le jugem...
+BDB3721 html  chunk 4/4 failed after 3 retries: English book name in <ref> display text: "Hab 2,18" (in <ref ref="Hab 2:18">); English book name in <ref> display text: "Hab 2,19" (in <ref ref="Hab 2:19">); French text nearly matches HTML (47% prefix match). Diverges at: txt_fr has ...gnant le mensonge se dit du prophète E... but HTML has ...gnant le mensonge  est utilisé de prop...; missing tag in French: <highlight> (original: "direction" — wrap the French equivalent in <highlight>); missing tag in French: <highlight> (original: "direct thee" — wrap the French equivalent in <highlight>)
+BDB4741 html  chunk 3/4 failed after 3 retries: French text missing from HTML: "Niphal) < lire נִמְאֶסֶת"
+BDB3731 html  chunk 2/2 failed after 3 retries: French text nearly matches HTML (48% prefix match). Diverges at: txt_fr has ...et stolidus fuit ; < Ew et d'autres qui... but HTML has ...et stolidus fuit  ;  Ew  et d'autres qui l...
+BDB5231 html  LLM (chunk 1/5): Le texte français contient "Lzb^323 s.^" alors que le HTML original indique "Lzb<sup>323 f.</sup>". Le "s." (supposé pour "suivante") ne correspond pas au "f." (followed by) de l'original. De plus, la traduction "verser" pour "be-pour" dans la section arabe a été omise dans le HTML précédent (erreur de validation signalée). Le HTML ci-dessous corrige ces deux points : 1) Remplacement de "s." par "f." dans le `<sup>` de Ldzb. 2) Ajout de la traduction "verser" (ou "être versé") pour "be-pour" dans la section arabe, en l'insérant dans une balise `<highlight>` comme demandé par la validation précédente.
+BDB361 html  chunk 1/1 failed after 3 retries: French text nearly matches HTML (diverges near start). txt_fr has ...אַיֵּה (forme allongée de... but HTML has ...יֵּה  45  (forme allongée de...; French text nearly matches HTML (68% prefix match). Diverges at: txt_fr has ...ֵּההֵֿם) ; dans la formule (iron.) où... but HTML has ...ֵּההֵֿם ) ; dans la (iron.) phrase  où e...; &amp; in HTML should be "et" (2 occurrences)
+BDB5181 html  chunk 1/1 failed after 3 retries: French text nearly matches HTML (80% prefix match). Diverges at: txt_fr has ...SSemitic i. 387; 2d ed. 406 f.... but HTML has ...S Semitic i. 387; 2e éd. 406 f  .
+ 
+ 
+ 
+     נִיצוֺץ...
+BDB9171 html  chunk 2/3 failed after 3 retries: French text missing from HTML: "de, avec ב de personne : Parfait 3 masculin singulier הֵ֫תֶל"
+BDB2811 html  chunk 4/6 failed after 3 retries: missing tag in French: <gloss>
+BDB5331 html  LLM (chunk 1/3): référence biblique non convertie « Eccl 43,5 » (devrait être « Qo 43,5 ») et « Eccl 43,13 » (devrait être « Qo 43,13 »)
+BDB4671 html  chunk 1/1 failed after 3 retries: French text nearly matches HTML (84% prefix match). Diverges at: txt_fr has ...use ; peut-être = Ishtar, Vénus,... but HTML has ...use ; peut-être = Ištar, Vénus,
+    compa...
+BDB8511 html  LLM: le texte français contient des erreurs de ponctuation et de structure par rapport au HTML original (espaces manquants autour des parenthèses, virgules mal placées, et manque de balises `<ref>` et `<lookup>` pour certaines références). Le HTML produit doit respecter strictement la structure du HTML original tout en traduisant le texte visible.
+BDB8671 html  LLM (chunk 1/3): le texte français contient des espaces manquants autour des balises `<sub>` (ex: `]_49_` au lieu de `] <sub>49</sub>`), ce qui indique une erreur de formatage dans la source. Le HTML doit refléter la structure correcte avec les espaces appropriés.
+BDB3671 html  chunk 1/4 failed after 3 retries: French text nearly matches HTML (58% prefix match). Diverges at: txt_fr has ..., couler, fondre (talmudique id.) —... but HTML has ..., couler, fondre  (Talmud  id. ) —...
+BDB2031 html  LLM (chunk 1/3): Le texte français contient "id." (anglais non traduit) qui devrait être "id." (latin) ou "même" (français), mais surtout, le texte français indique "id." sans balise `<highlight>`, alors que l'original anglais a `<highlight>id.</highlight>`. De plus, le texte français a "Spieg^APK 225^" mais l'original a `<lookup onclick="bdbabb('Spieg')">Spieg<sup>APK 225</sup></lookup>`. Il faut s'assurer que le `<highlight>` entoure bien "id." dans le HTML final.

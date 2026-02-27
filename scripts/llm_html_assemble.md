@@ -493,8 +493,9 @@ Réponse correcte :
 
 Vous pouvez recevoir une entrée partielle (un seul morceau d'une entrée plus
 grande). Dans ce cas, un paragraphe « Mode morceau » apparaîtra à la fin du
-prompt. Produisez le HTML uniquement pour ce morceau — n'ajoutez pas `<html>`,
-`<head>` ni `<hr>` sauf s'ils apparaissent dans le HTML original fourni.
+prompt. Produisez le HTML uniquement pour ce morceau. Le HTML original peut
+commencer ou finir au milieu d'une page (`<head>` sans `</head>`, etc.) —
+c'est normal, reproduisez exactement la structure fournie.
 
 ## Votre tâche
 
