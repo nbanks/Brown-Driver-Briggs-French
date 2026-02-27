@@ -339,7 +339,7 @@ Dt 20,5
 ;
 Dt 20,6 ; Dt
 20,7 ; Jg
-10,18, comparer Ps 25,12. Avec la 1ʳᵉ
+10,18, comparer Ps 25,12. Avec la 1re
 personne dans l'apodose,
 Ex 32,33
 חָטָא לִי אֶמְחֶגּוּ מִסִּפְרִי מִי אֲשֶׁר, Jr 49,19 ( = Jr 50,44)

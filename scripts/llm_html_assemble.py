@@ -217,6 +217,7 @@ def _generate_chunk(bdb_id: str, idx: int, n: int,
     errors = prev_errors
     prompt_kb_total = 0.0
     history: list[tuple[str, list[str]]] = []  # (output, errors) per attempt
+    errata_reason = None
 
     for attempt in range(1, max_retries + 1):
         # Skip if already clean (warm-start found no errors)
@@ -272,6 +273,10 @@ def _generate_chunk(bdb_id: str, idx: int, n: int,
 
         errata_reason = check_llm_errata(raw)
         if errata_reason:
+            if on_attempt:
+                on_attempt(attempt, errata=True)
+            if smart_server:
+                break  # fall through to smart server
             return None, prompt_kb_total, attempt, [], errata_reason
 
         output = extract_html(raw)
@@ -280,17 +285,28 @@ def _generate_chunk(bdb_id: str, idx: int, n: int,
         if not errors:
             return output, prompt_kb_total, attempt, [], None
 
-    # Exhausted retries — try smart server if available
-    if smart_retries and errors:
+    # Exhausted retries or errata — try smart server if available
+    if smart_server and smart_retries and (errors or errata_reason):
         for smart_attempt in range(1, smart_retries + 1):
             if is_chunked:
                 base = build_chunk_prompt(template, orig_html, txt_fr, idx, n)
             else:
                 base = build_prompt(template, orig_html, txt_fr)
 
-            history.append((output, errors))
-            prompt = base + _build_retry_suffix(history,
-                                                is_chunk=is_chunked)
+            if errata_reason and not errors:
+                # Normal model flagged errata — tell smart model
+                prompt = base + (
+                    f"\n\n## ⚠️ Note du modèle précédent\n\n"
+                    f"Un modèle moins capable a signalé cette entrée comme"
+                    f" ERRATA : « {errata_reason} ».\n"
+                    f"Examinez l'entrée et produisez le HTML si possible."
+                    f" Si le problème est réel et incontournable,"
+                    f" vous pouvez aussi signaler ERRATA.")
+                errata_reason = None  # reset so subsequent retries use normal suffix
+            else:
+                history.append((output, errors))
+                prompt = base + _build_retry_suffix(history,
+                                                    is_chunk=is_chunked)
             prompt_kb = len(prompt.encode("utf-8")) / 1024
             prompt_kb_total += prompt_kb
 
@@ -677,16 +693,25 @@ def main():
 
         try_chars = 0
 
-        def on_attempt(n, smart=False):
+        def on_attempt(n, smart=False, errata=False):
             nonlocal try_chars
             if sequential:
+                if errata:
+                    if args.smart_server:
+                        label = " ERRATA?"
+                        s = " \033[1;33mERRATA?\033[0m"
+                        try_chars += len(label)
+                        sys.stdout.write(s)
+                        sys.stdout.flush()
+                    return
                 if n == 1:
                     return  # silent on first attempt
                 if smart:
-                    s = f" S{n - args.max_retries}"
+                    label = f" S{n - args.max_retries}"
+                    s = f" \033[1;33mS{n - args.max_retries}\033[0m"
                 else:
-                    s = f" try {n}" if n == 2 else f" {n}"
-                try_chars += len(s)
+                    label = s = f" try {n}" if n == 2 else f" {n}"
+                try_chars += len(label)
                 sys.stdout.write(s)
                 sys.stdout.flush()
 

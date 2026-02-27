@@ -48,6 +48,13 @@ def _color_status(status: str) -> str:
     return status
 
 
+def _color_text(text: str, status: str) -> str:
+    """Wrap arbitrary text in the ANSI color for *status*."""
+    if _USE_COLOR and status in _STATUS_COLORS:
+        return f"{_STATUS_COLORS[status]}{text}{_RESET}"
+    return text
+
+
 def fmt_kb(kb: float) -> str:
     """Format a KB value as an integer string, minimum 1."""
     return str(max(1, round(kb)))
@@ -282,12 +289,12 @@ def run_pipeline(items, process_fn, *, name_fn=None, size_fn=None,
             else:
                 eta_str = f"{eta_m}m{eta_s:02d}s"
 
-            status_pad = f"{status:<7s}"
             if note:
-                status_pad = f"{status} {note}"
-                # Pad to at least 7+len(note) so timing still aligns
-                status_pad = f"{status_pad:<16s}"
-            colored = _color_status(status) + status_pad[len(status):]
+                plain = f"{status} {note}"
+            else:
+                plain = status
+            pad = max(0, 10 - len(plain))
+            colored = _color_text(plain, status) + " " * pad
             suffix = (f"  {colored} {elapsed:6.1f}s "
                       f"avg={avg:5.1f}s ETA {eta_str}")
             if show_progress:

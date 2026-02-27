@@ -63,14 +63,15 @@ Format : virgule entre chapitre et verset (Gn 35,8) et non deux-points (Gen 35:8
 
 ## Règles critiques
 
-1. **Sortie UNIQUEMENT HTML** — pas d'explication, pas de balises markdown (```), pas de commentaire.
+1. **Sortie UNIQUEMENT HTML** — pas d'explication, pas de balises markdown (```), pas de commentaire. Exception : si vous détectez une erreur, répondez uniquement avec `>>> ERRATA:`.
 2. **Chaque balise de l'original doit apparaître** dans votre sortie — ne supprimez aucune balise.
 3. **L'imbrication des balises doit correspondre exactement** à l'original.
 4. Si le texte français n'a pas de traduction pour un passage, utilisez l'original anglais tel quel plutôt que de l'omettre.
 5. **Aucun mot anglais** ne doit subsister dans la sortie (sauf dans `<reflink>`, `<transliteration>`, les codes savants dans `<lookup>` comme Dl/Dr/Kö, et les noms propres de savants modernes).
 6. **Préservez les voyelles hébraïques** (nikkud) caractère par caractère.
 7. **Typographie française** : espace avant les ponctuations doubles (` ;` ` :` ` ?` ` !`) et à l'intérieur des guillemets (`« texte »`).
-8. **Reproduisez la ponctuation du texte français exactement** — ne changez pas les virgules en points-virgules ou inversement. Le texte français (`Entries_txt_fr`) est la référence ; le HTML doit le refléter fidèlement, y compris la ponctuation entre les références.
+8. **Reproduisez le texte français exactement** — ne changez pas les virgules en points-virgules ou inversement, ne remplacez pas un mot par un synonyme. Le texte français (`Entries_txt_fr`) est la référence ; le HTML doit le refléter fidèlement. Exemples de substitutions interdites : `figuré` → `figuratif`, `construit` → `construct`, `nom collectif` → `collectif nom`.
+9. **Éditions savantes** : les références bibliographiques comme `2e éd.`, `3e éd.` doivent être reproduites telles quelles depuis le texte français — ne pas revenir à l'anglais `2nd ed.`.
 
 ## Exemples complets
 
@@ -338,7 +339,7 @@ Si vous produisez ceci pour BDB200 :
 
 C'est **FAUX** — le texte affiché doit être `1 Ch 7,16` (abréviation française, virgule). Les attributs `ref="1Chr 7:16"` restent inchangés.
 
-### ❌ Erreur 3 — Copie de l'anglais au lieu de traduction
+### ❌ Erreur 5 — Copie de l'anglais au lieu de traduction
 
 Si vous produisez ceci pour BDB200 :
 ```html
@@ -347,7 +348,7 @@ Si vous produisez ceci pour BDB200 :
 
 C'est **FAUX** — c'est une copie de l'anglais. Le texte français indique `nom propre, masculin` et `seulement généalogie`.
 
-### ❌ Erreur 4 — Balise supprimée
+### ❌ Erreur 6 — Balise supprimée
 
 Si vous omettez `<checkingNeeded />` ou `<wrongReferenceRemoved />` présent dans l'original, c'est une erreur. Ces marqueurs doivent être préservés à leur position exacte.
 
@@ -468,7 +469,23 @@ correcte est `Éphraïm`. Réponse correcte :
 >>> ERRATA: accent manquant sur majuscule « Ephraïm » (devrait être « Éphraïm »)
 ```
 
-**⚠️** Ne signalez ERRATA que si le problème existe réellement dans le texte français fourni ci-dessous.
+### Exemple 4 — défaut dans le HTML source
+
+Si le HTML anglais original contient un défaut structurel (parenthèse
+déséquilibrée, balise non fermée, ponctuation incohérente, etc.), ne le
+corrigez pas silencieusement — signalez-le :
+
+HTML anglais original (extrait) :
+```html
+<lookup onclick="bdbabb('Kau')">K<sup>§ 11,1 b</sup></lookup>)) <ref ref="Dan 2:39"
+```
+
+Réponse correcte :
+```
+>>> ERRATA: parenthèse déséquilibrée « )) » — une seule « ( » ouvrante correspondante
+```
+
+**⚠️** Ne signalez ERRATA que si le problème existe réellement dans le texte français ou le HTML source fournis ci-dessous.
 
 ---
 

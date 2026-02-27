@@ -416,7 +416,8 @@ Modes and their defaults:
                                 fhash, explanation, severity=severity,
                                 col_filename=COL_FILENAME,
                                 col_status=COL_VERDICT, lock=file_lock)
-                return filename, worst, total_kb
+                sev_note = str(worst_sev) if worst_sev > 0 else ""
+                return filename, worst, total_kb, sev_note
 
         # Whole-entry fallback (non-chunked txt, json, html)
         prompt = build_prompt(template, english, french)
@@ -435,7 +436,7 @@ Modes and their defaults:
                         fhash, "too large for context window",
                         col_filename=COL_FILENAME, col_status=COL_VERDICT,
                         lock=file_lock)
-            return filename, "SKIPPED", prompt_kb
+            return filename, "SKIPPED", prompt_kb, ""
 
         if args.debug:
             Path(f"/tmp/llm-verify-debug-{stem}-out.txt").write_text(
@@ -446,7 +447,8 @@ Modes and their defaults:
         save_result(results_path, filename, verdict, timestamp, fhash,
                     explanation, severity=severity, col_filename=COL_FILENAME,
                     col_status=COL_VERDICT, lock=file_lock)
-        return filename, verdict, prompt_kb
+        sev_note = str(severity) if severity > 0 else ""
+        return filename, verdict, prompt_kb, sev_note
 
     def file_size_kb(item):
         """French file size in KB (shown before LLM call starts)."""

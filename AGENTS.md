@@ -47,6 +47,7 @@ Brown-Driver-Briggs-Enhanced/
         review_errors.py # Liste les entrées signalées non encore revues
         check_hebrew.py # Vérifie la préservation du texte hébreu/araméen
         split_entry.py  # Découpe les entrées en morceaux (stems/senses/sections)
+        dump_chunks.py  # Affiche les morceaux individuels pour réassemblage manuel
     test/               # Tests pour les scripts (check_hebrew, validate_html, etc.)
     llm_verify_txt_results.txt  # Résultats de vérification LLM des Entries_txt_fr/
     bdbToStrongsMapping.csv
@@ -397,8 +398,8 @@ Ces erreurs ont été les plus courantes lors de la première passe de traductio
   écrire `et` dans le texte courant. Exception : dans les sigles savants
   (p. ex. `B & Co`), conserver tel quel.
 - **`miles` → `milles`** : Unité de distance, toujours franciser.
-- **Conventions de numérotation** : `1st` → `1ᵉʳ`, `2nd` → `2ᵉ`, `3rd` → `3ᵉ`,
-  `ed.` → `éd.`
+- **Conventions de numérotation** : `1st` → `1er`, `2nd` → `2e`, `3rd` → `3e`,
+  `ed.` → `éd.` (y compris dans les références savantes : `2nd ed.` → `2e éd.`)
 - **Abréviations savantes anglaises courantes** :
   `ff.` → `ss.`, `Eng. Tr.` → `trad. angl.`, `viz.` → `c.-à-d.`,
   `i.e.` → `c.-à-d.`, `e.g.` → `p. ex.` (`cf.` reste `cf.`)
@@ -410,6 +411,9 @@ Ces erreurs ont été les plus courantes lors de la première passe de traductio
   `the`), préposition (`in`, `of`, `on`, `for`) ou conjonction (`and`, `but`,
   `or`) anglais ne subsiste dans le texte français. C'est l'erreur la plus
   insidieuse — elle échappe à une relecture rapide.
+- **`figuré` et non `figuratif`** : Le BDB utilise « figurative » pour
+  qualifier un sens métaphorique. La traduction standard est `figuré` (pas
+  `figuratif`). Utiliser systématiquement `figuré` dans tout le corpus.
 
 ### Traduction des noms propres et lieux
 
@@ -579,14 +583,43 @@ garde les deux fichiers synchronisés et les corrections sont traçables via git
 Consignez le problème dans `errata-N.txt` (voir « Gestion des erreurs »).
 Ne bloquez jamais sur une entrée problématique.
 
+**Étape 3 automatisée : `scripts/llm_html_assemble.py`** traite les entrées en
+lot via un serveur LLM local. Pour les entrées trop volumineuses (>30KB par
+morceau), le LLM local peut échouer. Dans ce cas, utiliser le réassemblage
+manuel morceau par morceau (voir ci-dessous).
+
+**Étape 3 manuelle : réassemblage par morceaux avec `scripts/dump_chunks.py`**
+
+Pour les entrées que `llm_html_assemble.py` n'arrive pas à traiter (trop
+volumineuses), un agent LLM capable (Claude, etc.) peut faire le réassemblage
+manuellement, un morceau à la fois :
+
+```
+python3 scripts/dump_chunks.py --help           # voir toutes les options
+python3 scripts/dump_chunks.py BDB1045          # lister les morceaux
+python3 scripts/dump_chunks.py BDB1045 1 --html # HTML seul
+```
+
+Accepte aussi des chemins complets (p. ex. `Entries_fr/BDB1045.html`) avec
+auto-détection du type de source.
+
+Flux de travail :
+1. Lister les morceaux pour voir la structure.
+2. Pour chaque morceau, lire le HTML et le txt_fr correspondants.
+3. Produire le HTML français en suivant les mêmes règles que l'étape 3.
+4. Concaténer tous les morceaux et écrire dans `Entries_fr/BDBnnn.html`.
+5. Valider avec `python3 scripts/validate_html.py BDBnnn`.
+
 **Étape 4 : Validation** (`scripts/validate_html.py`, déterministe)
 Vérifie que le HTML français préserve tous les éléments de l'original. Exécutée
 **en lot** après les travailleurs — les agents ne valident pas individuellement.
 
 ```
-python3 scripts/validate_html.py            # tout valider
-python3 scripts/validate_html.py BDB17      # une seule entrée
-python3 scripts/validate_html.py --summary  # totaux seulement
+python3 scripts/validate_html.py                    # tout valider
+python3 scripts/validate_html.py BDB17              # une seule entrée
+python3 scripts/validate_html.py --summary          # totaux seulement
+python3 scripts/validate_html.py BDB1045 --chunk 1  # valider le morceau 1
+python3 scripts/validate_html.py BDB1045 --chunk 1 5 # morceaux 1 et 5
 ```
 
 ### Script utilitaire : `scripts/untranslated.py`

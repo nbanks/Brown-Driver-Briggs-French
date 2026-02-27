@@ -10,12 +10,14 @@ For each file in Entries_fr/, this script checks:
 6. The French .txt content (from Entries_txt_fr/) appears verbatim in the
    HTML's visible text (whitespace-normalized comparison of each text
    fragment).
-7. No obvious English remnants (common English words not inside preserved tags).
+7. (removed — redundant with other checks)
 
 Usage:
     python3 scripts/validate_html.py                # validate all
     python3 scripts/validate_html.py BDB17          # validate one entry
     python3 scripts/validate_html.py --summary      # just totals
+    python3 scripts/validate_html.py BDB1045 --chunk 1   # validate chunk 1 only
+    python3 scripts/validate_html.py BDB1045 --chunk 1 5 # validate chunks 1 and 5
 
 Requires: beautifulsoup4, lxml
 """
@@ -27,6 +29,8 @@ import sys
 import warnings
 from collections import Counter
 from bs4 import BeautifulSoup, XMLParsedAsHTMLWarning
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
 
@@ -90,14 +94,53 @@ def normalize_ws(text):
     return re.sub(r"\s+", " ", text).strip()
 
 
-def _find_mismatch(frag, haystack, ctx=15):
+def _stripped_to_orig_map(stripped, original):
+    """Build a mapping from each index in *stripped* to the corresponding
+    index in *original*, where *stripped* = re.sub(r'\\s+', '', original).
+    Returns a list where map[i] is the index into *original* for stripped[i].
+    """
+    mapping = []
+    j = 0
+    for i in range(len(original)):
+        if j >= len(stripped):
+            break
+        if not original[i].isspace() and original[i] == stripped[j]:
+            mapping.append(i)
+            j += 1
+    return mapping
+
+
+def _readable_ctx(stripped, orig, smap, start, end, ctx=20):
+    """Extract a readable (with spaces) context snippet from *orig* around
+    the region [start, end) in *stripped*.  Falls back to *stripped* slice
+    if no mapping is available.
+    """
+    if smap and orig:
+        # Map stripped indices to original indices
+        o_start = smap[max(0, start - ctx)] if start - ctx >= 0 else 0
+        o_end_idx = min(end + ctx, len(smap) - 1) if end + ctx < len(smap) else len(orig)
+        o_end = smap[o_end_idx] + 1 if end + ctx < len(smap) else len(orig)
+        return orig[o_start:o_end].strip()
+    return stripped[max(0, start - ctx):end + ctx]
+
+
+def _find_mismatch(frag, haystack, ctx=15,
+                   frag_orig=None, haystack_orig=None):
     """Find the longest prefix of *frag* that appears in *haystack* and
     return a message showing where they diverge.
 
     Both frag and haystack are whitespace-stripped strings (from
-    normalize_for_compare).  Returns None if no partial match is found
-    (less than 40% of frag matches).
+    normalize_for_compare).  If frag_orig / haystack_orig are provided
+    (the pre-stripped versions), the error message will show readable
+    context with spaces preserved.
+
+    Returns None if no partial match is found (less than 40% of frag
+    matches).
     """
+    # Build index mappings for readable output
+    frag_map = _stripped_to_orig_map(frag, frag_orig) if frag_orig else None
+    hay_map = _stripped_to_orig_map(haystack, haystack_orig) if haystack_orig else None
+
     # Binary-search for the longest matching prefix
     lo, hi = 0, len(frag)
     best_pos = -1
@@ -118,19 +161,21 @@ def _find_mismatch(frag, haystack, ctx=15):
             suffix = frag[suffix_start:]
             spos = haystack.find(suffix)
             if spos != -1:
-                # Found a suffix match — the divergence is in the first
-                # few characters
-                txt_exp = frag[:suffix_start + ctx]
-                txt_got = haystack[max(0, spos - suffix_start):spos + ctx]
+                txt_exp = _readable_ctx(frag, frag_orig, frag_map,
+                                        0, suffix_start + ctx, ctx=0)
+                txt_got = _readable_ctx(haystack, haystack_orig, hay_map,
+                                        max(0, spos - suffix_start),
+                                        spos + ctx, ctx=0)
                 return (f"French text nearly matches HTML (diverges near "
                         f"start). txt_fr has ...{txt_exp}... "
                         f"but HTML has ...{txt_got}...")
         return None  # too little overlap — not a near-miss
 
     # Show context around the divergence point
-    div = best_pos + match_len
-    txt_got = haystack[max(0, div - ctx):div + ctx]
-    txt_exp = frag[max(0, match_len - ctx):match_len + ctx]
+    txt_exp = _readable_ctx(frag, frag_orig, frag_map,
+                            match_len, match_len, ctx)
+    txt_got = _readable_ctx(haystack, haystack_orig, hay_map,
+                            best_pos + match_len, best_pos + match_len, ctx)
     pct = match_len * 100 // len(frag)
     return (f"French text nearly matches HTML ({pct}% prefix match). "
             f"Diverges at: txt_fr has ...{txt_exp}... "
@@ -278,7 +323,9 @@ def validate_html(orig_html, fr_html, txt_fr_content=None):
             if not frag:
                 continue
             if frag not in fr_visible_cmp:
-                diff_msg = _find_mismatch(frag, fr_visible_cmp)
+                diff_msg = _find_mismatch(frag, fr_visible_cmp,
+                                          frag_orig=line,
+                                          haystack_orig=fr_visible)
                 if diff_msg:
                     found.append(diff_msg)
                 else:
@@ -409,19 +456,6 @@ def validate_html(orig_html, fr_html, txt_fr_content=None):
                 f"empty <{ft.name}> tag (original had: "
                 f"\"{orig_text[:50]}\")")
 
-    # 11. English remnant check (heuristic)
-    text_only = re.sub(r"<[^>]+>", " ", fr_html)
-    text_only = re.sub(r"[\u0590-\u05FF]+", "", text_only)
-    text_only = normalize_ws(text_only).lower()
-    english_markers = [
-        " the ", " of the ", " which ", " father ", " mother ",
-        " son of ", "daughter of", " see ",
-        " mourn ", " choose ", "worn out", " gift ",
-    ]
-    for marker in english_markers:
-        if marker in text_only:
-            found.append(f"possible English remnant: '{marker.strip()}'")
-
     return found
 
 
@@ -461,9 +495,88 @@ def validate_file(bdb_id, errors=None, *, entries_dir=None,
     return found
 
 
+def validate_chunks(bdb_id, chunk_indices):
+    """Validate specific chunks of an entry. Returns list of (label, msg)."""
+    from split_entry import split_html, split_txt
+
+    orig_path = os.path.join(ENTRIES_DIR, bdb_id + ".html")
+    fr_path = os.path.join(ENTRIES_FR_DIR, bdb_id + ".html")
+    txt_fr_path = os.path.join(TXT_FR_DIR, bdb_id + ".txt")
+
+    if not os.path.isfile(fr_path):
+        return [(bdb_id, "no Entries_fr file found")]
+
+    orig_html = open(orig_path, encoding="utf-8").read()
+    fr_html = open(fr_path, encoding="utf-8").read()
+    txt_fr_content = None
+    if os.path.isfile(txt_fr_path):
+        txt_fr_content = open(txt_fr_path, encoding="utf-8").read()
+
+    html_chunks = split_html(orig_html)
+    fr_chunks = split_html(fr_html)
+    txt_chunks = split_txt(txt_fr_content) if txt_fr_content else []
+
+    found = []
+    for idx in chunk_indices:
+        label = f"{bdb_id}[{idx}]"
+        if idx >= len(html_chunks):
+            found.append((label, f"chunk {idx} out of range "
+                          f"(orig has {len(html_chunks)} chunks)"))
+            continue
+        if idx >= len(fr_chunks):
+            found.append((label, f"chunk {idx} out of range "
+                          f"(fr has {len(fr_chunks)} chunks)"))
+            continue
+
+        orig_chunk = html_chunks[idx]["html"]
+        fr_chunk = fr_chunks[idx]["html"]
+        txt_chunk = None
+        if txt_chunks and idx < len(txt_chunks):
+            txt_chunk = txt_chunks[idx]["txt"]
+
+        msgs = validate_html(orig_chunk, fr_chunk, txt_chunk)
+        if msgs:
+            for msg in msgs:
+                found.append((label, msg))
+        else:
+            found.append((label, "OK"))
+
+    return found
+
+
 def main():
     summary_only = "--summary" in sys.argv
-    args = [a for a in sys.argv[1:] if not a.startswith("-")]
+    chunk_mode = "--chunk" in sys.argv
+
+    # Parse --chunk indices
+    chunk_indices = []
+    if chunk_mode:
+        ci = sys.argv.index("--chunk")
+        for a in sys.argv[ci + 1:]:
+            if a.startswith("-"):
+                break
+            try:
+                chunk_indices.append(int(a))
+            except ValueError:
+                break
+
+    args = [a for a in sys.argv[1:]
+            if not a.startswith("-") and a not in map(str, chunk_indices)]
+
+    if chunk_mode:
+        if not args:
+            print("Error: --chunk requires a BDB entry ID", file=sys.stderr)
+            return 1
+        bdb_id = args[0]
+        if not bdb_id.startswith("BDB"):
+            bdb_id = "BDB" + bdb_id
+        results = validate_chunks(bdb_id, chunk_indices)
+        ok = True
+        for label, msg in results:
+            print(f"  {label}: {msg}")
+            if msg != "OK":
+                ok = False
+        return 0 if ok else 1
 
     if args:
         bdb_ids = args
