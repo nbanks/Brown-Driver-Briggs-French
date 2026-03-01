@@ -218,8 +218,14 @@ class TestTagStructure(unittest.TestCase):
         self.assertEqual(len(tag_issues), 0,
                          f"Adjacent highlight merge should be allowed: {issues}")
 
-    def test_highlight_truly_missing_flagged(self):
-        """A highlight separated by other structural tags should be flagged."""
+    def test_highlight_unwrapped_accepted(self):
+        """A highlight absorbed into plain text is OK (content still present).
+
+        French translations often merge or drop highlight wrappers when
+        word order changes.  The text content check (check 7) catches
+        genuinely missing content, so the tag sequence check should not
+        flag highlights that moved or were unwrapped.
+        """
         orig = (
             '<html><head></head><body>'
             '<language>Biblical Hebrew</language>'
@@ -238,9 +244,9 @@ class TestTagStructure(unittest.TestCase):
         )
         issues = validate_html(orig, fr)
         tag_issues = [i for i in issues if "highlight" in i.lower()
-                      and "missing" in i.lower()]
-        self.assertTrue(len(tag_issues) >= 1,
-                        f"Should flag missing <highlight>: {issues}")
+                      and ("missing" in i.lower() or "mismatch" in i.lower())]
+        self.assertEqual(tag_issues, [],
+                         f"Unwrapped highlight should be allowed: {tag_issues}")
 
     def test_backtick_stem_notation_passes(self):
         orig = (
@@ -907,6 +913,98 @@ class TestExtraHebrew(unittest.TestCase):
                          f"False positive on matching Hebrew: {extra}")
 
 
+class TestAmpersandScholarly(unittest.TestCase):
+    """&amp; in scholarly sigla (present in original) should be allowed in
+    French HTML. Bare & (not &amp;) should be flagged as bad encoding."""
+
+    # Based on BDB107 — shortest entry with scholarly &
+    _ORIG = (
+        '<html><head><link rel="stylesheet" href="style.css"></head>\n'
+        '<h1>\n'
+        '    <entry onclick="bdbid(\'BDB107\')">BDB107</entry>\n'
+        '</h1>\n'
+        '<language>Biblical Hebrew</language>\n'
+        '<p>I. <bdbheb>\u05D0\u05D3\u05DD</bdbheb> (compare Assyrian '
+        '[<highlight>ad\u00e2mu</highlight>] '
+        '<highlight>make, produce</highlight> (?)\n'
+        '    <lookup onclick="bdbabb(\'Dl\')">Dl<sup>W</sup> &amp; '
+        '<sup>Prov 104</sup></lookup>). </p>\n'
+        '<hr>\n\n</html>'
+    )
+
+    _TXT_FR = (
+        "=== BDB107 ===\n"
+        "h\u00e9breu biblique\n"
+        "\n"
+        "I. \u05D0\u05D3\u05DD (comparer assyrien [ad\u00e2mu] "
+        "faire, produire (?)\n"
+        "Dl^W^ & ^Pr 104^).\n"
+        "\n"
+        "---\n"
+    )
+
+    def test_scholarly_ampersand_kept_as_amp_passes(self):
+        """French HTML keeps &amp; from original (scholarly sigla) — no error."""
+        fr = (
+            '<html><head><link rel="stylesheet" href="style.css"></head>\n'
+            '<h1>\n'
+            '    <entry onclick="bdbid(\'BDB107\')">BDB107</entry>\n'
+            '</h1>\n'
+            '<language>h\u00e9breu biblique</language>\n'
+            '<p>I. <bdbheb>\u05D0\u05D3\u05DD</bdbheb> (comparer assyrien '
+            '[<highlight>ad\u00e2mu</highlight>] '
+            '<highlight>faire, produire</highlight> (?)\n'
+            '    <lookup onclick="bdbabb(\'Dl\')">Dl<sup>W</sup> &amp; '
+            '<sup>Pr 104</sup></lookup>). </p>\n'
+            '<hr>\n\n</html>'
+        )
+        issues = validate_html(self._ORIG, fr, self._TXT_FR)
+        amp_issues = [i for i in issues if "&amp;" in i or "ampersand" in i.lower()]
+        self.assertEqual(amp_issues, [],
+                         f"Scholarly &amp; should not be flagged: {amp_issues}")
+
+    def test_bare_ampersand_in_html_flagged(self):
+        """French HTML has bare & instead of &amp; — should be flagged."""
+        fr = (
+            '<html><head><link rel="stylesheet" href="style.css"></head>\n'
+            '<h1>\n'
+            '    <entry onclick="bdbid(\'BDB107\')">BDB107</entry>\n'
+            '</h1>\n'
+            '<language>h\u00e9breu biblique</language>\n'
+            '<p>I. <bdbheb>\u05D0\u05D3\u05DD</bdbheb> (comparer assyrien '
+            '[<highlight>ad\u00e2mu</highlight>] '
+            '<highlight>faire, produire</highlight> (?)\n'
+            '    <lookup onclick="bdbabb(\'Dl\')">Dl<sup>W</sup> & '
+            '<sup>Pr 104</sup></lookup>). </p>\n'
+            '<hr>\n\n</html>'
+        )
+        issues = validate_html(self._ORIG, fr, self._TXT_FR)
+        amp_issues = [i for i in issues
+                      if "bare" in i.lower() or "unescaped" in i.lower()
+                      or ("&" in i and "amp" in i.lower())]
+        self.assertTrue(len(amp_issues) >= 1,
+                        f"Should flag bare & (not &amp;): {issues}")
+
+    def test_ampersand_not_in_original_still_flagged(self):
+        """French HTML has &amp; where original does NOT — should be flagged."""
+        orig_no_amp = (
+            '<html><head></head><body>'
+            '<language>Biblical Hebrew</language>'
+            '<p><pos>verb</pos> <primary>mourn</primary></p>'
+            '</body></html>'
+        )
+        fr_with_amp = (
+            '<html><head></head><body>'
+            '<language>h\u00e9breu biblique</language>'
+            '<p><pos>verbe</pos> <primary>pleurer</primary> &amp; plus</p>'
+            '</body></html>'
+        )
+        issues = validate_html(orig_no_amp, fr_with_amp)
+        amp_issues = [i for i in issues if "&amp;" in i]
+        self.assertTrue(len(amp_issues) >= 1,
+                        f"Should flag &amp; not in original: {issues}")
+
+
 class TestEmptyTagContent(unittest.TestCase):
     """Empty translated tags when original has content should be flagged."""
 
@@ -928,6 +1026,294 @@ class TestEmptyTagContent(unittest.TestCase):
         empty = [i for i in issues if "empty" in i.lower() and "pos" in i]
         self.assertTrue(len(empty) >= 1,
                         f"Should flag empty <pos>: {issues}")
+
+
+class TestHighlightCombined(unittest.TestCase):
+    """Highlights may be combined when French merges two glosses.
+
+    BDB4826: English has two separate highlights around a <descrip>
+    boundary: '<highlight>the days of their</highlight>
+    <descrip>(bodily) <highlight>rubbings</highlight>'.
+    The French folds "rubbings" into the <descrip> without a
+    separate highlight, reducing the count from 2 to 1.
+    """
+
+    # Based on BDB4826 (מָרוּק)
+    ORIG = (
+        '<html><head></head><body>'
+        '<h1><entry onclick="bdbid(\'BDB4826\')">BDB4826</entry>'
+        ' [<entry onclick="sn(\'H4795\')">H4795</entry>]</h1>'
+        '<language>Biblical Hebrew</language>'
+        '<p> [<bdbheb>\u05DE\u05B8\u05E8\u05D5\u05BC\u05E7</bdbheb>]'
+        ' <pos>noun [masculine]</pos>'
+        ' <primary>a scraping, rubbing</primary>; \u2014 only plural'
+        ' suffix <bdbheb>\u05D9\u05B0\u05DE\u05B5\u05D9'
+        ' \u05DE\u05B0\u05E8\u05D5\u05BC\u05E7\u05B5\u05D9\u05D4\u05B6\u05DF</bdbheb>'
+        ' <ref ref="Esth 2:12" b="17" cBegin="2" vBegin="12"'
+        ' cEnd="2" vEnd="12" onclick="bcv(17,2,12)">Esth 2:12</ref>'
+        ' literally <highlight>the days of their</highlight>'
+        ' <descrip>(bodily) <highlight>rubbings</highlight>,'
+        ' i.e. the year\'s preparation of girls for the'
+        ' harem</descrip>.'
+        '</p></body></html>'
+    )
+
+    FR = (
+        '<html><head></head><body>'
+        '<h1><entry onclick="bdbid(\'BDB4826\')">BDB4826</entry>'
+        ' [<entry onclick="sn(\'H4795\')">H4795</entry>]</h1>'
+        '<language>h\u00e9breu biblique</language>'
+        '<p> [<bdbheb>\u05DE\u05B8\u05E8\u05D5\u05BC\u05E7</bdbheb>]'
+        ' <pos>nom [masculin]</pos>'
+        ' <primary>frottement, onction</primary> ; \u2014 seulement'
+        ' pluriel suffixe <bdbheb>\u05D9\u05B0\u05DE\u05B5\u05D9'
+        ' \u05DE\u05B0\u05E8\u05D5\u05BC\u05E7\u05B5\u05D9\u05D4\u05B6\u05DF</bdbheb>'
+        ' <ref ref="Esth 2:12" b="17" cBegin="2" vBegin="12"'
+        ' cEnd="2" vEnd="12" onclick="bcv(17,2,12)">Est 2,12</ref>'
+        ' litt\u00e9ralement'
+        ' <highlight>les jours de leurs</highlight>'
+        ' <descrip>frottements (corporels),'
+        ' c.-\u00e0-d. l\'ann\u00e9e de pr\u00e9paration des jeunes'
+        ' filles pour le harem</descrip>.'
+        '</p></body></html>'
+    )
+
+    def test_highlight_combined_accepted(self):
+        """A highlight absorbed into surrounding text should not cause tag errors."""
+        issues = validate_html(self.ORIG, self.FR)
+        tag_issues = [i for i in issues
+                      if "tag" in i.lower() and "highlight" in i.lower()]
+        self.assertEqual(tag_issues, [],
+                         f"Highlight merge flagged as error: {tag_issues}")
+
+
+class TestHighlightAllDropped(unittest.TestCase):
+    """All highlights stripped from a section should be flagged."""
+
+    def test_all_highlights_dropped_flagged(self):
+        """Original has 3 highlights, French has 0 — should be flagged."""
+        orig = (
+            '<html><head></head><body>'
+            '<language>Biblical Hebrew</language>'
+            '<p><bdbheb>\u05D0</bdbheb> <pos>verb</pos>'
+            ' <primary>mourn</primary>'
+            ' <highlight>chosen</highlight>'
+            ' <bdbheb>\u05D1</bdbheb>'
+            ' <highlight>elect</highlight>'
+            ' <descrip>always the <highlight>chosen</highlight>'
+            ' of Yahweh</descrip>'
+            '</p></body></html>'
+        )
+        fr = (
+            '<html><head></head><body>'
+            '<language>h\u00e9breu biblique</language>'
+            '<p><bdbheb>\u05D0</bdbheb> <pos>verbe</pos>'
+            ' <primary>pleurer</primary>'
+            ' choisi'
+            ' <bdbheb>\u05D1</bdbheb>'
+            ' \u00e9lu'
+            ' <descrip>toujours le choisi de Yahv\u00e9</descrip>'
+            '</p></body></html>'
+        )
+        issues = validate_html(orig, fr)
+        hl_issues = [i for i in issues if "highlight" in i.lower()]
+        self.assertTrue(len(hl_issues) >= 1,
+                        f"Should flag all highlights dropped: {issues}")
+
+    def test_some_highlights_remaining_ok(self):
+        """Original has 3 highlights, French has 1 — should be allowed."""
+        orig = (
+            '<html><head></head><body>'
+            '<language>Biblical Hebrew</language>'
+            '<p><bdbheb>\u05D0</bdbheb> <pos>verb</pos>'
+            ' <primary>mourn</primary>'
+            ' <highlight>chosen</highlight>'
+            ' <bdbheb>\u05D1</bdbheb>'
+            ' <highlight>elect</highlight>'
+            ' <descrip>always the <highlight>chosen</highlight>'
+            ' of Yahweh</descrip>'
+            '</p></body></html>'
+        )
+        fr = (
+            '<html><head></head><body>'
+            '<language>h\u00e9breu biblique</language>'
+            '<p><bdbheb>\u05D0</bdbheb> <pos>verbe</pos>'
+            ' <primary>pleurer</primary>'
+            ' choisi'
+            ' <bdbheb>\u05D1</bdbheb>'
+            ' \u00e9lu'
+            ' <descrip>toujours le <highlight>choisi</highlight>'
+            ' de Yahv\u00e9</descrip>'
+            '</p></body></html>'
+        )
+        issues = validate_html(orig, fr)
+        hl_issues = [i for i in issues
+                     if "highlight" in i.lower() and "all" in i.lower()]
+        self.assertEqual(hl_issues, [],
+                         f"Partial highlights should be allowed: {hl_issues}")
+
+
+class TestHighlightReorder(unittest.TestCase):
+    """Highlight tags may shift position due to French word-order changes.
+
+    BDB5081 chunk 1: English "'s hand" (highlight after bdbheb) becomes
+    French "main de" (highlight before bdbheb) — possessive reversal.
+    The validator should accept this reordering.
+    """
+
+    ORIG = (
+        '<html><head></head><body>'
+        '<div class="sense">'
+        '    <sense>1.</sense>'
+        '    <gloss>a swinging, brandishing</gloss>, '
+        '    <bdbheb>\u05F3</bdbheb>'
+        '    <bdbheb>\u05D9\u05B7\u05D3 \u05D9</bdbheb>'
+        '    <bdbheb>\u05F3</bdbheb>'
+        '    <bdbheb>\u05EA</bdbheb>'
+        '    <ref ref="Isa 19:16" b="23" cBegin="19" vBegin="16"'
+        '     cEnd="19" vEnd="16" onclick="bcv(23,19,16)">Isa 19:16</ref>'
+        '    <highlight>the brandishing of</highlight>'
+        '    <bdbheb>\u05F3</bdbheb>'
+        '    <bdbheb>\u05D9</bdbheb>\'s <highlight>hand</highlight>'
+        '    (in hostility); <bdbheb>\u05F3</bdbheb>'
+        '    <bdbheb>\u05DE\u05B4\u05DC\u05B0\u05D4\u05B2\u05DE\u05D5\u05BA\u05EA \u05EA</bdbheb>'
+        '    <ref ref="Isa 30:32" b="23" cBegin="30" vBegin="32"'
+        '     cEnd="30" vEnd="32" onclick="bcv(23,30,32)">Isa 30:32</ref>'
+        '    <highlight>battles of brandishing</highlight>'
+        '    (brandished weapons).'
+        '</div>'
+        '</body></html>'
+    )
+
+    # French: highlight for "main" moved before bdbheb (possessive reversal)
+    FR_REORDERED = (
+        '<html><head></head><body>'
+        '<div class="sense">'
+        '    <sense>1.</sense>'
+        '    <gloss>un balancement, un brandissement</gloss>, '
+        '    <bdbheb>\u05F3</bdbheb>'
+        '    <bdbheb>\u05D9\u05B7\u05D3 \u05D9</bdbheb>'
+        '    <bdbheb>\u05F3</bdbheb>'
+        '    <bdbheb>\u05EA</bdbheb>'
+        '    <ref ref="Isa 19:16" b="23" cBegin="19" vBegin="16"'
+        '     cEnd="19" vEnd="16" onclick="bcv(23,19,16)">Es 19,16</ref>'
+        '    <highlight>le brandissement de la</highlight>'
+        '    <highlight>main</highlight> de'
+        '    <bdbheb>\u05F3</bdbheb>'
+        '    <bdbheb>\u05D9</bdbheb>'
+        '    (en hostilit\u00e9) ; <bdbheb>\u05F3</bdbheb>'
+        '    <bdbheb>\u05DE\u05B4\u05DC\u05B0\u05D4\u05B2\u05DE\u05D5\u05BA\u05EA \u05EA</bdbheb>'
+        '    <ref ref="Isa 30:32" b="23" cBegin="30" vBegin="32"'
+        '     cEnd="30" vEnd="32" onclick="bcv(23,30,32)">Es 30,32</ref>'
+        '    <highlight>batailles de brandissement</highlight>'
+        '    (armes brandies).'
+        '</div>'
+        '</body></html>'
+    )
+
+    TXT_FR = (
+        "1.\n"
+        "un balancement, un brandissement, \u05F3\n"
+        "\u05D9\u05B7\u05D3 \u05D9\n"
+        "\u05F3\n"
+        "\u05EA\n"
+        "Es 19,16\n"
+        "le brandissement de la\n"
+        "main de \u05F3\n"
+        "\u05D9 (en hostilit\u00e9) ; \u05F3\n"
+        "\u05DE\u05B4\u05DC\u05B0\u05D4\u05B2\u05DE\u05D5\u05BA\u05EA \u05EA\n"
+        "Es 30,32\n"
+        "batailles de brandissement (armes brandies).\n"
+    )
+
+    def test_highlight_reorder_accepted(self):
+        """Highlight moving due to French word order should not cause errors."""
+        issues = validate_html(self.ORIG, self.FR_REORDERED, self.TXT_FR)
+        tag_issues = [i for i in issues
+                      if "tag" in i.lower() and "highlight" in i.lower()]
+        self.assertEqual(tag_issues, [],
+                         f"Highlight reorder flagged as error: {tag_issues}")
+
+    def test_highlight_reorder_no_text_mismatch(self):
+        """Text content check should pass despite highlight reordering."""
+        issues = validate_html(self.ORIG, self.FR_REORDERED, self.TXT_FR)
+        text_issues = [i for i in issues
+                       if "French text" in i and "match" in i.lower()]
+        self.assertEqual(text_issues, [],
+                         f"Text mismatch from highlight reorder: {text_issues}")
+
+
+class TestFrenchArticlesPrepositions(unittest.TestCase):
+    """French prose has articles/contractions absent in English.
+
+    The LLM sometimes calques the English structure, dropping French
+    articles like 'du', 'des', 'd'une', 'de la'. The validator must
+    catch these as text mismatches (BDB9814-style errors).
+    """
+
+    ORIG = (
+        '<html><head></head><body>'
+        '<language>Biblical Aramaic</language>'
+        '<p><bdbarc>\u05E4\u05BB\u05BC\u05DD</bdbarc>'
+        ' <pos>noun masculine</pos>'
+        ' <primary>mouth</primary>'
+        ' — <gloss>mouth</gloss> of'
+        ' king, lions, beast (in vision),'
+        ' <highlight>mouth</highlight> of pit.</p>'
+        '</body></html>'
+    )
+
+    # Correct French: articles present (du roi, des lions, etc.)
+    FR_CORRECT = (
+        '<html><head></head><body>'
+        '<language>araméen biblique</language>'
+        '<p><bdbarc>\u05E4\u05BB\u05BC\u05DD</bdbarc>'
+        ' <pos>nom masculin</pos>'
+        ' <primary>bouche</primary>'
+        ' — <gloss>bouche</gloss> du'
+        ' roi, des lions, d\'une bête (en vision),'
+        ' <highlight>bouche</highlight> de la fosse.</p>'
+        '</body></html>'
+    )
+
+    # Incorrect French: calque of English, missing articles
+    FR_BAD = (
+        '<html><head></head><body>'
+        '<language>araméen biblique</language>'
+        '<p><bdbarc>\u05E4\u05BB\u05BC\u05DD</bdbarc>'
+        ' <pos>nom masculin</pos>'
+        ' <primary>bouche</primary>'
+        ' — <gloss>bouche</gloss> de'
+        ' roi, lions, bête (en vision),'
+        ' <highlight>bouche</highlight> de fosse.</p>'
+        '</body></html>'
+    )
+
+    TXT_FR = (
+        "=== BDB9814 H6310 ===\n"
+        "araméen biblique\n"
+        "\n"
+        "\u05E4\u05BB\u05BC\u05DD\n"
+        "nom masculin\n"
+        "bouche\n"
+        "— bouche du roi, des lions, d'une bête (en vision),\n"
+        "bouche de la fosse.\n"
+    )
+
+    def test_correct_articles_pass(self):
+        """French HTML with proper articles should validate clean."""
+        issues = validate_html(self.ORIG, self.FR_CORRECT, self.TXT_FR)
+        text_issues = [i for i in issues if "French text" in i]
+        self.assertEqual(text_issues, [],
+                         f"False positive on correct articles: {text_issues}")
+
+    def test_missing_articles_detected(self):
+        """French HTML calquing English structure (missing articles) must fail."""
+        issues = validate_html(self.ORIG, self.FR_BAD, self.TXT_FR)
+        text_issues = [i for i in issues
+                       if "French text" in i and ("missing" in i or "match" in i.lower())]
+        self.assertGreater(len(text_issues), 0,
+                           "Missing French articles were not detected")
 
 
 if __name__ == "__main__":

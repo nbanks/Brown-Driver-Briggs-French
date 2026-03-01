@@ -380,13 +380,23 @@ def validate_html(orig_html, fr_html, txt_fr_content=None):
     for r, count in sorted(extra_refs.items()):
         found.append(f"extra ref attribute not in original: {r} (×{count})")
 
-    # 9. &amp; should be "et" in French text
-    _visible_text = re.sub(r"<[^>]+>", " ", fr_html)
-    amp_count = len(re.findall(r"&amp;", _visible_text, re.IGNORECASE))
-    if amp_count:
+    # 9a. &amp; in French that wasn't in original should be "et"
+    _orig_visible = re.sub(r"<[^>]+>", " ", orig_html)
+    _fr_visible = re.sub(r"<[^>]+>", " ", fr_html)
+    orig_amp_count = len(re.findall(r"&amp;", _orig_visible))
+    fr_amp_count = len(re.findall(r"&amp;", _fr_visible))
+    extra_amp = fr_amp_count - orig_amp_count
+    if extra_amp > 0:
         found.append(
-            f"&amp; in HTML should be \"et\" ({amp_count} occurrence"
-            f"{'s' if amp_count > 1 else ''})")
+            f"&amp; in HTML should be \"et\" ({extra_amp} occurrence"
+            f"{'s' if extra_amp > 1 else ''})")
+
+    # 9b. Bare & (not &amp;) in French HTML — bad encoding
+    bare_amp = len(re.findall(r"&(?!amp;|lt;|gt;|quot;|apos;|#)", fr_html))
+    if bare_amp:
+        found.append(
+            f"bare & in HTML (should be &amp; or \"et\") ({bare_amp} "
+            f"occurrence{'s' if bare_amp > 1 else ''})")
 
     # 10. Tag sequence check
     orig_seq = _tag_seq(orig_soup)
@@ -396,51 +406,69 @@ def validate_html(orig_html, fr_html, txt_fr_content=None):
     fr_seq_cmp = _dedup_highlights(fr_seq)
 
     if orig_seq_cmp != fr_seq_cmp:
-        # Build a map from (deduped) sequence index to original
-        # highlight content for error messages.
-        _orig_highlights = [
-            tag.get_text().strip()
-            for tag in orig_soup.find_all("highlight")
-        ]
-        _highlight_idx = 0
-        _orig_highlight_at = {}  # deduped seq index -> highlight text
-        prev_was_hl = False
-        for si, key in enumerate(orig_seq):
-            if key == "highlight":
-                if not prev_was_hl and _highlight_idx < len(_orig_highlights):
-                    # Find the deduped index for this highlight
-                    deduped_idx = len(_dedup_highlights(orig_seq[:si + 1])) - 1
-                    _orig_highlight_at[deduped_idx] = (
-                        _orig_highlights[_highlight_idx])
-                prev_was_hl = True
-                _highlight_idx += 1
-            else:
-                prev_was_hl = False
+        # Check if the difference is only highlights moving position.
+        # French word order (e.g. possessive reversal) can legitimately
+        # shift <highlight> tags relative to <bdbheb> and other tags.
+        # Adjacent highlights may also merge/split after dedup, so we
+        # only require that non-highlight subsequences are identical.
+        _orig_no_hl = [t for t in orig_seq_cmp if t != "highlight"]
+        _fr_no_hl = [t for t in fr_seq_cmp if t != "highlight"]
+        _highlight_reorder_only = (_orig_no_hl == _fr_no_hl)
 
-        sm = difflib.SequenceMatcher(None, orig_seq_cmp, fr_seq_cmp)
-        for op, i1, i2, j1, j2 in sm.get_opcodes():
-            if op == "equal":
-                continue
-            orig_part = orig_seq_cmp[i1:i2]
-            fr_part = fr_seq_cmp[j1:j2]
-            if op == "delete":
-                for k, t in enumerate(orig_part):
-                    hint = ""
-                    if t == "highlight":
-                        content = _orig_highlight_at.get(i1 + k, "")
-                        if content:
-                            hint = (f" (original: \"{content[:60]}\" "
-                                    f"— wrap the French equivalent "
-                                    f"in <highlight>)")
-                    found.append(
-                        f"missing tag in French: <{t}>{hint}")
-            elif op == "insert":
-                for t in fr_part:
-                    found.append(f"extra tag in French: <{t}>")
-            elif op == "replace":
+        if _highlight_reorder_only:
+            # Tolerate reordering/combining, but flag if ALL highlights
+            # were stripped (likely an LLM that ignored them entirely).
+            orig_hl_count = fr_seq.count("highlight")
+            if orig_seq.count("highlight") > 0 and orig_hl_count == 0:
                 found.append(
-                    f"tag sequence mismatch: original has "
-                    f"{orig_part} but French has {fr_part}")
+                    "all <highlight> tags dropped in French "
+                    f"(original had {orig_seq.count('highlight')})")
+
+        if not _highlight_reorder_only:
+            # Build a map from (deduped) sequence index to original
+            # highlight content for error messages.
+            _orig_highlights = [
+                tag.get_text().strip()
+                for tag in orig_soup.find_all("highlight")
+            ]
+            _highlight_idx = 0
+            _orig_highlight_at = {}  # deduped seq index -> highlight text
+            prev_was_hl = False
+            for si, key in enumerate(orig_seq):
+                if key == "highlight":
+                    if not prev_was_hl and _highlight_idx < len(_orig_highlights):
+                        deduped_idx = len(_dedup_highlights(orig_seq[:si + 1])) - 1
+                        _orig_highlight_at[deduped_idx] = (
+                            _orig_highlights[_highlight_idx])
+                    prev_was_hl = True
+                    _highlight_idx += 1
+                else:
+                    prev_was_hl = False
+
+            sm = difflib.SequenceMatcher(None, orig_seq_cmp, fr_seq_cmp)
+            for op, i1, i2, j1, j2 in sm.get_opcodes():
+                if op == "equal":
+                    continue
+                orig_part = orig_seq_cmp[i1:i2]
+                fr_part = fr_seq_cmp[j1:j2]
+                if op == "delete":
+                    for k, t in enumerate(orig_part):
+                        hint = ""
+                        if t == "highlight":
+                            content = _orig_highlight_at.get(i1 + k, "")
+                            if content:
+                                hint = (f" (original: \"{content[:60]}\" "
+                                        f"— wrap the French equivalent "
+                                        f"in <highlight>)")
+                        found.append(
+                            f"missing tag in French: <{t}>{hint}")
+                elif op == "insert":
+                    for t in fr_part:
+                        found.append(f"extra tag in French: <{t}>")
+                elif op == "replace":
+                    found.append(
+                        f"tag sequence mismatch: original has "
+                        f"{orig_part} but French has {fr_part}")
 
     # 10b. Raw tag sequence check (catches extra/missing tags that
     # BeautifulSoup auto-completes, e.g. </p></html> added by LLM in chunks)
@@ -569,33 +597,124 @@ def validate_chunks(bdb_id, chunk_indices):
     return found
 
 
+def _status_line(bdb_id, use_color=True, verbose=False):
+    """Print a compact one-line status with per-chunk ✓/✗ markers.
+
+    If verbose=True, also prints error details for failing chunks.
+    Returns True if the entry has failures.
+    """
+    from split_entry import split_html, split_txt
+
+    G = "\033[32m" if use_color else ""  # green
+    R = "\033[31m" if use_color else ""  # red
+    Y = "\033[33m" if use_color else ""  # yellow
+    D = "\033[2m" if use_color else ""   # dim
+    Z = "\033[0m" if use_color else ""   # reset
+
+    orig_path = os.path.join(ENTRIES_DIR, bdb_id + ".html")
+    fr_path = os.path.join(ENTRIES_FR_DIR, bdb_id + ".html")
+    txt_fr_path = os.path.join(TXT_FR_DIR, bdb_id + ".txt")
+    filename = bdb_id + ".html"
+
+    if not os.path.isfile(fr_path):
+        print(f"{filename:<20s} {R}MISSING{Z}")
+        return True
+
+    orig_html = open(orig_path, encoding="utf-8").read()
+    fr_html = open(fr_path, encoding="utf-8").read()
+    txt_fr = None
+    if os.path.isfile(txt_fr_path):
+        txt_fr = open(txt_fr_path, encoding="utf-8").read()
+
+    orig_chunks = split_html(orig_html)
+    n = len(orig_chunks)
+
+    if n < 2:
+        # Non-chunked: single validation
+        fr_kb = len(fr_html) // 1024
+        errs = validate_html(orig_html, fr_html, txt_fr)
+        if errs:
+            print(f"{filename:<20s} {fr_kb}KB {R}✗{Z}  {R}FAILED{Z}")
+            if verbose:
+                for msg in errs:
+                    print(f"  {D}{msg}{Z}")
+        else:
+            print(f"{filename:<20s} {fr_kb}KB {G}✓{Z}  {G}CLEAN{Z}")
+        return bool(errs)
+
+    fr_chunks = split_html(fr_html)
+    txt_chunks = split_txt(txt_fr) if txt_fr else []
+    n_fr = len(fr_chunks)
+
+    # Per-chunk validation (works even when chunk counts differ)
+    chunks_str = []
+    chunk_errors = []  # [(idx, tag, [errors])]
+    any_fail = n_fr != n  # mismatch is always a failure
+    for idx in range(n):
+        tag = f"{idx+1}/{n}"
+        if idx >= n_fr:
+            chunks_str.append(f"{tag} {R}—{Z}")
+            continue
+        txt_c = txt_chunks[idx]["txt"] if txt_chunks and idx < len(txt_chunks) else None
+        chunk_kb = len(fr_chunks[idx]["html"]) // 1024
+        errs = validate_html(
+            orig_chunks[idx]["html"], fr_chunks[idx]["html"], txt_c)
+        if errs:
+            any_fail = True
+            chunks_str.append(f"{tag} {chunk_kb}KB {R}✗{Z}")
+            chunk_errors.append((idx, tag, errs))
+        else:
+            chunks_str.append(f"{tag} {chunk_kb}KB {G}✓{Z}")
+
+    mismatch = f"  {Y}mismatch orig={n} fr={n_fr}{Z}" if n_fr != n else ""
+    status = f"{R}FAILED{Z}" if any_fail else f"{G}CLEAN{Z}"
+    print(f"{filename:<20s} {' '.join(chunks_str)}{mismatch}  {status}")
+    if verbose and chunk_errors:
+        for idx, tag, errs in chunk_errors:
+            print(f"  {R}[{tag}]{Z}")
+            for msg in errs:
+                print(f"    {D}{msg}{Z}")
+    return any_fail
+
+
 def main():
-    summary_only = "--summary" in sys.argv
-    chunk_mode = "--chunk" in sys.argv
+    import argparse
+    parser = argparse.ArgumentParser(
+        description="Validate translated HTML entries against originals.",
+        epilog="Examples:\n"
+               "  %(prog)s                        # validate all\n"
+               "  %(prog)s BDB17                   # validate one entry\n"
+               "  %(prog)s --summary               # just totals\n"
+               "  %(prog)s --status BDB1045         # per-chunk status\n"
+               "  %(prog)s --chunk 1 5 BDB1045      # validate chunks 1 and 5\n",
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+    )
+    parser.add_argument("entries", nargs="*", metavar="BDB_ID",
+                        help="Entry IDs to validate (default: all).")
+    parser.add_argument("--summary", action="store_true",
+                        help="Print only summary totals.")
+    parser.add_argument("--status", action="store_true",
+                        help="Show per-chunk validation status.")
+    parser.add_argument("--chunk", nargs="+", type=int, metavar="N",
+                        help="Validate specific chunk indices only.")
+    parser.add_argument("--verbose", "-v", action="store_true",
+                        help="Show error details for failing chunks (with --status).")
+    parser.add_argument("--colour", "--color", action="store_true",
+                        help="Force colour output (even when piped).")
+    args = parser.parse_args()
 
-    # Parse --chunk indices
-    chunk_indices = []
-    if chunk_mode:
-        ci = sys.argv.index("--chunk")
-        for a in sys.argv[ci + 1:]:
-            if a.startswith("-"):
-                break
-            try:
-                chunk_indices.append(int(a))
-            except ValueError:
-                break
+    use_color = args.colour or sys.stdout.isatty()
 
-    args = [a for a in sys.argv[1:]
-            if not a.startswith("-") and a not in map(str, chunk_indices)]
+    def _normalize(bdb_id):
+        return bdb_id if bdb_id.startswith("BDB") else "BDB" + bdb_id
 
-    if chunk_mode:
-        if not args:
+    # --chunk mode
+    if args.chunk is not None:
+        if not args.entries:
             print("Error: --chunk requires a BDB entry ID", file=sys.stderr)
             return 1
-        bdb_id = args[0]
-        if not bdb_id.startswith("BDB"):
-            bdb_id = "BDB" + bdb_id
-        results = validate_chunks(bdb_id, chunk_indices)
+        bdb_id = _normalize(args.entries[0])
+        results = validate_chunks(bdb_id, args.chunk)
         ok = True
         for label, msg in results:
             print(f"  {label}: {msg}")
@@ -603,8 +722,9 @@ def main():
                 ok = False
         return 0 if ok else 1
 
-    if args:
-        bdb_ids = args
+    # Resolve entry list
+    if args.entries:
+        bdb_ids = [_normalize(e) for e in args.entries]
     else:
         if not os.path.isdir(ENTRIES_FR_DIR):
             print(f"No {ENTRIES_FR_DIR}/ directory found. Nothing to validate.")
@@ -615,23 +735,142 @@ def main():
             if f.endswith(".html")
         )
 
-    errors = []
-    for bdb_id in bdb_ids:
-        errors.extend(validate_file(bdb_id))
+    # --status mode: compact one-line-per-file with chunk markers
+    # verbose (show errors) when specific entries are named
+    if args.status:
+        verbose = args.verbose
+        any_fail = False
+        for bdb_id in bdb_ids:
+            if _status_line(bdb_id, use_color=use_color, verbose=verbose):
+                any_fail = True
+        return 1 if any_fail else 0
 
-    if summary_only:
-        n_files = len(bdb_ids)
-        n_errors = len(errors)
-        n_clean = n_files - len(set(e[0] for e in errors))
-        print(f"Validated {n_files} files: {n_clean} clean, "
-              f"{n_files - n_clean} with issues ({n_errors} total issues)")
+    # Validate with progress indicator, using clean cache to skip
+    from pathlib import Path
+    from split_entry import split_html, split_txt
+    from llm_common import (load_clean_cache, check_clean_cache,
+                             update_clean_cache)
+
+    cache_path = Path(BASE) / "llm_html_clean.txt"
+    clean_cache = load_clean_cache(cache_path)
+    n_files = len(bdb_ids)
+    dot_interval = max(1, n_files // 40)
+    show_progress = n_files > 50
+
+    errors = []
+    n_cached = 0
+    # Chunk-level counters
+    n_chunked_files = 0
+    total_chunks = 0
+    clean_chunks = 0
+    failed_chunks = 0
+    mismatched_files = 0
+
+    if show_progress:
+        sys.stdout.write(f"Validating {n_files} files ")
+        sys.stdout.flush()
+
+    for i, bdb_id in enumerate(bdb_ids):
+        if show_progress and i % dot_interval == 0:
+            sys.stdout.write(".")
+            sys.stdout.flush()
+
+        orig_path = Path(ENTRIES_DIR) / (bdb_id + ".html")
+        fr_path = Path(ENTRIES_FR_DIR) / (bdb_id + ".html")
+        txt_fr_path = Path(TXT_FR_DIR) / (bdb_id + ".txt")
+
+        # Report missing files when specific entries were requested
+        if not fr_path.exists():
+            if args.entries:
+                errors.append((bdb_id, "no Entries_fr file found"))
+            continue
+        if not orig_path.exists():
+            if args.entries:
+                errors.append((bdb_id, "no Entries/ original file found"))
+            continue
+
+        # Skip if clean cache says this entry is unchanged
+        if (txt_fr_path.exists()
+                and check_clean_cache(clean_cache, bdb_id,
+                                      orig_path, txt_fr_path, fr_path)):
+            n_cached += 1
+            continue
+        orig_html = orig_path.read_text()
+        fr_html = fr_path.read_text()
+        txt_fr = txt_fr_path.read_text() if txt_fr_path.exists() else None
+
+        orig_chunks = split_html(orig_html)
+        n_orig = len(orig_chunks)
+
+        if n_orig < 2:
+            # Non-chunked: validate as a whole
+            msgs = validate_html(orig_html, fr_html, txt_fr)
+            file_errs = [(bdb_id, msg) for msg in msgs]
+        else:
+            # Chunked: validate per-chunk with labeled errors
+            fr_chunks = split_html(fr_html)
+            n_fr = len(fr_chunks)
+            n_chunked_files += 1
+            total_chunks += n_orig
+            txt_chunks = split_txt(txt_fr) if txt_fr else []
+            file_errs = []
+            if n_fr != n_orig:
+                mismatched_files += 1
+                file_errs.append((bdb_id,
+                    f"chunk mismatch: orig={n_orig} fr={n_fr}"))
+            for idx in range(n_orig):
+                label = f"{bdb_id}[{idx+1}]"
+                if idx >= n_fr:
+                    failed_chunks += 1
+                    file_errs.append((label, "missing chunk"))
+                    continue
+                txt_c = (txt_chunks[idx]["txt"]
+                         if txt_chunks and idx < len(txt_chunks) else None)
+                errs = validate_html(
+                    orig_chunks[idx]["html"],
+                    fr_chunks[idx]["html"], txt_c)
+                if errs:
+                    failed_chunks += 1
+                    file_errs.extend((label, msg) for msg in errs)
+                else:
+                    clean_chunks += 1
+
+        errors.extend(file_errs)
+
+        # Update cache if clean
+        if not file_errs and txt_fr_path.exists() and fr_path.exists():
+            update_clean_cache(cache_path, bdb_id,
+                               orig_path, txt_fr_path, fr_path)
+
+    if show_progress:
+        print(" done")
+
+    n_errors = len(errors)
+    n_validated = n_files - n_cached
+    n_clean = n_cached + n_validated - len(set(e[0] for e in errors))
+    n_fail = n_files - n_clean
+    cached_s = f" ({n_cached} cached)" if n_cached else ""
+
+    if args.summary:
+        print(f"Validated {n_files} files: {n_clean} clean{cached_s}, "
+              f"{n_fail} with issues ({n_errors} total issues)")
+        if n_chunked_files:
+            print(f"  Chunked: {n_chunked_files} files, "
+                  f"{total_chunks} chunks: "
+                  f"{clean_chunks} clean, {failed_chunks} failed"
+                  f"{f', {mismatched_files} mismatched' if mismatched_files else ''}")
     else:
         if errors:
             for bdb_id, msg in errors:
                 print(f"  {bdb_id}: {msg}")
-            print(f"\n{len(errors)} issues in {len(set(e[0] for e in errors))} files")
+            print(f"\n{n_errors} issues in {n_fail} files")
+            if n_chunked_files:
+                print(f"  Chunked: {n_chunked_files} files, "
+                      f"{total_chunks} chunks: "
+                      f"{clean_chunks} clean, {failed_chunks} failed"
+                      f"{f', {mismatched_files} mismatched' if mismatched_files else ''}")
         else:
-            print(f"All {len(bdb_ids)} files validated OK")
+            print(f"All {n_files} files validated OK{cached_s}")
 
     return 1 if errors else 0
 

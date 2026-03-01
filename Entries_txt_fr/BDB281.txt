@@ -111,7 +111,7 @@ Dr) 1 R 19,4 ; 1 R 19,5 +.
 5.
 seulement
 1 R 4,19
-& (féminin) une fois
+et (féminin) une fois
 2 R 6,10 ;
 Ps 62,12 ;
 Ps 89,36 (

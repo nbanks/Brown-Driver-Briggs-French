@@ -72,6 +72,12 @@ Format : virgule entre chapitre et verset (Gn 35,8) et non deux-points (Gen 35:8
 7. **Typographie française** : espace avant les ponctuations doubles (` ;` ` :` ` ?` ` !`) et à l'intérieur des guillemets (`« texte »`).
 8. **Reproduisez le texte français exactement** — ne changez pas les virgules en points-virgules ou inversement, ne remplacez pas un mot par un synonyme. Le texte français (`Entries_txt_fr`) est la référence ; le HTML doit le refléter fidèlement. Exemples de substitutions interdites : `figuré` → `figuratif`, `construit` → `construct`, `nom collectif` → `collectif nom`.
 9. **Éditions savantes** : les références bibliographiques comme `2e éd.`, `3e éd.` doivent être reproduites telles quelles depuis le texte français — ne pas revenir à l'anglais `2nd ed.`.
+10. **Articles et prépositions français** : Le français utilise des articles et contractions que l'anglais n'a pas. Le texte français fait autorité — reproduisez-le mot pour mot, même si la structure diffère de l'anglais. Exemples :
+    - Anglais `mouth of king` → Français `bouche du roi` (**pas** `bouche de roi`)
+    - Anglais `lions` (sans article) → Français `des lions` (avec article)
+    - Anglais `beast (in vision)` → Français `d'une bête (en vision)` (avec article indéfini)
+    - Anglais `of pit` → Français `de la fosse` (avec article défini)
+    Ne calquez pas la structure anglaise — lisez le texte français et insérez-le tel quel entre les balises.
 
 ## Exemples complets
 
@@ -351,6 +357,27 @@ C'est **FAUX** — c'est une copie de l'anglais. Le texte français indique `nom
 ### ❌ Erreur 6 — Balise supprimée
 
 Si vous omettez `<checkingNeeded />` ou `<wrongReferenceRemoved />` présent dans l'original, c'est une erreur. Ces marqueurs doivent être préservés à leur position exacte.
+
+### ❌ Erreur 7 — Articles/prépositions français supprimés (calque de l'anglais)
+
+L'anglais original a :
+```html
+    <gloss>mouth</gloss> of king ... lions ... beast (in vision) ... <highlight>mouth</highlight> of pit
+```
+
+Le texte français dit : `bouche du roi ... des lions ... d'une bête (en vision) ... bouche de la fosse`
+
+Si vous produisez ceci :
+```html
+    <gloss>bouche</gloss> de roi ... lions ... bête (en vision) ... <highlight>bouche</highlight> de fosse
+```
+
+C'est **FAUX** — vous avez calqué la structure anglaise (`of king` → `de roi`) au lieu de reproduire le texte français (`du roi`). L'anglais n'a pas d'articles devant `lions`, `beast`, `pit`, mais le français en a (`des lions`, `d'une bête`, `de la fosse`). Le résultat correct est :
+```html
+    <gloss>bouche</gloss> du roi ... des lions ... d'une bête (en vision) ... <highlight>bouche</highlight> de la fosse
+```
+
+**Règle** : la prose entre les balises doit reproduire le texte français mot pour mot, y compris les articles définis (`du`, `de la`, `des`), indéfinis (`d'un`, `d'une`) et contractions qui n'ont pas d'équivalent dans l'anglais.
 
 ## Détection d'erreurs dans le texte français
 

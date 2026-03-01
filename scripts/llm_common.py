@@ -73,6 +73,77 @@ def combined_hash(*paths: Path) -> str:
     return h.hexdigest()[:8]
 
 
+# ---------------------------------------------------------------------------
+# Clean-entry cache (shared by validate_html and llm_html_assemble)
+# ---------------------------------------------------------------------------
+
+def _triple_hash(orig: Path, txt_fr: Path, fr: Path) -> str:
+    """Hash all three source files for a clean-cache entry."""
+    h = hashlib.sha256()
+    for p in (orig, txt_fr, fr):
+        h.update(p.read_bytes())
+    return h.hexdigest()[:8]
+
+
+def _scripts_dir() -> Path:
+    """Return the scripts/ directory (sibling of this file)."""
+    return Path(__file__).resolve().parent
+
+
+def load_clean_cache(cache_path: Path) -> dict[str, str]:
+    """Load {bdb_id: hash} from the clean cache file.
+
+    Returns an empty dict if any .py file in scripts/ is newer than the
+    cache, since a code change could alter validation logic.
+    """
+    cache = {}
+    if not cache_path.exists():
+        return cache
+    cache_mtime = cache_path.stat().st_mtime
+    scripts = _scripts_dir()
+    if scripts.is_dir():
+        for py in scripts.glob("*.py"):
+            if py.stat().st_mtime > cache_mtime:
+                return {}
+    for line in cache_path.read_text().splitlines():
+        parts = line.split()
+        if len(parts) >= 2:
+            cache[parts[0]] = parts[1]
+    return cache
+
+
+def check_clean_cache(cache: dict[str, str], bdb_id: str,
+                      orig: Path, txt_fr: Path, fr: Path) -> bool:
+    """Return True if entry is in cache with matching hash."""
+    if bdb_id not in cache:
+        return False
+    if not fr.exists():
+        return False
+    return cache[bdb_id] == _triple_hash(orig, txt_fr, fr)
+
+
+def update_clean_cache(cache_path: Path, bdb_id: str,
+                       orig: Path, txt_fr: Path, fr: Path,
+                       file_lock=None):
+    """Append a clean entry to the cache file (thread/process safe)."""
+    h = _triple_hash(orig, txt_fr, fr)
+    line = f"{bdb_id} {h}\n"
+    try:
+        if file_lock:
+            with file_lock:
+                with open(cache_path, "a") as f:
+                    f.write(line)
+        else:
+            with open(cache_path, "a") as f:
+                f.write(line)
+    except PermissionError:
+        pass  # read-only environment, skip cache write
+
+
+# ---------------------------------------------------------------------------
+# Results file I/O
+# ---------------------------------------------------------------------------
+
 def load_results(results_path: Path) -> dict[str, tuple[str, str, str]]:
     """Load existing results as {filename: (status, timestamp, hash)}.
 

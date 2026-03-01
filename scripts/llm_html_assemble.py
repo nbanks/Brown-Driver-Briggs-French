@@ -24,8 +24,10 @@ import threading
 from datetime import datetime, timezone
 from pathlib import Path
 
-from llm_common import (ContextOverflow, check_server, combined_hash,
-                         fmt_kb, query_llm, run_pipeline, save_result)
+from llm_common import (ContextOverflow, _USE_COLOR, check_clean_cache,
+                         check_server, combined_hash, fmt_kb,
+                         load_clean_cache, query_llm, run_pipeline,
+                         save_result, update_clean_cache)
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 ROOT = SCRIPT_DIR.parent
@@ -37,7 +39,8 @@ from split_entry import split_html, split_txt
 ENTRIES_DIR = ROOT / "Entries"
 ENTRIES_FR_DIR = ROOT / "Entries_fr"
 TXT_FR_DIR = ROOT / "Entries_txt_fr"
-ERRATA_DIR = Path(".")
+ERRATA_FILE = Path("errata.txt")
+CLEAN_CACHE = Path("llm_html_clean.txt")
 RESULTS_FILE = Path("/tmp/llm_html_assemble_results.txt")
 PROMPT_FILE = SCRIPT_DIR / "llm_html_assemble.md"
 
@@ -140,14 +143,21 @@ def _build_retry_suffix(history: list[tuple[str, list[str]]],
 # Errata helper
 # ---------------------------------------------------------------------------
 
-def _write_errata(bdb_id: str, message: str, file_lock: threading.Lock):
-    """Append an errata line to the appropriate errata-N.txt file."""
-    bdb_num = "".join(c for c in bdb_id if c.isdigit())
-    last_digit = bdb_num[-1] if bdb_num else "0"
-    errata_path = ERRATA_DIR / f"errata-{last_digit}.txt"
+def _write_errata(bdb_id: str, message: str, file_lock: threading.Lock,
+                  chunk_idx: int | None = None, total_chunks: int | None = None):
+    """Append an errata line to errata.txt.
+
+    When chunk_idx is given, writes 'BDB1234:2/3 html ...' so that
+    --skip-errata can operate at chunk level.  Without it, writes
+    'BDB1234 html ...' (whole-file errata).
+    """
+    if chunk_idx is not None and total_chunks is not None:
+        tag = f"{bdb_id}:{chunk_idx + 1}/{total_chunks}"
+    else:
+        tag = bdb_id
     with file_lock:
-        with open(errata_path, "a") as f:
-            f.write(f"{bdb_id} html  {message}\n")
+        with open(ERRATA_FILE, "a") as f:
+            f.write(f"{tag} html  {message}\n")
 
 
 # ---------------------------------------------------------------------------
@@ -207,6 +217,7 @@ def _generate_chunk(bdb_id: str, idx: int, n: int,
                     debug: bool = False,
                     smart_server: str | None = None,
                     smart_retries: int = 1,
+                    prior_errata_reason: str | None = None,
                     ) -> tuple[str | None, float, int, list[str], str | None]:
     """Generate (and retry) one chunk.
 
@@ -237,6 +248,14 @@ def _generate_chunk(bdb_id: str, idx: int, n: int,
                                                 is_chunk=is_chunked)
         else:
             prompt = base
+            if prior_errata_reason and attempt == 1:
+                prompt += (
+                    f"\n\n## ⚠️ Note du modèle précédent\n\n"
+                    f"Un modèle précédent a signalé cette entrée comme"
+                    f" ERRATA : « {prior_errata_reason} ».\n"
+                    f"Examinez l'entrée et produisez le HTML si possible."
+                    f" Si le problème est réel et incontournable,"
+                    f" vous pouvez aussi signaler ERRATA.")
 
         prompt_kb = len(prompt.encode("utf-8")) / 1024
         prompt_kb_total += prompt_kb
@@ -345,13 +364,26 @@ def process_entry(bdb_id: str, orig_path: Path, txt_path: Path,
                   template: str, server_url: str, max_retries: int,
                   results_path: Path, file_lock: threading.Lock,
                   on_attempt=None, on_chunk=None,
+                  on_chunk_done=None,
                   debug: bool = False,
                   smart_server: str | None = None,
                   smart_retries: int = 1,
+                  skip_failed: bool = False,
+                  skip_incomplete: bool = False,
+                  skip_errata_chunks: set[int] | None = None,
+                  errata_reasons: dict[int, str] | None = None,
                   ) -> tuple[str, float, int]:
     """Process one entry. Returns (status, prompt_kb, attempts_used).
 
     Status is one of: CLEAN, FAILED, ERRATA, SKIPPED.
+
+    When skip_failed is True, errored chunks keep their previous output and
+    only truly missing chunks are regenerated.
+
+    When skip_incomplete is True, entries with missing chunks (fewer fr chunks
+    than orig) are skipped entirely.
+
+    on_chunk_done(verdict): called after each chunk with "✓", "✗", or "⚠".
     """
     orig_html = orig_path.read_text()
     french_txt = txt_path.read_text()
@@ -376,28 +408,89 @@ def process_entry(bdb_id: str, orig_path: Path, txt_path: Path,
     total_prompt_kb = 0.0
     max_attempts = 0
 
-    # Warm start: if a previous Entries_fr exists with errors, seed chunk 0
+    # Warm start: re-read fr_path just-in-time (another worker may have
+    # updated it since the upfront scan that queued this entry).
     fr_path = ENTRIES_FR_DIR / (bdb_id + ".html")
     prev_output = None
     prev_errors: list[str] = []
-    if not is_chunked and fr_path.exists():
-        prev_output = fr_path.read_text()
-        prev_errors = validate_html(orig_html, prev_output, french_txt)
-        if not prev_errors:
-            return "CLEAN", 0.0, 0
+    chunk_prev_outputs: list[str | None] = [None] * n
+    chunk_prev_errors: list[list[str]] = [[] for _ in range(n)]
 
-    # Process each chunk with its own retry loop
-    failed_chunk = None
+    if fr_path.exists():
+        prev_fr_html = fr_path.read_text()
+        if is_chunked:
+            fr_chunks = split_html(prev_fr_html)
+            n_fr = len(fr_chunks)
+            fr_parts = [c["html"] for c in fr_chunks]
+            # Validate chunks that exist in both orig and fr
+            all_clean = (n_fr == n)
+            for idx in range(min(n_fr, n)):
+                errs = validate_html(
+                    orig_parts[idx], fr_parts[idx], txt_parts[idx])
+                if errs:
+                    all_clean = False
+                    chunk_prev_outputs[idx] = fr_parts[idx]
+                    chunk_prev_errors[idx] = errs
+                    if skip_failed:
+                        # Keep errored chunk as-is, don't regenerate
+                        outputs[idx] = fr_parts[idx]
+                else:
+                    outputs[idx] = fr_parts[idx]  # reuse clean chunk
+            if n_fr < n:
+                all_clean = False  # missing chunks
+                if skip_incomplete:
+                    return "SKIPPED", 0.0, 0
+            if all_clean:
+                return "CLEAN", 0.0, 0
+        else:
+            prev_output = prev_fr_html
+            prev_errors = validate_html(orig_html, prev_output, french_txt)
+            if not prev_errors:
+                return "CLEAN", 0.0, 0
+            if skip_failed:
+                # Non-chunked entry with errors: keep as-is
+                return "SKIPPED", 0.0, 0
+
+    # Process each chunk with its own retry loop.
+    # Errata/failure on one chunk does NOT stop processing — we continue so
+    # that a later retry (possibly with a smarter model) only has to redo the
+    # broken chunks.
+    failed_chunks = []       # [(idx, error_summary)]
+    errata_chunks = []       # [(idx, reason)]
+    _skip_errata = skip_errata_chunks or set()
     for idx in range(n):
-        chunk_prev = prev_output if idx == 0 and not is_chunked else None
-        chunk_errs = prev_errors if idx == 0 and not is_chunked else []
+        # Skip chunks already clean from a prior run
+        if outputs[idx] is not None:
+            if on_chunk:
+                on_chunk(idx, n, 0, is_chunked)
+            if on_chunk_done and is_chunked:
+                on_chunk_done("✓")
+            continue
 
+        # Skip errata chunks — keep previous output if available
+        if idx in _skip_errata:
+            if chunk_prev_outputs[idx] is not None:
+                outputs[idx] = chunk_prev_outputs[idx]
+            if on_chunk:
+                on_chunk(idx, n, 0, is_chunked)
+            if on_chunk_done and is_chunked:
+                on_chunk_done("⚠")
+            continue
+
+        chunk_prev = (chunk_prev_outputs[idx] if is_chunked
+                      else (prev_output if idx == 0 else None))
+        chunk_errs = (chunk_prev_errors[idx] if is_chunked
+                      else (prev_errors if idx == 0 else []))
+
+        _errata_reasons = errata_reasons or {}
+        chunk_errata = _errata_reasons.get(idx) or _errata_reasons.get(None)
         html, kb, attempts, remaining, errata = _generate_chunk(
             bdb_id, idx, n, orig_parts[idx], txt_parts[idx],
             chunk_prev, chunk_errs, template, server_url, max_retries,
             is_chunked,
             on_attempt=on_attempt, on_chunk=on_chunk, debug=debug,
-            smart_server=smart_server, smart_retries=smart_retries)
+            smart_server=smart_server, smart_retries=smart_retries,
+            prior_errata_reason=chunk_errata)
 
         total_prompt_kb += kb
         max_attempts = max(max_attempts, attempts)
@@ -405,17 +498,27 @@ def process_entry(bdb_id: str, orig_path: Path, txt_path: Path,
         if errata == "SKIPPED":
             return "SKIPPED", total_prompt_kb, attempts
         if errata:
-            chunk_tag = f" (chunk {idx+1}/{n})" if is_chunked else ""
-            _write_errata(bdb_id, f"LLM{chunk_tag}: {errata}", file_lock)
-            return "ERRATA", total_prompt_kb, attempts
+            errata_chunks.append((idx, errata))
+            if chunk_prev:
+                outputs[idx] = chunk_prev
+            if on_chunk_done and is_chunked:
+                on_chunk_done("⚠")
+            continue
 
         outputs[idx] = html
 
-        # If this chunk still has errors after exhausting retries, stop —
-        # no point generating later chunks when an earlier one is broken.
         if remaining:
-            failed_chunk = idx
-            break
+            failed_chunks.append((idx, "; ".join(remaining[:5])))
+            if on_chunk_done and is_chunked:
+                on_chunk_done("✗")
+        elif on_chunk_done and is_chunked:
+            on_chunk_done("✓")
+
+    # Log errata for individual chunks
+    for idx, reason in errata_chunks:
+        _write_errata(bdb_id, f"LLM: {reason}", file_lock,
+                      chunk_idx=idx if is_chunked else None,
+                      total_chunks=n if is_chunked else None)
 
     # Assemble whatever we have and write to disk
     parts = [o for o in outputs if o is not None]
@@ -425,12 +528,15 @@ def process_entry(bdb_id: str, orig_path: Path, txt_path: Path,
     assembled = "".join(parts)
     fr_path.write_text(assembled, encoding="utf-8")
 
-    if failed_chunk is not None:
-        error_summary = "; ".join(remaining[:5])
+    # Log failed chunks
+    for idx, error_summary in failed_chunks:
         _write_errata(bdb_id,
-                      f"chunk {failed_chunk+1}/{n} failed after "
-                      f"{max_retries} retries: {error_summary}",
-                      file_lock)
+                      f"failed after {max_retries} retries: {error_summary}",
+                      file_lock,
+                      chunk_idx=idx if is_chunked else None,
+                      total_chunks=n if is_chunked else None)
+
+    if failed_chunks or errata_chunks:
         return "FAILED", total_prompt_kb, max_attempts
 
     # Final validation of assembled result (catches cross-chunk issues)
@@ -481,7 +587,7 @@ def main():
     parser.add_argument("--output-dir", help="Override Entries_fr/ output directory.")
     parser.add_argument("--results", help="Override results file path.")
     parser.add_argument(
-        "--errata-dir", help="Override directory for errata-N.txt files.",
+        "--errata-file", help="Override errata file path (default: errata.txt).",
     )
     parser.add_argument(
         "--count", action="store_true",
@@ -505,11 +611,17 @@ def main():
     )
     parser.add_argument(
         "--skip-failed", action="store_true", default=False,
-        help="Skip entries that previously FAILED validation (default: retry).",
+        help="Keep errored chunks as-is and only regenerate missing chunks. "
+             "Non-chunked entries with errors are skipped entirely.",
     )
     parser.add_argument(
         "--skip-errata", action="store_true", default=False,
         help="Skip entries that LLM flagged as ERRATA (default: retry).",
+    )
+    parser.add_argument(
+        "--skip-incomplete", action="store_true", default=False,
+        help="Skip entries with missing chunks (fewer fr chunks than orig). "
+             "Without this flag, missing chunks are always generated.",
     )
     parser.add_argument(
         "--force", action="store_true", default=False,
@@ -534,15 +646,15 @@ def main():
     args = parser.parse_args()
 
     # Apply directory overrides
-    global ENTRIES_DIR, ENTRIES_FR_DIR, TXT_FR_DIR, ERRATA_DIR, RESULTS_FILE
+    global ENTRIES_DIR, ENTRIES_FR_DIR, TXT_FR_DIR, ERRATA_FILE, RESULTS_FILE
     if args.entries_dir:
         ENTRIES_DIR = Path(args.entries_dir)
     if args.txt_fr_dir:
         TXT_FR_DIR = Path(args.txt_fr_dir)
     if args.output_dir:
         ENTRIES_FR_DIR = Path(args.output_dir)
-    if args.errata_dir:
-        ERRATA_DIR = Path(args.errata_dir)
+    if args.errata_file:
+        ERRATA_FILE = Path(args.errata_file)
     if args.results:
         RESULTS_FILE = Path(args.results)
 
@@ -557,15 +669,27 @@ def main():
     only = [e.removesuffix(".html") for e in args.entries] if args.entries else None
     entries = get_entries(digits, only=only)
 
-    # Load errata entries for --skip-errata
-    errata_ids = set()
-    if args.skip_errata:
-        for i in range(10):
-            ep = ERRATA_DIR / f"errata-{i}.txt"
-            if ep.exists():
-                for line in ep.read_text().splitlines():
-                    if " html  LLM" in line:
-                        errata_ids.add(line.split()[0])
+    # Load errata entries.
+    # Maps bdb_id -> dict of (chunk_index | None) -> reason.
+    # None key means whole-file errata.
+    errata_map: dict[str, dict[int | None, str]] = {}
+    if ERRATA_FILE.exists():
+        for line in ERRATA_FILE.read_text().splitlines():
+            if " html " not in line:
+                continue
+            tag = line.split()[0]  # e.g. "BDB1234" or "BDB1234:2/3"
+            # Extract reason: everything after "html  "
+            reason_start = line.find(" html  ")
+            reason = line[reason_start + 7:].strip() if reason_start >= 0 else ""
+            if ":" in tag:
+                bdb_id_part, chunk_spec = tag.split(":", 1)
+                try:
+                    chunk_num = int(chunk_spec.split("/")[0])
+                    errata_map.setdefault(bdb_id_part, {})[chunk_num - 1] = reason
+                except ValueError:
+                    errata_map.setdefault(tag, {})[None] = reason
+            else:
+                errata_map.setdefault(tag, {})[None] = reason
 
     # Split entries into existing (need validation) and new (no Entries_fr yet)
     existing = []
@@ -577,9 +701,10 @@ def main():
         else:
             new_entries.append((bdb_id, orig_path, txt_path))
 
-    # Validate existing Entries_fr/ files
-    counts = {"clean": 0, "invalid": 0, "errata": 0, "new": len(new_entries)}
-    skipped_failed = []
+    # Validate existing Entries_fr/ files (using clean cache to skip)
+    clean_cache = load_clean_cache(CLEAN_CACHE)
+    counts = {"clean": 0, "cached": 0, "invalid": 0, "errata": 0,
+              "new": len(new_entries)}
     skipped_errata = []
     to_process = []
     n_exist = len(existing)
@@ -593,20 +718,54 @@ def main():
                 sys.stdout.flush()
             chash = combined_hash(orig_path, txt_path)
 
-            if bdb_id in errata_ids:
+            errata_info = errata_map.get(bdb_id, {})
+            if None in errata_info and args.skip_errata:
+                # Whole-file errata — skip entirely
                 counts["errata"] += 1
                 skipped_errata.append(bdb_id)
+                continue
+            if errata_info:
+                counts["errata"] += 1
+            fr_path = ENTRIES_FR_DIR / (bdb_id + ".html")
+            if check_clean_cache(clean_cache, bdb_id,
+                                 orig_path, txt_path, fr_path):
+                counts["cached"] += 1
                 continue
             errors = validate_file(bdb_id, entries_dir=str(ENTRIES_DIR),
                                    entries_fr_dir=str(ENTRIES_FR_DIR),
                                    txt_fr_dir=str(TXT_FR_DIR))
             if not errors:
                 counts["clean"] += 1
+                update_clean_cache(CLEAN_CACHE, bdb_id,
+                                   orig_path, txt_path, fr_path)
                 continue
             counts["invalid"] += 1
-            if args.skip_failed:
-                skipped_failed.append(bdb_id)
-                continue
+            # Check chunk-level status to decide if we can skip
+            orig_html = orig_path.read_text()
+            fr_html = fr_path.read_text()
+            n_orig = len(split_html(orig_html))
+            n_fr = len(split_html(fr_html))
+            has_missing = n_orig > 1 and n_fr < n_orig
+            if args.skip_failed and not has_missing:
+                continue  # all chunks present, errors skipped
+            if args.skip_errata and not has_missing and errata_info:
+                # All chunks present — skip if every invalid chunk
+                # is covered by an errata entry
+                errata_idxs = {k for k in errata_info if k is not None}
+                if errata_idxs:
+                    # Validate per-chunk to find which are invalid
+                    orig_chunks = split_html(orig_html)
+                    fr_chunks = split_html(fr_html)
+                    txt_chunks = split_txt(txt_path.read_text())
+                    invalid_idxs = set()
+                    for ci in range(min(n_orig, n_fr)):
+                        txt_c = (txt_chunks[ci]["txt"]
+                                 if txt_chunks and ci < len(txt_chunks) else None)
+                        if validate_html(orig_chunks[ci]["html"],
+                                         fr_chunks[ci]["html"], txt_c):
+                            invalid_idxs.add(ci)
+                    if invalid_idxs and invalid_idxs <= errata_idxs:
+                        continue  # all invalid chunks are errata — skip
             to_process.append((bdb_id, orig_path, txt_path, chash))
         print(" done")
     else:
@@ -614,22 +773,31 @@ def main():
 
     # Add new entries to processing list
     for bdb_id, orig_path, txt_path in new_entries:
+        if args.skip_errata:
+            errata_info = errata_map.get(bdb_id, {})
+            if None in errata_info:
+                counts["errata"] += 1
+                skipped_errata.append(bdb_id)
+                continue
         chash = combined_hash(orig_path, txt_path)
         to_process.append((bdb_id, orig_path, txt_path, chash))
 
     # Build summary with * marking skipped categories
-    clean_s = f"{counts['clean']} clean*"
+    total_clean = counts["clean"] + counts["cached"]
+    clean_s = f"{total_clean} clean*"
+    if counts["cached"]:
+        clean_s += f" ({counts['cached']} cached)"
     invalid_s = f"{counts['invalid']} invalid"
-    if args.skip_failed:
-        invalid_s += "*"
     errata_s = f"{counts['errata']} errata"
     if args.skip_errata:
         errata_s += "*"
     print(f"Entries_fr: {n_exist}/{len(entries)} exist: "
           f"{clean_s}, {invalid_s}, {errata_s}")
-    n_skipped = counts["clean"]
     if args.skip_failed:
-        n_skipped += len(skipped_failed)
+        print(f"  --skip-failed: errored chunks kept, only missing regenerated")
+    if args.skip_incomplete:
+        print(f"  --skip-incomplete: entries with missing chunks skipped")
+    n_skipped = total_clean
     if args.skip_errata:
         n_skipped += len(skipped_errata)
     if n_skipped:
@@ -664,16 +832,28 @@ def main():
         + "".join(f" S{n}" for n in range(1, smart_n + 1)))
     max_try_width = len(max_try_str)
 
-    def _is_errata_now(bdb_id):
-        """Re-check errata files on disk (another process may have added it)."""
-        bdb_num = "".join(c for c in bdb_id if c.isdigit())
-        last_digit = bdb_num[-1] if bdb_num else "0"
-        ep = ERRATA_DIR / f"errata-{last_digit}.txt"
-        if ep.exists():
-            for line in ep.read_text().splitlines():
-                if line.startswith(bdb_id + " ") and " html  LLM" in line:
-                    return True
-        return False
+    def _errata_now(bdb_id) -> dict[int | None, str]:
+        """Re-check errata file for chunk-level info (another process may
+        have added entries).  Returns dict of (0-based chunk index | None)
+        -> reason."""
+        result: dict[int | None, str] = {}
+        if ERRATA_FILE.exists():
+            for line in ERRATA_FILE.read_text().splitlines():
+                if " html " not in line:
+                    continue
+                tag = line.split()[0]
+                reason_start = line.find(" html  ")
+                reason = line[reason_start + 7:].strip() if reason_start >= 0 else ""
+                if ":" in tag:
+                    bdb_part, chunk_spec = tag.split(":", 1)
+                    if bdb_part == bdb_id:
+                        try:
+                            result[int(chunk_spec.split("/")[0]) - 1] = reason
+                        except ValueError:
+                            result[None] = reason
+                elif tag == bdb_id:
+                    result[None] = reason
+        return result
 
     def process_one(i, total, item):
         bdb_id, orig_path, txt_path, chash = item
@@ -683,14 +863,29 @@ def main():
         fr_path = ENTRIES_FR_DIR / (bdb_id + ".html")
         if not args.force and fr_path.exists():
             orig_html = orig_path.read_text()
+            fr_html = fr_path.read_text()
             french_txt = txt_path.read_text()
-            errs = validate_html(orig_html, fr_path.read_text(), french_txt)
+            errs = validate_html(orig_html, fr_html, french_txt)
             if not errs:
                 return filename, "SKIP", 0.0, "(already clean)"
             if args.skip_failed:
-                return filename, "SKIP", 0.0, "(already failed)"
-        if args.skip_errata and _is_errata_now(bdb_id):
-            return filename, "SKIP", 0.0, "(errata)"
+                n_orig = len(split_html(orig_html))
+                n_fr = len(split_html(fr_html))
+                if not (n_orig > 1 and n_fr < n_orig):
+                    return filename, "SKIP", 0.0, "(skip-failed)"
+        jit_errata = _errata_now(bdb_id) if args.skip_errata else errata_map.get(bdb_id, {})
+        errata_skip: set[int] = set()
+        errata_reasons: dict[int, str] = {}
+        skip_errata_chunks = args.skip_errata or args.skip_failed
+        if jit_errata:
+            if None in jit_errata and args.skip_errata:
+                return filename, "SKIP", 0.0, "(errata)"
+            for k, reason in jit_errata.items():
+                if k is None:
+                    continue
+                if skip_errata_chunks:
+                    errata_skip.add(k)
+                errata_reasons[k] = reason
 
         try_chars = 0
 
@@ -728,12 +923,31 @@ def main():
             sys.stdout.write(s)
             sys.stdout.flush()
 
+        _VERDICT_COLORS = {"✓": "\033[32m", "✗": "\033[31m", "⚠": "\033[33m"}
+
+        def on_chunk_done(verdict):
+            nonlocal try_chars
+            if not sequential:
+                return
+            if _USE_COLOR and verdict in _VERDICT_COLORS:
+                s_display = f" {_VERDICT_COLORS[verdict]}{verdict}\033[0m"
+            else:
+                s_display = f" {verdict}"
+            try_chars += len(f" {verdict}")
+            sys.stdout.write(s_display)
+            sys.stdout.flush()
+
         smart_retries = args.smart_retries if args.smart_server else 0
         status, prompt_kb, attempts = process_entry(
             bdb_id, orig_path, txt_path, template,
             args.server, args.max_retries, RESULTS_FILE, file_lock,
-            on_attempt=on_attempt, on_chunk=on_chunk, debug=args.debug,
-            smart_server=args.smart_server, smart_retries=smart_retries)
+            on_attempt=on_attempt, on_chunk=on_chunk,
+            on_chunk_done=on_chunk_done, debug=args.debug,
+            smart_server=args.smart_server, smart_retries=smart_retries,
+            skip_failed=args.skip_failed,
+            skip_incomplete=args.skip_incomplete,
+            skip_errata_chunks=errata_skip or None,
+            errata_reasons=errata_reasons or None)
 
         # Pad try column to fixed width so status aligns
         if sequential and try_chars < max_try_width:
@@ -747,9 +961,11 @@ def main():
         save_result(RESULTS_FILE, filename, status, timestamp, chash,
                     result_note, col_filename=COL_FILENAME,
                     col_status=COL_STATUS, lock=file_lock)
-        display_note = (f"({attempts}/{total_max})"
-                        if attempts > 1 else "")
-        return filename, status, prompt_kb, display_note
+        if status == "CLEAN":
+            fr_path = ENTRIES_FR_DIR / (bdb_id + ".html")
+            update_clean_cache(CLEAN_CACHE, bdb_id,
+                               orig_path, txt_path, fr_path, file_lock)
+        return filename, status, prompt_kb, ""
 
     def file_size_kb(item):
         _, orig_path, _, _ = item
