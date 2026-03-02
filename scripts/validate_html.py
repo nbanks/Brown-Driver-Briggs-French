@@ -245,10 +245,13 @@ def _tag_seq(soup):
     return seq
 
 
-def _dedup_highlights(seq):
+_FLEXIBLE_TAGS = {"highlight", "primary"}
+
+
+def _dedup_flexible(seq):
     out = []
     for tag in seq:
-        if tag == "highlight" and out and out[-1] == "highlight":
+        if tag in _FLEXIBLE_TAGS and out and out[-1] == tag:
             continue
         out.append(tag)
     return out
@@ -341,7 +344,6 @@ def validate_html(orig_html, fr_html, txt_fr_content=None):
         # Strip remaining tags
         fr_visible = re.sub(r"<[^>]+>", " ", fr_visible)
         fr_visible = html.unescape(fr_visible)
-        fr_visible = re.sub(r"&", "et", fr_visible)
         fr_visible = fr_visible.replace("`", "")
         fr_visible_cmp = normalize_for_compare(fr_visible)
 
@@ -362,7 +364,6 @@ def validate_html(orig_html, fr_html, txt_fr_content=None):
                 line,
             ):
                 continue
-            line = line.replace("&", "et")
             frag = normalize_for_compare(line)
             if not frag:
                 continue
@@ -383,18 +384,7 @@ def validate_html(orig_html, fr_html, txt_fr_content=None):
     for r, count in sorted(extra_refs.items()):
         found.append(f"extra ref attribute not in original: {r} (×{count})")
 
-    # 9a. &amp; in French that wasn't in original should be "et"
-    _orig_visible = re.sub(r"<[^>]+>", " ", orig_html)
-    _fr_visible = re.sub(r"<[^>]+>", " ", fr_html)
-    orig_amp_count = len(re.findall(r"&amp;", _orig_visible))
-    fr_amp_count = len(re.findall(r"&amp;", _fr_visible))
-    extra_amp = fr_amp_count - orig_amp_count
-    if extra_amp > 0:
-        found.append(
-            f"&amp; in HTML should be \"et\" ({extra_amp} occurrence"
-            f"{'s' if extra_amp > 1 else ''})")
-
-    # 9b. Bare & (not &amp;) in French HTML — bad encoding
+    # 9. Bare & (not &amp;) in French HTML — bad encoding
     bare_amp = len(re.findall(r"&(?!amp;|lt;|gt;|quot;|apos;|#)", fr_html))
     if bare_amp:
         found.append(
@@ -405,8 +395,8 @@ def validate_html(orig_html, fr_html, txt_fr_content=None):
     orig_seq = _tag_seq(orig_soup)
     fr_seq = _tag_seq(fr_soup)
 
-    orig_seq_cmp = _dedup_highlights(orig_seq)
-    fr_seq_cmp = _dedup_highlights(fr_seq)
+    orig_seq_cmp = _dedup_flexible(orig_seq)
+    fr_seq_cmp = _dedup_flexible(fr_seq)
 
     if orig_seq_cmp != fr_seq_cmp:
         # Check if the difference is only highlights moving position.
@@ -414,39 +404,41 @@ def validate_html(orig_html, fr_html, txt_fr_content=None):
         # shift <highlight> tags relative to <bdbheb> and other tags.
         # Adjacent highlights may also merge/split after dedup, so we
         # only require that non-highlight subsequences are identical.
-        _orig_no_hl = [t for t in orig_seq_cmp if t != "highlight"]
-        _fr_no_hl = [t for t in fr_seq_cmp if t != "highlight"]
+        _orig_no_hl = [t for t in orig_seq_cmp if t not in _FLEXIBLE_TAGS]
+        _fr_no_hl = [t for t in fr_seq_cmp if t not in _FLEXIBLE_TAGS]
         _highlight_reorder_only = (_orig_no_hl == _fr_no_hl)
 
         if _highlight_reorder_only:
-            # Tolerate reordering/combining, but flag if ALL highlights
-            # were stripped (likely an LLM that ignored them entirely).
-            orig_hl_count = fr_seq.count("highlight")
-            if orig_seq.count("highlight") > 0 and orig_hl_count == 0:
-                found.append(
-                    "all <highlight> tags dropped in French "
-                    f"(original had {orig_seq.count('highlight')})")
+            # Tolerate reordering/combining, but flag if ALL tags of a
+            # flexible type were stripped (likely an LLM that ignored them).
+            for _ft in _FLEXIBLE_TAGS:
+                if orig_seq.count(_ft) > 0 and fr_seq.count(_ft) == 0:
+                    found.append(
+                        f"all <{_ft}> tags dropped in French "
+                        f"(original had {orig_seq.count(_ft)})")
 
         if not _highlight_reorder_only:
             # Build a map from (deduped) sequence index to original
-            # highlight content for error messages.
-            _orig_highlights = [
-                tag.get_text().strip()
-                for tag in orig_soup.find_all("highlight")
-            ]
-            _highlight_idx = 0
-            _orig_highlight_at = {}  # deduped seq index -> highlight text
-            prev_was_hl = False
+            # flexible-tag content for error messages.
+            _orig_flex_texts = {}
+            for _ft in _FLEXIBLE_TAGS:
+                _orig_flex_texts[_ft] = [
+                    tag.get_text().strip()
+                    for tag in orig_soup.find_all(_ft)
+                ]
+            _flex_idx = {ft: 0 for ft in _FLEXIBLE_TAGS}
+            _orig_flex_at = {}  # deduped seq index -> tag text
+            _prev_flex = None
             for si, key in enumerate(orig_seq):
-                if key == "highlight":
-                    if not prev_was_hl and _highlight_idx < len(_orig_highlights):
-                        deduped_idx = len(_dedup_highlights(orig_seq[:si + 1])) - 1
-                        _orig_highlight_at[deduped_idx] = (
-                            _orig_highlights[_highlight_idx])
-                    prev_was_hl = True
-                    _highlight_idx += 1
+                if key in _FLEXIBLE_TAGS:
+                    if key != _prev_flex and _flex_idx[key] < len(_orig_flex_texts[key]):
+                        deduped_idx = len(_dedup_flexible(orig_seq[:si + 1])) - 1
+                        _orig_flex_at[deduped_idx] = (
+                            _orig_flex_texts[key][_flex_idx[key]])
+                    _prev_flex = key
+                    _flex_idx[key] += 1
                 else:
-                    prev_was_hl = False
+                    _prev_flex = None
 
             sm = difflib.SequenceMatcher(None, orig_seq_cmp, fr_seq_cmp)
             for op, i1, i2, j1, j2 in sm.get_opcodes():
@@ -457,12 +449,12 @@ def validate_html(orig_html, fr_html, txt_fr_content=None):
                 if op == "delete":
                     for k, t in enumerate(orig_part):
                         hint = ""
-                        if t == "highlight":
-                            content = _orig_highlight_at.get(i1 + k, "")
+                        if t in _FLEXIBLE_TAGS:
+                            content = _orig_flex_at.get(i1 + k, "")
                             if content:
                                 hint = (f" (original: \"{content[:60]}\" "
                                         f"— wrap the French equivalent "
-                                        f"in <highlight>)")
+                                        f"in <{t}>)")
                         found.append(
                             f"missing tag in French: <{t}>{hint}")
                 elif op == "insert":

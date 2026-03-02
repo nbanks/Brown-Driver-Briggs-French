@@ -59,24 +59,56 @@ COL_STATUS = 6
 # LLM response parsing
 # ---------------------------------------------------------------------------
 
-def check_llm_errata(raw: str) -> str | None:
-    """Check if LLM flagged the input as errata. Returns reason or None."""
-    for line in raw.strip().splitlines():
-        line = line.strip()
-        if line.startswith(">>> ERRATA"):
-            rest = line[len(">>> ERRATA"):].lstrip(":").strip()
-            return rest or "LLM flagged translation error"
-    return None
+def check_llm_errata(raw: str) -> tuple[str | None, str | None]:
+    """Check if LLM flagged the input as errata.
+
+    Returns (reason, html_body).  *reason* is None when no errata was
+    flagged.  *html_body* is the HTML the LLM produced after the errata
+    preamble (if any) — this lets the caller use it as a placeholder
+    instead of discarding everything.
+    """
+    lines = raw.strip().splitlines()
+    errata_reason = None
+    errata_end = 0  # line index just past the last errata/prose line
+
+    for i, line in enumerate(lines):
+        stripped = line.strip()
+        if stripped.startswith(">>> ERRATA"):
+            rest = stripped[len(">>> ERRATA"):].lstrip(":").strip()
+            errata_reason = rest or "LLM flagged translation error"
+            errata_end = i + 1
+        elif errata_reason is not None:
+            # Prose explanation following the ERRATA line — skip until
+            # we hit something that looks like HTML or a code fence.
+            if stripped.startswith("<") or stripped.startswith("```"):
+                break
+            errata_end = i + 1
+
+    if errata_reason is None:
+        return None, None
+
+    # Try to recover HTML after the errata preamble.
+    remainder = "\n".join(lines[errata_end:]).strip()
+    if remainder:
+        html_body = extract_html(remainder)
+        if html_body and "<" in html_body:
+            return errata_reason, html_body
+
+    return errata_reason, None
 
 
 def extract_html(raw: str) -> str:
     """Extract HTML from LLM response, stripping markdown fences if present."""
     raw = raw.strip()
+    # Full fence: ```html ... ```
     m = re.match(r"^```(?:html)?\s*\n(.*?)```\s*$", raw, re.DOTALL)
     if m:
         return m.group(1).strip()
     if raw.startswith("```") and raw.endswith("```"):
         return raw[3:-3].strip()
+    # Trailing-only fence (LLM forgot the opening fence)
+    if raw.endswith("```") and not raw.startswith("```"):
+        return raw[:-3].rstrip()
     return raw
 
 
@@ -280,8 +312,10 @@ def _assemble_and_validate(bdb_id: str, outputs: list[str | None],
                       chunk_idx=idx if is_chunked else None,
                       total_chunks=n if is_chunked else None)
 
-    if failed_chunks or errata_chunks:
+    if failed_chunks:
         return "FAILED"
+    if errata_chunks:
+        return "ERRATA"
 
     # Final validation of assembled result (catches cross-chunk issues)
     all_errors = validate_html(orig_html, assembled, french_txt)
@@ -487,7 +521,6 @@ def _smart_worker(q: "queue.Queue[SmartJob | None]",
                             and state.main_loop_done)
 
         if not all_resolved:
-            n_done = sum(1 for o in state.outputs if o is not None)
             n_total = len(state.outputs)
             if errors:
                 verdict = _color_text("✗", "FAILED")
@@ -500,7 +533,7 @@ def _smart_worker(q: "queue.Queue[SmartJob | None]",
             if not same:
                 parts.append(f"← {state.bdb_id}")
             if n_total > 1:
-                parts.append(f"{n_done}/{n_total}")
+                parts.append(f"{job.chunk_idx + 1}/{n_total}")
             prefix = " ".join(parts) if parts else "←"
             if _USE_COLOR:
                 s = f" \033[1;33m{prefix}\033[0m {verdict}"
@@ -687,11 +720,18 @@ def _try_server(bdb_id: str, idx: int, n: int,
                 Path(f"{dbg}-think.txt").write_text(
                     thinking, encoding="utf-8")
 
-        errata_reason = check_llm_errata(raw)
+        errata_reason, errata_html = check_llm_errata(raw)
         if errata_reason:
             if on_attempt and not is_smart:
                 on_attempt(attempt_num, errata=True)
-            return (None, prompt_kb_total, attempt_num, [],
+            # Use recovered HTML as placeholder if available.
+            placeholder = None
+            if errata_html:
+                placeholder = errata_html
+                if is_chunked:
+                    placeholder = unwrap_chunk(placeholder,
+                                               _wrap_prefix, _wrap_suffix)
+            return (placeholder, prompt_kb_total, attempt_num, [],
                     errata_reason, history)
 
         output = extract_html(raw)

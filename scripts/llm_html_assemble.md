@@ -336,14 +336,24 @@ C'est **FAUX** si le texte français indique `Es^3^`. Le texte visible `Isa` doi
     <lookup onclick="bdbabb('Isa')">Es<sup>3</sup></lookup>
 ```
 
-### ❌ Erreur 4 — Refs bibliques non converties
+### ❌ Erreur 4 — Refs bibliques non converties / ponctuation altérée
 
-Si vous produisez ceci pour BDB200 :
+Le HTML original a :
 ```html
-    <ref ref="1Chr 7:16" b="13" cBegin="7" vBegin="16" ...>1Chr 7:16</ref>
+    <ref ref="Song 5:2" ...>Song 5:2</ref>, <bdbheb>תָיו</bdbheb>-
 ```
 
-C'est **FAUX** — le texte affiché doit être `1 Ch 7,16` (abréviation française, virgule). Les attributs `ref="1Chr 7:16"` restent inchangés.
+Le texte français dit : `Ct 5,2,` puis `תָיו-`
+
+Si vous produisez ceci :
+```html
+    <ref ref="Song 5:2" ...>Song 5:2</ref> ; <bdbheb>תָיו</bdbheb>-
+```
+
+C'est **FAUX** pour deux raisons : (1) le texte affiché `Song 5:2` n'a pas été converti en `Ct 5,2` ; (2) la virgule originale `,` a été remplacée par ` ; `. Les attributs (`ref="Song 5:2"`) restent inchangés, mais le texte visible doit suivre le français. La ponctuation entre les balises doit correspondre exactement à l'original et au texte français. Le résultat correct est :
+```html
+    <ref ref="Song 5:2" ...>Ct 5,2</ref>, <bdbheb>תָיו</bdbheb>-
+```
 
 ### ❌ Erreur 5 — Copie de l'anglais au lieu de traduction
 

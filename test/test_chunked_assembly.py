@@ -18,7 +18,7 @@ import pytest
 
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', 'scripts'))
 from split_entry import split_html, split_txt
-from llm_html_assemble import build_chunk_prompt
+from llm_html_assemble import build_chunk_prompt, extract_html, check_llm_errata
 from validate_html import validate_file
 
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -113,7 +113,7 @@ def test_build_chunk_prompt_contains_mode_note():
     assert "Mode morceau (1/3)" in result
     assert "<p>html</p>" in result
     assert "texte" in result
-    assert "n'ajoutez pas" in result
+    assert "Reproduisez exactement" in result
 
 
 def test_build_chunk_prompt_preserves_template():
@@ -149,7 +149,7 @@ def test_large_entries_produce_multiple_chunks():
 # missing footer, only-middle-chunk, etc.
 
 # A real entry we'll use as a basis for fragment tests
-_SAMPLE_BDB = "BDB200"
+_SAMPLE_BDB = "BDB10015"
 
 
 @pytest.fixture
@@ -204,7 +204,7 @@ def test_correct_concatenation_validates_clean(validation_dirs):
     We use the real Entries_fr if it exists, otherwise build from chunks."""
     real_fr = os.path.join(BASE, "Entries_fr", _SAMPLE_BDB + ".html")
     if not os.path.exists(real_fr):
-        pytest.skip("No existing Entries_fr for BDB200")
+        pytest.skip(f"No existing Entries_fr for {_SAMPLE_BDB}")
     # Validate the real French file against our temp copies
     shutil.copy(real_fr, os.path.join(
         validation_dirs["entries_fr"], _SAMPLE_BDB + ".html"))
@@ -237,20 +237,19 @@ def test_missing_header_chunk_detected(validation_dirs):
     )
 
 
-def test_missing_footer_chunk_detected(validation_dirs):
-    """If the footer chunk (with <hr>) is dropped, validation may catch
-    tag sequence differences."""
+def test_missing_last_chunk_detected(validation_dirs):
+    """Dropping the last chunk should trigger validation errors
+    (missing Hebrew text, tag sequence differences, etc.)."""
     html = validation_dirs["orig_html"]
     chunks = split_html(html)
-    footer_chunks = [c for c in chunks if c["type"] == "footer"]
-    if not footer_chunks:
-        pytest.skip("Entry has no footer chunk")
+    if len(chunks) < 2:
+        pytest.skip("Entry doesn't split into multiple chunks")
 
-    no_footer = "".join(c["html"] for c in chunks if c["type"] != "footer")
-    errors = _write_fr(validation_dirs, no_footer)
-    # Footer removal should cause some validation issue (tag seq, missing text)
-    # Even if no errors, that's also acceptable — footer is often just <hr>
-    # This test documents the behavior rather than strictly requiring errors
+    without_last = "".join(c["html"] for c in chunks[:-1])
+    errors = _write_fr(validation_dirs, without_last)
+    assert len(errors) > 0, (
+        "Expected errors from dropping the last chunk"
+    )
 
 
 def test_only_middle_chunk_detected(validation_dirs):
@@ -283,7 +282,7 @@ def test_english_original_as_french_detected(validation_dirs):
         "English" in msg or "French text missing" in msg or "colon" in msg
         for msg in error_msgs
     )
-    # BDB200 has refs like "1Chr 7:16" which should be caught
+    # The English original should have untranslated refs that get caught
     assert has_english_error, (
         f"Expected English-detection errors, got: {error_msgs}"
     )
@@ -303,6 +302,95 @@ def test_chunks_concatenated_match_whole_entry_validation(validation_dirs):
     assert abs(len(errors_orig) - len(errors_reasm)) <= 1, (
         f"orig errors: {len(errors_orig)}, reassembled errors: {len(errors_reasm)}"
     )
+
+
+# --- extract_html tests ---
+
+class TestExtractHtml:
+    def test_full_fence(self):
+        raw = "```html\n<p>hello</p>\n```"
+        assert extract_html(raw) == "<p>hello</p>"
+
+    def test_full_fence_no_lang(self):
+        raw = "```\n<p>hello</p>\n```"
+        assert extract_html(raw) == "<p>hello</p>"
+
+    def test_trailing_only_fence(self):
+        raw = "<html><p>content</p></html>\n```"
+        assert extract_html(raw) == "<html><p>content</p></html>"
+
+    def test_trailing_fence_no_newline(self):
+        raw = "<html><p>content</p></html>```"
+        assert extract_html(raw) == "<html><p>content</p></html>"
+
+    def test_no_fence(self):
+        raw = "<html><p>content</p></html>"
+        assert extract_html(raw) == raw
+
+    def test_backticks_inside_html_not_stripped(self):
+        """Backticks inside HTML content should not be treated as fences."""
+        raw = "<p>use ```code``` here</p>"
+        assert extract_html(raw) == raw
+
+    def test_whitespace_stripped(self):
+        raw = "  \n```html\n<p>x</p>\n```\n  "
+        assert extract_html(raw) == "<p>x</p>"
+
+
+# --- check_llm_errata tests ---
+
+class TestCheckLlmErrata:
+    def test_no_errata(self):
+        raw = "<html><p>normal output</p></html>"
+        reason, html = check_llm_errata(raw)
+        assert reason is None
+        assert html is None
+
+    def test_pure_errata_no_html(self):
+        raw = (">>> ERRATA: contenu tronqué — le texte français ne couvre "
+               "qu'une fraction de l'entrée originale")
+        reason, html = check_llm_errata(raw)
+        assert reason is not None
+        assert "tronqué" in reason
+        assert html is None
+
+    def test_errata_with_html_after(self):
+        raw = (">>> ERRATA: accent manquant sur majuscule\n"
+               "Le texte a un problème.\n"
+               "<html><p>contenu</p></html>")
+        reason, html = check_llm_errata(raw)
+        assert reason is not None
+        assert "accent" in reason
+        assert html is not None
+        assert "<html>" in html
+
+    def test_errata_with_fenced_html_after(self):
+        raw = (">>> ERRATA: erreur de ponctuation\n"
+               "Explication du problème.\n"
+               "```html\n<html><p>contenu</p></html>\n```")
+        reason, html = check_llm_errata(raw)
+        assert reason is not None
+        assert html is not None
+        assert "<html>" in html
+        assert "```" not in html
+
+    def test_errata_with_trailing_fence_html(self):
+        raw = (">>> ERRATA: référence non convertie\n"
+               "Ceci est une explication.\n"
+               "<html><p>contenu</p></html>\n```")
+        reason, html = check_llm_errata(raw)
+        assert reason is not None
+        assert html is not None
+        assert "```" not in html
+
+    def test_errata_prose_only(self):
+        """Errata with multi-line prose explanation but no HTML."""
+        raw = (">>> ERRATA: contenu sévèrement tronqué\n"
+               "Le texte français ne couvre qu'une fraction.\n"
+               "Il manque le sens 2 et ses sous-sens.")
+        reason, html = check_llm_errata(raw)
+        assert reason is not None
+        assert html is None
 
 
 if __name__ == "__main__":

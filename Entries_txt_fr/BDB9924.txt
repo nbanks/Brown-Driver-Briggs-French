@@ -19,7 +19,7 @@ villes Esd 4,10 ;
 Esd 4,17 de
 personnes Esd 4,9 v
 Esd 4,10 Esd 4,17
-6,16> ; Dn 2,18
+Esd 6,16 ; Dn 2,18
 , de bêtes Dn 7,7 ;
 Dn 7,12 ; Dn 7,19.
 

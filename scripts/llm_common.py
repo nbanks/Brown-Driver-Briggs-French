@@ -90,17 +90,19 @@ def _scripts_dir() -> Path:
     return Path(__file__).resolve().parent
 
 
-def load_clean_cache(cache_path: Path) -> dict[str, str]:
+def load_clean_cache(cache_path: Path, scripts_dir: Path | None = None
+                     ) -> dict[str, str]:
     """Load {bdb_id: hash} from the clean cache file.
 
-    Returns an empty dict if any .py file in scripts/ is newer than the
-    cache, since a code change could alter validation logic.
+    Returns an empty dict if any .py file in *scripts_dir* (default:
+    ``scripts/``) is newer than the cache, since a code change could
+    alter validation logic.
     """
     cache = {}
     if not cache_path.exists():
         return cache
     cache_mtime = cache_path.stat().st_mtime
-    scripts = _scripts_dir()
+    scripts = scripts_dir or _scripts_dir()
     if scripts.is_dir():
         for py in scripts.glob("*.py"):
             if py.stat().st_mtime > cache_mtime:
