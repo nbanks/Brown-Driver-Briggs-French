@@ -18,6 +18,7 @@ Usage:
 """
 
 import argparse
+import os
 import re
 import sys
 import threading
@@ -41,7 +42,8 @@ ENTRIES_FR_DIR = ROOT / "Entries_fr"
 TXT_FR_DIR = ROOT / "Entries_txt_fr"
 ERRATA_FILE = Path("errata.txt")
 CLEAN_CACHE = Path("llm_html_clean.txt")
-RESULTS_FILE = Path("/tmp/llm_html_assemble_results.txt")
+_TMP_DIR = Path("/tmp/llm-html")
+RESULTS_FILE = _TMP_DIR / "results.txt"
 PROMPT_FILE = SCRIPT_DIR / "llm_html_assemble.md"
 
 # Column widths for aligned CSV output
@@ -74,6 +76,79 @@ def extract_html(raw: str) -> str:
     return raw
 
 
+# Sentinel comments marking artificial wrapper boundaries.
+_WRAP_HEAD = "<!-- @@CHUNK-WRAPPER-HEAD@@ -->"
+_WRAP_TAIL = "<!-- @@CHUNK-WRAPPER-TAIL@@ -->"
+
+
+def wrap_chunk(html: str) -> tuple[str, str, str]:
+    """Balance unmatched <html>/<p> tags so the LLM sees matched pairs.
+
+    Only adds the missing counterpart when one end is present but not
+    the other.  Middle chunks (neither tag) are left alone.
+
+    Returns (wrapped_html, prefix_added, suffix_added).
+    The prefix/suffix strings are empty if nothing was added.
+    """
+    s = html.strip()
+    low = s.lower()
+
+    has_html_open = s.startswith("<html")
+    has_html_close = low.rstrip().endswith("</html>")
+    p_imbalance = (low.count("<p>") + low.count("<p ")) - low.count("</p>")
+
+    # Build prefix for missing openers (outermost first)
+    prefix = ""
+    if has_html_close and not has_html_open:
+        prefix += "<html>\n"
+    if p_imbalance < 0:  # more </p> than <p>
+        prefix += "<p>\n"
+
+    # Build suffix for missing closers (innermost first)
+    suffix = ""
+    if p_imbalance > 0:  # more <p> than </p>
+        suffix += "\n</p>"
+    if has_html_open and not has_html_close:
+        suffix += "\n</html>"
+
+    if prefix:
+        html = prefix + _WRAP_HEAD + "\n" + html
+    if suffix:
+        html = html + "\n" + _WRAP_TAIL + suffix
+
+    return html, prefix, suffix
+
+
+def unwrap_chunk(output: str, prefix: str, suffix: str) -> str:
+    """Strip the artificial wrapper from LLM output.
+
+    Looks for sentinel comments first; falls back to regex stripping.
+    """
+    if prefix:
+        idx = output.find(_WRAP_HEAD)
+        if idx >= 0:
+            output = output[idx + len(_WRAP_HEAD):]
+            if output.startswith("\n"):
+                output = output[1:]
+        else:
+            # Sentinel dropped — strip each tag we prepended
+            for tag in re.findall(r'<[^>]+>', prefix):
+                output = re.sub(r'^\s*' + re.escape(tag) + r'\s*',
+                                '', output)
+
+    if suffix:
+        idx = output.find(_WRAP_TAIL)
+        if idx >= 0:
+            output = output[:idx].rstrip()
+        else:
+            # Sentinel dropped — strip each tag we appended
+            for tag in reversed(re.findall(r'</[^>]+>', suffix)):
+                output = re.sub(r'\s*' + re.escape(tag) + r'\s*$',
+                                '', output)
+
+    return output
+
+
 # ---------------------------------------------------------------------------
 # Prompt building
 # ---------------------------------------------------------------------------
@@ -88,10 +163,9 @@ def build_prompt(template: str, orig_html: str, french_txt: str) -> str:
 CHUNK_NOTE_TEMPLATE = (
     "\n\n## Mode morceau ({idx}/{total})\n\n"
     "Vous recevez un **morceau** d'une entrée, pas l'entrée complète. "
-    "Produisez le HTML uniquement pour ce morceau. "
-    "Le HTML original ci-dessus peut commencer ou finir au milieu d'une "
-    "page (`<head>` sans `</head>`, etc.) — c'est normal, reproduisez "
-    "exactement la structure fournie.\n"
+    "Produisez le HTML complet pour ce morceau, y compris les balises "
+    "`<html>`, `</html>` etc. telles qu'elles apparaissent dans le HTML "
+    "original ci-dessus. Reproduisez exactement la structure fournie.\n"
 )
 
 
@@ -117,8 +191,12 @@ def _build_retry_suffix(history: list[tuple[str, list[str]]],
     scope = " pour ce morceau" if is_chunk else ""
     parts = []
 
+    max_errors = 5
     for i, (output, errors) in enumerate(history, 1):
-        error_lines = "\n".join(f"- {msg}" for msg in errors)
+        shown = errors[:max_errors]
+        error_lines = "\n".join(f"- {msg}" for msg in shown)
+        if len(errors) > max_errors:
+            error_lines += f"\n- ... et {len(errors) - max_errors} autres erreurs"
         label = f"Tentative {i}" if len(history) > 1 else "Tentative précédente"
         parts.extend([
             "",
@@ -231,21 +309,42 @@ def _generate_chunk(bdb_id: str, idx: int, n: int,
     history: list[tuple[str, list[str]]] = []  # (output, errors) per attempt
     errata_reason = None
 
+    # Wrap incomplete chunks so the LLM always sees a full HTML document.
+    # The artificial parts are stripped from the output after generation.
+    if is_chunked:
+        wrapped_html, _wrap_prefix, _wrap_suffix = wrap_chunk(orig_html)
+    else:
+        wrapped_html, _wrap_prefix, _wrap_suffix = orig_html, "", ""
+
     for attempt in range(1, max_retries + 1):
         # Skip if already clean (warm-start found no errors)
         if output is not None and not errors:
             return output, prompt_kb_total, 0, [], None
 
-        # Build prompt
+        # Build prompt (using wrapped HTML so LLM sees complete document)
         if is_chunked:
-            base = build_chunk_prompt(template, orig_html, txt_fr, idx, n)
+            base = build_chunk_prompt(template, wrapped_html, txt_fr, idx, n)
         else:
             base = build_prompt(template, orig_html, txt_fr)
 
         if errors and output is not None:
-            history.append((output, errors))
-            prompt = base + _build_retry_suffix(history,
-                                                is_chunk=is_chunked)
+            # Decide whether to include previous output in the prompt.
+            # - Always skip if bloated (>1.2x orig): it's junk.
+            # - On first attempt (output from a prior run / different model),
+            #   also skip if >5KB — a large blob from a different model
+            #   wastes context without helping.
+            prev_len = len(output)
+            skip_prev = (prev_len > 1.2 * len(orig_html)
+                         or (attempt == 1 and prev_len > 5120))
+            if skip_prev:
+                output = None
+                errors = []
+                history.clear()
+                prompt = base
+            else:
+                history.append((output, errors))
+                prompt = base + _build_retry_suffix(history,
+                                                    is_chunk=is_chunked)
         else:
             prompt = base
             if prior_errata_reason and attempt == 1:
@@ -267,7 +366,7 @@ def _generate_chunk(bdb_id: str, idx: int, n: int,
             on_attempt(attempt)
 
         if debug:
-            dbg = f"/tmp/llm-html-debug-{bdb_id}-try{attempt}"
+            dbg = f"/tmp/llm-html/debug-{bdb_id}-try{attempt}"
             if is_chunked:
                 dbg += f"-chunk{idx}"
             Path(f"{dbg}-prompt.txt").write_text(prompt, encoding="utf-8")
@@ -281,9 +380,11 @@ def _generate_chunk(bdb_id: str, idx: int, n: int,
                 raw = query_llm(prompt, server_url, max_tokens=131072)
                 thinking = None
         except ContextOverflow:
-            if is_chunked:
-                return output, prompt_kb_total, attempt, errors, None
-            return None, prompt_kb_total, attempt, errors, "SKIPPED"
+            if not smart_server:
+                if is_chunked:
+                    return output, prompt_kb_total, attempt, errors, None
+                return None, prompt_kb_total, attempt, errors, "SKIPPED"
+            break  # fall through to smart server
 
         if debug:
             Path(f"{dbg}-out.txt").write_text(raw, encoding="utf-8")
@@ -300,6 +401,8 @@ def _generate_chunk(bdb_id: str, idx: int, n: int,
             return None, prompt_kb_total, attempt, [], errata_reason
 
         output = extract_html(raw)
+        if is_chunked:
+            output = unwrap_chunk(output, _wrap_prefix, _wrap_suffix)
 
         errors = validate_html(orig_html, output, txt_fr)
         if not errors:
@@ -309,7 +412,7 @@ def _generate_chunk(bdb_id: str, idx: int, n: int,
     if smart_server and smart_retries and (errors or errata_reason):
         for smart_attempt in range(1, smart_retries + 1):
             if is_chunked:
-                base = build_chunk_prompt(template, orig_html, txt_fr, idx, n)
+                base = build_chunk_prompt(template, wrapped_html, txt_fr, idx, n)
             else:
                 base = build_prompt(template, orig_html, txt_fr)
 
@@ -323,6 +426,12 @@ def _generate_chunk(bdb_id: str, idx: int, n: int,
                     f" Si le problème est réel et incontournable,"
                     f" vous pouvez aussi signaler ERRATA.")
                 errata_reason = None  # reset so subsequent retries use normal suffix
+            elif output is not None and (
+                    len(output) > 1.2 * len(orig_html)
+                    or (smart_attempt == 1 and len(output) > 5120)):
+                # Bloated or large output from a different model — start fresh
+                prompt = base
+                history.clear()
             else:
                 history.append((output, errors))
                 prompt = base + _build_retry_suffix(history,
@@ -335,7 +444,7 @@ def _generate_chunk(bdb_id: str, idx: int, n: int,
                 on_attempt(attempt_num, smart=True)
 
             if debug:
-                dbg = f"/tmp/llm-html-debug-{bdb_id}-smart{smart_attempt}"
+                dbg = f"/tmp/llm-html/debug-{bdb_id}-smart{smart_attempt}"
                 if is_chunked:
                     dbg += f"-chunk{idx}"
                 Path(f"{dbg}-prompt.txt").write_text(prompt, encoding="utf-8")
@@ -353,6 +462,8 @@ def _generate_chunk(bdb_id: str, idx: int, n: int,
                 return None, prompt_kb_total, attempt_num, [], errata_reason
 
             output = extract_html(raw)
+            if is_chunked:
+                output = unwrap_chunk(output, _wrap_prefix, _wrap_suffix)
             errors = validate_html(orig_html, output, txt_fr)
             if not errors:
                 return output, prompt_kb_total, attempt_num, [], None
@@ -421,27 +532,30 @@ def process_entry(bdb_id: str, orig_path: Path, txt_path: Path,
         if is_chunked:
             fr_chunks = split_html(prev_fr_html)
             n_fr = len(fr_chunks)
-            fr_parts = [c["html"] for c in fr_chunks]
-            # Validate chunks that exist in both orig and fr
-            all_clean = (n_fr == n)
-            for idx in range(min(n_fr, n)):
-                errs = validate_html(
-                    orig_parts[idx], fr_parts[idx], txt_parts[idx])
-                if errs:
-                    all_clean = False
-                    chunk_prev_outputs[idx] = fr_parts[idx]
-                    chunk_prev_errors[idx] = errs
-                    if skip_failed:
-                        # Keep errored chunk as-is, don't regenerate
-                        outputs[idx] = fr_parts[idx]
-                else:
-                    outputs[idx] = fr_parts[idx]  # reuse clean chunk
-            if n_fr < n:
-                all_clean = False  # missing chunks
-                if skip_incomplete:
+            if n_fr != n:
+                # Chunk count mismatch — existing file is misaligned,
+                # discard it and regenerate from scratch.
+                pass
+            else:
+                fr_parts = [c["html"] for c in fr_chunks]
+                # Validate chunks that exist in both orig and fr
+                all_clean = True
+                for idx in range(n):
+                    errs = validate_html(
+                        orig_parts[idx], fr_parts[idx], txt_parts[idx])
+                    if errs:
+                        all_clean = False
+                        chunk_prev_outputs[idx] = fr_parts[idx]
+                        chunk_prev_errors[idx] = errs
+                        if skip_failed:
+                            # Keep errored chunk as-is, don't regenerate
+                            outputs[idx] = fr_parts[idx]
+                    else:
+                        outputs[idx] = fr_parts[idx]  # reuse clean chunk
+                if skip_incomplete and not all_clean:
                     return "SKIPPED", 0.0, 0
-            if all_clean:
-                return "CLEAN", 0.0, 0
+                if all_clean:
+                    return "CLEAN", 0.0, 0
         else:
             prev_output = prev_fr_html
             prev_errors = validate_html(orig_html, prev_output, french_txt)
@@ -520,11 +634,16 @@ def process_entry(bdb_id: str, orig_path: Path, txt_path: Path,
                       chunk_idx=idx if is_chunked else None,
                       total_chunks=n if is_chunked else None)
 
-    # Assemble whatever we have and write to disk
-    parts = [o for o in outputs if o is not None]
-    if not parts:
+    # Assemble whatever we have and write to disk.
+    # For missing chunks, use the original English HTML as a placeholder so
+    # that chunk indices stay aligned on the next run and clean chunks can
+    # be reused.
+    if all(o is None for o in outputs):
         return "FAILED", total_prompt_kb, max_retries
 
+    parts = []
+    for idx, o in enumerate(outputs):
+        parts.append(o if o is not None else orig_parts[idx])
     assembled = "".join(parts)
     fr_path.write_text(assembled, encoding="utf-8")
 
@@ -633,7 +752,7 @@ def main():
     )
     parser.add_argument(
         "--debug", action="store_true", default=False,
-        help="Write prompt/response to /tmp/llm-html-debug-BDBnnn-tryN-{prompt,out}.txt.",
+        help="Write prompt/response to /tmp/llm-html/debug-BDBnnn-tryN-{prompt,out}.txt.",
     )
     parser.add_argument(
         "--smart-server", default=None, metavar="URL",
@@ -657,6 +776,10 @@ def main():
         ERRATA_FILE = Path(args.errata_file)
     if args.results:
         RESULTS_FILE = Path(args.results)
+
+    # Ensure tmp directory and files are group-writable
+    os.umask(0o002)
+    _TMP_DIR.mkdir(mode=0o775, exist_ok=True)
 
     prompt_path = Path(args.prompt) if args.prompt else PROMPT_FILE
     if not prompt_path.exists():
@@ -876,7 +999,7 @@ def main():
         jit_errata = _errata_now(bdb_id) if args.skip_errata else errata_map.get(bdb_id, {})
         errata_skip: set[int] = set()
         errata_reasons: dict[int, str] = {}
-        skip_errata_chunks = args.skip_errata or args.skip_failed
+        skip_errata_chunks = args.skip_errata
         if jit_errata:
             if None in jit_errata and args.skip_errata:
                 return filename, "SKIP", 0.0, "(errata)"

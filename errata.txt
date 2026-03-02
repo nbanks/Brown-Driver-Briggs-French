@@ -4022,3 +4022,73 @@ BDB9980 html  chunk 1/1 failed after 3 retries: French text nearly matches HTML 
 BDB9984 html   chunk 1/4 failed after 3 retries: raw tag extra in French: '</html>'
 BDB9991 html  LLM: ponctuation incohérente dans le texte français — il manque une parenthèse fermante après « מִשְׁתֶּה » (devrait être « מִשְׁתֶּה ») et la ponctuation finale de la phrase est incorrecte (point-virgule au lieu de point ou virgule selon le contexte). De plus, la structure de la phrase « festin (comme hébreu biblique מִשְׁתֶּה ] » est brisée.
 BDB9996 html  LLM chunk 1/2: le texte français contient « id. » (latin non traduit) — devrait être « idem » ou « même chose » selon le contexte, mais surtout « id. » n'est pas une traduction française valide. De plus, la ponctuation « ; — » en fin de texte français semble incomplète ou mal formatée par rapport au HTML original qui se termine par « — » sans point-virgule. Vérifier la traduction de « id. » et la ponctuation finale.
+BDB3454 html  2049 issues after 3 retries (chunked): missing Hebrew/Aramaic: יֹדֵעַ מְנַגֵּן; missing Hebrew/Aramaic: מִשְׁכַּב זָכָר; missing Hebrew/Aramaic: מידעת; missing Hebrew/Aramaic: לְעֵינֵי; missing Hebrew/Aramaic: יְדָעָהּ; ... (+2044 more)
+BDB9980 html  failed after 3 retries: French text nearly matches HTML (57% prefix match). Diverges at: txt_fr has ...e basse condition ; — construit ׳... but HTML has ...e basse condition   en station  ; — const...
+BDB1160 html  1083 issues after 3 retries (chunked): missing Hebrew/Aramaic: בְּנֵי מִצְרַיִם; missing Hebrew/Aramaic: וּבְּנֵי הַלֵּוִי; missing Hebrew/Aramaic: בְּנֵי אַהֲרֹן; missing Hebrew/Aramaic: בְּנֵיעֲֿבָדֶיךָ; missing Hebrew/Aramaic: בֶּןאֲֿמָתֶ֑ךָ; ... (+1078 more)
+BDB9397 html  failed after 3 retries: French text missing from HTML: ", √ גנב), soit < côté (√ גנב, comparer arabe"
+BDB1176 html  3 issues after 3 retries (chunked): French text nearly matches HTML (48% prefix match). Diverges at: txt_fr has ...propre, masculin (fils de (la) droit... but HTML has ...propre, masculin  166  (  fils de (la) dr...; raw tag extra in French: '</p>'; raw tag extra in French: '</html>'
+BDB7335 html  failed after 3 retries: French text nearly matches HTML (59% prefix match). Diverges at: txt_fr has ...Plumptre débatteur)) ; — ׳... but HTML has ...e ,
+    Plumptre  débateur )) ; —  ׳ 
+     ק   un roi à J...
+BDB1160 html  1103 issues after 3 retries (chunked): missing Hebrew/Aramaic: בְּנֵיחֲֿמוֺר; missing Hebrew/Aramaic: בְּנֵי יְהוּדָה; missing Hebrew/Aramaic: הַכֹּהֲנִים ב; missing Hebrew/Aramaic: בְּנֵיחֵֿת; missing Hebrew/Aramaic: בְּנֵי אָסָף; ... (+1098 more)
+BDB8127 html  1 issues after 3 retries (chunked): raw tag extra in French: '</p>'
+BDB7854 html  failed after 3 retries: French text nearly matches HTML (80% prefix match). Diverges at: txt_fr has ...rement spacieux, < מֶרְחָב יָהּ,... but HTML has ...rement spacieux,  מֶרְחָב יָהּ ,
+     יָהּ...; raw tag extra in French: '< <bdbheb>'
+BDB1160 html  1269 issues after 3 retries (chunked): missing Hebrew/Aramaic: הַכֹּהֵן בֶּןאַֿהֲרֹן; missing Hebrew/Aramaic: בנימן; missing Hebrew/Aramaic: ל; missing Hebrew/Aramaic: קֶבֶר בְּנֵי הָעָם; missing Hebrew/Aramaic: בְּנֵי אַשּׁוּר; ... (+1264 more)
+BDB1160 html  1139 issues after 3 retries (chunked): missing Hebrew/Aramaic: דֹּרוֺת ב; missing Hebrew/Aramaic: בָּבֶל; missing Hebrew/Aramaic: בְּנֵי פָּרִיצֵי עַמְּךָ; missing Hebrew/Aramaic: בְּנֵיחֵֿת; missing Hebrew/Aramaic: בְּנֵי חֲצִי שֵׁבֶט מְנַשֶּׁה; ... (+1134 more)
+BDB1160:1/10 html  failed after 1 retries: raw tag extra in French: '</html>'
+BDB1160:2/10 html  failed after 1 retries: missing lookup attribute: "bdbabb('Che')"; French text nearly matches HTML (diverges near start). txt_fr has ...f ; Gn 5,28... but HTML has ...4
+      ;  Gn 5,28
+      ;  Gn 6,10 
+    ;  G...; French text nearly matches HTML (diverges near start). txt_fr has ...f. + souvent ; || (בָּנ... but HTML has ...11 
+    + souvent ; ||  (בָּנ...; French text nearly matches HTML (64% prefix match). Diverges at: txt_fr has ...,4 ; Gn 5,7 ; Gn 5,10f. Gn 11,11 ;... but HTML has ...,4  ;  Gn 5,7  ;  Gn 5,10  ;  Gn 11,11  ;
+     Gn 11,13...; French text nearly matches HTML (77% prefix match). Diverges at: txt_fr has ...Gn 11,15f ;... but HTML has ...Gn 11,13  ;
+     Gn 11,15  ;
+     Ex 20,10  ;
+     Dt 5,14  ;...
+BDB1160:6/10 html  failed after 1 retries: French text nearly matches HTML (50% prefix match). Diverges at: txt_fr has ...נָּה ; voir Chetransl. et critical no... but HTML has ...נָּה  ; voir  Che traduction et note cri...
+BDB1160:7/10 html  failed after 1 retries: French text missing from HTML: "figuré de choses inanimées, בְּנֵי רֶשֶׁף"
+BDB1160:8/10 html  failed after 1 retries: French text nearly matches HTML (48% prefix match). Diverges at: txt_fr has ...ה ci-dessous גלה) : en outre, dans בֶּ... but HTML has ...ה  ci-dessous  גלה ) ; en outre, dans  בֶּ...
+BDB8848:2/5 html  failed after 3 retries: missing Hebrew/Aramaic: הַבַּיִתךֵסעוֺה ךֵהת פךֵךֵכ (of David's concubines) 2Sam 15:16; 2Sam
+                    16:21; 2Sam 20:3
+שֹׁמֵר הַכֵּלִים
+1Sam
+                    17:22, הַבְּגָדִים
+׳
+שׁ
+2Kgs
+                    22:14, חַפַּרְדֵּס
+׳
+שׁ
+Neh 2:8,
+                הַנָּשִׁים
+׳
+שׁ
+Esth 2:3;
+                Esth 2:14
+                ; 
+                    Esth 2:15, שֹׁמְרִים absolute Judg 7:19; Jer 51:12.; extra Hebrew/Aramaic not in original: הַבַּיִתךֵסעוֺה ךֵהת פךֵךֵכ (des concubines de David) 2 S 15,16 ; 2 S
+                    16,21 ; 2 S 20,3
+שֹׁמֵר הַכֵּלִים
+1 S
+                    17,22, הַבְּגָדִים
+׳
+שׁ
+2 R
+                    22,14, חַפַּרְדֵּס
+׳
+שׁ
+Ne 2,8,
+                הַנָּשִׁים
+׳
+שׁ
+Est 2,3 ;
+                Est 2,14
+                 ; 
+                    Est 2,15, שֹׁמְרִים absolu Jg 7,19 ; Jr 51,12.; French text nearly matches HTML (53% prefix match). Diverges at: txt_fr has ...Infinitif absolu... but HTML has ...+, etc. ;
+     Infinitive absolute 
+     שָׁמוֺ...; French text nearly matches HTML (46% prefix match). Diverges at: txt_fr has ...construit שְׁמֹר... but HTML has ...Dt 5,12  + ;
+    construct  שְׁמֹר 
+     Gn 3,24  +,...; French text missing from HTML: "garder, conserver, mettre en réserve (nourriture) Gn 41,35 ("
+BDB1815:1/7 html  failed after 3 retries: raw tag extra in French: '</p>'; raw tag extra in French: '</html>'
+BDB1815:2/7 html  failed after 3 retries: French text nearly matches HTML (diverges near start). txt_fr has ...Qal seulement infinit... but HTML has ...l  41  seulement infinit...

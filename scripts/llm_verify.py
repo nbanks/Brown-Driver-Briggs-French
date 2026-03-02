@@ -16,6 +16,7 @@ entries produce a single row with the plain filename as key.
 """
 
 import argparse
+import os
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
@@ -132,7 +133,7 @@ def verify_chunked(template: str, english: str, french: str,
             on_chunk(idx, total, prompt_kb)
 
         stem = filename.rsplit(".", 1)[0]  # BDB50
-        dbg_base = f"/tmp/llm-verify-debug-{stem}-chunk{idx}"
+        dbg_base = f"/tmp/llm-verify/debug-{stem}-chunk{idx}"
 
         if debug:
             Path(f"{dbg_base}-prompt.txt").write_text(prompt, encoding="utf-8")
@@ -287,7 +288,7 @@ Modes and their defaults:
     )
     parser.add_argument(
         "--debug", action="store_true", default=False,
-        help="Write prompt/response to /tmp/llm-verify-debug-BDBnnn-{prompt,out}.txt.",
+        help="Write prompt/response to /tmp/llm-verify/debug-BDBnnn-{prompt,out}.txt.",
     )
     args = parser.parse_args()
 
@@ -298,6 +299,11 @@ Modes and their defaults:
     en_dir = ROOT / (args.source_dir or en_dir_name)
     results_path = ROOT / (args.results or results_name)
     prompt_path = Path(args.prompt) if args.prompt else SCRIPT_DIR / prompt_name
+
+    # Ensure tmp directory and files are group-writable
+    os.umask(0o002)
+    if args.debug:
+        Path("/tmp/llm-verify").mkdir(mode=0o775, exist_ok=True)
 
     if not fr_dir.is_dir():
         print(f"error: French directory not found: {fr_dir}", file=sys.stderr)
@@ -425,7 +431,7 @@ Modes and their defaults:
 
         stem = filename.rsplit(".", 1)[0]
         if args.debug:
-            Path(f"/tmp/llm-verify-debug-{stem}-prompt.txt").write_text(
+            Path(f"/tmp/llm-verify/debug-{stem}-prompt.txt").write_text(
                 prompt, encoding="utf-8")
 
         try:
@@ -439,7 +445,7 @@ Modes and their defaults:
             return filename, "SKIPPED", prompt_kb, ""
 
         if args.debug:
-            Path(f"/tmp/llm-verify-debug-{stem}-out.txt").write_text(
+            Path(f"/tmp/llm-verify/debug-{stem}-out.txt").write_text(
                 raw, encoding="utf-8")
 
         verdict, explanation, severity = parse_response(raw)
