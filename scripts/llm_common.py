@@ -261,8 +261,33 @@ def check_server(server_url: str):
         sys.exit(1)
 
 
+def format_eta_suffix(status, elapsed, elapsed_times, items_left, parallel=1,
+                      note=""):
+    """Return formatted '  STATUS    12.3s avg= 8.5s ETA 2h01m' string."""
+    if elapsed_times:
+        avg = sum(elapsed_times) / len(elapsed_times)
+    else:
+        avg = elapsed
+    remaining = avg / max(parallel, 1) * items_left
+    eta_m, eta_s = divmod(int(remaining), 60)
+    eta_h, eta_m = divmod(eta_m, 60)
+    if eta_h:
+        eta_str = f"{eta_h}h{eta_m:02d}m"
+    else:
+        eta_str = f"{eta_m}m{eta_s:02d}s"
+
+    if note:
+        plain = f"{status} {note}"
+    else:
+        plain = status
+    pad = max(0, 10 - len(plain))
+    colored = _color_text(plain, status) + " " * pad
+    return f"  {colored} {elapsed:6.1f}s avg={avg:5.1f}s ETA {eta_str}"
+
+
 def run_pipeline(items, process_fn, *, name_fn=None, size_fn=None,
-                 parallel=1, shuffle=False, limit=0, label="files"):
+                 parallel=1, shuffle=False, limit=0, label="files",
+                 print_lock=None):
     """Execute process_fn over items with progress, ETA, and graceful shutdown.
 
     items: list of work items (any type — passed to process_fn).
@@ -279,6 +304,8 @@ def run_pipeline(items, process_fn, *, name_fn=None, size_fn=None,
     shuffle: randomize order before processing.
     limit: stop after this many (0 = unlimited).
     label: noun for progress messages ("files", "entries", etc.).
+    print_lock: optional threading.Lock for serializing output. If None, a
+        new one is created.
 
     Returns dict of {status: count}.
     """
@@ -298,7 +325,8 @@ def run_pipeline(items, process_fn, *, name_fn=None, size_fn=None,
     counts = {}
     elapsed_times = []  # post-warmup times only, for avg/ETA
     completed = 0
-    print_lock = threading.Lock()
+    if print_lock is None:
+        print_lock = threading.Lock()
     shutdown_requested = threading.Event()
     futures = {}
 
@@ -334,40 +362,29 @@ def run_pipeline(items, process_fn, *, name_fn=None, size_fn=None,
 
         with print_lock:
             nonlocal warmup_done
-            completed += 1
             counts[status] = counts.get(status, 0) + 1
 
-            # Track warmup: once all initial `parallel` indices finish,
-            # discard accumulated times and start fresh.
-            if not warmup_done:
-                warmup_pending.discard(i)
-                if not warmup_pending:
-                    warmup_done = True
-                    elapsed_times.clear()
-            if warmup_done:
-                elapsed_times.append(elapsed)
+            is_pending = (status == "PENDING")
+            if not is_pending:
+                completed += 1
+                # Track warmup: once all initial `parallel` indices finish,
+                # discard accumulated times and start fresh.
+                if not warmup_done:
+                    warmup_pending.discard(i)
+                    if not warmup_pending:
+                        warmup_done = True
+                        elapsed_times.clear()
+                if warmup_done:
+                    elapsed_times.append(elapsed)
 
-            if elapsed_times:
-                avg = sum(elapsed_times) / len(elapsed_times)
+            if is_pending:
+                # Deferred to smart — print arrow, no ETA
+                suffix = f"  {_color_text('→ smart ...', 'WARN')}"
             else:
-                avg = elapsed
-            items_left = total - completed
-            remaining = avg / max(parallel, 1) * items_left
-            eta_m, eta_s = divmod(int(remaining), 60)
-            eta_h, eta_m = divmod(eta_m, 60)
-            if eta_h:
-                eta_str = f"{eta_h}h{eta_m:02d}m"
-            else:
-                eta_str = f"{eta_m}m{eta_s:02d}s"
+                suffix = format_eta_suffix(
+                    status, elapsed, elapsed_times,
+                    total - completed, parallel, note)
 
-            if note:
-                plain = f"{status} {note}"
-            else:
-                plain = status
-            pad = max(0, 10 - len(plain))
-            colored = _color_text(plain, status) + " " * pad
-            suffix = (f"  {colored} {elapsed:6.1f}s "
-                      f"avg={avg:5.1f}s ETA {eta_str}")
             if show_progress:
                 # Sequential mode: prefix + attempt numbers already on line
                 print(suffix)

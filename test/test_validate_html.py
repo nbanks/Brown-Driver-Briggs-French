@@ -1316,5 +1316,188 @@ class TestFrenchArticlesPrepositions(unittest.TestCase):
                            "Missing French articles were not detected")
 
 
+class TestStemSubFalsePositive(unittest.TestCase):
+    """<stem>X</stem><sub>N</sub> should not cause false positives.
+
+    The txt_fr uses _N_ for subscripts which get stripped by the validator,
+    but <sub>N</sub> content in the HTML visible text is NOT stripped,
+    causing a mismatch.  E.g. txt_fr "Qal_41_ seulement" becomes
+    "Qal seulement" after _N_ removal, but HTML "Qal 41 seulement"
+    normalizes to "Qal41seulement".
+    """
+
+    ORIG = (
+        '<html><head></head><body>'
+        '<language>Biblical Hebrew</language>'
+        '<div class="stem">'
+        '<stem>Qal</stem><sub>41</sub> only infinitive'
+        ' <bdbheb>\u05D3\u05BC\u05B9\u05D1\u05B5\u05E8</bdbheb>'
+        ' <gloss>speak</gloss>'
+        '</div>'
+        '</body></html>'
+    )
+
+    FR = (
+        '<html><head></head><body>'
+        '<language>h\u00e9breu biblique</language>'
+        '<div class="stem">'
+        '<stem>Qal</stem><sub>41</sub> seulement infinitif'
+        ' <bdbheb>\u05D3\u05BC\u05B9\u05D1\u05B5\u05E8</bdbheb>'
+        ' <gloss>parler</gloss>'
+        '</div>'
+        '</body></html>'
+    )
+
+    TXT_FR = (
+        "@@SPLIT:stem@@\n"
+        "Qal_41_ seulement infinitif\n"
+        "\u05D3\u05BC\u05B9\u05D1\u05B5\u05E8\n"
+        "parler\n"
+    )
+
+    def test_sub_content_no_false_positive(self):
+        """<sub>41</sub> stripped from txt via _N_ should not trigger mismatch."""
+        issues = validate_html(self.ORIG, self.FR, self.TXT_FR)
+        text_issues = [i for i in issues
+                       if "French text" in i and ("missing" in i or "match" in i.lower())]
+        self.assertEqual(text_issues, [],
+                         f"False positive from <sub> content: {text_issues}")
+
+    def test_sub_with_wrong_translation_detected(self):
+        """Genuinely wrong translation next to <sub> should still be caught."""
+        fr_bad = self.FR.replace("seulement infinitif", "only infinitive")
+        issues = validate_html(self.ORIG, fr_bad, self.TXT_FR)
+        text_issues = [i for i in issues
+                       if "French text" in i and ("missing" in i or "match" in i.lower())]
+        self.assertGreater(len(text_issues), 0,
+                           "Wrong translation beside <sub> was not detected")
+
+
+class TestHighlightBracketsFalsePositive(unittest.TestCase):
+    """Text split across <highlight> tags with brackets should not cause
+    false positives.
+
+    When txt_fr has "ils ne pouvaient lui parler amicalement" as a
+    continuous line, but the HTML faithfully renders
+    <highlight>ils ne pouvaient</highlight> [<highlight>pas</highlight>]
+    <highlight>lui parler amicalement</highlight>, the validator should
+    recognise this as matching since the bracket content is structural.
+    """
+
+    ORIG = (
+        '<html><head></head><body>'
+        '<language>Biblical Hebrew</language>'
+        '<p><bdbheb>\u05D9\u05D5\u05DB\u05DC\u05D5</bdbheb> '
+        '<highlight>they could</highlight> '
+        '[<highlight>not</highlight>] '
+        '<highlight>speak unto him peaceably</highlight></p>'
+        '</body></html>'
+    )
+
+    FR = (
+        '<html><head></head><body>'
+        '<language>h\u00e9breu biblique</language>'
+        '<p><bdbheb>\u05D9\u05D5\u05DB\u05DC\u05D5</bdbheb> '
+        '<highlight>ils ne pouvaient</highlight> '
+        '[<highlight>pas</highlight>] '
+        '<highlight>lui parler amicalement</highlight></p>'
+        '</body></html>'
+    )
+
+    TXT_FR = (
+        "\u05D9\u05D5\u05DB\u05DC\u05D5\n"
+        "ils ne pouvaient [pas] lui parler amicalement\n"
+    )
+
+    def test_bracket_split_no_false_positive(self):
+        """Bracket-wrapped tag content should not cause text mismatch."""
+        issues = validate_html(self.ORIG, self.FR, self.TXT_FR)
+        text_issues = [i for i in issues
+                       if "French text" in i and ("missing" in i or "match" in i.lower())]
+        self.assertEqual(text_issues, [],
+                         f"False positive from bracket-split tags: {text_issues}")
+
+    def test_bracket_split_with_english_detected(self):
+        """Leaving English inside brackets should still be caught."""
+        fr_bad = self.FR.replace("ils ne pouvaient", "they could not")
+        issues = validate_html(self.ORIG, fr_bad, self.TXT_FR)
+        text_issues = [i for i in issues
+                       if "French text" in i and ("missing" in i or "match" in i.lower())]
+        self.assertGreater(len(text_issues), 0,
+                           "English text in brackets was not detected")
+
+
+class TestRepeatedPhraseFalsePositive(unittest.TestCase):
+    """When the same French phrase appears in multiple senses, the validator
+    should not match a txt_fr line against the wrong occurrence and then
+    report a divergence.
+
+    E.g. "comparer les expressions" appears in both sense 1 and sense 3d.
+    The txt_fr for sense 3d has "comparer les expressions X Y Z" but the
+    validator finds the sense 1 occurrence first and then reports a
+    divergence because the following text differs.
+    """
+
+    ORIG = (
+        '<html><head></head><body>'
+        '<language>Biblical Hebrew</language>'
+        '<div class="sense"><sense>1.</sense>'
+        ' <highlight>compare the phrases</highlight> '
+        '<bdbheb>\u05D0</bdbheb> '
+        '<ref ref="Gen 1:1" b="1" cBegin="1" vBegin="1"'
+        ' cEnd="1" vEnd="1" onclick="bcv(1,1,1)">Gen 1:1</ref></div>'
+        '<div class="sense"><sense>2.</sense>'
+        ' <highlight>compare the phrases</highlight> '
+        '<bdbheb>\u05D1</bdbheb> '
+        '<ref ref="Gen 2:2" b="1" cBegin="2" vBegin="2"'
+        ' cEnd="2" vEnd="2" onclick="bcv(1,2,2)">Gen 2:2</ref></div>'
+        '</body></html>'
+    )
+
+    FR = (
+        '<html><head></head><body>'
+        '<language>h\u00e9breu biblique</language>'
+        '<div class="sense"><sense>1.</sense>'
+        ' <highlight>comparer les expressions</highlight> '
+        '<bdbheb>\u05D0</bdbheb> '
+        '<ref ref="Gen 1:1" b="1" cBegin="1" vBegin="1"'
+        ' cEnd="1" vEnd="1" onclick="bcv(1,1,1)">Gn 1,1</ref></div>'
+        '<div class="sense"><sense>2.</sense>'
+        ' <highlight>comparer les expressions</highlight> '
+        '<bdbheb>\u05D1</bdbheb> '
+        '<ref ref="Gen 2:2" b="1" cBegin="2" vBegin="2"'
+        ' cEnd="2" vEnd="2" onclick="bcv(1,2,2)">Gn 2,2</ref></div>'
+        '</body></html>'
+    )
+
+    TXT_FR = (
+        "1. comparer les expressions \u05D0 Gn 1,1\n"
+        "2. comparer les expressions \u05D1 Gn 2,2\n"
+    )
+
+    def test_repeated_phrase_no_false_positive(self):
+        """Repeated phrase in multiple senses should match correctly."""
+        issues = validate_html(self.ORIG, self.FR, self.TXT_FR)
+        text_issues = [i for i in issues
+                       if "French text" in i and ("missing" in i or "match" in i.lower())]
+        self.assertEqual(text_issues, [],
+                         f"False positive from repeated phrase: {text_issues}")
+
+    def test_repeated_phrase_with_wrong_second_sense(self):
+        """If the second occurrence is wrong, it should be caught."""
+        fr_bad = self.FR.replace(
+            '<sense>2.</sense>'
+            ' <highlight>comparer les expressions</highlight> '
+            '<bdbheb>\u05D1</bdbheb>',
+            '<sense>2.</sense>'
+            ' <highlight>compare the phrases</highlight> '
+            '<bdbheb>\u05D1</bdbheb>')
+        issues = validate_html(self.ORIG, fr_bad, self.TXT_FR)
+        text_issues = [i for i in issues
+                       if "French text" in i and ("missing" in i or "match" in i.lower())]
+        self.assertGreater(len(text_issues), 0,
+                           "English in second sense was not detected")
+
+
 if __name__ == "__main__":
     unittest.main()

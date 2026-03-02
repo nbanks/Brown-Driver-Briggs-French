@@ -336,7 +336,10 @@ def validate_html(orig_html, fr_html, txt_fr_content=None):
 
     # 7. French text content present verbatim (if txt_fr provided)
     if txt_fr_content is not None:
-        fr_visible = re.sub(r"<[^>]+>", " ", fr_html)
+        # Strip <sub>...</sub> entirely (txt_fr uses _N_ which gets stripped)
+        fr_visible = re.sub(r"<sub>[^<]*</sub>", " ", fr_html)
+        # Strip remaining tags
+        fr_visible = re.sub(r"<[^>]+>", " ", fr_visible)
         fr_visible = html.unescape(fr_visible)
         fr_visible = re.sub(r"&", "et", fr_visible)
         fr_visible = fr_visible.replace("`", "")
