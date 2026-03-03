@@ -4,7 +4,7 @@ Biblical Hebrew
 אֱדוֺם ( אֱדֹם
 Ezek 25:14)
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 proper name, masculine
 1.
@@ -23,7 +23,7 @@ Gen 36:1; Gen 36:8; Gen 36:19 (
 P
 ).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 collective (masculine but feminine
@@ -64,7 +64,7 @@ Ps 137:7
 בַּת א
 Lam 4:21; Lam 4:22
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 land of Edom, Idumaea (f.

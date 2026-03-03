@@ -16,7 +16,7 @@ hell, sichtbar sein, whence Assyrian
 amâru
 , see, & shew, declare, say) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -401,7 +401,7 @@ Esth
 11:18 = threaten followed by infinitive Deut 9:25; Ps
 106:23.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect
@@ -473,7 +473,7 @@ Di and others; Hoffm
 one
 speak (it be spoken) to God.'
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Perfect
@@ -489,7 +489,7 @@ Deut 26:17
 , i.e. through agency of Moses; on this & other interpretations see
 Di).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hithpa`el
 Imperfect

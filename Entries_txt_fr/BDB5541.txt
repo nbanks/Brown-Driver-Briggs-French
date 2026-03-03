@@ -11,7 +11,7 @@ roseaux, joncs (collectif) (probablement emprunt à l'égyptien
 Erman^ZMG xivi (1892), 122^ ; sémitique selon WMM^As.
 u.Eur.101^) ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 joncs, dans le Nil Ex 2,3 ; Ex 2,5 (
 E
@@ -19,7 +19,7 @@ E
 Es 19,6 (de l'
 Égypte).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2. habituellement dans la combinaison יַםסֿוּף probablement = mer des joncs ou des roseaux
 ( > mer de (la ville de) Suph), que le grec inclut dans le nom plus
 large θάλασσα Ἐρυθρἀ, mer Rouge (comparer Di^

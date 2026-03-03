@@ -22,7 +22,7 @@ and his son succeeded him; Ethiopic
 [placeholder1777: Placeholders/1777.gif]
 pass by, across, through) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -95,7 +95,7 @@ Isa
 (|| עבר), (compare Arabic IV. to break a
 promise).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Imperfect
@@ -106,7 +106,7 @@ E
 ) 2Sam
 12:20.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Perfect

@@ -4,7 +4,7 @@ Biblical Hebrew
 [חָכָה] verb
 wait, await —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Participle>plural construct חוֺכֵי
@@ -13,7 +13,7 @@ with לְ
 waiting for him (׳
 י).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 חִכָּה

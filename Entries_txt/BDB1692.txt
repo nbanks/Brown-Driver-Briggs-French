@@ -13,7 +13,7 @@ and others; Aramaic גְּמַר,
 [placeholder953: Placeholders/953.gif]
 collect, assemble) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect

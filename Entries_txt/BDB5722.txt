@@ -21,7 +21,7 @@ bit sutummu
 , storehouse, treasury, Zehnpf^BAS i. 531^.
 —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular ׳
@@ -65,7 +65,7 @@ usually no secret is too dark for thee, but doubtful (see II.
 חַרְטֻמִּים < Toy חֲכָמִים, or
 Berthol. קֹסְמִים.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Infinitive construct
@@ -73,7 +73,7 @@ Infinitive construct
 Neh 4:1 the
 breaches [in the walls] had begun to be stopped up.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el
 Perfect 3 plural suffix סִתְּמוּם

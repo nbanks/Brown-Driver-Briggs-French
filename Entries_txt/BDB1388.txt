@@ -6,7 +6,7 @@ Gen 15:10
 ^
 part, piece.
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 בִּתְרוֺ
@@ -17,7 +17,7 @@ Jer 34:18,
 Jer 34:19
 always of halves of animals cut in two in making covenants.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 הָרֵי בָּ֑תֶר

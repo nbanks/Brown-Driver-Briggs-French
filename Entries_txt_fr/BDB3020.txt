@@ -14,7 +14,7 @@ Schw) ; peut-être assyrien
 , sensé, Lyon^Sargontexte 65^
 ) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Imparfait 2 masculin singulier suffixe תַּחְפְּשֶׂ֫נָּה
 Pr 2,4
@@ -40,7 +40,7 @@ fouiller = examiner, Lm 3,40 (objet דרכינו ; || חקר
 ),
 Pr 20,27.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Niph`al
 Parfait
 נַחְפְּשׁוּ
@@ -48,7 +48,7 @@ Ab 1,6
 sujet עֵשָׂו collectif ; fouillé = mis à nu et pillé
 (|| נִבְעוּ מַצְפּוּנָיו).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Pi`el
 Parfait
 וְחִפַּשְׂתִּ֫י
@@ -89,7 +89,7 @@ E
 ׳
 י envers ses serviteurs).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 Pu`al
 Imparfait
 יְחֻפַּשׂ
@@ -105,7 +105,7 @@ Qal q. v.) ; voir aussi
 חֵ֫פֶשׂ
 .
 
-@@SPLIT:stem@@
+## SPLIT 5 stem
 Hithpa`el
 Parfait
 הִתְחַפֵּשׂ

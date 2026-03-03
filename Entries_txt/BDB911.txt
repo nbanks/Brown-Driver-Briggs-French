@@ -9,7 +9,7 @@ invent; compare Arabic
 [placeholder500: Placeholders/500.gif]
 begin, make a beginning) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect

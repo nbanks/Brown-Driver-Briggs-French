@@ -4,7 +4,7 @@ araméen biblique
 [חוּט ou חִיט] verbe
 réparer (les fondations) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Hilph.
 Imparfait 3 masculin pluriel יַחִ֫יטוּ

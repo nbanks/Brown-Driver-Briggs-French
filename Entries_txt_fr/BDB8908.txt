@@ -4,7 +4,7 @@ hébreu biblique
 [שֹׁ֫עַל] nom [masculin]
 creux de la main, poignée ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 creux de la main : suffixe בְּשָׁעֳלוֺ
 Es 40,12
@@ -12,7 +12,7 @@ Es 40,12
 ׳
 י tenant les eaux).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 poignée : pluriel שְׁעָלִים
 1 R 20,10

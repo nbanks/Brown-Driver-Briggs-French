@@ -19,7 +19,7 @@ Eccl 7:8,
 Job 42:12,
 etc.; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 
@@ -108,7 +108,7 @@ Neh 12:44
 ר
 Ezek 48:14
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 first chief, Amos 6:1

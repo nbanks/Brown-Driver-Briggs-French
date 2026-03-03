@@ -19,7 +19,7 @@ Dr ; We conjecture נִּי
 Ez 16,61 + ;
 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 petit ; surtout
 
@@ -60,7 +60,7 @@ E
 Es 22,24
 les vases de petite taille (figuré).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 petit ;
 

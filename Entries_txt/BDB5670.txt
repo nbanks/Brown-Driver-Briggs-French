@@ -15,7 +15,7 @@ collect, pick up; Arabic
 [placeholder3636: Placeholders/3636.gif] of wind, raise dust and carry it away
 Lane^1377^); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 
@@ -42,7 +42,7 @@ Amos 3:15 see
 סוף
 .
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Pf . 3 masculine singular וְנִסְפָּה consecutive 1Sam 26:10
@@ -91,7 +91,7 @@ and there is that is swept away for lack of justice. — 1Chr 21:12 read
 2.
 be caught up, captured, Isa 13:15 (|| נִמְצָא).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Imperfect1 singular אֵסְפֶּה עָלֵימוֺ רָעוֺת

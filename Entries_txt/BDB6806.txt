@@ -10,7 +10,7 @@ parâƒu
 [placeholder4339: Placeholders/4339.gif]
 cut, slit, also hit); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular פָּרַץ
@@ -135,7 +135,7 @@ partitive) but dubious. — 1Sam 28:23; 2Sam 13:25; 2Sam 13:27; 2Kgs 5:23 see
 פצר
 .
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Participle
@@ -147,13 +147,13 @@ Qal
 ׳
 דְּבַר י, but text dubious.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pu`al
 Participle feminine מְפֹרָ֑צֶת
 Neh 1:3 (of wall).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hithpa`el
 Participle plural הַמִּתְפָּֽרְצִים

@@ -13,7 +13,7 @@ help, Palmyrene עדר, rarely עזר
 Lzb^338^
 Cook^89. 90^); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular suffix עֲזָרָ֑נִי
@@ -139,7 +139,7 @@ Job 9:13
 
 Isa 31:3.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect
@@ -159,7 +159,7 @@ Infinitive construct
 he was wonderfully helped (literally made wonderful to be helped
 ).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il dubious: Infinitive construct
 2Sam 18:3

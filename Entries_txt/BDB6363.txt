@@ -19,7 +19,7 @@ Exod 30:8 + 4 t.,
 P
 ); —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 
@@ -126,7 +126,7 @@ morning, see ׳
 ב
 1.d, e.,
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. (late poetry) = night
 , עָ֑רֶב

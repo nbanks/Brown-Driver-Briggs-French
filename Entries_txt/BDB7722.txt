@@ -6,23 +6,23 @@ noun masculine^
 Ezek 1:8
 ^
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 fourth part.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. plural four sides;
 —
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 1.
 ׳
 ר construct, fourth part, of shekel 1Sam 9:8, of hin Exod 29:40.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 2. in Ezekiel, plural suffix four sides (אַרְבַּעַת
 always preceding): רְבָעָיו

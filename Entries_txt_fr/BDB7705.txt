@@ -12,7 +12,7 @@ pavement, terrasse pavée,
 רוֺבֵדָא
 pavement) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait 1 singulier מַרְבֵרִּים רָבֵדְתִּי
 עַרְשִׂי

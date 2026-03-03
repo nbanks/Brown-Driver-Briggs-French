@@ -4,7 +4,7 @@ Biblical Hebrew
 מַעֲכָה
 proper name, masculine, feminine [also of a people]
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 masculine
@@ -34,7 +34,7 @@ father of Achish
 מָעוֺךְ
 above).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 feminine
@@ -91,7 +91,7 @@ compare 1Chr 7:15
 f.
 wife of (יעיאל), father of Gibeon, 1Chr 8:29; 1Chr 9:35.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. of a people,
 

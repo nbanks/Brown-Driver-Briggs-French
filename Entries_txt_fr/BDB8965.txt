@@ -15,7 +15,7 @@ DHM^xxix (1875), 604^; arabe
 ,
 [placeholder5690: Placeholders/5690.gif] (espèces dérivées)) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait 3 masculin singulier ׳
 שׁ
@@ -61,7 +61,7 @@ Ges et autres sous שָׁפָל.
 
 3. du son Qo 12,4.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Hiph`il
 Parfait 3 masculin singulier הִשְׁפִּיל
 Es 25,12,

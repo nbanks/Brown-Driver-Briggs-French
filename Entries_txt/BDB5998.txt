@@ -5,7 +5,7 @@ Biblical Hebrew
 denominative
 crown; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pi`el
 Perfect 3 feminine singular שֶׁעִטְּרָה לוֺ
@@ -24,7 +24,7 @@ Ps 103:4 (of
 ׳
 י).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Participle feminine צֹר הַמַּעֲטִירָה

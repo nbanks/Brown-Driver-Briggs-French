@@ -36,7 +36,7 @@ sur le duel voir ׳
 מ
 nom propre ci-dessous
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 camp, lieu de campement :
 
@@ -75,7 +75,7 @@ Nb 2,17 et ainsi
 2 Ch 31,2
 pluriel (opposé à מִבְצָרִים = forteresses) Nb 13,19.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 camp d'une armée
 Jos 6,11
@@ -92,7 +92,7 @@ verset) ; 1 S 4,7 ;
 2 R 7,16
 etc.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3.
 
 a.

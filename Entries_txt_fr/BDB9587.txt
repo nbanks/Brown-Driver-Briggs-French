@@ -9,7 +9,7 @@ rendre certain, acquérir la certitude (
 
 ; comparer hébreu biblique) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pa`el
 Infinitif

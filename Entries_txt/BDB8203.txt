@@ -9,7 +9,7 @@ stray; Ethiopic
 [placeholder5237: Placeholders/5237.gif] III. be seduced, etc.; cf Dr^JPhil. xi
 (1882), 205^); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 2 feminine singular שָׂטִית

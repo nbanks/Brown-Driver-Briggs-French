@@ -9,7 +9,7 @@ Arabic
 [placeholder2275: Placeholders/2275.gif] is put or lay (down, on a place, etc.), but
 [placeholder2276: Placeholders/2276.gif] = Aramaic ע) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Hiph`il
 Imperfect
@@ -24,7 +24,7 @@ Ps 139:8
 if I spread out Sh®°ôl
 (as my couch).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hoph`al
 Imperfect

@@ -5,7 +5,7 @@ II. [עָרַר] verbe
 se dépouiller
 (|| forme de ערה, II. עור) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Impératif
@@ -18,19 +18,19 @@ Ew^§ 226 a^
 Du
 Di et autres féminin pluriel, abrégé de ערנה etc.).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Po`. Parfait 3 pluriel עוֺרְרוּ אַרְמְנוֺתֶיהָ
 Es 23,13
 ils ont mis à nu (les fondations de) ses palais, c.-à-d. les ont détruits
 ; ainsi
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pilpel
 Infinitif absolu +
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hithpalpel
 Imparfait 3 féminin singulier עַרְעֵר תִּתְעַרְעַר

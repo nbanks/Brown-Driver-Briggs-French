@@ -10,7 +10,7 @@ Reckend^ZMG, 1888, 397^; Arabic
 [placeholder1700: Placeholders/1700.gif]
 astronomer, astrologer) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect

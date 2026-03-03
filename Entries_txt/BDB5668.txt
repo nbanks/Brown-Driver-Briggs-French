@@ -15,7 +15,7 @@ Dl^HWB 507^; compare Amharic
 dirge
 Prä^ZMG xxxv (1881), 762^); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 feminine singular וְסָֽפְדָה consecutive Zech 12:12, 3 plural
@@ -80,7 +80,7 @@ for the fields, etc., but read probably שָׂדִים (וֺֿת,
 יִַ֯ם) Ges^Comm.^ (q. v.) Buhl^Lex 13 Skinner^ and others: over the fields wailing,
 over the delightful fields, etc.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Imperfect 3 masculine plural לֹא יִסָּֽפְדוּ

@@ -3,7 +3,7 @@ Biblical Hebrew
 
 [שָׂרַג] verb
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pu`al
 be intertwined (Talmud סָרַג Pi`el enmesh, weave around;
@@ -17,7 +17,7 @@ set in order, join, weave, mix); — Imperfect 3 masculine plural
 Job 40:17
 are intertwined (of sinews of hippopotamus).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hithpa`el
 Imperfect 3 masculine plural יִשְׂתָּֽרְגוּ

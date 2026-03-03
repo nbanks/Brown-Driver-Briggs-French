@@ -11,7 +11,7 @@ haïr (
 שָׂנֵא
 ) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Peal
 Participe pluriel suffixe שׂנאיך

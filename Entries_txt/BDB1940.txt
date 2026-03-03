@@ -4,7 +4,7 @@ Biblical Hebrew
 [דָּלַג] verb
 leap ( Late Hebrew spring over, skip (a verse), omit) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Participle
@@ -19,7 +19,7 @@ leap, with article one leaping
 ὑπερβαίνοντες ὑπερβαίνουσιν = דָּלֹג יִדְלֹ֑גוּ compare
 Dr.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Imperfect

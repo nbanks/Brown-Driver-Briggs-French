@@ -8,7 +8,7 @@ be or become light (compare Arabic
 enkindle, Aramaic (Nasar.)
 [placeholder112: Placeholders/112.gif] Aph`el illumine, & derivatives in Assyrian) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -35,7 +35,7 @@ J
 Qr
 ) 29.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Imperfect
@@ -50,7 +50,7 @@ Ps 76:5 —
 become lighted up of day-break 2Sam 2:32 by light of life, revival Job 33:30 by light of
 glory, enveloped in light Ps 76:5.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Perfect

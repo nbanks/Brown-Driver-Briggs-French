@@ -18,26 +18,26 @@ def test_only_hebrew():
 
 
 def test_only_splits():
-    text = "header\n@@SPLIT:stem@@\nbody\n@@SPLIT:sense@@\nfooter"
+    text = "header\n## SPLIT 1 stem\nbody\n## SPLIT 2 sense\nfooter"
     seq = hebrew_split_sequence(text)
-    assert seq == ['@@SPLIT:stem@@', '@@SPLIT:sense@@']
+    assert seq == ['## SPLIT 1 stem', '## SPLIT 2 sense']
 
 
 def test_mixed():
     text = (
         "=== BDB50 ===\n"
         "I. אָבַל verb\n"
-        "@@SPLIT:stem@@\n"
+        "## SPLIT 1 stem\n"
         "Qal Perfect אָבַל Isa 24:7\n"
-        "@@SPLIT:stem@@\n"
+        "## SPLIT 2 stem\n"
         "Hithpael הִתְאַבֵּל\n"
     )
     seq = hebrew_split_sequence(text)
     assert seq == [
         'אָבַל',
-        '@@SPLIT:stem@@',
+        '## SPLIT 1 stem',
         'אָבַל',
-        '@@SPLIT:stem@@',
+        '## SPLIT 2 stem',
         'הִתְאַבֵּל',
     ]
 
@@ -49,8 +49,8 @@ def test_no_hebrew_no_splits():
 
 
 def test_split_marker_not_on_own_line():
-    """@@SPLIT must be on its own line to count as a marker."""
-    text = "text @@SPLIT:stem@@ more text"
+    """## SPLIT must be on its own line to count as a marker."""
+    text = "text ## SPLIT 1 stem more text"
     seq = hebrew_split_sequence(text)
     assert seq == []  # no Hebrew, and the SPLIT isn't on its own line
 
@@ -65,8 +65,8 @@ def test_hebrew_presentation_forms():
 # --- compare_entry ---
 
 def test_identical():
-    en = "I. אָבַל verb\n@@SPLIT:stem@@\nQal אָבַל\n@@SPLIT:stem@@\nHiph הֶאֱבַלְתִּי\n"
-    fr = "I. אָבַל verbe\n@@SPLIT:stem@@\nQal אָבַל\n@@SPLIT:stem@@\nHiph הֶאֱבַלְתִּי\n"
+    en = "I. אָבַל verb\n## SPLIT 1 stem\nQal אָבַל\n## SPLIT 2 stem\nHiph הֶאֱבַלְתִּי\n"
+    fr = "I. אָבַל verbe\n## SPLIT 1 stem\nQal אָבַל\n## SPLIT 2 stem\nHiph הֶאֱבַלְתִּי\n"
     ok, detail = compare_entry(en, fr)
     assert ok is True
     assert detail is None
@@ -74,15 +74,15 @@ def test_identical():
 
 def test_different_latin_same_hebrew():
     """Different Latin text but same Hebrew = match."""
-    en = "English text אוּלָם proper name\n@@SPLIT:sense@@\n1. אוּלָם ref\n"
-    fr = "Texte français אוּלָם nom propre\n@@SPLIT:sense@@\n1. אוּלָם réf\n"
+    en = "English text אוּלָם proper name\n## SPLIT 1 sense\n1. אוּלָם ref\n"
+    fr = "Texte français אוּלָם nom propre\n## SPLIT 1 sense\n1. אוּלָם réf\n"
     ok, detail = compare_entry(en, fr)
     assert ok is True
 
 
 def test_missing_split_in_french():
-    en = "אוּלָם\n@@SPLIT:sense@@\n1.\n@@SPLIT:sense@@\n2.\n"
-    fr = "אוּלָם\n@@SPLIT:sense@@\n1.\n2.\n"  # missing second split
+    en = "אוּלָם\n## SPLIT 1 sense\n1.\n## SPLIT 2 sense\n2.\n"
+    fr = "אוּלָם\n## SPLIT 1 sense\n1.\n2.\n"  # missing second split
     ok, detail = compare_entry(en, fr)
     assert ok is False
     assert 'extra' in detail or 'diverge' in detail
@@ -90,16 +90,16 @@ def test_missing_split_in_french():
 
 def test_split_in_wrong_position():
     """Split placed before different Hebrew word."""
-    en = "אוּלָם\n@@SPLIT:sense@@\nאָבַל\nתֶּאֱבַל\n"
-    fr = "אוּלָם\nאָבַל\n@@SPLIT:sense@@\nתֶּאֱבַל\n"
+    en = "אוּלָם\n## SPLIT 1 sense\nאָבַל\nתֶּאֱבַל\n"
+    fr = "אוּלָם\nאָבַל\n## SPLIT 1 sense\nתֶּאֱבַל\n"
     ok, detail = compare_entry(en, fr)
     assert ok is False
     assert 'diverge' in detail
 
 
 def test_extra_split_in_french():
-    en = "אוּלָם\n@@SPLIT:sense@@\nאָבַל\n"
-    fr = "אוּלָם\n@@SPLIT:sense@@\n@@SPLIT:sense@@\nאָבַל\n"
+    en = "אוּלָם\n## SPLIT 1 sense\nאָבַל\n"
+    fr = "אוּלָם\n## SPLIT 1 sense\n## SPLIT 2 sense\nאָבַל\n"
     ok, detail = compare_entry(en, fr)
     assert ok is False
 
@@ -114,17 +114,17 @@ def test_no_splits_both_sides():
 
 def test_hebrew_mismatch():
     """Different Hebrew = mismatch even with matching splits."""
-    en = "אוּלָם\n@@SPLIT:sense@@\nאָבַל\n"
-    fr = "אוּלָם\n@@SPLIT:sense@@\nתֶּאֱבַל\n"
+    en = "אוּלָם\n## SPLIT 1 sense\nאָבַל\n"
+    fr = "אוּלָם\n## SPLIT 1 sense\nתֶּאֱבַל\n"
     ok, detail = compare_entry(en, fr)
     assert ok is False
     assert 'diverge' in detail
 
 
 def test_wrong_split_type():
-    """@@SPLIT:stem@@ vs @@SPLIT:sense@@ = mismatch."""
-    en = "אוּלָם\n@@SPLIT:stem@@\nאָבַל\n"
-    fr = "אוּלָם\n@@SPLIT:sense@@\nאָבַל\n"
+    """## SPLIT 1 stem vs ## SPLIT 1 sense = mismatch."""
+    en = "אוּלָם\n## SPLIT 1 stem\nאָבַל\n"
+    fr = "אוּלָם\n## SPLIT 1 sense\nאָבַל\n"
     ok, detail = compare_entry(en, fr)
     assert ok is False
     assert 'diverge' in detail
@@ -151,7 +151,7 @@ def test_real_entry_with_splits(entry_id):
 
     # Only test if French has splits
     import re
-    split_re = re.compile(r'^@@SPLIT:\w+@@$', re.MULTILINE)
+    split_re = re.compile(r'^## SPLIT \S+ \w+$', re.MULTILINE)
     if not split_re.search(fr):
         pytest.skip(f"{entry_id} French has no splits yet")
 

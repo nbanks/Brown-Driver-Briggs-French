@@ -29,7 +29,7 @@ Kt
 plural עוֺלוֺת
 Ps 58:3; Ps 64:7 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 violent deeds of injustice, בְּנֵי עַוְלָה
@@ -63,7 +63,7 @@ Job 36:23
 בע
 Ps 125:3.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 injustice of speech: ׳
@@ -87,7 +87,7 @@ Ps 107:42
 ; Job 5:16
 .
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 injustice, in general, Ps 64:7; Job 6:29; Job 11:14; Job 15:16; Job 22:23; Job 24:20, + Job 36:33 (for

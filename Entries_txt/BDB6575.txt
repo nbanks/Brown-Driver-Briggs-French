@@ -13,7 +13,7 @@ fear for;
 
 פַּחְדָּא n.); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular פָּחַד
@@ -51,7 +51,7 @@ Hos 3:5; Mic 7:17
 be in awe (at ׳
 י's favour), absolute, Isa 60:5.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 be in great dread, Imperfect 2 masculine singular וַתְּפַחֵד
@@ -61,7 +61,7 @@ Prov 28:14
 
 deeply dreading (that is, sin).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Perfect 3 masculine singular הִפְחַיד

@@ -22,7 +22,7 @@ compare Assyrian
 usƒurtu
 , taboo SAC^JA, 1904, 754^. —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular ׳
@@ -109,7 +109,7 @@ omit כֹּחַ
 2Chr 14:10
 (+ עִמְּךָ), 2Chr 20:37 (+ infinitive).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 be restrained, stayed, of plague: Perfect 3 feminine singular נֶעֱצָ֑רָה

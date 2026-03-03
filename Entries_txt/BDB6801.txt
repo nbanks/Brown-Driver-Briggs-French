@@ -15,7 +15,7 @@ uncover;
 
 פְּרַע = Late Hebrew); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular consecutive וּפָרַע
@@ -54,7 +54,7 @@ Gerber^18^ and others).
 let alone = avoid Prov 4:15 = neglect Prov 1:25; Prov 8:33; Prov 13:18; Prov 15:32
 absolute = refrain Ezek 24:14. — Judg 5:2 see I. פֶּרַע.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Imperfect 3 masculine singular יִדָמפּ֫רַע עָ֑ם
@@ -62,7 +62,7 @@ Prov 29:18
 
 the people is let loose, lacks restraint.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Perfect 3 masculine singular הַפְרִיעַ

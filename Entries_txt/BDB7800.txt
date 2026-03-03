@@ -16,7 +16,7 @@ be wide (usually figurative as Hebrew),
 [placeholder5004: Placeholders/5004.gif]
 be wide, enlarged); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular ׳
@@ -25,7 +25,7 @@ Perfect 3 masculine singular ׳
 Job 32:20 that
 there may be relief for me.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pu`al
 Participle plural מְרֻוָּחִים

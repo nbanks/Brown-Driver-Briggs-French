@@ -9,7 +9,7 @@ hôte ; IX. décliner, se détourner ;
 [placeholder1450: Placeholders/1450.gif] visiteur ; araméen זוּר, souvent = hébreu סוּר
 se détourner, se détourner pour visiter) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait 3 pluriel זֹר֫וּ
 Ps 58,4 (Kö^i. 445^), זָ֫רוּ
@@ -163,7 +163,7 @@ Nb 3,4 ; Nb 26,61
 P
 ).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Niph`al
 Parfait
 נָז֫רֹוּ
@@ -176,7 +176,7 @@ RV
 Ez 14,5
 .
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Hoph`al
 Participe
 מוּזָר

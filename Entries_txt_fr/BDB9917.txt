@@ -4,7 +4,7 @@ araméen biblique
 [שִׂיב] verbe
 être chenu (voir hébreu biblique) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pe`al
 Participe pluriel comme substantif = anciens, terme technique, absolu

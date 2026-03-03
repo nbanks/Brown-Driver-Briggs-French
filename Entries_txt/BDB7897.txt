@@ -15,7 +15,7 @@ shouting, clamour (see Nö^l.c^.); on Sabean
 proper name ריב = Arabic
 [placeholder5060: Placeholders/5060.gif] see DHM^ib. 14^); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular רָב
@@ -157,7 +157,7 @@ whom
 Judg 21:22;
 Jer 2:29; Jer 12:1; Job 33:13.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Participle suffix מריבו

@@ -12,7 +12,7 @@ Syriac; compare Biblical Hebrew II.
 צבה
 ); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pe`al
 

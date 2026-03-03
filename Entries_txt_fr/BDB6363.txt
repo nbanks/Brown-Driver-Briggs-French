@@ -19,7 +19,7 @@ Ex 30,8 + 4 t.,
 P
 ) ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 
 a.
@@ -125,7 +125,7 @@ matin, voir ׳
 ב
 1.d, e.,
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2. (poésie tardive) = nuit
 , עָ֑רֶב
 Jb 7,4

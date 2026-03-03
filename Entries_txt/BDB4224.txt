@@ -10,7 +10,7 @@ Brock
 Schw; Arabic
 [placeholder2672: Placeholders/2672.gif] is be heavy, sluggish); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -111,7 +111,7 @@ hence figurative, fail, of strength (כֹּחַ) Neh 4:4 Paslm
 Neh 31:11
 — Infinitive absolute כָּשׁוֺל, see below Niph`al
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect consecutive וְנִכְשַׁל
@@ -174,7 +174,7 @@ Isa
 40:31); so participle 1Sam 2:4;
 Zech 12:8.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el only apparent, תְּכַשְּׁלִי
 Ezek
@@ -189,7 +189,7 @@ Da (see also
 Hiph`il
 near the end).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hiph`il
 Perfect
@@ -278,7 +278,7 @@ make feeble, weak, הִכְשִׁיל כֹּחִי
 Lam 1:14 (of God's dealing with
 Jerusalem)
 
-@@SPLIT:stem@@
+## SPLIT 5 stem
 
 Hoph`al only Participle
 והיו מֻכְשָׁלִים לְפָנֶיךָ

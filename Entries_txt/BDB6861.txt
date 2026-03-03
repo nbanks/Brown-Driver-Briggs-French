@@ -5,7 +5,7 @@ Biblical Hebrew
 denominative
 be simple (Late Hebrew Pi`el entice); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect 3 masculine singular יִפְתֶּה
@@ -34,7 +34,7 @@ Deut 11:16
 ; Job
 31:27.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect 3 masculine singular נַפְתָּה
@@ -80,7 +80,7 @@ Hiph`il above); subject׳
 18:20; 2Chr 18:21 object׳
 י, Ps 78:36.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pu`al
 Imperfect 3 masculine singular יְפֻתֶּה:

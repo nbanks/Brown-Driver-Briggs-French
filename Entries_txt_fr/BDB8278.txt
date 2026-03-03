@@ -20,7 +20,7 @@ Lv 14,8 +,
 שְׂעָרָהּ Lv 14,20, שְׂעָרָהֿ Lv 14,4 (Ges
 «GKC:91e»§ 91e) ; — cheveu, poil :
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1. d'animaux, comme matière,
 ׳
 אַדֶּרֶת שׂ
@@ -33,7 +33,7 @@ probablement aussi
 2 R 1,8 c.-à-d. un homme
 avec un vêtement de peau.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2. humain : ראֹשׁוֺ
 ׳
 שׂ

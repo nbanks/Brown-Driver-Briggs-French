@@ -5,7 +5,7 @@ I. נָשָׁה
 verb
 lend, become a creditor (compare I. נשׁא); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 1 singular נָשִׁ֫יתִי
@@ -37,7 +37,7 @@ E
 ), 2Kgs 4:1;
 Isa 24:2; Isa 50:1; Ps 109:11.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Imperfect 3 masculine singular יַשֶּׁה בְּ

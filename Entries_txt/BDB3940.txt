@@ -9,7 +9,7 @@ id.; Arabic
 [placeholder2466: Placeholders/2466.gif]
 measure grain) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect only Isa 40:12
@@ -17,7 +17,7 @@ Perfect only Isa 40:12
 עֲפַר הָאָרֶץ
 who hath comprehended the dust of the earth in a shalish-measure?
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pilpel
 Perfect
@@ -78,7 +78,7 @@ Prov 18:14
 Ps 112:5
 .
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Polpal
 Perfect 3 plural כָּלְכְּלוּ
@@ -86,7 +86,7 @@ were supplied with food
 1Kgs 20:27
 (Klo proposes בַּגִּלְבֹּעַ).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hiph`il
 Imperfect

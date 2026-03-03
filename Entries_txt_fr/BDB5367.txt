@@ -13,7 +13,7 @@ Am 4,6
 נִקְיֹן
 Gn 20,5 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 absence de culpabilité, innocence :
 כַּפַּי
@@ -30,12 +30,12 @@ JE
 Ps 26,6
 je laverai mes mains dans l'innocence = Ps 73,13.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 exemption de châtiment
 Os 8,5.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3. au sens physique, נִקְיוֺם שִׁנַּיִם
 propreté des dents (sans nourriture) Am 4,6 (mais lire peut-être d'après
 

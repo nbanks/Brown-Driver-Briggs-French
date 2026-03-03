@@ -5,7 +5,7 @@ hébreu biblique
 dénominatif
 prendre comme rivale ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Infinitif construit
 לִצְרֹר

@@ -34,7 +34,7 @@ Pr 22,24,
 חֵמֹת
 Ps 76,11 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 chaleur :
 
@@ -67,7 +67,7 @@ poison des flèches (de ׳
 י) Jb
 6,4.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 colère ardente, rage :
 

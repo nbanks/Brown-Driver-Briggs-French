@@ -23,7 +23,7 @@ Ct 8,2 pluriel
 1 R 7,20 +,
 etc. ; — grenade :
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. arbre
 1 S 14,2, souvent + גְּפֶן, תְּאֵנָה, etc., Nb 20,5 (
@@ -33,7 +33,7 @@ E
 ), Dt 8,8 ;
 Ag 2,19 ; Jl 1,12 ; Ct 4,13 ; Ct 6,11 ; Ct 7,13.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. fruit Nb 13,23 (
 J
@@ -45,7 +45,7 @@ Ct 8,2, ׳
 
 פֶּלַח הָר (en comparaison) Ct 4,3 ; Ct 6,7.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. ornements dans le temple, en forme de grenades (comparer
 [placeholder5087: Placeholders/5087.gif] en Syrie moderne = épaulette, Almkvist^Ki. Beiträge zur Lexicogr.,

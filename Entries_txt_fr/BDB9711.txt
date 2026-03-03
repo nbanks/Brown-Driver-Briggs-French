@@ -7,7 +7,7 @@ verser (voir hébreu biblique I.
 נָסַךְ
 ) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pa`el (plus généralement) : Infinitif
 לְנַסָּכָה לֵהּ

@@ -31,7 +31,7 @@ Gr
 Bi
 Che); —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 ornament
@@ -60,7 +60,7 @@ compare
 RVm
 ; but read probably on the holy mountains, see above
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 splendour, majesty
@@ -93,7 +93,7 @@ Ps 145:5
 הֲדַר גְּאֹנוֺ
 Isa 2:10; Isa 2:19; Isa 2:21.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 honour, glory

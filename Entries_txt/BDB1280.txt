@@ -11,7 +11,7 @@ from break of dawn; Aramaic בְּקַע; compare Ethiopic
 [placeholder677: Placeholders/677.gif]
 profit, be useful, originally findere, aperire, Di) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -83,7 +83,7 @@ break through or into, followed by בְּ
 לְבִקְעָם אֵלָיו
 and he thought to break into them and so bring them unto himself.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect
@@ -138,7 +138,7 @@ be broken into, of city captured by breaches in walls 2Kgs 25:4 = Jer 52:7
 ; Ezek
 30:16.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el
 Perfect
@@ -185,7 +185,7 @@ into rivers thou cleavest (the) earth; break through or down
 בֵּיצֵי צִפְעוֺנִי
 בִֵּקּ֑עוּ (figurative)
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Pu`al
 Imperfect
@@ -202,7 +202,7 @@ form); rent, of old wine-skins Josh 9:4
 broken into, of a city in whose walls a breach has been made
 Ezek 26:10.
 
-@@SPLIT:stem@@
+## SPLIT 5 stem
 
 Hiph`il
 Imperfect 1 plural suffix וְנַבְקִעֶנָּה
@@ -223,14 +223,14 @@ ourselves (compare Qal 2Chr 32:1); break through
 אֶלמֶֿלֶךְאֱדוֺם
 2Kgs 3:26.
 
-@@SPLIT:stem@@
+## SPLIT 6 stem
 
 Hoph`al
 Perfect 3 feminine singular הָבְקְעָה הָעִיר
 Jer 39:2
 the city was broken into, entrance was made by a breach.
 
-@@SPLIT:stem@@
+## SPLIT 7 stem
 
 Hithpa`el
 Perfect

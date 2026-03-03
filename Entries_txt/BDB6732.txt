@@ -9,7 +9,7 @@ parƒu
 , command, compare Ba^ZMG xliii (1889),
 188^); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect 3 masculine singular וַיִּפְצַרֿ
@@ -30,7 +30,7 @@ Kit^id.^
 Bu
 HPS Löhr.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Infinitive absolute

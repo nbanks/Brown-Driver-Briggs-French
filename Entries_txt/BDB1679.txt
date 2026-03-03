@@ -21,7 +21,7 @@ accomplish, cognate גמר; — Arabic
 [placeholder940: Placeholders/940.gif]
 be beautiful, goodly) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -126,7 +126,7 @@ Isa 28:9
 
 become ripe (grapes) Isa 18:5.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Imperfect

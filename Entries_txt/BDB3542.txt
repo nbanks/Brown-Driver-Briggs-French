@@ -13,7 +13,7 @@ alâdu,
 
 COT^Gloss^) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -208,7 +208,7 @@ Zech
 3:27
 where mother is named, 1Chr 14:4 where father named.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect
@@ -325,7 +325,7 @@ Job
 11:12; Job
 15:7.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el
 Infinitive
@@ -361,7 +361,7 @@ Exod 1:21 (
 E
 ).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Pu`al
 Perfect
@@ -438,7 +438,7 @@ incorporated in spiritual Zion Ps 87:4; Ps 87:5; Ps 87:6 of
 production of mountains
 Ps 90:2.
 
-@@SPLIT:stem@@
+## SPLIT 5 stem
 
 Hiph`il
 Perfect
@@ -519,7 +519,7 @@ bear, only figurative Isa 59:4 (||
 הָרוֺ), of wicked, bringing forth iniquity (this favoured by
 context others, beget).
 
-@@SPLIT:stem@@
+## SPLIT 6 stem
 
 Hoph`al
 Infinitive
@@ -539,7 +539,7 @@ Gen
 16:5
 day of one's being born = birthday.
 
-@@SPLIT:stem@@
+## SPLIT 7 stem
 
 Hithpa`el
 Imperfect

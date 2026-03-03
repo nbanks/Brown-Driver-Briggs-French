@@ -5,7 +5,7 @@ hébreu biblique
 adjectif [d'un peuple] toujours avec l'article comme substantif collectif ׳
 הַזּ :
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1. de זֶרַח
 1 : — Jos
 7,17 (deux fois dans le verset) (
@@ -20,7 +20,7 @@ P
 1 Ch 27,11 ;
 1 Ch 27,13.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2. de זֶרַח
 4 : —
 Nb 26,13.

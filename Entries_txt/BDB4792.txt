@@ -11,7 +11,7 @@ pine away (Late Hebrew id.
 
 ) מְקַק); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Niph`al
 Perfect 3 plural נָמַ֫קּוּ
@@ -52,7 +52,7 @@ Ezek 24:23
 33:10;
 Lev 26:39 (twice in verse).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Infinitive absolute

@@ -8,7 +8,7 @@ father (Biblical Hebrew
 אָב
 ); —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. literally father suffix אֲבוּ֫הִי
 Dan 5:13 (see
@@ -18,7 +18,7 @@ Marti), אֲבוךְ (K^§
 אֲבוּ֫הִי
 Dan 5:2.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. plural fathers, ancestors , [אֲבָהָן
 D^l.c.^], suffix אֲבָהָתי

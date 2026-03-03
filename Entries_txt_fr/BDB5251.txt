@@ -5,7 +5,7 @@ hébreu biblique
 verbe
 barrer, verrouiller, fermer à clé (hébreu tardif id.) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait 3 masculin singulier נָעַל
 2 S 13,18,

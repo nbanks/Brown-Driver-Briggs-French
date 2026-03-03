@@ -494,7 +494,7 @@ que le traducteur puisse consulter l'image du mot apparenté. Le texte
 hébreu/araméen, les abréviations savantes et les références bibliques sont
 préservés en ligne. Résultat dans `Entries_txt/`.
 
-Le script injecte aussi des **marqueurs de découpage** `@@SPLIT:type@@` sur des
+Le script injecte aussi des **marqueurs de découpage** `## SPLIT N type` sur des
 lignes séparées, qui indiquent les frontières naturelles de l'entrée (thèmes
 verbaux, sens numérotés, sections). Ces marqueurs servent au découpage
 automatique des entrées longues pour le réassemblage HTML par morceaux. Les
@@ -507,17 +507,17 @@ Exemple (`Entries_txt/BDB50.txt`, entrée verbale) :
 === BDB50 H56 ===
 Biblical Hebrew
 ...
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Perfect אָבַל ...
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Hithpa`el — Perfect ...
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Hiph`il ...
 ```
 
 Le fichier `Entries_txt_fr/BDB50.txt` correspondant doit contenir les mêmes
-trois `@@SPLIT:stem@@` aux mêmes positions structurelles.
+trois `## SPLIT` markers aux mêmes positions structurelles.
 
 ```
 python3 scripts/extract_txt.py              # tout extraire

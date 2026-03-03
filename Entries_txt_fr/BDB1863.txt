@@ -7,10 +7,10 @@ nom propre, masculin (son bien-aimé, comparer דודוהו ; ou comparer
 MI^12^
 , comparer דָּוִד infra) —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1. homme de la tribu d'Issacar Jg 10,1.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 דדי
 
@@ -25,7 +25,7 @@ Qr
 = דּוֺדוֺ
 1 Ch 11,12.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3. père d'אֶלְחָנָן
 2 S 23,24
 דּוֺדוֺ = 1 Ch 11,26.

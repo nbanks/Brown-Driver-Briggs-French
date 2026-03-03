@@ -3,7 +3,7 @@ hébreu biblique
 
 [צַפַף] verbe
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Pilpel
 gazouiller, pépier (onomatopée ; hébreu tardif Pilpal id. ; judéo-araméen
 צַפְצֵף

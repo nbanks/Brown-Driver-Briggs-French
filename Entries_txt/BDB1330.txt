@@ -9,7 +9,7 @@ kneel, bless (Late Hebrew id.; Arabic
 [placeholder703: Placeholders/703.gif] (praise), Palmyrene especially in בריך שמו לעלמא
 Vog^Palm. 74 ff.^ compare 94, 144) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect
@@ -148,7 +148,7 @@ compare Deut 28:5
 ; 1Sam
 25:33; Prov 5:18.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect
@@ -161,7 +161,7 @@ J
 ) bless oneself (compare
 Hithpa`el).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el_233_
 Perfect
@@ -486,7 +486,7 @@ as well as in the Shemitic cognates: 1Kgs 21:10; 1Kgs 21:13
 2:9; Ps
 10:3.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Pu`al
 Imperfect
@@ -537,7 +537,7 @@ Prov 22:9
 
 .
 
-@@SPLIT:stem@@
+## SPLIT 5 stem
 
 Hiph`il
 וַיַּבְרֵךְ חַגְּמַלִּים
@@ -548,7 +548,7 @@ Gen
 J
 ).
 
-@@SPLIT:stem@@
+## SPLIT 6 stem
 
 Hithpa`el
 הִתְבָּרֵךְ

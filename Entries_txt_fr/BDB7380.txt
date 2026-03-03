@@ -12,7 +12,7 @@ avoir en horreur,
 [placeholder4711: Placeholders/4711.gif]
 craindre) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Parfait 3 féminin singulier קָ֫צָה
@@ -65,7 +65,7 @@ E
 ), Es 7,16
 .
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Imparfait 1 pluriel suffixe נְקִיצֶנָּה

@@ -13,7 +13,7 @@ despise,
 [placeholder3586: Placeholders/3586.gif]
 reject); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 2 masculine singular סָלִיתָ
@@ -22,7 +22,7 @@ Ps 119:118
 thou dost make light of all those that err from thy statutes. — compare also סַלּוֺן
 below
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 intensive

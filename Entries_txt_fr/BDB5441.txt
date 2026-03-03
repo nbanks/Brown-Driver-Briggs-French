@@ -31,7 +31,7 @@ Lindberg^Vergl.Sem.Gram.93f.^, mais mandéen נתן
 
 Nö^M 52^) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal_1917_
 Parfait
 ׳
@@ -1627,7 +1627,7 @@ Ps
 78,43
 ).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Niphal_82_
 Parfait
 נִתַּן
@@ -1891,7 +1891,7 @@ d. = être infligé, d'un défaut (מוּם) Lv
 24,20 (avec
 בְּ personne).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Hoph`al (ou
 Qal
 passif

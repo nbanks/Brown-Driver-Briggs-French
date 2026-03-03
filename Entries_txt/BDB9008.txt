@@ -33,7 +33,7 @@ Lewy^Framdw. 118 f.^; — on connection of meanings compare
 weigh transitive and intransitive = German wägen, wiegen, also
 heave, heavy, heft (= weight, obs. or colloq.)); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular ׳
@@ -87,7 +87,7 @@ Esth 3:9
 , עַלגִּֿנְזֵי הַמֶּלֶךְ
 Esth 4:7
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 be weighed:

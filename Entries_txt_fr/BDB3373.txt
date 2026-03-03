@@ -11,7 +11,7 @@ sans interruption ; assyrien
 COT^Gloss^, de même araméen
 [placeholder2142: Placeholders/2142.gif], טְרַד) — seulement
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Participe
 actif

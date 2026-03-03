@@ -4,7 +4,7 @@ hébreu biblique
 נֶ֫פֶג
 nom propre, masculin
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1. un Lévite Ex 6,21 (
 P
 ),
@@ -13,7 +13,7 @@ P
 
 Ναφεκ, F Ναφεγ.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2. un fils de David 2 S 5,15 (
 
 ᵐ5

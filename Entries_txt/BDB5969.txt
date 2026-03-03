@@ -12,7 +12,7 @@ Exod 18:4,
 Ezek 12:14,
 etc.; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 help, succour
@@ -36,7 +36,7 @@ Deut 33:29
 (= ׳
 י).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. concrete = one who helps (compare 1. עֶזְרָה
 2) ׳

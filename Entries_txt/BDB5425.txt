@@ -16,7 +16,7 @@ construct Isa 21:4
 suffix נִשְׁפּוֺ
 Job 3:9 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 evening twilight
@@ -48,7 +48,7 @@ Kit
 Bu); Th, after Luth, below so Buhl^Kex^
 SS; Löhr allows either.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 morning twilight

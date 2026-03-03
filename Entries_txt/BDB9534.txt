@@ -4,7 +4,7 @@ Biblical Aramaic
 [חֲנַן] verb
 shew favour (see Biblical Hebrew); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pa`el
 Infinitive with aff. person מִחַן (K^§ K:46, 3
@@ -12,7 +12,7 @@ a^) Dan 4:24 (compare Biblical Hebrew Po`.
 Prov 14:21
 ).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hithpa`al
 implore favour (of God; so Biblical Hebrew Hithpa`el), Participle

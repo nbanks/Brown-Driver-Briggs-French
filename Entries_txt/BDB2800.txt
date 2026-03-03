@@ -15,7 +15,7 @@ Gen 45:22 + 2
 t.; חֲלִפֹת
 Gen 45:22; Judg 14:12 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 change of raiment שׂמלת
@@ -32,7 +32,7 @@ Judg 14:13;
 without בגדים
 Judg 14:19.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 relays
@@ -43,11 +43,11 @@ compare וצבא
 Job 10:17
 (Di).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. revival after death, under figure of relief from military service Job 14:14.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 changing, varying, of course of life אֲשֶׁר אֵין חֲלִיפוֺת לָ֑מוֺ

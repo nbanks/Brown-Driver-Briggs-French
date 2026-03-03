@@ -14,7 +14,7 @@ t.; תְּחִנֹּתֵיהֶם
 2Chr 6:39 etc. +
 10 t. suffix; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 favour, shewn by Israel
@@ -25,7 +25,7 @@ D
 ); מאת יהוה
 Ezra 9:8.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 supplication for favour, from God 1Kgs 8:52 (twice in verse); 2Chr 33:13; Ps 119:170 ||

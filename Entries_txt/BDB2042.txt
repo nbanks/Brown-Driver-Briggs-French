@@ -6,7 +6,7 @@ verb
 denominative
 act emptily, become vain —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Jer 2:5 = 2Kgs 17:15
@@ -19,7 +19,7 @@ Job 27:12
 זֶה הֶבֶל תֶּהְבָּ֑לוּ why do ye become vain with vanity (i.e. shew
 yourselves utterly vain) ?
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 cause to become vain

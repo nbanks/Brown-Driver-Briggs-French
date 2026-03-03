@@ -5,7 +5,7 @@ hébreu biblique
 nom féminin
 mesure, compte, proportion ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. construit הַלְּבֵנִים
 ׳
@@ -14,7 +14,7 @@ Ex 5,3 (
 J
 ) le compte de briques (comparer 1.תֹּכֶן).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. suffixe בֻּנְתּוֺ- mesure, proportion, de l'épha et du
 bath Ez 45,11

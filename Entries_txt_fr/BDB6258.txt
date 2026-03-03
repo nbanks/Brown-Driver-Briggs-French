@@ -4,7 +4,7 @@ hébreu biblique
 [עָפַר] verbe
 dénominatif
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Pi`el
 וְעִפַּר בֶּעָפָר
 2 S 16,13

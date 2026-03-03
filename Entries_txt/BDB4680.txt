@@ -10,12 +10,12 @@ Dr^on the passage id^.); — construct מַמְלְכוּת
 Josh 13:12 +
 8t.;
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 kingdom of Og Josh 13:12; Josh 13:30; Josh 13:31 of Sihon Josh 13:21 Josh 13:27.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 dominion, royal power with קָרַע מֵעַל (subject ׳
@@ -23,7 +23,7 @@ dominion, royal power with קָרַע מֵעַל (subject ׳
 הִשְׁבִּית
 Hos 1:4.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 reign

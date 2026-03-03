@@ -4,7 +4,7 @@ Biblical Hebrew
 כִּסְלָה
 noun feminine (Gie^ZAW i, 1881, 304^).
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 stupidity
@@ -16,7 +16,7 @@ Ps 85:9 (but read
 Bae
 Che).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 confidence, suffix כִּסְלָתֶ֑ךָ

@@ -18,7 +18,7 @@ be dumb, speechless, compare Assyrian
 ; see Lag^BN 120^)
 —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect
@@ -51,7 +51,7 @@ subject
 אָזְנַיִם
 Mic 7:16.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Perfect
@@ -180,7 +180,7 @@ be deaf, shew deafness:
 
 be not deaf (turning) from us, so as not to cry.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hithpa`el
 Imperfect 3 masculine plural וַיִּתְחָֽרְשׁוּ

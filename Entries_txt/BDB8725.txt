@@ -4,7 +4,7 @@ Biblical Hebrew
 [שָׁלַךְ]_125_
 verb
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Hiph`il_112_
 throw, fling, cast (Phoenician שלד in compare proper name, meaning dubious;
@@ -55,7 +55,7 @@ E
 Ezek
 7:19 +; rarely ל location 2Chr 30:14 and (accusative omitted) 2Chr 24:10
 
-עַל location 2Kgs 23:6, ָ  ה locative Exod 4:3 (twice in verse),
+עַל location 2Kgs 23:6, ָ ה locative Exod 4:3 (twice in verse),
 שָׁ֫מָּה
 Judg 8:25;
 2Kgs 6:6
@@ -214,7 +214,7 @@ Job
 29:17
 out of his teeth I cast the prey.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hoph`al
 Perfect 3 masculine singular הֻשְׁלַח

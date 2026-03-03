@@ -8,7 +8,7 @@ Jb 8,22 + 20 t. ;
 suffixe בָּשְׁתִּי
 Ps 69,20 + 7 t.
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 honte
@@ -38,7 +38,7 @@ comparer Ps 45,5
 בּשֶׁת עֶרְוַת אמך
 1 S 20,30.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 chose honteuse, substitué à

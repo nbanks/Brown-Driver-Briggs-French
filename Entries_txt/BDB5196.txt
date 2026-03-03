@@ -22,7 +22,7 @@ Deut 28:59,
 Jer 30:17,
 etc.; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 
@@ -64,7 +64,7 @@ Isa 30:26
 (|| שֶׁבֶר); of wounds made by ׳
 י's arrows Ps 64:8.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. = slaughter
 1Sam 4:10;
@@ -84,7 +84,7 @@ Josh 10:20
 2Chr 13:17
 .
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. = defeat, as accusative of cognate meaning with verb with
 הִכָּה
@@ -102,7 +102,7 @@ conquest (of ׳
 Isa
 14:6.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 plague, especially disease, as punishment (of ׳

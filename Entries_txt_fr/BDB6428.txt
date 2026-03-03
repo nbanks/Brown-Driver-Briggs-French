@@ -11,7 +11,7 @@ MI^23, 26^
 , אלעשה, מעשיהו ; pas araméen, et non attesté avec certitude dans les langues sémitiques du sud ;
 sur le sabéen voir surtout DHM^SB Berl. Akkadian 1886, 849^) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal_2524_
 Parfait 3 masculin singulier Gn 3,1 +, suffixe עָשָׂהוּ
 Os 8,6 + ; 3 féminin
@@ -871,7 +871,7 @@ Ex
 11.
 passer, vivre, des jours de vie Qo 6,12.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Niphal_97_
 Parfait 3 masculin singulier נַעֲשָׂה
 Jg
@@ -1036,7 +1036,7 @@ d.
 
 2. (passif de
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Qal
 II) :
 
@@ -1109,7 +1109,7 @@ Ez
 15,5 (deux fois
 dans le verset).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 Pu`al
 Parfait 1 singulier עֻשֵּׂיתִי
 

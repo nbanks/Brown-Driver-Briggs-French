@@ -15,7 +15,7 @@ Ethiopic
 
 apostatize is סְטָא); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Participle plural construct וֶשָׂטֵי כָזָב

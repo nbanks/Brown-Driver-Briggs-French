@@ -23,13 +23,13 @@ see below), 2Chr 4:14
 כְּיֹּרוֺת
 1Kgs 7:38 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 pot for cooking 1Sam 2:14 (|| דּוּד, קַלַּחַת, פָּרוּר
 ).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 fire-pot
@@ -37,7 +37,7 @@ fire-pot
 Zech 12:6 (||
 לַפִּיד אֵשׁ; figurative of chiefs of Judah).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 basin of bronze for washing, laver; set on a bronze support
@@ -64,7 +64,7 @@ Ke
 Sta
 Klo and others)
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 platform or stage of bronze (probably round, bowl-like in shape) on

@@ -22,7 +22,7 @@ Gen 1:14 +; —
 
 firmamentum, compare Syriac below √above; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. (flat) expanse (as if of ice, compare כְּעֵין הַקֶּרַח),
 as base, support (Wkl^Altor. Forsch. iv. 347^) Ezek 1:22; Ezek 1:23; Ezek 1:25(gloss ?
@@ -31,7 +31,7 @@ compare Co Toy), Ezek 1:26 (supporting ׳
 Ezek 1:22
 ^)
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. the vault of heaven, or 'firmament,' regarded by Hebrews as solid, and supporting 'waters' above
 it, Gen 1:6; Gen 1:7 (3 t. in verse);

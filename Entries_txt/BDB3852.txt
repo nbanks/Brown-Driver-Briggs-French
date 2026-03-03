@@ -20,7 +20,7 @@ Exod 23:11 + 2
 t. (not Job 4:21,
 q. v. below II. יֶתֶר); —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 
@@ -84,7 +84,7 @@ the rest of the affairs of, in summaries of reigns of kings of Israel and Judah 
 2Chr 28:26
 .
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 
@@ -117,7 +117,7 @@ Job 22:20
 Ps 17:14
 .
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 superiority, excellency

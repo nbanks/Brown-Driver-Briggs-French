@@ -3,7 +3,7 @@ Biblical Hebrew
 
 [קָבַל] verb
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pi`el
 receive, take (late) (Aramaic loan-word (and in Aramaic denominative) Gerber^32^, compare Aramaic (לִ)קְבֵיל
@@ -64,7 +64,7 @@ accusative omitted Esth 4:4.
 accept, assume, an obligation, followed by clause, Esth 9:23, followed by infinitive Esth 9:27
 (+ עַל reflexive).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Participle feminine plural מַקְבִּילֹת

@@ -4,14 +4,14 @@ hébreu biblique
 שְׁוָא
 nom propre, masculin
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 Calébite
 1 Ch 2,49,
 Σαου, Σουε.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. secrétaire, époque de David 2 S 20,25
 

@@ -18,7 +18,7 @@ Gen 5:3
 דְּמוּתֵנוּ
 Gen 1:26 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 likeness, similitude, of external appearance, chiefly in Ezek.: Ezek 1:5 (likeness
@@ -53,7 +53,7 @@ what
 ד
 will ye compare to him (אֵל) ? || דִּמָּה q. v.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. adverbially, in likeness of, like as
 Isa 13:4 compare

@@ -16,7 +16,7 @@ CIS^iv, nos. 95, 98^; Aramaic רְחֵיק,
 רְחַק, and (often in derived species and derivatives)
 [placeholder5044: Placeholders/5044.gif]); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular ׳
@@ -104,7 +104,7 @@ De
 Siegf
 Buhl^Lex.^
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Perfect 3 masculine singular רִחַק
@@ -120,7 +120,7 @@ thou hast far extended (with accusative) all the ends (boundaries) of the land;
 Imperfect 3 masculine plural יְרַחֲקוּ אֶתוְֿנוּתָם
 Ezek 43:9.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Perfect 3 masculine singular הִרְחִיק

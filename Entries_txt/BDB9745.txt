@@ -14,7 +14,7 @@ S-C^Pap^.; compare אַזְדָּא); = Biblical Hebrew
 עָבַד
 , q. v., but in meaning || עשׂה); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pe`al
 Perfect 3 masculine singular ׳
@@ -55,7 +55,7 @@ do, perform, accusative of God's law Ezra 7:26, accusative of signs, etc.
 (subject God)
 Dan 6:28 and (+עִם person) Dan 3:32.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hithpe`el
 Imperfect 3 masculine singular יִתְעֲבֵד

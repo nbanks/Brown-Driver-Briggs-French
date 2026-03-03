@@ -10,7 +10,7 @@ sparkle, flash,
 
 נְעָא); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Participle

@@ -8,7 +8,7 @@ peiner, affliger (
 
 (rare) ; voir hébreu biblique I. עצב) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Peal
 Participe passif, comme adjectif : בְּקָל עֲצִיב

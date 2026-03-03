@@ -6,14 +6,14 @@ feel a loathing (|| form of
 קוּץ
 q. v.); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect 1 singular אָקוּט בְּדוֺר
 Ps 95:10
 I felt a loathing at the generation.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect 2 masculine plural consecutive וּנְקֹטֹתֶם בִּפְנֵיכֶם
@@ -31,7 +31,7 @@ Job 10:1 (as if
 from נ֗֗֗קט; on both forms see Ges^«GKC:67dd»§§
 67dd^, «GKC:72dd»72dd).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hithpolel
 id. Imperfect 1 singular אֶתְקוֺטָט בְּ

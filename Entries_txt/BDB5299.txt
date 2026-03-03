@@ -6,14 +6,14 @@ Job 41:15
 ^
 refuse, hanging parts; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 fallings, refuse, construct מַפַּל בַּר
 Amos 8:6
 the refuse of wheat.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. plural construct מַפְּלֵי בְשָׂרוֺ
 Job 41:15

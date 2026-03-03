@@ -5,7 +5,7 @@ Biblical Hebrew
 indeclinable
 thirty; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. before singular noun: אַמָּה
 Gen 6:15 + 3 t., +,
@@ -39,7 +39,7 @@ Ezra 2:35; Neh 7:38
 שׁ following units Gen 11:12 + 14 t., precedes 1Kgs 22:42 + 29 t.; ׳
 שׁ following 100 (1000, etc.) Gen 5:5 + 15 t., precedes Gen 5:3 + 21 t.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. as ordinal ׳
 וְאַחַת שָׁנְה לְ שָׁנָה לְ (בִּ) שְׁנַת שׁ

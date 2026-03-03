@@ -32,7 +32,7 @@ Qr
 
 I.
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 face, faces (Jr 30,6 ; Ez 27,35 +, comparer Ez 1,6 ; Ez 10,14 ; Ez 10,21 etc.) :
@@ -156,7 +156,7 @@ Voir
 plus loin ci-dessous
 7.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 
@@ -209,7 +209,7 @@ Gn 33,10, comparer Jb 33,26 (Hiph`il), et, avec חזה
 11,7 ;
 Ps 17,15.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 face de séraphins Es 6,2, chérubins Ex 25,20 (deux fois dans le verset) = Ex 37,9
@@ -218,7 +218,7 @@ Ez 1,8 ;
 Ez 1,11 ;
 2 Ch 3,13 +.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 face d'animaux, פְּנֵי הַצּאֹן
@@ -245,7 +245,7 @@ Ez 41,19
 Jb 41,6
 du crocodile.
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 5.
 face (= surface) du sol (הָאֲדָמָה) Gn 2,6 ; Gn 4,14 ; Gn 7,4 ;
@@ -330,7 +330,7 @@ apparence ; du troupeau Pr 27,23
 2 S 14,20
 l'apparence (situation, attitude) de l'affaire.
 
-@@SPLIT:sense@@
+## SPLIT 6 sense
 
 6. comme adverbe [de lieu]
 מִפָּנִים וּמֵאָחוֺר
@@ -374,7 +374,7 @@ Es
 41,26
 d'autrefois (|| מֵראֹשׁ).
 
-@@SPLIT:sense@@
+## SPLIT 7 sense
 
 7. pour d'autres expressions voir :
 אוֺר
@@ -468,7 +468,7 @@ II.
 avec prépositions :
 —
 
-@@SPLIT:sense@@
+## SPLIT 8 sense
 
 1.
 אֶלפְּֿנֵי :
@@ -639,7 +639,7 @@ Ez
 
 .
 
-@@SPLIT:sense@@
+## SPLIT 9 sense
 
 2.
 אֶתפְּֿנֵי
@@ -967,7 +967,7 @@ II.
 
 4.a.
 
-@@SPLIT:sense@@
+## SPLIT 10 sense
 
 3.
 בִּפְנֵי :
@@ -1085,7 +1085,7 @@ Ez
 
 .
 
-@@SPLIT:sense@@
+## SPLIT 11 sense
 
 4.
 לִפְנֵי, proprement à la face ou au devant de, le mot le plus général pour
@@ -3001,7 +3001,7 @@ pro
 
 ).
 
-@@SPLIT:sense@@
+## SPLIT 12 sense
 
 5.
 מִלִּפְנֵי _73_ de devant : —
@@ -3605,7 +3605,7 @@ aussi
 Kö^ii.
 320.^
 
-@@SPLIT:sense@@
+## SPLIT 13 sense
 
 6.
 מִפְּנֵי
@@ -4475,7 +4475,7 @@ voir
 
 .
 
-@@SPLIT:sense@@
+## SPLIT 14 sense
 
 7.
 עַלפְּֿנֵי
@@ -5260,7 +5260,7 @@ Jb
 
 +.
 
-@@SPLIT:sense@@
+## SPLIT 15 sense
 
 8.
 מֵעַלפְּֿנֵי

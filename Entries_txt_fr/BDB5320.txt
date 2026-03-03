@@ -12,7 +12,7 @@ Jos 4,3 ; Jos 4,9 + (Baer dans Sm
 מַצָּבֶ֫ךָ
 Es 22,19 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 emplacement pour les pieds Jos Es 4,3 ;
 
@@ -22,13 +22,13 @@ J
 E
 ).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 poste, fonction
 Es 22,19
 (|| מַעֲמָד).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3.
 garnison, poste ou avant-poste (des Philistins) 1 S 13,23 ; 1 S 14,1 ; 1 S 14,4 ; 1 S 14,6 ; 1 S 14,11 ; 1 S 14,15 ;
 2 S 23,14

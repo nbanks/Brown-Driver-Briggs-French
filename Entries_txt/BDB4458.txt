@@ -14,7 +14,7 @@ lakâtu
 Dl^HWB 385^ (but ט = t?));
 —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 plural לָֽקְטוּ
@@ -66,7 +66,7 @@ Ps 104:28
 2. specifically glean, absolute, Ruth 2:8 (with בְּ local; usually Pi`el
 in this sense ).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Perfect 3 feminine singular וְלִקְּטָה consecutive Ruth 2:16, לִקֵּ֑טָה
@@ -117,7 +117,7 @@ Lev 19:9 = Lev 23:22 (
 H
 ).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pu`al
 Imperfect 2 masculine plural תְּלֻקְּטוּ
@@ -127,7 +127,7 @@ ye shall be picked up (of Israel under figure of grains or berries, after the
 threshing process of ׳
 י's judgment).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hithpa`el
 Imperfect

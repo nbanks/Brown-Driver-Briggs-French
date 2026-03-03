@@ -19,7 +19,7 @@ id.,
 [placeholder3292: Placeholders/3292.gif]
 colare (stillando), expercolare); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine plural נָָֽטְפוּ
@@ -52,7 +52,7 @@ his lips drip myrrh (perhaps of sweet breath). Intransitive only עָלֵימו�
 Job 29:22
 upon them my speech used to drop.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Perfect 3 masculine plural וְהִטִּיפוּ consecutive Amos 9:13

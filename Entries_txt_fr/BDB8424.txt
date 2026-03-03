@@ -42,7 +42,7 @@ Kt
 
 שִׁבְעָתַיִם ; — sept :
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. sans autre nombre :
 
@@ -182,7 +182,7 @@ J
 ), 1 Ch
 9,25
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 שְׁבַע עֶשְׂרֵה שָׁנָה 17 ans
@@ -216,14 +216,14 @@ Gn 8,4 inhabituel est
 Jr 32,9
 7 sicles et 10 l'argent
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 שְׁבַע מֵאוֺת = 700 Jg 8,26 + 39 t. (mais Ne 7,68 omis par la Massore
 Baer
 Gi q. v.).
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 שִׁבְעָה אֶלֶף = 7000 1 R 20,30 + 2 t. ; שִׁבְעַת אֲלָפִים = id.
@@ -232,7 +232,7 @@ Gi q. v.).
 +
 15 t. ; 57 000 est 7 + 50 x 1000 Nb 1,31 ; Nb 2,8 ; Nb 2,31.
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 5.
 ׳

@@ -6,7 +6,7 @@ beat, knock (Arabic
 [placeholder1179: Placeholders/1179.gif]
 pour out, also drive (beasts)) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perf. 3 masculine plural suffix וּדְפָקוּם consecutive Gen 33:13, but read 1 singular
@@ -22,7 +22,7 @@ beat (in driving, drive severely or cruelly); Participle
 Song 5:2 absolute
 knocking (at door).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hithpa`el
 Participle

@@ -21,7 +21,7 @@ Ps 136,9 suffixe
 מַמְשְׁלוֺתָיו
 Ps 114,2 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 règne, domination (humaine) Es 22,21 ; Mi 4,8
 וְכָלֿ
@@ -40,7 +40,7 @@ Jr 34,1 d'où
 ; Dn 11,5
 .
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 règne des corps célestes הַיּוֺם
 ׳
@@ -50,7 +50,7 @@ pour le règne du jour, comparer Gn 1,16 aussi suivi de בְּ
 Ps 136,8 ;
 Ps 136,9.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3. règne, domination de Dieu :
 Ps 145,13
 (|| מַלְכוּת), כָּלמְֿקֹמוֺת

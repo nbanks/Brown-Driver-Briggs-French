@@ -13,7 +13,7 @@ Judg 7:16 +;
 feminine plural רֵקוֺת
 Gen 41:27 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 empty, of vessels 2Kgs 4:3; Judg 7:16; Ezek 24:11 + (probably) Jer 14:3 (רֵיקִים for
@@ -29,7 +29,7 @@ Isa 29:8
 √
 1).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 empty, idle, worthless, ethically; אנשׁים ריקים

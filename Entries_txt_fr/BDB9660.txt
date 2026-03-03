@@ -4,7 +4,7 @@ araméen biblique
 [מְלַח] verbe
 dénominatif avec accusatif de sens cogné au verbe, manger du sel ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Peal
 Parfait 1 pluriel מְלַחְנָא

@@ -8,7 +8,7 @@ pull down, break down (Late Hebrew Hoph`al, and derivatives; compare perhaps Eth
 
 Di^634^); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular ׳
@@ -91,7 +91,7 @@ but see
 נָתַע
 ).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 be pulled, broken, down: Perfect 3 plural ׳
@@ -103,7 +103,7 @@ cities), so מִמֶּנּוּ
 Nah 1:6 (of
 rocks).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el
 Perfect 3 masculine singular נִתַּץ
@@ -127,7 +127,7 @@ Ezek 16:39
 city wall 2Chr
 36:19.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Pu`al
 be torn down: Perfect 3 masculine singular נֻתַּץ
@@ -135,7 +135,7 @@ Judg 6:28 (of
 altar
 + אֲשֵׁרָה).
 
-@@SPLIT:stem@@
+## SPLIT 5 stem
 
 Hoph`al (or
 Qal

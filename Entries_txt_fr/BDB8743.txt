@@ -9,7 +9,7 @@ Os 9,7, nom
 rétribution ; — pluriel שִׁלּוּמִים
 Es 34,8 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 rétribution, châtiment, ׳
@@ -20,7 +20,7 @@ Os 9,7 (||
 Es 34,8 (||
 נָקָם).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 récompense, pot-de-vin

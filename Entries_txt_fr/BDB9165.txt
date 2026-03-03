@@ -5,7 +5,7 @@ hébreu biblique
 nom [masculin]
 tertre ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 tertre, monticule de ruines (d'une ville) : construit תֵּל(ֿ)עוֺלָם
 Jos 8,28 (
@@ -17,7 +17,7 @@ E
 13,17, תֵּל שְׁמָמָה
 Jr 49,2.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 tertre ou colline sur laquelle se dressait une ville : suffixe תִּלָּם
 Jos 11,18

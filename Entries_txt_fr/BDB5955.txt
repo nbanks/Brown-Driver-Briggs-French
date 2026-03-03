@@ -7,7 +7,7 @@ nom propre, masculin (ma force est
 י ; comparer vieil hébreu עזיו
 Lzb^338^) ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 Οζειας, mais aussi Αζαριας : roi de Juda = ׃עְַזַרְיָהוּ
 
@@ -38,19 +38,19 @@ b.
 ;
 Os 1,1 ; Am 1,1 ; Za 14,5.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 עֻזִּיָּהוּ père d'un officier de David 1 Ch 27,25.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3.
 עֻזִּיָּה nom lévitique 1 Ch 6,9.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 4.
 id. : prêtre ayant épousé une femme étrangère Esd 10,21.
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 5.
 id. : nom en Juda Ne 11,4 (aussi Ne 11,5
 

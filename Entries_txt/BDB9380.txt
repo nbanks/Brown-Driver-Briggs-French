@@ -11,7 +11,7 @@ be angry (
 id.; Samaritan
 [placeholder5943: Placeholders/5943.gif]); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pe`al
 Perfect 3 masculine singular וּקצַך שַׂגִּיא

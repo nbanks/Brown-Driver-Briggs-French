@@ -14,7 +14,7 @@ cease, perish (not
 
 ); on root-meaning enclose compare כלא and Ba^ZMG 1887, 605^) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal. Perfect
 ׳
@@ -227,7 +227,7 @@ after
 
 וּכְכַלּוֺת נַפֵּץ יַדעַֿםקֹֿדֶשׁ).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el_140_
 Perfect
@@ -616,7 +616,7 @@ subject flying roll Zech 5:4
 
 (object house).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pu`al
 Perfect 3 plural

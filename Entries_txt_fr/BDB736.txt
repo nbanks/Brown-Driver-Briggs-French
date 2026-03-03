@@ -3,7 +3,7 @@ hébreu biblique
 
 אֲרִיאֵל
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 nom propre, féminin (probablement, voir Ew) Ariel
@@ -15,14 +15,14 @@ Di et autres ; Targoum De
 Brd Or et autres disent foyer d'El, comparer
 אֲרִאֵיל).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 nom propre, masculin
 un chef parmi les exilés de retour
 Esd 8,16.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 אֲרִאֵל מוֺאָב
@@ -47,7 +47,7 @@ MI^12^
 א
 foyers d'autel de Moab.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 Ez 43,15
@@ -61,7 +61,7 @@ Du^
 Es 29,1
 ^ (q. v.) fait
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 1. = אֲרִיאֵיל, de אָרָה + ל afformatif,
 foyer (non + אֵל

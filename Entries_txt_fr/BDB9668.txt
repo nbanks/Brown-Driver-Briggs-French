@@ -13,7 +13,7 @@ Dn 5,10, emphatique
 מִלַּיָּא
 Dn 7,11 ; Dn 7,16 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 mot, parole
 Dn 4,28 ; Dn 6,15,
@@ -30,7 +30,7 @@ Dn 7,11
 
 Dn 2,5 ; Dn 2,8 ; Dn 3,22 ; Dn 3,28 ; Dn 6,13.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 chose, affaire, sujet :
 Dn 2,10

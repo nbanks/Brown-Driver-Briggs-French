@@ -11,7 +11,7 @@ Qo 40,21
 
 עָרִיב adjectif agréable, doux) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait 3 féminin singulier עָֽרְבָה
 Jr 31,26 mon

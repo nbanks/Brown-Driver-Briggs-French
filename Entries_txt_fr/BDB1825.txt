@@ -3,13 +3,13 @@ hébreu biblique
 
 II. דְּבִיר
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 nom propre, masculin
 roi d'Églon
 Jos 10,3.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 nom propre [d'un lieu]
 

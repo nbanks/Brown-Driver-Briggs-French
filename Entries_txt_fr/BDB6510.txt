@@ -4,7 +4,7 @@ hébreu biblique
 [פֵּאֵר] verbe
 dénominatif
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pi`el
 parcourir les branches ; — Imparfait 2 masculin singulier תְּפָאֵר

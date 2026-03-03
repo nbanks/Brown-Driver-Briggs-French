@@ -18,7 +18,7 @@ understand, make wise;
 , cleverness, Meissn^Suppl.93^
 ); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular ׳
@@ -29,7 +29,7 @@ HPS); Kit
 Buhl
 Gerber and others prosper.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Perfect 3 masculine singular הִשְׂכִּיל

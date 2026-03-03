@@ -12,7 +12,7 @@ Dan 8:17 suffix
 Isa 37:24 +,
 קִצּהֹ || 2Kgs 19:23, etc.;-
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 end, usually of time, especially in phrase מִקֵּץ
@@ -77,7 +77,7 @@ no end, of peace Isa 9:6, iniquities Job 22:5, toil Eccl 4:8, עֲשׂוֺת ס�
 Eccl 12:12
 .
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 end, in space, מְלוֺן קִצּה

@@ -30,7 +30,7 @@ above); construct בּוֺר
 Qr
 , see
 באר
-above); בֹּ֫רָה (ָ  ה locative) Gen 37:24 suffix בּוֺרוֺ
+above); בֹּ֫רָה (ָ ה locative) Gen 37:24 suffix בּוֺרוֺ
 Isa 36:16 =
 בֹּרוֺ
 2Kgs 18:31
@@ -41,7 +41,7 @@ Gen 37:20 + 3
 t.; בֹּרֹת
 Deut 6:11: —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 cistern, containing water, made by digging (חצב) Deut 6:11; 2Chr 26:10; Neh 9:25 also
@@ -50,7 +50,7 @@ Isa 36:16
 = 2Kgs 18:31
 .
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. later apparently well (= בְּאֵר) 1Chr 11:17; 1Chr 11:18 =
 
@@ -78,7 +78,7 @@ Qr
 Hi
 Gf.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 pit
@@ -103,7 +103,7 @@ figurative of calamity Ps 40:3
 ׳
 בּ.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 dungeon (pit with no water in it Jer 38:6; Zech 9:11 compare Gen 37:24 above) Gen 40:13; Gen 41:14 (
@@ -118,7 +118,7 @@ Exod 12:29;
 Jer 37:16
 figurative of exile Zech 9:11 (מִבּוֺר אֵין מַיִם בּוֺ); compare also Lam 3:53; Lam 3:55.
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 5. (in poetry & late; never with article) pit of the grave
 Prov 28:17 so

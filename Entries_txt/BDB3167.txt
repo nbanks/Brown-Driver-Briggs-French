@@ -10,7 +10,7 @@ arâru
 , glow, SASm^Assurbanipal i. p.
 97^ Belser^BAS ii. 155^) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 feminine singular חָ֫רָה
@@ -31,7 +31,7 @@ burn, of bones of sick men in fever מִנִּיחֹֿרֶב
 ח
 Job 30:30.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect

@@ -6,7 +6,7 @@ nom propre, masculin (׳
 י
 soutient)
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 יאֹשִׁיָּהוּ roi de Juda, fils d'Amon 1 R 13,2 ; 2 R 21,24 ; 2 R 21,26 + 11 t. Rois, + 19 t. Chroniques, + 17
@@ -14,7 +14,7 @@ t. Jérémie + So 1,1
 aussi יאֹו֯שִׁיָּהוּ
 Jr 27,1.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 יאֹשִׁיָּה un exilé de retour Za 6,10.

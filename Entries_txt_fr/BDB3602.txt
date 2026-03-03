@@ -10,7 +10,7 @@ discipliner, châtier, avertir (Talmud
 châtiment ; mais araméen יְסַר
 est lier) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Imparfait 3 masculin suffixe וְיִסְּרֵנִי
 Es 8,11 (Di
@@ -48,7 +48,7 @@ instruire, 1 Ch 15,22.
 3.
 discipliner, de Dieu Os 10,10 ; Ps 94,10.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Niph`al
 Imparfait
 יִוָּ֫סֶר עֶ֫בֶד
@@ -72,7 +72,7 @@ Jr
 31,18 ; Lv
 26,23.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Pi`el
 Parfait
 יִסַּר
@@ -184,7 +184,7 @@ Ez 23,48 (pour נִתְוַסְּרוּ
 Ges^«GKC:55»§ 55^ R. 7) ; passif être
 discipliné, corrigé.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 Hiph`il
 Imparfait 1 singulier suffixe אַיְסִירֵם (
 Ew^§

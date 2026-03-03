@@ -4,7 +4,7 @@ hébreu biblique
 I. [נָתַר] verbe
 bondir ou sursauter ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Imparfait
 וְיִתַּר מִמְּקוֺמוֺ
@@ -12,7 +12,7 @@ Jb 37,1
 oui, il (le cœur) sursaute de sa place (|| יֶחֱרַד
 ).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Pi`el
 Infinitif
 לְנַתֵּר בָּהֵן עַלהָֿאָרֶץ
@@ -22,7 +22,7 @@ P
 ), pour bondir avec elles (c.-à-d. ses pattes) sur la terre (de la
 sauterelle).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Hiph`il
 Imparfait
 וַיַּתֵּר גּוֺיִם

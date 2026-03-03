@@ -4,7 +4,7 @@ hébreu biblique
 כִּסְלָה
 nom féminin (Gie^ZAW i, 1881, 304^).
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 sottise
 Ps 85,9 (mais lire
@@ -15,7 +15,7 @@ Ps 85,9 (mais lire
 Bae
 Che).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 confiance, suffixe כִּסְלָתֶ֑ךָ
 Jb 4,6.

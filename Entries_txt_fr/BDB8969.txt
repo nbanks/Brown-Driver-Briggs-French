@@ -8,7 +8,7 @@ plaine basse ; — toujours absolu ׳
 Jos 11,16 —
 plaine basse :
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. habituellement terme technique pour la bande à l'ouest des montagnes de Juda (pour les limites exactes voir GASm^Geogr. 201 ss. ; Expos. Dec. 1896, 404 s.^
 Buhl^Geogr. 104^
@@ -34,7 +34,7 @@ P
 (distinguée de הַמִּישׁוֺר, plateau à l'est du Jourdain) ; région de sycomores 1 R 10,27 =
 2 Ch 1,15 ; 2 Ch 9,27 ; 1 Ch 27,28.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. de la plaine basse (près de la côte) au nord du Carmel Jos 11,2 à l'ouest des montagnes d'Éphraïm Jos 11,16 (les deux
 R^

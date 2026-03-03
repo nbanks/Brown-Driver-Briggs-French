@@ -11,7 +11,7 @@ Obad 1:15, etc.;
 plural suffix גְּמוּלָיו
 Ps 103:2 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 גְּמוּל יָדַיִם
@@ -19,7 +19,7 @@ dealing of the hands
 Judg 9:16; Prov 12:14 (
 יָשׁוּב לְ) Isa 3:11 (יֵעָשֶׂה לְ).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 dealing, hence (from context) equivalent of dealing, recompence: with
@@ -43,7 +43,7 @@ Joel 4:4; Ps 94:2; Isa 35:4
 אלהים
 the recompence of God.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 benefit:

@@ -5,7 +5,7 @@ Biblical Hebrew
 denominative
 act or treat as foreign, or strange; disguise, misconstrue; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Niph`al
 Imperfect
@@ -14,7 +14,7 @@ Prov 26:24
 with his lips a hater disguiseth himself (dissembles, speaks what is foreign
 to his thought).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Perfect
@@ -45,7 +45,7 @@ Dr; Kit either of these; >
 סִגַּר
 Bu; Löhr either סִגַּר or סִכַּר.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hithpa`el
 Imperfect

@@ -16,7 +16,7 @@ Ps 77,13,
 עֲלִילוֺתָם
 So 3,7 +, etc. ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 licence, דְּבָרִים
 ׳
@@ -26,7 +26,7 @@ Dt 22,17
 licence de paroles, c.-à-d. accusations sans fondement (comparer Di
 , surtout Dr).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 action :
 

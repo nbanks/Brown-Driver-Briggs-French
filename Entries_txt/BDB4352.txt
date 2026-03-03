@@ -7,7 +7,7 @@ borrow (Late Hebrew id.; compare Arabic
 delay payment of debt (compare Ba^ES 12^ );
 —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 1 plural לָוִ֫ינוּ
@@ -23,7 +23,7 @@ Prov 22:7
 a borrower is slave to a man who lends; absolute Deut 28:12; Isa 24:2; Ps 37:21 followed by כֶּסֶף
 Neh 5:4.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il Perfect 2 masculine singular consecutive וְהִלְוִיתָה
 Deut 28:12

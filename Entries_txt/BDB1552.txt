@@ -9,7 +9,7 @@ cross,
 [placeholder836: Placeholders/836.gif]
 pass away, fail —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect

@@ -14,7 +14,7 @@ Ezek 17:14 +,
 construct שִׁפְלַת Ezek 17:6 plural שְׁפָלִים
 Job 5:11 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 low, in height, of vine Ezek 17:6, tree Ezek 17:24 (opposed to גָּבֹהַּ);
@@ -26,12 +26,12 @@ lower (deeper) than the skin (around it), so Lev 13:21 Lev 13:26,
 compare Lev 14:37
 .
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. of a modest, unambitious kingdom Ezek 17:14; Ezek 29:14; Ezek 29:15
 low in station Job 5:11 (opposed to שָֽׂגְבוּ), Ezek 21:31 (Ges^«GKC:90f»§ 90f^.; read הַשְּׁפָלָה֣).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 humiliated, בְּעֵינָ֑י
@@ -41,7 +41,7 @@ humiliated, בְּעֵינָ֑י
 plural Mal 2:9 (||
 נִבְזִים).
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 lowly, as substantive Ps 138:6 (opposed to גָּבֹהַּ), רוּחַ שְׁפָלִים

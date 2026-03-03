@@ -9,7 +9,7 @@ Gen 35:26 +, as
 well as גָּד֑
 Gen 30:11 +; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. son of Jacob and Zilpah;
 
@@ -50,7 +50,7 @@ MI^10^
 אש גד)
 Num 1:24 + 12 t. Numbers; Josh 4:12 + 14 t. Joshua; 1Chr 5:11; 1Chr 12:14.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. a prophet in David's time, called נָבִיא
 1Sam 22:5, but

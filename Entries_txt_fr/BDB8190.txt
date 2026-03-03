@@ -4,7 +4,7 @@ hébreu biblique
 [שׂוּר] verbe
 scier (|| forme de נָשַׂר ; dénominatif de מַשּׁוֺר ?) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imparfait 3 masculin singulier וַיָּשַׂר

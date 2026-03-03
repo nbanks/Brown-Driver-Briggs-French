@@ -15,7 +15,7 @@ Jer 5:6; Ps 68:5, construct
 עַרְבֹת
 Jer 52:8 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. earliest use:
 
@@ -62,7 +62,7 @@ Deut
 
 c. Jordan-valley east of river 2Sam 4:7.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. in
 D
@@ -78,7 +78,7 @@ Jordan plain only
 Josh
 12:8 depression south of Dead Sea (modern Wady el-`Arabah) Deut 2:8.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. in
 P
@@ -88,11 +88,11 @@ always plural construct עַרְבוֺת מוֺאָב (east Jordan) Num 22:1 + 1
 ׳
 ע (West Jordan) Josh 4:13; Josh 5:10, also 2Kgs 25:5 = Jer 39:5 = Jer 52:8.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4. apparently North Arabian desert Isa 40:3; Isa 41:19.
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 5. in general the steppe (often || מִדְבָּר), Jer 17:6; Jer 50:12; Isa 33:9; Isa 35:1; Isa 35:6; Job 24:5; Job 39:6; Ps 68:5
 זְאֵב עֲרָבוֺת

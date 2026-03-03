@@ -4,7 +4,7 @@ Biblical Hebrew
 חִוִּי
 adjective [of a people] (= villagers ?) —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 שְׁכֶם
@@ -23,7 +23,7 @@ Di compare
 
 Josh 9:7).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. with article as proper name collective הַחִוִּי
 the Hivvites 'begotten' by Canaan Gen 10:17 = 1Chr 1:15 especially in list of Canaanite peoples displaced by

@@ -9,7 +9,7 @@ Es 30,7,
 רָ֑הַב
 Jb 9,13 + ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. monstre marin mythique (comparer Barton^JAOS xiv.1 (1891), 22 s.^) : ׳
 עֹזְרֵי ר
@@ -20,7 +20,7 @@ Ps 89,11 ||
 תַּנִּין
 Es 51,9.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. nom emblématique de l'Égypte, רַהַב וּבָבֶל
 Ps 87,4 ||

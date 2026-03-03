@@ -18,7 +18,7 @@ the mark; IV. miss the mark, miss the way; Ethiopic
 fail to find or have; sometimes sin, especially
 in derivatives) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -299,7 +299,7 @@ Lev 5:11
 Lev 5:16
 what he hath incurred by taking of the holy thing he shall pay.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Perfect
@@ -403,7 +403,7 @@ Num
 P
 ), by sprinkling with a hyssop spring Ps 51:9.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Perfect
@@ -497,7 +497,7 @@ Eccl 5:4
 
 do not permit thy mouth to bring thy flesh into punishment.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hithpa`el
 Imperfect

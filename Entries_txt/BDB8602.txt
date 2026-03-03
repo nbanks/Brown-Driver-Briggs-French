@@ -10,7 +10,7 @@ dust, cloud (as fine, thin); — ׳
 שׁ absolute Ps 89:7; Ps 89:38, construct Isa 40:15 plural שְׁחָקִים
 Deut 33:25 +; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 fine dust, מאֹזְנַיִם
@@ -19,7 +19,7 @@ fine dust, מאֹזְנַיִם
 Isa 40:15
 (simile of insignificance).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. (thin) cloud, usually plural (often || שָׁמַיִם), Deut 33:26
 (poem), Isa 45:8;

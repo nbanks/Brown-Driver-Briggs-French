@@ -33,7 +33,7 @@ particle
 hypothetical
 if.
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 a.
 construction (see more fully Dr^§ 136-138, 143^
@@ -203,7 +203,7 @@ Exod
 22:16; Exod 22:22; Judg 11:30; Judg 14:12; Judg 16:11 etc.; compare
 Dr^Sm i. 20, 6^.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 b.
 Special uses:
@@ -341,7 +341,7 @@ Amos 7:2. (b) of present or future, Isa 4:4
 when the Lord shall have washed, Isa 24:13; Isa 28:25 compare Num 36:4
 (with the imperfect)
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 c. Compounded with other particles: — (α) בִּלְתִּי
 אִם
@@ -398,7 +398,7 @@ thee'
 particle
 interrogative
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 a. in direct question:
 
@@ -450,7 +450,7 @@ or Sarah, — shall she that is 90 years old bear? Prov 27:24 (וְאִם
 after negative
 clause),
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 b. in oblique interrogation, if, whether:
 
@@ -477,7 +477,7 @@ Josh
 24:15
 .
 
-@@SPLIT:sense@@
+## SPLIT 6 sense
 
 c. compounded with הֲ, הַאִם
 Num 17:28

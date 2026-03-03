@@ -5,7 +5,7 @@ hébreu biblique
 dénominatif
 être en alliance de paix ;-
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Impératif
@@ -24,7 +24,7 @@ lire שָׂמוּ
 Ew^G iii. 264^
 Dr (comparer We) HPS et modernes
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Poual
 Participe
@@ -44,7 +44,7 @@ Grä
 Marti
 מְשֻׁלָּחַי).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Parfait 3 féminin singulier הִשְׁלִ֫ימָה
@@ -70,7 +70,7 @@ se soumettant à.
 2.
 faire être en paix, אֶת, Pr 16,7.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hoph`al
 Parfait 3 féminin singulier הָשְׁלְאָה

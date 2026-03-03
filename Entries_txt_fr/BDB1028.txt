@@ -19,7 +19,7 @@ Gn 25,23
 Jb 15,2 +, etc. ;
 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 
 a.
@@ -48,12 +48,12 @@ c.
 Jon 2,3
 (prière de Jonas : || מְצוּלָה בִּלְבַכ יַמִּים).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 corps, opposé à l'âme Ps 31,10 (opposé à נֶפֶשׁ), aussi Ps 44,26 (opposé à
 id. ; — sur cela comparer Zim^Bp 71^).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3.
 sein maternel
 Gn 25,23 ;
@@ -113,7 +113,7 @@ Jb 31,18 ;
 Ps 22,11
 (|| רֶחֶם).
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 4. terme architectural désignant une saillie arrondie liée aux deux colonnes Yakin et Boaz
 1 R 7,20 (
 Klo lit הבית).

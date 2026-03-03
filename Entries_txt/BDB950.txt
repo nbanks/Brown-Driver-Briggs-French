@@ -36,7 +36,7 @@ Prov 14:4; Prov 16:8
 תְּבוּאֹתֵיכֶם
 Jer 12:13 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 product, yield, usually of earth (= crops, etc.) הָאָרֶץ
@@ -94,7 +94,7 @@ Lev 25:21
 ׳
 עָשָׂה תּ, subject שָׁנָה.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 

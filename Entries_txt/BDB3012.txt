@@ -9,7 +9,7 @@ id.; Aramaic חֲפַר,
 [placeholder1910: Placeholders/1910.gif], id.; Late Hebrew חֵפֶר
 act of digging) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect

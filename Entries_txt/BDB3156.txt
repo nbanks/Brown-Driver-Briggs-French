@@ -13,7 +13,7 @@ Prov 13:4
 חֲרֻצוֺת
 Amos 1:3 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 sharp: of threshing instrument חָדָשׁ
@@ -27,7 +27,7 @@ without ׳
 Amos 1:3; Job 41:22
 (figurative of crocodile).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 figurative

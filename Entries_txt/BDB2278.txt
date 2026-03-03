@@ -32,7 +32,7 @@ the god of the clan shared by receiving the blood and fat pieces. In the older l
 I.
 general name for all sacrifices eaten at feasts: —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. of the God of Israel Gen 46:1; Exod 10:25; Exod 18:12 (
 E
@@ -74,7 +74,7 @@ should not be רִיב
 ז
 sacrifices of strife, where strife prevails Prov 17:1.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. of other deities Exod 34:15; Num 25:2; Deut 32:38 (
 J
@@ -98,7 +98,7 @@ there are several kinds of
 זְבָחִים which are gradually distinguished
 :
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 1.
 the covenant sacrifice, between Jacob and Laban Gen 31:54 (
@@ -106,7 +106,7 @@ E
 ), with God
 Ps 50:5 (compare Exod 24:5; 1Sam 11:15).
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 2.
 the passover
@@ -134,7 +134,7 @@ E
 Exod
 34:25 (id.)
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 3.
 annual sacrifice
@@ -146,7 +146,7 @@ compare מִשְׁפָּחָה
 ׳
 ז sacrifice of the clan 1Sam 20:29.
 
-@@SPLIT:sense@@
+## SPLIT 6 sense
 
 4.
 thank offering
@@ -175,7 +175,7 @@ Ps 27:6 yet
 2Chr 29:31
 (twice in verse).
 
-@@SPLIT:sense@@
+## SPLIT 7 sense
 
 5. in ritual of
 H
@@ -240,14 +240,14 @@ covenant at Horeb, the Passover victim, and the ram of consecration, were specia
 application
 of a portion of the blood to the persons and things which were to be consecrated, Exod 12:22; Exod 24:8; Lev 8:23.
 
-@@SPLIT:sense@@
+## SPLIT 8 sense
 
 6. the slaughter of hostile nations is also a זֶבַח offered by God Himself, in
 which
 the vultures devour the flesh of the victims Isa 34:6; Jer 46:10; Ezek 39:17 (twice in verse); Ezek 39:19
 ; Zeph 1:7; Zeph 1:8.
 
-@@SPLIT:sense@@
+## SPLIT 9 sense
 
 7. the verb used with זֶבַח is ordinarily זָבַח but others also
 are

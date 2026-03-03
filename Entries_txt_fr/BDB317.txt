@@ -11,7 +11,7 @@ a—azu
 , éthiopien
 [placeholder147: Placeholders/147.gif]) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait
 אָחַז
@@ -129,7 +129,7 @@ Jg 8,10 ; 1 Ch 5,18 et
 Ez 41,6 (deux fois
 dans le verset) (mais voir Co).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Niph`al
 Parfait 3 pluriel נאֹחֲזוּ
 Jos 22,9
@@ -159,7 +159,7 @@ Jos 22,9 ; Jos 22,19 (
 P
 ).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Pi`el
 Participe
 מְאַחֵז
@@ -168,7 +168,7 @@ avec accusatif enfermer, recouvrir (ainsi assyrien
 Dl^W, p. 294^, comparer arabe
 [placeholder149: Placeholders/149.gif], fermer).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 Hoph`al
 Participe pluriel מָאֳחָזִים
 2 Ch 9,18

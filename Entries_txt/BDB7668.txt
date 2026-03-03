@@ -19,7 +19,7 @@ Song 2:14 (twice
 in verse), מַרְאֵיהֶן
 Nah 2:5 +, etc.; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. Psalms
 
@@ -156,7 +156,7 @@ Num 8:4 (
 P
 ).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. in general what is seen, עֵינָיו
 ׳
@@ -182,7 +182,7 @@ Lev 13:12 (
 P
 ).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. specifically a (supernatural) vision (in
 Ezekiel,
@@ -200,7 +200,7 @@ Dan 8:16; Dan 8:27; Dan 9:23; Dan 10:1
 הָעֶרֶב וְהַבֹּקֶר
 Dan 8:26.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 sight, vision = power of seeing (and enjoying), late: עֵינַיִם

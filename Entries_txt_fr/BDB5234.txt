@@ -4,10 +4,10 @@ hébreu biblique
 I. מַסֵּכָה
 nom féminin
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1. métal fondu, ou image ;
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2. libation ;
 — ׳
 מ
@@ -19,13 +19,13 @@ pluriel מַסֵּכוֺת
 suffixe מַסֵּכֹתָם
 Nb 33,52 —
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 1.
 libation, avec sacrifice d'alliance en concluant une alliance Es 30,1 (=
 1.
 נֶסֶךְ ; voir, cependant, ci-dessous II. [נָסַךְ]).
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 2.
 métal fondu, ou image :
 עֵגֶל

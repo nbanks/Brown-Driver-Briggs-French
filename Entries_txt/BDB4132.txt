@@ -12,7 +12,7 @@ kasâsu,
 perhaps cut in two, or up, whence
 kissatu, fodder) — only
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect 2 masculine plural אִישׁ לְפִי אָכְלוֺ תָּכֹסּוּ עַלהַֿשֶּׂה

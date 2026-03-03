@@ -9,7 +9,7 @@ be warm; Arabic
 [placeholder1807: Placeholders/1807.gif]
 become hot, of water; also heat, kindle fire in) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -74,7 +74,7 @@ Ps 39:4 (||
 
 3. of heat in conception (animals) Gen 30:38; Gen 30:39 (compare יחם).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Participle
@@ -83,7 +83,7 @@ Isa 57:5 (
 Kö^i. 371^), inflame oneself with, of
 idolatry.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el
 Imperfect 3 feminine singular תְּחַמֵּם
@@ -91,7 +91,7 @@ Job 39:14
 
 keep eggs warm (of ostrich).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hithpa`el
 Imperfect

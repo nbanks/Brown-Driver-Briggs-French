@@ -5,12 +5,12 @@ hébreu biblique
 être rouge (sur la formation comparer Lag^BN 83^ comparer
 120) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait 3 pluriel אָֽדְמוּ
 rubicond, des naziréens Lm 4,7
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Pu`al
 Participe
 rougi, teint en rouge, מְאָדָּם
@@ -19,14 +19,14 @@ bouclier), מְאָדָּמִים de peaux de béliers Ex 25,5 ; Ex 26,14 ; Ex 3
 P
 ).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Hithpa`el
 Imparfait
 rougir, devenir ou paraître rouge, יִתְאַדָּ֑ם
 Pr 23,31
 (du vin) ;
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 Hiph`il
 Imparfait
 émettre (montrer) de la rougeur (comparer Lag^BN

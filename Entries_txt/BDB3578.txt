@@ -20,7 +20,7 @@ locative תֵּימָ֫נָה
 Exod 26:18 + 12
 t.; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 
@@ -86,7 +86,7 @@ Deut 3:27
 Ezek 21:2
 turn they face southward (|| דָּרוֺם and נֶגֶב).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 south wind

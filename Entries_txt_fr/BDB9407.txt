@@ -9,7 +9,7 @@ couper, (diviser,) déterminer (de même
 syriaque, dans les deux sens ; hébreu biblique habituellement diviser, Job, Esther,
 décréter) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pe. Participe
 actif comme substantif, pluriel absolu גָָּֽזְרִין
@@ -19,7 +19,7 @@ Dr. ; arabe
 [placeholder5959: Placeholders/5959.gif]
 RS^JPhil. xiii (1885), 781^).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hithpeel
 Parfait 3 féminin singulier הִתְגְּזֶרֶת

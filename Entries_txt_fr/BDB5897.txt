@@ -4,7 +4,7 @@ hébreu biblique
 II. [עוּף], I. [עִיף] verbe
 être sombre ; — seulement
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Imparfait 2 masculin singulier תָּעֻ֫פָה
 Jb 11,17

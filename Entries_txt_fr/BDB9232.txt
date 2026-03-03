@@ -5,7 +5,7 @@ hébreu biblique
 dénominatif
 jouer du tambourin, battre ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Participe
 עֲלָמוֺת תֹּפֵפוֺת
@@ -20,7 +20,7 @@ Imparfait
 תוה
 ).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Po`el
 Participe
 מְתֹפְפֹת עַללִֿבֵהֶן כְּקוֺל יוֺנִים

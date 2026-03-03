@@ -24,7 +24,7 @@ Jr 44,9 ; Ex 23,2 suffixe
 1 S 10,19 +,
 etc. ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 mal, misère, détresse :
@@ -102,7 +102,7 @@ J
 ; Jr
 26,13 ; Jr 26,19 ; Jr 42,10.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 mal, tort, injustice :
@@ -175,7 +175,7 @@ Qo 2,21
 Qo 5,12 ;
 Qo 5,15.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. mal éthique, 1 S 12,17 ; 1 S 12,19 ; 1 S 24,12 ; 1 S 26,18 ;
 

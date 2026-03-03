@@ -4,7 +4,7 @@ Biblical Hebrew
 יְרֹחָם
 proper name, masculine (may he be compassionated; compare Lag^BN 134^); —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. father of Elkanah, grandfather of Samuel, Ephraimite 1Sam 1:1 (Ιερεμε[ι]ηλ,
 A
@@ -20,7 +20,7 @@ A
 
 Ιεραμαηλ).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. Benjamites:
 
@@ -35,7 +35,7 @@ b.
 
 id. (= a ?).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. priests:
 
@@ -48,7 +48,7 @@ b.
 Neh 11:11,
 Ι(ε)ροαμ.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4. father of a hero of David 1Chr 12:8 (van d. H. v.1Chr 12:7),
 Ρααμ,
@@ -60,7 +60,7 @@ A
 
 Ιεροαμ.
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 5. Danite 1Chr 27:22, Ιωραμ (
 
@@ -69,7 +69,7 @@ A
 ^L^
 as 4).
 
-@@SPLIT:sense@@
+## SPLIT 6 sense
 
 6. father of a captain with Jehoiada, 2Chr 23:1, Ιωραμ.
 

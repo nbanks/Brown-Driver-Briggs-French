@@ -12,7 +12,7 @@ overcome (compare Arabic
 
 ) and most modern to explain
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Hithpo`el
 Participle

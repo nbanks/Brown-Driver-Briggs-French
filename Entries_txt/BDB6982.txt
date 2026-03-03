@@ -11,7 +11,7 @@ cry aloud (Late Hebrew id.; so Assyrian
 [placeholder4470: Placeholders/4470.gif]
 call); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect 3 masculine plural יִצְוָ֑חוּ

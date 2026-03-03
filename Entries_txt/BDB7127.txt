@@ -4,7 +4,7 @@ Biblical Hebrew
 [צָנַח] verb
 descend (meaning inferred from context); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect 3 feminine singular וַתִּצְנַח מֵעַל הַחֲמוֺר

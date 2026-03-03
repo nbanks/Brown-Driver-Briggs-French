@@ -35,7 +35,7 @@ Hos 9:4b, + Hos 9:4a (for
 GASm
 Now, + etc.; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 a.
@@ -225,7 +225,7 @@ P
 = Isa
 36:17.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 food in general:
@@ -273,7 +273,7 @@ Lev 3:11; Lev 3:16; Num 28:24
 P
 ).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. other phrases and figurative uses are:
 

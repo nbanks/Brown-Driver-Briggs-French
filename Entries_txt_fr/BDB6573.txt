@@ -11,13 +11,13 @@ bondir,
 [placeholder4203: Placeholders/4203.gif]
 agile, etc.) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Imparfait 3 masculin pluriel וַיָּ֫פֹזוּ
 Gn 49,24, des
 bras.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Pi`el
 montrer de l'agilité, bondir (en dansant), Participe
 מְפַזֵּז וּמְכַרְכֵּר

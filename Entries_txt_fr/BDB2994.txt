@@ -9,7 +9,7 @@ couvrir (hébreu tardif id., surtout Pi`el ; araméen חֲפָא,
 [placeholder1891: Placeholders/1891.gif]
 cacher) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait
 חָפוּ
@@ -28,14 +28,14 @@ Est 6,12 en
 signe de sentence de mort
 Est 7,8.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Niph`al
 Participe féminin נֶחְפָּה
 Ps 68,13 (
 ׳
 כנפי יונה נ), avec בְּ de matière.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Pi`el
 Parfait (tardif) חִפָּה 2 Che
 Ps 3,8 ; Ps 3,9

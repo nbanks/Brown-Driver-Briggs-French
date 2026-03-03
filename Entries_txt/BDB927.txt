@@ -5,7 +5,7 @@ Biblical Hebrew
 denominative
 mend, repair, only
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Infinitive construct

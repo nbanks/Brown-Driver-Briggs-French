@@ -10,7 +10,7 @@ parâƒu
 [placeholder4339: Placeholders/4339.gif]
 couper, fendre, aussi frapper) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Parfait 3 masculin singulier פָּרַץ
@@ -135,7 +135,7 @@ partitif) mais douteux. — 1 S 28,23 ; 2 S 13,25 ; 2 S 13,27 ; 2 R 5,23 voir
 פצר
 .
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Participe
@@ -147,13 +147,13 @@ Qal
 ׳
 דְּבַר י, mais texte douteux.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pu`al
 Participe féminin מְפֹרָ֑צֶת
 Ne 1,3 (de la muraille).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hithpa`el
 Participe pluriel הַמִּתְפָּֽרְצִים

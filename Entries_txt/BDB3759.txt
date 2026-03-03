@@ -20,7 +20,7 @@ D
 D
 in Joshua); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular יָרַשׁ
@@ -293,7 +293,7 @@ Judg 14:15
 
 to impoverish us did ye call (us)?
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Imperfect
@@ -319,7 +319,7 @@ E
 ),
 Prov 20:13; Prov 23:21; Prov 30:9 (opposed to אֶשְׂבַּע).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el
 Imperfect
@@ -333,7 +333,7 @@ Hos 9:6
 Isa 34:11
 ), i.e. devour.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hiph`il
 Perfect 3 masculine singular הוֺרִישׁ

@@ -5,7 +5,7 @@ Biblical Hebrew
 denominative
 lay aside, reserve, withdraw, withhold —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -22,7 +22,7 @@ withhold
 מֵהֶם
 Eccl 2:10.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect
@@ -30,7 +30,7 @@ Perfect
 Ezek 42:6
 be withdrawn, i.e. shortened or narrowed.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Imperfect

@@ -7,7 +7,7 @@ gaze (steadily, with interest, etc.) (Assyrian
 še°û
 , behold, look for, aim at); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular ׳
@@ -46,7 +46,7 @@ shall not behold makes no sense, read probably תְּשֹׁעֶינָה
 they look (about) for help, < as || Ps 18:42
 יְשַׁוְּעוּ.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Imperative masculine singular הָשַׁע מִמֶּנִּי
@@ -58,7 +58,7 @@ Bae
 Du
 Ges^«GKC:75gg»§ 75gg^.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hithpa`el
 Imperfect 2 masculine singular with apocope אַלתִּֿשְׁתָּע

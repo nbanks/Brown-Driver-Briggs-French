@@ -12,7 +12,7 @@ Ps 17:1 +,
 Jer 14:12 +; —
 ringing cry:
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. in entreaty, supplication, to ׳
 י,
@@ -24,11 +24,11 @@ ringing cry:
 Ps 88:3 (all +
 תְּפִלָּה), Ps 106:44; Ps 119:169; Ps 142:7; Jer 14:12.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. in proclamation 1Kgs 22:36.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. in joy, especially praise to ׳
 י, +שִׂמְחָה

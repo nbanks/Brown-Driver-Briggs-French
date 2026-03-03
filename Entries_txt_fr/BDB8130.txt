@@ -17,7 +17,7 @@ Ps 76,4,
 Ct 8,6 suffixe
 רְשֶׁפֶיהָ Ct 8,6 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 flamme :
@@ -39,7 +39,7 @@ Jb 5,7 =
 Ps 76,4 flammes
 acérées de l'arc, figuré pour les flèches.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 trait de feu de ׳

@@ -10,7 +10,7 @@ agitate, shake;
 [placeholder1486: Placeholders/1486.gif]
 be agitated, quake, especially of earth-quake) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Niph`al
 Perfect

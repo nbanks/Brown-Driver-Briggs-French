@@ -11,14 +11,14 @@ escape (Late Hebrew id.; Phoenician in proper name; Arabic
 פְּלַט Syriac
 [placeholder4248: Placeholders/4248.gif]); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 plural consecutive וּפָֽלְטוּ
 Ezek 7:16
 and (if) escapers of them escape).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 causative:
@@ -82,7 +82,7 @@ elsewhere ׳
 י subject of
 Pi`el).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 bring into security; Imperfect 3 masculine singular יַפְלִיט

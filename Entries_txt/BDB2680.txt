@@ -10,7 +10,7 @@ bind on or about, gird on, compare Arabic
 [placeholder1708: Placeholders/1708.gif]
 bind, squeeze) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -246,7 +246,7 @@ transitive only לֹא חֲזֶקוֺ
 strengthened him not, but text very dubious (|| וַיָצַר לוֺ
 ).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Perfect
@@ -431,7 +431,7 @@ D
 Jer
 5:3 .
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il_118_
 Perfect
@@ -687,7 +687,7 @@ hence also hold, contain, followed by
 accusative
 2Chr 4:5.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hithpa`el (especially Chronicles) Perfect
 

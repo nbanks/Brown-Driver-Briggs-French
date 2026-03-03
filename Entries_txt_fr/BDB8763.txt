@@ -3,7 +3,7 @@ hébreu biblique
 
 I. [שִׁלֵּשׁ]
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pi`el
 dénominatif
@@ -36,7 +36,7 @@ Dr et autres (comparer
 et Impératif masculin pluriel שַׁלֵּ֑שׁוּ 1 R 18,34
 faire une troisième fois.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pu`al
 Participe

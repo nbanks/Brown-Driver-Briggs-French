@@ -14,7 +14,7 @@ Ps 105:32
 construct לַהֲבוֺת
 Ps 29:7 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 flame, in poetry (|| or + אֵשׁ, except Ps 29:7; Dan 11:33); of fire consuming (לָהַט
@@ -52,7 +52,7 @@ verb אָכַל); compare Dan 11:33
 י's presence Isa 4:5 (compare Exod 13:21); לַבַּת אֵשׁ
 Exod 3:2.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 point, head of spear 1Sam 17:7.

@@ -11,7 +11,7 @@ faire lever ; arabe
 [placeholder1811: Placeholders/1811.gif]
 être levé) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait
 חָמֵץ
@@ -26,7 +26,7 @@ E
 ), comparer Os 7,4
 .
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Hithp.
 être aigri, s'aigrir, Ps 73,21 (|| כִּלְיוֺתַי אֶשְׁתּוֺנָן).
 

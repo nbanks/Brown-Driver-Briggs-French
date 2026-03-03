@@ -11,7 +11,7 @@ Lev 13:10; Lev 13:24 suffix
 מִחְיָתֶ֑ךָ
 Judg 17:10 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 preservation of life
@@ -21,18 +21,18 @@ E
 ),
 2Chr 14:12.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 sustenance
 Judg 6:4; Judg 17:10.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 reviving, Ezra 9:8; Ezra 9:9.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 the quick (בָּשָׂר) מִחְיַת

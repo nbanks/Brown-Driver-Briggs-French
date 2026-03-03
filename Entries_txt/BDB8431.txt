@@ -16,7 +16,7 @@ Kö^Hast. DB NUMBER, 565^
 RS^Semitic i. 166, 2nd ed., 182^
 We^Reste^ Arabic Heid. 2, 186); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal (according to Thes
 Rob Ges) Passive participle
@@ -38,7 +38,7 @@ Sm
 שׁ
 weeks on weeks (plenty of time).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect, 3 masculine singularנִשְׁבַּע
@@ -296,7 +296,7 @@ P
 ; Deut 6:18
 + 8 t. Deuteronomy (object covenant Deut 4:31; Deut 8:18); ל person omitted Deut 31:21.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Perf. 3 masculine singular הִשְׁבִּיעַ

@@ -9,7 +9,7 @@ Job 15:4 suffix
 שִׂיחָתִי
 Ps 119:97 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 complaint:
@@ -22,7 +22,7 @@ Bu and others, compare שִׁיחַ
 De and others meditation, compare [גָּרֵע
 ]).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. (object of) musing, study:
 תּוֺרָה

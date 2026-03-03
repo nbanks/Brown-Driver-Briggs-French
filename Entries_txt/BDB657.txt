@@ -8,7 +8,7 @@ bake (Assyrian
 , Zim^ BP 43^ Aramaic אֲפָא
 [placeholder362: Placeholders/362.gif]) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect, ׳
@@ -75,7 +75,7 @@ Hos 7:6; Jer 37:21
 out of the bakers' street; also 1Sam 8:13 (|| טַבָּחוֺת, רַקָּחוֺת only
 here feminine) Nowhere as a menial office, not even 1Sam 8:13 where despotic power & growth of court emphasized.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Imperfect 3 feminine singular תֵּאָפֶה

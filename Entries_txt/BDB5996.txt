@@ -15,7 +15,7 @@ Zech 6:11; Job 31:36,
 Zech 6:14 —
 crown:
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. of idol-image (Milcom,
 
@@ -35,7 +35,7 @@ Ps 21:4
 תִּפְאַרְתְּכֶם of king and queen, Jer 13:18
 the crown of your splendour; compare Ezek 21:31 wedding-crown Song 3:11.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 זָהָב
@@ -51,7 +51,7 @@ Ezek 23:42
 ׳
 ע as appositive ( = simile) Job 31:36.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. figurative of honour, etc., Job 19:9 (|| כְּבוֺדִי
 Lam 5:16

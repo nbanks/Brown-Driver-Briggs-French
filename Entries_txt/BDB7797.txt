@@ -24,7 +24,7 @@ Br^
 רוח in O.T., JBL xix (1900), 132 ff.
 ^, full statement of all passages); —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 breath of mouth or nostrils (33 t.):
@@ -95,7 +95,7 @@ Ezek 37:5, compare Ezek 37:6 Ezek 37:8 Ezek 37:9 Ezek 37:9 Ezek 37:9 Ezek
 37:10 Ezek 37:14
 (breath or spirit), Eccl 3:19.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 wind (117 t.):
@@ -258,7 +258,7 @@ Eccl 1:17
 ; Eccl
 5:15.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 spirit, as that which breathes quickly in animation or agitation = temper,
@@ -488,7 +488,7 @@ Mic
 Zech 13:2 (of
 lying prophets), compare Ezek 13:3.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 spirit of the living, breathing being, dwelling in the בָּשָׂר of men
@@ -559,7 +559,7 @@ breath of wind): וְרוּחַ עַלפָּֿנַי
 Job 4:15
 .
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 5.
 spirit as seat of emotion = נֶפֶשׁ:
@@ -576,7 +576,7 @@ sorrow, trouble (probably 3.e.), Job 7:11 (|| נֶפֶשׁ
 קָשֶׁה
 .
 
-@@SPLIT:sense@@
+## SPLIT 6 sense
 
 6. occasionally, (and late) = seat or organ of mental acts, || לֵב, or
 synonym with
@@ -610,7 +610,7 @@ Isa 65:17
 +);
 1Chr 28:12.
 
-@@SPLIT:sense@@
+## SPLIT 7 sense
 
 7. rarely of the will; also = רוּחַ נָכוֺן לֵב
 Ps 51:12
@@ -634,7 +634,7 @@ P
 2Chr
 29:31).
 
-@@SPLIT:sense@@
+## SPLIT 8 sense
 
 8.
 רוּחַ especially of moral character; also = לֵב:
@@ -676,7 +676,7 @@ Prov
 Prov 16:19; Prov 29:23; Isa 57:15
 רוּחַ שְׁפָלִים Isa 57:15 (compare 3.f.).
 
-@@SPLIT:sense@@
+## SPLIT 9 sense
 
 9.
 spirit of God (94 t.; not

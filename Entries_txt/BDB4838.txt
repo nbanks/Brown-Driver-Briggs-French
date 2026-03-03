@@ -10,7 +10,7 @@ Deut 32:32,
 
 Job 13:36 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 gall, i.e. seat of gall, gall-bladder Job 20:25 (|| גֵּוָה
@@ -19,14 +19,14 @@ back; compare מְרֵרָה
 Job 16:30
 ).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. = poison, פְּתָנִים
 ׳
 מ
 Job 20:14.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 מְרֹרוֺת
@@ -34,7 +34,7 @@ bitter thing
 Job 13:26 (of
 God's edict of judgment).
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4. plural abstract = bitterness; אַשְׁכְּלֹת
 ׳

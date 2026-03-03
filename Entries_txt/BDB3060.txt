@@ -6,7 +6,7 @@ proper name [of a location and person] (compare Sabean חצֿרן proper name, o
 or tribe Hal^No. 661^
 DHM^ZMG 1883,15^) —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 proper name [of a location]
@@ -27,7 +27,7 @@ b.
 Josh 15:25
 another town of Judah in south.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 proper name, masculine

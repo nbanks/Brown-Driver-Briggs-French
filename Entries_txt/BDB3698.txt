@@ -17,7 +17,7 @@ dignity; Sabean noun יקר
 honour
 DHM^ZMG 1883, 402^) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 feminine singular יָָֽקְרָה
@@ -82,7 +82,7 @@ Zech
 the magnificence of the price at which I was appraised (and dismissed)
 from them!
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Imperfect 1 singular אוֺקִיר אֱנוֺשׁ מִפָּ֑ז

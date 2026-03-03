@@ -11,7 +11,7 @@ id., Phoenician תם, Syriac
 [placeholder5844: Placeholders/5844.gif]
 Perfect); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular תַּם
@@ -156,7 +156,7 @@ we have completed (read probably הֲתִמֹּנוּ); Jer 27:8
 עַדתֻּֿמֹּי אֹתָם בְּיָדוֺ (read with Gr
 תִּתִּי).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Perfect 1 singular הֲתִמֹּ֫תִי
@@ -213,7 +213,7 @@ Job
 22:3
 make sound thy ways.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hithpa`el
 Imperfect 2 masculine singular תִּתַּמָּם

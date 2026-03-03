@@ -8,7 +8,7 @@ lift (
 
 Syriac; Biblical Hebrew (rare)); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pe`al
 Perfect 1 singular עַיְנִי לִשְׁמַיָּא נִטְלֵת

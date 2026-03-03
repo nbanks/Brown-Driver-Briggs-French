@@ -4,7 +4,7 @@ Biblical Hebrew
 יִשְׁעִי
 proper name, masculine (salutary) —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. one of the line of Jerahmeel 1Chr 2:31 (twice in verse),
 
@@ -22,7 +22,7 @@ L
 
 Ιεσσαυει.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. a chief of Manasseh 1Chr 5:24,
 
@@ -30,11 +30,11 @@ L
 
 Σεει, Ιες(ς)ει.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. a chief of Judah 1Chr 4:20.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4. a chief of Simeon 1Chr 4:42.
 

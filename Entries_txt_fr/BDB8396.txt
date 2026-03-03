@@ -17,7 +17,7 @@ Dt 21,10,
 Nb 31,19, etc. ;
 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 = état de captivité
@@ -59,7 +59,7 @@ Esd 2,1 = Ne 7,6, ׳
 הַבָּאִים מֵהַשְּׁ
 Esd 3,8 ; Esd 8,35.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 acte de capture
@@ -73,7 +73,7 @@ vêtement dans lequel elle a été capturée (> d'autres captivité, dans les de
 chevaux captifs ; Dt 21,13
 le vêtement de captive).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3 = captifs (collectif) : Ex 12,29 (
 

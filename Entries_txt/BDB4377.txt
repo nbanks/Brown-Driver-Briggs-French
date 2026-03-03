@@ -12,7 +12,7 @@ early; but found chiefly in
 P
 ); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Niph`al
 Imperfect 3 masculine plural וַיִּלּוֺ֫נוּ
@@ -54,7 +54,7 @@ Num 17:6; Josh 9:18 (all
 P
 ; all of people Israel); absolute Ps 59:16 (see I.לון1 a).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Perfect 2 masculine plural הֲלִינֹתֶם

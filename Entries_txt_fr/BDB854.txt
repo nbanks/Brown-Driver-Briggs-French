@@ -33,7 +33,7 @@ Ol^p. 431^
 Prät^ZMG '73, 643^
 Lag^M i. 226^).
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. De compagnie, ensemble avec :
 Gn 6,13 voici, je les
@@ -176,7 +176,7 @@ Ps
 143,2 (Es
 3,14 et ailleurs עִם).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. De localités, surtout dans la locution אֲשֶׁר אֵת décrivant un emplacement :
 Jg 3,19 ;
@@ -205,7 +205,7 @@ serait idiomatique, et pour אִתּוֺ אֲשֶׁר
 Klo propose de façon plausible אֶתאִֿשֹּׁוֺ (voir Ex 30,20
 ).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 ׳
@@ -269,7 +269,7 @@ Gn 23,8
 . comparer עם
 4.b., qui est plus fréquent en ce sens.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 מֵאֵת (מֵאִתִּי, etc. ; aussi -מֵאוֺת) de la

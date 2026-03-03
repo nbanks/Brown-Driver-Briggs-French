@@ -10,13 +10,13 @@ citerne, bassin (comparer arabe
 [placeholder759: Placeholders/759.gif]
 abreuvoir) —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 citerne
 מַיִם מִגֶּ֑בֶא
 Es 30,14.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 bassin, marais
 גְּבָיָאו

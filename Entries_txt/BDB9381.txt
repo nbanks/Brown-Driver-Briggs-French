@@ -7,7 +7,7 @@ ask, seek, only Daniel (Biblical Hebrew
 בעה
 (rare)); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pe`al
 Perfect 3 masculine singular ׳
@@ -47,7 +47,7 @@ Dan 6:12,
 2.
 seek, accusative of person Dan 2:13, accusative of thing Dan 6:5.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pa`el
 Imperfect 3 masculine plural יְבַעוֺן (K^§

@@ -11,7 +11,7 @@ Biblical Hebrew; Ethiopic
 measure
 Di^404^); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal_27_
 Perfect 3 masculine singular ׳
@@ -85,7 +85,7 @@ Che reads סִפַּרְתִּי after
 
 ).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Imperfect 3 masculine singular יִסָּפֵר
@@ -113,7 +113,7 @@ J
 1Chr 23:3
 .
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el_67_
 Perfect 1 singular סִפַּ֫רְתִּי
@@ -217,7 +217,7 @@ Ps
 I can count exactly all my bones (in wasted body). — Ps 40:6 see below
 1, Job 38:37 read יִסְפֹּר.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Pu`al
 be recounted, related, rehearsed: Perfect 3 masculine singular סֻפַּר

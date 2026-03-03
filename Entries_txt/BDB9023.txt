@@ -3,7 +3,7 @@ Biblical Hebrew
 
 [שִׁקֵּץ] verb
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pi`el
 denominative

@@ -24,7 +24,7 @@ compare
 [placeholder4408: Placeholders/4408.gif]
 young man); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine plural צבְאוּ
@@ -68,7 +68,7 @@ P
 ) 1Sam
 2:22.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Participle

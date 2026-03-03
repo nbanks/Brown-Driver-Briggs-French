@@ -3,7 +3,7 @@ hébreu biblique
 
 [שָׁכָה, ainsi la plupart] verbe
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Hiph`il
 Participe comme adjectif dans סוּסִים מוּזָנִים מַשְׁכִּים הָיוּ

@@ -70,7 +70,7 @@ def _chunk_preview(chunk_dict, max_chars=120):
     total = 0
     for line in txt.splitlines():
         stripped = line.strip()
-        if not stripped or stripped.startswith("@@SPLIT:"):
+        if not stripped or stripped.startswith("## SPLIT "):
             continue
         if total > 0:
             parts.append(" ")

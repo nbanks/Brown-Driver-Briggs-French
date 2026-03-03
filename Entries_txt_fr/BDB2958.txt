@@ -17,7 +17,7 @@ hypocrisie ; assyrien
 hanpu, cruauté ; hanâpu, exercer la cruauté envers,
 Tel Amarna Zim^ ZA vi, 1891, 256^) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait 3 féminin singulier חָֽנְפָה
 Es 24,5 3 pluriel
@@ -51,7 +51,7 @@ apparemment transitif וַתֶּחֱנַף את הארץ, Gf supprime
 Ew et d'autres (voir aussi Gf.
 Gie).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Hiph`il
 Imparfait
 יַחֲנִיף

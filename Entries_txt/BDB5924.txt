@@ -4,12 +4,12 @@ Biblical Hebrew
 עֵירֹם, עֵרֹם
 adjective and noun [masculine]
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 naked;
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 nakedness
@@ -24,7 +24,7 @@ Gen 3:10; Gen 3:11 + 4 t.,
 Ezek 16:7 + 2 t.
 Ezekiel; plural עֵירֻמִּים) Gen 3:7 —
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 1.
 adjective
@@ -32,7 +32,7 @@ naked
 Gen 3:7; Gen 3:10; Gen 3:11 (all
 predicate); as substantive concrete Ezek 18:7; Ezek 18:16.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 2.
 noun

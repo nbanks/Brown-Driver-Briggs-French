@@ -8,7 +8,7 @@ errer (|| forme de
 , q. v. ; araméen (parfois) תְּעָא, תְּעִי
 id. ; hébreu tardif = hébreu biblique (rare)) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Parfait 3 masculin singulier ׳
@@ -62,7 +62,7 @@ Ez 44,10
 ; Ez
 44,15.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 
@@ -77,7 +77,7 @@ Es 19,14
 Jb 15,31
 (avec בשׁוֺא).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Parfait 3 masculin singulier הִתְעָה

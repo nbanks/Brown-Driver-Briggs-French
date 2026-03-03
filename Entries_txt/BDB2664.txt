@@ -11,7 +11,7 @@ Isa 29:11
 suffix חָזוּתְכֶם
 Isa 28:18 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 vision, oracle of a prophet
@@ -37,7 +37,7 @@ Vrss
 
 2.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 conspicuousness in appearance:

@@ -5,18 +5,18 @@ III. [מָלַח] verbe
 dénominatif
 saler, assaisonner ;
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Imparfait 2 masculin singulier תִּמְלָ֑ךְ suivi de l'accusatif Lv 2,13 (objet offrande).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Pu`al
 Participe
 מְמֻלָּח
 Ex 30,35
 salé, c.-à-d. l'encens (voir Di.)
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Hoph`al
 Parfait 2 féminin singulier + Infinitif absolu
 הָמְלֵחַ לֹא הֻמְלַ֫חַתּ

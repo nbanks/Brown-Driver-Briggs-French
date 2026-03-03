@@ -15,7 +15,7 @@ turban, araméen christo-palestinien
 [placeholder4572: Placeholders/4572.gif]
 gland) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imparfait 3 masculin singulier יִצְנֹף

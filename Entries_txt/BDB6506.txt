@@ -14,7 +14,7 @@ Prov 28:12 +
 Isa 46:13 + 20
 t. suffix; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 beauty, finery
@@ -24,7 +24,7 @@ jewels
 Ezek 16:17; Ezek 16:39; Ezek 23:26, compare 2Chr 3:6 flock Jer 13:20 a man Isa 44:13 city of Samaria Isa 28:1; Isa 28:4 diadem
 Isa 28:5.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 glory:
@@ -77,7 +77,7 @@ of ark of ׳
 י
 Ps 78:61.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 

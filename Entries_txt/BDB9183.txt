@@ -5,7 +5,7 @@ Biblical Hebrew
 be astounded, dumbfounded (Late Hebrew id.; so Aramaic תְּמַהּ,
 [placeholder5831: Placeholders/5831.gif]); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 plural תָּמָ֑הוּ
@@ -30,7 +30,7 @@ J
 ), Isa 13:8
 .
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hithpa`el
 Imperative masculine plural +
@@ -41,7 +41,7 @@ Imperative
 Hab 1:5 (see
 above), literally astonish yourselves, be astounded but We
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hithpalpel
 הִתְמַהְמְהוּ; Gr reads infinitive absolute

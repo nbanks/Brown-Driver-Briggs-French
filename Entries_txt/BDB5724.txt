@@ -29,7 +29,7 @@ Ps 119:114
 plural סְתָרִים
 Prov 9:17 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 covering, cover, הָהָר
@@ -52,7 +52,7 @@ hiding-place of thunder; of adulterer פָּנִים
 Job 24:15
 i.e. disguiseth himself.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 
@@ -97,7 +97,7 @@ Ps
 b.
 secret place, of womb Ps 139:15 (|| תַּחְתִּיּוֺת אָ֑רֶץ).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 secrecy:

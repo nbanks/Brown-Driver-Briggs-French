@@ -16,7 +16,7 @@ distil, drop like dew;
 [placeholder3243: Placeholders/3243.gif]
 sift); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 1 singular ׳
@@ -24,7 +24,7 @@ Perfect 1 singular ׳
 Prov 7:17
 I have besprinkled my couch with myrrh, etc.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Po`lel
 Imperfect 3 masculine singular ׳
@@ -35,7 +35,7 @@ compare
 Ges^«GKC:118f»§ 118f^. Da^Synt.
 § 69, R 2^).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Perfect 3 masculine singular הֵנִיף
@@ -162,7 +162,7 @@ bounteous rain thou didst shed abroad [compare
 ], but verb not wholly suitable; Lag
 Gr proposes תַּטִּיף, yet this also questionable.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hoph`al
 Perfect 3 masculine singular הוּנַף, be waved, Exod 29:27

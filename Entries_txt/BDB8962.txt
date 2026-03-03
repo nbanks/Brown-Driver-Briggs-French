@@ -15,7 +15,7 @@ melt and pour into mould; Ethiopic
 [placeholder5685: Placeholders/5685.gif] Aramaic שְׁפַח,
 [placeholder5686: Placeholders/5686.gif] (rare) = Biblical Hebrew); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular ׳
@@ -175,7 +175,7 @@ Ps 102:1
 Ezek
 16:15, compare Ezek 23:8.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect 3 masculine singular נִשְׁפַּח
@@ -206,7 +206,7 @@ Ezek
 Qal
 2.b.).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pu`al
 Perfect 3 masculine singular consecutive וְשֻׁפַּח
@@ -228,7 +228,7 @@ Qr
 
 שֻׁפְּכוּ).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hithpa`el
 Imperfect 3 feminine singular עָלַי

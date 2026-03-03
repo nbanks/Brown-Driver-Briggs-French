@@ -33,7 +33,7 @@ Ps 89:10 + 6
 t.; גַּלֵּיהֶם
 Ps 65:8 + 2 t.; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 heap of stones,
@@ -61,7 +61,7 @@ heap of ruins Isa 25:2 elsewhere plural Hos 12:12; 2Kgs 19:25 = Isa 37:26
 9:10;
 Jer 51:37.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 waves (rollers) in poetry, only plural, waves of sea Jer 5:22; Jer 31:35; Isa 51:15
@@ -88,7 +88,7 @@ VB
 compare
 Ezek 27:9).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 spring, Song 4:12

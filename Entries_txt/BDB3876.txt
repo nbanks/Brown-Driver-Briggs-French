@@ -9,7 +9,7 @@ draw back timidly,
 [placeholder2404: Placeholders/2404.gif]
 abstain, through timidity) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Niph`al
 Perfect
@@ -20,7 +20,7 @@ Ps 109:16
 
 downhearted (|| עָנִי וְאֶבְיוֺן).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Infinitive construct

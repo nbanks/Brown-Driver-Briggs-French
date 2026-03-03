@@ -3,7 +3,7 @@ Biblical Hebrew
 
 II. [גַּד]
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 noun [masculine]
@@ -24,7 +24,7 @@ Qr
 
 ἐν τύχῃ, by or with good fortune.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 proper name, masculine

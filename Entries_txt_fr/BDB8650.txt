@@ -12,7 +12,7 @@ Qo 31,27
 [placeholder5520: Placeholders/5520.gif]
 qualité, apparence) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Parfait 3 masculin singulier שָׁת
@@ -225,7 +225,7 @@ Bu
 Be
 Du) pour יָמַי יחדל probablement à juste titre.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hoph`al (ou
 Qal

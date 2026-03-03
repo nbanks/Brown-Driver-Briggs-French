@@ -4,7 +4,7 @@ hébreu biblique
 II. [לבב] verbe
 dénominatif
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Pi`el
 faire des gâteaux. Imparfait
 תְּלַבֵּב

@@ -8,7 +8,7 @@ tuer (
 
 syriaque (souvent) ; voir hébreu biblique (tardif, rare)) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pe`al
 Participe
@@ -17,7 +17,7 @@ actif
 Dn 5,19,
 accusatif de personne
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pe`îl
 être tué : Parfait 3 masculin singulier קְטִיל
@@ -25,7 +25,7 @@ Dn 5,30, 3
 féminin singulier קְטִילַת
 Dn 7,11.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pa`el
 tuer : Parfait 3 masculin singulier קַטִּל
@@ -35,7 +35,7 @@ Dn 3,22
 Dn 2,14 (
 ל accusatif de personne).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hithpe`el
 être tué : Infinitif

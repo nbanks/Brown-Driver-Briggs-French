@@ -11,7 +11,7 @@ MI^23, 26^
 , אלעשה, מעשיהו; not Aramaic, and not certainly found in South Semitic languages;
 on Sabean see especially DHM^SB Berl. Akkadian 1886, 849^); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal_2524_
 Perfect 3 masculine singular Gen 3:1 +, suffix עָשָׂהוּ
@@ -874,7 +874,7 @@ Exod
 11.
 spend, pass, days of life Eccl 6:12.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al_97_
 Perfect 3 masculine singular נַעֲשָׂה
@@ -1040,7 +1040,7 @@ be done upon, against (ב) Dan 9:12.
 
 2. (passive of
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Qal
 II):
@@ -1114,7 +1114,7 @@ Ezek
 15:5 (twice
 in verse).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Pu`al
 Perfect 1 singular עֻשֵּׂיתִי

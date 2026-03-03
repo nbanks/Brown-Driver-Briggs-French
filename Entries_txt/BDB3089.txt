@@ -13,7 +13,7 @@ be in ruins, waste, depopulated; Assyrian
 —uribtu
 , desert, Lotz^TP^); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect 3 feminine singular תֶּחֱרַ֔ב
@@ -43,7 +43,7 @@ others, be amazed, astounded (on relation of meanings see
 שׁמם
 ).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Participle feminine נֶחֱרֶבֶת
@@ -53,7 +53,7 @@ as adjective, desolate city, i.e. uninhabited, see context; נַחֲרָבוֺת
 Ezek 30:17
 of desolate countries (|| נָשַׁמּוּ).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Perfect
@@ -86,7 +86,7 @@ Ezek 19:7
 streets Zeph 3:6
 (|| נָשַׁמּוּ).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hoph`al
 Perfect 3 feminine singular הָחֳרָ֑בָה

@@ -17,7 +17,7 @@ Ps 76:4,
 Song 8:6 suffix
 רְשֶׁפֶיהָ Song 8:6 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 flame:
@@ -39,7 +39,7 @@ sparks; ׳
 Ps 76:4 Sharp
 flames of the bow, figurative for arrows.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 fire-bolt of ׳

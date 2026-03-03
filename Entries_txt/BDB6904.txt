@@ -33,7 +33,7 @@ Exod 7:4
 Exod 6:26 +, etc.;
 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 army, host:
@@ -202,7 +202,7 @@ Isa 40:26
 d. of the entire creation, כל צבאם
 Gen 2:1.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 war, warfare, service:
@@ -281,7 +281,7 @@ P
 
 instruments of war.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 service:
@@ -302,7 +302,7 @@ Job
 40:2; Dan
 10:1.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 צְבָאוֺת, in name of ׳

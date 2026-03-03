@@ -12,7 +12,7 @@ smooth (compare also
 [placeholder5659: Placeholders/5659.gif]
 smear over, close up); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperative +
@@ -27,7 +27,7 @@ look about (2Sam 22:42); Isa 32:3 read probably 3 feminine plural תְּשֹׁע
 שׁעה
 ).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Imperative masculine singular וְעֵינָיו הָשַׁ֑ע

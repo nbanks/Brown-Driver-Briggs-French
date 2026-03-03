@@ -8,7 +8,7 @@ come or happen suddenly, Late Hebrew בָּעִת Hiph`il
 startle; so Aramaic בְּעֵת Pa`el
 [placeholder659: Placeholders/659.gif] Aph`el) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Niph`al (late prose) Perfect
 נִבְעַת
@@ -21,7 +21,7 @@ be terrified, absolute Dan 8:17 with מפני
 1Chr 21:30;
 Esth 7:6.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el (mostly in poetry) Perfect 3 feminine singular suffix בִּעֲתָ֑תְנִי
 

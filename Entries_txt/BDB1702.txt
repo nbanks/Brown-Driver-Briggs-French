@@ -6,7 +6,7 @@ cover, surround, defend (Arabic
 [placeholder963: Placeholders/963.gif], Aramaic אַגֵּן (Aph`el), Palmyrene אגן
 Vog^Palm.132 ff.^) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -21,7 +21,7 @@ Isa 37:35;
 Isa 38:6 = 2Kgs 20:6; 2Kgs 19:34
 with אֶלֿ (|| הוֺשִׁיעַ).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Imperfect — or

@@ -19,7 +19,7 @@ Hos 12:6 +,
 זִכְרָם
 Deut 32:26 +: —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 remembrance, memory:
@@ -45,7 +45,7 @@ d.
 remembrance of particular days, i.e. their observance Esth 9:28 (הַפּוּרִים יְמֵי
 ).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 memorial, by which one is remembered:

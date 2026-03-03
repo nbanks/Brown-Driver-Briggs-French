@@ -8,7 +8,7 @@ sojourn (compare Arabic
 turn aside tarry, see especially III. IV. VIII. X; Aramaic
 [placeholder845: Placeholders/845.gif] Eth. in derivatives) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -122,7 +122,7 @@ Di & Che critical note
 (> Stu
 גֵּרִים)
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hithpolel
 Participle

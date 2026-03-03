@@ -8,7 +8,7 @@ Ps 9:5,
 דִּינֵךְ
 Jer 30:13 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 כסא דין
@@ -18,7 +18,7 @@ Prov 20:8
 from heaven thou didst cause judgment to be heard
 Ps 76:9.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 cause, plea, בין דין לדין
@@ -48,7 +48,7 @@ Jer 5:28
 דין כל בני חֲלוֺף
 Prov 31:8.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 judgment, condemnation, דין רשׁע
@@ -57,7 +57,7 @@ Job 36:17
 דין ומשׁפט
 judgment and justice Job 36:17.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 strife, דין וקלון
@@ -65,7 +65,7 @@ Prov 22:10
 (legal strife, law-suit
 Str).
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 5.
 government, דת ודין

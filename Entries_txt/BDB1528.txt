@@ -6,7 +6,7 @@ proper name (Arabic
 [placeholder823: Placeholders/823.gif]
 wall); —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 proper name [of a location]
@@ -20,7 +20,7 @@ also הַגְּדוֺר
 d. H.; הַגְּדוּד
 Baer, compare his note.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 proper name [of a location]
@@ -34,7 +34,7 @@ Ew
 Hi
 Be and others
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 proper name, masculine

@@ -5,7 +5,7 @@ hébreu biblique
 dénominatif
 faire ou poser une marque ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Pi`el
 Imparfait 3 masculin singulier ויתו
 
@@ -31,7 +31,7 @@ il tambourina (voir
 תפף
 ).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Hiph`il
 וְהִתְוִ֫יתָ תָו עַלֿ
 Ez 9,4

@@ -8,7 +8,7 @@ diviser (
 
 syriaque ; comparer hébreu biblique (surtout tardif)) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pe`al
 passif féminin singulier פְּלִיגָה תֶּהֱוֵה

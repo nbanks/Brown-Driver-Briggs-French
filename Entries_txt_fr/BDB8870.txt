@@ -10,7 +10,7 @@ Es 5,6 + ; suffixe
 שְׁמִירוֺ
 Es 10,17 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 collectif
@@ -23,7 +23,7 @@ figuré Es 9,17
 קוֺץ שׁ
 Es 32,13.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 diamant, comme tranchant, כְּתוּבָה ֗֗֗ בְּצִפֹּרֶן

@@ -17,7 +17,7 @@ nazâru
 , curse
 Dl^HWB 457^); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Niph`al
 Imperfect
@@ -41,7 +41,7 @@ H
 7:3
 consecrating my(self ), i.e. by fasting.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Perfect

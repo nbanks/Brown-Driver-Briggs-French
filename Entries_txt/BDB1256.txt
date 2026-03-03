@@ -6,7 +6,7 @@ cut off, break off, gain by violence (so Late Hebrew, Arabic
 [placeholder665: Placeholders/665.gif], Ethiopic
 [placeholder666: Placeholders/666.gif] Aramaic בְּצַע) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect
@@ -40,7 +40,7 @@ cognate meaning with verb בֶּ֫צַע
 Prov 1:19; Prov 15:27;
 Jer 6:13; Jer 8:10; Hab 2:9.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Perfect

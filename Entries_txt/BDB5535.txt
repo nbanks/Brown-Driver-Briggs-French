@@ -33,7 +33,7 @@ Amos 4:10,
 Josh 11:6+; —
 horse:
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. non-Israelite; chariot-horses of Canaanites Judg 5:22 (compare Judg 5:28; Judg 4:3; Judg 4:13
 ׳
@@ -60,7 +60,7 @@ ridden, for flight), Assyrians Isa 5:28 + 3 t., Chaldeans Jer 4:13 + 6 t.; other
 ; Ezek 38:15
 + 13 t. (late).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. in Israel; chariot-horses of Absalom 2Sam 15:1, especially of Solomon, and later, 1Kgs 5:6; 1Kgs 5:8; 1Kgs 10:25; 1Kgs 10:28; 1Kgs 10:29,
 and || Chronicles; 1Kgs
@@ -85,7 +85,7 @@ Ginsb q. v.); description of horse Job 39:19 in various simile and figurative Am
 Isa 63:13;
 Joel 2:4; Prov 27:3; Ps 32:9; Ps 147:10.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 chariot-horses of ׳

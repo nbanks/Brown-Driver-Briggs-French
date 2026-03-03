@@ -14,7 +14,7 @@ suffixe חֲלָלֶיךָ
 Ps 69,27, etc.
 + 11 t. suffixes ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 percé, mortellement blessé
 Ps 69,27 ;
@@ -24,7 +24,7 @@ Ez 26,15
 30,24 ; Lm
 2,12. Ailleurs
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 tué
 Nb 19,18 ;

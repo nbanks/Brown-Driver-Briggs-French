@@ -10,7 +10,7 @@ Pa`el Lam 3:11
 
 tear in pieces (for HCT פִּשֵּׁחַ)); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Participle (with accusative of cognate meaning with verb שֶׁ֫סַע): masculine singular
@@ -30,7 +30,7 @@ P
 הַפַּרְסָה הַשְּׁסוּעָה
 Deut 14:7.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 tear in two, a lion, kid, Imperfect,Infinitive construct

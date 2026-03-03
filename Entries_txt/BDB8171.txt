@@ -37,7 +37,7 @@ etc.; also שָׂדֶיךָ
 שָׂדֵינוּ
 Mic 2:4 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. open field, country:
 
@@ -263,7 +263,7 @@ see
 שָׂדַי
 ).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. definite portion of ground, field, land:
 
@@ -348,7 +348,7 @@ Judg 20:6.
 
 e. territory of king, 2Sam 9:7; 2Sam 13:30.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 land, opposed to sea, 1Chr 16:32 (opposed to הַיָּם; = שָׂדַי

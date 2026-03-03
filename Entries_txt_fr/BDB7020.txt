@@ -15,7 +15,7 @@ Jb 28,10
 construit צוּרֵי
 1 S 24,3 (Gi v.1 S 24,2) ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 
@@ -76,7 +76,7 @@ Jg 7,25
 ; Es
 10,26.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 

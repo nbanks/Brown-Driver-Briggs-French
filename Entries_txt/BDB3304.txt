@@ -15,7 +15,7 @@ derivatives glad, joyful; Assyrian
 vigorous
 Dl^HWB 299^) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -123,7 +123,7 @@ if it seem good unto (so Assyrian
 Dl^HWB 300 a^), 1Chr 13:2; Neh 2:5; Neh 2:7; Esth 1:19; Esth 3:9; Esth 5:4; Esth 5:8; Esth 7:3; Esth 8:5; Esth 9:13
 (compare טוֺב adjective ).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Perfect 2 masculine singular הֱטִיבוֺתָ

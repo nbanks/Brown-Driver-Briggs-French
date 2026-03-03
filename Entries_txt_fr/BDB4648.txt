@@ -20,7 +20,7 @@ Os^14^
 Levy-Os^ZMG xix.1863, 211 s.^
 DHM^ZMG xxix.1875, 595^) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal_99_
 Parfait
 ׳
@@ -180,7 +180,7 @@ sens obscur, voir [שֶׁלֶט] ; Gie propose ׳
 מִרְטוּ הַשּׁ
 polir.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Niph`al
 Parfait
 נִמְלָאֿ
@@ -244,7 +244,7 @@ adjectif, ainsi
 d'une rétribution, Jb
 15,32.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Piel_112_
 Parfait
 מִלֵּא
@@ -426,7 +426,7 @@ hommes
 4.
 confirmer des paroles 1 R 1,14.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 Pu`al
 Participe
 rempli, c.-à-d. serti de joyaux
@@ -435,7 +435,7 @@ rempli, c.-à-d. serti de joyaux
 
 Ct 5,14.
 
-@@SPLIT:stem@@
+## SPLIT 5 stem
 Hithpa`el
 Imparfait
 עָלַי יִתְמַלָּא֑וּן

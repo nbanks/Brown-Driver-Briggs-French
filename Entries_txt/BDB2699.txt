@@ -35,7 +35,7 @@ Ezek 18:21;
 Ezek 33:16,
 etc., + 40 t. suffix; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 sin:
@@ -369,7 +369,7 @@ man is clean from sin
 טהר מח
 Lev 16:30.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 condition of sin, guilt of sin
@@ -392,7 +392,7 @@ the
 horns of your altars
 Jer 17:1.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 punishment for sin:
@@ -407,7 +407,7 @@ this will be the punishment for sin of Egypt and the punishment for sin of all n
 
 (the plague with which Yahweh will smite them).
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 sin-offering: one of the kinds of offerings of
@@ -589,7 +589,7 @@ Lev 14:13;
 Ezek 40:39
 .
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 5.
 purification from sins of ceremonial uncleanness, all

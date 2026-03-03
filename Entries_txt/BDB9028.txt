@@ -13,7 +13,7 @@ Ps 101:7 + 3
 t.; suffix שִׁקְרֵיהֶם
 Jer 23:22 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 deception, what deceives, disappoints, and betrays one: a molten image Jer 10:14 = Jer 51:17
@@ -39,7 +39,7 @@ for disappointment, in vain
 1Sam 25:21;
 Jer 3:23.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 deceit, fraud, wrong :
@@ -79,7 +79,7 @@ Ps 69:5; Ps 119:78
 ; Ps
 119:86.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. injurious falsehood, in testimony, especially in courts: עַד
 שֶׁקֶר
@@ -125,7 +125,7 @@ compare Ps
 119:163 absolute false !
 2Kgs 9:12; Jer 37:14.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 falsity, of false or self-deceived prophets:
@@ -158,7 +158,7 @@ Jer 14:14,
 etc., (+ 12 t.); ׳
 רוּח שׁ.
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 5.
 lie, falsehood, in general: ׳

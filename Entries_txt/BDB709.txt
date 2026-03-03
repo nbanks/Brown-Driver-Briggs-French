@@ -7,7 +7,7 @@ lie in wait (Arabic
 [placeholder394: Placeholders/394.gif]
 be crafty) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -56,7 +56,7 @@ Ezra 8:31 plural of this singular = ambuscades Jer 51:12 singular = place of lyi
 (local sense)
 Josh 8:7.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Participle plural liers-in-wait
@@ -67,7 +67,7 @@ Participle
 Judg 9:25
 (with ל), 2Chr 20:22 (with עַל). ?
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Imperfect

@@ -4,7 +4,7 @@ hébreu biblique
 II. [זָמַר] verbe
 tailler, émonder (hébreu tardif id. ; relation avec √ I. obscure) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Imparfait 2 masculin singulier תִּזְמֹר
 Lv 25,3 ; Lv 25,4 d'émonder une
@@ -12,7 +12,7 @@ vigne (כֶּרֶם ;
 H
 ).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Niph`al
 Imparfait
 יִזָּמֵר

@@ -4,12 +4,12 @@ hébreu biblique
 אִמְרִי
 
 nom propre, masculin
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 un homme de Juda
 1 Ch 9,4 comparer
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 Ne 3,2
 (=

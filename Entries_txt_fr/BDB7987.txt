@@ -14,7 +14,7 @@ désirer avec véhémence ; éthiopien
 [placeholder5107: Placeholders/5107.gif]
 avoir faim) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait 3 masculin singulier ׳
 ר
@@ -35,7 +35,7 @@ si j'avais faim (de ׳
 י),
 Pr 6,30 ; Pr 19,15.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Hiph`il
 laisser quelqu'un avoir faim, sujet ׳
 י : Imparfait 3 masculin singulier וַיַּרְעִבֶ֑ךָ

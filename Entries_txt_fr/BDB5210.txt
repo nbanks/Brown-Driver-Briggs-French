@@ -11,7 +11,7 @@ construit נֵכַרֿ
 Dt 31,16 —
 caractère étranger (d'une autre famille, tribu ou nation), surtout
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 אֱלֹהֵי
 (הַ)נֵּכָר = dieux étrangers
@@ -34,7 +34,7 @@ Ml 2,11 ; Ps 81,10
 אֱלוֺהַּ נ
 Dn 11,39.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 בֶּןֿ(הַ)נֵּכָר = étranger
 Gn 17,12 (||
@@ -53,7 +53,7 @@ H
 2 S 22,46 =
 Ps 18,45 ; Ps 18,46 ; Ez 44,7 ; Es 56,6 ; Es 60,10 ; Es 61,5 ; Es 62,8 ; Ps 144,7 ; Ps 144,11.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3. autres combinaisons : ׳
 הַבְלֵי נ
 Jr 8,19

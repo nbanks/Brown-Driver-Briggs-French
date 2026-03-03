@@ -24,7 +24,7 @@ na—balu
 =
 [placeholder1594: Placeholders/1594.gif])) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait
 חָבָ֑ל
@@ -88,7 +88,7 @@ pouvoir) sur le pauvre ; בְּגָדִים חֲבֻלִים
 Am 2,8
 vêtements pris en gage.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Niph`al
 Imparfait
 יֵחָ֫בֶל לוֺ
@@ -109,7 +109,7 @@ VB
 חָבַל
 q. v.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Pi`el
 Parfait 3 féminin singulier חִבְּלָה
 Ct 8,5

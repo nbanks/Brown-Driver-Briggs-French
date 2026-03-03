@@ -8,7 +8,7 @@ roussir (
 
 syriaque ; hébreu tardif חָרַח) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Hithpa'al
 Parfait 3 masculin singulier הִתְחָרַח

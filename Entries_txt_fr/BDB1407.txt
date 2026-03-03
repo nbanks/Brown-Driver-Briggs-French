@@ -13,7 +13,7 @@ Ez 11,15,
 Lv 25,26 + 4
 t. ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 parenté, אַנְשֵׁי גְּאֻלָּתֶ֑ךָ
 hommes de ta parenté
@@ -35,14 +35,14 @@ Co
 א
 tes compagnons d'exil.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 rachat, du champ Lv 25,24 (
 H
 ) Rt 4,7
 .
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3.
 droit de rachat
 Lv 25,29 ;
@@ -56,7 +56,7 @@ H
 משׁפט הגאלה
 Jr 32,7.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 4.
 prix du rachat
 Lv 25,26 ;

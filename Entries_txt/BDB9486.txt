@@ -8,7 +8,7 @@ tremble (
 
 Syriac: compare Biblical Hebrew); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pe`al
 Participle plural זָָֽאֲעִין

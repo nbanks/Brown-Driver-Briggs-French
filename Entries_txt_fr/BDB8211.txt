@@ -16,7 +16,7 @@ vieillir,
 [placeholder5246: Placeholders/5246.gif]
 cheveux gris) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait 1 singulier זָקַנְתִּי וָשַׂ֫בְתִּי
 1 S 12,2

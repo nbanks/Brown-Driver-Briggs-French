@@ -13,7 +13,7 @@ be profane, desecrated (also Pi`el Hiph`il transitive), compare Aramaic חֲלַ
 [placeholder1768: Placeholders/1768.gif] Pa`el is purify,
 [placeholder1769: Placeholders/1769.gif] Aph`el is profane) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Niph`al
 Perfect
@@ -60,7 +60,7 @@ and
 even God himself
 Ezek 22:16; Ezek 22:26.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Perfect
@@ -242,7 +242,7 @@ Lev
 H
 ).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pu`al
 Participle
@@ -251,7 +251,7 @@ Ezek
 36:23
 my great name which is profaned among the nations.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hiph`il
 
@@ -460,7 +460,7 @@ beginning and ending
 (i.e.
 accomplishing my full purpose, see Dr).
 
-@@SPLIT:stem@@
+## SPLIT 5 stem
 
 Hoph`al
 Perfect

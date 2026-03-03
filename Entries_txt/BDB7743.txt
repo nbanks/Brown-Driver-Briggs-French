@@ -37,7 +37,7 @@ plural רְגָלִים
 Exod 23:14 + 3
 t. (see 2 below); —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 foot:
@@ -225,7 +225,7 @@ Kt
 Isa 7:20
 , i.e. hair of the private parts.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. plural only in phrase שָׁלשׁ רְגָלִים
 three times (feet, paces, compare פַּעַם)

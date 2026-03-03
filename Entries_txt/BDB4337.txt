@@ -8,7 +8,7 @@ languish, faint (= לָאָה) (
 
 לְהִי, id.; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect 3 feminine singular with apocope וַתֵּ֫לַהּ אֶרֶץ

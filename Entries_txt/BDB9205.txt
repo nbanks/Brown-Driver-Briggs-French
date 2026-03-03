@@ -12,7 +12,7 @@ recount, rehearse (?) (
 = Arabic
 [placeholder5857: Placeholders/5857.gif] is very dubious); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pi`el
 Imperfect 3 masculine plural יְתַנּוּ

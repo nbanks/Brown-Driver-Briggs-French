@@ -3,7 +3,7 @@ araméen biblique
 
 [שְׁמַם] verbe
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Ethpo`lel
 être consterné (

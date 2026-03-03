@@ -13,7 +13,7 @@ wine, is probably loan-word and
 import foreign wine denominative, Frä^157 f^
 ); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect 1 plural cohortative נִסְבְּאָה

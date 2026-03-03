@@ -8,7 +8,7 @@ Kt
 Qr
 , dénominatif de חצצרה = sonner du clairon —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Pi`el
 Participe
 מְחַצְּצ֯רִים
@@ -18,7 +18,7 @@ Qr
 
 מְחַצְּרִים) = joueurs de clairons.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Hiph`il
 Participe
 מַחְצְצ֯רִים (

@@ -17,7 +17,7 @@ Jg 5,18 suffixe
 מְרוֺמָיו
 Jb 25,2 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 hauteur, élévation (concret), lieu élevé :
@@ -72,7 +72,7 @@ Jb 39,18,
 adverbe = dans un lieu élevé
 Es 22,16.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 ׳
@@ -113,7 +113,7 @@ Es 37,23 =
 מִמּ dans un figuré Ps 73,8 ils parlent (comme) depuis le ciel, depuis les cieux (c.-à-d.
 si arrogamment).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 ׳
@@ -124,7 +124,7 @@ mais douteux), Bae
 dans une haute position ; Du lit מַריוֺם (
 יוֺם à Ps 56,4 comme dittographie ?).
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 figuré des nobles (collectif) מְרוֺם עַםהָֿאָרֶץ

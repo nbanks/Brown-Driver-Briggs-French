@@ -11,7 +11,7 @@ Ezek 40:46;
 Ezek 45:4 —
 approaching:
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. as predicate, אֶלדָּֿוִד
 ׳
@@ -28,7 +28,7 @@ article as substantive,
 ׳
 מִשְׁכַּן י).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. with article approaching
 ׳

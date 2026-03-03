@@ -6,7 +6,7 @@ be feeble, faint (Ba^ES 27^ compare Arabic
 [placeholder3830: Placeholders/3830.gif]
 perish, flag); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect 3 masculine singular יַעֲטֹף
@@ -35,7 +35,7 @@ the spirit would faint before me (׳
 Ps 61:3; Ps 101:2
 (title).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Infinitive construct
@@ -45,7 +45,7 @@ when infants faint (for ׳
 בְּהֵע; but read perhaps בַּעֲטֹף
 Qal, so Buhl).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Infinitive construct
@@ -53,7 +53,7 @@ Infinitive construct
 Gen 30:42
 when the flock shewed feebleness.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hithpa`el
 Imperfect 3 feminine singular תִּתְעַטֵף

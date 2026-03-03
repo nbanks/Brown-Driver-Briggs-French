@@ -35,7 +35,7 @@ Fl^Kl. Schr. i. 402 f.^):
 I.
 preposition
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. of space; —
 
@@ -136,7 +136,7 @@ even to (i. e. including) it base and its flower, compare
 1Sam
 18:4.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. Of time:
 
@@ -295,7 +295,7 @@ during their delaying, Exod 33:22; Job 7:19
 Jonah 4:2
 .
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. Of degree, to suggest a higher or the highest; as עַד מְאֹד
 
@@ -339,7 +339,7 @@ three.
 II.
 conjunction
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 1.
 until; —
@@ -464,7 +464,7 @@ al.
 עֹד he will yet, etc., understanding Job 8:20 as present, not
 future).
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 2.
 While (rare: compare 12 b): —
@@ -503,7 +503,7 @@ Matt
 (compare Talmud
 עַד דְּלָא, Mishna שֶׁלּאֹ עַד).
 
-@@SPLIT:sense@@
+## SPLIT 6 sense
 
 3. Of degree, to the point that, so that even (rare), Isa 47:7
 
@@ -539,7 +539,7 @@ III.
 Ezra, and
 occurring in most of the above senses. Thus
 
-@@SPLIT:sense@@
+## SPLIT 7 sense
 
 1. of space:
 לְבוֺא חֲמָת עַד
@@ -576,7 +576,7 @@ Judg 3:3;
 ; Ezra 9:6
 .
 
-@@SPLIT:sense@@
+## SPLIT 8 sense
 
 2. Of time:
 עד לעולם
@@ -632,7 +632,7 @@ with regard to, strengthened for לְ); followed by infinitive
 לָמוּת alone); Ezra 10:14
 עד להשׁיב.
 
-@@SPLIT:sense@@
+## SPLIT 9 sense
 
 3. Of degree:
 עַד לְמַחֲנֶה גָדוֺל

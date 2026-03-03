@@ -6,7 +6,7 @@ go astray, err (Aramaic שְׁגָא,
 [placeholder5408: Placeholders/5408.gif]
 id.); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 1 singular שָׁגִיתִי
@@ -59,7 +59,7 @@ P
 ) Ezek
 45:20 (compare שׁגג).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 lead astray:

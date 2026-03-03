@@ -17,7 +17,7 @@ Deut 21:10,
 Num 31:19, etc.;
 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 = state of captivity
@@ -59,7 +59,7 @@ Ezra 2:1 = Neh 7:6, ׳
 הַבָּאִים מֵהַשְּׁ
 Ezra 3:8; Ezra 8:35.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 act of capture
@@ -73,7 +73,7 @@ e. garb in which she was captured (> others captivity, in both: Amos 4:10 = your
 captive horses; Deut 21:13
 he captive's garb).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3 = captives (collective): Exod 12:29 (
 

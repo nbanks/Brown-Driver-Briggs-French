@@ -6,7 +6,7 @@ marcher, avancer (hébreu tardif id. (rare) ; arabe
 [placeholder4577: Placeholders/4577.gif]
 monter) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Parfait 3 féminin singulier צָֽעֲדָה
@@ -43,7 +43,7 @@ ancienne terminaison du féminin pluriel, p. ex. Nö^ZMG xxxiii (1884), 411^
 JPPeters^Hebraica iii (1887), 111 ; v (1888), 199^ ; émendation conjecturale du texte voir dans Ball^Hpt^
 Holz).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Imparfait 3 féminin singulier suffixe וְתַצְעִדֵהוּ

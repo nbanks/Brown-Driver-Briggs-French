@@ -6,7 +6,7 @@ creuser (comparer arabe
 [placeholder828: Placeholders/828.gif]
 percer, forer, évider) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Participe
 גָּבִים

@@ -4,12 +4,12 @@ hébreu biblique
 מַטָּרָה et (Lm 3,12) מַטָּרָא
 nom
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 garde, prison
 Ne 3,25.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 cible, but
 (comme gardé dans l'œil, surveillé, comparer
@@ -19,7 +19,7 @@ et σκόπος (guetteur, but) de σκέπτομαι ; peut-être nabatéen [
 רתא]מט
 Lzb^323^) ; — toujours absolu : —
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 1.
 garde, prison, d'ordinaire ׳
 חֲצַר הַמּ
@@ -37,7 +37,7 @@ Jr 39,15
 שַׁעַר הַמּ
 Ne 12,39.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 2.
 cible, but
 Jb 16,12

@@ -5,7 +5,7 @@ Biblical Hebrew
 noun feminine
 measurement, tale, proportion; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. construct הַלְּבֵנִים
 ׳
@@ -14,7 +14,7 @@ Exod 5:3 (
 J
 ) the tale of bricks (compare 1.תֹּכֶן).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. suffix בֻּנְתּוֺ- measurement, proportion, of ephah and
 bath Ezek 45:11

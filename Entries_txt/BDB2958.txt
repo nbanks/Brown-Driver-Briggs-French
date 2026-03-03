@@ -17,7 +17,7 @@ hypocrisy; Assyrian
 hanpu, ruthlessness; hanâpu, exercise ruthlessness toward,
 Tel Amarna Zim^ ZA vi, 1891, 256^) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 feminine singular חָֽנְפָה
@@ -52,7 +52,7 @@ apparently trans וַתֶּחֱנַף את הארץ, Gf strike out
 Ew and others (see also Gf.
 Gie).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Imperfect

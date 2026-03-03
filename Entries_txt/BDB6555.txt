@@ -6,7 +6,7 @@ be dispersed, scattered (Late Hebrew = Biblical Hebrew; perhaps akin to Arabic
 [placeholder4192: Placeholders/4192.gif]
 break asunder, scatter); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect 3 masculine plural יָפוּצוּ
@@ -36,7 +36,7 @@ Now
 Da; of besieging army 2Sam 20:22 (מֵעַל הָעִיר); people from (
 מִן) possessions Ezek 46:18 men (from Babel) Gen 11:4 (עַל location).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect 3 feminine singular נָפ֫וֺצָה
@@ -69,7 +69,7 @@ over country by defeat 2Sam 18:8.
 2.
 be spread abroad, of peoples Gen 10:18.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Perfect 3 masculine singular consecutive וְהֵפִיץ

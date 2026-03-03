@@ -33,7 +33,7 @@ particule
 hypothétique
 si.
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 a.
 construction (voir plus en détail Dr^§ 136-138, 143^
 Friedrich^Die Hebr. Condit. sätze 1884^) :
@@ -201,7 +201,7 @@ Ex
 22,16 ; Ex 22,22 ; Jg 11,30 ; Jg 14,12 ; Jg 16,11 etc. ; comparer
 Dr^Sm i. 20, 6^.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 b.
 Emplois spéciaux :
 
@@ -337,7 +337,7 @@ Am 7,2. (b) du présent ou du futur, Es 4,4
 quand le Seigneur aura lavé, Es 24,13 ; Es 28,25 comparer Nb 36,4
 (avec l'imparfait)
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 c. En composition avec d'autres particules : — (α) בִּלְתִּי
 אִם
 
@@ -391,7 +391,7 @@ c'est vers eux (Israël) que je t'ai envoyé : ils peuvent te comprendre »
 particule
 interrogative
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 a. en interrogation directe :
 
 (a) seul (pas
@@ -442,7 +442,7 @@ ou Sarah, — celle qui a 90 ans enfantera-t-elle ? Pr 27,24 (וְאִם
 après une proposition
 négative),
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 b. en interrogation indirecte, si :
 
 (a)
@@ -467,7 +467,7 @@ Jos
 24,15
 .
 
-@@SPLIT:sense@@
+## SPLIT 6 sense
 c. en composition avec הֲ, הַאִם
 Nb 17,28
 

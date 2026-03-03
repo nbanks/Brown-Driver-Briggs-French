@@ -6,7 +6,7 @@ fly swiftly, dart through the air (compare perhaps Arabic
 [placeholder1038: Placeholders/1038.gif]
 run vehemently (of camel)) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect

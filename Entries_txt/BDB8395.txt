@@ -8,7 +8,7 @@ take captive (Late Hebrew, Old Aramaic id.;Arabic
 [placeholder5380: Placeholders/5380.gif]); Aramaic שְׁבָא,
 [placeholder5381: Placeholders/5381.gif]) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular ׳
@@ -97,7 +97,7 @@ Deut 21:10
 =
 take him captive.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 be taken captive:

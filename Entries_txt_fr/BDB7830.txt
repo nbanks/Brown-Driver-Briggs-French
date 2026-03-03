@@ -4,25 +4,25 @@ hébreu biblique
 I. [מְרוּצָה]
 nom
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 course.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 cours (de la vie)
 : —
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 1.
 course, manière, style, de courir, construit מְרוּצַת
 2 S 18,27
 , מְרֻצַת 2 S 18,27.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 2.
 cours (de la vie), suffixe מְרוּצָתָם

@@ -11,7 +11,7 @@ id.; Aramaic נוּם,
 id.; Ethiopic
 [placeholder3233: Placeholders/3233.gif]); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 plural נָמ֫וּ

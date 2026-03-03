@@ -4,7 +4,7 @@ hébreu biblique
 II. דּוּמָה
 nom propre
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 masculin
 fils d'Ismaël
@@ -14,13 +14,13 @@ Di ; aussi Ges^Comm.^ sur
 Es 21,11,
 Glaser^Skizze ii. 392, 440.^
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2. ville dans les montagnes de Juda Jos 15,52, comparer Δοῦμα dans la Daroma, 17 milles d'Éleuthéropolis
 Lag^Onom. 250. 2e éd. 258^, = moderne Daume
 , au sud-ouest d'Hébron van de Velde^Memoir 308^
 Guérin^Judée iii. 359 ss.^ comparer Di.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3. nom d'Édom avec un sens mystique Es 21,11
 Duma = silence de la mort, désolation, De
 

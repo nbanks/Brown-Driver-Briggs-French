@@ -32,7 +32,7 @@ GFM lit ׳
 construit סֹפְרֵי
 Est 3,12 ; Est 8,9 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 
 a.
@@ -81,7 +81,7 @@ connaît ׳
 1 Ch 27,32
 = homme de savoir.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2. classe professionnelle d'hommes de lettres, « scribes » capables de lire et d'écrire
 Jr 36,26 ;
 Jr 36,32
@@ -101,7 +101,7 @@ surtout savants dans la loi, et prétendant en édicter les préceptes, עֵט �
 סֹפְרִים
 Jr 8,8.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3. spécifiquement d'Esdras, à la fois prêtre (כֹּהֵן) et savant
 dans
 la loi (סֹפֵר), Esd 7,11, ׳

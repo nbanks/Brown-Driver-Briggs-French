@@ -6,7 +6,7 @@ gird, encompass, equip (Talmud id., Arabic
 [placeholder130: Placeholders/130.gif], Aramaic in derivation Lag^BN 177^ derives from
 [placeholder131: Placeholders/131.gif]).
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -33,7 +33,7 @@ active with accusative of person Job 30:18
 כְּפִי כֻתָּנְתִּי יַאַזְרֵנִי, subject לְבוּשִׁי see Di; figurative 1Sam 2:4
 אָֽזְרוּ חַיִל
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Participle
@@ -41,7 +41,7 @@ Participle
 ׳
 נ) girded with might.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el
 Imperfect 2 masculine singular suffix וַתְּאַזְּרֵנִי
@@ -70,7 +70,7 @@ Kn
 Brd
 Di).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hithpa`el
 Perfect

@@ -10,7 +10,7 @@ Pi`el, d'où) s'accorder avec, être semblable, ressembler (arabe
 être égal, convenable, semblable, Pa`el disposer de manière lisse, Aph`el rendre
 uni, convenable, digne) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Parfait 3 masculin singulier לִי
@@ -50,7 +50,7 @@ Hi Or Ry^Kau^ (lisant
 כֹּל שֹׁוֶה עִמּוֺ pour כִּלְשׁוֺן עַמּוֺ, mais voir Siegf.) ; adéquat pour
 Est 5,13.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Parfait 3 masculin singulier שִׁוָּה
@@ -82,7 +82,7 @@ We insère לְנֶגְדִּי (II. ׳
 שׁ, comparer Ps 16,8) ; Zenner Du
 אִזִּיתִי.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 rendre semblable : Imparfait 1 singulier מָח
@@ -95,7 +95,7 @@ Qal
 Es
 40,25).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Nithp. (apparemment) Parfait 3 féminin singulier
 נִשְׁתָּ֑וָה (pour נִשְׁתְּוָה) Pr 27,15

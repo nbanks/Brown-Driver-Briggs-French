@@ -6,7 +6,7 @@ strangle (Late Hebrew id., Aramaic חֲנַק,
 [placeholder1867: Placeholders/1867.gif]; Arabic
 [placeholder1868: Placeholders/1868.gif]); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Niph`al
 Imperfect
@@ -14,7 +14,7 @@ Imperfect
 2Sam 17:23
 strangled himself (+וַיָּ֫מָת).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Participle

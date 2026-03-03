@@ -6,7 +6,7 @@ verbe
 être irrité, en colère (hébreu tardif כָּעַס, araméen כְּעַם (pas
 syriaque)) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait
 ׳
@@ -35,7 +35,7 @@ Ez 16,42
 ; Qo 7,9,
 avec אֶל personne 2 Ch 16,10.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Pi`el.
 Parfait 3 féminin singulier suffixe כִּעֲסַתָּה
 1 S 1,6 3
@@ -45,7 +45,7 @@ provoquer à la colère.
 
 >
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Hiph`il
 Parfait
 הִכְעִיס

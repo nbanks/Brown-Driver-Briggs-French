@@ -6,7 +6,7 @@ nom [masculin]
 murmure (Che), chuchotement, méditation (sur la forme comparer
 Ba^NB 136^) — seulement suffixe הֲגִיגִי
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 Ps 5,2
 ׳
@@ -14,7 +14,7 @@ Ps 5,2
 comprends mon murmure (chuchotement, faible parole), adressé à ׳
 י.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 Ps 39,4
 בַּהֲגִיגִי

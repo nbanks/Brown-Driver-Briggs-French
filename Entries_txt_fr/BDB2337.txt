@@ -15,7 +15,7 @@ sabéen voir SabDenkm^64^) ; peut-être aussi sabéen מזדודן
 grand, prince, p. ex. Sab. Denkm.^89^
 ) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait 3 féminin singulier זָ֫דָה
 Jr 50,29 3
@@ -35,7 +35,7 @@ contre
 י
 elle a agi présomptueusement.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Hiph`il
 Parfait 3 pluriel הֵזִידוּ
 Ne 9,10 + 2

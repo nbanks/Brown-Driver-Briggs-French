@@ -14,14 +14,14 @@ suffix יִשְׁעִי
 2Sam 22:3 + 11
 t., + 14 t. suffixes; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 safety, welfare, prosperity
 2Sam 23:5;
 Ps 12:6; Job 5:4; Job 5:11.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 salvation, i.e. primarily physical rescue, by God, often with added spiritual idea: Isa 62:11;
@@ -65,7 +65,7 @@ Ps 132:16
 
 her priests will clothe with salvation.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 victory:

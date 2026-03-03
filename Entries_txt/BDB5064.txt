@@ -14,7 +14,7 @@ a bag hanging down,
 [placeholder3229: Placeholders/3229.gif]
 suspend, hang); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect 3 feminine singular תָּנוּט

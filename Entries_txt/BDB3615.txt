@@ -4,7 +4,7 @@ Biblical Hebrew
 יְעוּאֵל, יְעִיאֵל, יְעִו֯אֵל
 proper name, masculine
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 יְעוּאֵל son of Zerah 1Chr 9:6,
@@ -21,7 +21,7 @@ L
 
 Ιεηλ.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 יְעִיאֵל:
@@ -54,7 +54,7 @@ one of those who took strange wives Ezra 10:43,
 
 Ιαηλ, Ιειηλ, etc.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 יעואל

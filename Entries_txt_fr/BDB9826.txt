@@ -15,7 +15,7 @@ SAC^100^ (arabe
 pašâru
 ) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pe`al
 Infinitif
@@ -23,7 +23,7 @@ Infinitif
 Dn 5,16,
 accusatif de sens apparenté au verbe פִשְׁרִין
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pa`el
 Participe

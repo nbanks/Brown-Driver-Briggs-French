@@ -17,7 +17,7 @@ sheath, etc.; Late Hebrew in derivatives חָלָל noun hollow
 , adjective slain, חָלִיל
 pipe); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -42,7 +42,7 @@ Bi
 Che read חֲלוֺתִי
 my sickness).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Participle plural (Baer) בְּיַד מְחַללֶי֑ךָ
@@ -51,7 +51,7 @@ Ezek 28:9
 in the hand of the ones wounding thee (Sm
 Co read מְחוֺלְלֶ֑ךָ).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pu`al
 Participle
@@ -60,7 +60,7 @@ pierced by the sword
 Ezek
 32:26.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Po`el
 Perfect 3 feminine singular חֹלֲלָה יָדוֺ נָחָשׁ
@@ -73,7 +73,7 @@ Isa 51:9
 
 who pierced the dragon.
 
-@@SPLIT:stem@@
+## SPLIT 5 stem
 
 Po`al
 Participle

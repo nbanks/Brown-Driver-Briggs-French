@@ -9,7 +9,7 @@ cut, (divide,) determine (so
 Syriac, in both meanings; Biblical Hebrew usually divide, Job, Esther,
 decree); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Pe. Participle
 active as substantive, plural absolute גָָּֽזְרִין
 determiners (of fate; astrologers or soothsayers) Dan 2:27; Dan 5:11 emphatic גָָּֽזְרַיָּא
@@ -18,7 +18,7 @@ Dr.; Arabic
 [placeholder5959: Placeholders/5959.gif]
 RS^JPhil. xiii (1885), 781^).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hithpe`el
 Perfect 3 feminine singular הִתְגְּזֶרֶת

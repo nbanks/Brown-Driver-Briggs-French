@@ -3,13 +3,13 @@ hébreu biblique
 
 [רְכֻלָּה] nom féminin
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 commerce ; — suffixe רְכֻלָּתֵךָ
 Ez 28,5 ; Ez 28,16 ;
 Ez 28,18.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 marchandises, רְכֻלָּתַךְ
 Ez 26,12.

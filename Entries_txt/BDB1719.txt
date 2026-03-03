@@ -4,7 +4,7 @@ Biblical Hebrew
 [גָּעַשׁ] verb
 shake, quake (Late Hebrew id.) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect
@@ -18,7 +18,7 @@ Hithpa`el); — quake of earth at theoph., Ps 18:8 = 2Sam 22:8 (read
 Kt
 ; || רעשׁ).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pu`al
 Imperfect
@@ -27,7 +27,7 @@ be shaken up, convulsed
 Job 34:20
 a people are convulsed.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hithpa`el
 shake back and forth, toss or reel to and fro
@@ -50,7 +50,7 @@ Jer 46:7
 (compare Jer
 46:8).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hithpo`el
 Perfect

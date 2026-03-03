@@ -3,7 +3,7 @@ Biblical Aramaic
 
 [שְׁמַד] verb
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Haph`el
 destroy (

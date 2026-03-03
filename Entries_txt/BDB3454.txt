@@ -11,7 +11,7 @@ idû
 Sabean ידע, especially in compound proper name DHM^ZMG 1875,
 612^) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -560,7 +560,7 @@ Prov
 Eccl 8:16
 .
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect
@@ -695,7 +695,7 @@ be instructed (passive of
 Hiph`il) Jer 31:19, in spiritual sense, through
 chastisement.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el
 Perfect 2 masculine singular יִדַּ֫עְתָּ, only
@@ -719,7 +719,7 @@ Aq
 Symm
 .
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Po.
 Perfect
@@ -738,7 +738,7 @@ read יוֺעַדְתִּי or יָעַדְתִּי, from
 We
 Dr.
 
-@@SPLIT:stem@@
+## SPLIT 5 stem
 
 Pu`al
 Participle
@@ -780,7 +780,7 @@ Qr
 
 מוֺדַע q.see below)
 
-@@SPLIT:stem@@
+## SPLIT 6 stem
 
 Hiph`il
 Perfect
@@ -1025,7 +1025,7 @@ who declare, at the new moons, of (the things) which are
 to
 come.
 
-@@SPLIT:stem@@
+## SPLIT 7 stem
 
 Hoph`al
 Perfect
@@ -1060,7 +1060,7 @@ Lev 4:28 (
 P
 ).
 
-@@SPLIT:stem@@
+## SPLIT 8 stem
 
 Hitph.
 Imperfect

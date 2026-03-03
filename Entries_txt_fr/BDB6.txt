@@ -12,7 +12,7 @@ abâtu
 Dl^W 184^ araméen אֲבַד,
 [placeholder2: Placeholders/2.gif]). —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait
 ׳
@@ -294,7 +294,7 @@ peut-être Dt
 26,5
 .
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Pi`el
 causatif du Qal. — Parfait
 אִבַּד
@@ -413,7 +413,7 @@ Qo 3,6
 (||
 בִּקֵּשׁ).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Hiph`il
 Parfait
 וְהֶאֱבִּיד

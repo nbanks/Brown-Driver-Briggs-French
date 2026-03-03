@@ -29,7 +29,7 @@ t-av-k-±ra
 
 WMM^As.u.Eur.102^, grec σίκερα, Lewy^Fremdw. 81^) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Parfait 3 pluriel שָֽׁכְרוּ
@@ -62,7 +62,7 @@ Na 3,11 d'
 כֶּעָסִיס דָּמָם יִשׁ
 Es 49,26.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 enivrer : Imparfait 3 masculin singulier suffixe וַיְשַׁכְּרֵהוּ
@@ -89,7 +89,7 @@ terrorisant les nations ; lire probablement ׳
 We
 Now).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 id. : Parfait 1 singulier וְהִשְׁכַּרְתִּ֫י
@@ -105,7 +105,7 @@ Ruben^JQ xi (1889), 446^ propose מַשְׁכִּירוֺת
 Os 7,5 pour
 משׁך ידו את.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hithpa`el
 Imparfait 2 féminin singulier תִּשְׁתַּכָּרִין

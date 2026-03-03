@@ -9,7 +9,7 @@ make certain, gain certainty (
 
 ; compare Biblical Hebrew); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pa`el
 Infinitive

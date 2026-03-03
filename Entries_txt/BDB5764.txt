@@ -4,7 +4,7 @@ Biblical Hebrew
 יַעְבֵּץ
 proper name
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 masculine [person]
@@ -19,7 +19,7 @@ A
 
 Ιαγβης, Γαβης, GL Ιαβιης, Ιαβηλ, Ιαβεις.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. location in Judah, apparently near Bethlehem
 1Chr 2:55

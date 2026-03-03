@@ -11,7 +11,7 @@ Baal has rescued, and חלץ alone; Arabic
 [placeholder1783: Placeholders/1783.gif]
 withdraw, retire) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -32,7 +32,7 @@ draw out, present the breast, of animal giving suck Lam 4:3.
 2. intransitive withdraw (himself) followed by מִן
 Hos 5:6.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect
@@ -46,7 +46,7 @@ Prov 11:9
 Ps 60:7 = Ps 108:7 (
 Ges^«GKC:51»§ 51^. 2. R. 2).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el
 Perfect

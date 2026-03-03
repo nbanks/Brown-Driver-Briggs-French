@@ -3,7 +3,7 @@ Biblical Aramaic
 
 [בְּהַל] verb
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pa`el
 alarm, dismay (so usually
@@ -19,7 +19,7 @@ M^§ 52 a^); לוּךְ- Dan 5:10, לֻנֵּ֑ךְ- Dan 4:16,
 לוּנֵהּ- Dan
 5:6.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hithpe`el
 hasten (so Pi`el in late Biblical Hebrew;
@@ -29,7 +29,7 @@ hasten (so Pi`el in late Biblical Hebrew;
 Ithpe`el (rare)); Infinitive
 בְּהִתְבְּהָלָה = in haste (originally 'in alarm') Dan 2:25; Dan 3:24; Dan 6:20.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hithpa`el
 Passive participle

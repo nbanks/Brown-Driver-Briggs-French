@@ -9,7 +9,7 @@ shave head, etc.; compare
 [placeholder1011: Placeholders/1011.gif]
 swallow) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect
@@ -67,7 +67,7 @@ absolute (si vera lectio); Co. reads אֶתְגָּרֶה, for
 אֶגְרַע, on internal grounds; others: withdraw (thy needs) Sm (compare Ezek 16:27); withdraw (mine eye) Ges
 Ke.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect

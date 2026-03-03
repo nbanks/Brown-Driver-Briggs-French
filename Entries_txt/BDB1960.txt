@@ -61,7 +61,7 @@ Lev 12:7 + 2 t.;
 Lev 20:11 + 5
 t.; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 blood of man or animal, = the life (נֶפֶשׁ) Gen 9:4 (
@@ -89,7 +89,7 @@ Deut 12:23; Deut 15:23; 1Sam 14:32; 1Sam 14:33; 1Sam 14:34; Ezek 33:25 (compare 
 ), but to be poured out & covered with dust Lev 17:13
 (compare RS^Semitic i. 216 f.^).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. usually blood become visible,
 
@@ -607,7 +607,7 @@ compare
 2Kgs 3:23
 .
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. blood used with religious significance,
 
@@ -776,7 +776,7 @@ Ps 16:4
 (see
 Che).
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 figurative of wine דַּםעֲֿנָבִים

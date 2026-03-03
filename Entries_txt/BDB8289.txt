@@ -21,7 +21,7 @@ Jastr^JBL xi (1892), 114^
 Wkl^Tel Am. 181, 26^
 Buhl^Edom. 28. f.^); —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 Σηειρ:
@@ -111,7 +111,7 @@ Gen 36:21 (
 P
 ; + בְּאֶרֶץ אֱדוֺם); = Edomites 2Chr 25:11; 2Chr 25:14 (|| אֱדוֺמִים).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 mountain in Judah, ׳

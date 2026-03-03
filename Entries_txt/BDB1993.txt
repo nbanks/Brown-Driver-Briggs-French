@@ -12,7 +12,7 @@ COT^Gloss^; Phoenician דק
 id., Aramaic דַּקֵּק Pa`el id.,
 [placeholder1184: Placeholders/1184.gif]) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular דַּק
@@ -39,7 +39,7 @@ Exod 32:20
 הֵיטֵב עַד אֲשֶׁרדַּֿק לְעָפָר
 Deut 9:21.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Perfect
@@ -85,7 +85,7 @@ and thou shalt beat some of it fine (i.e. the incense); 2Sam 22:43 read אֲרִ
 (|| Ps
 18:43) for אֲדִקֵּם.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hoph`al
 Imperfect

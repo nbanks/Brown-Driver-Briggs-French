@@ -18,7 +18,7 @@ DHM^Epigr. Denkm. 48^; compare Palmyrene חבל
 mortuus
 Vog^No. 161^ and often) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 1 plural חָבַלְנוּ
@@ -29,7 +29,7 @@ Infinitive construct (used as absolute) Neh 1:7 — act corruptly against,
 חֲבֹל חבלנו לְ
 Neh 1:7 absolute Job 34:31.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Imperfect
@@ -47,7 +47,7 @@ RV
 חָבַל
 (q. v.)
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el
 ruin, destroy: Perfect 3 masculine singular consecutive וְחִבֵּל את מעשׂה
@@ -70,7 +70,7 @@ compare Participle plural מְחַבְּלִים
 Song 2:15
 with accusative of foxes ruining vineyards.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Pu`al
 Perfect 3 masculine singular וְחֻבַּל consecutive Isa 10:27 of yoke,

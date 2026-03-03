@@ -17,7 +17,7 @@ t&213;akar
 , barrier, Bondi^88^);
 —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Niph`al
 Imperfect 3 masculine singular ׳
@@ -29,7 +29,7 @@ Gen 8:2 (
 P
 ) and the springs of the deep etc., were shut up.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Perfect

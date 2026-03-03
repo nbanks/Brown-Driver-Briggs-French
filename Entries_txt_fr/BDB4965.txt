@@ -14,7 +14,7 @@ Dl^HWB 446^ ; éthiopien
 
 נוֺגְהָא planète Vénus) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait
 אוֺר
@@ -30,7 +30,7 @@ Imparfait
 אִשּׁוֺ
 Jb 18,5.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Hiph`il
 Imparfait
 

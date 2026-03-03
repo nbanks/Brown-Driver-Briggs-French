@@ -4,7 +4,7 @@ Biblical Hebrew
 [שָׁזַר]_21_
 verb
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Hoph`al
 be twisted (Late Hebrew שָׁזַר

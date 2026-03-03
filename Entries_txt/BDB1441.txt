@@ -6,7 +6,7 @@ verb
 denominative
 bound, border —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -25,7 +25,7 @@ set bounds
 Deut 10:14
 (with accusative of cognate meaning with verb).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Perfect 2 masculine singular set bounds for, with accusative

@@ -13,7 +13,7 @@ même jusqu'à, jusqu'à (hébreu biblique III.
 Lzb^336^
 S-C^A 5^ +)) ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 préposition :
@@ -46,7 +46,7 @@ Dn 4,14 voir [
 דִּבְרָה
 ].
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 conjonction :

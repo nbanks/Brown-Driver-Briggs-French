@@ -13,7 +13,7 @@ Job 16:18
 זַעֲקָתָם
 Isa 15:5 + 3 t.; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 outcry, against, זַעֲקַת
@@ -24,7 +24,7 @@ Gen 18:20 (
 J
 ).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 cry of distress, concerning something זַעֲקַתשֶֿׁבֶר
@@ -44,7 +44,7 @@ cry of poor; ׳
 Isa 65:19
 (|| קול בכי), Jer 51:54; Ezek 27:28.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 outcry, clamour

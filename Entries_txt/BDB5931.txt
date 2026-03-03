@@ -9,7 +9,7 @@ be bent, crooked (Late Hebrew id., Pi`el, Nithpa`el; Aramaic
 deceive
 PS^3008^); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pi`el
 Perfect 3 masculine singular suffix עִוְּתָ֑נִי
@@ -49,7 +49,7 @@ Ps 146:9
 (׳
 י subject); in general Eccl 7:13 (God subject; opposed to תִּקֵּן).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pu`al
 Participle
@@ -57,7 +57,7 @@ Participle
 Eccl 1:15
 what is bent (opposed to תְּקֹן).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hithpa`el
 Perfect 3 plural consecutive וְהִתְעַוְּתוּ

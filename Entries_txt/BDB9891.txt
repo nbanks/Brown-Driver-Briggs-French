@@ -8,7 +8,7 @@ be in tumult (
 
 ; Syriac (rare; usually feel, perceive); see Biblical Hebrew (late, rare)); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Haph`el
 shew tumultuousness, come thronging: Perfect 3 masculine plural הַרְגִּ֫שׁוּ

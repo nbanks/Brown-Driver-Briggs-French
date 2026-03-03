@@ -31,7 +31,7 @@ Jb 32,3,
 רֵעֵ֫הו (Ges^«GKC:91k»§ 91k^) Jb 42,10 ; 1 S 30,26,
 etc. ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 ami, intime, Gn 38,12 ; Gn 38,20 (
 J
@@ -66,7 +66,7 @@ Jr 3,1 métaphore
 Jb 30,29
 (|| אָח לְתַנִּים).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2. dans un sens plus faible, prochain, concitoyen, voire une autre
 personne, avec qui l'on entretient des relations réciproques, Ex 2,13 ; Ex 20,16 ; Ex 20,17
 (3 t. dans le verset) (Gi Ex 20,13 Ex 20,14 Ex 20,14
@@ -122,7 +122,7 @@ de même שָׂעִיר אֶלרֵֿעֵהוּ
 Es 34,14
 .
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3. dans l'expression réciproque אִישׁ ֗֗֗ רֵעֵהו
 Gn 11,3
 ils se dirent l'un à l'autre (אִישׁ distributif), chacun

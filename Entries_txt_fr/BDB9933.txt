@@ -3,7 +3,7 @@ araméen biblique
 
 [שְׁדַר] verbe
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Hithpa`al
 lutter, s'efforcer (

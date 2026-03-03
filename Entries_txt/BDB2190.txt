@@ -46,7 +46,7 @@ Ezek 32:30 —
 Ezek 5:7 see below
 המן below; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 sound, murmur, rush, roar, especially sound made by a crowd of people, murmur, roar
@@ -96,12 +96,12 @@ Jer 47:3 (||
 קוֺל שַׁעֲטַת
 פַּרְסוֺת & רַעַשׁ לְרִכְבּוֺ).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 tumult, confusion (as occasioning a roar) 1Sam 14:19; 2Sam 18:29.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 crowd, multitude (especially frequently in Ezra, Chronicles): —
@@ -156,7 +156,7 @@ P
 Isa 29:7;
 Isa 29:8 so, under figure of overwhelming mass of waves Jer 51:42.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 great number, abundance (late) נָשִׁים
@@ -172,7 +172,7 @@ tithes &
 gifts 2Chr
 31:10. Hence
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 5.
 abundance, wealth, Ps 37:16 compare Eccl 5:9 (|| כֶּסֶף), Isa 60:5 (יָם

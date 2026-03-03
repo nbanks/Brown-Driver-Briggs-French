@@ -15,7 +15,7 @@ Frä^153 f.^), Minaean נפל
 remove
 Hom^Sudar. Chrest. 128^); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal_366_
 Perfect
@@ -519,7 +519,7 @@ Hi
 Co
 Berthol, in Ezek 32:23 Toy^Hpt^).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Perfect
@@ -733,7 +733,7 @@ compare
 Qal
 6.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hithpa`el
 throw, or prostrate oneself,
@@ -763,7 +763,7 @@ Ezra
 and lie prostrate, ׳
 לִפְנֵי י. —
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Pil`el.
 וְנִפְלַל

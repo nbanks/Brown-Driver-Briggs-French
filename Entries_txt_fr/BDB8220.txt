@@ -6,7 +6,7 @@ verbe
 dénominatif
 méditer, se plaindre, en poésie parler (de) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imparfait 3 masculin singulier יָשִׂיחַ
@@ -65,7 +65,7 @@ Bu lisent שֶׁרֶץ ; Kau
 
 חַיַּת (ainsi Bu comme alternative), Bö et autres ci-dessous II. שִׂיחַ).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Polel
 méditer, considérer : Imparfait 3 masculin singulier יְשׂוֺחֵחַ

@@ -5,11 +5,11 @@ araméen biblique
 nom propre [d'un peuple ou d'un territoire]
 Mèdes, Médie (hébreu biblique id.) ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. d'un peuple Dn 5,28 ; Dn 6,9 ; Dn 6,13 ; Dn 6,16.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. territoire Esd 6,2.
 

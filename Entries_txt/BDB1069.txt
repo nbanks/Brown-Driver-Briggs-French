@@ -3,7 +3,7 @@ Biblical Hebrew
 
 בֵּית לֶ֫חֶם_41_
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 proper name [of a location]
 1.
@@ -46,7 +46,7 @@ Bd^Pal 123^
 Survey^iii. 28, 83^
 Guérin^Judée i. 120-206.^
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 בֵּית לָ֑חֶם in Zebulun Josh 19:15 perhaps also Judg 12:8; Judg 12:10 =

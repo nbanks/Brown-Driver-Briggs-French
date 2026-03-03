@@ -19,7 +19,7 @@ Gen 41:3,
 דַּקֹּת Gen
 41:4 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 thin, of kine בָּשָׂר
@@ -42,7 +42,7 @@ E
 H
 ).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 small, fine, of the manna דַּק מְחֻסְפָּס דַּק כַּכְּפֹר

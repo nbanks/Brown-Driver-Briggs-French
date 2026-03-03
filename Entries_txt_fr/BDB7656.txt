@@ -24,7 +24,7 @@ voir, de même éthiopien
 hébreu רְָאִי
 2)) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal_1141_
 Parfait 3 masculin singulier ׳
@@ -759,7 +759,7 @@ lire probablement
 יִרְאָה comparer Now
 GASm.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Parfait 3 masculin singulier נִרְאָה
@@ -1075,7 +1075,7 @@ verset) =
 Jr 13,26 ; Es
 47,3.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pu`al
 Parfait 3 pluriel עַצְמֹתָיו לֹא רֻוְּ
@@ -1106,7 +1106,7 @@ Bu
 נָאווּ, Du
 supprimer comme doublet.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hithpa`el réciproque se regarder l'un
 l'autre : Imparfait 2 masculin pluriel
@@ -1140,7 +1140,7 @@ Niph`al
 
 כִּרְאֹתוֺ אֹתוֺ.
 
-@@SPLIT:stem@@
+## SPLIT 5 stem
 
 Hiphil_62_
 Parfait 3 masculin singulier
@@ -1408,7 +1408,7 @@ Dt 1,33
 Dr
 ). Psaumes
 
-@@SPLIT:stem@@
+## SPLIT 6 stem
 
 Hoph`al
 

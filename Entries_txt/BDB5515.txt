@@ -11,7 +11,7 @@ Lane^1459^,
 abitus et adventus
 Frey (Kam)); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular סָג
@@ -32,7 +32,7 @@ absolute Ps 53:4
 Prov 14:14
 a backslider in heart.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect 3 masculine singular נָסוֺג
@@ -96,7 +96,7 @@ Jer 46:5
 Isa 42:17;
 Ps 35:4; Ps 40:15 = Ps 70:3; Ps 5.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 
@@ -122,7 +122,7 @@ Mic 6:14
 si vera lectio (on synt.see Dr^§§ 152, 1. 2; 155 Obs.^
 )
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hoph`al
 Perfect 3 masculine singular וְהֻסַּג אָחוֺר מִשְׁפָּט

@@ -52,7 +52,7 @@ Ps 149:6
 1Sam 13:21
 (corrupt, see Dr and others); —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 
@@ -87,7 +87,7 @@ Isa 57:4, also
 c. of ׳
 י in theophany, sending out fire 2Sam 22:9 = Ps 18:9.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 
@@ -238,7 +238,7 @@ e. of musical
 instrument = sound
 Amos 6:5 (compare 6.d.).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. of animals: bird Gen 8:11 (carrying), Isa 10:14 (chirping); ass Num 22:28 (speaking); bear, lion 1Sam 17:35
 (seizing), Amos 3:12
@@ -260,7 +260,7 @@ see also 6.c. (2), below; בַּעַל פִּיפִיּוֺת
 Isa 41:15
 , of מוֺרַג.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 mouth = opening, orifice; of well Gen 29:2; Gen 29:3 (twice in verse); Gen 29:8; Gen 29:10 cave Josh 10:18; Josh 10:22; Josh 10:27
@@ -281,7 +281,7 @@ t. in verse) (on text and meaning see Benz
 Kit); of mouth of Nile Isa 19:7 (others
 brink); gate of city Prov 8:3 (but read perhaps לִפְנֵי, see Toy).
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 5.
 
@@ -297,7 +297,7 @@ b. = portion, פִּי
 Deut 21:17;
 2Kgs 2:9; Zech 13:8.
 
-@@SPLIT:sense@@
+## SPLIT 6 sense
 
 6. with prepositions: —
 

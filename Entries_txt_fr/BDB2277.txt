@@ -13,7 +13,7 @@ CIS^iv. 1, 2, No. 74 l. 11. 12^ ; araméen דְּבַח,
 [placeholder1371: Placeholders/1371.gif], éthiopien
 [placeholder1372: Placeholders/1372.gif])
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal_112_
 Parfait
 ׳
@@ -256,7 +256,7 @@ Ez
 2 R 23,20
 (prêtres des hauts lieux sur leurs propres autels).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Piel_22_
 Parfait
 זִבַּח

@@ -6,7 +6,7 @@ hébreu biblique
 [placeholder4776: Placeholders/4776.gif]
 moisir, pourrir) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Parfait 3 masculin singulier קָמַ֑ל

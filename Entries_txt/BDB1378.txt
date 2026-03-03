@@ -3,7 +3,7 @@ Biblical Hebrew
 
 [בשׁס] verb
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Po`el
 Infinitive suffix בּוֺשַׁסְכֶם

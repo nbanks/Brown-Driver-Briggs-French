@@ -4,7 +4,7 @@ araméen biblique
 [סְלֵק] verbe
 monter (emprunt araméen en hébreu biblique, q. v.) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pe`al
 Parfait 3 féminin singulier סִלְקַת
@@ -22,7 +22,7 @@ corne en vision Dn 7,8
 figuré de pensées
 Dn 2,29.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Haph`el
 lever, retirer : Parfait 3 masculin pluriel הַסִּ֫קוּ (comme si
@@ -32,7 +32,7 @@ Infinitif
 Str^§ 3 h^) Dn 6,24 (מִן local), les deux avec ל
 accusatif de personne
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hoph`al (W^CG225^) être retiré :
 Parfait 3 masculin singulier הֻסַּק

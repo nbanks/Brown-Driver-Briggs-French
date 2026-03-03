@@ -13,7 +13,7 @@ accomplir, exécuter ; éthiopien
 livrer (entièrement), remettre au pouvoir de,
 Di^349^) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait
 יָפִיתְ
@@ -27,13 +27,13 @@ Ez 31,7 —
 d'un arbre Ez 31,7
 .
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Pi`el
 Imparfait 3 masculin singulier suffixe יְיַפֵּ֑הוּ
 Jr 10,4
 embellir une idole.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 La forme (Pe'al'al ?) Parfait אָדָם
 יָפְיָפִיתָ מִבְּנֵי
 Ps 45,3 est
@@ -43,7 +43,7 @@ Sta^§ 156 R^
 Now (Kö^i. 583 s.^
 la défense est artificielle) : tu es plus beau que, etc.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 Hithpa`el
 Imparfait 2 féminin singulier תִּתְיַפִּי
 te faire belle

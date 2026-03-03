@@ -7,7 +7,7 @@ lie, be a liar (Arabic
 [placeholder2488: Placeholders/2488.gif]
 id. chiefly Pa`el; Late Hebrew כָּזַב) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Participle
@@ -16,7 +16,7 @@ Ps 116:11
 (compare כָּזָּב
 Ps 62:10).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect 3 feminine singular תֹּחַלְתּוֺ נִכְזָ֑בָה
@@ -26,7 +26,7 @@ consecutive וְנִכְזָ֑בְתָּ
 Prov 30:6
 lest he convict thee and thou be proven a liar.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el
 Perfect 3 masculine singular כִּזֵּב
@@ -57,7 +57,7 @@ with, i.e. in intercourse, conversation with 2Kgs 4:16.
 2.
 disappoint, fail, of a divine revelation Hab 2:3 waters of a spring Isa 58:11.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hiph`il
 Imperfect 3 masculine singular suffix יַכְזִיבֵנִי

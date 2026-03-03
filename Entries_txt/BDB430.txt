@@ -7,7 +7,7 @@ noun masculine plural (feminine
 number of occurrences of אֵל, אֱלוֺהַּ, אֱלֹהִים compare also
 Nes^l. c^,)
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 
@@ -289,7 +289,7 @@ J
 H
 ).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 
@@ -364,7 +364,7 @@ God (see
 3
 & 4).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 הָאֱלֹהִים
@@ -629,7 +629,7 @@ E
 t.) Ps 87:3
 ; Eccl 9:1.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 אֱלֹהִים = God

@@ -9,7 +9,7 @@ Dn 11,3 ; Dn 11,5 pluriel
 הַמִּמְשָׁלִים
 1 Ch 26,6 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 רב
 ׳
@@ -19,7 +19,7 @@ Dn 11,3
 (accusatif de sens apparenté au verbe avec מָשַׁל), Dn 11,5 (prédicat de מֶמְשַׁלְתּוֺ
 ).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2. abstrait pour concret (pluriel) = chefs
 1 Ch 26,6 (? lire
 הַמּשְׁלִים).

@@ -13,7 +13,7 @@ CIS^iv. 1, 2, No. 74 l. 11. 12^; Aramaic דְּבַח,
 [placeholder1371: Placeholders/1371.gif], Ethiopic
 [placeholder1372: Placeholders/1372.gif])
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal_112_
 Perfect
@@ -257,7 +257,7 @@ Ezek
 2Kgs 23:20
 (priests of high-places on their own altars).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el_22_
 Perfect

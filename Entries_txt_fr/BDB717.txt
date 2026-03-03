@@ -8,7 +8,7 @@ Jg 9,35 construit
 מַאֲרַב
 Ps 10,8 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 
 a.
@@ -19,7 +19,7 @@ lieu de guet
 Ps 10,8 (||
 מִסְתָּרִים).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 ceux en embuscade
 2 Ch 13,13

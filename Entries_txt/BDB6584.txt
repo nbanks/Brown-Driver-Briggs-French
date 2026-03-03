@@ -22,7 +22,7 @@ Hos 9:8 +; plural
 פַּחִים
 Jer 18:22 +; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. literal ׳
 יַעֲלֶה פ
@@ -30,7 +30,7 @@ Amos 3:5b (as
 metaphor; v:a strike out ׳
 פ), Prov 7:23; Eccl 9:12 (with אָחוּז; both in simile).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. usually figurative (sometimes || מוֺקֵשׁ, רֶשֶׁת,
 צַמִּים):

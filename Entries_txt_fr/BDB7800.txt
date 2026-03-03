@@ -16,7 +16,7 @@ araméen רְוַח
 [placeholder5004: Placeholders/5004.gif]
 être large, élargi) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Parfait 3 masculin singulier ׳
@@ -25,7 +25,7 @@ Parfait 3 masculin singulier ׳
 Jb 32,20 pour qu'
 il y ait du soulagement pour moi.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Poual
 Participe pluriel מְרֻוָּחִים

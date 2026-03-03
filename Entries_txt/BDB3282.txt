@@ -5,7 +5,7 @@ Biblical Hebrew
 noun feminine
 thing slaughtered, slaughtered meat, slaughter —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. suffix טִבְחָתִי
 as accusative of cognate meaning with verb after טָבַח
@@ -13,7 +13,7 @@ as accusative of cognate meaning with verb after טָבַח
 of
 meat killed for food:
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 slaughter for food (= I. טֶבַח

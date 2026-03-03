@@ -8,7 +8,7 @@ araméen biblique
 ^j^
 ; voir hébreu biblique [זִיד, זוּד]) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Haph'el
 Infinitif

@@ -11,7 +11,7 @@ bouture, Dozy (emprunts ?) Thes^1488^ ; assyrien
 šitlu
 apparemment = pousse, bouture) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Parfait 1 singulier שָׁתַ֫לְתִּי

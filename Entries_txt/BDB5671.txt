@@ -4,7 +4,7 @@ Biblical Hebrew
 I. [סָפח] verb
 join, attach to; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperative masculine singular suffix׳
@@ -12,13 +12,13 @@ Imperative masculine singular suffix׳
 1Sam 2:36
 attach me, pray, to one of the priest's offices.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect 3 plural וְנִסְפְּחוּ עַלֿ consecutive Isa 14:1
 and they shall attach themselves to the house of Jacob (|| נִלְוָה).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el
 Participle
@@ -31,7 +31,7 @@ Now
 GASm
 Da).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Pu`al
 Imperfect 3 masculine plural יְסֻפָּ֑חוּ
@@ -40,7 +40,7 @@ are joined together, hold themselves together (yet read perhaps Niph`al יִסָ
 
 Bu).
 
-@@SPLIT:stem@@
+## SPLIT 5 stem
 
 Hithpa`el
 Infinitive construct

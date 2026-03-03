@@ -35,7 +35,7 @@ Num 24:5 +;
 אָהֳלֵיכֶם
 Josh 22:8 +, etc. —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 tent of nomad Song 1:5; Jer 6:3; Jer 49:29
@@ -59,7 +59,7 @@ of soldier 1Sam 17:54 compare Dr, Jer 37:10;
 Ps 19:5; Joel 2:16 see
 RS^Kinship 168^).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 dwelling, habitation; Ps 91:10
@@ -121,7 +121,7 @@ Ps 120:5
 א
 Hab 3:7.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 the sacred tent used in worship of God; הָאֹהֶל

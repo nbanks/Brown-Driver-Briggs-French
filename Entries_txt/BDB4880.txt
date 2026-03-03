@@ -9,7 +9,7 @@ Dan 11:3; Dan 11:5 plural
 הַמִּמְשָׁלִים
 1Chr 26:6 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 רב
@@ -20,7 +20,7 @@ Dan 11:3
 (accusative of cognate meaning with verb with מָשַׁל), Dan 11:5 (predicate of מֶמְשַׁלְתּוֺ
 ).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. abstract for concrete (plural) = rulers
 1Chr 26:6 (? read

@@ -3,7 +3,7 @@ araméen biblique
 
 [חֲסֵן] verbe
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Haphel
 prendre … possession de (syriaque être fort, vaincre ;

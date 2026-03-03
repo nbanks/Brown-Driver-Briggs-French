@@ -4,7 +4,7 @@ Biblical Hebrew
 [רִיחַ] verb
 denominative
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Hiph`il (?),smell, perceive odour; -Imperfect 3 masculine singular
 יָרִיחַ

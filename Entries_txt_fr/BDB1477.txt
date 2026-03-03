@@ -4,13 +4,13 @@ hébreu biblique
 II. [גְּדוּד, ou גְּדוּדָה] nom [masculin ou féminin]
 sillon, incision —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 sillon, pluriel défectif גְּדוּדֶ֑הָ
 Ps 65,11
 (|| תְּלָמֶיהָ).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2. pluriel גְּדֻדֹת, incisions sur les mains, comparer גדד
 Hithpo`el 2, signe de deuil Jr 48,37 (|| שׂק).
 

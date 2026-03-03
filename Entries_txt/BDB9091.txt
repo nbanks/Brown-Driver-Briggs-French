@@ -3,7 +3,7 @@ Biblical Hebrew
 
 [תָּאָה] verb
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pi`el
 Imperfect 3 masculine plural תְּתָאוּ

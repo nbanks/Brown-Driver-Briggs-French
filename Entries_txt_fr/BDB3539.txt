@@ -9,7 +9,7 @@ akâlu
 , Hpt dans KAT^2 Gloss
 i^,) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait
 יָכֹל

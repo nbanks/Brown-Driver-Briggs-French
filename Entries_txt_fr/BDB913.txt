@@ -9,7 +9,7 @@ séparation, partie concrète (
 לְבַדְּהֶן, Gn 21,29
 לְבַדָּ֫נָה ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. avec לְ, seulement au singulier, לְבַד proprement dans un état
 de (voir ci-dessous לְ) séparation, seul, en soi (français
@@ -101,7 +101,7 @@ suffixe Dt 4,35
 Es 45,21
 ).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. partie concrète
 Ex 30,34
@@ -112,7 +112,7 @@ P
 partie pour (c.-à-d. comme ; comparer בְּ
 III.3. fin) partie ce sera.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 בַּדִּים

@@ -11,7 +11,7 @@ side, edge,
 [placeholder673: Placeholders/673.gif]
 land in which are sharp stones (compare Lane)) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect
@@ -80,7 +80,7 @@ Sm
 Co
 בְּתוֺכָהּ, doubtless right.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Imperfect
@@ -89,7 +89,7 @@ be withheld
 Gen 11:6 (
 מֵהֶם), Job 42:2 (מִמְּךָ).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el
 Imperfect 3 feminine singular תְּבַצֵּר

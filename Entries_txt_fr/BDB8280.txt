@@ -5,7 +5,7 @@ hébreu biblique
 dénominatif
 se hérisser, d'horreur ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Parfait 3 pluriel שָֽׂעֲרוּ שַׂעַר

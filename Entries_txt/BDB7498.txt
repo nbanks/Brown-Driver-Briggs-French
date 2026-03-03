@@ -13,7 +13,7 @@ Ezek 13:6 plural
 קְסְמִים
 Deut 18:10 +; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. of the nations: Balaam, Num 23:23 (poem in
 J
@@ -30,7 +30,7 @@ E
 ). — Isa 2:6
 see [קָסַם].
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. of false prophets כָּזָב
 ׳
@@ -55,7 +55,7 @@ Jer 14:4 (all ||
 reprobated 1Sam 15:23
 (poem; || תרפים).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. in good sense עַל שִׂפְתֵי
 ׳

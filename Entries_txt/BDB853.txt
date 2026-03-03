@@ -55,7 +55,7 @@ combination with another preposition: thus בְּאוֺתוֺ
 הַיּוֺם = Bibl. בַּיּוֺם הַהוּא, בְּאוֺתָהּ הַשָּׁעָה; or as
 a nomin., e.g. אוֺתוֺ הָאִישׁ = Bibl. הָאִישׁ הַהוּא).
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. As mark of the accusative prefixed to substantives defined either by the article (or כֹּל
 ), or by a genitive or pronominal affix, or in virtue of being proper names:
@@ -169,7 +169,7 @@ Isa
 W^AG i. § 196, 43^]; and Num 10:2; Ezek 17:9
 לְמַסַּע, לְמַשְׂאוֺת are Aramaizing infinitives: compare Ew^§ 239 a^).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 את marks an accusative in other relations than that of direct object to a verb:
@@ -184,7 +184,7 @@ b. denoting time
 
 c. expressing the accusative of limitation (rare): Gen 17:11; Gen 17:14; 1Kgs 15:23.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. Chiefly in an inferior or later style, אֵת (or וְאֵת) is used
 irregularly, partly (α), as it would seem, to give greater definiteness (so especially וְאֵת

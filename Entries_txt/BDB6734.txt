@@ -20,7 +20,7 @@ command (Cook), so
 פְּקַד Pa`el, Syriac
 [placeholder4286: Placeholders/4286.gif], also visit); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal_234_
 Perfect 3 masculine singular ׳
@@ -246,7 +246,7 @@ Ezra
 of thing
 + ב location, 2Kgs 5:24 (compare פִּקָּדוֺן).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect 3 masculine singular נִפְקַד
@@ -324,7 +324,7 @@ Neh
 
 Neh 12:44.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el (
 intensive) muster a host, Participle
@@ -334,7 +334,7 @@ Isa
 13:4 (of ׳
 י).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Pu`al
 be passed in review, Perfect 3 masculine singular פֻּקַּד
@@ -348,7 +348,7 @@ missed for
 ; Hi Di De Che^Comm.^
 am punished, mulcted of.
 
-@@SPLIT:stem@@
+## SPLIT 5 stem
 
 Hithpa`el
 be mustered, Perfect 3 plural הִתְפָּֽקְדוּ
@@ -359,7 +359,7 @@ Imperfect 3 masculine singular וַיִּתְפָּקֵד
 Judg 21:9 3 masculine plural Judg 20:15 (on form
 see Ges^«GKC:54l»§ 54l^).
 
-@@SPLIT:stem@@
+## SPLIT 6 stem
 
 Hothpa`al
 id., Perfect 3 plural הָתְפָּֽקְדוּ
@@ -372,7 +372,7 @@ Num 2:33;
 Num 26:62 (
 Ges^l.c^.).
 
-@@SPLIT:stem@@
+## SPLIT 7 stem
 
 Hiph`il_29_
 Perfect 3 masculine singular הִפְקִיד
@@ -443,7 +443,7 @@ person (Jeremiah as
 prisoner) + ב location
 Jer 37:21.
 
-@@SPLIT:stem@@
+## SPLIT 8 stem
 
 Hoph`al
 

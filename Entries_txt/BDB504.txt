@@ -164,7 +164,7 @@ Josh 22:30
 [אָלַף] verb
 denominative
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Hiph`il
 Ps 144:13

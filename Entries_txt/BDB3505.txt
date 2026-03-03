@@ -3,7 +3,7 @@ Biblical Hebrew
 
 [יזן] verb only
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pu`al
 Participle plural מְיֻזָּנִים
@@ -32,7 +32,7 @@ and very uncertain).
 
 יון, √ of
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pu`al
 Participle plural מְיֻוָּנִים

@@ -7,7 +7,7 @@ expirer, périr, mourir (comparer arabe
 [placeholder842: Placeholders/842.gif]
 être vide, affamé) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait
 גָּוַע

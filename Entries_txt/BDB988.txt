@@ -11,7 +11,7 @@ spoil, plunder (Arabic
 rescue
 Prä^BAS i. 33^) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular וּבָזַז (consecutive) Ezek 29:19 3 plural בָּֽזְַזוּ
@@ -80,7 +80,7 @@ accusative of person robbed Isa 10:2; Isa 11:14; Isa 17:14 (שׁסה) Isa 42:22 
 absolute
 Num 31:53; Isa 42:24.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect
@@ -96,7 +96,7 @@ Amos 3:11
 Isa 24:3
 הִבּוֺז תִּבּוֺז (|| הִבּוֺק תִּבּוֺק).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pu`al
 Perfect

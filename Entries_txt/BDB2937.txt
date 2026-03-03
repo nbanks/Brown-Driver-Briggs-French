@@ -18,7 +18,7 @@ unninu, têninu nannu
 , id., Lotz^TP^
 Zim^BP 23, 66^) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -150,7 +150,7 @@ see
 II.
 חנן
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect 2 feminine singular נֵחַנְתְּ
@@ -170,7 +170,7 @@ Ew
 Gf
 Gie and others
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el
 Imperfect 3 masculine singular make gracious, favourable
@@ -179,7 +179,7 @@ Prov
 26:25
 .
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Poe`l
 Imperfect 3 masculine singular direct favour to (Ges^«GKC:55»§ 55^, 1) וְאֶתעֲֿפָרָהּ יְחֹנֵנוּ
@@ -193,7 +193,7 @@ Prov
 14:21
 .
 
-@@SPLIT:stem@@
+## SPLIT 5 stem
 
 Hoph`al
 Imperfect
@@ -203,7 +203,7 @@ Isa
 26:10;
 Prov 21:10.
 
-@@SPLIT:stem@@
+## SPLIT 6 stem
 
 Hithpa`el
 Perfect 2 masculine singular הִתְחַנַּנְתָּה

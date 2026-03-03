@@ -9,7 +9,7 @@ Ps 19,15 suffixe
 הֶגְיוֺנָם
 Lm 3,62 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 musique résonnante ; עֲלֵי חִגָּיוֺן בְּכִנּוֺר
 Ps 92,4
@@ -22,7 +22,7 @@ indication musicale, voir
 סלה
 ).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 méditation, réflexion
 אִמְרֵיפִֿי וְהֶגְיוֺן לִבִּי

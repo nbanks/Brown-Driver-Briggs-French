@@ -11,18 +11,18 @@ Es 17,11
 pluriel construit נִטְעֵי
 Es 17,10 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 plantation
 Es 5,7
 (figuré de Juda, planté par ׳
 י) ; Es 17,10 (figuré d'idolâtrie), ainsi
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2. acte de planter
 Es 17,11.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3.
 plant
 Jb 14,9 (en

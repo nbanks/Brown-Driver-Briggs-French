@@ -13,7 +13,7 @@ with difficulty (Lane^3007^); Aramaic
 [placeholder2714: Placeholders/2714.gif],
 [placeholder2715: Placeholders/2715.gif]); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect 2 masculine singular תִּלְאֶה
@@ -25,7 +25,7 @@ Gen 19:11 —
 be weary (in vain endeavour) followed by Infinitive Gen 19:11
 be weary, impatient at attempted consolation absolute Job 4:2 at calamity absolute Job 4:5 (|| בָּהַל).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect
@@ -49,7 +49,7 @@ subject ׳
 י, followed by infinitive Isa 1:14; Jer 6:11; Jer 15:6, always of exhausted patience; figurative of parched soil (absolute)
 Ps 68:10.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Perfect 3 masculine singular suffix הֶלְאָנִי

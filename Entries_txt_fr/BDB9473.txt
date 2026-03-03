@@ -8,7 +8,7 @@ aller (hébreu biblique ;
 
 ; syriaque seulement Pa.) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Peal
 syncopé (ainsi
@@ -26,7 +26,7 @@ Esd 7,13
 Infinitif
 לִמְהַח (K^l.c.^ ; al. חָ֯) Esd 7,13.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pael
 Participe
@@ -35,7 +35,7 @@ se promenant
 Dn 4,26 (
 עַל lieu).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Haphel
 id. : Participe pluriel מַהְלְכִין

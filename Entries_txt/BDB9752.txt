@@ -13,7 +13,7 @@ even to, until (Biblical Hebrew III.
 Lzb^336^
 S-C^A 5^ +)); —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 preposition:
@@ -46,7 +46,7 @@ Dan 4:14 see [
 דִּבְרָה
 ].
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 conjunction:

@@ -15,7 +15,7 @@ Ct 1,13 ; Ct 8,10,
 Ct 4,5 +, etc. ; —
 sein :
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. de femme
 Os 2,4 ; Ez
@@ -39,12 +39,12 @@ Ct 8,1 ; Jb 3,12 ; Jl 2,15 ; Os 9,14 (voir [
 Es 28,9 c.-à-d.
 ceux déjà sevrés, mûrs (|| גְּמוּלֵי מֵךְָלָב). — Es 32,12 voir [ספד].
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. d'animal
 Lm 4,3.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. humain et animal, וָרָ֑חַם
 ׳

@@ -11,7 +11,7 @@ Thes^1334^ compare I.
 שׂער
 ); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect 3 masculine singular suffix יִשְׂעָרֶנּוּ
@@ -19,14 +19,14 @@ Ps 58:10
 figurative he (׳
 י) shall sweep it away.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect 3 feminine singular impersonal נִשְׂעֲרָה
 Ps 50:3 round about
 him it is tempestuous exceedingly.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el
 Imperfect 3 masculine singular suffix וִישַׂעֲרֵ֫הוּ
@@ -34,7 +34,7 @@ Job 27:21
 and it [an east wind] shall whirl him away from (מִן)
 his place.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hitph.
 Imperfect 3 masculine singular וְיִשְׂתָּעֵר

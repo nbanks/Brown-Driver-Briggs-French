@@ -4,7 +4,7 @@ Biblical Hebrew
 [חַרְצֻבָּה] noun [feminine]
 bond, fetter, pang, only plural חַרְצֻבּוֺת; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. construct רֶשַׁע
 ׳
@@ -13,7 +13,7 @@ Isa 58:6
 bonds of wickedness i.e. imposed by wicked men (|| אֲגֻדּוֺת
 מוֺטָה).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 pangs (compare חֶבֶל, חֵבֶל), absolute ׳

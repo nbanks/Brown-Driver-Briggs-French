@@ -4,7 +4,7 @@ araméen biblique
 [פְּרַק] verbe
 arracher, rompre (voir hébreu biblique [פָּרַק]) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Peal
 Impératif masculin singulier פְּרֻק

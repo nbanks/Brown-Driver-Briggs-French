@@ -9,7 +9,7 @@ Ps 19:15 suffix
 הֶגְיוֺנָם
 Lam 3:62 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 resounding music; עֲלֵי חִגָּיוֺן בְּכִנּוֺר
@@ -23,7 +23,7 @@ musical direction, see
 סלה
 ).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 meditation, musing

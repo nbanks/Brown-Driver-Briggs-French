@@ -7,7 +7,7 @@ lever, prendre, porter (comparer hébreu biblique ; rare en araméen ; voir נְ
 נְסָא
 ChWB, NHWB) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pe`al
 Parfait 3 masculin singulier ׳
@@ -18,7 +18,7 @@ emporter (du vent, avec accusatif de chose) ; Impératif masculin singulier
 Esd 5,15
 prendre (accusatif ustensiles).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hithpa`el
 faire un soulèvement, une insurrection : Participe féminin singulier מִתְנַשְּׂאָה

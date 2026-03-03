@@ -12,7 +12,7 @@ effusio seminis virilis, seman effusum, Di^1055^
 ; on this and
 [placeholder1523: Placeholders/1523.gif] (compare by Ges and others) see Prät^BAS i. 32, Anm^.) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -212,7 +212,7 @@ Ezek 6:9.
 4.
 זונה of moral defection Isa 1:21.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pu`al
 Perfect 3 masculine singular אַהֲרַיִךְ לֹא זוּנָּה
@@ -220,7 +220,7 @@ fornication was not done (in going) after thee
 Ezek 16:34
 (but strike out Co).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Perfect 2 masculine singular הִזְנֵיתָ

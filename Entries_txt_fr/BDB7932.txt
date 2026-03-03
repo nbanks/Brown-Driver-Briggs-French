@@ -14,7 +14,7 @@ calomniateur, de
 [placeholder5076: Placeholders/5076.gif]
 colporter, Qor 2,19 et ailleurs]) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Participe
 רוֺכֵל

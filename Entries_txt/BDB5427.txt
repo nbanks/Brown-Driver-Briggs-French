@@ -18,7 +18,7 @@ Arabic
 Di^641, pos. akin to II.^
 נשׁק); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular ׳
@@ -83,7 +83,7 @@ Buhl^Lex^, but this meaning uncertain, and text perhaps corrupt,
 see Di
 Holz).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Imperfect 3 masculine singular וַיְנַשֵּׁק
@@ -107,7 +107,7 @@ E
 Ps 2:12 is
 dubious, compare I. בַּר a above
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Participle

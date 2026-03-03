@@ -29,7 +29,7 @@ L
 ^
 omitted); —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 dryness
@@ -42,7 +42,7 @@ of absence of dew); Jer 50:38 (|| יָבֵשׁ); so read also Zech 11:17 (for
 Sta^ZAW i. 1881, 29^), a drying up upon his arm
 (i.e. a withering) and upon his right eye.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 drought
@@ -50,7 +50,7 @@ Hag 1:11 +
 Deut 28:22
 see above
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 parching heat (of sun) Gen 31:40 (opposed to קֶ֫רַח), Jer 36:30 (opposed to

@@ -6,7 +6,7 @@ verbe
 régner, avoir la domination, gouverner (hébreu tardif Participe
 id. ; phénicien משל) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait 3 masculin singulier וּמָשַׁל consécutif Za 6,13 + 2 t., מָשָׁ֑ל
 
@@ -138,7 +138,7 @@ absolu Ps 66,7
 Es 40,10
 son bras régnant pour lui.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Hiph`il
 Parfait 3 masculin singulier suffixe consécutif וְהִמְשִׁילָם
 Dn 11,39

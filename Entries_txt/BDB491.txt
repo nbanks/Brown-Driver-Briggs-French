@@ -14,7 +14,7 @@ be in pain, Aramaic
 [placeholder233: Placeholders/233.gif]
 retain anger).
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Niph`al (be bound =) be dumb, Perfect 3 feminine
 singular
@@ -48,7 +48,7 @@ Ps 31:19
 (|| יִדְּמוּ לִשְׁאוֺל
 Ps 31:18).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Participle

@@ -8,7 +8,7 @@ become old and worn out (Arabic
 [placeholder603: Placeholders/603.gif]
 id.) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -31,7 +31,7 @@ of the heavens (with simile of garment) Isa 50:9; Ps 102:27
 J
 ) אַחֲרֵי בְלֹתִי after I am worn out.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 causative of Qal.

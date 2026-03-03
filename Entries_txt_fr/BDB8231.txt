@@ -4,7 +4,7 @@ hébreu biblique
 I. [שָׂכַךְ] verbe
 couvrir, poser par-dessus, de manière à protéger (comparer || √ I. סכן) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait 1 singulier וְשַׂכֹּתִי כַפִּי
 עָלֶיךָ

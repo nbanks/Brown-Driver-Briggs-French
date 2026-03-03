@@ -8,7 +8,7 @@ laugh (Arabic
 שׂחק
 ); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 feminine singular צָֽחֲקָה
@@ -30,7 +30,7 @@ P
 ); with ל
 at, concerning, Gen 21:6.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Imperfect

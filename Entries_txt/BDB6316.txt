@@ -17,11 +17,11 @@ A
 
 Ακ(κ)ουβ: —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. descendant of David 1Chr 3:24.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. heads of post-exilic families: a.
 Ezra 2:42 = Neh 7:45.
@@ -29,7 +29,7 @@ b.
 Ezra 2:45 (si
 vera lectio).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. Levites: a.
 1Chr 9:17.

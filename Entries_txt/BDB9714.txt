@@ -20,7 +20,7 @@ Cooke^Inscr. 212^, Arabic
 household outlay (Aramaic loan-word Schw^ZMG iii (1898).
 133^)); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pe`al
 Perfect 3 masculine singular ׳
@@ -41,7 +41,7 @@ come forth! Participle plural נָָֽפְקִין Luke 3:26 (both of men); sing
 Luke 7:10 (=
 flow out).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Haph`el
 bring forth, accusative of thing + מִן local: Perfect 3

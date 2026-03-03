@@ -23,7 +23,7 @@ Josh 18:5 + 5 t.;
 suffix חֶלְקֵיהֶם
 Hos 5:7 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 portion, share:
@@ -69,7 +69,7 @@ or part
 Job 32:17
 i.e. I will do my part in replying. Especially
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 portion, tract, of land:
@@ -124,7 +124,7 @@ e.
 Amos 7:4 (opposed
 to תְּהוֺם) apparently of land of Israel
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. hence portion, i.e. (acquired) possession:
 
@@ -151,7 +151,7 @@ Jer 10:16 =
 Jer 51:19 (
 שֵׁבֶט נַחֲלָתוֺ in || clause)
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4. chosen portion, habitual mode of life ׳
 עִםמְֿנָאֲפִים ח
@@ -165,7 +165,7 @@ among smooth (things i.e. stones) of a brook-bed is thy chosen life
 ); חֶלְקָם בַּחַיִּים
 Ps 17:14.
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 5.
 portion, award, from God אֱלוֺהַּ

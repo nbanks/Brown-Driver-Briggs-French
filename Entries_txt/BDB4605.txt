@@ -15,7 +15,7 @@ Job 28:15
 plural suffix מְחִירֵיהֶם
 Ps 44:13 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 price, often בִּמְחִיר
@@ -31,7 +31,7 @@ Isa 55:1 in
 purchase of blessings from ׳
 י; of price of people, figurative Ps 44:13, compare Jer 15:13.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. hire, כֶּלֶב
 ׳

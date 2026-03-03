@@ -8,7 +8,7 @@ proper name [of a location] (Lag^BN 47 f.^) —
 
 Ασωρ, etc.;
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. a royal city of northern Canaan Josh 11:1
 ׳
@@ -16,7 +16,7 @@ proper name [of a location] (Lag^BN 47 f.^) —
 חָצֹר
 1Kgs 9:15.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. places in the Negeb:
 
@@ -27,14 +27,14 @@ Josh 15:25
 וחָצוֺר
 חֲדַתָּה וּקְרִיּוֺת חֶצְרוֺן הִיא חָצוֺר.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 חָצוֺר
 Neh 11:33 a
 Benjamite town, probably = בַּעַל חָצוֺר q. v.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 מַמְלְכוֺת חָצוֺר אֲשֶׂר הִכָּה נְבוּכַדְרֶאצַּו֯ר

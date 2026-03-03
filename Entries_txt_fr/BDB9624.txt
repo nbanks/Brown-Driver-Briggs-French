@@ -4,7 +4,7 @@ araméen biblique
 [כְּרַז] verbe
 dénominatif
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Haph`el
 faire une proclamation (possiblement directement dépendant de κηρύξ (D^§ 37, p. 146^ (2e éd. 183)

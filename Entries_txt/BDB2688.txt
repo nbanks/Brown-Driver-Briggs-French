@@ -13,7 +13,7 @@ stengtheneth; = Assyrian
 compare proper name יחזק on seal Gann^JAs 1883 Feb. — Mar., 134 No. 7^; — on formative see
 Lag^BN 134^) —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 
@@ -39,7 +39,7 @@ Isa 36-39; also Jer
 Hos 1:1; Mic 1:1 (if י
 in these three be not text error for וְ).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 חִזְקִיָּה great-great-grandfather of prophet Zephaniah Zeph 1:1,
@@ -48,7 +48,7 @@ in these three be not text error for וְ).
 
 τοῦ Εξεκιου, perhaps = 1.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 
@@ -57,7 +57,7 @@ in these three be not text error for וְ).
 Εξεκια(ς),
 חִזְקִיָּה man of royal Davidic line 1Chr 3:23 probably near time of Char.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 יְחִזְקִיָּה,
@@ -70,7 +70,7 @@ also ׳
 ח
 Neh 10:18.
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 5.
 יְחִזְקִיָּהוּ

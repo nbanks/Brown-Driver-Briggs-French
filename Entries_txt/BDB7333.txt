@@ -4,7 +4,7 @@ Biblical Hebrew
 [קָהַל] verb
 denominative (Gerber^107 f.^) assemble as a קָהָל; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Niph`al
 Perfect 3 masculine plural נִקְהֲלוּ
@@ -59,7 +59,7 @@ person
 1Kgs 8:2 = 2Chr 5:3
 לְ local 2Chr 20:26.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Perfect 2 masculine singular הִקְהַלְתָּ

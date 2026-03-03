@@ -31,7 +31,7 @@ Eccl 11:6 +;
 etc.; plural suffix זַרְעֵיכֶם
 1Sam 8:15 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. literal:
 
@@ -64,7 +64,7 @@ H
 ; || דַּיִשׁ, בָּצִיר; — compare Amos 9:13 below 2
 .a.).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 seed:
@@ -227,7 +227,7 @@ Isa 55:10
 
 Amos 9:13.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 seed = semen virile, וְנִזְרְעָה זָ֑רַע
@@ -275,7 +275,7 @@ Jer 31:27
 זָרַע
 q. v. 3.b.).
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 seed = offspring:
@@ -571,7 +571,7 @@ Isa
 59:21 of Jews (יהודים) Esth 9:27; Esth 9:28; Esth
 9:31.
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 5.
 seed as marked by moral quality = persons (or community) of such a quality; transition to

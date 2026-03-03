@@ -10,7 +10,7 @@ Prov 10:14 +
 Prov 10:15;
 Prov 14:28 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 
@@ -21,7 +21,7 @@ terror, Isa 54:14 (|| עשֶׁק), Jer 17:17 = object of terror, Jer 48:39
 b.
 dismay, Prov 21:15 (opposed to שִׂמְחָה).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 ruin, of strongholds Ps 89:41

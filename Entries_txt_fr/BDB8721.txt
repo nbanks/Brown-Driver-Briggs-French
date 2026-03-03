@@ -5,7 +5,7 @@ hébreu biblique
 adjectif
 ayant la maîtrise, dominateur ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 ayant la maîtrise :
 בָּרוּחַ
@@ -22,7 +22,7 @@ E
 Qo 7,19
 (spécifiquement des successeurs d'Alexandre Perles^Anal. 42^).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 dominateur, impérieux, féminin singulier (Kö^ ii. 10.
 201^) אִשָּׁה זוֺנָה

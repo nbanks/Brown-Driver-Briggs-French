@@ -15,7 +15,7 @@ Exod 33:4 +,
 Exod 33:5, etc.; —
 ornaments:
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. of women 2Sam 1:24 (זָהָב
 ׳
@@ -43,7 +43,7 @@ thine age, prime (compare I.
 Che
 Du.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. of men
 Exod 33:4; Exod
@@ -54,13 +54,13 @@ J
 E
 )
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. in general, as feeding pride
 Ezek 7:20 (
 צְבִי עֶדְיוֺ, suffix reference to silver and gold, Ezek 7:19)
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 trappings of horse Ps 32:9 (De

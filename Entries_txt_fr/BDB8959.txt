@@ -34,7 +34,7 @@ suffixe מִשְׁפָּטֶיךָ
 Dt 33,10 +,
 etc. ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 jugement :
@@ -268,7 +268,7 @@ temps du jugement, ׳
 
 Ps 1,5 (tardif ; probablement jugement de la résurrection).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. attribut du שֹׁפֵט, justice, droit, droiture :
 
@@ -340,7 +340,7 @@ comparer Pr
 
 ; Pr 28,5.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 ordonnance promulguée par le שֹׁפֵט : 1 S 8,9 ; 1 S 8,11 ; 1 S 10,25 (loi du roi) ;
@@ -404,7 +404,7 @@ Ps 119,7
 16 t., Ps
 147,20.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 décision du שֹׁפֵט dans un cas de droit (voir
@@ -444,7 +444,7 @@ rédactionnelles et tardives, Lv 26,46 ; Nb 36,13 ; Dt 30,16 ; 2 R 17,37 ; 2 Ch 
 Ps 147,19
 .
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 5. droit (légal), privilège, dû de quelqu'un :
 הַכּהֲנִים
@@ -497,7 +497,7 @@ comparer
 Es 40,27 ;
 Es 49,4.
 
-@@SPLIT:sense@@
+## SPLIT 6 sense
 
 6.
 

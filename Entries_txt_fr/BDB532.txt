@@ -8,7 +8,7 @@ Ex 17,12 + 46
 t. ; אֱמוּנוֺת
 Pr 28,20.
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 au sens propre
 fermeté, stabilité :
@@ -17,14 +17,14 @@ Ex 17,12
 וַיְהִי יָדָיו א
 ses mains étaient fermeté (c.-à-d. stables).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 constance,
 אֱמוּנַת עִתֶּיךָ
 constance de tes temps
 Es 33,6.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3.
 fidélité, confiance :
 

@@ -18,16 +18,16 @@ Ez 36,29
 טֻמְאֹתָם
 Lv 16,16 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1. sexuelle
 Nb 5,19 (
 P
 ), Lm 1,9.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2. d'une masse immonde ou sale Ez 24,11 (dans un chaudron), 2 Ch 29,16 (dans le temple).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3. éthique et religieuse Lv 16,16 (
 P
 ) ; Ez
@@ -54,7 +54,7 @@ Ez 36,29
 רוּחַ הט
 esprit impur, qui inspirait les prophètes au mensonge Za 13,2.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 4. rituelle, des hommes Lv 5,3 (deux fois dans le verset) ; Lv 7,20 ; Lv 7,21 ; Lv 14,19 ; Lv 15,3 (deux fois dans le verset) ; Lv 15,31 (deux fois dans le verset) ; Nb 19,13 (tous
 P
 ), Lv 22,3
@@ -74,7 +74,7 @@ H
 Jg 13,7 ;
 Jg 13,14.
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 5. locale, des nations Esd 6,21 ; Esd 9,11.
 
 ---

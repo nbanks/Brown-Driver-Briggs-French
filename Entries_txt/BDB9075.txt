@@ -6,12 +6,12 @@ noun masculine^
 Gen 21:8
 ^
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 feast;
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 drink;
@@ -23,7 +23,7 @@ construct מִשְׁתֵּה
 suffix מִשְׁתָּיו
 Dan 1:5 + (Ges^«GKC:93ss»§§ 93 ss^), etc.; —
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 1.
 feast, banquet (occasion for drinking, drinking-bout), 1Sam 25:36 (twice in verse);
@@ -83,7 +83,7 @@ Esth 9:17
 Prov 15:15
 .
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 2.
 drink (late): וָשֶׁמֶן

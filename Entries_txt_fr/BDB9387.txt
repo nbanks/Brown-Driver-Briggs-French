@@ -4,7 +4,7 @@ araméen biblique
 [בְּרַךְ] verbe
 s'agenouiller, bénir (ainsi hébreu biblique) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pe
 Participe
@@ -21,7 +21,7 @@ passif
 Dn 3,28
 béni (soit) le Dieu, etc.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pa`el
 bénir, louer : Parfait 3 masculin singulier בָּרִךְ

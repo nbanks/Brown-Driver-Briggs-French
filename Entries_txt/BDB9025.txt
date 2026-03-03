@@ -5,7 +5,7 @@ Biblical Hebrew
 run, run about, rush (apparently akin to √ I. שׁוק, whence שׁוֺק
 ); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect 3 masculine plural בָּעִיר יָשֹׁקּוּ
@@ -20,7 +20,7 @@ Prov 28:15 (unless we read שָׁקוּל, Toy); figurative of נֶפֶשׁ
 longing for water Isa 29:8 (|| עָיֵם and, v^a,^
 רֵקָה), Ps 107:9 (|| רְעֵבָה).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hithpalpel
 Imperfect 3 masculine plural יִשְׁתַּקְשְׁקוּן

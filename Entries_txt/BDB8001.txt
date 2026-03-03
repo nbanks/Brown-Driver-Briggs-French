@@ -31,7 +31,7 @@ Job 32:3,
 רֵעֵ֫הו (Ges^«GKC:91k»§ 91k^) Job 42:10; 1Sam 30:26,
 etc.; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 friend, intimate, Gen 38:12; Gen 38:20(
@@ -67,7 +67,7 @@ Jer 3:1 metaphor
 Job 30:29
 (|| אָח לְתַנִּים).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. in weaker sense, fellow, fellow-citizen, even another
 person, with whom one stands in reciprocal relations, Exod 2:13; Exod 20:16; Exod 20:17
@@ -124,7 +124,7 @@ similarly שָׂעִיר אֶלרֵֿעֵהוּ
 Isa 34:14
 .
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. in reciprocal phrase אִישׁ ֗֗֗ רֵעֵהו
 Gen 11:3

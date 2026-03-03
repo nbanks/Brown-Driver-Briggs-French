@@ -3,7 +3,7 @@ hébreu biblique
 
 [פָּרַט] verbe très douteux,
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Participe pluriel הַפֹּרְטִים עַלפִּֿי הַנָּ֑בֶל

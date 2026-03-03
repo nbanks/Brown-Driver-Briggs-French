@@ -6,7 +6,7 @@ régler, mesurer, estimer (comparer araméen Pael תַּכֵּן
 (rare) préparer (= הֵכִין, כּוֺנֵן) ; selon Ry^Syn. d. Wahren u. Guten 33^ une racine secondaire de כון
 ) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Participe
@@ -15,7 +15,7 @@ estimer, figuré : ׳
 Pr 16,2, ainsi (
 לִבּוֺת) Pr 21,2 ; Pr 24,12.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 
@@ -39,7 +39,7 @@ Ez 18,29
 ,
 יִתָּכֵ֑נוּ Ez 18,25.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el
 Parfait 3 masculin singulier : mesurer, מַיִם תִּכֵּן בְּמִדָּה
@@ -56,7 +56,7 @@ Qal ; lire peut-être
 Ps 75,4 je
 règle (ou ajuste) ses colonnes (c.-à-d. de la terre).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Pu`al
 Participe

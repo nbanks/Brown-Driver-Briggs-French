@@ -5,7 +5,7 @@ Biblical Hebrew
 verb
 love —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -270,7 +270,7 @@ Ps 99:4;
 Isa 61:8;
 Mal 2:11.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Participle plural הַנֶּאֱהָבִים
@@ -278,7 +278,7 @@ Participle plural הַנֶּאֱהָבִים
 
 lovely, loveable of Saul & Jonath. (|| הַנְּעִימִם).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el
 Participle plural suffix (בָֿ֑י) מְאַהֲבַי

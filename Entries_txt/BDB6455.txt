@@ -15,7 +15,7 @@ eš‡u
 [placeholder4131: Placeholders/4131.gif]
 roughness, injustice); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -99,7 +99,7 @@ Prov 28:17
 
 oppressed (? burdened) with the blood of a person.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pu`al
 Participle feminine הַמְּעֻשָּׁקָה

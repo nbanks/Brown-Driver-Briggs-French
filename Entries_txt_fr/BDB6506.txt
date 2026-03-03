@@ -14,7 +14,7 @@ Pr 28,12 +
 Es 46,13 + 20
 t. suffixe ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 beauté, parure
@@ -24,7 +24,7 @@ bijoux
 Ez 16,17 ; Ez 16,39 ; Ez 23,26, comparer 2 Ch 3,6 troupeau Jr 13,20 un homme Es 44,13 ville de Samarie Es 28,1 ; Es 28,4 diadème
 Es 28,5.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 gloire :
@@ -77,7 +77,7 @@ de l'arche de ׳
 י
 Ps 78,61.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 

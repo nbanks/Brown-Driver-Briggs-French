@@ -14,7 +14,7 @@ et tênû, couche, mânîtu, maison, Zim^BP
 44, 45^
 Dl dans Zim^117^) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait
 חָנָה

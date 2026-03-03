@@ -7,7 +7,7 @@ touch, reach, strike (Late Hebrew id.; Arabic
 Aramaic נְגַע Ithpa`al be struck (that is, with leprosy), compare Pi`el
 below); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -141,7 +141,7 @@ of sword Jer 4:10
 Jonah 3:6
 arrive (of time), absolute Ezra 3:1; Neh 7:73.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Imperfect
@@ -153,7 +153,7 @@ be stricken, defeated (in battle), i.e. feign to be so, but read probably
 
 Niph`al
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el
 Perfect suffix נִגְּעוֺ
@@ -167,7 +167,7 @@ strike (with leprosy, 2 accusative), subject ׳
 Gen 12:17 (subject ׳
 י; accusative of person + accusative of cognate meaning).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Pu`al
 Imperfect
@@ -176,7 +176,7 @@ be sticken by diseases (?; compare
 Pi`el and נֶגַע
 2, 3, especially 2Sam 7:14) Ps 73:5.
 
-@@SPLIT:stem@@
+## SPLIT 5 stem
 
 Hiph`il
 Perfect
@@ -228,7 +228,7 @@ Isa 6:7; Jer
 Isa 5:8.
 
 2. intransitive reach, extend, Gen 28:12
-(followed by ָ  ה locative); followed by אֶלֿ
+(followed by ָ ה locative); followed by אֶלֿ
 
 Zech 14:5, followed by עַד
 Isa

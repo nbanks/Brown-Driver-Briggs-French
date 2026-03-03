@@ -3,7 +3,7 @@ Biblical Hebrew
 
 [שָׁנַס] verb
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pi`el
 gird up (si vera lectio; in Talmud (Aramaic) שְׁנַץ = bind

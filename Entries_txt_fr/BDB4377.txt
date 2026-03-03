@@ -12,7 +12,7 @@ tôt ; mais trouvé principalement dans
 P
 ) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Niph`al
 Imparfait 3 masculin pluriel וַיִּלּוֺ֫נוּ
 Ex 15,24 + 3
@@ -53,7 +53,7 @@ Nb 17,6 ; Jos 9,18 (tous
 P
 ; tous du peuple d'Israël) ; absolu Ps 59,16 (voir I.לון1 a).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Hiph`il
 Parfait 2 masculin pluriel הֲלִינֹתֶם
 Nb 14,29

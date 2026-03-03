@@ -73,7 +73,7 @@ et ailleurs^
 Ps 126,1 lire
 probablement שְׁבִית pour שִׁיבַת ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. dans la proposition נָתַן בַּשְּׁבִית
 Nb 21,29 (
@@ -86,7 +86,7 @@ E
 מִשְׁבָּת
 ] ci-dessous שׁבת).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. dans l'expression restaurer la captivité de, accusatif après שׁוּב
 , הֵשִׁיב, ׳

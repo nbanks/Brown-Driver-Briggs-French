@@ -3,7 +3,7 @@ Biblical Aramaic
 
 [זְהַר] verb
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pe`al
 Passive participle plural זְהִירִין

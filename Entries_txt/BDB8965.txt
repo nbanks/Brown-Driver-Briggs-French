@@ -15,7 +15,7 @@ be low (Lag^BN 48^); Aramaic שְׁפַל
 ,
 [placeholder5690: Placeholders/5690.gif] (derived species)); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular ׳
@@ -62,7 +62,7 @@ Ges and others below שָׁפָל.
 
 3. of sound Eccl 12:4.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Perfect 3 masculine singular הִשְׁפִּיל

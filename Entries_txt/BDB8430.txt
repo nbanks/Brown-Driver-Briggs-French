@@ -25,7 +25,7 @@ and all modern, see
 ); suffix שָׁבֻעֹתֵיבֶם
 Num 28:26 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 period of seven days (from a given time), week:
@@ -52,7 +52,7 @@ J
 P
 ).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 heptad or seven of years, late, Dan 9:24; Dan 9:25; Dan 9:26; Dan 9:27 (twice in verse). — שֻׁבֻעוֺת

@@ -17,7 +17,7 @@ forcer à faire une chose, éthiopien
 [placeholder4901: Placeholders/4901.gif]
 lier) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Parfait 3 masculin singulier קָשַׁר
@@ -92,7 +92,7 @@ le verbe קֶשֶׁר, 1 R 16,20 ; 2 R 12,21 ; 2 R 15,15, + עַל personne 2 R 
 2 Ch 25,27 ; 2 R 15,30 absolu 1 R 16,16 ; Ne 4,2 (+ infinitif but) ; avec
 עִם, ensemble avec, 2 S 15,31.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Parfait 3 féminin singulier נִקְשְׁרָה
@@ -105,7 +105,7 @@ Qal
 Ne 3,38
 toute la muraille fut jointe ensemble (le circuit complet).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el
 Imparfait
@@ -122,7 +122,7 @@ Jb
 38,31
 peux-tu lier fermement les liens des Pléiades ?
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Pu`al
 Participe
@@ -135,7 +135,7 @@ J
 Qal
 1c.
 
-@@SPLIT:stem@@
+## SPLIT 5 stem
 
 Hithpa`el
 conspirer : Parfait 3 pluriel הִתְקַשְּׁרוּ עַלֿ

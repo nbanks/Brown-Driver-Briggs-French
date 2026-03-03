@@ -8,7 +8,7 @@ se courber, se pencher, s'incliner (arabe
 [placeholder4580: Placeholders/4580.gif]) s'incliner, se pencher, comparer aussi
 [placeholder4581: Placeholders/4581.gif]) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Participe
@@ -33,7 +33,7 @@ Pi`el q. v.) pluriel צֹעִים
 Jr 48,12
 hommes inclinant, basculant un récipient, pour le vider.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Parfait 3 pluriel suffixe וְצֵעֻהוּ

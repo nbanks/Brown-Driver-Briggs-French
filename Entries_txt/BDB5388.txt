@@ -28,7 +28,7 @@ Ezek 32:29,
 Num 17:21,
 נְשִׂיאֵהֶם v.Num 17:17, etc.; — mostly in Israel:
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 בְּעַמְּךָ
@@ -37,17 +37,17 @@ Num 17:21,
 E
 ; human ruler, over against אֱלֹהִים).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. of Solomon 1Kgs 11:34. Elsewhere only Ezekiel,
 P
 , Chronicles: —
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. of Abraham Gen 23:6, and heads of Ishmaelite tribes Gen 17:20; Gen 25:16.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4. rulers of the congregation, נְשִׂיאֵי הָעֵדָה
 Exod 16:22;
@@ -66,7 +66,7 @@ t. in verse); Josh
 P
 ); especially
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 5. tribal chiefs and representatives, according to the religious organization of
 P
@@ -81,7 +81,7 @@ gloss, omitted by
 
 Benz), 2Chr 5:2.
 
-@@SPLIT:sense@@
+## SPLIT 6 sense
 
 6. in Ezekiel:
 
@@ -108,11 +108,11 @@ foreign princes Ezek 26:16; Ezek 27:21; Ezek 30:13; Ezek 32:29; Ezek 38:2; Ezek 
 Ezek 39:18
 .
 
-@@SPLIT:sense@@
+## SPLIT 7 sense
 
 7. leader of exiles returning under Cyrus, according to Ezra 1:8.
 
-@@SPLIT:sense@@
+## SPLIT 8 sense
 
 8. non-Israelite chiefs in
 P

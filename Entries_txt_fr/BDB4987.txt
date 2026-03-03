@@ -19,7 +19,7 @@ suffixe נִדְבֹתֶ֫יךָ
 Dt 12,7 + 4 t.
 suffixes ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 volontarisme
 אֹהֲבֵם נְדָבָה
@@ -37,7 +37,7 @@ volontairement, et accusatif adverbial נדבה
 Dt 23,24 (voir
 Dr.).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 offrande volontaire, de plein gré :
 

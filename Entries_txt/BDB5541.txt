@@ -11,7 +11,7 @@ reeds, rushes (collective) (probably loan-word from Egyptian
 Erman^ZMG xivi (1892), 122^; Semitic according to WMM^As.
 u.Eur.101^); —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 rushes, in Nile Exod 2:3; Exod 2:5 (
@@ -20,7 +20,7 @@ E
 Isa 19:6 (of
 Egypt).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. usually in combination יַםסֿוּף probably = sea of rushes or reeds
 ( > sea of (city) Suph), which Greek included in wider

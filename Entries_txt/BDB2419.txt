@@ -10,7 +10,7 @@ storm; compare Samaritan
 [placeholder1530: Placeholders/1530.gif]
 blow, breathe) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect

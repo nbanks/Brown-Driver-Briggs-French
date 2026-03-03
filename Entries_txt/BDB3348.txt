@@ -18,18 +18,18 @@ Ezek 36:29
 טֻמְאֹתָם
 Lev 16:16 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. sexual
 Num 5:19 (
 P
 ), Lam 1:9.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. of a foul or filthy mass Ezek 24:11 (in a caldron), 2Chr 29:16 (in the temple).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. ethical and religious Lev 16:16 (
 P
@@ -57,7 +57,7 @@ Ezek 36:29
 רוּחַ הט
 unclean spirit, which inspired the prophets to lie Zech 13:2.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4. ritual, of men Lev 5:3 (twice in verse); Lev 7:20; Lev 7:21; Lev 14:19; Lev 15:3 (twice in verse); Lev 15:31 (twice in verse); Num 19:13 (all
 P
@@ -78,7 +78,7 @@ H
 Judg 13:7;
 Judg 13:14.
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 5. local, of the nations Ezra 6:21; Ezra 9:11.
 

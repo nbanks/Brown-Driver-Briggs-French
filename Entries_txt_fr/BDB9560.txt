@@ -3,7 +3,7 @@ araméen biblique
 
 [טְלַל] verbe
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Haphel
 avoir de l'ombre (

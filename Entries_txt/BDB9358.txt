@@ -15,7 +15,7 @@ Dan 2:4; Dan 3:16 +, 3
 plural בְּהוֺן
 Dan 3:25 +; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 in, of place, Dan 2:38; Dan 3:1; Dan 4:12
@@ -28,7 +28,7 @@ at), Dan 5:2 +; Dan 4:12; Ezra 4:16
 חֲלָק בְּ a share in (Biblical Hebrew
 I.2).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 into, Dan 2:38
@@ -37,18 +37,18 @@ into, Dan 2:38
 עֲדָה ב pass over or upon
 Dan 3:27.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. of the instrument, by, with
 Dan 2:30; Dan 2:34; Dan 3:4; Dan 4:12 b. 24. 27
 +; Dan 5:2; Dan 5:3 (Amos 6:6: Biblical
 Hebrew III. 2).
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4. of the price (ib. III.3), with, Ezra 7:17; Ezra 7:18
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 5.
 יוֺם בְּיוֺם
@@ -59,17 +59,17 @@ S-C^L5^,
 [placeholder5934: Placeholders/5934.gif]
 PS^4240^).
 
-@@SPLIT:sense@@
+## SPLIT 6 sense
 
 6.
 through, on account of, (ib. III.), Ezra 6:14.
 
-@@SPLIT:sense@@
+## SPLIT 7 sense
 
 7.
 in the matter of, Dan 6:6; Dan 6:18,
 
-@@SPLIT:sense@@
+## SPLIT 8 sense
 
 8. after verbs of ruling, Dan 2:38 +, trusting
 Dan 6:24,

@@ -8,7 +8,7 @@ compare Dl^Pr 21^
 Muss.-Arnolt^Hebraica. Oct. 1890, 67^ Jäger^BAS i. 473^);
 —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular וְהָרָה consecutive Ps 7:15 3 feminine singular הָרָ֑תָה
@@ -100,7 +100,7 @@ Ps 7:15
 (subject wicked man), compare Job 15:35; Isa 59:4, so also Isa 59:13, read הָרוֺ (Infinitive
 absolute) compare Di.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pu`al
 Perfect 3 masculine singular הֹרָה נָּ֑בֶר
@@ -110,7 +110,7 @@ a man hath been conceived (Bö^ii. p. 103^
 Ba^NB 77 regard as^
 Qal passive).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Po.
 Infinitive absolute, conceive, contrive, devise

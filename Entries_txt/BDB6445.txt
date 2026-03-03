@@ -14,7 +14,7 @@ Hom^Chrest. 48^; Ethiopic
 
 I. as cardinal:
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. without other number:
 
@@ -47,7 +47,7 @@ f. + בָּאַמָּה
 Zech 5:12
 .
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. + other number:
 
@@ -102,7 +102,7 @@ noun + 100 + 20 1Chr
 
 II. as ordinal:
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 1. 20 alone, ׳
 בִּשְׁנַת ע
@@ -113,7 +113,7 @@ noun omitted
 Num 10:11
 + 3 t.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 2.
 

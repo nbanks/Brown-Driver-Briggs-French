@@ -14,7 +14,7 @@ lakâtu
 Dl^HWB 385^ (mais ט = t ?)) ;
 —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait 3 pluriel לָֽקְטוּ
 Ex 16,22 ;
@@ -65,7 +65,7 @@ Ps 104,28
 2. spécifiquement glaner, absolu, Rt 2,8 (avec בְּ local ; habituellement Pi`el
 dans ce sens).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Pi`el
 Parfait 3 féminin singulier וְלִקְּטָה consécutif Rt 2,16, לִקֵּ֑טָה
 Rt 2,17 ; Rt 2,18 2
@@ -115,7 +115,7 @@ Lv 19,9 = Lv 23,22 (
 H
 ).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Pu`al
 Imparfait 2 masculin pluriel תְּלֻקְּטוּ
 Es 27,12
@@ -124,7 +124,7 @@ vous serez ramassés (d'Israël sous l'image de grains ou de baies, après le
 processus de battage du jugement de ׳
 י).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 Hithpa`el
 Imparfait
 וַיִּתְלַקְּטוּ

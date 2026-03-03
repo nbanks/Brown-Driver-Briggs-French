@@ -10,7 +10,7 @@ asâru
 [placeholder347: Placeholders/347.gif], éthiopien
 [placeholder348: Placeholders/348.gif]) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Parfait suffixe אֲסָרָם
@@ -185,7 +185,7 @@ sans
 ׳
 א (עַלנֶֿפֶשׁ omis)
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al passif du Qal 3, être lié, emprisonné, Imparfait
 (jussif) יֵאָסֵר
@@ -202,7 +202,7 @@ Gn 42,16 (
 E
 ).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pu`al
 Parfait

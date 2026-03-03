@@ -6,7 +6,7 @@ verbe
 racler (hébreu tardif id., racler ou retirer
 (le pain du four)) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Parfait 3 masculin singulier הַדְּבָ֑שׁ

@@ -6,7 +6,7 @@ thicken, condense, congeal (compare Syriac
 [placeholder4799: Placeholders/4799.gif]
 heap up, collect); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 plural קָֽפְאוּ תְהֹמֹת
@@ -26,7 +26,7 @@ Qr
 Zeph 1:12 the
 men who are thickening on their lees (easy-going men, under figure of undisturbed wine).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Imperfect 2 masculine singular suffix תַּקְפִּיאֵנִי

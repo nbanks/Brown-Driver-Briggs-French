@@ -4,7 +4,7 @@ hébreu biblique
 אַרְגֹּב
 nom propre
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1. lieu (tas, ou région de mottes ; « glèbe »
 GASm^G551^) ; — toujours ׳
 חֶבֶל א
@@ -42,7 +42,7 @@ A
 
 Ερσαβ.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 masculin
 2 R 15,25,

@@ -4,7 +4,7 @@ hébreu biblique
 מַרְבֶּה
 nom [masculin]
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 abondance ; — absolu ׳
@@ -12,7 +12,7 @@ abondance ; — absolu ׳
 Es 33,23, comme
 adverbe, en abondance.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 accroissement (?), construit לְםַרְבֵּה (sic) Es 9,6

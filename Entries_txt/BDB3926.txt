@@ -8,7 +8,7 @@ compare Arabic
 be
 [placeholder2454: Placeholders/2454.gif], i.e. weak, cowardly) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 feminine singular כָּֽהֲתָה
@@ -36,7 +36,7 @@ servant of ׳
 Che
 De), or grow faint (compare Di).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Perfect 3 feminine singular וְכִהֲתָה consecutive Ezek 21:12 (subject

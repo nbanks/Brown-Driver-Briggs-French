@@ -11,7 +11,7 @@ donner une dot, épouser pour une
 Buhl
 SS) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait 3 pluriel מָהָ֑רוּ
 Ps 16,4 habituellement

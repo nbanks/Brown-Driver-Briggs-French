@@ -9,7 +9,7 @@ id.; Syriac
 Syriac in Lexicons, and Pa`el; but Syriac usually flee, as ᵑ7
 . —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Participle plural הַעֹרְקִים צִיָּה

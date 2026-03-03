@@ -5,7 +5,7 @@ hébreu biblique
 lier, attacher (comparer arabe
 [placeholder5202: Placeholders/5202.gif] fil lié au doigt comme aide-mémoire) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Impératif masculin singulier רְתֹם הַמֶּרְכָּבָה לָרֶכֶשׁ

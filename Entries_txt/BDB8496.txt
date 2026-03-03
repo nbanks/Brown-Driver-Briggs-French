@@ -10,7 +10,7 @@ Job 15:31 (
 Kt
 ); —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 emptiness, nothingness, vanity:
@@ -76,7 +76,7 @@ Jer 2:30
 Ps 127:1
 (twice in verse); Mal 3:14.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 emptiness of speech, || lying, ׳
@@ -131,7 +131,7 @@ Ezek 21:28
 הַשּׁ
 Zech 10:2.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. of conduct, worthlessness (Buhl
 below 1, 2); ׳

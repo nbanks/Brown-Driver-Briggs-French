@@ -8,7 +8,7 @@ bend, curve,
 [placeholder166: Placeholders/166.gif]
 what surrounds, encloses
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect 3 feminine singular תֶּאְטַר

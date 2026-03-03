@@ -11,7 +11,7 @@ Ezek 17:24
 plural לַחִים
 Num 6:3 + 2 t.; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 moist, fresh, of trees, fruit, etc.; לִבְנֶה לַח
@@ -26,7 +26,7 @@ grapes ׳
 עֲנָבִים ל
 Num 6:3.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 new, of cords, ׳

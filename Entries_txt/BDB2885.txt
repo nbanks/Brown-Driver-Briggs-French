@@ -10,7 +10,7 @@ ferment, leaven,
 [placeholder1816: Placeholders/1816.gif] noun leaven; see Lag^BN 207^
 ); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular ׳
@@ -28,7 +28,7 @@ plural יֶחֱמוּ יֶחְמְרוּ מֵימָיו
 Ps 46:4
 let its water roar and foam.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pe`al`al
 Perfect

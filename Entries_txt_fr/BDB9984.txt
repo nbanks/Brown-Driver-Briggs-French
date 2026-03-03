@@ -11,7 +11,7 @@ délier.
 demeurer
 (voir hébreu biblique I. שׁרה) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pe`al
 Infinitif
@@ -38,7 +38,7 @@ demeurer (du fait de délier les sangles, les charges, au campement ; comparer
 
 hébreu tardif [aussi sur le participe passif]), figuré Dn 2,22 (עִם de personne).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pa`el
 Parfait 3 masculin pluriel שָׁרִיו
@@ -47,7 +47,7 @@ commencer (voir hébreu biblique III. [חָלַל]
 Hiph`il
 2), suivi de l'infinitif
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hithpa`el
 Participe masculin pluriel מִשְׁתָּרַ֫יִן

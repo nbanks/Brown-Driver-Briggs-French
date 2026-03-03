@@ -6,7 +6,7 @@ verb
 mourn (Assyrian [abâlu] see Dl^w^
 ) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -29,7 +29,7 @@ Jer 23:10 compare Jer 12:11 (followed by על), יְהוּדָה
 Jer 14:2 pastures
 Amos 1:2.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hithpa`el — Perfect
 הִתְאַבֵּל
@@ -73,7 +73,7 @@ Ezek 7:12
 compare Dan 10:2
 .
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Perfect

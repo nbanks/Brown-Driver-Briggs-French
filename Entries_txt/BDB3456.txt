@@ -8,7 +8,7 @@ and plural דֵּעִים
 Job 37:6 all in
 speech of Elihu.
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 knowledge, ׳
@@ -16,7 +16,7 @@ knowledge, ׳
 Job 37:16
 one perfect in knowledge (of God).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 judgement, opinion

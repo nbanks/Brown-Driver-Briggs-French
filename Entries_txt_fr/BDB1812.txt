@@ -8,7 +8,7 @@ s'attacher, adhérer, rester proche (hébreu tardif id., arabe
 [placeholder1053: Placeholders/1053.gif],
 [placeholder1054: Placeholders/1054.gif]) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait
 דָּבַק
@@ -162,7 +162,7 @@ suivi de l'accusatif Gn 19,19 (
 J
 ) ; sujet péché Ps 101,3 (suivi de בְּ personne)
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Poual
 Imparfait 3 masculin pluriel יְדֻבָּ֑קוּ passif du Hiph`il 1
 
@@ -172,7 +172,7 @@ Jb 41,9
 
 (|| יִתְלַכְּדוּ) ; absolu des mottes de terre Jb 38,38.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Hiph`il
 Parfait 3 féminin singulier suffixe הִדְבִּיקָ֑תְהוּ
 Jg
@@ -240,7 +240,7 @@ E
 18,22 comparer Jg 20,42 (sujet
 הַמִּלְחָמַה).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 Hoph`al
 Participe
 וּלְשׁוֺנִי מֻדְבָּק מַלְקוֺחָ֑י

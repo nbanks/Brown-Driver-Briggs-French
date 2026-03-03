@@ -8,7 +8,7 @@ verbe
 sarâru
 ) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait 3 masculin singulier יִשְׂרָאֵל
 ׳

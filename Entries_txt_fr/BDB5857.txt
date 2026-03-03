@@ -18,7 +18,7 @@ Es 43,10 ;
 Es 43,12,
 etc. ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 témoin, témoignage, preuve, de choses : tas de pierres Gn 31,44 ; Gn 31,48 ; Gn 31,52 (
 J
@@ -38,7 +38,7 @@ P
 ), comparer
 Es 19,20 la mauvaise condition de Job Jb 16,8 la lune Ps 89,38.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 témoin, une personne :
 

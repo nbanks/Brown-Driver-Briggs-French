@@ -4,7 +4,7 @@ Biblical Hebrew
 [מָעַד] verb
 slip, slide, totter, shake (only Hebrew); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 plural מָֽעֲדוּ
@@ -20,7 +20,7 @@ slip, subject feet, (figurative) 2Sam 22:37 = Ps 18:37; Job 12:5 subject אֲש�
 Ps 37:31
 compare Ps 26:1.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pu`al
 Participle
@@ -39,7 +39,7 @@ active see Schw^ZAW x, 1890, 176^
 Prov
 25:19 (simile of untrustworthiness).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Perfect

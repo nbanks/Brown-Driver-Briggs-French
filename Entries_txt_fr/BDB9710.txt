@@ -8,7 +8,7 @@ arracher (
 
 ; voir hébreu biblique) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Hithpeel
 être arraché : Imparfait 3 masculin singulier יִתְנְסַךְ

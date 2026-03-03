@@ -29,7 +29,7 @@ Ps 119,114
 pluriel סְתָרִים
 Pr 9,17 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 couverture, abri, הָהָר
 ׳
@@ -51,7 +51,7 @@ cachette du tonnerre ; de l'adultère פָּנִים
 Jb 24,15
 c.-à-d. se déguise.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 
 a.
@@ -95,7 +95,7 @@ Ps
 b.
 lieu secret, du sein maternel Ps 139,15 (|| תַּחְתִּיּוֺת אָ֑רֶץ).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3.
 secret :
 ׳

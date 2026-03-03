@@ -15,7 +15,7 @@ Qr
 Kt
 perhaps intends
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pu`al
 Participle

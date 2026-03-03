@@ -22,7 +22,7 @@ postérieur, fesses ; éthiopien
 [placeholder2605: Placeholders/2605.gif]
 une partie) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait 2 masculin singulier וְכָפַלְתָּ֫
 Ex 26,9
@@ -33,7 +33,7 @@ Ex 28,16 ;
 Ex 39,9 (deux fois dans le
 verset).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Niph`al
 Imparfait 3 féminin singulier וְתִכָּפֵל
 Ez 21,19

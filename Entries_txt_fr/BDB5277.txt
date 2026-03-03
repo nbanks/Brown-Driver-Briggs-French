@@ -4,11 +4,11 @@ hébreu biblique
 II. נַ֫עַר_239_
 nom masculin
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 garçon, jeune homme, adolescent.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 serviteur (pas dans
 P

@@ -62,7 +62,7 @@ Ez 29,3
 יְאֹדֵיהֶם
 Ex 7,19 ; Ps 78,44 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 cours d'eau du Nil, fleuve Nil, habituellement avec l'article Gn 41,1 ; Gn 41,2 ; Gn 41,3 (deux fois dans le verset) ; Gn 41,18 ;
 Ex 1,22 ; Ex 2,3 ; Ex 2,5 (deux fois dans le
@@ -86,7 +86,7 @@ dans le verset) ; Es 19,8
 Za 10,11 plus complètement יְאֹר מִצְרַיִם
 Am 8,8 ; Am 9,5.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2. pluriel :
 
 a.
@@ -115,11 +115,11 @@ Es 33,21
 (|| נְהָרִים ; comparer hébreu tardif יְאוֺר, araméen tardif
 יְאוֺרָא).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3.
 galeries, creusées dans les mines Jb 28,10 (בַּצּוּרוֺת).
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 4.
 יְאֹר, singulier, du Tigre, Dn 12,5 (deux fois dans le verset) ; Dn 12,6 ; Dn 12,7 (comparer Dn 10,4).
 

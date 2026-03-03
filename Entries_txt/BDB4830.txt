@@ -14,7 +14,7 @@ bitter; Ethiopic
 [placeholder3091: Placeholders/3091.gif]; Aramaic
 [placeholder3092: Placeholders/3092.gif], מְרַר); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular מַר
@@ -66,7 +66,7 @@ out^
 
 ) strike out clause as gloss.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Imperfect 1 singular אֲמָרֵר
@@ -97,7 +97,7 @@ Exod 1:14 (
 P
 ) and they made their lives bitter by slavery.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Perfect 3 masculine singular הֵמַר
@@ -126,7 +126,7 @@ Zech
 and a bitter outcry (= literally shewing bitterness; || מִסְפֵּד
 , סָפַד) over him, like a bitter outcry over the first-born.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hithpalpel
 Imperfect

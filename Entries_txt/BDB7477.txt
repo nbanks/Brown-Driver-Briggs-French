@@ -5,7 +5,7 @@ Biblical Hebrew
 verb
 denominative
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pi`el
 be jealous, zealous (Gerber^131^); —
@@ -85,7 +85,7 @@ Zech 8:2
 excite to jealous anger, with בִּ instrumental Deut 32:21 a (dubious; probably
 הַקְנִאוּנִי; compare Deut 32:16.21 b), 1Kgs 14:22.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 provoke to jealous anger: Imperfect 3 masculine plural suffix יַקְנִאֻהוּ

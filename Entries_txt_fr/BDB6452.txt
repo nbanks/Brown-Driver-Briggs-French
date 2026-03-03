@@ -6,7 +6,7 @@ verbe
 dénominatif
 fumer, être en colère ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 
 1.

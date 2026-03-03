@@ -26,7 +26,7 @@ Préserver aussi : grec ancien, sigles de manuscrits (ᵐ5, ᵑ9), noms de savan
 - `&` en prose → `&amp;`
 - `=== BDBnnn Hnnn ===` = en-tête structurel (ignorer)
 - `---` = séparateur (`<hr>`)
-- `@@SPLIT:…@@` = marqueur de découpage (ignorer)
+- `## SPLIT N type` = marqueur de découpage (ignorer)
 
 ## Références bibliques
 

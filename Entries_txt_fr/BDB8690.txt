@@ -3,7 +3,7 @@ hébreu biblique
 
 [שָׁלַב] verbe
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pu`al
 être lié, assemblé (hébreu tardif punique = hébreu biblique ; שְׁלִיבָה

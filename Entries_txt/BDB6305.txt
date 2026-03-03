@@ -14,7 +14,7 @@ Jer 9:1 plural suffix
 עַצְרֹתֵיכֶם
 Amos 5:21 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. sacred assembly, rejected by ׳
 י, Isa
@@ -33,7 +33,7 @@ P
 Jos^Ant. «JOSEPHUS:Antiquities 3:10»iii. 10^, 6
 Ἀσάρτα]; occasional, Joel 1:14; Joel 2:15.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 assemblage, company (in general), בֹּגְדִים

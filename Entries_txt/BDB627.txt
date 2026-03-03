@@ -7,7 +7,7 @@ gather, remove (Assyrian
 asâpu
 , Dl^Pr 45^) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -148,7 +148,7 @@ with הֵסִיף from סוף, see Kö^i. 445^
 ; considered Hiph`il Infinitive absolute by Ba^NB 73^
 see above)
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect
@@ -283,7 +283,7 @@ Isa 16:10
 of moon Isa
 60:20 (|| בוא שׁמשׁ).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el
 Participle
@@ -315,7 +315,7 @@ Josh
 E
 ); figurative of God Isa 52:12.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Pu`al
 Perfect
@@ -327,7 +327,7 @@ Ezek 38:12 — be gathered, of men Isa 24:22; Hos
 10:10 (followed by עַל
 against), Ezek 38:12 booty Isa 33:4 wealth Zech 14:14.
 
-@@SPLIT:stem@@
+## SPLIT 5 stem
 
 Hithpa`el
 Infinitive

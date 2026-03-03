@@ -10,7 +10,7 @@ etc. ; assyrien
 lamâdu
 , apprendre, Dl^Prol. 29^) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait 3 masculin singulier ׳
 ל
@@ -46,7 +46,7 @@ Dt 31,12
 לְמוּדֵי מִלְחָמָה
 entraînés à la guerre 1 Ch 5,18.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Pi`el
 Parfait 3 masculin singulier לִמַּד
 Qo 12,9 2
@@ -116,7 +116,7 @@ Ps 119,99
 ;
 Pr 5,13.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Pu`al
 Parfait 3 masculin singulier לֻמָּ֑ד
 Jr 31,18

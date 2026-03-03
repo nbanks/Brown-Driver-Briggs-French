@@ -40,7 +40,7 @@ Dn 9,20 ; Dn 9,21, et
 עוֺד הֵם
 Es 65,24 : —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 comme adverbe
 :
@@ -254,7 +254,7 @@ Es
 47,8 ;
 Es 47,10 ; So 2,15.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2. Avec préfixes : —
 
 a.

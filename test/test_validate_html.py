@@ -123,7 +123,8 @@ class TestTagStructure(unittest.TestCase):
         self.assertTrue(len(tag_issues) >= 1,
                         f"Should flag dropped <descrip>: {issues}")
 
-    def test_tag_order_preserved(self):
+    def test_tag_order_swap_tolerated(self):
+        """French word order may swap <pos> and <primary> — not an error."""
         orig = (
             '<html><head></head><body>'
             '<language>Biblical Hebrew</language>'
@@ -141,8 +142,8 @@ class TestTagStructure(unittest.TestCase):
                       and ("sequence" in i.lower()
                            or "missing" in i.lower()
                            or "extra" in i.lower())]
-        self.assertTrue(len(tag_issues) >= 1,
-                        f"Should flag swapped tag order: {issues}")
+        self.assertEqual(tag_issues, [],
+                         f"Swapped pos/primary should be tolerated: {tag_issues}")
 
     def test_matching_tags_passes(self):
         orig = (
@@ -985,13 +986,62 @@ class TestAmpersandScholarly(unittest.TestCase):
         self.assertTrue(len(amp_issues) >= 1,
                         f"Should flag bare & (not &amp;): {issues}")
 
-    def test_ampersand_not_in_original_still_flagged(self):
-        """French HTML has &amp; where original does NOT — should be flagged."""
+    def test_txtfr_ampersand_correctly_encoded(self):
+        """txt_fr has &, HTML has &amp; — correct, no error."""
+        fr = (
+            '<html><head><link rel="stylesheet" href="style.css"></head>\n'
+            '<h1>\n'
+            '    <entry onclick="bdbid(\'BDB107\')">BDB107</entry>\n'
+            '</h1>\n'
+            '<language>h\u00e9breu biblique</language>\n'
+            '<p>I. <bdbheb>\u05D0\u05D3\u05DD</bdbheb> (comparer assyrien '
+            '[<highlight>ad\u00e2mu</highlight>] '
+            '<highlight>faire, produire</highlight> (?)\n'
+            '    <lookup onclick="bdbabb(\'Dl\')">Dl<sup>W</sup> &amp; '
+            '<sup>Pr 104</sup></lookup>). </p>\n'
+            '<hr>\n\n</html>'
+        )
+        issues = validate_html(self._ORIG, fr, self._TXT_FR)
+        amp_issues = [i for i in issues if "amp" in i.lower()
+                      or "omitted" in i.lower() or "fabricated" in i.lower()]
+        self.assertEqual(amp_issues, [],
+                         f"Correct &amp; encoding should not be flagged: {amp_issues}")
+
+    def test_txtfr_ampersand_omitted_in_html(self):
+        """txt_fr has & but HTML omits it entirely — should be flagged."""
+        fr_no_amp = (
+            '<html><head><link rel="stylesheet" href="style.css"></head>\n'
+            '<h1>\n'
+            '    <entry onclick="bdbid(\'BDB107\')">BDB107</entry>\n'
+            '</h1>\n'
+            '<language>h\u00e9breu biblique</language>\n'
+            '<p>I. <bdbheb>\u05D0\u05D3\u05DD</bdbheb> (comparer assyrien '
+            '[<highlight>ad\u00e2mu</highlight>] '
+            '<highlight>faire, produire</highlight> (?)\n'
+            '    <lookup onclick="bdbabb(\'Dl\')">Dl<sup>W</sup> '
+            '<sup>Pr 104</sup></lookup>). </p>\n'
+            '<hr>\n\n</html>'
+        )
+        issues = validate_html(self._ORIG, fr_no_amp, self._TXT_FR)
+        amp_issues = [i for i in issues if "omitted" in i.lower()]
+        self.assertTrue(len(amp_issues) >= 1,
+                        f"Should flag omitted &: {issues}")
+
+    def test_ampersand_fabricated_in_html(self):
+        """txt_fr has no &, but HTML introduces &amp; — should be flagged."""
         orig_no_amp = (
             '<html><head></head><body>'
             '<language>Biblical Hebrew</language>'
             '<p><pos>verb</pos> <primary>mourn</primary></p>'
             '</body></html>'
+        )
+        txt_fr_no_amp = (
+            "=== BDB50 ===\n"
+            "h\u00e9breu biblique\n"
+            "\n"
+            "verbe pleurer\n"
+            "\n"
+            "---\n"
         )
         fr_with_amp = (
             '<html><head></head><body>'
@@ -999,10 +1049,10 @@ class TestAmpersandScholarly(unittest.TestCase):
             '<p><pos>verbe</pos> <primary>pleurer</primary> &amp; plus</p>'
             '</body></html>'
         )
-        issues = validate_html(orig_no_amp, fr_with_amp)
-        amp_issues = [i for i in issues if "&amp;" in i]
+        issues = validate_html(orig_no_amp, fr_with_amp, txt_fr_no_amp)
+        amp_issues = [i for i in issues if "fabricated" in i.lower()]
         self.assertTrue(len(amp_issues) >= 1,
-                        f"Should flag &amp; not in original: {issues}")
+                        f"Should flag fabricated &amp;: {issues}")
 
 
 class TestEmptyTagContent(unittest.TestCase):
@@ -1349,7 +1399,7 @@ class TestStemSubFalsePositive(unittest.TestCase):
     )
 
     TXT_FR = (
-        "@@SPLIT:stem@@\n"
+        "## SPLIT 1 stem\n"
         "Qal_41_ seulement infinitif\n"
         "\u05D3\u05BC\u05B9\u05D1\u05B5\u05E8\n"
         "parler\n"

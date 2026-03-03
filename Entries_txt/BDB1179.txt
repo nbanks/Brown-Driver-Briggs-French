@@ -34,7 +34,7 @@ Gen 34:21
 Deut 12:31 +,
 etc.; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 daughter, female child, born of a woman Gen 30:21; Gen 34:1; Exod 1:16; Exod 1:22; Exod 21:4; Lev 12:6; Hos 1:6 compare Gen 20:12; Lev 18:9; Deut 27:22 +; begotten by a man
@@ -233,7 +233,7 @@ Judg 14:3
 Ezek 13:17
 . — בֵּתצִֿיּוֺן etc. see below 3 below
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 young women, women
@@ -256,7 +256,7 @@ also
 Dan 11:17
 .
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. with name of city, land, or people, poetic personification of that city or inhabitants, etc.:
 בַּתצִֿיּוֺן
@@ -366,7 +366,7 @@ V:55;
 V:57; V:57;
 Ezek 23:2.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4. plural = villages, after name of city, וּבְחֶשְׁבּוֺן
 וּבְכָלבְּֿנֹתֶיהָ
@@ -400,7 +400,7 @@ its variation from ||
 8:1 see We
 Dr.
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 5. in phrases denoting character, quality, etc., בַּתאֵֿל נֵכָר
 daughter of a strange god, i.e. idolatrous (woman or people) Mal 2:11
@@ -414,7 +414,7 @@ the daughters of song, i.e. songs, melodious notes; בַּתבְּֿלִיַּע
 בְּלִיַּעַל
 below בלה.
 
-@@SPLIT:sense@@
+## SPLIT 6 sense
 
 6.
 בַּת יַעֲנָה = ostrich
@@ -436,7 +436,7 @@ compare
 Ethiopic
 [placeholder631: Placeholders/631.gif] see also אישׁוֺן
 
-@@SPLIT:sense@@
+## SPLIT 7 sense
 
 7.
 figurative
@@ -447,14 +447,14 @@ two daughters (i.e. Sh®°ôl & the barren womb,
 compare
 Comm.)
 
-@@SPLIT:sense@@
+## SPLIT 8 sense
 
 8. of vine = branch
 בָּנוֺת צָֽעֲרָה עֲלֵישֿׁוּר
 Gen 49:22
 compare Di & v: below בֵּן.
 
-@@SPLIT:sense@@
+## SPLIT 9 sense
 
 9. as noun relative (all
 P

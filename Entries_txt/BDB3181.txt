@@ -10,7 +10,7 @@ cleave, plough, Arabic
 [placeholder2012: Placeholders/2012.gif]
 plough) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -103,14 +103,14 @@ Prov 12:20
 ; Prov
 14:22 but also חֹרְשֵׁי טוֺב Prov 14:22.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Imperfect 3 feminine singular צִיּוֺן שָׂדֶה תֵּחָרֵשׁ
 Mic 3:12
 Zion, as a field she shall be ploughed = Jer 26:18.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Participle

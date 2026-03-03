@@ -18,7 +18,7 @@ Dr^
 
 ^); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -582,7 +582,7 @@ E
 (compare Niph`al
 Josh 17:16; Zech 10:10).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect
@@ -891,7 +891,7 @@ J
 E
 ), compare Zech 10:10 (also Qal Num 11:22; Judg 21:14).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Perfect 1 singular suffix הִמְצִיתִךָ

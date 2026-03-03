@@ -8,7 +8,7 @@ height — Job 22:12 + 9 t.; suffix גָּבְהוֺ
 plural construct גָּבְהֵי
 Job 11:8 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 height, of buildings and trees Ezek 1:18; Ezek 19:11; Ezek 31:10; Ezek 31:14; Ezek 40:42; Ezek 41:8;
@@ -26,13 +26,13 @@ Co for
 גַּב
 (q. v.); of man 1Sam 17:4 heaven Job 11:8; Job 22:12 (גבה construct ST:6 of rock).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 exaltation, grandeur
 Job 40:10.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 haughtiness, Jer 48:29

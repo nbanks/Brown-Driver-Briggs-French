@@ -10,12 +10,12 @@ Ezek 21:15
 21:18
 ^ but corrupt):
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 rod, staff, club, sceptre.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 tribe; — ׳
@@ -31,7 +31,7 @@ Gen 49:16 +, sf
 Deut 12:14 +,
 etc.; —
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 1.
 
@@ -122,7 +122,7 @@ Prov 22:8
 מַטֶּה
 , מַקֵּל, מִשְׁעֶנֶת.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 2. 145: tribe (synonymמַטֶּה, q. v. 3, p. 641:b),
 especially

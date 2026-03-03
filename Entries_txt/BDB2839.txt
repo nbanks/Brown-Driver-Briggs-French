@@ -9,7 +9,7 @@ praise, eulogize, appove of; Sabean חמדם
 in gratitude [praise] there-for
 DHM^ZMG 1875, 595; 1876, 686^) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -81,7 +81,7 @@ passive participle collective חֲמוּדוֺ
 Ps 39:12
 his desired things, i. e. chosen, choice, desirable (see Niph`al); so probably Job 20:20.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Participle
@@ -107,7 +107,7 @@ Prov 21:20
 
 desirable, i.e. costly treasure.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el
 Perfect 1 singular delight greatly

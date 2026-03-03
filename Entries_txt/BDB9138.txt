@@ -75,7 +75,7 @@ Deut 2:12 +
 Jer 28:13
 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 under, beneath, Gen 7:19
@@ -193,7 +193,7 @@ e.
 Mal 3:31
 .
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 what is under one, the place in which one stands: hence as
@@ -285,7 +285,7 @@ Jer 22:8
 Deut 29:23; 1Kgs 9:8). So followed by infinitive Ps
 38:21b.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. as conjunction:
 
@@ -323,7 +323,7 @@ Deut 4:37
 III.
 compounds: —
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 1.
 אֶלתַּֿחַת, after a verb of motion:
@@ -350,7 +350,7 @@ Ezek
 b.
 into the place of, Lev 14:42.
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 2.
 מִתַּחַת (= ὑπ’ ἐκ):

@@ -16,7 +16,7 @@ swish, switch ?) ; — ׳
 1 R 12,11 + ;
 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 fléau, pour le châtiment, 1 R 12,11 ; 1 R 12,14 = 2 Ch 10,11 ; 2 Ch 10,12 (tous avec le verbe
@@ -38,7 +38,7 @@ fouet de la langue (accusatrice) Jb 5,21 (lire ׳
 
 ).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 fouet, pour le cheval, ׳

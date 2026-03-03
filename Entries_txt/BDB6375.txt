@@ -20,7 +20,7 @@ Lev 20:17,
 Lev 18:7 +; suffix 3
 feminine plural עֶרְוָתָן Lev 18:9 Lev 18:10 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 pudenda, of man ׳
@@ -71,7 +71,7 @@ P
 1Sam 20:30
 (compare Doughty^Arab. Deserta i. 269^).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 עֶרְוַת דָּבָר
@@ -80,7 +80,7 @@ behaviour
 Deut 23:15;
 Deut 24:1 (see Dr).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 figurative

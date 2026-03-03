@@ -12,7 +12,7 @@ Gen 40:3 +; suffix
 Neh 7:3, etc.; plural
 suffix רָיו- Neh 13:14 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 goal, prison, בֵּית שַׂר הַטַּבָּחִים
@@ -34,7 +34,7 @@ H
 P
 ).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 guard, Jer 51:12; Neh 4:3; Neh 4:16, ׳
@@ -56,7 +56,7 @@ doubtful, Hi
 Co Toy and others reserve; Krae
 לְמשֵׁל.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. plural observances, services, of temple Neh 13:14.
 

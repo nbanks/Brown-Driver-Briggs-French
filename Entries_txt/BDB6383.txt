@@ -4,7 +4,7 @@ Biblical Hebrew
 [עָרַךְ] verb
 denominative
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Hiph`il
 value (for taxation), tax (from עֵרֶח

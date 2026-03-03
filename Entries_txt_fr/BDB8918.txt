@@ -3,7 +3,7 @@ hébreu biblique
 
 [שָׁעַן] verbe
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Niph`al
 s'appuyer, se soutenir ; — Parfait 3 masculin singulier consécutif וְנִשְׁעַן
 

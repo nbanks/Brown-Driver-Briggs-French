@@ -7,7 +7,7 @@ seize, snatch away (compare Aramaic
 [placeholder2052: Placeholders/2052.gif]
 death) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect no object expressed הֵן יַחְתֹּף וּמִי יְשִׁיבֶנּוּ

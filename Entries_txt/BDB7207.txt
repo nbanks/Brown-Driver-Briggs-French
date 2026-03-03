@@ -3,7 +3,7 @@ Biblical Hebrew
 
 [צַפַף] verb
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pilpel
 chirp, peep (onomatopoetic; Late Hebrew Pilpal id.; Jewish-Aramaic

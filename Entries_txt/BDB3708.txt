@@ -10,7 +10,7 @@ Hpt
 KAT^2, Gloss i.^,
 COT^Gloss^) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal_328_
 Perfect
@@ -504,7 +504,7 @@ Ps
 1:11
 .
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al_45_
 Imperfect 2 masculine תִּוָּרֵא
@@ -634,7 +634,7 @@ place of theophany Gen 28:17 (
 E
 ).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Piel. _5_
 Perfect 3 masculine suffix יֵָֽרְאֻנִי

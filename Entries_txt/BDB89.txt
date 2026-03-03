@@ -15,7 +15,7 @@ Isa 14:23
 אַגְמֵיהֶם
 Exod 7:19 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 troubled or muddy (gloomy) pools or
@@ -24,7 +24,7 @@ marshes, plural מַיִם
 א
 Isa 14:23.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. any pool, pond, singular מַיִם
 ׳
@@ -38,7 +38,7 @@ P
 ) Isa 42:15
 .
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 swamp-reed, rush (= אַגְמוֺן) Jer 51:32.

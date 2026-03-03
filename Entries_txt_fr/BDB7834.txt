@@ -7,7 +7,7 @@ verbe
 [placeholder5014: Placeholders/5014.gif]
 devenir mince et faible) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Parfait 3 masculin singulier רָזָה
@@ -19,7 +19,7 @@ attenuavit ;
 est ἐξολεθρύσει), mais sens étrange, < רִזָּה (voir arabe ci-dessus), pourtant même
 ceci très douteux.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 être rendu maigre, Imparfait 3 masculin singulier מִשְׁמַן בְּשָׂרוֺ יֵרָזֶה

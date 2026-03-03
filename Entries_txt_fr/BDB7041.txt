@@ -4,16 +4,16 @@ hébreu biblique
 צֹ֫חַר
 nom propre, masculin
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 père d'Éphron le Hittite
 Gn 23,8 ; Gn 25,9, Σααρ
 .
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2. fils de Siméon Gn 46,10 ; Ex 6,15, Σααρ.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3. nom en Juda 1 Ch 4,7
 
 Qr

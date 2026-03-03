@@ -16,7 +16,7 @@ Hiph`il ?) Imperfect
 Kt
 ; >
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Niph`al
 ינּוֺן

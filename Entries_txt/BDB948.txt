@@ -32,7 +32,7 @@ Ezek 26:10,
 מְבוֺאֹת
 Ezek 27:3 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 entrance, i.e. place or way of entrance, into a city Judg 1:24; Judg 1:25; 1Chr 4:39; Prov 8:3 (פְּתָחִים
@@ -42,7 +42,7 @@ entrance, i.e. place or way of entrance, into a city Judg 1:24; Judg 1:25; 1Chr 
 מְבוֺאֹת יָם
 entrance of (the) sea, gate of the sea, of situation of Tyre Ezek 27:3.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 entering, act of entrance, by violence, in storm of city Ezek 26:10

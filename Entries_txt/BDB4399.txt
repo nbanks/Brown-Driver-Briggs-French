@@ -11,7 +11,7 @@ Nö^M74^ compare Mandean הלאצא, torture, NS.
 [placeholder2814: Placeholders/2814.gif]
 press together, urge, exert oneself); see also rare derivatives in Syriac PS^1932^); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -47,7 +47,7 @@ E
 ; Ps
 106:42 absolute Isa 19:20
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Imperfect 3 feminine singular וַתִּלָּחֵץ

@@ -5,7 +5,7 @@ hébreu biblique
 ruer (de même hébreu tardif, araméen בְּעַט,
 [placeholder649: Placeholders/649.gif]) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Imparfait
 וַיִּבְעַט

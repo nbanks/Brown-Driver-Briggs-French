@@ -12,7 +12,7 @@ ra‡âdu
 [placeholder5173: Placeholders/5173.gif]
 bondissant vivement) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 bondir, Parfait 3 masculin pluriel רָֽקְדוּ
@@ -23,7 +23,7 @@ tous deux du Sinaï tremblant lors du don de la Loi) ; Infinitif construit
 Qo 3,4 un temps pour
 se lamenter (סְפֹד), et un temps pour bondir (gaiement).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 danser, bondir : Imparfait 3 masculin pluriel יְרַקְּדוּ
@@ -50,7 +50,7 @@ Dr
 Bu
 HPS (מְרַקֵּד).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Imparfait 3 masculin singulier suffixe וַיַּרְקִידֵם

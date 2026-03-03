@@ -14,7 +14,7 @@ obducere, velare, & II.
 [placeholder904: Placeholders/904.gif]
 reveal) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal_51_
 Perfect
@@ -104,7 +104,7 @@ an exile
 ; 2Kgs
 24:14; Isa 49:21; Amos 6:7.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect
@@ -210,7 +210,7 @@ my habitation is plucked up and removed from me
 Isa
 38:12.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el_56_
 Perfect
@@ -312,7 +312,7 @@ Ps
 make known concerning, iniquity, sin Lam 2:14; Lam
 4:22.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Pu`al
 Perfect
@@ -326,7 +326,7 @@ open rebuke
 Prov 27:5
 .
 
-@@SPLIT:stem@@
+## SPLIT 5 stem
 
 Hiph`il_39_
 Perfect
@@ -422,7 +422,7 @@ Amos 1:6;
 Amos 5:27
 .
 
-@@SPLIT:stem@@
+## SPLIT 6 stem
 
 Hoph`al
 Perfect
@@ -444,7 +444,7 @@ Participle passive מֻגְלִים
 Jer 40:1
 carried into exile.
 
-@@SPLIT:stem@@
+## SPLIT 7 stem
 
 Hithpa`el
 

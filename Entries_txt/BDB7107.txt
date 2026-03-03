@@ -15,7 +15,7 @@ yoke, Id.; Assyrian
 (religiously) devoted; Aramaic צְמַד,
 [placeholder4559: Placeholders/4559.gif], bind); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Niph`al
 Imperfect 3 masculine singular וַיִּצָּ֫מֶד
@@ -30,14 +30,14 @@ J
 E
 ), whence Ps 106:28.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pu`al
 Participle feminine צְצֻמֶּ֫דֶת
 2Sam 20:8 a sword
 bound upon (עַל) his loins.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Imperfect 3 feminine singular תַּצְמִיד מִרְמָה

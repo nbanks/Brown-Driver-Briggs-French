@@ -114,7 +114,7 @@ Isa 1:24
 על
 Isa 57:6.
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Piel
 Perfect
@@ -196,7 +196,7 @@ Job 16:2
 Lam 1:2; Lam 1:9; Lam 1:17;
 Lam 1:21.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pual
 Perfect
@@ -209,7 +209,7 @@ Isa 66:13
 
 be comforted, consoled.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hithpa`el Perfect 1 singular וְהִנֶּחָ֑מְתּי (for ׳
 הִתְנ; but strike out Co) Ezek 5:13

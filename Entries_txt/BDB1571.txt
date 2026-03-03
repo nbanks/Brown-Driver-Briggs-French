@@ -23,7 +23,7 @@ AV
 RV
 ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal. Perfect
 גָּר
@@ -60,7 +60,7 @@ with
 Isa 54:15.
 Here also
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hithpolel
 Imperfect

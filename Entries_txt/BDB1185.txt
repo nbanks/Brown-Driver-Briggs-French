@@ -4,7 +4,7 @@ Biblical Hebrew
 בִּנּוּי
 proper name, masculine
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 head of a family that returned with Zerubbabel
 Neh 7:15 (=
@@ -12,7 +12,7 @@ Neh 7:15 (=
 Sm^Listen 14^; but BeRy proposes here בִּגְוַי
 ).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. a Levite of Ezra's time Ezra 8:33; Neh 10:10 (properly = בָּנִי
 Neh 8:7,
@@ -24,7 +24,7 @@ Neh 3:24 (
 Sm^Listen 16^ but BeRy otherwise; compare further
 Gr^Geschichte.ii.2, 389.^
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. Israelites of Ezra's time,
 

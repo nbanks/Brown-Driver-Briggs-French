@@ -9,7 +9,7 @@ twist, twine, Arabic
 [placeholder813: Placeholders/813.gif]
 twist a cord, make firm, strong, become strong, so Late Hebrew) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -98,7 +98,7 @@ a. house of David Zech 12:7
 
 b. Yahweh Ps 35:27; Ps 40:17; Ps 70:5; Mal 1:5, his name 2Sam 7:26 ( = 1Chr 17:24).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Perfect
@@ -167,7 +167,7 @@ a. man Job 7:17
 
 b. God Ps 34:4; Ps 69:31.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pu`al
 Participle plural מְגֻדָּלִים
@@ -175,7 +175,7 @@ brought up
 
 Ps 144:12.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hiph`il
 Perfect
@@ -245,7 +245,7 @@ Ezek 35:13 of speaking עָלַי בְּפִיכֶם
 c. also, with Infinitive implied, wept greatly 1Sam 20:41
 .
 
-@@SPLIT:stem@@
+## SPLIT 5 stem
 
 Hithpa`el
 Perfect

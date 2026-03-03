@@ -16,7 +16,7 @@ act faithlessly,
 [placeholder3313: Placeholders/3313.gif]
 faithless, Prä^Amhar. Spr. 90^); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Participle
@@ -24,7 +24,7 @@ Participle
 Mal 1:14
 knave.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Perfect 3 masculine plural with accusative of cognate meaning with verb נִכְלֵיהֶם אֲשֶׁר
@@ -32,7 +32,7 @@ Perfect 3 masculine plural with accusative of cognate meaning with verb נִכְ
 Num 25:18
 their wiles with which they beguiled you.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hithpa`el
 Imperfect

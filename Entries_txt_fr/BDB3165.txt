@@ -4,7 +4,7 @@ hébreu biblique
 [חַרְצֻבָּה] nom [féminin]
 lien, entrave, douleur, seulement pluriel חַרְצֻבּוֺת ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1. construit רֶשַׁע
 ׳
 ח
@@ -12,7 +12,7 @@ Es 58,6
 liens de la méchanceté c.-à-d. imposés par des hommes méchants (|| אֲגֻדּוֺת
 מוֺטָה).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 douleurs (comparer חֶבֶל, חֵבֶל), absolu ׳
 אֵין ח

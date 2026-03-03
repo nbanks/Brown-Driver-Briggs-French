@@ -27,7 +27,7 @@ VB
 Che; possible would be יִדָּכֶה Niph`al (||
 יָשֹׁחַ and ונפל).
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Niph`al
 Perfect
@@ -40,7 +40,7 @@ Ps 51:19
 ); be contrite (לֵב נִדְכֶּה) Ps 51:19 (|| נִשְׁבָּר
 ).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Perfect

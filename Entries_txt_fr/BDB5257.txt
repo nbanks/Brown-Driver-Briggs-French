@@ -11,7 +11,7 @@ Qo 32,6) ; —
 ׳
 נ absolu Za 11,7 + 4 t. ; construit Ps 27,4 ; Ps 90,17 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 charme de ׳
 ׃י contemplé dans le temple Ps 27,4, manifesté dans sa faveur, אדניעָ֗֗֗לֵינוּ
@@ -19,10 +19,10 @@ charme de ׳
 וִיהִי נ
 Ps 90,17.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2. nom de l'un des deux bâtons symboliques Za 11,7 ; Za 11,10.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3.
 agrément, comme génitif de qualification : ׳
 דַּרְכֵינֿ

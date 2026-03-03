@@ -44,7 +44,7 @@ denoting direction (not properly motion, as אֶל) towards,
 or reference to; and hence used in many varied applications, in some of which the idea of direction
 predominates, in others that of reference (compare Gies^Die Präp. Lamed, 1876^): —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. very often, with various classes of verbs, to, towards, for: namely
 
@@ -371,7 +371,7 @@ addition (rare); Isa 28:10; Isa 28:13
 אחת לאחת (adding) one to another, Ezra 8:24; Neh 11:17 (על
 is more usual in this sense).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. Expressing locality, at, near, idiomatic in the phrases לִפְנֵי
 = before (sometimes after verbs of motion, as 1Kgs 1:23, but very often otherwise),
@@ -394,7 +394,7 @@ Prov 8:3; Hos 5:1
 Ezek 40:16
 .
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. To denote the object of a verb —
 
@@ -526,7 +526,7 @@ Jer 30:17;
 Lam 4:4.) compare
 Ges^«GKC:117n»§ 117n^.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 Into (εἰς), of a transition into a new state or condition, or into a new character
@@ -644,7 +644,7 @@ Hab 2:7; Ps 33:12; Ps 94:22; Ps 132:13; Ps 139:22; Job 13:24
 ותחשׁבני
 לאויב לך, Job 16:12 etc.
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 5.
 With reference to, namely
@@ -1803,7 +1803,7 @@ Job
 21:12;
 Ezra 3:13.
 
-@@SPLIT:sense@@
+## SPLIT 6 sense
 
 6. Of time:
 
@@ -1925,7 +1925,7 @@ for, during, Isa 63:18
 לַמִּצְעָר (si vera lectio), 2Chr 11:17
 לשׁנים שׁלושׁ, 2Chr 29:17.
 
-@@SPLIT:sense@@
+## SPLIT 7 sense
 
 7. With an Infinitive (Ges^«GKC:114»§
 114^, 2), ל denotes

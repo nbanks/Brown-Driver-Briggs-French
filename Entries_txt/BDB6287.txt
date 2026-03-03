@@ -3,7 +3,7 @@ Biblical Hebrew
 
 [עָצֵל] verb
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Niph`al
 be sluggish (Late Hebrew in derived species, and derivatives; compare Arabic

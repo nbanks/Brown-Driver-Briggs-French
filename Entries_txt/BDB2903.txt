@@ -26,7 +26,7 @@ Co for חמּשׁה); suffix חֲמִשֶּׁיךָ
 חֲמִשֵּׁיהֶם
 2Kgs 1:14 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. absolute
 
@@ -44,7 +44,7 @@ Baer, van d. H. v.1Chr 12:33
 ח following Exod 38:26 + 10 t.; (4) ׳
 ח between other number Num 1:23 + 23 t.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 חֲמִשִּׁים without other number:
@@ -57,7 +57,7 @@ Exod 38:12.
 
 b. after noun 2Sam 24:24; Exod 26:11 + 4 t. Chronicles
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 ׳
@@ -70,7 +70,7 @@ preceded by noun
 1Chr
 5:21.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 ׳
@@ -84,7 +84,7 @@ repeated e.g. Gen 9:28
 ; Gen 9:29
 .
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 5.
 ׳
@@ -98,7 +98,7 @@ repeated e.g. Gen 9:28
 Lev 15:10;
 Lev 15:11.
 
-@@SPLIT:sense@@
+## SPLIT 6 sense
 
 6.
 ׳

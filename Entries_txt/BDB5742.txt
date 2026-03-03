@@ -12,7 +12,7 @@ form dubious, see
 
 ); —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. father of Adoniram 1Kgs 4:6
 
@@ -29,7 +29,7 @@ A
 
 Εδραμ.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. a Levite Neh 11:17
 

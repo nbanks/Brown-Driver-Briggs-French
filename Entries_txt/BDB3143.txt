@@ -4,7 +4,7 @@ Biblical Hebrew
 II. [חֶ֫רֶס]
 proper name [of a location]
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 abode of Amorites, בְּהַרחֶֿרֶס בְּאַיָּלוֺן וּבְשַׁעַלְבִֿים
@@ -22,7 +22,7 @@ Bla;
 
 ἐν τῷ [ὄρει τοῦ] Μυρσινῶνι (-ος) = הַר הֲדַס.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. place east of Jordan מִלְמַעֲלֵה הֶחָ֑רֶס
 Judg 8:13

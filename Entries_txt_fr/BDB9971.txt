@@ -3,14 +3,14 @@ araméen biblique
 
 II. [שְׁמַשׁ] verbe
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pa`el
 servir (
 
 ᵑ7
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pa`el
 id., תַּשְׁמִישׁ

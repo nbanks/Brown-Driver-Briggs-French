@@ -5,7 +5,7 @@ II. [שׁוּק ] verbe probablement être abondant (assyrien
 šû‡u
 , abondance) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Po`l.
 Imparfait 3 masculin singulier suffixe וַתְּשֹׁקֶקֶהָ
@@ -17,7 +17,7 @@ Vrss
 pensaient à הִשְׁקָה
 irriguer, ainsi Bae EV).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Parfait consécutif וְהֵשִׁיקוּ הַיְקָבִים תִּירוֺשׁ

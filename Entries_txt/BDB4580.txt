@@ -9,7 +9,7 @@ compare Phoenician למחת
 according to stroke = exactly Hoffin^Phoenician Inschr., Abh. GGW, xxxvi. May 1889,
 9^). —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular מָחָה
@@ -87,7 +87,7 @@ Prov 31:3
 (with the text-change, see above) = destroyers of kings (i.e. impure women), but
 expression strange and dubious.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect 3 masculine plural נִמְחוּ
@@ -119,7 +119,7 @@ Gen 7:23 (
 J
 ); of idolatrous works of Israel Ezek 6:6.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Imperfect 2 masculine singular תֶּ֫מַח

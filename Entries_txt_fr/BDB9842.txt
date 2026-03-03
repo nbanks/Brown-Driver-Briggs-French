@@ -4,7 +4,7 @@ araméen biblique
 [צְלַח] verbe
 prospérer (voir hébreu biblique II. צלח) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Haphel
 Parfait 3 masculin singulier הַצְלַח

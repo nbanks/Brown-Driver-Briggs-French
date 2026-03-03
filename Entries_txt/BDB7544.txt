@@ -14,7 +14,7 @@ be short, with
 [placeholder4835: Placeholders/4835.gif]
 come short of; Jewish-Aramaic קְצַר be short); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular קָצַר
@@ -67,14 +67,14 @@ Mic 2:7 (see
 above); ׳
 ק of time Prov 10:27 (years of wicked).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 shorten Perfect 3 masculine singular קִצַּר יָמַי
 Ps 102:24
 .
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 id., Perfect 3 masculine singular ׳

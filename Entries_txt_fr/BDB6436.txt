@@ -3,7 +3,7 @@ hébreu biblique
 
 II. [עָשָׂה] verbe
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pi`el
 presser, serrer (hébreu tardif עִשָּׂה Pi`el contraindre ;

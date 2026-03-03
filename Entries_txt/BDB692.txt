@@ -3,7 +3,7 @@ Biblical Hebrew
 
 אֶצְבּוֺן
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 proper name, masculine
 1.
@@ -19,7 +19,7 @@ Num 26:16 (
 
 Ἀζενει, Ἀζαν), this shorter form less probable.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 אֶצְבּוֺן a grandson of Benjamin 1Chr 7:7 (

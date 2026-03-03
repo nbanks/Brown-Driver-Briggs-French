@@ -6,7 +6,7 @@ rush, dart (Aramaic
 [placeholder2086: Placeholders/2086.gif], טוּס
 fly) — only
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect

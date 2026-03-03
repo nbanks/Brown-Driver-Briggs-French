@@ -21,7 +21,7 @@ Frä^189^ compare Arabic
 [placeholder3632: Placeholders/3632.gif]
 kindle fire, excite, inflame, be vehemently hungry and thirsty, be mad, insane, etc. Lane^1363^); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect 3 masculine plural figurative, יִסְעֲרוּ
@@ -35,14 +35,14 @@ feminine סֹעֲרָה
 Isa 54:11
 storm-tossed (figurative of Jerusalem).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Imperfect 3 masculine singular וַיִּסָּעֵר
 2Kgs 6:11 and the
 heart of the king . . . was enraged because of (עַלֿ) this thing.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el
 Imperfect 1 singular suffix וְאֵסָֽעֲרֵם עַלֿ
@@ -50,7 +50,7 @@ Zech 7:14 (on
 form see Ges^«GKC:23h»§§ 23h^, «GKC:52n»52n) and storm
 them away (hurl them by a storm-wind) upon the nations.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Po.
 Imperfect 3 masculine singular כְּמֹץ יְסֹעֵר

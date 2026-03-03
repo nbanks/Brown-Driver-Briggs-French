@@ -4,7 +4,7 @@ Biblical Hebrew
 [תָּפַר] verb
 sew together (Late Hebrew id.; Aramaic תְּפַר); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect 3 masculine plural וַיִּתְפְרוּ
@@ -19,7 +19,7 @@ Infinitive construct
 Eccl 3:6
 a time to sew together (opposed to קָרַע).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Participle as substantive feminine plural מְתַפְּרוֺת

@@ -36,7 +36,7 @@ Pr 14,4 ; Pr 16,8
 תְּבוּאֹתֵיכֶם
 Jr 12,13 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 produit, rendement, généralement de la terre (= récoltes, etc.) הָאָרֶץ
@@ -94,7 +94,7 @@ Lv 25,21
 ׳
 עָשָׂה תּ, sujet שָׁנָה.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 

@@ -4,7 +4,7 @@ Biblical Hebrew
 מִרְיָם
 proper name, feminine and masculine
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 feminine
@@ -33,7 +33,7 @@ E
 
 Μαριαμ.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 masculine (probably) a Judahite 1Chr 4:17.

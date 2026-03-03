@@ -14,7 +14,7 @@ compare Arabic
 [placeholder3990: Placeholders/3990.gif]
 be angry, but dubious); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular suffix עֲצָבוֺ
@@ -44,7 +44,7 @@ construct עֲצוּבַת רוּחַ
 Isa 54:6
 hurt in spirit (of Zion under figure of deserted wife).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect 3 masculine singular נֶעְצַב
@@ -66,7 +66,7 @@ be not grieved (+ יִחַר; followed byכִּי
 
 that ye sold me), compare Neh 8:10; Neh 8:11 (absolute) do not grieve.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el
 Perfect 3 plural עִצְּבוּ with accusative Isa 63:10
@@ -79,7 +79,7 @@ improbable, < Che
 בְּדָבָר יְע
 with speech they vex (me).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hiph`il
 Imperfect 3 masculine plural suffix יַעֲצִיבוּהוּ
@@ -87,7 +87,7 @@ Ps 78:40
 they used to cause him [׳
 י] pain.
 
-@@SPLIT:stem@@
+## SPLIT 5 stem
 
 Hithpa`el
 Imperfect 3 masculine singular וַיִּתְעַצֵּב אֶללִֿבּוֺ

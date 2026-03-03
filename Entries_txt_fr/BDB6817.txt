@@ -3,7 +3,7 @@ hébreu biblique
 
 [פָּרַר] verbe
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Hiph`il
 briser, annuler (hébreu tardif Pi`el émietter ; judéo-araméen פְּרַר
 ; assyrien
@@ -149,7 +149,7 @@ porter du fruit (comparer GFM^JBL x (1891),
 60^) ; Perles^Anal. 30^
 וְתִפְרַח.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Hoph`al
 Imparfait
 
@@ -169,7 +169,7 @@ de même Es
 וְתֻפַר pour וְכֻפַּר, voir ׳
 כ).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Pilpel
 Imparfait 3 masculin singulier suffixe וַיְפַרְפְּרֵנִי
 

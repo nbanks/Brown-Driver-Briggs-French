@@ -12,7 +12,7 @@ prominence of forehead; compare perhaps also Assyrian
 gabâni
 , heights (?) Lotz^TP 133^) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -74,7 +74,7 @@ Ezek 16:50
 3:11
 .
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Perfect

@@ -33,7 +33,7 @@ Zech 11:1
 Isa 37:24 =
 2Kgs 19:23 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 cedar-tree,
@@ -59,7 +59,7 @@ of individuals Jer
 Ps 92:13; Ezek 17:22; Ezek 17:23 compare other examples of figurative use, above; simile
 of straightness & strength Job 40:17 (tail of hippopotamus).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 cedar-timber, cedar-wood for building, עֲצֵי אֲרָזִים
@@ -90,7 +90,7 @@ Isa 44:14;
 Ezek 27:5; Ezra
 3:7 above)
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 cedar-wood used in purifications, with עֵץ

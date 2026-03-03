@@ -21,7 +21,7 @@ DHM^ZMG 1875, 594, 614^; Semitic Sprachf. 12, compare Prä^BAS i. 374 n.^, Arama
 Gen 1:10 +; with
 article always הָאָ֫רֶץ
 Gen 1:11 +; with
-ָ  ה locative אַ֫רְצָה
+ָ ה locative אַ֫רְצָה
 Gen 11:31 +,
 (this form also in poetry = אֶרֶץ
 Job 34:13 +);
@@ -36,7 +36,7 @@ Ezek 39:27 +
 6 t.; suffix אַרְצֹתָם
 Gen 10:5 + 2 t.; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 
@@ -93,7 +93,7 @@ Prov 8:31
 ;
 Job 37:12.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 land =
@@ -170,7 +170,7 @@ irƒit la târat
 , land without return, in Descent of Ishtar, see Jr^10. 65^); see also Ps 139:15; Isa 44:23
 .
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 
@@ -227,7 +227,7 @@ Ezra
 Neh
 9:35.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 אֶרֶץ in phrases:
@@ -329,7 +329,7 @@ Isa 41:5
 Isa 41:9
 .
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 5. plural אֲרָצוֺת is almost wholly late, Jer 16:15 + 6 t. Jeremiah; 23
 t.

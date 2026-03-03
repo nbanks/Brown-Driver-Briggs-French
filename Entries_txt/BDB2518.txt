@@ -28,7 +28,7 @@ t.; Ezekiel
 Qr
 ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. adjective united
 כְּאִישׁ אֶחָד חֲבֵרִים
@@ -39,7 +39,7 @@ AV
 RV
 ).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 noun
@@ -73,7 +73,7 @@ Prov
 ;
 Ps 119:63.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 companion at a particular time Eccl 4:10.

@@ -6,7 +6,7 @@ briser (mot d'emprunt araméen = hébreu
 רָצַץ
 q. v.) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Parfait 3 pluriel רָעוּ
@@ -72,7 +72,7 @@ lire דְּעוּ (
 Lo
 Che et autres, || הַאֲזִינוּ).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hithpo`el
 Parfait 3 féminin singulier +

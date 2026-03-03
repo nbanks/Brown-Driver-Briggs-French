@@ -3,7 +3,7 @@ Biblical Hebrew
 
 [פָּלַץ] verb
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Hithpa`el
 shudder; — Imperfect 3 masculine plural יִתְפַּלָּצוּן

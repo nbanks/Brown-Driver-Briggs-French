@@ -11,7 +11,7 @@ Di^166^ ; araméen
 ימשׁ
 , II. מושׁ) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Imparfait 3 masculin singulier suffixe יְמֻשֵּׁנִי
 Gn 27,12
@@ -20,7 +20,7 @@ et il le tâta (les deux
 J
 ).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Pi`el
 Parfait 2 masculin singulier מִשַּׁשְׁתָּ ; Imparfait 3 masculin
 singulier יְמַשֵּׁשׁ
@@ -54,7 +54,7 @@ a et tu deviendras quelqu'un qui tâtonne en plein midi (figuré de l'aveuglemen
 judiciaire) ; comparer
 Jb 5,14 ; Jb 12,25.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Hiph`il
 Imparfait
 וְיָמֵשׁ חשֶׁךְ

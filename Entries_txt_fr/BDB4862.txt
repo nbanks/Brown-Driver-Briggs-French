@@ -3,12 +3,12 @@ hébreu biblique
 
 מִשְׁחָה
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 nom
 1.
 onguent ;
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 portion consacrée ;
 — absolu ׳
@@ -17,7 +17,7 @@ Ex 25,6 + ;
 construit מִשְׁחַת
 Ex 30,25 + ; —
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 1.
 onguent, l'huile sainte utilisée dans la consécration des prêtres aaronides, seulement dans
 P
@@ -49,7 +49,7 @@ Lv 10,7
 שׁ
 Lv 21,12.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 2.
 portion consacrée, d'Aaron et de ses fils Lv 7,35 (deux fois dans le verset) (
 P

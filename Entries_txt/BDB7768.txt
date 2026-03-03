@@ -15,7 +15,7 @@ chastise, also (and so Assyrian
 radû
 ) go, flow); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 plural consecutive וְרָדוּ
@@ -76,7 +76,7 @@ Judg 5:13
 יָרַד
 .
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Imperfect 3 masculine singular וּמְלָכִים יַרְדְּ

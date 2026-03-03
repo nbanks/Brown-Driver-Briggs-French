@@ -34,7 +34,7 @@ Prov 22:24,
 חֵמֹת
 Ps 76:11 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 heat:
@@ -68,7 +68,7 @@ poison of arrows (of ׳
 י) Job
 6:4.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 burning anger, rage:

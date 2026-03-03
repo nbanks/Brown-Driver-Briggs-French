@@ -10,7 +10,7 @@ be urgent, compare
 [placeholder194: Placeholders/194.gif]
 saddle); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect

@@ -24,7 +24,7 @@ that [compare זֶה; in Ethiopic ze is 'this',
 za 'which']; but this being referred by usage to something preceding becomes equivalent to
 the relative who, which, used, however, more widely than Hebrew אֲשֶׁר); —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. as rel.
 who, which (construed like אֲשֶׁר):
@@ -95,7 +95,7 @@ whatever (or simply what), Dan 2:28
 . — compare K^§
 103.^
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. as mark of the genitive, Dan 2:15
 שׁליטא די מלכא properly the captain, that of the king = the
@@ -122,7 +122,7 @@ might דִּילֵֿהּ הִיא are his; compare Dan 6:27
 וּמַלְכוּתֵהּ דִּילָֿא תִתְחַבַּל his kingdom (is one) which shall not be destroyed, Dan 7:14. — See
 further K^§ 81.^
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. as conjunction (compare אֲשֶׁר
 8):
@@ -168,7 +168,7 @@ d. prefixed to direct narration (like כִּי
 recitativum), Dan 2:25 and said
 thus unto him דִּיהַֿשְׁכַּחַת (that) I have found, etc., Dan 5:7; Dan 6:6; Dan 6:14.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4. with prepositions and other prefixes:
 

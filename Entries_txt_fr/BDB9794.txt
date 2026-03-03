@@ -4,7 +4,7 @@ araméen biblique
 [עֲקַר] verbe
 dénominatif
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Hithpe`el
 être déraciné ; —

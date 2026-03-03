@@ -15,7 +15,7 @@ cut off, קִיצָּא,
 [placeholder4832: Placeholders/4832.gif]
 end);-
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 2 masculine singular consecutive וְקַצֹּתָה
@@ -28,7 +28,7 @@ Jer 9:25; Jer 25:23; Jer 49:32 (see
 
 1).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Perfect 3 masculine singular קִצֵּץ
@@ -48,7 +48,7 @@ P
 Benz, transposing הַמִּסְגְּרוֺת), doors 2Kgs 18:16
 (both, for the sake of metal sheathing).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pu`al
 Participle plural מְקֻצָּצִים

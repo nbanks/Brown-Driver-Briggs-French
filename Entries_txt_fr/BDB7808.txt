@@ -4,7 +4,7 @@ hébreu biblique
 רָם
 nom propre, masculin
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 
 a.
@@ -15,7 +15,7 @@ Jerachméel 1 Ch 2,25 ;
 1 Ch 2,27. —
 Αρραν, Ραμ, etc.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2. nom de la famille d'Élihu, Jb 32,2 (Ραμ[α], Αραμ), douteux, comparer Bu.
 
 ---

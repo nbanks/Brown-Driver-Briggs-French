@@ -28,7 +28,7 @@ couler ou fondre, disparaître), d'où Lm 3,20 ; Ps 44,26 mais preuves insuffisa
 I. ׳
 שׁ en hébreu) ; — s'enfoncer,
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Parfait 3 féminin singulier שָׁ֫חָה לֶעָפָר נַפְשֵׁנוּ
@@ -45,7 +45,7 @@ Lm 3,20
 Qr
 ,
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 déclaratif
@@ -61,7 +61,7 @@ Gr lit שָׁחוּ pour
 שׁתת
 . —
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hithpa`el
 Ps 42 ; Ps 43 voir

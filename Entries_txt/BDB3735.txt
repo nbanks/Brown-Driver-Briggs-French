@@ -25,7 +25,7 @@ Exod 2:2 + 3 t.;
 construct יַרְחֵי
 Job 7:3; Job 29:2 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 month, as measure of time, during, or in which Exod 2:2 (
@@ -44,7 +44,7 @@ Deut 21:13;
 2Kgs 15:13
 .
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 calendar month, with name יֶרַח זִו

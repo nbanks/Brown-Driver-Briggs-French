@@ -39,7 +39,7 @@ ni
 הוּא, הִיא (which see, under the corresponding headings, for fuller explanations),
 thus: —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 
@@ -72,7 +72,7 @@ Gen 33:6; Gen 44:3; Judg 6:5 etc.
 
 e. compare Neh 10:38.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 
@@ -105,7 +105,7 @@ perhaps
 זהס
 ).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 
@@ -139,7 +139,7 @@ Kt
 
 לֹאהֵֿמָּה is probably corrupt: see Commentaries)
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 
@@ -177,7 +177,7 @@ Num 3:33; 1Sam
 ; 1Chr
 12:15 (see Dr^ § 201, 3^).
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 6.
 
@@ -196,7 +196,7 @@ therein, 1Chr 21:10
 מֵהֶם); 2Sam 12:8; Job 23:14
 כָּהֵנָּה things such as these.
 
-@@SPLIT:sense@@
+## SPLIT 6 sense
 
 7. With article הָהֵם, Gen 6:4; Exod 2:11; Num 14:38 + often; הָהֵמָּה 12 t. (see
 above); הָהֵנָּה
@@ -225,7 +225,7 @@ Dr (
 RVm
 ).
 
-@@SPLIT:sense@@
+## SPLIT 7 sense
 
 8. With prepositions. (in lieu of the normal, and more usual, forms with suffixes בָּהֶם
 ,

@@ -19,7 +19,7 @@ Lzb^Ephem. ii. 231^
 ברבנות
 מרזחותה די כמרי בל. —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 cri de deuil (ou festin ? Talmud מִרְזֵיחָא), absolu
@@ -28,7 +28,7 @@ cri de deuil (ou festin ? Talmud מִרְזֵיחָא), absolu
 Jr 16,5
 c.-à-d. maison de deuil (|| ספד, נוד).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 cri de débauche, construit מִרְזַח סְרוּחִים

@@ -10,7 +10,7 @@ a cut, thing cut, sharp instrument; — plural construct חֲרִיצֵי
 חֲרִצֵי
 2Sam 12:31 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 הֶחָלָב
@@ -19,7 +19,7 @@ a cut, thing cut, sharp instrument; — plural construct חֲרִיצֵי
 1Sam 17:18
 cuts of milk i.e. cheeses.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 sharp instrument of iron, 2Sam 12:31 = 1Chr 20:3

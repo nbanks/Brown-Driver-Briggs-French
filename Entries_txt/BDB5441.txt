@@ -31,7 +31,7 @@ Lindberg^Vergl.Sem.Gram.93f.^, but Mandean נתן
 
 Nö^M 52^); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal_1917_
 Perfect
@@ -1630,7 +1630,7 @@ Ps
 78:43
 ).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al_82_
 Perfect
@@ -1897,7 +1897,7 @@ d. = be inflicted, of blemish (מוּם) Lev
 24:20 (with
 בְּ person).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hoph`al (or
 Qal

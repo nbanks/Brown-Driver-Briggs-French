@@ -3,7 +3,7 @@ Biblical Hebrew
 
 [שָׁיָה] verb only
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect with apocope תֶּ֑שִׁי צוּר יְלָֽדְךָ

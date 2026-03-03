@@ -20,7 +20,7 @@ D
 D
 dans Josué) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait 3 masculin singulier יָרַשׁ
 Jr 49,1
@@ -292,7 +292,7 @@ Jg 14,15
 
 pour nous appauvrir nous avez-vous appelés ?
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Niph`al
 Imparfait
 יִוָּרֵשׁ
@@ -317,7 +317,7 @@ E
 ),
 Pr 20,13 ; Pr 23,21 ; Pr 30,9 (opposé à אֶשְׂבַּע).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Pi`el
 Imparfait
 פְּרִי אַדְמָתֶ֑ךָ יְיָרֵשׁ הַצְּלַָצל
@@ -330,7 +330,7 @@ Os 9,6
 Es 34,11
 ), c.-à-d. dévorera.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 Hiph`il
 Parfait 3 masculin singulier הוֺרִישׁ
 Jg

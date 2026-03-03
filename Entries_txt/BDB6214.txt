@@ -23,7 +23,7 @@ Gen 31:42 +,
 Gen 16:11, etc.;
 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 affliction, Job 36:15; Job 36:21; Ps 44:25; Ps 88:10; Ps 107:41; Ps 119:50; Ps 119:92
@@ -98,7 +98,7 @@ J
 ); לחם עני
 Deut 16:3.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 poverty, בְּעָנְיִי הכינותי זהב

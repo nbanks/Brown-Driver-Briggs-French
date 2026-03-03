@@ -8,7 +8,7 @@ Prov 14:23
 ^
 abundance, pre-eminence; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 abundance, plenty
@@ -17,7 +17,7 @@ Prov 14:23
 ; Prov 21:5
 (in both opposed to מַחְסוֺר).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 pre-eminence, superiority, מוֺתַר הָאָדָם מִןהַֿבְּהֵמָה אָ֔יִן

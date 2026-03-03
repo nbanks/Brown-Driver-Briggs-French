@@ -4,7 +4,7 @@ Biblical Hebrew
 [נָצָא] verb = נָצָה = fly, accusative Thes
 Gf and others; — only
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Infinitive absolute (si vera 1.) נָצֹא תֵצֵא

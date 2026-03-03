@@ -25,7 +25,7 @@ DHM^ZMG xxix (1875), 614^ also bank or
 neighbourhood of a stream
 SabDenkm^49^); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal_465_
 Perfect 3 masculine singular ׳
@@ -793,7 +793,7 @@ Woods^Hebraica 1887, 262,^
 his clouds burned with hailstones, etc.; read
 rather עברו in 2 singular
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Imperfect 3 masculine singular נַחַל אֲשֶׁר
@@ -802,7 +802,7 @@ Imperfect 3 masculine singular נַחַל אֲשֶׁר
 Ezek 47:5
 a stream which cannot be forded.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el
 
@@ -831,13 +831,13 @@ Imperfect 3 masculine singular ׳
 he made to pass across with chains of
 gold. —
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hithpa`el see [
 עָבַר
 ] below
 
-@@SPLIT:stem@@
+## SPLIT 5 stem
 
 Hiph`il
 Perfect 3 masculine singular הֶעֱבִיר

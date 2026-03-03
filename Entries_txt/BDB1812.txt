@@ -8,7 +8,7 @@ cling, cleave, keep close (Late Hebrew id., Arabic
 [placeholder1053: Placeholders/1053.gif],
 [placeholder1054: Placeholders/1054.gif]) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -164,7 +164,7 @@ followed by accusative Gen 19:19 (
 J
 ); subject sin Ps 101:3 (followed by בְּ person)
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pu`al
 Imperfect 3 masculine plural יְדֻבָּ֑קוּ passive of Hiph`il 1
@@ -175,7 +175,7 @@ Job 41:9
 
 (|| יִתְלַכְּדוּ); absolute of earth-clods Job 38:38.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Perfect 3 feminine singular suffix הִדְבִּיקָ֑תְהוּ
@@ -244,7 +244,7 @@ E
 18:22 compare Judg 20:42 (subject
 הַמִּלְחָמַה).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hoph`al
 Participle

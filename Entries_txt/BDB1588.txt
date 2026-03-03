@@ -10,7 +10,7 @@ Niph`al, Aramaic גְּזַל,
 [placeholder865: Placeholders/865.gif]
 cut off) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -73,7 +73,7 @@ Mal 1:13
 lame and חוֺלֶה
 sick), probably that rescued after seizure by wild beasts, therefore mutilated.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect 3 feminine singular וְנִגְזְלָה, subject sleep

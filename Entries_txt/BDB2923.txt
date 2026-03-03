@@ -15,7 +15,7 @@ PS^1320^; Aramaic
 embalm; so Ethiopic
 [placeholder1848: Placeholders/1848.gif] (loan-word Di^110^)); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 feminine singular חָֽנְטָה

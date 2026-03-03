@@ -4,7 +4,7 @@ Biblical Hebrew
 I. [נָתַר] verb
 spring or start up; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect
@@ -13,7 +13,7 @@ Job 37:1
 yea, it (the heart) starts up from its place (|| יֶחֱרַד
 ).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Infinitive
@@ -24,7 +24,7 @@ P
 ), to leap with them (i.e. its legs) upon the earth (of
 locust).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Imperfect

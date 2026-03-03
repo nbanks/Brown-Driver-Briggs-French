@@ -14,7 +14,7 @@ Prov 25:10
 דִּבָּתָם
 Gen 37:2 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 whispering
@@ -28,14 +28,14 @@ Gf
 VB
 ; yet compare Che Psalm).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 defamation
 Prov 10:18
 (with הוציא).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 evil report, specifically a (true) report of evil doing Gen 37:2 (

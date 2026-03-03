@@ -17,7 +17,7 @@ Dn 2,22,
 עִמְּהוֺן
 Esd 5,2 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 
@@ -34,7 +34,7 @@ la guerre avec Dn
 שַׁוִּי עִם rendre semblable à
 Dn 6,21.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. de temps, Dn 3,33 = Dn 4,31
 עִםדָּֿר וְדָר (coexiste) avec toutes les générations (comparer hébreu biblique

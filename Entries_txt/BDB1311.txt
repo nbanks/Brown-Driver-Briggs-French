@@ -7,7 +7,7 @@ eat (Assyrian
 barû
 & derivatives Zim^BP 31^) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -22,7 +22,7 @@ error for בחרו
 1Kgs 18:25
 Dr^Sm 107^).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Infinitive
@@ -30,7 +30,7 @@ Infinitive
 Lam 4:10
 for devouring.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Imperfect

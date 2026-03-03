@@ -10,7 +10,7 @@ press, squeeze (Late Hebrew id.;
 [placeholder3057: Placeholders/3057.gif]
 rub); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Passive participle
@@ -26,7 +26,7 @@ H
 1Sam 26:7
 and his spear pressed (thrust) into the ground.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pu`al
 Perfect 3 masculine plural שָׁמָּה מֹעֲכוּ שְׁדֵיהֶן

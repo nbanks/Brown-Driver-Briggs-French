@@ -7,7 +7,7 @@ be saturated, drink one's fill (Late Hebrew in derived species; Arabic
 [placeholder4992: Placeholders/4992.gif] Aramaic רְוִי,
 [placeholder4993: Placeholders/4993.gif]); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 feminine singular consecutive וְרָוְָֽתָּה
@@ -20,7 +20,7 @@ Ps 36:9 (Ges^«GKC:75u»§ 75u^) figurative of men (|| תַּשְׁקֵם
 Prov 7:18
 we will take our fill of love (|| נִתְעַלְּסָה).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Perfect 3 feminine singular רִוְּתָה
@@ -56,7 +56,7 @@ Jer 31:14
 יְרַוֻּךָ
 Prov 5:19.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Perfect 3 masculine singular הִרְוָה
@@ -79,7 +79,7 @@ of Israel satisfying ׳
 י, חֵלֶב זְבָחִים
 Isa 43:24.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hoph`al
 Imperfect

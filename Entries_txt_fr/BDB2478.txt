@@ -3,7 +3,7 @@ hébreu biblique
 
 [זָרַר] verbe seulement
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Po'el
 éternuer (comparer זְרִירוֺ(ה)י
 

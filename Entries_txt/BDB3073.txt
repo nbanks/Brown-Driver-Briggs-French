@@ -20,7 +20,7 @@ Gen 26:5 + 14 t.;
 Lev 18:4 + 21 t.
 etc.; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. singular statute, of special ritual laws: of passover Exod 13:10 (
 J
@@ -57,7 +57,7 @@ H
 ); חֻקָּה אַחַת לַגֵּר ולאזרךְ
 Num 9:14; Num 15:15.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. plural statutes:
 

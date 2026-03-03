@@ -28,7 +28,7 @@ construit מַצְּבוֺת
 2 R 10,26,
 etc. ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 
 a.

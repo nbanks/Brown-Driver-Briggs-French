@@ -10,7 +10,7 @@ syriaque ; hébreu biblique II.
 זָחַל
 ] ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pe`al
 Participe
@@ -23,7 +23,7 @@ Dn 2,31, féminin
 דְּחִילָה
 Dn 7,7 ; Dn 7,19.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pa`el
 Imparfait 3 masculin singulier suffixe וִידֵחֲלִנַּנִי

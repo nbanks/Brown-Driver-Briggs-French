@@ -11,7 +11,7 @@ foetus, sucking child;
 [placeholder3760: Placeholders/3760.gif]
 foal, so Ethiopic Talmud עִילָה); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Participle feminine plural עָלוֺת

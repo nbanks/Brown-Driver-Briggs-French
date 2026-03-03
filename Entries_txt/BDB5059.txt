@@ -21,7 +21,7 @@ Isa 32:18,
 מְנֻחוֺת
 Ps 23:2 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 resting-place
@@ -61,7 +61,7 @@ Gie and others); figurative for security, assurance 2Sam 14:17
 (taken from resting, equilibrium, of scale according to
 Klo).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 rest, quietness, plural מֵי מְנֻחוֺת

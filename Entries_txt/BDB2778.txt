@@ -14,7 +14,7 @@ suffix חֲלָלֶיךָ
 Ps 69:27, etc.
 + 11 t. suffixes; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 pierced, fatally wounded
@@ -25,7 +25,7 @@ Ezek 26:15
 30:24; Lam
 2:12. Elsewhere
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 slain

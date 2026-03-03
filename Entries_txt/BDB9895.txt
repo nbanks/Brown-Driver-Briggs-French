@@ -4,7 +4,7 @@ Biblical Aramaic
 [רוּם] verb
 rise (see Biblical Hebrew); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pe`al
 Passive participle
@@ -12,7 +12,7 @@ Passive participle
 Dan 5:20
 lifted up, of heart, i.e. presumptuous.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Po`l.
 extol: Participle
@@ -20,7 +20,7 @@ extol: Participle
 Dan 4:34 (
 ל of deity).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Haph`el
 exalt: Participle
@@ -28,7 +28,7 @@ exalt: Participle
 Dan 5:19
 (accusative of person).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hithpo`lel
 lift oneself up against, Dan 5:23 (עַל of deity).

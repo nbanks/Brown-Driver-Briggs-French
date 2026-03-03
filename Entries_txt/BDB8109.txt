@@ -20,7 +20,7 @@ Phoenician מרקע
 platter, or bowl, of gold CIS^i.
 90, 1^); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect 1 singular suffix אֶרְקָעֵם
@@ -44,7 +44,7 @@ Isa 44:24,
 רוֺקַע הָא
 Ps 136:6.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Imperfect 3 masculine singular suffix בַּזָּהָב יְרַקְּעֶנּוּ
@@ -57,7 +57,7 @@ they beat out the plates of gold; suffix וַיְרִקְּעוּם צִפּוּ
 Num 17:4
 they beat them out as plating.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pu`al
 Participle
@@ -65,7 +65,7 @@ Participle
 Jer 10:9
 silver beaten out.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hiph`il
 Imperfect 2 masculine singular תַּרְקִיעַ עִמּוֺ לִשְׁחָקִים

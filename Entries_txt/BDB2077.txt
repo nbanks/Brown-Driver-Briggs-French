@@ -14,7 +14,7 @@ be of no account; but also ferbuit (vinum) &
 [placeholder1257: Placeholders/1257.gif]
 inflatus, tumens (venter)) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 2 masculine singular וְהָדַרְתָּ֫
@@ -69,7 +69,7 @@ adorn, only passive participle adorned, made splendid
 הָדוֺר בִּלְבוּשׁוֺ
 Isa 63:1.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect
@@ -77,7 +77,7 @@ Perfect
 Lam 5:12
 were (not) honoured, subject פְּנֵי זְקֵנִים.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hithpa`el
 Imperfect jussive 2 masculine singular תִּתְהַדַּר

@@ -10,7 +10,7 @@ Pa`el בַּהֵיל
 hasten, be precipitate, also dismay: but
 [placeholder511: Placeholders/511.gif] is be quiet) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Niph`al
 Perfect
@@ -73,7 +73,7 @@ be not hasty (to) go from him; Prov 28:22
 נִבֳהָל לַהוֺן
 hastening after riches.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Imperfect
@@ -138,7 +138,7 @@ of hasty speech Eccl
 ׳
 אַלתְּֿב.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pu`al
 Participle plural מְבֹהָלִים
@@ -169,7 +169,7 @@ Esth
 
 Prov 20:21.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hiph`il
 Perfect suffix הִבְהִילָ֑נִי

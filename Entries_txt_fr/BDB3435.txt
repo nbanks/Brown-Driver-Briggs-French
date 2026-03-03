@@ -8,7 +8,7 @@ Eshmun ; arabe
 metuens cavit, Frey^^
 Lag^BN 26.30^ ; comparer III. גּוּר) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait 2 masculin singulier יָגֹרְתָּ
 Dt 28,60

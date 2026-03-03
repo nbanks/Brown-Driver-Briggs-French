@@ -35,7 +35,7 @@ Ex 12,7 + 4 t.,
 Dt 6,9 ; Jg 16,3 —
 montant de porte, montant de portail,
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1. de maison d'habitation Ex 12,7 (
 P
 ), Ex
@@ -57,7 +57,7 @@ Ez 43,8 de
 la maison de Salomon 1 R 7,5
 .
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2. de la maison de ׳
 י :
 
@@ -82,7 +82,7 @@ Ez 45,19
 מ
 Ez 45,9, comparer Ez 46,2.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3. de portes de ville Jg 16,3.
 
 ---

@@ -7,7 +7,7 @@ expire perish, die (compare Arabic
 [placeholder842: Placeholders/842.gif]
 be empty, hungry) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect

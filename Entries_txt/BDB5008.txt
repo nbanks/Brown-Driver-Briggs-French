@@ -6,7 +6,7 @@ verb
 drive, conduct (Late Hebrew conduct oneself, behave, be accustomed; Arabic
 [placeholder3192: Placeholders/3192.gif] go along the road, keep to the road; Aramaic נְהַג lead); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -62,7 +62,7 @@ figurative
 Eccl 2:3 my heart
 behaving itself in wisdom (compare Late Hebrew above).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Perfect

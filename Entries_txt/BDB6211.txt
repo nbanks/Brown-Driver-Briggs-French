@@ -15,7 +15,7 @@ see I.
 Ol
 We); —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 humility, meekness
@@ -25,7 +25,7 @@ Ps 45:5
 
 Now).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 condescension

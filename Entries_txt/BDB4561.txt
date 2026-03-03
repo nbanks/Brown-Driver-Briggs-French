@@ -13,7 +13,7 @@ Dl^HWB 395^, Arabic
 Eut^Nab 14, 6^; Zinjirli מת
 DHM^Sendsch. Glossary^); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular מֵת
@@ -500,7 +500,7 @@ Ps 9:1; Ps 48:15 see
 עַלְמָה
 below II. עלם.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Po`lel.
 Perfect 3 masculine singular suffix מוֺתְתַנִי
@@ -538,7 +538,7 @@ accusative Judg
 1:10;
 2Sam 1:16; Jer 20:17; Ps 34:22; Ps 109:16.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Perfect 3 masculine singular הֵמִית
@@ -703,7 +703,7 @@ E
 
 4. bring to a premature death Prov 19:18; Prov 21:25.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hoph`al
 Perfect

@@ -3,7 +3,7 @@ araméen biblique
 
 [נְדַב] verbe
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Hithpa`al
 se porter volontaire, offrir librement (

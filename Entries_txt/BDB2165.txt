@@ -24,7 +24,7 @@ Job 6:19 suffix
 הֲלִיכוֺתֶיךָ
 Ps 68:25 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 going, walk,
@@ -57,7 +57,7 @@ watching the doings of her household; of God Hab 3:6
 הֲלִכוֺת עוֺלָם לוֺ
 ways of eternity (al of old) are his.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 travelling-company, caravan

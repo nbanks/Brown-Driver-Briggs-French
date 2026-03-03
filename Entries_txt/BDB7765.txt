@@ -15,7 +15,7 @@ repel, reject (Nö^M 75^); Assyrian
 radâdu
 is pursue (rare)); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal, figurative, beat down:
 Infinitive construct
@@ -37,7 +37,7 @@ accusative Ew and others (for
 
 Hiph`il). — Judg 19:11 read יָרַד.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il literally beat out: Imperfect 3 masculine singular
 וַיָּ֫רֶד

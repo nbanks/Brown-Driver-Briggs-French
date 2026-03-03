@@ -5,7 +5,7 @@ Biblical Hebrew
 noun feminine
 sin, sin-offering (?) —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 sin, chiefly in the phrase גְדֹלָה
@@ -30,7 +30,7 @@ he whose sin is covered is blessed; but the prayer of the wicked
 becomes sin when he is judged
 Ps 109:7.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 sin-offering (according to most) עולה

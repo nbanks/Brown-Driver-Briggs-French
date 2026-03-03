@@ -13,7 +13,7 @@ pousser le bétail violemment ; assyrien
 Zim^BP 12^
 Dl^Pr 42^) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Niph`al
 Participe figuré כָּלֿ
 הַנֶּחֱשָׁלִים

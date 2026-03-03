@@ -22,7 +22,7 @@ suffixe קְנֹתָם
 Ex 25,36 ;
 Ex 37,22 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 tige
@@ -32,7 +32,7 @@ Gn 41,5 ; Gn 41,22 (
 E
 ).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 plante aquatique, roseau, 1 R 14,15 ; Es 19,6 ( + סוּף), Es 35,7
@@ -64,7 +64,7 @@ Es 42,3
 (épargné par ׳
 עבד י).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 calamus, roseau aromatique, הַטּוֺב
@@ -82,7 +82,7 @@ P
 Es 4,14
 .
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 sens dérivés :

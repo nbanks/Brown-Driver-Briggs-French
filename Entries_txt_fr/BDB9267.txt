@@ -8,7 +8,7 @@ père (hébreu biblique
 אָב
 ) ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. littéralement père suffixe אֲבוּ֫הִי
 Dn 5,13 (voir
@@ -18,7 +18,7 @@ Marti), אֲבוךְ (K^§
 אֲבוּ֫הִי
 Dn 5,2.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. pluriel pères, ancêtres , [אֲבָהָן
 D^l.c.^], suffixe אֲבָהָתי

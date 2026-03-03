@@ -4,7 +4,7 @@ hébreu biblique
 I. [פָּרַשׁ] verbe
 rendre distinct, déclarer (hébreu tardif se séparer,
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pi`el
 séparer, expliquer, de même araméen פְּרַשׁ surtout Pa`el ; syriaque
@@ -12,7 +12,7 @@ séparer, expliquer, de même araméen פְּרַשׁ surtout Pa`el ; syriaque
 séparer, distinguer, expliquer, comparer mandéen, Nö^M
 221^) ; —
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Qal
 Infinitif construit
@@ -23,7 +23,7 @@ Lv 24,12 (
 P
 ) pour leur déclarer distinctement.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Niph`al
 Participe
@@ -33,7 +33,7 @@ lire probablement שׂוֺת-, voir
 פרשׂ
 .
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Pu`al
 Parfait 3 masculin singulier פֹּרַשׁ

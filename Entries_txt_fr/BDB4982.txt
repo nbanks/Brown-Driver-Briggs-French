@@ -14,7 +14,7 @@ régner, exercer le pouvoir,
 [placeholder3177: Placeholders/3177.gif]
 roi) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait
 ׳
@@ -61,7 +61,7 @@ exacteur de tribut, Dn 11,20 pluriel abstrait seigneurie = seigneur, dirigeant
 ,
 figuré de צְדָקָה (personnifié) Es 60,17 (|| פְּקֻדָּתֵךְ שָׁלוֺם).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Niph`al
 Parfait
 נִגַּשׂ

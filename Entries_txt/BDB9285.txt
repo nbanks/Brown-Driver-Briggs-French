@@ -9,7 +9,7 @@ Dan 2:31+;
 feminine singular חֲדָה
 Ezra 4:8 +; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 one side
@@ -31,7 +31,7 @@ Ezra 6:3
 ח = a certain one (τινὰ) Dan 7:16 (with מִן
 partitive).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 a (indefinite article) with substantive Dan 2:31; Dan 6:18; Dan 4:16 (see

@@ -5,7 +5,7 @@ hébreu biblique
 dénominatif
 chercher tôt, chercher avec diligence (tardif ; à l'origine chercher l'aube) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Participe
 שֹׁחֵר טוֺב

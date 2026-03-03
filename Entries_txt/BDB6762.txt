@@ -17,7 +17,7 @@ pir'u
 [placeholder4307: Placeholders/4307.gif]
 fruit, and Ba^ZMG xii (1887), 604^): —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 plural פָּרוּ
@@ -78,7 +78,7 @@ the fruit-bearer, poetic for tree, Isa 17:6 (compare [סָעִיף] 2
 Gen 49:22
 (twice in verse) Joseph is son of a fruit-bearer, i.e. a fruitful bough.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 

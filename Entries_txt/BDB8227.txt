@@ -17,7 +17,7 @@ Ps 73:7, suffix
 מַשְׂכִּיֹּתָם
 Num 33:52 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 show-piece, specifically carved figure, of idolatrous symbols, Num 33:52
@@ -36,7 +36,7 @@ Prov 25:11
 
 silver carvings.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 imagination, conceit, Prov 18:11, לֵבָב

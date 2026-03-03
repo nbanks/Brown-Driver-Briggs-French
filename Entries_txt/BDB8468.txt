@@ -15,7 +15,7 @@ Ba^ES 50^); Assyrian
 on meaning in Hebrew see especially We^Skizzen iii. 130^
 ); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pu`al
 Participle as adjective : predicate וְהָיִיתָ מְשֻׁגָּע
@@ -31,7 +31,7 @@ as substantive 2Kgs
 1Sam 21:16
 madmen.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hithpa`el
 shew madness; Participle

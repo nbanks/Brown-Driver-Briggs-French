@@ -13,7 +13,7 @@ alâdu,
 
 COT^Gloss^) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait
 יָלַד
@@ -207,7 +207,7 @@ Za
 3,27
 où la mère est nommée, 1 Ch 14,4 où le père est nommé.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Niph`al
 Parfait
 נוֺלַד
@@ -323,7 +323,7 @@ Jb
 11,12 ; Jb
 15,7.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Pi`el
 Infinitif
 יַלֶּדְכֶן
@@ -358,7 +358,7 @@ Ex 1,21 (
 E
 ).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 Pu`al
 Parfait
 יֻלַּד
@@ -434,7 +434,7 @@ incorporés dans la Sion spirituelle Ps 87,4 ; Ps 87,5 ; Ps 87,6 de la
 production des montagnes
 Ps 90,2.
 
-@@SPLIT:stem@@
+## SPLIT 5 stem
 Hiph`il
 Parfait
 הוֺלִיד
@@ -514,7 +514,7 @@ enfanter, seulement figuré Es 59,4 (||
 הָרוֺ), des méchants, mettant au monde l'iniquité (ceci favorisé par le
 contexte, d'autres, engendrer).
 
-@@SPLIT:stem@@
+## SPLIT 6 stem
 Hoph`al
 Infinitif
 חֻלֶּ֫דֶת
@@ -533,7 +533,7 @@ Gn
 16,5
 jour de la naissance de quelqu'un = anniversaire.
 
-@@SPLIT:stem@@
+## SPLIT 7 stem
 Hithpa`el
 Imparfait
 וַיִּתְיִלְּדוּ

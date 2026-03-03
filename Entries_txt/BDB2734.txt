@@ -14,7 +14,7 @@ wisdom, DHM^Sendsch.57^; Assyrian
 restrain from acting in an evil manner, judge, govern; IV.make firm, sound, free
 from defect by the exercise of skill) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -66,7 +66,7 @@ with accusative שׁחכמתי
 Eccl 2:19
 wherein I have acted wisely.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Imperfect
@@ -78,7 +78,7 @@ Job 35:11
 Ps 119:98
 all make wise, teach wisdom, with acc
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pu`al
 Participle
@@ -90,14 +90,14 @@ plural הֵמָּה
 Prov 30:24
 (of intelligent animals).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hiph`il
 Participle construct מַחְכִּימַת פֶּ֑תִי
 Ps 19:8
 making wise the simple.
 
-@@SPLIT:stem@@
+## SPLIT 5 stem
 
 Hithpa`el
 Imperfect

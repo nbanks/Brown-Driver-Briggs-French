@@ -6,7 +6,7 @@ shoot, pour (Aramaic orthography of
 יָרָה
 q. v.) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Infinitive construct
@@ -14,7 +14,7 @@ Infinitive construct
 2Chr 26:15
 shoot with arrows.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Imperfect
@@ -29,7 +29,7 @@ to be read וַיֹּרִאוּ, הַמּוֺרַאִים; but Masora nothing א
 as superfluous, would read וַיֹּרוּ, הַמּוֺרִים from יָרָה
 (Bö^§ 1088^ (8), (9)).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hoph`al
 Imperfect only in וּמַרְוֶה גַּם הוּא יוֺרֶ֑א

@@ -17,7 +17,7 @@ Ezra 2:68 plural
 suffix מְכוֺנֶיהָ
 Ps 104:5 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 fixed place of ׳
@@ -47,7 +47,7 @@ compare Ps 33:14
 Ps 89:15,
 so Ps 97:2.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 foundation, only plural, in poetry יָסַד אֶרֶץ

@@ -14,7 +14,7 @@ Aramaic
 [placeholder2082: Placeholders/2082.gif]
 expand) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pilpel
 Participle
@@ -23,7 +23,7 @@ Participle
 Isa 22:17
 hurleth thee violently.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Perfect
@@ -74,7 +74,7 @@ followed by accusative + מעל of land from which, and על of that to which;
 Jer 22:26
 with accusative + על of land to which.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hoph`al
 Perfect

@@ -15,7 +15,7 @@ put to shame, Ethpa`al be ashamed; Ethiopic
 [placeholder2492: Placeholders/2492.gif]
 deny, apostatize) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Niph`al
 Perfect 3 masculine singular נִכְחַד
@@ -56,7 +56,7 @@ ruin
 
 Zech 11:9; Zech 11:16.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Perfect
@@ -107,7 +107,7 @@ disown
 
 Job 6:10.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Perfect 1 singular consecutive suffix וְהִכְחַדְתִּיו

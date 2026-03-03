@@ -351,7 +351,7 @@ def validate_html(orig_html, fr_html, txt_fr_content=None):
             line = line.strip()
             if not line or line.startswith("===") or line == "---":
                 continue
-            if line.startswith("@@SPLIT:") and line.endswith("@@"):
+            if line.startswith("## SPLIT "):
                 continue
             line = _PLACEHOLDER_RE.sub("", line).strip()
             line = line.replace("^", "")
@@ -390,6 +390,30 @@ def validate_html(orig_html, fr_html, txt_fr_content=None):
         found.append(
             f"bare & in HTML (should be &amp; or \"et\") ({bare_amp} "
             f"occurrence{'s' if bare_amp > 1 else ''})")
+
+    # 9b. Ampersand consistency between txt_fr and HTML
+    if txt_fr_content is not None:
+        # Count & in txt_fr (outside of header/separator lines)
+        txt_fr_amps = 0
+        for line in txt_fr_content.strip().split("\n"):
+            line = line.strip()
+            if not line or line.startswith("===") or line == "---":
+                continue
+            if line.startswith("## SPLIT "):
+                continue
+            txt_fr_amps += line.count("&")
+        # Count &amp; in French HTML (in text content, not in tags/attributes)
+        fr_text = re.sub(r"<[^>]+>", "", fr_html)
+        html_amps = fr_text.count("&amp;") + len(
+            re.findall(r"&(?!amp;|lt;|gt;|quot;|apos;|#)", fr_text))
+        if txt_fr_amps > 0 and html_amps == 0:
+            found.append(
+                f"txt_fr has {txt_fr_amps} '&' but French HTML has none "
+                f"(omitted during assembly)")
+        if txt_fr_amps == 0 and html_amps > 0:
+            found.append(
+                f"French HTML has &amp; but txt_fr has no '&' "
+                f"(fabricated during assembly)")
 
     # 10. Tag sequence check
     orig_seq = _tag_seq(orig_soup)

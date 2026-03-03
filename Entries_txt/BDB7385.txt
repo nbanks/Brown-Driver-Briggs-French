@@ -6,7 +6,7 @@ bore, dig (Arabic
 [placeholder4715: Placeholders/4715.gif] (
 [placeholder4716: Placeholders/4716.gif]) cut a round hole in, scoop out); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 1 singular קַרְתִּי
@@ -14,7 +14,7 @@ Perfect 1 singular קַרְתִּי
 I have dug (that is, a well)= Isa 37:25 (Meinh conjectures
 כָּרִתִי). —
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il,
 Pilpel, see I, II. קרר

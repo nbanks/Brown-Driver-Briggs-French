@@ -17,7 +17,7 @@ Aph`el verser, surtout fondre ; Zinjirli ליתכה
 Cook^83^ ; syriaque
 [placeholder3489: Placeholders/3489.gif] (rare) PS^2480^) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Imparfait 3 féminin singulier תִּתַּךְ
 Jr 42,18 + 3
@@ -35,7 +35,7 @@ Jr 42,18
 (avec עַלֿ personne), Jr 44,6 (absolu), 2 Ch 12,7 ; 2 Ch 34,25 (tous deux avec בְּ local contre
 ) ; comparer aussi Dn 9,11 Dn 9,27 (tous deux avec עַלֿ personne)
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Niph`al
 Parfait 3 masculin singulier נִתַּךְ
 Ex 9,33 + 2
@@ -65,7 +65,7 @@ Na 1,6
 י Ez 22,21 (sujet personnes), ainsi Ez 24,11 (sujet impureté, figuré du
 chaudron).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Hiph`il
 Parfait 3 masculin pluriel הִתִּיכוּ עֲבָדֶיךָ אֶתהַֿכֶּסֶף
 2 R 22,9
@@ -97,7 +97,7 @@ Jb 10,10
 ne m'as-tu (= ne m'avais-tu) pas versé comme du lait ? (des commencements
 de la vie).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 Hoph`al
 Imparfait 2 masculin pluriel כֵּן תֻּתְּכוּ
 Ez 22,22

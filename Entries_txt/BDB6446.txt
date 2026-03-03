@@ -6,7 +6,7 @@ masculine, עֲשִׂירִיָּה, and עֲשִׂירִית_8_ feminine
 adjective ordinal number
 tenth; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 דּוֺר עֲשִׂירִי
@@ -41,7 +41,7 @@ Ezek 29:1,
 בַּשּׁ
 Jer 32:1.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. as substantive a tenth part: f. absolute עֲשִׂרִיָּה
 Isa 6:13 feminine

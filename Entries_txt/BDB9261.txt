@@ -30,7 +30,7 @@ Josh 13:7 + 2 t.
 P
 );
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. no other number:
 
@@ -84,7 +84,7 @@ on the ninth (day) of the month; שְׁנַתתֵּֿשַׁע לְ
 
 the ninth year of.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. 9 + 10 = 19, with feminine noun
 תְּשַׁעעֶֿשְׂרֵה שָׁנָה
@@ -105,12 +105,12 @@ masculine noun
 2Sam 2:30,
 compare (as ordinal, גּוֺרָל omitted) 1Chr 24:16; 1Chr 25:26.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. 900 = תְשַׁע מֵאוֺת
 Judg 4:3 + 14 t.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4. with tens (20, 30, etc.): ׳
 ת following 2Kgs 14:2 + 10 t., precedes Gen 11:24 + 6 t., compare

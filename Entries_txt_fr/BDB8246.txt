@@ -15,7 +15,7 @@ suffixe שְׂכָרִי
 Gn 30,18 +,
 etc. ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 gages, de serviteur, Gn 30,28 ; Gn 30,32 ;
@@ -39,7 +39,7 @@ E
 ), Za
 8,10.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. = récompense, pour travail accompli, fidélité, etc., Gn 15,1 (
 J
@@ -60,7 +60,7 @@ Es 62,11
 (figuré de la récompense des travaux de ׳
 י), Ps 127,3 ; Qo 4,9 ; Qo 9,5.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 prix du passage, Jon 1,3.

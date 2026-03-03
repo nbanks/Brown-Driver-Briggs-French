@@ -13,7 +13,7 @@ SAC^113^
 Cooke^271^, Syriac
 [placeholder5469: Placeholders/5469.gif] (? Arabic loan-word, Frä^180^)); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect 2 feminine singular וַתָּשֻׁרִי לַמֶּלֶךְ

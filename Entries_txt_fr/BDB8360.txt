@@ -5,7 +5,7 @@ hébreu biblique
 nom féminin
 rugissement ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. comme un lion, absolu ׳
 שׁ
@@ -16,7 +16,7 @@ Za 11,3 ; Jb 4,10
 Ez 19,7
 (figuré d'un roi conquérant).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. cri humain dans la détresse, שַׁאֲגְתִי
 Ps 32,3, ׳

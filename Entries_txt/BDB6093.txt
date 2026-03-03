@@ -3,7 +3,7 @@ Biblical Hebrew
 
 I. [עָלַל] verb
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Po`el, act severely (toward) (Late Hebrew id., deal with
 (rare), and derivatives; Arabic
@@ -29,14 +29,14 @@ deal severely with them. — See also ׳
 ע
 denominative below
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Po`al
 Perfect 3 masculine singular מַכְאֹבִי אֲשֶׁר עוֺלַל לִי
 Lam 1:12
 my pain which is severely dealt out to me.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hithpa`el
 Perfect
@@ -66,7 +66,7 @@ Imperfect 3 masculine plural וַיִּתְעַלְּלוּקּבָהּ
 Judg
 19:25 (of abusing a woman; || וַיֵּדְעוּ אֹתָהּ).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hithpo`el
 Infinitive construct

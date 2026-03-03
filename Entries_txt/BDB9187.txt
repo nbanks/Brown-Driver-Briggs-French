@@ -9,7 +9,7 @@ Lzb^386^
 SAC^121^
 Cooke^361^); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect. 3 feminine singular תָּֽמְכָה
@@ -75,7 +75,7 @@ words (|| שָׁמַר); hold firmly
 Ps 17:5 (
 ב location; opposed to נָמֹ֫טוּ).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Imperfect

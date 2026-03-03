@@ -14,7 +14,7 @@ Schw); perhaps Assyrian
 , sensible, Lyon^Sargontexte 65^
 ) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect 2 masculine singular suffix תַּחְפְּשֶׂ֫נָּה
@@ -41,7 +41,7 @@ search = test, Lam 3:40 (object דרכינו; || חקר
 ),
 Prov 20:27.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect
@@ -50,7 +50,7 @@ Obad 1:6
 subject עֵשָׂו collective; searched out = exposed and plundered
 (|| נִבְעוּ מַצְפּוּנָיו).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el
 Perfect
@@ -92,7 +92,7 @@ E
 ׳
 י's dealings with his servants).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Pu`al
 Imperfect
@@ -109,7 +109,7 @@ Qal q. v.); see also
 חֵ֫פֶשׂ
 .
 
-@@SPLIT:stem@@
+## SPLIT 5 stem
 
 Hithpa`el
 Perfect

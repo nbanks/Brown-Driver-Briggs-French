@@ -14,7 +14,7 @@ DHM^ZMG xxxvii (1883), 326^; Arabic
 [placeholder5141: Placeholders/5141.gif]
 stitch together, mend; compare Küchenmeister^ZWiss. Th. xxx (1887), 257 ff.^); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular consecutive ׳
@@ -128,7 +128,7 @@ Ps 147:3
 longing exiles, compare
 Isa 61:3); absolute Job 5:18 (opposed to מחץ); participle as substantive Job 13:4.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect 3 masculine singular נִרְפָּא
@@ -177,7 +177,7 @@ healing has come to us.
 b. of personal distress, subject person Jer 17:14, subject the distress Jer 15:18
 .
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el
 Perfect 1 singular רִפִּאתִי
@@ -226,7 +226,7 @@ Niph`al
 2),
 Jer 51:9.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hithpa`el
 Infinitive construct of purpose, לְהִתְרַפֵּא, literally, in

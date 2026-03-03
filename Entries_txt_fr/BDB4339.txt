@@ -7,7 +7,7 @@ s'embraser, flamber (hébreu tardif id. ; syriaque
 la±âtu
 , dans les formes dérivées) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Participe
 actif
@@ -21,7 +21,7 @@ serviteurs de ׳
 Ps 57,5 (figuré
 des ennemis, comparer לְבָאִם v^a^).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Pi`el
 Parfait 3 féminin singulier וְלִהַט
 Ml 3,19 3

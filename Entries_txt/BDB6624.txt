@@ -12,14 +12,14 @@ ravine, stream; Assyrian
 palgu
 , canal); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Niph`al
 Perfect 3 feminine singular נִפְלְגָה
 Gen 10:25 the
 earth was divided.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 

@@ -6,12 +6,12 @@ noun masculine^
 Lev 27:28
 ^
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 devoted thing.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 devotion, ban;
@@ -28,7 +28,7 @@ Isa 34:5 —
 thing devoted to ׳
 י:
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 1. thing hostile to theocracy, and therefore (in the strictest application) to be either destroyed,
 or, in the case of certain objects (e.g. silver and gold, vessels of brass and iron Josh 6:19; Josh 6:24), set apart to sacred uses;
@@ -103,7 +103,7 @@ verse); every human being who became ׳
 P
 ; see Di).
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 2. apparently (so Di) anything devoted
 
@@ -126,7 +126,7 @@ every such ׳
 P
 ), to Zadokite priests Ezek 44:29.
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 3.
 devotion, ban, involving destruction; אִישׁ חֶרְמִי

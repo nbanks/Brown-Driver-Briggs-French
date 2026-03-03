@@ -11,7 +11,7 @@ uplu
 
 ublu, mais voir Jen^ThLz 1895, 250^)) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Pu`al
 Parfait 3 féminin singulier עֻפְּלָה
 Ha 2,4 selon
@@ -24,7 +24,7 @@ substantif requis, Brd^SK 1889, 121^
 Now
 הָעַוָּל, comparer Gu^Kau.^ —
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Hiph`il voir II.
 עפל
 . ci-dessous

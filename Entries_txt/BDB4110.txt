@@ -10,7 +10,7 @@ t.; suffix כְּסוּתְךָ
 Deut 22:12 + 3
 t. suffixes; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 covering, clothing
@@ -20,7 +20,7 @@ Exod 22:26
 Deut 22:12; Job 24:7; Job 31:19 of שַׂק as clothing of heavens Isa 50:3 in
 figure
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 covering for concealment, of Abaddon, the subterranean abode of the dead Job 26:6

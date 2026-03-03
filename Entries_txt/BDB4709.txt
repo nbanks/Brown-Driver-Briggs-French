@@ -47,7 +47,7 @@ Jer 10:2; Eccl 12:12
 Ezek 16:52
 (see Zerweck^Heb, Präp. Min, 1894^): —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. with verbs expressing (or implying)
 separation or removal, whether from a person or place, or in any
@@ -265,7 +265,7 @@ Ezek 40:7
 from thee and hither = on this side of thee, 1Sam 20:22
 מִמְּךָ וָהָֽלְהָא, compare Num 32:19 (twice in verse).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. Out of, Greek ἐκ, Latin ex: thus
 
@@ -780,7 +780,7 @@ Job
 
 Hi.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 Partitively (a sense connecting with 2.a. (c
@@ -1015,7 +1015,7 @@ Jer
 
 near the end.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4. of time — namely
 
@@ -1154,7 +1154,7 @@ Deut
 , of short duration Job 20:5, shortly Ezek 7:8 at hand (in a local
 sense, 1.c.) Jer 23:23.
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 5. (וְעַד) מִן ֗֗֗ עַד
 from
@@ -1350,7 +1350,7 @@ Exod
 + 4
 t.
 
-@@SPLIT:sense@@
+## SPLIT 6 sense
 
 6. In comparisons, beyond, above, hence in English
 than: so constantly: namely
@@ -1565,7 +1565,7 @@ too light for thy being my servant was it to raise up, etc., Ezek 8:17
 for the doing etc. (less than the doing etc. deserved) ? (but ? read עֲשׂוֺת
 on analogue of 1Kgs 16:31).
 
-@@SPLIT:sense@@
+## SPLIT 7 sense
 
 7.
 מן is prefixed to an infinitive:
@@ -1782,7 +1782,7 @@ Ps 73:20
 כַּחֲלוֺם מֵהָקִיץ
 after (one's) awaking, Job 20:4.
 
-@@SPLIT:sense@@
+## SPLIT 8 sense
 
 8. Once Deut 33:11 as a conjunction before a finite verb.
 
@@ -1795,7 +1795,7 @@ that they rise not again, in poetry for מִקּוּם (7
 מֵאֲשֵׁר
 adverb and conjunction.
 
-@@SPLIT:sense@@
+## SPLIT 9 sense
 
 9. In compounds: —
 

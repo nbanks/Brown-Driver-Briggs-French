@@ -8,7 +8,7 @@ plant (Late Hebrew id., and derivatives; compare Sabean נטעת
 pavilion [? as planted, established] DHM^ZMG
 xxxvii.(1883), 337, 349^): —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular Num 24:6 +, 2 masculine singular נָטָ֑עֵתָּ
@@ -119,7 +119,7 @@ nails planted, i.e. fixed in; even אֹזֶן
 Ps 94:9
 he that, planted, the ear.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect 3 plural נִטָּ֑עוּ

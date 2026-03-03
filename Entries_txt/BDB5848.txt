@@ -4,7 +4,7 @@ Biblical Hebrew
 [עוּב] verb
 denominative
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Hiph`il
 becloud, Imperfect 3 masculine singular יָעִיב בְּאַפוֺ אֲדֹנָי

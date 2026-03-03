@@ -21,7 +21,7 @@ Deut 33:22,
 streams
 Isa 44:4 +); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pe`al
 Participle

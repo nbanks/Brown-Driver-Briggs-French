@@ -14,7 +14,7 @@ crier, rugir (hébreu tardif id., crier (du corbeau) ; assyrien
 צְרַח Aphel (de l'ours), syriaque
 [placeholder4634: Placeholders/4634.gif] surtout Aphel et dérivés) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Participe
 actif
@@ -29,7 +29,7 @@ amèrement rugit là un héros, mais abrupt dans le contexte et improbable ; Gr 
 קוֺל י (comparer
 Hiph`il).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Hiph`il
 Imparfait 3 masculin singulier יַצְרִיחַ
 Es 42,13

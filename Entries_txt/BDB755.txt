@@ -8,7 +8,7 @@ arâku
 COT^Gloss^, Aramaic אֲרַךְ,
 [placeholder415: Placeholders/415.gif]) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -34,7 +34,7 @@ fulfillment of prophecy Ezek 12:22 subject פּאֹרֹת
 Ezek 31:5 (but
 compare above)
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Perfect

@@ -3,7 +3,7 @@ araméen biblique
 
 [יְדָא] verbe
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Haphel
 louer (voir hébreu biblique ידךְ) ; — Participe

@@ -4,7 +4,7 @@ hébreu biblique
 שַׁעֲרַ֫יִם
 nom propre [d'un lieu
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 dans le Bas-Pays de Juda (Buhl^Geogr. 194^)
 Jos 15,36,
@@ -22,7 +22,7 @@ Jos 15,36,
 
 τῶν πυλῶν).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2. dans le Néguev (Siméon), וּבְשַׁעֲרָ֑יִוֺ
 1 Ch 4,31,
 

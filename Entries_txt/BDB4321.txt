@@ -12,7 +12,7 @@ labâšu
 [placeholder2752: Placeholders/2752.gif]; Ethiopic
 [placeholder2753: Placeholders/2753.gif]); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal Perfect 3 masculine singularלָבֵשׁ
 Ps 93:1 (twice in
@@ -203,7 +203,7 @@ Job 29:14
 and
 it clothed itself in me, as it were, became incarnate in me.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pu`al only Participle plural מְלֻבָּשִׁים
 arrayed, with accusative of garment 1Kgs 22:10 = 2Chr 18:9; 2Chr 5:12 absolute
@@ -212,7 +212,7 @@ in full apparel
 Ezra 3:10
 .
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Perfect 3 masculine singular suffix הִלְבִּישַׁנִי

@@ -12,7 +12,7 @@ in need of; not
 
 ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pe`al
 Participle plural חָֽשְׁחִין

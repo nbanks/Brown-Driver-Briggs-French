@@ -3,7 +3,7 @@ araméen biblique
 
 [שְׁמַד] verbe
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Haph`el
 détruire (

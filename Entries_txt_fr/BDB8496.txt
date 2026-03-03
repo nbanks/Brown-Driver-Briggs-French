@@ -10,7 +10,7 @@ Jb 15,31 (
 Kt
 ) ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 vide, néant, vanité :
@@ -76,7 +76,7 @@ Jr 2,30
 Ps 127,1
 (deux fois dans le verset) ; Ml 3,14.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 vide de parole, || mensonge, ׳
@@ -131,7 +131,7 @@ Ez 21,28
 הַשּׁ
 Za 10,2.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. de conduite, indignité (Buhl
 ci-dessous 1, 2) ; ׳

@@ -10,7 +10,7 @@ Gen 46:10 = Exod 6:15; 1Chr 2:3 masculine
 plural (הַ)כְּנַעֲנִים
 Obad 1:20; Neh 9:24 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 adjective
@@ -20,7 +20,7 @@ Gen 38:2 (
 J
 ).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. with article as
 substantive,

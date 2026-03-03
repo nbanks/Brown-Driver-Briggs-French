@@ -31,7 +31,7 @@ Deut 28:40
 plural זֵיתִים
 Deut 6:11, etc.; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 olive-tree
@@ -102,7 +102,7 @@ Josh 24:13;
 ; Neh 9:25
 .
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. of fruit of olive-tree, olives:
 Deut 28:40b
@@ -119,7 +119,7 @@ P
 H
 ).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. in designations of place: מַעֲלֵה הַזֵּיתִים
 2Sam 15:30

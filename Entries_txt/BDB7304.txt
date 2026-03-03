@@ -3,7 +3,7 @@ Biblical Hebrew
 
 [קָדַם] verb
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pi`el
 denominative (Gerber^130^) come or be in
@@ -83,7 +83,7 @@ be beforehand, with ב temporal Ps 119:147 + infinitive construct
 Jonah 4:2
 anticipate, forestall, with accusative of thing Ps 119:148.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 

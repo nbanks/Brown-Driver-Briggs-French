@@ -4,7 +4,7 @@ Biblical Aramaic
 [כְּרַז] verb
 denominative
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Haph`el
 make proclamation (possibly directly dependent on κηρύξ (D^§ 37, p. 146^ (2nd ed. 183)

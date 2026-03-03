@@ -5,7 +5,7 @@ hébreu biblique
 nom [masculin] pluriel
 renvoi, cadeau de séparation ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 אַחר שִׁלוּחֶיהָ
@@ -13,7 +13,7 @@ Ex 18,2 (
 J
 ) après qu'elle eut été renvoyée.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 שִׁלֻּחִים

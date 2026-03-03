@@ -34,7 +34,7 @@ Dn 2,8 +, suffixe
 לְקָבְלָךְ
 Dn 2,31 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. avec לְ
 
@@ -58,7 +58,7 @@ parce que
 Esd 6,13 (de même
 palmyrénien CIS^ii. 164^).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. avec כֹּל, כָּלקֳֿבֵל
 en vue de, à cause de (mais lire probablement כְּלָקֳבֵל

@@ -22,7 +22,7 @@ Gn 29,2 +,
 construit עֶדְרֵי
 Mi 5,7 +, etc. ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 troupeau :
 
@@ -83,7 +83,7 @@ Ct 6,5.
 
 c. non précisé Jg 5,16 ; Jb 24,2 ; Ct 1,7.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 troupeaux, petit et gros bétail ;
 

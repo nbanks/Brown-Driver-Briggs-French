@@ -15,7 +15,7 @@ hired, of land ploughed by hire, Bergheim^PEQ 1894, 196^; Palmyrene שכרא
 perhaps rewarding
 Lzb^375^); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular ׳
@@ -58,14 +58,14 @@ J
 Now Toy; for evil purpose Deut 23:5 = Neh 13:2 (על
 against), Neh 6:12; Neh 6:13,
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 hire oneself out, Perfect
 בַּלֶּחֶם נִשְׂכָּ֑רוּ
 1Sam 2:5.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hithpa`el
 earn wages, Participle

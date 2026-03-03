@@ -6,23 +6,23 @@ noun masculine^
 1Sam 9:23
 ^
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 cook,
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 guardsman;
 —
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 1.
 cook (who also killed the animal for food and served it) טַבָּח absolute 1Sam 9:23; 1Sam 9:24 .
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 2. elsewhere only plural טַבָּחִים
 guardsmen, bodyguard (originally royal slaughterers; see RS^OTJC 426^ (262); Semitic i. 1st ed., 396); always in the following

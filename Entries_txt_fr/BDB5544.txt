@@ -9,7 +9,7 @@ sûru
 , nom rebelle
 Wkl^Gloss^) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal_161_
 Parfait masculin singulier סָר
 Ex 3,4 + ; 3 féminin
@@ -252,13 +252,13 @@ les
 récalcitrants, ou ci-dessous סרר, ou même = שָׂרֵי
 princes, chefs (comparer 1 S 22,14).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Pô`lel
 Parfait 3 masculin singulier סוֺרֵר דְּרָכָיו
 Lm 3,11
 il a détourné mes chemins (mes pas).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Hiphil_133_
 Parfait 3 masculin singulier הֵסִיר
 2 R 18,4 + ;
@@ -406,7 +406,7 @@ vers
 1 Ch 13,13
 .
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 Hoph`al
 Parfait 3 masculin singulier הוּסַר
 Lv 4,31 ;

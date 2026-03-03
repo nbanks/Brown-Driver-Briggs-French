@@ -12,7 +12,7 @@ dominer SabDenkm^No.9.l.13^ ; arabe
 [placeholder5871: Placeholders/5871.gif]
 atteindre, rattraper, dominer) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imparfait : 3 masculin singulier suffixe יִתְקְפוֺ

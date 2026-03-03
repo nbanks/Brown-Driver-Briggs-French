@@ -33,7 +33,7 @@ Za 11,1
 Es 37,24 =
 2 R 19,23 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 cèdre (arbre),
@@ -59,7 +59,7 @@ d'individus Jr
 Ps 92,13 ; Ez 17,22 ; Ez 17,23 comparer d'autres exemples d'emploi figuré ci-dessus ; comparaison
 de la droiture et de la force Jb 40,17 (queue de l'hippopotame).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 bois de cèdre pour la construction, עֲצֵי אֲרָזִים
@@ -90,7 +90,7 @@ Es 44,14 ;
 Ez 27,5 ; Esd
 3,7 ci-dessus)
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 bois de cèdre utilisé dans les purifications, avec עֵץ

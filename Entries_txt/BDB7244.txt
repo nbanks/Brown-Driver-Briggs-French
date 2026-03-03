@@ -4,7 +4,7 @@ Biblical Hebrew
 [צָרַע] verb
 denominative, only in passive, be struck with leprosy, leprous; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Participle Passive
@@ -18,7 +18,7 @@ P
 H
 ).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pu`al
 Participle

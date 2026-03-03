@@ -5,7 +5,7 @@ II. [בָּעַר] verb
 denominative
 be brutish —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect
@@ -16,7 +16,7 @@ Jer 10:8 (||
 Ps 94:8 (||
 כסילים); of inhuman, cruel, barbarous men Ezek 21:36.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect
@@ -38,14 +38,14 @@ Jer 10:14
 = Jer 51:17
 rather stupefied (by spectacle Jer 10:13 = Jer 51:16).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el
 Perfect
 וּבִעֵר consecutive Exod 22:4
 feed, graze (בשׂדה אחר).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hiph`il
 Imperfect

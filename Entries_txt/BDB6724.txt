@@ -10,7 +10,7 @@ break, crush; Ethiopic
 shatter; Syriac
 [placeholder4276: Placeholders/4276.gif] is be joyous, hilarious); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 plural פָּֽצְחוּ רִנָּה
@@ -33,7 +33,7 @@ Kt
 Isa 52:9; Ps 98:4 (both +
 רַנְּנוּ).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 break bones in pieces: Perfect 3 plural פִּצֵּ֑חוּ

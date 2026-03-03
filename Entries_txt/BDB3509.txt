@@ -10,7 +10,7 @@ unite,
 [placeholder2205: Placeholders/2205.gif]
 set alone) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect 3 feminine singular Gen 49:6
@@ -19,7 +19,7 @@ Imperfect 3 feminine singular Gen 49:6
 תָּבאֹ נַפְשִׁי); 2 feminine singular Isa 14:20
 לֹא תֵחַד אִתָּם בִּקְבוּרָה.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Imperative

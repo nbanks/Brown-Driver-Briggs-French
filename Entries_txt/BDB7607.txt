@@ -15,7 +15,7 @@ incise; Syriac
 nail [see also Biblical Aramaic]; compare Frä^35 f.^
 ); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect 3 masculine plural יִקְרְצועַֿיִן
@@ -36,7 +36,7 @@ Prov 16:30
 pinching his lips (i.e. compressing, as in Late Hebrew, or biting, gnawing, compare
 Assyrian).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pu`al
 Perfect 1 singular מֵחֹמֶר קֹרַצְתִּי

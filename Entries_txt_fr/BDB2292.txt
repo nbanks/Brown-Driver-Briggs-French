@@ -4,7 +4,7 @@ hébreu biblique
 זוּ
 pronom (poésie), indéclinable.
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1. un
 démonstratif
 Ha 1,11
@@ -16,7 +16,7 @@ ceci sa force, Ps 12,8
 ces deux choses etc. (mais : mieux (Wickes^Post. Acc. 64^) שְׁ֖תַּיִם
 ז֣וּ deux choses (il y a) que etc. : voir 2).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2
 un
 relatif, Ex 15,13

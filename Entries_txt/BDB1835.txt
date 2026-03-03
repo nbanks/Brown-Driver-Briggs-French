@@ -4,7 +4,7 @@ Biblical Hebrew
 [דָּגָה] verb
 multiply, increase (intransitive); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect 3 masculine plural וְיִדְגּוּ לָרֹב בקרב הארץ

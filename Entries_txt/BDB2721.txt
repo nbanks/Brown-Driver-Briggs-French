@@ -18,7 +18,7 @@ Gen 47:9 +;
 Ps 103:4 (
 Ges^«GKC:91»§ 91^ (2) R. 2), etc.; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 life: physical Gen 27:46; Exod 1:14 (
@@ -117,7 +117,7 @@ Gen 2:7; Gen 7:22 (
 J
 ).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 life: as welfare and happiness in king's presence Prov 16:15 as consisting of earthly felicity
@@ -179,7 +179,7 @@ Prov 15:31
 Isa 4:3
 written unto life.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 sustenance, maintenance:

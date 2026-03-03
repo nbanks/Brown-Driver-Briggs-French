@@ -55,7 +55,7 @@ quant à laquelle, le vent la chasse = que le vent chasse, etc. ; et ainsi אֲ�
 Parfois aussi (voir ci-dessous) la relation qu'il exprime est spécifiquement temporelle, locale, causale, etc. Plus
 particulièrement
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 il inclut son antécédent pronominal, que ce soit au nominatif ou aux cas obliques, comme Nb 22,6
@@ -79,7 +79,7 @@ que ceux que ; Lv 27,24
 כַּאֲשֶׁר נשֶׁא בוֺ
 comme celui contre qui il y a un créancier.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 les cas de אֲשֶׁר suivi d'un affixe pronominal, ou de שָׁם,
@@ -119,7 +119,7 @@ Ps 16,3
 )
 sont les nobles, en qui, » etc.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 parfois (quoique rarement) l'adjoint de définition est un pronom de 1re ou 2e personne aussi bien que de 3e
@@ -143,7 +143,7 @@ car
 vous qui avez vu les Égyptiens aujourd'hui, — vous ne les verrez plus jamais ! (comparer
 Ps 41,9).
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 l'adjoint pronominal de définition est supprimé
@@ -308,7 +308,7 @@ pronom, comparer Dt
 (
 זֶה) :23 + ; comparer 2 S 11,16 ; 2 R 17,12 ; 2 R 21,4.
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 5.
 אֲשֶׁר
@@ -317,7 +317,7 @@ parfois en poésie = celui qui, un homme qui (des hommes qui
 Jb 5,5 ; Jb 9,5 (
 Hi) Jb 15,17.
 
-@@SPLIT:sense@@
+## SPLIT 6 sense
 
 6.
 אֲשֶׁר
@@ -359,7 +359,7 @@ que je
 prononce
 sur vous (comme) une lamentation.
 
-@@SPLIT:sense@@
+## SPLIT 7 sense
 
 7.
 
@@ -472,7 +472,7 @@ avec (comme || Jr 52,14) ; 2 Ch 34,22 lire וַאֲשֶׁר אָמַר הַמֶ�
 ) et ceux que le roi avait désignés (abrégé de 2 R 22,14) ; comparer Ew^§
 292 a, b^ avec note.
 
-@@SPLIT:sense@@
+## SPLIT 8 sense
 
 8.
 

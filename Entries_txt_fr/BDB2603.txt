@@ -6,11 +6,11 @@ nom masculin^
 2 R 14,9
 ^
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 ronce, buisson épineux.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 crochet, anneau, entrave ;
 — ׳
@@ -22,7 +22,7 @@ Ct 2,2
 חֹחִים
 2 Ch 33,11 —
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 1.
 
 a.
@@ -50,7 +50,7 @@ trous, comparer 1 S 14,11 voir ci-dessous III. חרר ; || מְעָרוֺת,
 ici ἐν τ. μάνδραις ; 1 S 14,11
 ἐκ τ. τρωγλῶν.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 2. tardif,
 
 a.

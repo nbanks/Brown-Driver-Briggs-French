@@ -33,7 +33,7 @@ Isa 2:3 +;
 Ps 119:15 +
 etc.; — way, path (in Hebrew mostly poetry)
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. literal
 Judg 5:6 (twice in verse) song of Deborah (alone = highways, opposed to
@@ -60,7 +60,7 @@ Ps 8:9
 רוּץ אֹרַח
 run along a path, figurative of sun Ps 19:6.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 figurative
@@ -91,7 +91,7 @@ irƒit lâ târat
 , land without return, see
 Jr^10^; Jr^65^.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 figurative
@@ -169,7 +169,7 @@ note also אֵידָם
 א
 their destructive ways, i.e. ways that cause destruction Job 30:12 (compare Job 19:12).
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4. by metonym traveler, wayfarer
 Job 31:32

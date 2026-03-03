@@ -7,7 +7,7 @@ Pi`el) free from stones (appears like denominative, but noun unknown; Late Hebre
 סְקִילָא
 execution by stoning); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 2 masculine singular suffix וּסְקַלְתּוֺ consecutive Deut 13:11 3 masculine plural
@@ -44,7 +44,7 @@ Deut 22:24;
 
 Deut 1:13.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Imperfect 3 masculine singular יִסָּקֵל
@@ -58,7 +58,7 @@ J
 E
 ).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el
 Imperfect 3 masculine singular יְסַקֵּל
@@ -98,7 +98,7 @@ Isa
 62:10
 free (highway) from stones.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Pu`al
 Perfect

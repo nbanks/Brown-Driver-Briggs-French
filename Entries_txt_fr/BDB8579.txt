@@ -11,7 +11,7 @@ corrompre ; peut-être aussi assyrien
 šidê
 , dons, Dl^WB 643^) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imparfait 2 féminin singulier, accusatif de personne וַתִּשְׁחֳדִי אוֺתָם

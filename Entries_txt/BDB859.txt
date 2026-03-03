@@ -8,7 +8,7 @@ come (in Hebrew only poetry) (Arabic
 DHM^ZMG 1875, 597; 1888, 343^, Aramaic אֲתָא,
 [placeholder474: Placeholders/474.gif]) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -53,7 +53,7 @@ by infinitive), of calamity Prov 1:27; Job 3:25
 come upon, with suffix, of dominion Mic 4:8 (followed by עַד). Participle plural
 feminine as substantive things to come, future things Isa 41:23; Isa 44:7; Isa 45:11.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 bring,

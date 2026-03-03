@@ -11,7 +11,7 @@ Isa 38:8 +, suffix
 מַעֲלֹתָו֯
 Amos 9:6, etc.; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 step, stair
@@ -24,7 +24,7 @@ Ezek 43:17
 (prescribed); of house 2Kgs 9:13, of throne 1Kgs 10:19; 1Kgs 10:20; 2Chr 9:18; 2Chr 9:19 to the city of David
 Neh 3:15; Neh 12:37.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 steps (forming sun-dial, compare Di^Is^) 2Kgs 20:9
@@ -32,20 +32,20 @@ steps (forming sun-dial, compare Di^Is^) 2Kgs 20:9
 2Kgs 20:10 (twice in verse); 2Kgs 20:11 (3 t. in verse) = Isa 38:8 (5 t.
 in verse)
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 stories
 of heaven
 Amos 9:6.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 ascent, מִבָּבֶל
 Ezra 7:9.
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 5. (ל)הַמַּעֲלוֺת
 שִׁיר song of ascents, to the three great pilgrim feasts, i.e. to be sung on way up to

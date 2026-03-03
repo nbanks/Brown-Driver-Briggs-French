@@ -17,7 +17,7 @@ suffixe שִׁרֶ֫יךָ
 Am 5,23, etc. ;
 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. chant lyrique, + מָשָׁל
 1 R 5,12,
@@ -48,7 +48,7 @@ le chagrin Pr 25,20
 Qo 12,4
 chanteuses (probablement les oiseaux).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. chant religieux, dans le culte, || תפלה
 Ps 42,9 habituellement
@@ -81,7 +81,7 @@ Ps 45,1 (׳
 שׁ à l'origine seul dans tous sauf Ps 30,1 ; Ps 92,1 ; Ps 108,1, voir Br^JBL xviii (1899),
 138^).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. spécifiquement chant des chœurs lévitiques, avec accompagnement musical, 1 Ch 6,16 ; 1 Ch 6,17 ; 1 Ch 13,8 (lire ainsi
 aussi || 2 S 6,5 pour

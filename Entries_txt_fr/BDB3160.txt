@@ -10,7 +10,7 @@ une entaille, chose coupée, instrument tranchant ; — pluriel construit חֲר
 חֲרִצֵי
 2 S 12,31 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 הֶחָלָב
 ׳
@@ -18,7 +18,7 @@ une entaille, chose coupée, instrument tranchant ; — pluriel construit חֲר
 1 S 17,18
 tranches de lait, c.-à-d. fromages.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 instrument tranchant de fer, 2 S 12,31 = 1 Ch 20,3
 הַבַּרְזֶל וּבַמְּגֵרָוֺת

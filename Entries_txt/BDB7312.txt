@@ -18,7 +18,7 @@ feminine plural קַדְמֹנִיּוֺת
 Isa 43:18;
 Mal 3:4 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 former, ancient, ׳
@@ -35,7 +35,7 @@ Isa 43:18
 1Sam 24:14
 a proverb of the ancients.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 eastern: of שַׁעַר

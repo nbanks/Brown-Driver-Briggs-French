@@ -11,7 +11,7 @@ veni, age!
 Di^§ 160. 1 Lex:675^
 Kö^ii. 244^); — attached:
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. to the imperative, especially in colloquial style, when it expresses an entreaty or admonition, as
 Gen 12:13
@@ -25,13 +25,13 @@ to a substantive, or (accents) prefixed to a verb, Num 12:13
 Di
 אַלנָֿא; see 3.b.).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. to the perfect with waw consecutive, in a precative sense (Dr^§ 119^
 δ) Gen
 40:14.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. to the imperfect, when leave is asked, or a prayer or desire expressed;
 
@@ -79,7 +79,7 @@ ironically Isa
 אַלנָֿא יִחַר
 לַאדֹנָי, Gen 37:27; Num 12:12.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4. joined to conjunctions and interjections:
 

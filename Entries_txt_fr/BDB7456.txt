@@ -5,7 +5,7 @@ hébreu biblique
 se moquer, railler (Qo 11,4
 תקלס, texte par Adler^JQ xii (1900), 470^) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pi`el
 Infinitif construit
@@ -24,7 +24,7 @@ collecter, lire לִקְבֹּץ
 Gr Toy Krae (ou לְלַקֵּט
 , Co).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hithpa`el
 se moquer, railler, avec ב personne, Imparfait 3 masculin singulier

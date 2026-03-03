@@ -15,13 +15,13 @@ Dn 5,20 pluriel
 construit רוּחֵי
 Dn 7,2 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 vent
 Dn 2,35 ; Dn 7,2.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 esprit :

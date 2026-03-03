@@ -4,7 +4,7 @@ hébreu biblique
 אֱדוֺם ( אֱדֹם
 Ez 25,14)
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 nom propre, masculin
 1.
 Édom (nom d'un dieu ? voir Sta^G. 1, 121^
@@ -22,7 +22,7 @@ Gn 36,1 ; Gn 36,8 ; Gn 36,19 (
 P
 ).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 collectif (masculin mais féminin
 Ml 1,4)
@@ -62,7 +62,7 @@ Ps 137,7
 בַּת א
 Lm 4,21 ; Lm 4,22
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3.
 pays d'Édom, Idumée (f.
 Ez 32,29

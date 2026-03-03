@@ -3,7 +3,7 @@ araméen biblique
 
 [בְּדַר] verbe
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pa'el
 disperser (de même

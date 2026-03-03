@@ -7,7 +7,7 @@ sign, mark, describe with a mark (so Ges (who compares
 not
 W)) only
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Hithpa`el
 Perfect

@@ -4,14 +4,14 @@ Biblical Hebrew
 II. שַׁמָּה
 proper name, masculine
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 in Edom
 Gen 36:13; Gen 36:17; 1Chr 1:37 usually
 Σομε.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. third son of Jesse 1Sam 16:9; 1Sam 17:13, Σαμ(μ)α,
 
@@ -23,7 +23,7 @@ Gen 36:13; Gen 36:17; 1Chr 1:37 usually
 שִׁמְעָא
 , שִׁמְעָה, שִׁמְעִי.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 Σαμαια(ς), etc., heroes of David:

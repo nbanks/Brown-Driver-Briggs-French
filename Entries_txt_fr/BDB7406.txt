@@ -8,7 +8,7 @@ fumée, odeur de sacrifice (brûlé), encens ; — ׳
 Ez 16,18 ;
 Ez 23,41 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 fumée odorante du sacrifice, || מנחה
@@ -21,7 +21,7 @@ Ps 66,15,
 לְהַקְטִיר ק
 1 S 2,28 (?).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 encens, (ה)סמים
@@ -79,7 +79,7 @@ Lv 4,7, ׳
 Ex 30,27
 + 6 t.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 parfum, || שֶׁמֶן

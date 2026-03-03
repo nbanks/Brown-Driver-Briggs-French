@@ -23,7 +23,7 @@ t., construct שְׁמֹנַת
 Num 2:24 + 3 t.
 (cases of 8 + 10 = 18 are additional, see below); plural שְׁמֹנִים, 80, see below: —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. without other number:
 
@@ -66,7 +66,7 @@ Gen 21:4,
 שׁ
 Num 7:8.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. 8 + 10 = 18:
 
@@ -107,7 +107,7 @@ Judg 20:44
 שְׁמֹנַת עָשָׂר אֶלֶף
 Judg 20:25.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. with other numerals:
 

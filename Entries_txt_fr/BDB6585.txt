@@ -3,7 +3,7 @@ hébreu biblique
 
 [פָּחַח] verbe
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Hiph`il
 dénominatif
 prendre au piège ; Infinitif absolu

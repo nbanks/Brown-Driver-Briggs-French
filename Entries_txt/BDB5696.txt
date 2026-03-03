@@ -32,7 +32,7 @@ GFM read ׳
 construct סֹפְרֵי
 Esth 3:12; Esth 8:9 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 
@@ -82,7 +82,7 @@ knows ׳
 1Chr 27:32
 = man of learning.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. professional class of learned men, 'scribes' able to read and write
 Jer 36:26;
@@ -103,7 +103,7 @@ especially learned in the law, and assuming to issue its precepts, עֵט שֶׁ
 סֹפְרִים
 Jer 8:8.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. specifically of Ezra, at once priest (כֹּהֵן) and learned
 in

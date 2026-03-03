@@ -31,7 +31,7 @@ Diplom^.) = Arabic
 [placeholder1116: Placeholders/1116.gif]
 long time, age) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal in Infinitive
 מִדּוּר באהלירֿשׁע

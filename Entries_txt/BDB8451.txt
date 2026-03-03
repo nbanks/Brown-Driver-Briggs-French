@@ -12,7 +12,7 @@ cut off, interrupt; Late Hebrew has שֶׁבֶת
 neglect, etc., Aramaic שִׁבְתָּא
 cost of nealect); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal_27_
 Perfect 3 masculine singular ׳
@@ -68,7 +68,7 @@ H
 שָׁבַת
 ] verb denominative below
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect 3 masculine singular נִשְׁבַּת
@@ -80,7 +80,7 @@ Ezek 6:6
 Isa 17:3
 .
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il_40_
 Perfect 3 masculine singular הִשְׁבִּית

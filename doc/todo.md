@@ -99,48 +99,16 @@ BDB8185 chunk 1/4   84KB stem
 BDB8502 chunk 1/6   81KB stem
 ```
 
-**Approach — HTML-only sub-splitting with letter suffixes (3a, 3b, 3c):**
+**Approach — implemented with dot notation (3.1, 3.2, 3.3):**
 
-The txt_fr chunks are tied to `@@SPLIT` markers used by llm_verify and must
-not change. Sub-splitting happens only on the HTML side:
-
-1. **In `split_entry.py`**, add a `subsplit_html(chunk, max_bytes=30000)`
-   function. For any chunk exceeding `max_bytes`, find nested `div.sense` or
-   `div.subsense` boundaries (using the existing `_find_div_spans` machinery)
-   and split there. Return a list of sub-chunks.
-
-2. **In `llm_html_assemble.py`**, after pairing HTML and txt_fr chunks, check
-   each HTML chunk's size. If it exceeds the threshold, sub-split it. Each
-   sub-chunk gets sent to the LLM with the **same full txt_fr chunk** — the
-   LLM matches the relevant French text to its HTML fragment.
-
-3. **Numbering:** sub-chunks use letter suffixes: if chunk 3 splits into 3
-   pieces, they become 3a, 3b, 3c in logging/debug output. This makes it
-   clear they belong to the same logical chunk.
-
-4. **Reassembly:** concatenate sub-chunk outputs (3a + 3b + 3c) back into a
-   single chunk 3 output. From that point on, validation sees the same N
-   chunks it always did — the sub-splitting is invisible to `validate_html`.
-
-```
-txt_fr chunks:   [0]  [1]  [2]      [3]         [4]  [5]
-html chunks:     [0]  [1]  [2]  [3a][3b][3c]    [4]  [5]
-                                  ↓   ↓   ↓
-                               same txt_fr #3
-                                  ↓   ↓   ↓
-                               concatenate → chunk 3 output
-```
-
-**Key constraint:** the nested divs in oversized chunks are always
-`div.sense` or `div.subsense` (confirmed for the top 20 offenders). These
-are the same div classes that `split_html` already knows how to find. The
-sub-splitter just applies the same logic one level deeper within a chunk.
-
-**What NOT to change:**
-- `split_txt` — unchanged, same `@@SPLIT`-based chunks
-- `validate_html` — unchanged, sees the same chunk count
-- `llm_verify` — unchanged, operates on txt files only
-- `extract_txt.py` — unchanged, same `@@SPLIT` markers
+- [x] `subsplit_html()` added to `split_entry.py` — recursive splitting at
+  div.sense/div.subsense boundaries, unlimited depth, 10KB target
+- [x] Split marker format changed from `@@SPLIT:type@@` to `## SPLIT N type`
+  (numbered, markdown-style). Both `Entries_txt/` and `Entries_txt_fr/` converted.
+- [x] All scripts and tests updated to new format.
+- [ ] Add `## SPLIT N.M type` sub-split markers to txt/txt_fr for entries
+  that need deeper splitting
+- [ ] Integrate sub-splitting into `llm_html_assemble.py`
 
 ## Data fixes
 

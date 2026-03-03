@@ -11,7 +11,7 @@ Lag^BN 45^ et autres ; araméen שִׁיגְדָּא,
 [placeholder5701: Placeholders/5701.gif], d'où éthiopien
 [placeholder5702: Placeholders/5702.gif] comparer Nö^M 39^ ; comparer Löw^No. 319^) ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 amande, c.-à-d. le fruit, pluriel שְׁקֵדִים
@@ -22,7 +22,7 @@ J
 P
 ).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 amandier

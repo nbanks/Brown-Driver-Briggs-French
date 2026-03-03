@@ -4,7 +4,7 @@ Biblical Hebrew
 עֵדְנָה
 proper name, masculine
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 a prince of Judah
@@ -14,7 +14,7 @@ a prince of Judah
 
 . Εδνα(α)ς
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. a Manassite 1Chr 12:21, probably (reading׳
 ע), with Manuscripts, for עַדְנַח; van d. H.

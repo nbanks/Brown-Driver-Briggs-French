@@ -4,7 +4,7 @@ Biblical Hebrew
 אָפֵס (compare פָּסַס) verb
 cease, fail, come to an end: only
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular; Gen 47:15; Gen 47:16 (of money, כֶּסֶף), Isa 16:4 (extortioner: || כָּלָה

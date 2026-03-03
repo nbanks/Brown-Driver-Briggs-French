@@ -12,7 +12,7 @@ Job 16:12,
 Deut 31:27,
 etc.; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 back of neck of fleeing foe ׳
@@ -49,7 +49,7 @@ Jer 2:27; Jer 32:33
 Jer 18:17
 with the back and not the face will I look at them.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 figurative in ׳
@@ -70,7 +70,7 @@ Isa 48:4 (||
 קָשֶׁה אָ֑תָּה); ׳
 הִקְשָׁה ע of individual 2Chr 36:13; Prov 29:1.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. of bird: nip its head מִמּוּל
 עָרְפּוֺ

@@ -10,7 +10,7 @@ DHM^ZMG 1883, 375, ||^ araméen בְּהַת, syriaque
 [placeholder539: Placeholders/539.gif],
 [placeholder540: Placeholders/540.gif] signifient disperser) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Parfait
@@ -90,7 +90,7 @@ GFM), 2 R 2,17
 ;
 2 R 8,11.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Polel
 Parfait
@@ -104,11 +104,11 @@ J
 pourquoi ses chars tardent-ils à venir ?
 Jg 5,28.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 1.
 הֱבִישׁוֺתָ
@@ -184,7 +184,7 @@ Qr
 
 Jr 10,14 = Jr 51,17.
 
-@@SPLIT:stem@@
+## SPLIT 5 stem
 
 Hithpa`el
 Imparfait

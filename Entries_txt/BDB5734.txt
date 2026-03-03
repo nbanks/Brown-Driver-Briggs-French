@@ -34,7 +34,7 @@ Gerber^Verb. Denom. 14 ff.^ thinks be slave, serve (Qal) and
 enslave (Hiph`il) are denominative, compare also Nö^ZMG xl
 (1886), 741^); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal_272_
 Perfect 3 masculine singular ׳
@@ -301,7 +301,7 @@ accusative omitted Num 4:24; Num 4:26; Num 4:37; Num 4:41; Num 8:15 (but
 
 עבדה), Num 8:25; Num 18:7.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect 3 masculine singular נֶעְבָּ֑ד
@@ -324,7 +324,7 @@ field (Hi); a king that maketh himself
 servant to the field (devoted to agriculture), De^see
 Commentaries^, especially De.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pual
 Perfect 3 masculine singular עֻבַּד
@@ -337,7 +337,7 @@ was worked with captives
 Isa 14:3
 .
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hiph`il
 Perfect 3 masculine singular הֶעֱבִיד
@@ -392,7 +392,7 @@ Hiph`il near the end).
 cause to serve God 2Chr 34:33
 .
 
-@@SPLIT:stem@@
+## SPLIT 5 stem
 
 Hoph`al
 Imperfect 2 masculine singular suffix תָּֽעָבְדֵם

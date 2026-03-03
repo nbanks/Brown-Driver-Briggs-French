@@ -11,7 +11,7 @@ war, battle; Syriac
 [placeholder1949: Placeholders/1949.gif]
 smite, slay) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperative masculine singular חֲרֹב
@@ -19,7 +19,7 @@ Jer 50:21
 attack (+ וְהַחֲרֵם אַחֲרֵיהֶם); masculine plural חִרְבוּ Jer 50:27 object
 כָּלפָּֿרֶיהָ, figurative of men of Babylon.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect 3 plural נֶחֶרְבוּ המלכים (see
@@ -28,7 +28,7 @@ Hoph`al) הָחֳרֵב
 the kings have attacked one another, fought together (|| וַיַּכּוּ אִישׁ
 אֶתרֵֿעֵהוּ).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hoph`al
 Infinitive absolute

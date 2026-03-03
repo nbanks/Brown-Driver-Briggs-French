@@ -8,7 +8,7 @@ choose (compare Aramaic בְּחַר, Syriac
 bêru
 (√ באר):3 Dl^Pr 76^) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -268,7 +268,7 @@ Rab Calv
 AV
 .
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 נִבְחַר
@@ -304,7 +304,7 @@ choicer (more acceptable) to Yahweh than peace-offering
 Prov 21:3
 .
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pu`al
 יְבֻחַר

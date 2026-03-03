@@ -11,7 +11,7 @@ CIS^i. 3, 17^; Sabean suffix הרתהמו
 DHM^ZMG 1876, 673^); — ׳
 ה absolute Josh 17:18 +; with article הָהָר
 Exod 3:12 +; with
-ָ  ה locative הֶ֫רָה
+ָ ה locative הֶ֫רָה
 Gen 14:10,
 הָהָ֫רָה
 Gen 12:8 + 12 t.;
@@ -48,7 +48,7 @@ Ezek 35:8; Mal 1:3
 הֲרָרֶיהָ
 Deut 8:9 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 mountain, hill (these often not sharply distinguished, but):
@@ -592,7 +592,7 @@ less permanent & changeless than Yahweh's kindness (|| גְּבָעוֺת); הַ
 Jer 51:25
 & הַר שְׂרֵפָה Jer 51:25 figurative of Babylon.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 hill-country, mountain-region,

@@ -5,7 +5,7 @@ I. שֹׁד, שׁוֺד (voir ci-dessous) nom masculin
 violence, ravage, dévastation, ruine ; — ׳
 שׁ absolu Os 7,13 + ; construit Es 22,4 + ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 violence, ravage, comme péché social : חָמָס
@@ -40,7 +40,7 @@ avec génitif objet עֲנִיִּים
 שׁ
 Ps 12,6.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 dévastation, ruine, pour la nation Os 7,13, כְּשֹׁד מִשַּׁדַּי יָבוֺא

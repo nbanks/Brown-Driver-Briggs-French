@@ -17,7 +17,7 @@ Dan 8:3 + 2 t.;
 גְּבֹהֹת
 Deut 28:52 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 high, lofty, tall, e.g. tree Ezek 17:24, tower Isa 2:15; Zeph 1:16, mountain Gen 7:19; Ps 104:18; Isa 40:9; Isa 57:7; Ezek 17:22
@@ -45,7 +45,7 @@ gate Jer 51:58
 altar
 Ezek 41:22 high things Job 41:26; Eccl 12:5.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 exalted in station
@@ -63,7 +63,7 @@ De
 Now and others higher (earthly), potentates
 over them.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 haughty
@@ -81,7 +81,7 @@ Prov 16:5
 ג
 Eccl 7:8.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 noun [masculine]

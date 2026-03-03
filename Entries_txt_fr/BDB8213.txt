@@ -12,7 +12,7 @@ Gn 44,31 suffixe
 Gn 42,38 ; Gn 44,29, etc. ;
 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 cheveux gris, tête chenue
 Os 7,9
@@ -37,7 +37,7 @@ Es 46,4, +
 id. Ps 71,18
 (dans ceux-ci transition vers le suivant) ; figuré de la mer Jb 41,24.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 vieillesse, טוֺבָה
 ׳

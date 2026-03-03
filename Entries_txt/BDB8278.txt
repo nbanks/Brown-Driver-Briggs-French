@@ -20,7 +20,7 @@ Lev 14:8 +,
 שְׂעָרָהּ Lev 14:20, שְׂעָרָהֿ Lev 14:4 (Ges
 ^«GKC:91e»§ 91e^); — hair:
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. of animals, as material, ׳
 אַדֶּרֶת שׂ
@@ -32,7 +32,7 @@ probably also ׳
 2Kgs 1:8 i.e. a man
 with a garment of skin.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. human: ראֹשׁוֺ
 ׳

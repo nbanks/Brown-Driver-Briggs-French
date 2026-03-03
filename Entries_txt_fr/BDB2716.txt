@@ -16,7 +16,7 @@ Gn 1,20 + ; pluriel
 חַיִּים
 Ps 116,9 + ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 
 a.
@@ -415,7 +415,7 @@ P
 
 ; Ct 4,15.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2. (douteux) vif, actif :
 אישׁ חַי
 un homme actif
@@ -435,7 +435,7 @@ Ew Hu Che et d'autres lisent
 
 חִנָּם, || שׁקר).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3.
 revivifiant :
 כָּעֵת חַיָּה

@@ -6,12 +6,12 @@ noun masculine^
 Job 16:8
 ^
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 lying.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 leanness;
@@ -25,7 +25,7 @@ Job 16:8 plural
 suffix כַּחֲשֵׁיהֶם
 Hos 7:3 —
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 1.
 lying, אֲכַלְתֶּם
@@ -40,7 +40,7 @@ Nah 3:1
 of lying (and) robbery it is full; Ps 59:13 (||
 אָלָה).
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 2. of Job's affliction Job 16:8
 my leanness hath risen up against me (compare Ps 109:24

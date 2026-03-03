@@ -15,7 +15,7 @@ Job 26:9; Job 37:15
 plural עֲנִים
 Jer 4:13 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 cloud-mass:
@@ -96,7 +96,7 @@ compare Ezek 30:3
 (all of day of ׳
 ע).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 קְטֹרֶת

@@ -11,7 +11,7 @@ haut, élevé ; éthiopien
 [placeholder4067: Placeholders/4067.gif]
 monter ; hébreu tardif עֲרוּגָה = hébreu biblique) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Imparfait 3 féminin singulier תַּעֲרֹג
 Ps 42,2 (du cerf,

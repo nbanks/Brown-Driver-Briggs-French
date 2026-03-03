@@ -6,12 +6,12 @@ noun masculine^
 Ps 109:6
 ^
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 adversary.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 Satan
@@ -23,7 +23,7 @@ Satan
 Satan, Ethiopic
 [placeholder5241: Placeholders/5241.gif]:); —
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 1.
 adversary, in general, personal or national; (ל) ׳
@@ -52,7 +52,7 @@ E
 הֵקִים שׂ, subject God 1Kgs 11:14; 1Kgs 11:23, compare Ps 109:6 (|| רָשָׁע
 ).
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 2.
 superhuman adversary, ׳

@@ -5,7 +5,7 @@ I. שֹׁד, שׁוֺד (see below) noun masculine
 violence, havoc, devastation, ruin; — ׳
 שׁ absolute Hos 7:13 +; construct Isa 22:4 +; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 violence, havoc, as social sin: חָמָס
@@ -40,7 +40,7 @@ with genitive object עֲנִיִּים
 שׁ
 Ps 12:6.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 devastation, ruin, for nation Hos 7:13, כְּשֹׁד מִשַּׁדַּי יָבוֺא

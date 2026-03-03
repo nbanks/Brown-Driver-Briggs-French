@@ -9,7 +9,7 @@ contract; in that case ׳
 ס for ׳
 שׂ); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular מִפַּחְדְּךָ בְשָׂרִי
@@ -18,7 +18,7 @@ Perfect 3 masculine singular מִפַּחְדְּךָ בְשָׂרִי
 Ps 119:20
 from fear of thee did my flesh bristle up, 'creep.'
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Imperfect

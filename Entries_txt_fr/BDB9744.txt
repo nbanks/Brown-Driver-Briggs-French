@@ -7,7 +7,7 @@ détruire (syriaque
 שׂתר
 ) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pe`al
 Parfait 3 masculin singulier suffixe סַתְרֵהּ

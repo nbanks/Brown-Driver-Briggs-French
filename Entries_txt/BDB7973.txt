@@ -11,7 +11,7 @@ murmur, complain, compare Jewish-Aramaic (not
 
 )); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect 3 masculine singular יָרוּן (Ges
@@ -72,7 +72,7 @@ Che^Hpt.^
 3.
 cry aloud, in summons, exhortation (of wisdom) Prov 1:20 (|| נָתַן קוֺל), Prov 8:3.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Perfect 3 plural consecutive וְרִנְּנוּ
@@ -119,14 +119,14 @@ Ps 96:12 (||
 Ps 71:23 (||
 זִמֵּר).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pu`al
 Imperfect 3 masculine singular impersonal לֹא יְרֻנָּן
 Isa 16:10
 no ringing cry shall be given (|| יְרֹעַ֑ע).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hiph`il
 Imperfect
@@ -145,7 +145,7 @@ Deut 32:43 (see
 Dr; compare
 Pi`el). —
 
-@@SPLIT:stem@@
+## SPLIT 5 stem
 
 Hithpo`lel
 Ps 78:65

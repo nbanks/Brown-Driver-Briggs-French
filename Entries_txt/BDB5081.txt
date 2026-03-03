@@ -12,7 +12,7 @@ Exod 35:22
 plural construct תְּנוּפֹת
 Num 18:11 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 a swinging, brandishing, ׳
@@ -27,7 +27,7 @@ the brandishing of
 Isa 30:32
 battles of brandishing (brandished weapons).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 

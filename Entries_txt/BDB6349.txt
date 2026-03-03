@@ -16,7 +16,7 @@ mix, exchange, pledge — but quite uncertain; compare
 Buhl^Lex^
 Lag^BN 203^); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular ׳
@@ -75,7 +75,7 @@ Ezek 27:9
 ; Ezek
 27:27.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hithpa`el
 1. reciprocal: Imperative

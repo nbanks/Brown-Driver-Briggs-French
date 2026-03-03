@@ -8,7 +8,7 @@ rire (arabe
 שׂחק
 ) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait 3 féminin singulier צָֽחֲקָה
 Gn 18,13, etc. ;
@@ -29,7 +29,7 @@ P
 ) ; avec ל
 de, au sujet de, Gn 21,6.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Pi`el
 Imparfait
 וַיְצַחֵק

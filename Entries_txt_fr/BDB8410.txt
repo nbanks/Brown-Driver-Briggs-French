@@ -10,12 +10,12 @@ Ez 21,15
 21,18
 ^ mais corrompu) :
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 bâton, verge, massue, sceptre.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 tribu ; — ׳
@@ -31,7 +31,7 @@ Gn 49,16 +, suffixe
 Dt 12,14 +,
 etc. ; —
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 1.
 
@@ -122,7 +122,7 @@ Pr 22,8
 מַטֶּה
 , מַקֵּל, מִשְׁעֶנֶת.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 2. 145 : tribu (synonyme מַטֶּה, q. v. 3, p. 641:b),
 surtout

@@ -4,7 +4,7 @@ Biblical Hebrew
 II. נָחָשׁ
 proper name, masculine
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 king of Ammon
@@ -18,7 +18,7 @@ also 2Sam 17:27
 
 Ναας.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. father of Abigail and Zeruiah 2Sam 17:25, si vera lectio:
 
@@ -36,7 +36,7 @@ defend^
 נחשׁ; dubious We^Sm^
 HPS.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. giving name to a city, ׳
 עִיר נ

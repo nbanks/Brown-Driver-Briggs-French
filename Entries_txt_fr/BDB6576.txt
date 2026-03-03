@@ -14,7 +14,7 @@ Jb 13,11 ;
 etc. ; pluriel פְּחָדִים
 Jb 15,21 : —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 effroi, ׳
@@ -43,7 +43,7 @@ Ps 14,5 + (voir
 פָּחַד
 ) ; c. génitif sujet Pr 1,26 ; Pr 1,27 (tous deux || אֵיד) Dt 28,67.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. = objet d'effroi
 Ps 31,12 ; Ps 36,2,
@@ -64,7 +64,7 @@ bruit de terreurs ; ׳
 Jb 22,10 ;
 Pr 3,25.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. comme désignation de la divinité יִצְחָק
 ׳

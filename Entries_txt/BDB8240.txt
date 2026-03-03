@@ -10,7 +10,7 @@ Job 17:4 suffix
 שִׂכְלוֺ
 Prov 12:8; Dan 8:25 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 prudence, good sense:
@@ -18,7 +18,7 @@ prudence, good sense:
 טוֺבַת שׂ woman of good sense
 1Sam 25:3.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 insight, understanding: || בִינָה
@@ -54,7 +54,7 @@ Neh 8:8 (||
 הֵבִין) set forth (the) understanding (i.e. the
 meaning).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. bad sense, cunning, craft, Dan 8:25.
 

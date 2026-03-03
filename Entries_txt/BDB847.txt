@@ -5,7 +5,7 @@ Biblical Hebrew
 [placeholder462: Placeholders/462.gif]
 found, establish)
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Hithpo`el
 וְהִתְאשָׁ֑שׁוּ

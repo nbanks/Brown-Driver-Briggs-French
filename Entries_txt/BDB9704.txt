@@ -8,7 +8,7 @@ descend (
 
 Syriac; see Biblical Hebrew (in poetry, and late)); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pe`al
 Participle
@@ -16,7 +16,7 @@ Participle
 Dan 4:10; Dan 4:20 (both
 מִןשְֿׁמַיָּא).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Haph`el
 deposit, ב location: Imperfect 2 masculine singular
@@ -28,7 +28,7 @@ d)) Ezra 5:15 (accusative of thing); Passive participle plural
 Ezra 6:1 (were)
 deposited.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hoph`al (W^CG 225^) be deposed:
 Perfect 3 masculine singular הָנְחַת

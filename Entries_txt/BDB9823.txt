@@ -4,7 +4,7 @@ Biblical Aramaic
 [פְּרַק] verb
 tear away, break off (see Biblical Hebrew [פָּרַק]); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pe`al
 Imperative masculine singular פְּרֻק

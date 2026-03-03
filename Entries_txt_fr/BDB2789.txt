@@ -7,14 +7,14 @@ I. [חָלַם] verbe
 חֲלַם
 presser fermement ensemble) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Imparfait
 יַחְלְמוּ בְנֵיהֶם
 Jb 39,4
 leurs petits sont en bonne santé.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Hiph`il
 Imparfait 2 masculin singulier וְתַחֲלִימֵנִי
 Es 38,16

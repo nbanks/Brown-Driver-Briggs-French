@@ -7,7 +7,7 @@ pour out (see Biblical Hebrew I.
 נָסַךְ
 ); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pa`el (more generally): Infinitive
 לְנַסָּכָה לֵהּ

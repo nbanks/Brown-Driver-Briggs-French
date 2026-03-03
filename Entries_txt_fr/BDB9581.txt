@@ -10,7 +10,7 @@ pouvoir (Daniel) (
 יָכֹל
 ) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Pe`al
 
 1. avec Infinitif pouvoir faire : Parfait 3 masculin

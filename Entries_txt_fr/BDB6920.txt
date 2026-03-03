@@ -10,7 +10,7 @@ tenir fermement, saisir ; éthiopien
 [placeholder4418: Placeholders/4418.gif]
 saisir fermement) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imparfait 3 masculin singulier וַיִּצְבָּטלָֿהּ

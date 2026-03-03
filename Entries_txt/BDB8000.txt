@@ -18,7 +18,7 @@ friendship is from Biblical Hebrew
 רֵעַ
 ); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperative masculine singular וּרְעֵה אֱמוּנָה
@@ -44,7 +44,7 @@ Prov 29:3 (
 Thes and others think these figurative from I. רעה, see
 2.b.).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hithpa`el 2 masculine singular אַלתִּֿתְרַע
 אֶתבַּֿעַל אָ֑ף

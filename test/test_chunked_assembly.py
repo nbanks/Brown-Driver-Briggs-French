@@ -6,7 +6,7 @@ Tests verify:
 2. Chunk pairing falls back (returns None) on mismatched counts
 3. Concatenating HTML chunks reproduces the original HTML
 4. build_chunk_prompt inserts chunk-mode note
-5. Real entries with @@SPLIT markers produce consistent html/txt chunk counts
+5. Real entries with ## SPLIT markers produce consistent html/txt chunk counts
 """
 
 import os
@@ -30,9 +30,9 @@ TXT_FR_DIR = os.path.join(BASE, "Entries_txt_fr")
 # --- Unit tests for chunk pairing logic ---
 
 def test_chunk_counts_match_for_split_markers():
-    """Entries with @@SPLIT markers should produce the same chunk count
+    """Entries with ## SPLIT markers should produce the same chunk count
     in both html and txt_fr splitting."""
-    # Find entries that have @@SPLIT markers in their txt
+    # Find entries that have ## SPLIT markers in their txt
     checked = 0
     mismatches = []
     for fname in sorted(os.listdir(TXT_DIR)):
@@ -46,7 +46,7 @@ def test_chunk_counts_match_for_split_markers():
             continue
 
         txt = open(txt_path).read()
-        if '@@SPLIT:' not in txt:
+        if '## SPLIT ' not in txt:
             continue
 
         html = open(html_path).read()

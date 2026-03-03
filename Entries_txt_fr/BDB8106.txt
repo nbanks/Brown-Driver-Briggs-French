@@ -13,7 +13,7 @@ bigarrer (hébreu tardif id. ; ainsi arabe
 [placeholder5176: Placeholders/5176.gif]
 taches de rousseur) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Participe
@@ -37,7 +37,7 @@ Ex 39,29 (tous
 P
 ; tous avec matér. sauf Ex 28,39).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Poual
 Parfait 1 singulier רֻקַּמְתִּי

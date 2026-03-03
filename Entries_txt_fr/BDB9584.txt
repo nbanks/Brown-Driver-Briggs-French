@@ -4,7 +4,7 @@ araméen biblique
 [יְעַט] verbe
 conseiller (ainsi judéo-araméen ; hébreu biblique יעץ) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Ithpa`al
 Parfait 3 masculin pluriel אִתְיָעַ֫טוּ (K^§§ 23,

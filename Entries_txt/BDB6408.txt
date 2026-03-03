@@ -12,7 +12,7 @@ passim; compare Egyptian
 , they terrified (= ערצו)
 WMM^As.u.Eur.76^); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect 2 masculine singular תַּעֲרֹץ
@@ -50,7 +50,7 @@ D
 with accusative
 Job 31:34 because I stood in awe of the great multitude.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Participle
@@ -58,7 +58,7 @@ Participle
 Ps 89:8
 El, terrible in the company of the holy ones (|| נוֺרָא).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 

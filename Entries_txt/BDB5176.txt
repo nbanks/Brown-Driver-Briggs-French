@@ -11,7 +11,7 @@ forsake; draw off skin of dead animal; Arabic
 [placeholder3296: Placeholders/3296.gif] = abstinens ab impuro according to †am
 (Frey)); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular ׳
@@ -111,7 +111,7 @@ Isa 21:15
 ׳
 ח.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect 3 feminine singular נִטְּשָׁה
@@ -139,7 +139,7 @@ be let go, spread abroad, of warriors, Judg 15:19; 2Sam 5:18; 2Sam
 Isa 16:8
 (figurative of Moab).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pu`al
 Perfect only אַדְמוֺן נֻטָּ֑שׁ

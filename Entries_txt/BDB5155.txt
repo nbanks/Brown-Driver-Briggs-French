@@ -5,12 +5,12 @@ Biblical Hebrew
 adverb
 downwards (from [מַט] for [מַטֶּה] a place of
 declension (compare נָטָה, 3.
-a.), with ָ  ה locative, Ol^222
+a.), with ָ ה locative, Ol^222
 b^
 Kö^ii. 280:^ compare the opposed to מַ֫עְלָהִ
 , below עָלָה): —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. alone, Deut 28:43 and thou shalt
 descend מַ֫טָּה מָ֑֫טָּה
@@ -18,7 +18,7 @@ downwards, downwards, i.e. lower and lower, Prov 15:24
 ׳
 לְמַעַן סוּר מִשְּׁאוֺל מ.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 לְמַ֫טָּה:
@@ -54,7 +54,7 @@ under, 1Chr 17:23
 ׳
 שׁנה וְ.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 מִלְּמַ֫טָּה

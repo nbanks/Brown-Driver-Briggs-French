@@ -4,7 +4,7 @@ Biblical Aramaic
 [דּוּר] verb
 dwell (see Biblical Hebrew); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pe`al
 Imperfect 3 feminine singular of beasts תְּדוּר

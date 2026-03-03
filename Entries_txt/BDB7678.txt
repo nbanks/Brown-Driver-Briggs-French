@@ -57,7 +57,7 @@ below]; suffix רָאשֵׁינוּ
 Isa 29:10 +,
 etc.; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 
@@ -98,7 +98,7 @@ influence) Deut
 28:13;
 Deut 28:44.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 
@@ -161,7 +161,7 @@ tip, end, of staves 1Kgs 8:8= 2Chr 5:9, of sceptre Esth 5:2.
 b.
 height of stars Job 22:12 (|| גֹּבַהּ שָׁמַיִם).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.: 171
 
@@ -275,7 +275,7 @@ of first in a series 1Chr 23:8 (series of 3), 1Chr 23:11 (of 4), 1Chr 23:19 (of 
 1Chr 23:20
 (of 2).
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 
@@ -310,7 +310,7 @@ J
 Prov 8:26
 .
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 5.
 chief, choicest, best, of spices, כשׂמ(יםׅ, Ezek 27:22; Exod 30:23
@@ -326,7 +326,7 @@ Ps 137:6
 
 the choicest of my joy.
 
-@@SPLIT:sense@@
+## SPLIT 6 sense
 
 6.
 head = division of army, company, band:
@@ -342,7 +342,7 @@ in verse);
 11:11;
 1Sam 13:17 (twice in verse); 1Sam 13:18 (twice in verse) Job 1:17.
 
-@@SPLIT:sense@@
+## SPLIT 7 sense
 
 7. = sum, especially in phrase ׳
 בְּנֵייִֿשׂ
@@ -360,7 +360,7 @@ Ps
 119:160
 .
 
-@@SPLIT:sense@@
+## SPLIT 8 sense
 
 8. other phrases are: ׳
 נָשָׂא אֶתרֿאֹשׁ פ see

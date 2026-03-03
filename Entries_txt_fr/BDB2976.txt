@@ -5,7 +5,7 @@ hébreu biblique
 achever, consumer (araméen חֲסַל
 arriver à sa fin, Aphel amener à sa fin) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Imparfait
 יַחְסְלֶנּוּ הָאַרְבֶּה

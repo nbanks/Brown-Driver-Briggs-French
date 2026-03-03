@@ -16,7 +16,7 @@ Ex 25,4 + ; suffixe
 תּוֺלַעְתָּם
 Es 66,24 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 ver, larve, charançon de la vigne Jon 4,7 ; Dt 28,39 (collectif) ; dévorant les morts Es 14,11 (collectif : ||
@@ -24,7 +24,7 @@ ver, larve, charançon de la vigne Jon 4,7 ; Dt 28,39 (collectif) ; dévorant le
 ), Ps 22,7
 .
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. ailleurs (
 P

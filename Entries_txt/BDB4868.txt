@@ -19,7 +19,7 @@ id., Aramaic
 [placeholder3108: Placeholders/3108.gif], מַשְׁכָּא
 id.); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular ׳
@@ -209,7 +209,7 @@ probably
 corrupt We
 Now.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Imperfect 3 masculine plural לֹא יִמָּשֵׁ֑כוּ
@@ -221,7 +221,7 @@ Ezek 12:25
 12:28
 it shall not be postponed.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pu`al
 Participle

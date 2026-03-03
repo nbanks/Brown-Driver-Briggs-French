@@ -9,7 +9,7 @@ feed (
 ; Syriac
 [placeholder6001: Placeholders/6001.gif]; compare Biblical Hebrew); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Hithpe`el
 be fed: Imperfect

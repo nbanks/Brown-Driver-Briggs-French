@@ -15,7 +15,7 @@ suffix שְׂכָרִי
 Gen 30:18 +,
 etc.; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 wages, of servant, Gen 30:28; Gen 30:32;
@@ -39,7 +39,7 @@ E
 ), Zech
 8:10.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. = reward, for work done, faithfulness, etc., Gen 15:1 (
 J
@@ -60,7 +60,7 @@ Isa 62:11
 (figurative of reward of ׳
 י's labours), Ps 127:3; Eccl 4:9; Eccl 9:5.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 passage-money, fare, Jonah 1:3.

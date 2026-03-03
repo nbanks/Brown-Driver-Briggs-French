@@ -21,7 +21,7 @@ ilî
 [placeholder202: Placeholders/202.gif]), préposition
 dénotant un mouvement vers ou une direction vers (que ce soit physique ou mental).
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1. de mouvement vers une personne ou un lieu Gn 2,19 ; Gn 2,22 ; Gn 3,19 ; Gn 8,9 ; Gn 14,22 ; Gn 16,9 etc., après
 tout type de verbe exprimant un mouvement (בּוֺא, הָלַךְ, יָצָא etc.)
 Ainsi avec נָתַן
@@ -73,7 +73,7 @@ P
 16,23 (dans le || Ps 96,2
 מִיּוֺם לְיוֺם).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2. Quand la limite est effectivement atteinte, dans, Gn 6,18 et tu entreras
 dans l'arche
 Gn 7,1 ; Gn
@@ -96,7 +96,7 @@ voici qu'il s'était caché אֶלהַֿכֵּלִים
 parmi les bagages, Jr 4,3 ne semez pas אֶלקֹֿצִים
 parmi les épines.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3. De direction vers quelque chose :
 (a) d'actes ou
 d'états physiques, comme Gn
@@ -187,7 +187,7 @@ Ag 2,17 ; Jr 15,1 (
 
 אֵין נַפְשִׁי אֶל).
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 4. Quand le mouvement ou la direction impliquée apparaît d'après le contexte comme étant hostile,
 אֶל = contre :
 Gn 4,8
@@ -230,7 +230,7 @@ Ez 28,22
 
 על : pour Ez 36,9 voir ci-dessus)
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 5.
 Vers acquiert parfois d'après le contexte le sens de en plus de,
 comme
@@ -250,7 +250,7 @@ avec le sang (1 S 14,32 et généralement עַל) ; 1 R 10,7
 אֶלכַּֿפָּ֑יִם nos cœurs avec les mains (comparer
 [placeholder203: Placeholders/203.gif], Qor 4,2 ; W^AG ii. § 51 c^).
 
-@@SPLIT:sense@@
+## SPLIT 6 sense
 6. Métaphore au sujet de, concernant, à cause de : ainsi
 הִתְאַבֵּל
 porter le deuil au sujet de
@@ -285,7 +285,7 @@ Ez 19,4
 הַשְּׁמוּעָה אֶל la rumeur concernant . . . 1 S 4,19. (Peu fréquent, sauf dans le
 cas de אָמַר.)
 
-@@SPLIT:sense@@
+## SPLIT 7 sense
 7. De règle ou de norme, selon (rare) : אֶלפִּֿי ֗֗֗
 
 selon l'ordre de, Jos 15,13 ; Jos 17,4 ; Jos 21,3 (généralement עַלפִּֿי) ;
@@ -299,7 +299,7 @@ selon ce qui est fixé = avec certitude 1 S 23,23 ; 1 S 26,4 (voir Dr
 Ps 45,1
 עַל).
 
-@@SPLIT:sense@@
+## SPLIT 8 sense
 8. Exprimant la présence en un lieu, contre ; à, près de, pas seulement après les verbes
 exprimant ou impliquant un mouvement (comparer 1, Gn 24,11), comme Jos 11,5 et ils vinrent et campèrent ensemble
 
@@ -326,7 +326,7 @@ près de l'Euphrate, Ez 3,15 ; Ez 11,11 ; Ez 17,8 ; Ez 31,7 ; Ez 40,18 ; Ez 43,3
 Ez 48,12
 .
 
-@@SPLIT:sense@@
+## SPLIT 9 sense
 9. Préfixé à d'autres prépositions, il leur ajoute l'idée de mouvement ou
 de direction vers : ainsi אֶלאַֿחֲרֵי
 2 S 5,23 ;

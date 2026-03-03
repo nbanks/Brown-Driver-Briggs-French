@@ -18,7 +18,7 @@ Num 12:8 suffix
 חִידֹתָם
 Prov 1:6 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 riddle = dark, obscure utterance Num 12:8 (
@@ -40,7 +40,7 @@ open, propound; || מָשָׁל), a lesson taught indirectly Ps 78:2 (
 ׳
 ח, with הִבִּיעַ; || מָשָׁל).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 riddle, enigma, to be guessed, in Judg 14:
@@ -63,7 +63,7 @@ find out a riddle
 Judg
 14:18.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 perplexing questions by which queen of Sheba put Solomon to the test (נִסָּה
@@ -73,7 +73,7 @@ perplexing questions by which queen of Sheba put Solomon to the test (נִסָּ
 2Chr 9:1
 .
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4. with הֵבִין skilled in double-dealing
 Dan 8:23

@@ -3,7 +3,7 @@ Biblical Hebrew
 
 [פָּרַר] verb
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Hiph`il
 break, frustrate (Late Hebrew Pi`el crumble; Jewish-Aramaic פְּרַר
@@ -150,7 +150,7 @@ bear fruit (compare GFM^JBL x (1891),
 60^); Perles^Anal. 30^
 וְתִפְרַח.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hoph`al
 Imperfect
@@ -171,7 +171,7 @@ so Isa
 וְתֻפַר for וְכֻפַּר, see ׳
 כ).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pilpel
 Imperfect 3 masculine singular suffix וַיְפַרְפְּרֵנִי

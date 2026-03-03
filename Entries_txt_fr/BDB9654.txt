@@ -6,12 +6,12 @@ frapper (voir hébreu biblique II.
 מָחָה
 ) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pe`al
 Parfait 3 féminin singulier מְחַת, ל de chose, Dn 2,34 ; Dn 2,35 (+ עַל).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pa`el
 Imparfait 3 masculin singulier ימַחֵא בִידֵהּ
@@ -23,7 +23,7 @@ Qo 8,4
 
 ; D^Aramaic Dialektproben. p. 5^ ; Talmud : Levy^NHWB sous le mot^ ).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hithpa`al
 Imparfait 3 masculin singulier יִתְמְחֵא

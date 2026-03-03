@@ -28,7 +28,7 @@ lire מָעֻזֶּיהָ (Ges^«GKC:20o»§ 20o^
 Che^Heb.Hpt.^ et autres ; supprimer le dagesh fort dans tous, voir
 ci-dessus) ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1. littéralement lieu de sécurité
 Jg 6,26, d'où
 (c. idée collatérale de force, comme si de עזז = forteresse
@@ -53,7 +53,7 @@ Na 3,11 comparer
 עָרֵי מ
 Es 17,9.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 
 a.
@@ -104,7 +104,7 @@ Es 23,1
 ,Heb.Hpt.
 ^).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3.
 figuré de protection humaine, פַּרְעֹה
 ׳

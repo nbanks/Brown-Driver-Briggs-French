@@ -9,7 +9,7 @@ remit, spare, Vog^Nos. 6, 15^; Sabean
 משחכן
 weaned (child) DHM^ZMG 1875, 608^) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -147,7 +147,7 @@ see
 חשׁך
 .
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Imperfect

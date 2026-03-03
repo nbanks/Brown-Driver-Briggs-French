@@ -4,7 +4,7 @@ Biblical Hebrew
 [שָׁגֵל] verb
 violate, ravish (Masoretes think verb obscene, and substitute שָׁכַב); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect 3 masculine singular suffix יִשְׁגָּלֶנָּה
@@ -16,7 +16,7 @@ Qr
 
 יִשְׁכָּבֶנָּה).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Imperfect 3 feminine plural תִּשָּׁגַלְנָה
@@ -30,7 +30,7 @@ Qr
 
 תִּשְּׁכַבְנָה).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Pu`al < Qal passive (Ges
 ^«GKC:52e»§ 52e^) Perfect 2 feminine singular אֵיפֹה לֹא שֻׁגַּלְתְּ
 Jer 3:2

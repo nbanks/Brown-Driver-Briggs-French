@@ -19,7 +19,7 @@ in verse); נִבְלָתָם
 Isa 5:25 + 14 t.;
 — carcass, corpse:
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 
@@ -49,7 +49,7 @@ b. of lifeless idols, collective ׳
 נִבְלַת שִׁקּוּצֵיהֶם וגו
 Jer 16:18.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. of animals (clean and unclean, wild animals, cattle, birds and reptiles, chiefly Leviticus,
 Ezekiel), Deut 14:8

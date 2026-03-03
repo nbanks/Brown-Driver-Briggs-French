@@ -11,7 +11,7 @@ demeurer, camper, s'établir, DHM^ZMG xxix (1875), 593^
 [placeholder4945: Placeholders/4945.gif]
 demeurer, habiter) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal seulement Infinitif : suffixe רִבְעִי
 Ps 139,3
@@ -29,7 +29,7 @@ Berthol (et Dr^
 2 S 18,23,
 lire לְרִבְעָה (complément omis ; voir id.).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Imparfait 2 masculin singulier בְּהֶמְתְּךָ לֹא תַרְבִּיעַ

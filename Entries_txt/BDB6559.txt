@@ -4,7 +4,7 @@ Biblical Hebrew
 I. [פּוּק] verb
 reel, totter; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 plural פָּק֫וּ פְּלִילִיָּה
@@ -17,7 +17,7 @@ tottereth (see
 עוק
 ).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Imperfect

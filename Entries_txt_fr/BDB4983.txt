@@ -7,7 +7,7 @@ s'approcher, approcher, synonyme moins fréquent de
 קרב
 q. v. (hébreu tardif id. Hiph`il (rare) et dérivés) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal_68_
 Imparfait
 יִגַּשׁ
@@ -149,7 +149,7 @@ Qal absent de
 D
 .
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Niph`al
 Parfait
 נִגַּשׁ
@@ -198,7 +198,7 @@ J
 P
 ), ainsi figuré du culte Es 29,13.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Hiph`il
 Parfait 3 masculin singulier suffixe consécutif וְהִגִּישׁוֺ
 Ex
@@ -322,7 +322,7 @@ celui qui est fait chef de ses compagnons (autres conjectures voir Di
 Bu) ; Am 9,10 lire תִּגַּשׁ
 Qal q. v. ).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 Hoph`al
 Parfait 3 masculin pluriel לאֹלִֿנְחֻשְׁתַּיִם הֻגַּ֑שׁוּ
 
@@ -335,7 +335,7 @@ Ml
 1,11
 il est (impersonnel) offert à mon nom.
 
-@@SPLIT:stem@@
+## SPLIT 5 stem
 Hithpa`el
 Impératif masculin pluriel הִתְנַגְּשׁוּ
 Es

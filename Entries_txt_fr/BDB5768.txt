@@ -47,7 +47,7 @@ Ex 1,16 mot absent de
 P
 ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 adjectif
 
@@ -76,7 +76,7 @@ E
 Jr
 34,14 féminin Dt 15,12 ; Jr 34,9.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 nom
 

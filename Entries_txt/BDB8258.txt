@@ -15,7 +15,7 @@ Isa 24:17,
 שְׂמֵחֵי
 Ps 35:26 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 
@@ -44,7 +44,7 @@ of
 thing Eccl 2:10
 .
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. as substantive ׳
 הַשׂ

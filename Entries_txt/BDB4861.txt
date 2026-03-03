@@ -23,7 +23,7 @@ id.; Arabic
 measurement, compare Dl^Prol. 178^
 Frä^282^)); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular ׳
@@ -171,7 +171,7 @@ P
 ); קדשׁ קדשׁים
 Dan 9:24.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect 3 masculine singular נִמְשַׁח

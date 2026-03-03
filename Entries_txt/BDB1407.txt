@@ -13,7 +13,7 @@ Ezek 11:15,
 Lev 25:26 + 4
 t.; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 kin, אַנְשֵׁי גְּאֻלָּתֶ֑ךָ
@@ -36,7 +36,7 @@ Co
 א
 thy fellow-exiles.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 redemption, of field Lev 25:24 (
@@ -44,7 +44,7 @@ H
 ) Ruth 4:7
 .
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 right of redemption
@@ -59,7 +59,7 @@ H
 משׁפט הגאלה
 Jer 32:7.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 price of redemption

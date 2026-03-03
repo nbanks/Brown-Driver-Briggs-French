@@ -3,7 +3,7 @@ Biblical Aramaic
 
 [כְּרָא] verb
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Ithpe`el
 be distressed (compare כַּרְיָא III. adjective suffering,

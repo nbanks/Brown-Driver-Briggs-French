@@ -15,7 +15,7 @@ locative
 Ps 116:14;
 Ps 116:18 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. as adverb accusative in front of,
 
@@ -106,7 +106,7 @@ before your face is = in your view, or purpose (compare לא אשׁית לְנֶ
 דברבֿליעל
 Ps 101:3).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. With prepositions:
 

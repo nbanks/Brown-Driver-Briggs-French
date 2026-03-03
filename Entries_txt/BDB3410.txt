@@ -12,7 +12,7 @@ be dry, dried up, withered (Late Hebrew id. (rare),
 [placeholder2160: Placeholders/2160.gif]; Ethiopic
 [placeholder2161: Placeholders/2161.gif]) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular יָבֵשׁ
@@ -108,7 +108,7 @@ J
 50:38;
 Joel 1:20; Job 12:15; Job 14:11.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 make dry, dry up, only Imperfect 3 masculine singular suffix
@@ -122,7 +122,7 @@ the flame shall dry up his branches (figurative of wicked); figurative
 Prov 17:22
 a broken spirit maketh dry (the) bones.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Perfect 3 masculine singular הוֺבִישׁ

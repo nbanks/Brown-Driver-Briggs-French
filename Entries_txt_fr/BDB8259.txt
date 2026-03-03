@@ -15,7 +15,7 @@ Ps 16,11,
 תֹ-
 Ps 45,16 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 gaieté, allégresse, p. ex. dans les festivités, Gn 31,27 (
@@ -58,7 +58,7 @@ l'insensé Pr
 שׂ
 Ez 36,5.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2._46_ (surtout Psaumes, Chroniques) religieux : 2 S 6,12 || 1 Ch 15,16 ; 1 Ch 15,25 ; Jl 1,16 + ;
 ׳
@@ -79,14 +79,14 @@ joie du cœur Es 30,29 ; Jr 15,16 comme don de ׳
 Ps 4,8 ; Ps 21,7 + 7 t. + (par
 moquerie) Es 66,5.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 joie de ׳
 י
 So 3,17.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 résultat joyeux, issue heureuse

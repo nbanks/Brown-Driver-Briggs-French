@@ -10,7 +10,7 @@ Gn 46,10 = Ex 6,15 ; 1 Ch 2,3 masculin
 pluriel (הַ)כְּנַעֲנִים
 Ab 1,20 ; Ne 9,24 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 adjectif
 ׳
@@ -19,7 +19,7 @@ Gn 38,2 (
 J
 ).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2. avec l'article comme
 substantif,
 

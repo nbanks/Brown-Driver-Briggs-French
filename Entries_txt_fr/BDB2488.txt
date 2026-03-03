@@ -14,7 +14,7 @@ allumer, être enflammé,
 aimer, embrasser, חוּבָּא
 sein) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Participe
 אַף

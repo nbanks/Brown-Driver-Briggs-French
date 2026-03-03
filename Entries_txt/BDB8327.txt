@@ -16,7 +16,7 @@ sandal-thong,
 [placeholder5339: Placeholders/5339.gif]
 snare); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pi`el
 Participle feminine singular מְשָׂרֶכֶת דְּרָכֶיהָ

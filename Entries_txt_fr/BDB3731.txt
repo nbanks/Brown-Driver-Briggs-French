@@ -3,7 +3,7 @@ hébreu biblique
 
 [יָרַהּ] verbe seulement
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Imparfait 3 masculin pluriel תִּרְהוּ
 Es 44,8 (van d. H

@@ -8,7 +8,7 @@ pull away (
 
 ; see Biblical Hebrew); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Hithpe`el
 be pulled away: Imperfect3 masculine singular יִתְנְסַךְ

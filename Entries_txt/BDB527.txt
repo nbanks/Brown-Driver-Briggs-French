@@ -8,7 +8,7 @@ DHM^ZMG 1885,598^; Aramaic אֲמַן,
 [placeholder276: Placeholders/276.gif] in Haph`el, Ethiopic
 [placeholder277: Placeholders/277.gif], Assyrian in derivatives) — only
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Participle
@@ -77,7 +77,7 @@ Che as abstract noun see
 אֵמֻן
 .
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 נֶאֱמַן
@@ -190,7 +190,7 @@ in all my house (of Moses) Num 12:7 (
 E
 ).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 הֶאֱמִין

@@ -9,7 +9,7 @@ s'agenouiller, bénir (hébreu tardif id. ; arabe
 [placeholder703: Placeholders/703.gif] (louer), palmyrénien surtout dans בריך שמו לעלמא
 Vog^Palm. 74 ss.^ comparer 94, 144) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Imparfait
 יִבְּרַךְ
@@ -147,7 +147,7 @@ comparer Dt 28,5
 ; 1 S
 25,33 ; Pr 5,18.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Niph`al
 Parfait
 נִבְרְכוּ
@@ -159,7 +159,7 @@ J
 ) se bénir soi-même (comparer
 Hithpa`el).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Piel_233_
 Parfait
 בֵּרַךְ
@@ -483,7 +483,7 @@ ainsi que dans les langues sémitiques apparentées : 1 R 21,10 ; 1 R 21,13
 2,9 ; Ps
 10,3.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 Pu`al
 Imparfait
 יְבֹרַךְ
@@ -533,7 +533,7 @@ Pr 22,9
 
 .
 
-@@SPLIT:stem@@
+## SPLIT 5 stem
 Hiph`il
 וַיַּבְרֵךְ חַגְּמַלִּים
 et il fit agenouiller ses chameaux
@@ -543,7 +543,7 @@ Gn
 J
 ).
 
-@@SPLIT:stem@@
+## SPLIT 6 stem
 Hithpa`el
 הִתְבָּרֵךְ
 Dt

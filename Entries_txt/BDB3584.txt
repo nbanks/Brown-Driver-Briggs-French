@@ -12,7 +12,7 @@ maltreat; Arabic
 [placeholder2236: Placeholders/2236.gif] is laxus, debilis fuit, IV. debilitavit, defatigavit
 , but connection dubious) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect 1 plural suffix נִינָם
@@ -46,7 +46,7 @@ Kt
 גַּאֲיוֺן
 q. v. above)
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Perfect

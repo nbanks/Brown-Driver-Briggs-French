@@ -13,7 +13,7 @@ Jb 18,7 suffixe
 צְעָדַי
 Jb 31,4, etc. ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. littéralement pas, enjambée, 2 S 6,13, תַּרְחִיב צַעֲדִי תַּחְתֵּנִי
 2 S 22,37 =
@@ -23,7 +23,7 @@ tu me donnes un pied ferme, ׳
 Pr 30,29 =
 faisant un bon pas, majestueux dans la marche ; Lm 4,18 (|| לָ֑כֶת).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 pas, en figure du cours de la vie, du sort : singulier ׳

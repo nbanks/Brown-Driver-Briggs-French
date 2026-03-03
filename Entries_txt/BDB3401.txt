@@ -17,7 +17,7 @@ Josh 6:4 + 2 t.;
 יֹבְלִים
 Josh 6:13 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 ram, only in combination: ׳
@@ -30,7 +30,7 @@ rams' horns (see Benz^Archäol. 276^);
 Exod 19:13
 at the sounding of the ram ('s horn).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. designation of 50th year, marked by blowing of cornets,
 AV

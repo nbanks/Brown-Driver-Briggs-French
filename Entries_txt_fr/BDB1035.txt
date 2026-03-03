@@ -11,7 +11,7 @@ devenir séparé, être distinct, IV. parler avec clarté ; éthiopien
 faire comprendre, comparer sabéen בין (le)
 sage, comme épithète, Mordt^ZMG 1876, 37^) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait
 בִּין
@@ -144,7 +144,7 @@ avoir du discernement, de la perspicacité, de l'intelligence
 Jr 49,7
 .
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Niph`al
 נְבֻנוֺתִי
 Es
@@ -197,14 +197,14 @@ Dt 4,6
 Dt 1,13
 .
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Po. יְבוֺנְַנֵהוּ
 il le considère attentivement
 Dt
 32,10
 .
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 Hiph`il
 Parfait
 הֵבִין
@@ -321,7 +321,7 @@ maître
 1 Ch 15,22 ; 1 Ch 25,7 ; 1 Ch 25,8 ; 1 Ch 27,32 ; Esd
 8,16.
 
-@@SPLIT:stem@@
+## SPLIT 5 stem
 Hithpa`el
 Parfait
 הִתְבּוֺנָ֑ן

@@ -3,7 +3,7 @@ Biblical Hebrew
 
 [רוּעַ] verb
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Hiph`il_40_
 
@@ -111,7 +111,7 @@ Isa
 16:10
 a shout shall not be uttered (of joy in harvest; || יְרֻנָּן).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hithpo`lel
 Imperfect 1 singular אֶתְרוֺעָ֑ע

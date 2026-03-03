@@ -4,7 +4,7 @@ Biblical Hebrew
 עוּתַי
 proper name, masculine
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 name in Judah
@@ -12,7 +12,7 @@ name in Judah
 (= עֲתָיָה
 Neh 11:4).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 Ezra 8:14,

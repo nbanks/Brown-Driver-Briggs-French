@@ -12,7 +12,7 @@ bind,
 [placeholder4735: Placeholders/4735.gif]
 chain); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Passive participle plural חֲצֵדוֺת

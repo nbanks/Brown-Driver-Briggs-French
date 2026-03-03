@@ -10,7 +10,7 @@ Job 41:22 + 6
 t.; construct id.
 Mic 7:10 + 5 t.; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 mud, mire of streets (always in simile of contempt, ignominious treatment) חוּצוֺת
@@ -29,7 +29,7 @@ Jer 38:6 (twice in verse); of mire in which crocodile lies Job 41:22 cast up by 
 
 Ps 40:30.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. poetic of potter's clay (|| חֹמֶר) Isa 41:25, brick-clay
 (|| id.) Nah 3:14.

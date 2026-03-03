@@ -10,7 +10,7 @@ grease, fat; Late Hebrew דִּשֵּׁן
 make fat, compare Late Hebrew דֶּשֶׁן
 fat) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular וְדָשֵׁן consecutive Deut 31:20 (
@@ -19,7 +19,7 @@ J
 E
 ) figurative of Israel's prosperity.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Perfect
@@ -57,7 +57,7 @@ Exod 27:3 (
 P
 ).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pu`al
 Imperfect
@@ -75,7 +75,7 @@ figurative of prosperity of the liberal Prov 11:25, the diligent Prov 13:4, the
 trustful Prov
 28:25.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hothpa`al
 Perfect 3 feminine singular הֻדַּ֫שְׁנָה (compare

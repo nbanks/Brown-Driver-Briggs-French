@@ -16,7 +16,7 @@ Pr 5,10,
 Pr 24,10,
 etc. ; toujours singulier ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 force humaine :
 
@@ -107,11 +107,11 @@ e.
 puissance conférée par Dieu Es 40,29, comparer Es 40,31 ; Es 41,1
 de la puissance prophétique Mi 3,8.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 force des anges Ps 103,20.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3.
 puissance de Dieu : dans la création Jr 10,12 ; Jr 51,15 (voir aussi Jr 32,17 ci-dessous), Ps 65,7 dans
 le gouvernement du monde 1 Ch 29,12
@@ -182,12 +182,12 @@ tonnerre) ; spécifiquement de sa sagesse (assez particulièrement, Élihou) כ�
 Jb 36,5
 puissant en force d'esprit.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 4. des animaux : buffle Jb 39,11, cheval Jb 39,21, hippopotame Jb 40,16, taureau Pr 14,4
 bouc Dn 8,6
 bélier Dn 8,7.
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 5.
 force, du sol c.-à-d. produit, Gn 4,12 (
 J

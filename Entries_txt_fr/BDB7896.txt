@@ -9,7 +9,7 @@ mettre en pièces (comparer
 
 רְטַשׁ rejeter, repousser ; mais peut-être apparenté à לָטַשׁ) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pi`el
 Imparfait 2 masculin singulier תְּרַטֵּשׁ
@@ -20,7 +20,7 @@ Es 13,18,
 mais probablement corrompu, Du conjecture נְעָרוֺת תְּרֻטַּשְׁנָה
 comparer Che.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Poual
 Parfait 3 féminin singulier אֵם עַלֿ

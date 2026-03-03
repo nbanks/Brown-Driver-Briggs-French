@@ -12,7 +12,7 @@ crack;
 Jer 22:14,
 cut out, make, window); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 2 masculine singular suffix of earth, פְּצַמְתָּ֑הּ

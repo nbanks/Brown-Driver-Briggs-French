@@ -5,7 +5,7 @@ araméen biblique
 nom masculin et féminin
 quatre ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 masculin : devant nom féminin pluriel
@@ -19,7 +19,7 @@ nom féminin pluriel
 Dn 7,6 comme prédicat
 אַרְבַּ֑ע Dn 7,17.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 féminin : devant nom masculin pluriel

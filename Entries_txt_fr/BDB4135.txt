@@ -10,7 +10,7 @@ décevoir ; conjugaisons réflexives être déçu, avoir honte, voir
 Spiro^Vocab^ ; hébreu tardif כסף Hiph`il montrer la pâleur, être pâle, blanc ;
 Qal avoir honte, désirer ardemment, comparer araméen כְּסַף) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Imparfait 2 masculin singulier יָדֶיךָ תִּכְסֹ֑ףלְמַעֲשֵׂה
 Jb 14,15
@@ -19,7 +19,7 @@ l'œuvre de tes mains tu désirerais ardemment ; 3 masculin singulier כְּאַ
 Ps 17,12
 comme un lion qui aspire à déchirer.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Niph`al
 Parfait 2 masculin singulier + Infinitif absolu
 נִכְסֹף נִכְסַפְתָּה לְבֵית אָבִיךָ

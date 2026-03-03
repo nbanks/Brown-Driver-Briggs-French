@@ -6,7 +6,7 @@ Hiph`il
 set, place, a vivid and forcible synonym of שָׂם (Kö^i. 430^
 Ges^«GKC:71»§ 71^) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Hiph`il
 Perfect suffix הִצִּיגַּ֫נִי
@@ -67,7 +67,7 @@ Amos 5:15
 
 לארץ הניחו).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hoph`al
 Imperfect

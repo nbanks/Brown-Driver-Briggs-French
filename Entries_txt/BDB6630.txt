@@ -33,7 +33,7 @@ suffix פִּילַגְשָׁיו
 פִּלַגְשֵׁיהֶם
 Ezek 23:20 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 concubine
@@ -45,7 +45,7 @@ t. Judg 19:20
 ; 2Sam 3:7
 (twice in verse) + 7 t. 2 Samuel; 1Kgs 11:3; 1Chr 1:32 + 6 t. Chronicles; Esth 2:14; Song 6:8; Song 6:9.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. either = paramour (perhaps contempt.; ὁ πάλλαξ =
 youth), or < concubinage

@@ -38,7 +38,7 @@ Berthol Toy); suffix נַפְשׁוֺתָם
 נַפְשֹׁתָם
 Num 17:3 +: —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. = that which breathes, the breathing substance or being = ψυχή,
 anima, the soul, the inner being of man:
@@ -94,7 +94,7 @@ Ps 49:16; Ps 86:13; Ps
 Sh®°ôl, Isa 38:17; Job 33:18; Job
 33:22; Job 33:28; Job 33:30.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. The נפשׁ becomes a living being: by God's breathing נשׁמת חיים
 
@@ -166,7 +166,7 @@ Gen 19:19; Isa
 Prov
 3:22.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. The נפשׁ (without חיה noun or verb) is specified:
 
@@ -312,7 +312,7 @@ Prov 19:16
 ;
 Prov 22:5.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4. The נפשׁ as the essential of man stands for the man himself:
 
@@ -609,7 +609,7 @@ Num 6:11; Num 9:10 (all
 P
 ); elsewhere only Hag 2:13.
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 5.
 נפשׁ = seat of the appetites, in all periods (46 t.) —
@@ -670,7 +670,7 @@ Prov
 בַּעַל נֶפֶשׁ; Ecclesiastes uses נפשׁ only in the sense of a, b, c; the
 נפשׁ craves, lacks, and is filled with good things: Eccl 2:24; Eccl 4:8; Eccl 6:2; Eccl 6:3; Eccl 6:7; Eccl 6:9; Eccl 7:28.
 
-@@SPLIT:sense@@
+## SPLIT 6 sense
 
 6. ׳
 נ
@@ -909,7 +909,7 @@ D
 ^
 ).
 
-@@SPLIT:sense@@
+## SPLIT 7 sense
 
 7.
 נפשׁ is used occasionally for mental acts + לבב (see 10);
@@ -962,7 +962,7 @@ following
 
 ἐπιθυμεῖ = תְּאַוֶּה; see 6.a.).
 
-@@SPLIT:sense@@
+## SPLIT 8 sense
 
 8.
 נפשׁ for acts of the will is dubious: אם ישׁ
@@ -997,7 +997,7 @@ Isa 42:1
 
 (all perhaps emotional, 6.b., d., g).
 
-@@SPLIT:sense@@
+## SPLIT 9 sense
 
 9.
 נפשׁ = character is still more dubious: בּוֺ
@@ -1013,7 +1013,7 @@ his soul is not right in him (but
 Ezek 4:14
 my soul hath not (or I have not, 4.a.) been polluted.
 
-@@SPLIT:sense@@
+## SPLIT 10 sense
 
 10.
 ׳

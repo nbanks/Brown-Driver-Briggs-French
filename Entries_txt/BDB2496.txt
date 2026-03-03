@@ -6,7 +6,7 @@ beat off, beat out (Late Hebrew id.; strike, beat, Arabic
 [placeholder1586: Placeholders/1586.gif], Aramaic
 [placeholder1587: Placeholders/1587.gif], חֲבַט) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect
@@ -38,7 +38,7 @@ Brd place below 1;
 VB
 undecided.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Imperfect

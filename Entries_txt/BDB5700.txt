@@ -18,7 +18,7 @@ Judg 21:23 +;
 plural construct מִסְפְּרֵי
 1Chr 12:23 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 
@@ -161,7 +161,7 @@ read סָפַר מִי, compare v^a,^ so
 Di
 So^Kau.^
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 recounting, relation

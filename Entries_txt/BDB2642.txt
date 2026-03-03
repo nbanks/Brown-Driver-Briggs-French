@@ -5,7 +5,7 @@ II. חוּר
 proper name, masculine (meaning dubious; compare Nabataean proper name חורו
 Nö in Eut^p. 45^) —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 
@@ -15,7 +15,7 @@ Nö in Eut^p. 45^) —
 E
 ).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 
@@ -33,7 +33,7 @@ VB
 ; 1Chr 4:4;
 2Chr 1:5.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 
@@ -43,7 +43,7 @@ VB
 P
 ).
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 
@@ -56,7 +56,7 @@ L
 B
 omitted) head of family of returned exiles Neh 3:9.
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 5.
 בֶּןחֿוּר officer of Solomon 1Kgs 4:8, see below בֵּן p. 122.

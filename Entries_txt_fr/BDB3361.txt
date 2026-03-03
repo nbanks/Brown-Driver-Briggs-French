@@ -7,7 +7,7 @@ percer ; arabe
 [placeholder2133: Placeholders/2133.gif]
 percer, blesser, aiguillonner) — seulement
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Poual
 Participe
 מְטֹעֲנֵי חָ֑רֶב

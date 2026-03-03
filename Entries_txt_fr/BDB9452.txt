@@ -4,7 +4,7 @@ araméen biblique
 [דְּלַק] verbe
 brûler (hébreu biblique) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Peal
 Participe
 actif

@@ -3,7 +3,7 @@ Biblical Hebrew
 
 אַף כִּי
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 furthermore
@@ -12,14 +12,14 @@ Ezek 23:40
 Ges
 quin imo, quin etiam).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. in a question, indeed (is it) that . . .? Gen 3:1
 אַף כִּיאָֿמַר אֱלֹהִים
 indeed, that God has said . . .? i.e. has God really said . . .?
 (compare הַאַף above).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. with reference to a preceding sentence (which is often introduced by הֵן or
 הִנֵּה), yea, that . . .! i.e. how much more (or

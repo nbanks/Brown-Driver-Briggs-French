@@ -14,7 +14,7 @@ J
 אֹהֶל
 );
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pi`el
 Imperfect

@@ -4,7 +4,7 @@ araméen biblique
 [פְּרַס] verbe
 briser en deux (voir hébreu biblique פרס) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Peîl (W^CG224^) Parfait 3
 féminin singulier פְּרִיסַת מַלְכוּתָח

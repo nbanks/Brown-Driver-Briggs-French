@@ -13,7 +13,7 @@ AV
 
 multiply; but very dubious) — only
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Infinitive suffix יַעַן הֲמָנְכֶם

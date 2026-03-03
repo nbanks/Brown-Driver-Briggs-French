@@ -13,7 +13,7 @@ Deut 1:12
 מַשָּׂאָם
 Num 4:27 + 2 t.; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 load, burden of ass Exod 23:5 (
@@ -48,7 +48,7 @@ We
 Now
 GASm.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. verbal noun, lifting, uplifting, only נַפְשָׁם
 ׳
@@ -57,7 +57,7 @@ Ezek 24:25
 the uplifting of their soul, i.e. that to which they lift up their soul, their heart's
 desire.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. verbal noun, bearing, carrying, Num 4:24 (+ לַעֲבֹד), 2Chr 20:25;
 2Chr 35:3 (
@@ -67,7 +67,7 @@ sacred vessels (often || עֲבֹדָה, פְּקֻדָּה) Num 4:15; Num 4:19;
 עֲבֹדַת מ Num 4:47, ׳
 מִשְׁמֶרֶת מ Num 4:31 Num 4:32.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4. perhaps what is carried, brought, i.e. tribute
 ׳

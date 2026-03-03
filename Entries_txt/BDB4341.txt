@@ -7,7 +7,7 @@ swallow greedily (= Arabic
 [placeholder2768: Placeholders/2768.gif]
 ox, cow); — only
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Hithpa`el
 Participle

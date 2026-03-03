@@ -4,7 +4,7 @@ Biblical Hebrew
 II. לוּז
 proper name [of a location]
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 former name of Bethel
@@ -35,7 +35,7 @@ E
 28:19
 [Ουλαμ]μαυς
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. city in hands of Hittites Judg 1:26 (on conjectures as to site see GFM
 );

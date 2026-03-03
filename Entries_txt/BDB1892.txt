@@ -37,7 +37,7 @@ Gen 17:12 + 27
 t., דֹּרֹתָם
 Gen 17:7 + 10 t.; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 period, age, generation, mostly poetic:
@@ -111,7 +111,7 @@ Ps 145:13
 לְדוֺר וָדוֺר
 Lam 5:19.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. of men living at a particular time (period, age), generation, as transitory
 דּוֺר הֹלֵךְ וְדוֺר בָּא
@@ -214,7 +214,7 @@ Josh 22:28
 P
 ).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. generation characterized by quality or condition, class of men:
 דּוֺר עִקֵּשׁ
@@ -234,7 +234,7 @@ class Ps 14:5; Ps 24:6; Ps 73:15 (
 most; yet see
 below below 4).
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 dwelling-place, habitation

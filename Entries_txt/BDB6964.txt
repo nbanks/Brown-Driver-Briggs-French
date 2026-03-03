@@ -13,7 +13,7 @@ Assyrian
 [placeholder4454: Placeholders/4454.gif]; Old Aramaic צידא
 hunting); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 plural צָד֣וּ
@@ -69,7 +69,7 @@ probably לָצוּד (or לָצַיִד), for
 צֹר
 .
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Po'l.
 hunt (keenly, eagerly?), Imperfect 2 feminine plural תְּצוֺדֵדְנָה

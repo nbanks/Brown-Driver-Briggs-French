@@ -14,7 +14,7 @@ Arabic
 [placeholder2152: Placeholders/2152.gif]
 despair) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Niph`al
 Perfect
@@ -34,7 +34,7 @@ desperate! = there is no hope!
 Jer 2:25; Jer 18:12;
 Isa 57:10.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Infinitive

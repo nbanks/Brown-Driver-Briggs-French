@@ -1,7 +1,7 @@
 === BDB4526 H4116 ===
 Biblical Hebrew
 
-@@SPLIT:section@@
+## SPLIT 1 section
 
 I.
 מַהֵר
@@ -28,7 +28,7 @@ Dr
 Bu; deeper corruption assumed by HPS
 .
 
-@@SPLIT:section@@
+## SPLIT 2 section
 
 II.
 מַהֵר

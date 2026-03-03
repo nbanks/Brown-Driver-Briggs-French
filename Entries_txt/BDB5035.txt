@@ -12,7 +12,7 @@ flee (see below); Arabic (
 [placeholder3217: Placeholders/3217.gif]
 waver, totter); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular נָד so read for
@@ -120,7 +120,7 @@ condole, shew sympathy with Job 2:11; Job 42:11 absolute
 
 Ps 69:21.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Imperfect 3 masculine singular יָנִיד
@@ -167,7 +167,7 @@ make a wagging, wag with the head, בְּראֹשׁ
 
 Jer 18:16.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hoph`al
 Participle
@@ -179,7 +179,7 @@ flutter (tossed away) are they (text dubious; Klo
 Bu
 HPS read מדבר).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hithpo`lel
 Perfect 3 feminine singular וְהִתְנוֺדֲדָה

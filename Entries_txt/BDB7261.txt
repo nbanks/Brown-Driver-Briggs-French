@@ -32,7 +32,7 @@ Dr^
 1Sam 1:6
 ^); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 plural וְצָֽרֲרוּ

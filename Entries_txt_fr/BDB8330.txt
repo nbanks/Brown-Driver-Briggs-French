@@ -28,7 +28,7 @@ PS^2744^, comparer
 
 ὠτότμητος) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Participe passif
@@ -37,7 +37,7 @@ Participe passif
 חרם
 ).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hithpa`el
 s'étendre : Infinitif construit

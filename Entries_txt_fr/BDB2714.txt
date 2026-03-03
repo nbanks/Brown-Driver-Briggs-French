@@ -5,7 +5,7 @@ hébreu biblique
 nom propre, masculin
 comparer nabatéen חטישו, Cooke^245^.
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 homme de la lignée davidique, post-exilique, 1 Ch 3,22
 
@@ -32,7 +32,7 @@ L
 
 Αττους.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2. un bâtisseur à la muraille de Jérusalem Ne 3,10,
 
 ᵐ5
@@ -46,7 +46,7 @@ L
 
 Αττους.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3. chef d'une maison sacerdotale, post-exilique, Ne 10,5
 
 ᵐ5

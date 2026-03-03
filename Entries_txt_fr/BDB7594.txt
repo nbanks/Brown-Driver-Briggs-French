@@ -13,7 +13,7 @@ Jb 6,16 + ; suffixe
 קַרְחוֺ
 Ps 147,17 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 gelée nocturne (opposé à חֹרֶב du jour), Gn 31,40 (
@@ -21,7 +21,7 @@ E
 ), Jr
 36,30.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 glace,

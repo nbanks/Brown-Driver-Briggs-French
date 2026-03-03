@@ -19,7 +19,7 @@ Ba^ib. xii. 1887, 626^ voir aussi
 מהל
 ci-dessus) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait 3 masculin singulierמָל
 Jos 5,4 + 2 t. ; 2
@@ -60,7 +60,7 @@ Jos 5,5 (
 D
 ).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Niph`al
 Parfait 3 masculin singulier נִמּוֺל (Ges
 ^«GKC:72»§ 72^, R. 9) Gn 17,26 3 masculin pluriel נִמֹּ֫לוּ
@@ -110,7 +110,7 @@ J
 Jr 4,4
 circoncisez-vous pour Yahvé (et ôtez le prépuce de votre cœur).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Hiph`il
 Imparfait 3 masculin pluriel כי אֲמִילִ֑ם
 ׳
@@ -136,7 +136,7 @@ Symm
 διέθρυψα, Jerome
 ultus sum eas).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 Hithpa`el
 Imparfait 3 masculin pluriel יִתְמֹלָ֑לוּ
 Ps 58,8

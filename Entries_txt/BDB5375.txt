@@ -11,7 +11,7 @@ surround something with (2 accusative); Perfect 3 feminine singular הקיפה
 also = cling to, be attached, joined to, and so Aramaic אַקֵּיף (Aph`el),
 [placeholder3444: Placeholders/3444.gif]);
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect
@@ -19,7 +19,7 @@ Imperfect
 Isa 29:1
 (figurative) let feasts go around, i.e. run the round (of the year).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Perfect

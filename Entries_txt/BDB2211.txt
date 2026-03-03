@@ -11,7 +11,7 @@ abâku, apâku
 
 Dl^W^) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -164,7 +164,7 @@ Lev 13:20 (all
 P
 ).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect
@@ -301,7 +301,7 @@ be upturned, of subterran. work of miners Job
 28:5 = there is an
 upturning.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hithpa`el
 Imperfect 3 feminine singular תִּתְהַפֵּךְ
@@ -334,7 +334,7 @@ transform oneself,
 Job 38:14 of earth under
 rising dawn.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hoph`al
 Perfect

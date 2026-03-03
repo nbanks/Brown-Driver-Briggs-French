@@ -18,7 +18,7 @@ Wetzst^ZMG xxii. 1868, 140^;
 [placeholder2834: Placeholders/2834.gif]
 stick or cleave to); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -80,7 +80,7 @@ E
 Niph`al
 3).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect
@@ -133,7 +133,7 @@ E
 Qal
 3).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hithpa`el
 Imperfect 3 masculine plural; יִתְלַכְּדוּ וְלֹא יִתְפָּרָ֑דוּ

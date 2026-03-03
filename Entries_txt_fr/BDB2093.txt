@@ -4,10 +4,10 @@ hébreu biblique
 הוֺדִיָּה
 nom propre, masculin (ma splendeur est Yah) —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1. un homme de Juda 1 Ch 4,19.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2. Lévites
 
 a.
@@ -16,7 +16,7 @@ Ne 8,7 ; Ne 9,5 ; Ne 10,11
 b.
 Ne 10,14.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3. un chef du peuple Ne 10,19.
 
 ---

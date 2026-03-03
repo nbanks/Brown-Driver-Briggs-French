@@ -5,16 +5,16 @@ hébreu biblique
 nom propre, masculin (gracieux ; comparer sabéen חנן, phénicien
 חנא) —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1. l'un des guerriers de David 1 Ch 11,43.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2. l'un des chefs de familles de Nethînim Esd 2,46 = Ne 7,49.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3. noms de Lévites Ne 8,7 ; Ne 10,11 ; Ne 13,3.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 4. chefs du peuple :
 
 a.
@@ -23,12 +23,12 @@ Ne 10,23.
 b.
 Ne 10,27.
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 5. nom benjaminite 1 Ch 8,23 ; 1 Ch 8,38 ; 1 Ch 9,44 (comparer nom propre, d'un lieu בֵּית
 חָנָן, Mishna
 כְּפַר חָנָן).
 
-@@SPLIT:sense@@
+## SPLIT 6 sense
 6.
 אִישׁ הָאֱלֹהִים chef d'une confrérie prophétique, בְּנֵי חָנָן
 Jr 35,4.

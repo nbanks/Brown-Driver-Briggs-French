@@ -13,7 +13,7 @@ cause to lean upon, etc. Di^335^; Arabic
 [placeholder3605: Placeholders/3605.gif]
 roof; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal_41_
 Perfect 3 masculine singular ׳
@@ -106,7 +106,7 @@ his heart is sustained, firm, and so ׳
 Isa 26:3
 .
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect 1 singular נִסְמַ֫כְתִּי
@@ -128,7 +128,7 @@ Judg 16:29
 and he braced himself against (upon) them (the pillars); 2Kgs 18:21 (if) a man
 support himself on it (Egypt as a cracked reed) = Isa 36:6 on cheering words 2Chr 32:8 on God Isa 48:2; Ps 71:6.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el
 Imperative masculine plural suffix + בְּ instr,: סַמְּכוּנִי

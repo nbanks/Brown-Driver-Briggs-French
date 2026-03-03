@@ -7,7 +7,7 @@ has
 [placeholder5716: Placeholders/5716.gif]
 be smitten, prostrated, collapse ); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 feminine singular consecutive וְשָֽׁקְעָה; Amos 9:5
@@ -21,7 +21,7 @@ E
 Jer 51:64, of
 Babylon (like stone in water; opposed to קוּם).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al 3 feminine singular נִשְׁקְעָה
 Amos 8:8
@@ -34,7 +34,7 @@ Amos 9:5
 Kt
 erroneous נשקה, compare W^SG287^).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Imperfect 1 singular אַשְׁקִיעַ

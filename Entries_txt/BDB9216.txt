@@ -6,7 +6,7 @@ denominative
 Niph`al
 Pi`el:
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Niph`al
 Perfect 3 masculine singular נִתְעַב
@@ -30,7 +30,7 @@ abhorred and corrupt, from disease (נאלח elsewhere Ps 14:3
 
 2. ethically: David's census, according to 1Chr 21:6.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Perfect 3 plural sf תִּעֲבוּנִי
@@ -99,7 +99,7 @@ SS
 Bu
 Du).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Perfect 2 feminine singular הִתְעַבְתְּ

@@ -8,7 +8,7 @@ lowland; — always absolute ׳
 Josh 11:16 —
 lowland:
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. usually technical term of strip west of Judaean mountains (on exact limits see GASm^Geogr. 201 ff.; Expos. Dec. 1896, 404 f.^
 Buhl^Geogr. 104^
@@ -34,7 +34,7 @@ P
 (distinguished from הַמִּישׁוֺר, table-land east of Jordan); region of sycomores 1Kgs 10:27 =
 2Chr 1:15; 2Chr 9:27; 1Chr 27:28.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. of lowland (near coast) north of Carmel Josh 11:2 west of mountains of Ephraim Josh 11:16 (both
 R^

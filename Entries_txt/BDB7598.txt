@@ -4,7 +4,7 @@ Biblical Hebrew
 קָרַן
 verb
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 denominative of קֶרֶן
@@ -17,7 +17,7 @@ Exod 34:35 (
 P
 ).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 denominative of קֶרֶן

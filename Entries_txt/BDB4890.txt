@@ -23,7 +23,7 @@ Gen 34:30 + 13
 t.; suffix 2 feminine singular מְתַיִךְ; Isa 3:25 3 masculine singular מְתָיו
 Deut 33:6 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 males, men, Isa 3:25 (|| גְּבוּרָתֵךְ); more distinctly, וְהַטָּף
@@ -35,7 +35,7 @@ Deut 2:34; Deut 3:6 every
 city of males (male population, compare Dr),
 and the women, etc.; Judg 20:48 (see above; opposed to בְּהֵמָה).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. usually less emphasis on sex, in prose only phrase:
 
@@ -54,7 +54,7 @@ b.
 בִּמְתֵי מְעָ֑ט = consisting of a few men
 Deut 26:5; Deut 28:62
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. elsewhere only in poetry, sex usually not emphasized:
 

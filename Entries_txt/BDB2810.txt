@@ -17,7 +17,7 @@ Ethiopic
 [placeholder1790: Placeholders/1790.gif]
 enumeration, number) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -91,7 +91,7 @@ Prov 29:24
 divide up = plunder the temple, followed by accusative 2Chr 28:21
 (see Be).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Imperfect
@@ -135,7 +135,7 @@ Job
 ;
 1Chr 24:3, but transitive Niph`al is unlikely, see below
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el
 Perfect 3 plural חִלְּקוּ Joel 1Chr 4:2
@@ -197,7 +197,7 @@ scatter, followed by accusative Gen 49:7 (poem) (||
 הפיץ),
 Lam 4:16.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Pu`al
 Perfect
@@ -210,14 +210,14 @@ Amos 7:17
 
 be divided, of land Amos 7:17 spoil Isa 33:23; Zech 14:1.
 
-@@SPLIT:stem@@
+## SPLIT 5 stem
 
 Hithpa`el
 Perfect
 וְהִתְחַלְּקוּ consecutive Josh 18:5
 divide (land) among themselves.
 
-@@SPLIT:stem@@
+## SPLIT 6 stem
 
 Hiph`il
 Infinitive

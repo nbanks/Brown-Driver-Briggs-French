@@ -4,7 +4,7 @@ araméen biblique
 [זְמַן] verbe
 dénominatif
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Hithpa`el
 s'accorder ensemble (
 
@@ -18,7 +18,7 @@ Qr
 M^§ 12 a^ ;
 Kt
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Haphel
 הַזְמִנְתּוּן, voir
 

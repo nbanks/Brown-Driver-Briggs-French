@@ -30,7 +30,7 @@ Dan 9:16; Ps 103:10,
 חֲטָאֵיכֶם
 Isa 1:18 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 sin:
@@ -61,7 +61,7 @@ Ps 51:11
 and it is said in faith, thou wilt cast behind thy back all my sins
 Isa 38:17.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 guilt of sin:
@@ -92,7 +92,7 @@ Ps 103:10
 
 not according to our sins (their guilt) hath he done to us.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 punishment for sin:

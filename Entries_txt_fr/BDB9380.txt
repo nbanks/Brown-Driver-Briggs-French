@@ -11,7 +11,7 @@ verbe
 id. ; samaritain
 [placeholder5943: Placeholders/5943.gif]) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Peal
 Parfait 3 masculin singulier וּקצַך שַׂגִּיא

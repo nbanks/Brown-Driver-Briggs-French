@@ -5,7 +5,7 @@ hébreu biblique
 verbe
 dénominatif
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Hithpo`el
 se tenir au seuil, ou garder le seuil ; — Infinitif construit
 בָּחַ֫רְתִּי

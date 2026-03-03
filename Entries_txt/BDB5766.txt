@@ -22,7 +22,7 @@ Vrss
 ), עֶבְרֵיהֶם
 Exod 32:15 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 region across or beyond anything (usually wady, river, or sea), mostly
@@ -208,7 +208,7 @@ Compare late Assyrian
 ebir nari
 Schr^KB iv. 304, l. 7 from below; KAT 3. 188, 437^.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. (Opposite) side, side:
 הַלָּז

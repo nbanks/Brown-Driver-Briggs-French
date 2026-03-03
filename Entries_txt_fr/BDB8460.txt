@@ -6,7 +6,7 @@ s'égarer, errer (araméen שְׁגָא,
 [placeholder5408: Placeholders/5408.gif]
 id.) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Parfait 1 singulier שָׁגִיתִי
@@ -59,7 +59,7 @@ P
 ) Ez
 45,20 (comparer שׁגג).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 égarer :

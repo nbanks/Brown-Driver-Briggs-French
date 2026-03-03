@@ -15,7 +15,7 @@ the dropping of a cloud, Assyrian
 irpu, irpitu, cloud(s)
 ); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect 3 masculine plural שָׁמָיו יַעַרְפוּטָֿ֑ל

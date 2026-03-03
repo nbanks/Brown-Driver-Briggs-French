@@ -15,7 +15,7 @@ tremble, rage,
 be enraged; Zinjirli רגז
 wrath, Lzb^367^); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular consecutive וְרָגַז
@@ -86,7 +86,7 @@ Prov 29:9 of
 י
 Isa 28:2l.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Perfect 3 masculine singular הִרְגִּיז
@@ -118,7 +118,7 @@ also probably
 Ezek 16:43 (reading תַּרְגִּזִי לִי), see
 Qal near the end.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hithpa`el
 excite oneself, only Infinitive construct suffix אלי

@@ -12,7 +12,7 @@ rukûšu
 animal de selle) ; araméen רִכְשָׁא,
 [placeholder5079: Placeholders/5079.gif] = hébreu biblique רֶכֶשׁ) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Parfait 3 masculin singulier ׳

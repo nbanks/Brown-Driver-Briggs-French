@@ -7,7 +7,7 @@ Arabic
 [placeholder3080: Placeholders/3080.gif]
 anoint, smear); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect

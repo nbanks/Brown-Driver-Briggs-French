@@ -28,7 +28,7 @@ flow or melt away, vanish), whence Lam 3:20; Ps 44:26 but insufficient evidence 
 I. ׳
 שׁ in Hebrew); — sink down,
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 feminine singular שָׁ֫חָה לֶעָפָר נַפְשֵׁנוּ
@@ -45,7 +45,7 @@ Lam 3:20
 Qr
 ,
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 declarative
@@ -61,7 +61,7 @@ Gr reads שָׁחוּ for
 שׁתת
 . —
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hithpa`el
 Ps 42; Ps 43 see

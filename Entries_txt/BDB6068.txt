@@ -22,7 +22,7 @@ DHM^ZMG xxxvii. 415^, compare עלוהו =
 [placeholder3867: Placeholders/3867.gif]
 SabDenkm^91^); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular ׳
@@ -496,7 +496,7 @@ is difficult, compare Comm., and see
 עַוְלָה
 ).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect 3 masculine singular נַעֲלָה
@@ -553,7 +553,7 @@ be exalted, of God Ps 47:10 with על, over all
 gods Ps 97:9
 .
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Perfect
@@ -968,7 +968,7 @@ Josh 8:31; 1Chr 16:40
 ; Ezra 3:3
 .
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hoph`al
 Perfect;.; —
@@ -993,7 +993,7 @@ Judg 6:28 (
 על המזבח
 ).
 
-@@SPLIT:stem@@
+## SPLIT 5 stem
 
 Hithpa`el
 lift oneself: Imperfect 3 masculine singular

@@ -5,7 +5,7 @@ Biblical Hebrew
 denominative
 buy grain; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect 2 masculine plural תִּשְׁבְּרוּ
@@ -35,7 +35,7 @@ Gen 47:14
 figurative Isa 55:1
 , with accusative יַיִן וְחָלָב Isa 55:1.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Imperfect 1 plural נַשְׁבִּיר

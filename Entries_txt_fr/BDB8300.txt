@@ -12,7 +12,7 @@ suffire, abonder, ainsi Qo 15,18 + ;
 [placeholder5317: Placeholders/5317.gif] est être avare, insuffisant,
 Lane^1573^) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imparfait 3 masculin singulier יִשְׂפֹּק

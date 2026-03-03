@@ -4,7 +4,7 @@ Biblical Hebrew
 [טָחַח] verb
 be besmeared — only
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular טַח מֵרְאוֺת עֵינֵיהֶם

@@ -4,7 +4,7 @@ Biblical Hebrew
 שִׂפַּח
 verb
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pi`el
 denominative

@@ -15,7 +15,7 @@ Dn 3,24(K^§ 59.g^) ; féminin singulier בָא
 - Dn 6,13
 ; Dn 7,16 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 certain, sûr
 Dn 2,45 dans
@@ -25,7 +25,7 @@ sans aucun doute !
 מִןיַֿצִּיב Dn 3,8
 certainement.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 vrai
 Dn 6,13

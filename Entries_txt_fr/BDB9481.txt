@@ -15,7 +15,7 @@ SAC^47^, comparer assyrien
 zibânîtu
 , balances) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Peal
 Participe
 actif pluriel זָבְנִין

@@ -14,7 +14,7 @@ curse, We^Held 2.111, 250^; Aramaic
 [placeholder4965: Placeholders/4965.gif]
 stone); &;
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 plural consecutive וְרָֽגְמוּ

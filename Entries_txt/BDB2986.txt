@@ -18,7 +18,7 @@ etc.; perhaps also Ethiopic
 be inferior, worthless, diminished
 Di^590 and derivatives^) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular ׳
@@ -118,7 +118,7 @@ P
 P
 ), waters continually diminished (see הלך above).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 cause to lack, with accusative of person, Imperfect 2 masculine
@@ -131,7 +131,7 @@ Eccl 4:8
 for
 whom am I labouring and depriving myself of good things?
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Perfect

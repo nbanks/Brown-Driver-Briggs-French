@@ -7,7 +7,7 @@ nom propre
 I.
 nom propre, masculin
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 un juge
 Jg 12,13 ;
@@ -29,7 +29,7 @@ lire בָּרָק, voir
 בְּדָן
 ci-dessus).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 un Benjaminite
 1 Ch 8,23,
@@ -45,7 +45,7 @@ A
 
 Αβδων.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3.
 fils de Jehiel un Gabaonite
 1 Ch 8,30 ;
@@ -64,7 +64,7 @@ A
 
 Αβδων.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 4.
 fils de Michée
 2 Ch 34,20

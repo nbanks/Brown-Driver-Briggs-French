@@ -10,14 +10,14 @@ mix (
 ערב
 ); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pa`el
 Passive participle
 מְעָרַב
 mixed with (ב) Dan 2:41; Dan 2:43.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hithpa`al
 Participle

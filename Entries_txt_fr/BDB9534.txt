@@ -4,7 +4,7 @@ araméen biblique
 [חֲנַן] verbe
 faire grâce (voir hébreu biblique) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pa`el
 Infinitif avec aff. personne מִחַן (K^§ K:46, 3
@@ -12,7 +12,7 @@ a^) Dn 4,24 (comparer hébreu biblique Po`.
 Pr 14,21
 ).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hithpa`al
 implorer la grâce (de Dieu ; ainsi hébreu biblique Hithpa`el), Participe

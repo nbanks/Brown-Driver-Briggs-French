@@ -13,7 +13,7 @@ Jb 20,3 + 3 t.,
 etc., pluriel כְּלִמּוֺת
 Mi 2,6 ; Es 50,6 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1. spécifiquement, insulte, opprobre, ׳
 לֹא יִסַּג כ
 Mi 2,6
@@ -22,7 +22,7 @@ Jb 20,3 =
 ma correction humiliante (insultante), c.-à-d. la
 correction qui m'insulte.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2. en général, opprobre, ignominie, opposé à כָּבוֺד
 Ps 4,3
 ׳

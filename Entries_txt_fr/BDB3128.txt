@@ -6,11 +6,11 @@ nom masculin^
 Lv 27,28
 ^
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 chose vouée à l'interdit.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 interdit, anathème ;
 — ׳
@@ -26,7 +26,7 @@ Es 34,5 —
 chose vouée à ׳
 י :
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 1. chose hostile à la théocratie, et donc (dans l'application la plus stricte) devant être soit détruite,
 soit, dans le cas de certains objets (p. ex. argent et or, ustensiles d'airain et de fer Jos 6,19 ; Jos 6,24), mise à part pour un usage sacré ;
 surtout
@@ -100,7 +100,7 @@ verset) ; tout être humain qui devenait ׳
 P
 ; voir Di).
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 2. apparemment (ainsi Di) toute chose vouée
 au sanctuaire sous des conditions particulièrement strictes Lv 27,28 (voir Di ; et
 comparer
@@ -121,7 +121,7 @@ tout tel ׳
 P
 ), aux prêtres sadocites Ez 44,29.
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 3.
 interdit, anathème, impliquant la destruction ; אִישׁ חֶרְמִי
 1 R 20,42

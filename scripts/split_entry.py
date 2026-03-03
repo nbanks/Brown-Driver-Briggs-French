@@ -154,6 +154,170 @@ def _build_chunks(html_text, spans, div_type):
     return chunks
 
 
+_SUBSENSE_DIV_RE = re.compile(r'<div\s+class="subsense"[^>]*>')
+
+
+def _top_level_spans(html_text, div_re):
+    """Find top-level div spans (not nested inside another of the same type)."""
+    all_spans = _find_div_spans(html_text, div_re)
+    top = []
+    for i, (s, e) in enumerate(all_spans):
+        nested = False
+        for j, (s2, e2) in enumerate(all_spans):
+            if i != j and s2 < s and e <= e2:
+                nested = True
+                break
+        if not nested:
+            top.append((s, e))
+    return top
+
+
+def _group_spans_by_size(html_text, spans, max_bytes):
+    """Group consecutive div spans into sub-chunks that fit under max_bytes.
+
+    Returns list of (start_offset, end_offset) covering all of html_text
+    from spans[0] start through spans[-1] end, with inter-div gaps included.
+    Each group's byte size is kept under max_bytes when possible (a single
+    div exceeding the limit is kept as its own group).
+    """
+    groups = []
+    group_start = spans[0][0]
+    group_end = spans[0][1]
+
+    for i in range(1, len(spans)):
+        s, e = spans[i]
+        # Prospective group: from group_start to e (includes inter-div gap)
+        candidate = html_text[group_start:e].encode('utf-8')
+        if len(candidate) <= max_bytes:
+            group_end = e
+        else:
+            groups.append((group_start, group_end))
+            group_start = group_end  # start from end of prev group (gap text)
+            group_end = e
+
+    groups.append((group_start, group_end))
+    return groups
+
+
+def subsplit_html(chunk, max_bytes=10000, max_depth=None):
+    """Sub-split an oversized HTML chunk at div.sense/div.subsense boundaries.
+
+    Recursively splits chunks that exceed max_bytes by finding nested div
+    boundaries (sense, then subsense). Uses dot notation for sub-chunk
+    numbering: chunk type "stem" becomes "stem.1", "stem.2", and if
+    stem.1 needs further splitting it becomes "stem.1.1", "stem.1.2", etc.
+
+    Args:
+        chunk: dict with 'type' and 'html' keys
+        max_bytes: target maximum size in bytes per sub-chunk
+        max_depth: maximum nesting depth (None = unlimited, 1 = one level only)
+
+    Returns list of dicts. Concatenating all 'html' values reproduces the
+    original exactly.
+    """
+    return _subsplit_recursive(chunk, max_bytes, max_depth, depth=0)
+
+
+def _subsplit_recursive(chunk, max_bytes, max_depth, depth):
+    """Recursive implementation of subsplit_html."""
+    chunk_html = chunk["html"]
+    chunk_type = chunk["type"]
+
+    if len(chunk_html.encode('utf-8')) <= max_bytes:
+        return [chunk]
+
+    if max_depth is not None and depth >= max_depth:
+        return [chunk]
+
+    # Find div boundaries to split on. Try sense/point first, then subsense.
+    spans = _find_inner_div_spans(chunk_html)
+
+    if not spans:
+        return [chunk]
+
+    # Group spans into sub-chunks under max_bytes
+    groups = _group_spans_by_size(chunk_html, spans, max_bytes)
+
+    # If grouping didn't actually split anything, stop recursion
+    if len(groups) < 2:
+        return [chunk]
+
+    # Build sub-chunks with full coverage (header + groups + footer)
+    sub_chunks = _build_sub_chunks(chunk_html, chunk_type, groups)
+
+    # Verify round-trip at this level
+    assert "".join(sc["html"] for sc in sub_chunks) == chunk_html, \
+        f"subsplit round-trip failed at depth {depth}"
+
+    # Recurse into any sub-chunk still over max_bytes
+    final = []
+    for sc in sub_chunks:
+        if len(sc["html"].encode('utf-8')) > max_bytes:
+            inner = _subsplit_recursive(sc, max_bytes, max_depth, depth + 1)
+            final.extend(inner)
+        else:
+            final.append(sc)
+
+    return final
+
+
+def _find_inner_div_spans(html_text):
+    """Find the best set of inner div spans to split on.
+
+    Tries sense/point divs first, then subsense divs. Filters out any
+    wrapper div that spans nearly the entire text.
+    """
+    chunk_len = len(html_text)
+
+    def _filter_wrapper(spans):
+        """Remove spans that wrap (nearly) the whole chunk."""
+        return [
+            (s, e) for s, e in spans
+            if not (s < 10 and e > chunk_len - 50)
+        ]
+
+    # Try sense + point divs
+    spans = _top_level_spans(html_text, _SENSE_DIV_RE)
+    spans += _top_level_spans(html_text, _POINT_DIV_RE)
+    spans = _filter_wrapper(sorted(spans))
+    if len(spans) >= 2:
+        return spans
+
+    # Try subsense divs
+    spans = _top_level_spans(html_text, _SUBSENSE_DIV_RE)
+    spans = _filter_wrapper(spans)
+    if len(spans) >= 2:
+        return spans
+
+    return []
+
+
+def _build_sub_chunks(html_text, base_type, groups):
+    """Build numbered sub-chunk dicts from grouped spans.
+
+    Ensures full coverage: concat of all sub-chunk html == html_text.
+    Uses dot notation: base_type.1, base_type.2, etc. (1-indexed).
+    """
+    sub_chunks = []
+    header_text = html_text[:groups[0][0]]
+
+    for i, (gs, ge) in enumerate(groups):
+        if i == 0:
+            html = header_text + html_text[gs:ge]
+        else:
+            html = html_text[groups[i - 1][1]:ge]
+        sub_chunks.append({
+            "type": f"{base_type}.{i + 1}",
+            "html": html,
+        })
+
+    # Footer: append to last sub-chunk
+    footer = html_text[groups[-1][1]:]
+    if footer:
+        sub_chunks[-1]["html"] += footer
+
+    return sub_chunks
+
 
 def _is_verb_entry_txt(txt_text):
     """Detect if a txt entry is a verb entry by looking for stem headings
@@ -168,19 +332,20 @@ def _is_verb_entry_txt(txt_text):
 
 
 def split_txt(txt_text):
-    """Split a txt entry into chunks at @@SPLIT:type@@ markers (if present)
+    """Split a txt entry into chunks at ## SPLIT markers (if present)
     or fall back to heuristic stem/sense detection for unmarked files.
 
     Returns list of dicts: {"type": str, "txt": str}
     """
-    # Primary: use @@SPLIT markers injected by extract_txt.py v4
-    marker_re = re.compile(r'^@@SPLIT:(\w+)@@$')
     lines = txt_text.split('\n')
     marker_indices = []
+
+    # New format: ## SPLIT 1 stem
+    new_re = re.compile(r'^## SPLIT (\S+) (\w+)$')
     for i, line in enumerate(lines):
-        m = marker_re.match(line.strip())
+        m = new_re.match(line.strip())
         if m:
-            marker_indices.append((i, m.group(1)))
+            marker_indices.append((i, m.group(2)))
 
     if marker_indices:
         return _split_txt_by_markers(lines, marker_indices)
@@ -193,7 +358,7 @@ def split_txt(txt_text):
 
 
 def _split_txt_by_markers(lines, marker_indices):
-    """Split txt at @@SPLIT:type@@ marker lines."""
+    """Split txt at ## SPLIT marker lines."""
     chunks = []
 
     # Header: everything before first marker

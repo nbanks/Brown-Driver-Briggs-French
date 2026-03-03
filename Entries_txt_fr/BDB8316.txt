@@ -7,7 +7,7 @@ persister, s'efforcer, persévérer (arabe
 [placeholder5329: Placeholders/5329.gif]
 persister, persévérer) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Parfait 3 masculin singulier ׳

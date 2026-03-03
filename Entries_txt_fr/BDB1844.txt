@@ -5,7 +5,7 @@ hébreu biblique
 dénominatif
 porter ou dresser un étendard, une bannière —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Imparfait 1 pluriel נִדְנֹּל
 Ps 20,6 (Gr
@@ -21,7 +21,7 @@ Che
 נִגְדַּל ; peut-être נַגְדִּל ?) dresser un étendard au combat,
 comparer Dl^Pr 61.^
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Niph`al
 Participe féminin pluriel נִדְגָּלוֺת
 Ct 6,4 ; Ct 6,10

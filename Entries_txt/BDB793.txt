@@ -33,7 +33,7 @@ Isa 50:11
 אִשָּׁם
 Isa 66:24 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 fire, of conflagration, e.g. in briers, endangering or destroying crops תֵּצֵא אֵשׁ
@@ -62,7 +62,7 @@ Josh 8:8; Josh 8:19; Jer 17:27
 ; 2Sam
 14:30; 2Sam 14:31 (of field, compare Exod 22:5 above)
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. of supernatural fire, attending theophany Exod 3:2; Exod 19:18 (both
 J
@@ -115,7 +115,7 @@ E
 ; Ps 148:8
 etc.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. fire for cooking, roasting, parching, etc. צְלִי אֵשׁ
 roasted at a fire
@@ -130,7 +130,7 @@ Qr
 
 מֵאֵשׁ תַּם עֹפֶרֶת; compare Mal 3:2 (simile of purifying work of messenger of cov't).
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4. especially of altar-fire Lev 1:7 (twice in verse); Lev 6:2; Lev 6:3; Lev 6:5; Lev 6:6 +; in offering incense Lev 10:1, also אֵשׁ זָרָה
 strange fire, i.e. an incense not commanded, offered presumptuously Lev 10:1; Num 3:4; Num 26:61 fire from ׳
@@ -142,7 +142,7 @@ strange fire, i.e. an incense not commanded, offered presumptuously Lev 10:1; Nu
 בער בָּא
 2Chr 28:3.
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 5.
 figurative of Yahweh's anger Ps 89:47 (simile) compare Nah 1:6; Lam 2:4
@@ -159,7 +159,7 @@ of word of ׳
 Jer 23:29
 figurative of outbursting emotion Ps 39:4 of flagrant wickedness Isa 9:17, etc:
 
-@@SPLIT:sense@@
+## SPLIT 6 sense
 
 6. in various combinations, לַפִּיד אֵשׁ
 Gen 15:17 (

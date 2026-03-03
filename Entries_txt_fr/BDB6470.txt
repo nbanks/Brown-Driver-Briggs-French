@@ -9,7 +9,7 @@ penser (aramaïsme : araméen biblique Participe עֲשִׁית,
 
 אִתְעַשַּׁת) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Hithpa`el
 Imparfait 3 masculin singulier לָנוּ

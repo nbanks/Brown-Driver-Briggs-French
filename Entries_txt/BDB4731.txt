@@ -19,7 +19,7 @@ Josh 1:12 + 10 t.
 
 Μαν(ν)ασση; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 
@@ -193,7 +193,7 @@ Num 34:13
 P
 ).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. son of Hezekiah, and king of Judah (Assyrian
 Menasê, Minsê
@@ -202,7 +202,7 @@ Schr^COT 2Kgs 21:1^); — 2Kgs 20:21; 2Kgs 21:1 + 9 t. Kings, 12 t.
 Chronicles,
 Jer 15:4.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. two who had taken strange wives:
 

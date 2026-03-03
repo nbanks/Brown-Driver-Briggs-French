@@ -14,7 +14,7 @@ TP^Prism vi. 15^
 DHM^ZMG 1883, 15 and in proper name, Id. in^
 MV^10, pp. 242, 983^) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular זָרַע
@@ -241,7 +241,7 @@ Vrss
 Ol Hu Bae
 Che and others
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 be sown, fructified, Perfect 3 feminine singular וְנִזְרְעָה
@@ -299,7 +299,7 @@ Num 5:28
 P
 ; of woman).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pu`al
 Perfect 3 plural זֹרָ֑עוּ
@@ -307,7 +307,7 @@ Isa
 40:24 of princes and judges under figure of trees (|| נִטָּ֑עוּ,
 שֹׁרֵשׁ בָּאָרֶץ גִּזְעָם).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hiph`il
 Imperfect 3 feminine singular תַּזְרִיעַ

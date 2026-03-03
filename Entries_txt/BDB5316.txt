@@ -29,7 +29,7 @@ DHM^ZMG xxx (1876), 115 f.^
 Derenb^Jas, 1883, Aug.-Sept. 244^; Minaean מצב
 statue (= מנצב HOM^Südar. Chrest. 128^); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Niph`al
 Perfect 3 feminine singular נִצְּבָה
@@ -154,7 +154,7 @@ GASm leave untranslated; Now
 proposes הַנַּחֲלָה
 diseased.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Perfect
@@ -254,7 +254,7 @@ machen'; Klo
 נִצַּב substantive, see below; compare HPS
 .
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hoph`al
 Perfect 3 masculine singular הֻצַּב

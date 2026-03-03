@@ -13,7 +13,7 @@ tow (see below); Arabic
 [placeholder3369: Placeholders/3369.gif]
 boil, be in violent commotion, be very angry); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 1 singular נָעַ֫רְתִּי
@@ -38,7 +38,7 @@ participle shaken out, emptied
 Neh 5:13 (i.e.
 stripped of possessions); shake off (leaves) Isa 33:9 (compare || clause).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect 1 singular נַנְעַ֫רְתִּי כָאַרְבֶּה
@@ -53,7 +53,7 @@ Judg 16:20
 I will shake myself (free ? compare Hithpa`el and GFM
 ).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el
 Imperfect 3 masculine singular jussive יְנַעֵר
@@ -70,7 +70,7 @@ shook off the Egyptian into (ב) the sea, = Perfect
 Ps 136:15
 (also with accusative + ב).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hithpa`el
 Imperative feminine singular הִתְנַעֲרִי מֵעָפָר

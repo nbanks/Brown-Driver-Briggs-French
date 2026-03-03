@@ -18,7 +18,7 @@ id., être doux ; arabe
 [placeholder3131: Placeholders/3131.gif]
 douceur) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait 3 masculin singulier suffixe מְתָקוֺ
 Jb 24,20 3
@@ -55,7 +55,7 @@ Da ; aussi SS qui rendent « angenehm
 finden »), mais ce sens en hébreu est douteux ; texte peut-être corrompu (comparer les conjectures de Bu
 Du).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Hiph`il
 Imparfait 3 féminin singulier אִם תַּמְתִּיק בְּפִיו רָעָה
 Jb 20,12

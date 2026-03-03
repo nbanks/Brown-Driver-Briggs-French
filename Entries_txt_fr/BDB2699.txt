@@ -35,7 +35,7 @@ Ez 18,21 ;
 Ez 33,16,
 etc., + 40 t. suffixe ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 péché :
 
@@ -368,7 +368,7 @@ homme est pur du péché
 טהר מח
 Lv 16,30.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 condition de péché, culpabilité du péché
 Gn 18,20
@@ -390,7 +390,7 @@ les
 cornes de vos autels
 Jr 17,1.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3.
 châtiment pour le péché :
 כָלהַֿגּוֺיִם
@@ -404,7 +404,7 @@ tel sera le châtiment pour le péché de l'Égypte et le châtiment pour le pé
 
 (la plaie dont Yahvé les frappera).
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 4.
 sacrifice pour le péché : l'un des types d'offrandes de
 P
@@ -580,7 +580,7 @@ Lv 14,13 ;
 Ez 40,39
 .
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 5.
 purification des péchés d'impureté cérémonielle, tous
 P

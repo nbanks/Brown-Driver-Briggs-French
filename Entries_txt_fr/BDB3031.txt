@@ -32,7 +32,7 @@ Ne 3,38
 Za 14,8 (deux fois
 dans le verset) + 2 t. —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 moitié de toute chose : — sang de l'offrande Ex 24,6 (deux fois dans le verset) (
 J
@@ -78,7 +78,7 @@ ci-dessous נוח). — Sur כבחצי
 We
 Dr.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 milieu
 הלילה

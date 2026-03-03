@@ -16,7 +16,7 @@ id. ; — de ׳
 38^
 Lewy^Fremdw.165^) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Parfait 3 masculin singulier consécutif ׳

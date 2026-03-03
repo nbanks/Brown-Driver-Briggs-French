@@ -5,7 +5,7 @@ Biblical Hebrew
 proper name, masculine
 Εσρας, Εσδρας, Εζδρας;
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 Ezra
@@ -17,11 +17,11 @@ Ezra 10:10;
 Ezra 10:16;
 Neh 8:2; Neh 8:9, both Ezra 7:11; Neh 12:26.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. priest with Zerubbabel Neh 12:1; Neh 12:13.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 Neh 12:33.

@@ -4,7 +4,7 @@ hébreu biblique
 [דָּגָה] verbe
 multiplier, croître (intransitif) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Imparfait 3 masculin pluriel וְיִדְגּוּ לָרֹב בקרב הארץ
 Gn 48,16 (

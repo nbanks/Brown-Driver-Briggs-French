@@ -8,7 +8,7 @@ Exod 17:12 + 46
 t.; אֱמוּנוֺת
 Prov 28:20.
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 literally
@@ -18,7 +18,7 @@ Exod 17:12
 וַיְהִי יָדָיו א
 his hands were steadiness (i.e. steady).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 steadfastness,
@@ -26,7 +26,7 @@ steadfastness,
 steadfastness of thy times
 Isa 33:6.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 faithfulness, trust:

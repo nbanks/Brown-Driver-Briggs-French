@@ -17,7 +17,7 @@ repeat, also teach,
 two, see Philippi^ZMG xxxii (1878), 77^
 Ba^ib. xli (1887), 603^); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular ׳
@@ -54,7 +54,7 @@ Eccl 42:1); Prov 26:11 a
 dullard repeats with (ב) his folly, does it over again (learns nothing by
 experience).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Infinitive construct

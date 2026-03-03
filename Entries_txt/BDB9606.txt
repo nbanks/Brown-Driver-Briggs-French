@@ -10,7 +10,7 @@ id.; Egyptian Aramaic, S-C^Pap.A 6. 8.11^+;
 Ethiopic
 [placeholder6039: Placeholders/6039.gif] compare synonym יְכִל); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pe`al
 Participle

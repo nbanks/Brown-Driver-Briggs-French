@@ -7,7 +7,7 @@ be or grow lean (Arabic
 [placeholder5014: Placeholders/5014.gif]
 grow thin and weak); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular רָזָה
@@ -23,7 +23,7 @@ attenuavit;
 is ἐξολεθρύσει), but sense strange, < רִזָּה (see Arabic above), yet even
 this very doubtful.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 be made lean, Imperfect 3 masculine singular מִשְׁמַן בְּשָׂרוֺ יֵרָזֶה

@@ -11,7 +11,7 @@ be evil, Assyrian
 bîšu
 Lotz^TP 78^) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -42,7 +42,7 @@ Lo
 Di read תִּיבַשׁ, dry up and die,
 which suits ||, but not the usage of יָבֵשׁ).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect
@@ -62,7 +62,7 @@ strangely) 1Sam 13:4
 
 Israel made themselves odious to the Philistines; 2Sam 10:6 Ammonites to David
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Perfect
@@ -116,7 +116,7 @@ Hi
 Zö
 acts odiously and shamefully).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hithpa`el
 Perfect

@@ -10,7 +10,7 @@ probablement cananéisme ; assyrien
 ša—â—u
 est opprimer, tourmenter) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Parfait 3 masculin singulier consécutif וְשַׁח
@@ -52,7 +52,7 @@ se courber, d'un homme en deuil (קֹדֵר), Ps 35,14 ; Ps 38,7.
 4.
 se tapir, d'une bête sauvage dans son repaire Jb 38,40.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Imparfait
@@ -66,7 +66,7 @@ s'exprimer humblement, des paroles מֵעָפָר
 Es 29,4 (||
 שָׁפֵל).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 prosterner, abattre, une ville, des murailles, etc. ; Parfait 3 masculin singulier
@@ -75,7 +75,7 @@ Es 25,12 ;
 Es 26,5 (tous deux
 || הִשְׁפִּיל).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hithpo`el
 être abattu, désespéré : Imparfait 3 féminin singulier תִּשְׁתּוֺחָ֑ח

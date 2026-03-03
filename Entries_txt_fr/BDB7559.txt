@@ -11,7 +11,7 @@ Ez 40,46 ;
 Ez 45,4 —
 qui s'approche :
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. comme prédicat, אֶלדָּֿוִד
 ׳
@@ -28,7 +28,7 @@ article comme substantif,
 ׳
 מִשְׁכַּן י).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. avec article s'approchant du
 temple ou tabernacle de ׳

@@ -5,7 +5,7 @@ Biblical Hebrew
 be stout, strong, bold, alert (according to Lag^BN 28
 f.^ from earlier אָמֹץ compare אֹמֶץ) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3
@@ -42,7 +42,7 @@ be bold (always || חֲזַק, חִזְקוּ), Deut 31:7; Deut 31:23; Josh 1:6;
 אַל
 תִּירְאוּ וְאַל תֵּחָ֑תּוּ) Josh 10:25; 1Chr 22:13; 1Chr 28:20; 2Chr 32:7.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Perfect
@@ -115,7 +115,7 @@ Deut 2:30
 י; || הִקְשָׁה רוּחוֺ) Deut 15:7 (of unkind man); 2Chr 36:13 (of king Zedekiah, ||
 הִקְשָׁה אֶתעָֿדְפּוֺ).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hithpa`el
 Perfect
@@ -142,7 +142,7 @@ Ruth 1:18
 make oneself alert, make haste 1Kgs 12:18 = 2Chr 10:18 (followed by
 ל + Infinitive)
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hiph`il
 Imperfect>

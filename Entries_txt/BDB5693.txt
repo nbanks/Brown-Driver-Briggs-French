@@ -30,7 +30,7 @@ Exod 32:33,
 סִפְרְךָ Exod 32:33; Ps 139:16 plural סְפָרִים
 1Kgs 21:8 +; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 missive:
@@ -69,7 +69,7 @@ b. from prophet Jer 29:1, other influential
 persons Jer
 29:25 Jer 29:29 .
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 legal document, כְּרִיתֻת
@@ -106,7 +106,7 @@ Jer 32:12;
 Jer 32:44
 ).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 book, or scroll, in which something is written to preserve it for future
@@ -343,7 +343,7 @@ Ps 69:29
 
 Dan 12:1 (citizens of Messianic kingdom).
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 ׳

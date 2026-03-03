@@ -5,7 +5,7 @@ hébreu biblique
 dénominatif
 blanchir à la chaux ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Parfait 2 masculin singulier וְשַׂדְתָּ֫ אֹתָם בַּשִּׁיד

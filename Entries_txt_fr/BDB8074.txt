@@ -15,7 +15,7 @@ autres, d'une pièce de monnaie, bon, Id^ib. no. 21, 5^ ; araméen רְעָא,
 [placeholder5159: Placeholders/5159.gif]
 prendre plaisir à, comparer II. רָעָה ci-dessus) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Parfait 3 masculin singulier ׳
@@ -131,7 +131,7 @@ Lv 26,43 ( < pointer tout cela comme
 Hiph`il, ainsi SS
 Gerber).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Parfait 3 masculin singulier נִרְצָה
@@ -165,7 +165,7 @@ Qal
 Es 40,2
 sa punition est acceptée (comme satisfaisante).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el
 Imparfait 3 masculin pluriel יְרַצּוּ
@@ -177,7 +177,7 @@ Bu
 SS
 Gerber de רצץ).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hiph`il
 Parfait 3 féminin singulier וְהִרְצָת (Ges
@@ -186,7 +186,7 @@ la terre paiera ses sabbats (accusatif), comparer
 Qal
 4.
 
-@@SPLIT:stem@@
+## SPLIT 5 stem
 
 Hithpa`el
 Imparfait 3 masculin singulier יִתְרַצֵּה

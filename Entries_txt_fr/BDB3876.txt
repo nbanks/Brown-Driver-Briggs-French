@@ -9,7 +9,7 @@ reculer timidement,
 [placeholder2404: Placeholders/2404.gif]
 s'abstenir, par timidité) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Niph`al
 Parfait
 וְנִכְאָה consécutif Dn 11,30
@@ -19,7 +19,7 @@ Ps 109,16
 
 abattu de cœur (|| עָנִי וְאֶבְיוֺן).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Hiph`il
 Infinitif construit
 הַכְאוֺת לֵב צַדִּיק

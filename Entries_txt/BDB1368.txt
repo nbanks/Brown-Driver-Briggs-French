@@ -15,7 +15,7 @@ Gen 17:11 + 40
 t.; suffix בּשָׂרִי etc. Ps 16:9 + 96 t.; plural בְּשָׂרִים
 Prov 14:30 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 of the body:
@@ -93,7 +93,7 @@ Isa 39:18;
 
 . The flesh of the body is contrasted with stone Ezek 11:19; Ezek 36:26.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 flesh for the body itself (especially in
@@ -166,7 +166,7 @@ my body trembleth for fear of thee
 Ps
 119:120.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 male organ of generation (euphemism): בְּשַׂר עָרְלַתְכֶם
@@ -201,7 +201,7 @@ Ezek 23:20;
 Ezek 44:7;
 Ezek 44:9.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 flesh for kindred, blood-relations:
@@ -243,7 +243,7 @@ H
 25:49 || מִשְׁפָּחָה, compare
 RS_k_^149^).
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 5.
 man over against God as frail or erring
@@ -256,7 +256,7 @@ J
 eyes of flesh Job
 10:4 arm of flesh 2Chr 32:8; Jer 17:5 horses are flesh not spirit Isa 31:3
 
-@@SPLIT:sense@@
+## SPLIT 6 sense
 
 6. the phrase ׃כָּלבָּֿשָׂר
 

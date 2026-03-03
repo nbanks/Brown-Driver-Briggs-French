@@ -5,7 +5,7 @@ Biblical Hebrew
 noun [masculine]
 circle, ball —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 circle: Du^
@@ -23,7 +23,7 @@ Isa 29:3 (
 Brd
 כְּדָוִד).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 ball
@@ -38,7 +38,7 @@ SS under the word; see
 כדר
 ). [
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 heap, pile

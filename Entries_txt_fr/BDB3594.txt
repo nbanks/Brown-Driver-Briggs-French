@@ -15,7 +15,7 @@ Qr
 Kt
 peut-être doit se lire
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Pu`al
 Participe
 מְיסָֻּדוֺת

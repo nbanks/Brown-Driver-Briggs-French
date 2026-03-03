@@ -12,12 +12,12 @@ Ps 58:6, suffix
 חֲבָרַיִךְ
 Isa 47:9; Isa 47:11 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 company, band of (bad) priests Hos 6:9.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 association, society (abstract), only in בֵּית חָ֑בֶר
@@ -30,7 +30,7 @@ RVm
 VB
 ).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. spell:
 

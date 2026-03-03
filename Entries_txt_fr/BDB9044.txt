@@ -10,7 +10,7 @@ ramper,
 [placeholder5745: Placeholders/5745.gif]
 germer, pousser) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Parfait 3 masculin singulier ׳

@@ -7,7 +7,7 @@ proper name
 I.
 proper name, masculine
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 a judge
@@ -30,7 +30,7 @@ read בָּרָק, see
 בְּדָן
 above).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 a Benjamite
@@ -47,7 +47,7 @@ A
 
 Αβδων.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 son of Jehiel a Gibeonite
@@ -67,7 +67,7 @@ A
 
 Αβδων.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 son of Micah

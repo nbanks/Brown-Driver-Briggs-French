@@ -16,7 +16,7 @@ pole, bar
 Dl^Prol.184^
 Gerber^Verb. denominative 195 f.^, compare Buhl); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 feminine singular מָ֫טָה
@@ -63,7 +63,7 @@ subject מַמְלָכוֺת
 Ps 46:7 subject
 אֶרֶץ (= land) Ps 60:4 compare Isa 24:19 (see below Hithpa`el)
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect 3 plural נָמ֫וֺטוּ
@@ -105,7 +105,7 @@ RV
 Kt
 Hiph`il q. v.); figurative of steadfast obedience (subject פְּעָמַי) Ps 17:5.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Imperfect 3 masculine plural יָמִ֫יטוּ
@@ -131,7 +131,7 @@ Bae
 Dr), which Bi
 Che insert.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hithpo`el
 Perfect 3 feminine singular הִתְמוֺטְטָה מוֺט

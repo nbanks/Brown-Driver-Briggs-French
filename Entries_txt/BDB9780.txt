@@ -6,7 +6,7 @@ answer (see Biblical Hebrew I.
 עָנָה
 ); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pe`al
 Perfect 3 feminine singular עֲנַת

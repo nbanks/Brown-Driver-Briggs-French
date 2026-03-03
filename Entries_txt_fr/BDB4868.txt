@@ -19,7 +19,7 @@ id., araméen
 [placeholder3108: Placeholders/3108.gif], מַשְׁכָּא
 id.) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait 3 masculin singulier ׳
 מ
@@ -208,7 +208,7 @@ probablement
 corrompu We
 Now.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Niph`al
 Imparfait 3 masculin pluriel לֹא יִמָּשֵׁ֑כוּ
 Es 13,22
@@ -219,7 +219,7 @@ Ez 12,25
 12,28
 cela ne sera pas différé.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Pu`al
 Participe
 étiré en longueur :

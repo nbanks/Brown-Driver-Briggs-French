@@ -27,7 +27,7 @@ Ps 50:5
 1Sam 2:9 + 15 t.
 suffixes; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 kind:
@@ -48,7 +48,7 @@ strok (is the ostrich kind like the stork?).
 c. of God, only Jer 3:12; Ps 145:17
 .
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 pious, godly, either as exhibition of 'duteous love' toward God (

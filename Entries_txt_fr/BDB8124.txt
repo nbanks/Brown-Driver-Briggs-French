@@ -15,7 +15,7 @@ Ez 3,18 (supprimer
 Co), Ez 3,19 (רָשָׁע
 Co) ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. habituellement comme substantif, coupable d'un crime, méritant un châtiment ;
 parfois aussi méchant ; opposé à צַדִּיע ; רָשָׁע
@@ -63,7 +63,7 @@ Dt 25,1 ; 1 R 8,32 =
 אמר לר
 Pr 24,24.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 coupable d'hostilité envers Dieu ou son peuple, ennemis méchants :
@@ -77,7 +77,7 @@ J
 ), Babylone Es 13,11 ; Es 14,5, Chaldéens Ha 1,4 ; Ha 1,13 || שׂנְאֵי יהוה
 2 Ch 19,2.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 coupable de péché, contre Dieu ou l'homme, méchant :

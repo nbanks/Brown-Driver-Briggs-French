@@ -8,7 +8,7 @@ enceinte de siège, siège, retranchement ; — toujours ׳
 Ez 4,7 suffixe
 מְצוּרֶ֑ךָ Ez 4,8 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 siège
 שָׂם עָלֵינוּ
@@ -53,7 +53,7 @@ Dt 28,55 ;
 Dt 28,57 ;
 Jr 19,9.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 enceinte, c.-à-d. ouvrages de siège
 Dt 20,20

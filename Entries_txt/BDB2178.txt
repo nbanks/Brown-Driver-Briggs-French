@@ -36,7 +36,7 @@ construct תְּהִלּוֺת
 Ps 22:4 + 3 t.;
 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 praise, adoration, thanksgiving, paid to ׳
@@ -99,7 +99,7 @@ Isa 48:9 (||
 י
 Isa 42:8.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. the act of general, public, praise (compare also above especially Ps 22:4; Ps 33:1; Ps 106:12;
 Neh 12:46); —
@@ -118,7 +118,7 @@ exhortation to the peoples הַשְׁמִיעוּ
 Ps 66:8 (||
 בָּֽרֲכוּ עַמִּים אֱלֹהֵינוּ), compare Isa 42:12.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 praise-song, as title, תְּהִלָּה לְדָוִד
@@ -126,7 +126,7 @@ Ps 145:1
 (so Late Hebrew ספר תהלות & תְּהִלִּים, תִּילִּים, =
 Psalms).
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4. qualities, deeds, etc., of ׳
 י, demanding praise: — נוֺרָא תְהִלֹּת
@@ -153,7 +153,7 @@ Ps 106:47 =
 1Chr 16:35
 to give thanks unto thy holy name, to glory in thy praises (= praiseworthy deeds).
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 5.
 renown, fame, glory:

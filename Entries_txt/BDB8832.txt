@@ -4,7 +4,7 @@ Biblical Hebrew
 שַׁמּוּעַ
 proper name, masculine
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 son of David
@@ -12,11 +12,11 @@ son of David
 Σαμμους [ε], Σαμαα (= שִׁמְעָא
 2).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. Reubenite, Num 13:4, Σαμουηλ, Σαλαμιηλ etc.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. Levite, Neh 11:17 (= שְׁמַעְיָה
 1Chr 9:16),

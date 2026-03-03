@@ -15,7 +15,7 @@ Isa 53:1 plural
 absolute שְׁמֻעוֺת
 Dan 11:44 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 report, sometimes after שָׁמַע
@@ -56,7 +56,7 @@ Now^
 Obad 1:1
 ^).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. = mention
 בְּפִיךְ

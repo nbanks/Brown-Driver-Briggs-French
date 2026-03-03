@@ -19,7 +19,7 @@ utilisent אם,
 אין, syriaque
 [placeholder5998: Placeholders/5998.gif]]) ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 si, Dn
@@ -35,7 +35,7 @@ Dn 2,5 ; Dn 2,9 ; Dn 3,15 Dn 3,18
 הֵן לָ֔א
 sinon.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. répété, הֵן ֗֗֗ הֵן
 sive … sive, soit … soit (comparer hébreu biblique אִם, 1 b 1),
@@ -44,7 +44,7 @@ palmyrénien^
 Tariff ii.c.19
 ^).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. dans une question indirecte, si (comparer אִם, 2.b.), Esd 5,17b יִתְבַּקַּר ֗֗֗ הֵן אִיתַי ֗֗֗ . — Voir aussi
 לָהֵן. p. 50, 243, 1099

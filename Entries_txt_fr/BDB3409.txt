@@ -4,7 +4,7 @@ hébreu biblique
 [יָבַם] verbe
 dénominatif, seulement
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Pi`el
 accomplir le devoir de
 יָבָם

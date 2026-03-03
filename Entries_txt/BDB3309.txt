@@ -18,7 +18,7 @@ Jer 52:32
 suffix טוֺבֹתָיו
 Neh 6:19 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 welfare, prosperity, happiness: || שׁלום
@@ -64,7 +64,7 @@ Eccl 6:3 after
 נחם על
 Jer 18:10.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 good things (collective):
@@ -84,7 +84,7 @@ b. of material possessions ׳
 Eccl 5:10
 when good things increase.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 bounty, good

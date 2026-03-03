@@ -23,7 +23,7 @@ etc. ; pluriel (en poésie et tardif) construit שִׂפְתוֺת
 Qo 10,12,
 suffixe שִׂפְתוֺתֶיךָ etc. Ps 45,3 ; Ps 59,8 ; Es 59,3 ; Ct 4,3 ; Ct 4,11 ; Ct 5,13 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 lèvre :
 
@@ -224,7 +224,7 @@ Jb 23,12,
 דְּבַר שׂ
 Ps 17,4.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 langue, langage (voir
 לָשׁוֺן
@@ -244,7 +244,7 @@ Es 28,11
 Es 19,18
 (c.-à-d. l'hébreu).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3.
 bord : rivage de la mer Gn 22,17 (
 J

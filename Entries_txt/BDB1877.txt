@@ -8,7 +8,7 @@ dâku
 , kill
 COT^Gloss^). —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal. Perfect 3 plural דָּכ֨וּ בַּמְּדֹכָה (milra`
 ) Num

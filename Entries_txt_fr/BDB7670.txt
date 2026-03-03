@@ -6,7 +6,7 @@ nom propre, masculin (׳
 י
 a vu) ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. Judéen
 1 Ch 4,2 (Ραδα),
@@ -25,7 +25,7 @@ A
 
 Αραα)
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. Rubénite 1 Ch 5,5, Ρηχα,
 
@@ -35,7 +35,7 @@ A
 
 Ραια)
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. nom post-exilique Esd 2,47 (Ρεηλ,
 A

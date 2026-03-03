@@ -11,7 +11,7 @@ a—azu
 , Ethiopic
 [placeholder147: Placeholders/147.gif]) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -130,7 +130,7 @@ Judg 8:10; 1Chr 5:18 &
 Ezek 41:6 (twice
 in verse) (but see Co).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect 3 plural נאֹחֲזוּ
@@ -161,7 +161,7 @@ Josh 22:9; Josh 22:19 (
 P
 ).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el
 Participle
@@ -171,7 +171,7 @@ with accusative enclose, overlay (so Assyrian
 Dl^W, p. 294^, compare Arabic
 [placeholder149: Placeholders/149.gif], shut).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hoph`al
 Participle plural מָאֳחָזִים

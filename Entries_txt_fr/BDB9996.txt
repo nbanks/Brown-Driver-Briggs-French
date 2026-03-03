@@ -10,7 +10,7 @@ verbe
 id., syriaque
 [placeholder6188: Placeholders/6188.gif]) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pe`al
 Parfait 3 masculin singulier ׳

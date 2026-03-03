@@ -4,7 +4,7 @@ hébreu biblique
 מְשַׁמָּה
 nom féminin = שַׁמָּה : — absolu
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. = dévastation, désolation, ׳
 אֶתהָֿאָרֶץ שְׁמָמָה וּמ
@@ -21,7 +21,7 @@ voir
 Es 15,16 =
 Jr 48,34.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 horreur, ׳

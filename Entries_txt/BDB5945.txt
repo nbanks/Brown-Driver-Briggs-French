@@ -30,7 +30,7 @@ plural עֻזָּמוּ
 Ps 89:18, etc.;
 — strength, might (usually in poetry, 44 t. Psalms):
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. material and physical, מִגְדַּלעֹֿז
 Judg 9:51, and
@@ -104,7 +104,7 @@ Ezek 19:12;
 Ezek 19:14
 (vine-branches, in figure), Ps 110:2.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. personal, social, and political:
 
@@ -151,7 +151,7 @@ Prov 24:5 see
 עַז
 .
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 might of ׳
@@ -183,7 +183,7 @@ d. manifested in connection with the ark, אֲרוֺן עֻזֶּ֑ךָ
 Ps 132:8,
 עֹז = ark Ps 78:61.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 עֹז פָּנָיו = boldness, impudence
@@ -198,7 +198,7 @@ he who is impudent
 Siegf (compare עזז
 Hiph`il).
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 5. = stronghold (compare 2.c.): Ps 8:3
 out of the mouth of babes . . . thou hast founded strength, or a stronghold (for

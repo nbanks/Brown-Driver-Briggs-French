@@ -53,7 +53,7 @@ Kit
 Bu
 HPS); — hundred: —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. as simple number:
 
@@ -333,7 +333,7 @@ Kö^ii. 228^ compare
 Ew^§ 269 b. 279 e^). — Neh 5:11 see 3
 below
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. as part of larger number:
 
@@ -382,7 +382,7 @@ Da^Synt. §§ 36 R. 3, 37^ (d)
 Ges^ §§ 97, 134 and^ especially Herner^Synt. d.
 Zahlw-rter im AT (1893).^
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 מְאַת הַכֶּסֶף

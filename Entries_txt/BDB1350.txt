@@ -11,7 +11,7 @@ pious, kind, true;
 [placeholder720: Placeholders/720.gif]
 he was pious, good, virtuous, honest) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -65,7 +65,7 @@ RV
 בּוּר
 .
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 הִבָּרוּ
@@ -82,7 +82,7 @@ a. ceremonially, the bearers of the sacred vessels Isa 52:11.
 b.
 morally 2Sam 22:27 = Ps 18:27.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el
 Infinitive
@@ -91,7 +91,7 @@ Dan
 11:35
 purify (|| לִצְרוֺף, לַלְבֵּן).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hiph`il
 
@@ -110,7 +110,7 @@ Jer
 51:11
 polish arrows (see 3 above).
 
-@@SPLIT:stem@@
+## SPLIT 5 stem
 
 Hithpa`el
 

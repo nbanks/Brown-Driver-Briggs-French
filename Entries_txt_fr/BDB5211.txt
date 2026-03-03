@@ -21,7 +21,7 @@ Qr
 נָכְרִיָּה) ; féminin pluriel נָכְרִיּוֺת
 Gn 31,15 + ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 
 a.
@@ -69,7 +69,7 @@ Gn 31,15 (
 E
 ; c.-à-d. n'appartenant pas à la famille du père).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 נָכְרִיָּה
 femme étrangère, comme terme technique, dans les Proverbes, pour prostituée (peut-être
@@ -84,7 +84,7 @@ Pr 5,20 (||
 27,13
 voir ci-dessous
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3.
 figuré
 inconnu, non familier :

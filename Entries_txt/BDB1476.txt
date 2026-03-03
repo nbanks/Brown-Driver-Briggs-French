@@ -15,7 +15,7 @@ suffix גְּדוּדָיו
 Job 19:12;
 Job 25:3 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 marauding band (making incursions, inroads, compare גדד)
@@ -34,7 +34,7 @@ Hos 6:9; Hos 7:1; Jer 18:22
 1Chr 12:19
 figurative of God's attacking forces, his chastisements Job 19:12 (compare Job 25:3 below)
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 troop, of divisions of army of Israel (late) גְּדוּדֵי
@@ -54,7 +54,7 @@ in simile; also Mic
 4:14
 בַּתגְּֿדוּד of Zion.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 foray, raid

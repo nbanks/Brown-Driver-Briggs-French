@@ -10,7 +10,7 @@ rejoice, be glad (Late Hebrew id.; compare perhaps Assyrian
 [placeholder5284: Placeholders/5284.gif]
 be high, proud; Punic proper name, feminine שמחת); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal_126_
 Perfect 3 masculine singular שָׂמַח
@@ -116,7 +116,7 @@ Perles^RÉJ xxxiv. 63^
 be gentle, Arabic
 [placeholder5285: Placeholders/5285.gif]), ב of thing Ps 104:31.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Perfect 3 masculine singular וְשִׂמַּח consecutive Deut 24:5, suffix
@@ -175,7 +175,7 @@ Ps
 ;
 Eccl 10:19; Prov 12:25; Prov 15:30; Prov 27:9.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il =
 Pi`el

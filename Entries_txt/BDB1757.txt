@@ -9,7 +9,7 @@ garâru
 , run, Zim^BP 102^; etc.)
 —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect suffix יְנֹרֵהוּ
@@ -18,7 +18,7 @@ Hab 1:15,
 Prov 21:7 —
 drag away, fishes in net, figurative Hab 1:15 (Chaldeans, their opponents); violence, the wicked Prov 21:7.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al (read
 Qal ? Samaritan יָגוֺר compare Di)
@@ -34,7 +34,7 @@ cheweth not, compare also Deut 14:8
 
 (Di).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Po`al
 Participle (denominative; so Late Hebrew Qal & Niph`al) מִגֹרָרוֺת
@@ -42,7 +42,7 @@ Participle (denominative; so Late Hebrew Qal & Niph`al) מִגֹרָרוֺת
 1Kgs 7:9
 sawn with the saw.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hithpo`el
 סַעַר מִתְגּוֺרֵ֑ר

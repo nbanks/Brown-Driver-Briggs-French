@@ -25,7 +25,7 @@ Ps 62:2 + 12 t., +
 
 2Sam 53:7 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 welfare, prosperity:
@@ -34,7 +34,7 @@ welfare, prosperity:
 Job 30:15
 as a cloud my prosperity passed away.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 deliverance:
@@ -44,7 +44,7 @@ and thou wilt be to me for deliverance
 = 1Chr
 19:12.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 salvation by God, primarily from external evils, but often with added spiritual idea: Gen 49:18
@@ -112,7 +112,7 @@ my salvation unto the ends of the earth; בְּכָלאגּוֺיִם יְשׁו
 Ps 67:3
 among all nations thy salvation.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 victory: with עָשָׂה

@@ -31,7 +31,7 @@ Isa 10:30
 ענה
 ); —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 poor, needy, || אביון
@@ -52,7 +52,7 @@ Prov 15:15
 Kt
 ).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 poor and weak, oppressed by the rich and powerful Isa 3:14; Isa 3:15; Isa 32:7 (
@@ -77,7 +77,7 @@ Ezek 16:49
 ; Ezek
 18:12; Ezek 22:29.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 poor, weak, afflicted Israel, or pious in Israel afflicted
@@ -136,7 +136,7 @@ Kt
 Ps 140:13
 , the king also judges Ps 72:2; Ps 72:4, and delivers Ps 72:12.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 humble, lowly, Zech 9:9 (victorious king); opposed to לֵצִים

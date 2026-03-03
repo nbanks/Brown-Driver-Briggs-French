@@ -4,16 +4,16 @@ hébreu biblique
 מַסְגֵּר
 nom [masculin]
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 serrurier, forgeron.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 cachot :
 — toujours absolu :
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 1.
 collectif
 forgerons, וְכָלהֶֿחָרָשׁ
@@ -25,7 +25,7 @@ comparer 2 R
 24,1 ; Jr 29,2
 .
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 2.
 cachot
 Es 24,22

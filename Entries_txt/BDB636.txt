@@ -10,7 +10,7 @@ asâru
 [placeholder347: Placeholders/347.gif], Ethiopic
 [placeholder348: Placeholders/348.gif]) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect suffix אֲסָרָם
@@ -185,7 +185,7 @@ without
 ׳
 א (עַלנֶֿפֶשׁ omitted)
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al passive of Qal 3, be, bound, imprisoned, Imperfect
 (jussive) יֵאָסֵר
@@ -202,7 +202,7 @@ Gen 42:16 (
 E
 ).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pu`al
 Perfect

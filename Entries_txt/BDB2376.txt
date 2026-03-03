@@ -12,14 +12,14 @@ Ps 11:6 construct
 זִלְעֲפוֺת
 Lam 5:10 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. of fever heat of famine רָעָב
 ׳
 ז
 Lam 5:10.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. of burning wind ׳
 רוּח ז
@@ -27,7 +27,7 @@ Ps 11:6 (in
 figurative of ׳
 י's judgment, with אֵשׁ, גָּפְרִית).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 figurative of zeal אֲחָזַתְנִי

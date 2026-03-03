@@ -9,7 +9,7 @@ fly;
 [placeholder4317: Placeholders/4317.gif]
 insect, bird); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Participle feminine plural לְפֹרְחוֺת

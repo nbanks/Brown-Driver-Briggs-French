@@ -9,7 +9,7 @@ Kö^ii. 403^; compare
 [placeholder3950: Placeholders/3950.gif]
 mean, intend): —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. as preposition, rarely with a substantive, Ezek 5:9
 יַעַן תּוֺעֲבוֺתֵיכֶם, Hag 1:9
@@ -27,7 +27,7 @@ Jer 23:38;
 Jer 48:7, and
 often. (c. 18 t.) in Ezek., as Jer 5:7 (read יַעַן הַמְרֹתְכֶם), Jer 13:8; Jer 13:22; Jer 25:3; Jer 25:6; Jer 25:8; Jer 25:12.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. As conjunction:
 
@@ -62,7 +62,7 @@ first for emphasis,
 Ezek 5:11
 יַעַן אֶתמִֿקְדָּשִׁי טִמֵּאתָ, Ezek 20:16; Ezek 20:24; Ezek 36:6, compare Ezek 34:21.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 יַעַן וּבְיַעַן, q.d. because and by the cause (that), followed by

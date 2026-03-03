@@ -45,7 +45,7 @@ Jos 9,4 —
 ; Es 21,7) ;
 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1. comme propriété (de valeur), avec bœufs, moutons, chameaux, esclaves, etc. Gn 12,16 ; Gn 24,35 ;
 
 Gn 30,48 ; Gn 47,17 ; Ex 9,3 (tous
@@ -93,7 +93,7 @@ l'âne des orphelins (|| שׁוֺר אַלְמָנָה) ; comme connaissant la c
 Pr 26,3 (||
 סוּס).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2. utilisé pour la monture :
 
 a. par les femmes Ex 4,20 (
@@ -137,7 +137,7 @@ comparer ׳
 1 R 13,29
 .
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3. bête de somme Gn 22,3 ; Gn 22,5 (comparer Gn 22,6), Gn 42,26 ; Gn 42,27 ; Gn 45,23 (tous
 E
 ) Gn
@@ -175,10 +175,10 @@ cinq, ou mieux עֲשָׂרָה
 dix, voir We
 Dr.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 4. utilisé pour le labour Es 32,20 ne doit pas être utilisé pour labourer avec un bœuf (שׁוֺר) Dt 22,10.
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 5. parties du corps de l'âne mentionnées : ׳
 לְחִי ח
 Jg 15,15 ;
@@ -193,7 +193,7 @@ Ez 23,20
 
 organe génital de l'âne (comparaison méprisante)
 
-@@SPLIT:sense@@
+## SPLIT 6 sense
 6.
 ׳
 קְבוּרַת ה

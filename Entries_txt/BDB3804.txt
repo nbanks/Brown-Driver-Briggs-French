@@ -28,7 +28,7 @@ Dr); proper name, masculine משע
 deliverance, ClGann^^
 Dr) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Niph`al
 Perfect 3 masculine נוֺשַׁע
@@ -102,7 +102,7 @@ a people victorious in
 ׳
 י (poem), compare Isa 45:17.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Perfect 3 masculine singular הוֺשִׁעַ

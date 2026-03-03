@@ -19,7 +19,7 @@ Ba^ib. xii. 1887, 626^ see also
 מהל
 above); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singularמָל
@@ -61,7 +61,7 @@ Josh 5:5 (
 D
 ).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect 3 masculine singular נִמּוֺל (Ges
@@ -112,7 +112,7 @@ J
 Jer 4:4
 circumcise yourselves to Yahweh (and take away the foreskin of your heart).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Imperfect 3 masculine plural כי אֲמִילִ֑ם
@@ -139,7 +139,7 @@ Symm
 διέθρυψα, Jerome
 ultus sum eas).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hithpa`el
 Imperfect 3 masculine plural יִתְמֹלָ֑לוּ

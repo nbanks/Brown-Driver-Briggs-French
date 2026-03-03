@@ -4,7 +4,7 @@ araméen biblique
 [דְּבֵק] verbe
 adhérer (hébreu biblique) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pe`al
 Participe pluriel דָּֽבְקִין דְּנָה עִםדְּֿנָה

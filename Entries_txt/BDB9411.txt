@@ -7,7 +7,7 @@ reveal (Biblical Hebrew
 
 uncover, reveal); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pe`al
 reveal secrets, human agent: Infinitive
@@ -22,7 +22,7 @@ Dan 2:28
 Dan 2:29
 Dan 2:47.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pe`il
 Perfect
@@ -33,7 +33,7 @@ Dan 2:30,
 revealed (W^CG 225^
 Nö^LCB, 1896, 703^); — of secret, with ל person
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Haph`el
 take into exile (Biblical Hebrew

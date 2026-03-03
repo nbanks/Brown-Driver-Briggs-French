@@ -8,7 +8,7 @@ pour, flow, run (Aramaic
 be long (of time), Aph`el prolong, potract; נְגַר
 endure, flow, stream); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Niph`al
 Perfect 3 feminine singular נִגְּרָה
@@ -35,7 +35,7 @@ be stretched out (?)
 Ps 77:3 (or
 read עֵינִי ?).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Perfect
@@ -65,7 +65,7 @@ Ps 63:11
 Ezek 35:5
 .
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hoph`al
 Participle

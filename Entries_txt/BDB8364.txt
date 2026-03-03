@@ -13,7 +13,7 @@ Isa 13:4 +; suffix
 שְׁאוֺנָהּ
 Isa 5:14 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 roar of water (waves), Isa 17:12 (|| הָמָה), simile of noise of invading host, so v
@@ -50,7 +50,7 @@ read ׳
 
 ) קִרְאוּ שֵׁם call ye the name of Phoenician a crash.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 uproar of revellers Isa 5:14; Isa 24:8. — ׳

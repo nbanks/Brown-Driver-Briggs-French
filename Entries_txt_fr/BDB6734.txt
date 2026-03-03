@@ -20,7 +20,7 @@ commander (Cook), ainsi
 פְּקַד Pael, syriaque
 [placeholder4286: Placeholders/4286.gif], aussi visiter) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal_234_
 Parfait 3 masculin singulier ׳
 פ
@@ -245,7 +245,7 @@ Esd
 de chose
 + ב lieu, 2 R 5,24 (comparer פִּקָּדוֺן).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Niph`al
 Parfait 3 masculin singulier נִפְקַד
 
@@ -322,7 +322,7 @@ Ne
 
 Ne 12,44.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Pi`el (
 intensif) passer en revue une armée, Participe
 
@@ -331,7 +331,7 @@ Es
 13,4 (de ׳
 י).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 Pu`al
 être passé en revue, Parfait 3 masculin singulier פֻּקַּד
 
@@ -344,7 +344,7 @@ manqué pour
 ; Hi Di De Che^Comm.^
 suis puni, dépouillé de.
 
-@@SPLIT:stem@@
+## SPLIT 5 stem
 Hithpa`el
 être dénombré, Parfait 3 pluriel הִתְפָּֽקְדוּ
 
@@ -354,7 +354,7 @@ Imparfait 3 masculin singulier וַיִּתְפָּקֵד
 Jg 21,9 3 masculin pluriel Jg 20,15 (sur la forme
 voir Ges^«GKC:54l»§ 54l^).
 
-@@SPLIT:stem@@
+## SPLIT 6 stem
 Hothpaal
 id., Parfait 3 pluriel הָתְפָּֽקְדוּ
 
@@ -366,7 +366,7 @@ Nb 2,33 ;
 Nb 26,62 (
 Ges^l.c^.).
 
-@@SPLIT:stem@@
+## SPLIT 7 stem
 Hiphil_29_
 Parfait 3 masculin singulier הִפְקִיד
 
@@ -436,7 +436,7 @@ personne (Jérémie comme
 prisonnier) + ב lieu
 Jr 37,21.
 
-@@SPLIT:stem@@
+## SPLIT 8 stem
 Hoph`al
 
 1.

@@ -5,7 +5,7 @@ hébreu biblique
 nom féminin
 arrangement, préparation, lieu fixe ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 arrangement, disposition
 תְּכוּנָתוֺ
@@ -16,13 +16,13 @@ Ez 43,11
 
 manuscrits)
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 préparation, וְאֵין קֶצֶה לַתְּכוּנָה
 Na 2,10
 et pas de fin à la préparation (c.-à-d. choses préparées, provisions, réserves).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3.
 lieu fixe, c.-à-d. demeure, de Dieu (= מָכוֺן) תְּכוּנָתוֺ
 Jb 23,3.

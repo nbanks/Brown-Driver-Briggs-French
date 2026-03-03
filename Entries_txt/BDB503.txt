@@ -13,14 +13,14 @@ suffix אַלֻּפֵינוּ
 Ps 144:14,
 etc.; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 tame, docile, כֶּבֶשׂ אַלּוּף
 a docile (gentle) lamb
 Jer 11:19.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 noun masculine
@@ -34,7 +34,7 @@ Prov 2:17
 figurative of ׳
 י as husband of Judah, id., Jer 3:4.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. i. q. I. אֶלֶף; אַלּוּפֵינוּ מְסֻבָּלִים
 Ps 144:14

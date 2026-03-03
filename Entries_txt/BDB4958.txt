@@ -14,7 +14,7 @@ well or issue forth (of water); Aramaic
 [placeholder3156: Placeholders/3156.gif]
 tear(s)); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Participle
@@ -22,7 +22,7 @@ Participle
 Prov 18:4
 a flowing wady, metaphor of מְקוֺר חָכְמָה.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Imperfect

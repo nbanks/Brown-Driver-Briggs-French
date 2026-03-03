@@ -4,7 +4,7 @@ Biblical Aramaic
 חֲצַף
 verb
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Haph`el
 shew insolence, harshness (Late Hebrew חצף

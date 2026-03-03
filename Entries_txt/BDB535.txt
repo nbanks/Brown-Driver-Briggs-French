@@ -5,7 +5,7 @@ Biblical Hebrew
 noun feminine
 faith, support.
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 אֲנַחְנוּ
@@ -17,7 +17,7 @@ RV
 ) Neh 10:1
 .
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 ׳

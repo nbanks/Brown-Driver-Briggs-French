@@ -8,7 +8,7 @@ MI^19^
 
 ויגרשה) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect
@@ -46,7 +46,7 @@ on internal grounds, compare
 
 ᵐ5
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect
@@ -60,7 +60,7 @@ Yahweh Jonah 2:5
 be driven, tossed, as the Nile Amos 8:8 of the sea Isa 57:20 rel. clause, אֲשֶׁר omitted,
 like the sea that is tossed.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el
 Perfect 3 feminine singular וְגֵרְשָׁה consecutive Exod 23:28
@@ -165,7 +165,7 @@ Balak) Num 22:6
 
 י subject) Ezek 31:11 (but compare text, above); Ashdod (indefinite subject) Zeph 2:4.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Pu`al
 Perfect

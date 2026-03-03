@@ -11,13 +11,13 @@ Dt 9,4 + ; suffixe
 רִשְׁעָתוֺ
 Dt 25,2 + ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 méchanceté dans les relations civiles, Dt 25,2 ; Pr 13,3 ; Es 9,17
 בְּרִשׁעָתוֺ יפל רָשָׁע
 Pr 11,5.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 méchanceté des ennemis, ׳
 גְּבוּל ר
@@ -30,7 +30,7 @@ Ez 5,6 (supprimer
 Co) ; רִשְׁעַת הגרים
 Dt 9,4 ; Dt 9,5.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3.
 méchanceté, éthique et religieuse, ׳
 עשׁה ר

@@ -12,7 +12,7 @@ abâtu
 Dl^W 184^ Aramaic אֲבַד,
 [placeholder2: Placeholders/2.gif]). —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -295,7 +295,7 @@ perhaps Deut
 26:5
 .
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 causative of Qal. — Perfect
@@ -415,7 +415,7 @@ Eccl 3:6
 (||
 בִּקֵּשׁ).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Perfect

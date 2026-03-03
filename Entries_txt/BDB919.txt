@@ -8,7 +8,7 @@ change, substitute, Mishna בָּדַל
 divide, Syriac
 [placeholder506: Placeholders/506.gif] Ithpe`el, Ethpe`el) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Hiph`il
 divide, separate; Perfect
@@ -110,7 +110,7 @@ Lev 1:17; Lev 5:8 (
 P
 ), prohibited in case of fowls offered in sacrifice.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect

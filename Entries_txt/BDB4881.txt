@@ -21,7 +21,7 @@ Ps 136:9 suffix
 מַמְשְׁלוֺתָיו
 Ps 114:2 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 rule, dominion (human) Isa 22:21; Mic 4:8
@@ -41,7 +41,7 @@ Jer 34:1 hence
 ; Dan 11:5
 .
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 rule of heavenly bodies הַיּוֺם
@@ -52,7 +52,7 @@ for the rule ofthe day, compare Gen 1:16 also followed by בְּ
 Ps 136:8;
 Ps 136:9.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. God's rule, dominion:
 Ps 145:13

@@ -13,7 +13,7 @@ construct מַשְׁקֵה
 3 t.; suffix מַשְׁקֵ֫הוּ
 Gen 40:21 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 irrigation
@@ -30,7 +30,7 @@ Berthol Toy Krae
 מִשְׁפְּחוֺת; Gr
 מִקְנֵה).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 drink
@@ -42,7 +42,7 @@ drinking-vessels
 = 2Chr 9:20
 .
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. = office of butler, butlership
 Gen 40:21(

@@ -8,7 +8,7 @@ abattre (
 ^j^
 ; syriaque (rare) ; hébreu biblique couper) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pe`al
 Impératif masculin pluriel גֹּ֫דּוּ אִילָנָא (K^§

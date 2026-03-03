@@ -5,7 +5,7 @@ hébreu biblique
 dénominatif
 fouler, piétiner ; — seulement
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Participe
 סֹאֵן בְּרַעַשׁ

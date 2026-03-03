@@ -16,7 +16,7 @@ Exod 25:4 +; suffix
 תּוֺלַעְתָּם
 Isa 66:24 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 worm, grub, vine-weevil Jonah 4:7; Deut 28:39 (collective); devouring the dead Isa 14:11 (collective: ||
@@ -24,7 +24,7 @@ worm, grub, vine-weevil Jonah 4:7; Deut 28:39 (collective); devouring the dead I
 ), Ps 22:7
 .
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. elsewhere (
 P

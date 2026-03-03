@@ -11,7 +11,7 @@ Ps 17:4, תֹ
 - Ps 28:5
 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 work:
@@ -28,7 +28,7 @@ b. of men, Ps 17:4 (plural); toil, suffering Jer 31:16 good action 2Chr 15:7, wi
 Prov 11:18
 .
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 wages (as earned by work) Lev 19:13; Prov 10:16 (|| תְּבוּאָה), Ezek 29:20

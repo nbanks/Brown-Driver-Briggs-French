@@ -18,7 +18,7 @@ etc. ; peut-être aussi éthiopien
 être inférieur, sans valeur, diminué
 Di^590 et dérivés^) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait 3 masculin singulier ׳
 ח
@@ -117,7 +117,7 @@ P
 P
 ), les eaux diminuèrent continuellement (voir הלך ci-dessus).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Pi`el
 faire manquer, avec accusatif de personne, Imparfait 2 masculin
 singulier
@@ -129,7 +129,7 @@ Qo 4,8
 pour
 qui est-ce que je travaille et me prive de bonnes choses ?
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Hiph`il
 Parfait
 הֶחֱסִיר

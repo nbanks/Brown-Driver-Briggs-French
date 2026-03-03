@@ -12,7 +12,7 @@ bukru
 , premier-né, Dl^§ 65, 5^)
 —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Pi`el
 Imparfait
 יְבַכֵּר
@@ -31,7 +31,7 @@ faire ou constituer comme premier-né
 Dt 21,16
 (dénominatif de בכיר).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Pu`al
 Imparfait
 יְבֻכַּר
@@ -39,7 +39,7 @@ Lv 27,26
 
 né ou fait premier-né.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Hiph`il
 Participe
 f.

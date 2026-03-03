@@ -3,7 +3,7 @@ hébreu biblique
 
 [רָהָה] verbe douteux, apparemment craindre ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imparfait 2 masculin pluriel אַלתִּֿפְתֲדוּ וְאַלתִּֿרְהוּ

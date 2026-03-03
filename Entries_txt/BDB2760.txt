@@ -9,7 +9,7 @@ suffer (rare); Assyrian
 , sickness, grief,
 Dl^Pr 181^) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -118,7 +118,7 @@ Eccl 5:15 — on Jer 4:31 see
 חול
 .
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect 1 singular נֶחֱלֵיתִי
@@ -156,7 +156,7 @@ Jer
 14:17; Jer 30:12 also (
 מַכָּה omitted) Isa 17:11.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el
 Perfect
@@ -175,7 +175,7 @@ For other forms of Pi`el see II.
 חלה
 .
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Pu`al
 Perfect
@@ -183,7 +183,7 @@ be made weak, 2 masculine singular חֻלֵּיתָ
 Isa
 14:10.
 
-@@SPLIT:stem@@
+## SPLIT 5 stem
 
 Hithpa`el
 Imperfect
@@ -205,7 +205,7 @@ sickness of body
 2Sam 13:6
 .
 
-@@SPLIT:stem@@
+## SPLIT 6 stem
 
 Hiph`il
 Perfect 3 masculine singular הֶחֱלִי
@@ -265,7 +265,7 @@ Hi-St who read
 
 they begin the day with wine-fever).
 
-@@SPLIT:stem@@
+## SPLIT 7 stem
 
 Hoph`al
 Perfect

@@ -3,7 +3,7 @@ Biblical Hebrew
 
 II. בַּ֫עַל
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 proper name [of a location]
@@ -11,7 +11,7 @@ city in the tribe of Simeon
 1Chr 4:33 =
 בַּעֲלַת בְּאֵר.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 proper name, masculine a.

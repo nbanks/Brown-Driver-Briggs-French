@@ -4,7 +4,7 @@ araméen biblique
 [אֲכַל] verbe
 manger, dévorer (hébreu biblique) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pe`al
 Parfait 3 masculin pluriel אֲכַ֫לוּ

@@ -8,7 +8,7 @@ rebel, transgress (Late Hebrew id.; Syriac
 [placeholder4376: Placeholders/4376.gif]
 tepid,inspid);-
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular ׳
@@ -76,7 +76,7 @@ Isa 43:27
 Zeph 3:11
 .
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect 3 masculine singular אָח נִפְשַׁע (

@@ -17,7 +17,7 @@ DHM^ZMG, 1883, 15^
 CIS^iv, 10^; Arabic
 [placeholder2375: Placeholders/2375.gif] is make single make to be one, or an odd number) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Participle
@@ -25,7 +25,7 @@ Participle
 1Sam 15:15
 the remainder .
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 be left over, remain over; Perfect
@@ -137,7 +137,7 @@ P
 ),
 1Kgs 20:30 (twice in verse); 2Kgs 4:7; Ezek 34:18; Ezek 48:21; 2Chr 31:10.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Perfect

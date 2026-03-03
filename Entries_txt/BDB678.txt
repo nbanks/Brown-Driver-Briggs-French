@@ -8,7 +8,7 @@ excel = multum valuit; MV
 compare also
 [placeholder370: Placeholders/370.gif]) — only
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Hithpa`el
 Perfect 3 plural הִתְאַפָּ֑קוּ

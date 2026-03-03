@@ -3,18 +3,18 @@ Biblical Hebrew
 
 [גְּנָזִים] noun [masculine] plural
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 chests (?);
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 treasury
 — only plural constructגִּנְזֵי; —
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 1. perhaps chests of variegated cloth בְּרֹמִים
 ׳
@@ -29,7 +29,7 @@ RV
 Co and others cloths, carpets, Ew
 Taschen.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 2.
 treasury (Late Hebrew גֶּנֶז, Aramaic גִּנְזָא, גְּנִיז

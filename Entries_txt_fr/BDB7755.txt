@@ -8,7 +8,7 @@ l'arabe
 [placeholder4967: Placeholders/4967.gif]
 agiter, Ba^ES 8^) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait
 Jb 26,12
@@ -18,7 +18,7 @@ Es 51,15
 רֹגַע הַיָם
 וַיֶהֱמוּ גַלָּיו.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Hiph`il
 dénominatif de
 רֶגַע

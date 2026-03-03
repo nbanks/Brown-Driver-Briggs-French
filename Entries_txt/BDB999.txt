@@ -7,7 +7,7 @@ examine, try (compare Aramaic בְּחַן, Syriac
 [placeholder556: Placeholders/556.gif] I. VIII. test, compare W^SG 65^
 ) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect suffix בְּחָנַ֫נִי
@@ -77,7 +77,7 @@ Mal 3:15.
 
 d. the ear trying words Job 12:11 = Job 34:3.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Imperfect
@@ -87,7 +87,7 @@ Job 34:36
 42:15; Gen
 42:16, to be tried, proved.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pu`al
 בֹּחַן

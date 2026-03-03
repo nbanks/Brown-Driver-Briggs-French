@@ -5,7 +5,7 @@ hébreu biblique
 dénominatif
 réparer les fissures (de) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Infinitif construit
 לִדְבּוֺק

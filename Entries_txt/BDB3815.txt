@@ -4,7 +4,7 @@ Biblical Hebrew
 ישׁעיה
 proper name, masculine (salvation of Yah) —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. grandson of Zerubbabel 1Chr 3:21,
 
@@ -12,7 +12,7 @@ proper name, masculine (salvation of Yah) —
 
 Ιασαβα, Ιεσεια.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. chief of the sons of Elam, who went up with Ezra Ezra 8:7,
 
@@ -20,7 +20,7 @@ proper name, masculine (salvation of Yah) —
 
 Ιοσεια, Ησαια, etc.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. chief of sons of Merari in time of Ezra Ezra 8:19,
 
@@ -28,7 +28,7 @@ proper name, masculine (salvation of Yah) —
 
 Ωσαια, etc.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4. a Benjamite Neh 11:7,
 

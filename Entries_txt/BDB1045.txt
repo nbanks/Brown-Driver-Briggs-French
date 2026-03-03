@@ -29,7 +29,7 @@ spend the night, Arabic
 Exod 12:30 +;
 בָּ֑יִת
 Gen 33:17 +;
-בַּ֫יְתָה (ָ  ה locative) Ps 68:7 +; construct בֵּית
+בַּ֫יְתָה (ָ ה locative) Ps 68:7 +; construct בֵּית
 Gen 12:15 +;
 suffix בֵּיתִי
 Gen 15:2 +;
@@ -57,7 +57,7 @@ Num 16:32 +; (
 Ps 49:12),
 etc.; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 house,
@@ -476,7 +476,7 @@ Hos 8:1; Hos 9:15
 אֶרֶץ י
 Hos 9:3).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 place, of Jerusalem בֵּית קִבְרוֺת אֲבֹתַי
@@ -500,7 +500,7 @@ both these see
 בֵּית
 below [בַּיִן] בֵּין p. 108.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 receptacle, תְּעָלָה כְּבֵית סָאתַיִם
@@ -531,7 +531,7 @@ B
 Hi
 Co).
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4. of house as containing a family, hence in phrase of slaves belonging to household
 יְלִידֵי
@@ -561,7 +561,7 @@ Gen 36:6
 Gen 46:27.
 Hence
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 5.
 household, family (592 t.)
@@ -946,7 +946,7 @@ Jeush and Beriah had not many sons, therefore they became
 לְבֵית אָב לִפְקֻדָּה אֶחָ֑ת (compare ראשׁי אבות, below אב
 ).
 
-@@SPLIT:sense@@
+## SPLIT 6 sense
 
 6. house, including household affairs, persons, property, etc.
 וַיַּפְקִדֵהוּ עַלבֵּֿיתוֺ
@@ -979,7 +979,7 @@ personal property
 13:8
 אִםתִּֿתֶּןלִֿי אֶתחֲֿצִי בֵּיתֶ֑ךָ; family and property (everything on which one depends) Job 8:15.
 
-@@SPLIT:sense@@
+## SPLIT 7 sense
 
 7.
 בַּ֫יְתָה, בָּ֑יְתָה, literally housewards, hence
@@ -990,7 +990,7 @@ supporting the molten sea); 2Sam 5:9
 מִןהַֿמִּלּוֺא וָבָ֑יְתָה from the Millo and inward, Ezek 44:17
 .
 
-@@SPLIT:sense@@
+## SPLIT 8 sense
 
 8.
 מִבַּיִת

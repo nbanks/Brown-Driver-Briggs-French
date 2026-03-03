@@ -14,7 +14,7 @@ constraint; Ethiopic
 play the man, is denominative from
 [placeholder795: Placeholders/795.gif] man) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -66,7 +66,7 @@ prevail over, subject enemies 2Sam 11:23, blessings Gen 49:26(
 J
 ), mercy of God Ps 103:11; Ps 117:2.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Perfect
@@ -81,7 +81,7 @@ Eccl 10:10
 
 make strong, strengthen.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Perfect
@@ -96,7 +96,7 @@ Ol
 Che (or, to our tongue will we give strength Hi
 De) Ps 12:5.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hithpa`el
 Imperfect

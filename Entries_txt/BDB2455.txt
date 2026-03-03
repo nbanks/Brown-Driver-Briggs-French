@@ -12,7 +12,7 @@ t.; construct אֶזְרַח
 Exod 12:19 + 2
 t.; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 a native Israelite, usually collective, with article, כלֿ
@@ -59,7 +59,7 @@ P
 D
 ).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 a native tree, growing in its natural soil רַעֲנָן

@@ -33,7 +33,7 @@ E
 Deut 4:16
 specifically
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. of men:
 
@@ -150,7 +150,7 @@ sodomy Lev
 H
 ).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. of animals, especially for sacrifice Exod 34:19 (
 J

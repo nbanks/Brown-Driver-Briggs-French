@@ -3,7 +3,7 @@ hébreu biblique
 
 [זָמַן] verbe (araméen et tardif) seulement
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Pu`al
 Participe
 être fixé, désigné, du temps (arabe

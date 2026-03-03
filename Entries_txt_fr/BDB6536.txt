@@ -52,7 +52,7 @@ Ps 149,6
 1 S 13,21
 (corrompu, voir Dr et d'autres) ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 
@@ -87,7 +87,7 @@ Es 57,4, aussi
 c. de ׳
 י dans une théophanie, envoyant du feu 2 S 22,9 = Ps 18,9.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 
@@ -238,7 +238,7 @@ e. d'un instrument de
 musique = son
 Am 6,5 (comparer 6.d.).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. d'animaux : oiseau Gn 8,11 (portant), Es 10,14 (pépiement) ; âne Nb 22,28 (parlant) ; ours, lion 1 S 17,35
 (saisissant), Am 3,12
@@ -260,7 +260,7 @@ voir aussi 6.c. (2), ci-dessous ; בַּעַל פִּיפִיּוֺת
 Es 41,15
 , de מוֺרַג.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 bouche = ouverture, orifice ; de puits Gn 29,2 ; Gn 29,3 (deux fois dans le verset) ; Gn 29,8 ; Gn 29,10 caverne Jos 10,18 ; Jos 10,22 ; Jos 10,27
@@ -281,7 +281,7 @@ t. dans le verset) (sur le texte et le sens voir Benz
 Kit) ; de l'embouchure du Nil Es 19,7 (d'autres
 rive) ; porte de ville Pr 8,3 (mais lire peut-être לִפְנֵי, voir Toy).
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 5.
 
@@ -297,7 +297,7 @@ b. = portion, פִּי
 Dt 21,17 ;
 2 R 2,9 ; Za 13,8.
 
-@@SPLIT:sense@@
+## SPLIT 6 sense
 
 6. avec prépositions : —
 

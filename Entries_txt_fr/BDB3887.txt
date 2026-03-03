@@ -22,7 +22,7 @@ t. ; כְּבֹדִי
 Gn 49,6 + 3 t. ; +
 40 t. suffixes —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 abondance, richesses
 Gn 31,1 (
@@ -37,7 +37,7 @@ J
 49,17 ; Ps
 49,18.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 honneur, splendeur, gloire, de condition et circonstances extérieures :
 
@@ -172,7 +172,7 @@ les peuples et les rois la révèrent Ps 102,16 ; Es 59,19
 כָּבוֺד
 Es 11,10.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3.
 honneur, dignité de position ׳
 מנע מִכּ
@@ -237,7 +237,7 @@ ailleurs comme construit devant divers peuples ou avec suffixes seulement Es 5,1
 21,16 ; Es
 22,24.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 4.
 honneur, réputation, de caractère, de l'homme ׳
 וְלֹאלְֿךָ לְכ
@@ -266,7 +266,7 @@ Pr 20,3
 Pr 25,2
 la gloire de Dieu est de cacher une chose, mais la gloire des rois est de scruter une chose.
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 5.
 mon honneur, poétique du siège de l'honneur dans l'homme intérieur, la partie la plus noble de l'homme ||
 נפשׁי
@@ -283,7 +283,7 @@ Ps 30,13
 (lire כְּבוֺדִי pour כָּבוֺד) ; עוּרָה
 Ps 57,9.
 
-@@SPLIT:sense@@
+## SPLIT 6 sense
 6.
 honneur, révérence, gloire, comme dû à quelqu'un ou attribué à quelqu'un :
 
@@ -368,7 +368,7 @@ exulter avec (des ascriptions de) gloire
 Ps 149,5
 .
 
-@@SPLIT:sense@@
+## SPLIT 7 sense
 7.
 gloire comme objet d'honneur, de révérence et de glorification,
 כְּבוֺדִי

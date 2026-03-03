@@ -3,7 +3,7 @@ araméen biblique
 
 [זְהַר] verbe
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Peal
 Participe passif pluriel זְהִירִין

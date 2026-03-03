@@ -14,7 +14,7 @@ Ps 33,1,
 πρέπει
 Mt 3,15) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait
 לְךָ יָאָ֑תָה

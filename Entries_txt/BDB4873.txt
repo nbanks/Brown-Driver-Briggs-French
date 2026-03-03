@@ -17,7 +17,7 @@ be like,
 [placeholder3112: Placeholders/3112.gif]
 compare).
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Niph`al
 Perfect3 masculine singular נִמְשַׁל
@@ -33,14 +33,14 @@ Ps 28:1 = Ps 143:7
 כְּ
 Ps 49:13; Ps 49:21.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Imperfect 2 masculine plural suffix וְתָמְשִׁלוּנִי
 compare
 Isa 46:5.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hithpa`el
 Imperfect 1 singular וָאֶתְמַשֵּׁל

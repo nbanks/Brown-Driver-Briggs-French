@@ -9,7 +9,7 @@ crier, appeler (
 
 syriaque ; comparer hébreu biblique) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Pe`al
 Parfait 3 masculin singulier ׳
 ז

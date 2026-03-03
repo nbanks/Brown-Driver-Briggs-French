@@ -54,7 +54,7 @@ pluriel construit כַּנְפוֺת
 Dt 22,12
 + 4 t. ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 aile,
 
@@ -141,7 +141,7 @@ Ps 63,3 ; Ps
 91,4 ; Rt
 2,12.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 extrémité : —
 

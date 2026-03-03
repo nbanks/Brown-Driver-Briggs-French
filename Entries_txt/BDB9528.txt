@@ -4,7 +4,7 @@ Biblical Aramaic
 [חֲלַף] verb
 pass (over) (see Biblical Hebrew); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pe`al with יַל person pass over one (of time): Imperfect
 3 masculine plural יִחְלְפוּן

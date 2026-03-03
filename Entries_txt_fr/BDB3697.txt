@@ -6,7 +6,7 @@ se réveiller (arabe
 [placeholder2290: Placeholders/2290.gif]
 se réveiller, être éveillé) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Imparfait
 יִקָ֑ץ

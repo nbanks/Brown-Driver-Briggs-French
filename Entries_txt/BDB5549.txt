@@ -10,7 +10,7 @@ Lzb^328^; Arabic
 [placeholder3561: Placeholders/3561.gif], Ethiopic
 [placeholder3562: Placeholders/3562.gif]); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 1 plural וְסָחַ֫בְנוּ consecutive 2Sam 17:13

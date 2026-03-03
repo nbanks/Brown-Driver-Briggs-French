@@ -9,7 +9,7 @@ Gen 26:10 + 37
 t., suffix אֲשָׁמוֺ
 Num 5:7 + 7 t.; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 offence, trespass, fault
@@ -19,7 +19,7 @@ guiltiness
 RV
 ).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 guilt
@@ -30,7 +30,7 @@ J
 14:9; Jer
 51:5.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 compensation, לְהָשִׁיב הָאָשָׁם אֵלָיו
@@ -41,7 +41,7 @@ P
 RV
 ).
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 trespass-offering (

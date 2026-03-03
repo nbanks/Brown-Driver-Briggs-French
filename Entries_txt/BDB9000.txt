@@ -3,7 +3,7 @@ Biblical Hebrew
 
 [שָׁקַד] verb
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pu`al
 denominative — only Participle in גְּבִעִים מְשֻׁקָּדִים

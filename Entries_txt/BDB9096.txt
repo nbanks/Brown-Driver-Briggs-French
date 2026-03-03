@@ -25,7 +25,7 @@ Jer 24:2 suffix
 תְּאֵנֵיכֶם
 Amos 4:9 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 fig-tree (ficus carica
@@ -62,7 +62,7 @@ Joel 2:22;
 Ps 105:33
 .
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 fig, always plural: Num 13:23 (

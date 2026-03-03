@@ -14,7 +14,7 @@ desire vehemently; Ethiopic
 [placeholder5107: Placeholders/5107.gif]
 be hungry); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular ׳
@@ -36,7 +36,7 @@ if I should be hungry (of ׳
 י),
 Prov 6:30; Prov 19:15.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 allow one to hunger, subject ׳

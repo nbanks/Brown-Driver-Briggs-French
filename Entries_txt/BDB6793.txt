@@ -20,7 +20,7 @@ Mic 4:13,
 פַּרְסֵיהֶן
 Zech 11:16 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. of ruminants Exod 10:26 (
 E
@@ -32,7 +32,7 @@ E
 
 Hiph`il (q. v.) Lev 11:3 + 10 t. Lev 11; Deut 14.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. of horses (not divided) Isa 5:28; Ezek 26:11 (so
 

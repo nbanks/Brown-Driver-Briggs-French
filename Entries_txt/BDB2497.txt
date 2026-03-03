@@ -24,7 +24,7 @@ na—balu
 =
 [placeholder1594: Placeholders/1594.gif])) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -89,7 +89,7 @@ power) over the poor; בְּגָדִים חֲבֻלִים
 Amos 2:8
 garments taken in pledge.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Imperfect
@@ -111,7 +111,7 @@ VB
 חָבַל
 q. v.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el
 Perfect 3 feminine singular חִבְּלָה

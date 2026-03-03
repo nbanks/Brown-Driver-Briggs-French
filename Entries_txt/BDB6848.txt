@@ -10,7 +10,7 @@ pašât‰u
 [placeholder4373: Placeholders/4373.gif], are stretch out, extend, make plain, so Arabic
 [placeholder4374: Placeholders/4374.gif]); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular ׳
@@ -63,7 +63,7 @@ with בְּ
 אַלֿ) We
 Dr and others
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Infinitive construct
@@ -73,7 +73,7 @@ is, the slain) 2Sam
 23:10 (insert also || 1Chr 11:13
 Dr).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Perfect 3 masculine singular הִפְשִׁיט
@@ -126,7 +126,7 @@ Lev 1:6
 ; 2Chr
 29:4 accusative omitted 2Chr 35:11.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hithpa`el
 Imperfect 3 masculine singular וַיִּתְפַּשֵּׁט

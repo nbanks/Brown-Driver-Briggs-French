@@ -4,7 +4,7 @@ hébreu biblique
 עֵדְנָה
 nom propre, masculin
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 un prince de Juda
 2 Ch 17,14,
@@ -13,7 +13,7 @@ un prince de Juda
 
 . Εδνα(α)ς
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2. un Manassite 1 Ch 12,21, probablement (lisant ׳
 ע), avec Manuscrits, pour עַדְנַח ; van d. H.
 

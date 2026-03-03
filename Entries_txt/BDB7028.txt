@@ -15,7 +15,7 @@ clarus, lucidus, fulgidus;
 [placeholder4498: Placeholders/4498.gif],
 [placeholder4499: Placeholders/4499.gif], smooth, plain); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 plural צַחוּ מֵחָלָב

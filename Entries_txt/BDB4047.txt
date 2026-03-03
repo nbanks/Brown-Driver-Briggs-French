@@ -13,7 +13,7 @@ Job 20:3 + 3 t.,
 etc., plural כְּלִמּוֺת
 Mic 2:6; Isa 50:6 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. specifically, insult, reproach, ׳
 לֹא יִסַּג כ
@@ -23,7 +23,7 @@ Job 20:3 =
 my beshaming (insulting) correction, i.e. the
 correction which insults me.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. in general, reproach, ignominy, opposed to כָּבוֺד
 Ps 4:3

@@ -17,7 +17,7 @@ Es 8,12
 מוֺרַאֲכֶם Es 8,13 + 2 t. ; pluriel מוֺרָאִים
 Dt 4,34 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 crainte, terreur, || חַת
 Gn 9,2 (
@@ -25,19 +25,19 @@ P
 ) ; || פַּחַד
 Dt 11,25.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 révérence :
 אַיֵּה מוֺרָאִי
 où est la révérence qui m'est due
 Ml 1,6.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3.
 objet de révérence, surtout Dieu Es 8,12 ; Es 8,13 ; Ps 76,12 || בְּרִית
 Ml 2,5.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 4.
 spectacle ou acte inspirant la crainte
 (ה)גּדול(יםׅ

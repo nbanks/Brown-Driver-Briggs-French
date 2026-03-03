@@ -5,7 +5,7 @@ hébreu biblique
 nourrir, engraisser (Mishna id. ; ? assyrien [abâsu]
 Dl^W46^)
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Participe passif engraissé, אָבוּס de bœuf Pr 15,17
 אֲבוּסִים de volaille 1 R 5,3.

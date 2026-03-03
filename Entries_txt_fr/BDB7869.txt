@@ -5,7 +5,7 @@ hébreu biblique
 nom propre, masculin (compassion, ou douceur, gentillesse
 ?) ; — nom post-exilique :
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. avec Zorobabel :
 
@@ -29,7 +29,7 @@ Ne 12,3
 
 3.a.).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 רְחוּם, avec Néhémie :

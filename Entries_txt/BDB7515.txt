@@ -17,7 +17,7 @@ hasten (double oneself up in running),
 Pi`el
 hop, spring); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular ׳
@@ -38,7 +38,7 @@ Deut 15:80
 Ps 77:10
 shut up his compassion.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Imperfect 3 masculine singular יִקָּֽפְצוּן
@@ -49,7 +49,7 @@ Bu; Ol
 יִקָּֽבְצוּן
 are gathered in).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el
 Participle

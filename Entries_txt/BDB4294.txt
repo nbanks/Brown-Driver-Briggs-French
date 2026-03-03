@@ -54,7 +54,7 @@ but
 
 II. usually of men:
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 the inner man in contrast with the outer, כלה שׁארי ולבבי
@@ -75,7 +75,7 @@ Nah 2:7 (inner
 for
 outer).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. the inner man, indefinite the soul,
 comprehending
@@ -142,7 +142,7 @@ Ps 139:23
 Isa 7:2; Dan 11:27;
 Dan 11:28.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. specific reference to mind (characteristic of לבב):
 
@@ -270,7 +270,7 @@ upon the mind
 Deut 6:6
 .
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4. specific reference to inclinations, resolutions, determinations of the will
 
@@ -328,14 +328,14 @@ Exod 14:5 (
 E
 ).
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 5. specific reference to conscience
 לא יחרף לבבי
 my heart (conscience) shall not reproach me
 Job 27:6.
 
-@@SPLIT:sense@@
+## SPLIT 6 sense
 
 6. specific reference to moral character (characteristic of ׳
 
@@ -447,7 +447,7 @@ Deut 15:7;
 הקשׁה ל
 Ps 95:8.
 
-@@SPLIT:sense@@
+## SPLIT 7 sense
 
 7. = the man himself (meaning characteristic of נֶפֶשׁ
 )
@@ -487,7 +487,7 @@ Ps 69:33
 Ps
 119:175).
 
-@@SPLIT:sense@@
+## SPLIT 8 sense
 
 8. specifically as the seat of the appetites (for which usually
 
@@ -503,7 +503,7 @@ wine gladdens the heart
 Ps 104:15
 .
 
-@@SPLIT:sense@@
+## SPLIT 9 sense
 
 9. specifically of seat of the emotions and passions (for which
 usually
@@ -572,7 +572,7 @@ Josh
 14:8
 , where לֵב error).
 
-@@SPLIT:sense@@
+## SPLIT 10 sense
 
 10.
 seat of courage (for which usually רוּחַ), יָעֵר כֹּחוֺ

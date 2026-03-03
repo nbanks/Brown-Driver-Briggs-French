@@ -8,7 +8,7 @@ fermeté, fidélité, vérité (contracté pour אֱמֶנֶת de אָמֵן
 + 106 t. ; suffixe אֲמִתּוֺ, אֲמִתְּךָ
 Ps 91,4 + 18 t.
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 fiabilité, sûreté :
 דֶּרֶח אֱמֶת
@@ -29,7 +29,7 @@ J
 ) ; זֶרַע אמת
 Jr 2,21.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 stabilité, continuité :
 שָׁלוֺם וֶאֱמֶת
@@ -42,7 +42,7 @@ Es 39,8 (=
 , comparer שׁלום אמת
 Jr 14,13.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3.
 fidélité, fiabilité :
 
@@ -140,7 +140,7 @@ Jr 4,2 et
 salut Ps
 69,14.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 4.
 vérité
 
@@ -236,7 +236,7 @@ Dn 8,12
 להשׂכיל באמתך
 Dn 9,13.
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 5.
 adverbe
 en vérité, vraiment

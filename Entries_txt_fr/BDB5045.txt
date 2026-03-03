@@ -5,7 +5,7 @@ II. [נָוָה] verbe
 dénominatif
 demeurer, résider (si vera lectio) ; — seulement
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Imparfait 3 masculin singulier לֹא יִנְוֶה
 Ha 2,5

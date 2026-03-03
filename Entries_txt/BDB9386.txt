@@ -29,7 +29,7 @@ Ezra 6:10; Ezra 7:23,
 בְּנֵיהוֺן
 Dan 6:25 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 son(s)
@@ -60,7 +60,7 @@ a son of 62 years = 62 years old (Biblical Hebrew
 
 9).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. of bullocks, בְּנֵי תוֺרִין
 Ezra 6:9.

@@ -9,7 +9,7 @@ Gen 6:9+; plural
 צַדִּיקִים
 Exod 23:8+, etc.; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 just, righteous, in government:
@@ -34,7 +34,7 @@ J
 ways Ps
 145:17.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 just in one's cause, right:
@@ -61,7 +61,7 @@ in law, not under penalty 2Sam 4:11; 1Kgs 2:32 innocent of specific offence 2Kgs
 compare 1Sam
 24:18.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 just, righteous, in conduct and character:
@@ -96,7 +96,7 @@ Ps 32:11;
 Ps 64:11;
 Ps 97:11.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4. righteous, as justified and vindicated by ׳
 י, especially servant of ׳
@@ -116,7 +116,7 @@ Ps 1:5
 Ps 1:6 singular collective Ps 34:20; Ps 34:22; Ps 75:11; Isa 24:16; Isa 26:7 (twice in verse); גּוֺי צַדִּיק Isa 26:2 (|| שֹׁמֵר
 אֱמֻנִים).
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 5.
 right, correct, Isa 41:26 (compare אֱמֶת

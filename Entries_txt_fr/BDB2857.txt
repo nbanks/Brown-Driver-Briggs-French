@@ -8,7 +8,7 @@ verbe
 [placeholder1805: Placeholders/1805.gif]
 comportavit, congessit) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait
 ׳

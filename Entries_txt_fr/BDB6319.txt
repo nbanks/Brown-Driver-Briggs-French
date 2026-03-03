@@ -15,7 +15,7 @@ plier, tordre ;
 עֲקַד comme hébreu tardif ; aussi s'agenouiller, comparer araméen christo-palestinien,
 Schw^Idioticon 71^) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Imparfait
 וַיַּעֲקֹד אֶתיִֿצְחָק

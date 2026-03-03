@@ -4,7 +4,7 @@ Biblical Hebrew
 מְרֵמוֺת
 proper name, masculine
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 priest, time of Zerubbabel
@@ -18,7 +18,7 @@ L
 
 Μαρειμωθ.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. priest, time of Ezra and Nehemiah, Ezra 8:33; Neh 3:4; Neh 3:21; Neh 10:6 (probably same).
 
@@ -26,7 +26,7 @@ L
 
 Μερειμωθ, Μεραμωθ, etc.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. one of those who had taken strange wives Ezra 10:36.
 

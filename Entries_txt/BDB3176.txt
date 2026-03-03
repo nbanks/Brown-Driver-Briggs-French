@@ -11,7 +11,7 @@ MV
 VB
 ; see also W Max Müll^Asien u. Europa 136, 155, 156^) —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 adjective [of a people]
@@ -27,7 +27,7 @@ P
 
 הַחִוִּי
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 proper name [of a people] always with article; usually singular collective הַחֹרִיִ,
@@ -47,7 +47,7 @@ Di);
 ὁ Ξορραιος, οἱ Ξορραιοι, (Gen 36:29; Gen 36:30
 Ξορρ(ε)ι).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 proper name, masculine [person]

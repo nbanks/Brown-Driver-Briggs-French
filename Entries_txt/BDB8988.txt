@@ -4,7 +4,7 @@ Biblical Hebrew
 שֻׁפִּים
 proper name, masculine
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 ׳
@@ -27,7 +27,7 @@ A
 
 Σαφαν (compare שֻׁפִּים, שְׁפוּפָם).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 שֻׁפִּים door-keeper, 1Chr 26:16.

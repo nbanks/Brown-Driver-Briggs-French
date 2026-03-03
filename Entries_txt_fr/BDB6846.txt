@@ -3,7 +3,7 @@ hébreu biblique
 
 [פָּשַׁח] verbe
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pi`el
 mettre en pièces (hébreu tardif פָּשַׁח ; araméen פְּשַׁח

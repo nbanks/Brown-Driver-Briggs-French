@@ -10,7 +10,7 @@ tremble, be terrified (Assyrian
 be bashful, shamefaced; Late Hebrew חֲרָדָה
 a trembling) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -93,7 +93,7 @@ Hos 11:11
 (
 מִמִּצְרַיִם).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Perfect

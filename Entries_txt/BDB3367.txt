@@ -12,7 +12,7 @@ defile; Assyrian
 , besmear (?), Dl^Pr 48^;
 HWB) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 plural טָֽפְלוּ

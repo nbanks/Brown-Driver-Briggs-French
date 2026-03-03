@@ -15,7 +15,7 @@ refuse,
 סְחִיתָא
 dirt, dung); — only
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pi`el
 scrape clean, scour, Perfect 1 singular consecutive וְסִחֵתִ֫י עֲפָרָהּ

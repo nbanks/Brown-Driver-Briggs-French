@@ -15,7 +15,7 @@ SAC^47^, compare Assyrian
 zibânîtu
 , scales);-
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pe`al
 Participle

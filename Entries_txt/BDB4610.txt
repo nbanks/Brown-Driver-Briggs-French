@@ -11,7 +11,7 @@ rain] (Arabic
 
 Aph`el אַמְטַר); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Niph`al
 Imperfect
@@ -19,7 +19,7 @@ be rained upon
 חֶלְקָה אַחַתּ תִּמָּטֵר
 Amos 4:7.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Perfect

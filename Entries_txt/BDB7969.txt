@@ -10,7 +10,7 @@ Mic 7:10 +,
 
 Isa 7:25; Ezek 34:19 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 trampling-place, שֶׂה
@@ -23,7 +23,7 @@ Isa 7:25 (||
 Ezek 34:19
 (figurative).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 trampling, ׳

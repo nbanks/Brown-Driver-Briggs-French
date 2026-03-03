@@ -3,7 +3,7 @@ Biblical Hebrew
 
 בְּרִיעָה
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 proper name, masculine
 1.
@@ -14,18 +14,18 @@ in verse); Num 26:44
 ; 1Chr 7:30
 ; 1Chr 7:31.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. son of Ephraim 1Chr 7:23 (where explanation as if from בְּרָעָה).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. a Benjamite בְּרִעָה
 1Chr 8:13,
 בְּרִיעָה
 1Chr 8:16.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4. a Levite 1Chr 23:10; 1Chr 23:11.
 

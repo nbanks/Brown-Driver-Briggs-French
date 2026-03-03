@@ -5,7 +5,7 @@ araméen biblique
 
 [יְבַל] verbe
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Haph`el
 porter, transporter (voir hébreu biblique) ; — Parfait 3 masculin singulier

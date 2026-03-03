@@ -12,7 +12,7 @@ Gen 35:20 +;
 suffix קְבֻרָתוֺ
 Deut 34:6 +; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 grave> Gen 35:20 (twice in verse); Gen 47:30; Deut 34:6; 1Sam 10:2; 2Kgs 9:28; 2Kgs 21:26; 2Kgs 23:30; Ezek 32:23
@@ -23,7 +23,7 @@ grave> Gen 35:20 (twice in verse); Gen 47:30; Deut 34:6; 1Sam 10:2; 2Kgs 9:28; 2
 2Chr 26:23
 ,
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 burial, Isa 14:20; Eccl 6:3

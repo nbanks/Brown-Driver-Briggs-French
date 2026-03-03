@@ -9,7 +9,7 @@ MI
 הרם ; ? arabe
 [placeholder1342: Placeholders/1342.gif], meurtrir, broyer, piler, écraser (du grain)) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait
 ׳
@@ -110,7 +110,7 @@ suivi de ׳
 J
 ).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Niph`al
 Parfait 3 féminin singulier נֶהֱרָ֑סָה
 Pr 24,31
@@ -150,7 +150,7 @@ Jr 31,40
 elle ne sera pas arrachée ni renversée, apparemment expression proverbiale, impliquant
 destruction, déplacement.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Pi`el
 Imparfait 2 masculin singulier suffixe תְּהָֽרְסֵם
 Ex

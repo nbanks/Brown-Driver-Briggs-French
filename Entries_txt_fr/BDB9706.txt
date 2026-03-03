@@ -10,7 +10,7 @@ syriaque ; voir hébreu biblique I.
 נצר
 , et (rarement) נָטַר) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pe`al
 Parfait 1 singulier מִלְּתָא בְּלִבִּי

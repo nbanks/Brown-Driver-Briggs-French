@@ -4,7 +4,7 @@ hébreu biblique
 עָתִיד, [עָתוּד] adjectif
 prêt, préparé ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. absolu עָתִיד לַכִּידוֺר
 Jb 15,24 un
@@ -18,14 +18,14 @@ Kt
 
 עתודים).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 prêt = habile הָעֲתִידִים עֹרֵר
 Jb 3,8
 ceux habiles à éveiller Léviathan.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 préparé = imminent (comparer hébreu tardif = futur), féminin pluriel
@@ -33,7 +33,7 @@ préparé = imminent (comparer hébreu tardif = futur), féminin pluriel
 Dt 32,35
 les choses imminentes se hâtent (|| קָרוֺב יוֺם אֵידָם).
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 préparé = mis en réserve, ועתידתיהם

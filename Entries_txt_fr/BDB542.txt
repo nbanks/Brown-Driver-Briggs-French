@@ -4,13 +4,13 @@ hébreu biblique
 אַמְנוֺן
 nom propre, masculin (fidèle)
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1. fils aîné de David 2 S 3,2 ; 2 S 13 = אֲמִינוֺן
 2 S 13,20 =
 אַמְנֹן
 1 Ch 3,1.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2. un fils de Shimon 1 Ch 4,20.
 
 ---

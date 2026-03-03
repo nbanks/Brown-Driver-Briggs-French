@@ -10,7 +10,7 @@ abound with herbage,
 [placeholder4134: Placeholders/4134.gif]
 abundance, of herbage, goods, etc.); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 1 singular עָשַׁרְתִּי
@@ -19,7 +19,7 @@ I have become rich; Imperfect 3 masculine singular יֶעְשַׁר
 Job 15:29
 he shall not be rich. — 1Kgs 22:49 read עָשָׂה
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 
@@ -68,7 +68,7 @@ Prov 23:4;
 Prov 28:20
 .
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hithpa`el
 Participle

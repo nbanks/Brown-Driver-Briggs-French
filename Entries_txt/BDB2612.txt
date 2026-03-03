@@ -24,7 +24,7 @@ Ps 48:14,
 Ol^§ 40 approximately 75g. 96 e^
 Sta^§ 347 c^; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 rampart (defined by Jews as בֶּן
@@ -47,7 +47,7 @@ read probably
 חֵלֶק
 , q. v.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 fortress

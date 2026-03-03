@@ -11,7 +11,7 @@ id., phénicien תם, syriaque
 [placeholder5844: Placeholders/5844.gif]
 Parfait) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Parfait 3 masculin singulier תַּם
@@ -156,7 +156,7 @@ nous avons achevé (lire probablement הֲתִמֹּנוּ) ; Jr 27,8
 עַדתֻּֿמֹּי אֹתָם בְּיָדוֺ (lire avec Gr
 תִּתִּי).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Parfait 1 singulier הֲתִמֹּ֫תִי
@@ -213,7 +213,7 @@ Jb
 22,3
 rendre saines tes voies.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hithpa`el
 Imparfait 2 masculin singulier תִּתַּמָּם

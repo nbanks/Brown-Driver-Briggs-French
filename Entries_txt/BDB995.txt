@@ -5,7 +5,7 @@ Biblical Hebrew
 scatter (Arabic
 [placeholder549: Placeholders/549.gif], Aramaic בְּדַר) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect
@@ -13,7 +13,7 @@ Dan 11:24
 בִּזָּה וְשָׁלָל וּרְכוּשׁ לָהֶם יִבְז֑וֺר
 plunder and spoil and possessions he will scatter among them (subject Antiochus Epiph.)
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Perfect

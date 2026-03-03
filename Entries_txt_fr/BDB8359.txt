@@ -7,7 +7,7 @@ rugir (hébreu tardif id. ; arabe
 [placeholder5361: Placeholders/5361.gif]
 mugir, bêler, Frey) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Parfait 3 masculin singulier ׳

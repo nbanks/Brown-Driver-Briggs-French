@@ -4,7 +4,7 @@ hébreu biblique
 [חָפָא] verbe
 faire secrètement (proprement couvrir, = חפה, q. v.) ; — seulement
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Pi`el
 Imparfait
 וַיְחַפְּאוּד֗֗֗ברים

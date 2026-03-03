@@ -11,7 +11,7 @@ Gen 6:8 + 67 t.; suffix
 חִנּוֺ
 Gen 39:21 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 favour, grace, elegance:
@@ -34,7 +34,7 @@ ornaments Prov 1:9
 b. of speech, lips Ps 45:3; Prov 22:11 words Eccl 10:12
 .
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 favour, acceptance:

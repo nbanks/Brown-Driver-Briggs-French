@@ -5,7 +5,7 @@ hébreu biblique
 dénominatif (Gerber^20^) être, ou agir comme,
 prince, gouverner ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imparfait 3 masculin singulier וַיָּ֫שַׂר עַלֿ
@@ -20,7 +20,7 @@ Est 1,22
 que chaque homme exerce l'autorité
 בְּבֵיתוֺ.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hithpa`el
 Imparfait, 2 masculin singulier + Infinitif absolu
@@ -34,7 +34,7 @@ voir
 Qal et שַׂר
 4.b.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Parfait 3 pluriel métaplastique הֵשִׂירוּ (Ges

@@ -14,7 +14,7 @@ Isa 47:9; Isa 47:12
 Nah 3:4; 2Kgs 9:22 —
 sorceries:
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. literal מִיָּדֶיךָ
 ׳
@@ -25,7 +25,7 @@ Israel; ׳
 Isa 47:9; Isa 47:12 ||
 חֲבָרַיִךְ, said of Babylon.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 figurative of seductive and corrupting influences: of Jezebel 2Kgs 9:22 || זְנוּנִים; of Nineveh

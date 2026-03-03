@@ -10,7 +10,7 @@ whiteness, Aramaic
 [placeholder1687: Placeholders/1687.gif], חֲוַר
 be white) — only
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect 3 masculine plural וְלֹא עַתָּה

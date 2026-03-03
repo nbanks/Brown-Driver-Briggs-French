@@ -3,7 +3,7 @@ Biblical Hebrew
 
 [שָׁסַס] verb id. (|| from of שׁסה); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 plural שַׁסֻּ֫הוּ
@@ -21,7 +21,7 @@ see
 שׁסה
 ), Aramaic form, Ges^«GKC:67s»§ 67s^.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 be plundered, rifled, of houses: Perfect 3 plural consecutive

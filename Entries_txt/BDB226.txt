@@ -8,7 +8,7 @@ Gen 49:3 + etc.;
 plural אוֺנִים
 Ps 78:51 +.
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 manly vigour
@@ -21,7 +21,7 @@ Reuben, first-born of Jacob); Deut 21:17; Ps 105:36 (firstborn Egyptians), so Ps
 where ׳
 א is assimilated to מִצְרַיִם, or intensive plural
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 strength of man Job 18:7; Job 18:12 behemoth Job 40:16 plural intensive מֵרֹב
@@ -39,7 +39,7 @@ RV
 AV
 ).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 wealth

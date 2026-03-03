@@ -3,7 +3,7 @@ Biblical Hebrew
 
 II. בֶּ֫צֶר (fortress) —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 proper name [of a location]
@@ -15,7 +15,7 @@ Deut 4:43; Josh
 20:8; 1Chr
 6:63.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 proper name, masculine [person]

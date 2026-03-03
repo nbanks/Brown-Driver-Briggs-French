@@ -3,7 +3,7 @@ araméen biblique
 
 [בְּהַל] verbe
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pa`el
 alarmer, épouvanter (ainsi habituellement
@@ -19,7 +19,7 @@ M^§ 52 a^) ; לוּךְ- Dn 5,10, לֻנֵּ֑ךְ- Dn 4,16,
 לוּנֵהּ- Dn
 5,6.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hithpe`el
 se hâter (ainsi Pi`el en hébreu biblique tardif ;
@@ -29,7 +29,7 @@ se hâter (ainsi Pi`el en hébreu biblique tardif ;
 Ithpe`el (rare)) ; Infinitif
 בְּהִתְבְּהָלָה = en hâte (à l'origine « dans l'alarme ») Dn 2,25 ; Dn 3,24 ; Dn 6,20.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hithpa`el
 Participe passif

@@ -29,7 +29,7 @@ Esd 6,10 ; Esd 7,23,
 בְּנֵיהוֺן
 Dn 6,25 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 fils
@@ -60,7 +60,7 @@ fils de 62 ans = âgé de 62 ans (hébreu biblique
 
 9).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. de taureaux, בְּנֵי תוֺרִין
 Esd 6,9.

@@ -8,7 +8,7 @@ Pi`el), (Aramaic כַּתַּר Pa`el, wait, hope for;
 , see Job
 36:2 below) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pi`el
 Perfect 3 plural כִּתְּרוּ
@@ -20,7 +20,7 @@ Ps 22:13
 Job 36:2
 wait, I pray (as in Aramaic)
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Imperfect 3 masculine plural בִּי יַכְּתִּרוּ

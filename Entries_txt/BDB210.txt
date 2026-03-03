@@ -5,11 +5,11 @@ II. אֵלוֺן
 proper name, masculine (= id. compare אֵלָה
 proper name)
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. a son of Zebulun Gen 46:14; Num 26:26.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 אֵילֹן
@@ -18,7 +18,7 @@ Gen 26:34
 Gen 36:2 a Hittite,
 father-in-law of Esau.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 אֵילוֺן
@@ -26,7 +26,7 @@ Judg 12:11;
 Judg 12:12 a
 judge of Israel, of tribe of Zebulun
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 proper name [of a location]

@@ -11,7 +11,7 @@ Arabic
 [placeholder3152: Placeholders/3152.gif] v, VIII. die; Aramaic נְבֵילָא
 corpse); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular ׳

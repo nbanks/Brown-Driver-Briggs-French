@@ -14,7 +14,7 @@ maudire, We^Held 2.111, 250^ ; araméen
 [placeholder4965: Placeholders/4965.gif]
 lapider) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Parfait 3 pluriel consécutif וְרָֽגְמוּ

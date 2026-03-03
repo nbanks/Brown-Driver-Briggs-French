@@ -16,7 +16,7 @@ swish, switch?); — ׳
 1Kgs 12:11 +;
 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 scourge, for chastisement, 1Kgs 12:11; 1Kgs 12:14 = 2Chr 10:11; 2Chr 10:12 (all with verb
@@ -38,7 +38,7 @@ lash of (accusing) tongue Job 5:21 (read ׳
 
 ).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 whip, for horse, ׳

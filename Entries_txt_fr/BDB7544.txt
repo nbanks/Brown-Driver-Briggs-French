@@ -14,7 +14,7 @@ raccourcir,
 [placeholder4835: Placeholders/4835.gif]
 ne pas atteindre ; judéo-araméen קְצַר être court) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Parfait 3 masculin singulier קָצַר
@@ -67,14 +67,14 @@ Mi 2,7 (voir
 ci-dessus) ; ׳
 ק de temps Pr 10,27 (années du méchant).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 raccourcir Parfait 3 masculin singulier קִצַּר יָמַי
 Ps 102,24
 .
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 id., Parfait 3 masculin singulier ׳

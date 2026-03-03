@@ -5,13 +5,13 @@ Biblical Hebrew
 denominative
 pluck or root up —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Infinitive construct
 לַעֲקוֺר with accusative Eccl 3:2 (opposed to נָטַע).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Imperfect 3 feminine singular עֶקְרוֺן תֵּעָקֵר

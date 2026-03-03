@@ -17,11 +17,11 @@ Ex 3,22 féminin
 pluriel שְׁכֵנוֺת
 Rt 4,17 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 habitant, Es 33,24 ; Os 10,5.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 voisin : femme Ex 3,22 (
 E

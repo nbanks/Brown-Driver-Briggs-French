@@ -7,7 +7,7 @@ Hithpa`el
 mock (compare Arabic stammer, also shake violently
 ; onomatopoetic); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pilpel
 Participle
@@ -15,7 +15,7 @@ Participle
 Gen 27:12
 = substantive a mocker.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hithpa`el
 Participle plural מִתַּעְתְּעִים

@@ -13,7 +13,7 @@ Exod 7:22 + 2 t.;
 Exod 7:11 — always
 with בְּ:
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 בַּלָּט = secretly
@@ -22,7 +22,7 @@ with בְּ:
 בַּלָּאט
 Judg 4:21.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 בְּלָטֵיהֶם

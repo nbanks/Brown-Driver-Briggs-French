@@ -10,7 +10,7 @@ akâlu
 Dl^W^, araméen אֲבַל,
 [placeholder188: Placeholders/188.gif]) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait
 אָכַל
@@ -223,7 +223,7 @@ Ps 27,2.
 Jb 19,22
 ).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Niph`al
 Parfait
 וְנֶאֱבַל consécutif Ex 22,5
@@ -278,7 +278,7 @@ Ez 23,25
 3.
 être rongé, détruit, de la chair Nb 12,12 ; Jr 30,16.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Pu`al
 Parfait
 אֻכְּלוּ
@@ -288,7 +288,7 @@ Participe
 Ew^§ 169 d^) Ex 3,2 par l'épée Es 1,20
 תְּאֻכְּלוּ.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 Hiph`il
 Parfait 2 masculin singulier suffixe הֶאֱכַלְתָּם
 Ps 80,6

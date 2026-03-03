@@ -13,7 +13,7 @@ probably= mutilated; Ethiopic
 peel, flay
 Di^649^); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Niph`al
 Perfect 3 masculine singular וְנִקַּף סִבְכֵי הַיַּ֫עַר consecutive Isa 10:34 and
@@ -23,7 +23,7 @@ possibly Pi`el, but compare Di
 Du
 Che^Hpt^).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Perfect 3 plural וְאַחַר

@@ -9,7 +9,7 @@ nom édomite.
 
 θαμνα : —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 תִּמְנָע
 nom propre, masculin
@@ -18,7 +18,7 @@ a. un chef d'Édom Gn 36,40 = 1 Ch 1,51.
 
 b. fils d'Éliphaz 1 Ch 1,36 (pour Coré Gn 36,15 ; Gn 36,16).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 תִּמְנָע֑
 féminin

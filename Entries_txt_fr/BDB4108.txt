@@ -17,7 +17,7 @@ kusû
 kusîtu
 , vêtement Dl^HWB 342^) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal, seulement Participe
 actif
 כֹּסֶה ; —
@@ -31,7 +31,7 @@ Ps 32,1
 couvert quant au péché (par Dieu, qui le met ainsi hors de vue) (||
 נְשׂוּיפֶּֿשַׁע).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Niph`al
 Parfait 3 féminin singulier נִכְסָ֑תָּה, couverte, par
 des vagues Jr
@@ -41,7 +41,7 @@ Infinitif construit
 Ez 24,8
 , (sang) à ne pas couvrir.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Pi`el
 Parfait 3 masculin singulier כִּסָּה
 Nb 9,15
@@ -249,7 +249,7 @@ Ez
 31,15 selon Co
 j'ai fait porter le deuil à l'abîme pour lui (supprimer כסתי).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 Pu`al
 Parfait 3 masculin pluriel כָּסּוּ
 Ps
@@ -280,7 +280,7 @@ P
 sac
 1 Ch 21,16 le nom de ténèbres Qo 6,4.
 
-@@SPLIT:stem@@
+## SPLIT 5 stem
 Hithpa`el
 Imparfait
 וַיִּתְכַּס

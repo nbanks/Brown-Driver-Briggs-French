@@ -6,7 +6,7 @@ boucher, museler (hébreu tardif id., חסום
 muselière ; araméen חֲסַם
 lier solidement) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Imparfait
 לֹא תַחְסֹם שׁוֺר בְּדִישׁוֺ

@@ -17,7 +17,7 @@ Prov 6:14
 construct מִדְיְנֵי
 Prov 19:13.
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 strife, contention, almost wholly Proverbs: — Prov 18:19; Prov 23:29; Prov 26:20 also Prov 17:14
@@ -49,7 +49,7 @@ Prov 25:24
 Prov 21:19
 .
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 object of contention

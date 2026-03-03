@@ -18,14 +18,14 @@ be defeated,
 the inflicting of injury on an enemy Lane^3038^
 ); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Niph`al
 Perfect
 וְנִכָּה וָמֵת consecutive 2Sam 11:15
 and he shall be smitten [struck by weapon in battle] and die.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pu`al
 Perfect 3 feminine singular נֻכָּ֑תָה
@@ -34,7 +34,7 @@ plural נֻכּוּ Exod 9:32 (
 J
 ), both be smitten down by the hail.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il_482_
 Perfect 3 masculine singular הִכָּה
@@ -649,7 +649,7 @@ palaces
 Amos 3:15; Amos 6:11 (2
 accusative), compare Zech 9:4.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hoph`al
 Perfect

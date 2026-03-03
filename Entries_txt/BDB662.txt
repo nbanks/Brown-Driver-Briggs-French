@@ -7,7 +7,7 @@ Job 3:6
 darkness, gloom (only in poetry) -׳
 א always absolute —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 darkness,, of night Ps 91:6 (opposed to צָֽהֳרַיִם deep in the earth,׳
@@ -27,7 +27,7 @@ that night — let darkness take it
 secrecy, treachery Ps
 11:2.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. especially figurative of calamity, Job 23:17 (|| חשׁ ך q. v.), Job 30:26
 (opposed to אוֺר ).

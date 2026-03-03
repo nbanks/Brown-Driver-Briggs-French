@@ -22,7 +22,7 @@ Dt 28,59,
 Jr 30,17,
 etc. ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 
 a.
@@ -63,7 +63,7 @@ Es 30,26
 (|| שֶׁבֶר) ; de blessures faites par les flèches de ׳
 י Ps 64,8.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2. = carnage
 1 S 4,10 ;
 1 S 14,30
@@ -82,7 +82,7 @@ Jos 10,20
 2 Ch 13,17
 .
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3. = défaite, comme accusatif de sens apparenté avec le verbe avec
 הִכָּה
 
@@ -99,7 +99,7 @@ conquête (de ׳
 Es
 14,6.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 4.
 plaie, surtout maladie, comme punition (de ׳
 י),

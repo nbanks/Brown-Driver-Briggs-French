@@ -6,7 +6,7 @@ verbe
 dénominatif
 pratiquer la divination ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imparfait, 3 masculin pluriel יִקְסְמוּ

@@ -23,7 +23,7 @@ not used before
 D
 and Jeremiah; in Jeremiah only of man's commands; not Ezekiel nor Minor Prophets, except Malachi; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 commandment, of man: king, 1Kgs 2:43; 2Kgs 18:36 = Isa 36:21; 2Chr 8:15 + 14 t.; אב
@@ -42,7 +42,7 @@ plural only Jer
 Prov 10:8; Neh 10:33
 המצוה, the order (title of property) Jer 32:11.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. of God:
 
@@ -217,7 +217,7 @@ c. of special commands of God 1Sam 13:13; 1Kgs 13:21; 2Chr 29:25
 ; Neh 13:5;
 Mal 2:1; Mal 2:4; Job 23:12.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 commandment, singular, of code of wisdom Prov 19:16, || תורה

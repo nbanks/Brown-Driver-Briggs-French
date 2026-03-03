@@ -22,19 +22,19 @@ Ezek 41:26 +;
 suffix צַלְעֹתָיו
 Gen 2:21 +; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 rib of man Gen 2:21; Gen 2:22 (
 J
 ).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 rib of hill, i.e. ridge, or terrace 2Sam 16:13.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 side-chambers or cells (enclosing temple like ribs) 1Kgs 6:5; 1Kgs 6:6 (read ׳
@@ -44,7 +44,7 @@ side-chambers or cells (enclosing temple like ribs) 1Kgs 6:5; 1Kgs 6:6 (read ׳
 , so of Ezekiel's temple Ezek 41:5 + 10 t. 41 (on text see Co
 Toy Krae).
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 ribs of cedar and fir, i.e. planks, boards (plural), of temple wall 1Kgs 6:15;
@@ -52,12 +52,12 @@ ribs of cedar and fir, i.e. planks, boards (plural), of temple wall 1Kgs 6:15;
 floor 1Kgs 6:15
 .
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 5.
 leaves of door 1Kgs 6:34.
 
-@@SPLIT:sense@@
+## SPLIT 6 sense
 
 6. (in
 P

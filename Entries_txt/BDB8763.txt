@@ -3,7 +3,7 @@ Biblical Hebrew
 
 I. [שִׁלֵּשׁ]
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pi`el
 denominative
@@ -36,7 +36,7 @@ Dr and others (compare
 and Imperative masculine plural שַׁלֵּ֑שׁוּ 1Kgs 18:34
 do a third time.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pu`al
 Participle

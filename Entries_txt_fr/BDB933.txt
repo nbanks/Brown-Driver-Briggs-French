@@ -10,7 +10,7 @@ Pa`el בַּהֵיל
 hâter, être précipité, aussi effrayer : mais
 [placeholder511: Placeholders/511.gif] est être calme) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Niph`al
 Parfait
@@ -73,7 +73,7 @@ ne sois pas hâtif (de) partir de devant lui ; Pr 28,22
 נִבֳהָל לַהוֺן
 se hâtant après les richesses.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Imparfait
@@ -138,7 +138,7 @@ de parole hâtive Qo
 ׳
 אַלתְּֿב.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pu`al
 Participe pluriel מְבֹהָלִים
@@ -169,7 +169,7 @@ Est
 
 Pr 20,21.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hiph`il
 Parfait suffixe הִבְהִילָ֑נִי

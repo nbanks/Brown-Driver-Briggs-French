@@ -100,7 +100,7 @@ RV
 , words like or, then, but, notwithstanding, howbeit, so, thus, therefore, that,
 constantly appear, where the Hebrew has simply וְ.
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 And, connecting both words (see above), and sentences (Gen 1:5
@@ -432,7 +432,7 @@ Amos 9:5-6; Isa 51:15
 and I [who promise this] am J. thy God, who . . . . ! Jer 29:23; Ps 89:38b (compare in
 Qoran the frequently 'And God is . . . . [the mighty, the merciful, etc.]').
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. The ו consecutive (formerly called the Waw 'conversive'); —
 
@@ -478,7 +478,7 @@ exceptionally, Gen
 120^, 2 a; compare in Syriac Nö^§ 335-6^
 . In Arabic the stronger form of the conjugation
 [placeholder1347: Placeholders/1347.gif] here corresponds: W^ii. § 140^). (
-b) וַּ  with the imperfect sometimes expresses a contrast = and yet
+b) וַּ with the imperfect sometimes expresses a contrast = and yet
 , Gen
 32:31 I have seen God face to face וַתִּנָּצֵל
 and yet my soul is delivered, Deut 4:33; 2Sam 3:8; 2Sam 19:29; Isa 51:12; Ps 73:14; Ps 144:3; Job 10:8 +
@@ -486,7 +486,7 @@ and yet my soul is delivered, Deut 4:33; 2Sam 3:8; 2Sam 19:29; Isa 51:12; Ps 73:
 74^
 β). (c) there is a tendency in the later books of the OT to use the perfect with
 simple וְ, where the classical language would employ the imperfect with וַּ
-(compare above 1); so especially in Ecclesiastes, where וַּ  occurs thrice only,
+(compare above 1); so especially in Ecclesiastes, where וַּ occurs thrice only,
 Job 1:17; Job 4:1; Job 4:7. (
 d
 ) a double perfect with ו consecutive is sometimes used, informally but neatly, with
@@ -501,7 +501,7 @@ RV
 leaves his father, he will die, Gen 33:13; Gen 42:38; Exod 4:14; Exod 12:13; 1Sam 16:2; 1Sam 19:3; Ezek 33:3; Ezek 39:15 etc. (Dr^§ 147-9^,
 Ges^«GKC:159»§ 159^. 2 e).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. With a voluntative (cohortative or jussive) וְ expresses
 an intention,
@@ -545,7 +545,7 @@ Gen 34:12;
 Prov 3:9f. Prov 4:4; Prov 4:8; Isa 55:2: see
 Dr^§ 152^.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4. It expresses often an informal inference, or consequence, so, then, especially at the
 beginning of
@@ -567,7 +567,7 @@ then bring meal, Ezek 18:32. So the וְ consecutive and the perfect, as Deut 2:
 119^
 δ).
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 5.
 ו introduces the predicate or apodosis: namely
@@ -606,7 +606,7 @@ Isa 60:15,
 etc., (see Dr^§ 123^).
 
 b.
-וַּ  consecutive and the Imperfect (but much less frequently than the perfect), as
+וַּ consecutive and the Imperfect (but much less frequently than the perfect), as
 Gen 30:30
 the
 little that thou hadst, וַיִּפְרֹץ

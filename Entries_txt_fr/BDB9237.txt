@@ -15,7 +15,7 @@ takânu
 [placeholder5868: Placeholders/5868.gif], תֵּקֵּין
 fixer, arranger, préparer, etc. ; palmyrénien Pa`el ériger) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Infinitif construit
@@ -24,7 +24,7 @@ Qo 1,15
 (opposé à מְעֻוָּת
 tordu).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Infinitif construit

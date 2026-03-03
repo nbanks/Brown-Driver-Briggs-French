@@ -6,7 +6,7 @@ verb
 denominative
 be evil, bad; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular רַע
@@ -85,7 +85,7 @@ J
 1Chr 21:7
 .
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 suffer hurt: Imperfect 3 masculine singular (רַע) יֵרוֺעַ
@@ -93,7 +93,7 @@ Prov 11:15
 ; Prov
 13:20.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il_70_
 Perfect 3 masculine singular הֵרַע

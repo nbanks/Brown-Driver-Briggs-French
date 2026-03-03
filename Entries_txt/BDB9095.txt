@@ -5,7 +5,7 @@ Biblical Hebrew
 denominative
 be double; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Participle plural תֹּאֲמִם
@@ -18,7 +18,7 @@ P
 Baen
 ARSK^Hast. DB iv. 661.^
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 bear twins: Participle feminine plural מַתְאִימוֺת

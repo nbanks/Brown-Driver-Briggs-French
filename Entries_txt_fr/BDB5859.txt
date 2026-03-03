@@ -5,7 +5,7 @@ hébreu biblique
 dénominatif (Gerber^42 s.^) témoigner
 ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Imparfait 1 singulier suffixe אֲעוּדֵךְ
 Lm 2,13
@@ -18,7 +18,7 @@ Qr
 
 Bu.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Hiph`il
 Parfait 3 masculin singulier הֵעִיד
 2 R 17,15
@@ -98,7 +98,7 @@ enjoindre solennellement, avec בְּ personne + accusatif de chose
 Dt
 32,46.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Hoph`al
 Parfait 3 masculin singulier וְהוּעַד consécutif Ex 21,29 (
 E

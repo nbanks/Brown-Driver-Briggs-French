@@ -15,7 +15,7 @@ clarus, lucidus, fulgidus ;
 [placeholder4498: Placeholders/4498.gif],
 [placeholder4499: Placeholders/4499.gif], lisse, uni) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait 3 pluriel צַחוּ מֵחָלָב
 Lm 4,7 (||

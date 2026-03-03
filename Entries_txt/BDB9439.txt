@@ -10,7 +10,7 @@ Syriac; Biblical Hebrew II.
 זָחַל
 ]; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pe`al
 Participle
@@ -23,7 +23,7 @@ Dan 2:31, feminine
 דְּחִילָה
 Dan 7:7; Dan 7:19.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pa`el
 Imperfect 3 masculine singular suffix וִידֵחֲלִנַּנִי

@@ -4,7 +4,7 @@ Biblical Hebrew
 בֻּנִּי
 proper name, masculine
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 Levites,
 
@@ -17,7 +17,7 @@ b.
 בּוּנִּי (בֶּן) Neh 11:15, but read perhaps מִן בְּנֵי etc. compare
 BeRy.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. a chief of people Neh 10:16, perhaps repetition of בָּנִי V:15 compare BeRy.
 

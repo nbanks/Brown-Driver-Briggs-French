@@ -6,7 +6,7 @@ dig (compare Arabic
 [placeholder828: Placeholders/828.gif]
 pierce, bore, hollow out) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Participle

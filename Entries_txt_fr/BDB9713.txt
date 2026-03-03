@@ -5,7 +5,7 @@ araméen biblique
 verbe
 tomber (voir hébreu biblique) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Peal
 Parfait 3 masculin singulier ׳

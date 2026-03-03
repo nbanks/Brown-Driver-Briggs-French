@@ -19,7 +19,7 @@ eyelid (compare [שְׁמֻרָה] below), and Arabic
 support, aid, protect (l = r), that two √ √ are combined in Hebrew; but proof insufficient);
 —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal_425_
 Perfect 3 masculine singular ׳
@@ -475,7 +475,7 @@ Deut
 keep, preserve, weeks of harvest Jer 5:24 (ל
 person).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al_36_
 Perfect 3 masculine singular נִשְׁמַד
@@ -591,7 +591,7 @@ Bae
 Du
 Dr.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el
 Participle plural מְשַׁמְּרִים
@@ -601,7 +601,7 @@ Jonah 2:9
 
 those paying regard to false vanities (compare Qal Ps 31:7).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hithpa`el
 Imperfect 1 singular וָאֶשְׁתַּסֵּר מֵעֲוֺנַי

@@ -13,7 +13,7 @@ Hom^NS 391^ ; comparer hébreu tardif דּוּשׁ, araméen
 id.,
 [placeholder1120: Placeholders/1120.gif] ; voir en outre Nö^ZMG 1883, 538^) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait
 דָּשׁ
@@ -69,7 +69,7 @@ q. v. ; et aussi dans Jg 8,16 (lire וידשׁ comparer ci-dessus) suivi de בָ
 figuré dévastation du pays Am 1,3 (Galaad), destruction de peuples Ha 3,12 (גוים) ; surtout Mi 4,13
 (absolu), où métaphore complète ; hyperbole d'Israël Es 41,15 avec accusatif הרים. —
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Niph`al
 être foulé, Parfait וְנָדוֺשׁ consécutif Es 25,10 figuré, sujet Moab ;
 Infinitif
@@ -78,7 +78,7 @@ ib. (comparaison, sujet מתבן
 tas de paille ; sur la forme comparer Ol^§ 193 a^
 Ba^NB 156^) —
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Hoph`al
 être battu, Imparfait
 יוּדַשׁ

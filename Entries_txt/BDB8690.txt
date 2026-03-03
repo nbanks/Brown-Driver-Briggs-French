@@ -3,7 +3,7 @@ Biblical Hebrew
 
 [שָׁלַב] verb
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pu`al
 be bound, joined (Late Hebrew Punic = Biblical Hebrew; שְׁלִיבָה

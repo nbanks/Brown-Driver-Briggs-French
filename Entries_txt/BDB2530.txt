@@ -15,7 +15,7 @@ Zehnpf^BAS i. 499, 526^; Aramaic
 [placeholder1609: Placeholders/1609.gif], חֲבוּשְׁיָא
 imprisonment, etc.) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 2 masculine singular וְחָבַשְׁתָּ֫
@@ -159,7 +159,7 @@ see above; compare
 Pu`al); absolute Job 5:18 also Isa 3:7 of repairing fortunes of people (opposed to
 הִכְאִיב; || רָפָה = רָפָא).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Perfect
@@ -175,7 +175,7 @@ bind up
 Ps 147:3
 .
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pu`al
 Perfect

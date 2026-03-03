@@ -4,7 +4,7 @@ Biblical Hebrew
 [קָרָה] verb
 denominative
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pi`el
 lay the beams of, furnish with beams; — with accusative of the building: Perfect 3

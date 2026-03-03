@@ -6,7 +6,7 @@ tondre (hébreu tardif id., araméen גְּזָז
 [placeholder858: Placeholders/858.gif], arabe
 [placeholder859: Placeholders/859.gif], dérivés assyriens) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Imparfait
 וַיָּ֫גָו
@@ -48,7 +48,7 @@ Jr 7,29 (objet
 נֵזֶר
 q. v.)
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Niph`al
 נָגוֺ֫זּוּ
 être retranché (= détruit) des Assyriens Na 1,12.

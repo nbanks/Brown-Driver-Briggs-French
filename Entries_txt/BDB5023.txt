@@ -14,7 +14,7 @@ Aramaic
 [placeholder3205: Placeholders/3205.gif], נַהֲרָא
 river); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 plural consecutive וְנָָֽהֲרוּ

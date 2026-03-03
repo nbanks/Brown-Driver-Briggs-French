@@ -12,7 +12,7 @@ precede, pass forth, become free, grow old; Aramaic
 grow old, Palmyrene adjective עתק
 old); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 feminine singular עָֽתְקָה
@@ -37,7 +37,7 @@ Ps 6:8 (of eye,
 ||
 עָֽשְׁשָׁה).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Perfect 3 plural הֶעְתִּיקוּ

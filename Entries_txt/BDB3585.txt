@@ -11,7 +11,7 @@ mušeni‡tu
 , nurse, Jen^ZA, 1886, 402^
 ) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -59,7 +59,7 @@ Isa 11:8 — on Isa 53:2 see
 יוֺנֵק
 below.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Perfect

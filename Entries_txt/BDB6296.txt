@@ -13,7 +13,7 @@ Mic 4:3 +; suffix
 עֲצוּמָיו
 Ps 10:10 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 mighty, especially of people, strong in numbers (often || רַב
@@ -43,7 +43,7 @@ De
 Che
 Bae and others).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 numerous, countless (all || רַב): Amos 5:12; Ps 35:18 as substantive =

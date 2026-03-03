@@ -4,18 +4,18 @@ Biblical Hebrew
 מִרְקַ֫חַת
 noun
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 ointment-mixture.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 ointment-pot (?);
 —
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 1. absolute ׳
 רֹקְחֵי הַמּ
@@ -24,7 +24,7 @@ ointment-pot (?);
 רֹקַח מ
 Exod 30:25.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 2.
 ׳

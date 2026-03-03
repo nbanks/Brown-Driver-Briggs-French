@@ -6,7 +6,7 @@ noun plural feminine
 abstract
 smoothness, slipperiness, flattery, fine promises;
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 slipperiness
@@ -16,7 +16,7 @@ Ps 35:6
 להם כַּחֲלַקְלַקּוֺת
 Jer 23:12.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 fine promises

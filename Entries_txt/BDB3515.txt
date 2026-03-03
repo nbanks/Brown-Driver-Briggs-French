@@ -8,7 +8,7 @@ Pi`el
 await (compare Late Hebrew יִחוּל
 expectation); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Niph`al
 Perfect 3 feminine singular נוֺחֲלָה
@@ -40,7 +40,7 @@ be weak, whence perhaps sink down; Hi
 that he was thrust away from her; Co
 plausibly נוֺאֲלָה that she had acted foolishly).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Perfect 2 masculine singular suffix יִחַלְתָּ֑נִי
@@ -116,7 +116,7 @@ Ps 71:14.
 Ps
 119:49 (suffix person).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Perfect

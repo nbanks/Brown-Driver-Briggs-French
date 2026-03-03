@@ -10,7 +10,7 @@ compress; compare Arabic
 [placeholder1454: Placeholders/1454.gif]
 twist the lip of a beast) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 plural זֹ֫רוּ

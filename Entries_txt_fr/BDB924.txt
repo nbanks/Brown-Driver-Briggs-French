@@ -4,7 +4,7 @@ hébreu biblique
 בְּדָן
 nom propre, masculin (= עַבְדָּן ?).
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. un juge d'Israël 1 S 12,11 mais lire probablement בָּרָק, ainsi
 
@@ -14,7 +14,7 @@ nom propre, masculin (= עַבְדָּן ?).
 
 We, comparer Dr (voir Jg 4,6s.).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. un Manassite 1 Ch 7,17.
 

@@ -15,7 +15,7 @@ Frä^153 s.^), minéen נפל
 enlever
 Hom^Sudar. Chrest. 128^) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal_366_
 Parfait
 ׳
@@ -518,7 +518,7 @@ Hi
 Co
 Berthol, dans Ez 32,23 Toy^Hpt^).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Hiph`il
 Parfait
 הִפִּיל
@@ -731,7 +731,7 @@ comparer
 Qal
 6.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Hithpa`el
 se jeter, ou se prosterner,
 
@@ -760,7 +760,7 @@ Esd
 et rester prosterné, ׳
 לִפְנֵי י. —
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 Pilel.
 וְנִפְלַל
 

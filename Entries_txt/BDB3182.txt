@@ -17,7 +17,7 @@ in verse); Neh 11:35
 2Sam 5:11 + 6 t.;
 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 graver, artificer:
@@ -98,7 +98,7 @@ artificers
 a^
 Kö^ii, § 60. 5^; read חָֽרָשִׁים?
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 figurative

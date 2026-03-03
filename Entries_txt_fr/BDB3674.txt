@@ -3,12 +3,12 @@ hébreu biblique
 
 [מוּצֶ֫קֶת]
 nom
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 tuyau (par lequel l'huile est versée) מוּצָקוֺת
 Za 4,2.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2. une fonte (comparer יְצֻקָה) יְצוּקִים בְּמֻעַֿקְתּוֺ
 2 Ch 4,3.
 

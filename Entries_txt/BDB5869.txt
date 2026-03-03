@@ -36,7 +36,7 @@ Ezek 28:18
 Isa 64:6 +, etc. (
 SS doubt all these); —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 iniquity, Job 15:5; Job 20:27; Jer 11:10; Jer 14:7; Jer 16:17; Lam 2:14; Ezek 7:13 || חטאת
@@ -263,7 +263,7 @@ Ps 130:8
 
 ransom from iniquity.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 Guilt of iniquity (not always easy to distinguished from
@@ -373,7 +373,7 @@ Ezek 18:17
 18:18;
 Ezek 33:8; Ezek 33:9.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 Consequence of, or punishment for, iniquity (SS

@@ -3,7 +3,7 @@ Biblical Hebrew
 
 כִּמְהָם
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 proper name, masculine
 1.
@@ -23,7 +23,7 @@ L
 
 Αχιμααμ.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. in noun [of location]
 גֵּרוּת כִמְהָם

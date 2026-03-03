@@ -6,7 +6,7 @@ shear (Late Hebrew id., Aramaic גְּזָז
 [placeholder858: Placeholders/858.gif], Arabic
 [placeholder859: Placeholders/859.gif], Assyrian derivatives) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect
@@ -49,7 +49,7 @@ Jer 7:29 (object
 נֵזֶר
 q. v.)
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 נָגוֺ֫זּוּ

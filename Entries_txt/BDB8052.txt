@@ -12,7 +12,7 @@ Jer 8:15 construct
 מַרְפֵּא
 Prov 15:4 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 healing, cure, of national woes, Jer 8:15; Jer 14:19b (|| שָׁלוֺם), Jer 36:6 (+
@@ -24,7 +24,7 @@ there is no cure for us, ׳
 2Chr 36:16
 .
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 figurative of person, health, profit, Prov 4:22 (|| חַיִּים), Prov 12:18;
@@ -47,7 +47,7 @@ Eccl 10:4
 Eccl 15:4
 healing of the tongue, = a soothing tongue (Toy).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. literally, of disease, ׳
 לְאֵין מ

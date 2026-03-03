@@ -4,7 +4,7 @@ Biblical Hebrew
 [טָלָא] verb
 patch, spot (Late Hebrew id., patch) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Passive participle
@@ -26,7 +26,7 @@ both, Gen 30:39
 J
 ); of high places, variegated (gaily-coloured shrines) Ezek 16:16.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pu`al
 Participle

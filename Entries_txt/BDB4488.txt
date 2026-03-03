@@ -17,7 +17,7 @@ blemish, defect (chiefly
 H
 ):
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. physical,
 
@@ -35,7 +35,7 @@ Deut
 ׳
 היה מ).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 figurative of moral blemish Deut 32:5 (but text very dubious, compare Dr

@@ -9,30 +9,30 @@ DHM^Epigr. Denkm. 43^)
 
 Ζαχαρια(ς), etc.: —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 זכריהו, king of Israel, son of Jeroboam II, 2Kgs 15:8 = זכריה
 2Kgs 14:29;
 2Kgs 15:11.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 זכריהו, father of Hezekiah's mother 2Chr 29:1 = זכריה
 2Kgs 18:2.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 זכריהו, contemporary of Isaiah Isa 8:2.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 זכריהו, a Reubenite 1Chr 5:7.
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 5.
 זכריה, a Benjamite 1Chr 9:37 (
@@ -53,7 +53,7 @@ L
 1Chr 8:31 (see
 [I. זֶכֶר]).
 
-@@SPLIT:sense@@
+## SPLIT 6 sense
 
 6.
 זכריהו, a Manassite 1Chr 27:21 (
@@ -69,22 +69,22 @@ L
 
 Ζαχαριου).
 
-@@SPLIT:sense@@
+## SPLIT 7 sense
 
 7.
 זכריהו, a son of Jehoshaphat 2Chr 21:2.
 
-@@SPLIT:sense@@
+## SPLIT 8 sense
 
 8.
 זכריה, a captain of Jehoshaphat 2Chr 17:7.
 
-@@SPLIT:sense@@
+## SPLIT 9 sense
 
 9.
 זכריהו, teacher of Uzziah 2Chr 26:5.
 
-@@SPLIT:sense@@
+## SPLIT 10 sense
 
 10. Levites, זכריהו:
 
@@ -136,7 +136,7 @@ h.
 
 i. an Asaphite Neh 12:35.
 
-@@SPLIT:sense@@
+## SPLIT 11 sense
 
 11. priests, זכריהו:
 
@@ -178,7 +178,7 @@ Zech 1:1; Zech 1:7; Zech 7:1; Zech 7:8; Neh 12:16
 
 ].
 
-@@SPLIT:sense@@
+## SPLIT 12 sense
 
 12. returned exiles, זכריה:
 

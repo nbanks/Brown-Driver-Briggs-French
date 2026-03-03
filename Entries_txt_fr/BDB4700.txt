@@ -4,19 +4,19 @@ hébreu biblique
 IV. [מָלַל] verbe
 circoncire ( = מוּל) ; — on attribue parfois à cette racine :
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Impératif
 מֹל
 Jos 5,2.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Niph`al
 Parfait
 נְמַלְתֶּם
 Gn 17,11.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Hithpo`el
 être retranché : Imparfait
 יִתְמֹלָ֑לוּ

@@ -3,7 +3,7 @@ hébreu biblique
 
 [תָּלַע] verbe
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pu`al
 dénominatif

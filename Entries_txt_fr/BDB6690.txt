@@ -3,7 +3,7 @@ hébreu biblique
 
 [פָנַק] verbe
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pi`el
 choyer, dorloter (hébreu tardif Pi`el ; comparer

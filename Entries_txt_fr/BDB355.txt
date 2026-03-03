@@ -12,7 +12,7 @@ a‰amu
 , dans une liste de coiffures, etc. = turban ?
 Dl^W, No. 155^) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Participe
 actif
@@ -36,7 +36,7 @@ Ez 41,26
 comparer חַלּוֺנֵי שְׁקֻפִים אֲטֻמִים
 1 R 6,4.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Hiph`il
 Imparfait
 id quod Qal יַאְטֵם

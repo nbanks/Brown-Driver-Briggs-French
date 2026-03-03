@@ -12,7 +12,7 @@ t. ; construit אֶזְרַח
 Ex 12,19 + 2
 t. ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 un Israélite autochtone, habituellement collectif, avec article, כלֿ
 בישׂראל
@@ -58,7 +58,7 @@ P
 D
 ).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 un arbre indigène, poussant dans son sol naturel רַעֲנָן
 ׳

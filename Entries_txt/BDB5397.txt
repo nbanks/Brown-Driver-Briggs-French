@@ -4,17 +4,17 @@ Biblical Hebrew
 שְׂאֵת
 noun
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 exaltation, dignity.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 swelling.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. uprising;
 — ׳
@@ -24,7 +24,7 @@ Job 13:11 +;
 (מִ)שֵּׂתוֺ
 Job 41:17 —
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 1.
 dignity
@@ -34,7 +34,7 @@ Ps 62:5, of Chaldeans Hab 1:7 of God, his exaltation, loftiness
 Job 13:11;
 Job 31:23.
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 2.
 swelling, eruption, בְּעוֺר בֶּשָׂר
@@ -49,13 +49,13 @@ Lev 13:43 (all
 P
 ).
 
-@@SPLIT:sense@@
+## SPLIT 6 sense
 
 3.
 uprising, Job 41:17
 at his uprising the mighty are in dread.
 
-@@SPLIT:sense@@
+## SPLIT 7 sense
 
 4.
 Gen 4:7 is dubious; — is

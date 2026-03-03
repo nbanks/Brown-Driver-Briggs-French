@@ -15,14 +15,14 @@ proper name נבטאל
 God has seen, i.e. considered
 Levy-Os^ZMG xix. 1865, 231^); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pi`el
 Perfect consecutive וְנִבַּט
 Isa 5:30
 look (literally), followed by לְ.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Perfect
@@ -81,7 +81,7 @@ J
 Exod 33:8 (
 E
 ),
-1Sam 24:9 followed by ָ  ה locative, Gen 15:5 (שָׁמַ֫יְמָה),
+1Sam 24:9 followed by ָ ה locative, Gen 15:5 (שָׁמַ֫יְמָה),
 compare Job
 35:5 (שָׁמַיִם); followed by דֶּרֶחיָֿם
 1Kgs

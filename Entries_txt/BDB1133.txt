@@ -10,7 +10,7 @@ Job 18:11 + 7
 t.; construct בַּלְהוֺת
 Job 24:17 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. only plural terrors
 Job 18:11;
@@ -24,7 +24,7 @@ death, compare צַלְמָוֶת
 בּ
 Job 24:17.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 calamity

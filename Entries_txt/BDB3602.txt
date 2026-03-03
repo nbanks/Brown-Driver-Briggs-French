@@ -10,7 +10,7 @@ discipline, chasten, admonish (Talmud
 chastisement; but Aramaic יְסַר
 is bind ) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect 3 masculine suffix וְיִסְּרֵנִי
@@ -49,7 +49,7 @@ instruct, 1Chr 15:22.
 3.
 discipline, of God Hos 10:10; Ps 94:10.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Imperfect
@@ -74,7 +74,7 @@ Jer
 31:18; Lev
 26:23.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el
 Perfect
@@ -187,7 +187,7 @@ Ezek 23:48 (for נִתְוַסְּרוּ
 Ges^«GKC:55»§ 55^ R. 7); passive be
 disciplined, corrected.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hiph`il
 Imperfect 1 singular suffix אַיְסִירֵם (

@@ -14,7 +14,7 @@ apparently √ of following fourteen words, but this dubious especially in case 
 לְבָנָא, לִבְנָה, II. לְבוֺנָה, I. II. לִבְנִי);
 —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Hiph`il
 Perfect 3 plural הִלְבִּינוּ
@@ -39,7 +39,7 @@ Isa 1:18
 מִשֶּׁלֶג אַלְב
 Ps 51:9.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hithpa`el
 Imperfect

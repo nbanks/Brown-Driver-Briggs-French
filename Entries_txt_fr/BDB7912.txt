@@ -3,7 +3,7 @@ hébreu biblique
 
 [רִיק] verbe
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Hiph`il
 rendre vide, vider (arabe
 [placeholder5061: Placeholders/5061.gif] (
@@ -76,7 +76,7 @@ Dr < אֲרִיקֵם (voir
 דקק
 ).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Hoph`al
 être vidé d'un récipient : Parfait 3 masculin singulier הוּרק
 

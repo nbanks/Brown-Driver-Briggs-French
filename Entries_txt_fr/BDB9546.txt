@@ -12,7 +12,7 @@ dans le besoin de ; pas
 
 ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pe`al
 Participe pluriel חָֽשְׁחִין

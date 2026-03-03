@@ -4,7 +4,7 @@ hébreu biblique
 עַדְנָא
 nom propre, masculin
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 homme ayant une femme étrangère
 Esd 10,30 (
@@ -22,7 +22,7 @@ Baer),
 
 Εδνα.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 Ne 12,5,
 

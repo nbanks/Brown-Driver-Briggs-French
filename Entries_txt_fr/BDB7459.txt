@@ -26,7 +26,7 @@ fronde, éthiopien
 [placeholder4770: Placeholders/4770.gif]
 fronde) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Participe
@@ -37,7 +37,7 @@ un frondeur (avec) une pierre vers un cheveu ;
 קוֺ avec accusatif de personne Jr 10,18
 je projetterai les habitants.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Imparfait 3 masculin singulier וַיִקַלַּע

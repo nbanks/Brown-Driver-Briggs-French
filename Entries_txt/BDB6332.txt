@@ -4,7 +4,7 @@ Biblical Hebrew
 עִקֵּר
 verb
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pi`el
 denominative (from עֵקַר or other like word = (root-sinew),

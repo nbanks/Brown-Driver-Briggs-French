@@ -16,7 +16,7 @@ Gen 1:20 +; plural
 חַיִּים
 Ps 116:9 +; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 
@@ -416,7 +416,7 @@ P
 
 ; Song 4:15.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. (dubious) lively, active:
 אישׁ חַי
@@ -437,7 +437,7 @@ Ew Hu Che and others read
 
 חִנָּם, || שׁקר).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 reviving:

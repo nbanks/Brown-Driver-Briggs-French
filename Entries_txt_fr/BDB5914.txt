@@ -13,7 +13,7 @@ s'éveiller, se réveiller (hébreu tardif id. ; araméen עוּר,
 [placeholder3790: Placeholders/3790.gif]
 haïr, se venger) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Imparfait 3 masculin singulier suffixe יְעוּרֶנּוּ
 Jb 41,2
@@ -61,7 +61,7 @@ contre), vent Ct 4,16, harpe et lyre Ps 57,9 = Ps 108,3
 Ct 5,2
 mon cœur veille (opposé à יָשֵׁן). — Jb 41,2 ; Ml 2,12 voir ci-dessus
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Niph`al
 Parfait 3 masculin singulier נֵעוֺר
 Za 2,17
@@ -83,7 +83,7 @@ nation Jr 6,22
 , de rois
 Jr 50,41, tourbillon Jr 25,32 absolu de nations Jl 4,12.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Po`el
 Parfait 3 masculin singulier עוֺרֵר
 2 S 23,18
@@ -134,7 +134,7 @@ contre), lire ainsi aussi 2 S 23,8 (voir
 ערר
 .
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 Pilpel
 Imparfait 3 masculin pluriel זַעֲקַתשֶֿׁבֶר יְעֹעֵ֑רוּ
 Es 15,5,
@@ -152,7 +152,7 @@ Gu^Kau^
 SS lisent יְרֹעָ֑עוּ
 crier, mais improbable avec זַעֲקַת.
 
-@@SPLIT:stem@@
+## SPLIT 5 stem
 Hithpolel
 Parfait
 וְהִתְעֹרַ֫רְתִּי כִּי consécutif Jb 31,29
@@ -169,7 +169,7 @@ Di Beer (
 s'éveiller à l'activité, Participe מִתְעוֺרֵר לְהַחֲזִיק בָּךְ
 Es 64,6.
 
-@@SPLIT:stem@@
+## SPLIT 6 stem
 Hiph`il
 Parfait 3 masculin singulier הֵעִיר
 Es 41,2 + ; 1

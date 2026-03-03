@@ -4,7 +4,7 @@ Biblical Hebrew
 I. [צָבָה] verb
 swell, swell up (Late Hebrew id.); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 feminine singular consecutive וְצָֽבְתָה

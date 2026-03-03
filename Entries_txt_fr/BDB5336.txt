@@ -24,7 +24,7 @@ Frey ; éthiopien III.
 [placeholder3409: Placeholders/3409.gif]
 evulsum ou abruptum excidere e suo loco, Di^698^) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Niph`al
 Parfait 1 pluriel נִצַּלְנוּ
 Jr 7,10
@@ -69,7 +69,7 @@ Ha 2,9
 Ps
 69,15.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Pi`el
 Parfait 2 masculin pluriel נִצַּלְתֶּם
 Ex
@@ -92,7 +92,7 @@ délivrer, avec accusatif נַפְשָׁם
 
 Ez 14,14.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Hiphil_190_
 Parfait
 הִצִּיל
@@ -257,7 +257,7 @@ délivre-nous et couvre tous nos péchés ; probablement aussi
 
 Ps 119,170.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 Hoph`al
 Participe
 מֻצּל ; — כְּאוּד מֻצָּל מִשְּׂרֵטָה
@@ -268,7 +268,7 @@ Za
 3,2
 du feu.
 
-@@SPLIT:stem@@
+## SPLIT 5 stem
 Hithpa`el
 וַיִּתְנַצְּלוּ אֶתעֶֿדְיָם
 

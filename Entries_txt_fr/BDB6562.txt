@@ -4,7 +4,7 @@ hébreu biblique
 II. פּוּק
 verbe
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Hiph`il
 faire sortir, fournir, promouvoir (hébreu tardif id. ; apparemment apparenté à l'araméen
 נְפַק

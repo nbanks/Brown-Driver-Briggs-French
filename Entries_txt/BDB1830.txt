@@ -11,7 +11,7 @@ t.; construct Exod
 suffix מִדְבָּרָהּ
 Isa 51:3 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. tracts of land, used for the pasturage of flocks and herds, דָּֽשְׁאוּ נְאוֺת מִדְבָּר
 
@@ -30,7 +30,7 @@ are dried up
 Jer 23:10,
 compare Jer 9:9; Joel 1:19; Joel 1:20.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 uninhabited land, מִדְבָּר לֹאאָֿדָם בּוֺ
@@ -47,7 +47,7 @@ better to dwell in a desert land, than with a contentious woman Prov 21:19
 in a desert land, and in a waste howling wilderness
 Deut 32:10.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 large tracts of such land bearing various names, in certain districts of which there might be
@@ -103,7 +103,7 @@ Deut 2:8,
 קדמות
 Deut 2:26.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 figurative

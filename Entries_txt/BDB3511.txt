@@ -5,7 +5,7 @@ Biblical Hebrew
 noun [masculine]
 unitedness.
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. as
 substantive only 1Chr 12:17 (peculiar) יִהְיֶהלִּֿי עֲלֵיכֶֹם לֵבָב לֳי֑חַד I will
@@ -14,7 +14,7 @@ have a heart toward you for unitedness, i.e. my heart shall be ready to become o
 12:38
 לב אחד).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. elsewhere always in accusative as adverb
 in union, together (compare Arabic

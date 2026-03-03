@@ -5,7 +5,7 @@ I. [עָוָה] verb
 bend, twist (so Arabic
 [placeholder3751: Placeholders/3751.gif]); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Niph`al
 Perfect 1 singular נַעֲוֵיתִי
@@ -31,7 +31,7 @@ Isa 21:3
 Prov 12:8
 one perverted of mind.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Perfect 3 masculine singular עִוָּה, subject ׳
@@ -41,7 +41,7 @@ Perfect 3 masculine singular עִוָּה, subject ׳
 Isa 24:1
 its surface will he distort (|| בּוֺקֵק הָאָרֶץ).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Perfect 1 singular יָשָׁר הֶעֱוֵיתִי

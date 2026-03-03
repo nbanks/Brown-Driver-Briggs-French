@@ -38,7 +38,7 @@ Isa 2:4 + 5 t.;
 חַרְבֹתֵיהֶם
 Mic 4:3 + 2 t.; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. sword,
 
@@ -284,7 +284,7 @@ k.
 violence war, etc., Gen 27:40 in simile Prov 5:4 (of grievous end of
 dealings with strange women).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 knife
@@ -300,7 +300,7 @@ iii,
 sword
 as razor is significant).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. of tools used in hewing stone חַרְבְּךָ הֵנַפְתָּ עליה
 Exod 20:25

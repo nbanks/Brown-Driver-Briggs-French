@@ -33,7 +33,7 @@ Jb 13,2
 דַּעְתָּם
 Es 44,25 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 
 a.
@@ -85,7 +85,7 @@ f.
 דַּעַתרֿוּחַ = connaissance venteuse (irréelle)
 Jb 15,2.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2. surtout dans la littérature sapientiale = discernement, intelligence, sagesse :
 
 a.

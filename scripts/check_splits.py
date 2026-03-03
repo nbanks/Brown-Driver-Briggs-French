@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Verify @@SPLIT markers are at structurally equivalent positions in txt vs txt_fr.
+"""Verify ## SPLIT markers are at structurally equivalent positions in txt vs txt_fr.
 
-Strips all Latin text, keeping only Hebrew characters and @@SPLIT markers,
+Strips all Latin text, keeping only Hebrew characters and ## SPLIT markers,
 then compares the two sequences. If splits land at the same position in the
 Hebrew stream, the sequences match exactly.
 
@@ -17,14 +17,14 @@ import sys
 from pathlib import Path
 
 HEBREW_RE = re.compile(r'[\u0590-\u05FF\uFB1D-\uFB4F]+')
-SPLIT_RE = re.compile(r'^@@SPLIT:\w+@@$')
+SPLIT_RE = re.compile(r'^## SPLIT \S+ \w+$')
 
 
 def hebrew_split_sequence(text):
     """Reduce text to a list of Hebrew tokens and SPLIT markers in order.
 
     Returns a list where each element is either a Hebrew character run
-    or a @@SPLIT:type@@ marker string, preserving document order.
+    or a ## SPLIT marker string, preserving document order.
     """
     seq = []
     for line in text.splitlines():
@@ -118,7 +118,7 @@ def main():
         )
         if not fr_has_splits:
             missing_fr_splits += 1
-            failures.append((stem, "no @@SPLIT markers in French"))
+            failures.append((stem, "no ## SPLIT markers in French"))
             continue
 
         ok, detail = compare_entry(en_text, fr_text)

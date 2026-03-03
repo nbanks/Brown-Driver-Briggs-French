@@ -40,7 +40,7 @@ OPAQUE_TAGS = {"bdbheb", "bdbarc", "transliteration", "grk"}
 #
 # Before BS4 parsing, use regex to find top-level split div positions in
 # the raw HTML (same logic as split_entry.split_html), then inject
-# @@SPLIT:type@@ text right after each opening <div> tag.  BS4 preserves
+# ## SPLIT N type text right after each opening <div> tag.  BS4 preserves
 # these as text nodes, and extract_text passes them through.  The marker
 # lines let split_entry split txt files without heuristics.
 # ---------------------------------------------------------------------------
@@ -105,20 +105,28 @@ def _determine_split_divs(html_text):
 
 
 def inject_split_markers(html_text):
-    """Inject @@SPLIT:type@@ text after each top-level split div's
-    opening tag.  Returns modified HTML string."""
+    """Inject ## SPLIT N type markers after each top-level split div's
+    opening tag.  Returns modified HTML string.
+
+    Markers are numbered sequentially starting from 1:
+        ## SPLIT 1 stem
+        ## SPLIT 2 stem
+        ## SPLIT 3 stem
+    """
     splits = _determine_split_divs(html_text)
     if not splits:
         return html_text
-    # Insert in reverse order to preserve positions
-    splits.sort(key=lambda x: x[0], reverse=True)
+    # Insert in reverse order to preserve positions, but number forward
+    n = len(splits)
+    splits_numbered = list(enumerate(splits, 1))  # (num, (pos, type))
+    splits_numbered.sort(key=lambda x: x[1][0], reverse=True)
     result = html_text
-    for pos, stype in splits:
+    for num, (pos, stype) in splits_numbered:
         m = _ANY_DIV_OPEN_RE.match(result, pos)
         if m:
             insert_pos = m.end()
             result = (result[:insert_pos]
-                      + f'\n@@SPLIT:{stype}@@\n'
+                      + f'\n## SPLIT {num} {stype}\n'
                       + result[insert_pos:])
     return result
 
@@ -216,12 +224,12 @@ def extract_file(html_path):
     entry_ids = []
     body = extract_text(soup, entry_ids)
 
-    # Clean up whitespace, preserving @@SPLIT markers
+    # Clean up whitespace, preserving ## SPLIT markers
     lines = body.split("\n")
     cleaned = []
     for line in lines:
         stripped = line.strip()
-        if stripped.startswith("@@SPLIT:") and stripped.endswith("@@"):
+        if stripped.startswith("## SPLIT "):
             cleaned.append(stripped)
         else:
             cleaned.append(re.sub(r"[ \t]+", " ", line).strip())

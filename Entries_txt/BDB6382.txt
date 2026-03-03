@@ -14,7 +14,7 @@ Ps 55:14,
 עֶרְכְּךָ
 Lev 5:15 +, etc.; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 order, row, בְּגָדִים
@@ -40,7 +40,7 @@ his symmetry (see
 חִין
 below חנן).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 estimate, valuation, made by ordering, classifying: אִישׁ

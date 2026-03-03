@@ -8,7 +8,7 @@ Job 27:14
 [placeholder2272: Placeholders/2272.gif]
 origin, root, stock) —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 offspring of men, absolute הַצֶּאֱצָאִים וְהַצְּפִעוֺת
@@ -26,7 +26,7 @@ Job 27:14
 Job 21:8 (||
 זַרְעָם) Isa 61:9 (|| id.), Isa 65:23.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 produce of earth, suffix תֵּבל וְכָלצֶֿאֱצָאֶ֑יהָ

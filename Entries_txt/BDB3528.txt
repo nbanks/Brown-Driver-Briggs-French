@@ -5,7 +5,7 @@ Biblical Hebrew
 be good, well, glad, pleasing (Aramaic יְטַב Zinjirli יטב
 DHM^Sendsch. 57^) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal (Perfect not in use, see
 טוֺב
@@ -84,7 +84,7 @@ P
 ; Neh 2:6;
 Esth 5:14.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Perfect

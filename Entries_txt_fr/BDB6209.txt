@@ -23,7 +23,7 @@ contrarier, frustrer, faire violence ; arabe
 עַנִּי Pael opprimer ; syriaque Ethpeel s'humilier,
 et dérivés) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait 1 singulier עָנִיתִי
 Ps 116,10
@@ -45,7 +45,7 @@ Es 31,4
 Ps
 116,10 ; Ps 119,67 ; Za 10,2.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Niph`al
 Parfait 1 singulier נַעֲניתִי
 Ps
@@ -73,7 +73,7 @@ Ps
 119,107 ;
 Es 53,7 ; Es 58,10.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Pi`el.
 Parfait 3 masculin singulier עִנָּה
 Dt
@@ -181,7 +181,7 @@ par un vœu Nb
 P
 ).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 Pu`al
 Parfait 1 singulier עֻנֵּיתִי
 Ps
@@ -208,7 +208,7 @@ Es 53,4.
 P
 ).
 
-@@SPLIT:stem@@
+## SPLIT 5 stem
 Hiph`il
 Imparfait 2 masculin singulier suffixe תַּעֲנֵם
 1 R
@@ -216,7 +216,7 @@ Imparfait 2 masculin singulier suffixe תַּעֲנֵם
 2 Ch 6,26
 affliger, dans la discipline.
 
-@@SPLIT:stem@@
+## SPLIT 6 stem
 Hithpa`el
 Parfait 3 masculin singulier הִתְעַנָּה
 1 R

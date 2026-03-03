@@ -4,7 +4,7 @@ Biblical Hebrew
 I. מַחְלִי
 proper name, masculine
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 Levite, son of Merari
@@ -16,7 +16,7 @@ Exod 6:19; Num 3:20; 1Chr 6:4; 1Chr 6:14; 1Chr 23:21
 
 Μοολλει.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. son of Mushi, and grandson of Merari 1Chr 6:32; 1Chr 23:23; 1Chr 24:30,
 

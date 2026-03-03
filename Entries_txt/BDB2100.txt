@@ -5,7 +5,7 @@ Biblical Hebrew
 proper name [of deity]
 Yahweh, the proper name of the God of Israel — (
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 
@@ -47,7 +47,7 @@ Dr^Stud.Bib.i.1 ff.^ For Jeve see
 Sta^ZAW 1881, 346^
 De^ib.1882, 173 f. & Gn. Excurs. ii.^
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. on literature of interpretations see Nes^Eg.67^
 Dr^l.c. — Many recent scholars explain^
@@ -135,7 +135,7 @@ Dr^Stud. Bib. i. 7 ff^.
 
 II.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 1.
 יהוה is used with אלהים and suffixes, especially in
@@ -552,7 +552,7 @@ For
 the
 combinations with other divine names see those names.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 2. the phrase אֲנִי יהוה is noteworthy: —
 
@@ -863,7 +863,7 @@ Isa
 51:15
 .
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 3.
 יהוה is also used with several predicates, to form sacred names of holy places of Yahweh

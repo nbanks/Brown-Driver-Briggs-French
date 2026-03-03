@@ -20,7 +20,7 @@ Song 7:9 suffix
 אַשְׁכְּלֹתֶיהָ
 Gen 40:10 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 cluster of grapes, עֲנָבִים
@@ -47,7 +47,7 @@ MV think of clusters of dates, see
 
 palm-tree, ib.)
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 cluster of henna-flowers, הַכֹּפֶר

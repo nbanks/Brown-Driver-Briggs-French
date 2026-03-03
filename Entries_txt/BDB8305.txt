@@ -3,7 +3,7 @@ Biblical Hebrew
 
 [שָׂקַר] verb
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pi`el
 ogle (Aramaic סְקַר

@@ -22,7 +22,7 @@ Lev 25:11,
 נְזִירֶיהָ
 Lam 4:7 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. of prince, ruler, as consecrated:
 נְזִיר אֶחָיו
@@ -34,7 +34,7 @@ J
 Lam 4:7
 her princes.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. specifically of one dedicated to
 ׳
@@ -62,7 +62,7 @@ Now^Archaeology ii, § 97^
 Benz^Archaeology 429 f.^
 Gray^JThs. Jan. 1900, 201 ff.^
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. = untrimmed vine (like Nazirite with unshorn hair) Lev 25:5; Lev 25:11 (
 H

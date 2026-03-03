@@ -6,7 +6,7 @@ lead, guide (Arabic
 [placeholder3263: Placeholders/3263.gif]
 go in direction of, turn (eyes) toward); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect suffix נָחַ֫נִי
@@ -39,7 +39,7 @@ Ps 5:9 (|| הושׁר דרך), Ps 27:11 (followed by בְּאֹרַה; || הור
 ), Ps
 139:24 (followed by בדרך עולם); compare Isa 58:11.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Perfect suffix הִנְחַ֫נִי

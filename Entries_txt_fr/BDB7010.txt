@@ -23,7 +23,7 @@ Jr 27,12,
 צַוְּארֹתַיכֶם
 Mi 2,3 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 cou, surtout nuque, de l'homme, portant une chaîne comme ornement Gn 41,42 (
@@ -105,7 +105,7 @@ douteux ; Matthes Löhr Bae
 
 נִר.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 cou d'animaux, chameaux (portant des ornements) Jg 8,21 ; Jg 8,26 génisse Os 10,11

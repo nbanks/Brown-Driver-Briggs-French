@@ -14,7 +14,7 @@ vomir ; éthiopien [
 [placeholder4739: Placeholders/4739.gif]
 vomir) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Participe
@@ -37,7 +37,7 @@ Lv 18,25
 2 masculin singulier Sf. תְּקִיאֶנָּה
 Pr 23,8
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Parfait suffixe consécutif וַהֲקֵאתוֺ

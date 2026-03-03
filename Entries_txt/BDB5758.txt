@@ -5,7 +5,7 @@ Biblical Hebrew
 denominative
 take or give a pledge; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Infinitive construct
@@ -17,7 +17,7 @@ Imperfect 2 masculine singular give a pledge
 Deut 15:6 (i.e.
 borrow).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Perfect 2 masculine singular וְהַעֲבַטְתָּ֫ גּוֺיִם רַבִּים Deut 15:6
@@ -26,7 +26,7 @@ and thou shalt cause many nations to give pledges (i.e. lend to them); Imperfect
 הַעֲבֵט תַּעֲבִיטֶנּוּ Deut 15:8
 thou shalt surely lend to him (literally as above).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el
 Imperfect

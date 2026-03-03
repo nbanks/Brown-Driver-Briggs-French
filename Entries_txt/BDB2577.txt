@@ -15,7 +15,7 @@ be new, Ethiopic
 , new, etc. Dl^W 199 ff.^
 ) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pi`el
 Perfect
@@ -60,7 +60,7 @@ Job
 2.
 repair, cities Isa 61:4, temple 2Chr 24:4; 2Chr 24:12, altar 2Chr 15:8.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hithpa`el
 Imperfect 3 feminine singular תִּתְחַדֵּשׁ with plural subject

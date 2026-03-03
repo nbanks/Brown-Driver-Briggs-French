@@ -5,7 +5,7 @@ Biblical Hebrew
 noun [masculine]
 looking, seeing, sight; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 seeing, ׳
@@ -13,7 +13,7 @@ seeing, ׳
 Gen 16:13 a
 a God of seeing ( =who sees).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 appearance ( =מַרְאֶה), טוֺב רֹ֑אִי
@@ -22,7 +22,7 @@ appearance ( =מַרְאֶה), טוֺב רֹ֑אִי
 Job 33:21
 without (healthy, fair) appearance.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 sight, (warning-) spectacle, כְּרֹ֑אִי

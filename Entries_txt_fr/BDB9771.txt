@@ -8,7 +8,7 @@ entrer, venir (
 
 syriaque ; voir hébreu biblique III. עלל) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Peal
 Parfait 3 masculin singulier עַל
@@ -33,7 +33,7 @@ Qr
 , absolu Dn 4,4
 ; Dn 5,8.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Haphel
 faire entrer, avec קֳדָם personne : Parfait 3 masculin singulier
@@ -51,7 +51,7 @@ accusatif de personne) ; sans קֳדָם personne, לְהֶעָלָה
 Dn 5,7 (
 id.).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hoph`al (W^CG 225^) être amené
 , sujet personne + קֳדָם personne : Parfait 3 masculin singulier

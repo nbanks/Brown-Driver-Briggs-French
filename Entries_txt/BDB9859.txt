@@ -8,7 +8,7 @@ slay (
 
 Syriac (often); see Biblical Hebrew (late, rare)); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pe`al
 Participle
@@ -17,7 +17,7 @@ active
 Dan 5:19,
 accusative of person
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pe`îl
 be slain: Perfect 3 masculine singular קְטִיל
@@ -25,7 +25,7 @@ Dan 5:30, 3
 feminine singular קְטִילַת
 Dan 7:11.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pa`el
 slay: Perfect 3 masculine singular קַטִּל
@@ -35,7 +35,7 @@ Dan 3:22
 Dan 2:14 (
 ל accusative of person).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hithpe`el
 be slain: Infinitive

@@ -21,7 +21,7 @@ Lev 2;
 Lev 2:18 + 24 t.
 suffixes;-vow:
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. of personal service to ׳
 י
@@ -33,7 +33,7 @@ P
 , any one), of Nazirite Num 6:2; Num 6:5; Num 6:21 Hannah's consecration of her son 1Sam 1:11, compare בר נדרי
 Prov 31:2.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. in general of any kind of votive offerings or promised gifts to
 ׳
@@ -55,20 +55,20 @@ Prov 20:25;
 Job 22:27;
 Eccl 5:3.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. Jephthah's daughter as עולה
 Judg 11:30;
 Judg 11:39.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4. the ban
 Num 21:2 (
 E
 ).
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 5. || עוֺלָה
 Ps 66:13
@@ -91,7 +91,7 @@ H
 ; 1Sam 1:21;
 Jonah 1:16.
 
-@@SPLIT:sense@@
+## SPLIT 6 sense
 
 6. once of idolatry Jer 44:25 (לְקַטֵּר לִמְלֶכֶת הַשָּׁמַיִם
 ׳

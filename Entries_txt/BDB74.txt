@@ -5,7 +5,7 @@ Biblical Hebrew
 verb
 denominative
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Hiph`il
 fly (= move pinions); of hawk יַאֲבֶרנֵֿץ

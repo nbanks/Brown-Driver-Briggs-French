@@ -8,7 +8,7 @@ chercher, suppurer, gonfler ; araméen בְּעָא,
 [placeholder647: Placeholders/647.gif]
 chercher) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Imparfait 3 féminin singulier תִּבְעֶה
 Es 64,1 2
@@ -29,7 +29,7 @@ faire bouillonner, אֵֿשׁ
 Es 64,1 (mais
 glose Che).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Niph`al
 Parfait
 נִבְעוּ

@@ -3,7 +3,7 @@ Biblical Hebrew
 
 יְבוּסִי, יְבֻסִי
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 adjective [of a people]
@@ -52,7 +52,7 @@ also עִיר הַיְבוּסִי הַזּאֹת
 Judg 19:11
 whence
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 Jerusalem, Hexateuch only

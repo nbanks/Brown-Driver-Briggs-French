@@ -7,7 +7,7 @@ love.
 Pi`el
 have compassion; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal Imperfect 1 singular suffix אֶרְחָֽמְךָ
 Ps 18:2
@@ -17,7 +17,7 @@ Ch
 SS
 Gerber read אֲרֹמִמְךָ).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Perfect 3 masculine singular רִחַם
@@ -68,7 +68,7 @@ elsewhere of children, with accusative Isa 13:18; Isa 49:15 with עַל
 Ps 103:13
 .
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pu`al
 Perfect 3 feminine singular רֻחָ֑מָה

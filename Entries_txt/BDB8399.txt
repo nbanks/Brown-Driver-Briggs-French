@@ -73,7 +73,7 @@ and elsewhere^
 Ps 126:1 read
 probably שְׁבִית for שִׁיבַת; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. in clause נָתַן בַּשְּׁבִית
 Num 21:29 (
@@ -86,7 +86,7 @@ E
 מִשְׁבָּת
 ] below שׁבת).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. in phrase restore the captivity of, accusative after שׁוּב
 , הֵשִׁיב, ׳

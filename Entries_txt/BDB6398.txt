@@ -5,7 +5,7 @@ Biblical Hebrew
 adjective
 crafty, shrewd, sensible; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 crafty, ׳
@@ -15,7 +15,7 @@ Job 5:12,
 לְשׁוֺן ע
 Job 15:5.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. in Proverbs, in good sense (opposed to אֱוִיל, כְּסִיל,
 פֶּתִי); as attributive אָדָם עָרוּם

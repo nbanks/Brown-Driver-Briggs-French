@@ -11,7 +11,7 @@ Lane^1459^,
 abitus et adventus
 Frey (Kam)) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait 3 masculin singulier סָג
 Ps 53,4
@@ -31,7 +31,7 @@ absolu Ps 53,4
 Pr 14,14
 un rétrograde de cœur.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Niph`al
 Parfait 3 masculin singulier נָסוֺג
 Ps 44,19,
@@ -94,7 +94,7 @@ Jr 46,5
 Es 42,17 ;
 Ps 35,4 ; Ps 40,15 = Ps 70,3 ; Ps 5.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Hiph`il
 
 1. habituellement de déplacer, reculer une borne (גְּבוּ
@@ -119,7 +119,7 @@ Mi 6,14
 si vera lectio (sur la syntaxe voir Dr^§§ 152, 1. 2 ; 155 Obs.^
 )
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 Hoph`al
 Parfait 3 masculin singulier וְהֻסַּג אָחוֺר מִשְׁפָּט
 Es

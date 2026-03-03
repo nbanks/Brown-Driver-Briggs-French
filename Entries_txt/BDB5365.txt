@@ -14,7 +14,7 @@ Jer 2:34
 Gen 44:10 + 6
 t.; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 free from guilt, clean, innocent, || נָקִי וְצַדִּיק ׃צַדִּיק
@@ -52,7 +52,7 @@ Ps 24:4
 אביונים נקיים
 Jer 2:34.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 free from punishment
@@ -62,7 +62,7 @@ E
 ) 2Sam
 14:9.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 free, exempt from obligations

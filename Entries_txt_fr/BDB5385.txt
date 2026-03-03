@@ -22,7 +22,7 @@ suscipere, tollere
 Di^635^, ainsi vieil éthiopien,
 DHM^Epigr.Denkm.aus Abess.(1894),52^) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal_599_
 Parfait
 ׳
@@ -839,7 +839,7 @@ les
 racines, mais douteux ; ׳
 נ pas ailleurs dans ce sens.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Niph`al
 Parfait
 נִשָּׂא
@@ -1008,7 +1008,7 @@ Hi comme
 
 ).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Pi`el
 Parfait
 נִשֵּׂא
@@ -1121,7 +1121,7 @@ Now
 וְנָָֽשְׂאוּ).
 —
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 Hithpa`el
 Imparfait
 יִתְנַשָּׂ֑א
@@ -1212,7 +1212,7 @@ P
 30,32 ; Dn
 11,14.
 
-@@SPLIT:stem@@
+## SPLIT 5 stem
 Hiph`il
 Parfait 3 masculin
 singulier consécutif

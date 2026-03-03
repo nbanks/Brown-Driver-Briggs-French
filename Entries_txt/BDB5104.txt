@@ -4,7 +4,7 @@ Biblical Hebrew
 [נָזַר] verb
 denominative
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Hiph`il
 be a Nazirite, live as Nazirite, followed by מִן (abstaining)

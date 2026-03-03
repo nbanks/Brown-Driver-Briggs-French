@@ -9,7 +9,7 @@ araméen biblique
 ; araméen d'Égypte Haf. הוטב
 S-C^B11^ + ; voir hébreu biblique יטב) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Peal
 Imparfait

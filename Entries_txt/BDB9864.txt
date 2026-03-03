@@ -4,7 +4,7 @@ Biblical Aramaic
 [קְנָא] verb
 acquire, buy (see Biblical Hebrew I. קנה); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pe`al
 Imperfect 2 masculine singular תִּקְנֵא

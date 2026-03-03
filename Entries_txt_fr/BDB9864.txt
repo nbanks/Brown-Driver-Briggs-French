@@ -4,7 +4,7 @@ araméen biblique
 [קְנָא] verbe
 acquérir, acheter (voir hébreu biblique I. קנה) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pe`al
 Imparfait 2 masculin singulier תִּקְנֵא

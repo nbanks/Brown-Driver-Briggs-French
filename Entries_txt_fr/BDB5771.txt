@@ -15,7 +15,7 @@ Jb 21,30
 construit עַבְרוֺת
 Ps 7,7 ; Jb 40,11 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 débordement, excès, emportement, זָדוֺן
 ׳
@@ -26,12 +26,12 @@ excès d'insolence ; עַבְרוֺת אַפֶּ֑ךָ
 Jb 40,11
 emportements de ta colère.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 arrogance, de Moab Es 16,6 ( + גַּאֲוָה), גַּא׃ן d'où Jr 48,20
 (+ id. Jr 48,29).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3.
 rage débordante, fureur :
 

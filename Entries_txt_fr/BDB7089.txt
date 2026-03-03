@@ -4,7 +4,7 @@ hébreu biblique
 I. צַלְמוֺן
 nom propre [d'une montagne]
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 ׳
 הַרצֿ
@@ -12,7 +12,7 @@ Jg 9,48 près de
 Sichem, non identifié, comparer GFM,
 Buhl^Geogr. 100^ ; Ερμων (erroné).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. montagne enneigée Ps 68,14, probablement à l'est du Jourdain (dans le Hauran selon Wetzst, comparer Buhl^Geogr. 118^
 ), Σελμων.

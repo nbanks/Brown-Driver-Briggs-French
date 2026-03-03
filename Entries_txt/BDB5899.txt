@@ -4,7 +4,7 @@ Biblical Hebrew
 II. עֵיפָה
 proper name
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. of a people 'son' of Midian
 Gen 25:4 (
@@ -17,7 +17,7 @@ J
 
 Γαφερ, Γεφαρ, Γαιφα(ρ).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 masculine
@@ -28,7 +28,7 @@ name in Judah
 
 Γαιφα.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 feminine

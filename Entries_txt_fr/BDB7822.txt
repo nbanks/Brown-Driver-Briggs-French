@@ -12,7 +12,7 @@ vaincre (comparer arabe
 
 ) et la plupart des modernes pour expliquer
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Hithpolel
 Participe
 כְּגִבּוֺר מִתְרוֺנֵן מִיָּ֑יִן

@@ -11,7 +11,7 @@ veiller, être éveillé (phénicien שקר
 
 שְׁקֵד = hébreu biblique) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait 3 masculin singulier
 ׳
@@ -79,7 +79,7 @@ Bu) on a veillé sur mes transgressions
 ׳
 נִשְׂקַד עֹל פ. —
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Pu`al
 dénominatif voir ci-dessous.
 

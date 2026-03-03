@@ -5,10 +5,10 @@ hébreu biblique
 nom propre, masculin
 nom de deux Perses ;
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1. époque de Cyrus Esd 1,8.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2. époque d'Artaxerxès Esd 4,7. —
 
 ᵐ5

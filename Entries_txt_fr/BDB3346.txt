@@ -8,7 +8,7 @@ verbe
 [placeholder2117: Placeholders/2117.gif] Pael souiller ; voir RS^K 307 ss.^
 ) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait 3 masculin singulier ׳
 ט
@@ -142,7 +142,7 @@ P
 P
 ).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Niph`al
 Parfait 3 masculin singulier נִטְמָא
 Os 5,3 ; Os 6,10 3
@@ -188,7 +188,7 @@ nous sommes considérés comme impurs ; métaphore de ; pour un autre point de v
 טמה
 .
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Pi`el
 Parfait
 טִמֵּא
@@ -277,14 +277,14 @@ P
 H
 ).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 Pu`al
 Participe
 נַפְשִׁי לֹא מְטֻמָּאָה
 Ez 4,14
 moi-même n'est pas souillé.
 
-@@SPLIT:stem@@
+## SPLIT 5 stem
 Hithpa`el
 Imparfait
 יִטַּמָּא
@@ -324,7 +324,7 @@ H
 ),
 Ez 44,25.
 
-@@SPLIT:stem@@
+## SPLIT 6 stem
 Hothpaal
 Parfait
 אַחֲרֵי אֲשֶׁר חֻטַּמָּ֑אָה

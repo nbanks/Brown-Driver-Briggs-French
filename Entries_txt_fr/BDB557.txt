@@ -16,7 +16,7 @@ hell, sichtbar sein, d'où assyrien
 amâru
 , voir, et montrer, déclarer, dire) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait
 ׳
@@ -400,7 +400,7 @@ Est
 11,18 = menacer suivi de l'infinitif Dt 9,25 ; Ps
 106,23.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Niph`al
 Parfait
 נֶאֱמַר
@@ -471,7 +471,7 @@ Di et autres ; Hoffm
 on
 parler (être parlé) à Dieu. »
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Hiph`il
 Parfait
 déclarer solennellement, affirmer
@@ -486,7 +486,7 @@ Dt 26,17
 , c.-à-d. par l'intermédiaire de Moïse ; sur cette interprétation et d'autres voir
 Di).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 Hithpa`el
 Imparfait
 יִתְאַמְּרוּ

@@ -4,7 +4,7 @@ Biblical Hebrew
 רְפָיָה
 proper name, masculine
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 in David's family
@@ -18,11 +18,11 @@ A
 
 Ραφαια.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. in Simeon, 1Chr 4:42, Ραφαια(ς).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. in Issachar, 1Chr 7:2, Ραφαρα,
 A
@@ -33,7 +33,7 @@ A
 
 Ραφαια.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4. descendant of Saul 1Chr 9:43, Ραφαια,
 
@@ -44,7 +44,7 @@ A
 Αραχα (= רָפָה
 1Chr 8:37).
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 5. post-exilic name Neh 3:9, Ραφαια(ς).
 

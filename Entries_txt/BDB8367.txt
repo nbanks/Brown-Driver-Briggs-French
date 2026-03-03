@@ -15,7 +15,7 @@ Ldzb^371^, Nabataean Hiph`il lend
 Id^ib^.; — on ׳
 שׁ compare Jastr^JBL xix (1900), 82 ff.^); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular׳
@@ -291,7 +291,7 @@ perhaps = receive as oracle
 Deut 18:16 (׳
 מֵעִם י, Jastr^l.c.^
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 ask for oneself (Ges
@@ -307,7 +307,7 @@ absolute
 
 Neh 13:6 (absolute).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el
 
@@ -333,7 +333,7 @@ beg, practise beggary, ,Perfect 3 plural
 וְשִׁאֵ֑לוּ (consecutive)
 Ps 109:10.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hiph`il (properly let one ask
 [successfully], give, or lend, on

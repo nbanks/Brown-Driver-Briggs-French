@@ -5,7 +5,7 @@ Biblical Hebrew
 denominative
 be just, righteous; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 feminine singular צָֽדְקָה
@@ -57,7 +57,7 @@ at God's hand, מִן
 Co
 Pi`el).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect 3 masculine singular וְנִצְדַּק קֹדֶשׁ consecutive Dan
@@ -70,7 +70,7 @@ Dr
 Marti^Comm.^
 be justified, its cause vindicated).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el
 Perfect 3 feminine singular צִדְּקָה
@@ -102,7 +102,7 @@ I desire to justify thee (in thy plea, compare
 Qal
 2).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hiph`il
 Perfect 1 singular suffix הִצְדַּקְתִּיו
@@ -162,7 +162,7 @@ make righteous, turn to righteousness, Dan 12:3
 
 Bev.
 
-@@SPLIT:stem@@
+## SPLIT 5 stem
 
 Hithpa`el
 Imperfect 1 plural נִצְטַדָּ֑ק

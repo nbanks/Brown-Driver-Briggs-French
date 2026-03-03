@@ -17,7 +17,7 @@ acquérir, posséder, CIS^iv,no.89,5.6^,
 acquérir, subjuguer ; araméen קְנָא,
 [placeholder4785: Placeholders/4785.gif] (acquérir) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal_81_
 Parfait 3 masculin singulier ׳
@@ -105,14 +105,14 @@ P
 ; Za 11,5
 +.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 être acheté : Parfait 3 masculin singulier נִקְנָה
 Jr 32,43
 Imparfait 3 masculin pluriel יִקָּנוּ Jr 32,15.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Parfait 3 masculin singulier suffixe אָדָם חִקְנַנִי

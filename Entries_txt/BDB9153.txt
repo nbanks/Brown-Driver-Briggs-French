@@ -6,7 +6,7 @@ regulate, measure, estimate (compare Aramaic Pa`el תַּכֵּן
 (rare) prepare (= הֵכִין, כּוֺנֵן); according to Ry^Syn. d. Wahren u. Guten 33^ a secondary √ from כון
 ); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Participle
@@ -15,7 +15,7 @@ estimate, figurative: ׳
 Prov 16:2, so (
 לִבּוֺת) Prov 21:2; Prov 24:12.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 
@@ -39,7 +39,7 @@ Ezek 18:29
 ,
 יִתָּכֵ֑נוּ Ezek 18:25.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el
 Perfect 3 masculine singular: mete out, מַיִם תִּכֵּן בְּמִדָּה
@@ -56,7 +56,7 @@ Qal; read possibly
 Ps 75:4 I
 regulate (or adjust) her pillars (i.e. of earth).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Pu`al
 Participle

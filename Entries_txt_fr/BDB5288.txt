@@ -24,7 +24,7 @@ souffler ; éthiopien
 [placeholder3374: Placeholders/3374.gif]
 Di^712^) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait 3 féminin singulier נָָֽפְחָה
 Jr 15,9
@@ -70,7 +70,7 @@ une marmite soufflée (c.-à-d. bien chauffée, bouillante), comparer ׳
 Jb 41,12
 (comparaison).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Pu`al
 Parfait
 אֵשׁ לֹא נֻפָּ֑ח
@@ -82,7 +82,7 @@ un feu non soufflé (par aucun souffle humain). Ainsi peut-être aussi Nb 21,30 
 jusqu'à ce que le feu fût soufflé [ardent] jusqu'à Médeba), comparer
 Di.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Hiph`il
 Parfait 1 singulier נֶפֶשׁ בְּעָלֶיהָ חִפָּ֑חְתִּי
 Jb

@@ -10,7 +10,7 @@ presser, comprimer (hébreu tardif id. ;
 [placeholder3057: Placeholders/3057.gif]
 frotter) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Participe passif
 וּמָעוּךְ
@@ -25,7 +25,7 @@ H
 1 S 26,7
 et sa lance enfoncée (plantée) dans le sol.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Pu`al
 Parfait 3 masculin pluriel שָׁמָּה מֹעֲכוּ שְׁדֵיהֶן
 Ez 23,3

@@ -12,7 +12,7 @@ interrogative (Biblical Aramaic and
 הֲ, Arabic
 [placeholder1226: Placeholders/1226.gif]), prefixed, as a rule, to the first word of a sentence (or clause).
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. in direct questions:
 
@@ -142,7 +142,7 @@ Judg 18:19;
 Job 16:3; Job 38:28;
 Job 38:31.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. In indirect interrogation, whether (German
 ob. . . .?) —

@@ -6,7 +6,7 @@ verb
 weave (Mishna id. compare Phoenician ארג
 weaver) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect 2 feminine singular תַּאַרְגִי

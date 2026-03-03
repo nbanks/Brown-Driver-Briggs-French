@@ -3,7 +3,7 @@ Biblical Hebrew
 
 II. [קָלָה] verb
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Niph`al
 belightly esteemed, dishonoured (|| form of קלל; compare Late Hebrew
@@ -25,7 +25,7 @@ be lightly esteemed, held of little account, Isa 16:14 (glory of Moab); אִיש
 Participle as substantive) Isa 3:5 (opposed to נִכְבָּד), Prov 12:9 (opposed to מִתְכַּבֵּד
 ); more positively, be dishonoured, degraded, Deut 25:3 (עֵינֶיךָ).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 treat with contempt, dishonour, Participle

@@ -4,7 +4,7 @@ hébreu biblique
 רֶ֫וַח
 nom masculin
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 espace, intervalle
 Gn 32,17 (
@@ -12,7 +12,7 @@ Gn 32,17 (
 E
 ; בֵּיןוּ֗֗֗בֵין).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 répit, soulagement, Est 4,14.
 

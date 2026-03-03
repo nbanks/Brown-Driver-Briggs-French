@@ -8,7 +8,7 @@ knead (Late Hebrew id.; Aramaic לוּשׁ,
 [placeholder2793: Placeholders/2793.gif]: or
 [placeholder2794: Placeholders/2794.gif]); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect 3 feminine singular וַּתָּ֫לָשׁ

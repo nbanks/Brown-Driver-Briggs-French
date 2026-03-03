@@ -24,7 +24,7 @@ see, so Ethiopic
 Hebrew רְָאִי
 2)); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal_1141_
 Perfect 3 masculine singular ׳
@@ -759,7 +759,7 @@ read probably
 יִרְאָה compare Now
 GASm.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect 3 masculine singular נִרְאָה
@@ -1075,7 +1075,7 @@ verse) =
 Jer 13:26; Isa
 47:3.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pu`al
 Perfect 3 plural עַצְמֹתָיו לֹא רֻוְּ
@@ -1106,7 +1106,7 @@ Bu
 נָאווּ, Du
 strike out as doublet.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hithpa`el reciprocal look at each
 other: Imperfect 2 masculine plural
@@ -1140,7 +1140,7 @@ Niph`al
 
 כִּרְאֹתוֺ אֹתוֺ.
 
-@@SPLIT:stem@@
+## SPLIT 5 stem
 
 Hiph`il_62_
 Perfect 3 masculine singular
@@ -1408,7 +1408,7 @@ Deut 1:33
 Dr
 ). Psalms
 
-@@SPLIT:stem@@
+## SPLIT 6 stem
 
 Hoph`al
 

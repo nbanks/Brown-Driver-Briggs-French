@@ -4,7 +4,7 @@ hébreu biblique
 יְעוּאֵל, יְעִיאֵל, יְעִו֯אֵל
 nom propre, masculin
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 יְעוּאֵל fils de Zérach 1 Ch 9,6,
 
@@ -20,7 +20,7 @@ L
 
 Ιεηλ.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 יְעִיאֵל :
 
@@ -52,7 +52,7 @@ un de ceux qui avaient pris des femmes étrangères Esd 10,43,
 
 Ιαηλ, Ιειηλ, etc.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3.
 יעואל
 

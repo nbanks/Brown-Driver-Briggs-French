@@ -8,7 +8,7 @@ aibu
 (voir Dl^w^), ennemi =
 אֹיֵב) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait
 וְאָיַבְתִּ֫י

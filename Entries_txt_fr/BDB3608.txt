@@ -31,7 +31,7 @@ Ez 44,24
 Nb 15,3 + 6 t.
 suffixes ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 temps fixé :
 
@@ -199,7 +199,7 @@ Ke
 
 וַיְכַלּוּ.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 rencontre fixée :
 לְכָלחַֿי
@@ -225,7 +225,7 @@ dieux à l'extrême nord, l'Olympe oriental, persan
 Alborg
 , hindou Mérou, babylonien Aralli, comparer Len^Origines ii, ch. ix^).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3.
 lieu fixé :
 
@@ -246,11 +246,11 @@ Ps 74,8 =
 Sota
 Ps 9,15.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 4.
 signe fixé, signal, Jg 20,38.
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 5.
 אֹהֶל מוֺעֵד
 tente de la rencontre (de Dieu avec son peuple : voir

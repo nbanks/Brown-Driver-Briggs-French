@@ -32,7 +32,7 @@ Stu
 Judg 10:4
 Bd^Pal 178^; also L. Oliphant^Land of Gilead, 1880^); —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. territory south of Jabbok,
 
@@ -159,7 +159,7 @@ Judg 11:29
 1Chr 26:31
 .
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. Northern Gilead,
 
@@ -257,7 +257,7 @@ Ke
 Be; against this compare Stu
 Bu^RS 112.^
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. more generally, of all Gilead,
 
@@ -300,7 +300,7 @@ Deut 34:1
 ׳
 הַגּ also in general sense Ezek 47:18; 2Kgs 15:29 (?) Obad 1:19.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 ׳
@@ -316,7 +316,7 @@ Gen 31:54
 &
 references
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 5.
 ׳
@@ -331,7 +331,7 @@ Judg
 12:5 (|| ׳
 אַנְשֵׁי ג Judg 12:4 Judg 12:4 Judg 12:5) Hos 12:12. compare also גִּלְעָדִי below
 
-@@SPLIT:sense@@
+## SPLIT 6 sense
 
 6. treated as proper name, masculine
 

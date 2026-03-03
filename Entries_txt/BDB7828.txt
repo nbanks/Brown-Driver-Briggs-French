@@ -10,7 +10,7 @@ run (Late Hebrew id. (rare); Ethiopic
 râƒu
 , be helpful (i.e. run to help?)); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular רָץ
@@ -180,7 +180,7 @@ Esth
 Esth 8:14
 .
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Po`lel
 Imperfect 3 masculine plural יְרוֺצֵ֑צוּ
@@ -188,7 +188,7 @@ Nah 2:5
 
 they run swiftly, dart (like lightning; of chariots).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 cause to run:

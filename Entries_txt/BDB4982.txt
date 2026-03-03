@@ -14,7 +14,7 @@ reign, wield power,
 [placeholder3177: Placeholders/3177.gif]
 king); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -62,7 +62,7 @@ exactor of tribute, Dan 11:20 plural abstract lordship = lord, ruler
 ,
 figurative of צְדָקָה (personified) Isa 60:17 (|| פְּקֻדָּתֵךְ שָׁלוֺם).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect

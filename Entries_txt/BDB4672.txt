@@ -6,7 +6,7 @@ verb
 denominative
 be or become king, or queen, reign; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal_296_
 Perfect
@@ -92,7 +92,7 @@ began to reign and reigned
 2Kgs 13:1; 2Kgs 13:10;
 2Kgs 14:23 +.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Perfect
@@ -138,7 +138,7 @@ Judg 9:18; 1Sam 15:35;
 23:30 (anointing), 2Kgs 23:34; 2Kgs 24:17; 2Chr 1:8; 2Chr 22:1; 2Chr 26:1; 2Chr 33:25; 2Chr 36:1; Esth 2:17 (=
 make queen at coronation); absolute Hos 8:4.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hoph`al
 Perfect

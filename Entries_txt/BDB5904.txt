@@ -4,7 +4,7 @@ Biblical Hebrew
 [עוּץ] verb
 counsel, plan (Aramaic id.; || form of יעץ); — only
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperative masculine plural עֻ֫צוּ

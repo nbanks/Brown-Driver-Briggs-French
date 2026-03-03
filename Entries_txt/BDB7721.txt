@@ -5,7 +5,7 @@ Biblical Hebrew
 denominative, only Passive participle
 squared, square; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Passive participle
@@ -22,7 +22,7 @@ Krae reads מְזוּזתֹ רְבֻעֹת, compare 1Kgs 6:33, רְבִייְִ
 
 2.).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pu`al
 Participle square, מְרֻבַּע

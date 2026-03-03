@@ -21,7 +21,7 @@ Ps 124:6,
 שִׁנֵּימוֺ
 Ps 58:7, etc.; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 tooth:
@@ -111,7 +111,7 @@ Dr^Sm. 291^); of cliff, שֵׁן הַסֶּלַע
 1Sam 14:5
 .
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 ivory, of commerce, קַרְנוֺת שֵׁן

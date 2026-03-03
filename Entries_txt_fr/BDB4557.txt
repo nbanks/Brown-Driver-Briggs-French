@@ -10,7 +10,7 @@ Kö^i. 511^ pensent purement ו
 s'éloigner, ôter (arabe
 [placeholder2930: Placeholders/2930.gif] (י) est marcher d'une démarche élégante, fière, vaniteuse) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait
 וּמָשׁ consécutif Za 14,4
@@ -33,7 +33,7 @@ Qr
 personne Jg
 6,18 des deux Nb 14,44 transitif ôter, suivi d'accusatif Za 3,9.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Hiph`il
 Imparfait
 יָמִישׁ

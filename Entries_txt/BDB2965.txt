@@ -30,7 +30,7 @@ P
 I.
 of man:
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 kindness of men towards men, in doing favours and benefits 1Sam 20:15; 2Sam 16:17; Ps 141:5;
@@ -91,7 +91,7 @@ Esth 2:9; Esth 2:17
 היטיב ח
 Ruth 3:10.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 kindness (especially as extended to the lowly, needy and miserable), mercy
@@ -152,7 +152,7 @@ Ps 109:12
 Zech 7:9; Dan 1:9. — (On Hos 6:4; Hos 6:6 see
 3 below)
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. (rarely) affection of Israel to ׳
 י
@@ -185,7 +185,7 @@ Isa 57:1 (||
 ;
 Neh 13:14.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 lovely appearance:
@@ -243,7 +243,7 @@ Bae; his is the kindness Ps 62:13 it is with him Ps 130:7
 he delights in it
 Mic 7:18.
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 1. specifically lovingkindness:
 
@@ -382,7 +382,7 @@ his dynasty
 89:34
 with the wife Zion Isa 54:10.
 
-@@SPLIT:sense@@
+## SPLIT 6 sense
 
 2.
 חֶסֶד is grouped with other divine attributes: חסד ואמת
@@ -449,7 +449,7 @@ Ps 36:11
 טוב וח
 Ps 23:6.
 
-@@SPLIT:sense@@
+## SPLIT 7 sense
 
 3.
 the kindness of God is
@@ -579,7 +579,7 @@ Ps 109:21
 כי טוב חסדךָ מחיים
 Ps 63:4.
 
-@@SPLIT:sense@@
+## SPLIT 8 sense
 
 4. plural mercies, deeds of kindness, the historic displays of
 lovingkindness

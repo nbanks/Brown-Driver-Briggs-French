@@ -18,7 +18,7 @@ ra°âbu
 [placeholder4983: Placeholders/4983.gif], Peal Participe tremblant, se hâtant, Aphel terrifier, hâter
 ) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Imparfait 3 masculin pluriel יִרְחֲבוּ הַנַּעַר
 בַּזָּקֵן
@@ -34,7 +34,7 @@ presse, importune, ton ami (Perles^Anal. 61^
 conjecture רְהַן
 donner en gage, comparer hébreu tardif הרהין).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Hiph`il
 Parfait 3 masculin pluriel suffixe הִרְהִיבֻ֑נִי
 Ct 6,5, des yeux,

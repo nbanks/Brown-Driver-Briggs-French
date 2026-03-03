@@ -31,7 +31,7 @@ Dt 28,40
 pluriel זֵיתִים
 Dt 6,11, etc. ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 olivier
 Jg 9,8 ; Jg 9,9
@@ -101,7 +101,7 @@ Jos 24,13 ;
 ; Ne 9,25
 .
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2. du fruit de l'olivier, olives :
 Dt 28,40b
 (avec שֶׁמֶן) ; תִּדְרֹךְ זַיִת
@@ -117,7 +117,7 @@ P
 H
 ).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3. dans les désignations de lieu : מַעֲלֵה הַזֵּיתִים
 2 S 15,30
 la montée des oliviers (

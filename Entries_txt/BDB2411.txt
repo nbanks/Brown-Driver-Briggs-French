@@ -9,7 +9,7 @@ zinû
 105^
 Zim^BP 23 ff.^) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -44,7 +44,7 @@ Ps 44:10; Ps 60:12; Ps 108:12
 Lam 3:17 king Ps 89:39 altar
 Lam 2:7.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Perfect

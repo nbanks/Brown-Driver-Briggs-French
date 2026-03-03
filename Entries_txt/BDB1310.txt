@@ -3,7 +3,7 @@ Biblical Hebrew
 
 בֶּ֫רֶד
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 proper name [of a location]
@@ -11,7 +11,7 @@ proper name [of a location]
 Gen 16:14 near
 Kadesh.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 proper name, masculine

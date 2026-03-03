@@ -24,7 +24,7 @@ Exod 2:24 = 18 t.;
 I.
 between men.
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 treaty, alliance, league: Abraham and Amorites Gen 14:13 Edom and its allies Obad 1:7 with Philistines Gen 21:27;
@@ -62,14 +62,14 @@ AV
 RV
 ); figurative, with death Isa 28:15; Isa 28:18 with stones of the field Job 5:23.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 constitution, ordinance, >between monarch and subjects: David and Abner 2Sam 3:12; 2Sam 3:13;
 2Sam 3:21
 David and the elders of Israel 2Sam 5:3 = 1Chr 11:3 Zedekiah and his people Jer 34:8-18 hostile prince and Israelites Dan 9:27.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 agreement, pledge: Jehoiada and captains 2Kgs 11:4 = 2Chr 23:1 with onself Job 31:1 with Leviathan to be a
@@ -79,12 +79,12 @@ Judg 8:33; Judg 9:4 =
 אל ברית
 Judg 9:46.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 alliance of friendship between David and Jonathan 1Sam 18:3; 1Sam 20:8; 1Sam 23:18 compare Ps 55:21.
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 5.
 alliance of marriage Prov 2:17; Mal 2:14. — In all cases כרת ברית is the technical phrase for
@@ -102,12 +102,12 @@ Gen 26:28 +,
 II.
 between God and man.
 
-@@SPLIT:sense@@
+## SPLIT 6 sense
 
 1.
 alliance of friendship (|| סוֺד) Ps 25:14.
 
-@@SPLIT:sense@@
+## SPLIT 7 sense
 
 2.
 covenant, as a divine constitution or ordinance with signs or pledges (see
@@ -344,7 +344,7 @@ Mal 3:1.
 III.
 Phrases.
 
-@@SPLIT:sense@@
+## SPLIT 8 sense
 
 1.
 covenant making:
@@ -481,7 +481,7 @@ Ps 50:16
 .
 (compare further on these Dr^J Ph xi. 1882, 210 ff.^)
 
-@@SPLIT:sense@@
+## SPLIT 9 sense
 
 2.
 covenant keeping: on the part of man שׁמר ברית
@@ -611,7 +611,7 @@ Ezek
 20:37
 .
 
-@@SPLIT:sense@@
+## SPLIT 10 sense
 
 3.
 covenant violation:

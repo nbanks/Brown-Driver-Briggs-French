@@ -32,7 +32,7 @@ Gen 43:11 +;
 כְּלֵיהֶם
 Josh 7:11 +; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. in general, article, object, made of any material, thing
 , especially thing of value זָהָב
@@ -127,7 +127,7 @@ Lev 13:49
 P
 ).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 utensil, implement, apparatus:
@@ -313,7 +313,7 @@ Num
 
 2Kgs 23:4.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 vessel, receptacle, of various materials and for various purposes Gen 43:11 (
@@ -385,7 +385,7 @@ the vessels of smallness (Da^Synt. § 32, R.
 5^
 ), from the basin-vessels to all the pitcher-vessels.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4. specifically כְּלֵיגֹֿמֶא
 Isa 18:2

@@ -9,7 +9,7 @@ figurative be distracted; on √ הִים see
 Hi^Ps 55:3^
 Nö^ZMG 1883, 540^) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular suffix וְהָמָם consecutive Deut 7:23
@@ -26,7 +26,7 @@ Nö^l.c.^, belongs Imperfect 1 singular cohortative
 am driven about (Hi
 De), or distracted.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Imperfect 3 feminine singular וַתֵּהֹם
@@ -36,7 +36,7 @@ form compare Ges^«GKC:72»§ 72^ R 5); be in a stir
 Ruth 1:19 (followed by על
 over, on account of, 1Kgs 1:45 of ground re-echoing shout 1Sam 4:5.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Imperfect 1 singular אָהִ֑ימָה

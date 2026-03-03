@@ -19,7 +19,7 @@ t.; suffix בְּגָדֶיךָ
 81 t.; בִּגְדֹתֶיךָ
 Ps 45:9 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 garment, clothing, raiment, robe of any kind, from the filthy clothing of the leper to the holy
@@ -56,7 +56,7 @@ t.; Jer 12:1 +
 his lapful
 2Kgs 4:39.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 covering, wrapping, of furniture of tabernacle Num 4:6-13 (6 t.); coverlet of a bed

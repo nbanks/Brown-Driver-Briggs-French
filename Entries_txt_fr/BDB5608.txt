@@ -10,7 +10,7 @@ pardonner (
 id., hébreu tardif סְלִיחָה
 pardon) : —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait 2 masculin singulier סָלַחְתָּ
 Ex 34,9 + 9 t.,
@@ -62,7 +62,7 @@ J
 P
 ).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Niph`al
 Parfait 3 masculin singulier נִסְלַח avec לְ terme technique dans le code
 de

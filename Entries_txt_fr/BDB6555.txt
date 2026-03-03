@@ -6,7 +6,7 @@ I. [פּוּץ] verbe
 [placeholder4192: Placeholders/4192.gif]
 briser, disperser) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Imparfait 3 masculin pluriel יָפוּצוּ
 Ps 68,2,
@@ -35,7 +35,7 @@ Now
 Da ; d'une armée assiégeante 2 S 20,22 (מֵעַל הָעִיר) ; peuple de (
 מִן) possessions Ez 46,18 hommes (de Babel) Gn 11,4 (עַל lieu).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Niph`al
 Parfait 3 féminin singulier נָפ֫וֺצָה
 Jr 10,21, 3
@@ -67,7 +67,7 @@ sur le pays par la défaite 2 S 18,8.
 2.
 se répandre, des peuples Gn 10,18.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Hiph`il
 Parfait 3 masculin singulier consécutif וְהֵפִיץ
 Dt 4,27

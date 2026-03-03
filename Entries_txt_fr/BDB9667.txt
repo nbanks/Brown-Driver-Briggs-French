@@ -3,7 +3,7 @@ araméen biblique
 
 [מְלַל] verbe
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pa`el
 parler, dire (ainsi

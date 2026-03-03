@@ -10,7 +10,7 @@ Num 6:3 feminine plural
 יְבֵשׁוֺת
 Ezek 37:2; Ezek 37:4 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 dried, literal only עֲנָבִים יְבֵשִׁיס
@@ -28,7 +28,7 @@ E
 ) our soul (i.e. our appetite) is dried up, namely, for
 want of fresh, juicy meat.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 dry, of chaff, קַשׁ

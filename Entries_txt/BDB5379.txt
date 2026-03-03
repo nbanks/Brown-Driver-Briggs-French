@@ -10,7 +10,7 @@ perforate, bore out, hollow out
 Lane^2838^; Ethiopic
 [placeholder3448: Placeholders/3448.gif] be one-eyed Di^645^); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect 3 masculine plural suffix יִקְּרוּהָ
@@ -20,7 +20,7 @@ Infinitive
 1Sam 11:3, both of
 boring, or picking out eye (accusative).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Imperfect. 2 masculine singular תְּנַקֵּר
@@ -38,7 +38,7 @@ he (or it, i.e. the night) boreth my bones
 מֵעָלָ֑י (of effects of elephantiasis; Bu reads
 נֻקַּר).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pu`al
 Perfect 2 masculine plural נֻקַּרְתֶּם

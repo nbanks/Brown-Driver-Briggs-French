@@ -4,7 +4,7 @@ Biblical Hebrew
 I. מַשָּׂא
 proper name [of a people and territory]
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. 'son' of Ishmael Gen 25:14 = 1Chr 1:30.
 
@@ -12,7 +12,7 @@ proper name [of a people and territory]
 
 Μασση, Μασσα, etc.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. realm of king Lemuel Prov 31:1
 De

@@ -24,7 +24,7 @@ blow; Ethiopic
 [placeholder3374: Placeholders/3374.gif]
 Di^712^); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 feminine singular נָָֽפְחָה
@@ -71,7 +71,7 @@ a blown (i.e. well-heated, boiling) pot, compare ׳
 Job 41:12
 (simile).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pu`al
 Perfect
@@ -84,7 +84,7 @@ a fire not blown (by any human breath). So perhaps also Num 21:30 (reading ׳
 until fire was blown [hot] as far as Medeba), compare
 Di.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Perfect 1 singular נֶפֶשׁ בְּעָלֶיהָ חִפָּ֑חְתִּי

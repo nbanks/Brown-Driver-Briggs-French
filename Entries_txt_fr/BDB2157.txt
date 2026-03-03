@@ -4,7 +4,7 @@ hébreu biblique
 [הָלָא] verbe
 dénominatif seulement
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Niph`al
 participe
 féminin

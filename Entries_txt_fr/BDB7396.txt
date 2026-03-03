@@ -16,7 +16,7 @@ ku‰‰innu
 , être court (de cheveux), comparer Bez^ZA
 viii, 141 s.^) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Parfait 1 singulier קָטֹנְתִּי
@@ -25,7 +25,7 @@ Gn 32,11, avec
 3 féminin singulier וַתִּקְמַן זֹאת בְּעֵינֶיךָ
 2 S 7,19 = 1 Ch 17,17.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il littéralement Infinitif construit
 לְהַקְטִין

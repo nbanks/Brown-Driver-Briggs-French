@@ -4,7 +4,7 @@ Biblical Hebrew
 [בּוּס] verb
 tread down, trample —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect
@@ -25,7 +25,7 @@ id., figurative with accusative (subject ׳
 reject, loathe
 Prov 27:7.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Polel
 Perfect
@@ -38,7 +38,7 @@ tread down in bad sense, subject enemies of ׳
 ) Isa 63:18
 .
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hithpolel
 Participle feminine מִתְבּוֺסֶסֶת
@@ -47,7 +47,7 @@ Ezek 16:22
 — of the blind movements of infant's limbs, kick out (this way and that),
 figurative of Jerusalem.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hoph`al
 Participle

@@ -17,7 +17,7 @@ Dan 2:22,
 עִמְּהוֺן
 Ezra 5:2 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 
@@ -34,7 +34,7 @@ make war with Dan
 שַׁוִּי עִם to make like to
 Dan 6:21.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. of time, Dan 3:33 = Dan 4:31
 עִםדָּֿר וְדָר (co-exists) with all generations (compare Biblical Hebrew

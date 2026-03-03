@@ -6,7 +6,7 @@ Biblical Hebrew
 Ezra 8:10)
 proper name, masculine
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 Levites:
@@ -37,7 +37,7 @@ Kt
 Qr
 , Αλωθειμ,. Σαλωμ(ε)ιθ.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 מִית- son (apparently) of Rehoboam 2Chr 11:20, Εμμωθ,
@@ -51,7 +51,7 @@ A
 
 Σαλωμιθ.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 מִית- head of post-exilic family Ezra 8:10, Σαλειμουθ, etc.

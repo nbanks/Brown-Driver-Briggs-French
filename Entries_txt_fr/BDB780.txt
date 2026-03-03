@@ -36,7 +36,7 @@ Ez 39,27 +
 6 t. ; suffixe אַרְצֹתָם
 Gn 10,5 + 2 t. ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 
@@ -93,7 +93,7 @@ Pr 8,31
 ;
 Jb 37,12.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 pays =
@@ -170,7 +170,7 @@ irƒit la târat
 , pays sans retour, dans la Descente d'Ishtar, voir Jr^10. 65^) ; voir aussi Ps 139,15 ; Es 44,23
 .
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 
@@ -227,7 +227,7 @@ Esd
 Ne
 9,35.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 אֶרֶץ dans des locutions :
@@ -329,7 +329,7 @@ Es 41,5
 Es 41,9
 .
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 5. pluriel אֲרָצוֺת est presque entièrement tardif, Jr 16,15 + 6 t. Jérémie ; 23
 t.

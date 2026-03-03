@@ -5,7 +5,7 @@ Biblical Hebrew
 bear fruit (poetry) (Aramaic נוֺבָא
 fruit (rare)); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect
@@ -20,7 +20,7 @@ wealth beareth fruit; Prov 10:31
 פִּי צַדִּיק יָנוּב חָכְמָה
 beareth the fruit of wisdom.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Po`l.
 Imperfect
 יְנוֺבֵב

@@ -12,7 +12,7 @@ smooth, limpid,
 [placeholder5672: Placeholders/5672.gif]
 make level, smooth (and derivatives)); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Niph`al
 be wind-swept, bare; Participle
@@ -20,7 +20,7 @@ be wind-swept, bare; Participle
 Isa 13:2
 a bare mountain;
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pu`al
 Perfect consecutive וְשֻׁפוּ עַצְמֹתָיו

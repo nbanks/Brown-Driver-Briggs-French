@@ -7,7 +7,7 @@ manger (assyrien
 barû
 et dérivés Zim^BP 31^) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait
 2 S 12,17
@@ -21,14 +21,14 @@ scribe pour בחרו
 1 R 18,25
 Dr^Sm 107^).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Pi`el
 Infinitif
 לְבָרוֺת
 Lm 4,10
 pour dévorer.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Hiph`il
 Imparfait
 תַּבְרֵנִי

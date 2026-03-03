@@ -36,7 +36,7 @@ GFM); suffixes see below (2 + 10 = 12, see below); Hexateuch chiefly
 P
 ; — two:
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. no other number:
 
@@ -159,7 +159,7 @@ compare Jer 3:14
 אֶחָד מֵעִיר וּשְׁנַיִם מִמִּשְׁפָּחָה = a small number; Ezra 10:13
 not for one or two days (but for many), 2Kgs 6:10.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 twelve: with noun masculine
@@ -183,7 +183,7 @@ Num 7:78,
 Ezek 32:1 +,
 etc.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. with larger number: 10 (etc.) + 2, 2Sam 8:5; Judg 10:3 + 56 t.; 2 + 10 (etc.) Num 1:35 (
 P

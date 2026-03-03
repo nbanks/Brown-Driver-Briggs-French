@@ -10,7 +10,7 @@ devenir grand (
 ס, syriaque
 [placeholder6156: Placeholders/6156.gif] ; voir hébreu biblique שׂגא (aramaïsme dans Job)) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Peal
 Imparfait 3 masculin singulier, יִשְׂגֵּא, du dommage Esd 4,22

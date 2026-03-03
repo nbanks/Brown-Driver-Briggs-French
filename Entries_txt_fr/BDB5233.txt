@@ -3,21 +3,21 @@ hébreu biblique
 
 I. [נָסִיךְ] nom masculin
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 libation ;
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 image en métal fondu ;
 —
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 1. suffixe יֵין נְסִיכָם
 vin de leur libation
 Dt 32,38.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 2.
 image en métal fondu, suffixe נְסִכֵיהֶם
 Dn 11,8.

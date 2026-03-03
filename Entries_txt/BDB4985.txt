@@ -19,7 +19,7 @@ be willing Pa`el, Ithpa`al; Zinjirli נדב
 inciting, instigation
 DHM^Sendsch. 60^); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular נָדַב
@@ -35,7 +35,7 @@ Exod 35:21 (all
 P
 ).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hithpa`el
 Perfect 1 singular הִתְנַדַּבְתִּי

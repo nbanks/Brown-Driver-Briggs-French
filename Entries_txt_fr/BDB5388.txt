@@ -28,7 +28,7 @@ Ez 32,29,
 Nb 17,21,
 נְשִׂיאֵהֶם v.Nb 17,17, etc. ; — surtout en Israël :
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 בְּעַמְּךָ
 ׳
@@ -36,15 +36,15 @@ Nb 17,21,
 E
 ; dirigeant humain, en face de אֱלֹהִים).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2. de Salomon 1 R 11,34. Ailleurs seulement Ézéchiel,
 P
 , Chroniques : —
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3. d'Abraham Gn 23,6, et des chefs des tribus ismaélites Gn 17,20 ; Gn 25,16.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 4. dirigeants de la congrégation, נְשִׂיאֵי הָעֵדָה
 Ex 16,22 ;
 Jos 9,15 ; Jos 9,18 ; Jos 22,30,
@@ -62,7 +62,7 @@ t. dans le verset) ; Jos
 P
 ) ; surtout
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 5. chefs et représentants tribaux, selon l'organisation religieuse de
 P
 , Nb 1,16 ;
@@ -76,7 +76,7 @@ glose, omis par
 
 Benz), 2 Ch 5,2.
 
-@@SPLIT:sense@@
+## SPLIT 6 sense
 6. dans Ézéchiel :
 
 a. de Sédécias (pour מֶלֶךְ voir Böhmer^8K
@@ -102,10 +102,10 @@ princes étrangers Ez 26,16 ; Ez 27,21 ; Ez 30,13 ; Ez 32,29 ; Ez 38,2 ; Ez 38,3
 Ez 39,18
 .
 
-@@SPLIT:sense@@
+## SPLIT 7 sense
 7. chef des exilés de retour sous Cyrus, selon Esd 1,8.
 
-@@SPLIT:sense@@
+## SPLIT 8 sense
 8. chefs non israélites dans
 P
 : Gn 34,2

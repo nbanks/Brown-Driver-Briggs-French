@@ -21,7 +21,7 @@ Ges
 SS who regard as = I. חלץ in sense strip
 for battle, expeditus) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal only Passive participle
 חָלוּץ
@@ -87,7 +87,7 @@ warriors (equipped ones, Che
 
 men-at-arms) of Moab.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Imperfect 2 masculine plural תֵּחָֽלְצוּ
@@ -111,7 +111,7 @@ P
 ; Niph`al Imperative here surprising with מֵאִתְּכֶם, see
 Di).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Imperfect) עַצְמֹתֶיךָָ יַחֲלִיץ

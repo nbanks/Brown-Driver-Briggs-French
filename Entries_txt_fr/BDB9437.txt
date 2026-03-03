@@ -4,7 +4,7 @@ araméen biblique
 [דּוּשׁ] verbe
 fouler (hébreu biblique) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pe`al
 Imparfait 3 féminin singulier (suffixe de terre) חְדֻשִׁנַּהּ

@@ -14,7 +14,7 @@ contrainte ; éthiopien
 jouer l'homme, est dénominatif de
 [placeholder795: Placeholders/795.gif] homme) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait
 ׳
@@ -65,7 +65,7 @@ prévaloir sur, sujet ennemis 2 S 11,23, bénédictions Gn 49,26 (
 J
 ), miséricorde de Dieu Ps 103,11 ; Ps 117,2.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Pi`el
 Parfait
 גִּבַּרְתִּי
@@ -79,7 +79,7 @@ Qo 10,10
 
 rendre fort, fortifier.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Hiph`il
 Parfait
 הִגְבִּיר בְּרִית לְ
@@ -93,7 +93,7 @@ Ol
 Che (ou, à notre langue nous donnerons force Hi
 De) Ps 12,5.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 Hithpa`el
 Imparfait
 יִתְגַּבָּ֑ר

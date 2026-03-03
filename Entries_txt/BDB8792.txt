@@ -34,7 +34,7 @@ Lev 26:19, with
 verb plural, Hos 2:23
 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 
@@ -243,7 +243,7 @@ Deut 32:40
 שׁ alone 1Kgs 8:22; 1Kgs 8:54;
 Job 35:5; Prov 23:5.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 
@@ -338,13 +338,13 @@ Ps 20:7.
 b. Elijah taken up ׳
 הַשּׁ in whirlwind 2Kgs 2:1, compare 2Kgs 2:11.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 ׳
 הַשּׁ personified in various relations Isa 1:2; Jer 2:12; Job 15:15; Ps 19:2; Ps 50:6 = Ps 97:6; Ps 89:6; Ps 148:4.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 מְלֶכֶת

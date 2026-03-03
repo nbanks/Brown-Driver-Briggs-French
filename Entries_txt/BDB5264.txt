@@ -4,7 +4,7 @@ Biblical Hebrew
 II. נַעֲמָן_16_
 proper name, masculine
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 son of Benjamin
@@ -33,7 +33,7 @@ L
 
 Ναμει, Νααμαν.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. Aramaean general 2Kgs 5:1; 2Kgs 5:2; 2Kgs 5:6 + 8 t. 2Kgs 5
 

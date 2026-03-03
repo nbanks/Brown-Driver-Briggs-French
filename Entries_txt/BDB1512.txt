@@ -8,7 +8,7 @@ Ithpe`el; Arabic
 [placeholder816: Placeholders/816.gif]
 cut off hand or other member, mutilate) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -38,7 +38,7 @@ hew down, trees Isa 10:33 if in Isa 15:2 then = shave off (object זקן
 גרע
 .
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect
@@ -57,7 +57,7 @@ of Babylon as hammer Jer 50:23 (|| נשׁבר); of a minister, under figure of s
 peg or pin Isa
 22:25 of horn of Moab Jer 48:25 (|| נשׁבר).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el
 Perfect
@@ -82,7 +82,7 @@ Deut 7:5; 2Chr 14:2;
 of wicked Ps
 75:11 bars of iron (i.e. of Babylon's gates) Isa 45:2, compare Ps 107:16.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Pu`al
 Perfect

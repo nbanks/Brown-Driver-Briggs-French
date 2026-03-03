@@ -6,7 +6,7 @@ shrivel (compare Arabic
 [placeholder3693: Placeholders/3693.gif]
 contract (especially face), frown); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine plural עָֽבְשׁוּ פְרֻדוֺת

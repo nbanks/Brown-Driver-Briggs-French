@@ -4,7 +4,7 @@ hébreu biblique
 [רִיחַ] verbe
 dénominatif
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Hiph`il (?), sentir, percevoir une odeur ; - Imparfait 3 masculin singulier
 יָרִיחַ

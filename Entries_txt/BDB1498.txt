@@ -39,7 +39,7 @@ Deut 27:2 + 30 t.,
 Num 13:28 + 7
 t.; — great,
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 in magnitude and extent, e.g. sea Num 34:6, river Gen 15:18, wilderness Deut 1:19, rain 1Kgs 18:45, mountain Zech 4:7, city
@@ -59,7 +59,7 @@ Dan 11:2, victory 1Sam 19:5; 1Sam 19:22
 We
 Dr.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 in number, e.g. nation Gen 12:2, congregation Jer 31:8, camp 1Chr 12:22, army Ezek 17:17, sacrifice 2Kgs 10:19
@@ -67,7 +67,7 @@ in number, e.g. nation Gen 12:2, congregation Jer 31:8, camp 1Chr 12:22, army Ez
 28:59; 1Sam
 4:17.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 in intensity, fear Deut 4:34, weeping Isa 38:3, power כּחַ
@@ -78,17 +78,17 @@ anger Deut 29:23
 Jer 21:5, sin
 Gen 20:9, iniquity Gen 4:13, evil Gen 39:9, trespass Ezek 9:7.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 in sound, loud voice Gen 39:14, cry Exod 11:6, shout Josh 6:5.
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 5.
 in age, elder, eldest, son Gen 27:1, daughter Gen 29:16, brother Gen 10:21, sister Ezek 16:46.
 
-@@SPLIT:sense@@
+## SPLIT 6 sense
 
 6.
 in importance,
@@ -195,7 +195,7 @@ Neh 9:25,
 compassion
 Isa 54:7.
 
-@@SPLIT:sense@@
+## SPLIT 7 sense
 
 7. in phrases עוֺד הַיּוֺם גָּדוֺל
 it is yet high day (French grand jour, German hoch am
@@ -222,14 +222,14 @@ Jer 6:13; Jer 8:10; Jer 31:34;
 Jer 42:1; Jer 42:8; Jer 44:12;
 Jonah 3:5.
 
-@@SPLIT:sense@@
+## SPLIT 8 sense
 
 8. construct גְּדֹל (הַ)כְּנָפַיִם
 great of wings Ezek 17:8; Ezek 17:7, so of anger Prov 19:19 (
 Qr
 ); usually of God, in power Nah 1:3, counsel Jer 32:19, mercy Ps 145:8.
 
-@@SPLIT:sense@@
+## SPLIT 9 sense
 
 9. as substantive concrete עשׂה גדלות
 do great things, of God's great acts of redemption and judgement Deut 10:21; Job 5:9; Job 9:10; Job 37:5; Ps 71:19;
@@ -255,7 +255,7 @@ Dan
 also Rev 13:5
 ).
 
-@@SPLIT:sense@@
+## SPLIT 10 sense
 
 10. as substantive neuter greatness of arm Exod 15:16 compare גָּבֹהַּ
 4.

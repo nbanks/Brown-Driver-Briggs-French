@@ -4,7 +4,7 @@ Biblical Hebrew
 I. [עָשַׁת] verb
 smooth or shiny (?), si vera lectio (compare עֶשֶׁת); — only
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 plural שָֽׁמְנוּ

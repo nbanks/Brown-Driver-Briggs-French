@@ -19,7 +19,7 @@ suffix עֲמָלִי
 Gen 41:51 +,
 etc.; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 trouble (|| sorrow): one's own suffering, עָמָל וְיָגוֺן
@@ -81,7 +81,7 @@ Prov 31:7
 נפשׁו בע
 Judg 10:16.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 trouble, mischief, as done to others: || שֹׁד
@@ -109,7 +109,7 @@ Ps 140:10
 
 mischief of their lips.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 toil, labour (late in Hebrew): Eccl 2:10 (twice in verse); Eccl 2:21; Eccl 2:24; Eccl 3:13; Eccl 4:4; Eccl 4:6; Eccl 4:8; Eccl 4:9; Eccl 5:14; Eccl 5:18;

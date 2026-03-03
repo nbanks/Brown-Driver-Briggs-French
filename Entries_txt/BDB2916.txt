@@ -26,7 +26,7 @@ Isa 2:4 =
 חֲנִיתֹתֵיהֶם
 Mic 4:3 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 spear, as hurled 1Sam 18:10; 1Sam 18:11; 1Sam 19:9; 1Sam 19:10 (twice in verse); 1Sam 20:33
@@ -58,7 +58,7 @@ Ps 35:3 ||
 קֶשֶׁת
 Ps 46:10.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 

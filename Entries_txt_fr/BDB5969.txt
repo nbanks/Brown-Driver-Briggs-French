@@ -12,7 +12,7 @@ Ex 18,4,
 Ez 12,14,
 etc. ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 aide, secours
 Es 30,5 (||
@@ -35,7 +35,7 @@ Dt 33,29
 (= ׳
 י).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2. concret = celui qui aide (comparer 1. עֶזְרָה
 2) ׳
 בְּע (בְּ essentiel, voir

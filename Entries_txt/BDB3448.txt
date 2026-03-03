@@ -31,7 +31,7 @@ pious, read ירתא
 pious
 Vog^No. 29^) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperative
@@ -40,7 +40,7 @@ shoot (arrows) at
 Jer 50:14
 (read probably, with some Manuscripts יְרוּ).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Imperfect
@@ -51,7 +51,7 @@ and they cast (stones) on me; Infinitive
 Zech 2:4
 to cast down (the horns of the nations).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il (connection with ידה
 throw, obscure, yet see above) Perfect
@@ -232,7 +232,7 @@ Prov 28:13
 confessing and forsaking (his transgressions; opposed to מְכַסֶּה
 ).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hithpa`el
 Perfect

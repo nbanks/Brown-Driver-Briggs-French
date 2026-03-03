@@ -8,7 +8,7 @@ trembler (
 
 syriaque : comparer hébreu biblique) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pe`al
 Participe pluriel זָָֽאֲעִין

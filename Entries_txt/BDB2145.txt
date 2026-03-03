@@ -15,7 +15,7 @@ SI^6^
 הָוָה
 above) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular הָיָה
@@ -1863,7 +1863,7 @@ and the gate was about to be shut; but also וַיְהִי
 26:5 (nearly
 = וַיְהִי + Participle)
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect

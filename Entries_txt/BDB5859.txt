@@ -5,7 +5,7 @@ Biblical Hebrew
 denominative (Gerber^42 f.^) bear witness
 ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect 1 singular suffix אֲעוּדֵךְ
@@ -19,7 +19,7 @@ Qr
 
 Bu.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Perfect 3 masculine singular הֵעִיד
@@ -100,7 +100,7 @@ enjoin solemnly, with בְּ person + accusative of thing
 Deut
 32:46.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hoph`al
 Perfect 3 masculine singular וְהוּעַד consecutive Exod 21:29 (

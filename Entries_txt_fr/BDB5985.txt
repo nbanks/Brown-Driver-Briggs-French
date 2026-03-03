@@ -13,7 +13,7 @@ e‰û
 e‰ûtu
 , obscurité) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait 3 masculin singulier ׳
 וְע (consécutif) Jr 43,12 3 pluriel וְעָטוּ (consécutif) Mi 3,7
@@ -91,7 +91,7 @@ femme errante, voir
 עיט
 .
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Hiph`il
 Parfait 2 masculin singulier הֶעֲטִיתָ עָלָיו כּוּשָׁה
 Ps 89,46

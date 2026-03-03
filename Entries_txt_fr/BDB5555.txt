@@ -21,7 +21,7 @@ Wkl^TA Glossary^ ;
 entourer (souvent), et dérivés ; arabe
 [placeholder3570: Placeholders/3570.gif] est se moquer de, railler) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait 3 pluriel סָֽחֲרוּ
 Jr 14,18
@@ -115,7 +115,7 @@ Sm
 Co
 Berthol Toy.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Pilpel
 Parfait 3 masculin singulier לִבִּי סְחַרְחַר
 Ps 38,11

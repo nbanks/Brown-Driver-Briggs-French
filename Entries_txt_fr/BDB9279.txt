@@ -10,7 +10,7 @@ id. [rare] ; comparer arabe
 [placeholder5892: Placeholders/5892.gif]
 allumer, brûler) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pe`al
 Infinitif

@@ -7,7 +7,7 @@ Levite; — לֵוִי, 40 t.; plural לֵוִיִּם 250 t.; suffix
 לְוִיֵּנוּ
 Neh 10:1 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. singular of individual, ׳
 אִישׁ ל
@@ -32,7 +32,7 @@ Judg 18:3; Judg 18:15
 Judg 20:4. Sg.
 usually
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. with article הַלֵּוִי as substantive collective the Levites:
 
@@ -82,7 +82,7 @@ Ps 135:20
 
 house (family, tribe) of the Levites.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. plural לְוִיִּם chiefly Chronicles and
 P
@@ -97,7 +97,7 @@ article is omitted by
 and most in Isa 66:21 always = substantive Levites;
 —
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 1.
 
@@ -226,7 +226,7 @@ P
 P
 ).
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 2. in Chronicles the tribal idea is in the background, and thought of Levites as official
 class is

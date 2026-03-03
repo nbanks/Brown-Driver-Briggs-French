@@ -8,14 +8,14 @@ whence nasîku, prince, Dl^HWB 472^
 ; see also Muss-Arn^Hebraica. vi. 89. R. 17 and references^
 ); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 1 singular נָסַכְתִּי מַלְכִּי עַלצִֿיּוֺן
 Ps 2:6
 I have installed my king upon Zion.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect 1 singular נִסַּכְתִּי

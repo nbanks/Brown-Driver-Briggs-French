@@ -5,7 +5,7 @@ Biblical Aramaic
 verb
 set, make (see Biblical Hebrew; for Persian influence on usage compare Scheft^65^); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pe`al
 Perfect 3 masculine singular שָׂם
@@ -40,7 +40,7 @@ Dan 3:12;
 Dan 6:14
 pay due regard (טְעֵם) to (עַל person).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pe`il 3 masculine singular מִנִּי שִׂים טְעֵם
 Ezra 4:19
@@ -51,7 +51,7 @@ literal 3 feminine singular שֻׂמַת (read probably שִׂימַת
 K^§ 45, Beisp. 1.^
 d)) Dan 6:18 (of stone, עַל local).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hithpe`el
 be made: Imperfect 3 masculine singular יִתְּשָׂם

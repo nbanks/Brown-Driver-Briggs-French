@@ -27,7 +27,7 @@ Ba^ZMG xll (1887), 612, 621, 636^ (especially against DHM^VIme Orient. Congr. ii
 Thes; a daring suggestion by Jen^ZA
 vii (1892), 177^); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 1 singular לאֹ שָׁנִיתִי
@@ -79,7 +79,7 @@ Eccl 42:24);
 Prov 24:21
 those who change (but dubious, see Toy).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el transitive, change, alter: Perfect 3 masculine singular
 שִׁנָּה
@@ -113,7 +113,7 @@ above); Participle
 Job 14:20
 altering his face, i.e. in death (subject God).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pu`al
 Imperfect 3 masculine singular וְעֹז פָּנָיו יְשֻׁנֶּא (Ges^«GKC:75rr»§ 75rr^) Eccl 8:1, usually is changed,
@@ -125,7 +125,7 @@ is hated (on ׳
 
 4, √עזז).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hithpa`el
 Perfect 2 feminine singular consecutive קוּמִי וְהִשְׁתַּנִּית

@@ -13,7 +13,7 @@ Jr 1,29) ; —
 
 habituellement omis, ou lit τὸ τεῖχος ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 מוֺאָב
@@ -22,7 +22,7 @@ habituellement omis, ou lit τὸ τεῖχος ; —
 Es 15,1, peut-être
 Rabba, au sud de l'Arnon, voir Buhl^Geogr.270.^
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 חֶ֫רֶשׂ

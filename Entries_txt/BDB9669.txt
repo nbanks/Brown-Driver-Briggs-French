@@ -22,7 +22,7 @@ W^CG 123:^ Biblical Hebrew
 מִי
 ); —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 who?
@@ -46,7 +46,7 @@ what (literally who: compare מִי
 
 ) are the names of . . .?
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 מַןדּֿי

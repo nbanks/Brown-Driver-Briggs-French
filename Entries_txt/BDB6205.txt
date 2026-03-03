@@ -15,7 +15,7 @@ concern one, also be occupied by;
 Eccl 42:8
 margin); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Infinitive

@@ -3,7 +3,7 @@ araméen biblique
 
 [שְׁבַשׁ] verbe
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Hithpe`el
 être perplexe (

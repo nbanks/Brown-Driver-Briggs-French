@@ -4,7 +4,7 @@ hébreu biblique
 יְרֹחָם
 nom propre, masculin (qu'il soit pris en pitié ; comparer Lag^BN 134^) ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. père d'Elqana, grand-père de Samuel, Éphraïmite 1 S 1,1 (Ιερεμε[ι]ηλ,
 A
@@ -20,7 +20,7 @@ A
 
 Ιεραμαηλ).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. Benjaminites :
 
@@ -35,7 +35,7 @@ b.
 
 id. (= a ?).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. prêtres :
 
@@ -48,7 +48,7 @@ b.
 Ne 11,11,
 Ι(ε)ροαμ.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4. père d'un héros de David 1 Ch 12,8 (van d. H. v.1 Ch 12,7),
 Ρααμ,
@@ -60,7 +60,7 @@ A
 
 Ιεροαμ.
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 5. Danite 1 Ch 27,22, Ιωραμ (
 
@@ -70,7 +70,7 @@ A
 
 comme 4).
 
-@@SPLIT:sense@@
+## SPLIT 6 sense
 
 6. père d'un capitaine avec Joïada, 2 Ch 23,1, Ιωραμ.
 

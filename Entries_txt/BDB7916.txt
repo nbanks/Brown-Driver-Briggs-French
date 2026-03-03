@@ -8,7 +8,7 @@ saliva, spittle; compare Arabic
 [placeholder5065: Placeholders/5065.gif]
 slaver slobber); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular רָר בְּשָׂרוֺ אֶתזֿוֺבוֺ

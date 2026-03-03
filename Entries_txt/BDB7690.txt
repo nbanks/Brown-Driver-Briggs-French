@@ -29,7 +29,7 @@ expund, spread (intransitive); Aramaic רַב
 great, chief, so Old Aramaic, Nabataean, Palmyrene רב, Lzb^366^
 Cook^107^); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 feminine singular consecutive וְרַבָּה
@@ -83,7 +83,7 @@ J
 6:12
 be long, of journey, Josh 9:13 —
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pu`al see [רָבַב] denominative
 

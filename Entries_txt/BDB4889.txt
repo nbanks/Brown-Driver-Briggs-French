@@ -11,7 +11,7 @@ Di^166^; Aramaic
 ימשׁ
 , II. מושׁ); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect 3 masculine singular suffix יְמֻשֵּׁנִי
@@ -21,7 +21,7 @@ and he felt of him (both
 J
 ).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Perfect 2 masculine singular מִשַּׁשְׁתָּ; Imperfect 3 masculine
@@ -56,7 +56,7 @@ a and thou shalt become one that gropes at noonday (figurative of judicial
 blindness); compare
 Job 5:14; Job 12:25.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Imperfect

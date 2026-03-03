@@ -24,7 +24,7 @@ t. ; חוֺזִים
 
 erreur de scribe) —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 voyant :
 
@@ -60,7 +60,7 @@ Asaph 2 Ch
 
 Note. — Il semble préférable d'ajouter
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 vision (comparer רֹאֶה
 Es 28,7)

@@ -17,7 +17,7 @@ eƒêpu
 
 Dl) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -67,7 +67,7 @@ Deut 20:8; Judg
 context; both with לֹא
 and did not do it again.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect
@@ -92,7 +92,7 @@ participle feminine plural = things added, additions (i.e. additional
 calamities) Isa
 15:9.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il 172 Perfect
 הֹסִיף

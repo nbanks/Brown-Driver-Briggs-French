@@ -18,7 +18,7 @@ mêšêriš
 , righteously, Dl^HWB 310^
 ) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -65,7 +65,7 @@ Hab 2:4
 his soul is not upright in him (opposed to עֻפְּלָה
 swollen).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Perfect 1 ׳
@@ -129,7 +129,7 @@ esteem right, approve
 Ps
 119:128 (read כל פקודיך לי יִשָּׁ֑רְתִּי).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pu`al
 Participle
@@ -138,7 +138,7 @@ Participle
 
 gold made level, laid smoothly out, upon the graven work.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hiph`il
 Imperfect 3 plural עַפְעַפֶּיךָ יַיְשִׁרוּ נֶגְדֶּ֑ךָ

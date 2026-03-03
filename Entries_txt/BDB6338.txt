@@ -4,14 +4,14 @@ Biblical Hebrew
 [עָקַשׁ] verb
 twist (Late Hebrew id. (rare)); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Niph`al
 Participle construct דְּרָכַיִם
 Prov 28:18
 one crooked in ways (< plural, compare Toy).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Perfect 3 plural עִקְּשׁז לָהֶם
@@ -24,7 +24,7 @@ Prov 10:9
 (compare
 Niph`al).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Imperfect

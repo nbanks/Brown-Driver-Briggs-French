@@ -20,7 +20,7 @@ drag, draw, lead;
 leader; Ethiopic
 [placeholder3166: Placeholders/3166.gif] is travel); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Hiph`il_328_
 Perfect
@@ -185,7 +185,7 @@ Participle> = messenger
 2Sam 18:11
 .
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hoph`al
 Perfect

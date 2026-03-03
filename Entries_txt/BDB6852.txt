@@ -9,7 +9,7 @@ Judg 15:14 +,
 construct פִּשְׁתֵּי
 Josh 2:6 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 flax, after gathering, פִּשְׁתֵּי הָעֵץ

@@ -19,7 +19,7 @@ Dl^w^; aussi arabe
 [placeholder1310: Placeholders/1310.gif]
 périr) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait 3 masculin singulier ׳
 ה
@@ -2407,7 +2407,7 @@ Es
 45,16
 ils sont allés dans la confusion (jugement sur les fabricants d'idoles); etc.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Niph`al
 Parfait 1 singulier כְּצֵל כִּנְטוֺתוֺ נֶהֱלָ֑כְּתִּי
 
@@ -2418,7 +2418,7 @@ comme l'ombre quand elle s'allonge je suis parti (comparer
 
 Niph`al)
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Pi`el (surtout en poésie et tard) Parfait
 הִלַּכְּתִּי
 
@@ -2639,7 +2639,7 @@ humilité,
 comparer
 aussi v^a^).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 Hithpa`el
 Parfait
 הִתְהַלָּךְֿ
@@ -3193,7 +3193,7 @@ tente
 et
 dans un tabernacle.
 
-@@SPLIT:stem@@
+## SPLIT 5 stem
 Hiph`il
 Parfait 3 masculin
 singulier הוֺלִיךְ

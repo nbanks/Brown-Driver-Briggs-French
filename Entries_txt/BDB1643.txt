@@ -5,7 +5,7 @@ Biblical Hebrew
 be bald (Arabic
 [placeholder908: Placeholders/908.gif]);
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pi`el
 shave, shave off (so Late Hebrew, Aramaic) — Perfect
@@ -62,7 +62,7 @@ figurative of devastation by Assyrians Isa 7:20 (object הָראֹשׁ, שַׂע
 E
 ).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pu`al
 Perfect
@@ -77,7 +77,7 @@ be shaven, subject person (of Samson) Judg 16:17; Judg 16:22
 מְגֻלְּחֵי זָקָן
 Jer 41:5.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hithpa`el
 Perfect

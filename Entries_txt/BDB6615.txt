@@ -17,7 +17,7 @@ plural פְּלָאוֺת
 Ps 119:129
 ; Dan 12:6 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 wonder: extraordinary, hard to be understood, God's dealings with His people Isa 29:14 the testimonies
@@ -31,7 +31,7 @@ accusative ׳
 Lam 1:9
 she (Jerusalem) hath come down marvelously.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 wonder: of God's acts of judgment and redemption Ps 77:12; Ps 88:13; Ps 89:6

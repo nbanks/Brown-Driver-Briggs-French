@@ -6,7 +6,7 @@ verbe
 dénominatif
 employer un proverbe, parler en paraboles ou en sentences poétiques, surtout Ézéchiel ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Imparfait
 יִמְשֹׁל
@@ -45,7 +45,7 @@ J
 E
 ).,
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Pi`el
 Participe
 הֲלֹא מְמַשֵּׁל מְשָׁלִים הוּא

@@ -8,7 +8,7 @@ obtenir ou prendre comme possession (comparer Gerber^236 ss.^
 ; Ecclus נחל
 + ; hébreu tardif id. (rare)) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait
 ׳
@@ -98,7 +98,7 @@ partager le pays pour en faire une possession, Nb 34,17 ; Nb 34,18 ; Jos 19,49 (
 P
 ; vocalisation incorrecte pour le Pi`el, ainsi SS).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Pi`el
 partager pour en faire une possession : Parfait 3 masculin singulier נִחַל
 Jos 13,32
@@ -116,7 +116,7 @@ Jos 19,49 (voir
 Qal
 3).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Hithpa`el
 Parfait 3 pluriel suffixe הִתְנַחֲלוּם
 Es 24,2
@@ -154,7 +154,7 @@ P
 ; Es
 14,2.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 Hiph`il
 Parfait 1 singulier הִנְחַ֫לְתִּי
 Jr 3,18
@@ -210,7 +210,7 @@ Dt 21,16 accusatif de personne + מן chose, Ez 46,18
 accusatif de personne Pr 13,22
 ל personne 1 Ch 28,8.
 
-@@SPLIT:stem@@
+## SPLIT 5 stem
 Hoph`al
 Parfait 1 singulier הָנְחַלְתּי
 Jb

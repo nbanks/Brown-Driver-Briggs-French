@@ -27,7 +27,7 @@ Ha 1,6 ; Ps 132,5
 construit מִשׁכְּנוֺת
 Ps 87,2 +, etc. ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 demeure :
 מִשְׁכַּןקֹֿרַח דָּתָן וַאֲבִירָם ; Nb 16,24 ; Nb 16,27 (
@@ -36,7 +36,7 @@ P
 ׳
 מִשְׁכַּן י ; voir Commentaires] ; en poésie = tombeau, Es 22,16.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2. ailleurs au singulier toujours de la demeure de
 ׳
 י :
@@ -125,7 +125,7 @@ Ex 40,2 ; Ex 40,6 ; Ex 40,29 ;
 
 comparer מִשְׁכָּן (probablement glose sur אהל), 2 S 7,6 || 1 Ch 17,5, + 76 t. P.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3. pluriel מִשְׁכָּנוֺת, demeures (seulement en poésie) :
 
 a. d'Israël, Nb 24,5 (poème ; || אהלים), Jr 30,18 ; Es 54,2 + 4 t. ; d'autres

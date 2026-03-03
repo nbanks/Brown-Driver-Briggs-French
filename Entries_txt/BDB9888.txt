@@ -3,7 +3,7 @@ Biblical Aramaic
 
 [רְגַז] verb
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Haph`el
 enrage (compare Biblical Hebrew); — Perfect 3 masculine plural הַרְגִּ֫זוּ

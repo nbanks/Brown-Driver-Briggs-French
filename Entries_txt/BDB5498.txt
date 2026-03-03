@@ -12,7 +12,7 @@ deliver over; possibly Ethiopic
 [placeholder3523: Placeholders/3523.gif] (prison) guard
 Prä^BAS i. 371^); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular ׳
@@ -173,7 +173,7 @@ Du): compare Assyrian
 —urâƒu sakru
 , Dl^HWB 499^.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect 3 masculine singular נִסְגַּר
@@ -216,7 +216,7 @@ Neh
 13:19
 .
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el
 Perfect 3 masculine singular סִגַּר
@@ -245,7 +245,7 @@ person +
 בְּיַד omitted 2Sam 18:28 (see also
 Hiph`il). p. 698
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Pu`al
 Perfect 3 masculine singular סֻגַּר
@@ -276,7 +276,7 @@ Isa
 
 3. of doors Eccl 12:14.
 
-@@SPLIT:stem@@
+## SPLIT 5 stem
 
 Hiph`il
 Perfect 3 masculine singular הִסְגִּיר

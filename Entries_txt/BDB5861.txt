@@ -10,7 +10,7 @@ Ps 119:14
 Jer 44:23 + 4
 t.; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 testimony of the Ten Words on the tables as a solemn divine charge, ׳
@@ -86,7 +86,7 @@ P
 ) 2Chr
 24:6.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. the code of law in general (late), as a testimony of God: Ps 19:8; Ps 119:88;
 Ps 122:4 ||

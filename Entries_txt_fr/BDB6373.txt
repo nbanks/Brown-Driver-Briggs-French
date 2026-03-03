@@ -17,7 +17,7 @@ hébreu biblique,
 עִירְיְתָא ; syriaque
 [placeholder4069: Placeholders/4069.gif] dans les lexiques) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Pi`el
 Parfait 3 masculin singulier עֵרָה
 Es 22,6 ; So 2,14
@@ -54,7 +54,7 @@ répandre, אַלתְּֿעַר נַפְּשִׁי
 Ps 141,8
 (c.-à-d. tuer).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Hiph`il
 Parfait 3 masculin singulier ׃ הֶעֱרָה
 
@@ -70,14 +70,14 @@ Es 53,12
 Qal
 3).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Niph`al passif de
 Hiph`il
 2 : 3 masculin singulier יֵעָרֶה עָלֵינוּ רוּחַ
 Es
 32,15 (figuré) jusqu'à ce qu'un esprit d'en haut soit répandu sur nous.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 Hithpa`el
 
 1.

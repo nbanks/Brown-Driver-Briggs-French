@@ -3,7 +3,7 @@ araméen biblique
 
 [נְצַח] verbe
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Hithpa`al
 se distinguer (voir hébreu biblique I.

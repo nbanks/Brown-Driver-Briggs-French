@@ -3,7 +3,7 @@ hébreu biblique
 
 יְבוּסִי, יְבֻסִי
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 adjectif [d'un peuple]
@@ -52,7 +52,7 @@ aussi עִיר הַיְבוּסִי הַזּאֹת
 Jg 19,11
 d'où
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 Jérusalem, Hexateuque seulement

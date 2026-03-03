@@ -12,7 +12,7 @@ answer, respond (Late Hebrew id., respond, make response;
 [placeholder3946: Placeholders/3946.gif],
 [placeholder3947: Placeholders/3947.gif], intend by saying); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular ׳
@@ -207,7 +207,7 @@ b. less often make response
 as
 one accused (respondent) Job 9:14; Job 9:15.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 
@@ -234,7 +234,7 @@ Prov 21:3
 Job 19:7
 .
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Participle

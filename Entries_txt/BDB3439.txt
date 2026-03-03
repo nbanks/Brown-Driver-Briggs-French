@@ -6,7 +6,7 @@ cast a lot (compare Ethiopic
 [placeholder2176: Placeholders/2176.gif]
 immittere, etc, Di^935^) — only
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine plural יַדוּ גוֺרָל עַל

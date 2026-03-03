@@ -36,7 +36,7 @@ GFM) ; suffixes voir ci-dessous (2 + 10 = 12, voir ci-dessous) ; Hexateuque prin
 P
 ; — deux :
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. pas d'autre nombre :
 
@@ -159,7 +159,7 @@ comparer Jr 3,14
 אֶחָד מֵעִיר וּשְׁנַיִם מִמִּשְׁפָּחָה = un petit nombre ; Esd 10,13
 pas pour un ou deux jours (mais pour beaucoup), 2 R 6,10.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 douze : avec nom masculin
@@ -183,7 +183,7 @@ Nb 7,78,
 Ez 32,1 +,
 etc.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. avec un nombre plus grand : 10 (etc.) + 2, 2 S 8,5 ; Jg 10,3 + 56 t. ; 2 + 10 (etc.) Nb 1,35 (
 P

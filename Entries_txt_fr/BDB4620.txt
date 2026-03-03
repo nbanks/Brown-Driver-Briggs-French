@@ -4,7 +4,7 @@ hébreu biblique
 מִיכָה
 nom propre, masculin
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 Michée, l'Éphraïmite (
 
@@ -18,7 +18,7 @@ Jg 17,5 ; Jg
 (deux fois dans le verset) ; Jg 17,13 ; Jg 18,2 ss. (12 t.), appelé מִיכָֽיְהוּ
 Jg 17,1 ; Jg 17,4.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2. le prophète Michée (
 
 ᵐ5
@@ -31,11 +31,11 @@ Kt
 
 מִיכָיָה).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3.
 1 Ch 5,5.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 4. fils de Meribbaal (Mephibosheth) 1 Ch 8,34 s. (
 
 ᵐ5
@@ -48,7 +48,7 @@ Kt
 Μειχα), appelé מִיכָא
 2 S 9,12.
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 5.
 2 S 23,20 (
 
@@ -60,13 +60,13 @@ Kt
 
 Μειχα).
 
-@@SPLIT:sense@@
+## SPLIT 6 sense
 6.
 2 Ch 18,14 (
 = מִיכָֽיְהוּ
 2).
 
-@@SPLIT:sense@@
+## SPLIT 7 sense
 7.
 2 Ch 34,20
 (|| 2 R 22,12

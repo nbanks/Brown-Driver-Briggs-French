@@ -19,7 +19,7 @@ Th, so || 2Chr 4:12 compare Be), v
 2Chr 4:41 + 3 t.;
 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 basin (pool, well ?)
@@ -34,7 +34,7 @@ Josh 15:19
 (twice in verse) =
 Judg 1:15 (twice in verse) (probably old proper name [of a location], compare Di).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 bowl,

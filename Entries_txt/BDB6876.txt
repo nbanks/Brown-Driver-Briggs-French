@@ -3,7 +3,7 @@ Biblical Hebrew
 
 II. [פָּתַח] verb
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pi`el
 engrave (Late Hebrew Pi`el id.,פִּתּוּחַ = Biblical
@@ -35,7 +35,7 @@ cognate meaning with verb Exod 28:11(all
 P
 ); with accusative of cognate meaning with verb only, Zech 3:9 (on stone), and, in general, 2Chr 2:6; 2Chr 2:13.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pu`al
 Participle feminine plural מְפֻתָּחֹת פִתּוּחֵי חוֺתָם

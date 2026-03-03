@@ -5,7 +5,7 @@ Biblical Hebrew
 proper name, masculine
 Οζει:
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. Levites:
 
@@ -21,11 +21,11 @@ Neh 11:22.
 
 c. priestly name Neh 12:19; Neh 12:42.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. name in Issachar 1Chr 7:2; 1Chr 7:3.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. Benjamite name 1Chr 7:7; 1Chr 9:8.
 

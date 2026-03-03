@@ -11,7 +11,7 @@ Thes^1334^ comparer I.
 שׂער
 ) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imparfait 3 masculin singulier suffixe יִשְׂעָרֶנּוּ
@@ -19,14 +19,14 @@ Ps 58,10
 figuré il (׳
 י) le balaiera.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Parfait 3 féminin singulier impersonnel נִשְׂעֲרָה
 Ps 50,3 autour de
 lui c'est tempétueux à l'extrême.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el
 Imparfait 3 masculin singulier suffixe וִישַׂעֲרֵ֫הוּ
@@ -34,7 +34,7 @@ Jb 27,21
 et il [un vent d'est] l'emportera en tourbillon loin de (מִן)
 son lieu.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hitph.
 Imparfait 3 masculin singulier וְיִשְׂתָּעֵר

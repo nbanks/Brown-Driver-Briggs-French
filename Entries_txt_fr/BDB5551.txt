@@ -15,7 +15,7 @@ déchet,
 סְחִיתָא
 saleté, fumier) ; — seulement
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Pi`el
 racler, récurer, Parfait 1 singulier consécutif וְסִחֵתִ֫י עֲפָרָהּ
 מֶּנָּהָ

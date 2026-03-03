@@ -14,7 +14,7 @@ Pr 25,10
 דִּבָּתָם
 Gn 37,2 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 médisance
 Ps 31,14 ;
@@ -27,13 +27,13 @@ Gf
 VB
 ; pourtant comparer Che Psaume).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 diffamation
 Pr 10,18
 (avec הוציא).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3.
 mauvais rapport, spécifiquement un rapport (véridique) de méfaits Gn 37,2 (
 P

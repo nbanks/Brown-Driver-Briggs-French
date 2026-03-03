@@ -22,7 +22,7 @@ Ezek 21:20;
 Ezek 48:34,
 etc.; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 
@@ -202,7 +202,7 @@ Ezek
 48:31, three on each side, named for tribes, Ezek 48:31 Ezek 48:31 Ezek
 48:31 Ezek 48:31 + 12 t. Ezek 48.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 
@@ -307,7 +307,7 @@ Prov 14:19
 (perhaps compare Judg 18:16
 1.a. above).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 
@@ -413,7 +413,7 @@ Exod 35:17
 + 6t. Exodus + Num
 4:36.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 figurative

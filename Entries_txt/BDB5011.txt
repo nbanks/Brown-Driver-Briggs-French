@@ -9,7 +9,7 @@ i. 388^; Arabic
 [placeholder3196: Placeholders/3196.gif]: is recreari, respirare, etc.
 Di^632^); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -21,7 +21,7 @@ Ezek 32:18,
 followed byעַל
 concerning, for.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Imperfect

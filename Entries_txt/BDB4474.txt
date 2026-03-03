@@ -5,7 +5,7 @@ Biblical Hebrew
 denominative
 use the tongue, only specifically, slander; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Po`el
 Participle
@@ -13,7 +13,7 @@ Participle
 Ps 101:5
 (on form, compare Ges^«GKC:90»§ 90^, 3 Kö^Lgb. i. § 26^).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Imperfect 2 masculine singular jussive ׳

@@ -8,7 +8,7 @@ hew down (
 ^j^
 ; Syriac (rare); Biblical Hebrew cut); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pe`al
 Imperative masculine plural גֹּ֫דּוּ אִילָנָא (K^§

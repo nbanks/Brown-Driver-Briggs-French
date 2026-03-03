@@ -12,7 +12,7 @@ Syriac; Biblical Hebrew
 שָׁבַר
 ); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pe`al
 Participle

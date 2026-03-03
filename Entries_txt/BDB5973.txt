@@ -16,7 +16,7 @@ Isa 31:2 +; suffix
 Ps 22:20 +,
 etc.; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 help, succour
@@ -41,7 +41,7 @@ Ps 40:14
 Ps 60:13
 (|| תְּשׁוּעָה) =Ps 108:13.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. concrete, embodied help, one who helps (compare 1 עֵזֶר
 2):

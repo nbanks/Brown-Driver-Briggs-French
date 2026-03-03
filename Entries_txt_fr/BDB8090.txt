@@ -8,7 +8,7 @@ meurtrir, broyer, écraser ; araméen רְעַ,
 [placeholder5170: Placeholders/5170.gif]
 écraser, briser) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Parfait 2 masculin singulier suffixe רַצּוֺתָנוּ
@@ -61,7 +61,7 @@ Now
 י, sous la figure de la mèche, Es 42,4 (+ יִכְהֶה) il ne faiblira ni ne sera
 éteint.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 être écrasé, brisé : Parfait 3 masculin singulier consécutif נְרֹץ (
@@ -79,7 +79,7 @@ SS
 Gerber. — Es 42,2 ; Qo 12,6 a voir
 Qal.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el
 écraser en morceaux :
@@ -98,7 +98,7 @@ Imparfait 3 masculin singulier וַיְרַצֵּץ מִן הָעָם
 
 2 Ch 16,10.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Po`el
 Imparfait 3 masculin pluriel וַיְרֹצְצוּ
@@ -109,7 +109,7 @@ Pi`el
 Bu
 Now).
 
-@@SPLIT:stem@@
+## SPLIT 5 stem
 
 Hiph`il
 Imparfait 3 féminin singulier וַתָּ֫רִץ (
@@ -119,7 +119,7 @@ Qal)
 Jg 9,53
 elle lui écrasa le crâne.
 
-@@SPLIT:stem@@
+## SPLIT 6 stem
 
 Hithpo`el réciproque, Imparfait 3 masculin pluriel
 וִיִּתְרֹצְצוּ הַבָּנִים בְּקִרְבָּהּ

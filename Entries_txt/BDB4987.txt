@@ -19,7 +19,7 @@ suffix נִדְבֹתֶ֫יךָ
 Deut 12:7 + 4 t.
 suffixes; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 voluntariness
@@ -38,7 +38,7 @@ voluntarily, and adverb. accusative נדבה
 Deut 23:24 (see
 Dr.).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 freewill, voluntary, offering:

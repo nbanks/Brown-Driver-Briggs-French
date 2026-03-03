@@ -13,7 +13,7 @@ pluck grapes;
 ‡atâpu
 , apparently pluck off); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singularקָטָ֑ף
@@ -29,7 +29,7 @@ from); Participle masculine plural הַקֹּטְפִים
 Job 30:4
 they who pluck out the mallow.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Imperfect 3 masculine singular יָקָּטֵב

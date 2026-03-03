@@ -8,7 +8,7 @@ descendre (
 
 syriaque ; voir hébreu biblique (en poésie, et tardif)) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pe`al
 Participe
@@ -16,7 +16,7 @@ Participe
 Dn 4,10 ; Dn 4,20 (les deux
 מִןשְֿׁמַיָּא).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Haph`el
 déposer, ב local : Imparfait 2 masculin singulier
@@ -28,7 +28,7 @@ d)) Esd 5,15 (accusatif de chose) ; Participe passif pluriel
 Esd 6,1 (étaient)
 déposés.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hoph`al (W^CG 225^) être déposé :
 Parfait 3 masculin singulier הָנְחַת

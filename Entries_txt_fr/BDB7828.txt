@@ -10,7 +10,7 @@ courir (hébreu tardif id. (rare) ; éthiopien
 râƒu
 , être secourable (c.-à-d. courir pour aider ?)) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait 3 masculin singulier רָץ
 Gn 18,7 2 masculin
@@ -179,14 +179,14 @@ Est
 Est 8,14
 .
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Po`lel
 Imparfait 3 masculin pluriel יְרוֺצֵ֑צוּ
 Na 2,5
 
 ils courent rapidement, foncent (comme l'éclair ; des chars).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Hiph`il
 faire courir :
 

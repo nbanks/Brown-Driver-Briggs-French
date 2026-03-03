@@ -7,7 +7,7 @@ Biblical Hebrew
 in proper name Lzb^337^
 Cook^90^); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperative masculine plural עוּשׁוּ וָבֹאוּ

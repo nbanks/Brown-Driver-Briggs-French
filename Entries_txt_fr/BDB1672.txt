@@ -7,7 +7,7 @@ s'asseoir, se redresser, peut-être aussi s'accouder (comparer arabe
 se redresser ; ainsi Thes
 De et autres (non Ew)) — seulement
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait
 (שֶׁ)גָָּֽלִשׁוּ

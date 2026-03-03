@@ -9,7 +9,7 @@ Lzb^386^
 SAC^121^
 Cooke^361^) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Parfait 3 féminin singulier תָּֽמְכָה
@@ -75,7 +75,7 @@ paroles (|| שָׁמַר) ; tenir fermement
 Ps 17,5 (
 ב lieu ; opposé à נָמֹ֫טוּ).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Imparfait

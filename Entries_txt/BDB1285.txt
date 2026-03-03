@@ -6,7 +6,7 @@ empty (compare probably Arabic
 [placeholder679: Placeholders/679.gif]
 make a gurgling noise, of a mug dipped in water, or emptied of water) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -22,7 +22,7 @@ Nah 2:3
 empty, lay waste land, accusative, Isa 24:1; Nah 2:3, also absolute v.Nah 2:3 figurative make void
 (object עֵצָה) Jer 19:7.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect
@@ -37,7 +37,7 @@ be emptied (laid waste) Isa 24:3
 הִבּוֺק תִבּוֺק, of land (|| הִבּוֺז
 תִּבּוֺז); figurative of spirit, courage Isa 19:3.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Po.
 Imperfect

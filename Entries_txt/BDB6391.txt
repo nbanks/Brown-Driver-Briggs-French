@@ -3,7 +3,7 @@ Biblical Hebrew
 
 I. [עָרַם] verb
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Niph`al
 be heaped up (compare Sabean אערמחו plural of [ערם]

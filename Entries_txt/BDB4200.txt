@@ -6,12 +6,12 @@ noun masculine^
 Isa 29:17
 ^
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 plantation, garden-land.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 fruit, garden-growth
@@ -24,7 +24,7 @@ t.; suffix כַּדְמִלּוֺ
 Isa 10:18 + 2
 t.; —
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 1.
 garden-land, Isa 16:10
@@ -42,7 +42,7 @@ the country of garden-land, i.e. fertile; יַעַָר כַּרְמִלּוֺ
 כַּרְמֶל
 .
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 2. by metonymy (fresh) fruit, garden growth, 2Kgs 4:42 (+
 לֶחֶם שְׂעוֺרִים

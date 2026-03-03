@@ -224,7 +224,7 @@ def test_split_chunks_hebrew_preservation():
     """For every entry with splits, each corresponding txt/txt_fr chunk
     must contain the same Hebrew words in the same order.
 
-    This verifies that @@SPLIT markers were inserted at structurally
+    This verifies that ## SPLIT markers were inserted at structurally
     equivalent positions in the French files.
     """
     fr_ids = _all_txt_fr_ids()

@@ -25,7 +25,7 @@ Nö^ZMG xi (1886). 167^, font de לֵוִי un nom de peuple dérivé de
 
 Λευ(ε)ι(ν) ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 
 a.
@@ -98,7 +98,7 @@ Nb 16,10 (
 P^2^
 ).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2. comme nom de tribu, ׳
 שֵׁבֶט ל
 Dt 18,1

@@ -3,7 +3,7 @@ hébreu biblique
 
 כִּמְהָם
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 nom propre, masculin
 1.
 serviteur de David
@@ -22,7 +22,7 @@ L
 
 Αχιμααμ.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2. dans le nom [d'un lieu]
 גֵּרוּת כִמְהָם
 Jr 41,17

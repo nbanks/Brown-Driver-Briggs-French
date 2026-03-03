@@ -12,7 +12,7 @@ Os^ZMG xix (1865), 197^; Arabic
 [placeholder4384: Placeholders/4384.gif]; Aramaic פְּתַח,
 [placeholder4385: Placeholders/4385.gif]; Nabataean, Palmyrene פתח); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular ׳
@@ -163,7 +163,7 @@ Marti proposes רַחְמָהּ as object; Gr
 Kit (in Di) read
 תִּפָּתַח.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect 3 masculine singular נִפְתַּח
@@ -193,7 +193,7 @@ Job 24:27;
 Job 33:22
 ears Isa 35:5.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el
 Perfect 3 masculine singular פִּתַּח
@@ -249,7 +249,7 @@ Kit in Di]; buds Song 7:13 (of
 blossom; object omitted; or intransitive, as sometimes Arabic
 [placeholder4386: Placeholders/4386.gif] see Dozy).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hithpa`el
 Imperative masculine plural התפתחו

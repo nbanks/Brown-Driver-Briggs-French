@@ -9,7 +9,7 @@ troubler (araméen
 בהל
 — seulement
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Pi`el
 Participe
 מְבַלֲהִים אותם לִבְנוֺת

@@ -12,7 +12,7 @@ Exod 5:19 +,
 רָ֑ע
 Gen 48:16 +; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 evil, distress, adversity:
@@ -59,7 +59,7 @@ E
 ) Ps
 121:7 see also Mic 1:12; Ps 140:12; Job 5:19; Job 31:29; Prov 12:21; Prov 19:23.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 evil, injury, wrong:
@@ -103,7 +103,7 @@ Prov 11:15
 Gr
 SS, see Toy).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. ethical evil, Deut 30:15; 2Sam 14:17; Isa 5:20; Amos 5:14; Mic 7:3 + 10 t.; עשׁה רע
 2Kgs 21:9; 2Chr 12:14;

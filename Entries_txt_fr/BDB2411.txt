@@ -9,7 +9,7 @@ zinû
 105^
 Zim^BP 23 ss.^) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait
 ׳
@@ -43,7 +43,7 @@ Ps 44,10 ; Ps 60,12 ; Ps 108,12
 Lm 3,17 roi Ps 89,39 autel
 Lm 2,7.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Hiph`il
 Parfait
 הִזְנִיחַ

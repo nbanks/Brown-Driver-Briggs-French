@@ -9,7 +9,7 @@ Lev 11:18,
 תִּנְשָּׁ֑מֶת
 Lev 11:30; Deut 14:16: —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. unclean bird, the ibis, water-hen,
 
@@ -23,7 +23,7 @@ SS); pelican (Ges
 = Deut 14:16
 .
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. unclean שֶׁרֶץ
 Lev 11:30,

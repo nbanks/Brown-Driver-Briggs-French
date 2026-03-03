@@ -6,7 +6,7 @@ verb
 redeem, act as kinsman (Late Hebrew, Niph`al be redeemed; also
 גּוֺאֵל, גְּאוּלָּה) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -195,7 +195,7 @@ Isa 63:4
 
 (compare גְּאוּלַי below), Ps 107:2.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect

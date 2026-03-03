@@ -10,7 +10,7 @@ be quiet, undisturbed (
 שְׁקַט (rare); Late Hebrew שׁקט is sink down; Arabic
 [placeholder5708: Placeholders/5708.gif] is drop down); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular consecutive ׳
@@ -107,7 +107,7 @@ he will not be quiet until he has finished the matter; of prophet Isa 62:1 (|| �
 
 be silent).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Imperfect 3 masculine singular יַשְׁקִיט

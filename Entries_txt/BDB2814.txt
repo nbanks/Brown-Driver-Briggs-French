@@ -14,7 +14,7 @@ Jer 12:10
 Job 24:18
 portion of ground,
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. especially
 
@@ -58,7 +58,7 @@ We read הַצֹּדִים
 ח
 field of plotters or liers-in-wait (see Dr).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 portion of ground assigned to one, מחקק

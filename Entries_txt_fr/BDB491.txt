@@ -14,7 +14,7 @@ souffrir, araméen
 [placeholder233: Placeholders/233.gif]
 retenir la colère).
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Niph`al (être lié =) être muet, Parfait 3 féminin
 singulier
 נֶאֱלָ֑מָה
@@ -47,7 +47,7 @@ Ps 31,19
 (|| יִדְּמוּ לִשְׁאוֺל
 Ps 31,18).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Pi`el
 Participe
 lier

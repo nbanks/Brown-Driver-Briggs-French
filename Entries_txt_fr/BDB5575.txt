@@ -9,7 +9,7 @@ arabe
 couvrir, et peut-être סִכֵּךְ
 couvrir d'un toit) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait seulement 2 masculin singulier סַכֹּ֫תָ
 Ex 40,3,
@@ -56,7 +56,7 @@ lectio ; comparer Lm
 3,44
 ci-dessus).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Hiph`il
 Imparfait 3 masculin singulier יָ֫סֶךְ לָךְ
 Ps 91,4,
@@ -89,7 +89,7 @@ de protection Ps
 5,12
 avec לְ personne + בְּ instrumental Ps 91,4 (de protection).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Pilpel
 סִכְסֵךְ, dénominatif, voir ci-dessous IV.
 שׂבך.

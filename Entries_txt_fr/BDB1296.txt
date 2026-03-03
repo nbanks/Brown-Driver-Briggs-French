@@ -5,7 +5,7 @@ hébreu biblique
 verbe
 chercher (phénicien בקש) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Pi`el
 Parfait
 בִּקֵּשׁ
@@ -403,7 +403,7 @@ personne Dn
 avec אשׁר), Ps 104,21
 מִן personne 2 Ch 20,4.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Pu`al
 Imparfait
 יְבֻקַּשׁ

@@ -6,7 +6,7 @@ cut, cut off (Arabic
 [placeholder993: Placeholders/993.gif]
 cut, cut off, exterminate) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Niph`al
 Perfect

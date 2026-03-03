@@ -5,7 +5,7 @@ Biblical Hebrew
 verb
 strike, smite (Aramaic נְגַף); -
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -54,7 +54,7 @@ Judg 20:35;
 1Sam 4:3; 2Chr 13:15;
 2Chr 14:11.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect
@@ -94,7 +94,7 @@ Deut 28:25
 
 Niph`al
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hithpa`el
 Imperfect

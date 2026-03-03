@@ -33,7 +33,7 @@ Job 13:2
 דַּעְתָּם
 Isa 44:25 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 
@@ -86,7 +86,7 @@ f.
 דַּעַתרֿוּחַ = windy (unreal) knowledge
 Job 15:2.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. especially in Wisdom Literature = discernment, understanding, wisdom:
 

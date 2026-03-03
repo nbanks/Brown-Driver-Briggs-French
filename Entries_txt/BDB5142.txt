@@ -33,7 +33,7 @@ Ezek 24:11,
 Judg 16:21 + 6
 t.; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 copper, as ore Deut 8:9, compare Zech 6:8 worked by artificer Gen 4:22 (
@@ -67,7 +67,7 @@ Ezek 1:7; Dan 10:6 see
 ; ׳
 נ as spoil of war 2Sam 8:8; 2Kgs 25:13 = Jer 52:17; Jer 52:20 etc.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 fetters of copper or bronze, usually dual Judg 16:21; 2Sam 3:34; 2Kgs 25:7 =
@@ -77,7 +77,7 @@ also 2Chr 33:11
 singular only Lam
 3:7 (figurative of oppression).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. as less in value than gold but more than wood Isa 60:17 (twice in verse); figurative of worthless people
 Jer 6:28 (+
@@ -86,7 +86,7 @@ Jer 6:28 (+
 נחשׁ
 .
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 figurative of pitiless sky Deut 28:23.

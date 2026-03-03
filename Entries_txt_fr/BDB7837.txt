@@ -6,17 +6,17 @@ nom [masculin]
 maigreur, dépérissement, insuffisance ; — absolu ׳
 ר :
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 maigreur
 Es 10,16
 (figuré ; opposé à מִשְׁמַנָּיו).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 dépérissement, c.-à-d. maladie qui consume, Ps 106,15 (comparer Bae).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3.
 ׳
 אֵיפַת ר

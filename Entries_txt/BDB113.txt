@@ -5,13 +5,13 @@ Biblical Hebrew
 be red (on formation compare Lag^BN 83^ compare
 120) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 plural אָֽדְמוּ
 ruddy, of Nazirites Lam 4:7
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pu`al
 Participle
@@ -21,7 +21,7 @@ shield), מְאָדָּמִים of rams' skins Exod 25:5; Exod 26:14; Exod 35:7;
 P
 ).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hithpa`el
 Imperfect
@@ -29,7 +29,7 @@ redden, grow or look red, יִתְאַדָּ֑ם
 Prov 23:31
 (of wine);
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hiph`il
 Imperfect

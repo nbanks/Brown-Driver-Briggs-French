@@ -15,7 +15,7 @@ be dirty (on
 קְדַר
 be dark); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect consecutive וְקָדַר
@@ -40,7 +40,7 @@ compare 2Sam 19:25
 Jer 14:2 (
 לָאָרֶץ, metaphor of gates); Job 5:11; Job 30:28 (בְּלֹא חַמָּה), Ps 35:14; Ps 38:7; Ps 42:10; Ps 43:2.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 
@@ -56,7 +56,7 @@ cause to mourn
 Ezek 31:15
 .
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hithpa`el
 Perfect 3 plural וְהַשָּׁמַיִם הִתְקַדְּרוּ עָבִים

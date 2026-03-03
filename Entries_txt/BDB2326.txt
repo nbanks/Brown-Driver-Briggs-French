@@ -9,7 +9,7 @@ guest; IX. decline, turn aside;
 [placeholder1450: Placeholders/1450.gif] visitor; Aramaic זוּר, often = Hebrew סוּר
 turn aside, turn aside to visit) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 plural זֹר֫וּ
@@ -164,7 +164,7 @@ Num 3:4; Num 26:61
 P
 ).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect
@@ -178,7 +178,7 @@ RV
 Ezek 14:5
 .
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hoph`al
 Participle

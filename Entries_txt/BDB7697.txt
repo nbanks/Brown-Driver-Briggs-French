@@ -3,7 +3,7 @@ Biblical Hebrew
 
 [רָבַב]
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pu`al
 denominative from preceding: — Participle feminine plural מְרֻבָּבוֺת

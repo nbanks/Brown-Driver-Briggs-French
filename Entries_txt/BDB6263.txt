@@ -5,7 +5,7 @@ Biblical Hebrew
 proper name
 Εφρων: —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 masculine
@@ -15,7 +15,7 @@ Gen 23:6; Gen 25:9; Gen 49:30; Gen 50:13 (all
 P
 ).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. location 2Chr 13:19
 
@@ -26,7 +26,7 @@ Qr
 ), compare עָפְרָה
 1.a.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. mountain
 ׳

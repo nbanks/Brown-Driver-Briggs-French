@@ -4,11 +4,11 @@ hébreu biblique
 פֶּ֫לֶךְ
 nom [masculin]
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 fusaïole.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2. district (proprement cercle, circuit)
 ; — absolu ׳
 פ
@@ -20,12 +20,12 @@ Ne 3,9 + ; suffixe
 פִּלְכּוֺ
 Ne 3,17 —
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 1.
 fusaïole, 2 S 3,29 (probablement, voir Dr), Pr 31,19
 (|| כִּישׁוֺר).
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 2.
 district, Ne
 3,9 ; Ne 3,12

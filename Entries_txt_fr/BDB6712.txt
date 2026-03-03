@@ -20,7 +20,7 @@ etc. ; pluriel פְּעָלִים
 2 S 23,20 ;
 1 Ch 11,22 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 acte, chose faite :
 
@@ -53,7 +53,7 @@ Es 59,6 bonne
 action Pr 21,8
 .
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 œuvre, chose faite :
 
@@ -66,13 +66,13 @@ Di et autres ; > lire בַּעֲלוֺ
 Lag^Semitic i. 5^
 Sta^ZAW iii (1888), 12f.^).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3.
 salaire du travail
 Jr 22,13 ;
 Jb 7,2.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 4.
 acquisition de trésors Pr 21,6.
 

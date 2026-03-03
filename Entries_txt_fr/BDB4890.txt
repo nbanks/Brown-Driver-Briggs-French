@@ -23,7 +23,7 @@ Gn 34,30 + 13
 t. ; suffixe 2 féminin singulier מְתַיִךְ ; Es 3,25 3 masculin singulier מְתָיו
 Dt 33,6 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 mâles, hommes, Es 3,25 (|| גְּבוּרָתֵךְ) ; plus distinctement, וְהַטָּף
 
@@ -34,7 +34,7 @@ Dt 2,34 ; Dt 3,6 chaque
 ville de mâles (population mâle, comparer Dr),
 et les femmes, etc. ; Jg 20,48 (voir ci-dessus ; opposé à בְּהֵמָה).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2. habituellement moins d'accent sur le sexe, en prose seulement l'expression :
 
 a.
@@ -52,7 +52,7 @@ b.
 בִּמְתֵי מְעָ֑ט = consistant en peu d'hommes
 Dt 26,5 ; Dt 28,62
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3. ailleurs seulement en poésie, le sexe habituellement non souligné :
 
 a.

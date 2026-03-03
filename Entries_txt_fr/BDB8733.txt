@@ -40,7 +40,7 @@ Bondi^70^ (d'après Brugsch), comparer
 šarm¹
 , saluer, rendre hommage, comme emprunt en égyptien) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Parfait 3 pluriel שָֽׁלְמוּ
@@ -58,7 +58,7 @@ Jb 9,4 féminin
 2.
 être sain, indemne, Jb 9,4.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Piel_89_
 Parfait 3 masculin singulier שִׁלַּם
@@ -154,7 +154,7 @@ J
 ) +
 Gn 35,12 ; Gn 38,21 (lire מְשַׁלְּמֵנִי).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pu`al
 Imparfait 3 masculin singulier יְשֻׁלַּם
@@ -172,7 +172,7 @@ Pr 13,13 —
 2.
 être remboursé, rétribué, Jr 18,20 ; Pr 11,31 ; Pr 13,13.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hiph`il
 

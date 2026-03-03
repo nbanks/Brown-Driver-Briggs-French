@@ -25,7 +25,7 @@ Lev 25:42 +,
 Josh 9:11 +, etc.;
 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 slave, servant of household Gen 39:17; Gen 39:19; Gen 41:12; Gen 50:2; Exod 21:2 +; man-servant
@@ -70,7 +70,7 @@ king of Babylon is slave to ׳
 Jer 25:9; Jer 27:6; Jer 43:10
 the borrower to the lender Prov 22:7 figurative of beast Job 40:28 of things Gen 47:19.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 Subjects, of chief Gen 26:15; Gen 26:19; Gen 26:25; Gen 26:32; Gen 27:37; Gen 32:17 (twice in verse) +;
@@ -109,7 +109,7 @@ ambassadors Num 22:18; 2Sam 10:2 soldiers of army 1Sam 17:8; 1Sam 25:10; 2Sam 2:
 ; 2Kgs 25:8;
 Isa 36:9.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 Servants, worshippers, of God: עַבְדֵי יהוה
@@ -193,7 +193,7 @@ also servant of ׳
 י as Messianic builder of temple (see Br^MP 442 ff^
 ).
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 Servant of ׳
@@ -222,7 +222,7 @@ as one calling to fear ׳
 י
 Isa 50:10.
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 5. Israel as a people is servant of ׳
 י:
@@ -266,7 +266,7 @@ Berthol^
 Isa 53
 ^.
 
-@@SPLIT:sense@@
+## SPLIT 6 sense
 
 6. In polite address of equals or superiors the Hebrews used עַבְדְּךָ
 thy servant = 1 person singular, I, Gen 18:3; 1Sam 20:7; 1Sam 20:8 (twice in verse); 2Kgs 8:13 +;
@@ -285,7 +285,7 @@ especially in prayer Exod
 Ps 19:12; Ps 19:14; Ps 27:9; Ps 31:17; Ps 35:27; Ps 69:18; Ps 109:28;
 Ps 143:2 +.
 
-@@SPLIT:sense@@
+## SPLIT 7 sense
 
 7. Phrases are: עבד (היה), with לְ person,
 become servant to

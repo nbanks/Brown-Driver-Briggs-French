@@ -16,7 +16,7 @@ Qo 7,25
 Dt 9,27 +, etc. ;
 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 méchanceté, comme violence et crime contre la loi civile Qo 3,16 (deux fois dans le verset) ; ׳
 אֶגְרֹף ר
@@ -46,7 +46,7 @@ Pr 16,12
 1 S 24,14,
 (proverbe).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 méchanceté des ennemis : de l'Égypte Ez 31,11 (douteux Co ;
 glose Toy) ; ׳
@@ -58,7 +58,7 @@ Ps 125,3 (
 SS
 רָשָׁע).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3.
 méchanceté, dans les relations éthiques : || חטאת
 Dt 9,27 (

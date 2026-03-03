@@ -4,7 +4,7 @@ Biblical Hebrew
 [קִנֵּן] verb
 denominative
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pi`el
 make a nest, nest; — Perfect 3 feminine singular קִנְּנָה
@@ -17,7 +17,7 @@ feminine singular תְּקַנֵּן
 Jer 48:28
 (simile).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pu`al
 Participle feminine singular מקננתי (Ges

@@ -19,7 +19,7 @@ Kt
 Qr
 each time feminine מִנְּהֵן), Dan 6:3 (twice in verse); —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. of place:
 
@@ -47,7 +47,7 @@ from
 Dan 6:21
 .
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 
@@ -95,7 +95,7 @@ Dan
 מִןרְֿבוּתָא, Dan 7:11 so מִןדִּֿי, see
 דִּי
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 d. of the norm (compare Biblical Hebrew 2.g
@@ -107,7 +107,7 @@ at the decree of, etc., Ezra 7:23; Dan 2:8
 according to certainty, Dan 2:47
 מִןקְֿשֹׁט.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 3. partitively (Biblical Hebrew 3), Dan 6:3
 חַד מִנְּהוֺן, Dan 7:8; Dan 7:16; Dan 2:25; Dan 5:13 (some) of
@@ -118,7 +118,7 @@ Dan 2:41
 some . . . others of them Dan 2:33; Dan 2:41; Dan 2:42a; so Dan 2:42
 b מִ֗֗֗נַּהּ.
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 4. of time, from, Dan 2:20 (מִן ֗֗֗ וְעַד
 ), Ezra
@@ -127,7 +127,7 @@ Ezra 4:19 see also אְדַיִן
 and דַּי
 4.
 
-@@SPLIT:sense@@
+## SPLIT 6 sense
 
 5. in comparisons, different from
 Dan 7:3;
@@ -150,7 +150,7 @@ man's
 (Biblical Hebrew 7.b.
 b; Isa 52:14).
 
-@@SPLIT:sense@@
+## SPLIT 7 sense
 
 6. compounds: — see
 לְוָת

@@ -34,7 +34,7 @@ Dan 2:8 +, suffix
 לְקָבְלָךְ
 Dan 2:31 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. with לְ
 
@@ -58,7 +58,7 @@ because that
 Ezra 6:13 (so
 Palmyrene CIS^ii. 164^).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. with כֹּל, כָּלקֳֿבֵל
 in view of, because of (but read probably כְּלָקֳבֵל

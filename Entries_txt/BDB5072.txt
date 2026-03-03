@@ -10,7 +10,7 @@ tremble (rare), compare Brock; Arabic
 move to and fro, be in commotion, dangle,
 Lane^2866^); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -96,7 +96,7 @@ Prov 28:17
 בּוֺר
 ); followed by עַלֿ
 Isa 10:3
-followed by ָ  ה locative Gen 14:10 + 4 t.
+followed by ָ ה locative Gen 14:10 + 4 t.
 J
 
 E
@@ -166,7 +166,7 @@ of shadows (at evening), Song 2:17; Song 4:6 of sorrow etc. Isa 35:10; Isa 51:11
 Isa 30:16
 fly (to the attack) on horseback.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Po`lel
 Perfect
@@ -181,7 +181,7 @@ driveth at it, driveth it on (compare
 Hiph`il
 2).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hithpo`el
 Infinitive construct
@@ -195,7 +195,7 @@ Hup-Now
 Che
 Bae and others).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hiph`il
 Perfect

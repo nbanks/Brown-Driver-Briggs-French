@@ -4,7 +4,7 @@ hébreu biblique
 I. [צָבָה] verbe
 enfler, gonfler (hébreu tardif id.) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Parfait 3 féminin singulier consécutif וְצָֽבְתָה

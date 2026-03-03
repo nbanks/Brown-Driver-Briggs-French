@@ -4,7 +4,7 @@ Biblical Hebrew
 אַרְבָּעִים_136_ plural noun indeclinable
 a forty; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. without other number:
 
@@ -89,7 +89,7 @@ Gen 18:29
 Deut 25:3
 forty (blows) may he smite him.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. with other numbers:
 
@@ -157,7 +157,7 @@ Neh 7:67,
 plural noun 200, 40 + 2; Neh 11:13 also
 singular noun נֶפֶשׁ 700, 40 + 5 Jer 52:30.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. as ordinal, שָׁנָה
 ׳

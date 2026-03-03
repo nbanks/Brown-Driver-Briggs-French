@@ -10,7 +10,7 @@ torn flesh or animal; Arabic
 [placeholder2147: Placeholders/2147.gif]
 depasture, said of camel) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -67,7 +67,7 @@ and he kept his anger perpetually, so Ol on Ps 103:9
 We; טֹרֵף נַפְשׁוֺ בְּאַפּוֺ, said of Job by Bildad
 Job 18:4.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Imperfect of animal torn (by wild beasts) טָרֹף יִטָּרֵף
@@ -79,7 +79,7 @@ J
 E
 ); יִטָּרֵף also in prediction of judgment on people of Jerusalem Jer 5:6.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pu`al
 Perfect
@@ -96,7 +96,7 @@ Gen 44:28
 J
 ).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hiph`il
 Imperative masculine singular suffix, note especially 2nd accusative לֶחֶם

@@ -4,7 +4,7 @@ araméen biblique
 [רְמָא] verbe
 jeter, lancer (voir hébreu biblique I. רמךְ (rare)) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Peal
 Parfait 3 masculin pluriel רְמוֺ
@@ -24,7 +24,7 @@ personne omis v.Dn
 figuré
 imposer (le fardeau du) tribut, עַל personne, Esd 7,24.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Peil
 Parfait 3 masculin pluriel רְמִיו (W^CG
@@ -44,7 +44,7 @@ Dr, et hébreu biblique
 
 2).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hithpeel
 être jeté, sujet personne avec ל locatif : Imparfait 3

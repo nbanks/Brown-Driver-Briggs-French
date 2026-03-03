@@ -13,7 +13,7 @@ dabâbu
 , plot, plan,
 COT^Gloss^, compare דִּבָּה) — only
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Participle

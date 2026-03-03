@@ -24,7 +24,7 @@ construct id. Gen
 26:18 compare בֶּאֱרֹת בֶּאֱרֹת חֵמָר
 Gen 14:10 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 a well, often as made by digging (חָפַר) Gen 21:25; Gen 21:30 (
@@ -83,7 +83,7 @@ Song 4:15
 מַעְיַן גַּנִּים בְּאֵר מַיִם חַיִּים
 וְנוֺזְלִים מִןלְֿבָנוֺן.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 pit (= בּוֺר); pits of bitumen Gen 14:10 (compare above); בְּאֵר
@@ -96,11 +96,11 @@ of strange woman בְּאֵר צָרָה
 a narrow pit, out of which rescue is difficult Prov 23:27 (|| שׁוּחָה
 עֲמֻקָּה).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. as proper name [of a location]
 
-a. with ָ  ה locative בְּאֵ֫רָה a station of Israel in desert
+a. with ָ ה locative בְּאֵ֫רָה a station of Israel in desert
 Num 21:16,
 possibly = בְּאֵר אֵילִים
 Isa 15:8.

@@ -5,7 +5,7 @@ Biblical Aramaic
 
 [חֲבַל] verb
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pa`el
 destroy, hurt (see Biblical Hebrew II.
@@ -19,7 +19,7 @@ of tree); Infinitive
 Ezra 6:12
 (accusative of temple).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hithpa`al
 be destroyed: Imperfect 3 feminine singular תִּתְחַבַּל

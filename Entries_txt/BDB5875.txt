@@ -4,7 +4,7 @@ Biblical Hebrew
 עַוִּים
 proper name
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. of a people ׳
 הָע people on southwest coast of Mediterranean before the כַּפְתֹּרִים (q. v.)
@@ -18,7 +18,7 @@ D^2^
 
 Ευαιοι.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. location ׳
 הָע city in Benjamin Josh 18:23 (= הָעַי ?),

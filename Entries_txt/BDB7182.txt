@@ -6,7 +6,7 @@ proper name [of a location] (properly outlook-point or -height
 
 ; with article (exceptHos Josh 5:1)); —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 in Gilead, explanation as name given to Laban's cairn, north of Jabbok
@@ -17,7 +17,7 @@ text see Ball Holz;
 
 ἡ ὅρασις).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 probably south of Jabbok, Judg 10:17 (ἡ σκοπιά), Judg 11:11; Judg 11:34 (Μασσηφα; so
@@ -34,7 +34,7 @@ Buhl^Geogr. 262^ (פֶּה-,
 פָּה-, seem to interchange); site unknown; see conjectures in
 Buhl^l.c.^, compare GASm^Geogr. 586.^
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. near Hermon, ׳
 אֶרֶץ הַמּ
@@ -46,7 +46,7 @@ Josh 11:8,
 
 Μασσηφα; see Buhl^Geogr. 240.^
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4. old sacred place in Benjamin, Μασσηφα, etc.; — ׳
 הַמּ

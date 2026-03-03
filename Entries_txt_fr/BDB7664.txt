@@ -5,7 +5,7 @@ hébreu biblique
 nom [masculin]
 action de regarder, de voir, vue ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 action de voir, ׳
@@ -13,7 +13,7 @@ action de voir, ׳
 Gn 16,13 a
 un Dieu de vision (= qui voit).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 apparence (= מַרְאֶה), טוֺב רֹ֑אִי
@@ -22,7 +22,7 @@ apparence (= מַרְאֶה), טוֺב רֹ֑אִי
 Jb 33,21
 sans apparence (saine, belle).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 vue, spectacle (d'avertissement), כְּרֹ֑אִי

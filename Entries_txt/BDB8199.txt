@@ -7,7 +7,7 @@ laugh (|| צהק, q. v.; Late Hebrew שָׂחַק, סָחַק
 ; Ethiopic
 [placeholder5235: Placeholders/5235.gif]); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 masculine singular ׳
@@ -42,7 +42,7 @@ to בָּכָה).
 2.
 sport, play, Judg 16:27.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Perfect 1 singular וְשִׂחַקְתִּ֫י
@@ -94,7 +94,7 @@ of children's sport Zech 8:5 of beasts Job 40:20; Ps 104:25 of
 man, play
 with (ב) crocod, Job 40:29.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il (declarative) Participle. plural מַשְׂחִיקִים
 2Chr

@@ -14,7 +14,7 @@ Saad
 Gen 28:11 in
 Hebrew usually fix firm so as to found) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -74,7 +74,7 @@ Ezra 7:9 emended (see
 ); found, begin, heaps of offerings in ׳
 י's house 2Chr 31:7.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect 3 plural נוֺסְְדוּ
@@ -97,7 +97,7 @@ Ps 2:2; Ps 31:14
 2.
 be founded, Isa 44:28 (temple), Exod 9:18 (Egypt).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el
 Perfect
@@ -140,7 +140,7 @@ Ps
 9:22 (followed by accusative), Esth 1:8
 (absolute)
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Pu`al
 Perfect, יֻסַּד
@@ -164,7 +164,7 @@ Participle = substantive foundation 1Kgs 7:10, compare
 מוסד below; pillars set on bases, simile of legs Song 5:15
 .
 
-@@SPLIT:stem@@
+## SPLIT 5 stem
 
 Hoph`al
 be founded: Infinitive

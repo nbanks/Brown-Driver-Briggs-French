@@ -24,7 +24,7 @@ t.; חוֺזִים
 
 scribal error) —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 seer:
@@ -61,7 +61,7 @@ Asaph 2Chr
 
 Note. — It seems best to add
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 vision (compare רֹאֶה

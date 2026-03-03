@@ -4,7 +4,7 @@ Biblical Hebrew
 שַׁעֲרַ֫יִם
 proper name [of a location
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 in the Shephelah of Judah (Buhl^Geogr. 194^)
@@ -23,7 +23,7 @@ Josh 15:36,
 
 τῶν πυλῶν).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. in the Negeb (Simeon), וּבְשַׁעֲרָ֑יִוֺ
 1Chr 4:31,

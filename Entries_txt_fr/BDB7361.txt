@@ -28,7 +28,7 @@ comparer surtout
 
 Pa`el) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal_460_
 Parfait 3 masculin singulier קָם
 1 S 17,48 +,
@@ -375,7 +375,7 @@ vision
 1 S 4,15 ; 1 R 14,4 (עַיִן
 1.i.).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Pi`el
 Parfait 3 masculin singulier קִיַּם
 Est 9,31
@@ -431,7 +431,7 @@ Now, ou קָמִים
 GASm
 Buhl.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Hithpolel
 se dresser, = se lever : Participe féminin singulier
 
@@ -458,7 +458,7 @@ aussi Ps
 קוּט
 .
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 Hiphil_146_
 Parfait 3 masculin singulier הֵקִים
 Jos 4,9 + ; 2
@@ -727,7 +727,7 @@ faire subsister le nom du mort sur son héritage
 Qal
 7.i).
 
-@@SPLIT:stem@@
+## SPLIT 5 stem
 Hoph`al
 Parfait 3 masculin singulier הֻ֫קַםעָ֑ל
 2 S

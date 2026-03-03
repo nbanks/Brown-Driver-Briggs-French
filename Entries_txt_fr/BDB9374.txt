@@ -3,7 +3,7 @@ araméen biblique
 
 [בְּלַא] verbe
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pa`el
 user (hébreu biblique

@@ -17,14 +17,14 @@ resserrer, assyrien [
 kapâtu
 ] II. rassembler) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Peil
 Parfait 3 masculin pluriel כְּ פִ֫תוּ, (W^CG
 224^) Dn 3,21
 ils furent liés.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pael
 lier : Infinitif

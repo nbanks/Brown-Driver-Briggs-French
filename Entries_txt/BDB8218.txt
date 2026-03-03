@@ -17,7 +17,7 @@ Job 23:2,
 שִׂיחוֺ
 2Kgs 9:11; Ps 102:1 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 plaint, complaint:
@@ -33,7 +33,7 @@ Ps 102:1;
 Ps 142:3.
 Following are dubious:
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 musing, 1Kgs 18:27 (
@@ -49,7 +49,7 @@ talk); Ps 104:34 of man (Buhl
 SS. Bae
 'Rede, oder Gesang'). — See also [שֵׂחַ] below
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 anxiety, trouble:
@@ -62,7 +62,7 @@ anxiety, trouble:
 by כַּעַס, compare HPS; so Buhl
 SS, but perhaps = 1).
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 talk:

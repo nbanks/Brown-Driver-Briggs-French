@@ -5,11 +5,11 @@ Biblical Hebrew
 proper name, masculine (gatherer, compare Phoenician proper name, feminine
 אספת)
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. father of יוֺאָח the recorder 2Kgs 18:18; 2Kgs 18:37 = Isa 36:3; Isa 36:22.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. one of David's chief musicians, a Levite, son of Berechiah 1Chr 6:24 (twice in verse) (|| הֵימָן
 v.1Chr 6:18
@@ -42,7 +42,7 @@ Neh 11:17,
 Neh 12:35,
 called בֶּןאָֿסָף, see these names.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. keeper of king's park Neh 2:8.
 

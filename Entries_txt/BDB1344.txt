@@ -23,7 +23,7 @@ t., בְּרָקָיו
 Ps 97:4 —
 lightning,
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. literal mostly plural = lightnings, lightning-flashes
 Exod 19:16;
@@ -42,7 +42,7 @@ Dan 10:6 swift
 destruction Zech 9:14
 .
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 figurative (always singular) of flashing arrow-head Job 20:25, compare חרב

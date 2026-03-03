@@ -14,11 +14,11 @@ Es 1,21 + ;
 construit קִרְיַת
 Nb 21,28 + ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. en général Dt 2,36 ; Dt 3,4.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. de villes spécifiques, Os 6,8 (גִּלְעָד,
 
@@ -51,7 +51,7 @@ Es 22,2 (||
 עִיר
 הוֺמִיָּה), Es 32,13.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. dans Es 24-26 collectif, c.-à-d. désignant diverses villes représentatives,
 תֹּהוּ
@@ -71,7 +71,7 @@ Es 25,2,
 Es 26,5 de même
 probablement Ha 2,8 ; Ha 2,17.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4. indéfini, Ha 2,12 (|| עִיר) ; Pr 29,8, עֹז
 ׳

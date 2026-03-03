@@ -18,7 +18,7 @@ Gen 4:22 + 74 t. (
 בַּרְזֶל֑
 Gen 4:22 etc.); —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 iron, literal:
@@ -75,7 +75,7 @@ Ezek 4:3
 בְּרִיחֵי ב, i.e. of Babylon, ag. Cyrus Isa 45:2 compare 1Sam 17:7 & Isa 60:17 (twice in verse)
 (figurative)
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 tool of iron Deut 27:5; Josh 8:31; Prov 27:17 (twice in verse); Eccl 10:10; Isa 10:34
@@ -96,7 +96,7 @@ Num
 Josh
 22:8 where iron as spoil of war.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 iron in figure of unwatered earth Deut 28:23 of Egyptian bondage, ׳

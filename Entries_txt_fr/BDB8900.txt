@@ -10,7 +10,7 @@ Pael Lm 3,11
 
 déchirer en morceaux (pour HCT פִּשֵּׁחַ)) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Participe (avec accusatif de sens apparenté au verbe שֶׁ֫סַע) : masculin singulier
@@ -30,7 +30,7 @@ P
 הַפַּרְסָה הַשְּׁסוּעָה
 Dt 14,7.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 déchirer en deux, un lion, un chevreau, Imparfait, Infinitif construit

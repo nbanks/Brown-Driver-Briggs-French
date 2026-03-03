@@ -3,7 +3,7 @@ Biblical Hebrew
 
 II. [שָׁבַח] verb
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pi`el
 laud, praise (late Aramaism, compare Aramaic (including Old Aramaic) שׁבח,
@@ -33,7 +33,7 @@ compare); mirth, as best thing, Perfect 1 singular שִׁבַּחְתִּי
 Eccl 8:15
 .
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hitph.
 boast of (בְּ): Infinitive construct

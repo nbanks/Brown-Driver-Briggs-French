@@ -15,7 +15,7 @@ concerner, aussi être occupé par ;
 Qo 42,8
 marge) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Infinitif
 עֲנוֺתִ

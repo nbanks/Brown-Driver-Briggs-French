@@ -8,7 +8,7 @@ Kt
 Qr
 , denominative from חצצרה = sound a clarion —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pi`el
 Participle
@@ -19,7 +19,7 @@ Qr
 
 מְחַצְּרִים) = players on clarions.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Participle

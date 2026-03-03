@@ -18,7 +18,7 @@ Wetzst^ZMG xxii. 1868, 140^;
 [placeholder2834: Placeholders/2834.gif]
 adhérer ou coller à); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait
 ׳
@@ -79,7 +79,7 @@ E
 Niph`al
 3).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Niph`al
 Parfait
 נִלְכַּד
@@ -131,7 +131,7 @@ E
 Qal
 3).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Hithpa`el
 Imparfait 3 masculin pluriel; יִתְלַכְּדוּ וְלֹא יִתְפָּרָ֑דוּ
 

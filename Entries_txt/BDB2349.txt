@@ -12,7 +12,7 @@ Zim^BP^; Aramaic דְּכָא,
 be bright (of a fire), pungent (of an odour); be acute,
 quick of mind) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect 3 masculine singular יִזְכֶּה
@@ -33,7 +33,7 @@ Job 25:5).
 be clear, be justified = be regarded as just, righteous, of God, Ps 51:6 (|| תצדק),
 Mic 6:11.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Perfect 1 singular זִכִּיתִי
@@ -52,7 +52,7 @@ Prov 20:9
 Ps 119:9
 .
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hithpa`el
 Imperative masculine plural הִזַּכּוּ

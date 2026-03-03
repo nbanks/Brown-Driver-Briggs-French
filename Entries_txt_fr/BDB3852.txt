@@ -20,7 +20,7 @@ Ex 23,11 + 2
 t. (pas Jb 4,21,
 q.v. ci-dessous II. יֶתֶר) ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 
 a.
@@ -84,7 +84,7 @@ le reste des actes de, dans les résumés des règnes des rois d'Israël et de J
 2 Ch 28,26
 .
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 
 a.
@@ -116,7 +116,7 @@ Jb 22,20
 Ps 17,14
 .
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3.
 supériorité, excellence
 יֶתֶר שְׂאֵת וְיֶתֶר עָ֫ז

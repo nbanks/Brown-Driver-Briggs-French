@@ -5,7 +5,7 @@ Biblical Hebrew
 noun [masculine]
 skill, success; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 skill, בְּחָכְמָה וּבְדַעַת וּבְכִשְׁר֑וֺן
@@ -15,7 +15,7 @@ construct כָּלכִּֿשְׁרוֺן
 Eccl 4:4
 all skill of work = skilful work.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 success, profit, וּמַהכִּֿשְׁרוֺן לִבְעָלָיהָ

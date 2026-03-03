@@ -5,12 +5,12 @@ III. [מָלַח] verb
 denominative
 salt, season;
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect 2 masculine singular תִּמְלָ֑ךְ followed by accusative Lev 2:13 (object offering).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pu`al
 Participle
@@ -18,7 +18,7 @@ Participle
 Exod 30:35
 salted, i.e. the incense (see Di.)
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hoph`al
 Perfect 2 feminine singular + Infinitive absolute

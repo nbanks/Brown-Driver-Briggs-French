@@ -16,7 +16,7 @@ send messenger, etc., but then different √ for I. שֶׁלַךְ, Arabic
 weapon; Assyrian probably šalû (send, hurl?),
 whence tešlitu, command); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal_562_
 Perfect 3 masculine singular ׳
@@ -157,7 +157,7 @@ Jer 7:25
 ; Jer
 19:14 +; + עַד location 2Kgs 2:2, accusative
 of location 2Kgs
-2:4, ָ  ה locative 2Kgs 2:6, etc.
+2:4, ָ ה locative 2Kgs 2:6, etc.
 
 b. with accusative of thing, plagues Exod 9:14 (with אֶללֵֿב,
 ב person), figurative arrows 2Sam 22:15 = Ps 18:15( + verb
@@ -265,7 +265,7 @@ let loose (see
 Pi`el), perhaps only Ps 50:19 (figurative) thy
 mouth hast thou let loose in evil.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Infinitive absolute. וְנִשְׁלוֺחַ סְפָרִים =
@@ -273,7 +273,7 @@ letters were sent (Ges
 ^«GKC:113z»§ 113z^ «GKC:113gg»gg) Esth 3:13 ( + אֶל
 person, בְּיַד agent., infinitive purpose).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el_266_
 Perfect 3 masculine singular שִׁלַּח
@@ -500,7 +500,7 @@ Bu
 Be and others dittograph from Job 30:11
 b.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Pu`al
 Perfect 3 masculine singular שֻׁלַּךְ
@@ -548,7 +548,7 @@ Prov 29:15
 
 a boy let loose (unrestrained).
 
-@@SPLIT:stem@@
+## SPLIT 5 stem
 
 Hiph`il
 Perfect 1 singular וְהִשְׁלַחְתִּ֫י

@@ -22,7 +22,7 @@ Ez 21,20 ;
 Ez 48,34,
 etc. ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 
@@ -202,7 +202,7 @@ Ez
 48,31, trois de chaque côté, nommées d'après les tribus, Ez 48,31 Ez 48,31 Ez
 48,31 Ez 48,31 + 12 t. Ez 48.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 
@@ -307,7 +307,7 @@ Pr 14,19
 (peut-être comparer Jg 18,16
 1.a. ci-dessus).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 
@@ -413,7 +413,7 @@ Ex 35,17
 + 6 t. Exode + Nb
 4,36.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 figuré

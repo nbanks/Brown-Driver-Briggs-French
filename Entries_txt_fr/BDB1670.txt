@@ -32,7 +32,7 @@ Stu
 Jg 10,4
 Bd^Pal 178^ ; aussi L. Oliphant^Land of Gilead, 1880^) ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1. territoire au sud du Yabboq,
 
 a.
@@ -158,7 +158,7 @@ Jg 11,29
 1 Ch 26,31
 .
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2. Galaad septentrional,
 
 a.
@@ -255,7 +255,7 @@ Ke
 Be ; contre cela comparer Stu
 Bu^RS 112.^
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3. plus généralement, de tout Galaad,
 
 a.
@@ -297,7 +297,7 @@ Dt 34,1
 ׳
 הַגּ aussi en sens général Ez 47,18 ; 2 R 15,29 (?) Ab 1,19.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 4.
 ׳
 ג, nom d'une ville Os 6,8 (& Jg 10,17 ? comparer
@@ -312,7 +312,7 @@ Gn 31,54
 et
 références
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 5.
 ׳
 אֶרֶץ הַגּ des Israélites vivant à l'est du Jourdain (dans leur ensemble) Jg 20,1
@@ -326,7 +326,7 @@ Jg
 12,5 (|| ׳
 אַנְשֵׁי ג Jg 12,4 Jg 12,4 Jg 12,5) Os 12,12. comparer aussi גִּלְעָדִי ci-dessous
 
-@@SPLIT:sense@@
+## SPLIT 6 sense
 6. traité comme nom propre, masculin
 
 a.

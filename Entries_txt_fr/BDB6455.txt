@@ -15,7 +15,7 @@ eš‡u
 [placeholder4131: Placeholders/4131.gif]
 rudesse, injustice) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait
 ׳
@@ -98,7 +98,7 @@ Pr 28,17
 
 opprimé (? accablé) par le sang d'une personne.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Pu`al
 Participe féminin הַמְּעֻשָּׁקָה
 Es 23,12

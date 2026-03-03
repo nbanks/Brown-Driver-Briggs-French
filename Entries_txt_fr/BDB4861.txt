@@ -23,7 +23,7 @@ id. ; arabe
 mesure, comparer Dl^Prol. 178^
 Frä^282^)) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait 3 masculin singulier ׳
 מ
@@ -170,7 +170,7 @@ P
 ) ; קדשׁ קדשׁים
 Dn 9,24.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Niph`al
 Parfait 3 masculin singulier נִמְשַׁח
 1 Ch 14,8

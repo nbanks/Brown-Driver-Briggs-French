@@ -6,20 +6,20 @@ nom masculin^
 Ez 1,8
 ^
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 quart.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2. pluriel quatre côtés ;
 —
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 1.
 ׳
 ר construit, quart, de sicle 1 S 9,8, de hin Ex 29,40.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 2. dans Ézéchiel, pluriel suffixe quatre côtés (אַרְבַּעַת
 toujours précédant) : רְבָעָיו
 Ez 43,16

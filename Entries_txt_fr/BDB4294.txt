@@ -54,7 +54,7 @@ mais
 
 II. habituellement des hommes :
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 l'homme intérieur par opposition à l'extérieur, כלה שׁארי ולבבי
 ma chair et mon cœur (âme) défaillent
@@ -74,7 +74,7 @@ Na 2,7 (intérieur
 pour
 extérieur).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2. l'homme intérieur, indéfini l'âme,
 englobant
 esprit, affections et volonté, ou, en rapport avec certains verbes, se référant plus spécifiquement à l'un
@@ -140,7 +140,7 @@ Ps 139,23
 Es 7,2 ; Dn 11,27 ;
 Dn 11,28.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3. référence spécifique à l'esprit (caractéristique de לבב) :
 
 a.
@@ -267,7 +267,7 @@ sur l'esprit
 Dt 6,6
 .
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 4. référence spécifique aux inclinations, résolutions, déterminations de la volonté
 
 (caractéristique de ׳
@@ -324,13 +324,13 @@ Ex 14,5 (
 E
 ).
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 5. référence spécifique à la conscience
 לא יחרף לבבי
 mon cœur (conscience) ne me reprochera pas
 Jb 27,6.
 
-@@SPLIT:sense@@
+## SPLIT 6 sense
 6. référence spécifique au caractère moral (caractéristique de ׳
 
 ל) : Dieu éprouve le ׳
@@ -440,7 +440,7 @@ Dt 15,7 ;
 הקשׁה ל
 Ps 95,8.
 
-@@SPLIT:sense@@
+## SPLIT 7 sense
 7. = l'homme lui-même (sens caractéristique de נֶפֶשׁ
 )
 ׳
@@ -479,7 +479,7 @@ Ps 69,33
 Ps
 119,175).
 
-@@SPLIT:sense@@
+## SPLIT 8 sense
 8. spécifiquement comme siège des appétits (pour lequel habituellement
 
 נֶפֶשׁ
@@ -494,7 +494,7 @@ le vin réjouit le cœur
 Ps 104,15
 .
 
-@@SPLIT:sense@@
+## SPLIT 9 sense
 9. spécifiquement du siège des émotions et des passions (pour lequel
 habituellement
 נפשׁ) :
@@ -562,7 +562,7 @@ Jos
 14,8
 , où לֵב erreur).
 
-@@SPLIT:sense@@
+## SPLIT 10 sense
 10.
 siège du courage (pour lequel habituellement רוּחַ), יָעֵר כֹּחוֺ
 וּלְבָבוֺ

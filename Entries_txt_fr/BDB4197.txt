@@ -5,7 +5,7 @@ hébreu biblique
 dénominatif
 cultiver des vignes, tailler les vignes, seulement
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Participe pluriel vignerons
 כֹּרְמִים

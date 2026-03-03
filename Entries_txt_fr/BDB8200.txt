@@ -9,7 +9,7 @@ t. ; construit Qo 7,6
 absolu שְׂחוֺק
 Jr 20,7 + 7 t. ; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 rire (joyeux) Jb 8,21 (|| תְּרוּעָה), Ps 126,2 (|| דִנָּה
@@ -21,7 +21,7 @@ rire (joyeux) Jb 8,21 (|| תְּרוּעָה), Ps 126,2 (|| דִנָּה
 שׂ
 Qo 7,6.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. (objet de) dérision, ׳
 הָיָה לִשׂ, Jr 20,7 ; Jr 48,26 ; Jr 48,27 (lire ׳
@@ -43,7 +43,7 @@ Du ; Co supprime les vv), Jr 48,39 ; Lm 3,14 ailleurs
 Jb 12,4 (deux fois dans
 le verset)
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 jeu

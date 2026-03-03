@@ -12,7 +12,7 @@ Gen 12:12 + 5
 t.; feminine plural מִצְרִיֹּת
 Exod 1:19 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. adjective ׳
 אִישׁ מ = an Egyptian
@@ -31,7 +31,7 @@ Gen 16:1,
 כַּנָּשִׁים הַמִּצְרִיֹּת
 Exod 1:19.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. with article = substantive the Egyptian
 Gen 39:2; Gen 39:5; Exod 2:12; Exod 2:14; 2Sam 23:30

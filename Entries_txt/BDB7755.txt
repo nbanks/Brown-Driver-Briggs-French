@@ -8,7 +8,7 @@ Arabic
 [placeholder4967: Placeholders/4967.gif]
 disturb, Ba^ES 8^); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -19,7 +19,7 @@ Isa 51:15
 רֹגַע הַיָם
 וַיֶהֱמוּ גַלָּיו.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 denominative from

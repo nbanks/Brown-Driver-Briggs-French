@@ -8,7 +8,7 @@ dip, bathe; compare perhaps Arabic
 [placeholder2061: Placeholders/2061.gif]
 saturavit tinctura vestem, Frey) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -52,7 +52,7 @@ Lev 14:16
 2. intransitive, dip (oneself), followed by בְּ, 2Kgs 5:14 in
 Jordan (|| רָחַץ בְּ 2Kgs 5:10 2Kgs 5:12).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 Perfect 3 masculine plural נִּטְבְּלוּ

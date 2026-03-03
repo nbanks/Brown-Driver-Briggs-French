@@ -9,7 +9,7 @@ separation, concrete part (
 לְבַדְּהֶן, Gen 21:29
 לְבַדָּ֫נָה; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. with לְ, only in singular, לְבַד properly in a state
 of (see below לְ) separation, alone, by itself (French
@@ -101,7 +101,7 @@ suffix Deut 4:35
 Isa 45:21
 ).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. concrete part
 Exod 30:34
@@ -112,7 +112,7 @@ P
 part for (i.e. like; compare בְּ
 III.3. end) part shall it be.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 בַּדִּים

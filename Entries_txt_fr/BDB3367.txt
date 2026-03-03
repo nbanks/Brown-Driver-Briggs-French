@@ -12,7 +12,7 @@ souiller ; assyrien
 , enduire (?), Dl^Pr 48^ ;
 HWB) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait 3 pluriel טָֽפְלוּ
 Ps 119,69

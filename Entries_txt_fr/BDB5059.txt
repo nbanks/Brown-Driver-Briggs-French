@@ -21,7 +21,7 @@ Es 32,18,
 מְנֻחוֺת
 Ps 23,2 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 lieu de repos
 Mi 2,10 ; Nb 10,33 (
@@ -60,7 +60,7 @@ Gie et autres) ; figuré pour sécurité, assurance 2 S 14,17
 (tiré du repos, de l'équilibre, d'une balance selon
 Klo).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 repos, tranquillité, pluriel מֵי מְנֻחוֺת
 Ps 23,2 =

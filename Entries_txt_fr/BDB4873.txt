@@ -17,7 +17,7 @@ devenir semblable ; araméen מְתַל
 [placeholder3112: Placeholders/3112.gif]
 comparer).
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Niph`al
 Parfait 3 masculin singulier נִמְשַׁל
 Ps 49,13 ; Ps 49,21 2
@@ -32,13 +32,13 @@ Ps 28,1 = Ps 143,7
 כְּ
 Ps 49,13 ; Ps 49,21.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Hiph`il
 Imparfait 2 masculin pluriel suffixe וְתָמְשִׁלוּנִי
 comparer
 Es 46,5.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Hithpa`el
 Imparfait 1 singulier וָאֶתְמַשֵּׁל
 Jb 30,19

@@ -3,17 +3,17 @@ Biblical Hebrew
 
 [סָעִיף] noun [masculine]
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 cleft.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 branch; —
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 1.
 cleft of a crag, construct סְעִיף סֶלַע
@@ -24,7 +24,7 @@ Isa 2:21
 סְעִיפֵי הַסּ
 Isa 57:5.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 2.
 branches, boughs, plural construct סְעִפֵֿי הַפֹּרִיָּה

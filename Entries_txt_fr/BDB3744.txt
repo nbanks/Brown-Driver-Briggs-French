@@ -3,7 +3,7 @@ hébreu biblique
 
 יַרְמוּת
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 nom propre [d'un lieu]
 1.
 
@@ -22,7 +22,7 @@ P
 ), comparer
 Ne 11,29.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 
 ᵐ5

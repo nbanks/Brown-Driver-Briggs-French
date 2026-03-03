@@ -4,13 +4,13 @@ hébreu biblique
 חֶצְרוֺנִי, חֶצְרֹנִי
 adjectif [d'un peuple] seulement avec l'article comme nom collectif
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 הַחצרוני
 Nb 26,6, de
 2.a. ci-dessus
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 החצרני Nb 26,21, de 2.b. ci-dessus
 

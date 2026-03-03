@@ -11,7 +11,7 @@ hébreu biblique ; éthiopien
 mesurer
 Di^404^) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal_27_
 Parfait 3 masculin singulier ׳
 ס
@@ -84,7 +84,7 @@ Che lit סִפַּרְתִּי d'après
 
 ).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Niph`al
 Imparfait 3 masculin singulier יִסָּפֵר
 Os 2,1 + 4
@@ -111,7 +111,7 @@ J
 1 Ch 23,3
 .
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Piel_67_
 Parfait 1 singulier סִפַּ֫רְתִּי
 Ps
@@ -214,7 +214,7 @@ Ps
 je puis compter exactement tous mes os (dans un corps amaigri). — Ps 40,6 voir ci-dessous
 1, Jb 38,37 lire יִסְפֹּר.
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 Pu`al
 être raconté, relaté, récité : Parfait 3 masculin singulier סֻפַּר
 לְ

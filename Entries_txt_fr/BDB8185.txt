@@ -22,7 +22,7 @@ CIS^iv. 1^ ; arabe
 שׂוּם, syriaque
 [placeholder5229: Placeholders/5229.gif] ancien araméen שים) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait 3 masculin singulier שָׂם
 Gn 21,14 +
@@ -816,7 +816,7 @@ Ne 8,8
 
 donnant l'intelligence (rendant le sens clair).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Hiph`il
 Parfait 1 singulier consécutif וַהֲשִׂמֹתִיהוּ
 Ez 14,8,
@@ -848,7 +848,7 @@ Jb 4,23
 b), mais expression douteuse, et texte peut-être corrompu, voir Me
 Nö^l.c.^
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Hoph`al
 Imparfait 3 masculin singulier וַּיּוּשׂם
 Gn 24,33

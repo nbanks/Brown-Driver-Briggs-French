@@ -59,7 +59,7 @@ Ex 26,19
 יְדוֺתָם
 1 R 7,33 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 main de l'homme
 Gn 3,22 ; Gn 4,11 ; Gn 8,9 + souvent ;
@@ -456,7 +456,7 @@ Es 49,2
 à l'ombre de sa main (celle de ׳
 י).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 figuré = force, puissance : — לָנוּס לֹא הָיָה בָהֶם יָדָיִם
 
@@ -533,7 +533,7 @@ J
 י
 a accomplie.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 3.
 figuré = côté :
 
@@ -592,7 +592,7 @@ Nb 2,17 (
 P
 ) ; — voir autres expressions avec préposition ci-dessous
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 4.
 יָד est employé dans divers sens spéciaux, techniques : —
 
@@ -655,7 +655,7 @@ Du et la plupart = un phallus tu contemples
 
 une main (qui fait signe).
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 5.
 יַד avec prépositions : —
 

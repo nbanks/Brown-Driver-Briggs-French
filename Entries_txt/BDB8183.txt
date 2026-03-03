@@ -5,7 +5,7 @@ Biblical Hebrew
 proper name [of a location]
 in Judah:
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. in Shephelah, שׂוֺכֹה
 Josh 15:35;
@@ -28,7 +28,7 @@ Eš-Šuw¢ke
 Rob^BR 1. 494^
 Buhl^Geogr. 194^; Σωχω, Σοκχωθ, etc.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. in hill-country, Josh 15:48 (
 Kt

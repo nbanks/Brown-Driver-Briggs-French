@@ -10,7 +10,7 @@ verbe
 שְׁקַט (rare) ; hébreu tardif שׁקט est s'enfoncer ; arabe
 [placeholder5708: Placeholders/5708.gif] est tomber) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Parfait 3 masculin singulier consécutif ׳
@@ -107,7 +107,7 @@ il ne sera pas tranquille tant qu'il n'aura pas terminé l'affaire ; du prophèt
 
 se taire).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hiph`il
 Imparfait 3 masculin singulier יַשְׁקִיט

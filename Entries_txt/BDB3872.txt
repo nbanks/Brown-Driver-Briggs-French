@@ -23,12 +23,12 @@ kama, like as, Di
 Gr^§ 63 a^ Sabean כמו^ZMG 1883, 394^) —
 used
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 (56 t.) as an independent word (except Gen 19:15; Neh 9:11, only in poetry);
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 as an equivalent for כְּ before suffixes, always before light ones, and
@@ -37,7 +37,7 @@ occasionally before heavy ones (see
 at the beginning):
 —
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 1.
 
@@ -100,7 +100,7 @@ Zech 10:8
 Prov 23:7
 (answered by כֵּן). —
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 For 2 (before suffixes), see עכּ.
 
 ---

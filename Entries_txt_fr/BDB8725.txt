@@ -4,7 +4,7 @@ hébreu biblique
 [שָׁלַךְ]_125_
 verbe
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Hiphil_112_
 jeter, lancer, projeter (phénicien שלד dans comparer nom propre, sens douteux ;
 arabe
@@ -212,7 +212,7 @@ Jb
 29,17
 de ses dents j'arrachais la proie.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Hoph`al
 Parfait 3 masculin singulier הֻשְׁלַח
 Dn 8,11

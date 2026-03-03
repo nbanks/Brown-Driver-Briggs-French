@@ -4,7 +4,7 @@ Biblical Hebrew
 רָ(א)מַת
 proper name [of a location] construct, in combination:
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 רָמַת לֶחִ֑י
@@ -13,7 +13,7 @@ II.
 לְחִי
 p.534.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 רָמַת
@@ -35,7 +35,7 @@ A
 
 Buhl^Geogr. 262.^
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 רָאמַת נְ֫גֶב

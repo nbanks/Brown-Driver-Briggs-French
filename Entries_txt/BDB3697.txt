@@ -6,7 +6,7 @@ awake (Arabic
 [placeholder2290: Placeholders/2290.gif]
 wake, be awake) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Imperfect

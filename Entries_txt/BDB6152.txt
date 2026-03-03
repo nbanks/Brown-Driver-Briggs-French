@@ -9,22 +9,22 @@ Gray^Prop. N. 254^); —
 
 Αμος(με)ιηλ:
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. east Jordan name 2Sam 9:4; 2Sam 9:5; 2Sam 17:27.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. a Danite Num 13:12 (
 P
 ).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. David's father-in-law 1Chr 3:5 (= אֱלִיעָם
 2Sam 11:3).
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4. son of Obed Edom 1Chr 26:5.
 

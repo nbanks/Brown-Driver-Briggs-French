@@ -13,7 +13,7 @@ construit פְּלֵיטַת
 2 R 19,30 + ;
 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 délivrance, salut
 Gn 45,7 (
@@ -22,7 +22,7 @@ E
 ) Jr
 25,35.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2. ailleurs probablement toujours reste échappé :
 
 a. de choses vertes (des sauterelles) Ex 10,5 (

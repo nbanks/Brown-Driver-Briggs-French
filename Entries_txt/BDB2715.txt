@@ -10,7 +10,7 @@ live (Late Hebrew Phoenician id.; Arabic
 [placeholder1739: Placeholders/1739.gif], חֲיָא; Palmyrene חיי
 life, life-time, Vog^32, 74^) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal_203_
 Perfect
@@ -265,7 +265,7 @@ Ezek 37:10
 Ezek
 37:14 (and so Judg 15:19 c).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Pi`el
 Perfect 3 masculine singular חִיָּה
@@ -366,7 +366,7 @@ revive, the people of ׳
 119:93; Ps 119:107; Ps 119:149; Ps 119:154; Ps
 119:156; Ps 119:159; Ps 143:11; Eccl 7:12.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Perfect

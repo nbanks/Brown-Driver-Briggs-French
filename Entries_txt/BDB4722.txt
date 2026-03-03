@@ -20,7 +20,7 @@ Ps 20:4
 מִנְחֹתֵיבֶם
 Num 29:39; Amos 5:22 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 gift, present Gen 32:14; 32:19; 32:21; Gen 32:22 (
@@ -42,7 +42,7 @@ J
 = Isa 39:1;
 Ps 45:13; 2Chr 32:23.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 tribute
@@ -60,7 +60,7 @@ in verse); 2Sam 8:2
 ; Ps 72:10
 .
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 offering made to God, of any kind, whether grain or animals Gen 4:3; Gen 4:4; Gen 4:5; Num 16:15 (
@@ -89,7 +89,7 @@ Amos 5:22 (
 עֹלוֺת gloss, to explain אָרִיחַ); or these may shew early stage of
 discrimination.
 
-@@SPLIT:sense@@
+## SPLIT 4 sense
 
 4.
 grain offering (whether raw, roasted, ground to flour, or prepared as bread or cakes, see below.
@@ -141,7 +141,7 @@ Ezra 9:5; Dan 9:21; Ps 141:2
 continual grain off. Neh 10:34, compare Lev 6:13; Num 4:16 (all cases under 4
 exilic or post-exilic).
 
-@@SPLIT:sense@@
+## SPLIT 5 sense
 
 5.
 grain-offering, always with this meaning in
@@ -200,7 +200,7 @@ Lev 2:14
 מ
 Lev 6:14.
 
-@@SPLIT:sense@@
+## SPLIT 6 sense
 
 6. verbs of offering are הֵבִיא
 Gen 4:3 (

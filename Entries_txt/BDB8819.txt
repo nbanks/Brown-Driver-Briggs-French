@@ -20,7 +20,7 @@ MI^28^
 
 obedience); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal_1052_
 Perfect 3 masculine singular ׳
@@ -413,7 +413,7 @@ P
 ); object omitted 2Kgs 22:19; Ps 22:23 + 3 t. + Ps 34:7; Ps
 34:18 (hear and deliver); with temporal clause Jer 11:14
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al_42_
 Perfect 3 masculine singular נִשְׁמַע
@@ -475,7 +475,7 @@ Qal. compare Now).
 = (favourable)
 hearing was granted to their voice
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Pi`el
 Imperfect 3 masculine singular וַיְשַׁמַּע
@@ -486,7 +486,7 @@ hear and respond, i.e. he assembled them), so 1Sam 23:8 (see
 Hiph`il
 1.c.).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hiph`il_63_
 Perfect 3 masculine singular הִשְׁמִיעַ

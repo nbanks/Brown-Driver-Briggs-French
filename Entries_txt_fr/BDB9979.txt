@@ -4,7 +4,7 @@ araméen biblique
 [שְׁפֵל] verbe
 être bas (voir hébreu biblique) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Haph`el
 abaisser, humilier : Parfait 2 masculin singulier הַשְׁפֵּלְתְּ לִבְבָח

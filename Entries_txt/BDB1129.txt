@@ -12,7 +12,7 @@ t.; בְּלִיָּ֑עַל
 Ps 101:3 + 5
 t.; — the quality of being useless, good for nothing.
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. abstract אִישׁ
 (ה)בליעל, אַנְשֵׁי הבליעל, worthless, good-for-nothing, base fellows
@@ -50,7 +50,7 @@ We
 Dr); ׳
 דָּבָרב֗֗֗ (elliptical and in apposition) Deut 15:9.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2. concrete elliptical of ׳
 אישׁ ב
@@ -60,7 +60,7 @@ Dr); ׳
 אָדָם בְּלִיַּעַל
 Prov 6:12.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 ruin, destruction: so Ps 41:9 according to De

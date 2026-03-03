@@ -11,7 +11,7 @@ Gen 33:13
 feminine plural absolute רַכּוֺת
 Gen 29:17; Job 40:27 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 tender of flesh Gen 18:7 (
@@ -32,13 +32,13 @@ delicate, weak, of eyes Gen 29:17 (
 E
 ).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 רֵךְ (ה)לֵבָב
 weak of heart, timid, Deut 20:8 ( + יָרֵא), 2Chr 13:7 (נַעַד).
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 soft, of words, absolute רַכּוֺת

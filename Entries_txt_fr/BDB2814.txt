@@ -14,7 +14,7 @@ Jr 12,10
 Jb 24,18
 portion de terrain,
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1. surtout
 
 a.
@@ -57,7 +57,7 @@ We lit הַצֹּדִים
 ח
 champ des comploteurs ou embusqués (voir Dr).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 portion de terrain assignée à quelqu'un, מחקק
 ׳

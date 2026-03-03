@@ -15,7 +15,7 @@ id. ; syriaque
 
 צְעַר transitif mépriser, injurier ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Imparfait (opposé à כָּבֵד), 3 masculin pluriel יִצְעֲרוּ
 Jb 14,21,

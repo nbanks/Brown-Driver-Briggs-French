@@ -31,7 +31,7 @@ plural absolute מַקְלוֺת
 Gen 30:37 + 6
 t.; —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1. branch of tree as rod, stick, used by Jacob in breeding his flocks, Gen 30:37 (
 לִבְנֶה לַח
@@ -52,7 +52,7 @@ figurative of Moab תִּבְּאָרָה
 Jer 48:17 (||
 מַטֵּהעֹֿז).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 staff, used in journeying Gen 32:11; Exod 12:11; 1Sam 17:40 compare 1Sam 17:43 carried even when riding Num 22:27 so
@@ -63,7 +63,7 @@ Da
 Berthol; < a weapon ( + מָגֵּן, צִנָּה
 , קֶשֶׁת, חִצִּים, רֹמַח.
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3.
 wand of diviner Hos 4:12.

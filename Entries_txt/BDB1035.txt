@@ -11,7 +11,7 @@ become separated, be distinct, IV. speak perspicuously; Ethiopic
 make to understand, compare Sabean בין (the)
 wise, as epithet, Mordt^ZMG 1876, 37^) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect
@@ -145,7 +145,7 @@ have discernment, insight, understanding
 Jer 49:7
 .
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Niph`al
 נְבֻנוֺתִי
@@ -199,7 +199,7 @@ Deut 4:6
 Deut 1:13
 .
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Po. יְבוֺנְַנֵהוּ
 he attentively considereth him
@@ -207,7 +207,7 @@ Deut
 32:10
 .
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 
 Hiph`il
 Perfect
@@ -325,7 +325,7 @@ teacher
 1Chr 15:22; 1Chr 25:7; 1Chr 25:8; 1Chr 27:32; Ezra
 8:16.
 
-@@SPLIT:stem@@
+## SPLIT 5 stem
 
 Hithpa`el
 Perfect

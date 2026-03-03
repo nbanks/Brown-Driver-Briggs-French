@@ -18,7 +18,7 @@ Ps 45:1
 יְדִידוֺת
 Ps 84:2 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 my beloved, used by prophets of ׳
@@ -31,14 +31,14 @@ beloved, of Benjamin as beloved by ׳
 י
 Deut 33:12.
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 lovely, מַהיְּֿדִידוֺת מִשְׁכְּנוֺתֶיךָ
 Ps 84:2
 how lovely are thy habitations !
 
-@@SPLIT:sense@@
+## SPLIT 3 sense
 
 3. feminine plural as abstract substantive שִׁיר יְדִידֹת
 Ps 45:1 =

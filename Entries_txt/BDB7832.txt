@@ -10,7 +10,7 @@ Niph`al
 Hiph`il
 3]? so Thes); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perfect 3 plural כְּפִירִים רָשׁוּ וְרָעֵ֑בוּ
@@ -34,7 +34,7 @@ men), 2Sam 12:3; Ps 82:3; Eccl 5:7, especially Prov 10:4; Prov 13:8
 ; Prov 13:23
 + 12 t. Proverbs.
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Hithpo`lel
 Participle

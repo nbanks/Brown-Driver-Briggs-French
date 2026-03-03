@@ -4,7 +4,7 @@ Biblical Aramaic
 [דִּין] verb
 judge (Biblical Hebrew); —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pe`al
 Participle plural דָּאֲנִין

@@ -10,7 +10,7 @@ muse, especially Ethpa`al; Arabic
 [placeholder1238: Placeholders/1238.gif]
 satirize, insult, scold, also spell (borrowed meaning)) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Qal
 Perf. 2 masculine singular וְהָגִ֫יתָ consecutive Josh 1:8 1 singular הָגִ֫יתִי
@@ -73,7 +73,7 @@ b.
 imagine, devise, with accusative Ps 2:1; Prov 24:2 (subject לֵב
 ); with Infinitive Prov 15:28 (subject id.)
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 
 Po.
 Infinitive absolute only הֹרוֺ וְהֹגוֺ מִלֵּב
@@ -91,7 +91,7 @@ Ba^NB 77 retains^
 
 & explanation as Qal Infinitive passive
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 
 Hiph`il
 Participle plural הַמְּצַפְצְפִים

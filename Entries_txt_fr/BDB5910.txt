@@ -18,7 +18,7 @@ aveugle, Pael עַוַּר,
 être aveugle
 Di^995^) ; —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 
 Pi`el
 Parfait 3 masculin singulier עִוֵּר

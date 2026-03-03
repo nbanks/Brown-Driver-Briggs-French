@@ -5,7 +5,7 @@ II. [חלל] verbe
 dénominatif
 jouer de la flûte, jouer du chalumeau —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Participe pluriel וְשָׁרִים כְּחֹלֲלִים
 Ps 87,7
@@ -19,12 +19,12 @@ De
 Che
 Bae et autres
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Polel
 Participe de 1. חוּל
 danseurs.
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Pi`el
 Participe
 וְהָעָם מְחַלְּלִים בַּחֲלִלִים

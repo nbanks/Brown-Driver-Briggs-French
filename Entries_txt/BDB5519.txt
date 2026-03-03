@@ -12,7 +12,7 @@ Amos 3:7; Prov 3:32
 סֹדָם
 Gen 49:6 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 
 1.
 council, in familiar conversation; —
@@ -62,7 +62,7 @@ Ps 89:8
 Gen 49:6
 (|| קהל).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 
 2.
 counsel, taken by those in familiar conversation:

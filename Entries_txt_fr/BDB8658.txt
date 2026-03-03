@@ -20,7 +20,7 @@ Gn 49,4 +, suffixe
 Os 7,14 +, etc. ;
 —
 
-@@SPLIT:sense@@
+## SPLIT 1 sense
 1.
 couche, lit (37 t.), 2 S 4,11 ; Os 7,14 ; Mi 2,1 ; 1 R 1,47 ; Ct 3,1 + ;
 ׳
@@ -45,7 +45,7 @@ J
 מ Inscription Tabnit 8 et peut-être inscription juive
 Cooke 341).
 
-@@SPLIT:sense@@
+## SPLIT 2 sense
 2.
 acte de se coucher :
 

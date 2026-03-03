@@ -14,7 +14,7 @@ Hal^682^; éthiopien
 [placeholder2069: Placeholders/2069.gif]
 purifier, se laver avec de l'eau) —
 
-@@SPLIT:stem@@
+## SPLIT 1 stem
 Qal
 Parfait
 ׳
@@ -92,7 +92,7 @@ Pr 20,9 (||
 Jb 4,17
 un homme sera-t-il plus pur que son créateur ? (|| יִצְדָּ֑ק).
 
-@@SPLIT:stem@@
+## SPLIT 2 stem
 Pi`el
 Parfait
 טִהַר
@@ -183,7 +183,7 @@ Lv 14,11
 P
 ).
 
-@@SPLIT:stem@@
+## SPLIT 3 stem
 Poual
 Parfait 3 masculin singulier טֹהַר
 1 S
@@ -214,7 +214,7 @@ SS lisent un pays non arrosé de pluie, voir
 מטר
 ).
 
-@@SPLIT:stem@@
+## SPLIT 4 stem
 Hithpa`el
 Parfait 3 pluriel הִטָּֽהֲרוּ
 
