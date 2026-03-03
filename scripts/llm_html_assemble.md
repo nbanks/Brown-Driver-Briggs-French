@@ -1,91 +1,56 @@
 # Réassemblage HTML — Prompt pour LLM
 
-**Rôle :** Vous êtes un outil de réassemblage HTML spécialisé en lexicographie biblique. Votre tâche est de produire un fichier HTML **entièrement en français** en combinant le HTML anglais original (structure des balises) avec le texte français traduit (contenu à insérer entre les balises).
+**Rôle :** Produire un fichier HTML **entièrement en français** en combinant le HTML anglais (structure/balises) avec le texte français traduit (contenu entre les balises).
 
-## Principe général : visible vs invisible
+## Règle fondamentale : visible vs invisible
 
-**Tout ce que le lecteur voit** doit être en français. **Tout ce qui est invisible** (attributs de balises) doit rester exactement comme dans le HTML anglais original.
-
-- Attributs (`onclick="bdbabb('Isa')"`, `ref="Isa 42:1"`, `b="23"`, etc.) → **copier tel quel** depuis l'original
-- Texte affiché entre les balises (`>Isa 42:1<`, `>Isa<sup>3</sup><`) → **traduire** (`>Es 42,1<`, `>Es<sup>3</sup><`)
-
-Cette règle s'applique à **toutes** les balises : `<ref>`, `<lookup>`, `<entry>`, etc.
+- **Texte visible** (entre balises) → en français
+- **Attributs** (`onclick`, `ref`, `b`, `cBegin`, etc.) → copier tel quel depuis l'original
 
 ## Traitement des balises
 
-Ces fichiers contiennent un mélange de langues (hébreu, grec, translittérations, abréviations savantes) — c'est **parfaitement normal**. Pour chaque balise, voici l'action requise :
+| Balise | Action |
+|---|---|
+| `<pos>`, `<primary>`, `<highlight>`, `<descrip>`, `<meta>`, `<language>`, `<gloss>` | **Traduire** le contenu |
+| `<ref>` | **Traduire le texte affiché** (nom du livre) ; attributs inchangés |
+| `<lookup>` | Attributs inchangés. Codes savants (Dl, Dr, Kö, Ki…) = noms propres → garder. Traduire noms de livres (`Isa`→`Es`) et prose dans `<sup>`/`<sub>` |
+| `<bdbheb>`, `<bdbarc>`, `<entry>`, `<reflink>`, `<placeholder* />`, `<transliteration>`, `<checkingNeeded />`, `<wrongReferenceRemoved />` | **Préserver** tel quel |
 
-| Balise | Action | Détail |
-|---|---|---|
-| `<pos>` | **Traduire** | "verb" → "verbe", "noun masculine" → "nom masculin", etc. |
-| `<primary>` | **Traduire** | Glose principale |
-| `<highlight>` | **Traduire** | Texte mis en valeur |
-| `<descrip>` | **Traduire** | Description, notes |
-| `<meta>` | **Traduire** | "Perfect" → "Parfait", "Imperfect" → "Imparfait", etc. |
-| `<language>` | **Traduire** | "Biblical Hebrew" → "hébreu biblique", etc. |
-| `<gloss>` | **Traduire** | Glose |
-| `<ref>` | **Traduire le texte affiché** | Nom du livre biblique ; garder tous les attributs inchangés |
-| `<lookup>` | **Traduire le texte visible** | Garder les attributs (`onclick`, etc.) inchangés. Les codes savants (Dl, Dr, Kö, Ki, etc.) sont des noms propres — les garder. Traduire les noms de livres bibliques (`Isa` → `Es`, `Gen` → `Gn`, etc.) et la prose dans `<sup>`/`<sub>` (p. ex. `after` → `d'après`). |
-| `<bdbheb>`, `<bdbarc>` | **Préserver** | Texte hébreu/araméen — copier caractère par caractère |
-| `<entry>` | **Préserver** | Identifiants BDB |
-| `<reflink>` | **Préserver** | Renvois internes |
-| `<placeholder* />` | **Préserver** | Images de mots apparentés |
-| `<transliteration>` | **Préserver** | Translittérations sémitiques (abâlu, šubû, etc.) |
-| `<checkingNeeded />`, `<wrongReferenceRemoved />` | **Préserver** | Marqueurs |
+Préserver aussi : grec ancien, sigles de manuscrits (ᵐ5, ᵑ9), noms de savants, tous les attributs. Traduire toute autre prose anglaise.
 
-Également préserver tel quel : grec ancien (Ηξαιας, etc.), sigles de manuscrits (ᵐ5, ᵑ9, Theod), noms de savants (Robinson, Meissner), tous les attributs de balise.
+## Conventions du texte français (Entries_txt_fr)
 
-Traduire toute autre prose anglaise entre les balises (texte libre, notes, renvois).
-
-## Notation dans le texte français (Entries_txt_fr)
-
-Le texte français utilise des conventions de balisage en texte brut :
-- `^texte^` → `<sup>texte</sup>` dans le HTML
-- `_N_` (N = nombre) → `<sub>N</sub>` dans le HTML
-- `[placeholderN: Placeholders/N.gif]` → `<placeholderN />` dans le HTML
-- `&` dans la prose → `&amp;` dans le HTML
-- Les lignes `=== BDBnnn Hnnn ===` sont des en-têtes structurels, pas du contenu
-- Les lignes `---` sont des séparateurs structurels (correspondent à `<hr>`)
-- Les lignes `@@SPLIT:stem@@`, `@@SPLIT:sense@@`, `@@SPLIT:section@@` sont des marqueurs de découpage internes — les **ignorer complètement** lors du réassemblage (ne pas les inclure dans le HTML)
+- `^texte^` → `<sup>texte</sup>`
+- `_N_` → `<sub>N</sub>`
+- `[placeholderN: Placeholders/N.gif]` → `<placeholderN />`
+- `&` en prose → `&amp;`
+- `=== BDBnnn Hnnn ===` = en-tête structurel (ignorer)
+- `---` = séparateur (`<hr>`)
+- `@@SPLIT:…@@` = marqueur de découpage (ignorer)
 
 ## Références bibliques
 
-Le texte français utilise les abréviations françaises et la virgule :
-Gen → Gn, Exod → Ex, Lev → Lv, Num → Nb, Deut → Dt, Josh → Jos,
-Judg → Jg, Ruth → Rt, 1Sam → 1 S, 2Sam → 2 S, 1Kgs → 1 R, 2Kgs → 2 R,
-1Chr → 1 Ch, 2Chr → 2 Ch, Ezra → Esd, Neh → Ne, Esth → Est, Job → Jb,
-Prov → Pr, Eccl → Qo, Song → Ct, Isa → Es, Jer → Jr, Lam → Lm,
-Ezek → Ez, Dan → Dn, Hos → Os, Joel → Jl, Amos → Am, Obad → Ab,
-Jonah → Jon, Mic → Mi, Nah → Na, Hab → Ha, Zeph → So, Hag → Ag,
-Zech → Za, Mal → Ml
-
-Format : virgule entre chapitre et verset (Gn 35,8) et non deux-points (Gen 35:8).
+Abréviations françaises avec virgule chapitre/verset :
+Gen→Gn, Exod→Ex, Lev→Lv, Num→Nb, Deut→Dt, Josh→Jos, Judg→Jg, Ruth→Rt, 1Sam→1 S, 2Sam→2 S, 1Kgs→1 R, 2Kgs→2 R, 1Chr→1 Ch, 2Chr→2 Ch, Ezra→Esd, Neh→Ne, Esth→Est, Job→Jb, Prov→Pr, Eccl→Qo, Song→Ct, Isa→Es, Jer→Jr, Lam→Lm, Ezek→Ez, Dan→Dn, Hos→Os, Joel→Jl, Amos→Am, Obad→Ab, Jonah→Jon, Mic→Mi, Nah→Na, Hab→Ha, Zeph→So, Hag→Ag, Zech→Za, Mal→Ml.
+Format : `Gn 35,8` (virgule, pas deux-points).
 
 ## Règles critiques
 
-1. **Sortie UNIQUEMENT HTML** — pas d'explication, pas de balises markdown (```), pas de commentaire. Exception : si vous détectez une erreur, répondez uniquement avec `>>> ERRATA:`.
-2. **Chaque balise de l'original doit apparaître** dans votre sortie — ne supprimez aucune balise.
-3. **L'imbrication des balises doit correspondre exactement** à l'original.
-4. Si le texte français n'a pas de traduction pour un passage, utilisez l'original anglais tel quel plutôt que de l'omettre.
-5. **Aucun mot anglais** ne doit subsister dans la sortie (sauf dans `<reflink>`, `<transliteration>`, les codes savants dans `<lookup>` comme Dl/Dr/Kö, et les noms propres de savants modernes).
-6. **Préservez les voyelles hébraïques** (nikkud) caractère par caractère.
-7. **Typographie française** : espace avant les ponctuations doubles (` ;` ` :` ` ?` ` !`) et à l'intérieur des guillemets (`« texte »`).
-8. **Reproduisez le texte français exactement** — ne changez pas les virgules en points-virgules ou inversement, ne remplacez pas un mot par un synonyme. Le texte français (`Entries_txt_fr`) est la référence ; le HTML doit le refléter fidèlement. Exemples de substitutions interdites : `figuré` → `figuratif`, `construit` → `construct`, `nom collectif` → `collectif nom`.
-9. **Éditions savantes** : les références bibliographiques comme `2e éd.`, `3e éd.` doivent être reproduites telles quelles depuis le texte français — ne pas revenir à l'anglais `2nd ed.`.
-10. **Articles et prépositions français** : Le français utilise des articles et contractions que l'anglais n'a pas. Le texte français fait autorité — reproduisez-le mot pour mot, même si la structure diffère de l'anglais. Exemples :
-    - Anglais `mouth of king` → Français `bouche du roi` (**pas** `bouche de roi`)
-    - Anglais `lions` (sans article) → Français `des lions` (avec article)
-    - Anglais `beast (in vision)` → Français `d'une bête (en vision)` (avec article indéfini)
-    - Anglais `of pit` → Français `de la fosse` (avec article défini)
-    Ne calquez pas la structure anglaise — lisez le texte français et insérez-le tel quel entre les balises.
+1. **Sortie UNIQUEMENT HTML** — pas d'explication ni de balises markdown. Si erreur détectée, répondre `>>> ERRATA:` uniquement.
+2. **Chaque balise de l'original** doit apparaître dans la sortie, imbrication identique.
+3. Si pas de traduction pour un passage, garder l'anglais original plutôt qu'omettre.
+4. **Aucun mot anglais** ne doit subsister (sauf `<reflink>`, `<transliteration>`, codes savants, noms de savants).
+5. **Préserver les voyelles hébraïques** (nikkud) caractère par caractère.
+6. **Typographie française** : espace avant ` ;` ` :` ` ?` ` !`, guillemets `« texte »`.
+7. **Reproduire le texte français exactement** — pas de substitution de mots (`figuré`≠`figuratif`, `construit`≠`construct`), pas de changement de ponctuation. Le txt_fr fait autorité.
+8. **Éditions savantes** : `2e éd.`, `3e éd.` depuis le français — ne pas revenir à l'anglais.
+9. **Articles/prépositions français** : le français a des articles que l'anglais n'a pas. Reproduire le txt_fr mot pour mot (`bouche du roi`, `des lions`, `d'une bête`, `de la fosse` — pas de calque anglais).
 
-## Exemples complets
+## Exemples
 
-Chaque exemple montre les trois fichiers : HTML anglais original, texte français, et le HTML français attendu en sortie.
+### Exemple 1 — BDB1 (entrée simple)
 
-### Exemple 1 — BDB1 (entrée simple avec renvoi)
-
-HTML anglais original :
+HTML anglais :
 ```html
 <html><head><link rel="stylesheet" href="style.css"></head>
 <h1>
@@ -124,7 +89,7 @@ marge du TM imprimé) ; א֟ = 1000 ; aucune trace de cet usage à l'époque de 
 ---
 ```
 
-✅ HTML français correct :
+✅ HTML français :
 ```html
 <html><head><link rel="stylesheet" href="style.css"></head>
 <h1>
@@ -146,11 +111,9 @@ marge du TM imprimé) ; א֟ = 1000 ; aucune trace de cet usage à l'époque de 
 </html>
 ```
 
-Points clés : `<language>` traduit, `<descrip>` traduit, "see" → "voir", `<highlight>Aleph</highlight>` conservé (nom de lettre), `<bdbheb>` et `<reflink>` préservés, ";" → " ;" (espace avant ponctuation double).
+### Exemple 2 — BDB200 (nom propre avec refs)
 
-### Exemple 2 — BDB200 (nom propre avec sens numérotés et refs)
-
-HTML anglais original :
+HTML anglais :
 ```html
 <html><head><link rel="stylesheet" href="style.css"></head>
 <h1>
@@ -174,24 +137,7 @@ HTML anglais original :
 </html>
 ```
 
-Texte français :
-```
-=== BDB200 H198 ===
-hébreu biblique
-
-II. אוּלָם
-nom propre, masculin seulement généalogie
-
-1.
-1 Ch 7,16 ; 1 Ch 7,17.
-
-2.
-1 Ch 8,39 ; 1 Ch 8,40.
-
----
-```
-
-✅ HTML français correct :
+✅ HTML français :
 ```html
 <html><head><link rel="stylesheet" href="style.css"></head>
 <h1>
@@ -215,11 +161,11 @@ nom propre, masculin seulement généalogie
 </html>
 ```
 
-Points clés : `<pos>` et `<descrip>` traduits, refs `1Chr 7:16` → `1 Ch 7,16` (texte affiché uniquement — les attributs `ref="1Chr 7:16"` restent inchangés), ";" → " ;" (espace avant).
+Note : attributs `ref="1Chr 7:16"` inchangés, texte affiché `1 Ch 7,16`.
 
-### Exemple 3 — BDB160 (abréviations savantes, `<sup>` traduit dans `<lookup>`)
+### Exemple 3 — BDB160 (lookup avec `<sup>` traduit)
 
-HTML anglais original :
+HTML anglais :
 ```html
 <html><head><link rel="stylesheet" href="style.css"></head>
 <h1>
@@ -246,31 +192,7 @@ HTML anglais original :
 </html>
 ```
 
-Texte français :
-```
-=== BDB160 H166 ===
-hébreu biblique
-
-II. [אָהַל] verbe
-
-Hiphil
-être clair, briller, Imparfait 3 masculin singulier יַאֲהִיל (sujet lune
-יָרֵחַ) Jb
-25,5 (|| זַכּוּ sujet כוכבים, comparer aussi יִזְכֶּה v
-Jb 25,4) (=
-יָהֵל, de הלל ; par erreur textuelle ?) comparer Di
-ainsi
-
-ᵐ5
-
-> = I. אָהַל
-Kö^I, 373, d'après^
-Ki).
-
----
-```
-
-✅ HTML français correct :
+✅ HTML français :
 ```html
 <html><head><link rel="stylesheet" href="style.css"></head>
 <h1>
@@ -297,246 +219,45 @@ Ki).
 </html>
 ```
 
-Points clés : Le code abréviatif `Kö` dans `<lookup>` est un nom de savant — préservé. Le `<sup>` contient de la prose traduite — `after` → `d'après` (le texte français a `^I, 373, d'après^`). Les codes savants Di, ᵐ5, Ki restent tels quels. Si un `<lookup>` contenait un nom de livre biblique (p. ex. `Isa`), il faudrait le traduire (`Es`) tout en gardant l'attribut `onclick` inchangé. Refs `Job 25:5` → `Jb 25,5` (attributs inchangés).
+Note : `<sup>after</sup>` → `<sup>d'après</sup>` (prose traduite dans lookup). Codes savants Di, Kö, Ki préservés. Attributs `onclick` inchangés.
 
-## Erreurs courantes à éviter
+## Erreurs courantes
 
-### ❌ Erreur 1 — Anglais non traduit dans `<sup>` de `<lookup>`
+**❌ Anglais dans `<sup>` de `<lookup>`** : `Kö<sup>I, 373, after</sup>` — `after` doit être `d'après`.
 
-Si vous produisez ceci pour BDB160 :
-```html
-    <lookup onclick="bdbabb('Kö')">Kö<sup>I, 373, after</sup></lookup>
-```
+**❌ Attribut `onclick` modifié** : `onclick="bdbabb('Es')"` — l'attribut doit rester `bdbabb('Isa')`, seul le texte visible change.
 
-C'est **FAUX** — `after` est de l'anglais qui aurait dû être `d'après`. Le texte français indique clairement `Kö^I, 373, d'après^`. Vérifiez toujours le contenu des `<sup>` à l'intérieur des `<lookup>`.
+**❌ Nom de livre non traduit** : `>Isa<sup>3</sup><` dans la sortie — doit être `>Es<sup>3</sup><`.
 
-### ❌ Erreur 2 — Attribut `onclick` de `<lookup>` modifié
+**❌ Refs non converties / ponctuation altérée** : `>Song 5:2<` doit devenir `>Ct 5,2<` ; ne pas changer `,` en ` ;` ou inversement.
 
-Si vous produisez ceci :
-```html
-    <lookup onclick="bdbabb('Es')">Es<sup>3</sup></lookup>
-```
+**❌ Copie de l'anglais** : `<pos>proper name, masculine</pos>` — doit être `<pos>nom propre, masculin</pos>`.
 
-C'est **FAUX** — l'attribut `onclick="bdbabb('Isa')"` a été changé en `bdbabb('Es')`. Les attributs doivent être copiés **exactement** depuis le HTML original. Seul le texte visible change : `Isa` → `Es`. Le résultat correct est :
-```html
-    <lookup onclick="bdbabb('Isa')">Es<sup>3</sup></lookup>
-```
+**❌ Balise supprimée** : `<checkingNeeded />` ou `<wrongReferenceRemoved />` omis.
 
-C'est la même règle que pour `<ref>` : l'attribut `ref="Isa 42:1"` reste inchangé, seul le texte affiché devient `Es 42,1`.
-
-### ❌ Erreur 3 — Nom de livre non traduit dans `<lookup>`
-
-Si vous produisez ceci :
-```html
-    <lookup onclick="bdbabb('Isa')">Isa<sup>3</sup></lookup>
-```
-
-C'est **FAUX** si le texte français indique `Es^3^`. Le texte visible `Isa` doit être traduit en `Es` (comme dans `<ref>`). Le résultat correct est :
-```html
-    <lookup onclick="bdbabb('Isa')">Es<sup>3</sup></lookup>
-```
-
-### ❌ Erreur 4 — Refs bibliques non converties / ponctuation altérée
-
-Le HTML original a :
-```html
-    <ref ref="Song 5:2" ...>Song 5:2</ref>, <bdbheb>תָיו</bdbheb>-
-```
-
-Le texte français dit : `Ct 5,2,` puis `תָיו-`
-
-Si vous produisez ceci :
-```html
-    <ref ref="Song 5:2" ...>Song 5:2</ref> ; <bdbheb>תָיו</bdbheb>-
-```
-
-C'est **FAUX** pour deux raisons : (1) le texte affiché `Song 5:2` n'a pas été converti en `Ct 5,2` ; (2) la virgule originale `,` a été remplacée par ` ; `. Les attributs (`ref="Song 5:2"`) restent inchangés, mais le texte visible doit suivre le français. La ponctuation entre les balises doit correspondre exactement à l'original et au texte français. Le résultat correct est :
-```html
-    <ref ref="Song 5:2" ...>Ct 5,2</ref>, <bdbheb>תָיו</bdbheb>-
-```
-
-### ❌ Erreur 5 — Copie de l'anglais au lieu de traduction
-
-Si vous produisez ceci pour BDB200 :
-```html
-    <pos>proper name, masculine</pos> <descrip>only genealogy</descrip>
-```
-
-C'est **FAUX** — c'est une copie de l'anglais. Le texte français indique `nom propre, masculin` et `seulement généalogie`.
-
-### ❌ Erreur 6 — Balise supprimée
-
-Si vous omettez `<checkingNeeded />` ou `<wrongReferenceRemoved />` présent dans l'original, c'est une erreur. Ces marqueurs doivent être préservés à leur position exacte.
-
-### ❌ Erreur 7 — Articles/prépositions français supprimés (calque de l'anglais)
-
-L'anglais original a :
-```html
-    <gloss>mouth</gloss> of king ... lions ... beast (in vision) ... <highlight>mouth</highlight> of pit
-```
-
-Le texte français dit : `bouche du roi ... des lions ... d'une bête (en vision) ... bouche de la fosse`
-
-Si vous produisez ceci :
-```html
-    <gloss>bouche</gloss> de roi ... lions ... bête (en vision) ... <highlight>bouche</highlight> de fosse
-```
-
-C'est **FAUX** — vous avez calqué la structure anglaise (`of king` → `de roi`) au lieu de reproduire le texte français (`du roi`). L'anglais n'a pas d'articles devant `lions`, `beast`, `pit`, mais le français en a (`des lions`, `d'une bête`, `de la fosse`). Le résultat correct est :
-```html
-    <gloss>bouche</gloss> du roi ... des lions ... d'une bête (en vision) ... <highlight>bouche</highlight> de la fosse
-```
-
-**Règle** : la prose entre les balises doit reproduire le texte français mot pour mot, y compris les articles définis (`du`, `de la`, `des`), indéfinis (`d'un`, `d'une`) et contractions qui n'ont pas d'équivalent dans l'anglais.
+**❌ Articles français supprimés** : `bouche de roi` au lieu de `bouche du roi`, `lions` au lieu de `des lions`. Reproduire le txt_fr mot pour mot, y compris articles et contractions.
 
 ## Détection d'erreurs dans le texte français
 
-Avant de produire le HTML, vérifiez le texte français fourni. S'il contient des
-erreurs évidentes de traduction, **ne produisez pas de HTML** — répondez
-uniquement avec une ligne commençant par `>>> ERRATA:` suivie d'une brève
-description du problème.
+S'il contient des erreurs évidentes, **ne pas produire de HTML** — répondre `>>> ERRATA:` suivi d'une description.
 
 Erreurs à détecter :
-- **Mots anglais non traduits** : des mots courants comme `see`, `above`,
-  `below`, `compare`, `father`, `mother`, `son of`, `make`, `produce`, `choose`,
-  `mourn`, `gift`, `the`, `of the`, `which` qui auraient dû être traduits en
-  français.
-- **Phrases anglaises non traduites** : toute séquence de 3 mots anglais
-  courants ou plus (p. ex. `as one of three`, `the son of`) est un signe fort
-  de traduction manquante. Exception : les titres d'ouvrages (p. ex.
-  `Song of Solomon`) ne sont pas des erreurs.
-- **Contenu sévèrement tronqué** : le HTML original contient un contenu
-  substantiel mais le texte français est quasiment vide ou ne couvre qu'une
-  fraction de l'entrée.
-- **Références bibliques non converties** : des références encore au format
-  anglais (p. ex. `1Chr 7:16` au lieu de `1 Ch 7,16`, `Gen 35:8` au lieu de
-  `Gn 35,8`). Un deux-points entre chapitre et verset (`2:7`) au lieu d'une
-  virgule (`2,7`) est aussi une erreur.
-- **Accents manquants sur les majuscules** : les noms propres français exigent
-  des accents sur les capitales. Tout nom commençant par `E` qui devrait porter
-  un accent (`É`) est une erreur — p. ex. `Esaïe` → `Ésaïe`, `Ephraïm` →
-  `Éphraïm`, `Ezéchiel` → `Ézéchiel`, `Egypte` → `Égypte`, `Ethiopien` →
-  `Éthiopien`. Vérifiez chaque nom propre commençant par une majuscule.
+- **Mots/phrases anglais non traduits** (`see`, `father`, `son of`, séquences de 3+ mots anglais courants). Exception : titres d'ouvrages.
+- **Contenu sévèrement tronqué** par rapport au HTML original.
+- **Refs au format anglais** (`1Chr 7:16` au lieu de `1 Ch 7,16`, deux-points au lieu de virgule).
+- **Accents manquants sur majuscules** : `Esaïe`→`Ésaïe`, `Ephraïm`→`Éphraïm`, `Ezéchiel`→`Ézéchiel`, `Egypte`→`Égypte`, `Ethiopien`→`Éthiopien`.
 
-**Important** : ne signalez que les erreurs évidentes. Les éléments suivants
-sont normaux et ne sont PAS des erreurs :
-- Abréviations savantes (Dl, Dr, Co, We, etc.)
-- Translittérations sémitiques (abâlu, šuluštu, etc.)
-- Noms propres de savants (Robinson, Meissner, etc.)
-- Termes latins (id., cf., etc.)
-- Texte hébreu/araméen/grec
+**Pas des erreurs** : abréviations savantes, translittérations sémitiques, noms de savants, termes latins, texte hébreu/araméen/grec.
 
-### Exemple 1 — texte français avec anglais résiduel
-
-HTML anglais original (extrait de BDB883) :
-```
-<pos>proper name, masculine</pos> <descrip>(my well).</descrip>
-```
-
-Texte français :
-```
-nom propre, masculin (mon puits).
-< l'homme de Beer ? Nes.
-1. un Hittite, father-in-law d'Ésaü Gn 26,34.
-2. père d'Osée Os 1,1.
-```
-
-Le texte français contient `father-in-law` (anglais non traduit — devrait être
-`beau-père`). Réponse correcte :
-
-```
->>> ERRATA: anglais non traduit « father-in-law » (devrait être « beau-père »)
-```
-
-### Exemple 2 — contenu sévèrement tronqué
-
-HTML anglais original (BDB200, entrée complète avec 2 sens et 4 refs) :
-```
-<pos>proper name, masculine</pos> <descrip>only genealogy</descrip>
-<sense>1.</sense> 1Chr 7:16; 1Chr 7:17.
-<sense>2.</sense> 1Chr 8:39; 1Chr 8:40.
-```
-
-Texte français :
-```
-nom propre, masculin
-```
-
-Le texte français est tronqué — il manque `seulement généalogie` et tous les
-sens. Réponse correcte :
-
-```
->>> ERRATA: contenu tronqué — le texte français ne couvre qu'une fraction de l'entrée originale
-```
-
-### Exemple 3 — accent manquant sur une majuscule (BDB8062)
-
-HTML anglais original :
-```html
-<html><head><link rel="stylesheet" href="style.css"></head>
-<h1>
-    <entry onclick="bdbid('BDB8062')">BDB8062</entry> [<entry onclick="sn('H7506')">H7506</entry>]
-</h1>
-<language>Biblical Hebrew</language>
-<p>
-    <bdbheb>רֶ֫פַח</bdbheb>
-    <pos>proper name, masculine</pos> <descrip>in Ephraim</descrip>, <ref ref="1Chr 7:25" b="13" cBegin="7" vBegin="25" cEnd="7"
-        vEnd="25" onclick="bcv(13,7,25)">1Chr 7:25</ref>, <grk>Ραφη[α]</grk>.
-</p>
-<hr>
-
-</html>
-```
-
-Texte français (avec erreur — `Ephraïm` au lieu de `Éphraïm`) :
-```
-=== BDB8062 H7506 ===
-hébreu biblique
-
-רֶ֫פַח
-nom propre, masculin en Ephraïm, 1 Ch 7,25, Ραφη[α].
-
----
-```
-
-Le texte français contient `Ephraïm` sans accent sur le É majuscule — la forme
-correcte est `Éphraïm`. Réponse correcte :
-
-```
->>> ERRATA: accent manquant sur majuscule « Ephraïm » (devrait être « Éphraïm »)
-```
-
-### Exemple 4 — défaut dans le HTML source
-
-Si le HTML anglais original contient un défaut structurel (parenthèse
-déséquilibrée, balise non fermée, ponctuation incohérente, etc.), ne le
-corrigez pas silencieusement — signalez-le :
-
-HTML anglais original (extrait) :
-```html
-<lookup onclick="bdbabb('Kau')">K<sup>§ 11,1 b</sup></lookup>)) <ref ref="Dan 2:39"
-```
-
-Réponse correcte :
-```
->>> ERRATA: parenthèse déséquilibrée « )) » — une seule « ( » ouvrante correspondante
-```
-
-**⚠️** Ne signalez ERRATA que si le problème existe réellement dans le texte français ou le HTML source fournis ci-dessous.
-
----
+**⚠️** Ne signaler ERRATA que si le problème existe réellement dans les données fournies.
 
 ## Mode morceau (chunked)
 
-Vous pouvez recevoir une entrée partielle (un seul morceau d'une entrée plus
-grande). Dans ce cas, un paragraphe « Mode morceau » apparaîtra à la fin du
-prompt. Produisez le HTML complet pour ce morceau, y compris les balises
-`<html>`, `</html>` etc. telles qu'elles apparaissent dans le HTML original.
-Reproduisez exactement la structure fournie.
+Si un paragraphe « Mode morceau » apparaît à la fin, vous recevez une entrée partielle. Produisez le HTML complet pour ce morceau avec les balises telles qu'elles apparaissent dans l'original.
 
 ## Votre tâche
 
-Produisez le HTML français complet à partir des deux entrées ci-dessous. Répondez avec le HTML uniquement, sans aucun texte d'accompagnement.
+Produisez le HTML français complet ci-dessous, **sans aucun texte d'accompagnement**. Pas de markdown (` ``` `), pas de commentaire, pas de titre — votre réponse commence par `<html>` et se termine par `</html>`.
 
 ### HTML anglais original :
 ```
@@ -547,3 +268,5 @@ Produisez le HTML français complet à partir des deux entrées ci-dessous. Rép
 ```
 {{FRENCH_TXT}}
 ```
+
+RAPPEL : votre réponse est UNIQUEMENT le HTML brut. Commencez directement par `<html>`.

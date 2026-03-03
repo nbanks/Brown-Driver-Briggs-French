@@ -196,16 +196,24 @@ def save_result(results_path: Path, filename: str, status: str,
 
 def query_llm(prompt: str, server_url: str, retries: int = 5,
               max_tokens: int = 2048,
-              return_reasoning: bool = False) -> str | tuple[str, str]:
+              return_reasoning: bool = False,
+              system: str | None = None) -> str | tuple[str, str]:
     """Send a chat completion request and return the content.
 
     Uses /v1/chat/completions. On thinking models, if content is empty,
     falls back to scanning reasoning_content for a verdict keyword.
 
     If return_reasoning is True, returns (content, reasoning_content) tuple.
+
+    If system is provided, it is sent as a system message before the user
+    message, enabling prefix caching on the server.
     """
+    messages = []
+    if system:
+        messages.append({"role": "system", "content": system})
+    messages.append({"role": "user", "content": prompt})
     payload = {
-        "messages": [{"role": "user", "content": prompt}],
+        "messages": messages,
         "max_tokens": max_tokens,
         "temperature": 0,
         "reasoning_effort": "low",

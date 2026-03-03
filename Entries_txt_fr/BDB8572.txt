@@ -32,7 +32,7 @@ Ct 2,16 ; Ct 4,5 ; Ct 6,2 ; Ct 6,3 ; Ct 7,3 et
 ׳
 פ
 2 Ch 4,5 ailleurs
-seulement titres de Psaumes : עַשֹֿׁשַׁנִּים
+seulement titres de Psaume : עַשֹֿׁשַׁנִּים
 Ps 45,1 ; Ps 69,1,
 עַלשֿׁוּשַׁן עֵדוּת
 Ps 60,1,

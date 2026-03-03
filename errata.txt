@@ -4952,3 +4952,94 @@ BDB9818 html  LLM: contenu tronqué — le texte français ne couvre qu'une frac
 BDB7376 html  LLM: accent manquant sur majuscule « Élam » (devrait être « Élam ») et « Médie » (devrait être « Médie ») — vérification nécessaire pour les noms propres géographiques. De plus, « Babylonien » et « Chaldéen » devraient être « babylonien » et « chaldéen » (minuscules) selon les conventions françaises, sauf s'ils désignent des peuples spécifiques dans un contexte historique précis. Cependant, la règle principale est de reproduire le texte français tel quel. Si le texte français fourni est correct tel quel, alors il n'y a pas d'erreur. Mais si « Élam » et « Médie » sont écrits sans accent dans le texte français fourni, c'est une erreur. Dans le texte fourni, ils sont écrits « Élam » et « Médie », donc pas d'erreur. Attendez, le texte fourni dit « Élam » et « Médie », donc c'est correct. Mais « Babylonien » et « Chaldéen » sont-ils corrects ? En français, les adjectifs de nationalité sont en minuscule : « babylonien », « chaldéen ». Donc « Babylonien » et « Chaldéen » sont des erreurs. Réponse :
 BDB3900 html  failed after retries: missing Hebrew/Aramaic: שְׁאָר מְעַט מִזְעָר לוֺא כַבִּיר; extra Hebrew/Aramaic not in original: שְׁאָר מְעַט מִזְעָר לוֺא כַּבִּיר; French text nearly matches HTML (64% prefix match). Diverges at: txt_fr has ...ַט מִזְעָר לוֺא כַבִּיר, Jb 31,25... but HTML has ...ַט מִזְעָר לוֺא כַּבִּיר ,  Jb 31,25 
      וכ...
+BDB5652 html  37 issues after retries: French text nearly matches HTML (diverges near start). txt_fr has ...Ren in CISi. No. 95, 3, al... but HTML has ...n dans CIS i. No. 95, 3, al  B...; extra ref attribute not in original: 1Chr 2:40 (×3); extra tag in French: <entry[BDB5652]>; extra tag in French: <entry[H5581]>; extra tag in French: <language>; ... (+32 more)
+BDB5292 html  4 issues after retries (chunked): French text nearly matches HTML (69% prefix match). Diverges at: txt_fr has ...tHast. Dict. Bib. 'Apple')... but HTML has ...t Hast. Dict. Bib. « pomme »  )
+  voir auss...; French text nearly matches HTML (58% prefix match). Diverges at: txt_fr has ...si Id.Smith DB (2) APPLE) ; M'Lean-Dy... but HTML has ...si Id. Smith DB (2) « pomme » ) ; M'Lean-...; French text nearly matches HTML (diverges near start). txt_fr has ...APPLE fait de ׳... but HTML has ...omme »  fait de  ׳ 
+     ת  =  coing . —...; raw tag extra in French: '</div>'
+BDB5728 html  failed after retries: French text nearly matches HTML (93% prefix match). Diverges at: txt_fr has ...la protection de ׳... but HTML has ...י  la protection de ; comparer  סֵתֶר 
+     Es...; French text nearly matches HTML (diverges near start). txt_fr has ...י ; comparer סֵתֶר... but HTML has ...e ; comparer  סֵתֶר 
+     Es...
+BDB6992:2/3 html  failed after retries: raw tag extra in French: '<html>'; raw tag extra in French: '<head>'; raw tag extra in French: '<link rel="stylesheet" href="style.css">'; raw tag extra in French: '</head>'; raw tag extra in French: '</html>'
+BDB3600:3/6 html  failed after retries: raw tag extra in French: '<html>'; raw tag extra in French: '<head>'; raw tag extra in French: '<link rel="stylesheet" href="style.css">'; raw tag extra in French: '</head>'; raw tag extra in French: '</html>'
+BDB8426:3/4 html  failed after retries: raw tag extra in French: '<html>'; raw tag extra in French: '<head>'; raw tag extra in French: '<link rel="stylesheet" href="style.css">'; raw tag extra in French: '</head>'; raw tag extra in French: '</html>'
+BDB8426:4/4 html  failed after retries: French text nearly matches HTML (62% prefix match). Diverges at: txt_fr has ...Ex 38,38.... but HTML has ...+ 5 + 70 sicle  Ex 38,25  et (nom omis) v
+         Ex...
+BDB8412 html  failed after retries: missing tag in French: <lookup>
+BDB4317:1/4 html  failed after retries: French text nearly matches HTML (86% prefix match). Diverges at: txt_fr has ...comparer HWB 369)) ; — ׳... but HTML has ...comparer HWB 369)   ; —  ׳ 
+     ל 
+     Gn 11,3  ;  Ez 4,1...
+BDB6304 html  failed after retries: French text nearly matches HTML (diverges near start). txt_fr has ...construit רָעָה... but HTML has ...etranché ;
+     רָעָה 
+     ׳ 
+     ע 
+     Ps 107,39 
+     ר...
+BDB5229 html  failed after retries: missing Hebrew/Aramaic: ׳; missing tag in French: <bdbheb>
+BDB4769:3/5 html  failed after retries: raw tag extra in French: '<html>'; raw tag extra in French: '<head>'; raw tag extra in French: '<link rel="stylesheet" href="style.css">'; raw tag extra in French: '</head>'; raw tag extra in French: '</html>'
+BDB4769:5/5 html  failed after retries: missing Hebrew/Aramaic: ׳; French text missing from HTML: "figuré pour des attributs (de ׳"; missing tag in French: <bdbheb>
+BDB2840 html  failed after retries: French text nearly matches HTML (85% prefix match). Diverges at: txt_fr has ...us avez plantées ; lire de même... but HTML has ...us avez plantées  ; ainsi
+    lire aussi  Es...; French text nearly matches HTML (diverges near start). txt_fr has ...Du ; de même de champs ׳... but HTML has ...e 
+     Du  ; ainsi de champs  ׳ 
+     שְׁדֵי ח...
+BDB9143 html  failed after retries: French text nearly matches HTML (70% prefix match). Diverges at: txt_fr has ...ou d'un peuple] (ancien araméen תימא... but HTML has ...ou d'un peuple]  (araméen ancien  תימא...; French text nearly matches HTML (92% prefix match). Diverges at: txt_fr has ...Ency.Bib ISHMAEL) ; — ׳... but HTML has ...Ency.Bib ISHMAEL   ; —  ׳ 
+     ישְׁבֵי אֶרֶץ ת...
+BDB6540:1/3 html  failed after retries: French text nearly matches HTML (74% prefix match). Diverges at: txt_fr has ...lir, s'évanouir. Syriaque... but HTML has ...lir, s'évanouir . syriaque
+     
+     être froi...
+BDB6540:3/3 html  failed after retries: French text nearly matches HTML (45% prefix match). Diverges at: txt_fr has ...i et écrasé (figuré) ; lire probablem... but HTML has ...i et écrasé  ( figuratif ) ; lire probab...
+BDB6067 html  failed after retries: French text nearly matches HTML (85% prefix match). Diverges at: txt_fr has ...λίζουσαι ; Lagl.c.).... but HTML has ...λίζουσαι  ;  Lag l.c  )....
+BDB5510 html  failed after retries: French text nearly matches HTML (98% prefix match). Diverges at: txt_fr has ...; — seulement avec ה... but HTML has ...; — seulement avec,  ה
+      locatif :  וַיֵּצ...
+BDB3815:2/5 html  failed after retries: French text nearly matches HTML (96% prefix match). Diverges at: txt_fr has ...orobabel 1 Ch 3,21,... but HTML has ...orobabel   1 Ch 3,21  ;  
+         
+             ᵐ5 
+         
+     
+     Ιασαβα  ;  Ιεσεια...; French text nearly matches HTML (42% prefix match). Diverges at: txt_fr has ...Ιασαβα, Ιεσεια.... but HTML has ...Ch 3,21  ;  
+         
+             ᵐ5 
+         
+     
+     Ιασαβα  ;  Ιεσεια ....; raw tag extra in French: '<html>'; raw tag extra in French: '</html>'
+BDB3815:3/5 html  failed after retries: French text nearly matches HTML (97% prefix match). Diverges at: txt_fr has ...vec Esdras Esd 8,7,... but HTML has ...vec Esdras   Esd 8,7  ;  
+         
+             ᵐ5 
+         
+     
+     Ιοσεια ,  Ησαια ,...; raw tag extra in French: '<html>'; raw tag extra in French: '</html>'
+BDB3815:4/5 html  failed after retries: French text nearly matches HTML (97% prefix match). Diverges at: txt_fr has ...d'Esdras Esd 8,19,... but HTML has ...d'Esdras   Esd 8,19  ;  
+         
+             ᵐ5 
+         
+     
+     Ωσαια , etc....; raw tag extra in French: '<html>'; raw tag extra in French: '</html>'
+BDB6717:1/4 html  failed after retries: French text nearly matches HTML (73% prefix match). Diverges at: txt_fr has ...origine frapper, voir les dérivés, e... but HTML has ...origine  frapper, frapper , voir les d...
+BDB6717:2/4 html  failed after retries: raw tag extra in French: '<html>'; raw tag extra in French: '</html>'
+BDB8199:2/4 html  failed after retries: French text nearly matches HTML (diverges near start). txt_fr has ...rire de, habituellement av... but HTML has .... 
+             rire de   habituellement av...
+BDB9131 html  failed after retries: French text nearly matches HTML (52% prefix match). Diverges at: txt_fr has .... תּוֺתָח Jb 41,21 voir... but HTML has ...r  
+         ישׁה 
+     .  תּוֺתָח  Jb  Jb 41,21  voir  
+         יתח 
+     ....
+BDB4934 html  failed after retries: French text nearly matches HTML (diverges near start). txt_fr has ...) ; — dieu babylonien... but HTML has ...א 
+      ; —  dieu babylonien...
+BDB875:1/4 html  failed after retries: French text nearly matches HTML (41% prefix match). Diverges at: txt_fr has ...soit plutôt puits que source ; voir ce... but HTML has ...soit plutôt  puits , que  source  ; voir c...
+BDB6048 html  failed after retries: French text missing from HTML: "nom féminin une constellation, peut-être la Grande Ourse (comparer surtout Di..."
+BDB9669:2/3 html  failed after retries: missing tag in French: <lookup>; raw tag extra in French: '<html>'; raw tag extra in French: '</html>'
+BDB9669:3/3 html  failed after retries: French text nearly matches HTML (68% prefix match). Diverges at: txt_fr has ...ui est-ce qui . . . ? voir hébreu bibliq... but HTML has ...ui est-ce qui . . . ?  ? voir hébreu bibli...
+BDB5136:3/4 html  failed after retries: missing Hebrew/Aramaic: נְחֻשְׁתָּן; missing tag in French: <bdbheb>; raw tag extra in French: '<html>'; raw tag extra in French: '</html>'
+BDB3940:3/5 html  failed after retries: raw tag extra in French: '<html>'; raw tag extra in French: '</html>'
+BDB5623 html  failed after retries: French text nearly matches HTML (94% prefix match). Diverges at: txt_fr has ...ausible, par BuhlEdom... but HTML has ...ausible, par  Buhl Édom  
+     GFM Jg, 36   (qui...; French text nearly matches HTML (diverges near start). txt_fr has ...GFMJu, 36 (qui pense à une... but HTML has ...GFM Jg, 36   (qui pense à une...
+BDB3437:2/6 html  failed after retries: missing Hebrew/Aramaic: לִהְיוֺת יָדָיו אִתּוֺ; missing Hebrew/Aramaic: רפה; missing Hebrew/Aramaic: ᵐ5; missing Hebrew/Aramaic: כֹּחַ גָּדוֺל; missing Hebrew/Aramaic: יַדיֿהוה
+BDB3437:5/6 html  failed after retries: raw tag extra in French: '<html>'; raw tag extra in French: '<head>'; raw tag extra in French: '<link rel="stylesheet" href="style.css">'; raw tag extra in French: '</head>'; raw tag extra in French: '</html>'
+BDB3437:6/6 html  failed after retries: missing Hebrew/Aramaic: מִתַּחַת יַך; missing Hebrew/Aramaic: וְאִין יֶשׁפֹּֿה תַֿחַתיָָֽֿדְךָ חֲנִית וגו; missing Hebrew/Aramaic: וְהִתְעַנִּי תַּחַת יָדֶיהָ; missing Hebrew/Aramaic: וַיְשַׁלְּחֵם בְּיַד פִּשְׁעָם; missing Hebrew/Aramaic: תַּחַת
+BDB3850:2/4 html  failed after retries: raw tag extra in French: '<html>'; raw tag extra in French: '<head>'; raw tag extra in French: '<link rel="stylesheet" href="style.css">'; raw tag extra in French: '</head>'; raw tag extra in French: '</html>'
+BDB3850:3/4 html  failed after retries: French text nearly matches HTML (diverges near start). French text has "rester de 2 S 13,30 ; Ex 29,34 ;" but HTML has "r de (= de) 2 S 13,30 ; Ex 29,34 ;"; raw tag extra in French: '<html>'; raw tag extra in French: '<head>'; raw tag extra in French: '<link rel="stylesheet" href="style.css">'; raw tag extra in French: '</head>'
+BDB3870:2/4 html  failed after retries: raw tag extra in French: '<html>'; raw tag extra in French: '<head>'; raw tag extra in French: '<link rel="stylesheet" href="style.css">'; raw tag extra in French: '</head>'; raw tag extra in French: '</html>'
+BDB3870:3/4 html  failed after retries: missing tag in French: <highlight> (original: "the like of" — wrap the French equivalent in <highlight>); missing tag in French: <highlight> (original: "the like of" — wrap the French equivalent in <highlight>); missing tag in French: <highlight> (original: "the like of" — wrap the French equivalent in <highlight>); missing tag in French: <highlight> (original: "as" — wrap the French equivalent in <highlight>); extra tag in French: <descrip>
+BDB3913:2/5 html  failed after retries: raw tag missing in French: '</p>'; raw tag extra in French: '</p>'; raw tag extra in French: '</html>'
+BDB3913:4/5 html  failed after retries: raw tag extra in French: '<html>'; raw tag extra in French: '<head>'; raw tag extra in French: '<link rel="stylesheet" href="style.css">'; raw tag extra in French: '</head>'; raw tag extra in French: '</html>'
+BDB3924:4/4 html  failed after retries: French text nearly matches HTML (72% prefix match). Diverges at: French text has "ntenant et jusqu'alors, c.-à-d." but HTML has "ntenant et jusqu'à alors, c.-à-d.
+    en"

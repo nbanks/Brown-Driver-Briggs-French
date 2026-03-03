@@ -168,8 +168,8 @@ def _find_mismatch(frag, haystack, ctx=15,
                                         max(0, spos - suffix_start),
                                         spos + ctx, ctx=0)
                 return (f"French text nearly matches HTML (diverges near "
-                        f"start). txt_fr has ...{txt_exp}... "
-                        f"but HTML has ...{txt_got}...")
+                        f"start). French text has \"{txt_exp}\" "
+                        f"but HTML has \"{txt_got}\"")
         return None  # too little overlap — not a near-miss
 
     # Show context around the divergence point
@@ -179,8 +179,8 @@ def _find_mismatch(frag, haystack, ctx=15,
                             best_pos + match_len, best_pos + match_len, ctx)
     pct = match_len * 100 // len(frag)
     return (f"French text nearly matches HTML ({pct}% prefix match). "
-            f"Diverges at: txt_fr has ...{txt_exp}... "
-            f"but HTML has ...{txt_got}...")
+            f"Diverges at: French text has \"{txt_exp}\" "
+            f"but HTML has \"{txt_got}\"")
 
 
 def normalize_for_compare(text):
@@ -342,7 +342,7 @@ def validate_html(orig_html, fr_html, txt_fr_content=None):
         # Strip <sub>...</sub> entirely (txt_fr uses _N_ which gets stripped)
         fr_visible = re.sub(r"<sub>[^<]*</sub>", " ", fr_html)
         # Strip remaining tags
-        fr_visible = re.sub(r"<[^>]+>", " ", fr_visible)
+        fr_visible = re.sub(r"<[^>]+>", "", fr_visible)
         fr_visible = html.unescape(fr_visible)
         fr_visible = fr_visible.replace("`", "")
         fr_visible_cmp = normalize_for_compare(fr_visible)

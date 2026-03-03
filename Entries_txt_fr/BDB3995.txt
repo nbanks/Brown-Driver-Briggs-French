@@ -1039,7 +1039,7 @@ Ps 1,2 ;
 
 Ps 1,4 ;
 
-Pr 23,17 (אַל) Ps + ; avec le verbe principal répété
+Pr 23,17 (אַל) Psaume + ; avec le verbe principal répété
 (comme
 Gn 15,4
 ; 1 R

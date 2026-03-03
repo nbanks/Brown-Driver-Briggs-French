@@ -23,12 +23,12 @@ branche.
 3. tribu
 (
 
-Eccl 48,2
+Ecclus 48,2
 bâton,
 
-Eccl 45,6 ;
+Ecclus 45,6 ;
 
-Eccl 45,25
+Ecclus 45,25
 tribu) ; — absolu ׳
 מ
 Gn 38,25 + ;

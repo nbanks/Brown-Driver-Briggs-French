@@ -189,9 +189,26 @@ def unwrap_chunk(output: str, prefix: str, suffix: str) -> str:
 # Prompt building
 # ---------------------------------------------------------------------------
 
-def build_prompt(template: str, orig_html: str, french_txt: str) -> str:
-    """Build the assembly prompt from template and inputs."""
-    return (template
+_TEMPLATE_SPLIT_MARKER = "## Votre tâche"
+
+
+def split_template(template: str) -> tuple[str, str]:
+    """Split template into (system_prompt, user_template).
+
+    Everything before '## Votre tâche' becomes the system message (static
+    instructions, cacheable across requests). The rest stays in the user
+    message with the entry-specific placeholders.
+    """
+    pos = template.find(_TEMPLATE_SPLIT_MARKER)
+    if pos < 0:
+        return "", template
+    return template[:pos].rstrip(), template[pos:]
+
+
+def build_prompt(user_template: str, orig_html: str,
+                 french_txt: str) -> str:
+    """Build the user-message portion of the assembly prompt."""
+    return (user_template
             .replace("{{ORIGINAL_HTML}}", orig_html)
             .replace("{{FRENCH_TXT}}", french_txt))
 
@@ -205,12 +222,12 @@ CHUNK_NOTE_TEMPLATE = (
 )
 
 
-def build_chunk_prompt(template: str, html_chunk: str, txt_chunk: str,
+def build_chunk_prompt(user_template: str, html_chunk: str, txt_chunk: str,
                        chunk_idx: int, total_chunks: int) -> str:
-    """Build a prompt for one chunk of a split entry."""
+    """Build the user-message portion for one chunk of a split entry."""
     chunk_note = CHUNK_NOTE_TEMPLATE.format(idx=chunk_idx + 1,
                                             total=total_chunks)
-    base = (template
+    base = (user_template
             .replace("{{ORIGINAL_HTML}}", html_chunk)
             .replace("{{FRENCH_TXT}}", txt_chunk))
     return base + chunk_note
@@ -238,11 +255,11 @@ def _build_retry_suffix(history: list[tuple[str, list[str]]],
             "",
             f"## ⚠️ {label} — erreurs{no_errata}",
             "",
-            f"### Erreurs de validation",
-            f"```\n{error_lines}\n```",
-            "",
             f"### HTML produit (incorrect)",
             f"```html\n{output}\n```",
+            "",
+            f"### Erreurs de validation",
+            f"```\n{error_lines}\n```",
         ])
 
     parts.extend([
@@ -404,6 +421,7 @@ class SmartJob:
     prev_history: list[tuple[str, list[str]]]
     prev_errata: str | None
     entry_state: "EntryState"
+    system_prompt: str | None = None
 
 
 @dataclass
@@ -503,7 +521,8 @@ def _smart_worker(q: "queue.Queue[SmartJob | None]",
             smart_server, smart_retries, job.is_chunked,
             debug=debug, errata_note=smart_note,
             attempt_offset=max_retries, debug_prefix="smart",
-            on_attempt=_async_on_attempt)
+            on_attempt=_async_on_attempt,
+            system_prompt=job.system_prompt)
 
         with state.lock:
             state.outputs[job.chunk_idx] = html
@@ -633,6 +652,7 @@ def _try_server(bdb_id: str, idx: int, n: int,
                 debug_prefix: str = "try",
                 return_history: bool = False,
                 return_reasoning: bool = False,
+                system_prompt: str | None = None,
                 ) -> tuple[str | None, float, int, list[str], str | None,
                            list[tuple[str, list[str]]]]:
     """Try a server up to max_retries times.
@@ -706,9 +726,11 @@ def _try_server(bdb_id: str, idx: int, n: int,
             if return_reasoning and debug and not is_chunked:
                 raw, thinking = query_llm(prompt, server_url,
                                           max_tokens=131072,
-                                          return_reasoning=True)
+                                          return_reasoning=True,
+                                          system=system_prompt)
             else:
-                raw = query_llm(prompt, server_url, max_tokens=131072)
+                raw = query_llm(prompt, server_url, max_tokens=131072,
+                                system=system_prompt)
                 thinking = None
         except ContextOverflow:
             return (output, prompt_kb_total, attempt_num, errors,
@@ -749,6 +771,8 @@ def _try_server(bdb_id: str, idx: int, n: int,
 
 def _errata_note_text(reason: str, is_smart: bool = False) -> str:
     """Build the errata note suffix for a prompt."""
+    if len(reason) > 1024:
+        reason = reason[:1024] + "..."
     source = ("Un modèle moins capable" if is_smart
               else "Un modèle précédent")
     return (
@@ -770,6 +794,7 @@ def _generate_chunk(bdb_id: str, idx: int, n: int,
                     smart_server: str | None = None,
                     smart_retries: int = 1,
                     prior_errata_reason: str | None = None,
+                    system_prompt: str | None = None,
                     ) -> tuple[str | None, float, int, list[str], str | None]:
     """Generate (and retry) one chunk. Delegates to dumb then smart server.
 
@@ -781,7 +806,8 @@ def _generate_chunk(bdb_id: str, idx: int, n: int,
         bdb_id, idx, n, orig_html, txt_fr, prev_output, prev_errors,
         None, template, server_url, max_retries, is_chunked,
         on_attempt=on_attempt, on_chunk=on_chunk, debug=debug,
-        errata_note=errata_note, return_reasoning=True)
+        errata_note=errata_note, return_reasoning=True,
+        system_prompt=system_prompt)
 
     # Success or no smart server — return as-is
     if not errors and not errata:
@@ -803,7 +829,8 @@ def _generate_chunk(bdb_id: str, idx: int, n: int,
         history, template, smart_server, smart_retries, is_chunked,
         on_attempt=on_attempt, debug=debug,
         errata_note=smart_note,
-        attempt_offset=max_retries, debug_prefix="smart")
+        attempt_offset=max_retries, debug_prefix="smart",
+        system_prompt=system_prompt)
 
     return s_html, kb + s_kb, s_attempts, s_errors, s_errata
 
@@ -823,6 +850,7 @@ def process_entry(bdb_id: str, orig_path: Path, txt_path: Path,
                   smart_queue: "queue.Queue[SmartJob | None] | None" = None,
                   smart_semaphore: threading.Semaphore | None = None,
                   entry_state_out: list | None = None,
+                  system_prompt: str | None = None,
                   ) -> tuple[str, float, int]:
     """Process one entry. Returns (status, prompt_kb, attempts_used).
 
@@ -968,7 +996,8 @@ def process_entry(bdb_id: str, orig_path: Path, txt_path: Path,
                 chunk_prev, chunk_errs, None, template, server_url,
                 max_retries, is_chunked,
                 on_attempt=on_attempt, on_chunk=on_chunk, debug=debug,
-                errata_note=errata_note, return_reasoning=True)
+                errata_note=errata_note, return_reasoning=True,
+                system_prompt=system_prompt)
 
             total_prompt_kb += kb
             max_attempts = max(max_attempts, attempts)
@@ -995,7 +1024,7 @@ def process_entry(bdb_id: str, orig_path: Path, txt_path: Path,
                 template=template, is_chunked=is_chunked,
                 prev_output=html, prev_errors=remaining or [],
                 prev_history=history, prev_errata=errata,
-                entry_state=state)
+                entry_state=state, system_prompt=system_prompt)
             with state.lock:
                 state.pending_smart += 1
             smart_queue.put(job)
@@ -1008,7 +1037,8 @@ def process_entry(bdb_id: str, orig_path: Path, txt_path: Path,
                 is_chunked,
                 on_attempt=on_attempt, on_chunk=on_chunk, debug=debug,
                 smart_server=smart_server, smart_retries=smart_retries,
-                prior_errata_reason=chunk_errata)
+                prior_errata_reason=chunk_errata,
+                system_prompt=system_prompt)
 
             total_prompt_kb += kb
             max_attempts = max(max_attempts, attempts)
@@ -1172,7 +1202,8 @@ def main():
         print(f"error: prompt template not found: {prompt_path}",
               file=sys.stderr)
         sys.exit(1)
-    template = prompt_path.read_text()
+    full_template = prompt_path.read_text()
+    system_prompt, template = split_template(full_template)
 
     digits = args.digits if args.digits else None
     only = [e.removesuffix(".html") for e in args.entries] if args.entries else None
@@ -1189,6 +1220,32 @@ def main():
             existing.append((bdb_id, orig_path, txt_path))
         else:
             new_entries.append((bdb_id, orig_path, txt_path))
+
+    # Warm up LLM server caches in background during validation.
+    # Sends only the static system prompt with minimal output so the server
+    # creates a recurrent-state checkpoint for prefix reuse.
+    warmup_threads: list[tuple[threading.Thread, str]] = []
+    if system_prompt:
+        # Static prefix of the user template — everything before the first
+        # placeholder.  Real requests start with exactly these bytes, so
+        # caching them avoids re-eval on the first real request.
+        warmup_user = template.split("{{ORIGINAL_HTML}}")[0]
+        def _warmup(url, label):
+            try:
+                query_llm(warmup_user, url,
+                          max_tokens=4, system=system_prompt)
+                sys.stdout.write(f" [{label} cache warmup done] ")
+                sys.stdout.flush()
+            except Exception as e:
+                print(f"  [{label}] cache warmup failed: {e}",
+                      file=sys.stderr)
+        for url, label in [(args.server, "server"),
+                           (args.smart_server, "smart")]:
+            if url:
+                t = threading.Thread(target=_warmup, args=(url, label),
+                                     daemon=True)
+                t.start()
+                warmup_threads.append((t, label))
 
     # Validate existing Entries_fr/ files (using clean cache to skip)
     clean_cache = load_clean_cache(CLEAN_CACHE)
@@ -1302,8 +1359,22 @@ def main():
 
     check_server(args.server)
 
+    # Wait for primary server warmup before processing begins.
+    # Smart server warmup runs fully in background — it won't be needed
+    # until after all primary retries fail on an entry.
+    for t, label in warmup_threads:
+        if label == "smart":
+            continue  # daemon thread, prints when done
+        if t.is_alive():
+            print(f"  [{label}] waiting for cache warmup...", flush=True)
+        t.join(timeout=120)
+
     print(f"\nProcessing {len(to_process)} entries ...")
-    print(f"  Prompt:      {prompt_path.name}")
+    sys_kb = len(system_prompt.encode("utf-8")) / 1024
+    print(f"  Prompt:      {prompt_path.name}"
+          f" (system: {sys_kb:.1f}KB, user: dynamic)"
+          if system_prompt else
+          f"  Prompt:      {prompt_path.name} (no system split)")
     print(f"  Log:         {RESULTS_FILE}")
     print(f"  Normal:      {args.server} ({args.max_retries} retries)")
     if args.smart_server:
@@ -1454,7 +1525,8 @@ def main():
             errata_reasons=errata_reasons or None,
             smart_queue=smart_q if use_async_smart else None,
             smart_semaphore=smart_sem,
-            entry_state_out=entry_state_out)
+            entry_state_out=entry_state_out,
+            system_prompt=system_prompt)
 
         if status == "PENDING" and entry_state_out:
             # Store state for post-pipeline join; set metadata for display
