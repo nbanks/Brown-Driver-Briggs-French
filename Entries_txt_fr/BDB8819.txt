@@ -22,6 +22,10 @@ obéissance) ; —
 
 ## SPLIT 1 stem
 
+## SPLIT 1.1 stem
+
+## SPLIT 1.1.1 stem
+
 Qal_1052_
 Parfait 3 masculin singulier ׳
 שׁ
@@ -153,6 +157,8 @@ Es 37,9
 2 R 19,9
 .
 
+## SPLIT 1.1.2 stem
+
 d.
 entendre parler de, au sujet de : (1) accusatif de chose, אֵת(כָּלֿ)אֲשֶׁר
 Ex 18,1
@@ -247,6 +253,8 @@ Jg 11,10 avec מִשְׁפָּט
 
 2 S 15,3, comparer Jb 31,35
 .
+
+## SPLIT 1.1.3 stem
 
 i. avec accusatif de personne en adresse polie,
 écoute-nous (moi) ! Gn 23,6
@@ -345,9 +353,13 @@ accusatif de personne Ex 6,12 (
 P
 ), 2 Ch 28,11.
 
+## SPLIT 1.1.4 stem
+
 o. absolu être obéissant
 (surtout à ׳
 י) Es 1,19 ; Mi 5,14 ; Jr 12,17 + 4 t. Jérémie + 7 t.
+
+## SPLIT 1.2 stem
 
 2.
 ׳

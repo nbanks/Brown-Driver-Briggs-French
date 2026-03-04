@@ -84,6 +84,9 @@ P
 Est 5,14.
 
 ## SPLIT 2 stem
+
+## SPLIT 2.1 stem
+
 Hiph`il
 Parfait
 הֵיטִיב
@@ -216,6 +219,8 @@ Dt 27,8
 , שׁבּר
 2 R
 11,18.
+
+## SPLIT 2.2 stem
 
 4.
 rendre une chose bonne, correcte, belle : avec accusatif de la chose : la tête 2 R 9,30

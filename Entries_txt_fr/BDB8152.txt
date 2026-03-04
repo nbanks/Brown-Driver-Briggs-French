@@ -12,6 +12,9 @@ verbe
 [placeholder5211: Placeholders/5211.gif] :) ; —
 
 ## SPLIT 1 stem
+
+## SPLIT 1.1 stem
+
 Qal_79_
 Parfait 3 masculin singulier שָׂבַע
 1 Ch 23,1,
@@ -99,6 +102,8 @@ c. avec ב de bonté Ps 65,5, avec מִן id. Qo 6,3.
 d. avec ל infinitif, לאֹתִֿשְׂבַּע עַיִן לִרְאוֺת
 Qo 1,8 (||
 מָלֵא)
+
+## SPLIT 1.2 stem
 
 3.
 avoir en excès, être repu de :

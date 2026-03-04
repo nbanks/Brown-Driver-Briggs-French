@@ -90,6 +90,8 @@ in age, elder, eldest, son Gen 27:1, daughter Gen 29:16, brother Gen 10:21, sist
 
 ## SPLIT 6 sense
 
+## SPLIT 6.1 sense
+
 6.
 in importance,
 
@@ -155,6 +157,8 @@ Prov 18:16; Prov 25:6; Jer 5:5 (2Kgs 10:11
 כָּלֿ
 גְּדוֺלֶיהָ
 Nah 3:10.
+
+## SPLIT 6.2 sense
 
 c.
 of God, himself

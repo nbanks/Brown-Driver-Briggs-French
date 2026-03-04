@@ -12,6 +12,11 @@ sabéen ידע, surtout dans les noms propres composés DHM^ZMG 1875,
 612^) —
 
 ## SPLIT 1 stem
+
+## SPLIT 1.1 stem
+
+## SPLIT 1.1.1 stem
+
 Qal
 Parfait
 יָדַע
@@ -233,6 +238,8 @@ J
 ) je le connais, car il commandera, etc. 2 S 3,25 (
 Ges^«GKC:117»§ 117^. 1, R. 6).
 
+## SPLIT 1.1.2 stem
+
 b.
 percevoir
 Gn 19,33
@@ -310,6 +317,8 @@ ne pas savoir = ne pas s'attendre à
 Es
 47,11 ;
 Ps 35,8.
+
+## SPLIT 1.2 stem
 
 2.
 connaître une personne, être en relation avec
@@ -415,6 +424,8 @@ Hpt^BAS i, 15^) comparer Gn 18,19 (
 J
 ).
 
+## SPLIT 1.3 stem
+
 3.
 connaître une personne charnellement, de relations sexuelles, suivi d'accusatif : homme sujet
 Gn 4,1 ;
@@ -516,6 +527,8 @@ habile à jouer, 1 R 5,20 ; 2 Ch 2,6 ; 2 Ch 2,7
 1 S 16,16
 
 sachant jouer de la lyre (voir Dr).
+
+## SPLIT 1.4 stem
 
 5. absolu avoir la connaissance, être sage :
 לַֹיּדְעִים

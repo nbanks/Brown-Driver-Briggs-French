@@ -29,6 +29,11 @@ kurbannu
 (כ), DI^HWS 351^) ; —
 
 ## SPLIT 1 stem
+
+## SPLIT 1.1 stem
+
+## SPLIT 1.1.1 stem
+
 Qal_93_
 Parfait 3 masculin singulier ׳
 ק
@@ -129,6 +134,8 @@ Ex 3,5,
 Es 57,3
 (comparer g., 2 S 20,16).
 
+## SPLIT 1.1.2 stem
+
 g.
 s'approcher dans un but, avec Infinitif 1 S 17,48 ; 2 S 15,5 ; Dt
 25,11 ;
@@ -158,6 +165,8 @@ sanctuaire, pour jugement par le sort), Es 5,19 (du conseil de ׳
 ק
 Lm 4,18
 .
+
+## SPLIT 1.2 stem
 
 2. du temps, s'approcher, Gn 27,41 ; Dt 15,9 ; Ez
 12,23 spécifiquement לָמות
@@ -246,6 +255,9 @@ RS^Proph. iv, N.19^), comparer
 Now.
 
 ## SPLIT 4 stem
+
+## SPLIT 4.1 stem
+
 Hiphil_177_
 Parfait 3 masculin singulier הִקְרִיב
 
@@ -327,6 +339,10 @@ Es 26,17
 
 Ez 22,4.
 
+## SPLIT 4.2 stem
+
+## SPLIT 4.2.1 stem
+
 2. comme terme technique (c.158 t.) principalement dans Ézéchiel
 HPS, faire approcher, de
 la présentation, la dédicace, ou l'offrande à ׳
@@ -363,6 +379,8 @@ des מֵי
 
 Nb 5,16
 ,
+
+## SPLIT 4.2.2 stem
 
 b. habituellement (c. 142 t.)
 avec accusatif d'offrande, avec ou sans complément supplémentaire (אֶל,

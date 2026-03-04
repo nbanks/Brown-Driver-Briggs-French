@@ -13,6 +13,11 @@ Dl^W 184^ araméen אֲבַד,
 [placeholder2: Placeholders/2.gif]). —
 
 ## SPLIT 1 stem
+
+## SPLIT 1.1 stem
+
+## SPLIT 1.1.1 stem
+
 Qal
 Parfait
 ׳
@@ -115,6 +120,8 @@ Mi 7,2,
 ׳
 וא
 Za 9,5
+
+## SPLIT 1.1.2 stem
 
 périr, être exterminé (jugement pour le péché), en parlant d'Israël Lv 26,38 ; Dt 8,19
 (deux fois dans le verset) ;
@@ -221,6 +228,8 @@ Co) ; comparer bamôth Ez 6,3
 ᵐ5
 
 Co ; cieux et terre Ps 102,27.
+
+## SPLIT 1.2 stem
 
 2.
 figuré

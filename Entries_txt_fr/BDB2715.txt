@@ -11,6 +11,9 @@ vivre (hébreu tardif phénicien id. ; arabe
 vie, durée de vie, Vog^32, 74^) —
 
 ## SPLIT 1 stem
+
+## SPLIT 1.1 stem
+
 Qal_203_
 Parfait
 חָיָה
@@ -206,6 +209,8 @@ Ps 69,33
 
 המלך לעולם יחיה
 Ne 2,3.
+
+## SPLIT 1.2 stem
 
 2.
 être ranimé, revivre :

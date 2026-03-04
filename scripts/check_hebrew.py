@@ -4,9 +4,13 @@
 Also flags size anomalies: empty French files and significant size differences.
 """
 
+import os
 import re
 import sys
 from pathlib import Path
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from split_entry import split_txt, subsplit_txt
 
 # U+0590–U+05FF: Hebrew block (letters, vowel points, cantillation marks)
 # U+FB1D–U+FB4F: Hebrew presentation forms
@@ -20,6 +24,22 @@ SIZE_RATIO_MAX = 1.30
 def extract_hebrew(text):
     """Return all Hebrew characters in order as a single string."""
     return ''.join(HEBREW_RE.findall(text))
+
+
+def get_sections(text):
+    """Split text into leaf sections using split_txt + subsplit_txt.
+
+    Returns list of (label, content) pairs where label is the chunk type
+    (e.g. 'stem', 'stem.1', 'header').
+    """
+    chunks = split_txt(text)
+    sections = []
+    for chunk in chunks:
+        subs = subsplit_txt(chunk)
+        for sub in subs:
+            label = sub.get("label", sub["type"])
+            sections.append((label, sub["txt"]))
+    return sections
 
 
 def main():
@@ -52,19 +72,42 @@ def main():
                 size_errors += 1
                 print(f"{txt.name}: SIZE ANOMALY en={en_chars} fr={fr_chars} ratio={ratio:.2f}")
 
-        # Check Hebrew preservation
-        heb_en = extract_hebrew(en_text)
-        heb_fr = extract_hebrew(fr_text)
-        if heb_en != heb_fr:
-            hebrew_errors += 1
-            minlen = min(len(heb_en), len(heb_fr))
-            pos = next((i for i in range(minlen) if heb_en[i] != heb_fr[i]), minlen)
-            ctx = 20
-            print(f"{txt.name}: MISMATCH at Hebrew char {pos}")
-            print(f"  en: ...{heb_en[max(0, pos - ctx):pos + ctx]}...")
-            print(f"  fr: ...{heb_fr[max(0, pos - ctx):pos + ctx]}...")
-            if len(heb_en) != len(heb_fr):
-                print(f"  length: en={len(heb_en)} fr={len(heb_fr)}")
+        # Section-by-section Hebrew comparison
+        en_sections = get_sections(en_text)
+        fr_sections = get_sections(fr_text)
+
+        # Match sections by label for entries with same structure
+        if [label for label, _ in en_sections] == [label for label, _ in fr_sections]:
+            for (label, en_sec), (_, fr_sec) in zip(en_sections, fr_sections):
+                heb_en = extract_hebrew(en_sec)
+                heb_fr = extract_hebrew(fr_sec)
+                if heb_en != heb_fr:
+                    hebrew_errors += 1
+                    minlen = min(len(heb_en), len(heb_fr))
+                    pos = next((i for i in range(minlen)
+                                if heb_en[i] != heb_fr[i]), minlen)
+                    ctx = 20
+                    print(f"{txt.name} [{label}]: MISMATCH at Hebrew char {pos}")
+                    print(f"  en: ...{heb_en[max(0, pos - ctx):pos + ctx]}...")
+                    print(f"  fr: ...{heb_fr[max(0, pos - ctx):pos + ctx]}...")
+                    if len(heb_en) != len(heb_fr):
+                        print(f"  length: en={len(heb_en)} fr={len(heb_fr)}")
+                    break  # one error per file is enough
+        else:
+            # Sections don't align — fall back to whole-file comparison
+            heb_en = extract_hebrew(en_text)
+            heb_fr = extract_hebrew(fr_text)
+            if heb_en != heb_fr:
+                hebrew_errors += 1
+                minlen = min(len(heb_en), len(heb_fr))
+                pos = next((i for i in range(minlen)
+                            if heb_en[i] != heb_fr[i]), minlen)
+                ctx = 20
+                print(f"{txt.name}: MISMATCH at Hebrew char {pos}")
+                print(f"  en: ...{heb_en[max(0, pos - ctx):pos + ctx]}...")
+                print(f"  fr: ...{heb_fr[max(0, pos - ctx):pos + ctx]}...")
+                if len(heb_en) != len(heb_fr):
+                    print(f"  length: en={len(heb_en)} fr={len(heb_fr)}")
 
     print(f"\nChecked {checked} pairs.")
     print(f"  Hebrew mismatches: {hebrew_errors}")

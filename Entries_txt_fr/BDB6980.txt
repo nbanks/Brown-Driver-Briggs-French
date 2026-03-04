@@ -44,6 +44,8 @@ Pr 10,8 ; Ne 10,33
 
 ## SPLIT 2 sense
 
+## SPLIT 2.1 sense
+
 2. de Dieu :
 
 a. singulier le commandement, code de loi : 2 Ch 8,13 ; Esd 10,3 ;
@@ -88,6 +90,8 @@ D
 31,21
 +חֻקִּים, מִשְׁפָּטִים
 Dt 5,28 ; Dt 6,1 +.
+
+## SPLIT 2.2 sense
 
 b.
 pluriel des commandements de

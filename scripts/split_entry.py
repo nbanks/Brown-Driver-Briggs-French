@@ -83,6 +83,38 @@ def _find_div_spans(html_text, div_re):
     return results
 
 
+def determine_split_divs(html_text):
+    """Find top-level split div spans in an HTML entry.
+
+    Priority: stem divs > top-level sense/point divs > section divs.
+    Returns list of (start, end, type_str) tuples, or [] if no splits.
+
+    This is the canonical split-point finder used by both split_html()
+    and extract_txt.inject_split_markers() to ensure consistency.
+    """
+    stem_spans = _find_div_spans(html_text, _STEM_DIV_RE)
+    if stem_spans:
+        return [(s, e, 'stem') for s, e in stem_spans]
+
+    sense_spans = _find_div_spans(html_text, _SENSE_DIV_RE)
+    point_spans = _find_div_spans(html_text, _POINT_DIV_RE)
+    all_senses = sorted(sense_spans + point_spans)
+    if all_senses:
+        top = []
+        for i, (s, e) in enumerate(all_senses):
+            nested = any(s2 < s and e <= e2
+                         for j, (s2, e2) in enumerate(all_senses) if i != j)
+            if not nested:
+                top.append((s, e, 'sense'))
+        if top:
+            return top
+
+    section_spans = _find_div_spans(html_text, _SECTION_DIV_RE)
+    if section_spans:
+        return [(s, e, 'section') for s, e in section_spans]
+    return []
+
+
 def split_html(html_text):
     """Split an HTML entry into chunks at stem/sense/section divs.
 
@@ -93,35 +125,12 @@ def split_html(html_text):
     Returns list of dicts: {"type": str, "html": str}
     Types: "header", "stem", "sense", "section", "footer", "whole"
     """
-    # Priority: stems > top-level senses > sections
-    stem_spans = _find_div_spans(html_text, _STEM_DIV_RE)
-    if stem_spans:
-        return _build_chunks(html_text, stem_spans, "stem")
-
-    # For senses, include "point" divs (variant of "sense" in ~13 entries)
-    sense_spans = _find_div_spans(html_text, _SENSE_DIV_RE)
-    point_spans = _find_div_spans(html_text, _POINT_DIV_RE)
-    sense_spans = sorted(sense_spans + point_spans)
-    if sense_spans:
-        # Filter to top-level: a sense is top-level if its start position
-        # is not inside another sense span
-        top_senses = []
-        for i, (s, e) in enumerate(sense_spans):
-            nested = False
-            for j, (s2, e2) in enumerate(sense_spans):
-                if i != j and s2 < s and e <= e2:
-                    nested = True
-                    break
-            if not nested:
-                top_senses.append((s, e))
-        if top_senses:
-            return _build_chunks(html_text, top_senses, "sense")
-
-    section_spans = _find_div_spans(html_text, _SECTION_DIV_RE)
-    if section_spans:
-        return _build_chunks(html_text, section_spans, "section")
-
-    return [{"type": "whole", "html": html_text}]
+    splits = determine_split_divs(html_text)
+    if not splits:
+        return [{"type": "whole", "html": html_text, "label": "0"}]
+    spans = [(s, e) for s, e, _ in splits]
+    div_type = splits[0][2]
+    return _build_chunks(html_text, spans, div_type)
 
 
 def _build_chunks(html_text, spans, div_type):
@@ -129,25 +138,42 @@ def _build_chunks(html_text, spans, div_type):
 
     Ensures full coverage of html_text — every character is in exactly
     one chunk, so concatenating all chunks reproduces the original.
+
+    Gap text between consecutive divs is appended to the PREVIOUS chunk
+    (not prepended to the next), matching how extract_txt.py places
+    ## SPLIT markers right after each div's opening tag.
     """
     chunks = []
 
     # Header: everything before first div
     header = html_text[:spans[0][0]]
     if header.strip():
-        chunks.append({"type": "header", "html": header})
+        chunks.append({"type": "header", "html": header, "label": "0"})
 
-    # Each div, including any gap before it (inter-div whitespace)
-    prev_end = spans[0][0]
-    for start, end in spans:
-        # Include gap between previous chunk end and this div start
-        chunk_html = html_text[prev_end:end]
-        chunks.append({"type": div_type, "html": chunk_html})
-        prev_end = end
+    # Each div as its own chunk (start to end only)
+    for div_num, (start, end) in enumerate(spans, 1):
+        # Gap between previous div end and this div start goes to
+        # the previous chunk (header or prior div)
+        if div_num > 1:
+            gap = html_text[spans[div_num - 2][1]:start]
+        else:
+            gap = html_text[spans[0][0]:start] if chunks else ""
+            # If no header chunk, the first div starts at spans[0][0]
+            # so gap is empty
+        if gap and chunks:
+            chunks[-1]["html"] += gap
+        elif gap:
+            # No previous chunk — create header from gap
+            chunks.append({"type": "header", "html": header + gap,
+                           "label": "0"})
+
+        chunk_html = html_text[start:end]
+        chunks.append({"type": div_type, "html": chunk_html,
+                       "label": str(div_num)})
 
     # Footer: everything after last div — fold into last chunk
     # so chunk counts match txt splits (which also trim trailing ---)
-    footer = html_text[prev_end:]
+    footer = html_text[spans[-1][1]:]
     if footer:
         chunks[-1]["html"] += footer
 
@@ -215,10 +241,13 @@ def subsplit_html(chunk, max_bytes=10000, max_depth=None):
     Returns list of dicts. Concatenating all 'html' values reproduces the
     original exactly.
     """
-    return _subsplit_recursive(chunk, max_bytes, max_depth, depth=0)
+    parent_label = chunk.get("label", "")
+    return _subsplit_recursive(chunk, max_bytes, max_depth, depth=0,
+                               parent_label=parent_label)
 
 
-def _subsplit_recursive(chunk, max_bytes, max_depth, depth):
+def _subsplit_recursive(chunk, max_bytes, max_depth, depth,
+                        parent_label=""):
     """Recursive implementation of subsplit_html."""
     chunk_html = chunk["html"]
     chunk_type = chunk["type"]
@@ -243,7 +272,8 @@ def _subsplit_recursive(chunk, max_bytes, max_depth, depth):
         return [chunk]
 
     # Build sub-chunks with full coverage (header + groups + footer)
-    sub_chunks = _build_sub_chunks(chunk_html, chunk_type, groups)
+    sub_chunks = _build_sub_chunks(chunk_html, chunk_type, groups,
+                                   parent_label=parent_label)
 
     # Verify round-trip at this level
     assert "".join(sc["html"] for sc in sub_chunks) == chunk_html, \
@@ -253,7 +283,8 @@ def _subsplit_recursive(chunk, max_bytes, max_depth, depth):
     final = []
     for sc in sub_chunks:
         if len(sc["html"].encode('utf-8')) > max_bytes:
-            inner = _subsplit_recursive(sc, max_bytes, max_depth, depth + 1)
+            inner = _subsplit_recursive(sc, max_bytes, max_depth, depth + 1,
+                                        parent_label=sc.get("label", ""))
             final.extend(inner)
         else:
             final.append(sc)
@@ -292,11 +323,12 @@ def _find_inner_div_spans(html_text):
     return []
 
 
-def _build_sub_chunks(html_text, base_type, groups):
+def _build_sub_chunks(html_text, base_type, groups, parent_label=""):
     """Build numbered sub-chunk dicts from grouped spans.
 
     Ensures full coverage: concat of all sub-chunk html == html_text.
     Uses dot notation: base_type.1, base_type.2, etc. (1-indexed).
+    parent_label is prepended to the sub-chunk label with a dot separator.
     """
     sub_chunks = []
     header_text = html_text[:groups[0][0]]
@@ -306,9 +338,12 @@ def _build_sub_chunks(html_text, base_type, groups):
             html = header_text + html_text[gs:ge]
         else:
             html = html_text[groups[i - 1][1]:ge]
+        sub_label = (f"{parent_label}.{i + 1}" if parent_label
+                     else str(i + 1))
         sub_chunks.append({
             "type": f"{base_type}.{i + 1}",
             "html": html,
+            "label": sub_label,
         })
 
     # Footer: append to last sub-chunk
@@ -340,12 +375,12 @@ def split_txt(txt_text):
     lines = txt_text.split('\n')
     marker_indices = []
 
-    # New format: ## SPLIT 1 stem
-    new_re = re.compile(r'^## SPLIT (\S+) (\w+)$')
+    # Top-level format: ## SPLIT 1 stem (integer only, not 1.1)
+    new_re = re.compile(r'^## SPLIT (\d+) (\w+)$')
     for i, line in enumerate(lines):
         m = new_re.match(line.strip())
         if m:
-            marker_indices.append((i, m.group(2)))
+            marker_indices.append((i, int(m.group(1)), m.group(2)))
 
     if marker_indices:
         return _split_txt_by_markers(lines, marker_indices)
@@ -358,22 +393,26 @@ def split_txt(txt_text):
 
 
 def _split_txt_by_markers(lines, marker_indices):
-    """Split txt at ## SPLIT marker lines."""
+    """Split txt at ## SPLIT marker lines.
+
+    marker_indices is a list of (line_idx, marker_num_str, type_str).
+    """
     chunks = []
 
     # Header: everything before first marker
     header_lines = lines[:marker_indices[0][0]]
     header = '\n'.join(header_lines)
     if header.strip():
-        chunks.append({"type": "header", "txt": header})
+        chunks.append({"type": "header", "txt": header, "label": "0"})
 
-    for i, (idx, stype) in enumerate(marker_indices):
+    for i, (idx, marker_num, stype) in enumerate(marker_indices):
         if i + 1 < len(marker_indices):
             chunk_lines = lines[idx:marker_indices[i + 1][0]]
         else:
             chunk_lines = lines[idx:]
         chunk_txt = '\n'.join(chunk_lines)
-        chunks.append({"type": stype, "txt": chunk_txt})
+        chunks.append({"type": stype, "txt": chunk_txt,
+                       "label": str(marker_num)})
 
     _split_footer(chunks)
     return chunks
@@ -391,14 +430,14 @@ def _split_txt_by_stems(lines):
                 split_indices.append(i)
 
     if not split_indices:
-        return [{"type": "whole", "txt": '\n'.join(lines)}]
+        return [{"type": "whole", "txt": '\n'.join(lines), "label": "0"}]
 
     chunks = []
 
     header_lines = lines[:split_indices[0]]
     header = '\n'.join(header_lines)
     if header.strip():
-        chunks.append({"type": "header", "txt": header})
+        chunks.append({"type": "header", "txt": header, "label": "0"})
 
     for i, idx in enumerate(split_indices):
         if i + 1 < len(split_indices):
@@ -408,7 +447,8 @@ def _split_txt_by_stems(lines):
         chunk_txt = '\n'.join(chunk_lines)
         stem_match = STEM_LINE_RE.match(lines[idx].strip())
         stem_name = stem_match.group(1) if stem_match else "stem"
-        chunks.append({"type": "stem", "txt": chunk_txt, "name": stem_name})
+        chunks.append({"type": "stem", "txt": chunk_txt, "name": stem_name,
+                       "label": str(i + 1)})
 
     _split_footer(chunks)
     return chunks
@@ -442,14 +482,14 @@ def _split_txt_by_senses(lines, txt_text):
         split_indices.insert(0, sense_1_no_blank)
 
     if not split_indices:
-        return [{"type": "whole", "txt": txt_text}]
+        return [{"type": "whole", "txt": txt_text, "label": "0"}]
 
     chunks = []
 
     header_lines = lines[:split_indices[0]]
     header = '\n'.join(header_lines)
     if header.strip():
-        chunks.append({"type": "header", "txt": header})
+        chunks.append({"type": "header", "txt": header, "label": "0"})
 
     for i, idx in enumerate(split_indices):
         if i + 1 < len(split_indices):
@@ -457,7 +497,8 @@ def _split_txt_by_senses(lines, txt_text):
         else:
             chunk_lines = lines[idx:]
         chunk_txt = '\n'.join(chunk_lines)
-        chunks.append({"type": "sense", "txt": chunk_txt})
+        chunks.append({"type": "sense", "txt": chunk_txt,
+                       "label": str(i + 1)})
 
     _split_footer(chunks)
     return chunks
@@ -470,6 +511,90 @@ def _split_footer(chunks):
     created a useless extra chunk every time. Now it's kept attached to
     the last real chunk so roundtrip concatenation is preserved."""
     pass
+
+
+def subsplit_txt(chunk, max_bytes=10000, max_depth=None):
+    """Sub-split a txt chunk at ## SPLIT N.M markers (dot-numbered).
+
+    Parallel to subsplit_html(): takes a txt chunk that may contain
+    sub-split markers like ## SPLIT 1.1 stem, ## SPLIT 1.2 stem inside it,
+    and splits at those markers.
+
+    Args:
+        chunk: dict with 'type' and 'txt' keys
+        max_bytes: not used directly (markers are pre-placed by extract_txt)
+        max_depth: not used (markers are pre-placed)
+
+    Returns list of dicts with 'type' and 'txt' keys. Concatenating all
+    'txt' values (joined by newlines at marker boundaries) reproduces the
+    original chunk content.
+    """
+    txt = chunk["txt"]
+    base_type = chunk["type"]
+    lines = txt.split('\n')
+
+    # Find sub-split markers whose prefix matches this chunk's number.
+    # e.g. if base_type came from "## SPLIT 1 stem", look for "## SPLIT 1.N stem"
+    sub_re = re.compile(r'^## SPLIT (\d+(?:\.\d+)+) (\w+)$')
+    sub_indices = []
+    for i, line in enumerate(lines):
+        m = sub_re.match(line.strip())
+        if m:
+            sub_indices.append((i, m.group(1), m.group(2)))
+
+    if not sub_indices:
+        return [chunk]
+
+    # Filter to leaf markers only: a marker is a leaf if no other marker
+    # has it as a prefix (e.g., 1.1 is NOT a leaf if 1.1.1 exists).
+    all_nums = {num for _, num, _ in sub_indices}
+    leaf_indices = [(idx, num, stype) for idx, num, stype in sub_indices
+                    if not any(other.startswith(num + '.') for other in all_nums)]
+
+    if not leaf_indices:
+        return [chunk]
+
+    # Split at leaf markers
+    sub_chunks = []
+    for i, (idx, num, stype) in enumerate(leaf_indices):
+        if i + 1 < len(leaf_indices):
+            chunk_lines = lines[idx:leaf_indices[i + 1][0]]
+        else:
+            chunk_lines = lines[idx:]
+        sub_chunks.append({
+            "type": f"{base_type}.{i + 1}",
+            "txt": '\n'.join(chunk_lines),
+            "label": num,  # e.g. "1.1", "5.3" — directly from ## SPLIT marker
+        })
+
+    # Header: text before first leaf marker belongs to first sub-chunk
+    header_lines = lines[:leaf_indices[0][0]]
+    header = '\n'.join(header_lines)
+    if header.strip():
+        sub_chunks[0]["txt"] = header + '\n' + sub_chunks[0]["txt"]
+
+    return sub_chunks
+
+
+def get_chunk_labels(chunks):
+    """Get the list of leaf labels from a list of chunk dicts.
+
+    Handles both top-level chunks and subsplit chunks. For each top-level
+    chunk, if subsplitting produces multiple sub-chunks, their labels are
+    used; otherwise the top-level chunk's label is used.
+    """
+    labels = []
+    for c in chunks:
+        if "txt" in c:
+            subs = subsplit_txt(c)
+        else:
+            subs = subsplit_html(c)
+        if len(subs) == 1:
+            labels.append(c.get("label", "?"))
+        else:
+            for sc in subs:
+                labels.append(sc.get("label", "?"))
+    return labels
 
 
 def extract_text_from_html_chunk(chunk_html):

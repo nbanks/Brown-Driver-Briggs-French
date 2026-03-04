@@ -28,6 +28,9 @@ Gn 42,23 ; 2 S 21,7 ; Jr 25,16 duel
 בֵּנַיִם (voir ci-dessous) ; —
 
 ## SPLIT 1 sense
+
+## SPLIT 1.1 sense
+
 1.
 
 toujours (sauf le duel) comme préposition
@@ -165,6 +168,8 @@ Ez 31,10
 Ez 31,14
 .
 Ainsi אֶלבֵּֿינוֺת לְ ib. Ez 10,2.
+
+## SPLIT 1.2 sense
 
 b.
 בְּבֵן

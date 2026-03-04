@@ -30,7 +30,7 @@ from pathlib import Path
 
 from llm_common import (ContextOverflow, _USE_COLOR, _color_text,
                          check_clean_cache, check_server, combined_hash,
-                         fmt_kb, format_eta_suffix, load_clean_cache,
+                         fmt_kb, record_completion, load_clean_cache,
                          query_llm, run_pipeline, save_result,
                          update_clean_cache)
 
@@ -39,14 +39,14 @@ ROOT = SCRIPT_DIR.parent
 
 sys.path.insert(0, str(SCRIPT_DIR))
 from validate_html import validate_file, validate_html
-from split_entry import split_html, split_txt
+from split_entry import split_html, split_txt, subsplit_html, subsplit_txt
 
 ENTRIES_DIR = ROOT / "Entries"
 ENTRIES_FR_DIR = ROOT / "Entries_fr"
 TXT_FR_DIR = ROOT / "Entries_txt_fr"
 ERRATA_FILE = Path("errata.txt")
-CLEAN_CACHE = Path("llm_html_clean.txt")
 _TMP_DIR = Path("/tmp/llm-html")
+CLEAN_CACHE = _TMP_DIR / "llm_html_clean.txt"
 RESULTS_FILE = _TMP_DIR / "results.txt"
 PROMPT_FILE = SCRIPT_DIR / "llm_html_assemble.md"
 
@@ -118,13 +118,13 @@ _WRAP_TAIL = "<!-- @@CHUNK-WRAPPER-TAIL@@ -->"
 
 
 def wrap_chunk(html: str) -> tuple[str, str, str]:
-    """Balance unmatched <html>/<p> tags so the LLM sees matched pairs.
+    """Wrap chunk HTML so the LLM always sees a complete <html>...</html> doc.
 
-    Only adds the missing counterpart when one end is present but not
-    the other.  Middle chunks (neither tag) are left alone.
+    Every chunk gets both <html> and </html>, plus balanced <p> tags.
+    This keeps the prompt instruction ("start with <html>") consistent
+    for all chunks, and unwrap_chunk always knows what to strip.
 
     Returns (wrapped_html, prefix_added, suffix_added).
-    The prefix/suffix strings are empty if nothing was added.
     """
     s = html.strip()
     low = s.lower()
@@ -135,7 +135,7 @@ def wrap_chunk(html: str) -> tuple[str, str, str]:
 
     # Build prefix for missing openers (outermost first)
     prefix = ""
-    if has_html_close and not has_html_open:
+    if not has_html_open:
         prefix += "<html>\n"
     if p_imbalance < 0:  # more </p> than <p>
         prefix += "<p>\n"
@@ -144,7 +144,7 @@ def wrap_chunk(html: str) -> tuple[str, str, str]:
     suffix = ""
     if p_imbalance > 0:  # more <p> than </p>
         suffix += "\n</p>"
-    if has_html_open and not has_html_close:
+    if not has_html_close:
         suffix += "\n</html>"
 
     if prefix:
@@ -214,7 +214,7 @@ def build_prompt(user_template: str, orig_html: str,
 
 
 CHUNK_NOTE_TEMPLATE = (
-    "\n\n## Mode morceau ({idx}/{total})\n\n"
+    "\n\n## Mode morceau ({label}/{denom})\n\n"
     "Vous recevez un **morceau** d'une entrée, pas l'entrée complète. "
     "Produisez le HTML complet pour ce morceau, y compris les balises "
     "`<html>`, `</html>` etc. telles qu'elles apparaissent dans le HTML "
@@ -223,10 +223,10 @@ CHUNK_NOTE_TEMPLATE = (
 
 
 def build_chunk_prompt(user_template: str, html_chunk: str, txt_chunk: str,
-                       chunk_idx: int, total_chunks: int) -> str:
+                       chunk_label: str, chunk_denom: str) -> str:
     """Build the user-message portion for one chunk of a split entry."""
-    chunk_note = CHUNK_NOTE_TEMPLATE.format(idx=chunk_idx + 1,
-                                            total=total_chunks)
+    chunk_note = CHUNK_NOTE_TEMPLATE.format(label=chunk_label,
+                                            denom=chunk_denom)
     base = (user_template
             .replace("{{ORIGINAL_HTML}}", html_chunk)
             .replace("{{FRENCH_TXT}}", txt_chunk))
@@ -275,15 +275,15 @@ def _build_retry_suffix(history: list[tuple[str, list[str]]],
 # ---------------------------------------------------------------------------
 
 def _write_errata(bdb_id: str, message: str, file_lock: threading.Lock,
-                  chunk_idx: int | None = None, total_chunks: int | None = None):
+                  chunk_label: str | None = None,
+                  chunk_denom: str | None = None):
     """Append an errata line to errata.txt.
 
-    When chunk_idx is given, writes 'BDB1234:2/3 html ...' so that
-    --skip-errata can operate at chunk level.  Without it, writes
-    'BDB1234 html ...' (whole-file errata).
+    chunk_label: dot-notation label like "2" or "2.1".
+    chunk_denom: the last chunk's label, used as denominator.
     """
-    if chunk_idx is not None and total_chunks is not None:
-        tag = f"{bdb_id}:{chunk_idx + 1}/{total_chunks}"
+    if chunk_label is not None and chunk_denom is not None:
+        tag = f"{bdb_id}:{chunk_label}/{chunk_denom}"
     else:
         tag = bdb_id
     with file_lock:
@@ -299,18 +299,27 @@ def _assemble_and_validate(bdb_id: str, outputs: list[str | None],
                            file_lock: threading.Lock,
                            max_retries: int = 0,
                            max_attempts: int = 0,
+                           chunk_labels: list[str] | None = None,
+                           chunk_denom: str | None = None,
                            ) -> str:
     """Assemble chunks, write to disk, log errata.  Returns final status.
 
     Shared by both sync (process_entry) and async (_finalize_entry) paths.
+    failed_chunks/errata_chunks use leaf indices; chunk_labels provides labels.
     """
     n = len(orig_parts)
+
+    def _leaf_label(leaf_idx):
+        """Get the label for a leaf chunk."""
+        if chunk_labels is not None:
+            return chunk_labels[leaf_idx]
+        return str(leaf_idx + 1)
 
     # Log errata for individual chunks
     for idx, reason in errata_chunks:
         _write_errata(bdb_id, f"LLM: {reason}", file_lock,
-                      chunk_idx=idx if is_chunked else None,
-                      total_chunks=n if is_chunked else None)
+                      chunk_label=_leaf_label(idx) if is_chunked else None,
+                      chunk_denom=chunk_denom if is_chunked else None)
 
     if all(o is None for o in outputs):
         return "FAILED"
@@ -326,8 +335,8 @@ def _assemble_and_validate(bdb_id: str, outputs: list[str | None],
         _write_errata(bdb_id,
                       f"failed after retries: {error_summary}",
                       file_lock,
-                      chunk_idx=idx if is_chunked else None,
-                      total_chunks=n if is_chunked else None)
+                      chunk_label=_leaf_label(idx) if is_chunked else None,
+                      chunk_denom=chunk_denom if is_chunked else None)
 
     if failed_chunks:
         return "FAILED"
@@ -350,7 +359,13 @@ def _assemble_and_validate(bdb_id: str, outputs: list[str | None],
 
 
 def _parse_errata_line(line: str) -> tuple[str, int | None, str]:
-    """Parse one errata line.  Returns (bdb_id, chunk_idx_or_None, reason)."""
+    """Parse one errata line.  Returns (bdb_id, chunk_idx_or_None, reason).
+
+    Handles both old format (BDB1234:2/3) and new dot notation
+    (BDB1234:2.1/3). For old format, chunk_idx = int(spec) - 1.
+    For new format, returns the raw spec string as chunk_idx for
+    backward compat (callers using it as set membership still work).
+    """
     if " html " not in line:
         return "", None, ""
     tag = line.split()[0]
@@ -358,10 +373,12 @@ def _parse_errata_line(line: str) -> tuple[str, int | None, str]:
     reason = line[reason_start + 7:].strip() if reason_start >= 0 else ""
     if ":" in tag:
         bdb_part, chunk_spec = tag.split(":", 1)
+        spec = chunk_spec.split("/")[0]
         try:
-            return bdb_part, int(chunk_spec.split("/")[0]) - 1, reason
+            return bdb_part, int(spec) - 1, reason
         except ValueError:
-            return tag, None, reason
+            # Dot notation like "2.1" — store as string
+            return bdb_part, spec, reason
     return tag, None, reason
 
 
@@ -403,6 +420,52 @@ def _save_entry_result(bdb_id: str, status: str, chash: str,
 
 
 # ---------------------------------------------------------------------------
+# Sub-splitting: expand top-level chunks into leaf sub-chunks
+# ---------------------------------------------------------------------------
+
+def _flatten_to_leaf_chunks(html_chunks, txt_chunks):
+    """Expand top-level chunks into leaf sub-chunks via subsplit.
+
+    Returns (leaf_html, leaf_txt, labels, parent_indices) where:
+    - labels: list of label strings per leaf (from chunk "label" keys)
+    - parent_indices: list of parent (top-level) index per leaf
+    """
+    leaf_html, leaf_txt, labels, parent_indices = [], [], [], []
+    for i, (hc, tc) in enumerate(zip(html_chunks, txt_chunks)):
+        h_subs = subsplit_html(hc)
+        t_subs = subsplit_txt(tc)
+        if len(h_subs) != len(t_subs) or len(h_subs) == 1:
+            # No sub-split — use top-level chunk as-is
+            leaf_html.append(hc["html"])
+            leaf_txt.append(tc["txt"])
+            labels.append(tc.get("label", "?"))
+            parent_indices.append(i)
+        else:
+            for hs, ts in zip(h_subs, t_subs):
+                leaf_html.append(hs["html"])
+                leaf_txt.append(ts["txt"])
+                labels.append(ts.get("label", "?"))
+                parent_indices.append(i)
+    return leaf_html, leaf_txt, labels, parent_indices
+
+
+def _reassemble_leaf_outputs(outputs, parent_indices, n_top):
+    """Reassemble leaf-level outputs back into top-level chunks.
+
+    Returns a list of n_top strings (or None if all leaves are None).
+    """
+    top_outputs = [None] * n_top
+    for leaf_idx, output in enumerate(outputs):
+        parent_idx = parent_indices[leaf_idx]
+        if output is not None:
+            if top_outputs[parent_idx] is None:
+                top_outputs[parent_idx] = output
+            else:
+                top_outputs[parent_idx] += output
+    return top_outputs
+
+
+# ---------------------------------------------------------------------------
 # Async smart-server pipeline
 # ---------------------------------------------------------------------------
 
@@ -422,6 +485,8 @@ class SmartJob:
     prev_errata: str | None
     entry_state: "EntryState"
     system_prompt: str | None = None
+    chunk_label: str | None = None
+    chunk_denom: str | None = None
 
 
 @dataclass
@@ -432,10 +497,14 @@ class EntryState:
     txt_path: Path
     orig_html: str
     french_txt: str
-    orig_parts: list[str]
-    txt_parts: list[str]
+    orig_parts: list[str]      # top-level orig parts (for validation)
+    txt_parts: list[str]       # leaf-level txt parts
     is_chunked: bool
-    outputs: list[str | None]
+    outputs: list[str | None]  # leaf-level outputs
+    chunk_labels: list[str] | None = None  # label per leaf chunk
+    chunk_denom: str | None = None         # last label (display denominator)
+    parent_indices: list[int] | None = None  # parent idx per leaf
+    n_top: int = 0             # number of top-level chunks
     pending_smart: int = 0
     main_loop_done: bool = False
     lock: threading.Lock = field(default_factory=threading.Lock)
@@ -458,10 +527,19 @@ def _finalize_entry(state: EntryState, file_lock: threading.Lock,
     Called when the last pending smart chunk resolves. May be called from
     the smart thread or (for non-deferred entries) from the main thread.
     """
+    # Reassemble leaf outputs to top-level chunks if sub-split was used
+    if state.parent_indices is not None:
+        top_outputs = _reassemble_leaf_outputs(
+            state.outputs, state.parent_indices, state.n_top)
+    else:
+        top_outputs = state.outputs
+
     state.final_status = _assemble_and_validate(
-        state.bdb_id, state.outputs, state.orig_parts,
+        state.bdb_id, top_outputs, state.orig_parts,
         state.orig_html, state.french_txt, state.is_chunked,
-        state.failed_chunks, state.errata_chunks, file_lock)
+        state.failed_chunks, state.errata_chunks, file_lock,
+        chunk_labels=state.chunk_labels,
+        chunk_denom=state.chunk_denom)
 
     _save_entry_result(state.bdb_id, state.final_status, state.chash,
                        state.max_attempts, state.orig_path, state.txt_path,
@@ -522,7 +600,8 @@ def _smart_worker(q: "queue.Queue[SmartJob | None]",
             debug=debug, errata_note=smart_note,
             attempt_offset=max_retries, debug_prefix="smart",
             on_attempt=_async_on_attempt,
-            system_prompt=job.system_prompt)
+            system_prompt=job.system_prompt,
+            chunk_label=job.chunk_label, chunk_denom=job.chunk_denom)
 
         with state.lock:
             state.outputs[job.chunk_idx] = html
@@ -552,7 +631,13 @@ def _smart_worker(q: "queue.Queue[SmartJob | None]",
             if not same:
                 parts.append(f"← {state.bdb_id}")
             if n_total > 1:
-                parts.append(f"{job.chunk_idx + 1}/{n_total}")
+                if state.chunk_labels is not None:
+                    label = state.chunk_labels[job.chunk_idx]
+                    denom = state.chunk_denom or str(n_total)
+                else:
+                    label = str(job.chunk_idx + 1)
+                    denom = str(n_total)
+                parts.append(f"{label}/{denom}")
             prefix = " ".join(parts) if parts else "←"
             if _USE_COLOR:
                 s = f" \033[1;33m{prefix}\033[0m {verdict}"
@@ -568,11 +653,9 @@ def _smart_worker(q: "queue.Queue[SmartJob | None]",
             elapsed = time.monotonic() - state.t0
             status = state.final_status
             with print_lock:
-                completed_counter[0] += 1
-                elapsed_times.append(elapsed)
-                items_left = state.total_entries - completed_counter[0]
-                suffix = format_eta_suffix(
-                    status, elapsed, elapsed_times, items_left)
+                suffix = record_completion(
+                    elapsed, status, elapsed_times,
+                    completed_counter, state.total_entries)
                 same = (current_line_bdb
                         and current_line_bdb[0] == state.bdb_id)
                 arrow = "←" if same else f"← {state.bdb_id}"
@@ -653,6 +736,8 @@ def _try_server(bdb_id: str, idx: int, n: int,
                 return_history: bool = False,
                 return_reasoning: bool = False,
                 system_prompt: str | None = None,
+                chunk_label: str | None = None,
+                chunk_denom: str | None = None,
                 ) -> tuple[str | None, float, int, list[str], str | None,
                            list[tuple[str, list[str]]]]:
     """Try a server up to max_retries times.
@@ -682,7 +767,9 @@ def _try_server(bdb_id: str, idx: int, n: int,
             return output, prompt_kb_total, 0, [], None, history
 
         if is_chunked:
-            base = build_chunk_prompt(template, wrapped_html, txt_fr, idx, n)
+            cl = chunk_label or str(idx + 1)
+            cd = chunk_denom or str(n)
+            base = build_chunk_prompt(template, wrapped_html, txt_fr, cl, cd)
         else:
             base = build_prompt(template, orig_html, txt_fr)
 
@@ -719,7 +806,7 @@ def _try_server(bdb_id: str, idx: int, n: int,
         if debug:
             dbg = f"/tmp/llm-html/debug-{bdb_id}-{debug_prefix}{attempt}"
             if is_chunked:
-                dbg += f"-chunk{idx}"
+                dbg += f"-chunk{chunk_label or idx}"
             Path(f"{dbg}-prompt.txt").write_text(prompt, encoding="utf-8")
 
         try:
@@ -795,6 +882,8 @@ def _generate_chunk(bdb_id: str, idx: int, n: int,
                     smart_retries: int = 1,
                     prior_errata_reason: str | None = None,
                     system_prompt: str | None = None,
+                    chunk_label: str | None = None,
+                    chunk_denom: str | None = None,
                     ) -> tuple[str | None, float, int, list[str], str | None]:
     """Generate (and retry) one chunk. Delegates to dumb then smart server.
 
@@ -807,7 +896,8 @@ def _generate_chunk(bdb_id: str, idx: int, n: int,
         None, template, server_url, max_retries, is_chunked,
         on_attempt=on_attempt, on_chunk=on_chunk, debug=debug,
         errata_note=errata_note, return_reasoning=True,
-        system_prompt=system_prompt)
+        system_prompt=system_prompt,
+        chunk_label=chunk_label, chunk_denom=chunk_denom)
 
     # Success or no smart server — return as-is
     if not errors and not errata:
@@ -830,7 +920,8 @@ def _generate_chunk(bdb_id: str, idx: int, n: int,
         on_attempt=on_attempt, debug=debug,
         errata_note=smart_note,
         attempt_offset=max_retries, debug_prefix="smart",
-        system_prompt=system_prompt)
+        system_prompt=system_prompt,
+        chunk_label=chunk_label, chunk_denom=chunk_denom)
 
     return s_html, kb + s_kb, s_attempts, s_errors, s_errata
 
@@ -881,14 +972,26 @@ def process_entry(bdb_id: str, orig_path: Path, txt_path: Path,
     is_chunked = (len(html_chunks) >= 2
                   and len(html_chunks) == len(txt_chunks))
 
+    # Leaf-level label/parent tracking for sub-split chunks
+    chunk_labels: list[str] | None = None
+    chunk_denom: str | None = None
+    parent_indices: list[int] | None = None
+    n_top = 0
+
     if is_chunked:
-        n = len(html_chunks)
-        orig_parts = [c["html"] for c in html_chunks]
-        txt_parts = [c["txt"] for c in txt_chunks]
+        n_top = len(html_chunks)
+        # Sub-split oversized chunks into leaf sub-chunks
+        orig_parts, txt_parts, chunk_labels, parent_indices = \
+            _flatten_to_leaf_chunks(html_chunks, txt_chunks)
+        n = len(orig_parts)
+        chunk_denom = chunk_labels[-1] if chunk_labels else "?"
+        # Keep top-level orig parts for final assembly/validation
+        top_orig_parts = [c["html"] for c in html_chunks]
     else:
         n = 1
         orig_parts = [orig_html]
         txt_parts = [french_txt]
+        top_orig_parts = orig_parts
 
     outputs = [None] * n
     total_prompt_kb = 0.0
@@ -905,32 +1008,42 @@ def process_entry(bdb_id: str, orig_path: Path, txt_path: Path,
     if fr_path.exists():
         prev_fr_html = fr_path.read_text()
         if is_chunked:
-            fr_chunks = split_html(prev_fr_html)
-            n_fr = len(fr_chunks)
-            if n_fr != n:
-                # Chunk count mismatch — existing file is misaligned,
-                # discard it and regenerate from scratch.
+            fr_top_chunks = split_html(prev_fr_html)
+            if len(fr_top_chunks) != n_top:
+                # Top-level chunk count mismatch — regenerate from scratch
                 pass
             else:
-                fr_parts = [c["html"] for c in fr_chunks]
-                # Validate chunks that exist in both orig and fr
-                all_clean = True
-                for idx in range(n):
-                    errs = validate_html(
-                        orig_parts[idx], fr_parts[idx], txt_parts[idx])
-                    if errs:
-                        all_clean = False
-                        chunk_prev_outputs[idx] = fr_parts[idx]
-                        chunk_prev_errors[idx] = errs
-                        if skip_failed:
-                            # Keep errored chunk as-is, don't regenerate
-                            outputs[idx] = fr_parts[idx]
-                    else:
-                        outputs[idx] = fr_parts[idx]  # reuse clean chunk
-                if skip_incomplete and not all_clean:
-                    return "SKIPPED", 0.0, 0
-                if all_clean:
-                    return "CLEAN", 0.0, 0
+                # Sub-split each fr top-level chunk to get leaf-level parts
+                fr_leaf_parts = []
+                fr_map = []
+                for i, fc in enumerate(fr_top_chunks):
+                    f_subs = subsplit_html(fc)
+                    for j, fs in enumerate(f_subs):
+                        fr_leaf_parts.append(fs["html"])
+                        fr_map.append((i, j if len(f_subs) > 1 else None))
+
+                if len(fr_leaf_parts) != n:
+                    # Leaf count mismatch — regenerate from scratch
+                    pass
+                else:
+                    # Validate leaf-by-leaf
+                    all_clean = True
+                    for idx in range(n):
+                        errs = validate_html(
+                            orig_parts[idx], fr_leaf_parts[idx],
+                            txt_parts[idx])
+                        if errs:
+                            all_clean = False
+                            chunk_prev_outputs[idx] = fr_leaf_parts[idx]
+                            chunk_prev_errors[idx] = errs
+                            if skip_failed:
+                                outputs[idx] = fr_leaf_parts[idx]
+                        else:
+                            outputs[idx] = fr_leaf_parts[idx]
+                    if skip_incomplete and not all_clean:
+                        return "SKIPPED", 0.0, 0
+                    if all_clean:
+                        return "CLEAN", 0.0, 0
         else:
             prev_output = prev_fr_html
             prev_errors = validate_html(orig_html, prev_output, french_txt)
@@ -948,8 +1061,10 @@ def process_entry(bdb_id: str, orig_path: Path, txt_path: Path,
         state = EntryState(
             bdb_id=bdb_id, orig_path=orig_path, txt_path=txt_path,
             orig_html=orig_html, french_txt=french_txt,
-            orig_parts=orig_parts, txt_parts=txt_parts,
+            orig_parts=top_orig_parts, txt_parts=txt_parts,
             is_chunked=is_chunked, outputs=outputs,
+            chunk_labels=chunk_labels, chunk_denom=chunk_denom,
+            parent_indices=parent_indices, n_top=n_top,
             t0=time.monotonic())
 
     # Process each chunk with its own retry loop.
@@ -987,6 +1102,10 @@ def process_entry(bdb_id: str, orig_path: Path, txt_path: Path,
         _errata_reasons = errata_reasons or {}
         chunk_errata = _errata_reasons.get(idx) or _errata_reasons.get(None)
 
+        # Resolve this chunk's label for prompts/display
+        _cl = chunk_labels[idx] if chunk_labels else None
+        _cd = chunk_denom
+
         if async_smart:
             # Dumb server only — enqueue failures to smart queue
             errata_note = (_errata_note_text(chunk_errata)
@@ -997,7 +1116,8 @@ def process_entry(bdb_id: str, orig_path: Path, txt_path: Path,
                 max_retries, is_chunked,
                 on_attempt=on_attempt, on_chunk=on_chunk, debug=debug,
                 errata_note=errata_note, return_reasoning=True,
-                system_prompt=system_prompt)
+                system_prompt=system_prompt,
+                chunk_label=_cl, chunk_denom=_cd)
 
             total_prompt_kb += kb
             max_attempts = max(max_attempts, attempts)
@@ -1024,7 +1144,8 @@ def process_entry(bdb_id: str, orig_path: Path, txt_path: Path,
                 template=template, is_chunked=is_chunked,
                 prev_output=html, prev_errors=remaining or [],
                 prev_history=history, prev_errata=errata,
-                entry_state=state, system_prompt=system_prompt)
+                entry_state=state, system_prompt=system_prompt,
+                chunk_label=_cl, chunk_denom=_cd)
             with state.lock:
                 state.pending_smart += 1
             smart_queue.put(job)
@@ -1038,7 +1159,8 @@ def process_entry(bdb_id: str, orig_path: Path, txt_path: Path,
                 on_attempt=on_attempt, on_chunk=on_chunk, debug=debug,
                 smart_server=smart_server, smart_retries=smart_retries,
                 prior_errata_reason=chunk_errata,
-                system_prompt=system_prompt)
+                system_prompt=system_prompt,
+                chunk_label=_cl, chunk_denom=_cd)
 
             total_prompt_kb += kb
             max_attempts = max(max_attempts, attempts)
@@ -1062,6 +1184,12 @@ def process_entry(bdb_id: str, orig_path: Path, txt_path: Path,
             elif on_chunk_done and is_chunked:
                 on_chunk_done("✓")
 
+    # Reassemble leaf outputs to top-level for validation
+    def _reassemble_for_validate(leaf_outputs):
+        if parent_indices is not None:
+            return _reassemble_leaf_outputs(leaf_outputs, parent_indices, n_top)
+        return leaf_outputs
+
     # If chunks were deferred to smart, store state and return PENDING
     if deferred_count > 0:
         with state.lock:
@@ -1074,19 +1202,24 @@ def process_entry(bdb_id: str, orig_path: Path, txt_path: Path,
             if state.pending_smart == 0:
                 # All smart chunks resolved while main loop was still running.
                 # Assemble synchronously — smart thread won't finalize.
+                top_outputs = _reassemble_for_validate(state.outputs)
                 status = _assemble_and_validate(
-                    bdb_id, state.outputs, orig_parts, orig_html, french_txt,
-                    is_chunked, state.failed_chunks, state.errata_chunks,
-                    file_lock)
+                    bdb_id, top_outputs, top_orig_parts, orig_html,
+                    french_txt, is_chunked, state.failed_chunks,
+                    state.errata_chunks, file_lock,
+                    chunk_labels=chunk_labels,
+                    chunk_denom=chunk_denom)
                 return status, total_prompt_kb, max_attempts
         if entry_state_out is not None:
             entry_state_out.append(state)
         return "PENDING", total_prompt_kb, max_attempts
 
     # Synchronous completion (no smart queue or all chunks succeeded on dumb)
+    top_outputs = _reassemble_for_validate(outputs)
     status = _assemble_and_validate(
-        bdb_id, outputs, orig_parts, orig_html, french_txt,
-        is_chunked, failed_chunks, errata_chunks, file_lock)
+        bdb_id, top_outputs, top_orig_parts, orig_html, french_txt,
+        is_chunked, failed_chunks, errata_chunks, file_lock,
+        chunk_labels=chunk_labels, chunk_denom=chunk_denom)
     return status, total_prompt_kb, max_attempts
 
 
@@ -1177,6 +1310,10 @@ def main():
     parser.add_argument(
         "--smart-retries", type=int, default=1, metavar="R",
         help="Max retries on the smart server. Default: 1.",
+    )
+    parser.add_argument(
+        "--max-smart-inflight", type=int, default=9999, metavar="N",
+        help="Max chunks queued for smart server before blocking. Default: 9999.",
     )
     args = parser.parse_args()
 
@@ -1395,16 +1532,16 @@ def main():
     max_try_width = len(max_try_str)
 
     # --- Async smart-server pipeline setup ---
-    MAX_SMART_INFLIGHT = 3
+    MAX_SMART_INFLIGHT = args.max_smart_inflight
     use_async_smart = bool(args.smart_server and sequential)
     smart_q: queue.Queue[SmartJob | None] | None = None
     smart_sem: threading.Semaphore | None = None
     smart_thread: threading.Thread | None = None
     shutdown_event = threading.Event()
-    # Shared mutable counters for the smart thread's display/ETA.
-    # Using lists so the smart thread can mutate them under print_lock.
-    smart_elapsed_times: list[float] = []
-    smart_completed: list[int] = [0]  # [count]
+    # Shared mutable counters for ETA — both the main loop (run_pipeline)
+    # and the smart-server thread append here, so ETAs reflect all completions.
+    shared_elapsed_times: list[float] = []
+    shared_completed: list[int] = [0]  # [count]
     pending_states: list[EntryState] = []  # entries awaiting smart resolution
 
     if use_async_smart:
@@ -1415,7 +1552,7 @@ def main():
             args=(smart_q, args.smart_server, args.smart_retries,
                   args.max_retries, args.debug, file_lock, print_lock,
                   RESULTS_FILE, CLEAN_CACHE,
-                  smart_elapsed_times, smart_completed,
+                  shared_elapsed_times, shared_completed,
                   shutdown_event, smart_sem, current_line_bdb),
             daemon=True)
         smart_thread.start()
@@ -1461,6 +1598,19 @@ def main():
                 errata_reasons[k] = reason
 
         try_chars = 0
+        # Compute chunk labels for the on_chunk callback display.
+        # This mirrors the logic in process_entry but avoids changing
+        # its return signature.
+        _html_chunks = split_html(orig_path.read_text())
+        _txt_chunks = split_txt(txt_path.read_text())
+        if (len(_html_chunks) >= 2
+                and len(_html_chunks) == len(_txt_chunks)):
+            _, _, chunk_labels_ref, _ = _flatten_to_leaf_chunks(
+                _html_chunks, _txt_chunks)
+            chunk_denom_ref = chunk_labels_ref[-1] if chunk_labels_ref else None
+        else:
+            chunk_labels_ref = []
+            chunk_denom_ref = None
 
         def on_attempt(n, smart=False, errata=False):
             nonlocal try_chars
@@ -1489,7 +1639,14 @@ def main():
             if not sequential:
                 return
             if is_chunked:
-                s = f" {idx + 1}/{total_chunks} {fmt_kb(chunk_kb)}KB"
+                # Use chunk_labels/chunk_denom from closure if available
+                if chunk_labels_ref and idx < len(chunk_labels_ref):
+                    cl = chunk_labels_ref[idx]
+                    cd = chunk_denom_ref or str(total_chunks)
+                else:
+                    cl = str(idx + 1)
+                    cd = str(total_chunks)
+                s = f" {cl}/{cd} {fmt_kb(chunk_kb)}KB"
             else:
                 s = f" {fmt_kb(chunk_kb)}KB"
             try_chars += len(s)
@@ -1560,7 +1717,9 @@ def main():
                           parallel=args.parallel,
                           shuffle=args.shuffle, limit=args.max,
                           label="entries",
-                          print_lock=print_lock)
+                          print_lock=print_lock,
+                          shared_elapsed_times=shared_elapsed_times,
+                          shared_completed=shared_completed)
 
     # --- Wait for async smart server to finish ---
     if smart_thread is not None:

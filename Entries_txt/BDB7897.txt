@@ -17,6 +17,8 @@ proper name ריב = Arabic
 
 ## SPLIT 1 stem
 
+## SPLIT 1.1 stem
+
 Qal
 Perfect 3 masculine singular רָב
 Judg 11:25;
@@ -116,6 +118,8 @@ P
 Hos 4:4 (||
 
 הוֺכִיחַ). Especially
+
+## SPLIT 1.2 stem
 
 3.
 conduct a (legal) case, suit, usually figurative, ׳

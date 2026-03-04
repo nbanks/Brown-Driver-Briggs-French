@@ -4,6 +4,9 @@ hébreu biblique
 [פָּרַר] verbe
 
 ## SPLIT 1 stem
+
+## SPLIT 1.1 stem
+
 Hiph`il
 briser, annuler (hébreu tardif Pi`el émietter ; judéo-araméen פְּרַר
 ; assyrien
@@ -88,6 +91,8 @@ Nb 15,31
 9,14, תּוֺרָה
 Ps
 119,126.
+
+## SPLIT 1.2 stem
 
 2.
 frustrer, rendre inefficace :

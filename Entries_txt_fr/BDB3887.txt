@@ -38,6 +38,9 @@ J
 49,18.
 
 ## SPLIT 2 sense
+
+## SPLIT 2.1 sense
+
 2.
 honneur, splendeur, gloire, de condition et circonstances extérieures :
 
@@ -87,6 +90,8 @@ sainte restaurée Ps
 ; Es 4,5
 Jérusalem Es 62,2
 .
+
+## SPLIT 2.2 sense
 
 c. de Dieu, gloire, (1) dans les théophanies historiques : à Moïse Ex 33,18 ;
 Ex 33,22

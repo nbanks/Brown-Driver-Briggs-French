@@ -57,6 +57,9 @@ H
 Nb 9,14 ; Nb 15,15.
 
 ## SPLIT 2 sense
+
+## SPLIT 2.1 sense
+
 2. pluriel statuts :
 
 a. de la nature שׁמים
@@ -103,6 +106,8 @@ c.
 דוד
 ׳
 ח statuts de David 1 R 3,3.
+
+## SPLIT 2.2 sense
 
 d. || משׁפטים
 2 S 22,23
@@ -249,6 +254,8 @@ Ez 33,15
 
 Talm Co suppriment עולם) Ez 46,14
 .
+
+## SPLIT 2.3 sense
 
 e.
 les expressions d'obéissance sont ׳

@@ -14,6 +14,9 @@ CIS^iv. 1, 2, No. 74 l. 11. 12^ ; araméen דְּבַח,
 [placeholder1372: Placeholders/1372.gif])
 
 ## SPLIT 1 stem
+
+## SPLIT 1.1 stem
+
 Qal_112_
 Parfait
 ׳
@@ -215,6 +218,8 @@ Ps 50,14
 לאדני
 Ml 1,14
 .
+
+## SPLIT 1.2 stem
 
 4. avec préposition locale בְּ
 Gn 31,54

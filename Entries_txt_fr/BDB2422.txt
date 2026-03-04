@@ -9,6 +9,9 @@ q. v. ; arabe
 [placeholder1532: Placeholders/1532.gif]) —
 
 ## SPLIT 1 stem
+
+## SPLIT 1.1 stem
+
 Qal
 Parfait 3 féminin singulier וְזָעָ֑קָה
 2 S 13,19 1
@@ -50,6 +53,10 @@ Ges^«GKC:61»§ 61^. 1. R 1) ; —
 
 1.
 appeler, à son aide, suivi d'accusatif de personne Jg 12,2.
+
+## SPLIT 1.2 stem
+
+## SPLIT 1.2.1 stem
 
 2.
 crier, pousser des cris, dans le besoin :
@@ -130,6 +137,8 @@ Est 4,1 ||
 Jr 47,2
 et
 surtout Impératif Es 14,31 ; Jr 25,34 ; Jr 48,20 ; Ez 21,17.
+
+## SPLIT 1.2.2 stem
 
 e.
 crier contre quelqu'un, suivi de עַלֿ

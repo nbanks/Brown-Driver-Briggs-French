@@ -24,6 +24,10 @@ compare Nö^ZMG 1886, 725^) —
 
 ## SPLIT 1 stem
 
+## SPLIT 1.1 stem
+
+## SPLIT 1.1.1 stem
+
 Qal
 Perfect
 יָצָא
@@ -240,6 +244,8 @@ P
 Ps 114:1
 .
 
+## SPLIT 1.1.2 stem
+
 b
 go forth from (the presence of) a person: Exod 8:26; Exod 9:33; Exod 10:6 (all followed by
 מֵעִם
@@ -329,6 +335,8 @@ of them (see
 VB
 ), — on accusative with יצא see De.
 
+## SPLIT 1.1.3 stem
+
 e.
 depart
 בְּצֵאת נַפְשָׁהּ
@@ -371,6 +379,8 @@ E
 2Chr
 21:19
 i.e. at the end of two years
+
+## SPLIT 1.1.4 stem
 
 f.
 of inanimate things: river out of Eden Gen 2:10 (
@@ -445,6 +455,8 @@ Josh
 P
 )
 
+## SPLIT 1.1.5 stem
+
 g. with especial emphasis on idea of origin, source: hyssop out of the
 wall
 1Kgs 5:13
@@ -517,6 +529,8 @@ Ezek 33:30 of ׳
 of human
 commandment
 Esth 1:19, compare Esth 1:17.
+
+## SPLIT 1.1.6 stem
 
 h. of children as going
 forth
@@ -618,6 +632,10 @@ Josh
 (twice in verse); Josh 19:12; Josh 19:13; Josh 19:27; Josh 19:34; Josh 19:47
 .
 
+## SPLIT 1.2 stem
+
+## SPLIT 1.2.1 stem
+
 2.
 
 a.
@@ -684,6 +702,8 @@ We
 Dr
 Kit
 Bu.
+
+## SPLIT 1.2.2 stem
 
 c.
 come or go forth, with especially reference to purpose or
@@ -772,6 +792,8 @@ J
 E
 ).
 
+## SPLIT 1.3 stem
+
 3. of combinations, note esp.: יָצוֺא וָשׁוֺב (infinitive absolute) Gen 8:7
 going out and returning, nearly = to and fro; אִישׁ
 יוֺצֵא
@@ -815,6 +837,10 @@ Isa 37:28
 שִׁבְתְּךָ) = 2Kgs 19:27; Ps 121:8.
 
 ## SPLIT 2 stem
+
+## SPLIT 2.1 stem
+
+## SPLIT 2.1.1 stem
 
 Hiph`il_278_
 Perfect
@@ -1093,6 +1119,8 @@ between Jacob's knees Gen 48:12 (
 E
 ).
 
+## SPLIT 2.1.2 stem
+
 b. of bringing from a place for a
 particular purpose (human subject) Exod 19:17 (מִן); also (point of
 departure not expressed, and purpose sometimes only implied) Gen 38:24 (
@@ -1160,6 +1188,8 @@ Ezra
 Deut 24:2
 ).
 
+## SPLIT 2.1.3 stem
+
 g.
 bring out person unto (אֶל) a place (human subject)
 Josh
@@ -1223,6 +1253,8 @@ E
 ),
 Deut 21:19; Judg 19:25.
 
+## SPLIT 2.2 stem
+
 2.
 figurative, object persons, bring out of (מִן)
 distress,
@@ -1256,6 +1288,10 @@ Kmp in Kau^AT^
 (
 P
 );for sacrifice, to a place Num 19:3.
+
+## SPLIT 2.3 stem
+
+## SPLIT 2.3.1 stem
 
 4. inanimate object:
 
@@ -1356,6 +1392,8 @@ and hidden things he (the miner)
 bringeth
 forth tolight.
 
+## SPLIT 2.3.2 stem
+
 i.
 bring forth by miracle: Moses. water out of rock Num 20:8
 ;
@@ -1434,6 +1472,8 @@ Num 14:37 so Num
 14:36
 (
 דִּבָּה עַלהָֿאָרֶץ).
+
+## SPLIT 2.4 stem
 
 5.
 figurative, subject ׳

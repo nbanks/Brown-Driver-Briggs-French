@@ -10,6 +10,9 @@ s'agenouiller, bénir (hébreu tardif id. ; arabe
 Vog^Palm. 74 ss.^ comparer 94, 144) —
 
 ## SPLIT 1 stem
+
+## SPLIT 1.1 stem
+
 Qal
 Imparfait
 יִבְּרַךְ
@@ -30,6 +33,10 @@ et il s'agenouilla sur ses genoux
 נִבְרְכָה לפני י
 prosternons-nous devant Yahvé
 Ps 95,6.
+
+## SPLIT 1.2 stem
+
+## SPLIT 1.2.1 stem
 
 2.
 bénir (seulement participe passif).
@@ -90,6 +97,8 @@ Ez 3,12
 כבודו
 Ps 72,19
 .
+
+## SPLIT 1.2.2 stem
 
 b.
 des hommes :
@@ -160,6 +169,9 @@ J
 Hithpa`el).
 
 ## SPLIT 3 stem
+
+## SPLIT 3.1 stem
+
 Piel_233_
 Parfait
 בֵּרַךְ
@@ -261,6 +273,10 @@ Jos 22,33
 
 Es 66,3 (d'un culte idolâtre).
 
+## SPLIT 3.2 stem
+
+## SPLIT 3.2.1 stem
+
 2.
 Dieu bénit
 
@@ -336,6 +352,8 @@ Jr 31,23
 ; Ag 2,19
 ,
 
+## SPLIT 3.2.2 stem
+
 b.
 
 choses : sabbat Gn 2,3 ; Ex 20,11 (
@@ -348,6 +366,8 @@ E
 E
 ) ; œuvre
 Dt 28,12 ; Jb 1,10 comparer Dt 33,11 ; Ps 65,11 ; Ps 132,15.
+
+## SPLIT 3.3 stem
 
 3.
 des hommes bénissent des hommes : prêtres et rois ׳
@@ -389,6 +409,8 @@ J
 )
 2 S 13,25 en consacrant un sacrifice
 1 S 9,13.
+
+## SPLIT 3.4 stem
 
 4.
 saluer, accueillir, avec une invocation de bénédiction (plus fort que שׁלום

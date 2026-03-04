@@ -120,6 +120,9 @@ E
 Dt 32,5.
 
 ## SPLIT 3 stem
+
+## SPLIT 3.1 stem
+
 Hiphil_103_
 Parfait 3 masculin singulier הִשְׁחִית
 Gn 6,12 + ; 1
@@ -226,6 +229,8 @@ Ges^«GKC:126l»§ 126l^ ; la bande dévastatrice
 Bu
 Now) 1 S 13,17 ; 1 S 14,15 (pillards,
 ravageurs) ; figuré pour piège, lacet, Jr 5,26.
+
+## SPLIT 3.2 stem
 
 2.
 pervertir, corrompre, moralement, accusatif דֶּרֶךְ

@@ -17,6 +17,9 @@ DHM^Epigr. Denkm. 43^, mais éthiopien
 [placeholder1478: Placeholders/1478.gif]) —
 
 ## SPLIT 1 stem
+
+## SPLIT 1.1 stem
+
 Qal
 Parfait 3 masculin singulier ׳
 ז
@@ -174,6 +177,8 @@ Dt 5,15 ; Dt 15,15 ; Dt 16,12 ;
 Dt
 24,18 ; Dt 24,22 ; Ps 78,35.
 
+## SPLIT 1.2 stem
+
 2.
 se souvenir de personnes (sujet humain),
 
@@ -271,6 +276,8 @@ P
 119,52 (משׁפטים
 ) ; son alliance 1 Ch 16,15.
 
+## SPLIT 1.3 stem
+
 5.
 penser à, songer à, rappeler à l'esprit quelque chose de présent ou de futur : —
 suivi d'
@@ -365,6 +372,8 @@ H
 
 e. l'humanité Ps 8,5
 (|| פקד).
+
+## SPLIT 1.4 stem
 
 2.
 
@@ -560,6 +569,9 @@ Ez 25,10.
 observer, célébrer).
 
 ## SPLIT 3 stem
+
+## SPLIT 3.1 stem
+
 Hiph`il
 Parfait 3 masculin singulier הִזְכִּיר
 Es 49,1
@@ -671,6 +683,8 @@ d. absolu commémorer, louer
 לְהַז, apparemment fonction lévitique, suivi de ולהודות ולהלל ליהוה
 ), ainsi peut-être aussi לְהַזְכִּיר dans les titres Ps 38,1 ; Ps
 70,1 (autres ci-dessous 5).
+
+## SPLIT 3.2 stem
 
 4.
 consigner, seulement participe מַזְכִּיר comme substantif (titre de

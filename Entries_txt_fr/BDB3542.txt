@@ -14,6 +14,9 @@ alâdu,
 COT^Gloss^) —
 
 ## SPLIT 1 stem
+
+## SPLIT 1.1 stem
+
 Qal
 Parfait
 יָלַד
@@ -164,6 +167,8 @@ Dt 32,18
 
 pourtant voir
 2.
+
+## SPLIT 1.2 stem
 
 2.
 moins souvent

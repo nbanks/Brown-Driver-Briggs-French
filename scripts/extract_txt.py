@@ -26,6 +26,7 @@ import os
 import re
 import sys
 from bs4 import BeautifulSoup, NavigableString
+from split_entry import subsplit_html, determine_split_divs
 
 
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -45,89 +46,121 @@ OPAQUE_TAGS = {"bdbheb", "bdbarc", "transliteration", "grk"}
 # lines let split_entry split txt files without heuristics.
 # ---------------------------------------------------------------------------
 
-_STEM_DIV_RE = re.compile(r'<div\s+class="stem"[^>]*>')
-_SENSE_DIV_RE = re.compile(r'<div\s+class="sense"[^>]*>')
-_SECTION_DIV_RE = re.compile(r'<div\s+class="section"[^>]*>')
-_POINT_DIV_RE = re.compile(r'<div\s+class="point"[^>]*>')
 _ANY_DIV_OPEN_RE = re.compile(r'<div\b[^>]*>')
-_DIV_CLOSE_RE = re.compile(r'</div>')
+
+DEFAULT_MAX_BYTES = 10000
 
 
-def _find_div_spans(html_text, div_re):
-    """Find (start, end) of each div matching div_re, handling nesting."""
-    results = []
-    for m in div_re.finditer(html_text):
-        start = m.start()
-        depth = 1
-        pos = m.end()
-        while depth > 0 and pos < len(html_text):
-            next_open = _ANY_DIV_OPEN_RE.search(html_text, pos)
-            next_close = _DIV_CLOSE_RE.search(html_text, pos)
-            if next_close is None:
-                pos = len(html_text)
-                break
-            if next_open and next_open.start() < next_close.start():
-                depth += 1
-                pos = next_open.end()
-            else:
-                depth -= 1
-                pos = next_close.end()
-                if depth == 0:
-                    break
-        results.append((start, pos))
-    return results
+def inject_split_markers(html_text, max_bytes=DEFAULT_MAX_BYTES):
+    """Inject ## SPLIT markers after each split div's opening tag.
 
-
-def _determine_split_divs(html_text):
-    """Find top-level split div start positions (same logic as split_html).
-    Returns list of (start_pos, type_str)."""
-    stem_spans = _find_div_spans(html_text, _STEM_DIV_RE)
-    if stem_spans:
-        return [(s, 'stem') for s, e in stem_spans]
-
-    sense_spans = _find_div_spans(html_text, _SENSE_DIV_RE)
-    point_spans = _find_div_spans(html_text, _POINT_DIV_RE)
-    all_senses = sorted(sense_spans + point_spans)
-    if all_senses:
-        top = []
-        for i, (s, e) in enumerate(all_senses):
-            nested = any(s2 < s and e <= e2
-                         for j, (s2, e2) in enumerate(all_senses) if i != j)
-            if not nested:
-                top.append((s, 'sense'))
-        if top:
-            return top
-
-    section_spans = _find_div_spans(html_text, _SECTION_DIV_RE)
-    if section_spans:
-        return [(s, 'section') for s, e in section_spans]
-    return []
-
-
-def inject_split_markers(html_text):
-    """Inject ## SPLIT N type markers after each top-level split div's
-    opening tag.  Returns modified HTML string.
-
-    Markers are numbered sequentially starting from 1:
+    Top-level markers use position-based div detection (reliable even
+    for entries with nested/overlapping divs):
         ## SPLIT 1 stem
         ## SPLIT 2 stem
-        ## SPLIT 3 stem
+
+    Sub-split markers use subsplit_html from split_entry to guarantee
+    exact alignment with the assembly pipeline:
+        ## SPLIT 1.1 stem
+        ## SPLIT 1.2 stem
     """
-    splits = _determine_split_divs(html_text)
+    splits = determine_split_divs(html_text)
     if not splits:
         return html_text
-    # Insert in reverse order to preserve positions, but number forward
-    n = len(splits)
-    splits_numbered = list(enumerate(splits, 1))  # (num, (pos, type))
-    splits_numbered.sort(key=lambda x: x[1][0], reverse=True)
-    result = html_text
-    for num, (pos, stype) in splits_numbered:
-        m = _ANY_DIV_OPEN_RE.match(result, pos)
+
+    # Collect all marker injection points: (insert_pos, marker_text)
+    markers = []
+
+    # Sub-split the header (content before first div) if oversized
+    header_html = html_text[:splits[0][0]]
+    if header_html.strip():
+        header_chunk = {"type": "header", "html": header_html}
+        header_subs = subsplit_html(header_chunk, max_bytes=max_bytes)
+        if len(header_subs) > 1:
+            sub_offset = 0
+            for i, sc in enumerate(header_subs):
+                sub_end = sub_offset + len(sc["html"])
+                suffix = sc["type"][len("header"):]  # e.g. ".1"
+                sub_num = f"0{suffix}"
+                m2 = _ANY_DIV_OPEN_RE.search(html_text, sub_offset)
+                if m2 and m2.start() < sub_end:
+                    markers.append((m2.end(),
+                                    f'## SPLIT {sub_num} header'))
+                sub_offset = sub_end
+
+    for num, (start, end, stype) in enumerate(splits, 1):
+        # Top-level marker
+        m = _ANY_DIV_OPEN_RE.match(html_text, start)
         if m:
-            insert_pos = m.end()
-            result = (result[:insert_pos]
-                      + f'\n## SPLIT {num} {stype}\n'
-                      + result[insert_pos:])
+            markers.append((m.end(), f'## SPLIT {num} {stype}'))
+
+        # Sub-split markers: build the chunk the same way _build_chunks
+        # does (including gap text from previous div end) so subsplit_html
+        # sees the same content as the assembly pipeline.
+        if num == 1:
+            chunk_start = start
+        else:
+            chunk_start = splits[num - 2][1]  # end of previous div
+        chunk_html = html_text[chunk_start:end]
+        if num == len(splits):
+            chunk_html += html_text[end:]  # footer for last chunk
+        chunk = {"type": stype, "html": chunk_html}
+        # Get depth-1 sub-chunks first (to emit intermediate markers),
+        # then the fully-recursive sub-chunks for leaf markers.
+        depth1_subs = subsplit_html(chunk, max_bytes=max_bytes,
+                                    max_depth=1)
+        all_subs = subsplit_html(chunk, max_bytes=max_bytes)
+
+        if len(all_subs) > 1:
+            # Emit depth-1 markers (e.g. ## SPLIT 1.1, 1.2, ...)
+            # These serve as intermediate grouping markers.
+            if len(depth1_subs) > 1:
+                d1_offset = start
+                d1_gap = start - chunk_start
+                for i, sc in enumerate(depth1_subs):
+                    if i == 0:
+                        d1_end = d1_offset + len(sc["html"]) - d1_gap
+                    else:
+                        d1_end = d1_offset + len(sc["html"])
+                    suffix = sc["type"][len(stype):]
+                    sub_num = f"{num}{suffix}"
+                    m2 = _ANY_DIV_OPEN_RE.search(html_text, d1_offset)
+                    if m2 and m2.start() < d1_end:
+                        markers.append((m2.end(),
+                                        f'## SPLIT {sub_num} {stype}'))
+                    d1_offset = d1_end
+
+            # Emit leaf markers (e.g. ## SPLIT 1.1.1, 1.1.2, ...)
+            # Skip any that duplicate depth-1 markers (same suffix).
+            d1_suffixes = set()
+            for sc in depth1_subs:
+                d1_suffixes.add(sc["type"][len(stype):])
+
+            sub_offset = start
+            gap_len = start - chunk_start
+            for i, sc in enumerate(all_subs):
+                if i == 0:
+                    sub_end = sub_offset + len(sc["html"]) - gap_len
+                else:
+                    sub_end = sub_offset + len(sc["html"])
+                suffix = sc["type"][len(stype):]
+                # Skip if this is already covered by a depth-1 marker
+                if suffix not in d1_suffixes:
+                    sub_num = f"{num}{suffix}"
+                    m2 = _ANY_DIV_OPEN_RE.search(html_text, sub_offset)
+                    if m2 and m2.start() < sub_end:
+                        markers.append((m2.end(),
+                                        f'## SPLIT {sub_num} {stype}'))
+                sub_offset = sub_end
+
+    # Insert in reverse position order to preserve offsets.
+    # Secondary sort: longer markers first (deeper sub-splits), so that
+    # when parent and child share a position, the parent is inserted last
+    # and thus appears first in the output.
+    markers.sort(key=lambda x: (-x[0], -len(x[1])))
+    result = html_text
+    for pos, marker_text in markers:
+        result = result[:pos] + f'\n{marker_text}\n' + result[pos:]
     return result
 
 

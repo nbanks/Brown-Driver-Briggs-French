@@ -11,6 +11,9 @@ se mouvoir de part et d'autre, être en commotion, pendiller,
 Lane^2866^) ; —
 
 ## SPLIT 1 stem
+
+## SPLIT 1.1 stem
+
 Qal
 Parfait
 נָס
@@ -144,6 +147,8 @@ J
 4,17 ; 2 S 24,13, מִלִּפְנֵי
 1 Ch 19,18
 .
+
+## SPLIT 1.2 stem
 
 2.
 échapper

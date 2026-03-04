@@ -26,6 +26,9 @@ Parfait 3 masculin singulier ׳
 plus jeune reste encore.
 
 ## SPLIT 2 stem
+
+## SPLIT 2.1 stem
+
 Niphal_93_
 Parfait 3 masculin singulier נִשְׁאַר
 Gn 47,18 + ;
@@ -153,6 +156,8 @@ reste, résidu (comparer שְׁאָר, שְׁאֵרִית) Es 4,3 (
 1 S 9,24
 est douteux ; ce qui reste, en dépréciation polie, Bu ; lire הַשְּׁאֵר
 HPS.
+
+## SPLIT 2.2 stem
 
 2.
 être laissé en arrière, Ex 10,26 (

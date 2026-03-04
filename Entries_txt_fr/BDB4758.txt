@@ -10,6 +10,9 @@ Es 10,7 +, pluriel
 Ps 109,8 ; Qo 5,1 —
 
 ## SPLIT 1 sense
+
+## SPLIT 1.1 sense
+
 1.
 
 a.
@@ -72,6 +75,8 @@ deux fois décliné comme adjectif, Ps 109,8
 יִהְיוּ יָמָיו מְעַטִּים, Qo 5,1
 עלכֿן יהיו דבריך
 מְעַטִּים.
+
+## SPLIT 1.2 sense
 
 d.
 comme accusatif adverbial, de lieu, 2 S 16,1

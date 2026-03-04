@@ -29,6 +29,8 @@ Gen 42:23; 2Sam 21:7; Jer 25:16 dual
 
 ## SPLIT 1 sense
 
+## SPLIT 1.1 sense
+
 1.
 
 always (except dual) as preposition
@@ -166,6 +168,8 @@ Ezek 31:10
 Ezek 31:14
 .
 So אֶלבֵּֿינוֺת לְ ib. Ezek 10:2.
+
+## SPLIT 1.2 sense
 
 b.
 בְּבֵן

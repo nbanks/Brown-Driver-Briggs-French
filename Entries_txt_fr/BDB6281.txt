@@ -21,6 +21,9 @@ Dt 29,10,
 Lm 5,4, etc. ; —
 
 ## SPLIT 1 sense
+
+## SPLIT 1.1 sense
+
 1. (env. 150 t.)
 
 a. un arbre sur pied
@@ -82,6 +85,8 @@ Jr 17,2
 כָּלעַֿץ עָבֹת
 Ez 20,28
 .
+
+## SPLIT 1.2 sense
 
 b. collectif arbres, עֵץהַֿגָּן
 Gn 2,16 ; Gn 3,1 ; Gn 3,2 ; Gn 3,8 (tous
@@ -162,6 +167,9 @@ Jr 9,11
 אַלְגּ ci-dessus
 
 ## SPLIT 2 sense
+
+## SPLIT 2.1 sense
+
 2. (environ 175 fois ; environ 120 fois au pluriel, pour désigner des pièces
 
 [ou des articles] de bois)
@@ -277,6 +285,8 @@ Es 44,19 ; Es 45,20
 אֲשֵׁרָה כָּלעֵֿץ
 Dt 16,21
 .
+
+## SPLIT 2.2 sense
 
 d. bois (de chauffage)
 Jos 9,23 ;

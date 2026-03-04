@@ -42,6 +42,8 @@ Isa 65:24: —
 
 ## SPLIT 1 sense
 
+## SPLIT 1.1 sense
+
 1.
 as adverb
 :
@@ -198,6 +200,8 @@ so with אֵין
 Isa
 23:10; Jer 10:20; Jer 48:2; Ps 74:9
 al.
+
+## SPLIT 1.2 sense
 
 b.
 When the continuance is limited by its nature to a single occurrence,

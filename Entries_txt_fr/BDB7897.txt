@@ -16,6 +16,9 @@ nom propre ריב = arabe
 [placeholder5060: Placeholders/5060.gif] voir DHM^ib. 14^) ; —
 
 ## SPLIT 1 stem
+
+## SPLIT 1.1 stem
+
 Qal
 Parfait 3 masculin singulier רָב
 Jg 11,25 ;
@@ -115,6 +118,8 @@ P
 Os 4,4 (||
 
 הוֺכִיחַ). Surtout
+
+## SPLIT 1.2 stem
 
 3.
 conduire un procès, une cause, habituellement figuré, ׳

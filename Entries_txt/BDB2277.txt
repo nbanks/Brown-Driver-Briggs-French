@@ -15,6 +15,8 @@ CIS^iv. 1, 2, No. 74 l. 11. 12^; Aramaic דְּבַח,
 
 ## SPLIT 1 stem
 
+## SPLIT 1.1 stem
+
 Qal_112_
 Perfect
 ׳
@@ -216,6 +218,8 @@ Ps 50:14
 לאדני
 Mal 1:14
 .
+
+## SPLIT 1.2 stem
 
 4. with local preposition בְּ
 Gen 31:54

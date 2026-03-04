@@ -13,6 +13,11 @@ DHM^ZMG xxxvii (1883), 403^
 Hom^Chr 124^) ; —
 
 ## SPLIT 1 stem
+
+## SPLIT 1.1 stem
+
+## SPLIT 1.1.1 stem
+
 Qal_216_
 Parfait 3 masculin singulier ׳
 שׁ
@@ -182,6 +187,8 @@ Jl 1,5
 Ps 69,13
 .
 
+## SPLIT 1.1.2 stem
+
 c.
 boire du vin dans un festin sacrificiel Dt 32,38 (poème) ; sang de la victime sacrificielle Ps 50,13
 (figuré de ׳
@@ -232,6 +239,8 @@ Pr 4,17
 mais Pr 26,6
 apparemment = souffre violence (comparer De
 Toy).
+
+## SPLIT 1.2 stem
 
 2. tardif, = festoyer
 Est 3,15 ;

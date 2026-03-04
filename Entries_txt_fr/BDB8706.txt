@@ -18,6 +18,10 @@ d'où tešlitu, commandement) ; —
 
 ## SPLIT 1 stem
 
+## SPLIT 1.1 stem
+
+## SPLIT 1.1.1 stem
+
 Qal_562_
 Parfait 3 masculin singulier ׳
 שׁ
@@ -96,6 +100,8 @@ Est 1,22
 chevreau, seul,
 Gn 38,23 aussi (accusatif omis) Gn 38,17, etc.
 
+## SPLIT 1.1.2 stem
+
 c. très souvent sans
 objet : + verbe fini d'action, envoyer et faire telle ou telle chose, Gn 27,45(
 E
@@ -121,6 +127,8 @@ absolu
 
 1 R
 20,17, etc.
+
+## SPLIT 1.2 stem
 
 2.
 envoyer : sujet ׳
@@ -168,6 +176,8 @@ auquel), Za 7,12 (ב agent), Ps
 107,20 (+ verbe fini d'action), Ps 147,15 (+ accusatif אֶרֶץ
 ) ; accusatif secours Ps 20,3 (מִן local), lumière et vérité Ps 43,3
 (+ verbe fini d'action), comparer Ps 57,4
+
+## SPLIT 1.3 stem
 
 3.
 étendre, surtout accusatif main :
@@ -275,6 +285,8 @@ personne, בְּיַד agent, infinitif de but).
 
 ## SPLIT 3 stem
 
+## SPLIT 3.1 stem
+
 Piel_266_
 Parfait 3 masculin singulier שִׁלַּח
 
@@ -367,6 +379,8 @@ Ne
 1 S 6,3, אֶל
 personne
 Jr 27,3, etc.
+
+## SPLIT 3.2 stem
 
 2.
 
@@ -462,6 +476,8 @@ tirer (accusatif de flèche omis), לִי
 לְמַטָּרָה
 1 S
 20,20.
+
+## SPLIT 3.3 stem
 
 7. expressions : שִׁלַּח (אֶתֿ)הָעִיר
 בָאֵשׁ

@@ -121,6 +121,9 @@ Ps 80,11
 Es 14,13.
 
 ## SPLIT 6 sense
+
+## SPLIT 6.1 sense
+
 6.
 Dieu_217_, le seul et vrai Dieu d'Israël :
 (a
@@ -219,6 +222,8 @@ dans le
 verset) ; אל גְּמֻלוֺת
 Jr 51,56.
 
+## SPLIT 6.2 sense
+
 (d) אל אֶחָד
 un seul Dieu
 Ml 2,10
@@ -281,6 +286,8 @@ Mi 7,18
 (comparer
 Ex 15,11
 ).
+
+## SPLIT 6.3 sense
 
 (e) Dieu (le seul vrai Dieu, n'ayant besoin ni d'article ni de prédicat pour le
 définir) Nb 12,13

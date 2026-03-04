@@ -11,6 +11,8 @@ Aramaic שְׂרַף (rare);
 
 ## SPLIT 1 stem
 
+## SPLIT 1.1 stem
+
 Qal
 Perfect 3 masculine singular ׳
 שׂ
@@ -53,6 +55,8 @@ Gen 11:3 (
 
 J
 ; object omitted).
+
+## SPLIT 1.2 stem
 
 2.
 

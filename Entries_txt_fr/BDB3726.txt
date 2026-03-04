@@ -96,6 +96,9 @@ Ag 2,11 ; Ml 2,6 ; Ml 2,7 ; Ml 2,8 ; Ml 2,9 ; So 3,4 ; Ez 22,26
 2 Ch 15,3.
 
 ## SPLIT 2 sense
+
+## SPLIT 2.1 sense
+
 2.
 loi (proprement direction) : à savoir
 
@@ -180,6 +183,8 @@ lois du nouveau temple Ez 43,11 ; Ez 44,5 ; Ez 44,24 les lois dans lesquelles le
 
 Kt
 ).
+
+## SPLIT 2.2 sense
 
 b. de codes de loi, (1) הַתּוֺרָה
 telle qu'

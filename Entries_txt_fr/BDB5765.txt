@@ -26,6 +26,11 @@ voisinage d'un cours d'eau
 SabDenkm^49^) ; —
 
 ## SPLIT 1 stem
+
+## SPLIT 1.1 stem
+
+## SPLIT 1.1.1 stem
+
 Qal_465_
 Parfait 3 masculin singulier ׳
 ע
@@ -160,6 +165,8 @@ Es 23,12 ; Jr 2,10 ; Nb 32,32 (
 P
 ).
 
+## SPLIT 1.1.2 stem
+
 b.
 franchir frontière, limite, avec accusatif Nb 20,17 b Nb 21,22 b (les deux
 J
@@ -238,6 +245,8 @@ Dt 24,5
 aucune affaire ne passera sur (עַלֿ)
 lui, c.-à-d. aucun devoir ne lui sera imposé.
 
+## SPLIT 1.1.3 stem
+
 i.
 transgresser, enfreindre, avec accusatif d'alliance, commandement, etc.
 (habituellement divin) ; Nb 14,41 ; Jos 7,11
@@ -273,6 +282,8 @@ seulement,
 Am 7,8 ; Am 8,2
 .
 
+## SPLIT 1.2 stem
+
 2.
 Passer au-delà, avec accusatif 1 S 14,23 (de bataille), Jr 5,22 (deux fois dans le verset) (de
 mer) ; +
@@ -297,6 +308,8 @@ J
 
 E
 ) ; accusatif omis Jb 14,5 ; Ps 104,9.
+
+## SPLIT 1.3 stem
 
 3.
 Passer à travers, traverser, habituellement
@@ -397,6 +410,8 @@ e.
 traverser avec accusatif d'étendue d'eau Es 33,21 (d'un
 navire).
 
+## SPLIT 1.4 stem
+
 4.
 
 a.
@@ -491,6 +506,10 @@ marchand ? Bu^ThLz 1892^ (3), 63) ;
 2 R
 12,5.
 
+## SPLIT 1.5 stem
+
+## SPLIT 1.5.1 stem
+
 5.
 Passer, continuer :
 
@@ -578,6 +597,8 @@ J
 
 E
 ).
+
+## SPLIT 1.5.2 stem
 
 c. avec לִפְנֵי
 passer devant, aller en avant de
@@ -691,6 +712,8 @@ We
 disparaître, périr), Mi
 2,13 a
 (accusatif de lieu).
+
+## SPLIT 1.6 stem
 
 6.
 Disparaître :
@@ -834,6 +857,9 @@ Hithpa`el voir [
 ] ci-dessous
 
 ## SPLIT 5 stem
+
+## SPLIT 5.1 stem
+
 Hiph`il
 Parfait 3 masculin singulier הֶעֱבִיר
 
@@ -1036,6 +1062,8 @@ Ez
 GFM^JBL xvi (1897), 161
 ss.^).
 
+## SPLIT 5.2 stem
+
 2.
 
 a.
@@ -1136,6 +1164,8 @@ Ez
 (comparer
 Qal
 5.g.).
+
+## SPLIT 5.3 stem
 
 4.
 Faire disparaître, ôter

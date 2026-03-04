@@ -128,9 +128,11 @@ def update_clean_cache(cache_path: Path, bdb_id: str,
                        orig: Path, txt_fr: Path, fr: Path,
                        file_lock=None):
     """Append a clean entry to the cache file (thread/process safe)."""
+    import os
     h = _triple_hash(orig, txt_fr, fr)
     line = f"{bdb_id} {h}\n"
     try:
+        created = not cache_path.exists()
         if file_lock:
             with file_lock:
                 with open(cache_path, "a") as f:
@@ -138,6 +140,8 @@ def update_clean_cache(cache_path: Path, bdb_id: str,
         else:
             with open(cache_path, "a") as f:
                 f.write(line)
+        if created and cache_path.exists():
+            os.chmod(cache_path, 0o664)
     except PermissionError:
         pass  # read-only environment, skip cache write
 
@@ -295,9 +299,24 @@ def format_eta_suffix(status, elapsed, elapsed_times, items_left, parallel=1,
     return f"  {colored} {elapsed:6.1f}s avg={avg:5.1f}s ETA {eta_str}"
 
 
+def record_completion(elapsed, status, elapsed_times, completed_ref,
+                      total, parallel=1, note=""):
+    """Record a completed entry and return the formatted ETA suffix.
+
+    Mutates elapsed_times and completed_ref in place (caller must hold any
+    necessary lock).  Returns the string from format_eta_suffix().
+    """
+    completed_ref[0] += 1
+    elapsed_times.append(elapsed)
+    items_left = total - completed_ref[0]
+    return format_eta_suffix(status, elapsed, elapsed_times, items_left,
+                             parallel, note)
+
+
 def run_pipeline(items, process_fn, *, name_fn=None, size_fn=None,
                  parallel=1, shuffle=False, limit=0, label="files",
-                 print_lock=None):
+                 print_lock=None, shared_elapsed_times=None,
+                 shared_completed=None):
     """Execute process_fn over items with progress, ETA, and graceful shutdown.
 
     items: list of work items (any type — passed to process_fn).
@@ -333,8 +352,11 @@ def run_pipeline(items, process_fn, *, name_fn=None, size_fn=None,
     # parallelism isn't needed here — the LLM server call dominates wall time
     # (>99%), so Python threads just manage concurrent I/O waits.
     counts = {}
-    elapsed_times = []  # post-warmup times only, for avg/ETA
-    completed = 0
+    # When shared lists are provided, both the main loop and an external
+    # thread (e.g. smart-server worker) contribute to the same pool, so
+    # ETAs account for all completions regardless of which path finished.
+    elapsed_times = shared_elapsed_times if shared_elapsed_times is not None else []
+    completed_ref = shared_completed if shared_completed is not None else [0]
     if print_lock is None:
         print_lock = threading.Lock()
     shutdown_requested = threading.Event()
@@ -362,8 +384,6 @@ def run_pipeline(items, process_fn, *, name_fn=None, size_fn=None,
     total = len(items)
 
     def do_one(i, item, show_progress=False):
-        nonlocal completed
-
         t0 = time.monotonic()
         result = process_fn(i, total, item)
         elapsed = time.monotonic() - t0
@@ -376,7 +396,6 @@ def run_pipeline(items, process_fn, *, name_fn=None, size_fn=None,
 
             is_pending = (status == "PENDING")
             if not is_pending:
-                completed += 1
                 # Track warmup: once all initial `parallel` indices finish,
                 # discard accumulated times and start fresh.
                 if not warmup_done:
@@ -384,16 +403,20 @@ def run_pipeline(items, process_fn, *, name_fn=None, size_fn=None,
                     if not warmup_pending:
                         warmup_done = True
                         elapsed_times.clear()
-                if warmup_done:
-                    elapsed_times.append(elapsed)
 
             if is_pending:
                 # Deferred to smart — print arrow, no ETA
                 suffix = f"  {_color_text('→ smart ...', 'WARN')}"
+            elif warmup_done:
+                suffix = record_completion(
+                    elapsed, status, elapsed_times, completed_ref,
+                    total, parallel, note)
             else:
+                # During warmup, count but don't record times
+                completed_ref[0] += 1
                 suffix = format_eta_suffix(
                     status, elapsed, elapsed_times,
-                    total - completed, parallel, note)
+                    total - completed_ref[0], parallel, note)
 
             if show_progress:
                 # Sequential mode: prefix + attempt numbers already on line
@@ -411,7 +434,7 @@ def run_pipeline(items, process_fn, *, name_fn=None, size_fn=None,
     if parallel <= 1:
         for i, item in enumerate(items, 1):
             if shutdown_requested.is_set():
-                print(f"\nStopping: {completed}/{total} done.",
+                print(f"\nStopping: {completed_ref[0]}/{total} done.",
                       file=sys.stderr)
                 break
             # Print filename before LLM call so user sees what's in progress

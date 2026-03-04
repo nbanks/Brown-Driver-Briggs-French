@@ -15,6 +15,10 @@ ru—i
 
 ## SPLIT 1 stem
 
+## SPLIT 1.1 stem
+
+## SPLIT 1.1.1 stem
+
 Qal
 Parfait 3 masculin singulier consécutif וְרָעָה
 Mi 5,3 +, 1 singulier
@@ -129,6 +133,8 @@ Ez 34,2
 ;
 Ez 34,8 ; Ez 34,10.
 
+## SPLIT 1.1.2 stem
+
 d.
 surtout participe
 רֹעֶה, etc., comme
@@ -242,6 +248,8 @@ De
 Wild, < président de l'assemblée des sages
 Siegf
 SS.
+
+## SPLIT 1.2 stem
 
 2.
 intransitif

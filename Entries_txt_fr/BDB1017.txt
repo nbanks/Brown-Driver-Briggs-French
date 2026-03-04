@@ -13,6 +13,9 @@ Fl
 MV) —
 
 ## SPLIT 1 stem
+
+## SPLIT 1.1 stem
+
 Qal
 Parfait
 בָּטַח
@@ -42,6 +45,10 @@ avoir confiance.
 
 2. avec accusatif de même racine מה הבטחון הזה אשׁר בטחת
 quelle est cette confiance que tu as ? 2 R 18,19 = Es 36,4.
+
+## SPLIT 1.2 stem
+
+## SPLIT 1.2.1 stem
 
 3. avec בְּ
 avoir confiance en —
@@ -159,6 +166,8 @@ Os
 10,13 ;
 Am 6,1.
 
+## SPLIT 1.2.2 stem
+
 d. dans le nom de Dieu Psaume
 
 Am
@@ -175,6 +184,8 @@ parole de
 Dieu
 Ps 119,42
 salut de Dieu Ps 78,22.
+
+## SPLIT 1.3 stem
 
 4. avec עַל, se fier ou se reposer sur
 —

@@ -13,6 +13,8 @@ Zim^BP 23, 56^, Ethiopic
 
 ## SPLIT 1 stem
 
+## SPLIT 1.1 stem
+
 Qal
 Perfect
 ׳
@@ -155,6 +157,8 @@ infinitive absolute weep intensely, grievously
 1Sam 1:10; Jer 22:10; Lam 1:2, compare Isa 30:19 &
 Mic 1:10 (but on
 text see above)
+
+## SPLIT 1.2 stem
 
 3. followed by עַל
 weep upon, i.e. embrace and weep, עַלצֿואריו

@@ -41,6 +41,9 @@ Dn 9,20 ; Dn 9,21, et
 Es 65,24 : —
 
 ## SPLIT 1 sense
+
+## SPLIT 1.1 sense
+
 1.
 comme adverbe
 :
@@ -197,6 +200,8 @@ ainsi avec אֵין
 Es
 23,10 ; Jr 10,20 ; Jr 48,2 ; Ps 74,9
 et al.
+
+## SPLIT 1.2 sense
 
 b.
 Quand la continuité est limitée par sa nature à une seule occurrence,

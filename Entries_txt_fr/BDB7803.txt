@@ -12,6 +12,9 @@ Mordtm^ib. xxx (1876), 36 SabDenkm No. 14, 1. 1^ ; arabe
 [placeholder5006: Placeholders/5006.gif] (très souvent dans les espèces dérivées et les dérivés)) ; —
 
 ## SPLIT 1 stem
+
+## SPLIT 1.1 stem
+
 Qal
 Parfait 3 masculin singulier consécutif וְרָם
 Dt 8,14 + ; 3
@@ -87,6 +90,8 @@ Ps 99,2,
 גּוֺיִם
 Ps 113,4
 .
+
+## SPLIT 1.2 stem
 
 2.
 être élevé, soulevé :
@@ -285,6 +290,11 @@ exalté, du nom de ׳
 עַלכָּֿלבְּֿרָכָה וג.
 
 ## SPLIT 4 stem
+
+## SPLIT 4.1 stem
+
+## SPLIT 4.1.1 stem
+
 Hiph`il
 Parfait 3 masculin singulier הֵרִים
 
@@ -432,6 +442,8 @@ Es 14,13 nid (sujet
 נֶשֶׁר) Jb
 39,27.
 
+## SPLIT 4.1.2 stem
+
 f.
 élever, exalter, avec accusatif de personne,
 sujet ׳
@@ -470,6 +482,8 @@ Ps 75,7 ; Ps
 66,7 voir
 Qal
 2.c.
+
+## SPLIT 4.2 stem
 
 2.
 soulever et emporter,

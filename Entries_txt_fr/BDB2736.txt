@@ -61,6 +61,9 @@ des magiciens et prophètes Es 47,10 ; Dn 1,4 ; Dn 1,17 ; Dn 1,20.
 sagesse, prudence dans les affaires religieuses Dt 4,6 ; Ps 37,30 ; Ps 51,8 ; Ps 90,12 ; Pr 10,31 ; Es 33,6 ; Jr 8,9
 
 ## SPLIT 5 sense
+
+## SPLIT 5.1 sense
+
 5.
 sagesse, éthique et religieuse :
 
@@ -75,6 +78,8 @@ et la conseillère de Dieu dans la création (Pr 8,22-31) ; elle bâtit un palai
 recevront son instruction Pr 9,1 (comparer Pr 9,2-5) ; elle enseigne en public Pr 1,20 ; Pr 8,1 ; Pr 8,5 ; Pr 8,11 ; Pr 8,12 (voir contexte) ; donne
 à ses disciples l'esprit divin Pr 1,23 par sa discipline les simples deviennent sages, les gouvernants règnent sagement, et ceux
 qui la cherchent sont richement récompensés Pr 8,14 (comparer Pr 8,1-21).
+
+## SPLIT 5.2 sense
 
 c. de l'homme : acquérir la sagesse
 est la chose principale Pr

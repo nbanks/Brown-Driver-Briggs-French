@@ -12,6 +12,8 @@ Eccl 11:25
 
 ## SPLIT 1 stem
 
+## SPLIT 1.1 stem
+
 Qal_86_
 Perfect 3 masculine singular ׳
 שׁ
@@ -104,6 +106,8 @@ wisdom Prov 3:1
 , that
 is accusative בִּינָה
 Prov 4:6.
+
+## SPLIT 1.2 stem
 
 2. subject ׳
 י (God):

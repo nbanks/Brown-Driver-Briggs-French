@@ -567,9 +567,14 @@ def validate_file(bdb_id, errors=None, *, entries_dir=None,
     return found
 
 
-def validate_chunks(bdb_id, chunk_indices):
-    """Validate specific chunks of an entry. Returns list of (label, msg)."""
-    from split_entry import split_html, split_txt
+def validate_chunks(bdb_id, chunk_specs):
+    """Validate specific chunks of an entry. Returns list of (label, msg).
+
+    chunk_specs can be label strings (e.g. "1", "1.1") or integers.
+    Integers are matched against chunk labels.
+    """
+    from split_entry import (split_html, split_txt, subsplit_html,
+                             subsplit_txt, get_chunk_labels)
 
     orig_path = os.path.join(ENTRIES_DIR, bdb_id + ".html")
     fr_path = os.path.join(ENTRIES_FR_DIR, bdb_id + ".html")
@@ -588,23 +593,42 @@ def validate_chunks(bdb_id, chunk_indices):
     fr_chunks = split_html(fr_html)
     txt_chunks = split_txt(txt_fr_content) if txt_fr_content else []
 
+    # Build leaf-level arrays using subsplit
+    orig_leaves, fr_leaves, txt_leaves = [], [], []
+    orig_labels = get_chunk_labels(html_chunks)
+    for c in html_chunks:
+        for sc in subsplit_html(c):
+            orig_leaves.append(sc["html"])
+    for c in fr_chunks:
+        for sc in subsplit_html(c):
+            fr_leaves.append(sc["html"])
+    for c in txt_chunks:
+        for sc in subsplit_txt(c):
+            txt_leaves.append(sc["txt"])
+
+    # Convert specs to label strings
+    specs = [str(s) for s in chunk_specs]
+
     found = []
-    for idx in chunk_indices:
-        label = f"{bdb_id}[{idx}]"
-        if idx >= len(html_chunks):
-            found.append((label, f"chunk {idx} out of range "
-                          f"(orig has {len(html_chunks)} chunks)"))
-            continue
-        if idx >= len(fr_chunks):
-            found.append((label, f"chunk {idx} out of range "
-                          f"(fr has {len(fr_chunks)} chunks)"))
+    for spec in specs:
+        # Find matching leaf index
+        if spec in orig_labels:
+            idx = orig_labels.index(spec)
+        else:
+            found.append((f"{bdb_id}[{spec}]",
+                          f"label {spec} not found in chunk labels "
+                          f"{orig_labels}"))
             continue
 
-        orig_chunk = html_chunks[idx]["html"]
-        fr_chunk = fr_chunks[idx]["html"]
-        txt_chunk = None
-        if txt_chunks and idx < len(txt_chunks):
-            txt_chunk = txt_chunks[idx]["txt"]
+        label = f"{bdb_id}[{spec}]"
+        if idx >= len(fr_leaves):
+            found.append((label, f"chunk {spec} out of range "
+                          f"(fr has {len(fr_leaves)} leaves)"))
+            continue
+
+        orig_chunk = orig_leaves[idx]
+        fr_chunk = fr_leaves[idx]
+        txt_chunk = txt_leaves[idx] if idx < len(txt_leaves) else None
 
         msgs = validate_html(orig_chunk, fr_chunk, txt_chunk)
         if msgs:
@@ -667,10 +691,13 @@ def _status_line(bdb_id, use_color=True, verbose=False):
 
     # Per-chunk validation (works even when chunk counts differ)
     chunks_str = []
-    chunk_errors = []  # [(idx, tag, [errors])]
+    chunk_errors = []  # [(label, [errors])]
     any_fail = n_fr != n  # mismatch is always a failure
+    # Use chunk labels for display
+    orig_label_list = [c.get("label", str(i + 1)) for i, c in enumerate(orig_chunks)]
+    denom = orig_label_list[-1] if orig_label_list else str(n)
     for idx in range(n):
-        tag = f"{idx+1}/{n}"
+        tag = f"{orig_label_list[idx]}/{denom}"
         if idx >= n_fr:
             chunks_str.append(f"{tag} {R}—{Z}")
             continue
@@ -681,7 +708,7 @@ def _status_line(bdb_id, use_color=True, verbose=False):
         if errs:
             any_fail = True
             chunks_str.append(f"{tag} {chunk_kb}KB {R}✗{Z}")
-            chunk_errors.append((idx, tag, errs))
+            chunk_errors.append((tag, errs))
         else:
             chunks_str.append(f"{tag} {chunk_kb}KB {G}✓{Z}")
 
@@ -689,7 +716,7 @@ def _status_line(bdb_id, use_color=True, verbose=False):
     status = f"{R}FAILED{Z}" if any_fail else f"{G}CLEAN{Z}"
     print(f"{filename:<20s} {' '.join(chunks_str)}{mismatch}  {status}")
     if verbose and chunk_errors:
-        for idx, tag, errs in chunk_errors:
+        for tag, errs in chunk_errors:
             print(f"  {R}[{tag}]{Z}")
             for msg in errs:
                 print(f"    {D}{msg}{Z}")
@@ -714,8 +741,8 @@ def main():
                         help="Print only summary totals.")
     parser.add_argument("--status", action="store_true",
                         help="Show per-chunk validation status.")
-    parser.add_argument("--chunk", nargs="+", type=int, metavar="N",
-                        help="Validate specific chunk indices only.")
+    parser.add_argument("--chunk", nargs="+", metavar="LABEL",
+                        help="Validate specific chunks by label (e.g. 1, 1.1).")
     parser.add_argument("--verbose", "-v", action="store_true",
                         help="Show error details for failing chunks (with --status).")
     parser.add_argument("--colour", "--color", action="store_true",
@@ -832,13 +859,15 @@ def main():
             n_chunked_files += 1
             total_chunks += n_orig
             txt_chunks = split_txt(txt_fr) if txt_fr else []
+            orig_label_list = [c.get("label", str(j + 1))
+                               for j, c in enumerate(orig_chunks)]
             file_errs = []
             if n_fr != n_orig:
                 mismatched_files += 1
                 file_errs.append((bdb_id,
                     f"chunk mismatch: orig={n_orig} fr={n_fr}"))
             for idx in range(n_orig):
-                label = f"{bdb_id}[{idx+1}]"
+                label = f"{bdb_id}[{orig_label_list[idx]}]"
                 if idx >= n_fr:
                     failed_chunks += 1
                     file_errs.append((label, "missing chunk"))

@@ -27,6 +27,9 @@ Jr 15,13 ;
 Jr 17,3, etc. ; —
 
 ## SPLIT 1 sense
+
+## SPLIT 1.1 sense
+
 1.
 frontière, limite,
 
@@ -81,6 +84,8 @@ P
 Dt 12,20 ; Dt 16,4 ; Jos 1,4 (
 D
 ), comparer Ez 45,1 10 t. Ez 45-48 ; aussi d'Israël 2 R 14,25 ; Am 6,2 ; Ml 1,5.
+
+## SPLIT 1.2 sense
 
 b.
 frontière de divisions plus petites, p. ex. Gueshûrites Dt 3,14 ; Jos 12,5 ; Jos 13,11 (tous

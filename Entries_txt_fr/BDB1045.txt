@@ -58,6 +58,9 @@ Ps 49,12),
 etc. ; —
 
 ## SPLIT 1 sense
+
+## SPLIT 1.1 sense
+
 1.
 maison,
 
@@ -422,6 +425,8 @@ ib. ; הַמְֿבַשְּׁלִים
 Ez 46,24
 .
 
+## SPLIT 1.2 sense
+
 b. comme abri ou demeure des animaux 1 S 6,7 ; 1 S 6,10 comparer Ex 9,19
 בֵּית עַכָּבִישׁ
 Jb 8,14
@@ -558,6 +563,9 @@ Gn 46,27.
 D'où
 
 ## SPLIT 5 sense
+
+## SPLIT 5.1 sense
+
 5.
 maisonnée, famille (592 t.)
 
@@ -659,6 +667,8 @@ Ex 1,21
 
 comparer surtout avec les noms propres, p. ex.
 
+## SPLIT 5.2 sense
+
 c.
 בֵּית שָׁאוּל
 2 S 3,1
@@ -726,6 +736,8 @@ t. dans le verset) (d'Achazia ׳
 ;
 2 Ch 22,8
 etc.
+
+## SPLIT 5.3 sense
 
 d. surtout du peuple hébreu et de ses subdivisions : (α) בֵּית
 יִשְׂחָ֑ק
@@ -915,6 +927,8 @@ Ps 115,10
 ;
 Ps
 115,12 ; Ps 118,3 ; Ps 135,19.
+
+## SPLIT 5.4 sense
 
 e. techniquement, mais avec une certaine souplesse d'usage, בֵּית אָב
 maison paternelle, de la famille ou du clan, pluriel בֵּית אָבוֺת

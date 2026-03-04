@@ -14,6 +14,9 @@ retourner, de même araméen תּוּב,
 [placeholder5432: Placeholders/5432.gif]) ; —
 
 ## SPLIT 1 stem
+
+## SPLIT 1.1 stem
+
 Qal_685_
 Parfait 3 masculin singulier שָׁב
 Gn 18,33 +, 3
@@ -85,6 +88,8 @@ ou d'un vœu Jg
 P
 ), c.-à-d. être exempté.
 
+## SPLIT 1.2 stem
+
 2.
 revenir, aller ou venir en retour, avec מֵעַל personne 1 S 17,15 (opposé de הלד
 ),
@@ -126,6 +131,10 @@ Co Toy et autres ; pourtant voir Krae
 J
 ) voir הלד
 4.c. (4).
+
+## SPLIT 1.3 stem
+
+## SPLIT 1.3.1 stem
 
 3. surtout revenir vers :
 
@@ -225,6 +234,8 @@ lire
 Vrss
 et modernes) ; suivi d'infinitif de but Jg 14,8 ; 2 S 6,20 + 10 t.
 
+## SPLIT 1.3.2 stem
+
 b.
 revenir, אֶל personne Gn 8,9 (
 J
@@ -306,6 +317,8 @@ P
 Qo 5,14
 
 .
+
+## SPLIT 1.4 stem
 
 4.
 
@@ -416,6 +429,10 @@ Mi 2,8
 Now
 שְׁבִי
 butin de guerre).
+
+## SPLIT 1.5 stem
+
+## SPLIT 1.5.1 stem
 
 6.
 figuré, spécifiquement des relations spirituelles :
@@ -542,6 +559,8 @@ Jr 3,22
 5,3
 + 14 t., + participe comme substantif Es 1,27.
 
+## SPLIT 1.5.2 stem
+
 e.
 se détourner du mal, avec מִן (surtout Jérémie, Ézéchiel)
 
@@ -640,6 +659,10 @@ h. de ׳
 Ps
 132,11
 מֵאַחֲרֵי personne, c.-à-d. cesser de bénir, Jr 32,40.
+
+## SPLIT 1.6 stem
+
+## SPLIT 1.6.1 stem
 
 7. de choses inanimées (parfois personnifiées, ou traitées comme des êtres vivants) :
 
@@ -740,6 +763,8 @@ le jugement retournera à (עַד
 )
 la justice (sera en accord avec elle).
 
+## SPLIT 1.6.2 stem
+
 h. de la frontière,
 = changer
 (parfois inverser) de direction (
@@ -761,6 +786,8 @@ personne),
 2 R 5,14
 ;
 Lv 13,16 (|| נֶהְפַּךְ לְלָבָן).
+
+## SPLIT 1.7 stem
 
 8. exprimant la répétition, etc. (Ges^«GKC:120d»§
 120 d
@@ -930,6 +957,11 @@ un pays restauré + מִן de chose. — Voir aussi שׁוֺבָב
 infra.
 
 ## SPLIT 4 stem
+
+## SPLIT 4.1 stem
+
+## SPLIT 4.1.1 stem
+
 Hiphil_353_
 Parfait 3 masculin singulier Gn 41,13 + ; suffixe וַהֲשִׁיבְֱ
 
@@ -1120,6 +1152,8 @@ Es 38,8. — Jb
 Qal
 3.b.
 
+## SPLIT 4.1.2 stem
+
 b.
 remettre : accusatif de chose, pierre, עַלפִּֿי
 הַבְּאֵר
@@ -1169,6 +1203,8 @@ l'oppression),
 Ez 20,22 (מִן omis) ; pied, avec מִן
 
 Es 58,13 (figuré) ; aspirer le souffle Jb 9,18.
+
+## SPLIT 4.1.3 stem
 
 d. = rendre, restituer, accusatif de
 personne ou
@@ -1255,6 +1291,8 @@ e. = abandonner, avec accusatif de chose,
 
 Jb 20,10.
 
+## SPLIT 4.1.4 stem
+
 f. = donner en paiement,
 rétribution,
 avec accusatif de chose + apposition 1 S 6,8 (ל personne), v
@@ -1282,6 +1320,8 @@ Jb 10,9 = מָוֶת (accusatif) Jb 30,23
 comparer עַדדַּֿכָּא
 
 Ps 90,3.
+
+## SPLIT 4.2 stem
 
 2.
 
@@ -1367,6 +1407,8 @@ Jb 31,14 ; Jb 32,14
 (Gi Jb 32,15
 ), Jb
 40,4.
+
+## SPLIT 4.3 stem
 
 4.
 
@@ -1479,6 +1521,8 @@ rejeter, refuser, ׳
 2,17 ;
 1 R 2,20 (deux fois dans le verset) ; 2 Ch
 6,42 ; Ps 132,10.
+
+## SPLIT 4.4 stem
 
 6.
 

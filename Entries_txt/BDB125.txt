@@ -204,6 +204,8 @@ Hos 12:15
 
 ## SPLIT 3 sense
 
+## SPLIT 3.1 sense
+
 3. suffix 1 singular (אֲדֹנַי) אֲדֹנִי
 (1) reference to men: my lord, my master,
 
@@ -357,6 +359,7 @@ Ruth
 1Sam
 25:24 + (15 t.);
 
+## SPLIT 3.2 sense
 (2) reference to God: אֲדֹנָי
 
 a.
@@ -420,6 +423,8 @@ Ps
 35:23
 
 (writers that use אֱלֹהִים seldom use אֲדֹנָי);
+
+## SPLIT 3.3 sense
 
 b.
 Adonay
@@ -491,6 +496,8 @@ Dan 9:8
 as the divine name.
 
 ## SPLIT 4 sense
+
+## SPLIT 4.1 sense
 
 4.
 אֲדֹנָי יהוה
@@ -620,6 +627,7 @@ read יהוה,
 
 );
 
+## SPLIT 4.2 sense
 (c) uncertain whether (a) or (
 b
 )

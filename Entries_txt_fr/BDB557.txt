@@ -17,6 +17,9 @@ amâru
 , voir, et montrer, déclarer, dire) —
 
 ## SPLIT 1 stem
+
+## SPLIT 1.1 stem
+
 Qal
 Parfait
 ׳
@@ -281,6 +284,8 @@ Es 37,9
 =
 2 R 19,9.
 
+## SPLIT 1.2 stem
+
 2.
 dire dans le cœur (= penser) בלבב
 ׳
@@ -344,6 +349,8 @@ personne) 2 R
 8,19
 ; Ne 9,15
 (suivi de l'accusatif de l'objet direct + ל de personne + infinitif de but) Ne 9,23.
+
+## SPLIT 1.3 stem
 
 4.
 commander (surtout tardif) suivi de אֶלֿ de la personne à qui l'on s'adresse, Nb 15,38

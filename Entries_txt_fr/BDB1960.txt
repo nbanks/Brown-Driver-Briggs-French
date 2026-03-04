@@ -89,6 +89,9 @@ Dt 12,23 ; Dt 15,23 ; 1 S 14,32 ; 1 S 14,33 ; 1 S 14,34 ; Ez 33,25 (comparer RS^
 (comparer RS^Semitic i. 216 s.^).
 
 ## SPLIT 2 sense
+
+## SPLIT 2.1 sense
+
 2. habituellement sang devenu visible,
 
 a. comme d'une blessure הַמַּכָּה
@@ -193,6 +196,8 @@ P
 
 ; Ps 79,10.
 
+## SPLIT 2.2 sense
+
 c.
 דַּם חָלָל
 Dt 32,42
@@ -287,6 +292,8 @@ Jos
 Jos
 20,9 ; 2 S 14,11.
 
+## SPLIT 2.3 sense
+
 f. pluriel דָּמִים d'abondance,
 sang en quantité, d'où parfois du sang versé par violence brutale, et des taches de sang ; — Gn 4,10 ;
 Gn 4,11 (
@@ -374,6 +381,8 @@ plus généralement, péché mortel (RS^OTJC 417, 2e éd.
 ;
 1 S 25,33
 .
+
+## SPLIT 2.4 sense
 
 h. pluriel aussi dans les expressions : חֲתַן דָּמִים
 époux de sang
@@ -486,6 +495,8 @@ Lv 19,16
 
 H
 ).
+
+## SPLIT 2.5 sense
 
 k. dans l'expression requérir le sang de la main de, exiger
 vengeance (pour cela) de, דָּרַשׁ דָּמוֺ מִיַּד
@@ -606,6 +617,9 @@ comparer
 .
 
 ## SPLIT 3 sense
+
+## SPLIT 3.1 sense
+
 3. sang utilisé avec une signification religieuse,
 
 a. sang de l'agneau pascal
@@ -632,6 +646,8 @@ E
 ) Za
 9,11
 .
+
+## SPLIT 3.2 sense
 
 b. sang utilisé dans le rituel, Lv 17,11
 הַדָּם הוּא בַּנֶּפֶשׁ יְכַפֵּר (

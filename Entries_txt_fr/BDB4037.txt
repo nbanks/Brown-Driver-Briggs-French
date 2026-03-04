@@ -46,6 +46,9 @@ Gn 42,36 ; Pr 31,29
 le tout,
 
 ## SPLIT 1 sense
+
+## SPLIT 1.1 sense
+
 1. avec génitif suivant (comme habituellement) le tout de, à rendre cependant
 souvent dans notre idiome, pour éviter la raideur, tout ou chaque :
 
@@ -110,6 +113,8 @@ Jos 8,24
 le tout de vanité sont tous les hommes (? omettre כל, comme Ps 39,12), Ps 45,14
 כָּלכְּֿבוּדָּה
 le tout de gloire est la fille du roi.
+
+## SPLIT 1.2 sense
 
 b. suivi souvent d'un
 singulier, à comprendre collectivement, avec ou sans l'article : Gn 1,21
@@ -179,6 +184,8 @@ Est 9,27 ; Est 9,28 (3 t. dans le verset) (comparer וְ
 1
 i b).
 
+## SPLIT 1.3 sense
+
 c. le génitif après כל est
 souvent une
 proposition relative, introduite par אשׁר : Gn 1,31
@@ -213,6 +220,8 @@ a 2 Ch
 30,17 ; Esd
 1,5
 .
+
+## SPLIT 1.4 sense
 
 d. avec un suffixe deux
 usages idiomatiques de כל sont à noter : (a
@@ -306,6 +315,8 @@ Hi (וְכֻלּהֹ רֵעַ
 Jr 15,10
 lire כֻּלְּהֶם
 קִלֲלוּנִי.
+
+## SPLIT 1.5 sense
 
 e. l'idiome hébreu dans certains
 cas affirme, ou nie, d'une classe entière,
@@ -415,6 +426,9 @@ avec celui-ci (étant l'idée réellement importante), p. ex. Gn 5,5
 ^«GKC:141»§ 141^. 1 R. 2).
 
 ## SPLIT 2 sense
+
+## SPLIT 2.1 sense
+
 2. Absolument :
 
 a. sans l'article, toutes choses, tout
@@ -465,6 +479,8 @@ globalement que possible : Ez 44,30
 כָּלבִּֿכּוּרֵי כֹל
 וְכָלתְּֿרוּמַת כֹּל ; Ps 119,128 (si vera lectio) כָּלפִּֿקּוּדֵי כֹל
 tous les statuts concernant toute chose.
+
+## SPLIT 2.2 sense
 
 b. avec l'article
 הַכֹּל : (a) quand le sens est limité par le contexte aux choses

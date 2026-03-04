@@ -14,6 +14,11 @@ Eut^Nab 14, 6^ ; Zinjirli מת
 DHM^Sendsch. Glossary^) ; —
 
 ## SPLIT 1 stem
+
+## SPLIT 1.1 stem
+
+## SPLIT 1.1.1 stem
+
 Qal
 Parfait 3 masculin singulier מֵת
 Gn 42,38 + ; 3
@@ -186,6 +191,8 @@ Bu, comparer
 
 .
 
+## SPLIT 1.1.2 stem
+
 b. d'animaux Lv 11,39 bétail Gn 33,13 (
 J
 ), poissons
@@ -210,6 +217,10 @@ d.
 Ps 106,28
 
 sacrifices aux morts (idoles).
+
+## SPLIT 1.2 stem
+
+## SPLIT 1.2.1 stem
 
 2.
 mourir comme peine = être mis à mort :
@@ -338,6 +349,8 @@ Jos 20,9 (
 
 P
 ).
+
+## SPLIT 1.2.2 stem
 
 b. infligé par Dieu, Gn 20,3 ;
 
@@ -479,6 +492,8 @@ Ez 18,26
 1 Ch 10,13
 .
 
+## SPLIT 1.2.3 stem
+
 c.
 mourir, périr, d'une nation par jugement divin, Moab Am 2,2, Éphraïm Os 13,1
 בית ישׂראל
@@ -537,6 +552,9 @@ accusatif Jg
 2 S 1,16 ; Jr 20,17 ; Ps 34,22 ; Ps 109,16.
 
 ## SPLIT 3 stem
+
+## SPLIT 3.1 stem
+
 Hiph`il
 Parfait 3 masculin singulier הֵמִית
 Jg 16,30
@@ -692,6 +710,8 @@ des poissons Ps
 Jb 33,22
 
 exécuteurs, anges de la mort.
+
+## SPLIT 3.2 stem
 
 3. d'animaux tuant des hommes, p. ex. bœuf Ex 21,29 (
 E

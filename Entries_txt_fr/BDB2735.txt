@@ -96,6 +96,9 @@ Os 13,13 ; Os 14,10 ; Jr 4,22 ; Jr 8,8 ; Jr 8,9 ; Dt 4,6 ; Dt 32,6 ; Ps 107,43
 Jr 9,11.
 
 ## SPLIT 6 sense
+
+## SPLIT 6.1 sense
+
 6.
 sage, éthiquement et religieusement, dans la littérature sapientielle :
 
@@ -124,6 +127,8 @@ homme sage ; ׳
 sage réprimandeur
 Pr 25,12
 .
+
+## SPLIT 6.2 sense
 
 b. = substantif : (1) comme disciple sage à l'école de la
 sagesse,

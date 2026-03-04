@@ -12,6 +12,9 @@ est peut-être détruire
 Meissn^Suppl. 55^) ; —
 
 ## SPLIT 1 stem
+
+## SPLIT 1.1 stem
+
 Qal
 Parfait 3 masculin singulier מָאַס
 Es 8,6 + 4 t ; suffixe
@@ -141,6 +144,8 @@ J
 Es
 33,15 ; Jr
 4,30 ; Ps 106,24.
+
+## SPLIT 1.2 stem
 
 2.
 mépriser, avec accusatif, Dieu sujet שׂנאתי מאסתי חגיכם

@@ -21,6 +21,11 @@ D
 dans Josué) ; —
 
 ## SPLIT 1 stem
+
+## SPLIT 1.1 stem
+
+## SPLIT 1.1.1 stem
+
 Qal
 Parfait 3 masculin singulier יָרַשׁ
 Jr 49,1
@@ -207,6 +212,8 @@ possédant la richesse (? voir
 VB
 ).
 
+## SPLIT 1.1.2 stem
+
 b. un peuple (avec l'idée accessoire d'être
 leur héritier (2), et ainsi de les déposséder), de même
 surtout
@@ -255,6 +262,8 @@ a) ; Ez
 ;
 Es 54,3
 nations + pays Ez 35,10.
+
+## SPLIT 1.2 stem
 
 2.
 hériter, suivi de l'accusatif de personne = être l'héritier de quelqu'un
@@ -331,6 +340,9 @@ Es 34,11
 ), c.-à-d. dévorera.
 
 ## SPLIT 4 stem
+
+## SPLIT 4.1 stem
+
 Hiph`il
 Parfait 3 masculin singulier הוֺרִישׁ
 Jg
@@ -395,6 +407,10 @@ Jb
 tu me fais hériter (les conséquences) des
 iniquités de
 ma jeunesse.
+
+## SPLIT 4.2 stem
+
+## SPLIT 4.2.1 stem
 
 2.
 faire posséder ou hériter (à d'autres)
@@ -519,6 +535,8 @@ Nb 33,55
 
 + יושׁבי].
 
+## SPLIT 4.2.2 stem
+
 b. suivi de l'accusatif de
 chose,
 מִבִּטְנוֺ יֹרִשֶׁנּוּ אֵל
@@ -529,6 +547,8 @@ Dieu les expulsera de son ventre, c.-à-d. les richesses (|| חַיִל
 בָּלַע
 
 וַיְקִאֶנּוּ).
+
+## SPLIT 4.3 stem
 
 3. = appauvrir, יהוה מוֺרִישׁ וּמַעֲשׁיר
 1 S 2,7

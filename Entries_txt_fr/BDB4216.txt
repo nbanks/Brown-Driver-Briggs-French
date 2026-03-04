@@ -9,6 +9,9 @@ karâtu
 Dl^HWB 357^) ; —
 
 ## SPLIT 1 stem
+
+## SPLIT 1.1 stem
+
 Qal
 Parfait
 ׳
@@ -120,6 +123,8 @@ tailleurs de bois
 poutres taillées
 1 R 6,36 ;
 1 R 7,2 ; 1 R 7,12
+
+## SPLIT 1.2 stem
 
 4.
 בְּרִית
@@ -250,6 +255,9 @@ suivi de Buhl, lit וַתִּכְרִי d'après
 Os 3,2.
 
 ## SPLIT 2 stem
+
+## SPLIT 2.1 stem
+
 Niph`al
 Parfait 3 masculin singulier נִכְרַת
 Jl 1,5 + 5
@@ -377,6 +385,8 @@ Nb 15,31 (deux fois dans le verset).
 J
 ).
 
+## SPLIT 2.2 stem
+
 4.
 être retranché, dans un sens plus général, faire défaut : des eaux Jos 3,13
 ;
@@ -440,6 +450,9 @@ Jg 6,28
 être abattu, ashéra Jg 6,28.
 
 ## SPLIT 4 stem
+
+## SPLIT 4.1 stem
+
 Hiph`il
 Parfait
 הִכְרִית
@@ -470,6 +483,10 @@ Jr 44,8
 
 1.
 retrancher, lèvres flatteuses Ps 12,4.
+
+## SPLIT 4.2 stem
+
+## SPLIT 4.2.1 stem
 
 2.
 retrancher, détruire la vie de :
@@ -505,6 +522,8 @@ nécromanciens
 1 S 28,9
 le nom
 Jos 7,9.
+
+## SPLIT 4.2.2 stem
 
 c. des hommes, par Dieu avec
 accusatif.
@@ -611,6 +630,8 @@ Ml
 2,12
 
 que Yahvé retranche à l'homme — des tentes de Jacob.
+
+## SPLIT 4.3 stem
 
 3.
 abattre, détruire, villes Mi 5,10, stèles solaires Lv 26,30 (

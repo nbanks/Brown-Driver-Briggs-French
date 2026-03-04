@@ -10,6 +10,9 @@ hôte ; IX. décliner, se détourner ;
 se détourner, se détourner pour visiter) —
 
 ## SPLIT 1 stem
+
+## SPLIT 1.1 stem
+
 Qal
 Parfait 3 pluriel זֹר֫וּ
 Ps 58,4 (Kö^i. 445^), זָ֫רוּ
@@ -33,6 +36,10 @@ Ps 58,4, avec
 de
 Jb 19,13 ;
 Ps 78,30.
+
+## SPLIT 1.2 stem
+
+## SPLIT 1.2.1 stem
 
 2.
 Participe comme adjectif étranger, ou comme nom étranger :
@@ -101,6 +108,8 @@ Pr 22,14
 ;
 Pr 23,33
 .
+
+## SPLIT 1.2.2 stem
 
 c. au pays, étranger, זָרִים
 étrangers (comme tels généralement ennemis) Os 7,9 ; Os 8,7 ; Es 1,7 (deux fois dans le verset) ; Es 25,2 ; Es 25,5 ; Es 29,5 ;

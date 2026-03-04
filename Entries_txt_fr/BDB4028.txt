@@ -127,6 +127,9 @@ P
 ).
 
 ## SPLIT 2 sense
+
+## SPLIT 2.1 sense
+
 2.
 ustensile, instrument, appareil :
 
@@ -194,6 +197,8 @@ Qo 9,18
 Ez 40,42
 est couteau sacrificiel.
 
+## SPLIT 2.2 sense
+
 b.
 instrument de musique כְּלֵי
 (הַ)שִּׁיר
@@ -242,6 +247,8 @@ e.
 1 S
 8,22
 son équipement de char.
+
+## SPLIT 2.3 sense
 
 f. comme terme général pour
 ustensiles et mobilier du palais de Salomon

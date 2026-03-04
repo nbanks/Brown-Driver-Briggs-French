@@ -38,6 +38,9 @@ Ex 23,14 + 3
 t. (voir 2 ci-dessous) ; —
 
 ## SPLIT 1 sense
+
+## SPLIT 1.1 sense
+
 1.
 pied :
 
@@ -121,6 +124,8 @@ Ex 37,13
 (
 P
 ).
+
+## SPLIT 1.2 sense
 
 f.
 expressions :

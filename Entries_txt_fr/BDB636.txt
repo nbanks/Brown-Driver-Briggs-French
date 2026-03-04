@@ -12,6 +12,8 @@ asâru
 
 ## SPLIT 1 stem
 
+## SPLIT 1.1 stem
+
 Qal
 Parfait suffixe אֲסָרָם
 Jb 36,13 3
@@ -157,6 +159,8 @@ Jb 12,18
 (אֵזוֺר = pagne d'esclave, RS p. 25 ci-dessus ; Hoffm lit וַיָּסַר pour וַיֶּאְסֹר) ;
 חַרְבּוֺ אֲסוּרִים עַלמָֿתְנָיו
 Ne 4,12.
+
+## SPLIT 1.2 stem
 
 5. suivi de מִלְחָמָה
 engager la bataille, lancer l'attaque (comparer allemand mit jemandem anbinden

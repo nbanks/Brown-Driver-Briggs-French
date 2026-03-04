@@ -96,6 +96,9 @@ P
 ).
 
 ## SPLIT 3 stem
+
+## SPLIT 3.1 stem
+
 Pi`el
 Parfait 3 masculin singulier קִדַּשׁ
 Nb 6,11
@@ -181,6 +184,8 @@ prêtre
 Lv 21,8 (
 H
 ).
+
+## SPLIT 3.2 stem
 
 4.
 consacrer par purification :

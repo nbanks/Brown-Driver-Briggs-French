@@ -42,6 +42,9 @@ Ez 24,8
 , (sang) à ne pas couvrir.
 
 ## SPLIT 3 stem
+
+## SPLIT 3.1 stem
+
 Pi`el
 Parfait 3 masculin singulier כִּסָּה
 Nb 9,15
@@ -160,6 +163,8 @@ P
 Es
 51,16.
 
+## SPLIT 3.2 stem
+
 4.
 couvrir, s'étendre sur, la graisse, les entrailles Ex 29,13 ; Ex 29,22 ; Lv 3,3 ;
 Lv 3,9 ;
@@ -215,6 +220,8 @@ Ab 1,10 ; Mi 7,10 l'horreur Ps 55,6 ; Ez
 le méfait Ps 140,10 Dieu couvre le péché
 Ps 85,3
 (|| נשׂא עון), comparer Ps 32,1 (Qal).
+
+## SPLIT 3.3 stem
 
 6. suivi de על de personne ou chose couverte, couvrir :
 les chérubins au-dessus de l'arche 2 Ch 5,8 au-dessus des morts, la terre Nb 16,33 (

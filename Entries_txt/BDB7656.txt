@@ -26,6 +26,10 @@ Hebrew רְָאִי
 
 ## SPLIT 1 stem
 
+## SPLIT 1.1 stem
+
+## SPLIT 1.1.1 stem
+
 Qal_1141_
 Perfect 3 masculine singular ׳
 ר
@@ -129,6 +133,8 @@ specifically of having access to man of rank Gen 43:3; Gen 43:5 + (see [
 פָּנֶה
 ] 2.b.).
 
+## SPLIT 1.1.2 stem
+
 b.
 see, with accusative of thing: subject עַיִן, עֵינַיִם
 
@@ -196,6 +202,8 @@ Gen 41:19 compare Isa 66:8; Ezek 1:27 (twice in verse),
 Ezek 16:50; Dan 1:13, כֵּן
 Ps
 48:9.
+
+## SPLIT 1.2 stem
 
 2.
 see, followed by accusative + clause or phrase of closer designation: (I) + epexegetical
@@ -288,6 +296,8 @@ Gen 20:10
 i.e.what hast thou encountered, that . . . ?
 Bacher^ZAW xix (1899). 345 ff.; Terminol. 177 f.^
 
+## SPLIT 1.3 stem
+
 4. absolute see, have (power of) vision, Gen 27:1 (
 
 J
@@ -316,6 +326,8 @@ Qr
 see
 אור
 .
+
+## SPLIT 1.4 stem
 
 5.
 see = perceive:
@@ -426,6 +438,10 @@ Gen 42:21
 ; Jer 5:1
 .]
 
+## SPLIT 1.5 stem
+
+## SPLIT 1.5.1 stem
+
 6.
 look at, see, by direct volition:
 
@@ -521,6 +537,8 @@ Judg 7:17
 
 (compare GFM).
 
+## SPLIT 1.5.2 stem
+
 d.
 look after, see after, learn about, with accusative of thing Gen 37:14 (
 
@@ -579,6 +597,8 @@ look at = concern oneself about, accusative of thing (+
 39:23 (
 J
 ).
+
+## SPLIT 1.6 stem
 
 7. of mental observation:
 
@@ -643,6 +663,10 @@ f.
 consider, reflect,
 Eccl
 7:14 (followed by clause oratio recta [direct speech]).
+
+## SPLIT 1.7 stem
+
+## SPLIT 1.7.1 stem
 
 8.
 
@@ -723,6 +747,8 @@ Exod 1:16 see [
 ] and Comm., also Spiegelb^ZA xiv
 (June 1900), 269 ff.^
 
+## SPLIT 1.7.2 stem
+
 c. with ל, לַלֵּבָב
 ׳
 לַעֵינַיִם וְיוה יִר
@@ -760,6 +786,10 @@ read probably
 GASm.
 
 ## SPLIT 2 stem
+
+## SPLIT 2.1 stem
+
+## SPLIT 2.1.1 stem
 
 Niph`al
 Perfect 3 masculine singular נִרְאָה
@@ -890,6 +920,8 @@ location), Num 17:7
 P
 ).
 
+## SPLIT 2.1.2 stem
+
 b.
 appear, of man, = present oneself with אֶל person
 Gen 46:29 (
@@ -1007,6 +1039,8 @@ verse); subject כְּנֶגַע
 Lev
 14:35
 (with ל person).
+
+## SPLIT 2.2 stem
 
 2.
 be seen:
@@ -1141,6 +1175,8 @@ Niph`al
 כִּרְאֹתוֺ אֹתוֺ.
 
 ## SPLIT 5 stem
+
+## SPLIT 5.1 stem
 
 Hiph`il_62_
 Perfect 3 masculine singular
@@ -1372,6 +1408,8 @@ Ps
 71:20;
 Ps
 85:8. Psalm
+
+## SPLIT 5.2 stem
 
 2.
 cause to look intently at, to behold,

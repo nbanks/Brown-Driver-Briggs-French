@@ -156,6 +156,8 @@ Ps 99:7.
 
 ## SPLIT 7 sense
 
+## SPLIT 7.1 sense
+
 7. plural חֻקִּים
 enactments, statutes of a law:
 
@@ -188,6 +190,8 @@ E
 ; || תּוֺרֹתָיו), Exod 18:20 (
 E
 ; || id.)
+
+## SPLIT 7.2 sense
 
 g. elsewhere of prescriptions of the several
 codes of

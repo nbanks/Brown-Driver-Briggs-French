@@ -21,6 +21,8 @@ Ez 1,19) ; —
 
 ## SPLIT 1 stem
 
+## SPLIT 1.1 stem
+
 Qal_117_
 Parfait 3 masculin singulier ׳
 פ
@@ -116,6 +118,8 @@ Gn 24,63 ; Dt 23,12 du matin, (הַ)בֹּקֶר
 לִפ
 
 Ex 14,27 ; Jg 19,26 ; Ps 46,6 (figuré).
+
+## SPLIT 1.2 stem
 
 2.
 

@@ -43,6 +43,9 @@ Es 39,8 (=
 Jr 14,13.
 
 ## SPLIT 3 sense
+
+## SPLIT 3.1 sense
+
 3.
 fidélité, fiabilité :
 
@@ -90,6 +93,8 @@ Jos 2,14 (
 J
 ) 2 S
 15,20.
+
+## SPLIT 3.2 sense
 
 (b) un attribut de Dieu
 Ps 54,7 ; Ps 71,22 ;

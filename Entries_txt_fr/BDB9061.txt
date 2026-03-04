@@ -10,6 +10,9 @@ service, et peut-être verbe שרת
 servir) ; —
 
 ## SPLIT 1 stem
+
+## SPLIT 1.1 stem
+
 Pi`el
 Parfait 3 masculin singulier שֵׁרֵת
 Nb 8,26 ; Dt 18,7 3
@@ -72,6 +75,10 @@ Ps 103,21
 Ps 104,4.
 
 e. des rois des nations chez les prophètes Es 60,10.
+
+## SPLIT 1.2 stem
+
+## SPLIT 1.2.1 stem
 
 2. habituellement du service spécial dans le culte :
 
@@ -183,6 +190,8 @@ avec בַּקֹּדֶשׁ
 Ex 28,43
 
 + 4 t. P.
+
+## SPLIT 1.2.2 stem
 
 e. d'idolâtrie, avec accusatif עץ ואבן
 Ez 20,32

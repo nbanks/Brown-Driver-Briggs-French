@@ -6,6 +6,9 @@ verbe
 aimer —
 
 ## SPLIT 1 stem
+
+## SPLIT 1.1 stem
+
 Qal
 Parfait
 אָהֵ֑ב
@@ -160,6 +163,8 @@ comparer Pr
 15,12
 voir surtout participe ci-dessous
 
+## SPLIT 1.2 stem
+
 2. moins souvent de l'appétit, objet nourriture, Gn 27,7 ; Gn 27,9 ; Gn 27,14 (
 J
 
@@ -211,6 +216,8 @@ Ps 119,47
 comparer Es 56,6
 
 comparer aussi de l'amour pour Jérusalem Es 66,10 ; Ps 122,6.
+
+## SPLIT 1.3 stem
 
 4. surtout participe
 אֹהֵב =

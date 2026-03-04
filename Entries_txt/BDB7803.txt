@@ -13,6 +13,8 @@ be high, dialect of Oman (Jayakar^JA xxi. 813, 875^) and Zanzibar (Prä^ZMG xxxi
 
 ## SPLIT 1 stem
 
+## SPLIT 1.1 stem
+
 Qal
 Perfect 3 masculine singular consecutive וְרָם
 Deut 8:14 +; 3
@@ -88,6 +90,8 @@ Ps 99:2,
 גּוֺיִם
 Ps 113:4
 .
+
+## SPLIT 1.2 stem
 
 2.
 be raised, uplifted:
@@ -289,6 +293,10 @@ extolled, of ׳
 
 ## SPLIT 4 stem
 
+## SPLIT 4.1 stem
+
+## SPLIT 4.1.1 stem
+
 Hiph`il
 Perfect 3 masculine singular הֵרִים
 
@@ -436,6 +444,8 @@ Isa 14:13 nest (subject
 נֶשֶׁר) Job
 39:27.
 
+## SPLIT 4.1.2 stem
+
 f.
 lilft up, exalt, with accusative of person,
 subject ׳
@@ -474,6 +484,8 @@ Ps 75:7; Ps
 66:7 see
 Qal
 2.c.
+
+## SPLIT 4.2 stem
 
 2.
 lift up and take away,

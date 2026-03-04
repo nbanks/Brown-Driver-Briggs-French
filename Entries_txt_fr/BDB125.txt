@@ -201,6 +201,9 @@ Os 12,15
 (peut-être erreur pour אֲדֹנָי).
 
 ## SPLIT 3 sense
+
+## SPLIT 3.1 sense
+
 3. suffixe 1re singulier (אֲדֹנַי) אֲדֹנִי
 (1) référence à des hommes : mon seigneur, mon maître,
 
@@ -353,6 +356,7 @@ Rt
 1 S
 25,24 + (15 t.) ;
 
+## SPLIT 3.2 sense
 (2) référence à Dieu : אֲדֹנָי
 
 a.
@@ -416,6 +420,8 @@ Ps
 35,23
 
 (les auteurs qui emploient אֱלֹהִים utilisent rarement אֲדֹנָי) ;
+
+## SPLIT 3.3 sense
 
 b.
 Adonaï
@@ -487,6 +493,9 @@ Dn 9,8
 comme le nom divin.
 
 ## SPLIT 4 sense
+
+## SPLIT 4.1 sense
+
 4.
 אֲדֹנָי יהוה
 
@@ -614,6 +623,7 @@ lire יהוה,
 
 ) ;
 
+## SPLIT 4.2 sense
 (c) incertain si (a) ou (
 b
 )

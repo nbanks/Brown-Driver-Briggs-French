@@ -29,6 +29,11 @@ comparer surtout
 Pa`el) ; —
 
 ## SPLIT 1 stem
+
+## SPLIT 1.1 stem
+
+## SPLIT 1.1.1 stem
+
 Qal_460_
 Parfait 3 masculin singulier קָם
 1 S 17,48 +,
@@ -122,6 +127,8 @@ Nb 11,32 (
 E
 ) ; au-dessus de, עַל personne, 2 S 12,17.
 
+## SPLIT 1.1.2 stem
+
 f.
 se lever comme préliminaire à un discours formel Jg 20,8 ; Mi 6,1 ; Jr 1,17 ; 1 Ch 28,2
 (עַלרַֿגְלָיו), Pr 31,28 ; Jb 30,28 + 5 t. ; pour témoigner (contre)
@@ -140,6 +147,8 @@ g. pour
 Ne 9,5.
 
 h. du bruit, tumulte Os 10,14 de la lumière Jb 25,3 (עַל personne).
+
+## SPLIT 1.2 stem
 
 2.
 se lever, dans un sens hostile (optatif avec idée de soudaineté) ; avec עַל
@@ -225,6 +234,8 @@ Jb
 11,17
 c.-à-d. pour briller sur toi.
 
+## SPLIT 1.3 stem
+
 5.
 se lever pour, c.-à-d. pour devenir, avec ל de chose ; בְּיוֺם קוּמִי לְעַד
 
@@ -285,6 +296,8 @@ se lever = partir, se mettre en route, pour aller quelque part, Gn 13,17 ; Gn
 ;
 Gn 19,15 ;
 1 S 9,3 ; Jon 1,3 (en fuite), Jon 3,3 + 110 t.
+
+## SPLIT 1.4 stem
 
 7.
 se tenir debout : surtout figuré
@@ -459,6 +472,9 @@ aussi Ps
 .
 
 ## SPLIT 4 stem
+
+## SPLIT 4.1 stem
+
 Hiphil_146_
 Parfait 3 masculin singulier הֵקִים
 Jos 4,9 + ; 2
@@ -577,6 +593,8 @@ d'
 établir une loi Ps
 78,5 (עֵדוּת ; || שִׂים).
 
+## SPLIT 4.2 stem
+
 3.
 susciter = faire entrer en scène : avec accusatif, des fils à la place de (תַּחַת
 
@@ -649,6 +667,8 @@ Ps
 107,29 (comparer
 Qal
 5).
+
+## SPLIT 4.3 stem
 
 6.
 faire se tenir debout :

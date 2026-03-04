@@ -49,6 +49,9 @@ Ez 35,8 ; Ml 1,3
 Dt 8,9 —
 
 ## SPLIT 1 sense
+
+## SPLIT 1.1 sense
+
 1.
 montagne, colline (souvent non nettement distinguées, mais) :
 
@@ -317,6 +320,8 @@ P
 ), comparer
 Jg 9,36 etc.
 
+## SPLIT 1.2 sense
+
 b.
 chaîne de montagnes
 הַרבָּֿשָׁן
@@ -387,6 +392,8 @@ a טֶרֶף pour עַד), et probablement Gn 49,26 pour
 
 הוֺרַי עַד (|| גִּבְעֹת עוֺלָם) comparer Di
 .
+
+## SPLIT 1.3 sense
 
 d.
 haute montagne
@@ -484,6 +491,8 @@ Na 3,18
 גִּבְעָה), Ez 34,6 (|| כָּלגִּֿבְעָה רָמָה) 2 Ch
 18,16.
 
+## SPLIT 1.4 sense
+
 h. pâturages pour le bétail בְּהֵמוֺת
 בְּהַרֲרֵיאָֿ֑לֶף
 Ps
@@ -515,6 +524,8 @@ k. comme scène de massacre, (figuré) Es 34,3
 fondant de sang ; comme lieu de formation de bataille, hauteur
 1 S 17,3
 (deux fois dans le v.).
+
+## SPLIT 1.5 sense
 
 l. comme lieux de culte illicite Es 65,7 (|| גְּבָעוֺת) comparer Jr 3,6 et apparemment Jr 3,25 (||
 id.) de même הַרגָּֿבֹהַּ וְנִשָּׂא

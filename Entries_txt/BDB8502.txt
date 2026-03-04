@@ -15,6 +15,8 @@ return, so Aramaic תּוּב,
 
 ## SPLIT 1 stem
 
+## SPLIT 1.1 stem
+
 Qal_685_
 Perfect 3 masculine singular שָׁב
 Gen 18:33 +, 3
@@ -86,6 +88,8 @@ or a vow Judg
 P
 ), i.e. be exempt.
 
+## SPLIT 1.2 stem
+
 2.
 return, come or go back, with מֵעַל person 1Sam 17:15 (opposed to הלד
 ),
@@ -127,6 +131,10 @@ Co Toy and others; yet see Krae
 J
 ) see הלד
 4.c. (4).
+
+## SPLIT 1.3 stem
+
+## SPLIT 1.3.1 stem
 
 3. especially return unto:
 
@@ -226,6 +234,8 @@ read
 Vrss
 and modern); followed by infinitive purpose Judg 14:8; 2Sam 6:20 + 10 t.
 
+## SPLIT 1.3.2 stem
+
 b.
 come back, אֶל person Gen 8:9 (
 J
@@ -307,6 +317,8 @@ P
 Eccl 5:14
 
 .
+
+## SPLIT 1.4 stem
 
 4.
 
@@ -417,6 +429,10 @@ Mic 2:8
 Now
 שְׁבִי
 spoil of war).
+
+## SPLIT 1.5 stem
+
+## SPLIT 1.5.1 stem
 
 6.
 figurative, specifically of spiritual relations:
@@ -543,6 +559,8 @@ Jer 3:22
 5:3
 + 14 t., + participle as substantive Isa 1:27.
 
+## SPLIT 1.5.2 stem
+
 e.
 turn back from evil, with מִן (especially Jeremiah, Ezekiel)
 
@@ -641,6 +659,10 @@ h. of ׳
 Ps
 132:11
 מֵאַחֲרֵי person, i.e. cease to bless, Jer 32:40.
+
+## SPLIT 1.6 stem
+
+## SPLIT 1.6.1 stem
 
 7. of inanimate things (sometimes personified, or treated as things of life):
 
@@ -741,6 +763,8 @@ judgement (-giving) shall return to (עַד
 )
 righteousness (be in accord therewith).
 
+## SPLIT 1.6.2 stem
+
 h. of boundary,
 = change
 (sometimes reverse) direction (
@@ -762,6 +786,8 @@ person),
 2Kgs 5:14
 ;
 Lev 13:16 (|| נֶהְפַּךְ לְלָבָן).
+
+## SPLIT 1.7 stem
 
 8. denoting repetition, etc. (Ges^«GKC:120d»§
 120 d
@@ -933,6 +959,10 @@ a land restored + מִן of thing. — See also שׁוֺבָב
 infra.
 
 ## SPLIT 4 stem
+
+## SPLIT 4.1 stem
+
+## SPLIT 4.1.1 stem
 
 Hiph`il_353_
 Perfect 3 masculine singular Gen 41:13 +; suffix וַהֲשִׁיבְֱ
@@ -1124,6 +1154,8 @@ Isa 38:8. — Job
 Qal
 3.b.
 
+## SPLIT 4.1.2 stem
+
 b.
 put back: accusative of thing, stone, עַלפִּֿי
 הַבְּאֵר
@@ -1173,6 +1205,8 @@ oppressing),
 Ezek 20:22 (מִן omitted); foot, with מִן
 
 Isa 58:13 (figurative); draw in breath Job 9:18.
+
+## SPLIT 4.1.3 stem
 
 d. = give back, restore, accusative of
 person or
@@ -1259,6 +1293,8 @@ e. = relinquish, with accusative of thing,
 
 Job 20:10.
 
+## SPLIT 4.1.4 stem
+
 f. = give in payment,
 requital,
 with accusative of thing + apposition 1Sam 6:8 (ל person), v
@@ -1286,6 +1322,8 @@ Job 10:9 = מָוֶת (accusative) Job 30:23
 compare עַדדַּֿכָּא
 
 Ps 90:3.
+
+## SPLIT 4.2 stem
 
 2.
 
@@ -1371,6 +1409,8 @@ Job 31:14; Job 32:14
 (Gi Job 32:15
 ), Job
 40:4.
+
+## SPLIT 4.3 stem
 
 4.
 
@@ -1481,6 +1521,8 @@ reject, refuse, ׳
 2:17;
 1Kgs 2:20 (twice in verse); 2Chr
 6:42; Ps 132:10.
+
+## SPLIT 4.4 stem
 
 6.
 

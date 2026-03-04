@@ -10,6 +10,11 @@ akâlu
 i^,) —
 
 ## SPLIT 1 stem
+
+## SPLIT 1.1 stem
+
+## SPLIT 1.1.1 stem
+
 Qal
 Parfait
 יָכֹל
@@ -125,6 +130,8 @@ P
 ; Jr
 19,11 +.
 
+## SPLIT 1.1.2 stem
+
 b. suivi de l'infinitif sans לְ (27 t. ; pas
 
 P
@@ -193,6 +200,8 @@ Est 8,6
 (deux fois dans le verset), littéralement comment pourrai-je voir ? — Aussi dans diverses
 combinaisons où l'idiome français en ferait un auxiliaire d'un autre verbe :
 
+## SPLIT 1.1.3 stem
+
 g.
 pouvoir obtenir, accomplir : suivi de acc לֹא יוּכְלוּ נִקָּיוֺן
 Os 8,5
@@ -221,6 +230,8 @@ i.
 pouvoir atteindre, suivi de לְ, Ps 139,6 c'est
 élevé, לֹא אוּכַל לָהּ
 je ne puis (atteindre) à cela.
+
+## SPLIT 1.2 stem
 
 2.
 l'emporter :

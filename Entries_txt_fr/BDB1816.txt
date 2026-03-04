@@ -18,6 +18,9 @@ I. singulier discours, propos, parole, mot, comme la somme de ce qui
 est dit :
 
 ## SPLIT 1 sense
+
+## SPLIT 1.1 sense
+
 1.
 des hommes,
 
@@ -85,6 +88,8 @@ P
 Jg 11,10 ; Esd 10,5 ; Ne 5,12 ; Ne 5,13 comparer 2 S 17,6 (parole de conseil), 1 R 3,12
 (requête),
 1 R 17,13 (proposition ; pour ces sens voir ci-dessous)
+
+## SPLIT 1.2 sense
 
 c.
 message, rapport, nouvelle, וַיִּשְׁמַע הָעָם
@@ -189,6 +194,8 @@ Dt
 22,14 ;
 Dt 22,17.
 
+## SPLIT 1.3 sense
+
 h.
 décision, sentence, דְּבַר הַמִּשְׁפָּט
 la sentence du jugement
@@ -211,6 +218,9 @@ Jb
 41,4.
 
 ## SPLIT 2 sense
+
+## SPLIT 2.1 sense
+
 2.
 parole de Dieu, comme communication divine sous forme de commandements, prophétie, et paroles
 de
@@ -441,6 +451,8 @@ E
 )
 Dt
 6,6.
+
+## SPLIT 2.2 sense
 
 b. Yahvé confirme sa parole de promesse Dt 9,5 ; 1 S
 1,23

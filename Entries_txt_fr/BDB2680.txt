@@ -11,6 +11,9 @@ lier sur ou autour, ceindre, comparer arabe
 lier, serrer) —
 
 ## SPLIT 1 stem
+
+## SPLIT 1.1 stem
+
 Qal
 Parfait
 ׳
@@ -140,6 +143,8 @@ Ex
 19,16
 ) il devint de plus en plus fort.
 
+## SPLIT 1.2 stem
+
 2.
 être ferme, solide : —
 
@@ -246,6 +251,9 @@ ne le fortifia pas, mais le texte est très douteux (|| וַיָצַר לוֺ
 ).
 
 ## SPLIT 2 stem
+
+## SPLIT 2.1 stem
+
 Pi`el
 Parfait
 חִזַּק
@@ -381,6 +389,8 @@ personne + ׳
 2 Ch
 35,2.
 
+## SPLIT 2.2 stem
+
 4.
 rendre ferme : —
 
@@ -430,6 +440,9 @@ Jr
 5,3.
 
 ## SPLIT 3 stem
+
+## SPLIT 3.1 stem
+
 Hiphil_118_
 Parfait
 הֶחֱזִיק
@@ -540,6 +553,10 @@ prévaloir sur, pour
 2 R
 4,8.
 
+## SPLIT 3.2 stem
+
+## SPLIT 3.2.1 stem
+
 6. spécialement saisir ou maintenir sa prise
 sur, s'emparer de :
 
@@ -639,6 +656,8 @@ avoir ou maintenir sa prise sur, suivi de
 Jg 16,26 ;
 2 S
 3,29 ; Jr 50,33 ; Ne 4,15.
+
+## SPLIT 3.2.2 stem
 
 c.
 maintenir, suivi de בְּ, figuré

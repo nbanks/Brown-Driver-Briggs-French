@@ -99,16 +99,32 @@ BDB8185 chunk 1/4   84KB stem
 BDB8502 chunk 1/6   81KB stem
 ```
 
-**Approach — implemented with dot notation (3.1, 3.2, 3.3):**
+**Approach — implemented with dot notation (1.1, 1.1.3, etc.):**
 
 - [x] `subsplit_html()` added to `split_entry.py` — recursive splitting at
   div.sense/div.subsense boundaries, unlimited depth, 10KB target
 - [x] Split marker format changed from `@@SPLIT:type@@` to `## SPLIT N type`
   (numbered, markdown-style). Both `Entries_txt/` and `Entries_txt_fr/` converted.
 - [x] All scripts and tests updated to new format.
-- [ ] Add `## SPLIT N.M type` sub-split markers to txt/txt_fr for entries
-  that need deeper splitting
+- [x] Sub-split markers (`## SPLIT N.M type`) injected into `Entries_txt/` for
+  278 oversized entries. Hierarchical: `1.1`, `1.1.1`, `1.1.2`, `1.2`, etc.
+  5 entries reach depth 3 (BDB2162, BDB4264, BDB5277, BDB5441, BDB8502).
+- [x] `inject_split_markers()` in `extract_txt.py` uses two-pass approach:
+  depth-1 `subsplit_html` for intermediate markers, full depth for leaf markers.
+- [x] `determine_split_divs()` consolidated as single canonical split-finder in
+  `split_entry.py`. Both `split_html()` and `extract_txt.py` use it.
+- [x] `subsplit_txt()` added to `split_entry.py` — splits at leaf markers only
+  (skips intermediate grouping markers).
+- [x] `split_txt()` regex narrowed to `\d+` (integer only) so sub-split markers
+  are ignored at top level.
+- [x] All 116 tests pass. 10022 `Entries_txt/` files regenerated.
+- [ ] Inject matching sub-split markers into `Entries_txt_fr/` (280 entries).
+  Use team of sonnet agents + `check_splits.py` verification.
 - [ ] Integrate sub-splitting into `llm_html_assemble.py`
+- [ ] Enhance `check_hebrew.py` to support per-subsection Hebrew comparison.
+  Currently it compares whole files; with sub-split markers it could compare
+  Hebrew preservation section-by-section, making it easier to pinpoint where
+  a translation dropped or mangled Hebrew text in large entries.
 
 ## Data fixes
 

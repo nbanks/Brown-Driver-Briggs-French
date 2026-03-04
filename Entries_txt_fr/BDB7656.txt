@@ -26,6 +26,10 @@ hébreu רְָאִי
 
 ## SPLIT 1 stem
 
+## SPLIT 1.1 stem
+
+## SPLIT 1.1.1 stem
+
 Qal_1141_
 Parfait 3 masculin singulier ׳
 ר
@@ -129,6 +133,8 @@ spécifiquement d'avoir accès à un homme de rang Gn 43,3 ; Gn 43,5 + (voir [
 פָּנֶה
 ] 2.b.).
 
+## SPLIT 1.1.2 stem
+
 b.
 voir, avec accusatif de chose : sujet עַיִן, עֵינַיִם
 
@@ -196,6 +202,8 @@ Gn 41,19 comparer Es 66,8 ; Ez 1,27 (deux fois dans le verset),
 Ez 16,50 ; Dn 1,13, כֵּן
 Ps
 48,9.
+
+## SPLIT 1.2 stem
 
 2.
 voir, suivi d'accusatif + proposition ou expression de détermination plus précise : (I) + proposition
@@ -288,6 +296,8 @@ Gn 20,10
 c.-à-d. qu'as-tu rencontré, pour que... ?
 Bacher^ZAW xix (1899). 345 ss. ; Terminol. 177 s.^
 
+## SPLIT 1.3 stem
+
 4. absolu voir, avoir la (faculté de) vision, Gn 27,1 (
 
 J
@@ -316,6 +326,8 @@ Qr
 voir
 אור
 .
+
+## SPLIT 1.4 stem
 
 5.
 voir = percevoir :
@@ -426,6 +438,10 @@ Gn 42,21
 ; Jr 5,1
 .]
 
+## SPLIT 1.5 stem
+
+## SPLIT 1.5.1 stem
+
 6.
 regarder, voir, par volonté directe :
 
@@ -521,6 +537,8 @@ Jg 7,17
 
 (comparer GFM).
 
+## SPLIT 1.5.2 stem
+
 d.
 s'occuper de, veiller à, s'informer de, avec accusatif de chose Gn 37,14 (
 
@@ -579,6 +597,8 @@ regarder = se soucier de, accusatif de chose (+
 39,23 (
 J
 ).
+
+## SPLIT 1.6 stem
 
 7. d'observation mentale :
 
@@ -643,6 +663,10 @@ f.
 considérer, réfléchir,
 Qo
 7,14 (suivi de proposition oratio recta [discours direct]).
+
+## SPLIT 1.7 stem
+
+## SPLIT 1.7.1 stem
 
 8.
 
@@ -723,6 +747,8 @@ Ex 1,16 voir [
 ] et Comm., aussi Spiegelb^ZA xiv
 (June 1900), 269 ss.^
 
+## SPLIT 1.7.2 stem
+
 c. avec ל, לַלֵּבָב
 ׳
 לַעֵינַיִם וְיוה יִר
@@ -760,6 +786,10 @@ lire probablement
 GASm.
 
 ## SPLIT 2 stem
+
+## SPLIT 2.1 stem
+
+## SPLIT 2.1.1 stem
 
 Niph`al
 Parfait 3 masculin singulier נִרְאָה
@@ -890,6 +920,8 @@ lieu), Nb 17,7
 P
 ).
 
+## SPLIT 2.1.2 stem
+
 b.
 apparaître, d'un homme, = se présenter avec אֶל personne
 Gn 46,29 (
@@ -1007,6 +1039,8 @@ verset) ; sujet כְּנֶגַע
 Lv
 14,35
 (avec ל personne).
+
+## SPLIT 2.2 stem
 
 2.
 être vu :
@@ -1141,6 +1175,8 @@ Niph`al
 כִּרְאֹתוֺ אֹתוֺ.
 
 ## SPLIT 5 stem
+
+## SPLIT 5.1 stem
 
 Hiphil_62_
 Parfait 3 masculin singulier
@@ -1372,6 +1408,8 @@ Ps
 71,20 ;
 Ps
 85,8. Psaume
+
+## SPLIT 5.2 stem
 
 2.
 faire regarder intensément, contempler,

@@ -10,6 +10,9 @@ penser, compter (hébreu tardif id. ; araméen חֲשַׁב,
 id. ; phénicien nom חשב sens douteux voir CIS^i. 86^) —
 
 ## SPLIT 1 stem
+
+## SPLIT 1.1 stem
+
 Qal
 Parfait
 ׳
@@ -152,6 +155,8 @@ estimer, évaluer, considérer, l'argent Es 13,17, un homme Es 33,8, le serviteu
 י
 Es 53,3.
 
+## SPLIT 1.2 stem
+
 5.
 inventer des choses ingénieuses et artistiques, להם כלי שׁיר
 ׳
@@ -249,6 +254,9 @@ Niph`al
 3) ; ne pas imputer l'iniquité à quelqu'un Ps 32,2.
 
 ## SPLIT 2 stem
+
+## SPLIT 2.1 stem
+
 Niph`al
 Parfait
 נֶחְשַׁב
@@ -313,6 +321,8 @@ P
 n'était pas compté (tant il était abondant) 1 R 10,21 = 2 Ch
 9,20 ;
 2 R 22,7.
+
+## SPLIT 2.2 stem
 
 3.
 être imputé à quelqu'un, avec לְ

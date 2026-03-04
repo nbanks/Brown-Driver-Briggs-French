@@ -95,6 +95,9 @@ E
 ).
 
 ## SPLIT 3 stem
+
+## SPLIT 3.1 stem
+
 Hiph`il
 Parfait 3 masculin singulier suffixe הֹרַנִי
 Jb
@@ -232,6 +235,8 @@ E
 ) Ps
 45,5 ; Jb
 6,24.
+
+## SPLIT 3.2 stem
 
 5.
 diriger, enseigner, instruire :

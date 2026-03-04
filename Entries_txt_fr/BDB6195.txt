@@ -13,6 +13,11 @@ répondre (hébreu tardif id., répondre, faire réponse ;
 [placeholder3947: Placeholders/3947.gif], avoir l'intention de dire) ; —
 
 ## SPLIT 1 stem
+
+## SPLIT 1.1 stem
+
+## SPLIT 1.1.1 stem
+
 Qal
 Parfait 3 masculin singulier ׳
 ע
@@ -94,6 +99,8 @@ Ps 65,6
 des choses terribles tu [׳
 י] nous accordes.
 
+## SPLIT 1.1.2 stem
+
 d. souvent + אָמַר
 Gn 18,27
 Abraham répondit et dit, Ex 4,1 (
@@ -143,6 +150,8 @@ Gn 34,13
 (
 P
 ).
+
+## SPLIT 1.2 stem
 
 2.
 

@@ -34,6 +34,8 @@ Ex 20,15),
 
 ## SPLIT 1 sense
 
+## SPLIT 1.1 sense
+
 1.
 son : surtout
 
@@ -116,6 +118,8 @@ Ez 9,1
 1 R 19,12
 .
 
+## SPLIT 1.2 sense
+
 c. du séraphin Es
 6,4.
 
@@ -151,6 +155,8 @@ Jr 4,15 ; Jr 10,22 ; Jr 50,28 ; Ct
 ^«GKC:146b»§ 146b^).
 
 ## SPLIT 2 sense
+
+## SPLIT 2.1 sense
 
 2.
 son :
@@ -234,6 +240,8 @@ g. tremblement de terre Ez 37,7.
 
 h. une chute Jr
 49,21 ; Ez 26,15 ; Ez 31,16.
+
+## SPLIT 2.2 sense
 
 i. d'une
 multitude 1 S

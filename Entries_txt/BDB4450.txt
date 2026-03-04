@@ -20,6 +20,8 @@ Cook^Gloss^ Aramaic Inscr); —
 
 ## SPLIT 1 stem
 
+## SPLIT 1.1 stem
+
 Qal
 Perfect
 ׳
@@ -185,6 +187,8 @@ J
 E
 ), +.
 
+## SPLIT 1.2 stem
+
 3.
 
 a.
@@ -255,6 +259,10 @@ Hos 4:11.
 d. especially take away
 life 1Kgs 19:10; 1Kgs 19:14; Ps 31:14; Prov 1:19; Jonah 4:3
 .
+
+## SPLIT 1.3 stem
+
+## SPLIT 1.3.1 stem
 
 4.
 take to or for a person:
@@ -366,6 +374,8 @@ Gen 20:3
 E
 ), etc.
 
+## SPLIT 1.3.2 stem
+
 f. = receive, accept, especially a bribe,
 gift,
 ransom, etc.,
@@ -432,6 +442,8 @@ Jer
 23:31, i.e. they take (= make use of) their own tongues, and
 talk
 oracles.
+
+## SPLIT 1.4 stem
 
 5.
 take up, upon =put upon, followed by ׃עַל
@@ -529,6 +541,8 @@ E
 הַצֵּל
 לְקֻחִים
 rescue those led to death.
+
+## SPLIT 1.5 stem
 
 8.
 take = capture, seize:

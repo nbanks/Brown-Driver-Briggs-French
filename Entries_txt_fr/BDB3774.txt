@@ -27,6 +27,11 @@ Hiph`il
 4) —
 
 ## SPLIT 1 stem
+
+## SPLIT 1.1 stem
+
+## SPLIT 1.1.1 stem
+
 Qal
 Parfait 3 masculin singulier יָשַׁב
 Gn 13,12 + ;
@@ -228,6 +233,8 @@ Ps 122,5
 Rt 4,14,
 c.-à-d. à la porte (comparer Rt 4,11), ceux en présence de qui l'achat de terre avait lieu.
 
+## SPLIT 1.1.2 stem
+
 b.
 être assis, s'asseoir, absolu, Jg 19,6 ; Rt 4,1 ; Rt 4,2 ; Ne 1,4 ; Jr 36,15 (suivi
 d'une proposition de but, pour manger, etc.) Gn 37,25 ; Est 3,15 + ; opposé à
@@ -262,6 +269,8 @@ Ct 5,12
 serti dans un chaton (c.-à-d. dans une monture, De
 et d'autres), dans la description des yeux ; (> d'autres assis auprès de ruisseaux abondants
 ).
+
+## SPLIT 1.2 stem
 
 2.
 
@@ -359,6 +368,8 @@ Lv 12,4
 ,
 ׳
 עלדֿמי וגו Lv 12,5.
+
+## SPLIT 1.3 stem
 
 3.
 habiter, avoir sa demeure dans (ב) un pays, une ville, une maison, etc., Gn 4,16 ;
@@ -592,6 +603,8 @@ Jr 50,3
 Jr
 51,62
 .
+
+## SPLIT 1.4 stem
 
 4. d'un pays ou d'une ville, être assis, demeurer à sa place, figuré pour
 être habité

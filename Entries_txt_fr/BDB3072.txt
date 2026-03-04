@@ -149,6 +149,9 @@ Es 25,5 ||
 Ps 99,7.
 
 ## SPLIT 7 sense
+
+## SPLIT 7.1 sense
+
 7. pluriel חֻקִּים
 ordonnances, statuts d'une loi :
 
@@ -181,6 +184,8 @@ E
 ; || תּוֺרֹתָיו), Ex 18,20 (
 E
 ; || id.)
+
+## SPLIT 7.2 sense
 
 g. ailleurs des prescriptions des différents
 codes de

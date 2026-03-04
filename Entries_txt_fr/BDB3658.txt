@@ -23,6 +23,11 @@ sortir, DHM dans MV
 comparer Nö^ZMG 1886, 725^) —
 
 ## SPLIT 1 stem
+
+## SPLIT 1.1 stem
+
+## SPLIT 1.1.1 stem
+
 Qal
 Parfait
 יָצָא
@@ -239,6 +244,8 @@ P
 Ps 114,1
 .
 
+## SPLIT 1.1.2 stem
+
 b
 sortir de (la présence d')une personne : Ex 8,26 ; Ex 9,33 ; Ex 10,6 (tous suivis de
 מֵעִם
@@ -327,6 +334,8 @@ Hi-Now Mishna)
 VB
 ), — sur l'accusatif avec יצא voir De.
 
+## SPLIT 1.1.3 stem
+
 e.
 partir
 בְּצֵאת נַפְשָׁהּ
@@ -369,6 +378,8 @@ E
 2 Ch
 21,19
 c.-à-d. au bout de deux ans
+
+## SPLIT 1.1.4 stem
 
 f.
 de choses inanimées : fleuve hors d'Éden Gn 2,10 (
@@ -443,6 +454,8 @@ Jos
 P
 )
 
+## SPLIT 1.1.5 stem
+
 g. avec accent particulier sur l'idée d'origine, source : hysope hors du
 mur
 1 R 5,13
@@ -515,6 +528,8 @@ Ez 33,30 des paroles de ׳
 de
 commandement humain
 Est 1,19, comparer Est 1,17.
+
+## SPLIT 1.1.6 stem
 
 h. d'enfants comme sortant
 des reins (du père) מִמֵּעִים
@@ -615,6 +630,10 @@ Jos
 (deux fois dans le verset) ; Jos 19,12 ; Jos 19,13 ; Jos 19,27 ; Jos 19,34 ; Jos 19,47
 .
 
+## SPLIT 1.2 stem
+
+## SPLIT 1.2.1 stem
+
 2.
 
 a.
@@ -681,6 +700,8 @@ We
 Dr
 Kit
 Bu.
+
+## SPLIT 1.2.2 stem
 
 c.
 sortir, avec référence particulière au but ou au
@@ -769,6 +790,8 @@ J
 E
 ).
 
+## SPLIT 1.3 stem
+
 3. parmi les combinaisons, noter surtout : יָצוֺא וָשׁוֺב (infinitif absolu) Gn 8,7
 sortant et revenant, presque = de côté et d'autre ; אִישׁ
 יוֺצֵא
@@ -811,6 +834,11 @@ Es 37,28
 שִׁבְתְּךָ) = 2 R 19,27 ; Ps 121,8.
 
 ## SPLIT 2 stem
+
+## SPLIT 2.1 stem
+
+## SPLIT 2.1.1 stem
+
 Hiphil_278_
 Parfait
 הוֺצִיא
@@ -1088,6 +1116,8 @@ les genoux de Jacob Gn 48,12 (
 E
 ).
 
+## SPLIT 2.1.2 stem
+
 b. faire sortir d'un lieu pour un
 but particulier (sujet humain) Ex 19,17 (מִן) ; aussi (point de
 départ non exprimé, et but parfois seulement implicite) Gn 38,24 (
@@ -1155,6 +1185,8 @@ Esd
 Dt 24,2
 ).
 
+## SPLIT 2.1.3 stem
+
 g.
 faire sortir une personne vers (אֶל) un lieu (sujet humain)
 Jos
@@ -1218,6 +1250,8 @@ E
 ),
 Dt 21,19 ; Jg 19,25.
 
+## SPLIT 2.2 stem
+
 2.
 figuré, objet personnes, faire sortir de (מִן)
 détresse,
@@ -1251,6 +1285,10 @@ Kmp dans Kau^AT^
 (
 P
 ) ; pour un sacrifice, vers un lieu Nb 19,3.
+
+## SPLIT 2.3 stem
+
+## SPLIT 2.3.1 stem
 
 4. objet inanimé :
 
@@ -1351,6 +1389,8 @@ et les choses cachées il (le mineur)
 amène
 à la lumière.
 
+## SPLIT 2.3.2 stem
+
 i.
 produire par miracle : Moïse, de l'eau hors du rocher Nb 20,8
 ;
@@ -1429,6 +1469,8 @@ Nb 14,37 de même Nb
 14,36
 (
 דִּבָּה עַלהָֿאָרֶץ).
+
+## SPLIT 2.4 stem
 
 5.
 figuré, sujet ׳

@@ -15,6 +15,9 @@ demeure), intransitif être situé (d'une ville), maškanu, lieu, demeure
 ) ; —
 
 ## SPLIT 1 stem
+
+## SPLIT 1.1 stem
+
 Qal
 Parfait 3 masculin singulier ׳
 שׁ
@@ -117,6 +120,8 @@ Nb 10,12
 (
 P
 ).
+
+## SPLIT 1.2 stem
 
 2.
 demeurer, habiter :

@@ -7,6 +7,9 @@ prophétiser (dans les formes les plus anciennes, de l'extase religieuse avec ou
 essentiellement instruction religieuse, avec des prédictions occasionnelles) ; —
 
 ## SPLIT 1 stem
+
+## SPLIT 1.1 stem
+
 Niph`al
 Parfait 3 masculin singulier נִבֵּא
 Jr 20,1 + 7 t. ; 2
@@ -116,6 +119,8 @@ Jr 14,15
 Jr 23,25
 ;
 Jr 26,9.
+
+## SPLIT 1.2 stem
 
 2. des faux prophètes : absolu Jr 23,21 ; Ez 13,2 ; Za 13,3 (deux fois dans le verset) ; Za 13,4
 avec accusatif 1 R 22,12 = 2 Ch 18,11

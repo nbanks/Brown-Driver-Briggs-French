@@ -193,6 +193,9 @@ Ml 3,31
 .
 
 ## SPLIT 2 sense
+
+## SPLIT 2.1 sense
+
 2.
 ce qui est sous quelqu'un, le lieu où l'on se tient : d'où comme
 accusatif,
@@ -211,6 +214,8 @@ Ha 3,16
 וְתַחְתַּי אֶרְגָּ֑ז je tremble sur place, Za
 12,6 ; Za 14,10 ; Jb 36,20 ; Jb 40,12
 תַּחְתָּם
+
+## SPLIT 2.2 sense
 
 b. au sens dérivé, à la place de, au lieu de : (a)
 Gn 2,18

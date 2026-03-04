@@ -24,6 +24,11 @@ piliers
 DHM^Epigr. Denkm. sus Abess. 80^) ; —
 
 ## SPLIT 1 stem
+
+## SPLIT 1.1 stem
+
+## SPLIT 1.1.1 stem
+
 Qal_435_
 Parfait
 ׳
@@ -150,6 +155,8 @@ P
 serviteur, courtisan)
 Dn 1,4
 
+## SPLIT 1.1.2 stem
+
 e. avec לִפְנֵי
 servir, être (devenir) serviteur de
 
@@ -210,6 +217,8 @@ Ps 104,6. Voir aussi prépositions אֶל
 , אֵצֶל, עַל, מִמַּעַל
 , עִם, etc.
 
+## SPLIT 1.2 stem
+
 2.
 
 a.
@@ -250,6 +259,8 @@ Gn
 J
 ),
 Jl 1,15.
+
+## SPLIT 1.3 stem
 
 3.
 
@@ -343,6 +354,8 @@ Jos
 Baer Jos 21,42), Jos 23,9 (tous
 D
 ) ; avec עַל, pour sa vie Est 8,11 ; Est 9,16.
+
+## SPLIT 1.4 stem
 
 5.
 se tenir droit :
@@ -442,6 +455,8 @@ contre
 Dn
 10,13.
 
+## SPLIT 1.5 stem
+
 7. usages rares :
 
 a.
@@ -510,6 +525,9 @@ Behrm
 Marti^Kau^.
 
 ## SPLIT 2 stem
+
+## SPLIT 2.1 stem
+
 Hiphil_83_ (comparer Dr^Intr. (6) 535^
 )
 Parfait 3 masculin singulier הֶעֱמִיד
@@ -665,6 +683,8 @@ vision
 
 Dn 11,14 (= accomplir, plus ancien הֵקִים
 ).
+
+## SPLIT 2.2 stem
 
 6. autres sens :
 

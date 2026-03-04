@@ -17,6 +17,11 @@ CIS^iv, 1, No, 56^, araméen בְּנָא,
 Vog^No. 31^) —
 
 ## SPLIT 1 stem
+
+## SPLIT 1.1 stem
+
+## SPLIT 1.1.1 stem
+
 Qal
 Parfait
 ׳
@@ -304,6 +309,8 @@ E
 2 R 16,18
 .
 
+## SPLIT 1.1.2 stem
+
 b. avec accusatif de matériau Ex 20,25 (
 E
 ) 1 R
@@ -373,6 +380,8 @@ Ne 4,11
 בְּ
 1, 2.b., p. 88).
 
+## SPLIT 1.1.3 stem
+
 i. = rebâtir
 Jos 6,26 ;
 1 R 16,34
@@ -435,6 +444,8 @@ Millo 1 R 9,24
 1 R 11,27 comparer maison
 Jb 20,19
 .
+
+## SPLIT 1.2 stem
 
 2.
 figuré

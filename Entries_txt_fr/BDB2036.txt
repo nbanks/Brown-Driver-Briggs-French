@@ -13,6 +13,9 @@ interrogative (araméen biblique et
 [placeholder1226: Placeholders/1226.gif]), préfixée, en règle générale, au premier mot d'une phrase (ou proposition).
 
 ## SPLIT 1 sense
+
+## SPLIT 1.1 sense
+
 1. dans les questions directes :
 
 a. comme simple interrogatif,
@@ -93,6 +96,8 @@ précèdent
 comparer Jr
 23,26
 .
+
+## SPLIT 1.2 sense
 
 c. il est employé dans des questions qui, en semblant mettre en doute ce qui ne peut être
 nié,

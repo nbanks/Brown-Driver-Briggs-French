@@ -5,6 +5,11 @@ hébreu biblique
 verbe
 
 ## SPLIT 1 stem
+
+## SPLIT 1.1 stem
+
+## SPLIT 1.1.1 stem
+
 Hiphil_112_
 jeter, lancer, projeter (phénicien שלד dans comparer nom propre, sens douteux ;
 arabe
@@ -121,6 +126,8 @@ sauterelles) ; absolu
 Qo 3,6 (opposé à שָׁמַר) ; accusatif de transgression Ez 18,31 (figuré ;
 מֵעַל réfléchi).
 
+## SPLIT 1.1.2 stem
+
 d.
 rejeter, laisser tomber, fleur (comme une fleur) Jb 15,33.
 
@@ -139,6 +146,8 @@ jette
 ׳
 עליֿ
 ton sort.
+
+## SPLIT 1.2 stem
 
 2.
 ׳

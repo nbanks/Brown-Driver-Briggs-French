@@ -134,6 +134,9 @@ Dr^Stud. Bib. i. 7 ss^.
 II.
 
 ## SPLIT 3 sense
+
+## SPLIT 3.1 sense
+
 1.
 יהוה est aussi utilisé avec אלהים et suffixes, surtout dans
 D
@@ -237,6 +240,8 @@ E
 6,15
 .
 
+## SPLIT 3.2 sense
+
 c. avec
 אֱלֹהֵינוּ dans
 D
@@ -302,6 +307,8 @@ Baer
 Dn 9,10 ;
 Dn 9,13 ;
 Dn 9,14.
+
+## SPLIT 3.3 sense
 
 d. avec
 אֱלֹהֵיהֶם
@@ -414,6 +421,8 @@ Ps 146,5
 ;
 Jon 2,2.
 
+## SPLIT 3.4 sense
+
 f. avec אֱלֹהַי
 Nb 22,18
 (
@@ -488,6 +497,8 @@ Mi 7,10 ;
 So 3,17
 .
 
+## SPLIT 3.5 sense
+
 h. avec אלהים, probablement toujours dû à des éditeurs tardifs, ou à un
 Qr
 qui s'est glissé dans le texte Gn 2,4b — Gn 3,23 (
@@ -550,6 +561,9 @@ les
 combinaisons avec d'autres noms divins voir ces noms.
 
 ## SPLIT 4 sense
+
+## SPLIT 4.1 sense
+
 2. la formule אֲנִי יהוה est remarquable : —
 
 a. après
@@ -653,6 +667,8 @@ comparer ׳
 Ez 20,26
 .
 
+## SPLIT 4.2 sense
+
 c. après כִּי dans diverses combinaisons Lv 11,44 ; Lv 11,45 ; Nb 35,34
 (
 
@@ -698,6 +714,8 @@ Ez 21,4
 Za 10,6
 ;
 Ml 3,6.
+
+## SPLIT 4.3 sense
 
 d.
 emphatique

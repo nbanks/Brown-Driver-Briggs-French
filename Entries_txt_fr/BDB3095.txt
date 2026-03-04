@@ -39,6 +39,9 @@ Es 2,4 + 5 t. ;
 Mi 4,3 + 2 t. ; —
 
 ## SPLIT 1 sense
+
+## SPLIT 1.1 sense
+
 1. épée,
 
 a.
@@ -146,6 +149,8 @@ fourreau אֶלנְֿדָנָהּ
 20,8 ;
 Jr 47,6 ; Ez 21,8).
 
+## SPLIT 1.2 sense
+
 f.
 tuer par l'épée
 הרג
@@ -227,6 +232,8 @@ Dt
 32,42 (poésie), 2 S 2,26 ; 2 S 11,25 ; 2 S 18,8 ; Es 1,10
 ;
 Jr 2,30 ; Jr 46,10 ; Jr 46,14 ; Na 2,14.
+
+## SPLIT 1.3 sense
 
 h.
 

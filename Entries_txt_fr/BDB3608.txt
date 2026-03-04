@@ -32,6 +32,9 @@ Nb 15,3 + 6 t.
 suffixes ; —
 
 ## SPLIT 1 sense
+
+## SPLIT 1.1 sense
+
 1.
 temps fixé :
 
@@ -99,6 +102,8 @@ connaît son temps fixé ; צאתך
 מ
 Dt 16,6
 temps de ta sortie (d'Égypte).
+
+## SPLIT 1.2 sense
 
 b. en particulier (comparer Ex 13,10 ;
 Ex 23,15 ;

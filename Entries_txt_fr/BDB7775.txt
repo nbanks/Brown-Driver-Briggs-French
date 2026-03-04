@@ -9,6 +9,11 @@ poursuivre, chasser, persécuter (hébreu tardif id., araméen רְדַף,
 id., SabDenkm^No. 7, 1. 2^) ; —
 
 ## SPLIT 1 stem
+
+## SPLIT 1.1 stem
+
+## SPLIT 1.1.1 stem
+
 Qal_128_
 Parfait 3 masculin singulier ׳
 ר
@@ -123,6 +128,8 @@ GFM
 Bu
 Now).
 
+## SPLIT 1.1.2 stem
+
 c. littéral, accusatif omis Jg 8,4 ; 1 S 30,8 (+
 הִשִּׂיג), 1 S 30,10 ; Gn 14,14 ; Ex 14,23 (
 P
@@ -184,6 +191,8 @@ en bon sens, accompagner de près, טוֺב וָחֶסֶד
 יִרְדְּפוּנִי
 Ps
 23,6.
+
+## SPLIT 1.2 stem
 
 2.
 figuré

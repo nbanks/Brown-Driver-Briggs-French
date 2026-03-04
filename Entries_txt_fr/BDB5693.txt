@@ -104,6 +104,9 @@ Jr 32,44
 ).
 
 ## SPLIT 3 sense
+
+## SPLIT 3.1 sense
+
 3.
 livre, ou rouleau, dans lequel quelque chose est écrit pour le conserver en vue d'un usage
 futur Ex 17,14
@@ -241,6 +244,8 @@ J
 E
 ), 2 S
 1,18.
+
+## SPLIT 3.2 sense
 
 e.
 livre concernant les rois, דֵּבְרֵי שְׁלֹמֹה

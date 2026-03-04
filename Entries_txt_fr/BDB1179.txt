@@ -35,6 +35,9 @@ Dt 12,31 +,
 etc. ; —
 
 ## SPLIT 1 sense
+
+## SPLIT 1.1 sense
+
 1.
 fille, enfant de sexe féminin, née d'une femme Gn 30,21 ; Gn 34,1 ; Ex 1,16 ; Ex 1,22 ; Ex 21,4 ; Lv 12,6 ; Os 1,6 comparer Gn 20,12 ; Lv 18,9 ; Dt 27,22 + ; engendrée par un homme
 Gn 5,4 ; Gn 5,7 ; Gn 5,10 ; Gn 11,11 ;
@@ -125,6 +128,8 @@ Gn 38,12
 2,3
 ci-dessous בַּתשֿׁוּעַ
 nom propre, féminin ci-dessous)
+
+## SPLIT 1.2 sense
 
 i. souvent pluriel comme désignation des femmes d'une
 ville, d'un pays ou d'un peuple particulier : בְּנוֺת צִיּוֺן

@@ -16,6 +16,9 @@ fondre et couler dans un moule ; éthiopien
 [placeholder5686: Placeholders/5686.gif] (rare) = hébreu biblique) ; —
 
 ## SPLIT 1 stem
+
+## SPLIT 1.1 stem
+
 Qal
 Parfait 3 masculin singulier ׳
 שׁ
@@ -114,6 +117,8 @@ a.
 ; 1 Ch 28,3
 ; Ps 79,3
 (כַּמַּיִם).
+
+## SPLIT 1.2 stem
 
 2.
 figuré :

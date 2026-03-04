@@ -21,6 +21,9 @@ Levy-Os^ZMG xix.1863, 211 s.^
 DHM^ZMG xxix.1875, 595^) ; —
 
 ## SPLIT 1 stem
+
+## SPLIT 1.1 stem
+
 Qal_99_
 Parfait
 ׳
@@ -136,6 +139,8 @@ Dn 10,3
 comparer aussi avec un autre
 sujet (littéralement) Jr 25,34 ; Es 40,2.
 
+## SPLIT 1.2 stem
+
 2. transitif remplir, de peupler la mer et la terre Gn 1,22 ; Gn 1,28 ; Gn 9,1 (tous
 P
 ) ; consacrer
@@ -245,6 +250,9 @@ d'une rétribution, Jb
 15,32.
 
 ## SPLIT 3 stem
+
+## SPLIT 3.1 stem
+
 Piel_112_
 Parfait
 מִלֵּא
@@ -326,6 +334,8 @@ Es 33,5 ; Jr 15,17 remplir (de sang)
 2 R
 21,16 d'abominations Esd 9,11 (avec בְּ
 ).
+
+## SPLIT 3.2 stem
 
 2. emplois spéciaux : satisfaire l'appétit Jb 38,39 ; Ps
 17,14 ;

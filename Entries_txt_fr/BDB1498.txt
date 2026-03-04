@@ -84,6 +84,9 @@ en son, voix forte Gn 39,14, cri Ex 11,6, clameur Jos 6,5.
 en âge, aîné, fils Gn 27,1, fille Gn 29,16, frère Gn 10,21, sœur Ez 16,46.
 
 ## SPLIT 6 sense
+
+## SPLIT 6.1 sense
+
 6.
 en importance,
 
@@ -149,6 +152,8 @@ Pr 18,16 ; Pr 25,6 ; Jr 5,5 (2 R 10,11
 כָּלֿ
 גְּדוֺלֶיהָ
 Na 3,10.
+
+## SPLIT 6.2 sense
 
 c.
 de Dieu, lui-même

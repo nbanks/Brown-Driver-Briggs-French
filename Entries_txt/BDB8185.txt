@@ -24,6 +24,10 @@ CIS^iv. 1^; Arabic
 
 ## SPLIT 1 stem
 
+## SPLIT 1.1 stem
+
+## SPLIT 1.1.1 stem
+
 Qal
 Perfect 3 masculine singular שָׂם
 Gen 21:14 +
@@ -230,6 +234,8 @@ Isa 63:11
 Ezek 26:12
 .
 
+## SPLIT 1.1.2 stem
+
 b.
 put something upon (עַל) Num 21:8; Num 21:9
 (
@@ -307,6 +313,8 @@ Exod
 17:14 (
 E
 ), impress upon.
+
+## SPLIT 1.1.3 stem
 
 c.
 put, lay, set, with ל, 2Kgs 11:16
@@ -410,6 +418,8 @@ put together = collect (|| אָסַף
 1Kgs 18:25; Ezek 30:21
 apply bandage (|| נָתַן).
 
+## SPLIT 1.2 stem
+
 2.
 set, direct:
 
@@ -484,6 +494,10 @@ Jer 24:6
 Amos 9:4
 .
 
+## SPLIT 1.3 stem
+
+## SPLIT 1.3.1 stem
+
 3.
 
 a.
@@ -530,6 +544,8 @@ Tagrum); a place, + ל person Exod 21:13; 2Sam 7:10 = 1Chr 17:9
 c.
 set, found a nation, Isa 44:7 (several.), establish it Ps
 89:30 (לָעַד).
+
+## SPLIT 1.3.2 stem
 
 d.
 set, appoint (as ruler, official) + עַל person or of a people,
@@ -613,6 +629,10 @@ against
 2Kgs 18:14
 .
 
+## SPLIT 1.4 stem
+
+## SPLIT 1.4.1 stem
+
 4.
 
 a.
@@ -691,6 +711,8 @@ d. = plant, wheat Isa
 ), slip
 Ezek 17:5 (עַל by).
 
+## SPLIT 1.4.2 stem
+
 e.
 set, fix (countenance) 2Kgs 8:11, so usually, but accusative
 omitted, and sense dubious; read perhaps וַיִּשֹּׁם (√ שׁמם,
@@ -699,6 +721,10 @@ compare e.g. 1Kgs
 Kmp
 Kit
 Benz.
+
+## SPLIT 1.5 stem
+
+## SPLIT 1.5.1 stem
 
 5.
 
@@ -743,6 +769,8 @@ J
 1Sam 11:11;
 Mic 1:7;
 1Kgs 5:23 (praegn. with עַד location), + 29 t.
+
+## SPLIT 1.5.2 stem
 
 b.
 make, constitute, 2 accusative, 1Sam 8:1; 1Sam 18:13 ( + ל person) 1Sam 22:7

@@ -91,6 +91,9 @@ supplémentaires) Es
 15,9.
 
 ## SPLIT 3 stem
+
+## SPLIT 3.1 stem
+
 Hiph`il 172 Parfait
 הֹסִיף
 2 R 24,7
@@ -245,6 +248,10 @@ comparer
 Jb
 42,10.
 
+## SPLIT 3.2 stem
+
+## SPLIT 3.2.1 stem
+
 2.
 
 a. suivi de l'infinitif (avec ou sans לְ) ajouter de faire
@@ -306,6 +313,8 @@ Jl
 ה
 
 Nb 22,26 c.-à-d. alla plus loin.
+
+## SPLIT 3.2.2 stem
 
 b. suivi de l'imparfait avec וַ (du temps passé) Gn
 25,1 ; 1 S 19,21 ; Est 8,3 ; Jb 36,1 (Élihu),

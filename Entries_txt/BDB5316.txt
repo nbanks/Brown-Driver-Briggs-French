@@ -31,6 +31,8 @@ statue (= מנצב HOM^Südar. Chrest. 128^); —
 
 ## SPLIT 1 stem
 
+## SPLIT 1.1 stem
+
 Niph`al
 Perfect 3 feminine singular נִצְּבָה
 Ps 45:10,
@@ -137,6 +139,8 @@ Qr
 Kt
 
 נציב), 1Kgs 22:48 (of Edom).
+
+## SPLIT 1.2 stem
 
 4.
 stand firm, figurative כָּלאָֿדָם נִצָּב

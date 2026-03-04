@@ -66,6 +66,9 @@ Ex 25,29 ;
 Ex 37,16 —
 
 ## SPLIT 1 sense
+
+## SPLIT 1.1 sense
+
 1.
 
 a.
@@ -148,6 +151,8 @@ c. une fois d'animaux, הוֺלֵךְ
 עַלכּכַּפָּיו
 Lv 11,27
 marchant sur leurs paumes, c.-à-d. pattes (chats, chiens, etc.).
+
+## SPLIT 1.2 sense
 
 d. expressions
 courantes : —

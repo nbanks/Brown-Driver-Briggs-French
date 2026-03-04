@@ -8,6 +8,9 @@ le nombre d'occurrences de אֵל, אֱלוֺהַּ, אֱלֹהִים comparer a
 Nes^l. c^,)
 
 ## SPLIT 1 sense
+
+## SPLIT 1.1 sense
+
 1.
 
 pluriel en nombre
@@ -149,6 +152,8 @@ Hengst ;
 
 ^L^
 lisent οἱ υιὁὶ τοῦ Θεοῦ), comparer בני אלים.
+
+## SPLIT 1.2 sense
 
 d.
 dieux
@@ -627,6 +632,9 @@ t.) Ps 87,3
 ; Qo 9,1.
 
 ## SPLIT 4 sense
+
+## SPLIT 4.1 sense
+
 4.
 אֱלֹהִים = Dieu
 אֱלֹהִים אֱמֶת
@@ -766,6 +774,8 @@ les locutions ׳
 אדני א voir
 יהוה
 , יה, צבאות et אדני.
+
+## SPLIT 4.2 sense
 
 b.
 construit אֱלֹהֵי (a) avec des personnes
@@ -1053,6 +1063,8 @@ Ps 43,2
 Dieu qui est ma louange
 Ps 109,1
 .
+
+## SPLIT 4.3 sense
 
 c.
 avec suffixe dans

@@ -19,6 +19,9 @@ ne pas trouver ou avoir ; parfois pécher, surtout
 dans les dérivés) —
 
 ## SPLIT 1 stem
+
+## SPLIT 1.1 stem
+
 Qal
 Parfait
 ׳
@@ -80,6 +83,10 @@ selon De
 VB
 (autres ci-dessous 3 q. v.)
 
+## SPLIT 1.2 stem
+
+## SPLIT 1.2.1 stem
+
 2.
 pécher, manquer le but ou le chemin du droit et du devoir :
 
@@ -103,6 +110,8 @@ Gn 42,22
 (
 E
 ) ne péchez pas contre l'enfant, contre David 1 S 19,4 ; 1 S 19,5.
+
+## SPLIT 1.2.2 stem
 
 b.
 ailleurs toujours contre Dieu, absolu Ex 20,20 (
@@ -269,6 +278,8 @@ Lm 1,8
 אשׁר ח
 Dt 19,15
 .
+
+## SPLIT 1.3 stem
 
 3.
 encourir la culpabilité, la peine par le péché, perdre :

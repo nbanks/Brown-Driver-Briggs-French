@@ -18,6 +18,9 @@ DHM^ZMG 1875, 599, phénicien^
 être (souvent)) ; —
 
 ## SPLIT 1 stem
+
+## SPLIT 1.1 stem
+
 Niph`al
 Parfait (sur 3 masculin singulier voir Participe ci-dessous), 3 féminin singulier
 נָכּ֫וֺנָה
@@ -131,6 +134,8 @@ selon (ce qui est) certain, = certainement, assurément
 26,4
 (voir Dr).
 
+## SPLIT 1.2 stem
+
 2. au sens moral, être dirigé correctement, de voies Pr 4,26 ; Ps 119,5
 (comparer Hiph`il 3
 ) ; être fixé correctement, ferme
@@ -197,6 +202,9 @@ comme encens) ; être arrangé, ordonné, du service du temple 2 Ch 29,35 ; 2 Ch
 2 Ch 35,16.
 
 ## SPLIT 2 stem
+
+## SPLIT 2.1 stem
+
 Hiph`il
 Parfait
 הֵכִין
@@ -310,6 +318,10 @@ Jos 4,3
 
 (voir ci-dessus)
 
+## SPLIT 2.2 stem
+
+## SPLIT 2.2.1 stem
+
 2.
 
 a.
@@ -392,6 +404,8 @@ Jr
 2 Ch
 35,4.
 
+## SPLIT 2.2.2 stem
+
 b.
 pourvoir, fournir
 Nb
@@ -413,6 +427,8 @@ Jb
 2 Ch
 2,6 ; Ps
 74,16.
+
+## SPLIT 2.3 stem
 
 3.
 diriger sa face vers (אֶלֿ) Ez 4,3 ; Ez 4,7

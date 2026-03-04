@@ -13,6 +13,9 @@ mèche de cheveux ; peut-être aussi
 [placeholder3512: Placeholders/3512.gif] II. préparer un moyen d'atteindre quelque chose Lane^1284^) ; —
 
 ## SPLIT 1 stem
+
+## SPLIT 1.1 stem
+
 Qal
 Parfait 3 masculin singulier ׳
 ס
@@ -164,6 +167,10 @@ pour
 סביב
 De et d'autres
 
+## SPLIT 1.2 stem
+
+## SPLIT 1.2.1 stem
+
 2.
 
 a.
@@ -217,6 +224,8 @@ Es
 5,23 ; 1 Ch 14,14
 Hiph`il
 2.a.
+
+## SPLIT 1.2.2 stem
 
 d.
 entourer, encercler, absolu Gn 37,7

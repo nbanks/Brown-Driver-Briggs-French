@@ -12,6 +12,11 @@ MI^23, 26^
 sur le sabéen voir surtout DHM^SB Berl. Akkadian 1886, 849^) ; —
 
 ## SPLIT 1 stem
+
+## SPLIT 1.1 stem
+
+## SPLIT 1.1.1 stem
+
 Qal_2524_
 Parfait 3 masculin singulier Gn 3,1 +, suffixe עָשָׂהוּ
 Os 8,6 + ; 3 féminin
@@ -283,6 +288,8 @@ Ex 1,17
 E
 ) + ; avec בְּ de manière, Jg 9,16a, Ez 8,18 ; Ez 25,15.
 
+## SPLIT 1.1.2 stem
+
 b.
 travailler pour (ל de chose) Gn 30,30 (
 J
@@ -319,6 +326,8 @@ avec (de personne en compagnie de laquelle, dans le champ de laquelle Rt 2,19 (d
 
 Pr 31,13
 sans préposition Ex 36,1 ; Ne 3,28.
+
+## SPLIT 1.2 stem
 
 2.
 agir envers, avec עִם, 2 Ch 2,2 ; Dn 1,13 (
@@ -407,6 +416,8 @@ Jg
 avec אֵת
 avec, 1 S 24,19 ; 2 S 2,6.
 
+## SPLIT 1.3 stem
+
 4. absolu agir, agir avec effet, surtout de ׳
 י,
 1 R 8,32 ;
@@ -418,6 +429,10 @@ Ez 20,14 ; Ez 20,22 ; Ps 22,32 ; Ps 37,5 ; Ps 52,11 ; Dn 9,19
 des hommes 2 Ch 31,21 ; Dn 8,12 ; Dn 8,24 ; Dn 11,28 ; Dn 11,30 ; Dn 11,32
 
 avec ל de personne Ez 31,11.
+
+## SPLIT 1.4 stem
+
+## SPLIT 1.4.1 stem
 
 II.
 
@@ -546,6 +561,8 @@ Ez
 18,31
 .
 
+## SPLIT 1.4.2 stem
+
 e.
 faire la guerre avec (אֶת) Gn 14,2 ; Jos 11,18 (
 
@@ -636,6 +653,8 @@ matériau
 Ct
 3,9.
 
+## SPLIT 1.5 stem
+
 2.
 produire, rendre : du grain, rendant de la farine Os 8,7 (deux fois dans le verset), vigne,
 raisins Es
@@ -711,6 +730,8 @@ Ez
 (+
 ל réfléchi) ; une chambre Ne 13,7
 préparer pour construire (+ ל personne et infinitif).
+
+## SPLIT 1.6 stem
 
 4.
 faire une offrande, p. ex. עוֺלָה
@@ -818,6 +839,8 @@ Jr
 Ps 107,37
 .
 
+## SPLIT 1.7 stem
+
 8.
 nommer des prêtres 1 R 12,31 ; 1 R 13,33 ; 2 Ch 2,17 (tous +
 מִן source), une fête
@@ -872,6 +895,11 @@ Ex
 passer, vivre, des jours de vie Qo 6,12.
 
 ## SPLIT 2 stem
+
+## SPLIT 2.1 stem
+
+## SPLIT 2.1.1 stem
+
 Niphal_97_
 Parfait 3 masculin singulier נַעֲשָׂה
 Jg
@@ -1003,6 +1031,8 @@ Lv
 Lv
 5,17.
 
+## SPLIT 2.1.2 stem
+
 c.
 être fait à, avec ל d'animal 1 S 11,7 (
 
@@ -1033,6 +1063,8 @@ Est 6,3
 d.
 
 être fait sur, contre (ב) Dn 9,12.
+
+## SPLIT 2.2 stem
 
 2. (passif de
 

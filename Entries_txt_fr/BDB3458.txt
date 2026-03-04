@@ -86,6 +86,9 @@ f.
 Jb 15,2.
 
 ## SPLIT 2 sense
+
+## SPLIT 2.1 sense
+
 2. surtout dans la littérature sapientiale = discernement, intelligence, sagesse :
 
 a.
@@ -180,6 +183,8 @@ Pr 1,7 (||
 
 חָכְמָה מוּסָר), Pr 1,22 Pr 1,29 (|| ׳
 יִרְאַת י) Pr 2,10 (|| חָכְמָה).
+
+## SPLIT 2.2 sense
 
 c. opposé à
 אִוֶּלֶת

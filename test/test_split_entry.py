@@ -271,3 +271,188 @@ def test_split_chunks_hebrew_preservation():
         f"({len(failures)} failures out of {len(fr_ids)}). "
         f"First 10: {failures[:10]}"
     )
+
+
+# ===================================================================
+# Regression tests for bugs fixed in the split pipeline
+# ===================================================================
+
+# --- Bug 1: <meta>WORD</div> instead of <meta>WORD</meta> ---
+# A stray </div> inside a content tag fools _find_div_spans into
+# ending a sense/stem div early, misaligning HTML chunks vs txt.
+
+def test_no_stray_close_div_in_content_tags():
+    """No <tag>WORD</div> where </div> should be </tag>.
+
+    Regex-based _find_div_spans counts </div> for nesting depth.
+    A stray </div> inside <meta>, <highlight>, etc. causes it to
+    close the parent sense/stem div prematurely, misaligning chunks.
+    """
+    _SIMPLE_MALFORMED = re.compile(
+        r'<(meta|highlight|primary|pos|gloss|language)\b[^>]*>'
+        r'([^<]{1,50})'
+        r'</div>'
+    )
+    malformed = []
+    for html_path in sorted(
+        os.path.join(ENTRIES_DIR, f) for f in os.listdir(ENTRIES_DIR)
+        if f.startswith('BDB') and f.endswith('.html')
+    ):
+        with open(html_path, encoding='utf-8') as fh:
+            html = fh.read()
+        for m in _SIMPLE_MALFORMED.finditer(html):
+            malformed.append(
+                f"{os.path.basename(html_path)}: "
+                f"<{m.group(1)}>{m.group(2).strip()}</div>"
+            )
+
+    assert not malformed, (
+        f"{len(malformed)} stray </div> in content tags:\n"
+        + "\n".join(malformed[:10])
+    )
+
+
+# --- Bug 2: overlapping stem/sense div spans ---
+# Missing </div> before a new <div class="stem"> causes
+# _find_div_spans to report overlapping spans.
+
+def test_no_overlapping_split_spans():
+    """Split div spans must not overlap.
+
+    Overlapping spans mean a </div> is missing, so the regex-based
+    splitter thinks one stem/sense is nested inside another.  This
+    causes the HTML chunk boundaries to disagree with the txt markers.
+    """
+    from scripts.split_entry import determine_split_divs
+
+    overlaps = []
+    for html_file in sorted(os.listdir(ENTRIES_DIR)):
+        if not html_file.startswith('BDB') or not html_file.endswith('.html'):
+            continue
+        html_path = os.path.join(ENTRIES_DIR, html_file)
+        with open(html_path, encoding='utf-8') as fh:
+            html = fh.read()
+        splits = determine_split_divs(html)
+        for i in range(len(splits)):
+            for j in range(i + 1, len(splits)):
+                if splits[j][0] < splits[i][1]:
+                    overlaps.append(
+                        f"{html_file}: span {i+1} [{splits[i][0]}:{splits[i][1]}] "
+                        f"overlaps span {j+1} [{splits[j][0]}:{splits[j][1]}]"
+                    )
+                    break
+            else:
+                continue
+            break
+
+    assert not overlaps, (
+        f"{len(overlaps)} overlapping split spans:\n"
+        + "\n".join(overlaps[:10])
+    )
+
+
+# --- Bug 3: gap text between divs assigned to wrong chunk ---
+# _build_chunks must assign inter-div gap text to the previous
+# chunk (matching how extract_txt.py places ## SPLIT markers),
+# not to the next chunk.
+
+def test_gap_text_goes_to_previous_chunk():
+    """Gap text between two split divs must be in the preceding chunk.
+
+    extract_txt.py injects ## SPLIT markers right after the opening
+    <div> tag, so any text between the end of one div and the start
+    of the next belongs to the previous txt chunk.  _build_chunks
+    must assign it the same way to keep Hebrew content aligned.
+    """
+    html = (
+        '<html><head></head>\n'
+        '<p>header <bdbheb>א</bdbheb></p>\n'
+        '<div class="sense"><sense>1.</sense> '
+        '<bdbheb>ב</bdbheb> sense one</div>\n'
+        'gap text <bdbheb>ג</bdbheb> between\n'
+        '<div class="sense"><sense>2.</sense> '
+        '<bdbheb>ד</bdbheb> sense two</div>\n'
+        '<hr></html>'
+    )
+    from scripts.split_entry import split_html
+    chunks = split_html(html)
+
+    assert len(chunks) == 3  # header + 2 senses
+
+    # Gap text (with bdbheb ג) must be in chunk 1, not chunk 2
+    assert 'ג' in chunks[1]['html'], (
+        "Gap Hebrew ג should be in chunk 1 (previous sense)"
+    )
+    assert 'ג' not in chunks[2]['html'], (
+        "Gap Hebrew ג should NOT be in chunk 2 (next sense)"
+    )
+
+
+def test_gap_text_roundtrip():
+    """Concatenating chunks with gap text must reproduce the original."""
+    html = (
+        '<html><head></head>\n'
+        '<p>header</p>\n'
+        '<div class="sense"><sense>1.</sense> one</div>\n'
+        'gap between\n'
+        '<div class="sense"><sense>2.</sense> two</div>\n'
+        '<hr></html>'
+    )
+    from scripts.split_entry import split_html
+    chunks = split_html(html)
+    reassembled = "".join(c["html"] for c in chunks)
+    assert reassembled == html, "Roundtrip with gap text failed"
+
+
+# --- Bug 4: HTML and txt Hebrew alignment per-chunk (strict) ---
+# For entries with ## SPLIT markers, every chunk must have
+# identical Hebrew between split_html and split_txt.
+
+def test_html_txt_hebrew_per_chunk_strict():
+    """For entries with canonical ## SPLIT markers, each chunk's Hebrew
+    content must match exactly between split_html and split_txt.
+
+    This catches all three bugs at once: malformed tags, overlapping
+    spans, and gap-text misassignment all manifest as Hebrew shifting
+    between chunks.
+    """
+    all_ids = _all_entry_ids()
+    failures = []
+
+    for entry_id in all_ids:
+        txt_path = os.path.join(TXT_DIR, f"{entry_id}.txt")
+        with open(txt_path, encoding='utf-8') as f:
+            txt = f.read()
+
+        # Only check entries with canonical markers
+        if '## SPLIT ' not in txt:
+            continue
+
+        html_path = os.path.join(ENTRIES_DIR, f"{entry_id}.html")
+        with open(html_path, encoding='utf-8') as f:
+            html = f.read()
+
+        html_chunks = split_html(html)
+        txt_chunks = split_txt(txt)
+
+        if len(html_chunks) != len(txt_chunks):
+            failures.append(
+                f"{entry_id}: chunk count html={len(html_chunks)} "
+                f"txt={len(txt_chunks)}"
+            )
+            continue
+
+        for i, (hc, tc) in enumerate(zip(html_chunks, txt_chunks)):
+            h_heb = _extract_hebrew(hc['html'])
+            t_heb = _extract_hebrew(tc['txt'])
+            if h_heb != t_heb:
+                failures.append(
+                    f"{entry_id} chunk {i}: html has {len(h_heb)} "
+                    f"Hebrew chars, txt has {len(t_heb)}"
+                )
+                break
+
+    assert not failures, (
+        f"{len(failures)} entries with per-chunk Hebrew mismatch:\n"
+        + "\n".join(failures[:10])
+    )

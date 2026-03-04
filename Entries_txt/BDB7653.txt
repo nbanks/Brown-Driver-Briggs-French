@@ -49,6 +49,8 @@ Neh 4:7 (
 
 ## SPLIT 1 sense
 
+## SPLIT 1.1 sense
+
 1.
 bow:
 
@@ -100,6 +102,8 @@ c.
 ׳
 ק collective = bow (-men), archers
 Isa 21:17.
+
+## SPLIT 1.2 sense
 
 d. phrases are: ׳
 הַמּרִים אֲנָשִׁים בַּקּ

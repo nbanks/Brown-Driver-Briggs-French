@@ -155,6 +155,11 @@ Lm 2,22
 (+ טפּח), des petits Ez 19,2 (en figuré).
 
 ## SPLIT 3 stem
+
+## SPLIT 3.1 stem
+
+## SPLIT 3.1.1 stem
+
 Hiphil_162_
 Parfait 3 masculin singulier הִרְבָּה
 Os 8,11
@@ -282,6 +287,8 @@ Ex 30,15 ; Nb 35,8 (tous
 P
 ), Pr 13,11.
 
+## SPLIT 3.1.2 stem
+
 d. (1) suivi d'un
 infinitif, faire beaucoup de, faire abondamment, grandement, souvent, etc. (Dr^181, 12^) :
 הַרְבּוּ לִפְשֹׁעַ
@@ -311,6 +318,8 @@ Ges^«GKC:120g»§ 120g^), אַלֿ
 תַּרְבּוּ תְדַבְּרוּ
 1 S 2,3
 c.-à-d. ne parlez pas tant ; comparer Ps 51,4.
+
+## SPLIT 3.1.3 stem
 
 e.
 l'Infinitif absolu (Ol^§ 191 b^
@@ -389,6 +398,8 @@ Ne 5,18 ; 2 Ch 11,12 ; 2 Ch 16,8
 הַרְבּוֺת comme nom Am 4,9 (lire probablement הֶחֱרַבְתַּי
 We
 Now).
+
+## SPLIT 3.2 stem
 
 2.
 rendre grand, objet personne 2 S 22,36 = Ps 18,36

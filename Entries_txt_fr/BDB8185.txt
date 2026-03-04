@@ -23,6 +23,11 @@ CIS^iv. 1^ ; arabe
 [placeholder5229: Placeholders/5229.gif] ancien araméen שים) ; —
 
 ## SPLIT 1 stem
+
+## SPLIT 1.1 stem
+
+## SPLIT 1.1.1 stem
+
 Qal
 Parfait 3 masculin singulier שָׂם
 Gn 21,14 +
@@ -229,6 +234,8 @@ Es 63,11
 Ez 26,12
 .
 
+## SPLIT 1.1.2 stem
+
 b.
 mettre quelque chose sur (עַל) Nb 21,8 ; Nb 21,9
 (
@@ -306,6 +313,8 @@ Ex
 17,14 (
 E
 ), graver dans.
+
+## SPLIT 1.1.3 stem
 
 c.
 mettre, poser, placer, avec ל, 2 R 11,16
@@ -409,6 +418,8 @@ mettre ensemble = rassembler (|| אָסַף
 1 R 18,25 ; Ez 30,21
 appliquer un bandage (|| נָתַן).
 
+## SPLIT 1.2 stem
+
 2.
 poser, diriger :
 
@@ -483,6 +494,10 @@ Jr 24,6
 Am 9,4
 .
 
+## SPLIT 1.3 stem
+
+## SPLIT 1.3.1 stem
+
 3.
 
 a.
@@ -529,6 +544,8 @@ Targoum) ; un lieu, + ל personne Ex 21,13 ; 2 S 7,10 = 1 Ch 17,9
 c.
 poser, fonder une nation, Es 44,7 (plusieurs), l'établir Ps
 89,30 (לָעַד).
+
+## SPLIT 1.3.2 stem
 
 d.
 poser, nommer (comme souverain, officiel) + עַל personne ou d'un peuple,
@@ -612,6 +629,10 @@ contre
 2 R 18,14
 .
 
+## SPLIT 1.4 stem
+
+## SPLIT 1.4.1 stem
+
 4.
 
 a.
@@ -690,6 +711,8 @@ d. = planter, du blé Es
 ), un plant
 Ez 17,5 (עַל auprès).
 
+## SPLIT 1.4.2 stem
+
 e.
 fixer (le visage) 2 R 8,11, ainsi habituellement, mais accusatif
 omis, et sens douteux ; lire peut-être וַיִּשֹּׁם (√ שׁמם,
@@ -698,6 +721,10 @@ comparer p. ex. 1 R
 Kmp
 Kit
 Benz.
+
+## SPLIT 1.5 stem
+
+## SPLIT 1.5.1 stem
 
 5.
 
@@ -743,6 +770,8 @@ J
 1 S 11,11 ;
 Mi 1,7 ;
 1 R 5,23 (condensé avec עַד lieu), + 29 t.
+
+## SPLIT 1.5.2 stem
 
 b.
 faire, constituer, 2 accusatifs, 1 S 8,1 ; 1 S 18,13 ( + ל personne) 1 S 22,7

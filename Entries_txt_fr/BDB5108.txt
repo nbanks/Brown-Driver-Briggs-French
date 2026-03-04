@@ -24,6 +24,9 @@ Es 49,8,
 Jos 19,51
 
 ## SPLIT 1 sense
+
+## SPLIT 1.1 sense
+
 1.
 propriété :
 
@@ -137,6 +140,8 @@ D
 ) ; les dîmes Nb 18,21 ; Nb 18,24 ; Nb 18,26 (
 P
 ).
+
+## SPLIT 1.2 sense
 
 e.
 ׳

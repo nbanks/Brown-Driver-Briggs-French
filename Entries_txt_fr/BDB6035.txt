@@ -27,6 +27,9 @@ Za 1,17,
 Es 1,7 +, etc. ; —
 
 ## SPLIT 1 sense
+
+## SPLIT 1.1 sense
+
 1.
 ville, cité, demeure des hommes Gn 4,17 (
 J
@@ -156,6 +159,8 @@ Buhl) ; comparer הֶרֶכֶב
 1 R 9,19
 = 2 Ch
 8,6.
+
+## SPLIT 1.2 sense
 
 f.
 (הַ)מִקְלָט

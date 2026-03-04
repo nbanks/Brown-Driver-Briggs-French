@@ -32,6 +32,11 @@ Lindberg^Vergl.Sem.Gram.93f.^, mais mandéen נתן
 Nö^M 52^) ; —
 
 ## SPLIT 1 stem
+
+## SPLIT 1.1 stem
+
+## SPLIT 1.1.1 stem
+
 Qal_1917_
 Parfait
 ׳
@@ -162,6 +167,8 @@ Dt 24,3
 (acte
 de divorce) ; avec accusatif de chose seul Jg 5,25.
 
+## SPLIT 1.1.2 stem
+
 b.
 = accorder à, avec
 accusatif de chose + ל personne Gn 24,53 (
@@ -258,6 +265,8 @@ Ne 9,15 ; Ne 9,20
 Dt 29,3
 . Surtout
 
+## SPLIT 1.1.3 stem
+
 c.
 
 donner une femme à (ל) un homme comme (ל) épouse
@@ -345,6 +354,8 @@ Ps 37,4, comparer לָכֶם וּמְצֵאןָ מְנוּחָה
 יִתֵּן י
 Rt
 1,9. Surtout
+
+## SPLIT 1.1.4 stem
 
 f.
 
@@ -453,6 +464,8 @@ surtout impératif Jr 13,16 ; Esd 10,11
 (deux fois dans le verset) ; inconvenance (
 תִּפְלָה) à Dieu Jb 1,22.
 
+## SPLIT 1.1.5 stem
+
 i.
 = appliquer,
 consacrer le cœur à chercher, accusatif + infinitif Qo 1,13 ; Qo 1,17 ; Qo 8,9
@@ -538,6 +551,8 @@ ils ont déployé, exhibé ta splendeur ; כִּי יִתֵּן בַּכּוֺס
 Pr 23,31
 
 quand il montre son éclat dans la coupe.
+
+## SPLIT 1.1.6 stem
 
 n.
 = payer, salaire
@@ -661,6 +676,8 @@ Jl 4,3 (||
 par le sort
 Jos 21,8.
 
+## SPLIT 1.1.7 stem
+
 p.
 
 donner en échange de, échanger pour, avec תַּחַת
@@ -752,6 +769,8 @@ J
 E
 ) Dt
 2,24 + souvent
+
+## SPLIT 1.1.8 stem
 
 t.
 
@@ -845,6 +864,8 @@ il rapporta le nombre au roi ; וָאֶתְּנָה
 Ne 2,6
 et je lui indiquai un délai.
 
+## SPLIT 1.1.9 stem
+
 x.
 =
 proférer,
@@ -935,6 +956,8 @@ Ez
 
 et il étendit sa cime au milieu des nuées.
 
+## SPLIT 1.1.10 stem
+
 z.
 combinaisons : יִתֵּן
 לְמַכֵּהוּ לֶחִ֑י
@@ -1023,6 +1046,10 @@ Du (sur Jb
 37,10
 ), lisant יֻתַּן ; comparer
 Kö^Synt. § 324 d Β^.
+
+## SPLIT 1.2 stem
+
+## SPLIT 1.2.1 stem
 
 2.
 Mettre, placer, presque = שִׂים, et parfois || avec celui-ci :
@@ -1213,6 +1240,8 @@ H
 Ps
 119,110 (au figuré).
 
+## SPLIT 1.2.2 stem
+
 b.
 
 figuré, dans de nombreuses expressions
@@ -1382,6 +1411,8 @@ Ps 50,20
 
 שִׂים ב).
 
+## SPLIT 1.2.3 stem
+
 c.
 établir, nommer, avec accusatif + עַלֿ
 sur, ׳
@@ -1434,6 +1465,10 @@ Lv
 
 H
 ).
+
+## SPLIT 1.3 stem
+
+## SPLIT 1.3.1 stem
 
 3.
 Faire, constituer,
@@ -1580,6 +1615,8 @@ difficile, (malgré Jb 3,24 ; Jb 4,19), lire probablement
 HPS), ou לְ, pour לִפְנֵי
 .
 
+## SPLIT 1.3.2 stem
+
 d. rarement avec accusatif seul : ׳
 וּמִבְּנֵי יִשׂ
 שְׁלֹמֹה עֶבֶד
@@ -1628,6 +1665,11 @@ Ps
 ).
 
 ## SPLIT 2 stem
+
+## SPLIT 2.1 stem
+
+## SPLIT 2.1.1 stem
+
 Niphal_82_
 Parfait
 נִתַּן
@@ -1804,6 +1846,8 @@ Est
 7,3
 (בִּשְׁאֵלָה, בְּבַקָּשָׁה).
 
+## SPLIT 2.1.2 stem
+
 g.
 
 = être
@@ -1839,6 +1883,8 @@ j.
 , Ez 47,11
 
 .
+
+## SPLIT 2.2 stem
 
 2.
 Être mis, placé :

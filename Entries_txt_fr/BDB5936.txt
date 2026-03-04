@@ -15,6 +15,11 @@ veuf
 Di^973^) ; —
 
 ## SPLIT 1 stem
+
+## SPLIT 1.1 stem
+
+## SPLIT 1.1.1 stem
+
 Qal
 Parfait 3 masculin singulier ׳
 ע
@@ -176,6 +181,8 @@ E
 
 Jb 39,14 (de l'autruche).
 
+## SPLIT 1.1.2 stem
+
 j.
 laisser en reste, accusatif de personne Jos 2,21
 (
@@ -192,6 +199,10 @@ Ml 3,19.
 k.
 laisser = n'avoir rien à faire avec Pr 9,6
 .
+
+## SPLIT 1.2 stem
+
+## SPLIT 1.2.1 stem
 
 2.
 laisser, abandonner, délaisser :
@@ -237,6 +248,8 @@ Jr
 c. = négliger, lévite Dt 12,19 ;
 Dt
 14,27, pauvre Jb 20,19.
+
+## SPLIT 1.2.2 stem
 
 d. surtout (1) figuré
 d'
@@ -309,6 +322,8 @@ g. de la force (כֹּחַ
 ) abandonnant quelqu'un Ps 38,11, du courage (לֵב
 ) Ps
 40,13, de la bonté et de la fidélité (חֶסֶד וֶאֱמֶת) Pr 3,3.
+
+## SPLIT 1.3 stem
 
 3.
 lâcher, libérer, laisser aller

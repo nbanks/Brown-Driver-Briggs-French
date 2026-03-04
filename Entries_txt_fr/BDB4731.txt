@@ -20,6 +20,9 @@ Jos 1,12 + 10 t.
 Μαν(ν)ασση ; —
 
 ## SPLIT 1 sense
+
+## SPLIT 1.1 sense
+
 1.
 
 a.
@@ -32,6 +35,8 @@ E
 48,5 (tous deux
 P
 ).
+
+## SPLIT 1.2 sense
 
 b. de la tribu, souvent + Éphraïm (voir
 אֶפְרַיִם

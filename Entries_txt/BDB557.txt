@@ -18,6 +18,8 @@ amâru
 
 ## SPLIT 1 stem
 
+## SPLIT 1.1 stem
+
 Qal
 Perfect
 ׳
@@ -282,6 +284,8 @@ Isa 37:9
 =
 2Kgs 19:9.
 
+## SPLIT 1.2 stem
+
 2.
 Say in the heart (= think) בלבב
 ׳
@@ -345,6 +349,8 @@ person) 2Kgs
 8:19
 ; Neh 9:15
 (followed by accusative of direct object + ל of person + infinitive of purpose) Neh 9:23.
+
+## SPLIT 1.3 stem
 
 4.
 Command (especially late) followed by אֶלֿ of per-son addressed, Num 15:38
