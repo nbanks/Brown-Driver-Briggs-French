@@ -5069,3 +5069,7 @@ BDB5153:3.2.1/3.2.2 html  failed after retries: missing Hebrew/Aramaic: וְאַ
             עֲקַלְקַלּוֺתָם; raw tag extra in French: '<html>'
 BDB8168 html  failed after retries: French text nearly matches HTML (53% prefix match). Diverges at: French text has "lin] pluriel dans un nom propre [d'un" but HTML has "lin] pluriel dans nom propre [d'un li"
 BDB5642 html  failed after retries: missing Hebrew/Aramaic: סַנְבַלַּט; French text nearly matches HTML (diverges near start). French text has "סַנְבַלַּט) nom propre, m" but HTML has "ַנְבַּלַּט) nom propre, m"
+BDB6128:1.2/3 html  failed after retries: French text nearly matches HTML (59% prefix match). Diverges at: French text has "cesser de bouger, de la lune Jos 10,13" but HTML has "cesser de bouger, cesser de bouger, d"
+BDB3190 html  LLM: le texte français contient des mots anglais non traduits : « critical note on Isa 17:9 » (devrait être « note critique sur Es 17,9 »).
+BDB5439:3/4 html  failed after retries: missing tag in French: <gloss>
+BDB9932 html  failed after retries: French text missing from HTML: "[שֵׁגָל] nom féminin épouse (royale) (comparer hébreu biblique"

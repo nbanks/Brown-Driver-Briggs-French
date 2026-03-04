@@ -170,6 +170,26 @@ def _find_mismatch(frag, haystack, ctx=15,
                 return (f"French text nearly matches HTML (diverges near "
                         f"start). French text has \"{txt_exp}\" "
                         f"but HTML has \"{txt_got}\"")
+        # Prefix and suffix heuristics failed — use SequenceMatcher to
+        # find the longest common block and show divergence at its boundary.
+        sm = difflib.SequenceMatcher(None, frag, haystack, autojunk=False)
+        match = sm.find_longest_match(0, len(frag), 0, len(haystack))
+        if match.size >= len(frag) * 0.3:
+            # Show divergence just *before* the matching block — this is
+            # where frag and haystack diverge (the block is the part that
+            # re-converges afterwards).
+            f_start = match.a
+            h_start = match.b
+            txt_exp = _readable_ctx(frag, frag_orig, frag_map,
+                                    max(0, f_start - ctx), f_start + ctx,
+                                    ctx=0)
+            txt_got = _readable_ctx(haystack, haystack_orig, hay_map,
+                                    max(0, h_start - ctx), h_start + ctx,
+                                    ctx=0)
+            pct = match.size * 100 // len(frag)
+            return (f"French text nearly matches HTML ({pct}% block match). "
+                    f"Diverges at: French text has \"{txt_exp}\" "
+                    f"but HTML has \"{txt_got}\"")
         return None  # too little overlap — not a near-miss
 
     # Show context around the divergence point
@@ -368,16 +388,16 @@ def validate_html(orig_html, fr_html, txt_fr_content=None):
             if not frag:
                 continue
             if frag not in fr_visible_cmp:
-                diff_msg = _find_mismatch(frag, fr_visible_cmp,
-                                          frag_orig=line,
-                                          haystack_orig=fr_visible)
-                if diff_msg:
-                    found.append(diff_msg)
-                else:
-                    display = normalize_ws(line)
-                    if len(display) > 80:
-                        display = display[:77] + "..."
-                    found.append(f"French text missing from HTML: \"{display}\"")
+                    diff_msg = _find_mismatch(frag, fr_visible_cmp,
+                                              frag_orig=line,
+                                              haystack_orig=fr_visible)
+                    if diff_msg:
+                        found.append(diff_msg)
+                    else:
+                        display = normalize_ws(line)
+                        if len(display) > 80:
+                            display = display[:77] + "..."
+                        found.append(f"French text missing from HTML: \"{display}\"")
 
     # 8. Extra refs in French not in original (fabricated/duplicated)
     extra_refs = fr_refs - orig_refs

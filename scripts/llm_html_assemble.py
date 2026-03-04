@@ -1723,9 +1723,9 @@ def main():
 
     # --- Wait for async smart server to finish ---
     if smart_thread is not None:
-        n_pending = counts.get("PENDING", 0)
-        if n_pending:
-            print(f"\nWaiting for {n_pending} entries on smart server...")
+        n_still = sum(1 for s in pending_states if s.final_status is None)
+        if n_still:
+            print(f"\nWaiting for {n_still} entr{'y' if n_still == 1 else 'ies'} on smart server...")
         smart_q.put(None)  # poison pill — worker drains queue then exits
         smart_thread.join()
 
