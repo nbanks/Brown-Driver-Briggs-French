@@ -209,7 +209,7 @@ Es
 38,12.
 
 ## SPLIT 3 stem
-Piel_56_
+Pi`el_56_
 Parfait
 גִּלָּה
 Lv
@@ -323,7 +323,7 @@ Pr 27,5
 .
 
 ## SPLIT 5 stem
-Hiphil_39_
+Hiph`il_39_
 Parfait
 הֶגְלָה
 2 R 17,11

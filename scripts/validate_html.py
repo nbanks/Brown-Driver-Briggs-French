@@ -251,7 +251,7 @@ def _tag_seq(soup):
     return seq
 
 
-_FLEXIBLE_TAGS = {"highlight", "primary"}
+_FLEXIBLE_TAGS = {"highlight", "primary", "gloss"}
 
 
 def _dedup_flexible(seq):

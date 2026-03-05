@@ -79,7 +79,7 @@ Es 17,3
 .
 
 ## SPLIT 3 stem
-Hiphil_40_
+Hiph`il_40_
 Parfait 3 masculin singulier הִשְׁבִּית
 Rt 4,14
 + ; 2 masculin singulier הִשְׁבַּתָּ

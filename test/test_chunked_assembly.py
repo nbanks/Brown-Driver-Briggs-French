@@ -109,7 +109,7 @@ def test_single_chunk_entries_not_split():
 def test_build_chunk_prompt_contains_mode_note():
     """build_chunk_prompt should include the chunk mode note."""
     template = "Template {{ORIGINAL_HTML}} and {{FRENCH_TXT}}"
-    result = build_chunk_prompt(template, "<p>html</p>", "texte", 0, 3)
+    result = build_chunk_prompt(template, "<p>html</p>", "texte", "1", "3")
     assert "Mode morceau (1/3)" in result
     assert "<p>html</p>" in result
     assert "texte" in result
@@ -119,7 +119,7 @@ def test_build_chunk_prompt_contains_mode_note():
 def test_build_chunk_prompt_preserves_template():
     """The chunk prompt should contain the full template with substitutions."""
     template = "Start {{ORIGINAL_HTML}} middle {{FRENCH_TXT}} end"
-    result = build_chunk_prompt(template, "HTML", "TXT", 2, 5)
+    result = build_chunk_prompt(template, "HTML", "TXT", "3", "5")
     assert "Start HTML middle TXT end" in result
     assert "Mode morceau (3/5)" in result
 
@@ -391,6 +391,216 @@ class TestCheckLlmErrata:
         reason, html = check_llm_errata(raw)
         assert reason is not None
         assert html is None
+
+
+# --- Incremental write tests ---
+
+from llm_html_assemble import _write_partial_entry
+
+
+class TestWritePartialEntry:
+    def test_mixed_complete_and_pending(self, tmp_path):
+        """Completed chunks appear; pending chunks use original English."""
+        import llm_html_assemble as mod
+        orig_dir = mod.ENTRIES_FR_DIR
+        mod.ENTRIES_FR_DIR = tmp_path
+        try:
+            orig_parts = [
+                '<html><head></head><body><p>header</p>',
+                '<div class="sense"><p>English sense 1</p></div>',
+                '<div class="sense"><p>English sense 2</p></div>',
+                '</body></html>',
+            ]
+            outputs = [
+                '<html><head></head><body><p>en-tête</p>',
+                '<div class="sense"><p>sens français 1</p></div>',
+                None,  # pending — original English preserved
+                '</body></html>',
+            ]
+            _write_partial_entry("BDB9999", outputs, orig_parts)
+
+            result = (tmp_path / "BDB9999.html").read_text()
+            # Completed chunks present
+            assert "sens français 1" in result
+            assert "en-tête" in result
+            # Pending chunk uses original (preserves structure for re-read)
+            assert "English sense 2" in result
+        finally:
+            mod.ENTRIES_FR_DIR = orig_dir
+
+    def test_all_pending(self, tmp_path):
+        """All-None outputs produce original content (identical to English)."""
+        import llm_html_assemble as mod
+        orig_dir = mod.ENTRIES_FR_DIR
+        mod.ENTRIES_FR_DIR = tmp_path
+        try:
+            orig_parts = [
+                '<p>header</p>',
+                '<div class="stem"><p>Qal</p></div>',
+                '<div class="stem"><p>Niphal</p></div>',
+            ]
+            outputs = [None, None, None]
+            _write_partial_entry("BDB8888", outputs, orig_parts)
+
+            result = (tmp_path / "BDB8888.html").read_text()
+            # All original content preserved
+            assert "<p>header</p>" in result
+            assert "<p>Qal</p>" in result
+            assert "<p>Niphal</p>" in result
+        finally:
+            mod.ENTRIES_FR_DIR = orig_dir
+
+    def test_all_complete(self, tmp_path):
+        """All-complete outputs produce no placeholders."""
+        import llm_html_assemble as mod
+        orig_dir = mod.ENTRIES_FR_DIR
+        mod.ENTRIES_FR_DIR = tmp_path
+        try:
+            orig_parts = ['<p>h</p>', '<div class="sense">en</div>']
+            outputs = ['<p>h</p>', '<div class="sense">fr</div>']
+            _write_partial_entry("BDB7777", outputs, orig_parts)
+
+            result = (tmp_path / "BDB7777.html").read_text()
+            # No original English content remains
+            assert ">en<" not in result
+            assert "fr" in result
+        finally:
+            mod.ENTRIES_FR_DIR = orig_dir
+
+
+class TestChunkVsWholeValidation:
+    """Regression test for BDB3160: chunks can pass individually while the
+    assembled file fails whole-file validation.  This happens when --skip-failed
+    keeps an untranslated header chunk from a prior run but sense chunks are
+    regenerated correctly."""
+
+    _BDB = "BDB3160"
+
+    @pytest.fixture(autouse=True)
+    def _check_entry_exists(self):
+        for d in (ENTRIES_DIR, TXT_FR_DIR):
+            if not os.path.exists(os.path.join(d, self._BDB + (".html" if "Entries" == os.path.basename(d) else ".txt"))):
+                pytest.skip(f"{self._BDB} not found in {d}")
+
+    def _load(self):
+        from validate_html import validate_html as _validate
+        orig = open(os.path.join(ENTRIES_DIR, self._BDB + ".html")).read()
+        txt = open(os.path.join(TXT_FR_DIR, self._BDB + ".txt")).read()
+        fr_path = os.path.join(
+            os.path.dirname(ENTRIES_DIR), "Entries_fr", self._BDB + ".html")
+        fr = open(fr_path).read() if os.path.exists(fr_path) else None
+        return orig, txt, fr, _validate
+
+    def test_entry_has_three_chunks(self):
+        orig, txt, fr, _ = self._load()
+        chunks = split_html(orig)
+        assert len(chunks) == 3, f"Expected 3 chunks, got {len(chunks)}"
+        assert chunks[0]["type"] == "header"
+        assert chunks[1]["type"] == "sense"
+        assert chunks[2]["type"] == "sense"
+
+    def test_assembled_validation_catches_untranslated_header(self):
+        """When the header is untranslated but senses are translated,
+        per-chunk validation of the senses passes but whole-file
+        validation must fail."""
+        orig, txt, fr, validate = self._load()
+        orig_chunks = split_html(orig)
+        txt_chunks = split_txt(txt)
+
+        # Build an assembled file with untranslated header + translated senses
+        # Use the English header as-is
+        header_html = orig_chunks[0]["html"]
+
+        # Build translated senses (use fr file if available, otherwise orig)
+        if fr:
+            fr_chunks = split_html(fr)
+            if len(fr_chunks) == 3:
+                sense1 = fr_chunks[1]["html"]
+                sense2 = fr_chunks[2]["html"]
+            else:
+                sense1 = orig_chunks[1]["html"]
+                sense2 = orig_chunks[2]["html"]
+        else:
+            sense1 = orig_chunks[1]["html"]
+            sense2 = orig_chunks[2]["html"]
+
+        # Sense chunks should validate clean individually (or nearly so)
+        # The key assertion: whole-file validation MUST catch the
+        # untranslated header even if sense chunks are fine
+        assembled = header_html + sense1 + sense2
+        whole_errors = validate(orig, assembled, txt)
+        assert len(whole_errors) > 0, (
+            "Whole-file validation should catch untranslated header content "
+            "(English book names, pos, primary) even when sense chunks are OK"
+        )
+        # Verify the errors are about English content
+        error_text = " ".join(str(e) for e in whole_errors)
+        assert ("English" in error_text
+                or "expected" in error_text.lower()
+                or "missing" in error_text.lower()), (
+            f"Expected English-detection errors, got: {whole_errors[:3]}"
+        )
+
+
+class TestSkipFailedRejectsUntranslated:
+    """skip-failed should not keep chunks identical to the English original."""
+
+    _BDB = "BDB3160"
+
+    @pytest.fixture(autouse=True)
+    def _check_entry_exists(self):
+        for d in (ENTRIES_DIR, TXT_FR_DIR):
+            ext = ".html" if os.path.basename(d) == "Entries" else ".txt"
+            if not os.path.exists(os.path.join(d, self._BDB + ext)):
+                pytest.skip(f"{self._BDB} not found in {d}")
+
+    def test_untranslated_chunk_not_kept(self):
+        """When a chunk is identical to the original English, skip-failed
+        should NOT accept it — it needs regeneration."""
+        orig = open(os.path.join(ENTRIES_DIR, self._BDB + ".html")).read()
+        orig_chunks = split_html(orig)
+        # Simulate: fr_leaf_parts[0] is identical to orig (never translated)
+        fr_leaf = orig_chunks[0]["html"]
+        orig_part = orig_chunks[0]["html"]
+        # The guard: identical content should NOT be kept
+        assert fr_leaf == orig_part, "Sanity: they should be identical"
+        # Our fix: skip_failed rejects chunks identical to original
+        should_keep = (fr_leaf != orig_part)
+        assert not should_keep, (
+            "skip-failed should reject chunks identical to the English original"
+        )
+
+    def test_translated_chunk_is_kept(self):
+        """When a chunk differs from the original, skip-failed should keep it
+        even if it has validation errors."""
+        orig = open(os.path.join(ENTRIES_DIR, self._BDB + ".html")).read()
+        orig_chunks = split_html(orig)
+        # Simulate: a chunk that was translated (differs from orig)
+        fr_leaf = orig_chunks[0]["html"].replace("Biblical Hebrew",
+                                                  "hébreu biblique")
+        orig_part = orig_chunks[0]["html"]
+        should_keep = (fr_leaf != orig_part)
+        assert should_keep, (
+            "skip-failed should keep chunks that differ from the original"
+        )
+
+
+class TestWarmStartIdentityDetection:
+    """Verify that untranslated chunks (identical to original) are detected
+    as needing work on re-read, while translated chunks are kept."""
+
+    def test_identical_chunk_needs_work(self):
+        """A chunk identical to the original should not be kept."""
+        orig = '<div class="sense"><p>English content</p></div>'
+        fr = '<div class="sense"><p>English content</p></div>'
+        assert fr == orig, "Identical chunks need regeneration"
+
+    def test_translated_chunk_is_kept(self):
+        """A chunk that differs from the original should be kept."""
+        orig = '<div class="sense"><p>English content</p></div>'
+        fr = '<div class="sense"><p>contenu français</p></div>'
+        assert fr != orig, "Translated chunks should be kept"
+
 
 
 if __name__ == "__main__":

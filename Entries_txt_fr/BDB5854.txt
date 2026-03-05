@@ -11,9 +11,9 @@ habitude ; éthiopien
 [placeholder3745: Placeholders/3745.gif]
 tourner, entourer,
 [placeholder3746: Placeholders/3746.gif]
-circuit, cercle ; syriaque Pael
+circuit, cercle ; syriaque Pa`el
 [placeholder3747: Placeholders/3747.gif]
-accoutumer, Ethpeel, Aphel être accoutumé,
+accoutumer, Ethpe`el, Aph`el être accoutumé,
 [placeholder3748: Placeholders/3748.gif]
 usage, cérémonie,
 [placeholder3749: Placeholders/3749.gif]
@@ -29,7 +29,7 @@ fête,
 
 ᵑ7
 
-עִידָא ; comparer probablement assyrien Shaphel uš-id, il a solennellement
+עִידָא ; comparer probablement assyrien Shaph`el uš-id, il a solennellement
 affirmé
 Dl^HWB 32^) ; — seulement intensif :
 
@@ -42,7 +42,7 @@ Ps 119,61
 Ps 18,6).
 
 ## SPLIT 2 stem
-Polel, restaurer, soulager (comparer arabe IV.), Imparfait 3
+Pol`el, restaurer, soulager (comparer arabe IV.), Imparfait 3
 masculin
 singulier יְעוֺדֵד, avec accusatif de personne Ps 146,9 (|| שָׁמַר, opposé à
 עִוֵּת), Ps 147,6 (opposé à הִשְׁפִּיל).

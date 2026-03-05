@@ -236,7 +236,7 @@ def query_llm(prompt: str, server_url: str, retries: int = 5,
     for attempt in range(retries):
         try:
             resp = requests.post(f"{server_url}/v1/chat/completions",
-                                 json=payload, timeout=5400)
+                                 json=payload, timeout=86400)
             if resp.status_code == 400:
                 raise ContextOverflow(
                     f"prompt too large for context window ({len(prompt)} chars)")

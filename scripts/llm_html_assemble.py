@@ -265,6 +265,9 @@ def _build_retry_suffix(history: list[tuple[str, list[str]]],
         f"```\n{output}\n```",
         "",
         f"### Corrections nécessaires",
+        "`expected` = texte français traduit ci-dessus ;"
+        " `got` = texte visible extrait de votre HTML."
+        " Corrigez votre HTML pour que `got` corresponde à `expected`.",
         f"```\n{error_lines}\n```",
         "",
         f"Copiez le HTML brouillon ci-dessus{scope} en corrigeant"
@@ -361,6 +364,75 @@ def _assemble_and_validate(bdb_id: str, outputs: list[str | None],
                   f"{' (chunked)' if is_chunked else ''}: "
                   f"{error_summary}", file_lock)
     return "FAILED"
+
+
+def _should_skip_invalid(orig_html: str, fr_html: str,
+                         skip_failed: bool, skip_errata: bool,
+                         errata_info: dict | None = None,
+                         txt_path: Path | None = None,
+                         ) -> str | None:
+    """Decide whether an invalid entry can be skipped.
+
+    Splits both files into chunks and compares them.  Any chunk identical
+    to the original English means untranslated work remains — never skip.
+
+    Returns a reason string like "(skip-failed)" if the entry should be
+    skipped, or None if it needs processing.
+    """
+    # Whole-file identity — completely untranslated
+    if fr_html == orig_html:
+        return None
+
+    orig_chunks = split_html(orig_html)
+    fr_chunks = split_html(fr_html)
+
+    # Chunk count mismatch — structural problem, needs processing
+    if len(orig_chunks) != len(fr_chunks):
+        return None
+
+    # Check for untranslated chunks (identical to original)
+    has_untranslated = any(
+        oc["html"] == fc["html"]
+        for oc, fc in zip(orig_chunks, fr_chunks))
+    if has_untranslated:
+        return None
+
+    if skip_failed:
+        return "(skip-failed)"
+
+    if skip_errata and errata_info:
+        errata_idxs = {k for k in errata_info if k is not None}
+        if errata_idxs and txt_path is not None:
+            txt_chunks = split_txt(txt_path.read_text())
+            n = len(orig_chunks)
+            invalid_idxs = set()
+            for ci in range(n):
+                txt_c = (txt_chunks[ci]["txt"]
+                         if txt_chunks and ci < len(txt_chunks) else None)
+                if validate_html(orig_chunks[ci]["html"],
+                                 fr_chunks[ci]["html"], txt_c):
+                    invalid_idxs.add(ci)
+            if invalid_idxs and invalid_idxs <= errata_idxs:
+                return "(errata-covered)"
+
+    return None
+
+
+def _write_partial_entry(bdb_id: str, outputs: list[str | None],
+                         orig_parts: list[str]):
+    """Write a partial Entries_fr/ file using original content for pending chunks.
+
+    Completed chunks use their translated output; pending chunks use the
+    original English content.  This preserves the exact HTML structure so
+    that split_html/subsplit_html produce the same chunk counts on re-read,
+    and the warm-start identity check (fr_leaf == orig_part) detects which
+    chunks still need translation.
+    """
+    parts = [output if output is not None else orig_parts[i]
+             for i, output in enumerate(outputs)]
+    assembled = "".join(parts)
+    fr_path = ENTRIES_FR_DIR / (bdb_id + ".html")
+    fr_path.write_text(assembled, encoding="utf-8")
 
 
 def _parse_errata_line(line: str) -> tuple[str, int | None, str]:
@@ -506,6 +578,7 @@ class EntryState:
     txt_parts: list[str]       # leaf-level txt parts
     is_chunked: bool
     outputs: list[str | None]  # leaf-level outputs
+    leaf_orig_parts: list[str] | None = None  # leaf-level orig HTML (for partial writes)
     chunk_labels: list[str] | None = None  # label per leaf chunk
     chunk_denom: str | None = None         # last label (display denominator)
     parent_indices: list[int] | None = None  # parent idx per leaf
@@ -622,6 +695,11 @@ def _smart_worker(q: "queue.Queue[SmartJob | None]",
             state.pending_smart -= 1
             all_resolved = (state.pending_smart == 0
                             and state.main_loop_done)
+
+        # Incremental write (outside lock to avoid holding it during I/O)
+        if state.is_chunked and state.leaf_orig_parts is not None:
+            _write_partial_entry(state.bdb_id, state.outputs,
+                                 state.leaf_orig_parts)
 
         if not all_resolved:
             n_total = len(state.outputs)
@@ -877,6 +955,11 @@ def _try_server(bdb_id: str, idx: int, n: int,
         if not errors:
             return output, prompt_kb_total, attempt_num, [], None, history
 
+        # Bail early if output is identical to previous attempt — the model
+        # is stuck and further retries will just waste compute.
+        if history and output == history[-1][0]:
+            break
+
     # Exhausted retries
     return (output, prompt_kb_total, max_retries + attempt_offset,
             errors or [], None, history)
@@ -1039,14 +1122,16 @@ def process_entry(bdb_id: str, orig_path: Path, txt_path: Path,
                 # Top-level chunk count mismatch — regenerate from scratch
                 pass
             else:
-                # Sub-split each fr top-level chunk to get leaf-level parts
+                # Sub-split each fr top-level chunk to get leaf-level parts.
+                # Placeholder chunks are expanded to match the original's
                 fr_leaf_parts = []
                 fr_map = []
                 for i, fc in enumerate(fr_top_chunks):
                     f_subs = subsplit_html(fc)
                     for j, fs in enumerate(f_subs):
                         fr_leaf_parts.append(fs["html"])
-                        fr_map.append((i, j if len(f_subs) > 1 else None))
+                        fr_map.append((i, j if len(f_subs) > 1
+                                       else None))
 
                 if len(fr_leaf_parts) != n:
                     # Leaf count mismatch — regenerate from scratch
@@ -1055,6 +1140,11 @@ def process_entry(bdb_id: str, orig_path: Path, txt_path: Path,
                     # Validate leaf-by-leaf
                     all_clean = True
                     for idx in range(n):
+                        # Skip chunks identical to the original — they
+                        # were never translated (from a partial write).
+                        if fr_leaf_parts[idx] == orig_parts[idx]:
+                            all_clean = False
+                            continue
                         errs = validate_html(
                             orig_parts[idx], fr_leaf_parts[idx],
                             txt_parts[idx])
@@ -1075,8 +1165,8 @@ def process_entry(bdb_id: str, orig_path: Path, txt_path: Path,
             prev_errors = validate_html(orig_html, prev_output, french_txt)
             if not prev_errors:
                 return "CLEAN", 0.0, 0
-            if skip_failed:
-                # Non-chunked entry with errors: keep as-is
+            if skip_failed and prev_fr_html != orig_html:
+                # Non-chunked entry with errors but at least translated
                 return "SKIPPED", 0.0, 0
 
     # Async mode: build an EntryState for deferred smart processing
@@ -1087,7 +1177,9 @@ def process_entry(bdb_id: str, orig_path: Path, txt_path: Path,
         state = EntryState(
             bdb_id=bdb_id, orig_path=orig_path, txt_path=txt_path,
             orig_html=orig_html, french_txt=french_txt,
-            orig_parts=top_orig_parts, txt_parts=txt_parts,
+            orig_parts=top_orig_parts,
+            leaf_orig_parts=orig_parts if is_chunked else None,
+            txt_parts=txt_parts,
             is_chunked=is_chunked, outputs=outputs,
             chunk_labels=chunk_labels, chunk_denom=chunk_denom,
             parent_indices=parent_indices, n_top=n_top,
@@ -1102,18 +1194,24 @@ def process_entry(bdb_id: str, orig_path: Path, txt_path: Path,
     deferred_count = 0
     _skip_errata = skip_errata_chunks or set()
     for idx in range(n):
-        # Skip chunks already clean from a prior run
+        # Skip chunks already handled from a prior run
         if outputs[idx] is not None:
             if on_chunk:
                 on_chunk(idx, n, 0, is_chunked)
             if on_chunk_done and is_chunked:
-                on_chunk_done("✓")
+                # Show ✓ only if clean; ✗ if kept by skip-failed with errors
+                if chunk_prev_errors[idx]:
+                    on_chunk_done("✗")
+                else:
+                    on_chunk_done("✓")
             continue
 
         # Skip errata chunks — keep previous output if available
         if idx in _skip_errata:
             if chunk_prev_outputs[idx] is not None:
                 outputs[idx] = chunk_prev_outputs[idx]
+                if is_chunked:
+                    _write_partial_entry(bdb_id, outputs, orig_parts)
             if on_chunk:
                 on_chunk(idx, n, 0, is_chunked)
             if on_chunk_done and is_chunked:
@@ -1155,6 +1253,9 @@ def process_entry(bdb_id: str, orig_path: Path, txt_path: Path,
             # Dumb succeeded
             if not remaining and not errata:
                 outputs[idx] = html
+                # Incremental write after each chunk
+                if is_chunked:
+                    _write_partial_entry(bdb_id, outputs, orig_parts)
                 if on_chunk_done and is_chunked:
                     on_chunk_done("✓")
                 continue
@@ -1197,11 +1298,17 @@ def process_entry(bdb_id: str, orig_path: Path, txt_path: Path,
                 errata_chunks.append((idx, errata))
                 if chunk_prev:
                     outputs[idx] = chunk_prev
+                    if is_chunked:
+                        _write_partial_entry(bdb_id, outputs, orig_parts)
                 if on_chunk_done and is_chunked:
                     on_chunk_done("⚠")
                 continue
 
             outputs[idx] = html
+
+            # Incremental write after each chunk so partial progress survives
+            if is_chunked:
+                _write_partial_entry(bdb_id, outputs, orig_parts)
 
             if remaining:
                 failed_chunks.append((idx, "; ".join(remaining[:5])))
@@ -1455,29 +1562,11 @@ def main():
             # Check chunk-level status to decide if we can skip
             orig_html = orig_path.read_text()
             fr_html = fr_path.read_text()
-            n_orig = len(split_html(orig_html))
-            n_fr = len(split_html(fr_html))
-            has_missing = n_orig > 1 and n_fr < n_orig
-            if args.skip_failed and not has_missing:
-                continue  # all chunks present, errors skipped
-            if args.skip_errata and not has_missing and errata_info:
-                # All chunks present — skip if every invalid chunk
-                # is covered by an errata entry
-                errata_idxs = {k for k in errata_info if k is not None}
-                if errata_idxs:
-                    # Validate per-chunk to find which are invalid
-                    orig_chunks = split_html(orig_html)
-                    fr_chunks = split_html(fr_html)
-                    txt_chunks = split_txt(txt_path.read_text())
-                    invalid_idxs = set()
-                    for ci in range(min(n_orig, n_fr)):
-                        txt_c = (txt_chunks[ci]["txt"]
-                                 if txt_chunks and ci < len(txt_chunks) else None)
-                        if validate_html(orig_chunks[ci]["html"],
-                                         fr_chunks[ci]["html"], txt_c):
-                            invalid_idxs.add(ci)
-                    if invalid_idxs and invalid_idxs <= errata_idxs:
-                        continue  # all invalid chunks are errata — skip
+            skip_reason = _should_skip_invalid(
+                orig_html, fr_html, args.skip_failed, args.skip_errata,
+                errata_info=errata_info, txt_path=txt_path)
+            if skip_reason:
+                continue
             to_process.append((bdb_id, orig_path, txt_path, chash))
         print(" done")
     else:
@@ -1493,6 +1582,9 @@ def main():
                 continue
         chash = combined_hash(orig_path, txt_path)
         to_process.append((bdb_id, orig_path, txt_path, chash))
+
+    # Sort by BDB id so existing-invalid and new entries are interleaved
+    to_process.sort(key=lambda t: t[0])
 
     # Build summary with * marking skipped categories
     total_clean = counts["clean"] + counts["cached"]
@@ -1607,11 +1699,13 @@ def main():
             errs = validate_html(orig_html, fr_html, french_txt)
             if not errs:
                 return filename, "SKIP", 0.0, "(already clean)"
-            if args.skip_failed:
-                n_orig = len(split_html(orig_html))
-                n_fr = len(split_html(fr_html))
-                if not (n_orig > 1 and n_fr < n_orig):
-                    return filename, "SKIP", 0.0, "(skip-failed)"
+            jit_errata_info = (_errata_now(bdb_id) if args.skip_errata
+                               else errata_map.get(bdb_id, {}))
+            skip_reason = _should_skip_invalid(
+                orig_html, fr_html, args.skip_failed, args.skip_errata,
+                errata_info=jit_errata_info, txt_path=txt_path)
+            if skip_reason:
+                return filename, "SKIP", 0.0, skip_reason
         jit_errata = _errata_now(bdb_id) if args.skip_errata else errata_map.get(bdb_id, {})
         errata_skip: set[int] = set()
         errata_reasons: dict[int, str] = {}

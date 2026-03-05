@@ -4,7 +4,7 @@
 
 ## Règle fondamentale : le texte français traduit fait AUTORITÉ
 
-**Le texte français traduit est DÉFINITIF. Copiez-le MOT POUR MOT dans les balises HTML. Ne reformulez JAMAIS, ne substituez AUCUN synonyme** (`figuré`≠`figuratif`, `construit`≠`construct`, `de la fosse`≠`de fosse`).
+**Le texte français traduit est DÉFINITIF. Copiez-le MOT POUR MOT dans les balises HTML. Ne reformulez JAMAIS, ne substituez AUCUN synonyme** (`figuré`≠`figuratif`, `construit`≠`construct`, `de la fosse`≠`de fosse`). Si le texte français contient une erreur évidente (mot anglais non traduit, accent manquant, etc.), répondre `>>> ERRATA:` au lieu de produire du HTML.
 
 ## Visible vs invisible
 
@@ -42,19 +42,19 @@ Les **attributs** `<ref>` gardent toujours l'anglais (`ref="1Chr 7:16"`) ; seul 
 ## Règles critiques
 
 1. **Sortie UNIQUEMENT HTML** — pas d'explication ni de balises markdown. Si erreur détectée, répondre `>>> ERRATA:` uniquement.
-2. **Chaque balise de l'original** doit apparaître dans la sortie, imbrication identique.
-3. **Reproduire le texte français mot pour mot** — pas de substitution de mots (`figuré`≠`figuratif`, `construit`≠`construct`), pas de changement de ponctuation, pas de suppression d'articles (`bouche du roi`, `des lions`, `de la fosse` — pas de calque anglais). Si le texte français contient une erreur évidente (mot anglais non traduit, accent manquant, etc.), répondre `>>> ERRATA:` au lieu de produire du HTML.
-4. **Aucun mot anglais** ne doit subsister (sauf `<reflink>`, `<transliteration>`, codes savants, noms de savants, titres d'ouvrages).
-5. **Préserver les voyelles hébraïques** (nikkud) caractère par caractère.
-6. **Typographie française** : espace avant ` ;` ` :` ` ?` ` !`, guillemets `« texte »`.
-7. **Éditions savantes** : `2e éd.`, `3e éd.` depuis le français — ne pas revenir à l'anglais.
+2. **Chaque balise de l'original** doit apparaître dans la sortie, à la même position relative que dans l'original. Ne déplacez une balise que si le texte français l'exige pour produire le bon ordre des mots visibles (voir règle 7 et exemple 4).
+3. **Aucun mot anglais** ne doit subsister (sauf `<reflink>`, `<transliteration>`, codes savants, noms de savants, titres d'ouvrages).
+4. **Préserver les voyelles hébraïques** (nikkud) caractère par caractère.
+5. **Typographie française** : espace avant ` ;` ` :` ` ?` ` !`, guillemets `« texte »`.
+6. **Éditions savantes** : `2e éd.`, `3e éd.` depuis le français — ne pas revenir à l'anglais.
+7. **L'ordre des mots français prime sur l'ordre des balises anglaises.** Quand le français change l'ordre des mots autour d'un élément balisé, **déplacez la balise** pour que le texte visible corresponde au texte français traduit. Ne gardez pas l'ordre anglais des balises si cela produit un texte visible dans le mauvais ordre. Voir l'exemple 4 ci-dessous.
 
 ## Exemples
 
 ### Exemple 1 — BDB1 (entrée simple)
 
 HTML anglais original :
-```html
+```
 <html><head><link rel="stylesheet" href="style.css"></head>
 <h1>
     <entry onclick="bdbid('BDB1')">BDB1</entry> [<entry onclick="sn('H0')">H0</entry>]
@@ -93,7 +93,7 @@ marge du TM imprimé) ; א֟ = 1000 ; aucune trace de cet usage à l'époque de 
 ```
 
 ✅ HTML français :
-```html
+```
 <html><head><link rel="stylesheet" href="style.css"></head>
 <h1>
     <entry onclick="bdbid('BDB1')">BDB1</entry> [<entry onclick="sn('H0')">H0</entry>]
@@ -129,7 +129,7 @@ II. אוּלָם nom propre, masculin seulement généalogie
 ```
 
 HTML anglais original :
-```html
+```
 <html><head><link rel="stylesheet" href="style.css"></head>
 <h1>
     <entry onclick="bdbid('BDB200')">BDB200</entry> [<entry onclick="sn('H198')">H198</entry>]
@@ -153,7 +153,7 @@ HTML anglais original :
 ```
 
 ✅ HTML français :
-```html
+```
 <html><head><link rel="stylesheet" href="style.css"></head>
 <h1>
     <entry onclick="bdbid('BDB200')">BDB200</entry> [<entry onclick="sn('H198')">H198</entry>]
@@ -181,7 +181,7 @@ Note : attributs `ref="1Chr 7:16"` inchangés, texte affiché `1 Ch 7,16`.
 ### Exemple 3 — BDB160 (lookup avec `<sup>` traduit)
 
 HTML anglais original :
-```html
+```
 <html><head><link rel="stylesheet" href="style.css"></head>
 <h1>
     <entry onclick="bdbid('BDB160')">BDB160</entry> [<entry onclick="sn('H166')">H166</entry>]
@@ -228,7 +228,7 @@ Ki).
 ```
 
 ✅ HTML français :
-```html
+```
 <html><head><link rel="stylesheet" href="style.css"></head>
 <h1>
     <entry onclick="bdbid('BDB160')">BDB160</entry> [<entry onclick="sn('H166')">H166</entry>]
@@ -256,6 +256,62 @@ Ki).
 
 Note : `<sup>after</sup>` → `<sup>d'après</sup>` (prose traduite dans lookup). Codes savants Di, Kö, Ki préservés. Attributs `onclick` inchangés.
 
+### Exemple 4 — Réordonnancement de balises (l'ordre français prime)
+
+Le français change souvent l'ordre des mots. Quand un mot contenu dans une balise (`<lookup>`, `<highlight>`, etc.) change de position dans la phrase française, **déplacez la balise** pour que le texte visible suive l'ordre français.
+
+HTML anglais original :
+```
+<html>
+<div class="sense">
+    <sense>1.</sense> earliest poetry, <lookup onclick="bdbabb('J')">
+        <reflink>J</reflink>
+    </lookup> and <lookup onclick="bdbabb('E')">
+        <reflink>E</reflink>
+    </lookup> chiefly, <lookup onclick="bdbabb('Ephr.')">
+        <reflink>Ephr</reflink>
+    </lookup> document of Judges/Samuel/Kings chiefly, use <bdbheb>לֵב</bdbheb>.
+</div>
+</html>
+```
+
+Texte français traduit :
+```
+1. la poésie la plus ancienne,
+J
+et
+E
+principalement,
+le document Ephr
+de Juges/Samuel/Rois principalement, emploient לֵב.
+```
+
+⚠️ Piège : en anglais `Ephr` précède `document`, mais en français c'est `le document Ephr`. Si vous gardez l'ordre anglais des balises, le texte visible sera « Ephr document de » au lieu de « le document Ephr de ».
+
+❌ FAUX (ordre anglais conservé — texte visible incorrect) :
+```
+    </lookup> principalement, <lookup onclick="bdbabb('Ephr.')">
+        <reflink>Ephr</reflink>
+    </lookup> document de Juges/Samuel/Rois
+```
+
+✅ CORRECT (balise déplacée pour suivre l'ordre français) :
+```
+    </lookup> principalement, le document <lookup onclick="bdbabb('Ephr.')">
+        <reflink>Ephr</reflink>
+    </lookup> de Juges/Samuel/Rois
+```
+
+Même principe pour `<highlight>` :
+
+```
+Anglais : <highlight>the brandishing of</highlight> ׳'s <highlight>hand</highlight>
+Français : le brandissement de la main de ׳
+Sortie :  <highlight>le brandissement de la</highlight> <highlight>main</highlight> de ׳
+```
+
+Le mot « main » passe avant ׳ en français ; la balise `<highlight>` suit.
+
 ## Erreurs
 
 ### Erreurs dans votre sortie HTML
@@ -267,6 +323,8 @@ Note : `<sup>after</sup>` → `<sup>d'après</sup>` (prose traduite dans lookup)
 - **❌ Copie de l'anglais** : `<pos>proper name, masculine</pos>` — doit être `<pos>nom propre, masculin</pos>`.
 - **❌ Balise supprimée** : `<checkingNeeded />` ou `<wrongReferenceRemoved />` omis.
 - **❌ Balise englobante perdue** : le français dit `que l'on noue` pour `that is <highlight>bound on</highlight>` → la sortie doit être `que l'on <highlight>noue</highlight>`, PAS `que l'on noue` sans balise.
+- **❌ Article français omis hors balise** : le français dit `les paroles de Dieu` pour `<highlight>words of God</highlight>` → l'article fait partie du contenu, la sortie doit être `<highlight>les paroles de Dieu</highlight>`, PAS `<highlight>paroles de Dieu</highlight>` (qui perd `les`).
+- **❌ Mot dupliqué entre balises adjacentes** : le français dit `affaire, chose dont on parle` pour `<gloss>matter, affair</gloss>, <descrip>thing about which one speaks</descrip>` → ne pas traduire `affair`→`chose` dans `<gloss>` si cela duplique un mot déjà dans `<descrip>`. Sortie correcte : `<gloss>affaire</gloss>, <descrip>chose dont on parle</descrip>`.
 
 ### Erreurs dans le texte français fourni → ERRATA
 
@@ -289,7 +347,7 @@ Erreurs justifiant ERRATA :
 
 ## Mode morceau (chunked)
 
-Si un paragraphe « Mode morceau » apparaît à la fin, vous recevez une entrée partielle. Produisez le HTML complet pour ce morceau avec les balises telles qu'elles apparaissent dans l'original.
+Si un paragraphe « Mode morceau » apparaît à la fin, vous recevez une entrée partielle. Produisez le HTML complet pour ce morceau. Toutes les règles ci-dessus s'appliquent.
 
 ## Votre tâche
 

@@ -691,5 +691,78 @@ class TestHighlightBracketsFalsePositive(unittest.TestCase):
                            "English text in brackets was not detected")
 
 
+class TestGlossMerged(unittest.TestCase):
+    """French causative merges two gloss/highlight pairs into one.
+
+    English: <highlight>he <gloss>causes</gloss></highlight> his wind
+             <highlight><gloss>to blow</gloss></highlight>;
+    French:  <highlight>il <gloss>fait souffler</gloss></highlight> son vent ;
+
+    'fait souffler' is an indivisible French causative — the second gloss
+    cannot exist as a separate tag.  The validator should allow this merge.
+    (Based on BDB5408 chunk 2.)
+    """
+
+    ORIG = (
+        '<html><head></head><body>'
+        '<language>Biblical Hebrew</language>'
+        '<p><bdbheb>\u05D9\u05B7\u05E9\u05C1\u05B5\u05C1\u05D1'
+        ' \u05E8\u05D5\u05BC\u05D7\u05B7</bdbheb> '
+        '<ref ref="Ps 147:18" b="19" cBegin="147" vBegin="18"'
+        ' cEnd="147" vEnd="18" onclick="bcv(19,147,18)">Ps 147:18</ref> '
+        '<highlight>he <gloss>causes</gloss></highlight> his wind '
+        '<highlight><gloss>to blow</gloss></highlight>; '
+        '<bdbheb>\u05D5\u05B7\u05D9\u05BC\u05B7\u05E9\u05C1\u05B5\u05C1\u05D1'
+        ' \u05D0\u05B9\u05EA\u05B8\u05DD</bdbheb> '
+        '<ref ref="Gen 15:11" b="1" cBegin="15" vBegin="11"'
+        ' cEnd="15" vEnd="11" onclick="bcv(1,15,11)">Gen 15:11</ref> '
+        '<highlight>and he drove them away</highlight></p>'
+        '</body></html>'
+    )
+
+    FR = (
+        '<html><head></head><body>'
+        '<language>h\u00e9breu biblique</language>'
+        '<p><bdbheb>\u05D9\u05B7\u05E9\u05C1\u05B5\u05C1\u05D1'
+        ' \u05E8\u05D5\u05BC\u05D7\u05B7</bdbheb> '
+        '<ref ref="Ps 147:18" b="19" cBegin="147" vBegin="18"'
+        ' cEnd="147" vEnd="18" onclick="bcv(19,147,18)">Ps 147,18</ref> '
+        '<highlight>il <gloss>fait souffler</gloss></highlight> son vent ; '
+        '<bdbheb>\u05D5\u05B7\u05D9\u05BC\u05B7\u05E9\u05C1\u05B5\u05C1\u05D1'
+        ' \u05D0\u05B9\u05EA\u05B8\u05DD</bdbheb> '
+        '<ref ref="Gen 15:11" b="1" cBegin="15" vBegin="11"'
+        ' cEnd="15" vEnd="11" onclick="bcv(1,15,11)">Gn 15,11</ref> '
+        '<highlight>et il les chassa</highlight></p>'
+        '</body></html>'
+    )
+
+    TXT_FR = (
+        "h\u00e9breu biblique\n"
+        "\u05D9\u05B7\u05E9\u05C1\u05B5\u05C1\u05D1"
+        " \u05E8\u05D5\u05BC\u05D7\u05B7\n"
+        "Ps 147,18\n"
+        "il fait souffler son vent ; "
+        "\u05D5\u05B7\u05D9\u05BC\u05B7\u05E9\u05C1\u05B5\u05C1\u05D1"
+        " \u05D0\u05B9\u05EA\u05B8\u05DD\n"
+        "Gn 15,11\n"
+        "et il les chassa\n"
+    )
+
+    def test_gloss_merge_accepted(self):
+        """Merged gloss (French causative) should not cause tag errors."""
+        issues = validate_html(self.ORIG, self.FR, self.TXT_FR)
+        tag_issues = [i for i in issues
+                      if ("missing" in i.lower() or "empty" in i.lower())
+                      and ("gloss" in i.lower() or "highlight" in i.lower())]
+        self.assertEqual(tag_issues, [],
+                         f"Merged gloss flagged as error: {tag_issues}")
+
+    def test_gloss_merge_no_errors(self):
+        """Full validation should pass cleanly for merged gloss."""
+        issues = validate_html(self.ORIG, self.FR, self.TXT_FR)
+        self.assertEqual(issues, [],
+                         f"Unexpected issues with merged gloss: {issues}")
+
+
 if __name__ == "__main__":
     unittest.main()
