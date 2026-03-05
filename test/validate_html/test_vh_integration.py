@@ -375,7 +375,7 @@ class TestExtraHebrew(unittest.TestCase):
             '</body></html>'
         )
         issues = validate_html(orig, fr)
-        missing = [i for i in issues if "missing Hebrew" in i]
+        missing = [i for i in issues if "missing" in i and "bdbheb" in i]
         self.assertTrue(len(missing) >= 1,
                         f"Should flag missing Hebrew: {issues}")
 

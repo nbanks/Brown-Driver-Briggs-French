@@ -39,11 +39,13 @@ class TestAmpersandEt(unittest.TestCase):
             "destruction\n"
         )
         issues = validate_html(orig, fr, txt)
-        missing = [i for i in issues if "French text missing" in i]
-        self.assertEqual(missing, [], f"False positive: {missing}")
+        # txt_fr says "et" but HTML kept "&amp;" — assembler should have
+        # replaced it, so this IS a real mismatch.
+        self.assertGreater(len(issues), 0, f"Expected errors: {issues}")
+        self.assertIn("et", " ".join(issues))
 
     def test_ampersand_replaced_by_et_in_html(self):
-        """HTML has 'et' instead of &amp; -- should also pass."""
+        """HTML has 'et' instead of &amp; -- should pass (correct assembly)."""
         orig = (
             '<html><head></head><body>'
             '<language>Biblical Hebrew</language>'
@@ -65,8 +67,7 @@ class TestAmpersandEt(unittest.TestCase):
             "destruction\n"
         )
         issues = validate_html(orig, fr, txt)
-        missing = [i for i in issues if "French text missing" in i]
-        self.assertEqual(missing, [], f"False positive: {missing}")
+        self.assertEqual(issues, [], f"False positive: {issues}")
 
     def test_genuinely_missing_text_still_caught(self):
         """If real French text is missing, it should still be flagged."""
@@ -90,8 +91,7 @@ class TestAmpersandEt(unittest.TestCase):
             "cette phrase n'est pas dans le HTML\n"
         )
         issues = validate_html(orig, fr, txt)
-        missing = [i for i in issues if "French text missing" in i]
-        self.assertTrue(len(missing) >= 1, "Should flag genuinely missing text")
+        self.assertGreater(len(issues), 0, "Should flag genuinely missing text")
 
 
 class TestStrictTextMatching(unittest.TestCase):
@@ -119,10 +119,8 @@ class TestStrictTextMatching(unittest.TestCase):
             "cette phrase manque du HTML\n"
         )
         issues = validate_html(orig, fr, txt)
-        missing = [i for i in issues if "French text missing" in i
-                   or "nearly matches" in i]
-        self.assertTrue(len(missing) >= 1,
-                        f"Should flag text not in HTML: {issues}")
+        self.assertGreater(len(issues), 0,
+                           f"Should flag text not in HTML: {issues}")
 
     def test_contiguous_text_passes(self):
         """txt_fr text present as contiguous substring should pass."""
@@ -144,9 +142,8 @@ class TestStrictTextMatching(unittest.TestCase):
             "pleurer\n"
         )
         issues = validate_html(orig, fr, txt)
-        missing = [i for i in issues if "French text missing" in i]
-        self.assertEqual(missing, [],
-                         f"False positive on correct text: {missing}")
+        self.assertEqual(issues, [],
+                         f"False positive on correct text: {issues}")
 
 
 class TestAmpersandScholarly(unittest.TestCase):
@@ -342,16 +339,13 @@ class TestFrenchArticlesPrepositions(unittest.TestCase):
     def test_correct_articles_pass(self):
         """French HTML with proper articles should validate clean."""
         issues = validate_html(self.ORIG, self.FR_CORRECT, self.TXT_FR)
-        text_issues = [i for i in issues if "French text" in i]
-        self.assertEqual(text_issues, [],
-                         f"False positive on correct articles: {text_issues}")
+        self.assertEqual(issues, [],
+                         f"False positive on correct articles: {issues}")
 
     def test_missing_articles_detected(self):
         """French HTML calquing English structure (missing articles) must fail."""
         issues = validate_html(self.ORIG, self.FR_BAD, self.TXT_FR)
-        text_issues = [i for i in issues
-                       if "French text" in i and ("missing" in i or "match" in i.lower())]
-        self.assertGreater(len(text_issues), 0,
+        self.assertGreater(len(issues), 0,
                            "Missing French articles were not detected")
 
 
@@ -399,10 +393,8 @@ class TestRepeatedPhraseFalsePositive(unittest.TestCase):
     def test_repeated_phrase_no_false_positive(self):
         """Repeated phrase in multiple senses should match correctly."""
         issues = validate_html(self.ORIG, self.FR, self.TXT_FR)
-        text_issues = [i for i in issues
-                       if "French text" in i and ("missing" in i or "match" in i.lower())]
-        self.assertEqual(text_issues, [],
-                         f"False positive from repeated phrase: {text_issues}")
+        self.assertEqual(issues, [],
+                         f"False positive from repeated phrase: {issues}")
 
     def test_repeated_phrase_with_wrong_second_sense(self):
         """If the second occurrence is wrong, it should be caught."""
@@ -414,9 +406,7 @@ class TestRepeatedPhraseFalsePositive(unittest.TestCase):
             ' <highlight>compare the phrases</highlight> '
             '<bdbheb>\u05D1</bdbheb>')
         issues = validate_html(self.ORIG, fr_bad, self.TXT_FR)
-        text_issues = [i for i in issues
-                       if "French text" in i and ("missing" in i or "match" in i.lower())]
-        self.assertGreater(len(text_issues), 0,
+        self.assertGreater(len(issues), 0,
                            "English in second sense was not detected")
 
 
@@ -424,9 +414,7 @@ class TestTranslatedTagDivergence(unittest.TestCase):
     """Catch word-level divergence inside translated tags (e.g. <meta>).
 
     Reproduces BDB9907: txt_fr has 'figuré' but the LLM wrote 'figuratif'
-    inside <meta>.  The divergence is past the 40% prefix mark, so the old
-    _find_mismatch returned None and the user got the unhelpful fallback
-    'French text missing from HTML: ...' with no indication of what differs.
+    inside <meta>.  The word-diff should pinpoint the exact divergence.
     """
 
     ORIG = (
@@ -491,28 +479,128 @@ class TestTranslatedTagDivergence(unittest.TestCase):
         """HTML with 'figuré' (matching txt_fr) should pass."""
         fr = self._make_fr('figur\u00e9')
         issues = validate_html(self.ORIG, fr, self.TXT_FR)
-        text_issues = [i for i in issues
-                       if 'French text' in i and ('missing' in i or 'match' in i.lower())]
-        self.assertEqual(text_issues, [],
-                         f"False positive on correct translation: {text_issues}")
+        self.assertEqual(issues, [],
+                         f"False positive on correct translation: {issues}")
 
     def test_figuratif_pinpoints_divergence(self):
         """HTML with 'figuratif' instead of 'figuré' must produce a message
-        that mentions the actual diverging words, not just 'missing from HTML'.
+        that mentions the actual diverging words.
         """
         fr = self._make_fr('figuratif')
         issues = validate_html(self.ORIG, fr, self.TXT_FR)
-        text_issues = [i for i in issues
-                       if 'French text' in i and ('missing' in i or 'match' in i.lower())]
-        self.assertGreater(len(text_issues), 0,
+        self.assertGreater(len(issues), 0,
                            "Divergence not detected at all")
-        # The message should pinpoint the difference, not be a generic fallback
-        for msg in text_issues:
-            self.assertNotIn('missing from HTML', msg,
-                             f"Got unhelpful fallback instead of pinpointed "
-                             f"divergence: {msg}")
-            self.assertIn('figur', msg,
-                          f"Message doesn't mention the diverging word: {msg}")
+        # The word-diff message should mention the diverging word
+        joined = " ".join(issues)
+        self.assertIn('figur', joined,
+                      f"Message doesn't mention the diverging word: {issues}")
+
+
+class TestHebrewBoundarySpace(unittest.TestCase):
+    """Space at Latin↔Hebrew tag boundaries is unreliable.
+
+    extract_text joins tag content directly ("Zinjirliיד") while txt_fr
+    has a space ("Zinjirli יד").  This should NOT be flagged as a mismatch.
+    """
+
+    ORIG = (
+        '<html><head></head><body>'
+        '<language>Biblical Hebrew</language>'
+        '<p>Zinjirli<bdbheb>\u05D9\u05D3</bdbheb>'
+        ' <lookup onclick="bdbabb(\'DHM\')">DHM<sup>Sendsch.Gloss</sup></lookup></p>'
+        '</body></html>'
+    )
+
+    def test_space_before_hebrew_no_false_positive(self):
+        """txt_fr has space before Hebrew, HTML extraction doesn't — not an error."""
+        fr = (
+            '<html><head></head><body>'
+            '<language>h\u00e9breu biblique</language>'
+            '<p>Zinjirli<bdbheb>\u05D9\u05D3</bdbheb>'
+            ' <lookup onclick="bdbabb(\'DHM\')">DHM<sup>Sendsch.Gloss</sup></lookup></p>'
+            '</body></html>'
+        )
+        txt = "Zinjirli \u05D9\u05D3 DHM^Sendsch.Gloss^\n"
+        issues = validate_html(self.ORIG, fr, txt)
+        self.assertEqual(issues, [], f"False positive: {issues}")
+
+    def test_space_after_hebrew_no_false_positive(self):
+        """Hebrew followed by Latin without space in HTML — not an error."""
+        orig = (
+            '<html><head></head><body>'
+            '<language>Biblical Hebrew</language>'
+            '<p>absolute<bdbheb>\u05D9\u05D3\u05D5\u05B9\u05EA</bdbheb>'
+            ' Gen 43:24</p>'
+            '</body></html>'
+        )
+        fr = (
+            '<html><head></head><body>'
+            '<language>h\u00e9breu biblique</language>'
+            '<p>absolu<bdbheb>\u05D9\u05D3\u05D5\u05B9\u05EA</bdbheb>'
+            ' Gn 43,24</p>'
+            '</body></html>'
+        )
+        txt = "absolu \u05D9\u05D3\u05D5\u05B9\u05EA Gn 43,24\n"
+        issues = validate_html(orig, fr, txt)
+        self.assertEqual(issues, [], f"False positive: {issues}")
+
+    def test_real_text_difference_still_caught(self):
+        """An actual word difference near Hebrew text must still be detected."""
+        fr = (
+            '<html><head></head><body>'
+            '<language>h\u00e9breu biblique</language>'
+            '<p>WRONG<bdbheb>\u05D9\u05D3</bdbheb>'
+            ' <lookup onclick="bdbabb(\'DHM\')">DHM<sup>Sendsch.Gloss</sup></lookup></p>'
+            '</body></html>'
+        )
+        txt = "Zinjirli \u05D9\u05D3 DHM^Sendsch.Gloss^\n"
+        issues = validate_html(self.ORIG, fr, txt)
+        self.assertGreater(len(issues), 0, "Real difference not caught")
+
+
+class TestDiffFormat(unittest.TestCase):
+    """The word diff should produce attendu/obtenu pairs with merged hunks."""
+
+    ORIG = (
+        '<html><head></head><body>'
+        '<language>Biblical Hebrew</language>'
+        '<p>no trace of final <bdbheb>\u05D9</bdbheb> or '
+        '<bdbheb>\u05D5</bdbheb> in Hebrew, and the meaning</p>'
+        '</body></html>'
+    )
+
+    def test_word_move_merged_into_one_hunk(self):
+        """'final' moving position should be one hunk, not two."""
+        # txt_fr: "aucune trace de final י ou ו en hébreu"
+        # HTML:   "aucune trace de י ou ו final en hébreu"
+        fr = (
+            '<html><head></head><body>'
+            '<language>h\u00e9breu biblique</language>'
+            '<p>aucune trace de <bdbheb>\u05D9</bdbheb> ou '
+            '<bdbheb>\u05D5</bdbheb> final en h\u00e9breu, et le sens</p>'
+            '</body></html>'
+        )
+        txt = "aucune trace de final \u05D9 ou \u05D5 en h\u00e9breu, et le sens\n"
+        issues = validate_html(self.ORIG, fr, txt)
+        # Should be exactly one hunk (merged), not two separate ones
+        self.assertEqual(len(issues), 1,
+                         f"Expected 1 merged hunk, got {len(issues)}: {issues}")
+
+    def test_format_has_attendu_obtenu(self):
+        """Diff messages should contain 'attendu :' and 'obtenu :' lines."""
+        fr = (
+            '<html><head></head><body>'
+            '<language>h\u00e9breu biblique</language>'
+            '<p>aucune trace de <bdbheb>\u05D9</bdbheb> ou '
+            '<bdbheb>\u05D5</bdbheb> final en h\u00e9breu, et le sens</p>'
+            '</body></html>'
+        )
+        txt = "aucune trace de final \u05D9 ou \u05D5 en h\u00e9breu, et le sens\n"
+        issues = validate_html(self.ORIG, fr, txt)
+        self.assertTrue(len(issues) >= 1)
+        msg = issues[0]
+        self.assertIn("expected:", msg, f"Missing 'expected:' in: {msg}")
+        self.assertIn("got:", msg, f"Missing 'got:' in: {msg}")
 
 
 if __name__ == "__main__":

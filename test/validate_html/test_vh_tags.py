@@ -190,10 +190,11 @@ class TestTagStructure(unittest.TestCase):
             "tu as \u00e9t\u00e9 pes\u00e9\n"
         )
         issues = validate_html(orig, fr, txt)
-        backtick_issues = [i for i in issues if "Peil" in i or "Pe`il" in i
-                           or "missing" in i.lower()]
-        self.assertEqual(backtick_issues, [],
-                         f"False positive on backtick stem name: {backtick_issues}")
+        backtick_issues = [i for i in issues if "Peil" in i or "Pe`il" in i]
+        # The backtick difference (Peil vs Pe`il) is a real mismatch
+        # between txt_fr and HTML — it should be reported.
+        self.assertGreater(len(backtick_issues), 0,
+                           "Backtick mismatch (Peil vs Pe`il) should be detected")
 
 
 class TestChunkExtraClosingTags(unittest.TestCase):
@@ -595,10 +596,8 @@ class TestHighlightReorder(unittest.TestCase):
     def test_highlight_reorder_no_text_mismatch(self):
         """Text content check should pass despite highlight reordering."""
         issues = validate_html(self.ORIG, self.FR_REORDERED, self.TXT_FR)
-        text_issues = [i for i in issues
-                       if "French text" in i and "match" in i.lower()]
-        self.assertEqual(text_issues, [],
-                         f"Text mismatch from highlight reorder: {text_issues}")
+        self.assertEqual(issues, [],
+                         f"Text mismatch from highlight reorder: {issues}")
 
 
 class TestStemSubFalsePositive(unittest.TestCase):
@@ -627,6 +626,7 @@ class TestStemSubFalsePositive(unittest.TestCase):
     )
 
     TXT_FR = (
+        "h\u00e9breu biblique\n"
         "## SPLIT 1 stem\n"
         "Qal_41_ seulement infinitif\n"
         "\u05D3\u05BC\u05B9\u05D1\u05B5\u05E8\n"
@@ -636,18 +636,14 @@ class TestStemSubFalsePositive(unittest.TestCase):
     def test_sub_content_no_false_positive(self):
         """<sub>41</sub> stripped from txt via _N_ should not trigger mismatch."""
         issues = validate_html(self.ORIG, self.FR, self.TXT_FR)
-        text_issues = [i for i in issues
-                       if "French text" in i and ("missing" in i or "match" in i.lower())]
-        self.assertEqual(text_issues, [],
-                         f"False positive from <sub> content: {text_issues}")
+        self.assertEqual(issues, [],
+                         f"False positive from <sub> content: {issues}")
 
     def test_sub_with_wrong_translation_detected(self):
         """Genuinely wrong translation next to <sub> should still be caught."""
         fr_bad = self.FR.replace("seulement infinitif", "only infinitive")
         issues = validate_html(self.ORIG, fr_bad, self.TXT_FR)
-        text_issues = [i for i in issues
-                       if "French text" in i and ("missing" in i or "match" in i.lower())]
-        self.assertGreater(len(text_issues), 0,
+        self.assertGreater(len(issues), 0,
                            "Wrong translation beside <sub> was not detected")
 
 
@@ -676,6 +672,7 @@ class TestHighlightBracketsFalsePositive(unittest.TestCase):
     )
 
     TXT_FR = (
+        "h\u00e9breu biblique\n"
         "\u05D9\u05D5\u05DB\u05DC\u05D5\n"
         "ils ne pouvaient [pas] lui parler amicalement\n"
     )
@@ -683,18 +680,14 @@ class TestHighlightBracketsFalsePositive(unittest.TestCase):
     def test_bracket_split_no_false_positive(self):
         """Bracket-wrapped tag content should not cause text mismatch."""
         issues = validate_html(self.ORIG, self.FR, self.TXT_FR)
-        text_issues = [i for i in issues
-                       if "French text" in i and ("missing" in i or "match" in i.lower())]
-        self.assertEqual(text_issues, [],
-                         f"False positive from bracket-split tags: {text_issues}")
+        self.assertEqual(issues, [],
+                         f"False positive from bracket-split tags: {issues}")
 
     def test_bracket_split_with_english_detected(self):
         """Leaving English inside brackets should still be caught."""
         fr_bad = self.FR.replace("ils ne pouvaient", "they could not")
         issues = validate_html(self.ORIG, fr_bad, self.TXT_FR)
-        text_issues = [i for i in issues
-                       if "French text" in i and ("missing" in i or "match" in i.lower())]
-        self.assertGreater(len(text_issues), 0,
+        self.assertGreater(len(issues), 0,
                            "English text in brackets was not detected")
 
 

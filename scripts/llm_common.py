@@ -26,6 +26,17 @@ class ContextOverflow(Exception):
     """Raised when the prompt exceeds the server's context window."""
 
 
+class TokenLimitReached(Exception):
+    """Raised when the LLM output was truncated by the max_tokens cap.
+
+    Attributes:
+        partial_content: The truncated output text (may be empty).
+    """
+    def __init__(self, message, partial_content=""):
+        super().__init__(message)
+        self.partial_content = partial_content
+
+
 # ANSI color helpers (disabled when stdout is not a terminal)
 _USE_COLOR = hasattr(sys.stdout, "isatty") and sys.stdout.isatty()
 
@@ -231,7 +242,14 @@ def query_llm(prompt: str, server_url: str, retries: int = 5,
                     f"prompt too large for context window ({len(prompt)} chars)")
             resp.raise_for_status()
             data = resp.json()
-            msg = data["choices"][0]["message"]
+            choice = data["choices"][0]
+            # Detect output truncation due to max_tokens cap.
+            if choice.get("finish_reason") == "length":
+                partial = (choice.get("message", {}).get("content") or "").strip()
+                raise TokenLimitReached(
+                    f"output truncated at max_tokens={max_tokens}",
+                    partial_content=partial)
+            msg = choice["message"]
             content = (msg.get("content") or "").strip()
             reasoning = (msg.get("reasoning_content") or "").strip()
             if content:

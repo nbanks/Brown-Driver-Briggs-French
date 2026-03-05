@@ -270,15 +270,17 @@ Note : `<sup>after</sup>` → `<sup>d'après</sup>` (prose traduite dans lookup)
 
 ### Erreurs dans le texte français fourni → ERRATA
 
-Si le texte français contient des erreurs évidentes, **ne pas produire de HTML** — répondre `>>> ERRATA:` suivi d'une description. Ne pas tenter de corriger l'erreur vous-même.
+Répondre `>>> ERRATA:` **uniquement** si la section « Texte français traduit » contient des erreurs de traduction évidentes. Ne pas tenter de corriger l'erreur vous-même.
 
-Erreurs à détecter :
+Erreurs justifiant ERRATA :
 - **Mots/phrases anglais non traduits** (`see`, `father`, `son of`, `in`, séquences de mots anglais courants). Exception : titres d'ouvrages.
 - **Contenu sévèrement tronqué** par rapport au HTML original.
 - **Refs au format anglais** (`1Chr 7:16` au lieu de `1 Ch 7,16`).
 - **Accents manquants sur majuscules** : `Esaïe`→`Ésaïe`, `Ephraïm`→`Éphraïm`, `Egypte`→`Égypte`.
 
-**Pas des erreurs** : abréviations savantes, translittérations sémitiques, noms de savants, termes latins, texte hébreu/araméen/grec.
+**Ne justifient PAS un ERRATA** : abréviations savantes, translittérations sémitiques, noms de savants, termes latins, texte hébreu/araméen/grec, balises manquantes, différences de ponctuation mineures entre le texte et le HTML.
+
+**⚠️ Lors d'une tentative de correction** (section « Brouillon à corriger ») : les messages de correction décrivent des problèmes d'assemblage HTML à corriger (balises manquantes, texte hébreu absent, etc.). Ce sont des instructions à suivre, **PAS des raisons de signaler ERRATA**. Produisez le HTML corrigé.
 
 **Exemple :** HTML anglais contient `<descrip>son of Kenaz, a hero in Israel</descrip>`, texte français dit `fils de Qenaz, un héros in Israël` — le mot `in` est resté en anglais. Réponse correcte :
 ```

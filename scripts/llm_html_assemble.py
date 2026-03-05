@@ -28,7 +28,8 @@ from dataclasses import dataclass, field
 from datetime import datetime, timezone
 from pathlib import Path
 
-from llm_common import (ContextOverflow, _USE_COLOR, _color_text,
+from llm_common import (ContextOverflow, TokenLimitReached,
+                         _USE_COLOR, _color_text,
                          check_clean_cache, check_server, combined_hash,
                          fmt_kb, record_completion, load_clean_cache,
                          query_llm, run_pipeline, save_result,
@@ -112,11 +113,6 @@ def extract_html(raw: str) -> str:
     return raw
 
 
-# Sentinel comments marking artificial wrapper boundaries.
-_WRAP_HEAD = "<!-- @@CHUNK-WRAPPER-HEAD@@ -->"
-_WRAP_TAIL = "<!-- @@CHUNK-WRAPPER-TAIL@@ -->"
-
-
 def wrap_chunk(html: str) -> tuple[str, str, str]:
     """Wrap chunk HTML so the LLM always sees a complete <html>...</html> doc.
 
@@ -148,39 +144,24 @@ def wrap_chunk(html: str) -> tuple[str, str, str]:
         suffix += "\n</html>"
 
     if prefix:
-        html = prefix + _WRAP_HEAD + "\n" + html
+        html = prefix + html
     if suffix:
-        html = html + "\n" + _WRAP_TAIL + suffix
+        html = html + suffix
 
     return html, prefix, suffix
 
 
 def unwrap_chunk(output: str, prefix: str, suffix: str) -> str:
-    """Strip the artificial wrapper from LLM output.
-
-    Looks for sentinel comments first; falls back to regex stripping.
-    """
+    """Strip the artificial wrapper tags from LLM output."""
     if prefix:
-        idx = output.find(_WRAP_HEAD)
-        if idx >= 0:
-            output = output[idx + len(_WRAP_HEAD):]
-            if output.startswith("\n"):
-                output = output[1:]
-        else:
-            # Sentinel dropped — strip each tag we prepended
-            for tag in re.findall(r'<[^>]+>', prefix):
-                output = re.sub(r'^\s*' + re.escape(tag) + r'\s*',
-                                '', output)
+        for tag in re.findall(r'<[^>]+>', prefix):
+            output = re.sub(r'^\s*' + re.escape(tag) + r'\s*',
+                            '', output)
 
     if suffix:
-        idx = output.find(_WRAP_TAIL)
-        if idx >= 0:
-            output = output[:idx].rstrip()
-        else:
-            # Sentinel dropped — strip each tag we appended
-            for tag in reversed(re.findall(r'</[^>]+>', suffix)):
-                output = re.sub(r'\s*' + re.escape(tag) + r'\s*$',
-                                '', output)
+        for tag in reversed(re.findall(r'</[^>]+>', suffix)):
+            output = re.sub(r'\s*' + re.escape(tag) + r'\s*$',
+                            '', output)
 
     return output
 
@@ -235,38 +216,62 @@ def build_chunk_prompt(user_template: str, html_chunk: str, txt_chunk: str,
 
 def _build_retry_suffix(history: list[tuple[str, list[str]]],
                         is_chunk: bool = False) -> str:
-    """Build the error-feedback suffix from all previous attempts.
+    """Build the error-feedback suffix from the most recent failed attempt.
 
-    history is a list of (output, errors) tuples, one per failed attempt.
-    Appending each attempt sequentially keeps the prefix stable for caching.
+    Shows the latest draft and its errors, plus a compact list of errors
+    from earlier attempts so the LLM doesn't regress (fix one thing,
+    break another).
     """
     no_errata = "" if is_chunk else ", ne signalez PAS comme ERRATA"
     scope = " pour ce morceau" if is_chunk else ""
-    parts = []
 
+    output, errors = history[-1]
     max_errors = 5
-    for i, (output, errors) in enumerate(history, 1):
-        shown = errors[:max_errors]
-        error_lines = "\n".join(f"- {msg}" for msg in shown)
-        if len(errors) > max_errors:
-            error_lines += f"\n- ... et {len(errors) - max_errors} autres erreurs"
-        label = f"Tentative {i}" if len(history) > 1 else "Tentative précédente"
-        parts.extend([
-            "",
-            f"## ⚠️ {label} — erreurs{no_errata}",
-            "",
-            f"### HTML produit (incorrect)",
-            f"```html\n{output}\n```",
-            "",
-            f"### Erreurs de validation",
-            f"```\n{error_lines}\n```",
-        ])
+    shown = errors[:max_errors]
+    error_lines = "\n".join(f"- {msg}" for msg in shown)
+    if len(errors) > max_errors:
+        error_lines += f"\n- ... et {len(errors) - max_errors} autres erreurs"
 
-    parts.extend([
+    parts = [
         "",
-        f"Produisez le HTML complet corrigé{scope},"
-        " en évitant **toutes** les erreurs listées ci-dessus.",
-    ])
+        f"## ⚠️ Brouillon à corriger{no_errata}",
+    ]
+
+    # Collect unique errors from prior attempts (not the current one)
+    # so the LLM knows what NOT to reintroduce.
+    if len(history) > 1:
+        prior_msgs = []
+        current_set = set(errors)
+        for _prev_output, prev_errors in history[:-1]:
+            for msg in prev_errors:
+                if msg not in current_set and msg not in prior_msgs:
+                    prior_msgs.append(msg)
+        if prior_msgs:
+            max_prior = 5
+            prior_shown = prior_msgs[:max_prior]
+            prior_lines = "\n".join(f"- {msg}" for msg in prior_shown)
+            if len(prior_msgs) > max_prior:
+                prior_lines += (f"\n- ... et {len(prior_msgs) - max_prior}"
+                                " autres")
+            parts += [
+                "",
+                "### Ne pas réintroduire ces erreurs précédentes :",
+                f"```\n{prior_lines}\n```",
+            ]
+
+    parts += [
+        "",
+        f"### HTML brouillon (presque correct)",
+        f"```\n{output}\n```",
+        "",
+        f"### Corrections nécessaires",
+        f"```\n{error_lines}\n```",
+        "",
+        f"Copiez le HTML brouillon ci-dessus{scope} en corrigeant"
+        " **uniquement** les points listés. Référez-vous au HTML"
+        " anglais original pour les balises et au texte français"
+        " traduit pour le contenu textuel correct.",
+    ]
     return "\n".join(parts)
 
 
@@ -775,9 +780,9 @@ def _try_server(bdb_id: str, idx: int, n: int,
 
         if errors and output is not None:
             prev_len = len(output)
-            skip_prev = (prev_len > 1.2 * len(orig_html)
-                         or (attempt == 1 and prev_len > 5120))
-            if skip_prev:
+            # Discard if output is suspiciously large (>20% bigger than
+            # original HTML = likely garbage, not a valid translation).
+            if prev_len > 1.2 * len(orig_html):
                 output = None
                 errors = []
                 history.clear()
@@ -809,19 +814,40 @@ def _try_server(bdb_id: str, idx: int, n: int,
                 dbg += f"-chunk{chunk_label or idx}"
             Path(f"{dbg}-prompt.txt").write_text(prompt, encoding="utf-8")
 
+        # Cap output tokens to prevent runaway generation.  The base
+        # prompt contains both the English HTML and the French text,
+        # while the output is only the French HTML -- so the output
+        # should always be well under half the base byte count.  We use
+        # base (not prompt) because retries append prior outputs and
+        # error feedback, inflating the prompt on each attempt.
+        base_bytes = len(base.encode("utf-8"))
+        max_out_tokens = max(512, base_bytes // 2)
+
         try:
             if return_reasoning and debug and not is_chunked:
                 raw, thinking = query_llm(prompt, server_url,
-                                          max_tokens=131072,
+                                          max_tokens=max_out_tokens,
                                           return_reasoning=True,
                                           system=system_prompt)
             else:
-                raw = query_llm(prompt, server_url, max_tokens=131072,
+                raw = query_llm(prompt, server_url,
+                                max_tokens=max_out_tokens,
                                 system=system_prompt)
                 thinking = None
         except ContextOverflow:
             return (output, prompt_kb_total, attempt_num, errors,
                     "CONTEXT_OVERFLOW", history)
+        except TokenLimitReached as exc:
+            server_label = "smart" if is_smart else "dumb"
+            print(f"  {bdb_id}: TOKEN_LIMIT on {server_label} server "
+                  f"(cap={max_out_tokens}, base={base_bytes}B)",
+                  file=sys.stderr)
+            if debug and exc.partial_content:
+                Path(f"{dbg}-out.txt").write_text(
+                    f">>> TOKEN_LIMIT (truncated)\n{exc.partial_content}",
+                    encoding="utf-8")
+            return (output, prompt_kb_total, attempt_num, errors,
+                    "TOKEN_LIMIT", history)
 
         if debug:
             Path(f"{dbg}-out.txt").write_text(raw, encoding="utf-8")
@@ -902,7 +928,7 @@ def _generate_chunk(bdb_id: str, idx: int, n: int,
     # Success or no smart server — return as-is
     if not errors and not errata:
         return html, kb, attempts, errors, errata
-    if errata == "CONTEXT_OVERFLOW":
+    if errata in ("CONTEXT_OVERFLOW", "TOKEN_LIMIT"):
         if not smart_server:
             if is_chunked:
                 return html, kb, attempts, errors, None
@@ -1122,7 +1148,7 @@ def process_entry(bdb_id: str, orig_path: Path, txt_path: Path,
             total_prompt_kb += kb
             max_attempts = max(max_attempts, attempts)
 
-            if errata == "CONTEXT_OVERFLOW":
+            if errata in ("CONTEXT_OVERFLOW", "TOKEN_LIMIT"):
                 errata = None  # will enqueue to smart
                 remaining = remaining or []
 
@@ -1371,11 +1397,14 @@ def main():
             try:
                 query_llm(warmup_user, url,
                           max_tokens=4, system=system_prompt)
-                sys.stdout.write(f" [{label} cache warmup done] ")
-                sys.stdout.flush()
+            except TokenLimitReached:
+                pass  # expected — warmup only needs to fill the KV cache
             except Exception as e:
                 print(f"  [{label}] cache warmup failed: {e}",
                       file=sys.stderr)
+                return
+            sys.stdout.write(f"  [{label} warmup done]")
+            sys.stdout.flush()
         for url, label in [(args.server, "server"),
                            (args.smart_server, "smart")]:
             if url:

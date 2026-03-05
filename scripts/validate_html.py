@@ -7,9 +7,8 @@ For each file in Entries_fr/, this script checks:
 3. All <ref> attributes are preserved (ref, b, cBegin, vBegin, etc.).
 4. All <lookup>/<reflink> abbreviations are preserved.
 5. All <entry> IDs are preserved.
-6. The French .txt content (from Entries_txt_fr/) appears verbatim in the
-   HTML's visible text (whitespace-normalized comparison of each text
-   fragment).
+6. The French .txt content (from Entries_txt_fr/) matches the HTML's visible
+   text, checked via extract_text re-extraction and word-level diff.
 7. (removed — redundant with other checks)
 
 Usage:
@@ -23,7 +22,6 @@ Requires: beautifulsoup4, lxml
 """
 
 import difflib
-import html
 import os
 import re
 import sys
@@ -32,6 +30,7 @@ from collections import Counter
 from bs4 import BeautifulSoup, XMLParsedAsHTMLWarning
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from extract_txt import extract_text
 
 warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
 
@@ -39,10 +38,6 @@ BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ENTRIES_DIR = os.path.join(BASE, "Entries")
 ENTRIES_FR_DIR = os.path.join(BASE, "Entries_fr")
 TXT_FR_DIR = os.path.join(BASE, "Entries_txt_fr")
-
-# Regex to strip placeholder notation from txt_fr lines
-_PLACEHOLDER_RE = re.compile(r"\[placeholder\d+:\s*Placeholders/\d+\.gif\]")
-
 
 def extract_preserved(html_content, soup=None):
     """Extract all elements that must be preserved from HTML."""
@@ -95,123 +90,114 @@ def normalize_ws(text):
     return re.sub(r"\s+", " ", text).strip()
 
 
-def _stripped_to_orig_map(stripped, original):
-    """Build a mapping from each index in *stripped* to the corresponding
-    index in *original*, where *stripped* = re.sub(r'\\s+', '', original).
-    Returns a list where map[i] is the index into *original* for stripped[i].
+def _extract_visible_text(html_content):
+    """Extract visible text from HTML using the same logic as extract_txt.py.
+
+    This ensures the extracted text matches the format of Entries_txt_fr/
+    files — same placeholder notation, sup/sub markers, whitespace rules.
     """
-    mapping = []
-    j = 0
-    for i in range(len(original)):
-        if j >= len(stripped):
-            break
-        if not original[i].isspace() and original[i] == stripped[j]:
-            mapping.append(i)
-            j += 1
-    return mapping
-
-
-def _readable_ctx(stripped, orig, smap, start, end, ctx=20):
-    """Extract a readable (with spaces) context snippet from *orig* around
-    the region [start, end) in *stripped*.  Falls back to *stripped* slice
-    if no mapping is available.
-    """
-    if smap and orig:
-        # Map stripped indices to original indices
-        o_start = smap[max(0, start - ctx)] if start - ctx >= 0 else 0
-        o_end_idx = min(end + ctx, len(smap) - 1) if end + ctx < len(smap) else len(orig)
-        o_end = smap[o_end_idx] + 1 if end + ctx < len(smap) else len(orig)
-        return orig[o_start:o_end].strip()
-    return stripped[max(0, start - ctx):end + ctx]
-
-
-def _find_mismatch(frag, haystack, ctx=15,
-                   frag_orig=None, haystack_orig=None):
-    """Find the longest prefix of *frag* that appears in *haystack* and
-    return a message showing where they diverge.
-
-    Both frag and haystack are whitespace-stripped strings (from
-    normalize_for_compare).  If frag_orig / haystack_orig are provided
-    (the pre-stripped versions), the error message will show readable
-    context with spaces preserved.
-
-    Returns None if no partial match is found (less than 40% of frag
-    matches).
-    """
-    # Build index mappings for readable output
-    frag_map = _stripped_to_orig_map(frag, frag_orig) if frag_orig else None
-    hay_map = _stripped_to_orig_map(haystack, haystack_orig) if haystack_orig else None
-
-    # Binary-search for the longest matching prefix
-    lo, hi = 0, len(frag)
-    best_pos = -1
-    while lo <= hi:
-        mid = (lo + hi) // 2
-        prefix = frag[:mid]
-        pos = haystack.find(prefix)
-        if pos != -1:
-            best_pos = pos
-            lo = mid + 1
+    soup = BeautifulSoup(html_content, "lxml")
+    entry_ids = []
+    body = extract_text(soup, entry_ids)
+    # Clean up whitespace the same way extract_txt.py does
+    lines = body.split("\n")
+    cleaned = []
+    for line in lines:
+        stripped = line.strip()
+        if stripped.startswith("## SPLIT "):
+            cleaned.append(stripped)
         else:
-            hi = mid - 1
-    match_len = lo - 1  # length of the longest matching prefix
-    if match_len < len(frag) * 0.4:
-        # Prefix match too short — try suffix match to catch cases where
-        # a single punctuation change near the start breaks the prefix.
-        for suffix_start in range(1, min(10, len(frag))):
-            suffix = frag[suffix_start:]
-            spos = haystack.find(suffix)
-            if spos != -1:
-                txt_exp = _readable_ctx(frag, frag_orig, frag_map,
-                                        0, suffix_start + ctx, ctx=0)
-                txt_got = _readable_ctx(haystack, haystack_orig, hay_map,
-                                        max(0, spos - suffix_start),
-                                        spos + ctx, ctx=0)
-                return (f"French text nearly matches HTML (diverges near "
-                        f"start). French text has \"{txt_exp}\" "
-                        f"but HTML has \"{txt_got}\"")
-        # Prefix and suffix heuristics failed — use SequenceMatcher to
-        # find the longest common block and show divergence at its boundary.
-        sm = difflib.SequenceMatcher(None, frag, haystack, autojunk=False)
-        match = sm.find_longest_match(0, len(frag), 0, len(haystack))
-        if match.size >= len(frag) * 0.3:
-            # Show divergence just *before* the matching block — this is
-            # where frag and haystack diverge (the block is the part that
-            # re-converges afterwards).
-            f_start = match.a
-            h_start = match.b
-            txt_exp = _readable_ctx(frag, frag_orig, frag_map,
-                                    max(0, f_start - ctx), f_start + ctx,
-                                    ctx=0)
-            txt_got = _readable_ctx(haystack, haystack_orig, hay_map,
-                                    max(0, h_start - ctx), h_start + ctx,
-                                    ctx=0)
-            pct = match.size * 100 // len(frag)
-            return (f"French text nearly matches HTML ({pct}% block match). "
-                    f"Diverges at: French text has \"{txt_exp}\" "
-                    f"but HTML has \"{txt_got}\"")
-        return None  # too little overlap — not a near-miss
-
-    # Show context around the divergence point
-    txt_exp = _readable_ctx(frag, frag_orig, frag_map,
-                            match_len, match_len, ctx)
-    txt_got = _readable_ctx(haystack, haystack_orig, hay_map,
-                            best_pos + match_len, best_pos + match_len, ctx)
-    pct = match_len * 100 // len(frag)
-    return (f"French text nearly matches HTML ({pct}% prefix match). "
-            f"Diverges at: French text has \"{txt_exp}\" "
-            f"but HTML has \"{txt_got}\"")
+            cleaned.append(re.sub(r"[ \t]+", " ", line).strip())
+    body = "\n".join(cleaned)
+    body = re.sub(r"\n{3,}", "\n\n", body)
+    return body.strip()
 
 
-def normalize_for_compare(text):
-    """Strip all whitespace for content comparison.
+def _normalize_for_diff(text):
+    """Normalize text before diffing to suppress extraction artifacts.
 
-    Tag-stripping and superscript handling introduce unpredictable spaces
-    (e.g. <lookup>Dl<sup>W</sup></lookup> -> "Dl W" vs txt "DlW").
-    Removing all whitespace avoids these false positives while still
-    catching genuinely missing content.
+    - Strip ## SPLIT / === header lines
+    - Normalize French typographic space before ; : ? !
+      (HTML extraction often loses the thin space before punctuation)
+    - Collapse multiple spaces
     """
-    return re.sub(r"\s+", "", text)
+    lines = text.split("\n")
+    out = []
+    for ln in lines:
+        s = ln.strip()
+        if s.startswith("## SPLIT ") or s.startswith("==="):
+            continue
+        # Strip language lines (checked separately by other validators)
+        if re.match(r"^(hébreu biblique|araméen biblique|hébreu tardif|"
+                    r"néo-hébreu|Biblical Hebrew|Biblical Aramaic)$", s, re.I):
+            continue
+        out.append(s)
+    text = " ".join(out)
+    # Normalize space before French double punctuation
+    text = re.sub(r"\s*([;:?!])", r" \1", text)
+    # Normalize spaces at Latin↔Hebrew boundaries — tag edges make this
+    # unreliable (e.g. "Zinjirli<bdbheb>יד</bdbheb>" extracts without space
+    # but txt_fr has "Zinjirli יד").  Ensure exactly one space at each
+    # transition between Hebrew/RTL (U+0590-05FF, FB1D-FB4F) and non-Hebrew.
+    _HEB = r"[\u0590-\u05FF\uFB1D-\uFB4F]"
+    _NON = r"[^\u0590-\u05FF\uFB1D-\uFB4F\s]"
+    text = re.sub(rf"({_NON})\s*({_HEB})", r"\1 \2", text)
+    text = re.sub(rf"({_HEB})\s*({_NON})", r"\1 \2", text)
+    text = re.sub(r"\s+", " ", text)
+    return text.strip()
+
+
+def _word_diff(expected, actual, context=5, max_hunks=10, merge_gap=6):
+    """Produce attendu/obtenu diff hunks between expected and actual.
+
+    Nearby changes (separated by ≤merge_gap equal words) are merged into
+    a single hunk so that e.g. a word moving position appears as one
+    difference rather than a confusing insert + delete pair.
+
+    Returns a list of strings like:
+      'expected: ...trace de final י ou ו en hébreu...
+            got: ...trace de י ou ו final en hébreu...'
+    """
+    exp_words = _normalize_for_diff(expected).split()
+    act_words = _normalize_for_diff(actual).split()
+
+    sm = difflib.SequenceMatcher(None, exp_words, act_words, autojunk=False)
+    opcodes = [oc for oc in sm.get_opcodes()]
+
+    # Merge nearby non-equal opcodes: if two changes are separated by
+    # ≤merge_gap equal words, combine them (and the gap) into one region.
+    merged = []  # list of (ei1, ei2, aj1, aj2) spans in word indices
+    for op, i1, i2, j1, j2 in opcodes:
+        if op == "equal":
+            continue
+        if merged and i1 - merged[-1][1] <= merge_gap:
+            # Extend previous region to include the gap and this change
+            prev = merged[-1]
+            merged[-1] = (prev[0], i2, prev[2], j2)
+        else:
+            merged.append((i1, i2, j1, j2))
+
+    hunks = []
+    for ei1, ei2, aj1, aj2 in merged:
+        # Build context + region strings for both sides
+        ctx_b = exp_words[max(0, ei1 - context):ei1]
+        ctx_a = exp_words[ei2:ei2 + context]
+        before = ("..." + " ".join(ctx_b) + " ") if ctx_b else ""
+        after = (" " + " ".join(ctx_a) + "...") if ctx_a else ""
+
+        exp_region = " ".join(exp_words[ei1:ei2])
+        act_region = " ".join(act_words[aj1:aj2])
+
+        hunks.append(
+            f"expected: {before}{exp_region}{after}\n"
+            f"       got: {before}{act_region}{after}")
+        if len(hunks) >= max_hunks:
+            total = len(merged)
+            if total > max_hunks:
+                hunks.append(f"... et {total - max_hunks} autres différences")
+            break
+
+    return hunks
 
 
 _ENG_BOOK_ABBREVS = {
@@ -283,17 +269,9 @@ def _normalize_tag(t):
 
 
 def validate_html(orig_html, fr_html, txt_fr_content=None):
-    """Core validation: compare French HTML against original, return error messages.
+    """Core validation: compare French HTML against original.
 
-    All inputs are in-memory strings. Returns a list of plain error message
-    strings (no bdb_id prefix). The caller is responsible for tagging errors
-    with an identifier if needed.
-
-    Args:
-        orig_html: Original English HTML content.
-        fr_html: French translated HTML content.
-        txt_fr_content: Optional French plain-text content. When provided,
-            checks that every line appears verbatim in fr_html.
+    Returns a list of error message strings.  Empty list = pass.
     """
     found = []
 
@@ -306,7 +284,21 @@ def validate_html(orig_html, fr_html, txt_fr_content=None):
     orig_heb = set(orig["hebrew_texts"])
     fr_heb = set(fr["hebrew_texts"])
     for t in orig_heb - fr_heb:
-        found.append(f"missing Hebrew/Aramaic: {t}")
+        # Find surrounding text in the original for context
+        ctx = ""
+        for tag in orig_soup.find_all(["bdbheb", "bdbarc"]):
+            if tag.get_text().strip() == t:
+                # Grab a few words before and after the tag
+                prev = tag.previous_sibling
+                nxt = tag.next_sibling
+                before = (prev.string or "").strip()[-30:] if prev and hasattr(prev, 'string') else ""
+                after = (nxt.string or "").strip()[:30] if nxt and hasattr(nxt, 'string') else ""
+                if before or after:
+                    ctx = f" (near «{before} ___ {after}»)"
+                break
+        found.append(
+            f"missing <bdbheb>{t}</bdbheb>{ctx}"
+            f" — wrap bare {t} in <bdbheb> tags")
     for t in fr_heb - orig_heb:
         found.append(f"extra Hebrew/Aramaic not in original: {t}")
 
@@ -357,47 +349,10 @@ def validate_html(orig_html, fr_html, txt_fr_content=None):
                 f"colon in <ref> display text (use comma): "
                 f"\"{display_stripped}\" (in <ref ref=\"{ref_attr}\">)")
 
-    # 7. French text content present verbatim (if txt_fr provided)
+    # 7. French text content matches HTML (word-level diff via extract_text)
     if txt_fr_content is not None:
-        # Strip <sub>...</sub> entirely (txt_fr uses _N_ which gets stripped)
-        fr_visible = re.sub(r"<sub>[^<]*</sub>", " ", fr_html)
-        # Strip remaining tags
-        fr_visible = re.sub(r"<[^>]+>", "", fr_visible)
-        fr_visible = html.unescape(fr_visible)
-        fr_visible = fr_visible.replace("`", "")
-        fr_visible_cmp = normalize_for_compare(fr_visible)
-
-        for line in txt_fr_content.strip().split("\n"):
-            line = line.strip()
-            if not line or line.startswith("===") or line == "---":
-                continue
-            if line.startswith("## SPLIT "):
-                continue
-            line = _PLACEHOLDER_RE.sub("", line).strip()
-            line = line.replace("^", "")
-            line = line.replace("`", "")
-            line = re.sub(r"_(\d+)_", "", line)
-            if not line:
-                continue
-            if re.match(
-                r"^[\u0590-\u05FF\u0600-\u06FF\s\[\]:.,;/\-—–()+|=^'\"]+$",
-                line,
-            ):
-                continue
-            frag = normalize_for_compare(line)
-            if not frag:
-                continue
-            if frag not in fr_visible_cmp:
-                    diff_msg = _find_mismatch(frag, fr_visible_cmp,
-                                              frag_orig=line,
-                                              haystack_orig=fr_visible)
-                    if diff_msg:
-                        found.append(diff_msg)
-                    else:
-                        display = normalize_ws(line)
-                        if len(display) > 80:
-                            display = display[:77] + "..."
-                        found.append(f"French text missing from HTML: \"{display}\"")
+        fr_extracted = _extract_visible_text(fr_html)
+        found.extend(_word_diff(txt_fr_content, fr_extracted))
 
     # 8. Extra refs in French not in original (fabricated/duplicated)
     extra_refs = fr_refs - orig_refs
