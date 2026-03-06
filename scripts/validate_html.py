@@ -216,22 +216,18 @@ _ENG_BOOK_RE = re.compile(
     r"\b(" + "|".join(re.escape(b) for b in sorted(_ENG_BOOK_ABBREVS, key=lambda x: -len(x))) + r")\b"
 )
 
-_STRUCTURAL_TAGS = {"pos", "primary", "highlight", "descrip", "meta",
-                    "language", "gloss", "sense", "ref", "bdbheb",
-                    "bdbarc", "entry", "lookup", "reflink",
-                    "transliteration", "sup", "sub"}
 _HAS_LATIN = re.compile(r"[a-zA-Z\u00C0-\u024F]")
 
 _RAW_TAG_RE = re.compile(r"<[^>]+>")
-_RAW_TAG_COVERED = re.compile(
-    r"^</?(highlight|pos|primary|descrip|meta|language|gloss|sense"
-    r"|ref|bdbheb|bdbarc|entry|lookup|reflink|transliteration"
-    r"|grk|sup|sub|placeholder\d+|checkingNeeded|wrongReferenceRemoved)\b",
+# Tags injected by the lxml parser that don't exist in the source HTML —
+# ignore these when comparing raw tag sequences between English and French.
+_RAW_TAG_IGNORED = re.compile(
+    r"^</?(html|head|body|p|h1|link|div|hr)\b",
     re.IGNORECASE,
 )
 
 _TRANSLATED_TAGS = {"pos", "primary", "highlight", "descrip", "meta",
-                    "language", "gloss"}
+                    "language", "gloss", "conj"}
 
 
 def _tag_seq(soup):
@@ -241,7 +237,8 @@ def _tag_seq(soup):
         if re.match(r"placeholder\d+", name):
             seq.append(name)
             continue
-        if name not in _STRUCTURAL_TAGS:
+        # Skip lxml-injected wrapper tags
+        if _RAW_TAG_IGNORED.match(f"<{name}"):
             continue
         if name == "ref":
             seq.append(f"ref[{tag.get('ref', '')}]")
@@ -528,12 +525,20 @@ def validate_html(orig_html, fr_html, txt_fr_content=None):
 
     # 10b. Raw tag sequence check (catches extra/missing tags that
     # BeautifulSoup auto-completes, e.g. </p></html> added by LLM in chunks)
+    # Skip flexible tags (highlight, primary, gloss) — already handled by
+    # check 10 with proper merge/reorder tolerance.
+    _RAW_FLEX_RE = re.compile(
+        r"^</?(" + "|".join(re.escape(t) for t in _FLEXIBLE_TAGS) + r")\b",
+        re.IGNORECASE,
+    )
     orig_raw_matches = [(m, _normalize_tag(m.group()))
                         for m in _RAW_TAG_RE.finditer(orig_html)
-                        if not _RAW_TAG_COVERED.match(m.group())]
+                        if not _RAW_TAG_IGNORED.match(m.group())
+                        and not _RAW_FLEX_RE.match(m.group())]
     fr_raw_matches = [(m, _normalize_tag(m.group()))
                       for m in _RAW_TAG_RE.finditer(fr_html)
-                      if not _RAW_TAG_COVERED.match(m.group())]
+                      if not _RAW_TAG_IGNORED.match(m.group())
+                      and not _RAW_FLEX_RE.match(m.group())]
     orig_raw_tags = [t for _, t in orig_raw_matches]
     fr_raw_tags = [t for _, t in fr_raw_matches]
 

@@ -691,6 +691,45 @@ class TestHighlightBracketsFalsePositive(unittest.TestCase):
                            "English text in brackets was not detected")
 
 
+class TestHighlightMergedWordOrder(unittest.TestCase):
+    """Two highlights merge into one when French word order changes.
+
+    Based on BDB1028 chunk 3: English has
+        <highlight>of my</highlight> (mother's) <highlight>womb</highlight>
+    but French reorders to
+        <highlight>de mon sein (maternel)</highlight>
+    merging two highlights into one.  The validator should accept this.
+    """
+
+    ORIG = (
+        '<html><head></head><body>'
+        '<language>Biblical Hebrew</language>'
+        '<p><bdbheb>\u05D0</bdbheb> '
+        '<highlight>of my</highlight> (mother\'s) '
+        '<highlight>womb</highlight>; '
+        '<bdbheb>\u05D2\u05D3</bdbheb></p>'
+        '</body></html>'
+    )
+
+    FR = (
+        '<html><head></head><body>'
+        '<language>h\u00e9breu biblique</language>'
+        '<p><bdbheb>\u05D0</bdbheb> '
+        '<highlight>de mon sein (maternel)</highlight> ; '
+        '<bdbheb>\u05D2\u05D3</bdbheb></p>'
+        '</body></html>'
+    )
+
+    def test_highlight_merged_word_order_accepted(self):
+        """Two highlights merged into one due to French word order is OK."""
+        issues = validate_html(self.ORIG, self.FR)
+        tag_issues = [i for i in issues
+                      if "highlight" in i.lower()
+                      and ("missing" in i.lower() or "extra" in i.lower())]
+        self.assertEqual(tag_issues, [],
+                         f"Highlight merge due to word order flagged: {tag_issues}")
+
+
 class TestGlossMerged(unittest.TestCase):
     """French causative merges two gloss/highlight pairs into one.
 
