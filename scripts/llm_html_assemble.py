@@ -116,7 +116,7 @@ def extract_html(raw: str) -> str:
 def wrap_chunk(html: str) -> tuple[str, str, str]:
     """Wrap chunk HTML so the LLM always sees a complete <html>...</html> doc.
 
-    Every chunk gets both <html> and </html>, plus balanced <p> tags.
+    Every chunk gets both <html> and </html>, plus balanced <p> and <div> tags.
     This keeps the prompt instruction ("start with <html>") consistent
     for all chunks, and unwrap_chunk always knows what to strip.
 
@@ -128,11 +128,14 @@ def wrap_chunk(html: str) -> tuple[str, str, str]:
     has_html_open = s.startswith("<html")
     has_html_close = low.rstrip().endswith("</html>")
     p_imbalance = (low.count("<p>") + low.count("<p ")) - low.count("</p>")
+    div_imbalance = low.count("<div") - low.count("</div>")
 
     # Build prefix for missing openers (outermost first)
     prefix = ""
     if not has_html_open:
         prefix += "<html>\n"
+    for _ in range(-div_imbalance):  # more </div> than <div>
+        prefix += "<div>\n"
     if p_imbalance < 0:  # more </p> than <p>
         prefix += "<p>\n"
 
@@ -140,6 +143,8 @@ def wrap_chunk(html: str) -> tuple[str, str, str]:
     suffix = ""
     if p_imbalance > 0:  # more <p> than </p>
         suffix += "\n</p>"
+    for _ in range(div_imbalance):  # more <div> than </div>
+        suffix += "\n</div>"
     if not has_html_close:
         suffix += "\n</html>"
 
@@ -226,7 +231,7 @@ def _build_retry_suffix(history: list[tuple[str, list[str]]],
     scope = " pour ce morceau" if is_chunk else ""
 
     output, errors = history[-1]
-    max_errors = 5
+    max_errors = 20
     shown = errors[:max_errors]
     error_lines = "\n".join(f"- {msg}" for msg in shown)
     if len(errors) > max_errors:
@@ -268,8 +273,10 @@ def _build_retry_suffix(history: list[tuple[str, list[str]]],
         "`expected` = texte français traduit ci-dessus ;"
         " `got` = texte visible extrait de votre HTML (balises retirées)."
         " Trouvez le passage dans le HTML brouillon ci-dessus et corrigez."
-        " P. ex. `<descrip>mot</descrip> suite` donne `mot suite`"
-        " mais `<descrip>mot,</descrip> suite` donne `mot, suite`.",
+        " P. ex. l'anglais `<descrip>word,</descrip> next` devient"
+        " `<descrip>mot,</descrip> suite` (donnant `mot, suite`)"
+        " et non `<descrip>mot</descrip> suite` (donnant `mot suite`"
+        " — virgule perdue).",
         f"```\n{error_lines}\n```",
         "",
         f"Copiez le HTML brouillon ci-dessus{scope} en corrigeant"

@@ -417,6 +417,18 @@ def validate_html(orig_html, fr_html, txt_fr_content=None):
                 f"French HTML has &amp; but txt_fr has no '&' "
                 f"(fabricated during assembly)")
 
+    def _html_context(html_src: str, pos: int, length: int = 0,
+                      radius: int = 40, max_len: int = 80) -> str:
+        """Extract nearby HTML (tags included) around a position."""
+        start = max(0, pos - radius)
+        end = min(len(html_src), pos + length + radius)
+        snippet = html_src[start:end]
+        # Collapse whitespace but keep tags
+        snippet = re.sub(r'\s+', ' ', snippet).strip()
+        if len(snippet) > max_len:
+            snippet = snippet[:max_len]
+        return snippet
+
     # 10. Tag sequence check
     orig_seq = _tag_seq(orig_soup)
     fr_seq = _tag_seq(fr_soup)
@@ -481,6 +493,21 @@ def validate_html(orig_html, fr_html, txt_fr_content=None):
                                 hint = (f" (original: \"{content[:60]}\" "
                                         f"— wrap the French equivalent "
                                         f"in <{t}>)")
+                        else:
+                            # Find this tag occurrence in orig_html
+                            _tag_pat = f"<{t}"
+                            _pos = -1
+                            _count = 0
+                            _target = orig_seq_cmp[:i1 + k + 1].count(t)
+                            for _m in re.finditer(re.escape(_tag_pat),
+                                                  orig_html, re.IGNORECASE):
+                                _count += 1
+                                if _count == _target:
+                                    _pos = _m.start()
+                                    break
+                            if _pos >= 0:
+                                ctx = _html_context(orig_html, _pos)
+                                hint = f" (English HTML: \"{ctx}\")"
                         found.append(
                             f"missing tag in French: <{t}>{hint}")
                 elif op == "insert":
@@ -493,10 +520,14 @@ def validate_html(orig_html, fr_html, txt_fr_content=None):
 
     # 10b. Raw tag sequence check (catches extra/missing tags that
     # BeautifulSoup auto-completes, e.g. </p></html> added by LLM in chunks)
-    orig_raw_tags = [_normalize_tag(m.group()) for m in _RAW_TAG_RE.finditer(orig_html)
-                     if not _RAW_TAG_COVERED.match(m.group())]
-    fr_raw_tags = [_normalize_tag(m.group()) for m in _RAW_TAG_RE.finditer(fr_html)
-                   if not _RAW_TAG_COVERED.match(m.group())]
+    orig_raw_matches = [(m, _normalize_tag(m.group()))
+                        for m in _RAW_TAG_RE.finditer(orig_html)
+                        if not _RAW_TAG_COVERED.match(m.group())]
+    fr_raw_matches = [(m, _normalize_tag(m.group()))
+                      for m in _RAW_TAG_RE.finditer(fr_html)
+                      if not _RAW_TAG_COVERED.match(m.group())]
+    orig_raw_tags = [t for _, t in orig_raw_matches]
+    fr_raw_tags = [t for _, t in fr_raw_matches]
 
     if orig_raw_tags != fr_raw_tags:
         sm = difflib.SequenceMatcher(None, orig_raw_tags, fr_raw_tags)
@@ -506,16 +537,28 @@ def validate_html(orig_html, fr_html, txt_fr_content=None):
             orig_part = orig_raw_tags[i1:i2]
             fr_part = fr_raw_tags[j1:j2]
             if op == "delete":
-                for t in orig_part:
-                    found.append(f"raw tag missing in French: {t!r}")
+                for k, t in enumerate(orig_part):
+                    m = orig_raw_matches[i1 + k][0]
+                    ctx = _html_context(orig_html, m.start(), m.end() - m.start())
+                    found.append(f"raw tag missing in French: {t!r}"
+                                 f" (English HTML: \"{ctx}\")")
             elif op == "insert":
-                for t in fr_part:
-                    found.append(f"raw tag extra in French: {t!r}")
+                for k, t in enumerate(fr_part):
+                    m = fr_raw_matches[j1 + k][0]
+                    ctx = _html_context(fr_html, m.start(), m.end() - m.start())
+                    found.append(f"raw tag extra in French: {t!r}"
+                                 f" (your HTML: \"{ctx}\")")
             elif op == "replace":
-                for t in orig_part:
-                    found.append(f"raw tag missing in French: {t!r}")
-                for t in fr_part:
-                    found.append(f"raw tag extra in French: {t!r}")
+                for k, t in enumerate(orig_part):
+                    m = orig_raw_matches[i1 + k][0]
+                    ctx = _html_context(orig_html, m.start(), m.end() - m.start())
+                    found.append(f"raw tag missing in French: {t!r}"
+                                 f" (English HTML: \"{ctx}\")")
+                for k, t in enumerate(fr_part):
+                    m = fr_raw_matches[j1 + k][0]
+                    ctx = _html_context(fr_html, m.start(), m.end() - m.start())
+                    found.append(f"raw tag extra in French: {t!r}"
+                                 f" (your HTML: \"{ctx}\")")
 
     # 10c. Empty translated tag content check
     orig_ttags = [t for t in orig_soup.find_all(_TRANSLATED_TAGS)]
