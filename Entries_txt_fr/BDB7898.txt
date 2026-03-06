@@ -1,7 +1,7 @@
 === BDB7898 H7379 ===
 hébreu biblique
 
-רִיב
+רִיב_62_
 nom masculin^
 Es 1,23
 ^
@@ -70,7 +70,7 @@ Es 41,11
 Ps 55,10.
 
 ## SPLIT 3 sense
-3. spécialement dispute, controverse, cause en justice :
+3._39_ spécialement dispute, controverse, cause en justice :
 Ex 23,2 ; Ex 23,3 ; Ex 23,6 (
 
 E

@@ -379,6 +379,14 @@ def validate_html(orig_html, fr_html, txt_fr_content=None):
                     "  BAD:  >2 S 22,25</ref>,  → '22,25,'\n"
                     "  GOOD: >2 S 22,25\n"
                     "        </ref>,            → '22,25 ,'")
+        # Check for literal < or > in txt_fr that must be &lt; / &gt; in HTML
+        if hunks and txt_fr_content and re.search(r"[<>]", txt_fr_content):
+            ltgt_count = len(re.findall(r"[<>]", txt_fr_content))
+            hunks.append(
+                f"NOTE: txt_fr contains {ltgt_count} literal '<' or '>' "
+                f"character(s). These are scholarly notation (> = preferred "
+                f"reading, < = derived from) and MUST appear as &lt; / &gt; "
+                f"in the HTML output, not as bare < or >.")
         found.extend(hunks)
 
     # 8. Extra refs in French not in original (fabricated/duplicated)

@@ -123,7 +123,7 @@ Dt 32,5.
 
 ## SPLIT 3.1 stem
 
-Hiphil_103_
+Hiph`il_103_
 Parfait 3 masculin singulier הִשְׁחִית
 Gn 6,12 + ; 1
 singulier וְהִשְׁחַתִּ֫י
