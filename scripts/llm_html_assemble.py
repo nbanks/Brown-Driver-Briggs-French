@@ -266,8 +266,10 @@ def _build_retry_suffix(history: list[tuple[str, list[str]]],
         "",
         f"### Corrections nécessaires",
         "`expected` = texte français traduit ci-dessus ;"
-        " `got` = texte visible extrait de votre HTML."
-        " Corrigez votre HTML pour que `got` corresponde à `expected`.",
+        " `got` = texte visible extrait de votre HTML (balises retirées)."
+        " Trouvez le passage dans le HTML brouillon ci-dessus et corrigez."
+        " P. ex. `<descrip>mot</descrip> suite` donne `mot suite`"
+        " mais `<descrip>mot,</descrip> suite` donne `mot, suite`.",
         f"```\n{error_lines}\n```",
         "",
         f"Copiez le HTML brouillon ci-dessus{scope} en corrigeant"
@@ -338,18 +340,28 @@ def _assemble_and_validate(bdb_id: str, outputs: list[str | None],
     fr_path = ENTRIES_FR_DIR / (bdb_id + ".html")
     fr_path.write_text(assembled, encoding="utf-8")
 
-    # Log failed chunks
-    for idx, error_summary in failed_chunks:
+    # Separate fresh failures (error_summary is str) from skip-failed (None)
+    fresh_failures = [(i, e) for i, e in failed_chunks if e is not None]
+    skipped_failures = [(i, e) for i, e in failed_chunks if e is None]
+
+    # Log only fresh failures to errata
+    for idx, error_summary in fresh_failures:
         _write_errata(bdb_id,
                       f"failed after retries: {error_summary}",
                       file_lock,
                       chunk_label=_leaf_label(idx) if is_chunked else None,
                       chunk_denom=chunk_denom if is_chunked else None)
 
-    if failed_chunks:
+    if fresh_failures:
         return "FAILED"
     if errata_chunks:
         return "ERRATA"
+
+    # Skip-failed chunks weren't retried — entry needs work but isn't a
+    # fresh failure.  Check before whole-file validation so we don't
+    # falsely report CLEAN when per-chunk errors were just kept.
+    if skipped_failures:
+        return "SKIPPED"
 
     # Final validation of assembled result (catches cross-chunk issues)
     all_errors = validate_html(orig_html, assembled, french_txt)
@@ -482,11 +494,34 @@ def _load_errata_map(errata_path: Path,
 def _save_entry_result(bdb_id: str, status: str, chash: str,
                        max_attempts: int, orig_path: Path, txt_path: Path,
                        results_path: Path, clean_cache_path: Path,
-                       file_lock: threading.Lock):
+                       file_lock: threading.Lock,
+                       dumb_retries: int = 0,
+                       failed_chunks: list | None = None,
+                       errata_chunks: list | None = None,
+                       chunk_labels: list[str] | None = None,
+                       chunk_denom: str | None = None):
     """Save result line and update clean cache if CLEAN."""
     filename = bdb_id + ".html"
     timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S")
-    result_note = f"attempt {max_attempts}" if max_attempts > 1 else ""
+    # Build informative note
+    parts = []
+    if max_attempts > 1:
+        parts.append(f"attempt {max_attempts}")
+    # Flag if smart server was used (smart attempts are offset by dumb_retries)
+    if dumb_retries and max_attempts > dumb_retries:
+        parts.append("smart")
+    # List failed/errata chunks by label
+    def _label(idx):
+        if chunk_labels is not None and idx < len(chunk_labels):
+            return chunk_labels[idx]
+        return str(idx + 1)
+    if failed_chunks:
+        labels = [_label(i) for i, _ in failed_chunks]
+        parts.append(f"chunks {','.join(labels)} failed")
+    if errata_chunks:
+        labels = [_label(i) for i, _ in errata_chunks]
+        parts.append(f"chunks {','.join(labels)} errata")
+    result_note = "; ".join(parts)
     save_result(results_path, filename, status, timestamp, chash,
                 result_note, col_filename=COL_FILENAME,
                 col_status=COL_STATUS, lock=file_lock)
@@ -599,7 +634,8 @@ class EntryState:
 
 
 def _finalize_entry(state: EntryState, file_lock: threading.Lock,
-                    results_path: Path, clean_cache_path: Path):
+                    results_path: Path, clean_cache_path: Path,
+                    dumb_retries: int = 0):
     """Assemble all chunks, validate, write, save result.
 
     Called when the last pending smart chunk resolves. May be called from
@@ -621,7 +657,12 @@ def _finalize_entry(state: EntryState, file_lock: threading.Lock,
 
     _save_entry_result(state.bdb_id, state.final_status, state.chash,
                        state.max_attempts, state.orig_path, state.txt_path,
-                       results_path, clean_cache_path, file_lock)
+                       results_path, clean_cache_path, file_lock,
+                       dumb_retries=dumb_retries,
+                       failed_chunks=state.failed_chunks,
+                       errata_chunks=state.errata_chunks,
+                       chunk_labels=state.chunk_labels,
+                       chunk_denom=state.chunk_denom)
 
     state.done_event.set()
 
@@ -732,7 +773,8 @@ def _smart_worker(q: "queue.Queue[SmartJob | None]",
 
         if all_resolved:
             _finalize_entry(state, file_lock, results_path,
-                            clean_cache_path)
+                            clean_cache_path,
+                            dumb_retries=max_retries)
             elapsed = time.monotonic() - state.t0
             status = state.final_status
             with print_lock:
@@ -1051,10 +1093,11 @@ def process_entry(bdb_id: str, orig_path: Path, txt_path: Path,
                   smart_semaphore: threading.Semaphore | None = None,
                   entry_state_out: list | None = None,
                   system_prompt: str | None = None,
-                  ) -> tuple[str, float, int]:
-    """Process one entry. Returns (status, prompt_kb, attempts_used).
+                  ) -> tuple[str, float, int, dict]:
+    """Process one entry. Returns (status, prompt_kb, attempts_used, extra).
 
     Status is one of: CLEAN, FAILED, ERRATA, SKIPPED, PENDING.
+    extra contains chunk detail for the result note (failed_chunks, etc.).
     PENDING means chunks were enqueued to the smart server background thread.
 
     When smart_queue is provided and a chunk fails the dumb server, it is
@@ -1105,6 +1148,20 @@ def process_entry(bdb_id: str, orig_path: Path, txt_path: Path,
     outputs = [None] * n
     total_prompt_kb = 0.0
     max_attempts = 0
+    # Mutable lists populated during processing (declared here so the
+    # helper closure can reference them before they're assigned below).
+    failed_chunks: list[tuple[int, str | None]] = []
+    errata_chunks: list[tuple[int, str]] = []
+
+    def _chunk_extra() -> dict:
+        """Bundle chunk detail for the result note."""
+        return {
+            "dumb_retries": max_retries,
+            "failed_chunks": failed_chunks,
+            "errata_chunks": errata_chunks,
+            "chunk_labels": chunk_labels,
+            "chunk_denom": chunk_denom,
+        }
 
     # Warm start: re-read fr_path just-in-time (another worker may have
     # updated it since the upfront scan that queued this entry).
@@ -1157,17 +1214,17 @@ def process_entry(bdb_id: str, orig_path: Path, txt_path: Path,
                         else:
                             outputs[idx] = fr_leaf_parts[idx]
                     if skip_incomplete and not all_clean:
-                        return "SKIPPED", 0.0, 0
+                        return "SKIPPED", 0.0, 0, _chunk_extra()
                     if all_clean:
-                        return "CLEAN", 0.0, 0
+                        return "CLEAN", 0.0, 0, _chunk_extra()
         else:
             prev_output = prev_fr_html
             prev_errors = validate_html(orig_html, prev_output, french_txt)
             if not prev_errors:
-                return "CLEAN", 0.0, 0
+                return "CLEAN", 0.0, 0, _chunk_extra()
             if skip_failed and prev_fr_html != orig_html:
                 # Non-chunked entry with errors but at least translated
-                return "SKIPPED", 0.0, 0
+                return "SKIPPED", 0.0, 0, _chunk_extra()
 
     # Async mode: build an EntryState for deferred smart processing
     async_smart = (smart_queue is not None and smart_server
@@ -1189,8 +1246,8 @@ def process_entry(bdb_id: str, orig_path: Path, txt_path: Path,
     # Errata/failure on one chunk does NOT stop processing — we continue so
     # that a later retry (possibly with a smarter model) only has to redo the
     # broken chunks.
-    failed_chunks = []       # [(idx, error_summary)]
-    errata_chunks = []       # [(idx, reason)]
+    failed_chunks.clear()
+    errata_chunks.clear()
     deferred_count = 0
     _skip_errata = skip_errata_chunks or set()
     for idx in range(n):
@@ -1204,6 +1261,10 @@ def process_entry(bdb_id: str, orig_path: Path, txt_path: Path,
                     on_chunk_done("✗")
                 else:
                     on_chunk_done("✓")
+            # Track skip-failed chunks so final status is SKIPPED not CLEAN.
+            # None error_summary distinguishes from fresh failures.
+            if chunk_prev_errors[idx]:
+                failed_chunks.append((idx, None))
             continue
 
         # Skip errata chunks — keep previous output if available
@@ -1293,7 +1354,7 @@ def process_entry(bdb_id: str, orig_path: Path, txt_path: Path,
             max_attempts = max(max_attempts, attempts)
 
             if errata == "SKIPPED":
-                return "SKIPPED", total_prompt_kb, attempts
+                return "SKIPPED", total_prompt_kb, attempts, _chunk_extra()
             if errata:
                 errata_chunks.append((idx, errata))
                 if chunk_prev:
@@ -1342,10 +1403,10 @@ def process_entry(bdb_id: str, orig_path: Path, txt_path: Path,
                     state.errata_chunks, file_lock,
                     chunk_labels=chunk_labels,
                     chunk_denom=chunk_denom)
-                return status, total_prompt_kb, max_attempts
+                return status, total_prompt_kb, max_attempts, _chunk_extra()
         if entry_state_out is not None:
             entry_state_out.append(state)
-        return "PENDING", total_prompt_kb, max_attempts
+        return "PENDING", total_prompt_kb, max_attempts, {}
 
     # Synchronous completion (no smart queue or all chunks succeeded on dumb)
     top_outputs = _reassemble_for_validate(outputs)
@@ -1353,7 +1414,7 @@ def process_entry(bdb_id: str, orig_path: Path, txt_path: Path,
         bdb_id, top_outputs, top_orig_parts, orig_html, french_txt,
         is_chunked, failed_chunks, errata_chunks, file_lock,
         chunk_labels=chunk_labels, chunk_denom=chunk_denom)
-    return status, total_prompt_kb, max_attempts
+    return status, total_prompt_kb, max_attempts, _chunk_extra()
 
 
 # ---------------------------------------------------------------------------
@@ -1769,9 +1830,11 @@ def main():
                 else:
                     cl = str(idx + 1)
                     cd = str(total_chunks)
-                s = f" {cl}/{cd} {fmt_kb(chunk_kb)}KB"
+                kb_part = f" {fmt_kb(chunk_kb)}KB" if chunk_kb > 0 else ""
+                s = f" {cl}/{cd}{kb_part}"
             else:
-                s = f" {fmt_kb(chunk_kb)}KB"
+                kb_part = f" {fmt_kb(chunk_kb)}KB" if chunk_kb > 0 else ""
+                s = kb_part
             try_chars += len(s)
             sys.stdout.write(s)
             sys.stdout.flush()
@@ -1793,7 +1856,7 @@ def main():
 
         smart_retries = args.smart_retries if args.smart_server else 0
         entry_state_out: list[EntryState] = []
-        status, prompt_kb, attempts = process_entry(
+        status, prompt_kb, attempts, chunk_extra = process_entry(
             bdb_id, orig_path, txt_path, template,
             args.server, args.max_retries, RESULTS_FILE, file_lock,
             on_attempt=on_attempt, on_chunk=on_chunk,
@@ -1827,7 +1890,7 @@ def main():
 
         _save_entry_result(bdb_id, status, chash, attempts,
                            orig_path, txt_path, RESULTS_FILE,
-                           CLEAN_CACHE, file_lock)
+                           CLEAN_CACHE, file_lock, **chunk_extra)
         return filename, status, prompt_kb, ""
 
     def file_size_kb(item):

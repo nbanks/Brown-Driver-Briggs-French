@@ -340,9 +340,9 @@ Erreurs justifiant ERRATA :
 
 **⚠️ Lors d'une tentative de correction** (section « Brouillon à corriger ») : les messages de correction décrivent des problèmes d'assemblage HTML à corriger (balises manquantes, texte hébreu absent, etc.). Ce sont des instructions à suivre, **PAS des raisons de signaler ERRATA**. Produisez le HTML corrigé.
 
-**Exemple :** HTML anglais contient `<descrip>son of Kenaz, a hero in Israel</descrip>`, texte français dit `fils de Qenaz, un héros in Israël` — le mot `in` est resté en anglais. Réponse correcte :
+**Exemple :** HTML anglais contient `<hgloss>withhold</gloss>` (balise fermante incohérente) et `<descrip>son of Kenaz, a hero in Israel</descrip>`, texte français dit `fils de Qenaz, un héros in Israël` — le mot `in` est resté en anglais. Réponse correcte :
 ```
->>> ERRATA: mot anglais non traduit : « in » (devrait être « en »)
+>>> ERRATA: mot anglais non traduit : « in » (devrait être « en ») ; balise incohérente dans HTML anglais : <hgloss>withhold</gloss> (fermante </gloss> au lieu de </hgloss>)
 ```
 
 ## Mode morceau (chunked)

@@ -133,6 +133,11 @@ def _normalize_for_diff(text):
             continue
         out.append(s)
     text = " ".join(out)
+    # Strip sup/sub markers (^text^, _N_) — tag sequence check catches
+    # missing <sup>/<sub> tags, so these markers just cause false diffs
+    # when txt_fr translators omit them.
+    text = re.sub(r"\^", " ", text)
+    text = re.sub(r"(?<!\w)_(\d+)_(?!\w)", r"\1", text)
     # Normalize space before French double punctuation
     text = re.sub(r"\s*([;:?!])", r" \1", text)
     # Normalize spaces at Latin↔Hebrew boundaries — tag edges make this
@@ -214,7 +219,7 @@ _ENG_BOOK_RE = re.compile(
 _STRUCTURAL_TAGS = {"pos", "primary", "highlight", "descrip", "meta",
                     "language", "gloss", "sense", "ref", "bdbheb",
                     "bdbarc", "entry", "lookup", "reflink",
-                    "transliteration"}
+                    "transliteration", "sup", "sub"}
 _HAS_LATIN = re.compile(r"[a-zA-Z\u00C0-\u024F]")
 
 _RAW_TAG_RE = re.compile(r"<[^>]+>")
@@ -352,7 +357,29 @@ def validate_html(orig_html, fr_html, txt_fr_content=None):
     # 7. French text content matches HTML (word-level diff via extract_text)
     if txt_fr_content is not None:
         fr_extracted = _extract_visible_text(fr_html)
-        found.extend(_word_diff(txt_fr_content, fr_extracted))
+        hunks = _word_diff(txt_fr_content, fr_extracted)
+        if hunks:
+            # Check if the only differences are whitespace (e.g. tag
+            # boundaries inserting spaces around punctuation).
+            exp_nows = re.sub(r"\s+", "",
+                              _normalize_for_diff(txt_fr_content))
+            got_nows = re.sub(r"\s+", "",
+                              _normalize_for_diff(fr_extracted))
+            if exp_nows == got_nows:
+                hunks.append(
+                    "NOTE: whitespace-only difference — caused by "
+                    "line breaks around tags. To remove an unwanted "
+                    "space, put tags on the same line:\n"
+                    "  BAD:  <bdbheb>׳</bdbheb>\n"
+                    "        <bdbheb>הַשּׁ</bdbheb>  → '׳ הַשּׁ'\n"
+                    "  GOOD: <bdbheb>׳</bdbheb>"
+                    "<bdbheb>הַשּׁ</bdbheb>      → '׳הַשּׁ'\n"
+                    "To add a needed space, put the closing tag "
+                    "on a new line:\n"
+                    "  BAD:  >2 S 22,25</ref>,  → '22,25,'\n"
+                    "  GOOD: >2 S 22,25\n"
+                    "        </ref>,            → '22,25 ,'")
+        found.extend(hunks)
 
     # 8. Extra refs in French not in original (fabricated/duplicated)
     extra_refs = fr_refs - orig_refs

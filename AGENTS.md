@@ -571,8 +571,16 @@ anglais (hors noms propres de savants modernes), le
 fichier est incorrect — recommencez en utilisant le texte de `Entries_txt_fr/`.
 
 **Préservation de la structure HTML :** Ne supprimez aucune balise HTML, même
-si elle semble vide ou redondante. Le fichier `Entries_fr/` doit avoir la même
-arborescence de balises que le fichier anglais original.
+si elle semble vide ou redondante. Le fichier `Entries_fr/` doit contenir les
+mêmes balises que l'original. Cependant, **l'ordre des mots français prime sur
+l'ordre des balises anglaises** : quand le français change l'ordre des mots
+autour d'un élément balisé, déplacez la balise pour suivre l'ordre français.
+
+Exemple — possessif `'s` → `de` :
+```
+Anglais : <highlight>in thy</highlight> <bdbheb>׳</bdbheb> <bdbheb>י</bdbheb>'s <highlight>book</highlight>
+Français : <highlight>dans ton livre de</highlight> <bdbheb>׳</bdbheb> <bdbheb>י</bdbheb>
+```
 
 **Traduction `txt_fr` défectueuse :** Si vous constatez que le fichier
 `Entries_txt_fr/` contient des erreurs évidentes (franglais, accents manquants,
@@ -584,31 +592,18 @@ Consignez le problème dans `errata-N.txt` (voir « Gestion des erreurs »).
 Ne bloquez jamais sur une entrée problématique.
 
 **Étape 3 automatisée : `scripts/llm_html_assemble.py`** traite les entrées en
-lot via un serveur LLM local. Pour les entrées trop volumineuses (>30KB par
-morceau), le LLM local peut échouer. Dans ce cas, utiliser le réassemblage
-manuel morceau par morceau (voir ci-dessous).
+lot via un serveur LLM local. Le prompt complet avec exemples et règles
+détaillées se trouve dans `scripts/llm_html_assemble.md`. Pour les entrées trop
+volumineuses (>30KB par morceau), le LLM local peut échouer. Dans ce cas,
+utiliser le réassemblage manuel morceau par morceau (voir ci-dessous).
 
-**Étape 3 manuelle : réassemblage par morceaux avec `scripts/dump_chunks.py`**
+**Étape 3 manuelle : réassemblage avec `scripts/dump_chunks.py`**
 
-Pour les entrées que `llm_html_assemble.py` n'arrive pas à traiter (trop
-volumineuses), un agent LLM capable (Claude, etc.) peut faire le réassemblage
-manuellement, un morceau à la fois :
-
-```
-python3 scripts/dump_chunks.py --help           # voir toutes les options
-python3 scripts/dump_chunks.py BDB1045          # lister les morceaux
-python3 scripts/dump_chunks.py BDB1045 1 --html # HTML seul
-```
-
-Accepte aussi des chemins complets (p. ex. `Entries_fr/BDB1045.html`) avec
-auto-détection du type de source.
-
-Flux de travail :
-1. Lister les morceaux pour voir la structure.
-2. Pour chaque morceau, lire le HTML et le txt_fr correspondants.
-3. Produire le HTML français en suivant les mêmes règles que l'étape 3.
-4. Concaténer tous les morceaux et écrire dans `Entries_fr/BDBnnn.html`.
-5. Valider avec `python3 scripts/validate_html.py BDBnnn`.
+Pour tout réassemblage manuel, commencer par lister les morceaux :
+`python3 scripts/dump_chunks.py BDBnnn`. Si l'entrée n'a qu'un seul morceau
+(`type=whole`), la traiter d'un bloc. Sinon, traiter chaque morceau
+séparément avec `dump_chunks.py BDBnnn N --html` et `--txt`.
+Voir `--help` pour toutes les options.
 
 **Étape 4 : Validation** (`scripts/validate_html.py`, déterministe)
 Vérifie que le HTML français préserve tous les éléments de l'original. Exécutée
@@ -641,14 +636,12 @@ de traduire le corpus en parallèle sans chevauchement.
 
 ```
 python3 scripts/untranslated.py 0            # entrées finissant par 0
-python3 scripts/untranslated.py 1 5          # entrées finissant par 1 ou 5
 python3 scripts/untranslated.py 3 -n 5       # 5 entrées finissant par 3
-python3 scripts/untranslated.py 7 --json     # json seulement, finissant par 7
-python3 scripts/untranslated.py 4 --count    # totaux seuls, finissant par 4
 ```
 
-Sans arguments, le script affiche l'aide. Les 10 chiffres (0-9) permettent à
-10 travailleurs de traduire en parallèle sans chevauchement.
+Sans arguments, le script affiche l'aide. Supporte `--txt`, `--html`, `--json`,
+`--count` et plusieurs chiffres. Les 10 chiffres (0-9) permettent à 10
+travailleurs de traduire en parallèle sans chevauchement.
 
 ### Flux de traduction JSON
 
@@ -808,6 +801,15 @@ français, recommencez en traduisant la phrase entière.
 
 Traiter les fichiers **un par un** — que ce soit pour traduire ou pour revoir
 des erreurs : lire, traiter, écrire, passer au suivant.
+
+## Débogage des échecs de réassemblage HTML
+
+Quand `llm_html_assemble.py` échoue sur une entrée, les prompts et réponses LLM
+sont conservés dans `/tmp/llm-html/`. Ce répertoire contient souvent des
+milliers de fichiers — utiliser un glob ciblé sur le nom de l'entrée :
+`ls /tmp/llm-html/*7869*` pour trouver les fichiers liés à BDB7869. Examiner
+le prompt envoyé et la réponse reçue aide à comprendre pourquoi le LLM a
+produit une sortie invalide (parenthèse manquante, balise altérée, etc.).
 
 ## Gestion des erreurs (errata)
 
