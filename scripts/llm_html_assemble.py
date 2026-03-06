@@ -685,7 +685,8 @@ def _smart_worker(q: "queue.Queue[SmartJob | None]",
                   completed_counter: list,
                   shutdown_event: threading.Event,
                   smart_semaphore: threading.Semaphore,
-                  current_line_bdb: list | None = None):
+                  current_line_bdb: list | None = None,
+                  blank_retries: int = 0):
     """Background thread consuming SmartJob items from the queue."""
     while True:
         job = q.get()
@@ -705,12 +706,19 @@ def _smart_worker(q: "queue.Queue[SmartJob | None]",
         def _async_on_attempt(n, smart=False, errata=False):
             if errata or n == 1:
                 return
-            retry_n = n - max_retries
-            if retry_n <= 1:
-                return  # silent on first smart attempt
-            label = f" try {retry_n}"
+            blank_start = max_retries + smart_retries + 1
+            if n >= blank_start and blank_retries > 0:
+                bn = n - max_retries - smart_retries
+                label = f" B{bn}"
+                color = "\033[1;36m" if _USE_COLOR else ""
+            else:
+                retry_n = n - max_retries
+                if retry_n <= 1:
+                    return  # silent on first smart attempt
+                label = f" try {retry_n}"
+                color = "\033[1;33m" if _USE_COLOR else ""
             if _USE_COLOR:
-                s = f" \033[1;33m{label.lstrip()}\033[0m"
+                s = f" {color}{label.lstrip()}\033[0m"
             else:
                 s = label
             with print_lock:
@@ -728,6 +736,22 @@ def _smart_worker(q: "queue.Queue[SmartJob | None]",
             on_attempt=_async_on_attempt,
             system_prompt=job.system_prompt,
             chunk_label=job.chunk_label, chunk_denom=job.chunk_denom)
+
+        # Blank restart: wipe history and retry from scratch
+        if blank_retries > 0 and (errors or errata):
+            blank_offset = max_retries + smart_retries
+            b_html, b_kb, b_att, b_err, b_era, _ = _try_server(
+                job.bdb_id, job.chunk_idx, job.total_chunks,
+                job.orig_html, job.txt_fr, None, [],
+                None, job.template,
+                smart_server, blank_retries, job.is_chunked,
+                debug=debug,
+                attempt_offset=blank_offset, debug_prefix="blank",
+                on_attempt=_async_on_attempt,
+                system_prompt=job.system_prompt,
+                chunk_label=job.chunk_label, chunk_denom=job.chunk_denom)
+            html, kb, attempts, errors, errata = (
+                b_html, kb + b_kb, b_att, b_err, b_era)
 
         with state.lock:
             state.outputs[job.chunk_idx] = html
@@ -1042,6 +1066,7 @@ def _generate_chunk(bdb_id: str, idx: int, n: int,
                     system_prompt: str | None = None,
                     chunk_label: str | None = None,
                     chunk_denom: str | None = None,
+                    blank_retries: int = 0,
                     ) -> tuple[str | None, float, int, list[str], str | None]:
     """Generate (and retry) one chunk. Delegates to dumb then smart server.
 
@@ -1067,6 +1092,17 @@ def _generate_chunk(bdb_id: str, idx: int, n: int,
             return None, kb, attempts, errors, "SKIPPED"
         errata = None  # fall through to smart
     elif not smart_server or not smart_retries:
+        # No smart server — try blank restart on dumb server if available
+        if blank_retries > 0 and (errors or errata):
+            blank_offset = max_retries
+            b_html, b_kb, b_att, b_err, b_era, _ = _try_server(
+                bdb_id, idx, n, orig_html, txt_fr, None, [],
+                None, template, server_url, blank_retries, is_chunked,
+                on_attempt=on_attempt, debug=debug,
+                attempt_offset=blank_offset, debug_prefix="blank",
+                system_prompt=system_prompt,
+                chunk_label=chunk_label, chunk_denom=chunk_denom)
+            return b_html, kb + b_kb, b_att, b_err, b_era
         return html, kb, attempts, errors, errata
 
     # Smart server fallback
@@ -1081,7 +1117,24 @@ def _generate_chunk(bdb_id: str, idx: int, n: int,
         system_prompt=system_prompt,
         chunk_label=chunk_label, chunk_denom=chunk_denom)
 
-    return s_html, kb + s_kb, s_attempts, s_errors, s_errata
+    kb += s_kb
+
+    # Blank restart: wipe all history and retry from scratch on the
+    # best available server.  This breaks the cycle when the dumb model
+    # hallucinated content that poisons subsequent retries.
+    if blank_retries > 0 and (s_errors or s_errata):
+        blank_server = smart_server or server_url
+        blank_offset = max_retries + smart_retries
+        b_html, b_kb, b_attempts, b_errors, b_errata, _ = _try_server(
+            bdb_id, idx, n, orig_html, txt_fr, None, [],
+            None, template, blank_server, blank_retries, is_chunked,
+            on_attempt=on_attempt, debug=debug,
+            attempt_offset=blank_offset, debug_prefix="blank",
+            system_prompt=system_prompt,
+            chunk_label=chunk_label, chunk_denom=chunk_denom)
+        return b_html, kb + b_kb, b_attempts, b_errors, b_errata
+
+    return s_html, kb, s_attempts, s_errors, s_errata
 
 
 def process_entry(bdb_id: str, orig_path: Path, txt_path: Path,
@@ -1100,6 +1153,7 @@ def process_entry(bdb_id: str, orig_path: Path, txt_path: Path,
                   smart_semaphore: threading.Semaphore | None = None,
                   entry_state_out: list | None = None,
                   system_prompt: str | None = None,
+                  blank_retries: int = 0,
                   ) -> tuple[str, float, int, dict]:
     """Process one entry. Returns (status, prompt_kb, attempts_used, extra).
 
@@ -1355,7 +1409,8 @@ def process_entry(bdb_id: str, orig_path: Path, txt_path: Path,
                 smart_server=smart_server, smart_retries=smart_retries,
                 prior_errata_reason=chunk_errata,
                 system_prompt=system_prompt,
-                chunk_label=_cl, chunk_denom=_cd)
+                chunk_label=_cl, chunk_denom=_cd,
+                blank_retries=blank_retries)
 
             total_prompt_kb += kb
             max_attempts = max(max_attempts, attempts)
@@ -1471,7 +1526,7 @@ def main():
         help="Number of parallel LLM requests. Default: 1.",
     )
     parser.add_argument(
-        "--max-retries", type=int, default=3, metavar="R",
+        "--retries", type=int, default=3, metavar="R", dest="max_retries",
         help="Max validation retry attempts per entry. Default: 3.",
     )
     parser.add_argument(
@@ -1511,6 +1566,11 @@ def main():
     parser.add_argument(
         "--smart-retries", type=int, default=1, metavar="R",
         help="Max retries on the smart server. Default: 1.",
+    )
+    parser.add_argument(
+        "--blank-retries", type=int, default=0, metavar="R",
+        help="After all retries fail, wipe history and retry from scratch "
+             "on the smart server (or dumb if no smart). Default: 0 (off).",
     )
     parser.add_argument(
         "--max-smart-inflight", type=int, default=9999, metavar="N",
@@ -1707,6 +1767,9 @@ def main():
         print(f"  Smart:       {args.smart_server} ({args.smart_retries} retries)")
     else:
         print(f"  Smart:       N/A")
+    if args.blank_retries:
+        blank_srv = args.smart_server or args.server
+        print(f"  Blank:       {blank_srv} ({args.blank_retries} retries, clean slate)")
     print()
 
     file_lock = threading.Lock()
@@ -1715,9 +1778,11 @@ def main():
 
     sequential = args.parallel <= 1
     smart_n = args.smart_retries if args.smart_server else 0
+    blank_n = args.blank_retries
     max_try_str = (" try " + " ".join(
         str(n) for n in range(1, args.max_retries + 1))
-        + "".join(f" S{n}" for n in range(1, smart_n + 1)))
+        + "".join(f" S{n}" for n in range(1, smart_n + 1))
+        + "".join(f" B{n}" for n in range(1, blank_n + 1)))
     max_try_width = len(max_try_str)
 
     # --- Async smart-server pipeline setup ---
@@ -1742,7 +1807,8 @@ def main():
                   args.max_retries, args.debug, file_lock, print_lock,
                   RESULTS_FILE, CLEAN_CACHE,
                   shared_elapsed_times, shared_completed,
-                  shutdown_event, smart_sem, current_line_bdb),
+                  shutdown_event, smart_sem, current_line_bdb,
+                  args.blank_retries),
             daemon=True)
         smart_thread.start()
         print(f"  Async smart: enabled (max {MAX_SMART_INFLIGHT} in-flight)")
@@ -1816,7 +1882,12 @@ def main():
                     return
                 if n == 1:
                     return  # silent on first attempt
-                if smart:
+                blank_start = args.max_retries + smart_n + 1
+                if n >= blank_start and blank_n > 0:
+                    bn = n - args.max_retries - smart_n
+                    label = f" B{bn}"
+                    s = f" \033[1;36mB{bn}\033[0m"
+                elif smart:
                     label = f" S{n - args.max_retries}"
                     s = f" \033[1;33mS{n - args.max_retries}\033[0m"
                 else:
@@ -1876,7 +1947,8 @@ def main():
             smart_queue=smart_q if use_async_smart else None,
             smart_semaphore=smart_sem,
             entry_state_out=entry_state_out,
-            system_prompt=system_prompt)
+            system_prompt=system_prompt,
+            blank_retries=args.blank_retries)
 
         if status == "PENDING" and entry_state_out:
             # Store state for post-pipeline join; set metadata for display

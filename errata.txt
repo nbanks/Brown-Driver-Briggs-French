@@ -7211,3 +7211,137 @@ To add a needed space, put the closing tag on a new line:
         </ref>,            → '22,25 ,'
 BDB1320:1/2 html  failed after retries: raw tag missing in French: '<gloss>' (English HTML: "nse"> <sense>1.</sense> <gloss>go</gloss> or <gloss>pass through</gloss"); raw tag missing in French: '</gloss>' (English HTML: "<sense>1.</sense> <gloss>go</gloss> or <gloss>pass through</gloss>, of bar,")
 BDB1127:2.2/2.2 html  failed after retries: raw tag missing in French: '<highlight>' (English HTML: "ֹלֶת י</bdbheb> on account of Jehovah's <highlight>not</highlight> being able… ("); raw tag missing in French: '</highlight>' (English HTML: "> on account of Jehovah's <highlight>not</highlight> being able… (in <ref re"); raw tag missing in French: '<highlight>' (English HTML: "heb>הֲמִבְּלִי אֵין ֗֗֗ </bdbheb> is it <highlight>on account of</highlight> the"); raw tag missing in French: '</highlight>' (English HTML: "</bdbheb> is it <highlight>on account of</highlight> there being <highlight>no</"); raw tag missing in French: '<highlight>' (English HTML: "of</highlight> there being <highlight>no</highlight>…? (literally is it <highl")
+BDB1296:1.2.1/2 html  failed after retries: expected: ...תורה Ml 2,7, אהבה Pr 17,9 , תאוה Pr 18,1 ( ל...
+       got: ...תורה Ml 2,7, אהבה Pr 17,9, תאוה Pr 18,1 ( ל...; expected: ...ל d'objet direct), חשׁבנות Qo 7,29 .
+       got: ...ל d'objet direct), חשׁבנות Qo 7,29.; NOTE: whitespace-only difference — caused by line breaks around tags. To remove an unwanted space, put tags on the same line:
+  BAD:  <bdbheb>׳</bdbheb>
+        <bdbheb>הַשּׁ</bdbheb>  → '׳ הַשּׁ'
+  GOOD: <bdbheb>׳</bdbheb><bdbheb>הַשּׁ</bdbheb>      → '׳הַשּׁ'
+To add a needed space, put the closing tag on a new line:
+  BAD:  >2 S 22,25</ref>,  → '22,25,'
+  GOOD: >2 S 22,25
+        </ref>,            → '22,25 ,'
+BDB1307 html  failed after retries: expected: ..., froid DHM ZMG 1875, 607) — בָּרָד Ex 9,18 +...
+       got: ..., froid DHM ZMG 1875, 607 ) — בָּרָד Ex 9,18 +...; NOTE: whitespace-only difference — caused by line breaks around tags. To remove an unwanted space, put tags on the same line:
+  BAD:  <bdbheb>׳</bdbheb>
+        <bdbheb>הַשּׁ</bdbheb>  → '׳ הַשּׁ'
+  GOOD: <bdbheb>׳</bdbheb><bdbheb>הַשּׁ</bdbheb>      → '׳הַשּׁ'
+To add a needed space, put the closing tag on a new line:
+  BAD:  >2 S 22,25</ref>,  → '22,25,'
+  GOOD: >2 S 22,25
+        </ref>,            → '22,25 ,'
+BDB1330:3.1/6 html  failed after retries: raw tag missing in French: '</stem>' (English HTML: "<div class="stem"> <stem>Pi`el</stem><sub>233</sub> <conj>Perfect</conj>"); raw tag extra in French: '</stem>' (your HTML: "ass="stem"> <stem>Piel<sub>233</sub></stem> <conj>Parfait</conj> <bdbheb>בֵ")
+BDB1337:0/6 html  failed after retries: expected: ...יְבָרֶכְיָהוּ c.-à-d. Yah bénit Ges § 27, 3) père d'un Zacharie au...
+       got: ...יְבָרֶכְיָהוּ c.-à-d. Yah bénit Ges «GKC :27»§ 27 , 3) père d'un Zacharie au...
+BDB1367:0/2 html  failed after retries: expected: ...assyrien bussuru (Pa.) Dl Pr 170, sabéen תבשר DHM MV, aussi בשר nom propre, de...
+       got: ...assyrien bussuru (Pa.) Dl Pr 170 , sabéen תבשר DHM MV , aussi בשר nom propre, de...; expected: ...: Placeholders/734.gif] DHM ZMG 1883, 358, CIS iv. 1, 41, 1. 3) —...
+       got: ...: Placeholders/734.gif] DHM ZMG 1883, 358 , CIS iv. 1, 41, 1. 3 ) —...; NOTE: whitespace-only difference — caused by line breaks around tags. To remove an unwanted space, put tags on the same line:
+  BAD:  <bdbheb>׳</bdbheb>
+        <bdbheb>הַשּׁ</bdbheb>  → '׳ הַשּׁ'
+  GOOD: <bdbheb>׳</bdbheb><bdbheb>הַשּׁ</bdbheb>      → '׳הַשּׁ'
+To add a needed space, put the closing tag on a new line:
+  BAD:  >2 S 22,25</ref>,  → '22,25,'
+  GOOD: >2 S 22,25
+        </ref>,            → '22,25 ,'
+BDB1374 html  failed after retries: raw tag missing in French: '</namemng>' (English HTML: "<highlight>son of peace</highlight>?</namemng> compare below <bdbheb>בן</bdbheb>")
+BDB140 html  failed after retries: expected: ...אֲדָר nom propre [masculin] 12e mois (babylonien) = fév.-mars (hébreu...
+       got: ...אֲדָר nom propre [masculin] 12 e mois (babylonien) = fév.-mars (hébreu...; NOTE: whitespace-only difference — caused by line breaks around tags. To remove an unwanted space, put tags on the same line:
+  BAD:  <bdbheb>׳</bdbheb>
+        <bdbheb>הַשּׁ</bdbheb>  → '׳ הַשּׁ'
+  GOOD: <bdbheb>׳</bdbheb><bdbheb>הַשּׁ</bdbheb>      → '׳הַשּׁ'
+To add a needed space, put the closing tag on a new line:
+  BAD:  >2 S 22,25</ref>,  → '22,25,'
+  GOOD: >2 S 22,25
+        </ref>,            → '22,25 ,'; extra tag in French: <sup>; raw tag missing in French: '</descrip>' (English HTML: "os> <descrip>12th (Babylonian) month</descrip> = Feb.-Mar. (late Hebrew loan-wor"); raw tag extra in French: '<sup>' (your HTML: "propre [masculin]</pos> <descrip>12<sup>e</sup> mois (babylonien) = fév.-mars (h")
+BDB1337:0/6 html  failed after retries: expected: ...Yah bénit Ges § 27, 3) père d'un Zacharie au temps...
+       got: ...Yah bénit Ges § 27, 3 ) père d'un Zacharie au temps...; NOTE: whitespace-only difference — caused by line breaks around tags. To remove an unwanted space, put tags on the same line:
+  BAD:  <bdbheb>׳</bdbheb>
+        <bdbheb>הַשּׁ</bdbheb>  → '׳ הַשּׁ'
+  GOOD: <bdbheb>׳</bdbheb><bdbheb>הַשּׁ</bdbheb>      → '׳הַשּׁ'
+To add a needed space, put the closing tag on a new line:
+  BAD:  >2 S 22,25</ref>,  → '22,25,'
+  GOOD: >2 S 22,25
+        </ref>,            → '22,25 ,'
+BDB782:3/4 html  failed after retries: expected: Piël 3 masculin singulier suffixe אֵרֲרָהּ...
+       got: Pi`el 3 masculin singulier suffixe אֵרֲרָהּ...
+BDB1407:0/4 html  failed after retries: missing tag in French: <sub> (English HTML: "uage> <p> <bdbheb>גְּאֻלָּה</bdbheb><sub>14</sub> <pos>noun feminine</po"); raw tag missing in French: '<sub>' (English HTML: "uage> <p> <bdbheb>גְּאֻלָּה</bdbheb><sub>14</sub> <pos>noun feminine</pos>"); raw tag missing in French: '</sub>' (English HTML: "p> <bdbheb>גְּאֻלָּה</bdbheb><sub>14</sub> <pos>noun feminine</pos> <prima")
+BDB1417 html  failed after retries: expected: ..., Asrb Annales Col. viii. 102, KB ii. 220 ; voir...
+       got: ..., Asrb Annales Col. viii. 102 , KB ii. 220 ; voir...; NOTE: whitespace-only difference — caused by line breaks around tags. To remove an unwanted space, put tags on the same line:
+  BAD:  <bdbheb>׳</bdbheb>
+        <bdbheb>הַשּׁ</bdbheb>  → '׳ הַשּׁ'
+  GOOD: <bdbheb>׳</bdbheb><bdbheb>הַשּׁ</bdbheb>      → '׳הַשּׁ'
+To add a needed space, put the closing tag on a new line:
+  BAD:  >2 S 22,25</ref>,  → '22,25,'
+  GOOD: >2 S 22,25
+        </ref>,            → '22,25 ,'
+BDB1427:0/4 html  failed after retries: expected: ...16,7 גְּבַהּ (Ew § 213 d) Ps 101,5 + 3 t. ;...
+       got: ...16,7 גְּבַהּ (Ew § 213 d )Ps 101,5 + 3 t. ;...; NOTE: whitespace-only difference — caused by line breaks around tags. To remove an unwanted space, put tags on the same line:
+  BAD:  <bdbheb>׳</bdbheb>
+        <bdbheb>הַשּׁ</bdbheb>  → '׳ הַשּׁ'
+  GOOD: <bdbheb>׳</bdbheb><bdbheb>הַשּׁ</bdbheb>      → '׳הַשּׁ'
+To add a needed space, put the closing tag on a new line:
+  BAD:  >2 S 22,25</ref>,  → '22,25,'
+  GOOD: >2 S 22,25
+        </ref>,            → '22,25 ,'
+BDB1296:1.2.1/2 html  failed after retries: expected: ...תורה Ml 2,7, אהבה Pr 17,9 , תאוה Pr 18,1 ( ל...
+       got: ...תורה Ml 2,7, אהבה Pr 17,9, תאוה Pr 18,1 ( ל...; expected: ...ל d'objet direct), חשׁבנות Qo 7,29 .
+       got: ...ל d'objet direct), חשׁבנות Qo 7,29.; NOTE: whitespace-only difference — caused by line breaks around tags. To remove an unwanted space, put tags on the same line:
+  BAD:  <bdbheb>׳</bdbheb>
+        <bdbheb>הַשּׁ</bdbheb>  → '׳ הַשּׁ'
+  GOOD: <bdbheb>׳</bdbheb><bdbheb>הַשּׁ</bdbheb>      → '׳הַשּׁ'
+To add a needed space, put the closing tag on a new line:
+  BAD:  >2 S 22,25</ref>,  → '22,25,'
+  GOOD: >2 S 22,25
+        </ref>,            → '22,25 ,'
+BDB1307 html  failed after retries: expected: ..., froid DHM ZMG 1875, 607) — בָּרָד Ex 9,18 +...
+       got: ..., froid DHM ZMG 1875, 607 ) — בָּרָד Ex 9,18 +...; NOTE: whitespace-only difference — caused by line breaks around tags. To remove an unwanted space, put tags on the same line:
+  BAD:  <bdbheb>׳</bdbheb>
+        <bdbheb>הַשּׁ</bdbheb>  → '׳ הַשּׁ'
+  GOOD: <bdbheb>׳</bdbheb><bdbheb>הַשּׁ</bdbheb>      → '׳הַשּׁ'
+To add a needed space, put the closing tag on a new line:
+  BAD:  >2 S 22,25</ref>,  → '22,25,'
+  GOOD: >2 S 22,25
+        </ref>,            → '22,25 ,'
+BDB1465:0/2 html  failed after retries: expected: ...גִּבּוֺר  adjectif fort, puissant (comparer arabe...
+       got: ...גִּבּוֺר _159_ adjectif fort, puissant (comparer arabe...
+BDB1465:2/2 html  failed after retries: expected: ...et autres ; mais ᵐ5  ὁ ἄνθρωπος ἦν λεπός, comparer...
+       got: ...et autres ; mais ᵐ5 L ὁ ἄνθρωπος ἦν λεπός, comparer...
+BDB1550:1/2 html  failed after retries: expected: ...1. corps humain vivant  Gn 47,18 (singulier, de plusieurs...
+       got: ...1. corps humain vivant corps Gn 47,18 (singulier, de plusieurs...
+BDB1337:0/6 html  failed after retries: expected: ...Yah bénit Ges § 27, 3) père d'un Zacharie au temps...
+       got: ...Yah bénit Ges § 27, 3 ) père d'un Zacharie au temps...; NOTE: whitespace-only difference — caused by line breaks around tags. To remove an unwanted space, put tags on the same line:
+  BAD:  <bdbheb>׳</bdbheb>
+        <bdbheb>הַשּׁ</bdbheb>  → '׳ הַשּׁ'
+  GOOD: <bdbheb>׳</bdbheb><bdbheb>הַשּׁ</bdbheb>      → '׳הַשּׁ'
+To add a needed space, put the closing tag on a new line:
+  BAD:  >2 S 22,25</ref>,  → '22,25,'
+  GOOD: >2 S 22,25
+        </ref>,            → '22,25 ,'
+BDB1367:0/2 html  failed after retries: expected: ...assyrien bussuru (Pa.) Dl Pr 170, sabéen תבשר DHM MV, aussi בשר nom propre, de...
+       got: ...assyrien bussuru (Pa.) Dl Pr 170 , sabéen תבשר DHM MV , aussi בשר nom propre, de...; expected: ...: Placeholders/734.gif] DHM ZMG 1883, 358, CIS iv. 1, 41, 1. 3) —...
+       got: ...: Placeholders/734.gif] DHM ZMG 1883, 358 , CIS iv. 1, 41, 1. 3 ) —...; NOTE: whitespace-only difference — caused by line breaks around tags. To remove an unwanted space, put tags on the same line:
+  BAD:  <bdbheb>׳</bdbheb>
+        <bdbheb>הַשּׁ</bdbheb>  → '׳ הַשּׁ'
+  GOOD: <bdbheb>׳</bdbheb><bdbheb>הַשּׁ</bdbheb>      → '׳הַשּׁ'
+To add a needed space, put the closing tag on a new line:
+  BAD:  >2 S 22,25</ref>,  → '22,25,'
+  GOOD: >2 S 22,25
+        </ref>,            → '22,25 ,'
+BDB1565:2/2 html  failed after retries: expected: ...: Lv 19,10 (|| עָנִי ), Lv 23,22 (|| id.) Lv 19,34 (tous H )...
+       got: ...: Lv 19,10 (|| עָנִי ) ; Lv 23,22 (|| id.) ; Lv 19,34 (tous H )...; expected: ...Ez 22,29 (|| עָנִי וְאֶבְיוֺן ), Ps 94,6 comparer aussi le...
+       got: ...Ez 22,29 (|| עָנִי וְאֶבְיוֺן ) ; Ps 94,6 comparer aussi le...
+BDB1573:1/2 html  failed after retries: expected: ...1.  lionceaux, figuré de Juda Gn...
+       got: ...1. lionceaux, lionceaux, figuré de Juda Gn...
+BDB1588:1/2 html  failed after retries: raw tag missing in French: '</floss>' (English HTML: "th verb = <gloss>seize, plunder </floss></descrip>, object <bdbheb>גְּזֵלָה</bdb")
+BDB1407:0/4 html  failed after retries: expected: ...גְּאֻלָּה  nom féminin parenté ( ?),...
+       got: ...גְּאֻלָּה _14_ nom féminin parenté ( ?),...
+BDB1417 html  failed after retries: expected: ..., Asrb Annales Col. viii. 102, KB ii. 220 ; voir...
+       got: ..., Asrb Annales Col. viii. 102 , KB ii. 220 ; voir...; NOTE: whitespace-only difference — caused by line breaks around tags. To remove an unwanted space, put tags on the same line:
+  BAD:  <bdbheb>׳</bdbheb>
+        <bdbheb>הַשּׁ</bdbheb>  → '׳ הַשּׁ'
+  GOOD: <bdbheb>׳</bdbheb><bdbheb>הַשּׁ</bdbheb>      → '׳הַשּׁ'
+To add a needed space, put the closing tag on a new line:
+  BAD:  >2 S 22,25</ref>,  → '22,25,'
+  GOOD: >2 S 22,25
+        </ref>,            → '22,25 ,'
+BDB9627:2/2 html  failed after retries: raw tag missing in French: '</descrip>' (English HTML: "descrip>as learned, of the class of Magi</descrip> (Biblical Hebrew <bdbarc>׳</b"); raw tag extra in French: '</descrip>' (your HTML: "sense>1</sense>.<subsense>c</subsense>.)</descrip>, <ref ref="Dan 2:5" b="27" cB")
