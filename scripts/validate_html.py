@@ -95,8 +95,20 @@ def _extract_visible_text(html_content):
 
     This ensures the extracted text matches the format of Entries_txt_fr/
     files — same placeholder notation, sup/sub markers, whitespace rules.
+
+    Returns (text, reflink_texts) where reflink_texts is a set of strings
+    found inside <reflink> tags.  These are scholarly sigla already
+    validated by the tag-preservation checks and should be ignored in
+    the text diff.
     """
     soup = BeautifulSoup(html_content, "lxml")
+    # Collect reflink texts before extraction (they are scholarly sigla
+    # like ⅏, ᵐ5, ᵑ6, Qr — validated separately by check #4).
+    reflink_texts = set()
+    for rl in soup.find_all("reflink"):
+        t = rl.get_text().strip()
+        if t:
+            reflink_texts.add(t)
     entry_ids = []
     body = extract_text(soup, entry_ids)
     # Clean up whitespace the same way extract_txt.py does
@@ -110,15 +122,16 @@ def _extract_visible_text(html_content):
             cleaned.append(re.sub(r"[ \t]+", " ", line).strip())
     body = "\n".join(cleaned)
     body = re.sub(r"\n{3,}", "\n\n", body)
-    return body.strip()
+    return body.strip(), reflink_texts
 
 
-def _normalize_for_diff(text):
+def _normalize_for_diff(text, reflink_texts=None):
     """Normalize text before diffing to suppress extraction artifacts.
 
     - Strip ## SPLIT / === header lines
     - Normalize French typographic space before ; : ? !
       (HTML extraction often loses the thin space before punctuation)
+    - Strip standalone reflink symbols (already validated by check #4)
     - Collapse multiple spaces
     """
     lines = text.split("\n")
@@ -131,8 +144,18 @@ def _normalize_for_diff(text):
         if re.match(r"^(hébreu biblique|araméen biblique|hébreu tardif|"
                     r"néo-hébreu|Biblical Hebrew|Biblical Aramaic)$", s, re.I):
             continue
+        # Strip lines that are just a reflink symbol (scholarly sigla
+        # like ⅏, ᵐ5, ᵑ6 — already checked by tag-preservation #4)
+        if reflink_texts and s in reflink_texts:
+            continue
         out.append(s)
     text = " ".join(out)
+    # Strip reflink symbols that appear as words within lines (when the
+    # HTML has them inline rather than on separate lines).
+    if reflink_texts:
+        words = text.split()
+        words = [w for w in words if w not in reflink_texts]
+        text = " ".join(words)
     # Strip sup/sub markers (^text^, _N_) — tag sequence check catches
     # missing <sup>/<sub> tags, so these markers just cause false diffs
     # when txt_fr translators omit them.
@@ -152,7 +175,8 @@ def _normalize_for_diff(text):
     return text.strip()
 
 
-def _word_diff(expected, actual, context=5, max_hunks=10, merge_gap=6):
+def _word_diff(expected, actual, context=5, max_hunks=10, merge_gap=6,
+               reflink_texts=None):
     """Produce attendu/obtenu diff hunks between expected and actual.
 
     Nearby changes (separated by ≤merge_gap equal words) are merged into
@@ -163,8 +187,8 @@ def _word_diff(expected, actual, context=5, max_hunks=10, merge_gap=6):
       'expected: ...trace de final י ou ו en hébreu...
             got: ...trace de י ou ו final en hébreu...'
     """
-    exp_words = _normalize_for_diff(expected).split()
-    act_words = _normalize_for_diff(actual).split()
+    exp_words = _normalize_for_diff(expected, reflink_texts).split()
+    act_words = _normalize_for_diff(actual, reflink_texts).split()
 
     sm = difflib.SequenceMatcher(None, exp_words, act_words, autojunk=False)
     opcodes = [oc for oc in sm.get_opcodes()]
@@ -221,8 +245,10 @@ _HAS_LATIN = re.compile(r"[a-zA-Z\u00C0-\u024F]")
 _RAW_TAG_RE = re.compile(r"<[^>]+>")
 # Tags injected by the lxml parser that don't exist in the source HTML —
 # ignore these when comparing raw tag sequences between English and French.
+# Only truly parser-injected wrappers belong here; real content tags like
+# <div>, <p>, <hr> must be compared so that missing/extra tags are caught.
 _RAW_TAG_IGNORED = re.compile(
-    r"^</?(html|head|body|p|h1|link|div|hr)\b",
+    r"^</?(html|head|body|h1|link)\b",
     re.IGNORECASE,
 )
 
@@ -253,7 +279,7 @@ def _tag_seq(soup):
     return seq
 
 
-_FLEXIBLE_TAGS = {"highlight", "primary", "gloss", "pos", "meta"}
+_FLEXIBLE_TAGS = {"highlight", "primary", "gloss", "pos", "meta", "lookup"}
 
 
 def _dedup_flexible(seq):
@@ -353,15 +379,18 @@ def validate_html(orig_html, fr_html, txt_fr_content=None):
 
     # 7. French text content matches HTML (word-level diff via extract_text)
     if txt_fr_content is not None:
-        fr_extracted = _extract_visible_text(fr_html)
-        hunks = _word_diff(txt_fr_content, fr_extracted)
+        fr_extracted, reflink_texts = _extract_visible_text(fr_html)
+        hunks = _word_diff(txt_fr_content, fr_extracted,
+                           reflink_texts=reflink_texts)
         if hunks:
             # Check if the only differences are whitespace (e.g. tag
             # boundaries inserting spaces around punctuation).
             exp_nows = re.sub(r"\s+", "",
-                              _normalize_for_diff(txt_fr_content))
+                              _normalize_for_diff(txt_fr_content,
+                                                  reflink_texts))
             got_nows = re.sub(r"\s+", "",
-                              _normalize_for_diff(fr_extracted))
+                              _normalize_for_diff(fr_extracted,
+                                                  reflink_texts))
             if exp_nows == got_nows:
                 hunks.append(
                     "NOTE: whitespace-only difference — caused by "

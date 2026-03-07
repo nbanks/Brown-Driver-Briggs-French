@@ -523,9 +523,8 @@ def _save_entry_result(bdb_id: str, status: str, chash: str,
     if used_smart:
         parts.append("smart")
     # Record which model produced the final result
-    model = SMART_MODEL if used_smart else NORMAL_MODEL
-    if model:
-        parts.append(f"model={model}")
+    model = (SMART_MODEL if used_smart else NORMAL_MODEL) or "unknown"
+    parts.append(f"model={model}")
     # List failed/errata chunks by label
     def _label(idx):
         if chunk_labels is not None and idx < len(chunk_labels):

@@ -603,5 +603,110 @@ class TestDiffFormat(unittest.TestCase):
         self.assertIn("got:", msg, f"Missing 'got:' in: {msg}")
 
 
+class TestReflinkSymbolInBdbheb(unittest.TestCase):
+    """Reflink symbols (⅏, ᵐ5, ᵑ6, etc.) inside <bdbheb> are scholarly
+    abbreviation markers, not translatable content.  They are already
+    validated by the tag-preservation checks (#4).  When a translator
+    omits one from txt_fr, the text diff should not flag it — the symbol
+    is structural, not translated text.
+
+    Reproduces the BDB3490 false positive: the Samaritan source symbol ⅏
+    inside <bdbheb><reflink>⅏</reflink></bdbheb> appears in the HTML
+    extraction but not in txt_fr, causing a spurious diff.
+    """
+
+    # Simplified version of BDB3490
+    ORIG = (
+        '<html><head></head><body>'
+        '<language>Biblical Hebrew</language>'
+        '<p><bdbheb>\u05D9\u05D5\u05B9\u05D1</bdbheb> '
+        '<pos>proper name, masculine</pos> '
+        '<descrip>son of Issachar</descrip> '
+        '<ref ref="Gen 46:13" b="1" cBegin="46" vBegin="13" '
+        'cEnd="46" vEnd="13" onclick="bcv(1,46,13)">Gen 46:13</ref>, '
+        '<descrip>but read rather '
+        '<bdbheb>\u05D9\u05B8\u05E9\u05C1\u05D5\u05BC\u05D1</bdbheb>'
+        '</descrip> as '
+        '<lookup onclick="bdbabb(\'Sam\')">'
+        '<bdbheb><reflink>\u214F</reflink></bdbheb>'
+        '</lookup> '
+        '<ref ref="Num 26:24" b="4" cBegin="26" vBegin="24" '
+        'cEnd="26" vEnd="24" onclick="bcv(4,26,24)">Num 26:24</ref></p>'
+        '</body></html>'
+    )
+
+    FR = (
+        '<html><head></head><body>'
+        '<language>h\u00e9breu biblique</language>'
+        '<p><bdbheb>\u05D9\u05D5\u05B9\u05D1</bdbheb> '
+        '<pos>nom propre, masculin</pos> '
+        '<descrip>fils d\'Issacar</descrip> '
+        '<ref ref="Gen 46:13" b="1" cBegin="46" vBegin="13" '
+        'cEnd="46" vEnd="13" onclick="bcv(1,46,13)">Gn 46,13</ref>, '
+        '<descrip>mais lire plut\u00f4t '
+        '<bdbheb>\u05D9\u05B8\u05E9\u05C1\u05D5\u05BC\u05D1</bdbheb>'
+        '</descrip> comme '
+        '<lookup onclick="bdbabb(\'Sam\')">'
+        '<bdbheb><reflink>\u214F</reflink></bdbheb>'
+        '</lookup> '
+        '<ref ref="Num 26:24" b="4" cBegin="26" vBegin="24" '
+        'cEnd="26" vEnd="24" onclick="bcv(4,26,24)">Nb 26,24</ref></p>'
+        '</body></html>'
+    )
+
+    # txt_fr omits the ⅏ symbol (as the LLM translator did)
+    TXT_FR_WITHOUT_SYMBOL = (
+        "=== BDB3490 H3102 ===\n"
+        "h\u00e9breu biblique\n"
+        "\n"
+        "\u05D9\u05D5\u05B9\u05D1\n"
+        "nom propre, masculin\n"
+        "fils d'Issacar\n"
+        "Gn 46,13, mais\n"
+        "lire plut\u00f4t \u05D9\u05B8\u05E9\u05C1\u05D5\u05BC\u05D1 comme\n"
+        "\n"
+        "\n"
+        "\n"
+        "Nb 26,24\n"
+    )
+
+    # txt_fr includes the ⅏ symbol (correct)
+    TXT_FR_WITH_SYMBOL = (
+        "=== BDB3490 H3102 ===\n"
+        "h\u00e9breu biblique\n"
+        "\n"
+        "\u05D9\u05D5\u05B9\u05D1\n"
+        "nom propre, masculin\n"
+        "fils d'Issacar\n"
+        "Gn 46,13, mais\n"
+        "lire plut\u00f4t \u05D9\u05B8\u05E9\u05C1\u05D5\u05BC\u05D1 comme\n"
+        "\n"
+        "\u214F\n"
+        "\n"
+        "Nb 26,24\n"
+    )
+
+    def test_reflink_symbol_missing_from_txtfr_no_false_positive(self):
+        """⅏ in HTML but absent from txt_fr should not be a text diff error.
+
+        The symbol is inside <bdbheb><reflink>...</reflink></bdbheb> and
+        is validated by the tag/lookup preservation checks.  The text diff
+        should ignore it.
+        """
+        issues = validate_html(self.ORIG, self.FR, self.TXT_FR_WITHOUT_SYMBOL)
+        text_diff_issues = [i for i in issues
+                            if "expected:" in i and "got:" in i]
+        self.assertEqual(text_diff_issues, [],
+                         f"False positive from reflink symbol: {text_diff_issues}")
+
+    def test_reflink_symbol_present_in_txtfr_still_passes(self):
+        """When txt_fr correctly includes ⅏, validation should also pass."""
+        issues = validate_html(self.ORIG, self.FR, self.TXT_FR_WITH_SYMBOL)
+        text_diff_issues = [i for i in issues
+                            if "expected:" in i and "got:" in i]
+        self.assertEqual(text_diff_issues, [],
+                         f"False positive when symbol present: {text_diff_issues}")
+
+
 if __name__ == "__main__":
     unittest.main()
