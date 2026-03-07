@@ -293,6 +293,23 @@ def check_server(server_url: str):
         sys.exit(1)
 
 
+def query_model_name(server_url: str) -> str:
+    """Query the model name from an OpenAI-compatible /v1/models endpoint."""
+    try:
+        resp = requests.get(f"{server_url}/v1/models", timeout=5)
+        resp.raise_for_status()
+        data = resp.json()
+        # Try OpenAI format first (data[].id), then Ollama format (models[].name)
+        if "data" in data and data["data"]:
+            return data["data"][0].get("id", "unknown")
+        if "models" in data and data["models"]:
+            return data["models"][0].get("name", "unknown")
+    except (requests.ConnectionError, requests.Timeout, requests.HTTPError,
+            ValueError, KeyError, IndexError):
+        pass
+    return "unknown"
+
+
 def format_eta_suffix(status, elapsed, elapsed_times, items_left, parallel=1,
                       note=""):
     """Return formatted '  STATUS    12.3s avg= 8.5s ETA 2h01m' string."""

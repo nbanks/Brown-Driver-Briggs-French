@@ -32,8 +32,8 @@ from llm_common import (ContextOverflow, TokenLimitReached,
                          _USE_COLOR, _color_text,
                          check_clean_cache, check_server, combined_hash,
                          fmt_kb, record_completion, load_clean_cache,
-                         query_llm, run_pipeline, save_result,
-                         update_clean_cache)
+                         query_llm, query_model_name, run_pipeline,
+                         save_result, update_clean_cache)
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 ROOT = SCRIPT_DIR.parent
@@ -54,6 +54,10 @@ PROMPT_FILE = SCRIPT_DIR / "llm_html_assemble.md"
 # Column widths for aligned CSV output
 COL_FILENAME = 16
 COL_STATUS = 6
+
+# Model names, populated at startup by querying /v1/models
+NORMAL_MODEL = ""
+SMART_MODEL = ""
 
 
 # ---------------------------------------------------------------------------
@@ -515,8 +519,13 @@ def _save_entry_result(bdb_id: str, status: str, chash: str,
     if max_attempts > 1:
         parts.append(f"attempt {max_attempts}")
     # Flag if smart server was used (smart attempts are offset by dumb_retries)
-    if dumb_retries and max_attempts > dumb_retries:
+    used_smart = dumb_retries and max_attempts > dumb_retries
+    if used_smart:
         parts.append("smart")
+    # Record which model produced the final result
+    model = SMART_MODEL if used_smart else NORMAL_MODEL
+    if model:
+        parts.append(f"model={model}")
     # List failed/errata chunks by label
     def _label(idx):
         if chunk_labels is not None and idx < len(chunk_labels):
@@ -1745,6 +1754,12 @@ def main():
 
     check_server(args.server)
 
+    # Query model names from servers
+    global NORMAL_MODEL, SMART_MODEL
+    NORMAL_MODEL = query_model_name(args.server)
+    if args.smart_server:
+        SMART_MODEL = query_model_name(args.smart_server)
+
     # Wait for primary server warmup before processing begins.
     # Smart server warmup runs fully in background — it won't be needed
     # until after all primary retries fail on an entry.
@@ -1762,9 +1777,11 @@ def main():
           if system_prompt else
           f"  Prompt:      {prompt_path.name} (no system split)")
     print(f"  Log:         {RESULTS_FILE}")
-    print(f"  Normal:      {args.server} ({args.max_retries} retries)")
+    print(f"  Normal:      {args.server} ({args.max_retries} retries)"
+          f" [{NORMAL_MODEL}]")
     if args.smart_server:
-        print(f"  Smart:       {args.smart_server} ({args.smart_retries} retries)")
+        print(f"  Smart:       {args.smart_server} ({args.smart_retries} retries)"
+              f" [{SMART_MODEL}]")
     else:
         print(f"  Smart:       N/A")
     if args.blank_retries:
