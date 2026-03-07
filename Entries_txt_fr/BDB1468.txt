@@ -9,6 +9,7 @@ nom
 dame, reine, 1 R 11,19
 
 ## SPLIT 2 sense
+
 2. reine mère, 1 R 15,13 = 2 Ch 15,16
 ׳
 וַיְסִרֶהָ מִגּ

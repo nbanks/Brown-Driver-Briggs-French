@@ -7,6 +7,7 @@ verbe
 syriaque)) ; —
 
 ## SPLIT 1 stem
+
 Qal
 Parfait
 ׳
@@ -36,6 +37,7 @@ Ez 16,42
 avec אֶל personne 2 Ch 16,10.
 
 ## SPLIT 2 stem
+
 Pi`el.
 Parfait 3 féminin singulier suffixe כִּעֲסַתָּה
 1 S 1,6 3
@@ -43,9 +45,8 @@ masculin pluriel suffixe כִּעֲסוּנִי
 Dt 32,21
 provoquer à la colère.
 
->
-
 ## SPLIT 3 stem
+
 Hiph`il
 Parfait
 הִכְעִיס

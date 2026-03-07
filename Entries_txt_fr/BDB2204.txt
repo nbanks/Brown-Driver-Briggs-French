@@ -7,7 +7,7 @@ Nb 23,9 ; Nb 23,24 ; Jb 8,19 ; Jb 8,20 ; Jb 13,1 ; Jb 26,14 ; Jb 33,6 ; Jb 33,12
 Jb 13,15 ;
 Jb 36,30 ;
 Jb 41,1 +)
-démonstratif> adverbe ou interjection
+adverbe démonstratif ou interjection
 voici ! (sur l'étymologie voir
 הִנֵּה
 ), moins largement utilisé que הִנֵּה, et en prose surtout limité à attirer l'attention sur

@@ -6,6 +6,7 @@ masculin, חֲמִישִׁית féminin adjectif nombre ordinal
 cinquième ; —
 
 ## SPLIT 1 sense
+
 masculin
 חֲמִישִׁי
 Gn 1,23 + 22 t. ;
@@ -32,6 +33,8 @@ Gn 1,23 ; Gn 30,17,
 féminin
 Gn 47,24 ; 1 R 6,31 ; Ne 6,5 —
 
+## SPLIT 2 sense
+
 1.
 masculin
 Gn 1,23 ; Nb 7,36 ; Nb 29,26 ; Nb 33,38 ; Jos 19,24 (tous
@@ -47,6 +50,8 @@ E
 בֵּן), 1 Ch 24,9 ; 1 Ch 25,12 (גּוֺרָל), Za 8,19 (חֹדֶשׁ), 1 Ch 27,8 (
 יוֺם).
 
+## SPLIT 3 sense
+
 2.
 féminin
 Lv 19,25 ; 1 R 14,25 ;
@@ -54,6 +59,8 @@ Jr 36,9 ; Ez 1,2 ; 2 Ch 12,2
 ׳
 פַּעַם ח
 Ne 6,5.
+
+## SPLIT 4 sense
 
 3.
 חֲמִשִּׁית
@@ -64,4 +71,3 @@ Gn 47,24 ; Lv 5,6 ; Lv 5,24 ; Lv 22,14 ; Lv 27,13 ; Lv 27,27 ; Lv 27,31 ; Nb 5,7
 Lv 27,15 ; Lv 27,19.
 
 ---
-
