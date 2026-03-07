@@ -1,9 +1,9 @@
 === BDB8868 H8105 H8106 ===
 hébreu biblique
 
-II. [שֶׁ֫מֶר] nom masculin
+II. [שֶׁ֫מֶר] nom masculin^
 Es 25,6
-seulement pluriel lie, dépôt (figuré) ; — absolu שְׁמָרִים
+^ seulement pluriel lie, dépôt (figuré) ; — absolu שְׁמָרִים
 Es 25,6 (deux fois dans le
 verset) (dans les deux cas = vin mûri en reposant sans être dérangé sur sa lie) ;
 suffixe שֹׁקֵט הוּא אֶלשְֿׁמָרָיו

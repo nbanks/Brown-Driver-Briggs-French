@@ -53,7 +53,7 @@ b. = ordinal
 שְׁנַת שֵׁשׁ לְחִזְק
 2 R 18,10
 (
-Ges «GKC:134o»§ 134o).
+Ges^«GKC:134o»§ 134o^).
 
 ## SPLIT 2 sense
 2. 16, avec nom féminin : שֵׁשׁ עֶשְׂרֵה, devant נָ֑פֶשׁ

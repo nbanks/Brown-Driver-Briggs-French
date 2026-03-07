@@ -1,7 +1,7 @@
 === BDB4391 H3898 ===
 hébreu biblique
 
-I. [לָחַם]
+I. [לָחַם]_171_
 verbe
 combattre, livrer bataille (hébreu tardif Hithpa`el ; ואלתחם
 
@@ -28,7 +28,7 @@ Ps 56,3
 combattant contre moi ; לֹחֵם Ps 56,2 comme substantif combattant.
 
 ## SPLIT 2 stem
-Niph`al
+Niph`al_167_
 Parfait
 נִלְחַם
 Jg 9,17 +,

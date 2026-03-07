@@ -1,7 +1,7 @@
 === BDB3931 H3548 ===
 hébreu biblique
 
-כֹּהֵן
+כֹּהֵן_750_
 nom masculin
 prêtre (hébreu tardif כֹּהֵן ; araméen כָּהֵין, כַּהֲנָא
 ,

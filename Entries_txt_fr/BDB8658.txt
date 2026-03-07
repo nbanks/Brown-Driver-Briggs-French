@@ -2,9 +2,9 @@
 hébreu biblique
 
 מִשְׁכָּב_46_
-nom masculin
+nom masculin^
 Lv 15,4
-lieu où l'on se couche, couche ; acte de se coucher ; — absolu
+^ lieu où l'on se couche, couche ; acte de se coucher ; — absolu
 ׳
 מ
 1 R 1,47 +,
@@ -42,8 +42,8 @@ J
 ; Es 57,8
 (deux fois dans le verset) ; Pr 7,17 comme lieu de sépulture Es 57,2 ; Ez 32,25 ; 2 Ch 16,14 (voir
 ׳
-מ Inscription Tabnit 8 et peut-être inscription juive
-Cooke 341).
+מ Inscription Tabnit^8^ et peut-être inscription juive
+Cooke^341^).
 
 ## SPLIT 2 sense
 2.

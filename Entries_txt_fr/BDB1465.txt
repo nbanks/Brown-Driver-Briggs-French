@@ -1,7 +1,7 @@
 === BDB1465 H1368 ===
 hébreu biblique
 
-גִּבּוֺר
+גִּבּוֺר_159_
 adjectif
 fort, puissant (comparer arabe
 [placeholder797: Placeholders/797.gif]
@@ -75,7 +75,7 @@ et autres ; mais
 
 ᵐ5
 
-
+^L^
 
 ὁ ἄνθρωπος ἦν
 λεπός, comparer aussi l'émendation douteuse de Klo), 1 Ch 12,28 ;

@@ -48,6 +48,11 @@ Les **attributs** `<ref>` gardent toujours l'anglais (`ref="1Chr 7:16"`) ; seul 
 5. **Typographie française** : espace avant ` ;` ` :` ` ?` ` !`, guillemets `« texte »`.
 6. **Éditions savantes** : `2e éd.`, `3e éd.` depuis le français — ne pas revenir à l'anglais.
 7. **L'ordre des mots français prime sur l'ordre des balises anglaises.** Quand le français change l'ordre des mots autour d'un élément balisé, **déplacez la balise** pour que le texte visible corresponde au texte français traduit. Ne gardez pas l'ordre anglais des balises si cela produit un texte visible dans le mauvais ordre. Voir l'exemple 4 ci-dessous.
+8. **Ne pas ajouter d'espace blanc là où l'original n'en a pas.** Ne reformatez pas le HTML — préservez les sauts de ligne et l'indentation de l'original. Si une balise fermante (`</sup>`, `</lookup>`, etc.) est collée au texte qui suit (ex. `</sup>)`), gardez-la collée. Un saut de ligne avant `)`, `,`, `;` crée une espace parasite dans le texte visible. Exemples :
+   - ❌ `DHM<sup>ZMG 1875, 607</sup>\n)` → texte visible `607 )` (espace parasite)
+   - ✅ `DHM<sup>ZMG 1875, 607</sup>)` → texte visible `607)` (correct)
+   - ❌ `Dl<sup>Pr 170</sup>\n, sabéen` → texte visible `170 , sabéen` (espace parasite)
+   - ✅ `Dl<sup>Pr 170</sup>, sabéen` → texte visible `170, sabéen` (correct)
 
 ## Exemples
 

@@ -1,9 +1,9 @@
 === BDB3669 H3326 ===
 hébreu biblique
 
-[יָצִיעַ] nom masculin
+[יָצִיעַ] nom masculin^
 1 R 6,10
-seulement
+^ seulement
 Qr
 , proprement surface plate, seulement de l'étage inférieur en saillie du temple, יָצִו֯עַ
 
@@ -13,7 +13,7 @@ la chambre latérale, comme
 
 ᵐ5
 
-Bö§ 658
+Bö^§ 658^
 Sta^ZAW 1883, 136^, voir aussi 1 R 6,5 1 R 6,8 ; Ez 41,5 ; Ez 41,6.
 
 ---

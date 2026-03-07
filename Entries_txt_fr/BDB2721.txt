@@ -2,9 +2,9 @@
 hébreu biblique
 
 חַיִּים
-nom masculin
+nom masculin^
 Dt 28,66
-pluriel abstrait emphatique
+^ pluriel abstrait emphatique
 vie, ׳
 ח
 Gn 2,7 + ;

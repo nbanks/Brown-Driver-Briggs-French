@@ -7,7 +7,7 @@ chapons
 Ki, oies (d'après leurs plumes d'un blanc pur)
 
 ᵑ7
-Jer
+^Jer^
 
 Thes, cygnes
 Ew, pintades
@@ -19,10 +19,11 @@ RV
 (ברברי = ינשׁוף oiseaux aquatiques Lv 11,17
 
 ᵑ7
-
+^
 
 ⅏
 
+^
 ).
 
 ---

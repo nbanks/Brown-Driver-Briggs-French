@@ -1,7 +1,7 @@
 === BDB7718 H702 H706 ===
 hébreu biblique
 
-I. אַרְבַּע, אַרְבָּעָה
+I. אַרְבַּע, אַרְבָּעָה_316_
 nom masculin et féminin
 quatre (hébreu tardif = hébreu biblique ;
 MI^8^
@@ -23,7 +23,7 @@ Hom^Chrest. 47^ ; éthiopien
 [placeholder4943: Placeholders/4943.gif],
 [placeholder4944: Placeholders/4944.gif] ; nabatéen ארבע, palmyrénien ארבע, ארבעא,
 Lzb^367^) ; —
-masculin (c. nom féminin) אַרְבַּע (absolu ou construit)
+masculin_148_ (c. nom féminin) אַרְבַּע (absolu ou construit)
 Ex 21,37 + ;
 aussi אַרְבַּ֑ע
 Lv 11,20 + ;

@@ -2,9 +2,9 @@
 hébreu biblique
 
 שׁוֺר_78_
-nom masculin
+nom masculin^
 Ne 5,18
-une tête de bétail, taureau, bœuf, etc. (souvent + חֲמוֺר, שֶׂה
+^ une tête de bétail, taureau, bœuf, etc. (souvent + חֲמוֺר, שֶׂה
 , etc.) ; —
 ׳שׁ absolu Es 1,3 +, construit Ex 21,35 +, suffixe שׁוֺרוֺ
 Ex 20,17 +,
@@ -58,7 +58,7 @@ J
 ), 1 S 15,3
 ; 1 S 22,19
 comme abattu
-Pr 7,22, pour la nourriture 1 S 14,34 (deux fois dans le verset) (mais v b lire (אֶתֿ)אֲשֶׁר
+Pr 7,22, pour la nourriture 1 S 14,34 (deux fois dans le verset) (mais v^b^ lire (אֶתֿ)אֲשֶׁר
 avec
 
 ᵐ5
@@ -71,7 +71,7 @@ H
 5,18 (אֶחָד
 ׳שׁ), Pr 15,17 pour le sacrifice Jg 6,25 (
 ׳פַּרהַֿשּׁ, texte étrange, comparer GFM), Ps 69,32 (
-שׁוֺר פָּר, mais joindre פָּר au v b
+שׁוֺר פָּר, mais joindre פָּר au v^b^
 Bae), 2 S 6,13 ; Os 12,12 ; Lv 9,4 ; Lv 9,18 (
 P
 ), Lv 22,23

@@ -1,7 +1,7 @@
 === BDB7988 H7458 ===
 hébreu biblique
 
-רָעָב
+רָעָב_101_
 nom masculin^
 Gn 26,1
 ^

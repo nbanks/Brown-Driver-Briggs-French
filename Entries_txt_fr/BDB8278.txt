@@ -2,8 +2,9 @@
 hébreu biblique
 
 שֵׂעָר_27_
-nom masculin
+nom masculin^
 Lv 13,3
+^
 cheveu, poil ; — absolu
 ׳
 שׂ
@@ -11,14 +12,14 @@ Gn 25,25 +,
 construit שְׂעַר
 Jg 16,22 +,
 שַׂ֫עַר
-Es 7,20 (Ges«GKC:93hh»§ 93hh
-Kö ii. 1. 78) ; suffixe שְׂעָרֵךְ
+Es 7,20 (Ges^«GKC:93hh»§ 93hh^
+Kö^ii. 1. 78^) ; suffixe שְׂעָרֵךְ
 Ez 16,7,
 שַׂעֲרֵךְ
-Ct 4,1 ; Ct 6,5 (Kö l.c.) ; שְׂעָרוֺ
+Ct 4,1 ; Ct 6,5 (Kö^l.c^.) ; שְׂעָרוֺ
 Lv 14,8 +,
 שְׂעָרָהּ Lv 14,20, שְׂעָרָהֿ Lv 14,4 (Ges
-«GKC:91e»§ 91e) ; — cheveu, poil :
+^«GKC:91e»§ 91e^) ; — cheveu, poil :
 
 ## SPLIT 1 sense
 1. d'animaux, comme matière,

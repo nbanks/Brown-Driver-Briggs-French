@@ -1,7 +1,7 @@
 === BDB3511 H3162 ===
 hébreu biblique
 
-יַ֫חַד
+יַ֫חַד_45_
 nom [masculin]
 union.
 
