@@ -1,0 +1,23 @@
+{
+    "head_word": "צאֹן",
+    "pos": "nom collectif féminin",
+    "primary": "petit bétail, moutons et chèvres, troupeau, troupeaux",
+    "description": "littéral",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "littéral"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "comparaison de multitude"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "métaphore de multitude"
+        }
+    ]
+}

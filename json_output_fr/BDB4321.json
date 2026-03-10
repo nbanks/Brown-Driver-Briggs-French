@@ -1,0 +1,28 @@
+{
+    "head_word": "לָבֵשׁ",
+    "pos": "verbe",
+    "primary": "revêtir (un vêtement), porter, vêtir, être vêtu",
+    "description": "littéralement revêtir (son propre) vêtement (accusatif)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "littéralement revêtir (son propre) vêtement (accusatif)"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "habituellement avec double accusatif"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "avec accusatif du vêtement seulement"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "avec accusatif de la personne seulement"
+        }
+    ]
+}

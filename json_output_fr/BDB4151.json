@@ -1,0 +1,28 @@
+{
+    "head_word": "כַּף",
+    "pos": "nom féminin",
+    "primary": "creux ou plat de la main, paume, plante du pied, cassolette",
+    "description": "des êtres humains",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "des êtres humains"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "= pouvoir (c.-à-d. emprise) de quelqu'un"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "רַגְלָהּכַּף, etc., = plante du pied"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "de divers objets creux, courbés ou recourbés"
+        }
+    ]
+}

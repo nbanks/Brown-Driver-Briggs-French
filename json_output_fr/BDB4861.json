@@ -1,0 +1,23 @@
+{
+    "head_word": "מָשַׁח",
+    "pos": "verbe",
+    "primary": "enduire, oindre",
+    "description": "comme consécration, mise à part solennelle pour une fonction, toujours par l'usage d'huile versée sur la tête",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "comme consécration, mise à part solennelle pour une fonction, toujours par l'usage d'huile versée sur la tête"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "oindre, consacrer au service religieux"
+        }
+    ]
+}

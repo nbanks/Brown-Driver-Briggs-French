@@ -1,0 +1,28 @@
+{
+    "head_word": "פָּרַע",
+    "pos": "verbe",
+    "primary": "lâcher, laisser aller",
+    "description": "le peuple, c.-à-d. lever la contrainte sur eux",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "le peuple, c.-à-d. lever la contrainte sur eux"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "= éviter"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "head_word": "חֲמוֺר",
+    "pos": "nom masculin",
+    "primary": "âne (mâle)",
+    "description": "(âne mâle ; אתון = ânesse)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "comme propriété (de valeur), avec bœufs, moutons, chameaux, esclaves, etc."
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "utilisé pour monter"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "bête de somme"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "utilisé pour le labour"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "les parties du corps de l'âne mentionnées sont"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "sépulture d'un âne, en figure d'un traitement ignominieux d'un cadavre"
+        }
+    ]
+}

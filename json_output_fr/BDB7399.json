@@ -1,0 +1,18 @@
+{
+    "head_word": "קָטֹן",
+    "pos": "adjectif",
+    "primary": "petit, insignifiant",
+    "description": "spécialement",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "spécialement"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "= sans importance"
+        }
+    ]
+}

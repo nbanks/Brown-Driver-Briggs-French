@@ -1,0 +1,43 @@
+{
+    "head_word": "יוֺם",
+    "pos": "nom masculin",
+    "primary": "jour",
+    "description": "opposé à nuit",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "opposé à nuit"
+        },
+        {
+            "number": 2,
+            "primary": "sont combinés",
+            "description": "comme division du temps"
+        },
+        {
+            "number": 3,
+            "primary": "sont combinés",
+            "description": "jour de Yahvé, principalement comme temps de sa venue en jugement, impliquant souvent la bénédiction pour les justes"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "pluriel jours de quelqu'un"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "= temps"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "expressions, sans préposition et avec, sont"
+        }
+    ]
+}

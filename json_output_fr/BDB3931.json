@@ -1,0 +1,48 @@
+{
+    "head_word": "כֹּהֵן",
+    "pos": "nom masculin",
+    "primary": "prêtre",
+    "description": "prêtre-roi",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "prêtre-roi"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "de religions autres que celle de ׳ י : Potiphéra אֹן ׳ כ Gn 41,45 ; Gn 41,50 (E), Gn 46,20 (P) ; égyptien כהנים Gn 47,22 (deux fois dans le verset) ; Gn 47,26 (J) ; דָגוֺן ׳ כ 1 S 5,5 philistin כהנים וקסמים 1 S 6,2 כֹּהֲנָיו ses prêtres : p. ex. de Baal 2 R 10,19 = d'Achab 2 R 10,11 de Kemosh Jr 48,7 de Malcam Jr 49,3 Mattân était הבעל ׳ כ 2 R 11,18 = 2 Ch 23,17 הכמרים עם הכהנים So 1,4 Josias brûla les ossements des prêtres des Baals et des Ashérim 2 Ch 34,5."
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "d'ordres spéciaux en Israël"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "en Israël"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "prêtres lévitiques"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "prêtres sadocites"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "prêtres aaronides."
+        },
+        {
+            "number": 8,
+            "primary": "pour désigner le prêtre qui était à la tête des affaires sacerdotales",
+            "description": "le grand prêtre"
+        }
+    ]
+}

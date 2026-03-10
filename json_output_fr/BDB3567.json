@@ -1,0 +1,53 @@
+{
+    "head_word": "יָם",
+    "pos": "nom masculin",
+    "primary": "mer",
+    "description": "יַםסֿוּף « mer Rouge »",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "יַםסֿוּף « mer Rouge »"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "mer Morte, יָם מֶלַח mer de sel"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "mer de Galilée יָם כִּנֶּרֶת"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "plus généralement mer, opposée à terre et (ou) ciel"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "le grand bassin dans le parvis du temple, appelé la mer"
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "les combinaisons sont"
+        },
+        {
+            "number": 9,
+            "primary": null,
+            "description": "= ouest, vers l'ouest (à l'origine vers la mer, d'après la position de la Méditerranée par rapport à la Palestine, et ce sens est encore souvent perceptible)"
+        }
+    ]
+}

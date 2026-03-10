@@ -1,0 +1,23 @@
+{
+    "head_word": "חָלָץ",
+    "pos": "nom [féminin]",
+    "primary": "reins",
+    "description": "seulement duel",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "comme siège de la virilité"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "comme ceints"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "comme siège des douleurs"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "head_word": "סֹפֵר",
+    "pos": "nom masculin",
+    "primary": "dénombreur, officier de recensement, secrétaire, scribe",
+    "description": "fonctionnaire du roi =",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "fonctionnaire du roi ="
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "classe professionnelle d'hommes instruits, « scribes » capables de lire et d'écrire"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "spécifiquement d'Esdras, à la fois prêtre (כֹּהֵן) et versé dans la loi (סֹפֵר)"
+        }
+    ]
+}

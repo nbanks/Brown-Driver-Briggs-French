@@ -1,0 +1,58 @@
+{
+    "head_word": "לֵב",
+    "pos": "nom masculin",
+    "primary": "homme intérieur, esprit, volonté, cœur",
+    "description": "rarement des choses",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "par contraste avec l'extérieur"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "indéfini, âme, comprenant l'esprit, les affections et la volonté, avec une accentuation occasionnelle de l'un ou l'autre au moyen de certains verbes"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "référence spécifique à l'esprit :"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "référence spécifique aux inclinations, résolutions et déterminations de la volonté"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "référence spécifique à la conscience"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "référence spécifique au caractère moral"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "pour l'homme lui-même"
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "comme siège des appétits"
+        },
+        {
+            "number": 9,
+            "primary": null,
+            "description": "comme siège des émotions et des passions :"
+        },
+        {
+            "number": 10,
+            "primary": null,
+            "description": "siège du courage"
+        }
+    ]
+}

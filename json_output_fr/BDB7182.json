@@ -1,0 +1,28 @@
+{
+    "head_word": "מִצְפָּה",
+    "pos": "nom propre [d'un lieu]",
+    "primary": null,
+    "description": "en Galaad, explication comme nom donné au cairn de Laban, au nord du Yabboq",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "en Galaad, explication comme nom donné au cairn de Laban, au nord du Yabboq"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "probablement au sud du Yabboq"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "près de l'Hermon"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "ancien lieu sacré en Benjamin"
+        }
+    ]
+}

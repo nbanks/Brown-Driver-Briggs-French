@@ -1,0 +1,23 @@
+{
+    "head_word": "זָרַע",
+    "pos": "verbe",
+    "primary": "semer, disperser la semence",
+    "description": "au sens propre",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "au sens propre"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "d'un arbuste et d'un arbre produisant, donnant de la semence, avec accusatif de sens apparenté au verbe"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "figuré"
+        }
+    ]
+}

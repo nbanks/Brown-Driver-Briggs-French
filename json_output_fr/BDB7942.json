@@ -1,0 +1,23 @@
+{
+    "head_word": "רְכוּשׁ",
+    "pos": "nom masculin",
+    "primary": "propriété, biens",
+    "description": null,
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "biens meubles, bétail, etc."
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "biens en général"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "biens, richesses"
+        }
+    ]
+}

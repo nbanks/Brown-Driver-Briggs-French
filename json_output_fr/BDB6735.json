@@ -1,0 +1,28 @@
+{
+    "head_word": "פְּקֻדָּה",
+    "pos": "nom féminin",
+    "primary": "surveillance, dénombrement, visite, réserve",
+    "description": "= châtiment",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "= châtiment"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "= fonction"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "choses mises en réserve"
+        }
+    ]
+}

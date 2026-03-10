@@ -1,0 +1,23 @@
+{
+    "head_word": "טֶ֫רֶם",
+    "pos": "adverbe [de temps]",
+    "primary": "pas encore, avant que",
+    "description": "construit principalement avec l'imparfait",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "dans une phrase indépendante"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "avec la même valeur"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "avant qu'une pierre soit posée sur une autre, etc."
+        }
+    ]
+}

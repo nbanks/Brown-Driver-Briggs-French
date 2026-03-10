@@ -1,0 +1,68 @@
+{
+    "head_word": "שָׁלַח",
+    "pos": "verbe",
+    "primary": "envoyer",
+    "description": "sujet humain",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "sujet humain"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "sujet ׳ י (Dieu)"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "peut-être étendre, diriger"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "rarement renvoyer (voir Pi`el)"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "(voir Pi`el)"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "sujet humain"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 9,
+            "primary": "comparer de boucles",
+            "description": null
+        },
+        {
+            "number": 10,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 11,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 12,
+            "primary": null,
+            "description": "expressions"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "head_word": "הַגְרִי",
+    "pos": "nom propre [d'un peuple]",
+    "primary": null,
+    "description": "une tribu (araméenne ? arabe ?) contre laquelle les Israélites de Transjordanie firent une guerre victorieuse",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "une tribu (araméenne ? arabe ?) contre laquelle les Israélites de Transjordanie firent une guerre victorieuse"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "d'un officier de David"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "père d'un des guerriers de David"
+        }
+    ]
+}

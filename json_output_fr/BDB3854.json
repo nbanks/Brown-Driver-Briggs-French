@@ -1,0 +1,33 @@
+{
+    "head_word": "יֶ֫תֶר",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "père de la femme de Moïse",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "père de la femme de Moïse"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "fils aîné de Gédéon"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "père d'Amasa"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "hommes de Juda"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "un homme d'Aser"
+        }
+    ]
+}

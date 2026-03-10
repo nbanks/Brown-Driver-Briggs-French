@@ -1,0 +1,33 @@
+{
+    "head_word": "עֲרָבָה",
+    "pos": "nom féminin",
+    "primary": "plaine désertique, steppe",
+    "description": "steppe aride à l'ouest de la mer Morte (dans le sud de Juda)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "steppe aride à l'ouest de la mer Morte (dans le sud de Juda)"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "en particulier de la plaine de Transjordanie"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "(Transjordanie)"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "apparemment le désert du nord de l'Arabie"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "en général la steppe (souvent ‖ מִדְבָּר)"
+        }
+    ]
+}

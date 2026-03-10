@@ -1,0 +1,23 @@
+{
+    "head_word": "שָׂכָר",
+    "pos": "nom masculin",
+    "primary": "salaire, gages",
+    "description": "seulement singulier, pas avec l'article",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "= récompense, pour le travail accompli, la fidélité, etc."
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

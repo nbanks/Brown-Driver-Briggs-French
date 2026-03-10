@@ -1,0 +1,33 @@
+{
+    "head_word": "וְ",
+    "pos": "adverbe démonstratif",
+    "primary": "ainsi, alors, et",
+    "description": "reliant à la fois des mots (voir ci-dessus) et des phrases",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "reliant à la fois des mots (voir ci-dessus) et des phrases"
+        },
+        {
+            "number": 2,
+            "primary": "consécutif",
+            "description": "Le ו consécutif (autrefois appelé le Waw « conversif »)"
+        },
+        {
+            "number": 3,
+            "primary": "que",
+            "description": "Avec un volontatif (cohortatif ou jussif) וְ exprime une intention, que ou de sorte que"
+        },
+        {
+            "number": 4,
+            "primary": "ainsi, alors",
+            "description": "Il exprime souvent une inférence ou conséquence informelle, ainsi, alors, surtout au début d'un discours"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "introduit le prédicat ou l'apodose"
+        }
+    ]
+}

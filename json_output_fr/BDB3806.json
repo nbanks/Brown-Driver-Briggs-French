@@ -1,0 +1,28 @@
+{
+    "head_word": "יְשׁוּעָה",
+    "pos": "nom féminin",
+    "primary": "salut",
+    "description": "par Dieu, principalement des maux extérieurs, mais souvent avec une idée spirituelle ajoutée",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "par Dieu, principalement des maux extérieurs, mais souvent avec une idée spirituelle ajoutée"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

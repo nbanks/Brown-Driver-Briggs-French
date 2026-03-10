@@ -1,0 +1,93 @@
+{
+    "head_word": "קָּדַשׁ",
+    "pos": "verbe",
+    "primary": "être mis à part, consacré",
+    "description": "sanctifié",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "sanctifié"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "par contact avec des choses sacrées, et donc interdit à l'usage profane, ou confisqué au profit du sanctuaire"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "lieux"
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 9,
+            "primary": null,
+            "description": "Dieu"
+        },
+        {
+            "number": 10,
+            "primary": null,
+            "description": "par purification"
+        },
+        {
+            "number": 11,
+            "primary": null,
+            "description": "lieux"
+        },
+        {
+            "number": 12,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 13,
+            "primary": null,
+            "description": "par purification"
+        },
+        {
+            "number": 14,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 15,
+            "primary": null,
+            "description": "de Dieu"
+        },
+        {
+            "number": 16,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 17,
+            "primary": null,
+            "description": "par purification"
+        }
+    ]
+}

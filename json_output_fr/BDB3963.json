@@ -1,0 +1,28 @@
+{
+    "head_word": "כִּיֹּר",
+    "pos": "nom masculin",
+    "primary": "pot, bassin",
+    "description": "bassin d'airain pour les ablutions",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "bassin d'airain pour les ablutions"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "estrade ou plateforme d'airain (probablement ronde, en forme de coupe) sur laquelle, selon les Chroniques, Salomon se tint debout et s'agenouilla"
+        }
+    ]
+}

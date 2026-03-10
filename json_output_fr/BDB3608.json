@@ -1,0 +1,33 @@
+{
+    "head_word": "מוֺעֵד",
+    "pos": "nom masculin",
+    "primary": "temps fixé, lieu, rencontre",
+    "description": "אֹהֶל מוֺעֵד tente de la rencontre",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": "la tente sacrée de l'Exode",
+            "description": "אֹהֶל מוֺעֵד tente de la rencontre"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "head_word": "עַ֫יִן",
+    "pos": "nom féminin",
+    "primary": "œil",
+    "description": "littéralement comme organe physique",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "comme s'affaiblissant",
+            "description": "littéralement comme organe physique"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "les yeux comme montrant des qualités mentales"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "figuré des facultés, actes et états mentaux et spirituels"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "sens dérivés"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "autres expressions"
+        }
+    ]
+}

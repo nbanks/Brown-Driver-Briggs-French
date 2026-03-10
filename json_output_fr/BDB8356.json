@@ -1,0 +1,28 @@
+{
+    "head_word": "שֶׁ",
+    "pos": "particule relative",
+    "primary": "qui, lequel, que, etc.",
+    "description": "Dans l'usage, שֶּׁ est dans l'ensemble parallèle à אֲשֶׁר",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "comme pronom"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "comme lien de connexion ; ="
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "comme conjonction"
+        },
+        {
+            "number": 4,
+            "primary": "marque du génitif : trois fois",
+            "description": "composés"
+        }
+    ]
+}

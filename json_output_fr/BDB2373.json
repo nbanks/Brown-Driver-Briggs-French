@@ -1,0 +1,28 @@
+{
+    "head_word": "זָלַל",
+    "pos": "verbe",
+    "primary": "être léger, sans valeur",
+    "description": "transitif faire peu de cas de = être prodigue de, gaspiller (comparer II. זוּל)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "être léger, sans valeur",
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": "faire peu de cas de",
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "transitif faire peu de cas de = être prodigue de, gaspiller (comparer II. זוּל)"
+        }
+    ]
+}

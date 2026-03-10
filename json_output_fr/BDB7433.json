@@ -1,0 +1,33 @@
+{
+    "head_word": "קִיר",
+    "pos": "nom masculin",
+    "primary": "mur, paroi",
+    "description": "surtout comme surface plane",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "comme enceinte",
+            "description": "généralement d'une maison ou d'une chambre"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "plus généralement"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "du côté plat de l'autel"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "parois de mon cœur (comme siège de la douleur)"
+        }
+    ]
+}

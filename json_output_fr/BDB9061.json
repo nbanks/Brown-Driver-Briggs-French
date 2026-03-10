@@ -1,0 +1,18 @@
+{
+    "head_word": "שָׁרַת",
+    "pos": "verbe",
+    "primary": "servir, officier",
+    "description": "du service ministériel (opposé au service subalterne, עבד)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "du service ministériel (opposé au service subalterne, עבד)"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "habituellement du service spécial dans le culte"
+        }
+    ]
+}

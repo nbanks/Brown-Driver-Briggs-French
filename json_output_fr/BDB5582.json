@@ -1,0 +1,23 @@
+{
+    "head_word": "סֻכָּה",
+    "pos": "nom féminin",
+    "primary": "fourré, hutte",
+    "description": "proprement de branches entrelacées",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "abri rudimentaire ou temporaire"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "spécifiquement des huttes, faites de branches, dans lesquelles on vivait à la fête de la moisson"
+        }
+    ]
+}

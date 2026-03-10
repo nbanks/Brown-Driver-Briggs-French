@@ -1,0 +1,23 @@
+{
+    "head_word": "מִכְתָּב",
+    "pos": "nom masculin",
+    "primary": "écriture",
+    "description": "= écriture manuscrite",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "= écriture manuscrite"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "= chose écrite"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "dans un titre"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "head_word": "עַד",
+    "pos": "préposition",
+    "primary": "jusqu'à",
+    "description": "de lieu",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "de lieu"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "עַדדִּֿי jusqu'à ce que"
+        }
+    ]
+}

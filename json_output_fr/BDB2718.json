@@ -1,0 +1,28 @@
+{
+    "head_word": "חַיָּה",
+    "pos": "nom féminin",
+    "primary": "être vivant, animal",
+    "description": "en tant qu'être vivant et actif",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "en tant qu'être vivant et actif"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "seulement dans la poésie tardive"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "activité de la faim"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

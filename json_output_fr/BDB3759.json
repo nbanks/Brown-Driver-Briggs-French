@@ -1,0 +1,48 @@
+{
+    "head_word": "יָרַשׁ",
+    "pos": "verbe",
+    "primary": "prendre possession de, hériter, déposséder",
+    "description": "prendre possession de, spécialement par la force, avoir en possession, souvent avec l'idée connexe de prendre la place d'autrui, succéder à, hériter (comparer 2)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "prendre possession de, spécialement par la force, avoir en possession, souvent avec l'idée connexe de prendre la place d'autrui, succéder à, hériter (comparer 2)"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "suivi de l'accusatif de la personne = être l'héritier de quelqu'un"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "= appauvrir"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "faire posséder ou hériter (à d'autres), puis généralement déposséder"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "= appauvrir"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "presque = mener à la ruine, détruire"
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "= Qal prendre possession de"
+        }
+    ]
+}

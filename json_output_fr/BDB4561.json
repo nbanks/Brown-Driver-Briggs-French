@@ -1,0 +1,58 @@
+{
+    "head_word": "מוּת",
+    "pos": "verbe",
+    "primary": "mourir",
+    "description": "de causes naturelles ou autres",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "de causes naturelles ou autres"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "comme peine = être mis à mort :"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "sujet homme"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "sujet Dieu"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "des animaux tuant des hommes"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "provoquer une mort prématurée"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "par complot"
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "par peine capitale"
+        },
+        {
+            "number": 9,
+            "primary": null,
+            "description": "par châtiment divin"
+        },
+        {
+            "number": 10,
+            "primary": null,
+            "description": "mourir prématurément"
+        }
+    ]
+}

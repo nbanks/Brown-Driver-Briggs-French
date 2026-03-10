@@ -1,0 +1,33 @@
+{
+    "head_word": "אֶ֫רֶץ",
+    "pos": "nom féminin",
+    "primary": "terre, pays",
+    "description": "terre entière (par opposition à une partie)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "terre entière (par opposition à une partie)"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "dans des locutions"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "désigne des terres, des pays, souvent par contraste avec Canaan"
+        }
+    ]
+}

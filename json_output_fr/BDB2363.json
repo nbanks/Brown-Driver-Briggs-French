@@ -1,0 +1,68 @@
+{
+    "head_word": "זְכַרְיָהוּ",
+    "pos": "nom propre, masculin",
+    "primary": "le prophète bien connu",
+    "description": "roi d'Israël, fils de Jéroboam II",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "roi d'Israël, fils de Jéroboam II"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "père de la mère d'Ézéchias"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "contemporain d'Ésaïe"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "un Rubénite"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "un Benjaminite"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "un Manassite"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "un fils de Josaphat"
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "un capitaine de Josaphat"
+        },
+        {
+            "number": 9,
+            "primary": null,
+            "description": "maître d'Ozias"
+        },
+        {
+            "number": 10,
+            "primary": null,
+            "description": "Lévites"
+        },
+        {
+            "number": 11,
+            "primary": "le prophète bien connu",
+            "description": "prêtres"
+        },
+        {
+            "number": 12,
+            "primary": null,
+            "description": "exilés de retour"
+        }
+    ]
+}

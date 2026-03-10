@@ -1,0 +1,23 @@
+{
+    "head_word": "עֵדָה",
+    "pos": "nom féminin",
+    "primary": "assemblée",
+    "description": "(proprement compagnie rassemblée sur convocation, ou agissant de concert)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "d'animaux"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "ailleurs d'Israël"
+        }
+    ]
+}

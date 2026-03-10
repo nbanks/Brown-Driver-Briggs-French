@@ -1,0 +1,38 @@
+{
+    "head_word": "זָבַח",
+    "pos": "verbe",
+    "primary": "immoler en sacrifice",
+    "description": "immoler en sacrifice",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "avec accusatif"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "absolu"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "avec לְ de la divinité"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "avec préposition locale בְּ"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "des sacrifices abondants offerts à Yahvé par Salomon"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "ailleurs de sacrifice à d'autres divinités, peut-être itératif dans certains cas, mais certainement pas dans tous"
+        }
+    ]
+}

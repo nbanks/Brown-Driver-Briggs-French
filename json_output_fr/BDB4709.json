@@ -1,0 +1,53 @@
+{
+    "head_word": "מִןֿ",
+    "pos": "préposition",
+    "primary": "hors de, de, à cause de, du côté de, depuis, au-dessus de, que, de sorte que ne pas",
+    "description": "exprimant l'idée de séparation",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "par les archers",
+            "description": "avec des verbes exprimant (ou impliquant) la séparation ou l'éloignement, que ce soit d'une personne ou d'un lieu, ou dans une direction quelconque, aussi de la culpabilité, de la calamité, etc."
+        },
+        {
+            "number": 2,
+            "primary": "Hors de",
+            "description": "de la matière à partir de laquelle quelque chose est formé, ou dont il est dérivé"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "Partitivement (un sens se rattachant à 2.a. (c), ci-dessus)"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "de temps"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "(וְעַד) מִן ֗֗֗ עַד de . . . jusqu'à : très souvent"
+        },
+        {
+            "number": 6,
+            "primary": "c : ex in eximius, egregius",
+            "description": "Dans les comparaisons, au-delà de, au-dessus de"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "préfixé à un infinitif"
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "Une fois Dt 33,11 comme conjonction devant un verbe fini"
+        },
+        {
+            "number": 9,
+            "primary": null,
+            "description": "En composition"
+        }
+    ]
+}

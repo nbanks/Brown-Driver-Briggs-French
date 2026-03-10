@@ -1,0 +1,28 @@
+{
+    "head_word": "יֵ֫צָר",
+    "pos": "nom masculin",
+    "primary": "forme, conception, dessein",
+    "description": "forme d'une image taillée",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "forme d'une image taillée"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "forme de l'homme comme fait de la poussière"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "de ce qui est conçu dans l'esprit (comparer יָצַר 1.c, 2.b)"
+        }
+    ]
+}

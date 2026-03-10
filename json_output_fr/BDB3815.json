@@ -1,0 +1,28 @@
+{
+    "head_word": "ישׁעיה",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "petit-fils de Zorobabel",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "petit-fils de Zorobabel"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "chef des fils d'Élam, qui monta avec Esdras"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "chef des fils de Merari à l'époque d'Esdras"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "un Benjaminite"
+        }
+    ]
+}

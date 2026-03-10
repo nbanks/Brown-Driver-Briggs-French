@@ -1,0 +1,28 @@
+{
+    "head_word": "כָּלָה",
+    "pos": "verbe",
+    "primary": "être complet, à sa fin, achevé, accompli, épuisé",
+    "description": "être idéalement complet, être déterminé, toujours en mauvais sens, comploté",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "être idéalement complet, être déterminé, toujours en mauvais sens, comploté"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "(proprement arriver à sa fin)"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "achever, mener à terme, finir une chose, tâche, œuvre, etc."
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

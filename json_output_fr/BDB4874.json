@@ -1,0 +1,28 @@
+{
+    "head_word": "מָשָׁל",
+    "pos": "nom masculin",
+    "primary": "proverbe, parabole",
+    "description": "sentence proverbiale, brève sentence concise de la sagesse populaire",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "sentence proverbiale, brève sentence concise de la sagesse populaire"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "discours prophétique figuré"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

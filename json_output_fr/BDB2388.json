@@ -1,0 +1,23 @@
+{
+    "head_word": "זִמְרָה",
+    "pos": "nom féminin",
+    "primary": "mélodie, chant",
+    "description": "à la louange de ׳ י",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "de la musique instrumentale"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "du chant"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "non clairement déterminé"
+        }
+    ]
+}

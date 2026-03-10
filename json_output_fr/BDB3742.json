@@ -1,0 +1,23 @@
+{
+    "head_word": "יָרֵךְ",
+    "pos": "nom féminin",
+    "primary": "cuisse, hanche, côté, base",
+    "description": "(flanc)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "(flanc)"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "(reins)"
+        }
+    ]
+}

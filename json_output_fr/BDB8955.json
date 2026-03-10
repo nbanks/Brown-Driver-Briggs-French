@@ -1,0 +1,33 @@
+{
+    "head_word": "שָׁפַט",
+    "pos": "verbe",
+    "primary": "juger, gouverner",
+    "description": "(donner la loi, trancher les controverses et exécuter la loi, civil, religieux, politique, social ; aussi bien ancien que tardif)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "(donner la loi, trancher les controverses et exécuter la loi, civil, religieux, politique, social ; aussi bien ancien que tardif)"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "spécifiquement trancher une controverse, discriminer entre les personnes, dans les questions civiles, politiques, domestiques et religieuses"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "en discriminant, de l'homme seulement"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

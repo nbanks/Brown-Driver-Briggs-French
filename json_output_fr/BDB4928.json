@@ -1,0 +1,23 @@
+{
+    "head_word": "נָבִיא",
+    "pos": "nom masculin",
+    "primary": "porte-parole, orateur, prophète",
+    "description": "vrai prophète de ׳ י",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "vrai prophète de ׳ י"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "faux prophètes : prophètes comme classe officielle, à côté des prêtres, caractère de faux prophètes"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "prophètes païens"
+        }
+    ]
+}

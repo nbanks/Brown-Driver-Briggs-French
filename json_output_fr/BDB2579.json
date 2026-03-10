@@ -1,0 +1,18 @@
+{
+    "head_word": "חֹ֫דֶשׁ",
+    "pos": "nom masculin",
+    "primary": "(nouveauté), nouvelle lune, mois",
+    "description": "= jour, temps de la nouvelle lune, comme fête religieuse",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "= jour, temps de la nouvelle lune, comme fête religieuse"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "comme commençant avec la nouvelle lune, mois lunaire"
+        }
+    ]
+}

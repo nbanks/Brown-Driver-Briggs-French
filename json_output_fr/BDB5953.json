@@ -1,0 +1,28 @@
+{
+    "head_word": "עֻזִּיאֵל",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "lévites",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "lévites"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "Siméonite"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "Benjaminite"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "réparateur de muraille"
+        }
+    ]
+}

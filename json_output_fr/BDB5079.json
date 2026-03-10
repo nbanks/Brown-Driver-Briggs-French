@@ -1,0 +1,33 @@
+{
+    "head_word": "נוּף",
+    "pos": "verbe",
+    "primary": "agiter, balancer, asperger",
+    "description": "agiter un outil de part et d'autre en l'utilisant",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "agiter un outil de part et d'autre en l'utilisant"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "Secouer ou agiter la main"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "du rite dans lequel à l'origine le prêtre élevait sa part de l'offrande et la balançait, c.-à-d. la déplaçait vers l'autel et la ramenait, en signe de sa présentation à Dieu et de son retour par lui au prêtre"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

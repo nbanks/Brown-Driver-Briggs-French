@@ -1,0 +1,28 @@
+{
+    "head_word": "מְעִיל",
+    "pos": "nom masculin",
+    "primary": "robe",
+    "description": "vêtement extérieur, robe, porté par-dessus la tunique intérieure : כְּתֹנֶת",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "porté par les hommes de rang"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "porté par les filles de David"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "robe du grand prêtre"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "figuré des attributs (de ׳י, et des hommes)"
+        }
+    ]
+}

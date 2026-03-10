@@ -1,0 +1,18 @@
+{
+    "head_word": "פַּרְסָה",
+    "pos": "nom féminin",
+    "primary": "sabot",
+    "description": "de ruminants",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "de ruminants"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "de chevaux (non fendu)"
+        }
+    ]
+}

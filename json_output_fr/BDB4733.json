@@ -1,0 +1,28 @@
+{
+    "head_word": "מַס",
+    "pos": "nom masculin",
+    "primary": "corps de travailleurs forcés, corvéables, équipe de corvée",
+    "description": "aussi (tardif) service forcé, corvée, servage",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "corps de corvéables pour le service public, formé par une levée sur le peuple par Salomon"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "des équipes de corvée, groupes d'esclaves d'Israël en Égypte"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "en général"
+        },
+        {
+            "number": 4,
+            "primary": "service forcé",
+            "description": null
+        }
+    ]
+}

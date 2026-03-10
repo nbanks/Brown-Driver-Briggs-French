@@ -1,0 +1,23 @@
+{
+    "head_word": "חֶרְפָּה",
+    "pos": "nom féminin",
+    "primary": "opprobre",
+    "description": "qui pèse sur quelqu'un, condition de honte, disgrâce :",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "qui pèse sur quelqu'un, condition de honte, disgrâce :"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "l'objet de l'opprobre, la personne ou la chose méprisée"
+        }
+    ]
+}

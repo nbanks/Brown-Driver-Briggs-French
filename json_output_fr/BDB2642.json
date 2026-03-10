@@ -1,0 +1,33 @@
+{
+    "head_word": "חוּר",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "nommé avec Aaron comme compagnon de Moïse",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "nommé avec Aaron comme compagnon de Moïse"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "un Judéen"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "un roi de Madian"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "chef d'une famille d'exilés de retour"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "officier de Salomon"
+        }
+    ]
+}

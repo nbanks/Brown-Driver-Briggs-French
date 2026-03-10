@@ -1,0 +1,33 @@
+{
+    "head_word": "פָּשַׁט",
+    "pos": "verbe",
+    "primary": "dépouiller, se précipiter, razzier",
+    "description": "son vêtement",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "son vêtement"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "quitter (son abri), c.-à-d. se précipiter (d'un lieu abrité)"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "dépouiller quelqu'un de son vêtement"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

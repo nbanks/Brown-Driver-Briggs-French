@@ -1,0 +1,43 @@
+{
+    "head_word": "יִרְמְיָ֫ה",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "Jérémie",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "prophète, fils de Hilkiah"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "un Gadite qui rejoignit David à Tsiklag"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "un autre Gadite qui rejoignit David à Tsiklag"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "un Manassien, chef de famille"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "un natif de Libna, père de Hamutal"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "un Récabite, fils de Habatstsinia"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "un prêtre qui scella l'alliance"
+        }
+    ]
+}

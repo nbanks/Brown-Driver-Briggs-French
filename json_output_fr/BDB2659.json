@@ -1,0 +1,23 @@
+{
+    "head_word": "חָזָה",
+    "pos": "verbe",
+    "primary": "voir, contempler",
+    "description": "(presque exclusivement en poésie)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "voir en tant que voyant dans l'état extatique, avec accusatif de la vision perçue"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

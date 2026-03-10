@@ -1,0 +1,28 @@
+{
+    "head_word": "עֵ֫בֶר",
+    "pos": "nom propre, masculin",
+    "primary": "Éber",
+    "description": "« fils » de Shélah et « petit-fils » d'Arpakshad",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "« fils » de Shélah et « petit-fils » d'Arpakshad"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "un chef gadite"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "noms benjaminites"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "un prêtre"
+        }
+    ]
+}

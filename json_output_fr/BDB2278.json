@@ -1,0 +1,53 @@
+{
+    "head_word": "זֶ֫בַח",
+    "pos": "nom masculin",
+    "primary": "sacrifice",
+    "description": "nom général pour tous les sacrifices consommés lors de fêtes",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "du Dieu d'Israël"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "d'autres divinités"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "le sacrifice d'alliance"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "la pâque זֶבַח חַג הַפֶּסַח"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "sacrifice annuel"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "sacrifice d'actions de grâces"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "dans le rituel"
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "le massacre des nations hostiles est aussi un זֶבַח offert par Dieu lui-même, dans lequel les vautours dévorent la chair des victimes"
+        },
+        {
+            "number": 9,
+            "primary": null,
+            "description": "le verbe employé avec זֶבַח est ordinairement זָבַח mais d'autres se trouvent aussi"
+        }
+    ]
+}

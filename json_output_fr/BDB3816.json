@@ -1,0 +1,33 @@
+{
+    "head_word": "הוֺשֵׁעַ",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "nom originel de Josué",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "nom originel de Josué"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "dernier roi d'Israël"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "le prophète Osée"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "un chef éphraïmite sous David"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "un chef sous Néhémie"
+        }
+    ]
+}

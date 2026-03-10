@@ -1,0 +1,23 @@
+{
+    "head_word": "סוּס",
+    "pos": "nom masculin",
+    "primary": "cheval",
+    "description": "non israélite",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "non israélite"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "en Israël"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "chevaux de char de ׳ י"
+        }
+    ]
+}

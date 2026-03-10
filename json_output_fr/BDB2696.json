@@ -1,0 +1,28 @@
+{
+    "head_word": "חַטָּא",
+    "pos": "adjectif",
+    "primary": "pécheur",
+    "description": "exposé à la condamnation, considéré comme coupable",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "pécheur",
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": "pécheurs",
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "exposé à la condamnation, considéré comme coupable"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "head_word": "מוֺשָׁב",
+    "pos": "nom masculin",
+    "primary": "siège, assemblée, lieu d'habitation, habitation, habitants",
+    "description": "= ceux qui sont assis, compagnie ou assemblée assise",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "= ceux qui sont assis, compagnie ou assemblée assise"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "de peuple, tribu, etc., souvent = territoire, district, ou plus tardivement, ville"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "durée de séjour"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "collectif = ceux qui habitent"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "head_word": "יָשַׁע",
+    "pos": "verbe",
+    "primary": "délivrer",
+    "description": "intransitif et passif",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "proprement mis en liberté"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "au combat, victorieux"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "(proprement donner largeur et étendue à, libérer)"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "sauver des troubles moraux"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "donner la victoire à"
+        }
+    ]
+}

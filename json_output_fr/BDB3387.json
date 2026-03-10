@@ -1,0 +1,18 @@
+{
+    "head_word": "יָאַל",
+    "pos": "verbe",
+    "primary": "être insensé",
+    "description": "= pécher",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "= pécher"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "manquant de discernement et de jugement"
+        }
+    ]
+}

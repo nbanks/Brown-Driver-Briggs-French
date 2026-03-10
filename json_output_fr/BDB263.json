@@ -1,0 +1,23 @@
+{
+    "head_word": "אֹ֫זֶן",
+    "pos": "nom féminin",
+    "primary": "oreille",
+    "description": "oreille, en tant que partie du corps",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "oreille, en tant que partie du corps"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "surtout en tant qu'organe de l'ouïe"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

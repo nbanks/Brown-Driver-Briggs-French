@@ -1,0 +1,33 @@
+{
+    "head_word": "עִם",
+    "pos": "préposition",
+    "primary": "avec",
+    "description": "de compagnie et de communauté",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "de compagnie et de communauté"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "D'un lieu"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "De personnes, עִם est spécifiquement"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "Idiomatique d'une pensée ou d'un dessein présent chez quelqu'un"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "Métaphore ensemble avec = en dépit de, nonobstant"
+        }
+    ]
+}

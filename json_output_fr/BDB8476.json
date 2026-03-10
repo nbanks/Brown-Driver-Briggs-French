@@ -1,0 +1,23 @@
+{
+    "head_word": "שַׁד",
+    "pos": "nom masculin",
+    "primary": "sein",
+    "description": "sein féminin",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "de femme"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "d'animal"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "humain et animal"
+        }
+    ]
+}

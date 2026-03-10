@@ -1,0 +1,23 @@
+{
+    "head_word": "פֶּ֫סַח",
+    "pos": "nom masculin",
+    "primary": "Pâque",
+    "description": "sacrifice de la Pâque, impliquant un repas de communion, donc une espèce de sacrifice de paix (comparer I. זֶבַח II. 2)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "sacrifice de la Pâque, impliquant un repas de communion, donc une espèce de sacrifice de paix (comparer I. זֶבַח II. 2)"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "l'animal victime de la Pâque"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "fête de la Pâque"
+        }
+    ]
+}

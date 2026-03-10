@@ -1,0 +1,28 @@
+{
+    "head_word": "גָּלַח",
+    "pos": "verbe",
+    "primary": "être chauve",
+    "description": "figuré",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "figuré"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "intransitif il se rasa (lui-même)"
+        }
+    ]
+}

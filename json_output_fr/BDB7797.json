@@ -1,0 +1,53 @@
+{
+    "head_word": "רוּחַ",
+    "pos": "nom féminin",
+    "primary": "souffle, vent, esprit",
+    "description": "de la bouche ou des narines",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "de la bouche ou des narines"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "vent du ciel"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "comme ce qui respire rapidement dans l'animation ou l'agitation = tempérament, disposition"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "esprit de l'être vivant et respirant, demeurant dans la בָּשָׂר des hommes et des animaux, ǁ נֶפֶשׁ"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "comme siège de l'émotion = נֶפֶשׁ"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "occasionnellement (et tardivement) = siège ou organe des actes mentaux, ǁ לֵב, ou synonyme de celui-ci"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "rarement de la volonté"
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "en particulier du caractère moral ; aussi = לֵב"
+        },
+        {
+            "number": 9,
+            "primary": null,
+            "description": "esprit de Dieu"
+        }
+    ]
+}

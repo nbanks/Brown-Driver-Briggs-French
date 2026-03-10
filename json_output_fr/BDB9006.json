@@ -1,0 +1,28 @@
+{
+    "head_word": "שָׁקַט",
+    "pos": "verbe",
+    "primary": "être tranquille, sans trouble",
+    "description": "d'un pays",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "d'un pays"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "= être apaisé"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "(causatif interne)"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

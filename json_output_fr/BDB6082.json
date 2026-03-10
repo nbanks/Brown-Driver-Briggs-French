@@ -1,0 +1,33 @@
+{
+    "head_word": "מַעֲלָה",
+    "pos": "nom féminin",
+    "primary": "marche, degré",
+    "description": "du temple",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "du temple"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "du ciel"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "(ל)הַמַּעֲלוֺת שִׁיר cantique des montées, vers les trois grandes fêtes de pèlerinage, c.-à-d. à chanter en montant vers Jérusalem"
+        }
+    ]
+}

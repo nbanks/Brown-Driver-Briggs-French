@@ -1,0 +1,43 @@
+{
+    "head_word": "מָקוֺם",
+    "pos": "nom masculin",
+    "primary": "lieu, place",
+    "description": "où une chose se trouve",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "où une chose se trouve"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "de terre, de pays"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "en général"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "emplois particuliers"
+        }
+    ]
+}

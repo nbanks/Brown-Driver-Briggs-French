@@ -1,0 +1,28 @@
+{
+    "head_word": "חָזוֺן",
+    "pos": "nom masculin",
+    "primary": "vision",
+    "description": "telle que vue dans l'état extatique",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "telle que vue dans l'état extatique"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "dans la nuit"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "communication divine en vision, oracle, prophétie"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "comme titre d'un livre de prophétie"
+        }
+    ]
+}

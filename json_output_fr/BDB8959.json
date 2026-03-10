@@ -1,0 +1,38 @@
+{
+    "head_word": "מִשְׁפָּט",
+    "pos": "nom masculin",
+    "primary": "jugement",
+    "description": "acte de trancher une cause",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "acte de trancher une cause"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "attribut du שֹׁפֵט, justice, droit, droiture"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "ordonnance promulguée par le שֹׁפֵט"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "décision du שֹׁפֵט dans une cause juridique"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "droit (légal), privilège, dû de quelqu'un"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "propre, convenable, mesure"
+        }
+    ]
+}

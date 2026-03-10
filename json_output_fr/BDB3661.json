@@ -1,0 +1,23 @@
+{
+    "head_word": "מוֺצָא",
+    "pos": "nom masculin",
+    "primary": "lieu ou acte de sortie, issue, exportation, source",
+    "description": "une sortie",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "une sortie"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "ce qui sort"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "head_word": "אֲכַל",
+    "pos": "verbe",
+    "primary": "manger, dévorer",
+    "description": "d'une bête",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "d'une bête"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "d'une bête en vision"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "manger leurs morceaux, c.-à-d. les calomnier"
+        }
+    ]
+}

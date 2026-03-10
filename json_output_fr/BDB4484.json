@@ -1,0 +1,23 @@
+{
+    "head_word": "מֵאָה",
+    "pos": "nom féminin",
+    "primary": "cent",
+    "description": "comme nombre simple",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "ci-dessous",
+            "description": "comme nombre simple"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "comme partie d'un nombre plus grand"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "= un centième de l'argent ; mais lire peut-être מַשַּׁאת la dette"
+        }
+    ]
+}

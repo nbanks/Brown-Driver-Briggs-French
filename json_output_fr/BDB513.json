@@ -1,0 +1,18 @@
+{
+    "head_word": "אָמָה",
+    "pos": "nom féminin",
+    "primary": "servante, domestique",
+    "description": "au sens propre servante",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "au sens propre servante"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "figuré dans une adresse"
+        }
+    ]
+}

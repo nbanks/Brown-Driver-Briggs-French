@@ -1,0 +1,28 @@
+{
+    "head_word": "רְעוּאֵל",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "beau-père de Moïse",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "beau-père de Moïse"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "Édomite"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "Gadite"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "Benjaminite"
+        }
+    ]
+}

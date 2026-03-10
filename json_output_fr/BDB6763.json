@@ -1,0 +1,23 @@
+{
+    "head_word": "פְּרִי",
+    "pos": "nom masculin",
+    "primary": "fruit",
+    "description": "de la production en général",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "de la production en général"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "= progéniture"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "figuré, du fruit des actions, c.-à-d. leurs conséquences"
+        }
+    ]
+}

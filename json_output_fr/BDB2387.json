@@ -1,0 +1,18 @@
+{
+    "head_word": "זמר",
+    "pos": "verbe",
+    "primary": "faire de la musique",
+    "description": "en louange à Dieu (׳י), seulement en poésie",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "de chanter à (ל) Dieu (Yahvé)"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "de jouer des instruments de musique"
+        }
+    ]
+}

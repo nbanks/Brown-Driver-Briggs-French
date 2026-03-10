@@ -1,0 +1,18 @@
+{
+    "head_word": "עָפָר",
+    "pos": "nom masculin",
+    "primary": "terre sèche, poussière",
+    "description": "spécifiquement comme matériau du corps humain",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "spécifiquement comme matériau du corps humain"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "d'abondance"
+        }
+    ]
+}

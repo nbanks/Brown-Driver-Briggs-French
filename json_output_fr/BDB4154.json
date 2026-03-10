@@ -1,0 +1,18 @@
+{
+    "head_word": "כֹּפֶר",
+    "pos": "nom masculin",
+    "primary": "le prix d'une vie, rançon",
+    "description": "un prix pour le rachat d'une vie",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "un prix pour le rachat d'une vie"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "un demi-sicle du sanctuaire payé par chaque homme de plus de vingt ans lors du recensement"
+        }
+    ]
+}

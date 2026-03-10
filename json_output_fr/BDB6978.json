@@ -1,0 +1,33 @@
+{
+    "head_word": "צָוָה",
+    "pos": "verbe",
+    "primary": "imposer une charge (à), donner un ordre (à), charger, commander, ordonner",
+    "description": "donner à quelqu'un une charge, un commandement (souvent עַל au sujet de)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "donner à quelqu'un une charge, un commandement (souvent עַל au sujet de)"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "charger, avec commandement à d'autres, commissionner"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "d'un acte divin"
+        }
+    ]
+}

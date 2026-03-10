@@ -1,0 +1,33 @@
+{
+    "head_word": "זַכּוּר",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "un Rubénite",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "un Rubénite"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "un Siméonite"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "lévites"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "compagnon d'Esdras"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "contemporain de Néhémie"
+        }
+    ]
+}

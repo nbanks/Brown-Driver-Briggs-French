@@ -1,0 +1,18 @@
+{
+    "head_word": "שְׁמַ֫יִן",
+    "pos": "nom masculin pluriel",
+    "primary": "cieux",
+    "description": "ciel visible",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "ciel visible"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "comme demeure de Dieu"
+        }
+    ]
+}

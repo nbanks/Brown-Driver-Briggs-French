@@ -1,0 +1,18 @@
+{
+    "head_word": "נְאֻם",
+    "pos": "nom masculin",
+    "primary": "oracle",
+    "description": "toujours ainsi, comme état construit",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "du prophète en état extatique"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "devant les noms divins"
+        }
+    ]
+}

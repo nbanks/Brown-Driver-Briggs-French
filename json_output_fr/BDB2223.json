@@ -1,0 +1,53 @@
+{
+    "head_word": "הָרַג",
+    "pos": "verbe",
+    "primary": "tuer, mettre à mort",
+    "description": "impliquant une violence impitoyable, surtout une violence privée",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "impliquant une violence impitoyable, surtout une violence privée"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "de Dieu tuant en jugement (sévère et inscrutable)"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "rarement d'une mise à mort judiciaire par des hommes (sur l'ordre de Dieu)"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "du fait de tuer des bêtes"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "du fait d'être tué par des bêtes"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "tout à fait général"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "passif de Qal 1.a."
+        },
+        {
+            "number": 9,
+            "primary": null,
+            "description": "passif de Qal 1.b."
+        }
+    ]
+}

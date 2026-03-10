@@ -1,0 +1,18 @@
+{
+    "head_word": "מֶלְקָחַ֫יִם",
+    "pos": "nom [masculin] duel",
+    "primary": "pinces, mouchettes",
+    "description": "pinces utilisées à l'autel du temple, pour soulever les braises",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "pinces utilisées à l'autel du temple, pour soulever les braises"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "mouchettes de lampe"
+        }
+    ]
+}

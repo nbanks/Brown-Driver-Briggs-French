@@ -1,0 +1,38 @@
+{
+    "head_word": "כָּתַב",
+    "pos": "verbe",
+    "primary": "écrire",
+    "description": "= mettre par écrit, décrire par écrit",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "= mettre par écrit, décrire par écrit"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "= enregistrer, inscrire"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "= décréter"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "head_word": "אֶפְרָ֫תָה",
+    "pos": "nom propre",
+    "primary": null,
+    "description": "lieu près de Béthel, où Rachel mourut et fut ensevelie",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "lieu près de Béthel, où Rachel mourut et fut ensevelie"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "id., un nom de Bethléhem"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "id."
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "nom donné à la femme de Caleb"
+        }
+    ]
+}

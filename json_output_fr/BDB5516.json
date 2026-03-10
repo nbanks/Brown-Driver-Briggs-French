@@ -1,0 +1,28 @@
+{
+    "head_word": "סִיג",
+    "pos": "nom [masculin]",
+    "primary": "retrait, éloignement",
+    "description": "(ce qui est retiré du métal)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "retrait, éloignement",
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": "scories",
+            "description": "(ce qui est retiré du métal)"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "habituellement de l'argent"
+        }
+    ]
+}

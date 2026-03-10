@@ -1,0 +1,33 @@
+{
+    "head_word": "אִמֵּר",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "un prêtre assigné à l'époque de David",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "un prêtre assigné à l'époque de David"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "ancêtre de prêtre"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "prêtre à l'époque de Jérémie"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "père de Tsadoq"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "(?)"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "head_word": "עָתֵק",
+    "pos": "verbe",
+    "primary": "se déplacer, avancer, progresser",
+    "description": "(c.-à-d. tente) = avancer",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "(c.-à-d. tente) = avancer"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "transférer d'un livre ou rouleau à un autre"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "head_word": "שֶׁ֫קֶר",
+    "pos": "nom masculin",
+    "primary": "tromperie, déception, fausseté",
+    "description": "ce qui trompe, déçoit et trahit quelqu'un",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "ce qui trompe, déçoit et trahit quelqu'un"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "fausseté nuisible, dans un témoignage, surtout devant les tribunaux"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "des faux prophètes ou des prophètes abusés"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "en général"
+        }
+    ]
+}

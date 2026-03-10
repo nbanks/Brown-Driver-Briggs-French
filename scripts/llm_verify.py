@@ -16,7 +16,9 @@ entries produce a single row with the plain filename as key.
 """
 
 import argparse
+import json
 import os
+import re
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
@@ -30,6 +32,7 @@ ROOT = SCRIPT_DIR.parent
 
 sys.path.insert(0, str(SCRIPT_DIR))
 from split_entry import split_txt
+from check_preserved import HEBREW_RE, extract_hebrew
 
 # Per-mode defaults: (french_dir, english_dir, prompt_file, results_file, extensions)
 MODE_DEFAULTS = {
@@ -56,9 +59,151 @@ COL_FILENAME = 20
 COL_VERDICT = 7
 
 
-def build_prompt(template: str, english: str, french: str) -> str:
-    """Fill template placeholders with English and French texts."""
-    return template.replace("{{ENGLISH}}", english).replace("{{FRENCH}}", french)
+_BDB_NUM_RE = re.compile(r'BDB(\d+)')
+
+
+def _extract_bdb_num(filename: str) -> str | None:
+    """Extract BDB number from filename like 'BDB9670.json' -> '9670'."""
+    m = _BDB_NUM_RE.search(filename)
+    return m.group(1) if m else None
+
+
+def _read_optional(path: Path) -> str:
+    """Read file contents or return '(not available)' if missing."""
+    try:
+        content = path.read_text(encoding="utf-8")
+        return content if content.strip() else "(not available)"
+    except (FileNotFoundError, OSError):
+        return "(not available)"
+
+
+def precheck_json(en_data: dict, fr_data: dict,
+                  fr_old_data: dict | None = None,
+                  txt_fr_pos: str | None = None,
+                  txt_fr_primary: str | None = None,
+                  ) -> tuple[str, int] | None:
+    """Run deterministic structural checks on JSON translation pair.
+
+    Returns (error_description, severity) if a problem is found,
+    or None if all checks pass.
+    """
+    errors = []
+
+    # 1. head_word mismatch (sev 10)
+    en_hw = en_data.get("head_word", "")
+    fr_hw = fr_data.get("head_word", "")
+    if en_hw != fr_hw:
+        errors.append(("head_word mismatch: EN=%r FR=%r" % (en_hw, fr_hw), 10))
+
+    # 2. senses count mismatch (sev 8)
+    en_senses = en_data.get("senses", [])
+    fr_senses = fr_data.get("senses", [])
+    if len(en_senses) != len(fr_senses):
+        errors.append(("senses count: EN=%d FR=%d" % (len(en_senses), len(fr_senses)), 8))
+
+    # 3. Non-null -> null field drop (sev 8)
+    for field in ("pos", "primary", "description"):
+        en_val = en_data.get(field)
+        fr_val = fr_data.get(field)
+        if en_val is not None and fr_val is None:
+            errors.append(("field '%s' dropped to null (EN has content)" % field, 8))
+        # Also check against old FR translation
+        if fr_old_data and fr_val is None:
+            old_val = fr_old_data.get(field)
+            if old_val is not None:
+                errors.append(("field '%s' dropped to null (old FR had content)" % field, 8))
+
+    # Check senses field drops
+    for i, (en_s, fr_s) in enumerate(zip(en_senses, fr_senses)):
+        for field in ("primary", "description"):
+            en_val = en_s.get(field)
+            fr_val = fr_s.get(field)
+            if en_val is not None and fr_val is None:
+                errors.append(("sense %d '%s' dropped to null" % (en_s.get("number", i + 1), field), 8))
+            # Check old FR senses too
+            if fr_old_data:
+                old_senses = fr_old_data.get("senses", [])
+                if i < len(old_senses) and fr_val is None:
+                    old_val = old_senses[i].get(field)
+                    if old_val is not None:
+                        errors.append(("sense %d '%s' dropped (old FR had content)" % (en_s.get("number", i + 1), field), 8))
+
+    # 4. Hebrew char preservation (sev 9) — per field
+    for field in ("pos", "primary", "description"):
+        en_val = en_data.get(field) or ""
+        fr_val = fr_data.get(field) or ""
+        en_heb = extract_hebrew(en_val)
+        fr_heb = extract_hebrew(fr_val)
+        if en_heb != fr_heb:
+            errors.append(("Hebrew mismatch in '%s'" % field, 9))
+            break  # one Hebrew error is enough
+
+    if not errors:
+        for i, (en_s, fr_s) in enumerate(zip(en_senses, fr_senses)):
+            heb_err = False
+            for field in ("primary", "description"):
+                en_val = en_s.get(field) or ""
+                fr_val = fr_s.get(field) or ""
+                en_heb = extract_hebrew(en_val)
+                fr_heb = extract_hebrew(fr_val)
+                if en_heb != fr_heb:
+                    errors.append(("Hebrew mismatch in sense %d '%s'" % (en_s.get("number", i + 1), field), 9))
+                    heb_err = True
+                    break
+            if heb_err:
+                break
+
+    # 5. Field length ratio (sev 5) — for non-null string fields >= 10 chars
+    for field in ("primary", "description"):
+        en_val = en_data.get(field) or ""
+        fr_val = fr_data.get(field) or ""
+        if len(en_val) >= 10 and len(fr_val) >= 10:
+            ratio = len(fr_val) / len(en_val)
+            if ratio < 0.70 or ratio > 1.30:
+                errors.append(("length ratio %.2f in '%s' (EN=%d FR=%d)" % (ratio, field, len(en_val), len(fr_val)), 5))
+
+    # 6. txt_fr cross-check (WARN level, sev 4)
+    txt_warns = []
+    if txt_fr_pos and fr_data.get("pos"):
+        fr_pos = fr_data["pos"].strip().lower()
+        txt_pos = txt_fr_pos.strip().lower()
+        # Only flag if they differ significantly (not just whitespace/newlines)
+        if txt_pos and fr_pos and txt_pos != fr_pos:
+            # Check if txt_pos starts with fr_pos or vice versa
+            if not txt_pos.startswith(fr_pos) and not fr_pos.startswith(txt_pos):
+                txt_warns.append("pos mismatch: JSON=%r txt_fr=%r" % (fr_data["pos"], txt_fr_pos))
+
+    if not errors and txt_warns:
+        return "WARN: " + "; ".join(txt_warns), 4
+
+    if errors:
+        # Return worst severity
+        worst_sev = max(sev for _, sev in errors)
+        desc = "; ".join(msg for msg, _ in errors)
+        return desc, worst_sev
+
+    return None
+
+
+def build_prompt(template: str, english: str, french: str,
+                 mode: str = "txt", filename: str = "") -> str:
+    """Fill template placeholders with source texts and references."""
+    prompt = template.replace("{{ENGLISH}}", english).replace("{{FRENCH}}", french)
+
+    if mode == "json" and filename:
+        bdb_num = _extract_bdb_num(filename)
+        if bdb_num:
+            bdb_id = "BDB" + bdb_num
+            # Load reference files
+            txt_en = _read_optional(ROOT / "Entries_txt" / (bdb_id + ".txt"))
+            txt_fr = _read_optional(ROOT / "Entries_txt_fr" / (bdb_id + ".txt"))
+            fr_old = _read_optional(ROOT / "json_output.fr" / (bdb_id + ".json"))
+            prompt = (prompt
+                      .replace("{{ENGLISH_TXT}}", txt_en)
+                      .replace("{{FRENCH_TXT}}", txt_fr)
+                      .replace("{{FRENCH_OLD}}", fr_old))
+
+    return prompt
 
 
 # Verdict severity ordering for picking the worst
@@ -126,7 +271,7 @@ def verify_chunked(template: str, english: str, french: str,
         key = _chunk_key(filename, idx, total)
         prefix = _chunk_note_prefix(en_c)
 
-        prompt = build_prompt(template, en_txt, fr_txt)
+        prompt = build_prompt(template, en_txt, fr_txt, mode="txt", filename=filename)
         prompt_kb = len(prompt.encode("utf-8")) / 1024
 
         if on_chunk:
@@ -386,6 +531,75 @@ Modes and their defaults:
         english = en_path.read_text()
         french = fr_path.read_text()
 
+        # JSON mode: structural pre-checks before LLM
+        if args.mode == "json":
+            # Skip empty skeleton files (0-byte FR)
+            if not french.strip():
+                timestamp = datetime.now(timezone.utc).strftime(
+                    "%Y-%m-%dT%H:%M:%S")
+                save_result(results_path, filename, "CORRECT", timestamp,
+                            fhash, "skeleton entry (empty)",
+                            severity=0,
+                            col_filename=COL_FILENAME,
+                            col_status=COL_VERDICT, lock=file_lock)
+                return filename, "CORRECT", 0.0, ""
+
+            try:
+                en_data = json.loads(english)
+                fr_data = json.loads(french)
+            except json.JSONDecodeError as e:
+                timestamp = datetime.now(timezone.utc).strftime(
+                    "%Y-%m-%dT%H:%M:%S")
+                save_result(results_path, filename, "ERROR", timestamp,
+                            fhash, f"JSON parse error: {e}",
+                            severity=10,
+                            col_filename=COL_FILENAME,
+                            col_status=COL_VERDICT, lock=file_lock)
+                return filename, "ERROR", 0.0, "10"
+
+            # Load old FR translation for comparison
+            bdb_num = _extract_bdb_num(filename)
+            fr_old_data = None
+            if bdb_num:
+                old_path = ROOT / "json_output.fr" / ("BDB" + bdb_num + ".json")
+                try:
+                    old_content = old_path.read_text(encoding="utf-8")
+                    if old_content.strip():
+                        fr_old_data = json.loads(old_content)
+                except (FileNotFoundError, OSError, json.JSONDecodeError):
+                    pass
+
+            # Extract pos/primary from txt_fr for cross-check
+            txt_fr_pos = None
+            txt_fr_primary = None
+            if bdb_num:
+                txt_fr_path = ROOT / "Entries_txt_fr" / ("BDB" + bdb_num + ".txt")
+                try:
+                    txt_lines = txt_fr_path.read_text(encoding="utf-8").splitlines()
+                    # Line 5 is pos (0-indexed: line 4), line 6 starts primary
+                    if len(txt_lines) > 4:
+                        txt_fr_pos = txt_lines[4].strip()
+                    if len(txt_lines) > 5:
+                        txt_fr_primary = txt_lines[5].strip()
+                except (FileNotFoundError, OSError):
+                    pass
+
+            precheck = precheck_json(en_data, fr_data, fr_old_data,
+                                     txt_fr_pos, txt_fr_primary)
+            if precheck is not None:
+                desc, severity = precheck
+                # WARN-level issues still go to LLM; ERROR-level short-circuit
+                is_warn = desc.startswith("WARN: ")
+                if not is_warn:
+                    timestamp = datetime.now(timezone.utc).strftime(
+                        "%Y-%m-%dT%H:%M:%S")
+                    save_result(results_path, filename, "ERROR", timestamp,
+                                fhash, f"precheck: {desc}",
+                                severity=severity,
+                                col_filename=COL_FILENAME,
+                                col_status=COL_VERDICT, lock=file_lock)
+                    return filename, "ERROR", 0.0, str(severity)
+
         def on_chunk(idx, n, prompt_kb):
             if sequential:
                 s = f" {idx + 1}/{n} {fmt_kb(prompt_kb)}KB"
@@ -426,7 +640,8 @@ Modes and their defaults:
                 return filename, worst, total_kb, sev_note
 
         # Whole-entry fallback (non-chunked txt, json, html)
-        prompt = build_prompt(template, english, french)
+        prompt = build_prompt(template, english, french,
+                              mode=args.mode, filename=filename)
         prompt_kb = len(prompt.encode("utf-8")) / 1024
 
         stem = filename.rsplit(".", 1)[0]

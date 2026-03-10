@@ -1,0 +1,48 @@
+{
+    "head_word": "שָׁמַר",
+    "pos": "verbe",
+    "primary": "garder, veiller, préserver",
+    "description": "dans les limites, retenir",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "dans les limites, retenir"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "sabbat"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "parfois ׳ י sujet"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 6,
+            "primary": "ainsi peut-être aussi",
+            "description": null
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

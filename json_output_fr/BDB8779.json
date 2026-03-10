@@ -1,0 +1,23 @@
+{
+    "head_word": "שְׁמוּאֵל",
+    "pos": "nom propre, masculin",
+    "primary": "Samuel",
+    "description": "grand prophète, XIe siècle av. J.-C.",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "grand prophète, XIe siècle av. J.-C."
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "en Siméon"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "en Issacar"
+        }
+    ]
+}

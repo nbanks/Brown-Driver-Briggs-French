@@ -1,0 +1,43 @@
+{
+    "head_word": "שָׂגַב",
+    "pos": "verbe",
+    "primary": "être",
+    "description": "être (inaccessiblement) élevé",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "être (trop) élevé"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "être placé en (sûreté) en haut"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "de Dieu"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "placer (en sécurité) en haut"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

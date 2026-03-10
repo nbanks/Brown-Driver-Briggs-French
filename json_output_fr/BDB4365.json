@@ -1,0 +1,18 @@
+{
+    "head_word": "לָּט",
+    "pos": "nom [masculin]",
+    "primary": "secret, mystère",
+    "description": "toujours avec בְּ",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "= secrètement"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "= enchantements"
+        }
+    ]
+}

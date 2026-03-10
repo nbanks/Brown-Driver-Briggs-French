@@ -1,0 +1,28 @@
+{
+    "head_word": "שָׁאַל",
+    "pos": "verbe",
+    "primary": "demander, s'enquérir",
+    "description": "spécifiquement demander comme une faveur, pour un usage temporaire, c.-à-d. emprunter",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "spécifiquement demander comme une faveur, pour un usage temporaire, c.-à-d. emprunter"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

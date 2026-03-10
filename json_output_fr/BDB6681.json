@@ -1,0 +1,28 @@
+{
+    "head_word": "פְּנִ֫ימָה",
+    "pos": "adverbe",
+    "primary": "vers l'intérieur",
+    "description": "(littéralement en direction du visage, du point de vue de celui qui entre par la porte opposée)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "vers l'intérieur",
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": "à l'intérieur",
+            "description": "(littéralement en direction du visage, du point de vue de celui qui entre par la porte opposée)"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "après un verbe de mouvement"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

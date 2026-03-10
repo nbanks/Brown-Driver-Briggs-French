@@ -1,0 +1,53 @@
+{
+    "head_word": "עַד",
+    "pos": "préposition",
+    "primary": "jusqu'à, même jusqu'à, aussi loin que, tant que",
+    "description": "d'espace",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "avec le but un",
+            "description": "d'espace"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "de temps"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "de degré, pour suggérer un plus haut ou le plus haut"
+        },
+        {
+            "number": 4,
+            "primary": "après une proposition négative",
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "de degré"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "d'espace"
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "de temps"
+        },
+        {
+            "number": 9,
+            "primary": null,
+            "description": "de degré"
+        }
+    ]
+}

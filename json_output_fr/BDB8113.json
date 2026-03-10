@@ -1,0 +1,18 @@
+{
+    "head_word": "רַק",
+    "pos": "adjectif",
+    "primary": "maigre",
+    "description": "de vaches",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "maigre",
+            "description": "de vaches"
+        },
+        {
+            "number": 2,
+            "primary": "seulement, tout à fait, assurément",
+            "description": "avec force restrictive"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "head_word": "אֵשׁ",
+    "pos": "nom féminin",
+    "primary": "feu",
+    "description": "du feu surnaturel, accompagnant la théophanie",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "du feu surnaturel, accompagnant la théophanie"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "feu pour cuire, rôtir, griller, etc."
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "surtout du feu de l'autel"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "figuré de la colère de Yahvé"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "dans diverses combinaisons"
+        }
+    ]
+}

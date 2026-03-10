@@ -1,0 +1,38 @@
+{
+    "head_word": "חִלְקִיָּהוּ",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "père d'Éliakim, officier d'Ézéchias",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "père d'Éliakim, officier d'Ézéchias"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "grand prêtre, à l'époque de Josias"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "père de Jérémie"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "lévites"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "un prêtre, contemporain d'Esdras"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "père de Guemaria, un ambassadeur de Sédécias auprès de Nabuchodonosor"
+        }
+    ]
+}

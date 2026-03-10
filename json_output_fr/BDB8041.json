@@ -1,0 +1,43 @@
+{
+    "head_word": "רָפָא",
+    "pos": "verbe",
+    "primary": "guérir",
+    "description": "de Dieu",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "de Dieu"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "blessures de la nation, impliquant la faveur (restaurée) de ׳ י (et, souvent, le pardon)"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "détresses individuelles"
+        },
+        {
+            "number": 4,
+            "primary": "de personne",
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "de blessures nationales"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "de guérison des défauts et blessures nationales"
+        }
+    ]
+}

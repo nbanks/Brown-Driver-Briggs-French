@@ -1,0 +1,23 @@
+{
+    "head_word": "חִירָם",
+    "pos": "nom propre, masculin",
+    "primary": "Hiram",
+    "description": "roi de Tyr, contemporain de David et Salomon",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "roi de Tyr, contemporain de David et Salomon"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "un artisan de Tyr, envoyé par Hiram le roi"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

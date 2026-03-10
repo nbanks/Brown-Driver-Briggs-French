@@ -1,0 +1,18 @@
+{
+    "head_word": "אֶזְרָח",
+    "pos": "nom masculin",
+    "primary": "autochtone",
+    "description": "un Israélite autochtone, généralement collectif, avec article",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "un Israélite autochtone, généralement collectif, avec article"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "un arbre indigène, poussant dans son sol naturel"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "head_word": "הִין",
+    "pos": "nom masculin",
+    "primary": "hin",
+    "description": "une mesure de liquide",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "une mesure, employée pour la quantité d'eau à boire"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "récipient d'une contenance d'un hin"
+        }
+    ]
+}

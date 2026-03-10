@@ -1,0 +1,38 @@
+{
+    "head_word": "מֵעֶה",
+    "pos": "nom masculin",
+    "primary": "organes internes, parties intérieures (intestins, entrailles), ventre",
+    "description": "littéralement",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "littéralement"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "source de procréation"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "= sein maternel"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "en général ="
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "= siège des émotions"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "le ventre extérieur"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "head_word": "מָ֫וֶת",
+    "pos": "nom masculin",
+    "primary": "mort",
+    "description": "opposé à la vie",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "opposé à la vie"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "par violence comme châtiment"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "état de mort ou lieu de mort"
+        }
+    ]
+}

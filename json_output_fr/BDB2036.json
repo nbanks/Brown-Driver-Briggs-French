@@ -1,0 +1,18 @@
+{
+    "head_word": "הֲ",
+    "pos": "particule",
+    "primary": "particule interrogative",
+    "description": "dans les questions directes",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "dans les questions directes"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "dans l'interrogation indirecte, si"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "head_word": "יָרַד",
+    "pos": "verbe",
+    "primary": "venir ou aller en bas, descendre",
+    "description": "des manifestations divines",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "de l'autel",
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "des manifestations divines"
+        },
+        {
+            "number": 3,
+            "primary": "de la frontière",
+            "description": "de choses inanimées"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "= se prosterner, être prosterné"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

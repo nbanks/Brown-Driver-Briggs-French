@@ -1,0 +1,23 @@
+{
+    "head_word": "קוֺל",
+    "pos": "nom masculin",
+    "primary": "son, voix",
+    "description": "spécialement",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "spécialement"
+        },
+        {
+            "number": 2,
+            "primary": "meules",
+            "description": "d'instrument"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "de parole articulée, chose dite"
+        }
+    ]
+}

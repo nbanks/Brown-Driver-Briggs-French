@@ -1,0 +1,18 @@
+{
+    "head_word": "עֵט",
+    "pos": "nom masculin",
+    "primary": "stylet",
+    "description": "de fer, pour usage sur pierre ou métal",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "de fer, pour usage sur pierre ou métal"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "probablement = calame"
+        }
+    ]
+}

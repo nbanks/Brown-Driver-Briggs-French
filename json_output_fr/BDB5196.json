@@ -1,0 +1,28 @@
+{
+    "head_word": "מַכָּה",
+    "pos": "nom féminin",
+    "primary": "coup, blessure, carnage",
+    "description": "= carnage",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "= carnage"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "= défaite"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "spécialement maladie"
+        }
+    ]
+}

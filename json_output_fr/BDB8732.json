@@ -1,0 +1,28 @@
+{
+    "head_word": "שָׁלָל",
+    "pos": "nom masculin",
+    "primary": "proie, butin, pillage, dépouilles",
+    "description": "pillage privé",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "pillage privé"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "= gain"
+        }
+    ]
+}

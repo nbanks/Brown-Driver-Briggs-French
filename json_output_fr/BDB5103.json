@@ -1,0 +1,23 @@
+{
+    "head_word": "נָזִיר",
+    "pos": "nom masculin",
+    "primary": "consacré, voué",
+    "description": "du prince, chef",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "du prince, chef"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "spécifiquement de celui qui est voué à ׳ י par un vœu impliquant l'abstinence de boissons enivrantes, le fait de ne pas toucher de cadavre et de ne pas couper les cheveux"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "= vigne non taillée (comme le naziréen aux cheveux non coupés)"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "head_word": "עֶשֶׂר",
+    "pos": "nom masculin",
+    "primary": "dix",
+    "description": null,
+    "senses": [
+        {
+            "number": 1,
+            "primary": "dix",
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "avec d'autres nombres"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "ordinaux"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "head_word": "שָׁחַט",
+    "pos": "verbe",
+    "primary": "égorger, abattre",
+    "description": "une bête",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "une bête"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "généralement"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "une personne"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "participe passif = battu, martelé"
+        }
+    ]
+}

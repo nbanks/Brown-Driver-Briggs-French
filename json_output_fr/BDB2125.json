@@ -1,0 +1,63 @@
+{
+    "head_word": "יוֺאֵל",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "premier-né de Samuel",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "premier-né de Samuel"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "un prince siméonite"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "un Rubénite"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "un chef gadite"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "un chef d'Issacar"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "un des héros de David"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "un chef de Manassé"
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "un Juif à l'époque d'Esdras"
+        },
+        {
+            "number": 9,
+            "primary": null,
+            "description": "un Benjaminite"
+        },
+        {
+            "number": 10,
+            "primary": null,
+            "description": "le prophète, fils de Pethuël"
+        },
+        {
+            "number": 11,
+            "primary": null,
+            "description": "lévites"
+        }
+    ]
+}

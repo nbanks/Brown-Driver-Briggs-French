@@ -1,0 +1,18 @@
+{
+    "head_word": "מַעֲלֶה",
+    "pos": "nom masculin",
+    "primary": "montée",
+    "description": "de colline ou montagne",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "de colline ou montagne"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "d'escalier"
+        }
+    ]
+}

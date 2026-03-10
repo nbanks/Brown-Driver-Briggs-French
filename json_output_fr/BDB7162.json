@@ -1,0 +1,23 @@
+{
+    "head_word": "צָעַק",
+    "pos": "verbe",
+    "primary": "crier, appeler",
+    "description": "au secours",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "au secours"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "dans la détresse, le besoin"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

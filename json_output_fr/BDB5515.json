@@ -1,0 +1,28 @@
+{
+    "head_word": "סוּג",
+    "pos": "verbe",
+    "primary": "s'éloigner, rétrograder",
+    "description": "= se montrer infidèle (comme Qal)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "= se montrer infidèle (comme Qal)"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "habituellement de déplacer, reculer une borne"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "head_word": "מִקְנֶה",
+    "pos": "nom masculin",
+    "primary": "bétail",
+    "description": "en général, comprenant vaches, moutons, chevaux, ânes, chameaux (l'un ou l'ensemble), comme animaux domestiques achetables",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "en général, comprenant vaches, moutons, chevaux, ânes, chameaux (l'un ou l'ensemble), comme animaux domestiques achetables"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "spécifiquement de vaches, moutons et chèvres en troupeaux"
+        }
+    ]
+}

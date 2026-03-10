@@ -1,0 +1,28 @@
+{
+    "head_word": "שָׁם",
+    "pos": "adverbe",
+    "primary": "là, là-bas",
+    "description": "précédé du relatif, אֲשֶׁר שָׁם où",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "précédé du relatif, אֲשֶׁר שָׁם où"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "avec ה locatif"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "מִשָּׁם de là :"
+        }
+    ]
+}

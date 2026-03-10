@@ -1,0 +1,18 @@
+{
+    "head_word": "הֶ֫בֶל",
+    "pos": "nom masculin",
+    "primary": "vapeur, souffle",
+    "description": "littéral",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "littéral"
+        },
+        {
+            "number": 2,
+            "primary": "vanité",
+            "description": "figuré de ce qui est évanescent, inconsistant, sans valeur"
+        }
+    ]
+}

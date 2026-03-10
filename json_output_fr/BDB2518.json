@@ -1,0 +1,23 @@
+{
+    "head_word": "חָבֵר",
+    "pos": "adjectif",
+    "primary": "uni, associé, compagnon",
+    "description": "adjectif",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "adjectif"
+        },
+        {
+            "number": 2,
+            "primary": "impliquant une similitude de caractère",
+            "description": "nom"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "compagnon à un moment particulier"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "head_word": "שִׁבְעִים",
+    "pos": "nom pluriel",
+    "primary": "soixante-dix",
+    "description": "souvent comme nombre rond",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "sans autre nombre a. devant nom singulier année Gn 5,12 +12 t., homme Jg 9,2 ; Nb 11,25 + 7 t., sicle Nb 7,13 + 11 t., autre n. 5 t."
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "אֶלֶף ׳ שׁ = 70 000"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "+ autre nombre a. + unité + nom singulier Jg 8,14 nom omis 70 + 7 (fois) Gn 4,24, comparer Esd 2,40 = Ne 7,43 ainsi 2 + 70 Nb 31,38 nom pluriel + 70 + 7 Esd 8,35 5 ans + 70 an Gn 12,4."
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "head_word": "זָנָה",
+    "pos": "verbe",
+    "primary": "se prostituer, être une prostituée",
+    "description": "figuré de relations impropres avec des nations étrangères (référence religieuse parfois impliquée)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "figuré de relations impropres avec des nations étrangères (référence religieuse parfois impliquée)"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "de relations avec d'autres divinités, considérées comme prostitution, impliquant parfois une prostitution effective"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "זונה de défection morale"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

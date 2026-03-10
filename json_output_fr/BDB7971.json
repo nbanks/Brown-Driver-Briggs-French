@@ -1,0 +1,23 @@
+{
+    "head_word": "רֶ֫מֶשׂ",
+    "pos": "nom masculin",
+    "primary": "reptiles, êtres rampants",
+    "description": "d'animaux marins",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "d'animaux marins"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "de tous les animaux"
+        }
+    ]
+}

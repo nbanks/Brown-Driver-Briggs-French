@@ -1,0 +1,23 @@
+{
+    "head_word": "כֵּן",
+    "pos": "adverbe",
+    "primary": "ainsi",
+    "description": "(c.-à-d. habituellement, comme cela a été décrit ou ordonné, en référence à ce qui a précédé), principalement de manière, mais parfois aussi de quantité, qualité ou degré",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "Souvent, pour souligner la concordance, en réponse à כְּ et כַּאֲשֶׁר"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "Avec prépositions"
+        }
+    ]
+}

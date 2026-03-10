@@ -1,0 +1,18 @@
+{
+    "head_word": "רַבָּה",
+    "pos": "nom propre [d'un lieu]",
+    "primary": "Rabba",
+    "description": "capitale des Ammonites",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "capitale des Ammonites"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "ville en Juda"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "head_word": "כָּאַב",
+    "pos": "verbe",
+    "primary": "souffrir",
+    "description": "physique",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "physique"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "de la douleur morale"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "des ennemis d'Israël sous la figure de l'épine causant la douleur (pas d'objet exprimé)"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "de la douleur morale, objet לֵב"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "de l'action d'abîmer une bonne terre avec des pierres"
+        }
+    ]
+}

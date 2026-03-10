@@ -1,0 +1,63 @@
+{
+    "head_word": "מָצָא",
+    "pos": "verbe",
+    "primary": "atteindre, trouver",
+    "description": "chose recherchée",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "chose recherchée"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "découvrir à fond, explorer"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "= tomber sur, rencontrer par hasard"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "expressions remarquables"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "d'une chose perdue"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "= il se trouve que l'on possède"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 9,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 10,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 11,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

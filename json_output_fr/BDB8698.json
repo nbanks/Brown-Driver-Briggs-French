@@ -1,0 +1,23 @@
+{
+    "head_word": "שָׁלֵו",
+    "pos": "adjectif",
+    "primary": "tranquille, à l'aise",
+    "description": "de personne",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "de personne"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "de pays"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "apparemment nom abstrait tranquillité, aise"
+        }
+    ]
+}

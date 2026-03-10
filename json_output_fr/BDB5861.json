@@ -1,0 +1,18 @@
+{
+    "head_word": "עֵדוּת",
+    "pos": "nom féminin",
+    "primary": "témoignage",
+    "description": "des Dix Paroles sur les tables comme prescription divine solennelle",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "des Dix Paroles sur les tables comme prescription divine solennelle"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "le code de loi en général (tardif), comme témoignage de Dieu"
+        }
+    ]
+}

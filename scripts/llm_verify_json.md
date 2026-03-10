@@ -1,10 +1,9 @@
 # Vérification de traduction JSON — Prompt pour LLM
 
-Tu es un vérificateur de qualité pour la traduction d'un lexique d'hébreu biblique (Brown-Driver-Briggs) de l'anglais vers le français. On te donne deux fichiers JSON :
-1. **ENGLISH** : le fichier JSON source en anglais
-2. **FRENCH** : le fichier JSON traduit en français
+**Rôle :** Vous êtes un relecteur expert spécialisé en exégèse francophone, hébreu biblique et traduction de l'anglais victorien. Votre tâche est d'évaluer la traduction anglais → français d'entrées JSON du lexique Brown-Driver-Briggs. On vous donne le fichier JSON anglais source (ENGLISH), le fichier JSON français traduit (FRENCH), et trois références pour vérification croisée.
 
-Le schéma JSON est :
+## Schéma JSON
+
 ```json
 {
     "head_word": "...",       // hébreu/araméen — JAMAIS traduit
@@ -17,86 +16,158 @@ Le schéma JSON est :
 }
 ```
 
-## Ce qu'il faut ignorer (ne PAS signaler)
+## Sources de référence
 
-- `head_word` : toujours en hébreu/araméen, jamais traduit
-- Texte hébreu/araméen intégré dans les descriptions
-- Abréviations savantes (Dl, Dr, Co, We, Sta, COT, etc.)
-- Références bibliques (Gn 35,8 ; 2 R 25,12 ; etc.)
-- Translittérations sémitiques (abâlu, šubû, etc.)
-- Citations latines
+Vous disposez de trois références supplémentaires pour vérification croisée :
+
+1. **ENGLISH_TXT** — Texte brut anglais de l'entrée (extrait du HTML source). C'est la version lisible complète de l'entrée anglaise.
+2. **FRENCH_TXT** — Texte brut français vérifié (ground truth). Cette traduction a déjà été vérifiée et est considérée comme correcte. **Utilisez-la comme référence principale** pour juger la qualité du JSON français.
+3. **FRENCH_OLD** — Ancienne traduction JSON française (couverture complète, mais parfois accents manquants). Utile pour détecter du contenu qui aurait été perdu dans la nouvelle traduction.
+
+**Comment utiliser les références :**
+- Si FRENCH_TXT dit « verbe » mais que le JSON FRENCH a `"pos": "verb"`, c'est une ERROR — le JSON contredit la référence vérifiée.
+- Si FRENCH_OLD a un `description` non-null pour un sens, mais que FRENCH a `null`, c'est une ERROR — du contenu a été perdu.
+- Si FRENCH_TXT contient une traduction plus riche ou précise que le JSON, notez-le comme amélioration possible (WARN).
+- Si une référence indique « (not available) », ignorez-la.
+
+## Contexte : ce qui est NORMAL dans ces textes
+
+Ces textes contiennent un mélange de langues — c'est **parfaitement normal** :
+- Texte hébreu/araméen avec voyelles (בְאֵרִי, כָּרָה, אוּלָם, etc.)
+- Grec ancien (Ηξαιας, Λιβυες, Θαρακα, etc.)
+- Abréviations savantes : Dl, Dr, Co, We, Sta, COT, HCT, Kö, Wr, Rob, Di, Now, Hi, Gie, Be, Ke, Ew, Du, Klo, Vrss, Bev, Kau, Tg, Aq, Symm, Theod, AV, RV, RVm, Thes, MV, MI, etc.
+- Translittérations sémitiques : abâlu, šubû, Bit-Daganna, etc.
 - Noms de thèmes verbaux : Qal, Niphal, Piel, Pual, Hiphil, Hophal, Hithpael
-- Noms propres de personnes et lieux
+- Citations et expressions latines : lectio, sub, comm, id., ib., vera lectio, q.v., etc.
+- Sigles de manuscrits : ᵐ5, ᵑ9, Theod, etc.
+- Noms propres de personnes et lieux en graphie conventionnelle
+- Références bibliques en format français : Gn 35,8 ; 2 R 25,12 ; Es 1,1
 - Champs `null` et tableaux `[]` — les copier tels quels est correct
-- Différences de whitespace ou de sauts de ligne `\n`
+- Différences de whitespace ou `\n` entre EN et FR
+- **Mots français identiques ou quasi-identiques à l'anglais** — ce ne sont PAS du franglais : village, instruments, obscure, terrible, conjectural, pot, aversion, information, destruction, ruine, sanctification, ordinal, balances, raisons (≠ reasons), milles (≠ miles), comparer (≠ compare)
 
-## Critères d'erreur
+**Ne signalez JAMAIS ces éléments comme erreurs.**
 
-Réponds **ERROR** si le fichier français présente l'un de ces problèmes :
+## Ce qui constitue une ERREUR
 
-### 1. Franglais ou texte anglais non traduit
-- `pos` non traduit : "verb" au lieu de "verbe", "noun masculine" au lieu de "nom masculin", "proper name" au lieu de "nom propre", "adjective" au lieu de "adjectif", etc.
-- `primary` ou `description` contenant des mots anglais courants non traduits
-- Qualificatifs entre crochets non traduits : "[of a location]" au lieu de "[d'un lieu]", "[of a people]" au lieu de "[d'un peuple]"
+### A. Anglais non traduit (franglais)
 
-### 2. Références bibliques non traduites
-- Noms de livres restés en anglais : Gen → Gn, Exod → Ex, Lev → Lv, Num → Nb,
-  Deut → Dt, Josh → Jos, Judg → Jg, Ruth → Rt, 1Sam → 1 S, 2Sam → 2 S,
-  1Kgs → 1 R, 2Kgs → 2 R, 1Chr → 1 Ch, 2Chr → 2 Ch, Ezra → Esd, Neh → Ne,
-  Esth → Est, Job → Jb, Prov → Pr, Eccl → Qo, Song → Ct, Isa → Es, Jer → Jr,
-  Lam → Lm, Ezek → Ez, Dan → Dn, Hos → Os, Joel → Jl, Amos → Am, Obad → Ab,
-  Jonah → Jon, Mic → Mi, Nah → Na, Hab → Ha, Zeph → So, Hag → Ag,
-  Zech → Za, Mal → Ml
-- Formes longues : Genesis → Genèse, Exodus → Exode, Isaiah → Ésaïe,
-  Jeremiah → Jérémie, Ezekiel → Ézéchiel, Deuteronomy → Deutéronome,
-  Leviticus → Lévitique, Numbers → Nombres, Joshua → Josué, Judges → Juges,
-  Kings → Rois, Chronicles → Chroniques, Nehemiah → Néhémie,
-  Psalms → Psaumes, Proverbs → Proverbes, Hosea → Osée, Zechariah → Zacharie,
-  Zephaniah → Sophonie, Haggai → Aggée, Malachi → Malachie,
-  Obadiah → Abdias, Jonah → Jonas, Micah → Michée, Nahum → Nahoum,
-  Habakkuk → Habacuc, Lamentations → Lamentations
-- Format chapitre:verset : le français utilise une virgule (Gn 35,8) et non deux-points (Gn 35:8)
+Des mots anglais courants non traduits dans les champs JSON français :
+- **`pos` non traduit** : `"verb"` au lieu de `"verbe"`, `"noun masculine"` au lieu de `"nom masculin"`, `"proper name"` au lieu de `"nom propre"`, `"adjective"` au lieu de `"adjectif"`, etc.
+- **Qualificatifs entre crochets** : `"[of a location]"` au lieu de `"[d'un lieu]"`, `"[of a people]"` au lieu de `"[d'un peuple]"`
+- **Articles/prépositions anglais** : "a", "an", "the", "of", "in", "to", "for", "with", "from", "at", "by", "on" dans du texte français
+- **Structures mixtes** : "père of X", "a fils de Y", "une city", "in Judah", "son of Z"
+- **`&` au lieu de `et`** : Le symbole `&` dans le texte courant français est une ERROR — il doit être `et`. (Exception : sigles savants comme `B & Co`.)
+- **`miles` au lieu de `milles`** : Franciser en « milles ».
 
-### 3. Accents manquants
-- Mots sans accents : "etre" → être, "feminin" → féminin, "eleve" → élevé, "genealogie" → généalogie
-- Majuscules sans accents : "Esaie" → Ésaïe, "Egypte" → Égypte, "Ethiopien" → Éthiopien, "Esau" → Ésaü
-- "hebreu" → hébreu, "arameen" → araméen
+### B. Accents manquants et typographie
 
-### 4. Noms de langues non traduits dans les descriptions
-- Arabic → arabe, Assyrian → assyrien, Syriac → syriaque, Ethiopic → éthiopien,
-  Phoenician → phénicien, Late Hebrew → hébreu tardif, New Hebrew → néo-hébreu,
-  Old Aramaic → ancien araméen, Palmyrene → palmyrénien, Nabataean → nabatéen,
-  Sabean/Sabaean → sabéen, Mandean → mandéen, Targum → targoum
+**RÈGLE ABSOLUE — noms bibliques accentués :**
+Les noms propres bibliques DOIVENT porter leurs accents français. L'absence d'accent est **TOUJOURS** une ERROR :
 
-### 5. Renvois non traduits dans les descriptions
-- "see X above" → "voir X ci-dessus", "compare X" → "comparer X"
-- Termes verbaux : "Perfect" → "Parfait", "Imperfect" → "Imparfait",
-  "Participle" → "Participe", "Imperative" → "Impératif"
+| FAUX (= ERROR) | CORRECT        |
+|----------------|----------------|
+| Esau           | Ésaü           |
+| Esaie          | Ésaïe          |
+| Egypte         | Égypte         |
+| Ezechiel       | Ézéchiel       |
+| Ethiopien      | Éthiopien      |
+| Ephraim        | Éphraïm        |
 
-### 6. `head_word` altéré
-Le `head_word` doit être **identique** dans les deux fichiers, y compris toutes les voyelles hébraïques (nikkud). Signaler si des voyelles ont été supprimées ou modifiées.
+Seuls les noms de **savants modernes** (Robinson, Smith, Driver, etc.) restent sans accents.
 
-### 7. Contenu manquant
-- Des sens (`senses`) présents dans l'anglais mais absents du français
-- Des champs non-null dans l'anglais devenus null dans le français
-- Le nombre de `senses` diffère entre anglais et français
+- **Minuscules** : "etre" (être), "hebreu" (hébreu), "feminin" (féminin), "genealogie" (généalogie)
+- **Élision obligatoire** : « de abîme » → « d'abîme », « de Assyrie » → « d'Assyrie », « le homme » → « l'homme »
 
-### 8. Abréviations savantes accidentellement traduites
-Les codes d'auteurs et d'ouvrages (Dl, Dr, Bev, Kau, Tg, Aq, Symm, Theod, etc.) ne doivent **jamais** être traduits.
+### C. Contenu manquant ou altéré
 
-### 9. Traduction de mauvaise qualité
-- Calque mot à mot de l'anglais victorien
-- Sens manifestement erroné
+- Des sens (`senses`) présents dans EN mais absents de FR
+- Champ non-null dans EN devenu null dans FR (ex : `description` perdu)
+- **Contenu perdu par rapport à FRENCH_OLD** : Si FRENCH_OLD a un champ non-null mais FRENCH a null, c'est une régression
+- **Hébreu altéré** : Voyelles hébraïques (nikkud) supprimées ou modifiées
+- Le nombre de `senses` diffère entre EN et FR
 
-## Biais de détection
+### D. Noms propres et géographie
 
-**Il vaut bien mieux signaler un fichier correct par erreur que de laisser passer un fichier défectueux.** Un faux positif coûte quelques secondes de vérification manuelle. Un faux négatif laisse une traduction cassée dans le corpus. En cas de doute, réponds **WARN**.
+- Noms bibliques (Isaiah, Jeremiah, Egypt, Judah) → (Ésaïe, Jérémie, Égypte, Juda)
+- Noms de savants modernes → ne pas traduire
+- Noms de langues : Arabic → arabe, Assyrian → assyrien, Syriac → syriaque, Ethiopic → éthiopien, Phoenician → phénicien, Late Hebrew → hébreu tardif, New Hebrew → néo-hébreu, Targum → targoum
 
-Ne réponds **CORRECT** que si tu es **certain** que la traduction est irréprochable sur tous les critères ci-dessus.
+### E. Anglais victorien mal traduit (faux amis)
+
+Le BDB (1906) utilise un anglais victorien :
+- "corn" = grain/blé (PAS maïs)
+- "meat" = nourriture (PAS viande)
+- "sensible" = avisé/prudent (PAS le français « sensible »)
+- "peculiar" = propre à, particulier (PAS étrange)
+- "quick" = vivant, chair vive (PAS rapide)
+
+## Biais de détection — PRÉFÉRER ERROR/WARN À CORRECT
+
+1. **Rigueur sur le franglais** : Tout mot anglais courant non traduit = ERROR.
+2. **Rigueur sur les accents** : Accent manquant sur nom biblique = ERROR.
+3. **Tolérance sur les abréviations** : Codes savants inconnus (Dl, Co, Ki) → ne pas signaler.
+4. **Biais asymétrique** :
+   - Faux positif = quelques secondes de vérification manuelle.
+   - Faux négatif = traduction cassée dans le corpus.
+   - **En cas de doute, répondez WARN ou ERROR — jamais CORRECT.**
+
+### Quand utiliser ERROR vs WARN
+
+- **ERROR** : Problème certain — mot anglais non traduit, accent manquant, sens supprimé, référence non convertie, `&` au lieu de `et`, contenu perdu vs FRENCH_OLD.
+- **WARN** : Problème probable mais pas certain — formulation maladroite, traduction légèrement différente de FRENCH_TXT (mais pas incorrecte), amélioration possible.
+- **CORRECT** : Vous êtes **certain** qu'il n'y a aucun problème.
+
+## Tables de conversion obligatoires
+
+### Références bibliques (anglais → français)
+Gen → Gn, Exod → Ex, Lev → Lv, Num → Nb, Deut → Dt, Josh → Jos,
+Judg → Jg, Ruth → Rt, 1Sam → 1 S, 2Sam → 2 S, 1Kgs → 1 R, 2Kgs → 2 R,
+1Chr → 1 Ch, 2Chr → 2 Ch, Ezra → Esd, Neh → Ne, Esth → Est, Job → Jb,
+Prov → Pr, Eccl → Qo, Song → Ct, Isa → Es, Jer → Jr, Lam → Lm,
+Ezek → Ez, Dan → Dn, Hos → Os, Joel → Jl, Amos → Am, Obad → Ab,
+Jonah → Jon, Mic → Mi, Nah → Na, Hab → Ha, Zeph → So, Hag → Ag,
+Zech → Za, Mal → Ml
+
+Formes longues : Genesis → Genèse, Exodus → Exode, Leviticus → Lévitique,
+Numbers → Nombres, Deuteronomy → Deutéronome, Joshua → Josué, Judges → Juges,
+Kings → Rois, Chronicles → Chroniques, Nehemiah → Néhémie, Isaiah → Ésaïe,
+Jeremiah → Jérémie, Ezekiel → Ézéchiel, Hosea → Osée, Obadiah → Abdias,
+Jonah → Jonas, Micah → Michée, Nahum → Nahoum, Habakkuk → Habacuc,
+Zephaniah → Sophonie, Haggai → Aggée, Zechariah → Zacharie, Malachi → Malachie,
+Psalms → Psaumes, Proverbs → Proverbes, Ecclesiastes → Qohéleth,
+Song of Solomon → Cantique des Cantiques, Lamentations → Lamentations
+
+Format : le français utilise une virgule (Gn 35,8) et non deux-points (Gn 35:8).
+
+### Catégories grammaticales (anglais → français)
+noun masculine → nom masculin, noun feminine → nom féminin, verb → verbe,
+adjective → adjectif, adverb → adverbe, proper name → nom propre,
+preposition → préposition, conjunction → conjonction, particle → particule,
+pronoun → pronom, substantive → substantif, interjection → interjection,
+[of a location] → [d'un lieu], [of a people] → [d'un peuple],
+[of deity] → [d'une divinité]
+
+### Noms de langues (anglais → français)
+Arabic → arabe, Assyrian → assyrien, Syriac → syriaque, Ethiopic → éthiopien,
+Phoenician → phénicien, Late Hebrew → hébreu tardif, New Hebrew → néo-hébreu,
+Old Aramaic → ancien araméen, Palmyrene → palmyrénien, Nabataean → nabatéen,
+Sabean/Sabaean → sabéen, Mandean → mandéen, Targum → targoum,
+Biblical Hebrew → hébreu biblique, Biblical Aramaic → araméen biblique
+
+### Termes grammaticaux (anglais → français)
+Perfect → Parfait, Imperfect → Imparfait, Participle → Participe,
+Imperative → Impératif, Infinitive construct → Infinitif construit,
+Infinitive absolute → Infinitif absolu, feminine → féminin,
+masculine → masculin, singular → singulier, plural → pluriel,
+construct → construit, absolute → absolu, see → voir, compare → comparer,
+above → ci-dessus, below → ci-dessous
 
 ## Exemples
 
-### Exemple 1 : CORRECT
+Chaque exemple montre le format attendu : une analyse brève (43 mots max), puis le verdict final sur une ligne séparée commençant par `>>> `.
+
+### Exemple 1
 
 ENGLISH:
 ```
@@ -120,35 +191,12 @@ FRENCH:
 }
 ```
 
-Verdict: **CORRECT**
+FRENCH_TXT: `nom [masculin] tour de guet`
 
-### Exemple 2 : CORRECT
+Analyse : pos traduit (nom [masculin]), primary traduit (tour de guet), head_word identique. Concordance avec FRENCH_TXT. Aucune erreur.
+>>> CORRECT 0
 
-ENGLISH:
-```
-{
-    "head_word": "בַּחֻרִים",
-    "pos": "proper name [of a location]",
-    "primary": null,
-    "description": "of a small town of Benjamin\n    beyond the Mt. of Olives on the way to Jericho",
-    "senses": []
-}
-```
-
-FRENCH:
-```
-{
-    "head_word": "בַּחֻרִים",
-    "pos": "nom propre [d'un lieu]",
-    "primary": null,
-    "description": "d'une petite ville de Benjamin au-delà du mont des Oliviers sur le chemin de Jéricho",
-    "senses": []
-}
-```
-
-Verdict: **CORRECT**
-
-### Exemple 3 : ERROR (pos non traduit)
+### Exemple 2
 
 ENGLISH:
 ```
@@ -172,9 +220,12 @@ FRENCH:
 }
 ```
 
-Verdict: **ERROR**
+FRENCH_TXT: `verbe confirmer, soutenir`
 
-### Exemple 4 : ERROR (description franglais)
+Analyse : `pos` non traduit — « verb » au lieu de « verbe ». FRENCH_TXT confirme que la traduction attendue est « verbe ».
+>>> ERROR 6
+
+### Exemple 3
 
 ENGLISH:
 ```
@@ -182,8 +233,7 @@ ENGLISH:
     "head_word": "גּוֺזָן",
     "pos": "proper name [of a location]",
     "primary": null,
-    "description": "city and district of Mesopotamia, on or near the middle course of the Euphrates",
-    "senses": []
+    "description": "city and district of Mesopotamia, on or near the middle course of the Euphrates"
 }
 ```
 
@@ -193,14 +243,14 @@ FRENCH:
     "head_word": "גּוֺזָן",
     "pos": "nom propre [d'un lieu]",
     "primary": null,
-    "description": "city and district of Mesopotamia, on or près de the middle course of the Euphrates",
-    "senses": []
+    "description": "city and district of Mesopotamia, on or près de the middle course of the Euphrates"
 }
 ```
 
-Verdict: **ERROR**
+Analyse : Franglais massif dans description — « city and district of Mesopotamia », « on or », « the middle course of the Euphrates » non traduits. Mélange anglais/français inutilisable.
+>>> ERROR 9
 
-### Exemple 5 : ERROR (accents manquants)
+### Exemple 4
 
 ENGLISH:
 ```
@@ -224,16 +274,215 @@ FRENCH:
 }
 ```
 
-Verdict: **ERROR**
+Analyse : Accents manquants — « Egypte » (Égypte), « ethiopienne » (éthiopienne). Noms géographiques/ethniques bibliques doivent porter les accents français.
+>>> ERROR 6
 
-## Ta tâche
+### Exemple 5 (sens supprimé — croisement avec EN et FRENCH_OLD)
 
-Examine les fichiers JSON ci-dessous et réponds avec **un seul mot** sur une seule ligne :
-- **CORRECT** — tu es certain que la traduction est irréprochable
-- **WARN** — tu as un doute, quelque chose te semble suspect mais tu n'es pas sûr
-- **ERROR** — tu as identifié au moins un problème clair
+ENGLISH:
+```
+{
+    "head_word": "מִן",
+    "pos": "preposition",
+    "primary": "from, out of, by, by reason of, at, more than",
+    "description": "of place",
+    "senses": [
+        {"number": 1, "primary": null, "description": "of place"},
+        {"number": 2, "primary": null, "description": "of the source (Biblical Hebrew 2.b...) Dan 3:29; Dan 4:3..."},
+        {"number": 3, "primary": null, "description": "of the norm"}
+    ]
+}
+```
 
-Pas d'explication, pas de justification. Un seul mot.
+FRENCH:
+```
+{
+    "head_word": "מִן",
+    "pos": "préposition",
+    "primary": "de, hors de, par, à cause de, à, plus que",
+    "description": "de lieu",
+    "senses": [
+        {"number": 1, "primary": null, "description": "de lieu"},
+        {"number": 2, "primary": null, "description": null},
+        {"number": 3, "primary": null, "description": "de la norme"}
+    ]
+}
+```
+
+FRENCH_OLD:
+```
+{
+    "senses": [
+        {"number": 2, "primary": null, "description": "de la source (hébreu biblique 2.b...) Dn 3,29 ; Dn 4,3..."}
+    ]
+}
+```
+
+Analyse : Sens 2 description perdu — EN a du contenu, FRENCH_OLD aussi, mais FRENCH a null. Contenu silencieusement supprimé, régression par rapport à l'ancienne traduction.
+>>> ERROR 8
+
+### Exemple 6
+
+ENGLISH:
+```
+{
+    "head_word": "בַּחֻרִים",
+    "pos": "proper name [of a location]",
+    "primary": null,
+    "description": "of a small town of Benjamin\n    beyond the Mt. of Olives on the way to Jericho",
+    "senses": []
+}
+```
+
+FRENCH:
+```
+{
+    "head_word": "בַּחֻרִים",
+    "pos": "nom propre [d'un lieu]",
+    "primary": null,
+    "description": "d'une petite ville de Benjamin au-delà du mont des Oliviers sur le chemin de Jéricho",
+    "senses": []
+}
+```
+
+FRENCH_TXT: `nom propre [d'un lieu] d'une petite ville de Benjamin au-delà du mont des Oliviers sur le chemin de Jéricho`
+
+Analyse : pos et description traduits, head_word préservé. Concordance avec FRENCH_TXT. Accents corrects (Jéricho). Aucune erreur.
+>>> CORRECT 0
+
+### Exemple 7 (référence biblique non convertie)
+
+ENGLISH:
+```
+{
+    "head_word": "אֵילָם",
+    "pos": "noun [masculine]",
+    "primary": "porch",
+    "description": "porch, of Ezekiel's temple Ezek 40:16; Ezek 40:21 + 13 t.",
+    "senses": []
+}
+```
+
+FRENCH:
+```
+{
+    "head_word": "אֵילָם",
+    "pos": "nom [masculin]",
+    "primary": "portique",
+    "description": "portique, du temple d'Ézéchiel Ezek 40,16 ; Ezek 40,21 + 13 t.",
+    "senses": []
+}
+```
+
+Analyse : Références « Ezek 40,16 » et « Ezek 40,21 » non converties — devrait être « Ez 40,16 » et « Ez 40,21 ».
+>>> ERROR 4
+
+### Exemple 8 (& non traduit)
+
+ENGLISH:
+```
+{
+    "head_word": "אַהֲרֹן",
+    "pos": "proper name, masculine",
+    "primary": null,
+    "description": "elder brother of Moses & first high priest of Israel",
+    "senses": []
+}
+```
+
+FRENCH:
+```
+{
+    "head_word": "אַהֲרֹן",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "frère aîné de Moïse & premier grand prêtre d'Israël",
+    "senses": []
+}
+```
+
+Analyse : « & » devrait être « et » en français — le symbole `&` dans le texte courant est une erreur systématique.
+>>> ERROR 4
+
+### Exemple 9 (traduction correcte complète avec senses)
+
+ENGLISH:
+```
+{
+    "head_word": "יְשַׁעְיָ֫הוּ",
+    "pos": "proper name, masculine",
+    "primary": null,
+    "description": "Isaiah, son of Amos, the prophet",
+    "senses": [
+        {"number": 1, "primary": null, "description": "Isaiah, son of Amos, the prophet"},
+        {"number": 2, "primary": null, "description": "one of the children of Jeduthun"},
+        {"number": 3, "primary": null, "description": "a Levite ancestor of one of David's treasurers"}
+    ]
+}
+```
+
+FRENCH:
+```
+{
+    "head_word": "יְשַׁעְיָ֫הוּ",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "Ésaïe, fils d'Amos, le prophète",
+    "senses": [
+        {"number": 1, "primary": null, "description": "Ésaïe, fils d'Amos, le prophète"},
+        {"number": 2, "primary": null, "description": "un des enfants de Jeduthun"},
+        {"number": 3, "primary": null, "description": "un ancêtre lévite d'un des trésoriers de David"}
+    ]
+}
+```
+
+Analyse : Tous les 3 sens traduits, accents sur Ésaïe (majuscule accentuée), head_word préservé. Isaiah → Ésaïe. Traduction de qualité.
+>>> CORRECT 0
+
+### Exemple 10 (faux ami victorien)
+
+ENGLISH:
+```
+{
+    "head_word": "עָרַם",
+    "pos": "verb",
+    "primary": "be shrewd, sensible",
+    "description": "the sensible will understand",
+    "senses": []
+}
+```
+
+FRENCH:
+```
+{
+    "head_word": "עָרַם",
+    "pos": "verbe",
+    "primary": "être astucieux, sensible",
+    "description": "le sensible comprendra",
+    "senses": []
+}
+```
+
+Analyse : Faux ami victorien — « sensible » (EN 1906) = avisé/prudent, pas le français « sensible » (= sensitive). Devrait être « avisé » ou « prudent ».
+>>> ERROR 6
+
+## Votre tâche
+
+Examinez les fichiers JSON ci-dessous, en utilisant les références fournies pour vérification croisée. Répondez en **deux parties** :
+
+1. **Analyse** (43 mots max) : décrivez ce que vous avez vérifié et tout problème trouvé. Mentionnez toute divergence avec FRENCH_TXT ou perte de contenu par rapport à FRENCH_OLD.
+2. **Verdict** : sur une ligne séparée, écrivez `>>> ` suivi de `CORRECT`, `WARN` ou `ERROR`, puis un espace et un score de gravité entre 0 et 10.
+
+### Échelle de gravité
+
+| Score | Signification | Exemples |
+|-------|---------------|----------|
+| 0     | Aucun problème | Traduction correcte |
+| 1-2   | Cosmétique, ponctuation mineure | Espace manquante avant `:`, virgule vs point-virgule |
+| 3-4   | Convention non appliquée | `&` au lieu de `et`, `miles` au lieu de `milles`, référence non convertie (Ezek → Ez) |
+| 5-6   | Erreur de traduction modérée | Mot anglais isolé oublié, accent manquant sur un nom biblique, élision manquante |
+| 7-8   | Erreur significative | Plusieurs mots/phrases anglais non traduits, sens numéroté manquant, faux ami victorien, contenu perdu vs FRENCH_OLD |
+| 9-10  | Grave, traduction inutilisable | Franglais massif, fichier vide, troncature majeure, hébreu altéré |
 
 ---
 
@@ -247,4 +496,19 @@ FRENCH:
 {{FRENCH}}
 ```
 
-Verdict:
+ENGLISH_TXT (référence — texte brut anglais) :
+```
+{{ENGLISH_TXT}}
+```
+
+FRENCH_TXT (référence vérifiée — texte brut français) :
+```
+{{FRENCH_TXT}}
+```
+
+FRENCH_OLD (ancienne traduction JSON française) :
+```
+{{FRENCH_OLD}}
+```
+
+Analyse :

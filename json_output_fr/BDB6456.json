@@ -1,0 +1,23 @@
+{
+    "head_word": "ע֫שֶׁק",
+    "pos": "nom masculin",
+    "primary": "oppression, extorsion",
+    "description": null,
+    "senses": [
+        {
+            "number": 1,
+            "primary": "oppression, extorsion",
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "concrètement, gains extorqués"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "acte d'extorsion"
+        }
+    ]
+}

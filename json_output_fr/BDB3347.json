@@ -1,0 +1,23 @@
+{
+    "head_word": "טָמֵא",
+    "pos": "adjectif",
+    "primary": "impur",
+    "description": "éthiquement et religieusement",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "éthiquement et religieusement"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "rituellement"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "spécifiquement des lieux"
+        }
+    ]
+}

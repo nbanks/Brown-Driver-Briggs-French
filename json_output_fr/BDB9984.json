@@ -1,0 +1,28 @@
+{
+    "head_word": "שְׁרָא",
+    "pos": "verbe",
+    "primary": "délier",
+    "description": "figuré délier des nœuds, c.-à-d. résoudre des difficultés",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "délier",
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": "demeurer",
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "figuré délier des nœuds, c.-à-d. résoudre des difficultés"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "du fait de délier les sangles, les charges, au campement"
+        }
+    ]
+}

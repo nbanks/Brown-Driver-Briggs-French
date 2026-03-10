@@ -1,0 +1,23 @@
+{
+    "head_word": "עִיר",
+    "pos": "nom féminin",
+    "primary": "ville, cité",
+    "description": "demeure des hommes",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "demeure des hommes"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "d'une forteresse dans une ville, en particulier עִיר דָּוִד"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "apparemment lieu fortifié, de toute taille"
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "head_word": "יְהוֺחָנָן",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "un prêtre",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "un prêtre"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "lévite"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "fils de Tobiya"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "portier au temps de David"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "un capitaine judéen"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "un Éphraïmite"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "un Israélite, au temps d'Esdras"
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "un capitaine juif, après la chute de Jérusalem"
+        },
+        {
+            "number": 9,
+            "primary": null,
+            "description": "fils aîné du roi Josias"
+        },
+        {
+            "number": 10,
+            "primary": null,
+            "description": "un prince post-exilique de la lignée de David"
+        },
+        {
+            "number": 11,
+            "primary": null,
+            "description": "père d'Azaria, prêtre au temps de Salomon"
+        },
+        {
+            "number": 12,
+            "primary": null,
+            "description": "deux des guerriers vaillants de David"
+        },
+        {
+            "number": 13,
+            "primary": null,
+            "description": "un exilé de retour"
+        }
+    ]
+}

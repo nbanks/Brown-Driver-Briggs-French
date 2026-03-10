@@ -1,0 +1,38 @@
+{
+    "head_word": "כִּכָּר",
+    "pos": "nom féminin",
+    "primary": "une rondeur",
+    "description": "(ou ovale) spécialement de la vallée du Jourdain",
+    "senses": [
+        {
+            "number": 1,
+            "primary": "un district arrondi",
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": "un pain rond",
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": "un poids rond, talent",
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "(ou ovale) spécialement de la vallée du Jourdain"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "de pain (d'après la forme ronde)"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "(aussi d'après la forme)"
+        }
+    ]
+}

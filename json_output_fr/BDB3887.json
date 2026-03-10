@@ -1,0 +1,43 @@
+{
+    "head_word": "כָּבוֺד",
+    "pos": "nom masculin",
+    "primary": "abondance, honneur, gloire",
+    "description": "des hommes",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "des hommes"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "poétique du siège de l'honneur dans l'homme intérieur, la partie la plus noble de l'homme"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "comme dû à quelqu'un ou attribué à quelqu'un"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "comme objet d'honneur, de vénération et de glorification"
+        }
+    ]
+}

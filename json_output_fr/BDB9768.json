@@ -1,0 +1,33 @@
+{
+    "head_word": "עַל",
+    "pos": "préposition",
+    "primary": "sur, au-dessus de, à cause de, vers, contre",
+    "description": "idiomatique",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "idiomatique"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "avec des verbes de gouvernement, de nomination, etc."
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "dans un sens comparatif"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "exprimant la direction :"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "dans de telles expressions"
+        }
+    ]
+}

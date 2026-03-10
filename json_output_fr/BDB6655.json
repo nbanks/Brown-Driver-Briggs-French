@@ -1,0 +1,18 @@
+{
+    "head_word": "תְּפִלָּה",
+    "pos": "nom féminin",
+    "primary": "prière",
+    "description": "prier une prière",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "prier une prière"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "dans les titres de Psaumes, prière poétique, liturgique"
+        }
+    ]
+}

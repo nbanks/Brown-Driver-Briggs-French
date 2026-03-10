@@ -1,0 +1,38 @@
+{
+    "head_word": "נָדַח",
+    "pos": "verbe",
+    "primary": "pousser, chasser, bannir",
+    "description": "(c.-à-d. manier)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "(c.-à-d. manier)"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "(du troupeau, c.-à-d.) égaré"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

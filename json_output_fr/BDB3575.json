@@ -1,0 +1,23 @@
+{
+    "head_word": "יָמִין",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "fils de Siméon",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "fils de Siméon"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "homme de Juda"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "nom lévitique (?), époque d'Esdras"
+        }
+    ]
+}

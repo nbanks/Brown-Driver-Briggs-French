@@ -1,0 +1,33 @@
+{
+    "head_word": "עָנָה",
+    "pos": "verbe",
+    "primary": "répondre",
+    "description": "répondre à quelque chose de dit, réel ou implicite",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "répondre à quelque chose de dit, réel ou implicite"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "réagir à une occasion, parler en vue des circonstances"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "spécifiquement répondre en tant que témoin"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "de l'homme = recevoir une réponse"
+        }
+    ]
+}

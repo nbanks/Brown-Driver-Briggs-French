@@ -1,0 +1,23 @@
+{
+    "head_word": "חֲנִית",
+    "pos": "nom féminin",
+    "primary": "lance",
+    "description": "hampe de lance",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "hampe de lance"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "métaphore des dents de lions"
+        }
+    ]
+}

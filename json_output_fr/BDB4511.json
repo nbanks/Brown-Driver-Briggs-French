@@ -1,0 +1,23 @@
+{
+    "head_word": "מַד",
+    "pos": "nom masculin",
+    "primary": "mesure",
+    "description": "aussi vêtement de tissu (comme étendu, large)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "(seulement pluriel) = répartition"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "peut-être tissu, tapis (pour s'asseoir)"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": null
+        }
+    ]
+}

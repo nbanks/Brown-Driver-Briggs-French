@@ -1,0 +1,23 @@
+{
+    "head_word": "חָמַם",
+    "pos": "verbe",
+    "primary": "être ou devenir chaud",
+    "description": "littéral",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "littéral"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "figuré"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "de la chaleur lors de la conception (animaux)"
+        }
+    ]
+}

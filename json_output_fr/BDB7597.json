@@ -1,0 +1,33 @@
+{
+    "head_word": "קֶ֫רֶן",
+    "pos": "nom féminin",
+    "primary": "corne",
+    "description": "de bélier",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "de bélier"
+        },
+        {
+            "number": 2,
+            "primary": "surtout comme élevée",
+            "description": "figuré, d'une personne, symbole de force"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "de l'autel, saillies en forme de corne aux angles"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": null
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "d'éclairs dans la théophanie"
+        }
+    ]
+}

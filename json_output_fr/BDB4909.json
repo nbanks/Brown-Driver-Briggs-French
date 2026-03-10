@@ -1,0 +1,28 @@
+{
+    "head_word": "נָא",
+    "pos": "particule [de prière]",
+    "primary": "je (nous) t'en prie, donc",
+    "description": "(enclitique)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "à l'impératif"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "au parfait"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "à l'imparfait"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "joint aux conjonctions et interjections"
+        }
+    ]
+}

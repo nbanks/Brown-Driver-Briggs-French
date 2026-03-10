@@ -1,0 +1,38 @@
+{
+    "head_word": "נְתַנְאֵל",
+    "pos": "nom propre, masculin",
+    "primary": null,
+    "description": "un chef d'Issacar",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "un chef d'Issacar"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "4e fils de Jessé"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "nom de prêtres"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "fils de prêtre (qui avait pris une femme étrangère)"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "nom lévitique"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "un prince de Josaphat"
+        }
+    ]
+}

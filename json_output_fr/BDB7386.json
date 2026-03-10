@@ -1,0 +1,28 @@
+{
+    "head_word": "מָקוֺר",
+    "pos": "nom masculin",
+    "primary": "source, fontaine",
+    "description": "(apparemment à l'origine puits)",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "d'eau"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "figuré de l'œil"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "du sang menstruel"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "= flux de sang"
+        }
+    ]
+}

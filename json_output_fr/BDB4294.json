@@ -1,0 +1,58 @@
+{
+    "head_word": "לֵבָב",
+    "pos": "nom masculin",
+    "primary": "homme intérieur, esprit, volonté, cœur",
+    "description": "rarement des choses",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "par contraste avec l'extérieur"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "indéfini l'âme, comprenant l'esprit, les affections et la volonté, ou, en rapport avec certains verbes, ayant une référence plus spécifique à l'un d'entre eux"
+        },
+        {
+            "number": 3,
+            "primary": null,
+            "description": "référence spécifique à l'esprit (caractéristique de לבב)"
+        },
+        {
+            "number": 4,
+            "primary": null,
+            "description": "référence spécifique aux inclinations, résolutions, déterminations de la volonté (caractéristique de ׳ל)"
+        },
+        {
+            "number": 5,
+            "primary": null,
+            "description": "référence spécifique à la conscience"
+        },
+        {
+            "number": 6,
+            "primary": null,
+            "description": "référence spécifique au caractère moral (caractéristique de ׳ל)"
+        },
+        {
+            "number": 7,
+            "primary": null,
+            "description": "= l'homme lui-même (sens caractéristique de נֶפֶשׁ)"
+        },
+        {
+            "number": 8,
+            "primary": null,
+            "description": "spécifiquement comme siège des appétits (pour lequel habituellement נֶפֶשׁ)"
+        },
+        {
+            "number": 9,
+            "primary": null,
+            "description": "spécifiquement du siège des émotions et des passions (pour lequel habituellement נפשׁ)"
+        },
+        {
+            "number": 10,
+            "primary": null,
+            "description": "siège du courage (pour lequel habituellement רוּחַ)"
+        }
+    ]
+}

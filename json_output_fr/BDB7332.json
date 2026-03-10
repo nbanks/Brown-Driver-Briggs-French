@@ -1,0 +1,18 @@
+{
+    "head_word": "קָהָל",
+    "pos": "nom masculin",
+    "primary": "assemblée, convocation, congrégation",
+    "description": "spécialement convoquée",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "spécialement convoquée"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "comme corps organisé"
+        }
+    ]
+}
