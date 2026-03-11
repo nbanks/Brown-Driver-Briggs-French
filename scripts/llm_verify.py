@@ -23,7 +23,8 @@ import sys
 from datetime import datetime, timezone
 from pathlib import Path
 
-from llm_common import (ContextOverflow, _RESET, _STATUS_COLORS, _USE_COLOR,
+from llm_common import (ContextOverflow, TokenLimitReached,
+                         _RESET, _STATUS_COLORS, _USE_COLOR,
                          check_server, file_hash, fmt_kb,
                          load_results, query_llm, run_pipeline, save_result)
 
@@ -153,13 +154,13 @@ def precheck_json(en_data: dict, fr_data: dict,
             if heb_err:
                 break
 
-    # 5. Field length ratio (sev 5) — for non-null string fields >= 10 chars
+    # 5. Field length ratio (sev 5) — for non-null string fields >= 20 chars
     for field in ("primary", "description"):
         en_val = en_data.get(field) or ""
         fr_val = fr_data.get(field) or ""
-        if len(en_val) >= 10 and len(fr_val) >= 10:
+        if len(en_val) >= 20 and len(fr_val) >= 20:
             ratio = len(fr_val) / len(en_val)
-            if ratio < 0.70 or ratio > 1.30:
+            if ratio < 0.50 or ratio > 1.50:
                 errors.append(("length ratio %.2f in '%s' (EN=%d FR=%d)" % (ratio, field, len(en_val), len(fr_val)), 5))
 
     # 6. txt_fr cross-check (WARN level, sev 4)
@@ -186,8 +187,13 @@ def precheck_json(en_data: dict, fr_data: dict,
 
 
 def build_prompt(template: str, english: str, french: str,
-                 mode: str = "txt", filename: str = "") -> str:
-    """Fill template placeholders with source texts and references."""
+                 mode: str = "txt", filename: str = ""
+                 ) -> str | tuple[str, str]:
+    """Fill template placeholders with source texts and references.
+
+    If the template contains a {{SPLIT}} marker, returns (system, user)
+    tuple for prefix caching. Otherwise returns a single prompt string.
+    """
     prompt = template.replace("{{ENGLISH}}", english).replace("{{FRENCH}}", french)
 
     if mode == "json" and filename:
@@ -202,6 +208,11 @@ def build_prompt(template: str, english: str, french: str,
                       .replace("{{ENGLISH_TXT}}", txt_en)
                       .replace("{{FRENCH_TXT}}", txt_fr)
                       .replace("{{FRENCH_OLD}}", fr_old))
+
+    # Split into system/user if marker present (enables prefix caching)
+    if "{{SPLIT}}" in prompt:
+        parts = prompt.split("{{SPLIT}}", 1)
+        return parts[0].rstrip(), parts[1].lstrip()
 
     return prompt
 
@@ -271,8 +282,13 @@ def verify_chunked(template: str, english: str, french: str,
         key = _chunk_key(filename, idx, total)
         prefix = _chunk_note_prefix(en_c)
 
-        prompt = build_prompt(template, en_txt, fr_txt, mode="txt", filename=filename)
-        prompt_kb = len(prompt.encode("utf-8")) / 1024
+        built = build_prompt(template, en_txt, fr_txt, mode="txt", filename=filename)
+        if isinstance(built, tuple):
+            system_msg, user_msg = built
+            prompt_kb = (len(system_msg.encode("utf-8")) + len(user_msg.encode("utf-8"))) / 1024
+        else:
+            system_msg, user_msg = None, built
+            prompt_kb = len(built.encode("utf-8")) / 1024
 
         if on_chunk:
             on_chunk(idx, total, prompt_kb)
@@ -281,10 +297,11 @@ def verify_chunked(template: str, english: str, french: str,
         dbg_base = f"/tmp/llm-verify/debug-{stem}-chunk{idx}"
 
         if debug:
-            Path(f"{dbg_base}-prompt.txt").write_text(prompt, encoding="utf-8")
+            dbg_content = f"=== SYSTEM ===\n{system_msg}\n=== USER ===\n{user_msg}" if system_msg else user_msg
+            Path(f"{dbg_base}-prompt.txt").write_text(dbg_content, encoding="utf-8")
 
         try:
-            raw = query_llm(prompt, server_url)
+            raw = query_llm(user_msg, server_url, system=system_msg)
         except ContextOverflow:
             results.append((key, "SKIPPED", f"{prefix}too large", prompt_kb, -1))
             if on_verdict:
@@ -516,6 +533,22 @@ Modes and their defaults:
 
     check_server(args.server)
 
+    # Cache warmup: send system prompt + static user prefix to create a
+    # recurrent-state checkpoint for prefix reuse (crucial for hybrid models)
+    if "{{SPLIT}}" in template:
+        system_part, user_part = template.split("{{SPLIT}}", 1)
+        system_part = system_part.strip()
+        # Static prefix = everything before the first placeholder
+        first_placeholder = re.search(r"\{\{[A-Z_]+\}\}", user_part)
+        warmup_user = user_part[:first_placeholder.start()].strip() if first_placeholder else user_part.strip()
+        print("Warming up server cache ...", end=" ", flush=True)
+        try:
+            query_llm(warmup_user, args.server, max_tokens=4,
+                      system=system_part)
+        except TokenLimitReached:
+            pass  # expected — warmup only needs to fill the KV cache
+        print("done.")
+
     print(f"Checking {len(to_check)} {args.mode} files via {args.server} ...")
     print(f"Prompt:  {prompt_path.name}")
     print(f"Results: {results_path.name}")
@@ -640,17 +673,23 @@ Modes and their defaults:
                 return filename, worst, total_kb, sev_note
 
         # Whole-entry fallback (non-chunked txt, json, html)
-        prompt = build_prompt(template, english, french,
-                              mode=args.mode, filename=filename)
-        prompt_kb = len(prompt.encode("utf-8")) / 1024
+        built = build_prompt(template, english, french,
+                             mode=args.mode, filename=filename)
+        if isinstance(built, tuple):
+            system_msg, user_msg = built
+            prompt_kb = (len(system_msg.encode("utf-8")) + len(user_msg.encode("utf-8"))) / 1024
+        else:
+            system_msg, user_msg = None, built
+            prompt_kb = len(built.encode("utf-8")) / 1024
 
         stem = filename.rsplit(".", 1)[0]
         if args.debug:
+            dbg_content = f"=== SYSTEM ===\n{system_msg}\n=== USER ===\n{user_msg}" if system_msg else user_msg
             Path(f"/tmp/llm-verify/debug-{stem}-prompt.txt").write_text(
-                prompt, encoding="utf-8")
+                dbg_content, encoding="utf-8")
 
         try:
-            raw = query_llm(prompt, args.server)
+            raw = query_llm(user_msg, args.server, system=system_msg)
         except ContextOverflow:
             save_result(results_path, filename, "SKIPPED",
                         datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S"),

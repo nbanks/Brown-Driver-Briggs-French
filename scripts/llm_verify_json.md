@@ -27,8 +27,17 @@ Vous disposez de trois références supplémentaires pour vérification croisée
 **Comment utiliser les références :**
 - Si FRENCH_TXT dit « verbe » mais que le JSON FRENCH a `"pos": "verb"`, c'est une ERROR — le JSON contredit la référence vérifiée.
 - Si FRENCH_OLD a un `description` non-null pour un sens, mais que FRENCH a `null`, c'est une ERROR — du contenu a été perdu.
-- Si FRENCH_TXT contient une traduction plus riche ou précise que le JSON, notez-le comme amélioration possible (WARN).
 - Si une référence indique « (not available) », ignorez-la.
+
+**IMPORTANT — les champs JSON sont des résumés, PAS des textes complets :**
+Le fichier JSON extrait quelques champs clés de l'entrée : la catégorie grammaticale (`pos`), la glose principale (`primary`), une note (`description`), et une liste de sens (`senses`). Le texte brut (ENGLISH_TXT / FRENCH_TXT) contient l'entrée *complète* — références bibliques, formes verbales, notes savantes, etc. — et est donc **beaucoup plus long** que le JSON. C'est normal.
+
+**Comment comparer :**
+- Le `pos` du JSON devrait correspondre à la catégorie grammaticale dans les premières lignes du txt (ex : « verbe », « nom masculin »).
+- Le `primary` du JSON devrait correspondre à la glose principale du txt (ex : « pleurer, porter le deuil »).
+- Le `description` et les `senses` du JSON sont des extraits courts — ils ne reprennent pas tout le détail du txt.
+- **Ne signalez JAMAIS le JSON comme « incomplet »** parce qu'il contient moins de texte que FRENCH_TXT. Utilisez FRENCH_TXT uniquement pour vérifier que ce qui *est* présent dans le JSON est *correct* (bonne traduction, bons accents, bon vocabulaire).
+- **Si le JSON FRENCH contredit FRENCH_TXT, c'est une ERROR.** Par exemple : FRENCH_TXT dit « verbe » mais le JSON a `"pos": "verb"` (non traduit), ou FRENCH_TXT dit « pleurer, porter le deuil » mais le JSON a `"primary": "mourn"` (anglais). Le JSON et le txt doivent être cohérents sur les champs qu'ils partagent.
 
 ## Contexte : ce qui est NORMAL dans ces textes
 
@@ -44,7 +53,9 @@ Ces textes contiennent un mélange de langues — c'est **parfaitement normal** 
 - Références bibliques en format français : Gn 35,8 ; 2 R 25,12 ; Es 1,1
 - Champs `null` et tableaux `[]` — les copier tels quels est correct
 - Différences de whitespace ou `\n` entre EN et FR
-- **Mots français identiques ou quasi-identiques à l'anglais** — ce ne sont PAS du franglais : village, instruments, obscure, terrible, conjectural, pot, aversion, information, destruction, ruine, sanctification, ordinal, balances, raisons (≠ reasons), milles (≠ miles), comparer (≠ compare)
+- **Mots français identiques ou quasi-identiques à l'anglais** — ce ne sont PAS du franglais. Cette liste est non exhaustive : village, instruments, obscure, terrible, conjectural, pot, aversion, information, destruction, ruine, sanctification, ordinal, balances, raisons (≠ reasons), milles (≠ miles), comparer (≠ compare), confirmation, corruption, abomination, transgression, tradition, position, condition, possession, mission, passion, nation, portion, direction, construction, distinction, instruction, constitution, substitution, institution, contribution, distribution, purification, exaltation, consolation, lamentation, supplication, accusation, proclamation, abdication, indication, application, demonstration
+
+**ATTENTION : Beaucoup de mots français sont identiques à l'anglais.** Avant de signaler un mot comme « anglais non traduit », vérifiez qu'il n'est pas tout simplement un mot français valide. Si le mot existe en français avec le même sens, ce n'est PAS une erreur. En cas de doute, ne signalez pas.
 
 **Ne signalez JAMAIS ces éléments comme erreurs.**
 
@@ -439,7 +450,94 @@ FRENCH:
 Analyse : Tous les 3 sens traduits, accents sur Ésaïe (majuscule accentuée), head_word préservé. Isaiah → Ésaïe. Traduction de qualité.
 >>> CORRECT 0
 
-### Exemple 10 (faux ami victorien)
+### Exemple 10 (JSON est un résumé — NE PAS signaler comme incomplet)
+
+ENGLISH:
+```
+{
+    "head_word": "א",
+    "pos": null,
+    "primary": null,
+    "description": "Aleph, first letter",
+    "senses": []
+}
+```
+
+FRENCH:
+```
+{
+    "head_word": "א",
+    "pos": null,
+    "primary": null,
+    "description": "Aleph, première lettre",
+    "senses": []
+}
+```
+
+FRENCH_TXT (beaucoup plus long) : `Aleph, première lettre ; en hébreu post-biblique = chiffre 1 (ainsi en marge du TM imprimé) ; א֟ = 1000 ; aucune trace de cet usage à l'époque de l'AT.`
+
+Analyse : Le JSON ne contient qu'un résumé « Aleph, première lettre » — c'est normal, les champs JSON sont des résumés. FRENCH_TXT est la version complète. La traduction présente est correcte.
+>>> CORRECT 0
+
+### Exemple 11 (JSON contredit FRENCH_TXT — cross-check)
+
+ENGLISH:
+```
+{
+    "head_word": "אָבַל",
+    "pos": "verb",
+    "primary": "mourn",
+    "description": null,
+    "senses": []
+}
+```
+
+FRENCH:
+```
+{
+    "head_word": "אָבַל",
+    "pos": "verb",
+    "primary": "mourn",
+    "description": null,
+    "senses": []
+}
+```
+
+FRENCH_TXT: `verbe pleurer, porter le deuil`
+
+Analyse : JSON français non traduit — `pos` reste « verb » (devrait être « verbe ») et `primary` reste « mourn » (devrait être « pleurer, porter le deuil »). FRENCH_TXT confirme les traductions attendues.
+>>> ERROR 9
+
+### Exemple 12 (pos traduit différemment du txt — WARN)
+
+ENGLISH:
+```
+{
+    "head_word": "אֲבִיָּה",
+    "pos": "proper name, masculine",
+    "primary": null,
+    "description": "son of Jeroboam",
+    "senses": []
+}
+```
+
+FRENCH:
+```
+{
+    "head_word": "אֲבִיָּה",
+    "pos": "nom propre masculin",
+    "primary": null,
+    "description": "fils de Jéroboam",
+    "senses": []
+}
+```
+
+FRENCH_TXT: `nom propre, masculin fils de Jéroboam`
+
+Analyse : `pos` a « nom propre masculin » (sans virgule) tandis que FRENCH_TXT a « nom propre, masculin » (avec virgule, comme l'anglais). La virgule manquante est une divergence mineure mais notable.
+>>> WARN 2
+
+### Exemple 13 (faux ami victorien)
 
 ENGLISH:
 ```
@@ -485,7 +583,7 @@ Examinez les fichiers JSON ci-dessous, en utilisant les références fournies po
 | 9-10  | Grave, traduction inutilisable | Franglais massif, fichier vide, troncature majeure, hébreu altéré |
 
 ---
-
+{{SPLIT}}
 ENGLISH:
 ```
 {{ENGLISH}}
