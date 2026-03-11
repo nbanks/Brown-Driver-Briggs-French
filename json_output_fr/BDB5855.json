@@ -1,7 +1,7 @@
 {
     "head_word": "עוֺד",
     "pos": "adverbe",
-    "primary": "un parcours, continuité",
+    "primary": "un tour, continuité",
     "description": "mais utilisé surtout comme adverbe accusatif",
     "senses": [
         {
@@ -12,7 +12,7 @@
         {
             "number": 2,
             "primary": null,
-            "description": "Avec préfixes"
+            "description": "avec des préfixes"
         }
     ]
 }

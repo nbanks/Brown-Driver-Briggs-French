@@ -1,0 +1,1 @@
+Signalé : pos « pluriel » incorrect, devrait être « substantif ». Verdict : le JSON anglais source a pos = "Plural", donc « pluriel » est la traduction correcte. FRENCH_TXT peut différer car extrait du HTML qui contient peut-être plus de contexte. Pas de correction.

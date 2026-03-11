@@ -2,12 +2,12 @@
     "head_word": "שְׁלשִׁים",
     "pos": "nom",
     "primary": "trente",
-    "description": null,
+    "description": "devant un nom singulier",
     "senses": [
         {
             "number": 1,
             "primary": "trente",
-            "description": null
+            "description": "devant un nom singulier"
         },
         {
             "number": 2,

@@ -1,0 +1,2 @@
+Signalé : références bibliques non converties (1Chr → 1 Ch, Josh → Jos).
+Verdict : la source JSON anglaise ne contient pas de références bibliques dans la description. Le fichier ne contient que « probablement erreur pour חֶלְקַת ». Faux positif.

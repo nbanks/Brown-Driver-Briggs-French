@@ -2,7 +2,7 @@
     "head_word": "אַ֫יִן",
     "pos": "particule [de négation]",
     "primary": "rien, néant",
-    "description": "avec substantif, ou pronom",
+    "description": "avec un substantif, ou pronom",
     "senses": [
         {
             "number": 1,
@@ -17,7 +17,7 @@
         {
             "number": 3,
             "primary": null,
-            "description": "avec substantif, ou pronom"
+            "description": "avec un substantif, ou pronom"
         },
         {
             "number": 4,
@@ -32,7 +32,7 @@
         {
             "number": 6,
             "primary": null,
-            "description": "avec préfixes"
+            "description": "avec des préfixes"
         }
     ]
 }

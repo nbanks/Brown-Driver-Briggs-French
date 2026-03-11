@@ -2,12 +2,12 @@
     "head_word": "זְבַדְיָהוּ",
     "pos": "nom propre, masculin",
     "primary": null,
-    "description": "lévites",
+    "description": "Lévites",
     "senses": [
         {
             "number": 1,
             "primary": null,
-            "description": "lévites"
+            "description": "Lévites"
         },
         {
             "number": 2,
@@ -37,7 +37,7 @@
         {
             "number": 7,
             "primary": null,
-            "description": "un de la maison sacerdotale"
+            "description": "un membre de la maison sacerdotale"
         }
     ]
 }

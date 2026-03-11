@@ -17,12 +17,12 @@
         {
             "number": 3,
             "primary": null,
-            "description": "chef d'une famille d'exilés revenant, de lignée douteuse"
+            "description": "chef d'une famille d'exilés de retour, de lignée douteuse"
         },
         {
             "number": 4,
             "primary": null,
-            "description": "un chef des exilés revenant"
+            "description": "un chef des exilés de retour"
         }
     ]
 }

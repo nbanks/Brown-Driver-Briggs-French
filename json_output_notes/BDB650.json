@@ -1,0 +1,1 @@
+Signalé : sens vides alors que FRENCH_TXT a du contenu. Verdict : faux positif, le JSON anglais source a aussi tous les champs à null.

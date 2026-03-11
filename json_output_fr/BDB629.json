@@ -2,22 +2,22 @@
     "head_word": "אָסָף",
     "pos": "nom propre, masculin",
     "primary": null,
-    "description": "père de יוֺאָח le chroniqueur",
+    "description": "père de יוֺאָח l'archiviste",
     "senses": [
         {
             "number": 1,
             "primary": null,
-            "description": "père de יוֺאָח le chroniqueur"
+            "description": "père de יוֺאָח l'archiviste"
         },
         {
             "number": 2,
             "primary": null,
-            "description": "un des principaux musiciens de David, un Lévite, fils de Bérékia"
+            "description": "un des principaux musiciens de David, un lévite, fils de Bérékia"
         },
         {
             "number": 3,
             "primary": null,
-            "description": "gardien du parc du roi"
+            "description": "gardien du parc royal"
         }
     ]
 }

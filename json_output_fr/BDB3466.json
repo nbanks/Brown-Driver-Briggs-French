@@ -2,7 +2,7 @@
     "head_word": "מַדָּע",
     "pos": "nom masculin",
     "primary": "connaissance, pensée",
-    "description": "(aussi dans notre usage) pensée",
+    "description": "(aussi dans notre idiome) pensée",
     "senses": [
         {
             "number": 1,
@@ -12,7 +12,7 @@
         {
             "number": 2,
             "primary": null,
-            "description": "(aussi dans notre usage) pensée"
+            "description": "(aussi dans notre idiome) pensée"
         }
     ]
 }

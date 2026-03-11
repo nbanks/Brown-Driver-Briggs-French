@@ -2,7 +2,7 @@
     "head_word": "חָלַל",
     "pos": "verbe",
     "primary": "souiller, profaner",
-    "description": "traiter une vigne comme bien commun",
+    "description": "traiter une vigne comme profane",
     "senses": [
         {
             "number": 1,
@@ -32,7 +32,7 @@
         {
             "number": 6,
             "primary": null,
-            "description": "traiter une vigne comme bien commun"
+            "description": "traiter une vigne comme profane"
         },
         {
             "number": 7,

@@ -2,7 +2,7 @@
     "head_word": "חָלָה",
     "pos": "verbe",
     "primary": "être faible, malade",
-    "description": "figuré pour se forcer",
+    "description": "figuré pour se fatiguer",
     "senses": [
         {
             "number": 1,
@@ -17,7 +17,7 @@
         {
             "number": 3,
             "primary": null,
-            "description": "figuré pour se forcer"
+            "description": "figuré pour se fatiguer"
         },
         {
             "number": 4,

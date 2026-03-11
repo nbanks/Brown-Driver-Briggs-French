@@ -1,0 +1,1 @@
+Signalé : primary null alors que l'ancienne version avait du contenu. Verdict : l'anglais source a primary=null et description avec le contenu. La FR suit correctement la structure EN. L'ancienne version avait incorrectement mis le contenu en primary. Aucune correction nécessaire.

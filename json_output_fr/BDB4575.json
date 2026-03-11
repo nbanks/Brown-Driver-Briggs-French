@@ -2,7 +2,7 @@
     "head_word": "מַמְזֵר",
     "pos": "nom masculin",
     "primary": "bâtard",
-    "description": "spécifiquement enfant d'un inceste",
+    "description": "spécifiquement enfant d'inceste",
     "senses": [
         {
             "number": 1,
@@ -12,7 +12,7 @@
         {
             "number": 2,
             "primary": null,
-            "description": "peut-être figuré collectif, d'une population mélangée"
+            "description": "peut-être figuré collectif, d'une population mêlée"
         }
     ]
 }

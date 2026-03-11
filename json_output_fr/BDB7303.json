@@ -2,17 +2,17 @@
     "head_word": "קֶ֫דֶם",
     "pos": "nom [masculin]",
     "primary": "devant, est, autrefois",
-    "description": "location",
+    "description": "lieu",
     "senses": [
         {
             "number": 1,
             "primary": null,
-            "description": "location"
+            "description": "lieu"
         },
         {
             "number": 2,
             "primary": null,
-            "description": "temporal"
+            "description": "temporel"
         }
     ]
 }

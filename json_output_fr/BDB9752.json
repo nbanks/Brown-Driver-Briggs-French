@@ -1,13 +1,13 @@
 {
     "head_word": "עַד",
     "pos": "préposition",
-    "primary": "jusqu'à",
-    "description": "de lieu",
+    "primary": "même jusqu'à",
+    "description": "d'espace",
     "senses": [
         {
             "number": 1,
             "primary": null,
-            "description": "de lieu"
+            "description": "d'espace"
         },
         {
             "number": 2,

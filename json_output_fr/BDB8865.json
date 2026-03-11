@@ -2,7 +2,7 @@
     "head_word": "מִשְׁמָר",
     "pos": "nom [masculin]",
     "primary": "lieu de détention, geôle, prison",
-    "description": "services, du temple",
+    "description": "offices, du temple",
     "senses": [
         {
             "number": 1,
@@ -17,7 +17,7 @@
         {
             "number": 3,
             "primary": null,
-            "description": "services, du temple"
+            "description": "offices, du temple"
         }
     ]
 }

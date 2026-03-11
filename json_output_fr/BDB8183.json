@@ -2,17 +2,17 @@
     "head_word": "שׂוֺכֹה",
     "pos": "nom propre [d'un lieu]",
     "primary": "en Juda :",
-    "description": "in Shephelah",
+    "description": "dans la Shephelah",
     "senses": [
         {
             "number": 1,
             "primary": null,
-            "description": "in Shephelah"
+            "description": "dans la Shephelah"
         },
         {
             "number": 2,
             "primary": null,
-            "description": "in hill-country"
+            "description": "dans la montagne"
         }
     ]
 }

@@ -2,7 +2,7 @@
     "head_word": "סָרַח",
     "pos": "verbe",
     "primary": "aller librement, être sans retenue, déborder, excéder",
-    "description": "d'étoffes qui dépassent (proprement débordant, excédant, étendu au-delà des limites)",
+    "description": "d'étoffes qui pendent (proprement débordant, excédant, étendu au-delà des limites)",
     "senses": [
         {
             "number": 1,
@@ -12,7 +12,7 @@
         {
             "number": 2,
             "primary": null,
-            "description": "d'étoffes qui dépassent (proprement débordant, excédant, étendu au-delà des limites)"
+            "description": "d'étoffes qui pendent (proprement débordant, excédant, étendu au-delà des limites)"
         }
     ]
 }

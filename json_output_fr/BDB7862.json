@@ -2,7 +2,7 @@
     "head_word": "רֶ֫חֶם",
     "pos": "nom masculin",
     "primary": "utérus",
-    "description": "homme du giron, femme esclave",
+    "description": "homme de la matrice, femme esclave",
     "senses": [
         {
             "number": 1,
@@ -12,7 +12,7 @@
         {
             "number": 2,
             "primary": null,
-            "description": "homme du giron, femme esclave"
+            "description": "homme de la matrice, femme esclave"
         }
     ]
 }

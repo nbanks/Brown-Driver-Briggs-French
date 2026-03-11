@@ -17,7 +17,7 @@
         {
             "number": 3,
             "primary": null,
-            "description": "rituellement"
+            "description": "cérémoniellement"
         },
         {
             "number": 4,
@@ -32,7 +32,7 @@
         {
             "number": 6,
             "primary": null,
-            "description": "rituellement"
+            "description": "cérémoniellement"
         },
         {
             "number": 7,
@@ -52,12 +52,12 @@
         {
             "number": 10,
             "primary": null,
-            "description": "rituellement"
+            "description": "cérémoniellement"
         },
         {
             "number": 11,
             "primary": null,
-            "description": "déclarer rituellement impur"
+            "description": "déclarer cérémoniellement impur"
         }
     ]
 }

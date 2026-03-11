@@ -2,7 +2,7 @@
     "head_word": "צַ֫עַד",
     "pos": "nom masculin",
     "primary": "pas, enjambée",
-    "description": "en figure du cours de la vie, de la fortune",
+    "description": "en figure du cours de la vie, du destin",
     "senses": [
         {
             "number": 1,
@@ -12,7 +12,7 @@
         {
             "number": 2,
             "primary": null,
-            "description": "en figure du cours de la vie, de la fortune"
+            "description": "en figure du cours de la vie, du destin"
         }
     ]
 }

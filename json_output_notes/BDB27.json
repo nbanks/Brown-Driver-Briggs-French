@@ -1,0 +1,2 @@
+Signalé : sens 4 description perdu, 'Levite' devrait être 'lévite'.
+Verdict : Faux positif. Sens 4 est null dans l'EN source aussi. « lévite » est déjà en minuscule avec accent dans le FR. Traduction correcte, aucune modification.

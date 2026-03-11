@@ -1,8 +1,8 @@
 {
     "head_word": "אַלּוּף",
     "pos": "adjectif",
-    "primary": "apprivoiser",
-    "description": "i. q. I. אֶלֶף",
+    "primary": "apprivoisé",
+    "description": "c.-à-d. I. אֶלֶף",
     "senses": [
         {
             "number": 1,
@@ -17,7 +17,7 @@
         {
             "number": 3,
             "primary": null,
-            "description": "i. q. I. אֶלֶף"
+            "description": "c.-à-d. I. אֶלֶף"
         }
     ]
 }

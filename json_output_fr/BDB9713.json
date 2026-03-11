@@ -2,7 +2,7 @@
     "head_word": "נְפַל",
     "pos": "verbe",
     "primary": "tomber",
-    "description": "by violence",
+    "description": "par violence",
     "senses": [
         {
             "number": 1,
@@ -12,7 +12,7 @@
         {
             "number": 2,
             "primary": null,
-            "description": "by violence"
+            "description": "par violence"
         },
         {
             "number": 3,

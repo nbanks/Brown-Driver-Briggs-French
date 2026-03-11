@@ -2,7 +2,7 @@
     "head_word": "מָצוֺר",
     "pos": "nom [masculin]",
     "primary": "retranchement de siège, siège",
-    "description": "i.e. siege-works",
+    "description": "c.-à-d. ouvrages de siège",
     "senses": [
         {
             "number": 1,
@@ -12,7 +12,7 @@
         {
             "number": 2,
             "primary": null,
-            "description": "i.e. siege-works"
+            "description": "c.-à-d. ouvrages de siège"
         }
     ]
 }

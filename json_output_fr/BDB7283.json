@@ -1,13 +1,13 @@
 {
     "head_word": "קְבֹל",
     "pos": "nom [masculin]",
-    "primary": ">quelque chose en face",
-    "description": "spécifiquement une machine de siège",
+    "primary": "quelque chose de frontal",
+    "description": "en particulier une machine de siège",
     "senses": [
         {
             "number": 1,
-            "primary": ">quelque chose en face",
-            "description": "spécifiquement une machine de siège"
+            "primary": "quelque chose de frontal",
+            "description": "en particulier une machine de siège"
         },
         {
             "number": 2,

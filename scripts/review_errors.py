@@ -3,8 +3,9 @@
 
 Parses the llm_verify results file for entries with non-CORRECT status (ERROR,
 WARN, UNKNOWN, etc.) and lists those that do not yet have a corresponding note
-file in Entries_notes/.  This lets a reviewer work through flagged entries
-incrementally -- once a note file exists, the entry is considered reviewed.
+file in Entries_notes/ (or json_output_notes/ with --json).  This lets a
+reviewer work through flagged entries incrementally -- once a note file exists,
+the entry is considered reviewed.
 
 Requires one or more digit arguments (0-9) to filter by the last digit of the
 BDB number, just like untranslated.py.
@@ -16,6 +17,7 @@ Usage:
     python3 scripts/review_errors.py 3 -n 5       # 5 entries ending in 3
     python3 scripts/review_errors.py 4 --count    # just totals, ending in 4
     python3 scripts/review_errors.py 7 --status   # include status & reason
+    python3 scripts/review_errors.py --json 0     # JSON translation errors
 """
 
 import argparse
@@ -25,10 +27,10 @@ import sys
 
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-RESULTS_FILE = os.path.join(BASE, "llm_verify_txt_results.txt")
-NOTES_DIR = os.path.join(BASE, "Entries_notes")
-TXT_DIR = os.path.join(BASE, "Entries_txt")
-TXT_FR_DIR = os.path.join(BASE, "Entries_txt_fr")
+TXT_RESULTS_FILE = os.path.join(BASE, "llm_verify_txt_results.txt")
+JSON_RESULTS_FILE = os.path.join(BASE, "llm_verify_json_results.txt")
+TXT_NOTES_DIR = os.path.join(BASE, "Entries_notes")
+JSON_NOTES_DIR = os.path.join(BASE, "json_output_notes")
 
 
 def bdb_number(filename):
@@ -49,28 +51,29 @@ def bdb_sort_key(filename):
 def parse_results(results_path):
     """Parse llm_verify results file, return dict of {filename: (status, reason)}.
 
-    Only includes non-CORRECT entries."""
-    flagged = {}
+    Keeps the last verdict per file.  Files whose final verdict is CORRECT or
+    SKIPPED are excluded — only ERROR, WARN, UNKNOWN etc. are returned."""
+    all_verdicts = {}
     try:
         with open(results_path, "r", encoding="utf-8") as fh:
             for line in fh:
                 line = line.strip()
                 if not line:
                     continue
-                # Format: BDB1234.txt,            STATUS, timestamp, hash, "reason"
-                parts = line.split(",", 4)
+                # Format: filename, STATUS, severity, timestamp, hash, "reason"
+                parts = line.split(",", 5)
                 if len(parts) < 2:
                     continue
                 filename = parts[0].strip()
                 status = parts[1].strip()
-                if status == "CORRECT":
-                    continue
-                reason = parts[4].strip().strip('"') if len(parts) >= 5 else ""
-                flagged[filename] = (status, reason)
+                reason = parts[5].strip().strip('"') if len(parts) >= 6 else ""
+                all_verdicts[filename] = (status, reason)
     except FileNotFoundError:
         print(f"error: results file not found: {results_path}", file=sys.stderr)
         sys.exit(1)
-    return flagged
+    # Only keep entries whose final verdict is a problem
+    return {f: v for f, v in all_verdicts.items()
+            if v[0] not in ("CORRECT", "SKIPPED")}
 
 
 def find_unreviewed(flagged, notes_dir, digits):
@@ -117,6 +120,10 @@ def main():
         "--status", action="store_true",
         help="show status and reason for each entry",
     )
+    parser.add_argument(
+        "--json", action="store_true",
+        help="review JSON translation errors (llm_verify_json_results.txt)",
+    )
     args = parser.parse_args()
 
     if not args.digits:
@@ -138,7 +145,16 @@ def main():
 
     digit_str = ",".join(str(d) for d in sorted(digits))
 
-    flagged = parse_results(RESULTS_FILE)
+    if args.json:
+        results_file = JSON_RESULTS_FILE
+        notes_dir = JSON_NOTES_DIR
+        label = "JSON"
+    else:
+        results_file = TXT_RESULTS_FILE
+        notes_dir = TXT_NOTES_DIR
+        label = "txt"
+
+    flagged = parse_results(results_file)
 
     # Count total flagged in this digit range (regardless of review status)
     total_in_range = sum(
@@ -146,12 +162,12 @@ def main():
         if bdb_number(f) is not None and (bdb_number(f) % 10) in digits
     )
 
-    unreviewed = find_unreviewed(flagged, NOTES_DIR, digits)
+    unreviewed = find_unreviewed(flagged, notes_dir, digits)
     n = len(unreviewed)
     reviewed = total_in_range - n
 
     print(
-        f"\nFlagged entries (ending in {digit_str}): "
+        f"\nFlagged {label} entries (ending in {digit_str}): "
         f"{reviewed}/{total_in_range} reviewed, {n} remaining"
     )
 
@@ -164,7 +180,10 @@ def main():
     show_n = min(n, args.count_display)
     for f in unreviewed[:show_n]:
         stem = os.path.splitext(f)[0]
-        line = f"  ./Entries_txt/{f}  ./Entries_txt_fr/{f}"
+        if args.json:
+            line = f"  ./json_output/{f}  ./json_output_fr/{f}"
+        else:
+            line = f"  ./Entries_txt/{f}  ./Entries_txt_fr/{f}"
         status, reason = flagged[f]
         if not args.status:
             # Truncate reason for display

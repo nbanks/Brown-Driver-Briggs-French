@@ -1,0 +1,2 @@
+Signalé : symbole « || » non traduit.
+Verdict : « || » est un symbole d'abréviation savante standard dans le BDB (= parallèle). Il est utilisé dans les JSON sources anglais. Le conserver est cohérent.

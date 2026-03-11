@@ -1,0 +1,1 @@
+Signalé : primary null vs glose dans le texte. Verdict : l'anglais source a primary=null, la FR suit correctement. L'info supplémentaire est dans Entries_txt, pas dans le JSON source. Aucune correction nécessaire.

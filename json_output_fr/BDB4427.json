@@ -1,8 +1,8 @@
 {
     "head_word": "לִמֻּד",
     "pos": "adjectif",
-    "primary": "instruit",
-    "description": "habitué à quelque chose",
+    "primary": "enseigné",
+    "description": "accoutumé à quelque chose",
     "senses": [
         {
             "number": 1,
@@ -12,7 +12,7 @@
         {
             "number": 2,
             "primary": null,
-            "description": "habitué à quelque chose"
+            "description": "accoutumé à quelque chose"
         }
     ]
 }

@@ -2,7 +2,7 @@
     "head_word": "מַעֲמָד",
     "pos": "nom [masculin]",
     "primary": "office, fonction, service",
-    "description": "probablement spécifiquement service de table (strictement manière de se tenir debout)",
+    "description": "probablement spécifiquement service à table (strictement manière de se tenir debout)",
     "senses": [
         {
             "number": 1,
@@ -17,7 +17,7 @@
         {
             "number": 3,
             "primary": null,
-            "description": "probablement spécifiquement service de table (strictement manière de se tenir debout)"
+            "description": "probablement spécifiquement service à table (strictement manière de se tenir debout)"
         }
     ]
 }

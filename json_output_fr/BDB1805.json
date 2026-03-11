@@ -1,8 +1,8 @@
 {
     "head_word": "דִּבָּה",
     "pos": "nom féminin",
-    "primary": "chuchotement, diffamation, mauvais rapport",
-    "description": "spécifiquement un rapport (véridique) de mauvaise conduite",
+    "primary": "médisance, diffamation, mauvais rapport",
+    "description": "spécifiquement un rapport (véridique) de méfaits",
     "senses": [
         {
             "number": 1,
@@ -17,7 +17,7 @@
         {
             "number": 3,
             "primary": null,
-            "description": "spécifiquement un rapport (véridique) de mauvaise conduite"
+            "description": "spécifiquement un rapport (véridique) de méfaits"
         }
     ]
 }

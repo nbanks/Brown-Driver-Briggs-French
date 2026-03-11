@@ -1,0 +1,2 @@
+Signalé : head_word mismatch (caractère de contrôle \x98 dans l'EN source).
+Verdict : Le FR a supprimé le caractère de contrôle parasite. C'est un artefact de l'EN source, pas une erreur FR.

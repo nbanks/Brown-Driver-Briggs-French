@@ -2,7 +2,7 @@
     "head_word": "קִנְיָן",
     "pos": "nom [masculin]",
     "primary": "chose acquise, acquisition",
-    "description": "plus généralement : collectif créatures",
+    "description": "plus généralement : créatures collectives",
     "senses": [
         {
             "number": 1,
@@ -12,7 +12,7 @@
         {
             "number": 2,
             "primary": null,
-            "description": "plus généralement : collectif créatures"
+            "description": "plus généralement : créatures collectives"
         }
     ]
 }

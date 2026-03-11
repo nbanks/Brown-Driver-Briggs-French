@@ -1,0 +1,2 @@
+Signalé : « Israel » sans accent, espace manquante.
+Verdict : Faux positif. Le fichier a « Israël » avec accent et espace avant « ; ».

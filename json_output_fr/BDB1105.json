@@ -2,6 +2,17 @@
     "head_word": "בֶּ֫כֶר",
     "pos": "nom propre, masculin",
     "primary": null,
-    "description": "fils d'Éphraïm Nb 26,35 ; aussi בְּכֶר fils de Benjamin Gn 46,21 ; 1 Ch 7,6 ; 1 Ch 7,8 ; patron. בַּכְרִי Nb 26,35",
-    "senses": []
+    "description": "fils d'Éphraïm",
+    "senses": [
+        {
+            "number": 1,
+            "primary": null,
+            "description": "fils d'Éphraïm"
+        },
+        {
+            "number": 2,
+            "primary": null,
+            "description": "fils de Benjamin"
+        }
+    ]
 }
