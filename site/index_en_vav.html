@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Vav (ו) — BDB English</title>
+<style>* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+       background: #fafaf9; color: #1c1917; line-height: 1.5; }
+.container { max-width: 960px; margin: 0 auto; padding: 1.5em 1em; }
+h1 { font-size: 1.6em; margin-bottom: 0.3em; color: #292524; }
+h2 { font-size: 1.2em; margin: 1em 0 0.5em; color: #44403c; }
+.subtitle { color: #78716c; font-size: 0.95em; margin-bottom: 1.2em; }
+a { color: #2563eb; text-decoration: none; }
+a:hover { text-decoration: underline; }
+.nav { margin-bottom: 1.5em; font-size: 0.9em; }
+.nav a { margin-right: 0.8em; }
+
+/* Alphabet grid */
+.alpha-grid { display: flex; flex-wrap: wrap; gap: 8px; margin: 1em 0; }
+.alpha-card { display: flex; flex-direction: column; align-items: center;
+              padding: 10px 14px; border: 1px solid #d6d3d1; border-radius: 8px;
+              background: #fff; text-decoration: none !important; color: #1c1917;
+              min-width: 70px; transition: box-shadow 0.15s, border-color 0.15s; }
+.alpha-card:hover { border-color: #2563eb; box-shadow: 0 2px 8px rgba(37,99,235,0.12); }
+.alpha-letter { font-size: 1.8em; direction: rtl; unicode-bidi: isolate; }
+.alpha-name { font-size: 0.75em; color: #78716c; }
+.alpha-count { font-size: 0.7em; color: #a8a29e; margin-top: 2px; }
+
+/* Search */
+.search-box { width: 100%; padding: 8px 12px; font-size: 1em; border: 1px solid #d6d3d1;
+              border-radius: 6px; margin-bottom: 1em; }
+.search-box:focus { outline: none; border-color: #2563eb; box-shadow: 0 0 0 3px rgba(37,99,235,0.1); }
+
+/* Entry table */
+table { width: 100%; border-collapse: collapse; }
+th { text-align: left; padding: 6px 8px; border-bottom: 2px solid #d6d3d1;
+     font-size: 0.8em; color: #78716c; text-transform: uppercase; letter-spacing: 0.05em;
+     position: sticky; top: 0; background: #fafaf9; z-index: 1; }
+td { padding: 5px 8px; border-bottom: 1px solid #e7e5e4; vertical-align: top; }
+tr:hover { background: #f5f5f4; }
+.hw { font-size: 1.15em; direction: rtl; unicode-bidi: isolate; }
+.pos { color: #78716c; font-size: 0.85em; font-style: italic; }
+.gloss { color: #292524; }
+.bdb-id { color: #a8a29e; font-size: 0.8em; }
+.count-info { color: #78716c; font-size: 0.9em; margin-bottom: 1em; }
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    var input = document.getElementById('search');
+    if (!input) return;
+    var rows = document.querySelectorAll('tbody tr');
+    input.addEventListener('input', function() {
+        var q = this.value.toLowerCase();
+        rows.forEach(function(r) {
+            r.style.display = r.textContent.toLowerCase().indexOf(q) >= 0 ? '' : 'none';
+        });
+    });
+});
+</script>
+
+</head>
+<body>
+<div class="container">
+<div class="nav"><a href="index_en.html">Index</a> | <a href="index_en_all.html">All entries</a> | <a href="index_fr_vav.html">Français</a></div><h1><span class="hw" style="font-size:1.4em">ו</span> Vav — English</h1><p class="count-info">15 entries</p><input type="text" id="search" class="search-box" placeholder="Search..."><table><thead><tr><th>Word</th><th>ID</th><th>POS</th><th>Gloss</th></tr></thead><tbody>
+<tr><td><a href="../Entries/BDB2248.html"><span class="hw">ו</span></a></td><td class="bdb-id">BDB2248</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries/BDB2249.html"><span class="hw">וְ</span></a></td><td class="bdb-id">BDB2249</td><td class="pos">demonstrative adverb</td><td class="gloss">so, then, and</td></tr>
+<tr><td><a href="../Entries/BDB2250.html"><span class="hw">וְדָן</span></a></td><td class="bdb-id">BDB2250</td><td class="pos">proper name [of a location]</td><td class="gloss">apparently proper name [of a location], only in וְדָן וְיָוָן</td></tr>
+<tr><td><a href="../Entries/BDB2251.html"><span class="hw">וָהֵב</span></a></td><td class="bdb-id">BDB2251</td><td class="pos">proper name [of a location]</td><td class="gloss">apparently proper name [of a location]</td></tr>
+<tr><td><a href="../Entries/BDB2252.html"><span class="hw">וָו</span></a></td><td class="bdb-id">BDB2252</td><td class="pos">noun [masculine]</td><td class="gloss">hook, pin or peg</td></tr>
+<tr><td><a href="../Entries/BDB2253.html"><span class="hw">וזר</span></a></td><td class="bdb-id">BDB2253</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries/BDB2254.html"><span class="hw">וָזָר</span></a></td><td class="bdb-id">BDB2254</td><td class="pos">adjective</td><td class="gloss">criminal, guilty</td></tr>
+<tr><td><a href="../Entries/BDB2255.html"><span class="hw">וַיְזָתָא</span></a></td><td class="bdb-id">BDB2255</td><td class="pos">proper name, masculine</td><td class="gloss">a son of Haman</td></tr>
+<tr><td><a href="../Entries/BDB2256.html"><span class="hw">וַנְיָה</span></a></td><td class="bdb-id">BDB2256</td><td class="pos">proper name, masculine</td><td class="gloss">one of those with strange wives</td></tr>
+<tr><td><a href="../Entries/BDB2257.html"><span class="hw">וָפְסִי</span></a></td><td class="bdb-id">BDB2257</td><td class="pos">proper name, masculine</td><td class="gloss">a man of Naphtali</td></tr>
+<tr><td><a href="../Entries/BDB2258.html"><span class="hw">וַשְׁנִי</span></a></td><td class="bdb-id">BDB2258</td><td class="pos">proper name, masculine</td><td class="gloss">according to 
+
+ᵑ0
+
+ apparently proper name, masculine
+son of Samuel</td></tr>
+<tr><td><a href="../Entries/BDB2259.html"><span class="hw">וַשְׁתִּי</span></a></td><td class="bdb-id">BDB2259</td><td class="pos">proper name, feminine</td><td class="gloss">queen of
+    Ahasuerus (Xerxes) king of Persia</td></tr>
+<tr><td><a href="../Entries/BDB3543.html"><span class="hw">וָלָד</span></a></td><td class="bdb-id">BDB3543</td><td class="pos">noun masculine</td><td class="gloss">offspring, child</td></tr>
+<tr><td><a href="../Entries/BDB401.html"><span class="hw">וְאֻכָֿל</span></a></td><td class="bdb-id">BDB401</td><td class="pos"></td><td class="gloss">read
+    וָאֵכֶל &amp; see 
+כלה</td></tr>
+<tr><td><a href="../Entries/BDB9480.html"><span class="hw">ו</span></a></td><td class="bdb-id">BDB9480</td><td class="pos"></td><td class="gloss"></td></tr>
+</tbody></table>
+</div>
+</body>
+</html>

@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Other (?) — BDB Français</title>
+<style>* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+       background: #fafaf9; color: #1c1917; line-height: 1.5; }
+.container { max-width: 960px; margin: 0 auto; padding: 1.5em 1em; }
+h1 { font-size: 1.6em; margin-bottom: 0.3em; color: #292524; }
+h2 { font-size: 1.2em; margin: 1em 0 0.5em; color: #44403c; }
+.subtitle { color: #78716c; font-size: 0.95em; margin-bottom: 1.2em; }
+a { color: #2563eb; text-decoration: none; }
+a:hover { text-decoration: underline; }
+.nav { margin-bottom: 1.5em; font-size: 0.9em; }
+.nav a { margin-right: 0.8em; }
+
+/* Alphabet grid */
+.alpha-grid { display: flex; flex-wrap: wrap; gap: 8px; margin: 1em 0; }
+.alpha-card { display: flex; flex-direction: column; align-items: center;
+              padding: 10px 14px; border: 1px solid #d6d3d1; border-radius: 8px;
+              background: #fff; text-decoration: none !important; color: #1c1917;
+              min-width: 70px; transition: box-shadow 0.15s, border-color 0.15s; }
+.alpha-card:hover { border-color: #2563eb; box-shadow: 0 2px 8px rgba(37,99,235,0.12); }
+.alpha-letter { font-size: 1.8em; direction: rtl; unicode-bidi: isolate; }
+.alpha-name { font-size: 0.75em; color: #78716c; }
+.alpha-count { font-size: 0.7em; color: #a8a29e; margin-top: 2px; }
+
+/* Search */
+.search-box { width: 100%; padding: 8px 12px; font-size: 1em; border: 1px solid #d6d3d1;
+              border-radius: 6px; margin-bottom: 1em; }
+.search-box:focus { outline: none; border-color: #2563eb; box-shadow: 0 0 0 3px rgba(37,99,235,0.1); }
+
+/* Entry table */
+table { width: 100%; border-collapse: collapse; }
+th { text-align: left; padding: 6px 8px; border-bottom: 2px solid #d6d3d1;
+     font-size: 0.8em; color: #78716c; text-transform: uppercase; letter-spacing: 0.05em;
+     position: sticky; top: 0; background: #fafaf9; z-index: 1; }
+td { padding: 5px 8px; border-bottom: 1px solid #e7e5e4; vertical-align: top; }
+tr:hover { background: #f5f5f4; }
+.hw { font-size: 1.15em; direction: rtl; unicode-bidi: isolate; }
+.pos { color: #78716c; font-size: 0.85em; font-style: italic; }
+.gloss { color: #292524; }
+.bdb-id { color: #a8a29e; font-size: 0.8em; }
+.count-info { color: #78716c; font-size: 0.9em; margin-bottom: 1em; }
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    var input = document.getElementById('search');
+    if (!input) return;
+    var rows = document.querySelectorAll('tbody tr');
+    input.addEventListener('input', function() {
+        var q = this.value.toLowerCase();
+        rows.forEach(function(r) {
+            r.style.display = r.textContent.toLowerCase().indexOf(q) >= 0 ? '' : 'none';
+        });
+    });
+});
+</script>
+
+</head>
+<body>
+<div class="container">
+<div class="nav"><a href="index_fr.html">Index</a> | <a href="index_fr_all.html">Toutes les entrées</a> | <a href="index_en_misc.html">English</a></div><h1><span class="hw" style="font-size:1.4em">?</span> Other — Français</h1><p class="count-info">47 entrées</p><input type="text" id="search" class="search-box" placeholder="Rechercher..."><table><thead><tr><th>Mot</th><th>ID</th><th>Cat.</th><th>Glose</th></tr></thead><tbody>
+<tr><td><a href="../Entries_fr/BDB1048.html"><span class="hw">ֵבּיתְאֵל</span></a></td><td class="bdb-id">BDB1048</td><td class="pos">nom propre [d&#x27;un lieu]</td><td class="gloss">Béthel</td></tr>
+<tr><td><a href="../Entries_fr/BDB1233.html"><span class="hw">ֵבּלְאשַׁצַּר</span></a></td><td class="bdb-id">BDB1233</td><td class="pos">nom propre, masculin</td><td class="gloss">présenté comme roi de Babylone, successeur et fils apparent de Nabuchodonosor</td></tr>
+<tr><td><a href="../Entries_fr/BDB130.html"><span class="hw">(אֲדֹיִּנָה) אֲדֹנִיָּ֫הוּ</span></a></td><td class="bdb-id">BDB130</td><td class="pos">nom propre, masculin</td><td class="gloss">quatrième fils de David</td></tr>
+<tr><td><a href="../Entries_fr/BDB1431.html"><span class="hw">(ה)גבול</span></a></td><td class="bdb-id">BDB1431</td><td class="pos"></td><td class="gloss">lire הַגָּדוֺל</td></tr>
+<tr><td><a href="../Entries_fr/BDB2776.html"><span class="hw">ֵחלְכָה</span></a></td><td class="bdb-id">BDB2776</td><td class="pos">adjectif</td><td class="gloss">démuni, infortuné</td></tr>
+<tr><td><a href="../Entries_fr/BDB3097.html"><span class="hw">ךְַרְבּוֺנָה</span></a></td><td class="bdb-id">BDB3097</td><td class="pos">nom propre, masculin</td><td class="gloss">voir le précédent</td></tr>
+<tr><td><a href="../Entries_fr/BDB328.html"><span class="hw">(אֲחֹחִי) אֲחוֺחִי</span></a></td><td class="bdb-id">BDB328</td><td class="pos">adjectif [d&#x27;un peuple]</td><td class="gloss">référence inconnue</td></tr>
+<tr><td><a href="../Entries_fr/BDB3475.html"><span class="hw">׳</span></a></td><td class="bdb-id">BDB3475</td><td class="pos">nom propre</td><td class="gloss">composé de, voir ci-dessous יהוה ci-dessus</td></tr>
+<tr><td><a href="../Entries_fr/BDB3489.html"><span class="hw">׳</span></a></td><td class="bdb-id">BDB3489</td><td class="pos">nom propre</td><td class="gloss">composé avec, voir ci-dessous יהוה ci-dessus : — à savoir יוֺאָב, יוֺאָח, יוֺ...</td></tr>
+<tr><td><a href="../Entries_fr/BDB3524.html"><span class="hw">(ו)ייחר</span></a></td><td class="bdb-id">BDB3524</td><td class="pos"></td><td class="gloss">voir אחר ci-dessus</td></tr>
+<tr><td><a href="../Entries_fr/BDB3714.html"><span class="hw">ִתּירְיָא</span></a></td><td class="bdb-id">BDB3714</td><td class="pos">nom propre, masculin</td><td class="gloss">(en Juda)</td></tr>
+<tr><td><a href="../Entries_fr/BDB4564.html"><span class="hw">(לְ)מוֺתָם</span></a></td><td class="bdb-id">BDB4564</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB4696.html"><span class="hw">ִמלֲלִי</span></a></td><td class="bdb-id">BDB4696</td><td class="pos">nom propre, masculin</td><td class="gloss">fils d&#x27;un prêtre</td></tr>
+<tr><td><a href="../Entries_fr/BDB4749.html"><span class="hw">ַמעַדְיָה</span></a></td><td class="bdb-id">BDB4749</td><td class="pos">nom propre, masculin</td><td class="gloss">un prêtre du temps de Zorobabel</td></tr>
+<tr><td><a href="../Entries_fr/BDB4756.html"><span class="hw">ַמעַזְיָהוּ</span></a></td><td class="bdb-id">BDB4756</td><td class="pos">nom propre, masculin</td><td class="gloss">de prêtres.</td></tr>
+<tr><td><a href="../Entries_fr/BDB502.html"><span class="hw">ֶ֫ אלֶף</span></a></td><td class="bdb-id">BDB502</td><td class="pos">nom masculin</td><td class="gloss">bétail</td></tr>
+<tr><td><a href="../Entries_fr/BDB553.html"><span class="hw">(אַמִּץ) אַמִּיץ</span></a></td><td class="bdb-id">BDB553</td><td class="pos">adjectif</td><td class="gloss">puissant</td></tr>
+<tr><td><a href="../Entries_fr/BDB5652.html"><span class="hw">ִססְמַי</span></a></td><td class="bdb-id">BDB5652</td><td class="pos">nom propre, masculin</td><td class="gloss">nom en Juda</td></tr>
+<tr><td><a href="../Entries_fr/BDB5958.html"><span class="hw">(וְ)יַעֲזִיאֵל</span></a></td><td class="bdb-id">BDB5958</td><td class="pos">nom propre, masculin</td><td class="gloss">nom lévitique</td></tr>
+<tr><td><a href="../Entries_fr/BDB6432.html"><span class="hw">(ו)יעשׂו</span></a></td><td class="bdb-id">BDB6432</td><td class="pos">nom propre, masculin</td><td class="gloss">un ayant pris une femme étrangère</td></tr>
+<tr><td><a href="../Entries_fr/BDB7224.html"><span class="hw">ִצקְלַג</span></a></td><td class="bdb-id">BDB7224</td><td class="pos">nom propre [d&#x27;un lieu]</td><td class="gloss">attribué à Juda</td></tr>
+<tr><td><a href="../Entries_fr/BDB8027.html"><span class="hw">ַרעַמְסֵס</span></a></td><td class="bdb-id">BDB8027</td><td class="pos">nom propre [d&#x27;un lieu]</td><td class="gloss">Ramsès</td></tr>
+<tr><td><a href="../Entries_fr/BDB8084.html"><span class="hw">ִרצְפָה</span></a></td><td class="bdb-id">BDB8084</td><td class="pos">nom féminin</td><td class="gloss">dallage</td></tr>
+<tr><td><a href="../Entries_fr/BDB8799.html"><span class="hw">ִשׁמְמָה</span></a></td><td class="bdb-id">BDB8799</td><td class="pos"></td><td class="gloss">voir le précédent</td></tr>
+<tr><td><a href="../Entries_fr/BDB918.html"><span class="hw">ֵבּדְיָה</span></a></td><td class="bdb-id">BDB918</td><td class="pos">nom propre, masculin</td><td class="gloss">un Israélite</td></tr>
+<tr><td><a href="../Entries_fr/BDB9264.html"><span class="hw"></span></a></td><td class="bdb-id">BDB9264</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB934.html"><span class="hw">ֶבּהָלָה</span></a></td><td class="bdb-id">BDB934</td><td class="pos">nom féminin</td><td class="gloss">consternation, terreur soudaine ou ruine</td></tr>
+<tr><td><a href="../Entries_fr/BDB9358.html"><span class="hw"></span></a></td><td class="bdb-id">BDB9358</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB9395.html"><span class="hw"></span></a></td><td class="bdb-id">BDB9395</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB9422.html"><span class="hw"></span></a></td><td class="bdb-id">BDB9422</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB9463.html"><span class="hw"></span></a></td><td class="bdb-id">BDB9463</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB9501.html"><span class="hw"></span></a></td><td class="bdb-id">BDB9501</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB9553.html"><span class="hw"></span></a></td><td class="bdb-id">BDB9553</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB9566.html"><span class="hw"></span></a></td><td class="bdb-id">BDB9566</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB9603.html"><span class="hw"></span></a></td><td class="bdb-id">BDB9603</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB9631.html"><span class="hw"></span></a></td><td class="bdb-id">BDB9631</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB9647.html"><span class="hw"></span></a></td><td class="bdb-id">BDB9647</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB9683.html"><span class="hw"></span></a></td><td class="bdb-id">BDB9683</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB9729.html"><span class="hw"></span></a></td><td class="bdb-id">BDB9729</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB9745.html"><span class="hw"></span></a></td><td class="bdb-id">BDB9745</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB9806.html"><span class="hw"></span></a></td><td class="bdb-id">BDB9806</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB9832.html"><span class="hw"></span></a></td><td class="bdb-id">BDB9832</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB9846.html"><span class="hw"></span></a></td><td class="bdb-id">BDB9846</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB9876.html"><span class="hw"></span></a></td><td class="bdb-id">BDB9876</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB9911.html"><span class="hw"></span></a></td><td class="bdb-id">BDB9911</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB9922.html"><span class="hw"></span></a></td><td class="bdb-id">BDB9922</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB9994.html"><span class="hw"></span></a></td><td class="bdb-id">BDB9994</td><td class="pos"></td><td class="gloss"></td></tr>
+</tbody></table>
+</div>
+</body>
+</html>

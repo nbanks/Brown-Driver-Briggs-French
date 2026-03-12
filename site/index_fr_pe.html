@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pe (פ) — BDB Français</title>
+<style>* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+       background: #fafaf9; color: #1c1917; line-height: 1.5; }
+.container { max-width: 960px; margin: 0 auto; padding: 1.5em 1em; }
+h1 { font-size: 1.6em; margin-bottom: 0.3em; color: #292524; }
+h2 { font-size: 1.2em; margin: 1em 0 0.5em; color: #44403c; }
+.subtitle { color: #78716c; font-size: 0.95em; margin-bottom: 1.2em; }
+a { color: #2563eb; text-decoration: none; }
+a:hover { text-decoration: underline; }
+.nav { margin-bottom: 1.5em; font-size: 0.9em; }
+.nav a { margin-right: 0.8em; }
+
+/* Alphabet grid */
+.alpha-grid { display: flex; flex-wrap: wrap; gap: 8px; margin: 1em 0; }
+.alpha-card { display: flex; flex-direction: column; align-items: center;
+              padding: 10px 14px; border: 1px solid #d6d3d1; border-radius: 8px;
+              background: #fff; text-decoration: none !important; color: #1c1917;
+              min-width: 70px; transition: box-shadow 0.15s, border-color 0.15s; }
+.alpha-card:hover { border-color: #2563eb; box-shadow: 0 2px 8px rgba(37,99,235,0.12); }
+.alpha-letter { font-size: 1.8em; direction: rtl; unicode-bidi: isolate; }
+.alpha-name { font-size: 0.75em; color: #78716c; }
+.alpha-count { font-size: 0.7em; color: #a8a29e; margin-top: 2px; }
+
+/* Search */
+.search-box { width: 100%; padding: 8px 12px; font-size: 1em; border: 1px solid #d6d3d1;
+              border-radius: 6px; margin-bottom: 1em; }
+.search-box:focus { outline: none; border-color: #2563eb; box-shadow: 0 0 0 3px rgba(37,99,235,0.1); }
+
+/* Entry table */
+table { width: 100%; border-collapse: collapse; }
+th { text-align: left; padding: 6px 8px; border-bottom: 2px solid #d6d3d1;
+     font-size: 0.8em; color: #78716c; text-transform: uppercase; letter-spacing: 0.05em;
+     position: sticky; top: 0; background: #fafaf9; z-index: 1; }
+td { padding: 5px 8px; border-bottom: 1px solid #e7e5e4; vertical-align: top; }
+tr:hover { background: #f5f5f4; }
+.hw { font-size: 1.15em; direction: rtl; unicode-bidi: isolate; }
+.pos { color: #78716c; font-size: 0.85em; font-style: italic; }
+.gloss { color: #292524; }
+.bdb-id { color: #a8a29e; font-size: 0.8em; }
+.count-info { color: #78716c; font-size: 0.9em; margin-bottom: 1em; }
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    var input = document.getElementById('search');
+    if (!input) return;
+    var rows = document.querySelectorAll('tbody tr');
+    input.addEventListener('input', function() {
+        var q = this.value.toLowerCase();
+        rows.forEach(function(r) {
+            r.style.display = r.textContent.toLowerCase().indexOf(q) >= 0 ? '' : 'none';
+        });
+    });
+});
+</script>
+
+</head>
+<body>
+<div class="container">
+<div class="nav"><a href="index_fr.html">Index</a> | <a href="index_fr_all.html">Toutes les entrées</a> | <a href="index_en_pe.html">English</a></div><h1><span class="hw" style="font-size:1.4em">פ</span> Pe — Français</h1><p class="count-info">386 entrées</p><input type="text" id="search" class="search-box" placeholder="Rechercher..."><table><thead><tr><th>Mot</th><th>ID</th><th>Cat.</th><th>Glose</th></tr></thead><tbody>
+<tr><td><a href="../Entries_fr/BDB6501.html"><span class="hw">פ</span></a></td><td class="bdb-id">BDB6501</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB6502.html"><span class="hw">פּאה</span></a></td><td class="bdb-id">BDB6502</td><td class="pos">verbe</td><td class="gloss">fendre en morceaux</td></tr>
+<tr><td><a href="../Entries_fr/BDB6503.html"><span class="hw">פֵּאָה</span></a></td><td class="bdb-id">BDB6503</td><td class="pos">nom féminin</td><td class="gloss">coin, côté</td></tr>
+<tr><td><a href="../Entries_fr/BDB6504.html"><span class="hw">פָּאַר</span></a></td><td class="bdb-id">BDB6504</td><td class="pos">verbe</td><td class="gloss">embellir, glorifier</td></tr>
+<tr><td><a href="../Entries_fr/BDB6505.html"><span class="hw">פְּאֵר</span></a></td><td class="bdb-id">BDB6505</td><td class="pos">nom masculin</td><td class="gloss">coiffe, turban</td></tr>
+<tr><td><a href="../Entries_fr/BDB6507.html"><span class="hw">פאר</span></a></td><td class="bdb-id">BDB6507</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB6508.html"><span class="hw">פּאֹרָה</span></a></td><td class="bdb-id">BDB6508</td><td class="pos">nom féminin</td><td class="gloss">rameau</td></tr>
+<tr><td><a href="../Entries_fr/BDB6509.html"><span class="hw">פארה</span></a></td><td class="bdb-id">BDB6509</td><td class="pos">nom féminin</td><td class="gloss">rameaux</td></tr>
+<tr><td><a href="../Entries_fr/BDB6510.html"><span class="hw">פֵּאֵר</span></a></td><td class="bdb-id">BDB6510</td><td class="pos">verbe</td><td class="gloss">passer sur les branches</td></tr>
+<tr><td><a href="../Entries_fr/BDB6511.html"><span class="hw">פָּארוּר</span></a></td><td class="bdb-id">BDB6511</td><td class="pos">nom [masculin]</td><td class="gloss">sens douteux ; seulement ׳ קִבְּצוּ פ</td></tr>
+<tr><td><a href="../Entries_fr/BDB6512.html"><span class="hw">פָּארָן</span></a></td><td class="bdb-id">BDB6512</td><td class="pos">nom propre [d&#x27;un lieu]</td><td class="gloss">Paran</td></tr>
+<tr><td><a href="../Entries_fr/BDB6513.html"><span class="hw">פגג</span></a></td><td class="bdb-id">BDB6513</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB6514.html"><span class="hw">פַּגָּה</span></a></td><td class="bdb-id">BDB6514</td><td class="pos">nom féminin</td><td class="gloss">figue précoce</td></tr>
+<tr><td><a href="../Entries_fr/BDB6515.html"><span class="hw">פגל</span></a></td><td class="bdb-id">BDB6515</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB6516.html"><span class="hw">פִּגּוּל</span></a></td><td class="bdb-id">BDB6516</td><td class="pos">nom masculin</td><td class="gloss">chose impure, rebut</td></tr>
+<tr><td><a href="../Entries_fr/BDB6517.html"><span class="hw">פָּגַע</span></a></td><td class="bdb-id">BDB6517</td><td class="pos">verbe</td><td class="gloss">rencontrer, atteindre</td></tr>
+<tr><td><a href="../Entries_fr/BDB6518.html"><span class="hw">פֶּ֫גַע</span></a></td><td class="bdb-id">BDB6518</td><td class="pos">nom masculin</td><td class="gloss">occurrence, hasard</td></tr>
+<tr><td><a href="../Entries_fr/BDB6520.html"><span class="hw">פַּגְעִיאֵל</span></a></td><td class="bdb-id">BDB6520</td><td class="pos">nom masculin</td><td class="gloss">Ashérite</td></tr>
+<tr><td><a href="../Entries_fr/BDB6521.html"><span class="hw">פָּגַר</span></a></td><td class="bdb-id">BDB6521</td><td class="pos">verbe</td><td class="gloss">être épuisé, défaillir</td></tr>
+<tr><td><a href="../Entries_fr/BDB6522.html"><span class="hw">פֶּ֫גֶר</span></a></td><td class="bdb-id">BDB6522</td><td class="pos">nom masculin</td><td class="gloss">cadavre, carcasse</td></tr>
+<tr><td><a href="../Entries_fr/BDB6523.html"><span class="hw">פָּגַשׁ</span></a></td><td class="bdb-id">BDB6523</td><td class="pos">verbe</td><td class="gloss">rencontrer</td></tr>
+<tr><td><a href="../Entries_fr/BDB6524.html"><span class="hw">פָּדָה</span></a></td><td class="bdb-id">BDB6524</td><td class="pos">verbe</td><td class="gloss">racheter</td></tr>
+<tr><td><a href="../Entries_fr/BDB6525.html"><span class="hw">פְּדוּיִם</span></a></td><td class="bdb-id">BDB6525</td><td class="pos">nom [masculin] pluriel</td><td class="gloss">rançon</td></tr>
+<tr><td><a href="../Entries_fr/BDB6526.html"><span class="hw">פָּדוֺן</span></a></td><td class="bdb-id">BDB6526</td><td class="pos">nom propre, masculin</td><td class="gloss">chef de famille de Néthiniens</td></tr>
+<tr><td><a href="../Entries_fr/BDB6527.html"><span class="hw">פְּדוּת</span></a></td><td class="bdb-id">BDB6527</td><td class="pos">nom féminin</td><td class="gloss">rançon</td></tr>
+<tr><td><a href="../Entries_fr/BDB6528.html"><span class="hw">פִּדְיוֺם</span></a></td><td class="bdb-id">BDB6528</td><td class="pos">nom masculin</td><td class="gloss">rançon</td></tr>
+<tr><td><a href="../Entries_fr/BDB6529.html"><span class="hw">פִּדְיוֺן</span></a></td><td class="bdb-id">BDB6529</td><td class="pos">nom masculin</td><td class="gloss">id.</td></tr>
+<tr><td><a href="../Entries_fr/BDB6530.html"><span class="hw">פְּדַהְאֵל</span></a></td><td class="bdb-id">BDB6530</td><td class="pos">nom propre, masculin</td><td class="gloss">prince de Nephtali</td></tr>
+<tr><td><a href="../Entries_fr/BDB6531.html"><span class="hw">פְּדָהצוּר</span></a></td><td class="bdb-id">BDB6531</td><td class="pos">nom propre, masculin</td><td class="gloss">Manassite</td></tr>
+<tr><td><a href="../Entries_fr/BDB6532.html"><span class="hw">פְּדָיָהוּ</span></a></td><td class="bdb-id">BDB6532</td><td class="pos">nom propre, masculin</td><td class="gloss">beau-père de Josias</td></tr>
+<tr><td><a href="../Entries_fr/BDB6533.html"><span class="hw">פַּדָּן</span></a></td><td class="bdb-id">BDB6533</td><td class="pos">nom propre [d&#x27;un lieu]</td><td class="gloss">peut-être Paddânâ, près de Haran</td></tr>
+<tr><td><a href="../Entries_fr/BDB6534.html"><span class="hw">פָּדַע</span></a></td><td class="bdb-id">BDB6534</td><td class="pos">verbe</td><td class="gloss">douteux, seulement impératif</td></tr>
+<tr><td><a href="../Entries_fr/BDB6535.html"><span class="hw">פֶּ֫דֶר</span></a></td><td class="bdb-id">BDB6535</td><td class="pos">nom [masculin]</td><td class="gloss">suif</td></tr>
+<tr><td><a href="../Entries_fr/BDB6536.html"><span class="hw">פֶּה</span></a></td><td class="bdb-id">BDB6536</td><td class="pos">nom masculin</td><td class="gloss">bouche</td></tr>
+<tr><td><a href="../Entries_fr/BDB6537.html"><span class="hw">פֹּה</span></a></td><td class="bdb-id">BDB6537</td><td class="pos">adverbe [de lieu]</td><td class="gloss">ici, par ici</td></tr>
+<tr><td><a href="../Entries_fr/BDB6538.html"><span class="hw">פּוּאָה</span></a></td><td class="bdb-id">BDB6538</td><td class="pos">nom propre, masculin</td><td class="gloss">en Issacar</td></tr>
+<tr><td><a href="../Entries_fr/BDB6539.html"><span class="hw">פּוּנִי</span></a></td><td class="bdb-id">BDB6539</td><td class="pos">adjectif [d&#x27;un peuple]</td><td class="gloss">de פֻּוָּה</td></tr>
+<tr><td><a href="../Entries_fr/BDB6540.html"><span class="hw">פּוּג</span></a></td><td class="bdb-id">BDB6540</td><td class="pos">verbe</td><td class="gloss">s&#x27;engourdir</td></tr>
+<tr><td><a href="../Entries_fr/BDB6541.html"><span class="hw">פּוּגַת</span></a></td><td class="bdb-id">BDB6541</td><td class="pos">nom féminin</td><td class="gloss">engourdissement</td></tr>
+<tr><td><a href="../Entries_fr/BDB6543.html"><span class="hw">פּוּחַ</span></a></td><td class="bdb-id">BDB6543</td><td class="pos">verbe</td><td class="gloss">respirer, souffler</td></tr>
+<tr><td><a href="../Entries_fr/BDB6544.html"><span class="hw">פִּיחַ</span></a></td><td class="bdb-id">BDB6544</td><td class="pos">nom [masculin]</td><td class="gloss">suie</td></tr>
+<tr><td><a href="../Entries_fr/BDB6545.html"><span class="hw">פּוּט</span></a></td><td class="bdb-id">BDB6545</td><td class="pos">nom propre [d&#x27;un peuple]</td><td class="gloss">Libyens</td></tr>
+<tr><td><a href="../Entries_fr/BDB6546.html"><span class="hw">פּוּטִיאֵל</span></a></td><td class="bdb-id">BDB6546</td><td class="pos">nom propre, masculin</td><td class="gloss">beau-père d&#x27;Éléazar</td></tr>
+<tr><td><a href="../Entries_fr/BDB6547.html"><span class="hw">פּוֺטִיפַר</span></a></td><td class="bdb-id">BDB6547</td><td class="pos">nom propre, masculin</td><td class="gloss">maître de Joseph</td></tr>
+<tr><td><a href="../Entries_fr/BDB6548.html"><span class="hw">פּוֺטִי פֶ֫רַע</span></a></td><td class="bdb-id">BDB6548</td><td class="pos">nom propre, masculin</td><td class="gloss">prêtre d&#x27;On, beau-père de Joseph</td></tr>
+<tr><td><a href="../Entries_fr/BDB6549.html"><span class="hw">פּוּךְ</span></a></td><td class="bdb-id">BDB6549</td><td class="pos">nom [masculin]</td><td class="gloss">antimoine, stibium</td></tr>
+<tr><td><a href="../Entries_fr/BDB6550.html"><span class="hw">פּוֺל</span></a></td><td class="bdb-id">BDB6550</td><td class="pos">nom [masculin]</td><td class="gloss">fèves</td></tr>
+<tr><td><a href="../Entries_fr/BDB6551.html"><span class="hw">פּוּל</span></a></td><td class="bdb-id">BDB6551</td><td class="pos">nom propre, masculin</td><td class="gloss">= תִּגְלַת פְּלֶאסֶר</td></tr>
+<tr><td><a href="../Entries_fr/BDB6552.html"><span class="hw">פּוּן</span></a></td><td class="bdb-id">BDB6552</td><td class="pos">verbe</td><td class="gloss">(?) ; seulement אָפוּנָה</td></tr>
+<tr><td><a href="../Entries_fr/BDB6553.html"><span class="hw">פּוּנֹן</span></a></td><td class="bdb-id">BDB6553</td><td class="pos">nom propre [d&#x27;un lieu]</td><td class="gloss">2e station d&#x27;Israël depuis Hor</td></tr>
+<tr><td><a href="../Entries_fr/BDB6554.html"><span class="hw">פּוּעָה</span></a></td><td class="bdb-id">BDB6554</td><td class="pos">nom propre, féminin</td><td class="gloss">une sage-femme</td></tr>
+<tr><td><a href="../Entries_fr/BDB6555.html"><span class="hw">פּוּץ</span></a></td><td class="bdb-id">BDB6555</td><td class="pos">verbe</td><td class="gloss">être dispersé, éparpillé</td></tr>
+<tr><td><a href="../Entries_fr/BDB6558.html"><span class="hw">פּוּץ</span></a></td><td class="bdb-id">BDB6558</td><td class="pos">verbe</td><td class="gloss">couler, déborder</td></tr>
+<tr><td><a href="../Entries_fr/BDB6559.html"><span class="hw">פּוּק</span></a></td><td class="bdb-id">BDB6559</td><td class="pos">verbe</td><td class="gloss">chanceler, vaciller</td></tr>
+<tr><td><a href="../Entries_fr/BDB6560.html"><span class="hw">פּוּקָה</span></a></td><td class="bdb-id">BDB6560</td><td class="pos">nom féminin</td><td class="gloss">vacillement, titubement</td></tr>
+<tr><td><a href="../Entries_fr/BDB6561.html"><span class="hw">פִּיק</span></a></td><td class="bdb-id">BDB6561</td><td class="pos">nom [masculin]</td><td class="gloss">id.</td></tr>
+<tr><td><a href="../Entries_fr/BDB6562.html"><span class="hw">פּוּק</span></a></td><td class="bdb-id">BDB6562</td><td class="pos">verbe</td><td class="gloss">faire sortir, fournir, promouvoir</td></tr>
+<tr><td><a href="../Entries_fr/BDB6563.html"><span class="hw">פּוּר</span></a></td><td class="bdb-id">BDB6563</td><td class="pos">nom masculin</td><td class="gloss">sort</td></tr>
+<tr><td><a href="../Entries_fr/BDB6564.html"><span class="hw">פור</span></a></td><td class="bdb-id">BDB6564</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB6565.html"><span class="hw">פּוּרָה</span></a></td><td class="bdb-id">BDB6565</td><td class="pos">nom féminin</td><td class="gloss">pressoir</td></tr>
+<tr><td><a href="../Entries_fr/BDB6566.html"><span class="hw">פָּרוּר</span></a></td><td class="bdb-id">BDB6566</td><td class="pos">nom [masculin]</td><td class="gloss">pot</td></tr>
+<tr><td><a href="../Entries_fr/BDB6567.html"><span class="hw">פּוֺרָתָא</span></a></td><td class="bdb-id">BDB6567</td><td class="pos">nom propre, masculin</td><td class="gloss">fils de Haman</td></tr>
+<tr><td><a href="../Entries_fr/BDB6568.html"><span class="hw">פּוּשׁ</span></a></td><td class="bdb-id">BDB6568</td><td class="pos">verbe</td><td class="gloss">bondir</td></tr>
+<tr><td><a href="../Entries_fr/BDB6569.html"><span class="hw">פּוּשׁ</span></a></td><td class="bdb-id">BDB6569</td><td class="pos">verbe</td><td class="gloss">être dispersé</td></tr>
+<tr><td><a href="../Entries_fr/BDB6570.html"><span class="hw">פּוּתִי</span></a></td><td class="bdb-id">BDB6570</td><td class="pos">adjectif [d&#x27;un peuple]</td><td class="gloss">une famille en Juda</td></tr>
+<tr><td><a href="../Entries_fr/BDB6571.html"><span class="hw">פָּזַז</span></a></td><td class="bdb-id">BDB6571</td><td class="pos">verbe</td><td class="gloss">être raffiné (?)</td></tr>
+<tr><td><a href="../Entries_fr/BDB6572.html"><span class="hw">פַּז</span></a></td><td class="bdb-id">BDB6572</td><td class="pos">nom masculin</td><td class="gloss">or raffiné, or pur</td></tr>
+<tr><td><a href="../Entries_fr/BDB6573.html"><span class="hw">פָּזַז</span></a></td><td class="bdb-id">BDB6573</td><td class="pos">verbe</td><td class="gloss">être souple, agile</td></tr>
+<tr><td><a href="../Entries_fr/BDB6574.html"><span class="hw">פָּזַר</span></a></td><td class="bdb-id">BDB6574</td><td class="pos">verbe</td><td class="gloss">disperser</td></tr>
+<tr><td><a href="../Entries_fr/BDB6575.html"><span class="hw">פָּחַד</span></a></td><td class="bdb-id">BDB6575</td><td class="pos">verbe</td><td class="gloss">redouter, être dans la crainte, dans la frayeur</td></tr>
+<tr><td><a href="../Entries_fr/BDB6576.html"><span class="hw">פַּ֫חַד</span></a></td><td class="bdb-id">BDB6576</td><td class="pos">nom masculin</td><td class="gloss">effroi</td></tr>
+<tr><td><a href="../Entries_fr/BDB6577.html"><span class="hw">פַּחְדָּה</span></a></td><td class="bdb-id">BDB6577</td><td class="pos">nom féminin</td><td class="gloss">effroi</td></tr>
+<tr><td><a href="../Entries_fr/BDB6578.html"><span class="hw">פַּ֫הַד</span></a></td><td class="bdb-id">BDB6578</td><td class="pos">nom [masculin]</td><td class="gloss">cuisse</td></tr>
+<tr><td><a href="../Entries_fr/BDB6579.html"><span class="hw">פֶּחָה</span></a></td><td class="bdb-id">BDB6579</td><td class="pos">nom masculin</td><td class="gloss">gouverneur</td></tr>
+<tr><td><a href="../Entries_fr/BDB6580.html"><span class="hw">פָּחַז</span></a></td><td class="bdb-id">BDB6580</td><td class="pos">verbe</td><td class="gloss">être licencieux, téméraire</td></tr>
+<tr><td><a href="../Entries_fr/BDB6581.html"><span class="hw">פַּ֫חַז</span></a></td><td class="bdb-id">BDB6581</td><td class="pos">nom [masculin]</td><td class="gloss">débauche, témérité, licence effrénée</td></tr>
+<tr><td><a href="../Entries_fr/BDB6582.html"><span class="hw">פַּחֲזוּת</span></a></td><td class="bdb-id">BDB6582</td><td class="pos">nom féminin</td><td class="gloss">témérité, extravagance</td></tr>
+<tr><td><a href="../Entries_fr/BDB6583.html"><span class="hw">פחח</span></a></td><td class="bdb-id">BDB6583</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB6584.html"><span class="hw">פַּח</span></a></td><td class="bdb-id">BDB6584</td><td class="pos">nom masculin</td><td class="gloss">piège à oiseaux</td></tr>
+<tr><td><a href="../Entries_fr/BDB6585.html"><span class="hw">פָּחַח</span></a></td><td class="bdb-id">BDB6585</td><td class="pos">verbe</td><td class="gloss">prendre au piège</td></tr>
+<tr><td><a href="../Entries_fr/BDB6586.html"><span class="hw">פַּח</span></a></td><td class="bdb-id">BDB6586</td><td class="pos">nom [masculin]</td><td class="gloss">plaque</td></tr>
+<tr><td><a href="../Entries_fr/BDB6587.html"><span class="hw">פחם</span></a></td><td class="bdb-id">BDB6587</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB6588.html"><span class="hw">פֶּחָם</span></a></td><td class="bdb-id">BDB6588</td><td class="pos">nom [masculin]</td><td class="gloss">charbon</td></tr>
+<tr><td><a href="../Entries_fr/BDB6589.html"><span class="hw">פחת</span></a></td><td class="bdb-id">BDB6589</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB6590.html"><span class="hw">פַּ֫חַת</span></a></td><td class="bdb-id">BDB6590</td><td class="pos">nom masculin</td><td class="gloss">fosse</td></tr>
+<tr><td><a href="../Entries_fr/BDB6591.html"><span class="hw">פְּחֶ֫תֶת</span></a></td><td class="bdb-id">BDB6591</td><td class="pos">nom féminin</td><td class="gloss">rongement, érosion</td></tr>
+<tr><td><a href="../Entries_fr/BDB6592.html"><span class="hw">פַּ֫חַת מוֺאָב</span></a></td><td class="bdb-id">BDB6592</td><td class="pos">nom propre, masculin</td><td class="gloss">nom post-exilique</td></tr>
+<tr><td><a href="../Entries_fr/BDB6593.html"><span class="hw">פִּטְדָה</span></a></td><td class="bdb-id">BDB6593</td><td class="pos">nom féminin</td><td class="gloss">topaze ou chrysolithe</td></tr>
+<tr><td><a href="../Entries_fr/BDB6594.html"><span class="hw">פַּטִּישׁ</span></a></td><td class="bdb-id">BDB6594</td><td class="pos">nom masculin</td><td class="gloss">marteau de forge</td></tr>
+<tr><td><a href="../Entries_fr/BDB6595.html"><span class="hw">פָּטַר</span></a></td><td class="bdb-id">BDB6595</td><td class="pos">verbe</td><td class="gloss">séparer, éloigner, libérer</td></tr>
+<tr><td><a href="../Entries_fr/BDB6596.html"><span class="hw">פֶּ֫טֶר</span></a></td><td class="bdb-id">BDB6596</td><td class="pos">nom [masculin]</td><td class="gloss">ce qui sépare, ouvre en premier</td></tr>
+<tr><td><a href="../Entries_fr/BDB6597.html"><span class="hw">פִּטְרָה</span></a></td><td class="bdb-id">BDB6597</td><td class="pos">nom féminin</td><td class="gloss">id.</td></tr>
+<tr><td><a href="../Entries_fr/BDB6598.html"><span class="hw">פטיר</span></a></td><td class="bdb-id">BDB6598</td><td class="pos"></td><td class="gloss">voir פטר 2</td></tr>
+<tr><td><a href="../Entries_fr/BDB6599.html"><span class="hw">פִּיבֶֿ֫סֶת</span></a></td><td class="bdb-id">BDB6599</td><td class="pos">nom propre [d&#x27;un lieu]</td><td class="gloss">en Égypte</td></tr>
+<tr><td><a href="../Entries_fr/BDB6600.html"><span class="hw">פִּי הַחִירֹת</span></a></td><td class="bdb-id">BDB6600</td><td class="pos">nom propre [d&#x27;un lieu]</td><td class="gloss">à la frontière est de l&#x27;Égypte</td></tr>
+<tr><td><a href="../Entries_fr/BDB6601.html"><span class="hw">פיד</span></a></td><td class="bdb-id">BDB6601</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB6602.html"><span class="hw">פִּיד</span></a></td><td class="bdb-id">BDB6602</td><td class="pos">nom [masculin]</td><td class="gloss">ruine, désastre</td></tr>
+<tr><td><a href="../Entries_fr/BDB6603.html"><span class="hw">פִּיכֹל</span></a></td><td class="bdb-id">BDB6603</td><td class="pos">nom propre, masculin</td><td class="gloss">capitaine d&#x27;Abimélec de Guérar</td></tr>
+<tr><td><a href="../Entries_fr/BDB6604.html"><span class="hw">פים</span></a></td><td class="bdb-id">BDB6604</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB6605.html"><span class="hw">פִּימָה</span></a></td><td class="bdb-id">BDB6605</td><td class="pos">nom féminin</td><td class="gloss">surabondance</td></tr>
+<tr><td><a href="../Entries_fr/BDB6606.html"><span class="hw">פִּינְחָס</span></a></td><td class="bdb-id">BDB6606</td><td class="pos">nom propre, masculin</td><td class="gloss">petit-fils d&#x27;Aaron</td></tr>
+<tr><td><a href="../Entries_fr/BDB6607.html"><span class="hw">פִּינֹן</span></a></td><td class="bdb-id">BDB6607</td><td class="pos">nom propre, masculin</td><td class="gloss">Édomite</td></tr>
+<tr><td><a href="../Entries_fr/BDB6608.html"><span class="hw">פִּישׁוֺן</span></a></td><td class="bdb-id">BDB6608</td><td class="pos">nom propre [d&#x27;un fleuve]</td><td class="gloss">un des fleuves d&#x27;Éden</td></tr>
+<tr><td><a href="../Entries_fr/BDB6609.html"><span class="hw">פִּיתוֺן</span></a></td><td class="bdb-id">BDB6609</td><td class="pos">nom propre, masculin</td><td class="gloss">descendant de Saül</td></tr>
+<tr><td><a href="../Entries_fr/BDB6610.html"><span class="hw">פכך</span></a></td><td class="bdb-id">BDB6610</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB6611.html"><span class="hw">פַּךְ</span></a></td><td class="bdb-id">BDB6611</td><td class="pos">nom masculin</td><td class="gloss">fiole, flacon</td></tr>
+<tr><td><a href="../Entries_fr/BDB6612.html"><span class="hw">פָּכָה</span></a></td><td class="bdb-id">BDB6612</td><td class="pos">verbe</td><td class="gloss">suinter</td></tr>
+<tr><td><a href="../Entries_fr/BDB6613.html"><span class="hw">פֹּכֶ֫רֶת הַצְבָיִם</span></a></td><td class="bdb-id">BDB6613</td><td class="pos">nom propre, masculin</td><td class="gloss">chef d&#x27;une famille post-exilique</td></tr>
+<tr><td><a href="../Entries_fr/BDB6614.html"><span class="hw">פלא</span></a></td><td class="bdb-id">BDB6614</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB6615.html"><span class="hw">פֶּ֫לֶא</span></a></td><td class="bdb-id">BDB6615</td><td class="pos">nom masculin</td><td class="gloss">prodige</td></tr>
+<tr><td><a href="../Entries_fr/BDB6616.html"><span class="hw">פָּלָא</span></a></td><td class="bdb-id">BDB6616</td><td class="pos">verbe</td><td class="gloss">être surpassant, extraordinaire</td></tr>
+<tr><td><a href="../Entries_fr/BDB6617.html"><span class="hw">פַּלּוּא</span></a></td><td class="bdb-id">BDB6617</td><td class="pos">nom propre, masculin</td><td class="gloss">fils de Ruben</td></tr>
+<tr><td><a href="../Entries_fr/BDB6618.html"><span class="hw">פַּלֻּאִי</span></a></td><td class="bdb-id">BDB6618</td><td class="pos">adjectif [d&#x27;un peuple]</td><td class="gloss">du précédent</td></tr>
+<tr><td><a href="../Entries_fr/BDB6619.html"><span class="hw">פָּלִיא</span></a></td><td class="bdb-id">BDB6619</td><td class="pos"></td><td class="gloss">voir ce qui suit</td></tr>
+<tr><td><a href="../Entries_fr/BDB6620.html"><span class="hw">פִּלְאִי</span></a></td><td class="bdb-id">BDB6620</td><td class="pos">adjectif</td><td class="gloss">merveilleux, incompréhensible</td></tr>
+<tr><td><a href="../Entries_fr/BDB6621.html"><span class="hw">פְּלָאיָה</span></a></td><td class="bdb-id">BDB6621</td><td class="pos">nom propre, masculin</td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB6622.html"><span class="hw">פְּלָיָה</span></a></td><td class="bdb-id">BDB6622</td><td class="pos">nom propre, masculin</td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB6624.html"><span class="hw">פָּלַג</span></a></td><td class="bdb-id">BDB6624</td><td class="pos">verbe</td><td class="gloss">fendre, diviser</td></tr>
+<tr><td><a href="../Entries_fr/BDB6625.html"><span class="hw">פֶּ֫לֶג</span></a></td><td class="bdb-id">BDB6625</td><td class="pos">nom masculin</td><td class="gloss">canal</td></tr>
+<tr><td><a href="../Entries_fr/BDB6626.html"><span class="hw">פֶּ֫לֶג</span></a></td><td class="bdb-id">BDB6626</td><td class="pos">nom propre, masculin</td><td class="gloss">fils d&#x27;Éber</td></tr>
+<tr><td><a href="../Entries_fr/BDB6627.html"><span class="hw">פְּלַגָּה</span></a></td><td class="bdb-id">BDB6627</td><td class="pos">nom</td><td class="gloss">cours d&#x27;eau</td></tr>
+<tr><td><a href="../Entries_fr/BDB6628.html"><span class="hw">פְּלֻגָּה</span></a></td><td class="bdb-id">BDB6628</td><td class="pos">nom féminin</td><td class="gloss">division</td></tr>
+<tr><td><a href="../Entries_fr/BDB6630.html"><span class="hw">פִּלֶ֫גֶשׁ</span></a></td><td class="bdb-id">BDB6630</td><td class="pos">nom féminin</td><td class="gloss">concubine</td></tr>
+<tr><td><a href="../Entries_fr/BDB6631.html"><span class="hw">פְּלָדָה</span></a></td><td class="bdb-id">BDB6631</td><td class="pos">nom féminin</td><td class="gloss">fer, acier</td></tr>
+<tr><td><a href="../Entries_fr/BDB6632.html"><span class="hw">פִּלְדָּשׁ</span></a></td><td class="bdb-id">BDB6632</td><td class="pos">nom propre, masculin</td><td class="gloss">Nahorite</td></tr>
+<tr><td><a href="../Entries_fr/BDB6633.html"><span class="hw">פָּלָה</span></a></td><td class="bdb-id">BDB6633</td><td class="pos">verbe</td><td class="gloss">être séparé, distinct</td></tr>
+<tr><td><a href="../Entries_fr/BDB6634.html"><span class="hw">פְּלֹנִי</span></a></td><td class="bdb-id">BDB6634</td><td class="pos">pronom</td><td class="gloss">un certain</td></tr>
+<tr><td><a href="../Entries_fr/BDB6635.html"><span class="hw">פָּלַח</span></a></td><td class="bdb-id">BDB6635</td><td class="pos">verbe</td><td class="gloss">fendre</td></tr>
+<tr><td><a href="../Entries_fr/BDB6636.html"><span class="hw">פֶּ֫לַח</span></a></td><td class="bdb-id">BDB6636</td><td class="pos">nom féminin</td><td class="gloss">clivage, meule</td></tr>
+<tr><td><a href="../Entries_fr/BDB6637.html"><span class="hw">פִּלְחָא</span></a></td><td class="bdb-id">BDB6637</td><td class="pos">nom propre, masculin</td><td class="gloss">nom post-exilique</td></tr>
+<tr><td><a href="../Entries_fr/BDB6638.html"><span class="hw">פָּלַט</span></a></td><td class="bdb-id">BDB6638</td><td class="pos">verbe</td><td class="gloss">échapper</td></tr>
+<tr><td><a href="../Entries_fr/BDB6639.html"><span class="hw">פֶּ֫לֶט</span></a></td><td class="bdb-id">BDB6639</td><td class="pos">nom propre, masculin</td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB6640.html"><span class="hw">פַּלְטִי</span></a></td><td class="bdb-id">BDB6640</td><td class="pos">adjectif [d&#x27;un peuple]</td><td class="gloss">voir  בֵּית פָּ֑לֶט</td></tr>
+<tr><td><a href="../Entries_fr/BDB6641.html"><span class="hw">פַּלֵּט</span></a></td><td class="bdb-id">BDB6641</td><td class="pos">nom [masculin]</td><td class="gloss">délivrance</td></tr>
+<tr><td><a href="../Entries_fr/BDB6642.html"><span class="hw">פָּלִיט</span></a></td><td class="bdb-id">BDB6642</td><td class="pos">nom masculin</td><td class="gloss">rescapé, fugitif</td></tr>
+<tr><td><a href="../Entries_fr/BDB6643.html"><span class="hw">פָּלֵיט</span></a></td><td class="bdb-id">BDB6643</td><td class="pos">nom masculin</td><td class="gloss">id.</td></tr>
+<tr><td><a href="../Entries_fr/BDB6644.html"><span class="hw">פְּלֵיטָה</span></a></td><td class="bdb-id">BDB6644</td><td class="pos">nom féminin</td><td class="gloss">délivrance, salut</td></tr>
+<tr><td><a href="../Entries_fr/BDB6645.html"><span class="hw">פַּלְטִי</span></a></td><td class="bdb-id">BDB6645</td><td class="pos">nom propre, masculin</td><td class="gloss">Benjaminite</td></tr>
+<tr><td><a href="../Entries_fr/BDB6646.html"><span class="hw">פִּלְטָ֑י</span></a></td><td class="bdb-id">BDB6646</td><td class="pos">nom propre, masculin</td><td class="gloss">prêtre</td></tr>
+<tr><td><a href="../Entries_fr/BDB6647.html"><span class="hw">פַּלְטִיאֵל</span></a></td><td class="bdb-id">BDB6647</td><td class="pos">nom propre, masculin</td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB6648.html"><span class="hw">פְּלֵטְיָ֫הוּ</span></a></td><td class="bdb-id">BDB6648</td><td class="pos">nom propre, masculin</td><td class="gloss">un prince du peuple</td></tr>
+<tr><td><a href="../Entries_fr/BDB6652.html"><span class="hw">פלך</span></a></td><td class="bdb-id">BDB6652</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB6653.html"><span class="hw">פֶּ֫לֶךְ</span></a></td><td class="bdb-id">BDB6653</td><td class="pos">nom [masculin]</td><td class="gloss">rotation du fuseau.</td></tr>
+<tr><td><a href="../Entries_fr/BDB6654.html"><span class="hw">פָּלַל</span></a></td><td class="bdb-id">BDB6654</td><td class="pos">verbe</td><td class="gloss">intervenir, s&#x27;interposer</td></tr>
+<tr><td><a href="../Entries_fr/BDB6656.html"><span class="hw">פָּלָל</span></a></td><td class="bdb-id">BDB6656</td><td class="pos">nom propre, masculin</td><td class="gloss">un bâtisseur de muraille</td></tr>
+<tr><td><a href="../Entries_fr/BDB6657.html"><span class="hw">פָּלִיל</span></a></td><td class="bdb-id">BDB6657</td><td class="pos">nom masculin</td><td class="gloss">juge</td></tr>
+<tr><td><a href="../Entries_fr/BDB6658.html"><span class="hw">פְּלִילָה</span></a></td><td class="bdb-id">BDB6658</td><td class="pos">nom féminin</td><td class="gloss">fonction de juge ou d&#x27;arbitre</td></tr>
+<tr><td><a href="../Entries_fr/BDB6659.html"><span class="hw">פְּלִילִי</span></a></td><td class="bdb-id">BDB6659</td><td class="pos">adjectif</td><td class="gloss">pour un juge, appelant au jugement</td></tr>
+<tr><td><a href="../Entries_fr/BDB6660.html"><span class="hw">פְּלִילִיָּה</span></a></td><td class="bdb-id">BDB6660</td><td class="pos">nom féminin</td><td class="gloss">le prononcé d&#x27;une décision</td></tr>
+<tr><td><a href="../Entries_fr/BDB6661.html"><span class="hw">פְּלַלְיָה</span></a></td><td class="bdb-id">BDB6661</td><td class="pos">nom propre, masculin</td><td class="gloss">prêtre</td></tr>
+<tr><td><a href="../Entries_fr/BDB6663.html"><span class="hw">פְּלֹנִי</span></a></td><td class="bdb-id">BDB6663</td><td class="pos">adjectif [d&#x27;un peuple]</td><td class="gloss">erroné</td></tr>
+<tr><td><a href="../Entries_fr/BDB6664.html"><span class="hw">פלס</span></a></td><td class="bdb-id">BDB6664</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB6665.html"><span class="hw">פֶּ֫לֶס</span></a></td><td class="bdb-id">BDB6665</td><td class="pos">nom [masculin]</td><td class="gloss">balance, plateau</td></tr>
+<tr><td><a href="../Entries_fr/BDB6666.html"><span class="hw">פָּלַס</span></a></td><td class="bdb-id">BDB6666</td><td class="pos">verbe</td><td class="gloss">peser, aplanir</td></tr>
+<tr><td><a href="../Entries_fr/BDB6668.html"><span class="hw">פָּלַץ</span></a></td><td class="bdb-id">BDB6668</td><td class="pos">verbe</td><td class="gloss">frissonner</td></tr>
+<tr><td><a href="../Entries_fr/BDB6669.html"><span class="hw">פַּלָּצוּת</span></a></td><td class="bdb-id">BDB6669</td><td class="pos">nom féminin</td><td class="gloss">frisson d&#x27;horreur</td></tr>
+<tr><td><a href="../Entries_fr/BDB6672.html"><span class="hw">פָּלַשׁ</span></a></td><td class="bdb-id">BDB6672</td><td class="pos">verbe</td><td class="gloss">acte de deuil</td></tr>
+<tr><td><a href="../Entries_fr/BDB6673.html"><span class="hw">פְּלֶ֫שֶׁת</span></a></td><td class="bdb-id">BDB6673</td><td class="pos">nom propre [d&#x27;un territoire]</td><td class="gloss">Philistie</td></tr>
+<tr><td><a href="../Entries_fr/BDB6674.html"><span class="hw">פְּלִשְׁתִּי</span></a></td><td class="bdb-id">BDB6674</td><td class="pos">adjectif [d&#x27;un peuple]</td><td class="gloss">Philistin</td></tr>
+<tr><td><a href="../Entries_fr/BDB6675.html"><span class="hw">פֶּ֫לֶת</span></a></td><td class="bdb-id">BDB6675</td><td class="pos">nom propre, masculin</td><td class="gloss">Rubénite</td></tr>
+<tr><td><a href="../Entries_fr/BDB6676.html"><span class="hw">פְּלֵתִי</span></a></td><td class="bdb-id">BDB6676</td><td class="pos">adjectif [d&#x27;un peuple]</td><td class="gloss">d&#x27;un nom propre inconnu</td></tr>
+<tr><td><a href="../Entries_fr/BDB6677.html"><span class="hw">פֶּןֿ</span></a></td><td class="bdb-id">BDB6677</td><td class="pos">conjonction</td><td class="gloss">de peur que</td></tr>
+<tr><td><a href="../Entries_fr/BDB6678.html"><span class="hw">פַּנַּג</span></a></td><td class="bdb-id">BDB6678</td><td class="pos">nom [masculin]</td><td class="gloss">mot inconnu, apparemment une sorte de nourriture</td></tr>
+<tr><td><a href="../Entries_fr/BDB6679.html"><span class="hw">פָּנָה</span></a></td><td class="bdb-id">BDB6679</td><td class="pos">verbe</td><td class="gloss">tourner</td></tr>
+<tr><td><a href="../Entries_fr/BDB6680.html"><span class="hw">פָּנֶה</span></a></td><td class="bdb-id">BDB6680</td><td class="pos">nom masculin</td><td class="gloss">face</td></tr>
+<tr><td><a href="../Entries_fr/BDB6681.html"><span class="hw">פְּנִ֫ימָה</span></a></td><td class="bdb-id">BDB6681</td><td class="pos">adverbe</td><td class="gloss">vers l&#x27;intérieur</td></tr>
+<tr><td><a href="../Entries_fr/BDB6682.html"><span class="hw">פְּנִימִי</span></a></td><td class="bdb-id">BDB6682</td><td class="pos">adjectif</td><td class="gloss">intérieur</td></tr>
+<tr><td><a href="../Entries_fr/BDB6684.html"><span class="hw">פְּנוּאֵל</span></a></td><td class="bdb-id">BDB6684</td><td class="pos">nom propre</td><td class="gloss">à l&#x27;est du Jourdain, près du Yabboq</td></tr>
+<tr><td><a href="../Entries_fr/BDB6686.html"><span class="hw">פנן</span></a></td><td class="bdb-id">BDB6686</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB6687.html"><span class="hw">פִּנָּה</span></a></td><td class="bdb-id">BDB6687</td><td class="pos">nom féminin</td><td class="gloss">coin, angle</td></tr>
+<tr><td><a href="../Entries_fr/BDB6688.html"><span class="hw">פְּנִינִים</span></a></td><td class="bdb-id">BDB6688</td><td class="pos">nom [féminin] pluriel</td><td class="gloss">coraux</td></tr>
+<tr><td><a href="../Entries_fr/BDB6689.html"><span class="hw">פְּנִנָּה</span></a></td><td class="bdb-id">BDB6689</td><td class="pos">nom propre, féminin</td><td class="gloss">(proprement singulier du précédent ?) femme d&#x27;Elqana</td></tr>
+<tr><td><a href="../Entries_fr/BDB6690.html"><span class="hw">פָנַק</span></a></td><td class="bdb-id">BDB6690</td><td class="pos">verbe</td><td class="gloss">choyer, dorloter</td></tr>
+<tr><td><a href="../Entries_fr/BDB6691.html"><span class="hw">פָּסַג</span></a></td><td class="bdb-id">BDB6691</td><td class="pos">verbe</td><td class="gloss">passer entre</td></tr>
+<tr><td><a href="../Entries_fr/BDB6692.html"><span class="hw">פִּסְגָּה</span></a></td><td class="bdb-id">BDB6692</td><td class="pos">nom propre [d&#x27;une montagne]</td><td class="gloss">Pisga</td></tr>
+<tr><td><a href="../Entries_fr/BDB6693.html"><span class="hw">פָּסַח</span></a></td><td class="bdb-id">BDB6693</td><td class="pos">verbe</td><td class="gloss">passer ou bondir par-dessus</td></tr>
+<tr><td><a href="../Entries_fr/BDB6694.html"><span class="hw">פֶּ֫סַח</span></a></td><td class="bdb-id">BDB6694</td><td class="pos">nom masculin</td><td class="gloss">Pâque</td></tr>
+<tr><td><a href="../Entries_fr/BDB6696.html"><span class="hw">פָּסַח</span></a></td><td class="bdb-id">BDB6696</td><td class="pos">verbe</td><td class="gloss">boiter</td></tr>
+<tr><td><a href="../Entries_fr/BDB6697.html"><span class="hw">פַּסֵחַ</span></a></td><td class="bdb-id">BDB6697</td><td class="pos">nom propre, masculin</td><td class="gloss">en Juda</td></tr>
+<tr><td><a href="../Entries_fr/BDB6698.html"><span class="hw">פִּסֵּחַ</span></a></td><td class="bdb-id">BDB6698</td><td class="pos">adjectif</td><td class="gloss">boiteux</td></tr>
+<tr><td><a href="../Entries_fr/BDB6699.html"><span class="hw">פָּסָךְ</span></a></td><td class="bdb-id">BDB6699</td><td class="pos">nom propre, masculin</td><td class="gloss">Ashérite</td></tr>
+<tr><td><a href="../Entries_fr/BDB6700.html"><span class="hw">פָּסַל</span></a></td><td class="bdb-id">BDB6700</td><td class="pos">verbe</td><td class="gloss">tailler, façonner</td></tr>
+<tr><td><a href="../Entries_fr/BDB6701.html"><span class="hw">פֶּ֫סֶל</span></a></td><td class="bdb-id">BDB6701</td><td class="pos">nom masculin</td><td class="gloss">idole, image</td></tr>
+<tr><td><a href="../Entries_fr/BDB6702.html"><span class="hw">פָּסִיל</span></a></td><td class="bdb-id">BDB6702</td><td class="pos">nom masculin</td><td class="gloss">id.</td></tr>
+<tr><td><a href="../Entries_fr/BDB6703.html"><span class="hw">פסס</span></a></td><td class="bdb-id">BDB6703</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB6704.html"><span class="hw">פַּס</span></a></td><td class="bdb-id">BDB6704</td><td class="pos">nom [masculin]</td><td class="gloss">plat</td></tr>
+<tr><td><a href="../Entries_fr/BDB6705.html"><span class="hw">פִּסָּה</span></a></td><td class="bdb-id">BDB6705</td><td class="pos">nom féminin</td><td class="gloss">abondance, profusion</td></tr>
+<tr><td><a href="../Entries_fr/BDB6706.html"><span class="hw">פָסַס</span></a></td><td class="bdb-id">BDB6706</td><td class="pos">verbe</td><td class="gloss">disparaître, s&#x27;évanouir</td></tr>
+<tr><td><a href="../Entries_fr/BDB6707.html"><span class="hw">פִּסְפָּה</span></a></td><td class="bdb-id">BDB6707</td><td class="pos">nom propre, masculin</td><td class="gloss">Asérite</td></tr>
+<tr><td><a href="../Entries_fr/BDB6708.html"><span class="hw">פָּעָה</span></a></td><td class="bdb-id">BDB6708</td><td class="pos">verbe</td><td class="gloss">gémir</td></tr>
+<tr><td><a href="../Entries_fr/BDB6710.html"><span class="hw">פָּ֑עוּ</span></a></td><td class="bdb-id">BDB6710</td><td class="pos">nom propre [d&#x27;un lieu]</td><td class="gloss">en Édom</td></tr>
+<tr><td><a href="../Entries_fr/BDB6711.html"><span class="hw">פָּעַל</span></a></td><td class="bdb-id">BDB6711</td><td class="pos">verbe</td><td class="gloss">faire, accomplir</td></tr>
+<tr><td><a href="../Entries_fr/BDB6712.html"><span class="hw">פֹּ֫עַל</span></a></td><td class="bdb-id">BDB6712</td><td class="pos">nom masculin</td><td class="gloss">action, acte, œuvre</td></tr>
+<tr><td><a href="../Entries_fr/BDB6713.html"><span class="hw">פְּעֻלָּה</span></a></td><td class="bdb-id">BDB6713</td><td class="pos">nom féminin</td><td class="gloss">oeuvre, rétribution</td></tr>
+<tr><td><a href="../Entries_fr/BDB6714.html"><span class="hw">פְּעֻלְּתַי</span></a></td><td class="bdb-id">BDB6714</td><td class="pos">nom propre, masculin</td><td class="gloss">Lévite</td></tr>
+<tr><td><a href="../Entries_fr/BDB6717.html"><span class="hw">פָּעַם</span></a></td><td class="bdb-id">BDB6717</td><td class="pos">verbe</td><td class="gloss">pousser, impulser</td></tr>
+<tr><td><a href="../Entries_fr/BDB6718.html"><span class="hw">פַּ֫עַם</span></a></td><td class="bdb-id">BDB6718</td><td class="pos">nom féminin</td><td class="gloss">battement, pied, enclume, occurrence</td></tr>
+<tr><td><a href="../Entries_fr/BDB6719.html"><span class="hw">פַּעֲמֹן</span></a></td><td class="bdb-id">BDB6719</td><td class="pos">nom [masculin]</td><td class="gloss">clochette</td></tr>
+<tr><td><a href="../Entries_fr/BDB6720.html"><span class="hw">פָּעַר</span></a></td><td class="bdb-id">BDB6720</td><td class="pos">verbe</td><td class="gloss">ouvrir grand</td></tr>
+<tr><td><a href="../Entries_fr/BDB6721.html"><span class="hw">פַּעֲרַי</span></a></td><td class="bdb-id">BDB6721</td><td class="pos">nom propre, masculin</td><td class="gloss">= נַעֲרַי</td></tr>
+<tr><td><a href="../Entries_fr/BDB6722.html"><span class="hw">פְּעוֺר</span></a></td><td class="bdb-id">BDB6722</td><td class="pos">nom propre</td><td class="gloss">montagne en Moab (apparemment d&#x27;une √ פעֿר)</td></tr>
+<tr><td><a href="../Entries_fr/BDB6723.html"><span class="hw">פָּצָה</span></a></td><td class="bdb-id">BDB6723</td><td class="pos">verbe</td><td class="gloss">séparer, ouvrir</td></tr>
+<tr><td><a href="../Entries_fr/BDB6724.html"><span class="hw">פָּצַח</span></a></td><td class="bdb-id">BDB6724</td><td class="pos">verbe</td><td class="gloss">faire éclater, éclater en</td></tr>
+<tr><td><a href="../Entries_fr/BDB6725.html"><span class="hw">פָּצַל</span></a></td><td class="bdb-id">BDB6725</td><td class="pos">verbe</td><td class="gloss">peler</td></tr>
+<tr><td><a href="../Entries_fr/BDB6726.html"><span class="hw">פִּצְלָה</span></a></td><td class="bdb-id">BDB6726</td><td class="pos">nom féminin pluriel</td><td class="gloss">tache ou raie pelée</td></tr>
+<tr><td><a href="../Entries_fr/BDB6727.html"><span class="hw">פָּצַם</span></a></td><td class="bdb-id">BDB6727</td><td class="pos">verbe</td><td class="gloss">fendre</td></tr>
+<tr><td><a href="../Entries_fr/BDB6728.html"><span class="hw">פָּצַע</span></a></td><td class="bdb-id">BDB6728</td><td class="pos">verbe</td><td class="gloss">meurtrir, blesser par contusion</td></tr>
+<tr><td><a href="../Entries_fr/BDB6729.html"><span class="hw">פֶּ֫צַע</span></a></td><td class="bdb-id">BDB6729</td><td class="pos">nom masculin</td><td class="gloss">meurtrissure, blessure</td></tr>
+<tr><td><a href="../Entries_fr/BDB6730.html"><span class="hw">פָּצַץ</span></a></td><td class="bdb-id">BDB6730</td><td class="pos">verbe</td><td class="gloss">briser</td></tr>
+<tr><td><a href="../Entries_fr/BDB6731.html"><span class="hw">פִּצֵּץ</span></a></td><td class="bdb-id">BDB6731</td><td class="pos">nom propre, masculin</td><td class="gloss">nom sacerdotal</td></tr>
+<tr><td><a href="../Entries_fr/BDB6732.html"><span class="hw">פָּצַר</span></a></td><td class="bdb-id">BDB6732</td><td class="pos">verbe</td><td class="gloss">pousser, presser</td></tr>
+<tr><td><a href="../Entries_fr/BDB6733.html"><span class="hw">פְּצִירָה</span></a></td><td class="bdb-id">BDB6733</td><td class="pos">nom féminin</td><td class="gloss">apparemment nom féminin de la √ פצר</td></tr>
+<tr><td><a href="../Entries_fr/BDB6734.html"><span class="hw">פָּקַד</span></a></td><td class="bdb-id">BDB6734</td><td class="pos">verbe</td><td class="gloss">s&#x27;occuper de, visiter, recenser, désigner</td></tr>
+<tr><td><a href="../Entries_fr/BDB6735.html"><span class="hw">פְּקֻדָּה</span></a></td><td class="bdb-id">BDB6735</td><td class="pos">nom féminin</td><td class="gloss">surveillance, dénombrement, visite, réserve</td></tr>
+<tr><td><a href="../Entries_fr/BDB6736.html"><span class="hw">פְּקוּדִים</span></a></td><td class="bdb-id">BDB6736</td><td class="pos">nom pluriel [masculin]</td><td class="gloss">dénombrements</td></tr>
+<tr><td><a href="../Entries_fr/BDB6737.html"><span class="hw">פָּקִיד</span></a></td><td class="bdb-id">BDB6737</td><td class="pos">nom masculin</td><td class="gloss">commissaire, adjoint, surveillant</td></tr>
+<tr><td><a href="../Entries_fr/BDB6738.html"><span class="hw">פְּקִדֻת</span></a></td><td class="bdb-id">BDB6738</td><td class="pos">nom féminin</td><td class="gloss">surveillance</td></tr>
+<tr><td><a href="../Entries_fr/BDB6739.html"><span class="hw">פִּקּוּד</span></a></td><td class="bdb-id">BDB6739</td><td class="pos">nom masculin</td><td class="gloss">précepte</td></tr>
+<tr><td><a href="../Entries_fr/BDB6740.html"><span class="hw">פִּקָּדוֺן</span></a></td><td class="bdb-id">BDB6740</td><td class="pos">nom masculin</td><td class="gloss">dépôt, réserve</td></tr>
+<tr><td><a href="../Entries_fr/BDB6742.html"><span class="hw">פְּקוֺד</span></a></td><td class="bdb-id">BDB6742</td><td class="pos">nom propre [d&#x27;un peuple et d&#x27;un territoire]</td><td class="gloss">un peuple dans l&#x27;armée babylonienne</td></tr>
+<tr><td><a href="../Entries_fr/BDB6743.html"><span class="hw">פָּקַח</span></a></td><td class="bdb-id">BDB6743</td><td class="pos">verbe</td><td class="gloss">ouvrir</td></tr>
+<tr><td><a href="../Entries_fr/BDB6744.html"><span class="hw">פִּקֵּחַ</span></a></td><td class="bdb-id">BDB6744</td><td class="pos">adjectif</td><td class="gloss">voyant</td></tr>
+<tr><td><a href="../Entries_fr/BDB6745.html"><span class="hw">פְּקַחקֿוֺחַ</span></a></td><td class="bdb-id">BDB6745</td><td class="pos">nom [masculin]</td><td class="gloss">ouverture</td></tr>
+<tr><td><a href="../Entries_fr/BDB6746.html"><span class="hw">פֶּ֫קַח</span></a></td><td class="bdb-id">BDB6746</td><td class="pos">nom propre, masculin</td><td class="gloss">roi usurpateur d&#x27;Israël</td></tr>
+<tr><td><a href="../Entries_fr/BDB6747.html"><span class="hw">פְּקַחְיָה</span></a></td><td class="bdb-id">BDB6747</td><td class="pos">nom propre, masculin</td><td class="gloss">roi d&#x27;Israël</td></tr>
+<tr><td><a href="../Entries_fr/BDB6748.html"><span class="hw">פקע</span></a></td><td class="bdb-id">BDB6748</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB6749.html"><span class="hw">פְּקָעִים</span></a></td><td class="bdb-id">BDB6749</td><td class="pos">nom masculin</td><td class="gloss">en forme de boule, de bouton</td></tr>
+<tr><td><a href="../Entries_fr/BDB6750.html"><span class="hw">פַּקֻּעֹת</span></a></td><td class="bdb-id">BDB6750</td><td class="pos">nom [féminin] pluriel</td><td class="gloss">coloquintes</td></tr>
+<tr><td><a href="../Entries_fr/BDB6751.html"><span class="hw">פרא</span></a></td><td class="bdb-id">BDB6751</td><td class="pos"></td><td class="gloss">voir Hiph`il Imparfait יַפְרִיא ci-dessous פרה</td></tr>
+<tr><td><a href="../Entries_fr/BDB6752.html"><span class="hw">פרא</span></a></td><td class="bdb-id">BDB6752</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB6753.html"><span class="hw">פֶּ֫רֶא</span></a></td><td class="bdb-id">BDB6753</td><td class="pos">nom masculin</td><td class="gloss">âne sauvage</td></tr>
+<tr><td><a href="../Entries_fr/BDB6754.html"><span class="hw">פִּרְאָם</span></a></td><td class="bdb-id">BDB6754</td><td class="pos">nom propre, masculin</td><td class="gloss">roi cananéen de Yarmouth</td></tr>
+<tr><td><a href="../Entries_fr/BDB6755.html"><span class="hw">פָּרַד</span></a></td><td class="bdb-id">BDB6755</td><td class="pos">verbe</td><td class="gloss">diviser</td></tr>
+<tr><td><a href="../Entries_fr/BDB6756.html"><span class="hw">פְּרֻדָה</span></a></td><td class="bdb-id">BDB6756</td><td class="pos">nom féminin</td><td class="gloss">grain</td></tr>
+<tr><td><a href="../Entries_fr/BDB6757.html"><span class="hw">פְּרוּדָא</span></a></td><td class="bdb-id">BDB6757</td><td class="pos">nom propre, masculin</td><td class="gloss">nom post-exilique</td></tr>
+<tr><td><a href="../Entries_fr/BDB6758.html"><span class="hw">פרד</span></a></td><td class="bdb-id">BDB6758</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB6759.html"><span class="hw">פֶּ֫רֶד</span></a></td><td class="bdb-id">BDB6759</td><td class="pos">nom masculin</td><td class="gloss">mulet</td></tr>
+<tr><td><a href="../Entries_fr/BDB6760.html"><span class="hw">פִּרְדָּה</span></a></td><td class="bdb-id">BDB6760</td><td class="pos">nom féminin</td><td class="gloss">mule</td></tr>
+<tr><td><a href="../Entries_fr/BDB6761.html"><span class="hw">פַּרְדֵּס</span></a></td><td class="bdb-id">BDB6761</td><td class="pos">nom [masculin]</td><td class="gloss">enclos, parc</td></tr>
+<tr><td><a href="../Entries_fr/BDB6762.html"><span class="hw">פָּרָה</span></a></td><td class="bdb-id">BDB6762</td><td class="pos">verbe</td><td class="gloss">porter du fruit, être fécond</td></tr>
+<tr><td><a href="../Entries_fr/BDB6763.html"><span class="hw">פְּרִי</span></a></td><td class="bdb-id">BDB6763</td><td class="pos">nom masculin</td><td class="gloss">fruit</td></tr>
+<tr><td><a href="../Entries_fr/BDB6764.html"><span class="hw">פֻּרָה</span></a></td><td class="bdb-id">BDB6764</td><td class="pos">nom propre, masculin</td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB6765.html"><span class="hw">פַּרְוָ֑יִם</span></a></td><td class="bdb-id">BDB6765</td><td class="pos">nom propre [d&#x27;un lieu]</td><td class="gloss">en Arabie ?</td></tr>
+<tr><td><a href="../Entries_fr/BDB6766.html"><span class="hw">פַּרְוֶר</span></a></td><td class="bdb-id">BDB6766</td><td class="pos">nom [masculin]</td><td class="gloss">structure (colonnade ?) attenante au côté ouest du temple de Salomon</td></tr>
+<tr><td><a href="../Entries_fr/BDB6767.html"><span class="hw">פֶּ֫רֶז</span></a></td><td class="bdb-id">BDB6767</td><td class="pos">nom [masculin]</td><td class="gloss">texte et sens douteux ; guerriers</td></tr>
+<tr><td><a href="../Entries_fr/BDB6768.html"><span class="hw">פרז</span></a></td><td class="bdb-id">BDB6768</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB6769.html"><span class="hw">פְּרָזָה</span></a></td><td class="bdb-id">BDB6769</td><td class="pos">nom féminin</td><td class="gloss">région ouverte, hameau</td></tr>
+<tr><td><a href="../Entries_fr/BDB6770.html"><span class="hw">פְּרָזִי</span></a></td><td class="bdb-id">BDB6770</td><td class="pos">nom [masculin]</td><td class="gloss">habitant de hameau</td></tr>
+<tr><td><a href="../Entries_fr/BDB6771.html"><span class="hw">פְּרָזוֺן</span></a></td><td class="bdb-id">BDB6771</td><td class="pos">nom [masculin]</td><td class="gloss">douteux</td></tr>
+<tr><td><a href="../Entries_fr/BDB6772.html"><span class="hw">פְּרִזִּי</span></a></td><td class="bdb-id">BDB6772</td><td class="pos">adjectif [d&#x27;un peuple]</td><td class="gloss">Perizzite</td></tr>
+<tr><td><a href="../Entries_fr/BDB6773.html"><span class="hw">פָּרַח</span></a></td><td class="bdb-id">BDB6773</td><td class="pos">verbe</td><td class="gloss">bourgeon, pousse, rejeton</td></tr>
+<tr><td><a href="../Entries_fr/BDB6774.html"><span class="hw">פֶּ֫רַח</span></a></td><td class="bdb-id">BDB6774</td><td class="pos">nom masculin</td><td class="gloss">bourgeon, pousse</td></tr>
+<tr><td><a href="../Entries_fr/BDB6775.html"><span class="hw">פִּרְחָח</span></a></td><td class="bdb-id">BDB6775</td><td class="pos">nom masculin</td><td class="gloss">engeance</td></tr>
+<tr><td><a href="../Entries_fr/BDB6777.html"><span class="hw">פָּרַח</span></a></td><td class="bdb-id">BDB6777</td><td class="pos">verbe</td><td class="gloss">éclater, se répandre</td></tr>
+<tr><td><a href="../Entries_fr/BDB6778.html"><span class="hw">פָּרַח</span></a></td><td class="bdb-id">BDB6778</td><td class="pos">verbe</td><td class="gloss">voler</td></tr>
+<tr><td><a href="../Entries_fr/BDB6779.html"><span class="hw">פָּרוּחַ</span></a></td><td class="bdb-id">BDB6779</td><td class="pos">nom propre, masculin</td><td class="gloss">en Issacar</td></tr>
+<tr><td><a href="../Entries_fr/BDB6780.html"><span class="hw">פָּרַט</span></a></td><td class="bdb-id">BDB6780</td><td class="pos">verbe</td><td class="gloss">très douteux</td></tr>
+<tr><td><a href="../Entries_fr/BDB6781.html"><span class="hw">פֶּ֫רֶט</span></a></td><td class="bdb-id">BDB6781</td><td class="pos">nom [masculin]</td><td class="gloss">ce qui est détaché</td></tr>
+<tr><td><a href="../Entries_fr/BDB6782.html"><span class="hw">פרך</span></a></td><td class="bdb-id">BDB6782</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB6783.html"><span class="hw">פֶּ֫רֶךְ</span></a></td><td class="bdb-id">BDB6783</td><td class="pos">nom [masculin]</td><td class="gloss">dureté, sévérité</td></tr>
+<tr><td><a href="../Entries_fr/BDB6784.html"><span class="hw">פרך</span></a></td><td class="bdb-id">BDB6784</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB6785.html"><span class="hw">פָּרֹ֫כֶת</span></a></td><td class="bdb-id">BDB6785</td><td class="pos">nom féminin</td><td class="gloss">rideau</td></tr>
+<tr><td><a href="../Entries_fr/BDB6786.html"><span class="hw">פָּרַם</span></a></td><td class="bdb-id">BDB6786</td><td class="pos">verbe</td><td class="gloss">déchirer, lacérer un vêtement</td></tr>
+<tr><td><a href="../Entries_fr/BDB6787.html"><span class="hw">פַּרְמַשְׁתָּא</span></a></td><td class="bdb-id">BDB6787</td><td class="pos">nom propre, masculin</td><td class="gloss">fils de Haman</td></tr>
+<tr><td><a href="../Entries_fr/BDB6788.html"><span class="hw">פַּרְנָךְ</span></a></td><td class="bdb-id">BDB6788</td><td class="pos">nom propre, masculin</td><td class="gloss">de Zabulon</td></tr>
+<tr><td><a href="../Entries_fr/BDB6789.html"><span class="hw">פָּרַס</span></a></td><td class="bdb-id">BDB6789</td><td class="pos">nom propre [d&#x27;un territoire]</td><td class="gloss">Perse</td></tr>
+<tr><td><a href="../Entries_fr/BDB6790.html"><span class="hw">פַּרְסִי</span></a></td><td class="bdb-id">BDB6790</td><td class="pos">adjectif [d&#x27;un peuple]</td><td class="gloss">perse</td></tr>
+<tr><td><a href="../Entries_fr/BDB6791.html"><span class="hw">פָּרַס</span></a></td><td class="bdb-id">BDB6791</td><td class="pos">verbe</td><td class="gloss">rompre en deux, diviser</td></tr>
+<tr><td><a href="../Entries_fr/BDB6792.html"><span class="hw">פֶּ֫רֶס</span></a></td><td class="bdb-id">BDB6792</td><td class="pos">nom [masculin]</td><td class="gloss">gypaète barbu</td></tr>
+<tr><td><a href="../Entries_fr/BDB6793.html"><span class="hw">פַּרְסָה</span></a></td><td class="bdb-id">BDB6793</td><td class="pos">nom féminin</td><td class="gloss">sabot</td></tr>
+<tr><td><a href="../Entries_fr/BDB6794.html"><span class="hw">פרע</span></a></td><td class="bdb-id">BDB6794</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB6795.html"><span class="hw">פֶּ֫רַע</span></a></td><td class="bdb-id">BDB6795</td><td class="pos">nom [masculin]</td><td class="gloss">chef ( ?)</td></tr>
+<tr><td><a href="../Entries_fr/BDB6796.html"><span class="hw">פָּרַע</span></a></td><td class="bdb-id">BDB6796</td><td class="pos">verbe</td><td class="gloss">agir comme chef, conduire (?)</td></tr>
+<tr><td><a href="../Entries_fr/BDB6797.html"><span class="hw">פִּרְעָתוֺן</span></a></td><td class="bdb-id">BDB6797</td><td class="pos">nom propre [d&#x27;un lieu]</td><td class="gloss">en Éphraïm</td></tr>
+<tr><td><a href="../Entries_fr/BDB6798.html"><span class="hw">פִּרְעָתוֺנִי</span></a></td><td class="bdb-id">BDB6798</td><td class="pos">adjectif [d&#x27;un peuple]</td><td class="gloss">du précédent</td></tr>
+<tr><td><a href="../Entries_fr/BDB6799.html"><span class="hw">פרע</span></a></td><td class="bdb-id">BDB6799</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB6800.html"><span class="hw">פֶּ֫רַע</span></a></td><td class="bdb-id">BDB6800</td><td class="pos">nom [masculin]</td><td class="gloss">longue chevelure</td></tr>
+<tr><td><a href="../Entries_fr/BDB6801.html"><span class="hw">פָּרַע</span></a></td><td class="bdb-id">BDB6801</td><td class="pos">verbe</td><td class="gloss">lâcher, laisser aller</td></tr>
+<tr><td><a href="../Entries_fr/BDB6802.html"><span class="hw">פַּרְעה</span></a></td><td class="bdb-id">BDB6802</td><td class="pos">nom masculin</td><td class="gloss">Pharaon</td></tr>
+<tr><td><a href="../Entries_fr/BDB6803.html"><span class="hw">פַּרְעשׁ</span></a></td><td class="bdb-id">BDB6803</td><td class="pos">nom masculin</td><td class="gloss">puce</td></tr>
+<tr><td><a href="../Entries_fr/BDB6804.html"><span class="hw">פַּרְעשׁ</span></a></td><td class="bdb-id">BDB6804</td><td class="pos">nom propre, masculin</td><td class="gloss">chef d&#x27;une famille post-exilique</td></tr>
+<tr><td><a href="../Entries_fr/BDB6805.html"><span class="hw">פַּרְפַּר</span></a></td><td class="bdb-id">BDB6805</td><td class="pos">nom propre [d&#x27;une rivière]</td><td class="gloss">près de Damas</td></tr>
+<tr><td><a href="../Entries_fr/BDB6806.html"><span class="hw">פָּרַץ</span></a></td><td class="bdb-id">BDB6806</td><td class="pos">verbe</td><td class="gloss">percer, faire une brèche</td></tr>
+<tr><td><a href="../Entries_fr/BDB6807.html"><span class="hw">פֶּ֫רֶץ</span></a></td><td class="bdb-id">BDB6807</td><td class="pos">nom masculin</td><td class="gloss">jaillissement, brèche</td></tr>
+<tr><td><a href="../Entries_fr/BDB6808.html"><span class="hw">פֶ֫רֶץ</span></a></td><td class="bdb-id">BDB6808</td><td class="pos">nom propre</td><td class="gloss">fils de Juda et de Tamar</td></tr>
+<tr><td><a href="../Entries_fr/BDB6809.html"><span class="hw">פַּרְצִי</span></a></td><td class="bdb-id">BDB6809</td><td class="pos">adjectif [d&#x27;un peuple]</td><td class="gloss">de II פֶּרֶץ 1, avec l&#x27;article comme nom collectif</td></tr>
+<tr><td><a href="../Entries_fr/BDB6810.html"><span class="hw">פָּרִיץ</span></a></td><td class="bdb-id">BDB6810</td><td class="pos">nom masculin</td><td class="gloss">homme violent</td></tr>
+<tr><td><a href="../Entries_fr/BDB6811.html"><span class="hw">פרץ</span></a></td><td class="bdb-id">BDB6811</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB6813.html"><span class="hw">פָּרַק</span></a></td><td class="bdb-id">BDB6813</td><td class="pos">verbe</td><td class="gloss">arracher, détacher</td></tr>
+<tr><td><a href="../Entries_fr/BDB6814.html"><span class="hw">פֶּ֫רֶק</span></a></td><td class="bdb-id">BDB6814</td><td class="pos">nom [masculin]</td><td class="gloss">croisée des chemins</td></tr>
+<tr><td><a href="../Entries_fr/BDB6815.html"><span class="hw">פָּרָק</span></a></td><td class="bdb-id">BDB6815</td><td class="pos">nom [masculin]</td><td class="gloss">fragment</td></tr>
+<tr><td><a href="../Entries_fr/BDB6817.html"><span class="hw">פָּרַר</span></a></td><td class="bdb-id">BDB6817</td><td class="pos">verbe</td><td class="gloss">briser, faire échouer</td></tr>
+<tr><td><a href="../Entries_fr/BDB6818.html"><span class="hw">פָּרַר</span></a></td><td class="bdb-id">BDB6818</td><td class="pos">verbe</td><td class="gloss">fendre, diviser</td></tr>
+<tr><td><a href="../Entries_fr/BDB6819.html"><span class="hw">פרר</span></a></td><td class="bdb-id">BDB6819</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB6820.html"><span class="hw">פַּר</span></a></td><td class="bdb-id">BDB6820</td><td class="pos">nom masculin</td><td class="gloss">jeune taureau, bouvillon</td></tr>
+<tr><td><a href="../Entries_fr/BDB6821.html"><span class="hw">פָּרָה</span></a></td><td class="bdb-id">BDB6821</td><td class="pos">nom féminin</td><td class="gloss">génisse, vache</td></tr>
+<tr><td><a href="../Entries_fr/BDB6822.html"><span class="hw">פָּרָה</span></a></td><td class="bdb-id">BDB6822</td><td class="pos">nom propre [d&#x27;un lieu]</td><td class="gloss">en Benjamin</td></tr>
+<tr><td><a href="../Entries_fr/BDB6823.html"><span class="hw">פָּרַשׂ</span></a></td><td class="bdb-id">BDB6823</td><td class="pos">verbe</td><td class="gloss">étendre, déployer</td></tr>
+<tr><td><a href="../Entries_fr/BDB6825.html"><span class="hw">פַּרְשֵׂז</span></a></td><td class="bdb-id">BDB6825</td><td class="pos"></td><td class="gloss">de פָּרַשׂ</td></tr>
+<tr><td><a href="../Entries_fr/BDB6826.html"><span class="hw">פָּרַשׁ</span></a></td><td class="bdb-id">BDB6826</td><td class="pos">verbe</td><td class="gloss">distinguer, déclarer</td></tr>
+<tr><td><a href="../Entries_fr/BDB6827.html"><span class="hw">פָּרָשָׁה</span></a></td><td class="bdb-id">BDB6827</td><td class="pos">nom féminin</td><td class="gloss">exposé précis</td></tr>
+<tr><td><a href="../Entries_fr/BDB6828.html"><span class="hw">פָּרַשׁ</span></a></td><td class="bdb-id">BDB6828</td><td class="pos">verbe</td><td class="gloss">percer, piquer (?)</td></tr>
+<tr><td><a href="../Entries_fr/BDB6829.html"><span class="hw">פרשׁ</span></a></td><td class="bdb-id">BDB6829</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB6830.html"><span class="hw">פֶּ֫רֶשׁ</span></a></td><td class="bdb-id">BDB6830</td><td class="pos">nom [masculin]</td><td class="gloss">matière fécale</td></tr>
+<tr><td><a href="../Entries_fr/BDB6831.html"><span class="hw">פֶּ֫רֶשׁ</span></a></td><td class="bdb-id">BDB6831</td><td class="pos">nom propre, masculin</td><td class="gloss">Manassite</td></tr>
+<tr><td><a href="../Entries_fr/BDB6832.html"><span class="hw">פרשׁ</span></a></td><td class="bdb-id">BDB6832</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB6833.html"><span class="hw">פָּרָשׁ</span></a></td><td class="bdb-id">BDB6833</td><td class="pos">nom [masculin]</td><td class="gloss">cheval, coursier</td></tr>
+<tr><td><a href="../Entries_fr/BDB6834.html"><span class="hw">פָּרָשׁ</span></a></td><td class="bdb-id">BDB6834</td><td class="pos">nom masculin</td><td class="gloss">cavalier</td></tr>
+<tr><td><a href="../Entries_fr/BDB6835.html"><span class="hw">פַּרְשֶׁ֫גֶן</span></a></td><td class="bdb-id">BDB6835</td><td class="pos">nom masculin</td><td class="gloss">copie</td></tr>
+<tr><td><a href="../Entries_fr/BDB6836.html"><span class="hw">פַּרְשְׁדֹ֑נָה</span></a></td><td class="bdb-id">BDB6836</td><td class="pos">nom [masculin]</td><td class="gloss">lire peut-être פֶּרֶשׁ excréments</td></tr>
+<tr><td><a href="../Entries_fr/BDB6837.html"><span class="hw">פַּרְשַׁנֵדָּתָא</span></a></td><td class="bdb-id">BDB6837</td><td class="pos">nom propre, masculin</td><td class="gloss">un fils de Haman</td></tr>
+<tr><td><a href="../Entries_fr/BDB6838.html"><span class="hw">פְּרָת</span></a></td><td class="bdb-id">BDB6838</td><td class="pos">nom propre, masculin [d&#x27;un fleuve]</td><td class="gloss">Euphrate</td></tr>
+<tr><td><a href="../Entries_fr/BDB6839.html"><span class="hw">פַּרְתְּמִים</span></a></td><td class="bdb-id">BDB6839</td><td class="pos">nom masculin pluriel</td><td class="gloss">nobles</td></tr>
+<tr><td><a href="../Entries_fr/BDB6840.html"><span class="hw">פָּשָׂה</span></a></td><td class="bdb-id">BDB6840</td><td class="pos">verbe</td><td class="gloss">s&#x27;étendre</td></tr>
+<tr><td><a href="../Entries_fr/BDB6841.html"><span class="hw">פָּשַׂע</span></a></td><td class="bdb-id">BDB6841</td><td class="pos">verbe</td><td class="gloss">enjamber, marcher</td></tr>
+<tr><td><a href="../Entries_fr/BDB6842.html"><span class="hw">פֶּ֫שַׂע</span></a></td><td class="bdb-id">BDB6842</td><td class="pos">nom [masculin]</td><td class="gloss">pas</td></tr>
+<tr><td><a href="../Entries_fr/BDB6844.html"><span class="hw">פָּשַׂק</span></a></td><td class="bdb-id">BDB6844</td><td class="pos">verbe</td><td class="gloss">écarter, ouvrir largement</td></tr>
+<tr><td><a href="../Entries_fr/BDB6845.html"><span class="hw">פַּשׁ</span></a></td><td class="bdb-id">BDB6845</td><td class="pos">nom [masculin]</td><td class="gloss">folie</td></tr>
+<tr><td><a href="../Entries_fr/BDB6846.html"><span class="hw">פָּשַׁח</span></a></td><td class="bdb-id">BDB6846</td><td class="pos">verbe</td><td class="gloss">mettre en pièces</td></tr>
+<tr><td><a href="../Entries_fr/BDB6847.html"><span class="hw">פַּשְׁחוּר</span></a></td><td class="bdb-id">BDB6847</td><td class="pos">nom propre, masculin</td><td class="gloss">père d&#x27;un certain Guedalia</td></tr>
+<tr><td><a href="../Entries_fr/BDB6848.html"><span class="hw">פָּשַׁט</span></a></td><td class="bdb-id">BDB6848</td><td class="pos">verbe</td><td class="gloss">dépouiller, se précipiter, razzier</td></tr>
+<tr><td><a href="../Entries_fr/BDB6849.html"><span class="hw">פָּשַׁע</span></a></td><td class="bdb-id">BDB6849</td><td class="pos">verbe</td><td class="gloss">se rebeller, transgresser</td></tr>
+<tr><td><a href="../Entries_fr/BDB6850.html"><span class="hw">פֶּ֫שַׁע</span></a></td><td class="bdb-id">BDB6850</td><td class="pos">nom masculin</td><td class="gloss">transgression</td></tr>
+<tr><td><a href="../Entries_fr/BDB6851.html"><span class="hw">פֵּ֫שֶׁר</span></a></td><td class="bdb-id">BDB6851</td><td class="pos">nom [masculin]</td><td class="gloss">solution, interprétation</td></tr>
+<tr><td><a href="../Entries_fr/BDB6852.html"><span class="hw">פֵּ֫שֶׁת</span></a></td><td class="bdb-id">BDB6852</td><td class="pos">nom [masculin]</td><td class="gloss">lin</td></tr>
+<tr><td><a href="../Entries_fr/BDB6853.html"><span class="hw">פִּשְׁתָּה</span></a></td><td class="bdb-id">BDB6853</td><td class="pos">nom féminin</td><td class="gloss">lin</td></tr>
+<tr><td><a href="../Entries_fr/BDB6854.html"><span class="hw">פֹּת</span></a></td><td class="bdb-id">BDB6854</td><td class="pos">nom [féminin]</td><td class="gloss">c.-à-d. probablement les cavités supérieures et inférieures dans lesquelles t...</td></tr>
+<tr><td><a href="../Entries_fr/BDB6855.html"><span class="hw">פַּתבָּֿג</span></a></td><td class="bdb-id">BDB6855</td><td class="pos">nom [masculin]</td><td class="gloss">portion</td></tr>
+<tr><td><a href="../Entries_fr/BDB6856.html"><span class="hw">פִּתְגָּם</span></a></td><td class="bdb-id">BDB6856</td><td class="pos">nom masculin</td><td class="gloss">édit, décret</td></tr>
+<tr><td><a href="../Entries_fr/BDB6857.html"><span class="hw">פָּתָה</span></a></td><td class="bdb-id">BDB6857</td><td class="pos">verbe</td><td class="gloss">être spacieux, large, ouvert</td></tr>
+<tr><td><a href="../Entries_fr/BDB6858.html"><span class="hw">פֶּ֫תִי</span></a></td><td class="bdb-id">BDB6858</td><td class="pos">adjectif</td><td class="gloss">simple</td></tr>
+<tr><td><a href="../Entries_fr/BDB6859.html"><span class="hw">פְּתִי</span></a></td><td class="bdb-id">BDB6859</td><td class="pos">nom féminin</td><td class="gloss">simplicité</td></tr>
+<tr><td><a href="../Entries_fr/BDB6860.html"><span class="hw">פְּתַיּוּת</span></a></td><td class="bdb-id">BDB6860</td><td class="pos"></td><td class="gloss">id.</td></tr>
+<tr><td><a href="../Entries_fr/BDB6861.html"><span class="hw">פָּתָה</span></a></td><td class="bdb-id">BDB6861</td><td class="pos">verbe</td><td class="gloss">être simple</td></tr>
+<tr><td><a href="../Entries_fr/BDB6863.html"><span class="hw">פְּתוּאֵל</span></a></td><td class="bdb-id">BDB6863</td><td class="pos">nom propre, masculin</td><td class="gloss">père du prophète Joël</td></tr>
+<tr><td><a href="../Entries_fr/BDB6864.html"><span class="hw">פְּתוֺר</span></a></td><td class="bdb-id">BDB6864</td><td class="pos">nom propre [d&#x27;un lieu]</td><td class="gloss">patrie de Balaam</td></tr>
+<tr><td><a href="../Entries_fr/BDB6865.html"><span class="hw">פָּתַח</span></a></td><td class="bdb-id">BDB6865</td><td class="pos">verbe</td><td class="gloss">ouvrir</td></tr>
+<tr><td><a href="../Entries_fr/BDB6866.html"><span class="hw">פֶּ֫תַח</span></a></td><td class="bdb-id">BDB6866</td><td class="pos">nom masculin</td><td class="gloss">ouverture, porte, entrée</td></tr>
+<tr><td><a href="../Entries_fr/BDB6867.html"><span class="hw">פֵּ֫תַח</span></a></td><td class="bdb-id">BDB6867</td><td class="pos">nom masculin</td><td class="gloss">ouverture, déploiement</td></tr>
+<tr><td><a href="../Entries_fr/BDB6868.html"><span class="hw">פִּתְחוֺן</span></a></td><td class="bdb-id">BDB6868</td><td class="pos">nom [masculin]</td><td class="gloss">ouverture</td></tr>
+<tr><td><a href="../Entries_fr/BDB6869.html"><span class="hw">פְּתִיחָה</span></a></td><td class="bdb-id">BDB6869</td><td class="pos">nom [féminin]</td><td class="gloss">épée dégainée</td></tr>
+<tr><td><a href="../Entries_fr/BDB6870.html"><span class="hw">פְּתַחְיָה</span></a></td><td class="bdb-id">BDB6870</td><td class="pos">nom propre, masculin</td><td class="gloss">prêtre</td></tr>
+<tr><td><a href="../Entries_fr/BDB6876.html"><span class="hw">פָּתַח</span></a></td><td class="bdb-id">BDB6876</td><td class="pos">verbe</td><td class="gloss">graver</td></tr>
+<tr><td><a href="../Entries_fr/BDB6877.html"><span class="hw">פִּתּוּח</span></a></td><td class="bdb-id">BDB6877</td><td class="pos">nom masculin</td><td class="gloss">gravure</td></tr>
+<tr><td><a href="../Entries_fr/BDB6878.html"><span class="hw">פְּתִּיגִיל</span></a></td><td class="bdb-id">BDB6878</td><td class="pos">nom [masculin]</td><td class="gloss">riche robe (?)</td></tr>
+<tr><td><a href="../Entries_fr/BDB6879.html"><span class="hw">פָּתַל</span></a></td><td class="bdb-id">BDB6879</td><td class="pos">verbe</td><td class="gloss">tordre</td></tr>
+<tr><td><a href="../Entries_fr/BDB6880.html"><span class="hw">פָּתִיל</span></a></td><td class="bdb-id">BDB6880</td><td class="pos">nom masculin</td><td class="gloss">corde, fil</td></tr>
+<tr><td><a href="../Entries_fr/BDB6881.html"><span class="hw">פְּתַלְתֹּל</span></a></td><td class="bdb-id">BDB6881</td><td class="pos">adjectif</td><td class="gloss">tortueux</td></tr>
+<tr><td><a href="../Entries_fr/BDB6884.html"><span class="hw">פִּתֹם</span></a></td><td class="bdb-id">BDB6884</td><td class="pos">nom propre [d&#x27;un lieu]</td><td class="gloss">Pithom</td></tr>
+<tr><td><a href="../Entries_fr/BDB6885.html"><span class="hw">פתן</span></a></td><td class="bdb-id">BDB6885</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB6886.html"><span class="hw">פֶּ֫תֶן</span></a></td><td class="bdb-id">BDB6886</td><td class="pos">nom masculin</td><td class="gloss">cobra</td></tr>
+<tr><td><a href="../Entries_fr/BDB6888.html"><span class="hw">פֶּתַע</span></a></td><td class="bdb-id">BDB6888</td><td class="pos"></td><td class="gloss">soudaineté</td></tr>
+<tr><td><a href="../Entries_fr/BDB6889.html"><span class="hw">פִּתְאֹם</span></a></td><td class="bdb-id">BDB6889</td><td class="pos">adverbe</td><td class="gloss">soudaineté</td></tr>
+<tr><td><a href="../Entries_fr/BDB6890.html"><span class="hw">פָּתַר</span></a></td><td class="bdb-id">BDB6890</td><td class="pos">verbe</td><td class="gloss">interpréter</td></tr>
+<tr><td><a href="../Entries_fr/BDB6891.html"><span class="hw">פִּתְרוֺן</span></a></td><td class="bdb-id">BDB6891</td><td class="pos">nom masculin</td><td class="gloss">interprétation</td></tr>
+<tr><td><a href="../Entries_fr/BDB6892.html"><span class="hw">פַּתְרוֺס</span></a></td><td class="bdb-id">BDB6892</td><td class="pos">nom propre [d&#x27;un territoire]</td><td class="gloss">= Haute-Égypte</td></tr>
+<tr><td><a href="../Entries_fr/BDB6893.html"><span class="hw">פַּתְרֻסִים</span></a></td><td class="bdb-id">BDB6893</td><td class="pos">adjectif pluriel [d&#x27;un peuple]</td><td class="gloss">du précédent, comme substantif</td></tr>
+<tr><td><a href="../Entries_fr/BDB6894.html"><span class="hw">פַּתְשֶׁ֫גֶן</span></a></td><td class="bdb-id">BDB6894</td><td class="pos">nom masculin</td><td class="gloss">copie</td></tr>
+<tr><td><a href="../Entries_fr/BDB6895.html"><span class="hw">פָּתַת</span></a></td><td class="bdb-id">BDB6895</td><td class="pos">verbe</td><td class="gloss">briser, émietter</td></tr>
+<tr><td><a href="../Entries_fr/BDB6896.html"><span class="hw">פַּת</span></a></td><td class="bdb-id">BDB6896</td><td class="pos">nom féminin</td><td class="gloss">fragment, morceau, bouchée</td></tr>
+<tr><td><a href="../Entries_fr/BDB6897.html"><span class="hw">פָּתוֺת</span></a></td><td class="bdb-id">BDB6897</td><td class="pos">nom [masculin]</td><td class="gloss">id.</td></tr>
+<tr><td><a href="../Entries_fr/BDB9807.html"><span class="hw">פֶּחָר</span></a></td><td class="bdb-id">BDB9807</td><td class="pos">nom masculin</td><td class="gloss">potier</td></tr>
+<tr><td><a href="../Entries_fr/BDB9808.html"><span class="hw">פְּטַשׁ</span></a></td><td class="bdb-id">BDB9808</td><td class="pos">nom [masculin]</td><td class="gloss">un vêtement, sens douteux, tunique</td></tr>
+<tr><td><a href="../Entries_fr/BDB9809.html"><span class="hw">פְּלַג</span></a></td><td class="bdb-id">BDB9809</td><td class="pos">verbe</td><td class="gloss">diviser</td></tr>
+<tr><td><a href="../Entries_fr/BDB9810.html"><span class="hw">פְּלַג</span></a></td><td class="bdb-id">BDB9810</td><td class="pos">nom [masculin]</td><td class="gloss">moitié</td></tr>
+<tr><td><a href="../Entries_fr/BDB9811.html"><span class="hw">פְּלֻגָּה</span></a></td><td class="bdb-id">BDB9811</td><td class="pos">nom féminin</td><td class="gloss">division</td></tr>
+<tr><td><a href="../Entries_fr/BDB9812.html"><span class="hw">פְּלַח</span></a></td><td class="bdb-id">BDB9812</td><td class="pos">verbe</td><td class="gloss">rendre hommage à, servir</td></tr>
+<tr><td><a href="../Entries_fr/BDB9813.html"><span class="hw">פָּלְחָן</span></a></td><td class="bdb-id">BDB9813</td><td class="pos">nom [masculin]</td><td class="gloss">service, culte</td></tr>
+<tr><td><a href="../Entries_fr/BDB9814.html"><span class="hw">פֻּם</span></a></td><td class="bdb-id">BDB9814</td><td class="pos">nom masculin</td><td class="gloss">bouche</td></tr>
+<tr><td><a href="../Entries_fr/BDB9815.html"><span class="hw">פְּסַנְטֵרִין</span></a></td><td class="bdb-id">BDB9815</td><td class="pos">nom [masculin]</td><td class="gloss">un instrument à cordes (triangulaire)</td></tr>
+<tr><td><a href="../Entries_fr/BDB9816.html"><span class="hw">פסס</span></a></td><td class="bdb-id">BDB9816</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB9817.html"><span class="hw">פַּס</span></a></td><td class="bdb-id">BDB9817</td><td class="pos">nom masculin</td><td class="gloss">paume</td></tr>
+<tr><td><a href="../Entries_fr/BDB9818.html"><span class="hw">פַּרְזֶל</span></a></td><td class="bdb-id">BDB9818</td><td class="pos">nom masculin</td><td class="gloss">fer</td></tr>
+<tr><td><a href="../Entries_fr/BDB9819.html"><span class="hw">פְּרַס</span></a></td><td class="bdb-id">BDB9819</td><td class="pos">verbe</td><td class="gloss">briser en deux</td></tr>
+<tr><td><a href="../Entries_fr/BDB9820.html"><span class="hw">פְּרֵס</span></a></td><td class="bdb-id">BDB9820</td><td class="pos">nom [masculin]</td><td class="gloss">demi-mine</td></tr>
+<tr><td><a href="../Entries_fr/BDB9821.html"><span class="hw">פָּרַס</span></a></td><td class="bdb-id">BDB9821</td><td class="pos">nom propre [d&#x27;un territoire et d&#x27;un peuple]</td><td class="gloss">Perse</td></tr>
+<tr><td><a href="../Entries_fr/BDB9822.html"><span class="hw">פַּרְסַי</span></a></td><td class="bdb-id">BDB9822</td><td class="pos">adjectif [d&#x27;un peuple]</td><td class="gloss">perse</td></tr>
+<tr><td><a href="../Entries_fr/BDB9823.html"><span class="hw">פְּרַק</span></a></td><td class="bdb-id">BDB9823</td><td class="pos">verbe</td><td class="gloss">arracher, rompre</td></tr>
+<tr><td><a href="../Entries_fr/BDB9824.html"><span class="hw">פְּרַשׁ</span></a></td><td class="bdb-id">BDB9824</td><td class="pos">verbe</td><td class="gloss">rendre distinct</td></tr>
+<tr><td><a href="../Entries_fr/BDB9825.html"><span class="hw">פַּרְשֶׁ֫גֶן</span></a></td><td class="bdb-id">BDB9825</td><td class="pos">nom masculin</td><td class="gloss">copie</td></tr>
+<tr><td><a href="../Entries_fr/BDB9826.html"><span class="hw">פְּשַׁר</span></a></td><td class="bdb-id">BDB9826</td><td class="pos">verbe</td><td class="gloss">interpréter</td></tr>
+<tr><td><a href="../Entries_fr/BDB9827.html"><span class="hw">פְּשַׁר</span></a></td><td class="bdb-id">BDB9827</td><td class="pos">nom masculin</td><td class="gloss">interprétation</td></tr>
+<tr><td><a href="../Entries_fr/BDB9828.html"><span class="hw">פִּתְגָם</span></a></td><td class="bdb-id">BDB9828</td><td class="pos">nom masculin</td><td class="gloss">commandement, parole, affaire</td></tr>
+<tr><td><a href="../Entries_fr/BDB9829.html"><span class="hw">פְּתַח</span></a></td><td class="bdb-id">BDB9829</td><td class="pos">verbe</td><td class="gloss">ouvrir</td></tr>
+<tr><td><a href="../Entries_fr/BDB9830.html"><span class="hw">פתא</span></a></td><td class="bdb-id">BDB9830</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB9831.html"><span class="hw">פְּתָי</span></a></td><td class="bdb-id">BDB9831</td><td class="pos">nom [masculin]</td><td class="gloss">largeur</td></tr>
+</tbody></table>
+</div>
+</body>
+</html>

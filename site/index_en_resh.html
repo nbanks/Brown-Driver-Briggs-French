@@ -1,0 +1,536 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Resh (ר) — BDB English</title>
+<style>* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+       background: #fafaf9; color: #1c1917; line-height: 1.5; }
+.container { max-width: 960px; margin: 0 auto; padding: 1.5em 1em; }
+h1 { font-size: 1.6em; margin-bottom: 0.3em; color: #292524; }
+h2 { font-size: 1.2em; margin: 1em 0 0.5em; color: #44403c; }
+.subtitle { color: #78716c; font-size: 0.95em; margin-bottom: 1.2em; }
+a { color: #2563eb; text-decoration: none; }
+a:hover { text-decoration: underline; }
+.nav { margin-bottom: 1.5em; font-size: 0.9em; }
+.nav a { margin-right: 0.8em; }
+
+/* Alphabet grid */
+.alpha-grid { display: flex; flex-wrap: wrap; gap: 8px; margin: 1em 0; }
+.alpha-card { display: flex; flex-direction: column; align-items: center;
+              padding: 10px 14px; border: 1px solid #d6d3d1; border-radius: 8px;
+              background: #fff; text-decoration: none !important; color: #1c1917;
+              min-width: 70px; transition: box-shadow 0.15s, border-color 0.15s; }
+.alpha-card:hover { border-color: #2563eb; box-shadow: 0 2px 8px rgba(37,99,235,0.12); }
+.alpha-letter { font-size: 1.8em; direction: rtl; unicode-bidi: isolate; }
+.alpha-name { font-size: 0.75em; color: #78716c; }
+.alpha-count { font-size: 0.7em; color: #a8a29e; margin-top: 2px; }
+
+/* Search */
+.search-box { width: 100%; padding: 8px 12px; font-size: 1em; border: 1px solid #d6d3d1;
+              border-radius: 6px; margin-bottom: 1em; }
+.search-box:focus { outline: none; border-color: #2563eb; box-shadow: 0 0 0 3px rgba(37,99,235,0.1); }
+
+/* Entry table */
+table { width: 100%; border-collapse: collapse; }
+th { text-align: left; padding: 6px 8px; border-bottom: 2px solid #d6d3d1;
+     font-size: 0.8em; color: #78716c; text-transform: uppercase; letter-spacing: 0.05em;
+     position: sticky; top: 0; background: #fafaf9; z-index: 1; }
+td { padding: 5px 8px; border-bottom: 1px solid #e7e5e4; vertical-align: top; }
+tr:hover { background: #f5f5f4; }
+.hw { font-size: 1.15em; direction: rtl; unicode-bidi: isolate; }
+.pos { color: #78716c; font-size: 0.85em; font-style: italic; }
+.gloss { color: #292524; }
+.bdb-id { color: #a8a29e; font-size: 0.8em; }
+.count-info { color: #78716c; font-size: 0.9em; margin-bottom: 1em; }
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    var input = document.getElementById('search');
+    if (!input) return;
+    var rows = document.querySelectorAll('tbody tr');
+    input.addEventListener('input', function() {
+        var q = this.value.toLowerCase();
+        rows.forEach(function(r) {
+            r.style.display = r.textContent.toLowerCase().indexOf(q) >= 0 ? '' : 'none';
+        });
+    });
+});
+</script>
+
+</head>
+<body>
+<div class="container">
+<div class="nav"><a href="index_en.html">Index</a> | <a href="index_en_all.html">All entries</a> | <a href="index_fr_resh.html">Français</a></div><h1><span class="hw" style="font-size:1.4em">ר</span> Resh — English</h1><p class="count-info">441 entries</p><input type="text" id="search" class="search-box" placeholder="Search..."><table><thead><tr><th>Word</th><th>ID</th><th>POS</th><th>Gloss</th></tr></thead><tbody>
+<tr><td><a href="../Entries/BDB3763.html"><span class="hw">רֶ֫שֶׁת</span></a></td><td class="bdb-id">BDB3763</td><td class="pos">noun feminine</td><td class="gloss">net</td></tr>
+<tr><td><a href="../Entries/BDB7655.html"><span class="hw">ר</span></a></td><td class="bdb-id">BDB7655</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries/BDB7656.html"><span class="hw">רָאָה</span></a></td><td class="bdb-id">BDB7656</td><td class="pos">verb</td><td class="gloss">see</td></tr>
+<tr><td><a href="../Entries/BDB7657.html"><span class="hw">רָאֶה</span></a></td><td class="bdb-id">BDB7657</td><td class="pos">adjective</td><td class="gloss">seeing</td></tr>
+<tr><td><a href="../Entries/BDB7658.html"><span class="hw">רֹאֶה</span></a></td><td class="bdb-id">BDB7658</td><td class="pos">noun [masculine]</td><td class="gloss">seer</td></tr>
+<tr><td><a href="../Entries/BDB7659.html"><span class="hw">רֹאֶה</span></a></td><td class="bdb-id">BDB7659</td><td class="pos">noun [masculine]</td><td class="gloss">vision</td></tr>
+<tr><td><a href="../Entries/BDB7660.html"><span class="hw">רֹאֶה</span></a></td><td class="bdb-id">BDB7660</td><td class="pos">proper name, masculine</td><td class="gloss">see
+    
+רְאָיָה
+ below</td></tr>
+<tr><td><a href="../Entries/BDB7661.html"><span class="hw">רַאֲוָה</span></a></td><td class="bdb-id">BDB7661</td><td class="pos"></td><td class="gloss">see √
+    Qal
+Infinitive, and 8.a.(6)</td></tr>
+<tr><td><a href="../Entries/BDB7662.html"><span class="hw">רְאוּת</span></a></td><td class="bdb-id">BDB7662</td><td class="pos">noun feminine</td><td class="gloss">look</td></tr>
+<tr><td><a href="../Entries/BDB7663.html"><span class="hw">רְאִי</span></a></td><td class="bdb-id">BDB7663</td><td class="pos">noun masculine</td><td class="gloss">mirror</td></tr>
+<tr><td><a href="../Entries/BDB7664.html"><span class="hw">רֳאִי</span></a></td><td class="bdb-id">BDB7664</td><td class="pos">noun [masculine]</td><td class="gloss">looking, seeing, sight</td></tr>
+<tr><td><a href="../Entries/BDB7665.html"><span class="hw">ראית</span></a></td><td class="bdb-id">BDB7665</td><td class="pos"></td><td class="gloss">see 
+רְאוּת
+. above</td></tr>
+<tr><td><a href="../Entries/BDB7670.html"><span class="hw">רְאָיָה</span></a></td><td class="bdb-id">BDB7670</td><td class="pos">proper name, masculine</td><td class="gloss">Judaite</td></tr>
+<tr><td><a href="../Entries/BDB7671.html"><span class="hw">רְאוּבֵן</span></a></td><td class="bdb-id">BDB7671</td><td class="pos">proper name, masculine</td><td class="gloss">Reuben</td></tr>
+<tr><td><a href="../Entries/BDB7672.html"><span class="hw">רְאוּבֵנִי</span></a></td><td class="bdb-id">BDB7672</td><td class="pos">adjective [of a people]</td><td class="gloss">of foregoing</td></tr>
+<tr><td><a href="../Entries/BDB7673.html"><span class="hw">רָאַם</span></a></td><td class="bdb-id">BDB7673</td><td class="pos">verb</td><td class="gloss">rise</td></tr>
+<tr><td><a href="../Entries/BDB7674.html"><span class="hw">רְאֵם</span></a></td><td class="bdb-id">BDB7674</td><td class="pos">noun masculine</td><td class="gloss">wild ox</td></tr>
+<tr><td><a href="../Entries/BDB7675.html"><span class="hw">רְאוּמָה</span></a></td><td class="bdb-id">BDB7675</td><td class="pos">proper name, feminine</td><td class="gloss">concubine of Nahor</td></tr>
+<tr><td><a href="../Entries/BDB7676.html"><span class="hw">רָאמוֺת</span></a></td><td class="bdb-id">BDB7676</td><td class="pos">noun [feminine plural]</td><td class="gloss">corals</td></tr>
+<tr><td><a href="../Entries/BDB7677.html"><span class="hw">רָאשׁ</span></a></td><td class="bdb-id">BDB7677</td><td class="pos"></td><td class="gloss">see 
+רושׁ</td></tr>
+<tr><td><a href="../Entries/BDB7678.html"><span class="hw">רֹאשׁ</span></a></td><td class="bdb-id">BDB7678</td><td class="pos">noun masculine</td><td class="gloss">head</td></tr>
+<tr><td><a href="../Entries/BDB7679.html"><span class="hw">רִאשָׁה</span></a></td><td class="bdb-id">BDB7679</td><td class="pos">noun feminine</td><td class="gloss">beginning-time, early time</td></tr>
+<tr><td><a href="../Entries/BDB7680.html"><span class="hw">ראֹשָׁה</span></a></td><td class="bdb-id">BDB7680</td><td class="pos">noun feminine</td><td class="gloss">top</td></tr>
+<tr><td><a href="../Entries/BDB7681.html"><span class="hw">רִאשׁוֺן</span></a></td><td class="bdb-id">BDB7681</td><td class="pos">adjective</td><td class="gloss">former, first, chief</td></tr>
+<tr><td><a href="../Entries/BDB7682.html"><span class="hw">רִאשֹׁנִי</span></a></td><td class="bdb-id">BDB7682</td><td class="pos">adjective</td><td class="gloss">first</td></tr>
+<tr><td><a href="../Entries/BDB7683.html"><span class="hw">רַאֲשׁוֺת</span></a></td><td class="bdb-id">BDB7683</td><td class="pos"></td><td class="gloss">see
+    
+מְרַאֲשׁוֺת
+ below</td></tr>
+<tr><td><a href="../Entries/BDB7684.html"><span class="hw">רֵאשִׁית</span></a></td><td class="bdb-id">BDB7684</td><td class="pos">noun feminine</td><td class="gloss">beginning, chief</td></tr>
+<tr><td><a href="../Entries/BDB7687.html"><span class="hw">ראשׁ</span></a></td><td class="bdb-id">BDB7687</td><td class="pos">noun masculine</td><td class="gloss">venom</td></tr>
+<tr><td><a href="../Entries/BDB7688.html"><span class="hw">רֹאשׁ</span></a></td><td class="bdb-id">BDB7688</td><td class="pos">noun masculine</td><td class="gloss">son of Benjamin</td></tr>
+<tr><td><a href="../Entries/BDB7689.html"><span class="hw">רֹאשׁ</span></a></td><td class="bdb-id">BDB7689</td><td class="pos">proper name [of a people]</td><td class="gloss">Rôsh</td></tr>
+<tr><td><a href="../Entries/BDB7690.html"><span class="hw">רָבַב</span></a></td><td class="bdb-id">BDB7690</td><td class="pos">verb</td><td class="gloss">be or become, many, much</td></tr>
+<tr><td><a href="../Entries/BDB7691.html"><span class="hw">רַב</span></a></td><td class="bdb-id">BDB7691</td><td class="pos">adjective</td><td class="gloss">much, many, great</td></tr>
+<tr><td><a href="../Entries/BDB7692.html"><span class="hw">רַב</span></a></td><td class="bdb-id">BDB7692</td><td class="pos">noun masculine</td><td class="gloss">chief</td></tr>
+<tr><td><a href="../Entries/BDB7693.html"><span class="hw">רַבָּה</span></a></td><td class="bdb-id">BDB7693</td><td class="pos">proper name [of a location]</td><td class="gloss">Rabba</td></tr>
+<tr><td><a href="../Entries/BDB7694.html"><span class="hw">רב</span></a></td><td class="bdb-id">BDB7694</td><td class="pos">noun masculine</td><td class="gloss">multitude, abundance, greatness</td></tr>
+<tr><td><a href="../Entries/BDB7695.html"><span class="hw">רְבָבָה</span></a></td><td class="bdb-id">BDB7695</td><td class="pos">noun feminine</td><td class="gloss">multitude, myriad, ten thousand</td></tr>
+<tr><td><a href="../Entries/BDB7696.html"><span class="hw">רִבּוֺ</span></a></td><td class="bdb-id">BDB7696</td><td class="pos">noun feminine</td><td class="gloss">ten thousand, myriad</td></tr>
+<tr><td><a href="../Entries/BDB7697.html"><span class="hw">רָבַב</span></a></td><td class="bdb-id">BDB7697</td><td class="pos"></td><td class="gloss">from preceding</td></tr>
+<tr><td><a href="../Entries/BDB7698.html"><span class="hw">רַבִּית</span></a></td><td class="bdb-id">BDB7698</td><td class="pos">proper name [of a location]</td><td class="gloss">in Issachar</td></tr>
+<tr><td><a href="../Entries/BDB7699.html"><span class="hw">רְבִיבִם</span></a></td><td class="bdb-id">BDB7699</td><td class="pos">noun masculine</td><td class="gloss">copious showers</td></tr>
+<tr><td><a href="../Entries/BDB7701.html"><span class="hw">רָבַב</span></a></td><td class="bdb-id">BDB7701</td><td class="pos">verb</td><td class="gloss">shoot</td></tr>
+<tr><td><a href="../Entries/BDB7702.html"><span class="hw">רַב</span></a></td><td class="bdb-id">BDB7702</td><td class="pos">noun masculine</td><td class="gloss">archer</td></tr>
+<tr><td><a href="../Entries/BDB7703.html"><span class="hw">רבד</span></a></td><td class="bdb-id">BDB7703</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries/BDB7704.html"><span class="hw">רָבִיד</span></a></td><td class="bdb-id">BDB7704</td><td class="pos">noun [masculine]</td><td class="gloss">chain</td></tr>
+<tr><td><a href="../Entries/BDB7705.html"><span class="hw">רָבַד</span></a></td><td class="bdb-id">BDB7705</td><td class="pos">verb</td><td class="gloss">be-spread, deck</td></tr>
+<tr><td><a href="../Entries/BDB7707.html"><span class="hw">רָבָה</span></a></td><td class="bdb-id">BDB7707</td><td class="pos">verb</td><td class="gloss">be, or become, much, many, great</td></tr>
+<tr><td><a href="../Entries/BDB7714.html"><span class="hw">רָבָה</span></a></td><td class="bdb-id">BDB7714</td><td class="pos">verb</td><td class="gloss">shoot</td></tr>
+<tr><td><a href="../Entries/BDB7715.html"><span class="hw">רָבַךְ</span></a></td><td class="bdb-id">BDB7715</td><td class="pos">verb</td><td class="gloss">mix, stir</td></tr>
+<tr><td><a href="../Entries/BDB7716.html"><span class="hw">רִבְלָה</span></a></td><td class="bdb-id">BDB7716</td><td class="pos">proper name [of a location]</td><td class="gloss">in land of Hamath</td></tr>
+<tr><td><a href="../Entries/BDB7717.html"><span class="hw">רבע</span></a></td><td class="bdb-id">BDB7717</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries/BDB7721.html"><span class="hw">רְבַע</span></a></td><td class="bdb-id">BDB7721</td><td class="pos">verb</td><td class="gloss">squared, square</td></tr>
+<tr><td><a href="../Entries/BDB7722.html"><span class="hw">רֶ֫בַע</span></a></td><td class="bdb-id">BDB7722</td><td class="pos">noun masculine</td><td class="gloss">fourth part</td></tr>
+<tr><td><a href="../Entries/BDB7723.html"><span class="hw">רֹ֫בַע</span></a></td><td class="bdb-id">BDB7723</td><td class="pos">noun [masculine]</td><td class="gloss">fourth part</td></tr>
+<tr><td><a href="../Entries/BDB7724.html"><span class="hw">רְבִיעִי</span></a></td><td class="bdb-id">BDB7724</td><td class="pos">masculine</td><td class="gloss">fourth</td></tr>
+<tr><td><a href="../Entries/BDB7725.html"><span class="hw">רִבֵּעַ</span></a></td><td class="bdb-id">BDB7725</td><td class="pos">adjective</td><td class="gloss">pertaining to the fourth</td></tr>
+<tr><td><a href="../Entries/BDB7726.html"><span class="hw">רָבַע</span></a></td><td class="bdb-id">BDB7726</td><td class="pos">verb</td><td class="gloss">lie stretched out, lie down</td></tr>
+<tr><td><a href="../Entries/BDB7727.html"><span class="hw">רֶ֫בַע</span></a></td><td class="bdb-id">BDB7727</td><td class="pos">noun masculine</td><td class="gloss">a king of Midian</td></tr>
+<tr><td><a href="../Entries/BDB7728.html"><span class="hw">רָבַץ</span></a></td><td class="bdb-id">BDB7728</td><td class="pos">verb</td><td class="gloss">stretch oneself out, lie down, lie stretched out</td></tr>
+<tr><td><a href="../Entries/BDB7729.html"><span class="hw">רֵ֫בֶץ</span></a></td><td class="bdb-id">BDB7729</td><td class="pos">noun [masculine]</td><td class="gloss">(place of) lying down, resting- or dwelling-place</td></tr>
+<tr><td><a href="../Entries/BDB7731.html"><span class="hw">רבק</span></a></td><td class="bdb-id">BDB7731</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries/BDB7733.html"><span class="hw">רִבְקָה</span></a></td><td class="bdb-id">BDB7733</td><td class="pos">proper name, feminine</td><td class="gloss">Rebekah</td></tr>
+<tr><td><a href="../Entries/BDB7734.html"><span class="hw">רגב</span></a></td><td class="bdb-id">BDB7734</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries/BDB7735.html"><span class="hw">רֶ֫גֶב</span></a></td><td class="bdb-id">BDB7735</td><td class="pos">noun masculine</td><td class="gloss">clod of earth</td></tr>
+<tr><td><a href="../Entries/BDB7738.html"><span class="hw">רָגַז</span></a></td><td class="bdb-id">BDB7738</td><td class="pos">verb</td><td class="gloss">be agitated, quiver, quake, be excited, perturbed</td></tr>
+<tr><td><a href="../Entries/BDB7739.html"><span class="hw">רֹ֫גֶז</span></a></td><td class="bdb-id">BDB7739</td><td class="pos">noun masculine</td><td class="gloss">agitation, excitement, raging</td></tr>
+<tr><td><a href="../Entries/BDB7740.html"><span class="hw">רָגְזָה</span></a></td><td class="bdb-id">BDB7740</td><td class="pos">noun feminine</td><td class="gloss">a quivering, quaking</td></tr>
+<tr><td><a href="../Entries/BDB7741.html"><span class="hw">רַגָּז</span></a></td><td class="bdb-id">BDB7741</td><td class="pos">adjective</td><td class="gloss">quivering, quaking</td></tr>
+<tr><td><a href="../Entries/BDB7743.html"><span class="hw">רֶ֫גֶל</span></a></td><td class="bdb-id">BDB7743</td><td class="pos">noun feminine</td><td class="gloss">foot</td></tr>
+<tr><td><a href="../Entries/BDB7744.html"><span class="hw">רָגַל</span></a></td><td class="bdb-id">BDB7744</td><td class="pos">verb</td><td class="gloss">foot it, go about</td></tr>
+<tr><td><a href="../Entries/BDB7745.html"><span class="hw">רִגֵל</span></a></td><td class="bdb-id">BDB7745</td><td class="pos"></td><td class="gloss">see ׳
+עֵין ר, II. עַיִן
+c</td></tr>
+<tr><td><a href="../Entries/BDB7746.html"><span class="hw">רַגְלִי</span></a></td><td class="bdb-id">BDB7746</td><td class="pos">adjective</td><td class="gloss">on foot</td></tr>
+<tr><td><a href="../Entries/BDB7748.html"><span class="hw">רֹגְלִים</span></a></td><td class="bdb-id">BDB7748</td><td class="pos">proper name [of a location]</td><td class="gloss">in Gilead</td></tr>
+<tr><td><a href="../Entries/BDB7749.html"><span class="hw">רָגַם</span></a></td><td class="bdb-id">BDB7749</td><td class="pos">verb</td><td class="gloss">stone, kill by stoning</td></tr>
+<tr><td><a href="../Entries/BDB7750.html"><span class="hw">רִגָמָה</span></a></td><td class="bdb-id">BDB7750</td><td class="pos">noun feminine</td><td class="gloss">heap</td></tr>
+<tr><td><a href="../Entries/BDB7752.html"><span class="hw">רֶ֫גֶם</span></a></td><td class="bdb-id">BDB7752</td><td class="pos">proper name, masculine</td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries/BDB7753.html"><span class="hw">רֶ֫גֶם מֶ֫לֶךְ</span></a></td><td class="bdb-id">BDB7753</td><td class="pos">proper name, masculine</td><td class="gloss">exilic</td></tr>
+<tr><td><a href="../Entries/BDB7754.html"><span class="hw">רָגַן</span></a></td><td class="bdb-id">BDB7754</td><td class="pos">verb</td><td class="gloss">murmur, whisper</td></tr>
+<tr><td><a href="../Entries/BDB7755.html"><span class="hw">רָגַע</span></a></td><td class="bdb-id">BDB7755</td><td class="pos">verb</td><td class="gloss">disturb</td></tr>
+<tr><td><a href="../Entries/BDB7756.html"><span class="hw">רֶ֫גַע</span></a></td><td class="bdb-id">BDB7756</td><td class="pos">noun masculine</td><td class="gloss">a moment</td></tr>
+<tr><td><a href="../Entries/BDB7757.html"><span class="hw">רָגַע</span></a></td><td class="bdb-id">BDB7757</td><td class="pos">verb</td><td class="gloss">be at rest, repose</td></tr>
+<tr><td><a href="../Entries/BDB7758.html"><span class="hw">רָגֵעַ</span></a></td><td class="bdb-id">BDB7758</td><td class="pos">adjective</td><td class="gloss">restful, quiet</td></tr>
+<tr><td><a href="../Entries/BDB7761.html"><span class="hw">רָגַע</span></a></td><td class="bdb-id">BDB7761</td><td class="pos">verb</td><td class="gloss">harden</td></tr>
+<tr><td><a href="../Entries/BDB7762.html"><span class="hw">רָגַשׁ</span></a></td><td class="bdb-id">BDB7762</td><td class="pos">verb</td><td class="gloss">be in tumult or commotion</td></tr>
+<tr><td><a href="../Entries/BDB7763.html"><span class="hw">רֶ֫גֶשׁ</span></a></td><td class="bdb-id">BDB7763</td><td class="pos">noun [masculine]</td><td class="gloss">throng</td></tr>
+<tr><td><a href="../Entries/BDB7764.html"><span class="hw">רִגְשָׁה</span></a></td><td class="bdb-id">BDB7764</td><td class="pos">noun feminine</td><td class="gloss">throng</td></tr>
+<tr><td><a href="../Entries/BDB7765.html"><span class="hw">רָדַד</span></a></td><td class="bdb-id">BDB7765</td><td class="pos">verb</td><td class="gloss">beat out</td></tr>
+<tr><td><a href="../Entries/BDB7766.html"><span class="hw">רְדִיד</span></a></td><td class="bdb-id">BDB7766</td><td class="pos">noun [masculine]</td><td class="gloss">wide wrapper, or large veil</td></tr>
+<tr><td><a href="../Entries/BDB7767.html"><span class="hw">רַדַּי</span></a></td><td class="bdb-id">BDB7767</td><td class="pos">proper name, masculine</td><td class="gloss">fifth son of Jesse</td></tr>
+<tr><td><a href="../Entries/BDB7768.html"><span class="hw">רָדָה</span></a></td><td class="bdb-id">BDB7768</td><td class="pos">verb</td><td class="gloss">have dominion, rule, dominate</td></tr>
+<tr><td><a href="../Entries/BDB7770.html"><span class="hw">רָדָה</span></a></td><td class="bdb-id">BDB7770</td><td class="pos">verb</td><td class="gloss">scrape out</td></tr>
+<tr><td><a href="../Entries/BDB7771.html"><span class="hw">רָדַם</span></a></td><td class="bdb-id">BDB7771</td><td class="pos">verb</td><td class="gloss">be in, or fall into, heavy sleep</td></tr>
+<tr><td><a href="../Entries/BDB7773.html"><span class="hw">רֹדָן</span></a></td><td class="bdb-id">BDB7773</td><td class="pos">proper name [of a location or people]</td><td class="gloss">Rhodes, Rhodians</td></tr>
+<tr><td><a href="../Entries/BDB7774.html"><span class="hw">רוֺדָנִים</span></a></td><td class="bdb-id">BDB7774</td><td class="pos">proper name, plural [of a people]</td><td class="gloss">Rhodians</td></tr>
+<tr><td><a href="../Entries/BDB7775.html"><span class="hw">רָדַף</span></a></td><td class="bdb-id">BDB7775</td><td class="pos">verb</td><td class="gloss">pursue, chase, persecute</td></tr>
+<tr><td><a href="../Entries/BDB7777.html"><span class="hw">רָהַב</span></a></td><td class="bdb-id">BDB7777</td><td class="pos">verb</td><td class="gloss">act stormily, boisterously, arrogantly</td></tr>
+<tr><td><a href="../Entries/BDB7778.html"><span class="hw">רָהָב</span></a></td><td class="bdb-id">BDB7778</td><td class="pos">adjective</td><td class="gloss">proud, defiant</td></tr>
+<tr><td><a href="../Entries/BDB7779.html"><span class="hw">רֹ֫הַב</span></a></td><td class="bdb-id">BDB7779</td><td class="pos">noun [masculine]</td><td class="gloss">pride</td></tr>
+<tr><td><a href="../Entries/BDB7780.html"><span class="hw">רַ֫הַב</span></a></td><td class="bdb-id">BDB7780</td><td class="pos">noun [masculine]</td><td class="gloss">storm, arrogance</td></tr>
+<tr><td><a href="../Entries/BDB7782.html"><span class="hw">רהג</span></a></td><td class="bdb-id">BDB7782</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries/BDB7783.html"><span class="hw">רָהְגָּה</span></a></td><td class="bdb-id">BDB7783</td><td class="pos">proper name, masculine</td><td class="gloss">in Asher</td></tr>
+<tr><td><a href="../Entries/BDB7784.html"><span class="hw">רָהָה</span></a></td><td class="bdb-id">BDB7784</td><td class="pos">verb</td><td class="gloss">fear</td></tr>
+<tr><td><a href="../Entries/BDB7785.html"><span class="hw">רהט</span></a></td><td class="bdb-id">BDB7785</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries/BDB7786.html"><span class="hw">ר֫הַט</span></a></td><td class="bdb-id">BDB7786</td><td class="pos">noun [masculine]</td><td class="gloss">trough</td></tr>
+<tr><td><a href="../Entries/BDB7787.html"><span class="hw">רהט</span></a></td><td class="bdb-id">BDB7787</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries/BDB7788.html"><span class="hw">רַ֫הַט</span></a></td><td class="bdb-id">BDB7788</td><td class="pos">noun [masculine]</td><td class="gloss">lock</td></tr>
+<tr><td><a href="../Entries/BDB7789.html"><span class="hw">רָהִיט</span></a></td><td class="bdb-id">BDB7789</td><td class="pos">noun masculine</td><td class="gloss">rafters? boards?</td></tr>
+<tr><td><a href="../Entries/BDB7790.html"><span class="hw">רוּד</span></a></td><td class="bdb-id">BDB7790</td><td class="pos">verb</td><td class="gloss">wander restlessly, roam</td></tr>
+<tr><td><a href="../Entries/BDB7792.html"><span class="hw">רָוָה</span></a></td><td class="bdb-id">BDB7792</td><td class="pos">verb</td><td class="gloss">be saturated, drink one&#x27;s fill</td></tr>
+<tr><td><a href="../Entries/BDB7793.html"><span class="hw">רִי</span></a></td><td class="bdb-id">BDB7793</td><td class="pos">noun [masculine]</td><td class="gloss">moisture</td></tr>
+<tr><td><a href="../Entries/BDB7794.html"><span class="hw">רָוֶה</span></a></td><td class="bdb-id">BDB7794</td><td class="pos">adjective</td><td class="gloss">watered</td></tr>
+<tr><td><a href="../Entries/BDB7795.html"><span class="hw">רְוָיָה</span></a></td><td class="bdb-id">BDB7795</td><td class="pos">noun feminine</td><td class="gloss">saturation</td></tr>
+<tr><td><a href="../Entries/BDB7796.html"><span class="hw">רוח</span></a></td><td class="bdb-id">BDB7796</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries/BDB7797.html"><span class="hw">רוּחַ</span></a></td><td class="bdb-id">BDB7797</td><td class="pos">noun feminine</td><td class="gloss">breath, wind, spirit</td></tr>
+<tr><td><a href="../Entries/BDB7798.html"><span class="hw">רֵיחַ</span></a></td><td class="bdb-id">BDB7798</td><td class="pos">noun masculine</td><td class="gloss">scent, odour</td></tr>
+<tr><td><a href="../Entries/BDB7799.html"><span class="hw">רִיחַ</span></a></td><td class="bdb-id">BDB7799</td><td class="pos">verb</td><td class="gloss">smell, perceive odour</td></tr>
+<tr><td><a href="../Entries/BDB7800.html"><span class="hw">רָרַח</span></a></td><td class="bdb-id">BDB7800</td><td class="pos">verb</td><td class="gloss">be wide, spacious</td></tr>
+<tr><td><a href="../Entries/BDB7801.html"><span class="hw">רֶ֫וַח</span></a></td><td class="bdb-id">BDB7801</td><td class="pos">noun masculine</td><td class="gloss">space, interval</td></tr>
+<tr><td><a href="../Entries/BDB7802.html"><span class="hw">רְוָחָה</span></a></td><td class="bdb-id">BDB7802</td><td class="pos">noun feminine</td><td class="gloss">respite, relief</td></tr>
+<tr><td><a href="../Entries/BDB7803.html"><span class="hw">רוּם</span></a></td><td class="bdb-id">BDB7803</td><td class="pos">verb</td><td class="gloss">be high, exalted, rise</td></tr>
+<tr><td><a href="../Entries/BDB7804.html"><span class="hw">רוּם</span></a></td><td class="bdb-id">BDB7804</td><td class="pos">noun [masculine]</td><td class="gloss">height, haughtiness</td></tr>
+<tr><td><a href="../Entries/BDB7805.html"><span class="hw">רוֺם</span></a></td><td class="bdb-id">BDB7805</td><td class="pos">adverb</td><td class="gloss">on high</td></tr>
+<tr><td><a href="../Entries/BDB7806.html"><span class="hw">רוּמָה</span></a></td><td class="bdb-id">BDB7806</td><td class="pos">proper name [of a location]</td><td class="gloss">possibly = [אֲרוּמָה]</td></tr>
+<tr><td><a href="../Entries/BDB7807.html"><span class="hw">רוֺמָה</span></a></td><td class="bdb-id">BDB7807</td><td class="pos">adverb</td><td class="gloss">haughtily</td></tr>
+<tr><td><a href="../Entries/BDB7808.html"><span class="hw">רָם</span></a></td><td class="bdb-id">BDB7808</td><td class="pos">proper name, masculine</td><td class="gloss">an ancestor of David</td></tr>
+<tr><td><a href="../Entries/BDB7809.html"><span class="hw">רָמָה</span></a></td><td class="bdb-id">BDB7809</td><td class="pos">noun feminine</td><td class="gloss">height, high-place</td></tr>
+<tr><td><a href="../Entries/BDB7810.html"><span class="hw">רָמָה</span></a></td><td class="bdb-id">BDB7810</td><td class="pos">proper name [of a location]</td><td class="gloss">the Height, Rama</td></tr>
+<tr><td><a href="../Entries/BDB7811.html"><span class="hw">רָמָתִי</span></a></td><td class="bdb-id">BDB7811</td><td class="pos">adjective [of a people]</td><td class="gloss">(of what Rama?)</td></tr>
+<tr><td><a href="../Entries/BDB7812.html"><span class="hw">רָ(א)מַת</span></a></td><td class="bdb-id">BDB7812</td><td class="pos">proper name [of a location]</td><td class="gloss">construct, in combination</td></tr>
+<tr><td><a href="../Entries/BDB7813.html"><span class="hw">רָ(א)מוֺת</span></a></td><td class="bdb-id">BDB7813</td><td class="pos">proper name</td><td class="gloss">Heights, Ramôth</td></tr>
+<tr><td><a href="../Entries/BDB7814.html"><span class="hw">רָמָתַיִם</span></a></td><td class="bdb-id">BDB7814</td><td class="pos">proper name [of a location]</td><td class="gloss">see II.
+    רָמָה
+2 above</td></tr>
+<tr><td><a href="../Entries/BDB7815.html"><span class="hw">רָמוּת</span></a></td><td class="bdb-id">BDB7815</td><td class="pos">noun feminine</td><td class="gloss">height, lofty stature</td></tr>
+<tr><td><a href="../Entries/BDB7816.html"><span class="hw">רוֺמָם</span></a></td><td class="bdb-id">BDB7816</td><td class="pos">noun [masculine]</td><td class="gloss">extolling, praise</td></tr>
+<tr><td><a href="../Entries/BDB7817.html"><span class="hw">רוֺמֵמוּת</span></a></td><td class="bdb-id">BDB7817</td><td class="pos">noun feminine</td><td class="gloss">uplifting, arising</td></tr>
+<tr><td><a href="../Entries/BDB7818.html"><span class="hw">רֹמַ֫מְתִּי עֶ֫זֶר</span></a></td><td class="bdb-id">BDB7818</td><td class="pos">proper name, masculine</td><td class="gloss">son of Heman</td></tr>
+<tr><td><a href="../Entries/BDB7822.html"><span class="hw">רוּן</span></a></td><td class="bdb-id">BDB7822</td><td class="pos">verb</td><td class="gloss">overcome</td></tr>
+<tr><td><a href="../Entries/BDB7823.html"><span class="hw">רוּעַ</span></a></td><td class="bdb-id">BDB7823</td><td class="pos">verb</td><td class="gloss">raise a shout</td></tr>
+<tr><td><a href="../Entries/BDB7824.html"><span class="hw">רֵעַ</span></a></td><td class="bdb-id">BDB7824</td><td class="pos">verbal noun</td><td class="gloss">shouting, roar</td></tr>
+<tr><td><a href="../Entries/BDB7826.html"><span class="hw">רוף</span></a></td><td class="bdb-id">BDB7826</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries/BDB7828.html"><span class="hw">רוּץ</span></a></td><td class="bdb-id">BDB7828</td><td class="pos">verb</td><td class="gloss">run</td></tr>
+<tr><td><a href="../Entries/BDB7831.html"><span class="hw">רוֺשׁ</span></a></td><td class="bdb-id">BDB7831</td><td class="pos"></td><td class="gloss">see II. ראֹשׁ</td></tr>
+<tr><td><a href="../Entries/BDB7832.html"><span class="hw">רוּשׁ</span></a></td><td class="bdb-id">BDB7832</td><td class="pos">verb</td><td class="gloss">be in want, poor</td></tr>
+<tr><td><a href="../Entries/BDB7833.html"><span class="hw">רִישׁ</span></a></td><td class="bdb-id">BDB7833</td><td class="pos">noun masculine</td><td class="gloss">poverty</td></tr>
+<tr><td><a href="../Entries/BDB7834.html"><span class="hw">רָזָה</span></a></td><td class="bdb-id">BDB7834</td><td class="pos">verb</td><td class="gloss">be or grow lean</td></tr>
+<tr><td><a href="../Entries/BDB7835.html"><span class="hw">רָזֶה</span></a></td><td class="bdb-id">BDB7835</td><td class="pos">adjective</td><td class="gloss">lean</td></tr>
+<tr><td><a href="../Entries/BDB7836.html"><span class="hw">רָזִי</span></a></td><td class="bdb-id">BDB7836</td><td class="pos">noun [masculine]</td><td class="gloss">leanness, wasting</td></tr>
+<tr><td><a href="../Entries/BDB7837.html"><span class="hw">רָזוֺן</span></a></td><td class="bdb-id">BDB7837</td><td class="pos">noun [masculine]</td><td class="gloss">leanness, wasting, scantness</td></tr>
+<tr><td><a href="../Entries/BDB7838.html"><span class="hw">רזח</span></a></td><td class="bdb-id">BDB7838</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries/BDB7840.html"><span class="hw">רָזַם</span></a></td><td class="bdb-id">BDB7840</td><td class="pos">verb</td><td class="gloss">wink, flash</td></tr>
+<tr><td><a href="../Entries/BDB7841.html"><span class="hw">רָזַן</span></a></td><td class="bdb-id">BDB7841</td><td class="pos">verb</td><td class="gloss">be weighty, judicious, commanding</td></tr>
+<tr><td><a href="../Entries/BDB7842.html"><span class="hw">רָזוֺן</span></a></td><td class="bdb-id">BDB7842</td><td class="pos">noun masculine</td><td class="gloss">potentate</td></tr>
+<tr><td><a href="../Entries/BDB7843.html"><span class="hw">רְזוֺן</span></a></td><td class="bdb-id">BDB7843</td><td class="pos">proper name, masculine</td><td class="gloss">founder of kingdom of Damascus, Solomon&#x27;s time</td></tr>
+<tr><td><a href="../Entries/BDB7844.html"><span class="hw">רָחַב</span></a></td><td class="bdb-id">BDB7844</td><td class="pos">verb</td><td class="gloss">be, or grow, wide, large</td></tr>
+<tr><td><a href="../Entries/BDB7845.html"><span class="hw">רַ֫חַב</span></a></td><td class="bdb-id">BDB7845</td><td class="pos">noun [masculine]</td><td class="gloss">breadth, broad expanse</td></tr>
+<tr><td><a href="../Entries/BDB7846.html"><span class="hw">רֹ֫חַב</span></a></td><td class="bdb-id">BDB7846</td><td class="pos">noun [masculine]</td><td class="gloss">breadth, width</td></tr>
+<tr><td><a href="../Entries/BDB7847.html"><span class="hw">רָחָב</span></a></td><td class="bdb-id">BDB7847</td><td class="pos">adjective</td><td class="gloss">wide, broad</td></tr>
+<tr><td><a href="../Entries/BDB7848.html"><span class="hw">רָחָב</span></a></td><td class="bdb-id">BDB7848</td><td class="pos">proper name, feminine</td><td class="gloss">harlot in Jericho</td></tr>
+<tr><td><a href="../Entries/BDB7849.html"><span class="hw">רְחוֺב</span></a></td><td class="bdb-id">BDB7849</td><td class="pos">noun feminine</td><td class="gloss">broad open place, plaza</td></tr>
+<tr><td><a href="../Entries/BDB7850.html"><span class="hw">רְחוֺב</span></a></td><td class="bdb-id">BDB7850</td><td class="pos">proper name</td><td class="gloss">towards Hamath</td></tr>
+<tr><td><a href="../Entries/BDB7851.html"><span class="hw">רְחֹבוֺת</span></a></td><td class="bdb-id">BDB7851</td><td class="pos">proper name [of a location]</td><td class="gloss">near Nineveh</td></tr>
+<tr><td><a href="../Entries/BDB7852.html"><span class="hw">רְחַבְיָ֫ה(וּׅ</span></a></td><td class="bdb-id">BDB7852</td><td class="pos">proper name, masculine</td><td class="gloss">son of Eliezer and grandson of Moses:</td></tr>
+<tr><td><a href="../Entries/BDB7853.html"><span class="hw">רְחַבְעָם</span></a></td><td class="bdb-id">BDB7853</td><td class="pos">proper name, masculine</td><td class="gloss">Rehoboam</td></tr>
+<tr><td><a href="../Entries/BDB7855.html"><span class="hw">רחה</span></a></td><td class="bdb-id">BDB7855</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries/BDB7856.html"><span class="hw">רֵחַה</span></a></td><td class="bdb-id">BDB7856</td><td class="pos">noun [masculine]</td><td class="gloss">mill</td></tr>
+<tr><td><a href="../Entries/BDB7857.html"><span class="hw">רחיטנו</span></a></td><td class="bdb-id">BDB7857</td><td class="pos"></td><td class="gloss">see [רָחִיט] below רהט</td></tr>
+<tr><td><a href="../Entries/BDB7858.html"><span class="hw">רחל</span></a></td><td class="bdb-id">BDB7858</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries/BDB7859.html"><span class="hw">רָחֵל</span></a></td><td class="bdb-id">BDB7859</td><td class="pos">noun feminine</td><td class="gloss">ewe</td></tr>
+<tr><td><a href="../Entries/BDB7860.html"><span class="hw">רָחֵל</span></a></td><td class="bdb-id">BDB7860</td><td class="pos">proper name, feminine</td><td class="gloss">Rachel</td></tr>
+<tr><td><a href="../Entries/BDB7861.html"><span class="hw">רחם</span></a></td><td class="bdb-id">BDB7861</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries/BDB7862.html"><span class="hw">רֶ֫חֶם</span></a></td><td class="bdb-id">BDB7862</td><td class="pos">noun masculine</td><td class="gloss">womb</td></tr>
+<tr><td><a href="../Entries/BDB7863.html"><span class="hw">רַחֲמִים</span></a></td><td class="bdb-id">BDB7863</td><td class="pos">noun masculine</td><td class="gloss">compassion</td></tr>
+<tr><td><a href="../Entries/BDB7864.html"><span class="hw">רָחַם</span></a></td><td class="bdb-id">BDB7864</td><td class="pos">verb</td><td class="gloss">love</td></tr>
+<tr><td><a href="../Entries/BDB7865.html"><span class="hw">רַחוּם</span></a></td><td class="bdb-id">BDB7865</td><td class="pos">adjective</td><td class="gloss">compassionate</td></tr>
+<tr><td><a href="../Entries/BDB7866.html"><span class="hw">רַחֲמָנִי</span></a></td><td class="bdb-id">BDB7866</td><td class="pos">adjective</td><td class="gloss">id.</td></tr>
+<tr><td><a href="../Entries/BDB7867.html"><span class="hw">רַ֫חַם</span></a></td><td class="bdb-id">BDB7867</td><td class="pos">proper name, masculine</td><td class="gloss">in Judah</td></tr>
+<tr><td><a href="../Entries/BDB7868.html"><span class="hw">רֻחָ֫מָה</span></a></td><td class="bdb-id">BDB7868</td><td class="pos"></td><td class="gloss">in ׳
+לֹא ר proper name, feminine.  See p.520.</td></tr>
+<tr><td><a href="../Entries/BDB7869.html"><span class="hw">רְחוּם</span></a></td><td class="bdb-id">BDB7869</td><td class="pos">proper name, masculine</td><td class="gloss">post-exilic name</td></tr>
+<tr><td><a href="../Entries/BDB7873.html"><span class="hw">רחם</span></a></td><td class="bdb-id">BDB7873</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries/BDB7874.html"><span class="hw">רָחָם</span></a></td><td class="bdb-id">BDB7874</td><td class="pos">noun [masculine]</td><td class="gloss">carrion-vulture</td></tr>
+<tr><td><a href="../Entries/BDB7875.html"><span class="hw">רָחָ֫מָה</span></a></td><td class="bdb-id">BDB7875</td><td class="pos">noun [masculine]</td><td class="gloss">id.</td></tr>
+<tr><td><a href="../Entries/BDB7876.html"><span class="hw">רחן</span></a></td><td class="bdb-id">BDB7876</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries/BDB7878.html"><span class="hw">רָחַף</span></a></td><td class="bdb-id">BDB7878</td><td class="pos">verb</td><td class="gloss">grow soft, relax</td></tr>
+<tr><td><a href="../Entries/BDB7879.html"><span class="hw">רָחַף</span></a></td><td class="bdb-id">BDB7879</td><td class="pos">verb</td><td class="gloss">hover</td></tr>
+<tr><td><a href="../Entries/BDB7880.html"><span class="hw">רָחַץ</span></a></td><td class="bdb-id">BDB7880</td><td class="pos">verb</td><td class="gloss">wash, wash off, away, bathe</td></tr>
+<tr><td><a href="../Entries/BDB7881.html"><span class="hw">רַ֫חַץ</span></a></td><td class="bdb-id">BDB7881</td><td class="pos">noun [masculine]</td><td class="gloss">washing</td></tr>
+<tr><td><a href="../Entries/BDB7882.html"><span class="hw">רַחְצָה</span></a></td><td class="bdb-id">BDB7882</td><td class="pos">noun feminine</td><td class="gloss">id.</td></tr>
+<tr><td><a href="../Entries/BDB7883.html"><span class="hw">רָחַק</span></a></td><td class="bdb-id">BDB7883</td><td class="pos">verb</td><td class="gloss">be, or become, far, distant</td></tr>
+<tr><td><a href="../Entries/BDB7884.html"><span class="hw">רָחֵק</span></a></td><td class="bdb-id">BDB7884</td><td class="pos">verbal adjective</td><td class="gloss">removing, departing</td></tr>
+<tr><td><a href="../Entries/BDB7885.html"><span class="hw">רָחֹק</span></a></td><td class="bdb-id">BDB7885</td><td class="pos">adjective</td><td class="gloss">distant, far</td></tr>
+<tr><td><a href="../Entries/BDB7887.html"><span class="hw">רָחַשׁ</span></a></td><td class="bdb-id">BDB7887</td><td class="pos">verb</td><td class="gloss">keep moving, stir</td></tr>
+<tr><td><a href="../Entries/BDB7889.html"><span class="hw">רַ֫חַת</span></a></td><td class="bdb-id">BDB7889</td><td class="pos">noun [feminine]</td><td class="gloss">winnowing-shovel</td></tr>
+<tr><td><a href="../Entries/BDB7890.html"><span class="hw">רָטֵב</span></a></td><td class="bdb-id">BDB7890</td><td class="pos">verb</td><td class="gloss">be moist</td></tr>
+<tr><td><a href="../Entries/BDB7891.html"><span class="hw">רָטֹב</span></a></td><td class="bdb-id">BDB7891</td><td class="pos">adjective</td><td class="gloss">moist, juicy, fresh</td></tr>
+<tr><td><a href="../Entries/BDB7892.html"><span class="hw">רָטָה</span></a></td><td class="bdb-id">BDB7892</td><td class="pos">verb</td><td class="gloss">wring out</td></tr>
+<tr><td><a href="../Entries/BDB7893.html"><span class="hw">רטט</span></a></td><td class="bdb-id">BDB7893</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries/BDB7894.html"><span class="hw">רֶ֫טֶט</span></a></td><td class="bdb-id">BDB7894</td><td class="pos">noun [masculine]</td><td class="gloss">trembling, panic</td></tr>
+<tr><td><a href="../Entries/BDB7895.html"><span class="hw">רֻטֲפַשׁ</span></a></td><td class="bdb-id">BDB7895</td><td class="pos">verb</td><td class="gloss">grow fresh</td></tr>
+<tr><td><a href="../Entries/BDB7896.html"><span class="hw">רָטַשׁ</span></a></td><td class="bdb-id">BDB7896</td><td class="pos">verb</td><td class="gloss">dash in pieces</td></tr>
+<tr><td><a href="../Entries/BDB7897.html"><span class="hw">רִיב</span></a></td><td class="bdb-id">BDB7897</td><td class="pos">verb</td><td class="gloss">strive, contend</td></tr>
+<tr><td><a href="../Entries/BDB7898.html"><span class="hw">רִיב</span></a></td><td class="bdb-id">BDB7898</td><td class="pos">noun masculine</td><td class="gloss">strife, dispute</td></tr>
+<tr><td><a href="../Entries/BDB7899.html"><span class="hw">רִיבַי</span></a></td><td class="bdb-id">BDB7899</td><td class="pos">proper name, masculine</td><td class="gloss">in Benjamin</td></tr>
+<tr><td><a href="../Entries/BDB7909.html"><span class="hw">ריף</span></a></td><td class="bdb-id">BDB7909</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries/BDB7910.html"><span class="hw">רִיפָה</span></a></td><td class="bdb-id">BDB7910</td><td class="pos">noun [feminine]</td><td class="gloss">dubious; some grain or fruit</td></tr>
+<tr><td><a href="../Entries/BDB7911.html"><span class="hw">רִיפַת</span></a></td><td class="bdb-id">BDB7911</td><td class="pos">proper name [of a people]</td><td class="gloss">&#x27;son&#x27; of Gomer (of Japhet)</td></tr>
+<tr><td><a href="../Entries/BDB7912.html"><span class="hw">רִיק</span></a></td><td class="bdb-id">BDB7912</td><td class="pos">verb</td><td class="gloss">make empty, empty out</td></tr>
+<tr><td><a href="../Entries/BDB7913.html"><span class="hw">רֵיק</span></a></td><td class="bdb-id">BDB7913</td><td class="pos">adjective</td><td class="gloss">empty, vain</td></tr>
+<tr><td><a href="../Entries/BDB7914.html"><span class="hw">רִיק</span></a></td><td class="bdb-id">BDB7914</td><td class="pos">noun [masculine]</td><td class="gloss">emptiness, vanity</td></tr>
+<tr><td><a href="../Entries/BDB7915.html"><span class="hw">רֵיקָם</span></a></td><td class="bdb-id">BDB7915</td><td class="pos">adverb</td><td class="gloss">emptily, vainly</td></tr>
+<tr><td><a href="../Entries/BDB7916.html"><span class="hw">רִיר</span></a></td><td class="bdb-id">BDB7916</td><td class="pos">verb</td><td class="gloss">flow</td></tr>
+<tr><td><a href="../Entries/BDB7917.html"><span class="hw">רִיר</span></a></td><td class="bdb-id">BDB7917</td><td class="pos">noun masculine</td><td class="gloss">slimy juice, spittle</td></tr>
+<tr><td><a href="../Entries/BDB7918.html"><span class="hw">רָכַב</span></a></td><td class="bdb-id">BDB7918</td><td class="pos">verb</td><td class="gloss">mount and ride, ride</td></tr>
+<tr><td><a href="../Entries/BDB7919.html"><span class="hw">רֶ֫כֶב</span></a></td><td class="bdb-id">BDB7919</td><td class="pos">noun masculine</td><td class="gloss">chariotry, chariot,
+        mill-stone</td></tr>
+<tr><td><a href="../Entries/BDB7920.html"><span class="hw">רִכְבָּה</span></a></td><td class="bdb-id">BDB7920</td><td class="pos">noun feminine</td><td class="gloss">riding</td></tr>
+<tr><td><a href="../Entries/BDB7921.html"><span class="hw">רַכָּב</span></a></td><td class="bdb-id">BDB7921</td><td class="pos">noun masculine</td><td class="gloss">charioteer</td></tr>
+<tr><td><a href="../Entries/BDB7922.html"><span class="hw">רְכוּב</span></a></td><td class="bdb-id">BDB7922</td><td class="pos">noun [masculine]</td><td class="gloss">chariot</td></tr>
+<tr><td><a href="../Entries/BDB7923.html"><span class="hw">רֵכָב</span></a></td><td class="bdb-id">BDB7923</td><td class="pos">proper name, masculine</td><td class="gloss">in ׳
+יְהוֺנָדָב בֶּןרֿ</td></tr>
+<tr><td><a href="../Entries/BDB7924.html"><span class="hw">רֵכָבִי</span></a></td><td class="bdb-id">BDB7924</td><td class="pos">adjective [of a people]</td><td class="gloss">of רֵכָב of 1</td></tr>
+<tr><td><a href="../Entries/BDB7927.html"><span class="hw">רֵכָה</span></a></td><td class="bdb-id">BDB7927</td><td class="pos">proper name [of a location]</td><td class="gloss">in Judah</td></tr>
+<tr><td><a href="../Entries/BDB7928.html"><span class="hw">רָכַךְ</span></a></td><td class="bdb-id">BDB7928</td><td class="pos">verb</td><td class="gloss">be tender, weak, soft</td></tr>
+<tr><td><a href="../Entries/BDB7929.html"><span class="hw">רַךְ</span></a></td><td class="bdb-id">BDB7929</td><td class="pos">adjective</td><td class="gloss">tender, delicate, soft</td></tr>
+<tr><td><a href="../Entries/BDB7930.html"><span class="hw">רֹךְ</span></a></td><td class="bdb-id">BDB7930</td><td class="pos">noun [masculine]</td><td class="gloss">tenderness, delicacy</td></tr>
+<tr><td><a href="../Entries/BDB7932.html"><span class="hw">רָכַל</span></a></td><td class="bdb-id">BDB7932</td><td class="pos">verb</td><td class="gloss">go about, from one to another</td></tr>
+<tr><td><a href="../Entries/BDB7933.html"><span class="hw">רְכֻלָּה</span></a></td><td class="bdb-id">BDB7933</td><td class="pos">noun feminine</td><td class="gloss">traffic</td></tr>
+<tr><td><a href="../Entries/BDB7934.html"><span class="hw">רָכָל</span></a></td><td class="bdb-id">BDB7934</td><td class="pos">proper name [of a location]</td><td class="gloss">in south of Judah</td></tr>
+<tr><td><a href="../Entries/BDB7935.html"><span class="hw">רָכִיל</span></a></td><td class="bdb-id">BDB7935</td><td class="pos">noun [masculine]</td><td class="gloss">slander, &gt; tale-bearer, informer</td></tr>
+<tr><td><a href="../Entries/BDB7937.html"><span class="hw">רָכַס</span></a></td><td class="bdb-id">BDB7937</td><td class="pos">verb</td><td class="gloss">bind</td></tr>
+<tr><td><a href="../Entries/BDB7938.html"><span class="hw">רֶ֫כֶס</span></a></td><td class="bdb-id">BDB7938</td><td class="pos">noun [masculine]</td><td class="gloss">dubious; perhaps roughness</td></tr>
+<tr><td><a href="../Entries/BDB7939.html"><span class="hw">רֹ֫כֶס</span></a></td><td class="bdb-id">BDB7939</td><td class="pos">noun [masculine]</td><td class="gloss">dubious</td></tr>
+<tr><td><a href="../Entries/BDB7940.html"><span class="hw">רָכַשׁ</span></a></td><td class="bdb-id">BDB7940</td><td class="pos">verb</td><td class="gloss">collect, gather</td></tr>
+<tr><td><a href="../Entries/BDB7941.html"><span class="hw">רֶ֫כֶשׁ</span></a></td><td class="bdb-id">BDB7941</td><td class="pos">noun masculine</td><td class="gloss">steeds</td></tr>
+<tr><td><a href="../Entries/BDB7942.html"><span class="hw">רְכוּשׁ</span></a></td><td class="bdb-id">BDB7942</td><td class="pos">noun masculine</td><td class="gloss">property, goods</td></tr>
+<tr><td><a href="../Entries/BDB7943.html"><span class="hw">רָמָה</span></a></td><td class="bdb-id">BDB7943</td><td class="pos">verb</td><td class="gloss">cast, shoot</td></tr>
+<tr><td><a href="../Entries/BDB7944.html"><span class="hw">רָמָה</span></a></td><td class="bdb-id">BDB7944</td><td class="pos">verb</td><td class="gloss">beguile, deal treacherously with</td></tr>
+<tr><td><a href="../Entries/BDB7945.html"><span class="hw">רְמִיָּה</span></a></td><td class="bdb-id">BDB7945</td><td class="pos">noun feminine</td><td class="gloss">deceit, treachery</td></tr>
+<tr><td><a href="../Entries/BDB7950.html"><span class="hw">רמה</span></a></td><td class="bdb-id">BDB7950</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries/BDB7951.html"><span class="hw">רְמִיָּה</span></a></td><td class="bdb-id">BDB7951</td><td class="pos">noun feminine</td><td class="gloss">laxness, slackness</td></tr>
+<tr><td><a href="../Entries/BDB7953.html"><span class="hw">רַמְיָה</span></a></td><td class="bdb-id">BDB7953</td><td class="pos">proper name, masculine</td><td class="gloss">one with foreign wife</td></tr>
+<tr><td><a href="../Entries/BDB7954.html"><span class="hw">רִמּוֺן</span></a></td><td class="bdb-id">BDB7954</td><td class="pos">noun masculine</td><td class="gloss">pomegranate</td></tr>
+<tr><td><a href="../Entries/BDB7955.html"><span class="hw">רִמּוֺן</span></a></td><td class="bdb-id">BDB7955</td><td class="pos">proper name [of deity]</td><td class="gloss">in Aramaic</td></tr>
+<tr><td><a href="../Entries/BDB7956.html"><span class="hw">רִמּוֺן</span></a></td><td class="bdb-id">BDB7956</td><td class="pos">proper name, masculine</td><td class="gloss">in Benjamin</td></tr>
+<tr><td><a href="../Entries/BDB7957.html"><span class="hw">רִמּוֺן</span></a></td><td class="bdb-id">BDB7957</td><td class="pos">proper name [of a location]</td><td class="gloss">in סֶלַע הָרִמּוֺן
+cliff of Rimmon</td></tr>
+<tr><td><a href="../Entries/BDB7958.html"><span class="hw">רִמֹּן פָּ֑רֶץ</span></a></td><td class="bdb-id">BDB7958</td><td class="pos">proper name [of a location]</td><td class="gloss">station of Israel in wilderness</td></tr>
+<tr><td><a href="../Entries/BDB7959.html"><span class="hw">רֹ֫מַח</span></a></td><td class="bdb-id">BDB7959</td><td class="pos">noun [masculine]</td><td class="gloss">spear, lance</td></tr>
+<tr><td><a href="../Entries/BDB7961.html"><span class="hw">רַמָּךְ</span></a></td><td class="bdb-id">BDB7961</td><td class="pos">noun [feminine]</td><td class="gloss">exact meaning dubious</td></tr>
+<tr><td><a href="../Entries/BDB7962.html"><span class="hw">רמל</span></a></td><td class="bdb-id">BDB7962</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries/BDB7963.html"><span class="hw">רְמַלְיָ֫הוּ</span></a></td><td class="bdb-id">BDB7963</td><td class="pos">proper name, masculine</td><td class="gloss">father of Pekah, king of Israrel</td></tr>
+<tr><td><a href="../Entries/BDB7964.html"><span class="hw">רָמֹם</span></a></td><td class="bdb-id">BDB7964</td><td class="pos">verb</td><td class="gloss">be exalted</td></tr>
+<tr><td><a href="../Entries/BDB7965.html"><span class="hw">רמם</span></a></td><td class="bdb-id">BDB7965</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries/BDB7966.html"><span class="hw">רִמָּה</span></a></td><td class="bdb-id">BDB7966</td><td class="pos">noun feminine</td><td class="gloss">worm</td></tr>
+<tr><td><a href="../Entries/BDB7967.html"><span class="hw">רָמַם</span></a></td><td class="bdb-id">BDB7967</td><td class="pos">verb</td><td class="gloss">be wormy</td></tr>
+<tr><td><a href="../Entries/BDB7968.html"><span class="hw">רָמַס</span></a></td><td class="bdb-id">BDB7968</td><td class="pos">verb</td><td class="gloss">trample</td></tr>
+<tr><td><a href="../Entries/BDB7970.html"><span class="hw">רָמַשׂ</span></a></td><td class="bdb-id">BDB7970</td><td class="pos">verb</td><td class="gloss">creep, move lightly, move about</td></tr>
+<tr><td><a href="../Entries/BDB7971.html"><span class="hw">רֶ֫מֶשׂ</span></a></td><td class="bdb-id">BDB7971</td><td class="pos">noun masculine</td><td class="gloss">creeping things, moving things</td></tr>
+<tr><td><a href="../Entries/BDB7972.html"><span class="hw">רָנָה</span></a></td><td class="bdb-id">BDB7972</td><td class="pos">verb</td><td class="gloss">rattle</td></tr>
+<tr><td><a href="../Entries/BDB7973.html"><span class="hw">רָנַן</span></a></td><td class="bdb-id">BDB7973</td><td class="pos">verb</td><td class="gloss">give a ringing cry</td></tr>
+<tr><td><a href="../Entries/BDB7974.html"><span class="hw">רֹן</span></a></td><td class="bdb-id">BDB7974</td><td class="pos">noun [masculine]</td><td class="gloss">ringing cry</td></tr>
+<tr><td><a href="../Entries/BDB7975.html"><span class="hw">רְנָנָה</span></a></td><td class="bdb-id">BDB7975</td><td class="pos">noun feminine</td><td class="gloss">id.</td></tr>
+<tr><td><a href="../Entries/BDB7976.html"><span class="hw">רִנָּה</span></a></td><td class="bdb-id">BDB7976</td><td class="pos">noun feminine</td><td class="gloss">ringing cry</td></tr>
+<tr><td><a href="../Entries/BDB7977.html"><span class="hw">רִנָּה</span></a></td><td class="bdb-id">BDB7977</td><td class="pos">proper name, masculine</td><td class="gloss">in Judah</td></tr>
+<tr><td><a href="../Entries/BDB7978.html"><span class="hw">רְנָנִים</span></a></td><td class="bdb-id">BDB7978</td><td class="pos">noun [masculine] plural</td><td class="gloss">piercing cries</td></tr>
+<tr><td><a href="../Entries/BDB7979.html"><span class="hw">רִסָּה</span></a></td><td class="bdb-id">BDB7979</td><td class="pos">proper name [of a location]</td><td class="gloss">station in wilderness</td></tr>
+<tr><td><a href="../Entries/BDB7980.html"><span class="hw">רסן</span></a></td><td class="bdb-id">BDB7980</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries/BDB7981.html"><span class="hw">רֶ֫סֶן</span></a></td><td class="bdb-id">BDB7981</td><td class="pos">noun masculine</td><td class="gloss">halter</td></tr>
+<tr><td><a href="../Entries/BDB7982.html"><span class="hw">רֶ֫סֶן</span></a></td><td class="bdb-id">BDB7982</td><td class="pos">proper name [of a location]</td><td class="gloss">in Assyria, near Nineveh</td></tr>
+<tr><td><a href="../Entries/BDB7983.html"><span class="hw">רָסַס</span></a></td><td class="bdb-id">BDB7983</td><td class="pos">verb</td><td class="gloss">moisten</td></tr>
+<tr><td><a href="../Entries/BDB7984.html"><span class="hw">רָסִיס</span></a></td><td class="bdb-id">BDB7984</td><td class="pos">noun [masculine]</td><td class="gloss">drop</td></tr>
+<tr><td><a href="../Entries/BDB7985.html"><span class="hw">רסס</span></a></td><td class="bdb-id">BDB7985</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries/BDB7986.html"><span class="hw">רָסִיס</span></a></td><td class="bdb-id">BDB7986</td><td class="pos">noun [masculine]</td><td class="gloss">fragment</td></tr>
+<tr><td><a href="../Entries/BDB7987.html"><span class="hw">רָעֵב</span></a></td><td class="bdb-id">BDB7987</td><td class="pos">verb</td><td class="gloss">be hungry</td></tr>
+<tr><td><a href="../Entries/BDB7988.html"><span class="hw">רָעָב</span></a></td><td class="bdb-id">BDB7988</td><td class="pos">noun masculine</td><td class="gloss">famine, hunger</td></tr>
+<tr><td><a href="../Entries/BDB7989.html"><span class="hw">רָעֵב</span></a></td><td class="bdb-id">BDB7989</td><td class="pos">adjective</td><td class="gloss">hungry</td></tr>
+<tr><td><a href="../Entries/BDB7990.html"><span class="hw">רְעָבוֺן</span></a></td><td class="bdb-id">BDB7990</td><td class="pos">noun [masculine]</td><td class="gloss">hunger, lack of food, famine</td></tr>
+<tr><td><a href="../Entries/BDB7991.html"><span class="hw">רָעַד</span></a></td><td class="bdb-id">BDB7991</td><td class="pos">verb</td><td class="gloss">tremble, quake</td></tr>
+<tr><td><a href="../Entries/BDB7992.html"><span class="hw">רַ֫עַד</span></a></td><td class="bdb-id">BDB7992</td><td class="pos">noun masculine</td><td class="gloss">trembling</td></tr>
+<tr><td><a href="../Entries/BDB7993.html"><span class="hw">רְעָדָה</span></a></td><td class="bdb-id">BDB7993</td><td class="pos">noun feminine</td><td class="gloss">id.</td></tr>
+<tr><td><a href="../Entries/BDB7994.html"><span class="hw">רָעָה</span></a></td><td class="bdb-id">BDB7994</td><td class="pos">verb</td><td class="gloss">pasture, tend, graze</td></tr>
+<tr><td><a href="../Entries/BDB7995.html"><span class="hw">רֹעֶה</span></a></td><td class="bdb-id">BDB7995</td><td class="pos"></td><td class="gloss">see √ 1 d. above</td></tr>
+<tr><td><a href="../Entries/BDB7996.html"><span class="hw">רְעִי</span></a></td><td class="bdb-id">BDB7996</td><td class="pos">noun [masculine]</td><td class="gloss">pasture</td></tr>
+<tr><td><a href="../Entries/BDB7997.html"><span class="hw">רֹעִי</span></a></td><td class="bdb-id">BDB7997</td><td class="pos"></td><td class="gloss">see √ 1.d. (I), (2). above</td></tr>
+<tr><td><a href="../Entries/BDB8000.html"><span class="hw">רָעָה</span></a></td><td class="bdb-id">BDB8000</td><td class="pos">verb</td><td class="gloss">associate with</td></tr>
+<tr><td><a href="../Entries/BDB8001.html"><span class="hw">רֵעַ</span></a></td><td class="bdb-id">BDB8001</td><td class="pos">noun masculine</td><td class="gloss">friend, companion, fellow</td></tr>
+<tr><td><a href="../Entries/BDB8002.html"><span class="hw">רֵעֶה</span></a></td><td class="bdb-id">BDB8002</td><td class="pos">noun masculine</td><td class="gloss">friend</td></tr>
+<tr><td><a href="../Entries/BDB8003.html"><span class="hw">רָעָה</span></a></td><td class="bdb-id">BDB8003</td><td class="pos">verb</td><td class="gloss">be a special friend</td></tr>
+<tr><td><a href="../Entries/BDB8004.html"><span class="hw">רֵעָה</span></a></td><td class="bdb-id">BDB8004</td><td class="pos">noun feminine</td><td class="gloss">companion, attendant</td></tr>
+<tr><td><a href="../Entries/BDB8005.html"><span class="hw">רַעְיָה</span></a></td><td class="bdb-id">BDB8005</td><td class="pos">noun feminine</td><td class="gloss">companion</td></tr>
+<tr><td><a href="../Entries/BDB8006.html"><span class="hw">רְעוּת</span></a></td><td class="bdb-id">BDB8006</td><td class="pos">noun feminine</td><td class="gloss">fellow (-woman)</td></tr>
+<tr><td><a href="../Entries/BDB8007.html"><span class="hw">רוּת</span></a></td><td class="bdb-id">BDB8007</td><td class="pos">proper name, feminine</td><td class="gloss">Ruth</td></tr>
+<tr><td><a href="../Entries/BDB8008.html"><span class="hw">רְעוּ</span></a></td><td class="bdb-id">BDB8008</td><td class="pos">proper name, masculine</td><td class="gloss">son of Peleg</td></tr>
+<tr><td><a href="../Entries/BDB8009.html"><span class="hw">רְעוּאֵל</span></a></td><td class="bdb-id">BDB8009</td><td class="pos">proper name, masculine</td><td class="gloss">Moses&#x27; father-in-law</td></tr>
+<tr><td><a href="../Entries/BDB8010.html"><span class="hw">רֵעִי</span></a></td><td class="bdb-id">BDB8010</td><td class="pos">proper name, masculine</td><td class="gloss">courtier of
+    David</td></tr>
+<tr><td><a href="../Entries/BDB8012.html"><span class="hw">רעה</span></a></td><td class="bdb-id">BDB8012</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries/BDB8013.html"><span class="hw">רֵעַ</span></a></td><td class="bdb-id">BDB8013</td><td class="pos">noun [masculine]</td><td class="gloss">purpose, aim</td></tr>
+<tr><td><a href="../Entries/BDB8014.html"><span class="hw">רְעוּת</span></a></td><td class="bdb-id">BDB8014</td><td class="pos">noun feminine</td><td class="gloss">longing, striving</td></tr>
+<tr><td><a href="../Entries/BDB8015.html"><span class="hw">רַעְיוֺן</span></a></td><td class="bdb-id">BDB8015</td><td class="pos">noun [masculine]</td><td class="gloss">id.</td></tr>
+<tr><td><a href="../Entries/BDB8016.html"><span class="hw">רָעַל</span></a></td><td class="bdb-id">BDB8016</td><td class="pos">verb</td><td class="gloss">quiver, shake, reel</td></tr>
+<tr><td><a href="../Entries/BDB8017.html"><span class="hw">רַ֫עַל</span></a></td><td class="bdb-id">BDB8017</td><td class="pos">noun [masculine]</td><td class="gloss">reeling</td></tr>
+<tr><td><a href="../Entries/BDB8018.html"><span class="hw">רְעָלָה</span></a></td><td class="bdb-id">BDB8018</td><td class="pos">noun [feminine]</td><td class="gloss">veil</td></tr>
+<tr><td><a href="../Entries/BDB8020.html"><span class="hw">רְעֵלָיָה</span></a></td><td class="bdb-id">BDB8020</td><td class="pos">proper name, masculine</td><td class="gloss">companion of Zerubbabel</td></tr>
+<tr><td><a href="../Entries/BDB8021.html"><span class="hw">רעם</span></a></td><td class="bdb-id">BDB8021</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries/BDB8022.html"><span class="hw">רַ֫עַם</span></a></td><td class="bdb-id">BDB8022</td><td class="pos">noun [masculine]</td><td class="gloss">thunder</td></tr>
+<tr><td><a href="../Entries/BDB8023.html"><span class="hw">רָעַם</span></a></td><td class="bdb-id">BDB8023</td><td class="pos">verb</td><td class="gloss">thunder</td></tr>
+<tr><td><a href="../Entries/BDB8024.html"><span class="hw">רַעְמָה</span></a></td><td class="bdb-id">BDB8024</td><td class="pos">noun feminine</td><td class="gloss">vibration? quivering</td></tr>
+<tr><td><a href="../Entries/BDB8025.html"><span class="hw">רַעְמָה</span></a></td><td class="bdb-id">BDB8025</td><td class="pos">proper name, masculine</td><td class="gloss">&#x27;son&#x27; of Cush</td></tr>
+<tr><td><a href="../Entries/BDB8026.html"><span class="hw">רַעַמְיָה</span></a></td><td class="bdb-id">BDB8026</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries/BDB8028.html"><span class="hw">רָעַן</span></a></td><td class="bdb-id">BDB8028</td><td class="pos">verb</td><td class="gloss">be or grow luxuriant, fresh, green</td></tr>
+<tr><td><a href="../Entries/BDB8029.html"><span class="hw">רַעֲנָן</span></a></td><td class="bdb-id">BDB8029</td><td class="pos">adjective</td><td class="gloss">luxuriant, fresh</td></tr>
+<tr><td><a href="../Entries/BDB8030.html"><span class="hw">רעע</span></a></td><td class="bdb-id">BDB8030</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries/BDB8031.html"><span class="hw">רֹעַ</span></a></td><td class="bdb-id">BDB8031</td><td class="pos">noun [masculine]</td><td class="gloss">badness, evil</td></tr>
+<tr><td><a href="../Entries/BDB8032.html"><span class="hw">רַע</span></a></td><td class="bdb-id">BDB8032</td><td class="pos">adjective</td><td class="gloss">bad, evil</td></tr>
+<tr><td><a href="../Entries/BDB8033.html"><span class="hw">רַע</span></a></td><td class="bdb-id">BDB8033</td><td class="pos">noun masculine</td><td class="gloss">evil, distress, misery, injury, calamity</td></tr>
+<tr><td><a href="../Entries/BDB8034.html"><span class="hw">רָעָה</span></a></td><td class="bdb-id">BDB8034</td><td class="pos">noun feminine</td><td class="gloss">evil, misery, distress, injury</td></tr>
+<tr><td><a href="../Entries/BDB8035.html"><span class="hw">רָעַע</span></a></td><td class="bdb-id">BDB8035</td><td class="pos">verb</td><td class="gloss">be evil, bad</td></tr>
+<tr><td><a href="../Entries/BDB8036.html"><span class="hw">רָעַע</span></a></td><td class="bdb-id">BDB8036</td><td class="pos">verb</td><td class="gloss">break</td></tr>
+<tr><td><a href="../Entries/BDB8037.html"><span class="hw">רָעַף</span></a></td><td class="bdb-id">BDB8037</td><td class="pos">verb</td><td class="gloss">trickle, drip</td></tr>
+<tr><td><a href="../Entries/BDB8038.html"><span class="hw">רָעַץ</span></a></td><td class="bdb-id">BDB8038</td><td class="pos">verb</td><td class="gloss">shatter</td></tr>
+<tr><td><a href="../Entries/BDB8039.html"><span class="hw">רָעַשׁ</span></a></td><td class="bdb-id">BDB8039</td><td class="pos">verb</td><td class="gloss">quake, shake</td></tr>
+<tr><td><a href="../Entries/BDB8040.html"><span class="hw">רַ֫עַשׁ</span></a></td><td class="bdb-id">BDB8040</td><td class="pos">noun masculine</td><td class="gloss">quaking, shaking</td></tr>
+<tr><td><a href="../Entries/BDB8041.html"><span class="hw">רָפָא</span></a></td><td class="bdb-id">BDB8041</td><td class="pos">verb</td><td class="gloss">heal</td></tr>
+<tr><td><a href="../Entries/BDB8042.html"><span class="hw">רָפָא</span></a></td><td class="bdb-id">BDB8042</td><td class="pos">proper name, masculine</td><td class="gloss">in Benjamin</td></tr>
+<tr><td><a href="../Entries/BDB8043.html"><span class="hw">רָפָא</span></a></td><td class="bdb-id">BDB8043</td><td class="pos"></td><td class="gloss">see 
+רפה
+. — See also ׳
+בֵּית ר p. 112</td></tr>
+<tr><td><a href="../Entries/BDB8044.html"><span class="hw">רְפָאִים</span></a></td><td class="bdb-id">BDB8044</td><td class="pos"></td><td class="gloss">see below רפה</td></tr>
+<tr><td><a href="../Entries/BDB8045.html"><span class="hw">רָפָה</span></a></td><td class="bdb-id">BDB8045</td><td class="pos">proper name, masculine</td><td class="gloss">in Saul&#x27;s line</td></tr>
+<tr><td><a href="../Entries/BDB8046.html"><span class="hw">רָפוּא</span></a></td><td class="bdb-id">BDB8046</td><td class="pos">proper name, masculine</td><td class="gloss">in Benjamin</td></tr>
+<tr><td><a href="../Entries/BDB8047.html"><span class="hw">רְפֻאָה</span></a></td><td class="bdb-id">BDB8047</td><td class="pos">noun feminine</td><td class="gloss">remedy, medicine</td></tr>
+<tr><td><a href="../Entries/BDB8048.html"><span class="hw">רִפְאוּת</span></a></td><td class="bdb-id">BDB8048</td><td class="pos">noun feminine</td><td class="gloss">healing</td></tr>
+<tr><td><a href="../Entries/BDB8049.html"><span class="hw">רְפָאֵל</span></a></td><td class="bdb-id">BDB8049</td><td class="pos">proper name, masculine</td><td class="gloss">Levite</td></tr>
+<tr><td><a href="../Entries/BDB8050.html"><span class="hw">רְפָיָה</span></a></td><td class="bdb-id">BDB8050</td><td class="pos">proper name, masculine</td><td class="gloss">in David&#x27;s family</td></tr>
+<tr><td><a href="../Entries/BDB8053.html"><span class="hw">רָפַד</span></a></td><td class="bdb-id">BDB8053</td><td class="pos">verb</td><td class="gloss">spread</td></tr>
+<tr><td><a href="../Entries/BDB8054.html"><span class="hw">רְפִידָה</span></a></td><td class="bdb-id">BDB8054</td><td class="pos">noun feminine</td><td class="gloss">support</td></tr>
+<tr><td><a href="../Entries/BDB8055.html"><span class="hw">רְפִידִים</span></a></td><td class="bdb-id">BDB8055</td><td class="pos">proper name [of a location]</td><td class="gloss">station of Israel at Exodus</td></tr>
+<tr><td><a href="../Entries/BDB8056.html"><span class="hw">רָפה</span></a></td><td class="bdb-id">BDB8056</td><td class="pos">verb</td><td class="gloss">sink, relax</td></tr>
+<tr><td><a href="../Entries/BDB8057.html"><span class="hw">רָפֶה</span></a></td><td class="bdb-id">BDB8057</td><td class="pos">adjective</td><td class="gloss">slack</td></tr>
+<tr><td><a href="../Entries/BDB8058.html"><span class="hw">רִפָּיוֺן</span></a></td><td class="bdb-id">BDB8058</td><td class="pos">noun [masculine]</td><td class="gloss">sinking</td></tr>
+<tr><td><a href="../Entries/BDB8059.html"><span class="hw">רָפָה</span></a></td><td class="bdb-id">BDB8059</td><td class="pos">proper name, masculine</td><td class="gloss">H¹-R¹ph¹</td></tr>
+<tr><td><a href="../Entries/BDB8060.html"><span class="hw">רְפָאִים</span></a></td><td class="bdb-id">BDB8060</td><td class="pos">noun masculine</td><td class="gloss">shades, ghosts</td></tr>
+<tr><td><a href="../Entries/BDB8061.html"><span class="hw">רְפָאִים</span></a></td><td class="bdb-id">BDB8061</td><td class="pos">proper name [of a people]</td><td class="gloss">old race of giants</td></tr>
+<tr><td><a href="../Entries/BDB8062.html"><span class="hw">רֶ֫פַח</span></a></td><td class="bdb-id">BDB8062</td><td class="pos">proper name, masculine</td><td class="gloss">in Ephraim</td></tr>
+<tr><td><a href="../Entries/BDB8063.html"><span class="hw">רְפָיָה</span></a></td><td class="bdb-id">BDB8063</td><td class="pos">proper name, masculine</td><td class="gloss">see below רפא</td></tr>
+<tr><td><a href="../Entries/BDB8064.html"><span class="hw">רָפַס</span></a></td><td class="bdb-id">BDB8064</td><td class="pos">verb</td><td class="gloss">stamp, tread, foul by stamping, treading</td></tr>
+<tr><td><a href="../Entries/BDB8066.html"><span class="hw">רפְסֹדָה</span></a></td><td class="bdb-id">BDB8066</td><td class="pos">noun [feminine]</td><td class="gloss">raft</td></tr>
+<tr><td><a href="../Entries/BDB8067.html"><span class="hw">רָפַף</span></a></td><td class="bdb-id">BDB8067</td><td class="pos">verb</td><td class="gloss">shake, rock</td></tr>
+<tr><td><a href="../Entries/BDB8068.html"><span class="hw">רָפַק</span></a></td><td class="bdb-id">BDB8068</td><td class="pos">verb</td><td class="gloss">support oneself, lean</td></tr>
+<tr><td><a href="../Entries/BDB8069.html"><span class="hw">רפשׁ</span></a></td><td class="bdb-id">BDB8069</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries/BDB8070.html"><span class="hw">רֶ֫פֶשׁ</span></a></td><td class="bdb-id">BDB8070</td><td class="pos">noun [masculine]</td><td class="gloss">mire</td></tr>
+<tr><td><a href="../Entries/BDB8071.html"><span class="hw">רֶ֫פֶת</span></a></td><td class="bdb-id">BDB8071</td><td class="pos">noun [masculine]</td><td class="gloss">stable, stall</td></tr>
+<tr><td><a href="../Entries/BDB8072.html"><span class="hw">רָצָא</span></a></td><td class="bdb-id">BDB8072</td><td class="pos">verb</td><td class="gloss">but
+    read יָצוֺא (יֵָֽצְאוּ)</td></tr>
+<tr><td><a href="../Entries/BDB8073.html"><span class="hw">רָצַד</span></a></td><td class="bdb-id">BDB8073</td><td class="pos">verb</td><td class="gloss">watch</td></tr>
+<tr><td><a href="../Entries/BDB8074.html"><span class="hw">רָצָה</span></a></td><td class="bdb-id">BDB8074</td><td class="pos">verb</td><td class="gloss">be pleased with, accept favourably</td></tr>
+<tr><td><a href="../Entries/BDB8075.html"><span class="hw">רָצוֺן</span></a></td><td class="bdb-id">BDB8075</td><td class="pos">noun [masculine]</td><td class="gloss">goodwill, favour, acceptance, will</td></tr>
+<tr><td><a href="../Entries/BDB8077.html"><span class="hw">רָצַח</span></a></td><td class="bdb-id">BDB8077</td><td class="pos">verb</td><td class="gloss">murder, slay</td></tr>
+<tr><td><a href="../Entries/BDB8078.html"><span class="hw">רֶ֫צַח</span></a></td><td class="bdb-id">BDB8078</td><td class="pos">noun [masculine]</td><td class="gloss">shattering</td></tr>
+<tr><td><a href="../Entries/BDB8079.html"><span class="hw">רִצְיָא</span></a></td><td class="bdb-id">BDB8079</td><td class="pos">proper name, masculine</td><td class="gloss">in Asher</td></tr>
+<tr><td><a href="../Entries/BDB8080.html"><span class="hw">רְצִין</span></a></td><td class="bdb-id">BDB8080</td><td class="pos">proper name, masculine</td><td class="gloss">king of Aram, Ahaz&#x27;s time</td></tr>
+<tr><td><a href="../Entries/BDB8081.html"><span class="hw">רָצַע</span></a></td><td class="bdb-id">BDB8081</td><td class="pos">verb</td><td class="gloss">bore, pierce</td></tr>
+<tr><td><a href="../Entries/BDB8083.html"><span class="hw">רָצַף</span></a></td><td class="bdb-id">BDB8083</td><td class="pos">verb</td><td class="gloss">fit together, fit out</td></tr>
+<tr><td><a href="../Entries/BDB8086.html"><span class="hw">רצף</span></a></td><td class="bdb-id">BDB8086</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries/BDB8087.html"><span class="hw">רִצְפָּה</span></a></td><td class="bdb-id">BDB8087</td><td class="pos">noun feminine</td><td class="gloss">glowing stone (or coal)</td></tr>
+<tr><td><a href="../Entries/BDB8088.html"><span class="hw">רֶ֫צֶף</span></a></td><td class="bdb-id">BDB8088</td><td class="pos">proper name [of a location]</td><td class="gloss">conquered by Assyria</td></tr>
+<tr><td><a href="../Entries/BDB8089.html"><span class="hw">רִצְפָּה</span></a></td><td class="bdb-id">BDB8089</td><td class="pos">proper name, feminine</td><td class="gloss">concubine of Saul</td></tr>
+<tr><td><a href="../Entries/BDB8090.html"><span class="hw">רָצַץ</span></a></td><td class="bdb-id">BDB8090</td><td class="pos">verb</td><td class="gloss">crush</td></tr>
+<tr><td><a href="../Entries/BDB8091.html"><span class="hw">רַץ</span></a></td><td class="bdb-id">BDB8091</td><td class="pos">noun [masculine]</td><td class="gloss">piece, bar (?)</td></tr>
+<tr><td><a href="../Entries/BDB8093.html"><span class="hw">רָקֵב</span></a></td><td class="bdb-id">BDB8093</td><td class="pos">verb</td><td class="gloss">rot</td></tr>
+<tr><td><a href="../Entries/BDB8094.html"><span class="hw">רָקָב</span></a></td><td class="bdb-id">BDB8094</td><td class="pos">noun [masculine]</td><td class="gloss">rottenness, decay</td></tr>
+<tr><td><a href="../Entries/BDB8095.html"><span class="hw">רִקָּבוֺן</span></a></td><td class="bdb-id">BDB8095</td><td class="pos">noun [masculine]</td><td class="gloss">id.</td></tr>
+<tr><td><a href="../Entries/BDB8096.html"><span class="hw">רָקַד</span></a></td><td class="bdb-id">BDB8096</td><td class="pos">verb</td><td class="gloss">skip about</td></tr>
+<tr><td><a href="../Entries/BDB8097.html"><span class="hw">רָקַח</span></a></td><td class="bdb-id">BDB8097</td><td class="pos">verb</td><td class="gloss">mix</td></tr>
+<tr><td><a href="../Entries/BDB8098.html"><span class="hw">רֶ֫קַח</span></a></td><td class="bdb-id">BDB8098</td><td class="pos">noun [masculine]</td><td class="gloss">spice</td></tr>
+<tr><td><a href="../Entries/BDB8099.html"><span class="hw">רֹ֫קֵחַ</span></a></td><td class="bdb-id">BDB8099</td><td class="pos">noun [masculine]</td><td class="gloss">spice-mixture, perfume</td></tr>
+<tr><td><a href="../Entries/BDB8100.html"><span class="hw">רַקָּח</span></a></td><td class="bdb-id">BDB8100</td><td class="pos">noun masculine</td><td class="gloss">ointment-maker, perfumer</td></tr>
+<tr><td><a href="../Entries/BDB8101.html"><span class="hw">רקָּחָה</span></a></td><td class="bdb-id">BDB8101</td><td class="pos">noun feminine</td><td class="gloss">ointment-maker, perfumer</td></tr>
+<tr><td><a href="../Entries/BDB8102.html"><span class="hw">רִקּוּחַ</span></a></td><td class="bdb-id">BDB8102</td><td class="pos">noun [masculine]</td><td class="gloss">perfumery</td></tr>
+<tr><td><a href="../Entries/BDB8106.html"><span class="hw">רָקַם</span></a></td><td class="bdb-id">BDB8106</td><td class="pos">verb</td><td class="gloss">variegate</td></tr>
+<tr><td><a href="../Entries/BDB8107.html"><span class="hw">רִקְמָה</span></a></td><td class="bdb-id">BDB8107</td><td class="pos">noun feminine</td><td class="gloss">variegated stuff</td></tr>
+<tr><td><a href="../Entries/BDB8108.html"><span class="hw">רֶ֫קֶם</span></a></td><td class="bdb-id">BDB8108</td><td class="pos">proper name</td><td class="gloss">a king of Midian</td></tr>
+<tr><td><a href="../Entries/BDB8109.html"><span class="hw">רָקַע</span></a></td><td class="bdb-id">BDB8109</td><td class="pos">verb</td><td class="gloss">beat, stamp, beat out, spread out</td></tr>
+<tr><td><a href="../Entries/BDB8110.html"><span class="hw">רָקִיעַ</span></a></td><td class="bdb-id">BDB8110</td><td class="pos">noun masculine</td><td class="gloss">extended surface</td></tr>
+<tr><td><a href="../Entries/BDB8111.html"><span class="hw">רִקּוּעַ</span></a></td><td class="bdb-id">BDB8111</td><td class="pos">noun [masculine]</td><td class="gloss">expansion</td></tr>
+<tr><td><a href="../Entries/BDB8112.html"><span class="hw">רקק</span></a></td><td class="bdb-id">BDB8112</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries/BDB8113.html"><span class="hw">רַק</span></a></td><td class="bdb-id">BDB8113</td><td class="pos">adjective</td><td class="gloss">thin</td></tr>
+<tr><td><a href="../Entries/BDB8114.html"><span class="hw">רָקִיק</span></a></td><td class="bdb-id">BDB8114</td><td class="pos">noun masculine</td><td class="gloss">a thin cake</td></tr>
+<tr><td><a href="../Entries/BDB8115.html"><span class="hw">רַקָּה</span></a></td><td class="bdb-id">BDB8115</td><td class="pos">noun feminine</td><td class="gloss">the temple</td></tr>
+<tr><td><a href="../Entries/BDB8116.html"><span class="hw">רָקַק</span></a></td><td class="bdb-id">BDB8116</td><td class="pos">verb</td><td class="gloss">spit</td></tr>
+<tr><td><a href="../Entries/BDB8117.html"><span class="hw">רֹק</span></a></td><td class="bdb-id">BDB8117</td><td class="pos">noun [masculine]</td><td class="gloss">spittle</td></tr>
+<tr><td><a href="../Entries/BDB8118.html"><span class="hw">רַקּוֺן</span></a></td><td class="bdb-id">BDB8118</td><td class="pos">proper name [of a location]</td><td class="gloss">in Dan</td></tr>
+<tr><td><a href="../Entries/BDB8119.html"><span class="hw">רַקַּת</span></a></td><td class="bdb-id">BDB8119</td><td class="pos">proper name [of a location]</td><td class="gloss">in Naphtail</td></tr>
+<tr><td><a href="../Entries/BDB8120.html"><span class="hw">רשׁה</span></a></td><td class="bdb-id">BDB8120</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries/BDB8121.html"><span class="hw">רִשְׁיוֺן</span></a></td><td class="bdb-id">BDB8121</td><td class="pos">noun [masculine]</td><td class="gloss">permission</td></tr>
+<tr><td><a href="../Entries/BDB8122.html"><span class="hw">רָשַׁם</span></a></td><td class="bdb-id">BDB8122</td><td class="pos">verb</td><td class="gloss">inscribe, note</td></tr>
+<tr><td><a href="../Entries/BDB8123.html"><span class="hw">רשׁע</span></a></td><td class="bdb-id">BDB8123</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries/BDB8124.html"><span class="hw">רָשָׁע</span></a></td><td class="bdb-id">BDB8124</td><td class="pos">adjective</td><td class="gloss">wicked, criminal</td></tr>
+<tr><td><a href="../Entries/BDB8125.html"><span class="hw">רֶ֫שַׁע</span></a></td><td class="bdb-id">BDB8125</td><td class="pos">noun masculine</td><td class="gloss">wickedness</td></tr>
+<tr><td><a href="../Entries/BDB8126.html"><span class="hw">רָשַׁע</span></a></td><td class="bdb-id">BDB8126</td><td class="pos">verb</td><td class="gloss">be wicked, act wickedly</td></tr>
+<tr><td><a href="../Entries/BDB8127.html"><span class="hw">רִשְׁעָה</span></a></td><td class="bdb-id">BDB8127</td><td class="pos">noun feminine</td><td class="gloss">wickedness</td></tr>
+<tr><td><a href="../Entries/BDB8129.html"><span class="hw">רשׁף</span></a></td><td class="bdb-id">BDB8129</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries/BDB8130.html"><span class="hw">רֶ֫שֶׁף</span></a></td><td class="bdb-id">BDB8130</td><td class="pos">noun masculine</td><td class="gloss">flame, fire-bolt</td></tr>
+<tr><td><a href="../Entries/BDB8131.html"><span class="hw">רֶ֫שֶׁף</span></a></td><td class="bdb-id">BDB8131</td><td class="pos">proper name, masculine</td><td class="gloss">in Ephraim</td></tr>
+<tr><td><a href="../Entries/BDB8132.html"><span class="hw">רָשַׁשׁ</span></a></td><td class="bdb-id">BDB8132</td><td class="pos">verb</td><td class="gloss">beat down, shatter</td></tr>
+<tr><td><a href="../Entries/BDB8133.html"><span class="hw">רֶ֫שֶׁת</span></a></td><td class="bdb-id">BDB8133</td><td class="pos"></td><td class="gloss">see 
+ירשׁ</td></tr>
+<tr><td><a href="../Entries/BDB8134.html"><span class="hw">רָתַח</span></a></td><td class="bdb-id">BDB8134</td><td class="pos">verb</td><td class="gloss">boil</td></tr>
+<tr><td><a href="../Entries/BDB8135.html"><span class="hw">רֶ֫תַח</span></a></td><td class="bdb-id">BDB8135</td><td class="pos">noun [masculine]</td><td class="gloss">boiling</td></tr>
+<tr><td><a href="../Entries/BDB8136.html"><span class="hw">רָתַם</span></a></td><td class="bdb-id">BDB8136</td><td class="pos">verb</td><td class="gloss">bind, attach</td></tr>
+<tr><td><a href="../Entries/BDB8137.html"><span class="hw">רֹ֫תֶם</span></a></td><td class="bdb-id">BDB8137</td><td class="pos">noun masculine</td><td class="gloss">broom-plant, retem</td></tr>
+<tr><td><a href="../Entries/BDB8138.html"><span class="hw">רִתְמָה</span></a></td><td class="bdb-id">BDB8138</td><td class="pos">proper name [of a location]</td><td class="gloss">station in wilderness</td></tr>
+<tr><td><a href="../Entries/BDB8139.html"><span class="hw">רָתַק</span></a></td><td class="bdb-id">BDB8139</td><td class="pos">verb</td><td class="gloss">bind</td></tr>
+<tr><td><a href="../Entries/BDB8140.html"><span class="hw">רְתֻקָה</span></a></td><td class="bdb-id">BDB8140</td><td class="pos">noun [feminine]</td><td class="gloss">chain (?)</td></tr>
+<tr><td><a href="../Entries/BDB8141.html"><span class="hw">רַתּוֺק</span></a></td><td class="bdb-id">BDB8141</td><td class="pos">noun [masculine]</td><td class="gloss">chain</td></tr>
+<tr><td><a href="../Entries/BDB8142.html"><span class="hw">רַתּוּקוֺת</span></a></td><td class="bdb-id">BDB8142</td><td class="pos"></td><td class="gloss">see foregoing</td></tr>
+<tr><td><a href="../Entries/BDB8143.html"><span class="hw">רתת</span></a></td><td class="bdb-id">BDB8143</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries/BDB8144.html"><span class="hw">רְתֵת</span></a></td><td class="bdb-id">BDB8144</td><td class="pos">noun [masculine]</td><td class="gloss">trembling</td></tr>
+<tr><td><a href="../Entries/BDB9877.html"><span class="hw">רֵו</span></a></td><td class="bdb-id">BDB9877</td><td class="pos">noun masculine</td><td class="gloss">appearance</td></tr>
+<tr><td><a href="../Entries/BDB9878.html"><span class="hw">רֵאשׁ</span></a></td><td class="bdb-id">BDB9878</td><td class="pos">noun masculine</td><td class="gloss">head</td></tr>
+<tr><td><a href="../Entries/BDB9879.html"><span class="hw">רבב</span></a></td><td class="bdb-id">BDB9879</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries/BDB9880.html"><span class="hw">רַב</span></a></td><td class="bdb-id">BDB9880</td><td class="pos">adjective</td><td class="gloss">great</td></tr>
+<tr><td><a href="../Entries/BDB9881.html"><span class="hw">רִבּוֺ</span></a></td><td class="bdb-id">BDB9881</td><td class="pos">noun feminine</td><td class="gloss">myriad</td></tr>
+<tr><td><a href="../Entries/BDB9882.html"><span class="hw">רַבְרְבָן</span></a></td><td class="bdb-id">BDB9882</td><td class="pos">noun masculine</td><td class="gloss">lord, noble</td></tr>
+<tr><td><a href="../Entries/BDB9883.html"><span class="hw">רְבָה</span></a></td><td class="bdb-id">BDB9883</td><td class="pos">verb</td><td class="gloss">grow great</td></tr>
+<tr><td><a href="../Entries/BDB9884.html"><span class="hw">רְבוּ</span></a></td><td class="bdb-id">BDB9884</td><td class="pos">noun feminine</td><td class="gloss">greatness</td></tr>
+<tr><td><a href="../Entries/BDB9885.html"><span class="hw">רבע</span></a></td><td class="bdb-id">BDB9885</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries/BDB9887.html"><span class="hw">רְבִיעִי</span></a></td><td class="bdb-id">BDB9887</td><td class="pos">adjective [ordinal number]</td><td class="gloss">fourth</td></tr>
+<tr><td><a href="../Entries/BDB9888.html"><span class="hw">רְגַז</span></a></td><td class="bdb-id">BDB9888</td><td class="pos">verb</td><td class="gloss">enrage</td></tr>
+<tr><td><a href="../Entries/BDB9889.html"><span class="hw">רְּגַז</span></a></td><td class="bdb-id">BDB9889</td><td class="pos">noun masculine</td><td class="gloss">rage</td></tr>
+<tr><td><a href="../Entries/BDB9890.html"><span class="hw">רְגַל</span></a></td><td class="bdb-id">BDB9890</td><td class="pos">noun [feminine]</td><td class="gloss">foot</td></tr>
+<tr><td><a href="../Entries/BDB9891.html"><span class="hw">רְגַשׁ</span></a></td><td class="bdb-id">BDB9891</td><td class="pos">verb</td><td class="gloss">be in tumult</td></tr>
+<tr><td><a href="../Entries/BDB9892.html"><span class="hw">רוח</span></a></td><td class="bdb-id">BDB9892</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries/BDB9893.html"><span class="hw">רוּחַ</span></a></td><td class="bdb-id">BDB9893</td><td class="pos">noun feminine</td><td class="gloss">wind, spirit</td></tr>
+<tr><td><a href="../Entries/BDB9894.html"><span class="hw">רֵיחַ</span></a></td><td class="bdb-id">BDB9894</td><td class="pos">noun feminine</td><td class="gloss">smell</td></tr>
+<tr><td><a href="../Entries/BDB9895.html"><span class="hw">רוּם</span></a></td><td class="bdb-id">BDB9895</td><td class="pos">verb</td><td class="gloss">rise</td></tr>
+<tr><td><a href="../Entries/BDB9896.html"><span class="hw">רוּם</span></a></td><td class="bdb-id">BDB9896</td><td class="pos">noun masculine</td><td class="gloss">height</td></tr>
+<tr><td><a href="../Entries/BDB9897.html"><span class="hw">רָז</span></a></td><td class="bdb-id">BDB9897</td><td class="pos">noun masculine</td><td class="gloss">secret</td></tr>
+<tr><td><a href="../Entries/BDB9898.html"><span class="hw">רְחוּם</span></a></td><td class="bdb-id">BDB9898</td><td class="pos">proper name, masculine</td><td class="gloss">Persian official</td></tr>
+<tr><td><a href="../Entries/BDB9899.html"><span class="hw">רַחֲמִין</span></a></td><td class="bdb-id">BDB9899</td><td class="pos">noun [masculine] plural</td><td class="gloss">compassion</td></tr>
+<tr><td><a href="../Entries/BDB9900.html"><span class="hw">רְחַץ</span></a></td><td class="bdb-id">BDB9900</td><td class="pos">verb</td><td class="gloss">trust</td></tr>
+<tr><td><a href="../Entries/BDB9901.html"><span class="hw">רחק</span></a></td><td class="bdb-id">BDB9901</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries/BDB9902.html"><span class="hw">רְחִיק</span></a></td><td class="bdb-id">BDB9902</td><td class="pos">adjective</td><td class="gloss">far</td></tr>
+<tr><td><a href="../Entries/BDB9903.html"><span class="hw">רְמָא</span></a></td><td class="bdb-id">BDB9903</td><td class="pos">verb</td><td class="gloss">cast, throw</td></tr>
+<tr><td><a href="../Entries/BDB9904.html"><span class="hw">רעה</span></a></td><td class="bdb-id">BDB9904</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries/BDB9905.html"><span class="hw">רְעוּ</span></a></td><td class="bdb-id">BDB9905</td><td class="pos">noun feminine</td><td class="gloss">good pleasure, will</td></tr>
+<tr><td><a href="../Entries/BDB9906.html"><span class="hw">רַעְיוֺן</span></a></td><td class="bdb-id">BDB9906</td><td class="pos">noun masculine</td><td class="gloss">thought</td></tr>
+<tr><td><a href="../Entries/BDB9907.html"><span class="hw">רַעֲנַן</span></a></td><td class="bdb-id">BDB9907</td><td class="pos">adjective</td><td class="gloss">flourishing</td></tr>
+<tr><td><a href="../Entries/BDB9908.html"><span class="hw">רְעַע</span></a></td><td class="bdb-id">BDB9908</td><td class="pos">verb</td><td class="gloss">crush, shatter</td></tr>
+<tr><td><a href="../Entries/BDB9909.html"><span class="hw">רְפַס</span></a></td><td class="bdb-id">BDB9909</td><td class="pos">verb</td><td class="gloss">tread, trample</td></tr>
+<tr><td><a href="../Entries/BDB9910.html"><span class="hw">רְשַׁם</span></a></td><td class="bdb-id">BDB9910</td><td class="pos">verb</td><td class="gloss">inscribe, sign</td></tr>
+</tbody></table>
+</div>
+</body>
+</html>

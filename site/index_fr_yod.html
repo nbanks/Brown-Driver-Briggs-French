@@ -1,0 +1,637 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Yod (י) — BDB Français</title>
+<style>* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+       background: #fafaf9; color: #1c1917; line-height: 1.5; }
+.container { max-width: 960px; margin: 0 auto; padding: 1.5em 1em; }
+h1 { font-size: 1.6em; margin-bottom: 0.3em; color: #292524; }
+h2 { font-size: 1.2em; margin: 1em 0 0.5em; color: #44403c; }
+.subtitle { color: #78716c; font-size: 0.95em; margin-bottom: 1.2em; }
+a { color: #2563eb; text-decoration: none; }
+a:hover { text-decoration: underline; }
+.nav { margin-bottom: 1.5em; font-size: 0.9em; }
+.nav a { margin-right: 0.8em; }
+
+/* Alphabet grid */
+.alpha-grid { display: flex; flex-wrap: wrap; gap: 8px; margin: 1em 0; }
+.alpha-card { display: flex; flex-direction: column; align-items: center;
+              padding: 10px 14px; border: 1px solid #d6d3d1; border-radius: 8px;
+              background: #fff; text-decoration: none !important; color: #1c1917;
+              min-width: 70px; transition: box-shadow 0.15s, border-color 0.15s; }
+.alpha-card:hover { border-color: #2563eb; box-shadow: 0 2px 8px rgba(37,99,235,0.12); }
+.alpha-letter { font-size: 1.8em; direction: rtl; unicode-bidi: isolate; }
+.alpha-name { font-size: 0.75em; color: #78716c; }
+.alpha-count { font-size: 0.7em; color: #a8a29e; margin-top: 2px; }
+
+/* Search */
+.search-box { width: 100%; padding: 8px 12px; font-size: 1em; border: 1px solid #d6d3d1;
+              border-radius: 6px; margin-bottom: 1em; }
+.search-box:focus { outline: none; border-color: #2563eb; box-shadow: 0 0 0 3px rgba(37,99,235,0.1); }
+
+/* Entry table */
+table { width: 100%; border-collapse: collapse; }
+th { text-align: left; padding: 6px 8px; border-bottom: 2px solid #d6d3d1;
+     font-size: 0.8em; color: #78716c; text-transform: uppercase; letter-spacing: 0.05em;
+     position: sticky; top: 0; background: #fafaf9; z-index: 1; }
+td { padding: 5px 8px; border-bottom: 1px solid #e7e5e4; vertical-align: top; }
+tr:hover { background: #f5f5f4; }
+.hw { font-size: 1.15em; direction: rtl; unicode-bidi: isolate; }
+.pos { color: #78716c; font-size: 0.85em; font-style: italic; }
+.gloss { color: #292524; }
+.bdb-id { color: #a8a29e; font-size: 0.8em; }
+.count-info { color: #78716c; font-size: 0.9em; margin-bottom: 1em; }
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    var input = document.getElementById('search');
+    if (!input) return;
+    var rows = document.querySelectorAll('tbody tr');
+    input.addEventListener('input', function() {
+        var q = this.value.toLowerCase();
+        rows.forEach(function(r) {
+            r.style.display = r.textContent.toLowerCase().indexOf(q) >= 0 ? '' : 'none';
+        });
+    });
+});
+</script>
+
+</head>
+<body>
+<div class="container">
+<div class="nav"><a href="index_fr.html">Index</a> | <a href="index_fr_all.html">Toutes les entrées</a> | <a href="index_en_yod.html">English</a></div><h1><span class="hw" style="font-size:1.4em">י</span> Yod — Français</h1><p class="count-info">567 entrées</p><input type="text" id="search" class="search-box" placeholder="Rechercher..."><table><thead><tr><th>Mot</th><th>ID</th><th>Cat.</th><th>Glose</th></tr></thead><tbody>
+<tr><td><a href="../Entries_fr/BDB1010.html"><span class="hw">יִבְחָר</span></a></td><td class="bdb-id">BDB1010</td><td class="pos">nom propre, masculin</td><td class="gloss">fils de David</td></tr>
+<tr><td><a href="../Entries_fr/BDB1040.html"><span class="hw">יָבִין</span></a></td><td class="bdb-id">BDB1040</td><td class="pos">nom propre, masculin</td><td class="gloss">deux rois cananéens de Hatsor</td></tr>
+<tr><td><a href="../Entries_fr/BDB1191.html"><span class="hw">יַבְנְאֵל</span></a></td><td class="bdb-id">BDB1191</td><td class="pos">nom propre [d&#x27;un lieu]</td><td class="gloss">ville en Juda</td></tr>
+<tr><td><a href="../Entries_fr/BDB1192.html"><span class="hw">יַבְנֶה</span></a></td><td class="bdb-id">BDB1192</td><td class="pos">nom propre [d&#x27;un lieu]</td><td class="gloss">une ville philistine</td></tr>
+<tr><td><a href="../Entries_fr/BDB1193.html"><span class="hw">יִבְנְיָה</span></a></td><td class="bdb-id">BDB1193</td><td class="pos">nom propre, masculin</td><td class="gloss">un Benjaminite</td></tr>
+<tr><td><a href="../Entries_fr/BDB1194.html"><span class="hw">יִבְנְיָה</span></a></td><td class="bdb-id">BDB1194</td><td class="pos">nom propre, masculin</td><td class="gloss">un Benjaminite</td></tr>
+<tr><td><a href="../Entries_fr/BDB1289.html"><span class="hw">יַבֹּק</span></a></td><td class="bdb-id">BDB1289</td><td class="pos">nom propre [d&#x27;un cours d&#x27;eau]</td><td class="gloss">il se jette dans le Jourdain par l&#x27;est, à la latitude de Sichem</td></tr>
+<tr><td><a href="../Entries_fr/BDB1337.html"><span class="hw">יְבֶרֶכְיָ֫הוּ</span></a></td><td class="bdb-id">BDB1337</td><td class="pos">nom propre, masculin</td><td class="gloss">père d&#x27;un Zacharie au temps d&#x27;Ésaïe</td></tr>
+<tr><td><a href="../Entries_fr/BDB1365.html"><span class="hw">יִבְשָׂם</span></a></td><td class="bdb-id">BDB1365</td><td class="pos">nom propre, masculin</td><td class="gloss">un descendant d&#x27;Issacar</td></tr>
+<tr><td><a href="../Entries_fr/BDB1408.html"><span class="hw">יִגְאָל</span></a></td><td class="bdb-id">BDB1408</td><td class="pos">nom propre, masculin</td><td class="gloss">un des espions</td></tr>
+<tr><td><a href="../Entries_fr/BDB1430.html"><span class="hw">יָגְבְּהָה</span></a></td><td class="bdb-id">BDB1430</td><td class="pos">nom propre</td><td class="gloss">lieu dans la tribu de Gad</td></tr>
+<tr><td><a href="../Entries_fr/BDB1505.html"><span class="hw">יִגְדַּלְיָ֫הוּ</span></a></td><td class="bdb-id">BDB1505</td><td class="pos">nom propre, masculin</td><td class="gloss">un prophète de l&#x27;époque de Josias</td></tr>
+<tr><td><a href="../Entries_fr/BDB1567.html"><span class="hw">יָגוּר</span></a></td><td class="bdb-id">BDB1567</td><td class="pos">nom propre [d&#x27;un lieu]</td><td class="gloss">une ville méridionale de Juda, vers Édom</td></tr>
+<tr><td><a href="../Entries_fr/BDB1641.html"><span class="hw">יָגְלִי</span></a></td><td class="bdb-id">BDB1641</td><td class="pos">nom propre, masculin</td><td class="gloss">chef de la tribu de Dan</td></tr>
+<tr><td><a href="../Entries_fr/BDB1834.html"><span class="hw">יִדְבָּשׁ</span></a></td><td class="bdb-id">BDB1834</td><td class="pos">nom propre, masculin</td><td class="gloss">un fils d&#x27;Étam ?</td></tr>
+<tr><td><a href="../Entries_fr/BDB1928.html"><span class="hw">יָדוֺן</span></a></td><td class="bdb-id">BDB1928</td><td class="pos">nom propre, masculin</td><td class="gloss">un Méronothite, un des bâtisseurs des murs de Jérusalem</td></tr>
+<tr><td><a href="../Entries_fr/BDB2067.html"><span class="hw">יַהְדַּי</span></a></td><td class="bdb-id">BDB2067</td><td class="pos">nom propre, masculin</td><td class="gloss">un membre de la famille de Caleb</td></tr>
+<tr><td><a href="../Entries_fr/BDB2100.html"><span class="hw">יהוה</span></a></td><td class="bdb-id">BDB2100</td><td class="pos">nom propre [d&#x27;une divinité]</td><td class="gloss">Yahvé</td></tr>
+<tr><td><a href="../Entries_fr/BDB2101.html"><span class="hw">יָהּ</span></a></td><td class="bdb-id">BDB2101</td><td class="pos">nom propre [d&#x27;une divinité]</td><td class="gloss">contracté de יהוה</td></tr>
+<tr><td><a href="../Entries_fr/BDB2102.html"><span class="hw">יֵהוּא</span></a></td><td class="bdb-id">BDB2102</td><td class="pos">nom propre, masculin</td><td class="gloss">roi d&#x27;Israël qui renversa la dynastie d&#x27;Omri</td></tr>
+<tr><td><a href="../Entries_fr/BDB2103.html"><span class="hw">יְהוֺאָחָז</span></a></td><td class="bdb-id">BDB2103</td><td class="pos">nom propre, masculin</td><td class="gloss">roi de Juda, fils de Josias</td></tr>
+<tr><td><a href="../Entries_fr/BDB2104.html"><span class="hw">יְהוֺאָשׁ</span></a></td><td class="bdb-id">BDB2104</td><td class="pos"></td><td class="gloss">roi de Juda, fils d&#x27;Achazia (Joachaz 3)</td></tr>
+<tr><td><a href="../Entries_fr/BDB2105.html"><span class="hw">יְהוֺזָבָד</span></a></td><td class="bdb-id">BDB2105</td><td class="pos">nom propre, masculin</td><td class="gloss">serviteur et meurtrier de Joas de Juda</td></tr>
+<tr><td><a href="../Entries_fr/BDB2106.html"><span class="hw">יְהוֺחָנָן</span></a></td><td class="bdb-id">BDB2106</td><td class="pos">nom propre, masculin</td><td class="gloss">un prêtre</td></tr>
+<tr><td><a href="../Entries_fr/BDB2107.html"><span class="hw">יְהוֺיָדָע</span></a></td><td class="bdb-id">BDB2107</td><td class="pos">nom propre, masculin</td><td class="gloss">père de Benayahu (temps de David)</td></tr>
+<tr><td><a href="../Entries_fr/BDB2108.html"><span class="hw">יְהוֺיָכִין</span></a></td><td class="bdb-id">BDB2108</td><td class="pos">nom propre, masculin</td><td class="gloss">avant-dernier roi de Juda, fils de Joiaqim</td></tr>
+<tr><td><a href="../Entries_fr/BDB2109.html"><span class="hw">יְהוֺיָקִים</span></a></td><td class="bdb-id">BDB2109</td><td class="pos">nom propre, masculin</td><td class="gloss">un des derniers rois de Juda, fils de Josias</td></tr>
+<tr><td><a href="../Entries_fr/BDB2110.html"><span class="hw">יְהוֺיָרִיב</span></a></td><td class="bdb-id">BDB2110</td><td class="pos">nom propre, masculin</td><td class="gloss">nom d&#x27;une famille sacerdotale</td></tr>
+<tr><td><a href="../Entries_fr/BDB2111.html"><span class="hw">יְהוּכַל</span></a></td><td class="bdb-id">BDB2111</td><td class="pos">nom propre, masculin</td><td class="gloss">un courtisan du roi Sédécias</td></tr>
+<tr><td><a href="../Entries_fr/BDB2112.html"><span class="hw">יְהוֺנָדָב</span></a></td><td class="bdb-id">BDB2112</td><td class="pos">nom propre, masculin</td><td class="gloss">fils de Récab et chef des Récabites</td></tr>
+<tr><td><a href="../Entries_fr/BDB2113.html"><span class="hw">יְהוֺנָתָן</span></a></td><td class="bdb-id">BDB2113</td><td class="pos">nom propre, masculin</td><td class="gloss">fils de Saül</td></tr>
+<tr><td><a href="../Entries_fr/BDB2114.html"><span class="hw">יְהוֺעַדָּה</span></a></td><td class="bdb-id">BDB2114</td><td class="pos">nom propre, masculin</td><td class="gloss">un descendant de Saül</td></tr>
+<tr><td><a href="../Entries_fr/BDB2115.html"><span class="hw">יהועדין</span></a></td><td class="bdb-id">BDB2115</td><td class="pos"></td><td class="gloss">voir ce qui suit</td></tr>
+<tr><td><a href="../Entries_fr/BDB2116.html"><span class="hw">יְהוֺעַדָּן</span></a></td><td class="bdb-id">BDB2116</td><td class="pos">nom propre, féminin</td><td class="gloss">mère d&#x27;Amatsia, roi de Juda</td></tr>
+<tr><td><a href="../Entries_fr/BDB2117.html"><span class="hw">יְהוֺצָדָק</span></a></td><td class="bdb-id">BDB2117</td><td class="pos">nom propre, masculin</td><td class="gloss">père de Josué le grand prêtre</td></tr>
+<tr><td><a href="../Entries_fr/BDB2118.html"><span class="hw">יְהוֺרָם</span></a></td><td class="bdb-id">BDB2118</td><td class="pos">nom propre, masculin</td><td class="gloss">roi de Juda, fils de Josaphat</td></tr>
+<tr><td><a href="../Entries_fr/BDB2119.html"><span class="hw">יְהוֺשֶׁ֫בַע</span></a></td><td class="bdb-id">BDB2119</td><td class="pos">nom propre, féminin</td><td class="gloss">fille de Joram de Juda, et épouse de Joïada le prêtre</td></tr>
+<tr><td><a href="../Entries_fr/BDB2120.html"><span class="hw">יְהוֺשׁוּעַ</span></a></td><td class="bdb-id">BDB2120</td><td class="pos">nom propre, masculin</td><td class="gloss">successeur de Moïse, fils de Nun</td></tr>
+<tr><td><a href="../Entries_fr/BDB2121.html"><span class="hw">יְהוֺשָׁמָע</span></a></td><td class="bdb-id">BDB2121</td><td class="pos">nom propre, masculin</td><td class="gloss">seulement abrégé (ou erreur textuelle</td></tr>
+<tr><td><a href="../Entries_fr/BDB2122.html"><span class="hw">יְהוֺשָׁפָט</span></a></td><td class="bdb-id">BDB2122</td><td class="pos">nom propre, masculin</td><td class="gloss">roi de Juda, fils d&#x27;Asa</td></tr>
+<tr><td><a href="../Entries_fr/BDB2123.html"><span class="hw">יוֺאָב</span></a></td><td class="bdb-id">BDB2123</td><td class="pos">nom propre, masculin</td><td class="gloss">fils de la sœur de David et capitaine de son armée</td></tr>
+<tr><td><a href="../Entries_fr/BDB2124.html"><span class="hw">יוֺאָח</span></a></td><td class="bdb-id">BDB2124</td><td class="pos">nom propre, masculin</td><td class="gloss">fils d&#x27;Asaph le chroniqueur au temps d&#x27;Ézéchias</td></tr>
+<tr><td><a href="../Entries_fr/BDB2125.html"><span class="hw">יוֺאֵל</span></a></td><td class="bdb-id">BDB2125</td><td class="pos">nom propre, masculin</td><td class="gloss">premier-né de Samuel</td></tr>
+<tr><td><a href="../Entries_fr/BDB2126.html"><span class="hw">יוֺזָכָר</span></a></td><td class="bdb-id">BDB2126</td><td class="pos">nom propre, masculin</td><td class="gloss">serviteur et meurtrier de Joas roi de Juda</td></tr>
+<tr><td><a href="../Entries_fr/BDB2127.html"><span class="hw">יוֺכֶ֫בֶד</span></a></td><td class="bdb-id">BDB2127</td><td class="pos">nom propre, féminin</td><td class="gloss">fille de Lévi, épouse d&#x27;Amram et mère de Moïse</td></tr>
+<tr><td><a href="../Entries_fr/BDB2128.html"><span class="hw">יוֺעֵד</span></a></td><td class="bdb-id">BDB2128</td><td class="pos">nom propre, masculin</td><td class="gloss">un Benjaminite</td></tr>
+<tr><td><a href="../Entries_fr/BDB2129.html"><span class="hw">יוֺעֶ֫זֶר</span></a></td><td class="bdb-id">BDB2129</td><td class="pos">nom propre, masculin</td><td class="gloss">un des vaillants hommes de David</td></tr>
+<tr><td><a href="../Entries_fr/BDB2130.html"><span class="hw">יוֺעָשׁ</span></a></td><td class="bdb-id">BDB2130</td><td class="pos">nom propre, masculin</td><td class="gloss">un Benjaminite, fils de Béker</td></tr>
+<tr><td><a href="../Entries_fr/BDB2131.html"><span class="hw">יוֺתָם</span></a></td><td class="bdb-id">BDB2131</td><td class="pos">nom propre, masculin</td><td class="gloss">׳ י est parfait</td></tr>
+<tr><td><a href="../Entries_fr/BDB2175.html"><span class="hw">יְהַלֶּלְאֵל</span></a></td><td class="bdb-id">BDB2175</td><td class="pos">nom propre [masculin]</td><td class="gloss">un homme de Juda</td></tr>
+<tr><td><a href="../Entries_fr/BDB2182.html"><span class="hw">יַהֲלֹם</span></a></td><td class="bdb-id">BDB2182</td><td class="pos">nom [masculin]</td><td class="gloss">jaspe ?</td></tr>
+<tr><td><a href="../Entries_fr/BDB2312.html"><span class="hw">יָזִיז</span></a></td><td class="bdb-id">BDB2312</td><td class="pos">nom propre, masculin</td><td class="gloss">un officier de David</td></tr>
+<tr><td><a href="../Entries_fr/BDB2367.html"><span class="hw">יִזְלִיאָה</span></a></td><td class="bdb-id">BDB2367</td><td class="pos">nom propre, masculin</td><td class="gloss">un Benjaminite</td></tr>
+<tr><td><a href="../Entries_fr/BDB2457.html"><span class="hw">יִזְרָ֑ח</span></a></td><td class="bdb-id">BDB2457</td><td class="pos">adjectif [d&#x27;un peuple]</td><td class="gloss">seulement dans ׳ שַׁמְהוּת הַיּ</td></tr>
+<tr><td><a href="../Entries_fr/BDB2458.html"><span class="hw">יִזְרַחְיָה</span></a></td><td class="bdb-id">BDB2458</td><td class="pos">nom propre, masculin</td><td class="gloss">un homme d&#x27;Issacar</td></tr>
+<tr><td><a href="../Entries_fr/BDB2468.html"><span class="hw">יִזְרְעֶאל</span></a></td><td class="bdb-id">BDB2468</td><td class="pos">nom propre [d&#x27;un lieu]</td><td class="gloss">ville dans le Néguev de Juda</td></tr>
+<tr><td><a href="../Entries_fr/BDB2469.html"><span class="hw">יִזְרְעֵאלִי</span></a></td><td class="bdb-id">BDB2469</td><td class="pos">masculin</td><td class="gloss">de יִזְרְעֶאל 1.b.</td></tr>
+<tr><td><a href="../Entries_fr/BDB248.html"><span class="hw">יָאִיר</span></a></td><td class="bdb-id">BDB248</td><td class="pos">nom propre, masculin</td><td class="gloss">fils de Manassé</td></tr>
+<tr><td><a href="../Entries_fr/BDB249.html"><span class="hw">יָאִירִי</span></a></td><td class="bdb-id">BDB249</td><td class="pos">adjectif [d&#x27;un peuple]</td><td class="gloss">Yaïrite</td></tr>
+<tr><td><a href="../Entries_fr/BDB2565.html"><span class="hw">יַחְדִּיאֵל</span></a></td><td class="bdb-id">BDB2565</td><td class="pos">nom propre, masculin</td><td class="gloss">un chef de Manassé</td></tr>
+<tr><td><a href="../Entries_fr/BDB2566.html"><span class="hw">יֶחְדְּיָ֫הוּ</span></a></td><td class="bdb-id">BDB2566</td><td class="pos">nom propre, masculin</td><td class="gloss">un lévite</td></tr>
+<tr><td><a href="../Entries_fr/BDB2594.html"><span class="hw">יחואל</span></a></td><td class="bdb-id">BDB2594</td><td class="pos">nom propre, masculin</td><td class="gloss">q. v. ci-dessous חיה</td></tr>
+<tr><td><a href="../Entries_fr/BDB2670.html"><span class="hw">יַחֲזִיאֵל</span></a></td><td class="bdb-id">BDB2670</td><td class="pos">nom propre, masculin</td><td class="gloss">guerrier benjaminite de David</td></tr>
+<tr><td><a href="../Entries_fr/BDB2671.html"><span class="hw">יַחְזְיָה</span></a></td><td class="bdb-id">BDB2671</td><td class="pos">nom propre, masculin</td><td class="gloss">un prince de la restauration</td></tr>
+<tr><td><a href="../Entries_fr/BDB2689.html"><span class="hw">יְחֶזְקֵאל</span></a></td><td class="bdb-id">BDB2689</td><td class="pos">nom propre, masculin</td><td class="gloss">Dieu fortifie</td></tr>
+<tr><td><a href="../Entries_fr/BDB2693.html"><span class="hw">יַחְזֵרָה</span></a></td><td class="bdb-id">BDB2693</td><td class="pos">nom propre, masculin</td><td class="gloss">comparer אֲחַזְיָהוּ</td></tr>
+<tr><td><a href="../Entries_fr/BDB270.html"><span class="hw">יַאֲזַנְיָ֫הוּ</span></a></td><td class="bdb-id">BDB270</td><td class="pos">nom propre, masculin</td><td class="gloss">un Judéen</td></tr>
+<tr><td><a href="../Entries_fr/BDB2725.html"><span class="hw">יְחִיאֵל</span></a></td><td class="bdb-id">BDB2725</td><td class="pos">nom propre, masculin</td><td class="gloss">un des principaux musiciens de David</td></tr>
+<tr><td><a href="../Entries_fr/BDB2726.html"><span class="hw">יְחִיאֵלִי</span></a></td><td class="bdb-id">BDB2726</td><td class="pos">nom propre, masculin</td><td class="gloss">(patronymique)</td></tr>
+<tr><td><a href="../Entries_fr/BDB2727.html"><span class="hw">יְחִיָּה</span></a></td><td class="bdb-id">BDB2727</td><td class="pos">nom propre, masculin</td><td class="gloss">gardien de l&#x27;arche</td></tr>
+<tr><td><a href="../Entries_fr/BDB2850.html"><span class="hw">יַחְמַי</span></a></td><td class="bdb-id">BDB2850</td><td class="pos">nom propre, masculin</td><td class="gloss">un homme d&#x27;Issacar</td></tr>
+<tr><td><a href="../Entries_fr/BDB2898.html"><span class="hw">יַחְמוּר</span></a></td><td class="bdb-id">BDB2898</td><td class="pos">nom [masculin]</td><td class="gloss">chevreuil</td></tr>
+<tr><td><a href="../Entries_fr/BDB3034.html"><span class="hw">יַחְצְאֵל</span></a></td><td class="bdb-id">BDB3034</td><td class="pos">nom propre, masculin</td><td class="gloss">fils de Nephtali</td></tr>
+<tr><td><a href="../Entries_fr/BDB3035.html"><span class="hw">יַחְצְאֵלִי</span></a></td><td class="bdb-id">BDB3035</td><td class="pos">adjectif [d&#x27;un peuple]</td><td class="gloss">du précédent ; seulement avec l&#x27;article comme nom propre collectif</td></tr>
+<tr><td><a href="../Entries_fr/BDB3244.html"><span class="hw">יַ֫חַת</span></a></td><td class="bdb-id">BDB3244</td><td class="pos">nom propre, masculin</td><td class="gloss">petit-fils de Juda</td></tr>
+<tr><td><a href="../Entries_fr/BDB3324.html"><span class="hw">יְטוּר</span></a></td><td class="bdb-id">BDB3324</td><td class="pos">nom propre, masculin et [d&#x27;un peuple]</td><td class="gloss">un « fils » d&#x27;Ismaël</td></tr>
+<tr><td><a href="../Entries_fr/BDB3384.html"><span class="hw">י</span></a></td><td class="bdb-id">BDB3384</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3385.html"><span class="hw">יָאַב</span></a></td><td class="bdb-id">BDB3385</td><td class="pos">verbe</td><td class="gloss">aspirer à, désirer</td></tr>
+<tr><td><a href="../Entries_fr/BDB3386.html"><span class="hw">יָאָה</span></a></td><td class="bdb-id">BDB3386</td><td class="pos">verbe</td><td class="gloss">convenir, être convenable</td></tr>
+<tr><td><a href="../Entries_fr/BDB3387.html"><span class="hw">יָאַל</span></a></td><td class="bdb-id">BDB3387</td><td class="pos">verbe</td><td class="gloss">être insensé</td></tr>
+<tr><td><a href="../Entries_fr/BDB3388.html"><span class="hw">יָאַל</span></a></td><td class="bdb-id">BDB3388</td><td class="pos">verbe</td><td class="gloss">montrer sa volonté, consentir, se résoudre, entreprendre</td></tr>
+<tr><td><a href="../Entries_fr/BDB3389.html"><span class="hw">יְאֹר</span></a></td><td class="bdb-id">BDB3389</td><td class="pos">nom masculin</td><td class="gloss">fleuve</td></tr>
+<tr><td><a href="../Entries_fr/BDB3390.html"><span class="hw">יָאַשׁ</span></a></td><td class="bdb-id">BDB3390</td><td class="pos">verbe</td><td class="gloss">désespérer</td></tr>
+<tr><td><a href="../Entries_fr/BDB3391.html"><span class="hw">יְאָֽתְרַי</span></a></td><td class="bdb-id">BDB3391</td><td class="pos">nom propre, masculin</td><td class="gloss">un ancêtre d&#x27;Asaph</td></tr>
+<tr><td><a href="../Entries_fr/BDB3392.html"><span class="hw">יָבַב</span></a></td><td class="bdb-id">BDB3392</td><td class="pos">verbe</td><td class="gloss">crier d&#x27;une voix perçante</td></tr>
+<tr><td><a href="../Entries_fr/BDB3393.html"><span class="hw">יוֺבָב</span></a></td><td class="bdb-id">BDB3393</td><td class="pos">nom propre, masculin</td><td class="gloss">« fils » de Yoktân</td></tr>
+<tr><td><a href="../Entries_fr/BDB3394.html"><span class="hw">יָבַל</span></a></td><td class="bdb-id">BDB3394</td><td class="pos">verbe</td><td class="gloss">conduire, porter</td></tr>
+<tr><td><a href="../Entries_fr/BDB3395.html"><span class="hw">יָבָל</span></a></td><td class="bdb-id">BDB3395</td><td class="pos">nom [masculin]</td><td class="gloss">cours d&#x27;eau, ruisseau</td></tr>
+<tr><td><a href="../Entries_fr/BDB3396.html"><span class="hw">יָבָל</span></a></td><td class="bdb-id">BDB3396</td><td class="pos">nom propre, masculin</td><td class="gloss">fils de Lémek par Ada</td></tr>
+<tr><td><a href="../Entries_fr/BDB3397.html"><span class="hw">יוּבַל</span></a></td><td class="bdb-id">BDB3397</td><td class="pos">nom [masculin]</td><td class="gloss">cours d&#x27;eau</td></tr>
+<tr><td><a href="../Entries_fr/BDB3398.html"><span class="hw">יוּבָ֑ל</span></a></td><td class="bdb-id">BDB3398</td><td class="pos">nom propre, masculin</td><td class="gloss">fils de Lémek par Ada</td></tr>
+<tr><td><a href="../Entries_fr/BDB3399.html"><span class="hw">יְבוּל</span></a></td><td class="bdb-id">BDB3399</td><td class="pos">nom masculin</td><td class="gloss">produit</td></tr>
+<tr><td><a href="../Entries_fr/BDB3401.html"><span class="hw">יוֺבֵל</span></a></td><td class="bdb-id">BDB3401</td><td class="pos">nom masculin</td><td class="gloss">bélier, corne de bélier, cornet</td></tr>
+<tr><td><a href="../Entries_fr/BDB3402.html"><span class="hw">יַבָּל</span></a></td><td class="bdb-id">BDB3402</td><td class="pos">adjectif</td><td class="gloss">coulant, suppurant</td></tr>
+<tr><td><a href="../Entries_fr/BDB3405.html"><span class="hw">יִבְלְעָם</span></a></td><td class="bdb-id">BDB3405</td><td class="pos">nom propre [d&#x27;un lieu]</td><td class="gloss">une ville de Manassé en Cisjordanie</td></tr>
+<tr><td><a href="../Entries_fr/BDB3406.html"><span class="hw">יבם</span></a></td><td class="bdb-id">BDB3406</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3407.html"><span class="hw">יָבָם</span></a></td><td class="bdb-id">BDB3407</td><td class="pos">nom masculin</td><td class="gloss">frère du mari</td></tr>
+<tr><td><a href="../Entries_fr/BDB3408.html"><span class="hw">יְבֵ֫מֶת</span></a></td><td class="bdb-id">BDB3408</td><td class="pos">nom féminin</td><td class="gloss">belle-sœur</td></tr>
+<tr><td><a href="../Entries_fr/BDB3409.html"><span class="hw">יָבַם</span></a></td><td class="bdb-id">BDB3409</td><td class="pos">verbe</td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3410.html"><span class="hw">יָבֵשׁ</span></a></td><td class="bdb-id">BDB3410</td><td class="pos">verbe</td><td class="gloss">être sec, desséché, flétri</td></tr>
+<tr><td><a href="../Entries_fr/BDB3411.html"><span class="hw">יָבֵשׁ</span></a></td><td class="bdb-id">BDB3411</td><td class="pos">adjectif verbal</td><td class="gloss">sec, desséché</td></tr>
+<tr><td><a href="../Entries_fr/BDB3412.html"><span class="hw">יָבֵשׁ</span></a></td><td class="bdb-id">BDB3412</td><td class="pos">nom propre [d&#x27;un lieu ou d&#x27;une personne]</td><td class="gloss">site exact inconnu</td></tr>
+<tr><td><a href="../Entries_fr/BDB3413.html"><span class="hw">יַבָּשָׁה</span></a></td><td class="bdb-id">BDB3413</td><td class="pos">nom féminin</td><td class="gloss">terre ferme, sol sec</td></tr>
+<tr><td><a href="../Entries_fr/BDB3414.html"><span class="hw">יַבֶּ֫שֶׁת</span></a></td><td class="bdb-id">BDB3414</td><td class="pos">nom féminin</td><td class="gloss">id.</td></tr>
+<tr><td><a href="../Entries_fr/BDB3415.html"><span class="hw">יָגַב</span></a></td><td class="bdb-id">BDB3415</td><td class="pos">verbe</td><td class="gloss">labourer, être cultivateur</td></tr>
+<tr><td><a href="../Entries_fr/BDB3416.html"><span class="hw">יָגֵב</span></a></td><td class="bdb-id">BDB3416</td><td class="pos">nom masculin</td><td class="gloss">champ</td></tr>
+<tr><td><a href="../Entries_fr/BDB3417.html"><span class="hw">יָגָה</span></a></td><td class="bdb-id">BDB3417</td><td class="pos">verbe</td><td class="gloss">souffrir</td></tr>
+<tr><td><a href="../Entries_fr/BDB3418.html"><span class="hw">יָגוֺן</span></a></td><td class="bdb-id">BDB3418</td><td class="pos">nom [masculin]</td><td class="gloss">chagrin, douleur</td></tr>
+<tr><td><a href="../Entries_fr/BDB3420.html"><span class="hw">יָגָה</span></a></td><td class="bdb-id">BDB3420</td><td class="pos">verbe</td><td class="gloss">repousser</td></tr>
+<tr><td><a href="../Entries_fr/BDB3421.html"><span class="hw">יגן</span></a></td><td class="bdb-id">BDB3421</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3429.html"><span class="hw">יָגֵעַ</span></a></td><td class="bdb-id">BDB3429</td><td class="pos">verbe</td><td class="gloss">peiner, devenir ou être las</td></tr>
+<tr><td><a href="../Entries_fr/BDB3430.html"><span class="hw">יָגָע</span></a></td><td class="bdb-id">BDB3430</td><td class="pos">nom [masculin]</td><td class="gloss">gain</td></tr>
+<tr><td><a href="../Entries_fr/BDB3431.html"><span class="hw">יָגֵעַ</span></a></td><td class="bdb-id">BDB3431</td><td class="pos">adjectif</td><td class="gloss">las, fatigant</td></tr>
+<tr><td><a href="../Entries_fr/BDB3432.html"><span class="hw">יְגִעָה</span></a></td><td class="bdb-id">BDB3432</td><td class="pos">nom féminin</td><td class="gloss">lassitude</td></tr>
+<tr><td><a href="../Entries_fr/BDB3433.html"><span class="hw">יָגִיעַ</span></a></td><td class="bdb-id">BDB3433</td><td class="pos">adjectif</td><td class="gloss">las</td></tr>
+<tr><td><a href="../Entries_fr/BDB3434.html"><span class="hw">יְגִיעַ</span></a></td><td class="bdb-id">BDB3434</td><td class="pos">nom masculin</td><td class="gloss">labeur, produit</td></tr>
+<tr><td><a href="../Entries_fr/BDB3435.html"><span class="hw">יָגֹר</span></a></td><td class="bdb-id">BDB3435</td><td class="pos">verbe</td><td class="gloss">avoir peur, craindre</td></tr>
+<tr><td><a href="../Entries_fr/BDB3436.html"><span class="hw">יָגוֺר</span></a></td><td class="bdb-id">BDB3436</td><td class="pos">adjectif verbal</td><td class="gloss">craignant</td></tr>
+<tr><td><a href="../Entries_fr/BDB3437.html"><span class="hw">יָד</span></a></td><td class="bdb-id">BDB3437</td><td class="pos">nom féminin</td><td class="gloss">main</td></tr>
+<tr><td><a href="../Entries_fr/BDB3438.html"><span class="hw">יִדְאֲלָה</span></a></td><td class="bdb-id">BDB3438</td><td class="pos">nom propre [d&#x27;un lieu]</td><td class="gloss">en Zabulon</td></tr>
+<tr><td><a href="../Entries_fr/BDB3439.html"><span class="hw">יָדַד</span></a></td><td class="bdb-id">BDB3439</td><td class="pos">verbe</td><td class="gloss">jeter</td></tr>
+<tr><td><a href="../Entries_fr/BDB3440.html"><span class="hw">ידד</span></a></td><td class="bdb-id">BDB3440</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3441.html"><span class="hw">יָדִיד</span></a></td><td class="bdb-id">BDB3441</td><td class="pos">adjectif</td><td class="gloss">bien-aimé</td></tr>
+<tr><td><a href="../Entries_fr/BDB3442.html"><span class="hw">יְדִדוּת</span></a></td><td class="bdb-id">BDB3442</td><td class="pos">nom féminin</td><td class="gloss">amour</td></tr>
+<tr><td><a href="../Entries_fr/BDB3443.html"><span class="hw">יְדִידָה</span></a></td><td class="bdb-id">BDB3443</td><td class="pos">nom propre, féminin</td><td class="gloss">mère de Josias</td></tr>
+<tr><td><a href="../Entries_fr/BDB3444.html"><span class="hw">יְדִידְיָה</span></a></td><td class="bdb-id">BDB3444</td><td class="pos">nom propre, masculin</td><td class="gloss">nom donné à Salomon par Nathan</td></tr>
+<tr><td><a href="../Entries_fr/BDB3445.html"><span class="hw">יִדּוֺ</span></a></td><td class="bdb-id">BDB3445</td><td class="pos">nom propre, masculin</td><td class="gloss">un Manassite</td></tr>
+<tr><td><a href="../Entries_fr/BDB3446.html"><span class="hw">יַדַּי</span></a></td><td class="bdb-id">BDB3446</td><td class="pos">nom propre, masculin</td><td class="gloss">voir יִדּוֺ ci-dessus</td></tr>
+<tr><td><a href="../Entries_fr/BDB3448.html"><span class="hw">יָדָה</span></a></td><td class="bdb-id">BDB3448</td><td class="pos">verbe</td><td class="gloss">jeter, lancer</td></tr>
+<tr><td><a href="../Entries_fr/BDB3451.html"><span class="hw">יְדוּתוּן</span></a></td><td class="bdb-id">BDB3451</td><td class="pos">nom propre, masculin</td><td class="gloss">chef d&#x27;un des trois chœurs du temple</td></tr>
+<tr><td><a href="../Entries_fr/BDB3452.html"><span class="hw">יְדָיָה</span></a></td><td class="bdb-id">BDB3452</td><td class="pos">nom propre, masculin</td><td class="gloss">un chef siméonite</td></tr>
+<tr><td><a href="../Entries_fr/BDB3453.html"><span class="hw">יִדְלָ֑ף</span></a></td><td class="bdb-id">BDB3453</td><td class="pos">nom propre, masculin</td><td class="gloss">fils de Nahor</td></tr>
+<tr><td><a href="../Entries_fr/BDB3454.html"><span class="hw">יָדַע</span></a></td><td class="bdb-id">BDB3454</td><td class="pos"></td><td class="gloss">connaître</td></tr>
+<tr><td><a href="../Entries_fr/BDB3455.html"><span class="hw">יָדָע</span></a></td><td class="bdb-id">BDB3455</td><td class="pos">nom propre, masculin</td><td class="gloss">un homme de Juda</td></tr>
+<tr><td><a href="../Entries_fr/BDB3459.html"><span class="hw">יְדַעְיָה</span></a></td><td class="bdb-id">BDB3459</td><td class="pos">nom propre, masculin</td><td class="gloss">nom sacerdotal</td></tr>
+<tr><td><a href="../Entries_fr/BDB3460.html"><span class="hw">יַדוּעַ</span></a></td><td class="bdb-id">BDB3460</td><td class="pos">nom propre, masculin</td><td class="gloss">un chef du peuple, un de ceux qui ont scellé</td></tr>
+<tr><td><a href="../Entries_fr/BDB3461.html"><span class="hw">יְדִיעֲאֵל</span></a></td><td class="bdb-id">BDB3461</td><td class="pos">nom propre, masculin</td><td class="gloss">un Benjaminite</td></tr>
+<tr><td><a href="../Entries_fr/BDB3463.html"><span class="hw">יִדְּעֹנִי</span></a></td><td class="bdb-id">BDB3463</td><td class="pos">nom masculin</td><td class="gloss">esprit familier</td></tr>
+<tr><td><a href="../Entries_fr/BDB3468.html"><span class="hw">יָהּ</span></a></td><td class="bdb-id">BDB3468</td><td class="pos">nom propre [d&#x27;une divinité]</td><td class="gloss">voir ci-dessous הוה</td></tr>
+<tr><td><a href="../Entries_fr/BDB3469.html"><span class="hw">יָהַב</span></a></td><td class="bdb-id">BDB3469</td><td class="pos">verbe</td><td class="gloss">donner</td></tr>
+<tr><td><a href="../Entries_fr/BDB3470.html"><span class="hw">יְהָב</span></a></td><td class="bdb-id">BDB3470</td><td class="pos">nom [masculin]</td><td class="gloss">sort</td></tr>
+<tr><td><a href="../Entries_fr/BDB3472.html"><span class="hw">יהד</span></a></td><td class="bdb-id">BDB3472</td><td class="pos">verbe</td><td class="gloss">voir ci-dessous יִהוּדָה</td></tr>
+<tr><td><a href="../Entries_fr/BDB3473.html"><span class="hw">יַהִדַּי</span></a></td><td class="bdb-id">BDB3473</td><td class="pos">nom propre, masculin</td><td class="gloss">voir ci-dessous הדה</td></tr>
+<tr><td><a href="../Entries_fr/BDB3474.html"><span class="hw">יְהֻד</span></a></td><td class="bdb-id">BDB3474</td><td class="pos">nom propre [d&#x27;un lieu]</td><td class="gloss">en Dan</td></tr>
+<tr><td><a href="../Entries_fr/BDB3476.html"><span class="hw">יֵהוּא</span></a></td><td class="bdb-id">BDB3476</td><td class="pos">nom propre, masculin</td><td class="gloss">voir ci-dessous יהוה ci-dessus</td></tr>
+<tr><td><a href="../Entries_fr/BDB3477.html"><span class="hw">יְהוּדָה</span></a></td><td class="bdb-id">BDB3477</td><td class="pos">nom propre, masculin [aussi d&#x27;un territoire]</td><td class="gloss">Juda</td></tr>
+<tr><td><a href="../Entries_fr/BDB3478.html"><span class="hw">יְהוּדִּי</span></a></td><td class="bdb-id">BDB3478</td><td class="pos">adjectif [d&#x27;un peuple]</td><td class="gloss">juif</td></tr>
+<tr><td><a href="../Entries_fr/BDB3479.html"><span class="hw">יְהוּדִית</span></a></td><td class="bdb-id">BDB3479</td><td class="pos">adjectif féminin [d&#x27;un peuple]</td><td class="gloss">en judéen</td></tr>
+<tr><td><a href="../Entries_fr/BDB3480.html"><span class="hw">יְהוּדִי</span></a></td><td class="bdb-id">BDB3480</td><td class="pos">nom propre, masculin</td><td class="gloss">officier de Joïaqim</td></tr>
+<tr><td><a href="../Entries_fr/BDB3481.html"><span class="hw">יְהוּדִית</span></a></td><td class="bdb-id">BDB3481</td><td class="pos">nom propre, féminin</td><td class="gloss">épouse d&#x27;Ésaü</td></tr>
+<tr><td><a href="../Entries_fr/BDB3482.html"><span class="hw">יהד</span></a></td><td class="bdb-id">BDB3482</td><td class="pos">verbe</td><td class="gloss">devenir juif</td></tr>
+<tr><td><a href="../Entries_fr/BDB3483.html"><span class="hw">יהוה</span></a></td><td class="bdb-id">BDB3483</td><td class="pos">nom propre [d&#x27;une divinité]</td><td class="gloss">voir ci-dessous הוה</td></tr>
+<tr><td><a href="../Entries_fr/BDB3484.html"><span class="hw">יְהוּכַל</span></a></td><td class="bdb-id">BDB3484</td><td class="pos">nom propre, masculin</td><td class="gloss">voir ci-dessous יהוה ci-dessus</td></tr>
+<tr><td><a href="../Entries_fr/BDB3485.html"><span class="hw">יהץ</span></a></td><td class="bdb-id">BDB3485</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3486.html"><span class="hw">יַ֫הַץ</span></a></td><td class="bdb-id">BDB3486</td><td class="pos">nom propre [d&#x27;un lieu]</td><td class="gloss">en Moab, site inconnu</td></tr>
+<tr><td><a href="../Entries_fr/BDB3487.html"><span class="hw">יהר</span></a></td><td class="bdb-id">BDB3487</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3488.html"><span class="hw">יָהִיר</span></a></td><td class="bdb-id">BDB3488</td><td class="pos">adjectif</td><td class="gloss">orgueilleux, hautain</td></tr>
+<tr><td><a href="../Entries_fr/BDB3490.html"><span class="hw">יוֺב</span></a></td><td class="bdb-id">BDB3490</td><td class="pos">nom propre, masculin</td><td class="gloss">fils d&#x27;Issacar</td></tr>
+<tr><td><a href="../Entries_fr/BDB3491.html"><span class="hw">יוֺבָב</span></a></td><td class="bdb-id">BDB3491</td><td class="pos">nom propre</td><td class="gloss">voir יבל</td></tr>
+<tr><td><a href="../Entries_fr/BDB3492.html"><span class="hw">יוֺחָא</span></a></td><td class="bdb-id">BDB3492</td><td class="pos">nom propre, masculin</td><td class="gloss">un Benjaminite</td></tr>
+<tr><td><a href="../Entries_fr/BDB3493.html"><span class="hw">יוּכַל</span></a></td><td class="bdb-id">BDB3493</td><td class="pos">nom propre, masculin</td><td class="gloss">voir יְהוּכַל ci-dessous יהוה ci-dessus</td></tr>
+<tr><td><a href="../Entries_fr/BDB3494.html"><span class="hw">יוֺם</span></a></td><td class="bdb-id">BDB3494</td><td class="pos">nom masculin</td><td class="gloss">jour</td></tr>
+<tr><td><a href="../Entries_fr/BDB3495.html"><span class="hw">יוֺמָם</span></a></td><td class="bdb-id">BDB3495</td><td class="pos">adverbe</td><td class="gloss">de jour, pendant le jour</td></tr>
+<tr><td><a href="../Entries_fr/BDB3496.html"><span class="hw">יון</span></a></td><td class="bdb-id">BDB3496</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3497.html"><span class="hw">יָוֵן</span></a></td><td class="bdb-id">BDB3497</td><td class="pos">nom [masculin]</td><td class="gloss">boue, fange</td></tr>
+<tr><td><a href="../Entries_fr/BDB3498.html"><span class="hw">יון</span></a></td><td class="bdb-id">BDB3498</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3499.html"><span class="hw">יוֺנָה</span></a></td><td class="bdb-id">BDB3499</td><td class="pos">nom féminin</td><td class="gloss">colombe</td></tr>
+<tr><td><a href="../Entries_fr/BDB3500.html"><span class="hw">יוֺנָה</span></a></td><td class="bdb-id">BDB3500</td><td class="pos">nom propre, masculin</td><td class="gloss">prophète</td></tr>
+<tr><td><a href="../Entries_fr/BDB3501.html"><span class="hw">יָוָן</span></a></td><td class="bdb-id">BDB3501</td><td class="pos">nom propre [d&#x27;un peuple]</td><td class="gloss">Ionie(ns), Grèce</td></tr>
+<tr><td><a href="../Entries_fr/BDB3502.html"><span class="hw">יְוָנִי</span></a></td><td class="bdb-id">BDB3502</td><td class="pos">adjectif [d&#x27;un peuple]</td><td class="gloss">seulement avec l&#x27;article comme nom propre, d&#x27;un peuple</td></tr>
+<tr><td><a href="../Entries_fr/BDB3503.html"><span class="hw">יזה</span></a></td><td class="bdb-id">BDB3503</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3504.html"><span class="hw">יְזִיאֵל</span></a></td><td class="bdb-id">BDB3504</td><td class="pos">nom propre, masculin</td><td class="gloss">un des héros de David</td></tr>
+<tr><td><a href="../Entries_fr/BDB3505.html"><span class="hw">יזן</span></a></td><td class="bdb-id">BDB3505</td><td class="pos">verbe</td><td class="gloss">sens douteux</td></tr>
+<tr><td><a href="../Entries_fr/BDB3506.html"><span class="hw">יזע</span></a></td><td class="bdb-id">BDB3506</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3507.html"><span class="hw">יֶ֫זַע</span></a></td><td class="bdb-id">BDB3507</td><td class="pos">nom [masculin]</td><td class="gloss">sueur</td></tr>
+<tr><td><a href="../Entries_fr/BDB3509.html"><span class="hw">יָחַד</span></a></td><td class="bdb-id">BDB3509</td><td class="pos">verbe</td><td class="gloss">être uni</td></tr>
+<tr><td><a href="../Entries_fr/BDB3510.html"><span class="hw">יָחִיד</span></a></td><td class="bdb-id">BDB3510</td><td class="pos">adjectif</td><td class="gloss">unique, solitaire</td></tr>
+<tr><td><a href="../Entries_fr/BDB3511.html"><span class="hw">יַ֫חַד</span></a></td><td class="bdb-id">BDB3511</td><td class="pos">nom [masculin]</td><td class="gloss">union</td></tr>
+<tr><td><a href="../Entries_fr/BDB3512.html"><span class="hw">יַחְדָּו</span></a></td><td class="bdb-id">BDB3512</td><td class="pos">adverbe</td><td class="gloss">ensemble</td></tr>
+<tr><td><a href="../Entries_fr/BDB3513.html"><span class="hw">יַחְדֹּי</span></a></td><td class="bdb-id">BDB3513</td><td class="pos">nom propre, masculin</td><td class="gloss">un Galaadite</td></tr>
+<tr><td><a href="../Entries_fr/BDB3514.html"><span class="hw">יַחְזֵרָה</span></a></td><td class="bdb-id">BDB3514</td><td class="pos">nom propre, masculin</td><td class="gloss">un prêtre</td></tr>
+<tr><td><a href="../Entries_fr/BDB3515.html"><span class="hw">יָחַל</span></a></td><td class="bdb-id">BDB3515</td><td class="pos">verbe</td><td class="gloss">attendre</td></tr>
+<tr><td><a href="../Entries_fr/BDB3516.html"><span class="hw">יָחִיל</span></a></td><td class="bdb-id">BDB3516</td><td class="pos">adjectif</td><td class="gloss">attendant</td></tr>
+<tr><td><a href="../Entries_fr/BDB3518.html"><span class="hw">יַחְלְאֵל</span></a></td><td class="bdb-id">BDB3518</td><td class="pos">nom propre, masculin</td><td class="gloss">un Zabulonite</td></tr>
+<tr><td><a href="../Entries_fr/BDB3519.html"><span class="hw">יַחְלְאֵלִי</span></a></td><td class="bdb-id">BDB3519</td><td class="pos">adjectif [d&#x27;un peuple]</td><td class="gloss">du précédent : seulement avec l&#x27;article comme nom propre collectif</td></tr>
+<tr><td><a href="../Entries_fr/BDB3520.html"><span class="hw">יָחַם</span></a></td><td class="bdb-id">BDB3520</td><td class="pos">verbe</td><td class="gloss">être chaud</td></tr>
+<tr><td><a href="../Entries_fr/BDB3522.html"><span class="hw">יחף</span></a></td><td class="bdb-id">BDB3522</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3523.html"><span class="hw">יָחֵף</span></a></td><td class="bdb-id">BDB3523</td><td class="pos">adjectif</td><td class="gloss">pieds nus</td></tr>
+<tr><td><a href="../Entries_fr/BDB3525.html"><span class="hw">יחשׂ</span></a></td><td class="bdb-id">BDB3525</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3526.html"><span class="hw">יַ֫חַשׁ</span></a></td><td class="bdb-id">BDB3526</td><td class="pos">nom [masculin]</td><td class="gloss">généalogie</td></tr>
+<tr><td><a href="../Entries_fr/BDB3528.html"><span class="hw">יָטַב</span></a></td><td class="bdb-id">BDB3528</td><td class="pos">verbe</td><td class="gloss">être bon, bien, joyeux, agréable</td></tr>
+<tr><td><a href="../Entries_fr/BDB3529.html"><span class="hw">יָטְבָה</span></a></td><td class="bdb-id">BDB3529</td><td class="pos">nom propre [d&#x27;un lieu]</td><td class="gloss">ville probablement en Juda</td></tr>
+<tr><td><a href="../Entries_fr/BDB3530.html"><span class="hw">יָטְבָ֫תָה</span></a></td><td class="bdb-id">BDB3530</td><td class="pos">nom propre [d&#x27;un lieu]</td><td class="gloss">station d&#x27;Israël dans le désert</td></tr>
+<tr><td><a href="../Entries_fr/BDB3533.html"><span class="hw">יין</span></a></td><td class="bdb-id">BDB3533</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3534.html"><span class="hw">יַ֫יִן</span></a></td><td class="bdb-id">BDB3534</td><td class="pos">nom masculin</td><td class="gloss">vin</td></tr>
+<tr><td><a href="../Entries_fr/BDB3535.html"><span class="hw">יך</span></a></td><td class="bdb-id">BDB3535</td><td class="pos"></td><td class="gloss">erreur pour יד Qr</td></tr>
+<tr><td><a href="../Entries_fr/BDB3536.html"><span class="hw">יָכַח</span></a></td><td class="bdb-id">BDB3536</td><td class="pos">verbe</td><td class="gloss">décider, juger, prouver</td></tr>
+<tr><td><a href="../Entries_fr/BDB3539.html"><span class="hw">יָכֹל</span></a></td><td class="bdb-id">BDB3539</td><td class="pos">verbe</td><td class="gloss">pouvoir, avoir la capacité, prévaloir, endurer</td></tr>
+<tr><td><a href="../Entries_fr/BDB3540.html"><span class="hw">יוּכַל</span></a></td><td class="bdb-id">BDB3540</td><td class="pos">nom propre, masculin</td><td class="gloss">voir יְהוּכַל ci-dessus</td></tr>
+<tr><td><a href="../Entries_fr/BDB3541.html"><span class="hw">יְכָלְיָהוּ</span></a></td><td class="bdb-id">BDB3541</td><td class="pos">nom propre, féminin</td><td class="gloss">mère du roi Azaria</td></tr>
+<tr><td><a href="../Entries_fr/BDB3542.html"><span class="hw">יָלַד</span></a></td><td class="bdb-id">BDB3542</td><td class="pos">verbe</td><td class="gloss">enfanter, mettre au monde, engendrer</td></tr>
+<tr><td><a href="../Entries_fr/BDB3544.html"><span class="hw">יֶ֫לֶד</span></a></td><td class="bdb-id">BDB3544</td><td class="pos">nom masculin</td><td class="gloss">enfant, fils, garçon, jeune homme</td></tr>
+<tr><td><a href="../Entries_fr/BDB3545.html"><span class="hw">יַלְדָּה</span></a></td><td class="bdb-id">BDB3545</td><td class="pos">nom féminin</td><td class="gloss">fille, jeune fille</td></tr>
+<tr><td><a href="../Entries_fr/BDB3546.html"><span class="hw">יַלְדוּת</span></a></td><td class="bdb-id">BDB3546</td><td class="pos">nom féminin</td><td class="gloss">enfance, jeunesse</td></tr>
+<tr><td><a href="../Entries_fr/BDB3547.html"><span class="hw">יִלּוֺד</span></a></td><td class="bdb-id">BDB3547</td><td class="pos">adjectif</td><td class="gloss">né</td></tr>
+<tr><td><a href="../Entries_fr/BDB3548.html"><span class="hw">יָלִיד</span></a></td><td class="bdb-id">BDB3548</td><td class="pos">adjectif</td><td class="gloss">né</td></tr>
+<tr><td><a href="../Entries_fr/BDB3554.html"><span class="hw">יָלוֺן</span></a></td><td class="bdb-id">BDB3554</td><td class="pos">nom propre, masculin</td><td class="gloss">en Juda</td></tr>
+<tr><td><a href="../Entries_fr/BDB3555.html"><span class="hw">יָלַל</span></a></td><td class="bdb-id">BDB3555</td><td class="pos">verbe</td><td class="gloss">hurler, pousser des hurlements</td></tr>
+<tr><td><a href="../Entries_fr/BDB3556.html"><span class="hw">יְלֵל</span></a></td><td class="bdb-id">BDB3556</td><td class="pos">nom [masculin]</td><td class="gloss">hurlement</td></tr>
+<tr><td><a href="../Entries_fr/BDB3557.html"><span class="hw">יְלָלָה</span></a></td><td class="bdb-id">BDB3557</td><td class="pos">nom féminin</td><td class="gloss">hurlement</td></tr>
+<tr><td><a href="../Entries_fr/BDB3558.html"><span class="hw">יַָלע</span></a></td><td class="bdb-id">BDB3558</td><td class="pos"></td><td class="gloss">voir לעע</td></tr>
+<tr><td><a href="../Entries_fr/BDB3559.html"><span class="hw">ילף</span></a></td><td class="bdb-id">BDB3559</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3560.html"><span class="hw">יַלֶּ֫פֶת</span></a></td><td class="bdb-id">BDB3560</td><td class="pos">nom féminin</td><td class="gloss">croûte, gale</td></tr>
+<tr><td><a href="../Entries_fr/BDB3561.html"><span class="hw">ילק</span></a></td><td class="bdb-id">BDB3561</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3562.html"><span class="hw">יֶ֫לֶק</span></a></td><td class="bdb-id">BDB3562</td><td class="pos">nom masculin</td><td class="gloss">sauterelle</td></tr>
+<tr><td><a href="../Entries_fr/BDB3563.html"><span class="hw">יְמוּאֵל</span></a></td><td class="bdb-id">BDB3563</td><td class="pos">nom propre, masculin</td><td class="gloss">fils de Siméon</td></tr>
+<tr><td><a href="../Entries_fr/BDB3564.html"><span class="hw">יְמִימָה</span></a></td><td class="bdb-id">BDB3564</td><td class="pos">nom propre, féminin</td><td class="gloss">fille de Job</td></tr>
+<tr><td><a href="../Entries_fr/BDB3565.html"><span class="hw">יִמְלָה</span></a></td><td class="bdb-id">BDB3565</td><td class="pos">nom propre</td><td class="gloss">voir יִמְלָא ci-dessous מלא</td></tr>
+<tr><td><a href="../Entries_fr/BDB3566.html"><span class="hw">ימם</span></a></td><td class="bdb-id">BDB3566</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3567.html"><span class="hw">יָם</span></a></td><td class="bdb-id">BDB3567</td><td class="pos">nom masculin</td><td class="gloss">mer</td></tr>
+<tr><td><a href="../Entries_fr/BDB3568.html"><span class="hw">יֵמִם</span></a></td><td class="bdb-id">BDB3568</td><td class="pos">nom [masculin]</td><td class="gloss">apparemment pluriel, sens douteux</td></tr>
+<tr><td><a href="../Entries_fr/BDB3569.html"><span class="hw">ימן</span></a></td><td class="bdb-id">BDB3569</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3570.html"><span class="hw">יָמִין</span></a></td><td class="bdb-id">BDB3570</td><td class="pos">nom féminin</td><td class="gloss">main droite</td></tr>
+<tr><td><a href="../Entries_fr/BDB3571.html"><span class="hw">יְמִינִי</span></a></td><td class="bdb-id">BDB3571</td><td class="pos">adjectif</td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3572.html"><span class="hw">יְמִינִי</span></a></td><td class="bdb-id">BDB3572</td><td class="pos">adjectif [d&#x27;un peuple]</td><td class="gloss">de בִּנְיָמִן, abrégé pour בֶּןיְֿמִינִי</td></tr>
+<tr><td><a href="../Entries_fr/BDB3573.html"><span class="hw">יָמַן</span></a></td><td class="bdb-id">BDB3573</td><td class="pos">verbe</td><td class="gloss">aller à droite ou choisir la droite, utiliser la main droite</td></tr>
+<tr><td><a href="../Entries_fr/BDB3574.html"><span class="hw">יְמָנִי</span></a></td><td class="bdb-id">BDB3574</td><td class="pos">adjectif</td><td class="gloss">main droite, droit</td></tr>
+<tr><td><a href="../Entries_fr/BDB3575.html"><span class="hw">יָמִין</span></a></td><td class="bdb-id">BDB3575</td><td class="pos">nom propre, masculin</td><td class="gloss">fils de Siméon</td></tr>
+<tr><td><a href="../Entries_fr/BDB3576.html"><span class="hw">יָָֽמִינִי</span></a></td><td class="bdb-id">BDB3576</td><td class="pos">adjectif [d&#x27;un peuple]</td><td class="gloss">de II. ימין 1 ; seulement avec l&#x27;article comme substantif collectif</td></tr>
+<tr><td><a href="../Entries_fr/BDB3577.html"><span class="hw">יִמְנָה</span></a></td><td class="bdb-id">BDB3577</td><td class="pos">nom propre, masculin</td><td class="gloss">un fils d&#x27;Aser</td></tr>
+<tr><td><a href="../Entries_fr/BDB3582.html"><span class="hw">ימר</span></a></td><td class="bdb-id">BDB3582</td><td class="pos">verbe</td><td class="gloss">sur הימיר voir מור</td></tr>
+<tr><td><a href="../Entries_fr/BDB3583.html"><span class="hw">יָמַשׁ</span></a></td><td class="bdb-id">BDB3583</td><td class="pos">verbe</td><td class="gloss">toucher</td></tr>
+<tr><td><a href="../Entries_fr/BDB3584.html"><span class="hw">יָנָה</span></a></td><td class="bdb-id">BDB3584</td><td class="pos">verbe</td><td class="gloss">réprimer (?), opprimer, maltraiter</td></tr>
+<tr><td><a href="../Entries_fr/BDB3585.html"><span class="hw">יָנַק</span></a></td><td class="bdb-id">BDB3585</td><td class="pos">verbe</td><td class="gloss">téter</td></tr>
+<tr><td><a href="../Entries_fr/BDB3586.html"><span class="hw">יוֺנֵק</span></a></td><td class="bdb-id">BDB3586</td><td class="pos">nom masculin</td><td class="gloss">jeune plante, rejeton</td></tr>
+<tr><td><a href="../Entries_fr/BDB3587.html"><span class="hw">יוֺנֶ֫קֶת</span></a></td><td class="bdb-id">BDB3587</td><td class="pos">nom féminin</td><td class="gloss">jeune pousse, rameau</td></tr>
+<tr><td><a href="../Entries_fr/BDB3588.html"><span class="hw">יְנִיקָה</span></a></td><td class="bdb-id">BDB3588</td><td class="pos">nom féminin</td><td class="gloss">id.</td></tr>
+<tr><td><a href="../Entries_fr/BDB3589.html"><span class="hw">יָסַד</span></a></td><td class="bdb-id">BDB3589</td><td class="pos">verbe</td><td class="gloss">établir, fonder, fixer</td></tr>
+<tr><td><a href="../Entries_fr/BDB3590.html"><span class="hw">יְסֻד</span></a></td><td class="bdb-id">BDB3590</td><td class="pos">nom [masculin]</td><td class="gloss">fondation, commencement</td></tr>
+<tr><td><a href="../Entries_fr/BDB3591.html"><span class="hw">יְסוֺד</span></a></td><td class="bdb-id">BDB3591</td><td class="pos">nom féminin</td><td class="gloss">fondation, base</td></tr>
+<tr><td><a href="../Entries_fr/BDB3592.html"><span class="hw">יְסוּדָה</span></a></td><td class="bdb-id">BDB3592</td><td class="pos">nom féminin</td><td class="gloss">fondation = ville fondée</td></tr>
+<tr><td><a href="../Entries_fr/BDB3597.html"><span class="hw">יסך</span></a></td><td class="bdb-id">BDB3597</td><td class="pos"></td><td class="gloss">seulement dans יִיסָךְ</td></tr>
+<tr><td><a href="../Entries_fr/BDB3598.html"><span class="hw">יִסְכָּה</span></a></td><td class="bdb-id">BDB3598</td><td class="pos">nom propre, féminin</td><td class="gloss">une fille de הָרָן, et sœur de מִלְכָּה</td></tr>
+<tr><td><a href="../Entries_fr/BDB3599.html"><span class="hw">יָסַף</span></a></td><td class="bdb-id">BDB3599</td><td class="pos">verbe</td><td class="gloss">ajouter</td></tr>
+<tr><td><a href="../Entries_fr/BDB3600.html"><span class="hw">יוֺסֵף</span></a></td><td class="bdb-id">BDB3600</td><td class="pos">nom propre, masculin</td><td class="gloss">fils aîné de Jacob et Rachel</td></tr>
+<tr><td><a href="../Entries_fr/BDB3601.html"><span class="hw">יוֺסִפְיָה</span></a></td><td class="bdb-id">BDB3601</td><td class="pos">nom propre, masculin</td><td class="gloss">père d&#x27;un des compagnons d&#x27;Esdras</td></tr>
+<tr><td><a href="../Entries_fr/BDB3602.html"><span class="hw">יָסַר</span></a></td><td class="bdb-id">BDB3602</td><td class="pos">verbe</td><td class="gloss">discipliner, châtier, avertir</td></tr>
+<tr><td><a href="../Entries_fr/BDB3603.html"><span class="hw">יִסּוֺר</span></a></td><td class="bdb-id">BDB3603</td><td class="pos">nom masculin</td><td class="gloss">celui qui reprend, censeur</td></tr>
+<tr><td><a href="../Entries_fr/BDB3606.html"><span class="hw">יָעַד</span></a></td><td class="bdb-id">BDB3606</td><td class="pos">verbe</td><td class="gloss">fixer, désigner</td></tr>
+<tr><td><a href="../Entries_fr/BDB3612.html"><span class="hw">יֶעְדּוֺ</span></a></td><td class="bdb-id">BDB3612</td><td class="pos">nom propre, masculin</td><td class="gloss">voir עִדּוֺ ci-dessous עדד</td></tr>
+<tr><td><a href="../Entries_fr/BDB3613.html"><span class="hw">יָעָה</span></a></td><td class="bdb-id">BDB3613</td><td class="pos">verbe</td><td class="gloss">balayer, rassembler</td></tr>
+<tr><td><a href="../Entries_fr/BDB3614.html"><span class="hw">יָע</span></a></td><td class="bdb-id">BDB3614</td><td class="pos">nom [masculin]</td><td class="gloss">pelle</td></tr>
+<tr><td><a href="../Entries_fr/BDB3615.html"><span class="hw">יְעוּאֵל</span></a></td><td class="bdb-id">BDB3615</td><td class="pos">nom propre, masculin</td><td class="gloss">יְעוּאֵל fils de Zérach</td></tr>
+<tr><td><a href="../Entries_fr/BDB3616.html"><span class="hw">יָעַז</span></a></td><td class="bdb-id">BDB3616</td><td class="pos">verbe</td><td class="gloss">sens précis douteux</td></tr>
+<tr><td><a href="../Entries_fr/BDB3617.html"><span class="hw">יָעַט</span></a></td><td class="bdb-id">BDB3617</td><td class="pos">verbe</td><td class="gloss">couvrir</td></tr>
+<tr><td><a href="../Entries_fr/BDB3618.html"><span class="hw">יָעַל</span></a></td><td class="bdb-id">BDB3618</td><td class="pos">verbe</td><td class="gloss">profiter, servir, être utile</td></tr>
+<tr><td><a href="../Entries_fr/BDB3619.html"><span class="hw">יוֺעֵאלָה</span></a></td><td class="bdb-id">BDB3619</td><td class="pos">nom propre, masculin</td><td class="gloss">un des héros de David</td></tr>
+<tr><td><a href="../Entries_fr/BDB3620.html"><span class="hw">יעל</span></a></td><td class="bdb-id">BDB3620</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3621.html"><span class="hw">יָעֵל</span></a></td><td class="bdb-id">BDB3621</td><td class="pos">nom [masculin]</td><td class="gloss">bouquetin</td></tr>
+<tr><td><a href="../Entries_fr/BDB3622.html"><span class="hw">יָעֵל</span></a></td><td class="bdb-id">BDB3622</td><td class="pos">nom propre, féminin</td><td class="gloss">femme de Héber le Qénite, meurtrière de Sisera</td></tr>
+<tr><td><a href="../Entries_fr/BDB3623.html"><span class="hw">יַעֲלָה</span></a></td><td class="bdb-id">BDB3623</td><td class="pos">nom féminin</td><td class="gloss">= I. יָעֵל (femelle)</td></tr>
+<tr><td><a href="../Entries_fr/BDB3624.html"><span class="hw">יַעֲלָא</span></a></td><td class="bdb-id">BDB3624</td><td class="pos">nom propre, masculin</td><td class="gloss">chef d&#x27;une famille d&#x27;exilés de retour</td></tr>
+<tr><td><a href="../Entries_fr/BDB3625.html"><span class="hw">יַ֫עַן</span></a></td><td class="bdb-id">BDB3625</td><td class="pos">préposition et conjonction</td><td class="gloss">voir ci-dessous I. ענה</td></tr>
+<tr><td><a href="../Entries_fr/BDB3626.html"><span class="hw">יַעַן</span></a></td><td class="bdb-id">BDB3626</td><td class="pos"></td><td class="gloss">voir ci-dessus</td></tr>
+<tr><td><a href="../Entries_fr/BDB3627.html"><span class="hw">יען</span></a></td><td class="bdb-id">BDB3627</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3628.html"><span class="hw">יָעֵן</span></a></td><td class="bdb-id">BDB3628</td><td class="pos">nom [masculin]</td><td class="gloss">autruche</td></tr>
+<tr><td><a href="../Entries_fr/BDB3629.html"><span class="hw">יַעֲנָה</span></a></td><td class="bdb-id">BDB3629</td><td class="pos">nom féminin</td><td class="gloss">avidité (?)</td></tr>
+<tr><td><a href="../Entries_fr/BDB3630.html"><span class="hw">יעני</span></a></td><td class="bdb-id">BDB3630</td><td class="pos">nom propre</td><td class="gloss">voir ci-dessous ענה</td></tr>
+<tr><td><a href="../Entries_fr/BDB3631.html"><span class="hw">יָעֵף</span></a></td><td class="bdb-id">BDB3631</td><td class="pos">verbe</td><td class="gloss">être las, défaillir</td></tr>
+<tr><td><a href="../Entries_fr/BDB3632.html"><span class="hw">יָעֵף</span></a></td><td class="bdb-id">BDB3632</td><td class="pos">adjectif</td><td class="gloss">las, épuisé</td></tr>
+<tr><td><a href="../Entries_fr/BDB3633.html"><span class="hw">יְעָף</span></a></td><td class="bdb-id">BDB3633</td><td class="pos">nom [masculin]</td><td class="gloss">lassitude, défaillance</td></tr>
+<tr><td><a href="../Entries_fr/BDB3634.html"><span class="hw">יעף</span></a></td><td class="bdb-id">BDB3634</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3636.html"><span class="hw">יָעַץ</span></a></td><td class="bdb-id">BDB3636</td><td class="pos">verbe</td><td class="gloss">conseiller</td></tr>
+<tr><td><a href="../Entries_fr/BDB3639.html"><span class="hw">יער</span></a></td><td class="bdb-id">BDB3639</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3640.html"><span class="hw">יַ֫עַר</span></a></td><td class="bdb-id">BDB3640</td><td class="pos">nom masculin</td><td class="gloss">bois, forêt, fourré</td></tr>
+<tr><td><a href="../Entries_fr/BDB3641.html"><span class="hw">יער</span></a></td><td class="bdb-id">BDB3641</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3642.html"><span class="hw">יַ֫עַר</span></a></td><td class="bdb-id">BDB3642</td><td class="pos">nom [masculin]</td><td class="gloss">rayon de miel</td></tr>
+<tr><td><a href="../Entries_fr/BDB3643.html"><span class="hw">יַעְרָה</span></a></td><td class="bdb-id">BDB3643</td><td class="pos">nom féminin</td><td class="gloss">rayon de miel</td></tr>
+<tr><td><a href="../Entries_fr/BDB3644.html"><span class="hw">יַעְרָה</span></a></td><td class="bdb-id">BDB3644</td><td class="pos">nom propre, masculin</td><td class="gloss">un descendant de Saül</td></tr>
+<tr><td><a href="../Entries_fr/BDB3645.html"><span class="hw">יַעֲרֵי אֹרְגִים</span></a></td><td class="bdb-id">BDB3645</td><td class="pos">nom propre, masculin</td><td class="gloss">père d&#x27;Elhanan</td></tr>
+<tr><td><a href="../Entries_fr/BDB3646.html"><span class="hw">יְעָרִים</span></a></td><td class="bdb-id">BDB3646</td><td class="pos">nom propre [d&#x27;une montagne]</td><td class="gloss">seulement הַריְֿעָרִים</td></tr>
+<tr><td><a href="../Entries_fr/BDB3647.html"><span class="hw">יָפָה</span></a></td><td class="bdb-id">BDB3647</td><td class="pos">verbe</td><td class="gloss">être beau, être belle</td></tr>
+<tr><td><a href="../Entries_fr/BDB3648.html"><span class="hw">יָפֶה</span></a></td><td class="bdb-id">BDB3648</td><td class="pos">adjectif</td><td class="gloss">beau, belle</td></tr>
+<tr><td><a href="../Entries_fr/BDB3649.html"><span class="hw">יְפֵהפִֿיָּה</span></a></td><td class="bdb-id">BDB3649</td><td class="pos">adjectif féminin</td><td class="gloss">jolie</td></tr>
+<tr><td><a href="../Entries_fr/BDB3650.html"><span class="hw">יֳפִי</span></a></td><td class="bdb-id">BDB3650</td><td class="pos">nom masculin</td><td class="gloss">beauté</td></tr>
+<tr><td><a href="../Entries_fr/BDB3651.html"><span class="hw">יָפוֺ</span></a></td><td class="bdb-id">BDB3651</td><td class="pos">nom propre [d&#x27;un lieu]</td><td class="gloss">Jaffa</td></tr>
+<tr><td><a href="../Entries_fr/BDB3652.html"><span class="hw">יָפַח</span></a></td><td class="bdb-id">BDB3652</td><td class="pos">verbe</td><td class="gloss">respirer, souffler</td></tr>
+<tr><td><a href="../Entries_fr/BDB3653.html"><span class="hw">יָפֵחַ</span></a></td><td class="bdb-id">BDB3653</td><td class="pos">adjectif</td><td class="gloss">soufflant, exhalant</td></tr>
+<tr><td><a href="../Entries_fr/BDB3654.html"><span class="hw">יָפַע</span></a></td><td class="bdb-id">BDB3654</td><td class="pos">verbe</td><td class="gloss">resplendir, émettre des rayons, faire briller</td></tr>
+<tr><td><a href="../Entries_fr/BDB3655.html"><span class="hw">יִפְעָה</span></a></td><td class="bdb-id">BDB3655</td><td class="pos">nom féminin</td><td class="gloss">éclat, splendeur</td></tr>
+<tr><td><a href="../Entries_fr/BDB3656.html"><span class="hw">יָפִיעַ</span></a></td><td class="bdb-id">BDB3656</td><td class="pos">nom propre [d&#x27;une personne et d&#x27;un lieu]</td><td class="gloss">à la frontière de Zabulon</td></tr>
+<tr><td><a href="../Entries_fr/BDB3658.html"><span class="hw">יָצָא</span></a></td><td class="bdb-id">BDB3658</td><td class="pos">verbe</td><td class="gloss">sortir, venir dehors</td></tr>
+<tr><td><a href="../Entries_fr/BDB3659.html"><span class="hw">יָצִיא</span></a></td><td class="bdb-id">BDB3659</td><td class="pos">adjectif</td><td class="gloss">sortant</td></tr>
+<tr><td><a href="../Entries_fr/BDB3665.html"><span class="hw">יָצַב</span></a></td><td class="bdb-id">BDB3665</td><td class="pos">verbe</td><td class="gloss">se poster, se placer, prendre position</td></tr>
+<tr><td><a href="../Entries_fr/BDB3666.html"><span class="hw">יָצַג</span></a></td><td class="bdb-id">BDB3666</td><td class="pos">verbe</td><td class="gloss">établir, placer</td></tr>
+<tr><td><a href="../Entries_fr/BDB3667.html"><span class="hw">יָצַע</span></a></td><td class="bdb-id">BDB3667</td><td class="pos">verbe</td><td class="gloss">étendre, déployer</td></tr>
+<tr><td><a href="../Entries_fr/BDB3668.html"><span class="hw">יָצוּעַ</span></a></td><td class="bdb-id">BDB3668</td><td class="pos">nom [masculin]</td><td class="gloss">couche, lit</td></tr>
+<tr><td><a href="../Entries_fr/BDB3669.html"><span class="hw">יָצִיעַ</span></a></td><td class="bdb-id">BDB3669</td><td class="pos">nom masculin</td><td class="gloss">proprement surface plate, seulement de l&#x27;étage inférieur en saillie du temple</td></tr>
+<tr><td><a href="../Entries_fr/BDB3671.html"><span class="hw">יָצַק</span></a></td><td class="bdb-id">BDB3671</td><td class="pos">verbe</td><td class="gloss">verser, couler, fondre</td></tr>
+<tr><td><a href="../Entries_fr/BDB3672.html"><span class="hw">יְצֻקָה</span></a></td><td class="bdb-id">BDB3672</td><td class="pos">nom féminin</td><td class="gloss">fonte</td></tr>
+<tr><td><a href="../Entries_fr/BDB3675.html"><span class="hw">יָצַר</span></a></td><td class="bdb-id">BDB3675</td><td class="pos">verbe</td><td class="gloss">former, façonner</td></tr>
+<tr><td><a href="../Entries_fr/BDB3676.html"><span class="hw">יֵ֫צָר</span></a></td><td class="bdb-id">BDB3676</td><td class="pos">nom masculin</td><td class="gloss">forme, conception, dessein</td></tr>
+<tr><td><a href="../Entries_fr/BDB3677.html"><span class="hw">יֵּ֫צֶר</span></a></td><td class="bdb-id">BDB3677</td><td class="pos">nom propre, masculin</td><td class="gloss">fils de Nephtali</td></tr>
+<tr><td><a href="../Entries_fr/BDB3678.html"><span class="hw">יִצְרִי</span></a></td><td class="bdb-id">BDB3678</td><td class="pos">nom propre, masculin</td><td class="gloss">chef d&#x27;un des chœurs lévitiques de chantres</td></tr>
+<tr><td><a href="../Entries_fr/BDB3679.html"><span class="hw">יְצֻרִים</span></a></td><td class="bdb-id">BDB3679</td><td class="pos">nom masculin pluriel</td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3680.html"><span class="hw">יָצַת</span></a></td><td class="bdb-id">BDB3680</td><td class="pos">verbe</td><td class="gloss">allumer, brûler</td></tr>
+<tr><td><a href="../Entries_fr/BDB3681.html"><span class="hw">יקב</span></a></td><td class="bdb-id">BDB3681</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3682.html"><span class="hw">יֶ֫קֶב</span></a></td><td class="bdb-id">BDB3682</td><td class="pos">nom masculin</td><td class="gloss">cuve à vin</td></tr>
+<tr><td><a href="../Entries_fr/BDB3683.html"><span class="hw">יָקַד</span></a></td><td class="bdb-id">BDB3683</td><td class="pos">verbe</td><td class="gloss">s&#x27;enflammer, brûler</td></tr>
+<tr><td><a href="../Entries_fr/BDB3684.html"><span class="hw">יְקוֺד</span></a></td><td class="bdb-id">BDB3684</td><td class="pos">nom [masculin]</td><td class="gloss">embrasement</td></tr>
+<tr><td><a href="../Entries_fr/BDB3687.html"><span class="hw">יָקְדְעָם</span></a></td><td class="bdb-id">BDB3687</td><td class="pos">nom propre [d&#x27;un lieu]</td><td class="gloss">une ville de Juda</td></tr>
+<tr><td><a href="../Entries_fr/BDB3688.html"><span class="hw">יקה</span></a></td><td class="bdb-id">BDB3688</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3689.html"><span class="hw">יָקֶה</span></a></td><td class="bdb-id">BDB3689</td><td class="pos">nom propre, masculin</td><td class="gloss">père d&#x27;Agur</td></tr>
+<tr><td><a href="../Entries_fr/BDB3690.html"><span class="hw">יְקוּתִיאֵל</span></a></td><td class="bdb-id">BDB3690</td><td class="pos">nom propre, masculin</td><td class="gloss">un homme de Juda</td></tr>
+<tr><td><a href="../Entries_fr/BDB3691.html"><span class="hw">יקהּ</span></a></td><td class="bdb-id">BDB3691</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3692.html"><span class="hw">יִקְהָה</span></a></td><td class="bdb-id">BDB3692</td><td class="pos">nom féminin</td><td class="gloss">obéissance</td></tr>
+<tr><td><a href="../Entries_fr/BDB3693.html"><span class="hw">יָקוֺט</span></a></td><td class="bdb-id">BDB3693</td><td class="pos"></td><td class="gloss">voir קוט</td></tr>
+<tr><td><a href="../Entries_fr/BDB3694.html"><span class="hw">יָקְטָן</span></a></td><td class="bdb-id">BDB3694</td><td class="pos">nom propre, masculin</td><td class="gloss">fils d&#x27;Éber, descendant de Sem</td></tr>
+<tr><td><a href="../Entries_fr/BDB3695.html"><span class="hw">יָקְנְעָם</span></a></td><td class="bdb-id">BDB3695</td><td class="pos">nom propre [d&#x27;un lieu]</td><td class="gloss">ville cananéenne, avec un roi, définie par לַכַּרְמֶל</td></tr>
+<tr><td><a href="../Entries_fr/BDB3696.html"><span class="hw">יָקַע</span></a></td><td class="bdb-id">BDB3696</td><td class="pos">verbe</td><td class="gloss">être disloqué, aliéné</td></tr>
+<tr><td><a href="../Entries_fr/BDB3697.html"><span class="hw">יָקַץ</span></a></td><td class="bdb-id">BDB3697</td><td class="pos">verbe</td><td class="gloss">s&#x27;éveiller</td></tr>
+<tr><td><a href="../Entries_fr/BDB3698.html"><span class="hw">יָקַר</span></a></td><td class="bdb-id">BDB3698</td><td class="pos">verbe</td><td class="gloss">être précieux, prisé, estimé</td></tr>
+<tr><td><a href="../Entries_fr/BDB3699.html"><span class="hw">יָקָר</span></a></td><td class="bdb-id">BDB3699</td><td class="pos">adjectif</td><td class="gloss">précieux, rare, splendide, important</td></tr>
+<tr><td><a href="../Entries_fr/BDB3700.html"><span class="hw">יְקָר</span></a></td><td class="bdb-id">BDB3700</td><td class="pos">nom masculin</td><td class="gloss">valeur, prix, honneur</td></tr>
+<tr><td><a href="../Entries_fr/BDB3701.html"><span class="hw">יַקִּיר</span></a></td><td class="bdb-id">BDB3701</td><td class="pos">adjectif</td><td class="gloss">très précieux, cher</td></tr>
+<tr><td><a href="../Entries_fr/BDB3702.html"><span class="hw">יָקשׁ</span></a></td><td class="bdb-id">BDB3702</td><td class="pos">verbe</td><td class="gloss">tendre un piège ou un leurre</td></tr>
+<tr><td><a href="../Entries_fr/BDB3703.html"><span class="hw">יָקוֺשׁ</span></a></td><td class="bdb-id">BDB3703</td><td class="pos">nom [masculin]</td><td class="gloss">poseur d&#x27;appâts, oiseleur</td></tr>
+<tr><td><a href="../Entries_fr/BDB3704.html"><span class="hw">יָקוּשׁ</span></a></td><td class="bdb-id">BDB3704</td><td class="pos">nom [masculin]</td><td class="gloss">id.</td></tr>
+<tr><td><a href="../Entries_fr/BDB3706.html"><span class="hw">יָקְשָׁן</span></a></td><td class="bdb-id">BDB3706</td><td class="pos">nom propre, masculin</td><td class="gloss">fils d&#x27;Abraham et de Ketura</td></tr>
+<tr><td><a href="../Entries_fr/BDB3707.html"><span class="hw">יָקְתְאֵל</span></a></td><td class="bdb-id">BDB3707</td><td class="pos">nom propre [d&#x27;un lieu]</td><td class="gloss">dans la Shéphéla de Juda</td></tr>
+<tr><td><a href="../Entries_fr/BDB3708.html"><span class="hw">יָרֵא</span></a></td><td class="bdb-id">BDB3708</td><td class="pos">verbe</td><td class="gloss">craindre</td></tr>
+<tr><td><a href="../Entries_fr/BDB3709.html"><span class="hw">יָרֵא</span></a></td><td class="bdb-id">BDB3709</td><td class="pos">adjectif verbal</td><td class="gloss">voir ci-dessus Participe</td></tr>
+<tr><td><a href="../Entries_fr/BDB3710.html"><span class="hw">יִרְאָה</span></a></td><td class="bdb-id">BDB3710</td><td class="pos">nom féminin</td><td class="gloss">crainte</td></tr>
+<tr><td><a href="../Entries_fr/BDB3711.html"><span class="hw">יִרְאוֺן</span></a></td><td class="bdb-id">BDB3711</td><td class="pos">nom propre [d&#x27;un lieu]</td><td class="gloss">ville en Nephtali</td></tr>
+<tr><td><a href="../Entries_fr/BDB3715.html"><span class="hw">יָרָא</span></a></td><td class="bdb-id">BDB3715</td><td class="pos">verbe</td><td class="gloss">tirer, verser</td></tr>
+<tr><td><a href="../Entries_fr/BDB3716.html"><span class="hw">יִרְאִיָּיה֯</span></a></td><td class="bdb-id">BDB3716</td><td class="pos">nom propre, masculin</td><td class="gloss">voir ci-dessous ראה</td></tr>
+<tr><td><a href="../Entries_fr/BDB3717.html"><span class="hw">יָרַד</span></a></td><td class="bdb-id">BDB3717</td><td class="pos">verbe</td><td class="gloss">venir ou aller en bas, descendre</td></tr>
+<tr><td><a href="../Entries_fr/BDB3718.html"><span class="hw">יֶ֫רֶד</span></a></td><td class="bdb-id">BDB3718</td><td class="pos">nom propre, masculin</td><td class="gloss">fils de Mehall&#x27;el, quatrième génération après Seth</td></tr>
+<tr><td><a href="../Entries_fr/BDB3720.html"><span class="hw">יַרְדֵּן</span></a></td><td class="bdb-id">BDB3720</td><td class="pos">nom propre [d&#x27;un fleuve]</td><td class="gloss">Jourdain</td></tr>
+<tr><td><a href="../Entries_fr/BDB3721.html"><span class="hw">יָרָה</span></a></td><td class="bdb-id">BDB3721</td><td class="pos">verbe</td><td class="gloss">lancer, tirer</td></tr>
+<tr><td><a href="../Entries_fr/BDB3722.html"><span class="hw">יוֺרָה</span></a></td><td class="bdb-id">BDB3722</td><td class="pos">nom propre, masculin</td><td class="gloss">une des familles de la restauration</td></tr>
+<tr><td><a href="../Entries_fr/BDB3723.html"><span class="hw">יוֺרֶה</span></a></td><td class="bdb-id">BDB3723</td><td class="pos">nom [masculin]</td><td class="gloss">pluie précoce</td></tr>
+<tr><td><a href="../Entries_fr/BDB3727.html"><span class="hw">יוֺרַי</span></a></td><td class="bdb-id">BDB3727</td><td class="pos">nom propre, masculin</td><td class="gloss">chef de la tribu de Gad</td></tr>
+<tr><td><a href="../Entries_fr/BDB3728.html"><span class="hw">יְרוּאֵל</span></a></td><td class="bdb-id">BDB3728</td><td class="pos">nom propre [d&#x27;un lieu]</td><td class="gloss">non identifié, probablement partie du désert de Juda, près de Tsits</td></tr>
+<tr><td><a href="../Entries_fr/BDB3729.html"><span class="hw">יְרִיאֵל</span></a></td><td class="bdb-id">BDB3729</td><td class="pos">nom propre, masculin</td><td class="gloss">chef de la tribu d&#x27;Issachar</td></tr>
+<tr><td><a href="../Entries_fr/BDB3730.html"><span class="hw">יְרִיָּ֫הוּ</span></a></td><td class="bdb-id">BDB3730</td><td class="pos">nom propre, masculin</td><td class="gloss">chef d&#x27;une des classes lévitiques</td></tr>
+<tr><td><a href="../Entries_fr/BDB3731.html"><span class="hw">יָרַהּ</span></a></td><td class="bdb-id">BDB3731</td><td class="pos">verbe</td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3732.html"><span class="hw">יֲרוּשָׁלַ֫םִ</span></a></td><td class="bdb-id">BDB3732</td><td class="pos">nom propre [d&#x27;un lieu]</td><td class="gloss">Jérusalem</td></tr>
+<tr><td><a href="../Entries_fr/BDB3733.html"><span class="hw">ירח</span></a></td><td class="bdb-id">BDB3733</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3734.html"><span class="hw">יָרֵחַ</span></a></td><td class="bdb-id">BDB3734</td><td class="pos">nom masculin</td><td class="gloss">lune</td></tr>
+<tr><td><a href="../Entries_fr/BDB3735.html"><span class="hw">יֶ֫רַח</span></a></td><td class="bdb-id">BDB3735</td><td class="pos">nom masculin</td><td class="gloss">mois</td></tr>
+<tr><td><a href="../Entries_fr/BDB3736.html"><span class="hw">יֶ֫רַח</span></a></td><td class="bdb-id">BDB3736</td><td class="pos">nom propre, masculin</td><td class="gloss">« fils » de Joqtan, seulement יָ֑רַךְ</td></tr>
+<tr><td><a href="../Entries_fr/BDB3737.html"><span class="hw">יָרוֺחַ</span></a></td><td class="bdb-id">BDB3737</td><td class="pos">nom propre, masculin</td><td class="gloss">un Gadite</td></tr>
+<tr><td><a href="../Entries_fr/BDB3738.html"><span class="hw">יַרְחָֹע</span></a></td><td class="bdb-id">BDB3738</td><td class="pos">nom propre, masculin</td><td class="gloss">un esclave égyptien</td></tr>
+<tr><td><a href="../Entries_fr/BDB3739.html"><span class="hw">יָרַט</span></a></td><td class="bdb-id">BDB3739</td><td class="pos">verbe</td><td class="gloss">être précipité, précipiter</td></tr>
+<tr><td><a href="../Entries_fr/BDB3740.html"><span class="hw">יְרִיחוֺ</span></a></td><td class="bdb-id">BDB3740</td><td class="pos">nom propre [d&#x27;un lieu]</td><td class="gloss">Jéricho</td></tr>
+<tr><td><a href="../Entries_fr/BDB3741.html"><span class="hw">ירך</span></a></td><td class="bdb-id">BDB3741</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3742.html"><span class="hw">יָרֵךְ</span></a></td><td class="bdb-id">BDB3742</td><td class="pos">nom féminin</td><td class="gloss">cuisse, hanche, côté, base</td></tr>
+<tr><td><a href="../Entries_fr/BDB3743.html"><span class="hw">יַרְכָה</span></a></td><td class="bdb-id">BDB3743</td><td class="pos"></td><td class="gloss">flanc, côté</td></tr>
+<tr><td><a href="../Entries_fr/BDB3744.html"><span class="hw">יַרְמוּת</span></a></td><td class="bdb-id">BDB3744</td><td class="pos">nom propre [d&#x27;un lieu]</td><td class="gloss">ville cananéenne, avec un roi, nommée entre Hébron et Lakish</td></tr>
+<tr><td><a href="../Entries_fr/BDB3745.html"><span class="hw">יְרֵמַי</span></a></td><td class="bdb-id">BDB3745</td><td class="pos">nom propre, masculin</td><td class="gloss">un de ceux qui avaient des femmes étrangères</td></tr>
+<tr><td><a href="../Entries_fr/BDB3746.html"><span class="hw">יְרֵימוֺת</span></a></td><td class="bdb-id">BDB3746</td><td class="pos">nom propre, masculin</td><td class="gloss">Benjaminites</td></tr>
+<tr><td><a href="../Entries_fr/BDB3747.html"><span class="hw">יָרַע</span></a></td><td class="bdb-id">BDB3747</td><td class="pos">verbe</td><td class="gloss">trembler</td></tr>
+<tr><td><a href="../Entries_fr/BDB3748.html"><span class="hw">יְרִיעָה</span></a></td><td class="bdb-id">BDB3748</td><td class="pos">nom féminin</td><td class="gloss">rideau</td></tr>
+<tr><td><a href="../Entries_fr/BDB3749.html"><span class="hw">יְרִיעוֺת</span></a></td><td class="bdb-id">BDB3749</td><td class="pos">nom propre, masculin</td><td class="gloss">seulement 1 Ch 2,18, où lire peut-être ׳בַּתיֿר pour ᵑ0 ׳וְאֶתיֿר</td></tr>
+<tr><td><a href="../Entries_fr/BDB3750.html"><span class="hw">ירק</span></a></td><td class="bdb-id">BDB3750</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3751.html"><span class="hw">יֶ֫רֶק</span></a></td><td class="bdb-id">BDB3751</td><td class="pos">nom masculin</td><td class="gloss">vert, verdure</td></tr>
+<tr><td><a href="../Entries_fr/BDB3752.html"><span class="hw">יָרָק</span></a></td><td class="bdb-id">BDB3752</td><td class="pos">nom [masculin]</td><td class="gloss">herbes</td></tr>
+<tr><td><a href="../Entries_fr/BDB3753.html"><span class="hw">יַרְקוֺן</span></a></td><td class="bdb-id">BDB3753</td><td class="pos"></td><td class="gloss">voir ci-dessous מַי</td></tr>
+<tr><td><a href="../Entries_fr/BDB3754.html"><span class="hw">יָרוֺק</span></a></td><td class="bdb-id">BDB3754</td><td class="pos">nom [masculin]</td><td class="gloss">verdure</td></tr>
+<tr><td><a href="../Entries_fr/BDB3755.html"><span class="hw">יֵרָקוֺן</span></a></td><td class="bdb-id">BDB3755</td><td class="pos">nom masculin</td><td class="gloss">rouille, pâleur, lividité</td></tr>
+<tr><td><a href="../Entries_fr/BDB3756.html"><span class="hw">יְרַקְרַק</span></a></td><td class="bdb-id">BDB3756</td><td class="pos">adjectif</td><td class="gloss">verdâtre, vert pâle</td></tr>
+<tr><td><a href="../Entries_fr/BDB3757.html"><span class="hw">יָרְקְעָ֑ם</span></a></td><td class="bdb-id">BDB3757</td><td class="pos">nom propre, masculin</td><td class="gloss">un nom en Juda</td></tr>
+<tr><td><a href="../Entries_fr/BDB3758.html"><span class="hw">יָרַק</span></a></td><td class="bdb-id">BDB3758</td><td class="pos">verbe</td><td class="gloss">cracher</td></tr>
+<tr><td><a href="../Entries_fr/BDB3759.html"><span class="hw">יָרַשׁ</span></a></td><td class="bdb-id">BDB3759</td><td class="pos">verbe</td><td class="gloss">prendre possession de, hériter, déposséder</td></tr>
+<tr><td><a href="../Entries_fr/BDB3760.html"><span class="hw">יְרֵשָׁה</span></a></td><td class="bdb-id">BDB3760</td><td class="pos">nom féminin</td><td class="gloss">une possession</td></tr>
+<tr><td><a href="../Entries_fr/BDB3761.html"><span class="hw">יְרוּשָׁא</span></a></td><td class="bdb-id">BDB3761</td><td class="pos">nom propre, féminin</td><td class="gloss">mère du roi Jotham</td></tr>
+<tr><td><a href="../Entries_fr/BDB3762.html"><span class="hw">יְרֻשָּׁה</span></a></td><td class="bdb-id">BDB3762</td><td class="pos">nom féminin</td><td class="gloss">possession, héritage</td></tr>
+<tr><td><a href="../Entries_fr/BDB3769.html"><span class="hw">יָשַׂם</span></a></td><td class="bdb-id">BDB3769</td><td class="pos">verbe</td><td class="gloss">voir שׂום, שׂים</td></tr>
+<tr><td><a href="../Entries_fr/BDB3770.html"><span class="hw">יִשְׂרָאֵל</span></a></td><td class="bdb-id">BDB3770</td><td class="pos">nom propre</td><td class="gloss">voir ci-dessous I. שׂרה</td></tr>
+<tr><td><a href="../Entries_fr/BDB3771.html"><span class="hw">יְשַׂרְאֵ֫לָה</span></a></td><td class="bdb-id">BDB3771</td><td class="pos">nom propre, masculin</td><td class="gloss">un fils d&#x27;Asaph</td></tr>
+<tr><td><a href="../Entries_fr/BDB3772.html"><span class="hw">יִשָּׂשכָר</span></a></td><td class="bdb-id">BDB3772</td><td class="pos">nom propre, masculin</td><td class="gloss">Issacar</td></tr>
+<tr><td><a href="../Entries_fr/BDB3773.html"><span class="hw">יֵשׁ</span></a></td><td class="bdb-id">BDB3773</td><td class="pos"></td><td class="gloss">être, substance, existence</td></tr>
+<tr><td><a href="../Entries_fr/BDB3774.html"><span class="hw">יָשַׁב</span></a></td><td class="bdb-id">BDB3774</td><td class="pos">verbe</td><td class="gloss">s&#x27;asseoir, rester, demeurer</td></tr>
+<tr><td><a href="../Entries_fr/BDB3777.html"><span class="hw">יֶשֶׁבְאָב</span></a></td><td class="bdb-id">BDB3777</td><td class="pos">nom propre, masculin</td><td class="gloss">Lévite du 14e cours</td></tr>
+<tr><td><a href="../Entries_fr/BDB3778.html"><span class="hw">ישֵׁב בַּשֶּׁ֫בֶת</span></a></td><td class="bdb-id">BDB3778</td><td class="pos">nom propre, masculin</td><td class="gloss">un des héros de David</td></tr>
+<tr><td><a href="../Entries_fr/BDB3779.html"><span class="hw">ישׁבו בְנֹב</span></a></td><td class="bdb-id">BDB3779</td><td class="pos">nom propre, masculin</td><td class="gloss">un Philistin géant</td></tr>
+<tr><td><a href="../Entries_fr/BDB3780.html"><span class="hw">יָשְׁבְּקָשָׁה</span></a></td><td class="bdb-id">BDB3780</td><td class="pos">nom propre, masculin</td><td class="gloss">un fils d&#x27;Héman</td></tr>
+<tr><td><a href="../Entries_fr/BDB3781.html"><span class="hw">יושִׁבְיָה</span></a></td><td class="bdb-id">BDB3781</td><td class="pos">nom propre, masculin</td><td class="gloss">un Siméonite</td></tr>
+<tr><td><a href="../Entries_fr/BDB3784.html"><span class="hw">יִשְׁבָּח</span></a></td><td class="bdb-id">BDB3784</td><td class="pos">nom propre, masculin</td><td class="gloss">voir שׁבח</td></tr>
+<tr><td><a href="../Entries_fr/BDB3785.html"><span class="hw">ישׁה</span></a></td><td class="bdb-id">BDB3785</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3787.html"><span class="hw">יוֺשָׁה</span></a></td><td class="bdb-id">BDB3787</td><td class="pos">nom propre, masculin</td><td class="gloss">un Siméonite</td></tr>
+<tr><td><a href="../Entries_fr/BDB3788.html"><span class="hw">יוֺשַׁוְיָה</span></a></td><td class="bdb-id">BDB3788</td><td class="pos">nom propre, masculin</td><td class="gloss">un des héros de David</td></tr>
+<tr><td><a href="../Entries_fr/BDB3789.html"><span class="hw">ישׁח</span></a></td><td class="bdb-id">BDB3789</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3790.html"><span class="hw">יֶ֫שַׁח</span></a></td><td class="bdb-id">BDB3790</td><td class="pos">nom [masculin]</td><td class="gloss">? vide</td></tr>
+<tr><td><a href="../Entries_fr/BDB3791.html"><span class="hw">יָשַׁט</span></a></td><td class="bdb-id">BDB3791</td><td class="pos">verbe</td><td class="gloss">étendre, tendre</td></tr>
+<tr><td><a href="../Entries_fr/BDB3792.html"><span class="hw">יִשַׁי</span></a></td><td class="bdb-id">BDB3792</td><td class="pos">nom propre, masculin</td><td class="gloss">père de David</td></tr>
+<tr><td><a href="../Entries_fr/BDB3793.html"><span class="hw">יָשִׁיב</span></a></td><td class="bdb-id">BDB3793</td><td class="pos">nom propre</td><td class="gloss">voir יָשׁוּב ci-dessous שׁוב</td></tr>
+<tr><td><a href="../Entries_fr/BDB3794.html"><span class="hw">יָשַׁם</span></a></td><td class="bdb-id">BDB3794</td><td class="pos">verbe</td><td class="gloss">être désolé</td></tr>
+<tr><td><a href="../Entries_fr/BDB3795.html"><span class="hw">יְשִׁימָה</span></a></td><td class="bdb-id">BDB3795</td><td class="pos">nom féminin</td><td class="gloss">désolation</td></tr>
+<tr><td><a href="../Entries_fr/BDB3796.html"><span class="hw">יְשִׁימוֺן</span></a></td><td class="bdb-id">BDB3796</td><td class="pos">nom masculin</td><td class="gloss">désolation, désert</td></tr>
+<tr><td><a href="../Entries_fr/BDB3797.html"><span class="hw">יִשְׁמָא</span></a></td><td class="bdb-id">BDB3797</td><td class="pos">nom propre, masculin</td><td class="gloss">un nom en Juda</td></tr>
+<tr><td><a href="../Entries_fr/BDB3798.html"><span class="hw">יָשֵׁן</span></a></td><td class="bdb-id">BDB3798</td><td class="pos">verbe</td><td class="gloss">dormir</td></tr>
+<tr><td><a href="../Entries_fr/BDB3799.html"><span class="hw">יָשֵׁן</span></a></td><td class="bdb-id">BDB3799</td><td class="pos">adjectif</td><td class="gloss">dormant</td></tr>
+<tr><td><a href="../Entries_fr/BDB3800.html"><span class="hw">יָשֵׁן</span></a></td><td class="bdb-id">BDB3800</td><td class="pos">nom propre, masculin</td><td class="gloss">un des héros de David</td></tr>
+<tr><td><a href="../Entries_fr/BDB3801.html"><span class="hw">יָשָׁן</span></a></td><td class="bdb-id">BDB3801</td><td class="pos">adjectif</td><td class="gloss">vieux</td></tr>
+<tr><td><a href="../Entries_fr/BDB3802.html"><span class="hw">יְשָׁנָה</span></a></td><td class="bdb-id">BDB3802</td><td class="pos">nom propre [d&#x27;un lieu]</td><td class="gloss">ville sur la frontière méridionale du royaume du Nord, près de Béthel</td></tr>
+<tr><td><a href="../Entries_fr/BDB3804.html"><span class="hw">יָשַׁע</span></a></td><td class="bdb-id">BDB3804</td><td class="pos">verbe</td><td class="gloss">délivrer</td></tr>
+<tr><td><a href="../Entries_fr/BDB3805.html"><span class="hw">יֵ֫שַׁע</span></a></td><td class="bdb-id">BDB3805</td><td class="pos">nom masculin</td><td class="gloss">délivrance, secours, salut</td></tr>
+<tr><td><a href="../Entries_fr/BDB3806.html"><span class="hw">יְשׁוּעָה</span></a></td><td class="bdb-id">BDB3806</td><td class="pos">nom féminin</td><td class="gloss">salut</td></tr>
+<tr><td><a href="../Entries_fr/BDB3813.html"><span class="hw">יִשְׁעִי</span></a></td><td class="bdb-id">BDB3813</td><td class="pos">nom propre, masculin</td><td class="gloss">un de la lignée de Yerahmeél</td></tr>
+<tr><td><a href="../Entries_fr/BDB3814.html"><span class="hw">יְשַׁעְיָ֫הוּ</span></a></td><td class="bdb-id">BDB3814</td><td class="pos">nom propre, masculin</td><td class="gloss">Ésaïe, fils d&#x27;Amos, le prophète</td></tr>
+<tr><td><a href="../Entries_fr/BDB3815.html"><span class="hw">ישׁעיה</span></a></td><td class="bdb-id">BDB3815</td><td class="pos">nom propre, masculin</td><td class="gloss">petit-fils de Zorobabel</td></tr>
+<tr><td><a href="../Entries_fr/BDB3818.html"><span class="hw">יְהוֺשֻׁעַ</span></a></td><td class="bdb-id">BDB3818</td><td class="pos">nom propre</td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3823.html"><span class="hw">יָָֽשְׁפֶה</span></a></td><td class="bdb-id">BDB3823</td><td class="pos">nom [masculin]</td><td class="gloss">jaspe</td></tr>
+<tr><td><a href="../Entries_fr/BDB3824.html"><span class="hw">יָשַׁר</span></a></td><td class="bdb-id">BDB3824</td><td class="pos">verbe</td><td class="gloss">être lisse, droit, juste</td></tr>
+<tr><td><a href="../Entries_fr/BDB3825.html"><span class="hw">יָשָׁר</span></a></td><td class="bdb-id">BDB3825</td><td class="pos">adjectif</td><td class="gloss">droit, juste</td></tr>
+<tr><td><a href="../Entries_fr/BDB3826.html"><span class="hw">י֫שֶׁר</span></a></td><td class="bdb-id">BDB3826</td><td class="pos">nom masculin</td><td class="gloss">droiture, rectitude</td></tr>
+<tr><td><a href="../Entries_fr/BDB3827.html"><span class="hw">יֶ֫שֶׁר</span></a></td><td class="bdb-id">BDB3827</td><td class="pos">nom propre, masculin</td><td class="gloss">fils de Caleb</td></tr>
+<tr><td><a href="../Entries_fr/BDB3828.html"><span class="hw">יְשָׁרָה</span></a></td><td class="bdb-id">BDB3828</td><td class="pos">nom féminin</td><td class="gloss">droiture</td></tr>
+<tr><td><a href="../Entries_fr/BDB3829.html"><span class="hw">יְשֻׁרוּן</span></a></td><td class="bdb-id">BDB3829</td><td class="pos">nom propre, masculin</td><td class="gloss">nom poétique d&#x27;Israël, le désignant sous son caractère idéal</td></tr>
+<tr><td><a href="../Entries_fr/BDB3834.html"><span class="hw">ישׁשׁ</span></a></td><td class="bdb-id">BDB3834</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3835.html"><span class="hw">יָשֵׁשׁ</span></a></td><td class="bdb-id">BDB3835</td><td class="pos">adjectif</td><td class="gloss">âgé, décrépit</td></tr>
+<tr><td><a href="../Entries_fr/BDB3836.html"><span class="hw">יָשִׁישׁ</span></a></td><td class="bdb-id">BDB3836</td><td class="pos">adjectif</td><td class="gloss">âgé</td></tr>
+<tr><td><a href="../Entries_fr/BDB3837.html"><span class="hw">יְשִׁישַׁי</span></a></td><td class="bdb-id">BDB3837</td><td class="pos">nom propre, masculin</td><td class="gloss">un nom galaadite</td></tr>
+<tr><td><a href="../Entries_fr/BDB3838.html"><span class="hw">יתד</span></a></td><td class="bdb-id">BDB3838</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3839.html"><span class="hw">יָתֵד</span></a></td><td class="bdb-id">BDB3839</td><td class="pos">nom féminin</td><td class="gloss">cheville, piquet</td></tr>
+<tr><td><a href="../Entries_fr/BDB3840.html"><span class="hw">יְתוּר</span></a></td><td class="bdb-id">BDB3840</td><td class="pos"></td><td class="gloss">voir תור</td></tr>
+<tr><td><a href="../Entries_fr/BDB3841.html"><span class="hw">יתח</span></a></td><td class="bdb-id">BDB3841</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3843.html"><span class="hw">יתם</span></a></td><td class="bdb-id">BDB3843</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3844.html"><span class="hw">יָתוֺם</span></a></td><td class="bdb-id">BDB3844</td><td class="pos">nom [masculin]</td><td class="gloss">orphelin</td></tr>
+<tr><td><a href="../Entries_fr/BDB3845.html"><span class="hw">יִתְמָה</span></a></td><td class="bdb-id">BDB3845</td><td class="pos">nom propre, masculin</td><td class="gloss">un des vaillants guerriers de David, appelé הַמּוֺאָבִי</td></tr>
+<tr><td><a href="../Entries_fr/BDB3846.html"><span class="hw">יתן</span></a></td><td class="bdb-id">BDB3846</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3849.html"><span class="hw">יִתְנָ֑ן</span></a></td><td class="bdb-id">BDB3849</td><td class="pos">nom propre [d&#x27;un lieu]</td><td class="gloss">ville dans le Néguev de Juda</td></tr>
+<tr><td><a href="../Entries_fr/BDB3850.html"><span class="hw">יָתַר</span></a></td><td class="bdb-id">BDB3850</td><td class="pos">verbe</td><td class="gloss">rester en surplus</td></tr>
+<tr><td><a href="../Entries_fr/BDB3851.html"><span class="hw">יָתֵר</span></a></td><td class="bdb-id">BDB3851</td><td class="pos"></td><td class="gloss">voir תור</td></tr>
+<tr><td><a href="../Entries_fr/BDB3852.html"><span class="hw">יֶ֫תֶר</span></a></td><td class="bdb-id">BDB3852</td><td class="pos">nom masculin</td><td class="gloss">reste, excellence, excès</td></tr>
+<tr><td><a href="../Entries_fr/BDB3853.html"><span class="hw">יֶ֫תֶר</span></a></td><td class="bdb-id">BDB3853</td><td class="pos">nom masculin</td><td class="gloss">corde</td></tr>
+<tr><td><a href="../Entries_fr/BDB3854.html"><span class="hw">יֶ֫תֶר</span></a></td><td class="bdb-id">BDB3854</td><td class="pos">nom propre, masculin</td><td class="gloss">père de la femme de Moïse</td></tr>
+<tr><td><a href="../Entries_fr/BDB3855.html"><span class="hw">יִתְרָא</span></a></td><td class="bdb-id">BDB3855</td><td class="pos">nom propre, masculin</td><td class="gloss">père d&#x27;Amasa</td></tr>
+<tr><td><a href="../Entries_fr/BDB3856.html"><span class="hw">יִתְרָה</span></a></td><td class="bdb-id">BDB3856</td><td class="pos">nom féminin</td><td class="gloss">abondance, richesses</td></tr>
+<tr><td><a href="../Entries_fr/BDB3857.html"><span class="hw">יִתְרוֺ</span></a></td><td class="bdb-id">BDB3857</td><td class="pos">nom propre, masculin</td><td class="gloss">beau-père de Moïse</td></tr>
+<tr><td><a href="../Entries_fr/BDB3858.html"><span class="hw">יִתְרִי</span></a></td><td class="bdb-id">BDB3858</td><td class="pos">adjectif [d&#x27;un peuple]</td><td class="gloss">toujours avec l&#x27;article הַיִּתְרִי</td></tr>
+<tr><td><a href="../Entries_fr/BDB3859.html"><span class="hw">יוֺתֵר</span></a></td><td class="bdb-id">BDB3859</td><td class="pos">nom masculin</td><td class="gloss">supériorité, avantage, excès</td></tr>
+<tr><td><a href="../Entries_fr/BDB3860.html"><span class="hw">יֹתֶ֫רֶת</span></a></td><td class="bdb-id">BDB3860</td><td class="pos">nom féminin</td><td class="gloss">appendice</td></tr>
+<tr><td><a href="../Entries_fr/BDB3861.html"><span class="hw">יִתְרוֺן</span></a></td><td class="bdb-id">BDB3861</td><td class="pos">nom [masculin]</td><td class="gloss">avantage, profit</td></tr>
+<tr><td><a href="../Entries_fr/BDB3862.html"><span class="hw">יִתְרָן</span></a></td><td class="bdb-id">BDB3862</td><td class="pos">nom propre, masculin</td><td class="gloss">un Édomite</td></tr>
+<tr><td><a href="../Entries_fr/BDB3866.html"><span class="hw">יַתִּיר</span></a></td><td class="bdb-id">BDB3866</td><td class="pos">nom propre [d&#x27;un lieu]</td><td class="gloss">ville en Juda</td></tr>
+<tr><td><a href="../Entries_fr/BDB3867.html"><span class="hw">יִתְרְעָם</span></a></td><td class="bdb-id">BDB3867</td><td class="pos">nom masculin</td><td class="gloss">6e fils de David</td></tr>
+<tr><td><a href="../Entries_fr/BDB3868.html"><span class="hw">יְתֵת</span></a></td><td class="bdb-id">BDB3868</td><td class="pos">nom propre, masculin</td><td class="gloss">un chef édomite</td></tr>
+<tr><td><a href="../Entries_fr/BDB3948.html"><span class="hw">יָכִין</span></a></td><td class="bdb-id">BDB3948</td><td class="pos">nom propre, masculin</td><td class="gloss">un Siméonite</td></tr>
+<tr><td><a href="../Entries_fr/BDB3949.html"><span class="hw">יָכִינִי</span></a></td><td class="bdb-id">BDB3949</td><td class="pos">adjectif [d&#x27;un peuple]</td><td class="gloss">de יָכִין 1, avec l&#x27;article comme nom collectif</td></tr>
+<tr><td><a href="../Entries_fr/BDB3950.html"><span class="hw">יְכוֺנְיָה</span></a></td><td class="bdb-id">BDB3950</td><td class="pos">nom propre, masculin</td><td class="gloss">tous de l&#x27;avant-dernier roi de Juda, voir יְהוֺיָכִין ci-dessus</td></tr>
+<tr><td><a href="../Entries_fr/BDB4460.html"><span class="hw">יַלְקוּט</span></a></td><td class="bdb-id">BDB4460</td><td class="pos">nom [masculin]</td><td class="gloss">besace (?)</td></tr>
+<tr><td><a href="../Entries_fr/BDB4656.html"><span class="hw">יִמְלָה</span></a></td><td class="bdb-id">BDB4656</td><td class="pos">nom propre, masculin</td><td class="gloss">père du prophète Michée d&#x27;Israël :</td></tr>
+<tr><td><a href="../Entries_fr/BDB4689.html"><span class="hw">יַמְלֵךְ</span></a></td><td class="bdb-id">BDB4689</td><td class="pos">nom propre, masculin</td><td class="gloss">un Siméonite</td></tr>
+<tr><td><a href="../Entries_fr/BDB4729.html"><span class="hw">יִמְנָע</span></a></td><td class="bdb-id">BDB4729</td><td class="pos">nom propre, masculin</td><td class="gloss">fils de Helem (d&#x27;Aser)</td></tr>
+<tr><td><a href="../Entries_fr/BDB4808.html"><span class="hw">יִמְרָה</span></a></td><td class="bdb-id">BDB4808</td><td class="pos">nom propre, masculin</td><td class="gloss">un chef d&#x27;Aser</td></tr>
+<tr><td><a href="../Entries_fr/BDB5055.html"><span class="hw">יָנוֺחַ</span></a></td><td class="bdb-id">BDB5055</td><td class="pos">nom propre [d&#x27;un lieu]</td><td class="gloss">à l&#x27;extrême nord d&#x27;Israël</td></tr>
+<tr><td><a href="../Entries_fr/BDB5056.html"><span class="hw">יָנ֫וֺחָה</span></a></td><td class="bdb-id">BDB5056</td><td class="pos">nom propre [d&#x27;un lieu]</td><td class="gloss">à la frontière d&#x27;Éphraïm</td></tr>
+<tr><td><a href="../Entries_fr/BDB5068.html"><span class="hw">יָנוּם</span></a></td><td class="bdb-id">BDB5068</td><td class="pos">nom propre [d&#x27;un lieu]</td><td class="gloss">ville de Juda</td></tr>
+<tr><td><a href="../Entries_fr/BDB5095.html"><span class="hw">יִזִּיָּה</span></a></td><td class="bdb-id">BDB5095</td><td class="pos">nom propre, masculin</td><td class="gloss">un de ceux qui prirent des femmes étrangères</td></tr>
+<tr><td><a href="../Entries_fr/BDB5154.html"><span class="hw">יֻטָּה</span></a></td><td class="bdb-id">BDB5154</td><td class="pos">nom propre [d&#x27;un lieu]</td><td class="gloss">ville en Juda</td></tr>
+<tr><td><a href="../Entries_fr/BDB5414.html"><span class="hw">יִשִּׁיָּהוּ</span></a></td><td class="bdb-id">BDB5414</td><td class="pos">nom propre, masculin</td><td class="gloss">un des héros de David</td></tr>
+<tr><td><a href="../Entries_fr/BDB5426.html"><span class="hw">יַנְשׁוּף</span></a></td><td class="bdb-id">BDB5426</td><td class="pos">nom [masculin]</td><td class="gloss">un oiseau</td></tr>
+<tr><td><a href="../Entries_fr/BDB5633.html"><span class="hw">יִסְמַכְיָ֫הוּ</span></a></td><td class="bdb-id">BDB5633</td><td class="pos">nom propre, masculin</td><td class="gloss">nom lévitique</td></tr>
+<tr><td><a href="../Entries_fr/BDB5764.html"><span class="hw">יַעְבֵּץ</span></a></td><td class="bdb-id">BDB5764</td><td class="pos">nom propre</td><td class="gloss">Jabets</td></tr>
+<tr><td><a href="../Entries_fr/BDB5906.html"><span class="hw">יעוּץ</span></a></td><td class="bdb-id">BDB5906</td><td class="pos">nom propre, masculin</td><td class="gloss">nom benjaminite</td></tr>
+<tr><td><a href="../Entries_fr/BDB5921.html"><span class="hw">יָעוֺר</span></a></td><td class="bdb-id">BDB5921</td><td class="pos">nom propre, masculin</td><td class="gloss">père d&#x27;Elhanan, le tueur de géant</td></tr>
+<tr><td><a href="../Entries_fr/BDB5930.html"><span class="hw">יְעוּשׁ</span></a></td><td class="bdb-id">BDB5930</td><td class="pos">nom propre, masculin</td><td class="gloss">fils d&#x27;Ésaü</td></tr>
+<tr><td><a href="../Entries_fr/BDB5959.html"><span class="hw">יַעֲזִיָּ֫הוּ</span></a></td><td class="bdb-id">BDB5959</td><td class="pos">nom propre, masculin</td><td class="gloss">nom de lévite</td></tr>
+<tr><td><a href="../Entries_fr/BDB5981.html"><span class="hw">יַּעְזֵר</span></a></td><td class="bdb-id">BDB5981</td><td class="pos">nom propre [d&#x27;un lieu]</td><td class="gloss">à l&#x27;est du Jourdain</td></tr>
+<tr><td><a href="../Entries_fr/BDB6055.html"><span class="hw">יַעְכָּן</span></a></td><td class="bdb-id">BDB6055</td><td class="pos">nom propre, masculin</td><td class="gloss">Gadite</td></tr>
+<tr><td><a href="../Entries_fr/BDB6113.html"><span class="hw">יַעְלָם</span></a></td><td class="bdb-id">BDB6113</td><td class="pos">nom propre, masculin</td><td class="gloss">Édomite</td></tr>
+<tr><td><a href="../Entries_fr/BDB6202.html"><span class="hw">יַעַן</span></a></td><td class="bdb-id">BDB6202</td><td class="pos">préposition</td><td class="gloss">but, intention</td></tr>
+<tr><td><a href="../Entries_fr/BDB6317.html"><span class="hw">יַּעֲקב</span></a></td><td class="bdb-id">BDB6317</td><td class="pos">nom propre, masculin et [d&#x27;un peuple]</td><td class="gloss">Jacob</td></tr>
+<tr><td><a href="../Entries_fr/BDB6318.html"><span class="hw">יַעֲקֹ֫בָה</span></a></td><td class="bdb-id">BDB6318</td><td class="pos">nom propre, masculin</td><td class="gloss">Siméonite</td></tr>
+<tr><td><a href="../Entries_fr/BDB6425.html"><span class="hw">יַעֲרֶשְׁיָה</span></a></td><td class="bdb-id">BDB6425</td><td class="pos">nom propre, masculin</td><td class="gloss">Benjaminite</td></tr>
+<tr><td><a href="../Entries_fr/BDB6433.html"><span class="hw">יַעֲשִׂיאֵל</span></a></td><td class="bdb-id">BDB6433</td><td class="pos">nom propre, masculin</td><td class="gloss">héros de David</td></tr>
+<tr><td><a href="../Entries_fr/BDB6649.html"><span class="hw">יַפְלֵט</span></a></td><td class="bdb-id">BDB6649</td><td class="pos">nom propre, masculin</td><td class="gloss">Ashérite</td></tr>
+<tr><td><a href="../Entries_fr/BDB6650.html"><span class="hw">יַפְלֵטִי</span></a></td><td class="bdb-id">BDB6650</td><td class="pos">adjectif [d&#x27;un peuple]</td><td class="gloss">famille ou clan à la frontière sud-ouest d&#x27;Éphraïm</td></tr>
+<tr><td><a href="../Entries_fr/BDB6685.html"><span class="hw">יְפֻנֶּה</span></a></td><td class="bdb-id">BDB6685</td><td class="pos">nom propre, masculin</td><td class="gloss">père de Caleb</td></tr>
+<tr><td><a href="../Entries_fr/BDB6862.html"><span class="hw">יֶ֫פֶת</span></a></td><td class="bdb-id">BDB6862</td><td class="pos">nom propre, masculin</td><td class="gloss">troisième fils de Noé</td></tr>
+<tr><td><a href="../Entries_fr/BDB6871.html"><span class="hw">יִפְתָּח</span></a></td><td class="bdb-id">BDB6871</td><td class="pos">nom propre</td><td class="gloss">Jephté</td></tr>
+<tr><td><a href="../Entries_fr/BDB6872.html"><span class="hw">יִפְתַּחאֵֿל</span></a></td><td class="bdb-id">BDB6872</td><td class="pos">nom propre [d&#x27;un lieu]</td><td class="gloss">vallée entre Zabulon et Asser</td></tr>
+<tr><td><a href="../Entries_fr/BDB6955.html"><span class="hw">יִצְהָר</span></a></td><td class="bdb-id">BDB6955</td><td class="pos">nom [masculin]</td><td class="gloss">huile fraîche</td></tr>
+<tr><td><a href="../Entries_fr/BDB6957.html"><span class="hw">יִצְהָר</span></a></td><td class="bdb-id">BDB6957</td><td class="pos">nom propre, masculin</td><td class="gloss">Lévite, fils de Qehath</td></tr>
+<tr><td><a href="../Entries_fr/BDB6958.html"><span class="hw">יִצְהָרִי</span></a></td><td class="bdb-id">BDB6958</td><td class="pos">adjectif [d&#x27;un peuple]</td><td class="gloss">du précédent, avec l&#x27;article comme substantif collectif</td></tr>
+<tr><td><a href="../Entries_fr/BDB7037.html"><span class="hw">יִצְחָק</span></a></td><td class="bdb-id">BDB7037</td><td class="pos">nom propre, masculin</td><td class="gloss">Isaac</td></tr>
+<tr><td><a href="../Entries_fr/BDB7042.html"><span class="hw">יִצְחָר</span></a></td><td class="bdb-id">BDB7042</td><td class="pos"></td><td class="gloss">voir le précédent</td></tr>
+<tr><td><a href="../Entries_fr/BDB7368.html"><span class="hw">יְקוּם</span></a></td><td class="bdb-id">BDB7368</td><td class="pos">nom [masculin]</td><td class="gloss">substance, existence</td></tr>
+<tr><td><a href="../Entries_fr/BDB7369.html"><span class="hw">יָקִים</span></a></td><td class="bdb-id">BDB7369</td><td class="pos">nom propre, masculin</td><td class="gloss">Benjaminite</td></tr>
+<tr><td><a href="../Entries_fr/BDB7373.html"><span class="hw">יְקַמְיָה</span></a></td><td class="bdb-id">BDB7373</td><td class="pos">nom propre, masculin</td><td class="gloss">en Juda</td></tr>
+<tr><td><a href="../Entries_fr/BDB7374.html"><span class="hw">יְקַמְעָם</span></a></td><td class="bdb-id">BDB7374</td><td class="pos">nom propre, masculin</td><td class="gloss">un Lévite</td></tr>
+<tr><td><a href="../Entries_fr/BDB7375.html"><span class="hw">יָקְמְעָם</span></a></td><td class="bdb-id">BDB7375</td><td class="pos">nom propre [d&#x27;un lieu]</td><td class="gloss">dans le nord d&#x27;Israël</td></tr>
+<tr><td><a href="../Entries_fr/BDB7669.html"><span class="hw">יִרְאִיָּיה</span></a></td><td class="bdb-id">BDB7669</td><td class="pos">nom propre, masculin</td><td class="gloss">officier, époque de Jérémie</td></tr>
+<tr><td><a href="../Entries_fr/BDB7700.html"><span class="hw">יָָֽרָבְעָם</span></a></td><td class="bdb-id">BDB7700</td><td class="pos">nom propre, masculin</td><td class="gloss">Jéroboam</td></tr>
+<tr><td><a href="../Entries_fr/BDB7870.html"><span class="hw">יְרֹחָם</span></a></td><td class="bdb-id">BDB7870</td><td class="pos">nom propre, masculin</td><td class="gloss">père d&#x27;Elqana, grand-père de Samuel, Éphraïmite</td></tr>
+<tr><td><a href="../Entries_fr/BDB7871.html"><span class="hw">יְרַחְמְאֵל</span></a></td><td class="bdb-id">BDB7871</td><td class="pos">nom propre, masculin</td><td class="gloss">nom en Juda</td></tr>
+<tr><td><a href="../Entries_fr/BDB7872.html"><span class="hw">יְרַחְמְאֵלִי</span></a></td><td class="bdb-id">BDB7872</td><td class="pos">adjectif [d&#x27;un peuple]</td><td class="gloss">antérieur au précédent ; comme nom tribal avant nom propre, masculin</td></tr>
+<tr><td><a href="../Entries_fr/BDB7900.html"><span class="hw">יָרֵב</span></a></td><td class="bdb-id">BDB7900</td><td class="pos">nom masculin</td><td class="gloss">du roi d&#x27;Assyrie</td></tr>
+<tr><td><a href="../Entries_fr/BDB7901.html"><span class="hw">יָרִיב</span></a></td><td class="bdb-id">BDB7901</td><td class="pos">nom [masculin]</td><td class="gloss">adversaire, opposant</td></tr>
+<tr><td><a href="../Entries_fr/BDB7902.html"><span class="hw">יָרִיב</span></a></td><td class="bdb-id">BDB7902</td><td class="pos">nom propre, masculin</td><td class="gloss">fils de Siméon</td></tr>
+<tr><td><a href="../Entries_fr/BDB7903.html"><span class="hw">יְרִיבַי</span></a></td><td class="bdb-id">BDB7903</td><td class="pos">nom propre, masculin</td><td class="gloss">un héros de David</td></tr>
+<tr><td><a href="../Entries_fr/BDB7906.html"><span class="hw">יְרֻבַּ֫עַל</span></a></td><td class="bdb-id">BDB7906</td><td class="pos">nom propre, masculin</td><td class="gloss">nom donné à Gédéon</td></tr>
+<tr><td><a href="../Entries_fr/BDB7907.html"><span class="hw">יְרֻבֶּ֫שֶׁת</span></a></td><td class="bdb-id">BDB7907</td><td class="pos"></td><td class="gloss">voir le précédent</td></tr>
+<tr><td><a href="../Entries_fr/BDB7952.html"><span class="hw">יִרְמְיָ֫ה(וּׅ</span></a></td><td class="bdb-id">BDB7952</td><td class="pos">nom propre, masculin</td><td class="gloss">prophète, fils de Hilkiah, de famille sacerdotale à Anathoth</td></tr>
+<tr><td><a href="../Entries_fr/BDB8051.html"><span class="hw">יִרְפְּאֵל</span></a></td><td class="bdb-id">BDB8051</td><td class="pos">nom propre [d&#x27;un lieu]</td><td class="gloss">en Benjamin</td></tr>
+<tr><td><a href="../Entries_fr/BDB809.html"><span class="hw">יאֹשִׁיָּ֫הוּ</span></a></td><td class="bdb-id">BDB809</td><td class="pos">nom propre, masculin</td><td class="gloss">roi de Juda, fils d&#x27;Amon</td></tr>
+<tr><td><a href="../Entries_fr/BDB8186.html"><span class="hw">יְשִׂימִאֵל</span></a></td><td class="bdb-id">BDB8186</td><td class="pos">nom propre, masculin</td><td class="gloss">Siméonite</td></tr>
+<tr><td><a href="../Entries_fr/BDB8201.html"><span class="hw">יִשְׂחָק</span></a></td><td class="bdb-id">BDB8201</td><td class="pos">nom propre, masculin</td><td class="gloss">voir ci-dessous צחק</td></tr>
+<tr><td><a href="../Entries_fr/BDB8317.html"><span class="hw">יִשְׂרָאֵל</span></a></td><td class="bdb-id">BDB8317</td><td class="pos">nom propre, masculin [aussi d&#x27;un peuple]</td><td class="gloss">Israël</td></tr>
+<tr><td><a href="../Entries_fr/BDB8318.html"><span class="hw">יִשְׂרְאֵלִי</span></a></td><td class="bdb-id">BDB8318</td><td class="pos">adjectif [d&#x27;un peuple]</td><td class="gloss">du précédent</td></tr>
+<tr><td><a href="../Entries_fr/BDB8408.html"><span class="hw">יִשְׁבַּח</span></a></td><td class="bdb-id">BDB8408</td><td class="pos">nom propre, masculin</td><td class="gloss">en Juda</td></tr>
+<tr><td><a href="../Entries_fr/BDB8441.html"><span class="hw">יִשְׁבָּק</span></a></td><td class="bdb-id">BDB8441</td><td class="pos">nom propre, masculin</td><td class="gloss">fils d&#x27;Abraham et de Qetoura</td></tr>
+<tr><td><a href="../Entries_fr/BDB8508.html"><span class="hw">יָשׁוּב</span></a></td><td class="bdb-id">BDB8508</td><td class="pos">nom propre, masculin</td><td class="gloss">en Issachar</td></tr>
+<tr><td><a href="../Entries_fr/BDB8509.html"><span class="hw">יָשֻׁבִי</span></a></td><td class="bdb-id">BDB8509</td><td class="pos">adjectif [d&#x27;un peuple]</td><td class="gloss">du précédent 1 ; avec l&#x27;article comme substantif collectif</td></tr>
+<tr><td><a href="../Entries_fr/BDB8510.html"><span class="hw">יָשֻׁ֫בִי לָ֑חֶם</span></a></td><td class="bdb-id">BDB8510</td><td class="pos">nom propre, masculin</td><td class="gloss">en Juda</td></tr>
+<tr><td><a href="../Entries_fr/BDB8511.html"><span class="hw">יָָֽשָׁבְעָם</span></a></td><td class="bdb-id">BDB8511</td><td class="pos">nom propre, masculin</td><td class="gloss">un héros de David</td></tr>
+<tr><td><a href="../Entries_fr/BDB8512.html"><span class="hw">יוּשַׁב חֶ֖סֶד</span></a></td><td class="bdb-id">BDB8512</td><td class="pos">nom propre, masculin</td><td class="gloss">fils de Zorobabel</td></tr>
+<tr><td><a href="../Entries_fr/BDB8522.html"><span class="hw">יִשְׁוָה</span></a></td><td class="bdb-id">BDB8522</td><td class="pos">nom propre, masculin</td><td class="gloss">en Aser</td></tr>
+<tr><td><a href="../Entries_fr/BDB8523.html"><span class="hw">יִשְׁוִי</span></a></td><td class="bdb-id">BDB8523</td><td class="pos">nom propre, masculin</td><td class="gloss">en Asser</td></tr>
+<tr><td><a href="../Entries_fr/BDB8524.html"><span class="hw">יִשְׁוִי</span></a></td><td class="bdb-id">BDB8524</td><td class="pos">adjectif [d&#x27;un peuple]</td><td class="gloss">du précédent 1 ; avec l&#x27;article comme nom collectif</td></tr>
+<tr><td><a href="../Entries_fr/BDB8586.html"><span class="hw">יְשׁוֺחָיָה</span></a></td><td class="bdb-id">BDB8586</td><td class="pos">nom propre, masculin</td><td class="gloss">en Siméon</td></tr>
+<tr><td><a href="../Entries_fr/BDB8838.html"><span class="hw">יִשְׁמָעֵאל</span></a></td><td class="bdb-id">BDB8838</td><td class="pos">nom propre, masculin</td><td class="gloss">fils d&#x27;Abraham et d&#x27;Agar</td></tr>
+<tr><td><a href="../Entries_fr/BDB8839.html"><span class="hw">יִשְׁמְעֵאלִי</span></a></td><td class="bdb-id">BDB8839</td><td class="pos">adjectif [d&#x27;un peuple]</td><td class="gloss">de ׳ יִשׁ 1</td></tr>
+<tr><td><a href="../Entries_fr/BDB8840.html"><span class="hw">יִשְׁמַעְיָ֫ה(וּׅ</span></a></td><td class="bdb-id">BDB8840</td><td class="pos">nom propre, masculin</td><td class="gloss">Gabaonite, un des héros de David</td></tr>
+<tr><td><a href="../Entries_fr/BDB8864.html"><span class="hw">יִשְׁמְרַי</span></a></td><td class="bdb-id">BDB8864</td><td class="pos">nom propre, masculin</td><td class="gloss">en Benjamin</td></tr>
+<tr><td><a href="../Entries_fr/BDB8945.html"><span class="hw">יִשְׁפָּה</span></a></td><td class="bdb-id">BDB8945</td><td class="pos">nom propre, masculin</td><td class="gloss">en Benjamin</td></tr>
+<tr><td><a href="../Entries_fr/BDB8978.html"><span class="hw">יִשְׁפָּן</span></a></td><td class="bdb-id">BDB8978</td><td class="pos">nom propre, masculin</td><td class="gloss">dans Benjamin</td></tr>
+<tr><td><a href="../Entries_fr/BDB9131.html"><span class="hw">יְתוֺר</span></a></td><td class="bdb-id">BDB9131</td><td class="pos">nom masculin</td><td class="gloss">apparemment nom masculin une recherche, mais voir √</td></tr>
+<tr><td><a href="../Entries_fr/BDB9162.html"><span class="hw">יִתְלָה</span></a></td><td class="bdb-id">BDB9162</td><td class="pos">nom propre [d&#x27;un lieu]</td><td class="gloss">dans Dan (sud)</td></tr>
+<tr><td><a href="../Entries_fr/BDB9204.html"><span class="hw">יַתְנִיאֵל</span></a></td><td class="bdb-id">BDB9204</td><td class="pos">nom propre, masculin</td><td class="gloss">un Lévite</td></tr>
+<tr><td><a href="../Entries_fr/BDB9567.html"><span class="hw">יבֶּ֫שֶׁת</span></a></td><td class="bdb-id">BDB9567</td><td class="pos">nom féminin</td><td class="gloss">terre</td></tr>
+<tr><td><a href="../Entries_fr/BDB9568.html"><span class="hw">יְגַּר</span></a></td><td class="bdb-id">BDB9568</td><td class="pos">nom [masculin]</td><td class="gloss">tas</td></tr>
+<tr><td><a href="../Entries_fr/BDB9569.html"><span class="hw">יַד</span></a></td><td class="bdb-id">BDB9569</td><td class="pos">nom féminin</td><td class="gloss">main</td></tr>
+<tr><td><a href="../Entries_fr/BDB9570.html"><span class="hw">יְדָא</span></a></td><td class="bdb-id">BDB9570</td><td class="pos">verbe</td><td class="gloss">louer</td></tr>
+<tr><td><a href="../Entries_fr/BDB9571.html"><span class="hw">יְדַע</span></a></td><td class="bdb-id">BDB9571</td><td class="pos">verbe</td><td class="gloss">connaître</td></tr>
+<tr><td><a href="../Entries_fr/BDB9573.html"><span class="hw">יְהַב</span></a></td><td class="bdb-id">BDB9573</td><td class="pos">verbe</td><td class="gloss">donner</td></tr>
+<tr><td><a href="../Entries_fr/BDB9574.html"><span class="hw">יְהוּד</span></a></td><td class="bdb-id">BDB9574</td><td class="pos">nom propre [d&#x27;un territoire]</td><td class="gloss">Juda</td></tr>
+<tr><td><a href="../Entries_fr/BDB9575.html"><span class="hw">יְהוּדַי</span></a></td><td class="bdb-id">BDB9575</td><td class="pos">nom [d&#x27;un peuple]</td><td class="gloss">Juif</td></tr>
+<tr><td><a href="../Entries_fr/BDB9576.html"><span class="hw">יוֺם</span></a></td><td class="bdb-id">BDB9576</td><td class="pos">nom masculin</td><td class="gloss">jour</td></tr>
+<tr><td><a href="../Entries_fr/BDB9577.html"><span class="hw">יוֺצָדָק</span></a></td><td class="bdb-id">BDB9577</td><td class="pos">nom propre, masculin</td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB9578.html"><span class="hw">יחם</span></a></td><td class="bdb-id">BDB9578</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB9580.html"><span class="hw">יְטַב</span></a></td><td class="bdb-id">BDB9580</td><td class="pos">verbe</td><td class="gloss">être (bon,) agréable</td></tr>
+<tr><td><a href="../Entries_fr/BDB9581.html"><span class="hw">יְכִל</span></a></td><td class="bdb-id">BDB9581</td><td class="pos">verbe</td><td class="gloss">pouvoir</td></tr>
+<tr><td><a href="../Entries_fr/BDB9582.html"><span class="hw">יַם</span></a></td><td class="bdb-id">BDB9582</td><td class="pos">nom masculin</td><td class="gloss">mer</td></tr>
+<tr><td><a href="../Entries_fr/BDB9583.html"><span class="hw">יְסַף</span></a></td><td class="bdb-id">BDB9583</td><td class="pos">verbe</td><td class="gloss">ajouter</td></tr>
+<tr><td><a href="../Entries_fr/BDB9584.html"><span class="hw">יְעַט</span></a></td><td class="bdb-id">BDB9584</td><td class="pos">verbe</td><td class="gloss">conseiller</td></tr>
+<tr><td><a href="../Entries_fr/BDB9585.html"><span class="hw">יָעֵט</span></a></td><td class="bdb-id">BDB9585</td><td class="pos">nom masculin</td><td class="gloss">conseiller</td></tr>
+<tr><td><a href="../Entries_fr/BDB9587.html"><span class="hw">יְצַב</span></a></td><td class="bdb-id">BDB9587</td><td class="pos">verbe</td><td class="gloss">rendre certain, acquérir la certitude</td></tr>
+<tr><td><a href="../Entries_fr/BDB9588.html"><span class="hw">יַצִיב</span></a></td><td class="bdb-id">BDB9588</td><td class="pos">adjectif</td><td class="gloss">certain, vrai</td></tr>
+<tr><td><a href="../Entries_fr/BDB9589.html"><span class="hw">יְקַד</span></a></td><td class="bdb-id">BDB9589</td><td class="pos">verbe</td><td class="gloss">brûler</td></tr>
+<tr><td><a href="../Entries_fr/BDB9590.html"><span class="hw">יְקֵדָה</span></a></td><td class="bdb-id">BDB9590</td><td class="pos">nom féminin</td><td class="gloss">embrasement</td></tr>
+<tr><td><a href="../Entries_fr/BDB9591.html"><span class="hw">יְקָר</span></a></td><td class="bdb-id">BDB9591</td><td class="pos">nom masculin</td><td class="gloss">honneur</td></tr>
+<tr><td><a href="../Entries_fr/BDB9592.html"><span class="hw">יַקִּיר</span></a></td><td class="bdb-id">BDB9592</td><td class="pos">adjectif</td><td class="gloss">honorable, difficile</td></tr>
+<tr><td><a href="../Entries_fr/BDB9593.html"><span class="hw">יְרוּשְׁלֵם</span></a></td><td class="bdb-id">BDB9593</td><td class="pos">nom propre [d&#x27;un lieu]</td><td class="gloss">Jérusalem</td></tr>
+<tr><td><a href="../Entries_fr/BDB9594.html"><span class="hw">יְרַךְ</span></a></td><td class="bdb-id">BDB9594</td><td class="pos">nom masculin</td><td class="gloss">mois</td></tr>
+<tr><td><a href="../Entries_fr/BDB9595.html"><span class="hw">יַרְכָה</span></a></td><td class="bdb-id">BDB9595</td><td class="pos">nom féminin</td><td class="gloss">cuisse, ou lombes</td></tr>
+<tr><td><a href="../Entries_fr/BDB9596.html"><span class="hw">יִשְׂרָאֵל</span></a></td><td class="bdb-id">BDB9596</td><td class="pos">nom propre [d&#x27;un peuple]</td><td class="gloss">Israël</td></tr>
+<tr><td><a href="../Entries_fr/BDB9597.html"><span class="hw">יֵשׁוּעַ</span></a></td><td class="bdb-id">BDB9597</td><td class="pos">nom propre, masculin</td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB9598.html"><span class="hw">ישׁן</span></a></td><td class="bdb-id">BDB9598</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB9600.html"><span class="hw">יָת</span></a></td><td class="bdb-id">BDB9600</td><td class="pos">marque de l&#x27;accusatif</td><td class="gloss">marque de l&#x27;accusatif</td></tr>
+<tr><td><a href="../Entries_fr/BDB9601.html"><span class="hw">יְתִב</span></a></td><td class="bdb-id">BDB9601</td><td class="pos">verbe</td><td class="gloss">s&#x27;asseoir, habiter</td></tr>
+<tr><td><a href="../Entries_fr/BDB9602.html"><span class="hw">יַתִּיר</span></a></td><td class="bdb-id">BDB9602</td><td class="pos">adjectif</td><td class="gloss">éminent, surpassant</td></tr>
+<tr><td><a href="../Entries_fr/BDB965.html"><span class="hw">יְבוּס</span></a></td><td class="bdb-id">BDB965</td><td class="pos">nom propre [d&#x27;un lieu]</td><td class="gloss">Jébus</td></tr>
+<tr><td><a href="../Entries_fr/BDB966.html"><span class="hw">יְבוּסִי</span></a></td><td class="bdb-id">BDB966</td><td class="pos">adjectif [d&#x27;un peuple]</td><td class="gloss">Jébusite, Jébusites</td></tr>
+</tbody></table>
+</div>
+</body>
+</html>

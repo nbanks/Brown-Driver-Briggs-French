@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tet (ט) — BDB Français</title>
+<style>* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+       background: #fafaf9; color: #1c1917; line-height: 1.5; }
+.container { max-width: 960px; margin: 0 auto; padding: 1.5em 1em; }
+h1 { font-size: 1.6em; margin-bottom: 0.3em; color: #292524; }
+h2 { font-size: 1.2em; margin: 1em 0 0.5em; color: #44403c; }
+.subtitle { color: #78716c; font-size: 0.95em; margin-bottom: 1.2em; }
+a { color: #2563eb; text-decoration: none; }
+a:hover { text-decoration: underline; }
+.nav { margin-bottom: 1.5em; font-size: 0.9em; }
+.nav a { margin-right: 0.8em; }
+
+/* Alphabet grid */
+.alpha-grid { display: flex; flex-wrap: wrap; gap: 8px; margin: 1em 0; }
+.alpha-card { display: flex; flex-direction: column; align-items: center;
+              padding: 10px 14px; border: 1px solid #d6d3d1; border-radius: 8px;
+              background: #fff; text-decoration: none !important; color: #1c1917;
+              min-width: 70px; transition: box-shadow 0.15s, border-color 0.15s; }
+.alpha-card:hover { border-color: #2563eb; box-shadow: 0 2px 8px rgba(37,99,235,0.12); }
+.alpha-letter { font-size: 1.8em; direction: rtl; unicode-bidi: isolate; }
+.alpha-name { font-size: 0.75em; color: #78716c; }
+.alpha-count { font-size: 0.7em; color: #a8a29e; margin-top: 2px; }
+
+/* Search */
+.search-box { width: 100%; padding: 8px 12px; font-size: 1em; border: 1px solid #d6d3d1;
+              border-radius: 6px; margin-bottom: 1em; }
+.search-box:focus { outline: none; border-color: #2563eb; box-shadow: 0 0 0 3px rgba(37,99,235,0.1); }
+
+/* Entry table */
+table { width: 100%; border-collapse: collapse; }
+th { text-align: left; padding: 6px 8px; border-bottom: 2px solid #d6d3d1;
+     font-size: 0.8em; color: #78716c; text-transform: uppercase; letter-spacing: 0.05em;
+     position: sticky; top: 0; background: #fafaf9; z-index: 1; }
+td { padding: 5px 8px; border-bottom: 1px solid #e7e5e4; vertical-align: top; }
+tr:hover { background: #f5f5f4; }
+.hw { font-size: 1.15em; direction: rtl; unicode-bidi: isolate; }
+.pos { color: #78716c; font-size: 0.85em; font-style: italic; }
+.gloss { color: #292524; }
+.bdb-id { color: #a8a29e; font-size: 0.8em; }
+.count-info { color: #78716c; font-size: 0.9em; margin-bottom: 1em; }
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    var input = document.getElementById('search');
+    if (!input) return;
+    var rows = document.querySelectorAll('tbody tr');
+    input.addEventListener('input', function() {
+        var q = this.value.toLowerCase();
+        rows.forEach(function(r) {
+            r.style.display = r.textContent.toLowerCase().indexOf(q) >= 0 ? '' : 'none';
+        });
+    });
+});
+</script>
+
+</head>
+<body>
+<div class="container">
+<div class="nav"><a href="index_fr.html">Index</a> | <a href="index_fr_all.html">Toutes les entrées</a> | <a href="index_en_tet.html">English</a></div><h1><span class="hw" style="font-size:1.4em">ט</span> Tet — Français</h1><p class="count-info">114 entrées</p><input type="text" id="search" class="search-box" placeholder="Rechercher..."><table><thead><tr><th>Mot</th><th>ID</th><th>Cat.</th><th>Glose</th></tr></thead><tbody>
+<tr><td><a href="../Entries_fr/BDB3274.html"><span class="hw">ט</span></a></td><td class="bdb-id">BDB3274</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3275.html"><span class="hw">טֵאטֵא</span></a></td><td class="bdb-id">BDB3275</td><td class="pos">verbe</td><td class="gloss">de ׳י dévastant Babylone</td></tr>
+<tr><td><a href="../Entries_fr/BDB3277.html"><span class="hw">טָֽבְאֵל</span></a></td><td class="bdb-id">BDB3277</td><td class="pos">nom propre, masculin</td><td class="gloss">officier perse en Samarie</td></tr>
+<tr><td><a href="../Entries_fr/BDB3278.html"><span class="hw">טָֽבְאַ֑ל</span></a></td><td class="bdb-id">BDB3278</td><td class="pos">nom propre, masculin</td><td class="gloss">Araméen, dont le fils Péqah et Retsin proposèrent de faire roi de Jérusalem à...</td></tr>
+<tr><td><a href="../Entries_fr/BDB3279.html"><span class="hw">טָבַח</span></a></td><td class="bdb-id">BDB3279</td><td class="pos">verbe</td><td class="gloss">égorger, abattre, tuer</td></tr>
+<tr><td><a href="../Entries_fr/BDB3280.html"><span class="hw">טֶ֫בַח</span></a></td><td class="bdb-id">BDB3280</td><td class="pos">nom masculin</td><td class="gloss">abattage, massacre</td></tr>
+<tr><td><a href="../Entries_fr/BDB3281.html"><span class="hw">טֶ֫בַח</span></a></td><td class="bdb-id">BDB3281</td><td class="pos">nom propre, masculin</td><td class="gloss">fils de Nahor par sa concubine</td></tr>
+<tr><td><a href="../Entries_fr/BDB3282.html"><span class="hw">טִבְחָה</span></a></td><td class="bdb-id">BDB3282</td><td class="pos">nom féminin</td><td class="gloss">chose abattue, viande abattue, abattage</td></tr>
+<tr><td><a href="../Entries_fr/BDB3283.html"><span class="hw">טַבָּח</span></a></td><td class="bdb-id">BDB3283</td><td class="pos">nom masculin</td><td class="gloss">cuisinier</td></tr>
+<tr><td><a href="../Entries_fr/BDB3284.html"><span class="hw">טַבָּחָה</span></a></td><td class="bdb-id">BDB3284</td><td class="pos">nom féminin</td><td class="gloss">cuisinière</td></tr>
+<tr><td><a href="../Entries_fr/BDB3286.html"><span class="hw">טִבְחַת</span></a></td><td class="bdb-id">BDB3286</td><td class="pos">nom propre [d&#x27;un lieu]</td><td class="gloss">une ville syrienne</td></tr>
+<tr><td><a href="../Entries_fr/BDB3287.html"><span class="hw">טָבַל</span></a></td><td class="bdb-id">BDB3287</td><td class="pos">verbe</td><td class="gloss">tremper</td></tr>
+<tr><td><a href="../Entries_fr/BDB3288.html"><span class="hw">טְבַלְיָ֫הוּ</span></a></td><td class="bdb-id">BDB3288</td><td class="pos">nom propre, masculin</td><td class="gloss">nom d&#x27;un des portiers, lignée de Merari</td></tr>
+<tr><td><a href="../Entries_fr/BDB3289.html"><span class="hw">טבל</span></a></td><td class="bdb-id">BDB3289</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3290.html"><span class="hw">טְבוּל</span></a></td><td class="bdb-id">BDB3290</td><td class="pos">nom masculin</td><td class="gloss">turban</td></tr>
+<tr><td><a href="../Entries_fr/BDB3291.html"><span class="hw">טָבַע</span></a></td><td class="bdb-id">BDB3291</td><td class="pos">verbe</td><td class="gloss">s&#x27;enfoncer, couler</td></tr>
+<tr><td><a href="../Entries_fr/BDB3292.html"><span class="hw">טַבַּ֫עַת</span></a></td><td class="bdb-id">BDB3292</td><td class="pos">nom féminin</td><td class="gloss">sceau, anneau sigillaire, anneau</td></tr>
+<tr><td><a href="../Entries_fr/BDB3293.html"><span class="hw">טַבָּעוֺת</span></a></td><td class="bdb-id">BDB3293</td><td class="pos">nom propre, masculin</td><td class="gloss">un nom de famille parmi les Néthiniens</td></tr>
+<tr><td><a href="../Entries_fr/BDB3294.html"><span class="hw">טבר</span></a></td><td class="bdb-id">BDB3294</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3295.html"><span class="hw">טַבּוּר</span></a></td><td class="bdb-id">BDB3295</td><td class="pos">nom [masculin]</td><td class="gloss">point le plus élevé, centre</td></tr>
+<tr><td><a href="../Entries_fr/BDB3296.html"><span class="hw">טַבְרִמּוֺן</span></a></td><td class="bdb-id">BDB3296</td><td class="pos">nom propre, masculin</td><td class="gloss">père de Ben-Hadad roi d&#x27;Aram</td></tr>
+<tr><td><a href="../Entries_fr/BDB3297.html"><span class="hw">טֵבֵ֑ת</span></a></td><td class="bdb-id">BDB3297</td><td class="pos">nom propre</td><td class="gloss">10e mois</td></tr>
+<tr><td><a href="../Entries_fr/BDB3298.html"><span class="hw">טַבָּ֑ת</span></a></td><td class="bdb-id">BDB3298</td><td class="pos">nom propre [d&#x27;un lieu]</td><td class="gloss">lieu près duquel la poursuite des Madianites par Gédéon prit fin, site inconnu</td></tr>
+<tr><td><a href="../Entries_fr/BDB3299.html"><span class="hw">טָהֵר</span></a></td><td class="bdb-id">BDB3299</td><td class="pos">verbe</td><td class="gloss">être pur, propre</td></tr>
+<tr><td><a href="../Entries_fr/BDB3300.html"><span class="hw">טֹּ֫הַר</span></a></td><td class="bdb-id">BDB3300</td><td class="pos">nom [masculin]</td><td class="gloss">pureté, purification</td></tr>
+<tr><td><a href="../Entries_fr/BDB3301.html"><span class="hw">טֳהָר</span></a></td><td class="bdb-id">BDB3301</td><td class="pos">nom [masculin]</td><td class="gloss">clarté, éclat</td></tr>
+<tr><td><a href="../Entries_fr/BDB3302.html"><span class="hw">טָֽהֳרָה</span></a></td><td class="bdb-id">BDB3302</td><td class="pos">nom féminin</td><td class="gloss">purification, nettoyage</td></tr>
+<tr><td><a href="../Entries_fr/BDB3303.html"><span class="hw">טָהוֺר</span></a></td><td class="bdb-id">BDB3303</td><td class="pos">adjectif</td><td class="gloss">pur, net</td></tr>
+<tr><td><a href="../Entries_fr/BDB3304.html"><span class="hw">טוֺב</span></a></td><td class="bdb-id">BDB3304</td><td class="pos">verbe</td><td class="gloss">agréable, bon</td></tr>
+<tr><td><a href="../Entries_fr/BDB3305.html"><span class="hw">טוֺב</span></a></td><td class="bdb-id">BDB3305</td><td class="pos">adjectif</td><td class="gloss">agréable, plaisant, bon</td></tr>
+<tr><td><a href="../Entries_fr/BDB3306.html"><span class="hw">טוֺב</span></a></td><td class="bdb-id">BDB3306</td><td class="pos">nom masculin</td><td class="gloss">une bonne chose, bienfait, bien-être</td></tr>
+<tr><td><a href="../Entries_fr/BDB3307.html"><span class="hw">טוֺב אֲדוֺנִיָּה</span></a></td><td class="bdb-id">BDB3307</td><td class="pos">nom propre, masculin</td><td class="gloss">dans la liste des lévites assignés au règne de Josaphat</td></tr>
+<tr><td><a href="../Entries_fr/BDB3308.html"><span class="hw">טוּב</span></a></td><td class="bdb-id">BDB3308</td><td class="pos">nom masculin</td><td class="gloss">bonnes choses, biens, bonté</td></tr>
+<tr><td><a href="../Entries_fr/BDB3309.html"><span class="hw">טוֺבָה</span></a></td><td class="bdb-id">BDB3309</td><td class="pos">nom féminin</td><td class="gloss">bien-être, bienfait, bonnes choses, bien</td></tr>
+<tr><td><a href="../Entries_fr/BDB3310.html"><span class="hw">טוֺבִיָּ֫הוּ</span></a></td><td class="bdb-id">BDB3310</td><td class="pos">nom propre, masculin</td><td class="gloss">un lévite, assigné au règne de Josaphat</td></tr>
+<tr><td><a href="../Entries_fr/BDB3311.html"><span class="hw">טוֺב</span></a></td><td class="bdb-id">BDB3311</td><td class="pos">nom propre [d&#x27;un lieu]</td><td class="gloss">une région au-delà du Jourdain, au nord ou au nord-est de Galaad, probablemen...</td></tr>
+<tr><td><a href="../Entries_fr/BDB3312.html"><span class="hw">טָוָה</span></a></td><td class="bdb-id">BDB3312</td><td class="pos">verbe</td><td class="gloss">filer</td></tr>
+<tr><td><a href="../Entries_fr/BDB3314.html"><span class="hw">טוּחַ</span></a></td><td class="bdb-id">BDB3314</td><td class="pos">verbe</td><td class="gloss">enduire, recouvrir, crépir</td></tr>
+<tr><td><a href="../Entries_fr/BDB3315.html"><span class="hw">טִיחַ</span></a></td><td class="bdb-id">BDB3315</td><td class="pos">nom [masculin]</td><td class="gloss">un enduit</td></tr>
+<tr><td><a href="../Entries_fr/BDB3316.html"><span class="hw">טֻחוֺת</span></a></td><td class="bdb-id">BDB3316</td><td class="pos">nom féminin pluriel</td><td class="gloss">parties intérieures</td></tr>
+<tr><td><a href="../Entries_fr/BDB3317.html"><span class="hw">טוט</span></a></td><td class="bdb-id">BDB3317</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3318.html"><span class="hw">טִיט</span></a></td><td class="bdb-id">BDB3318</td><td class="pos">nom masculin</td><td class="gloss">boue, fange, argile</td></tr>
+<tr><td><a href="../Entries_fr/BDB3319.html"><span class="hw">טוּל</span></a></td><td class="bdb-id">BDB3319</td><td class="pos">verbe</td><td class="gloss">lancer, jeter</td></tr>
+<tr><td><a href="../Entries_fr/BDB3320.html"><span class="hw">טַלְטֵלָה</span></a></td><td class="bdb-id">BDB3320</td><td class="pos">nom féminin</td><td class="gloss">un lancement</td></tr>
+<tr><td><a href="../Entries_fr/BDB3321.html"><span class="hw">טוּר</span></a></td><td class="bdb-id">BDB3321</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3322.html"><span class="hw">טוּר</span></a></td><td class="bdb-id">BDB3322</td><td class="pos">nom masculin</td><td class="gloss">rangée</td></tr>
+<tr><td><a href="../Entries_fr/BDB3323.html"><span class="hw">טִירָה</span></a></td><td class="bdb-id">BDB3323</td><td class="pos">nom féminin</td><td class="gloss">campement, créneau</td></tr>
+<tr><td><a href="../Entries_fr/BDB3325.html"><span class="hw">טוּשׂ</span></a></td><td class="bdb-id">BDB3325</td><td class="pos">verbe</td><td class="gloss">se précipiter, s&#x27;élancer</td></tr>
+<tr><td><a href="../Entries_fr/BDB3326.html"><span class="hw">טָחָה</span></a></td><td class="bdb-id">BDB3326</td><td class="pos">verbe</td><td class="gloss">lancer, tirer</td></tr>
+<tr><td><a href="../Entries_fr/BDB3327.html"><span class="hw">טָחַח</span></a></td><td class="bdb-id">BDB3327</td><td class="pos">verbe</td><td class="gloss">être enduit</td></tr>
+<tr><td><a href="../Entries_fr/BDB3328.html"><span class="hw">טָחַן</span></a></td><td class="bdb-id">BDB3328</td><td class="pos">verbe</td><td class="gloss">moudre</td></tr>
+<tr><td><a href="../Entries_fr/BDB3329.html"><span class="hw">טְחוֺן</span></a></td><td class="bdb-id">BDB3329</td><td class="pos">nom [masculin]</td><td class="gloss">moulin, moulin à bras</td></tr>
+<tr><td><a href="../Entries_fr/BDB3330.html"><span class="hw">טַחֲנָה</span></a></td><td class="bdb-id">BDB3330</td><td class="pos">nom féminin</td><td class="gloss">moulin</td></tr>
+<tr><td><a href="../Entries_fr/BDB3331.html"><span class="hw">טחר</span></a></td><td class="bdb-id">BDB3331</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3332.html"><span class="hw">טְחוֺר</span></a></td><td class="bdb-id">BDB3332</td><td class="pos">nom masculin</td><td class="gloss">tumeurs</td></tr>
+<tr><td><a href="../Entries_fr/BDB3333.html"><span class="hw">טטף</span></a></td><td class="bdb-id">BDB3333</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3334.html"><span class="hw">טוֺטָפוֺת</span></a></td><td class="bdb-id">BDB3334</td><td class="pos">nom féminin pluriel</td><td class="gloss">bandeaux</td></tr>
+<tr><td><a href="../Entries_fr/BDB3335.html"><span class="hw">טָלָא</span></a></td><td class="bdb-id">BDB3335</td><td class="pos">verbe</td><td class="gloss">rapiécer, tacheter</td></tr>
+<tr><td><a href="../Entries_fr/BDB3336.html"><span class="hw">טְלָאִים</span></a></td><td class="bdb-id">BDB3336</td><td class="pos">nom propre [d&#x27;un lieu]</td><td class="gloss">lieu où Saül rassembla ses troupes</td></tr>
+<tr><td><a href="../Entries_fr/BDB3337.html"><span class="hw">טְלָאִים</span></a></td><td class="bdb-id">BDB3337</td><td class="pos"></td><td class="gloss">voir le suivant</td></tr>
+<tr><td><a href="../Entries_fr/BDB3338.html"><span class="hw">טלה</span></a></td><td class="bdb-id">BDB3338</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3339.html"><span class="hw">טָלֶה</span></a></td><td class="bdb-id">BDB3339</td><td class="pos">nom masculin</td><td class="gloss">agneau</td></tr>
+<tr><td><a href="../Entries_fr/BDB3340.html"><span class="hw">טלל</span></a></td><td class="bdb-id">BDB3340</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3341.html"><span class="hw">טַל</span></a></td><td class="bdb-id">BDB3341</td><td class="pos">nom masculin</td><td class="gloss">brume nocturne, rosée</td></tr>
+<tr><td><a href="../Entries_fr/BDB3342.html"><span class="hw">טָלַל</span></a></td><td class="bdb-id">BDB3342</td><td class="pos">verbe</td><td class="gloss">couvrir, toiturer</td></tr>
+<tr><td><a href="../Entries_fr/BDB3343.html"><span class="hw">טלם</span></a></td><td class="bdb-id">BDB3343</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3344.html"><span class="hw">טֶ֫לֶם</span></a></td><td class="bdb-id">BDB3344</td><td class="pos">nom propre [d&#x27;un lieu ou d&#x27;une personne]</td><td class="gloss">dans le Néguev de Juda</td></tr>
+<tr><td><a href="../Entries_fr/BDB3345.html"><span class="hw">טַלְמֹן</span></a></td><td class="bdb-id">BDB3345</td><td class="pos">nom propre, masculin</td><td class="gloss">nom de portiers</td></tr>
+<tr><td><a href="../Entries_fr/BDB3346.html"><span class="hw">טָמֵא</span></a></td><td class="bdb-id">BDB3346</td><td class="pos">verbe</td><td class="gloss">être ou devenir impur</td></tr>
+<tr><td><a href="../Entries_fr/BDB3347.html"><span class="hw">טָמֵא</span></a></td><td class="bdb-id">BDB3347</td><td class="pos">adjectif</td><td class="gloss">impur</td></tr>
+<tr><td><a href="../Entries_fr/BDB3348.html"><span class="hw">טֻמְאָה</span></a></td><td class="bdb-id">BDB3348</td><td class="pos">nom féminin</td><td class="gloss">impureté</td></tr>
+<tr><td><a href="../Entries_fr/BDB3349.html"><span class="hw">טָמְאָה</span></a></td><td class="bdb-id">BDB3349</td><td class="pos">nom féminin</td><td class="gloss">impureté</td></tr>
+<tr><td><a href="../Entries_fr/BDB3350.html"><span class="hw">טָמָה</span></a></td><td class="bdb-id">BDB3350</td><td class="pos">verbe</td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3351.html"><span class="hw">טָמַן</span></a></td><td class="bdb-id">BDB3351</td><td class="pos">verbe</td><td class="gloss">cacher, dissimuler</td></tr>
+<tr><td><a href="../Entries_fr/BDB3353.html"><span class="hw">טנא</span></a></td><td class="bdb-id">BDB3353</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3354.html"><span class="hw">טֶ֫נֶא</span></a></td><td class="bdb-id">BDB3354</td><td class="pos">nom masculin</td><td class="gloss">corbeille</td></tr>
+<tr><td><a href="../Entries_fr/BDB3355.html"><span class="hw">טָנַף</span></a></td><td class="bdb-id">BDB3355</td><td class="pos">verbe</td><td class="gloss">souiller, salir</td></tr>
+<tr><td><a href="../Entries_fr/BDB3356.html"><span class="hw">טָעָה</span></a></td><td class="bdb-id">BDB3356</td><td class="pos">verbe</td><td class="gloss">errer, s&#x27;égarer</td></tr>
+<tr><td><a href="../Entries_fr/BDB3357.html"><span class="hw">טָעַם</span></a></td><td class="bdb-id">BDB3357</td><td class="pos">verbe</td><td class="gloss">goûter, percevoir</td></tr>
+<tr><td><a href="../Entries_fr/BDB3358.html"><span class="hw">טַ֫עַם</span></a></td><td class="bdb-id">BDB3358</td><td class="pos">nom masculin</td><td class="gloss">goût, jugement</td></tr>
+<tr><td><a href="../Entries_fr/BDB3360.html"><span class="hw">טָעַן</span></a></td><td class="bdb-id">BDB3360</td><td class="pos">verbe</td><td class="gloss">charger</td></tr>
+<tr><td><a href="../Entries_fr/BDB3361.html"><span class="hw">טָעַן</span></a></td><td class="bdb-id">BDB3361</td><td class="pos">verbe</td><td class="gloss">percer</td></tr>
+<tr><td><a href="../Entries_fr/BDB3362.html"><span class="hw">טָפַח</span></a></td><td class="bdb-id">BDB3362</td><td class="pos">verbe</td><td class="gloss">étendre, déployer</td></tr>
+<tr><td><a href="../Entries_fr/BDB3363.html"><span class="hw">טִפֻּחִים</span></a></td><td class="bdb-id">BDB3363</td><td class="pos">nom masculin</td><td class="gloss">bercement</td></tr>
+<tr><td><a href="../Entries_fr/BDB3364.html"><span class="hw">טֶ֫פַח</span></a></td><td class="bdb-id">BDB3364</td><td class="pos">nom [masculin]</td><td class="gloss">empan, largeur de main</td></tr>
+<tr><td><a href="../Entries_fr/BDB3365.html"><span class="hw">טֹ֫פַח</span></a></td><td class="bdb-id">BDB3365</td><td class="pos">nom masculin</td><td class="gloss">empan, largeur de main</td></tr>
+<tr><td><a href="../Entries_fr/BDB3367.html"><span class="hw">טָפַל</span></a></td><td class="bdb-id">BDB3367</td><td class="pos">verbe</td><td class="gloss">enduire ou plâtrer, coller</td></tr>
+<tr><td><a href="../Entries_fr/BDB3368.html"><span class="hw">טִפְסָר</span></a></td><td class="bdb-id">BDB3368</td><td class="pos">nom [masculin]</td><td class="gloss">scribe, maréchal</td></tr>
+<tr><td><a href="../Entries_fr/BDB3369.html"><span class="hw">טָפַף</span></a></td><td class="bdb-id">BDB3369</td><td class="pos">verbe</td><td class="gloss">trottiner, faire de petits pas rapides</td></tr>
+<tr><td><a href="../Entries_fr/BDB3370.html"><span class="hw">טַף</span></a></td><td class="bdb-id">BDB3370</td><td class="pos">nom masculin</td><td class="gloss">enfants</td></tr>
+<tr><td><a href="../Entries_fr/BDB3371.html"><span class="hw">טָפַשׁ</span></a></td><td class="bdb-id">BDB3371</td><td class="pos">verbe</td><td class="gloss">être grossier</td></tr>
+<tr><td><a href="../Entries_fr/BDB3372.html"><span class="hw">טָפַת</span></a></td><td class="bdb-id">BDB3372</td><td class="pos">nom propre, féminin</td><td class="gloss">fille de Salomon et épouse de בֶּןאֲֿבִינָדָב</td></tr>
+<tr><td><a href="../Entries_fr/BDB3373.html"><span class="hw">טָרַד</span></a></td><td class="bdb-id">BDB3373</td><td class="pos">verbe</td><td class="gloss">poursuivre, chasser, être continu</td></tr>
+<tr><td><a href="../Entries_fr/BDB3375.html"><span class="hw">טרה</span></a></td><td class="bdb-id">BDB3375</td><td class="pos"></td><td class="gloss"></td></tr>
+<tr><td><a href="../Entries_fr/BDB3376.html"><span class="hw">טָרִי</span></a></td><td class="bdb-id">BDB3376</td><td class="pos">adjectif</td><td class="gloss">frais</td></tr>
+<tr><td><a href="../Entries_fr/BDB3377.html"><span class="hw">טָרַח</span></a></td><td class="bdb-id">BDB3377</td><td class="pos">verbe</td><td class="gloss">peiner, être accablé</td></tr>
+<tr><td><a href="../Entries_fr/BDB3378.html"><span class="hw">טֹ֫רַח</span></a></td><td class="bdb-id">BDB3378</td><td class="pos">nom masculin</td><td class="gloss">fardeau</td></tr>
+<tr><td><a href="../Entries_fr/BDB3379.html"><span class="hw">טֶ֫רֶם</span></a></td><td class="bdb-id">BDB3379</td><td class="pos">adverbe [de temps]</td><td class="gloss">pas encore, avant que</td></tr>
+<tr><td><a href="../Entries_fr/BDB3380.html"><span class="hw">טָרַף</span></a></td><td class="bdb-id">BDB3380</td><td class="pos">verbe</td><td class="gloss">déchirer, arracher</td></tr>
+<tr><td><a href="../Entries_fr/BDB3381.html"><span class="hw">טָרָף</span></a></td><td class="bdb-id">BDB3381</td><td class="pos">adjectif</td><td class="gloss">fraîchement cueilli</td></tr>
+<tr><td><a href="../Entries_fr/BDB3382.html"><span class="hw">טֶ֫רֶף</span></a></td><td class="bdb-id">BDB3382</td><td class="pos">nom masculin</td><td class="gloss">proie, nourriture ; feuille</td></tr>
+<tr><td><a href="../Entries_fr/BDB3383.html"><span class="hw">טְרֵפָה</span></a></td><td class="bdb-id">BDB3383</td><td class="pos">nom féminin</td><td class="gloss">animal déchiré</td></tr>
+<tr><td><a href="../Entries_fr/BDB9554.html"><span class="hw">טָב</span></a></td><td class="bdb-id">BDB9554</td><td class="pos">adjectif</td><td class="gloss">bon</td></tr>
+<tr><td><a href="../Entries_fr/BDB9555.html"><span class="hw">טַבָּח</span></a></td><td class="bdb-id">BDB9555</td><td class="pos">nom masculin</td><td class="gloss">garde</td></tr>
+<tr><td><a href="../Entries_fr/BDB9556.html"><span class="hw">טוּר</span></a></td><td class="bdb-id">BDB9556</td><td class="pos">nom masculin</td><td class="gloss">montagne</td></tr>
+<tr><td><a href="../Entries_fr/BDB9557.html"><span class="hw">טְוָת</span></a></td><td class="bdb-id">BDB9557</td><td class="pos">adverbe</td><td class="gloss">à jeun, affamé</td></tr>
+<tr><td><a href="../Entries_fr/BDB9558.html"><span class="hw">טִין</span></a></td><td class="bdb-id">BDB9558</td><td class="pos">nom [masculin]</td><td class="gloss">argile</td></tr>
+<tr><td><a href="../Entries_fr/BDB9559.html"><span class="hw">טַל</span></a></td><td class="bdb-id">BDB9559</td><td class="pos">nom [masculin]</td><td class="gloss">rosée</td></tr>
+<tr><td><a href="../Entries_fr/BDB9560.html"><span class="hw">טְלַל</span></a></td><td class="bdb-id">BDB9560</td><td class="pos">verbe</td><td class="gloss">avoir de l&#x27;ombre</td></tr>
+<tr><td><a href="../Entries_fr/BDB9561.html"><span class="hw">טְעֵם</span></a></td><td class="bdb-id">BDB9561</td><td class="pos">verbe</td><td class="gloss">nourrir</td></tr>
+<tr><td><a href="../Entries_fr/BDB9562.html"><span class="hw">טְעֵם</span></a></td><td class="bdb-id">BDB9562</td><td class="pos">nom masculin</td><td class="gloss">goût, jugement, ordre</td></tr>
+<tr><td><a href="../Entries_fr/BDB9563.html"><span class="hw">טְפַר</span></a></td><td class="bdb-id">BDB9563</td><td class="pos">nom masculin</td><td class="gloss">ongle, griffe</td></tr>
+<tr><td><a href="../Entries_fr/BDB9564.html"><span class="hw">טְרַד</span></a></td><td class="bdb-id">BDB9564</td><td class="pos">verbe</td><td class="gloss">chasser</td></tr>
+<tr><td><a href="../Entries_fr/BDB9565.html"><span class="hw">טַרְפְּלָיֵא</span></a></td><td class="bdb-id">BDB9565</td><td class="pos">nom propre [d&#x27;un peuple]</td><td class="gloss">selon la plupart</td></tr>
+</tbody></table>
+</div>
+</body>
+</html>
