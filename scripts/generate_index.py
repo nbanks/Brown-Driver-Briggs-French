@@ -18,7 +18,9 @@ Usage:
 import json
 import glob
 import os
+import sys
 import html
+import unicodedata
 from pathlib import Path
 
 SITE_DIR = 'site'
@@ -50,6 +52,45 @@ HEBREW_ALPHABET = [
 ]
 
 HEBREW_LETTER_SET = {ch for ch, _, _ in HEBREW_ALPHABET}
+
+# Final-form to normal-form mapping for letters that appear as finals
+# at the start of some head_words (e.g. ךְַרְבּוֺנָה starts with final kaf)
+FINAL_TO_NORMAL = {
+    '\u05DA': 'כ',  # final kaf -> kaf
+    '\u05DD': 'מ',  # final mem -> mem
+    '\u05DF': 'נ',  # final nun -> nun
+    '\u05E3': 'פ',  # final pe -> pe
+    '\u05E5': 'צ',  # final tsade -> tsade
+}
+
+
+def extract_first_letter(head_word):
+    """Extract the first base Hebrew letter from a head_word.
+
+    Skips parentheses, vowel points/cantillation marks, and maps
+    final letter forms to their normal equivalents.
+    Returns the letter, or '' if none found.
+    """
+    for ch in head_word:
+        # Skip ASCII punctuation (parentheses, spaces)
+        if ch.isascii():
+            continue
+        # Skip Hebrew vowel points (U+0591-U+05BD), maqaf (U+05BE),
+        # rafe (U+05BF), paseq/dagesh/shin-dot (U+05C0-U+05C7)
+        cat = unicodedata.category(ch)
+        if cat == 'Mn' or cat == 'Cf':  # combining marks, format chars
+            continue
+        if '\u0591' <= ch <= '\u05C7' and ch not in HEBREW_LETTER_SET:
+            continue
+        # Map final forms to normal
+        if ch in FINAL_TO_NORMAL:
+            return FINAL_TO_NORMAL[ch]
+        # Accept base Hebrew letters and punctuation like geresh
+        if ch in HEBREW_LETTER_SET:
+            return ch
+        # Hebrew punctuation (geresh U+05F3, gershayim U+05F4) — not a letter
+        # Fall through and keep scanning
+    return ''
 
 # Localised UI strings
 L10N = {
@@ -167,7 +208,7 @@ def load_entries():
                 pass
 
         head_word = en.get('head_word') or ''
-        first_letter = head_word[0] if head_word else ''
+        first_letter = extract_first_letter(head_word) if head_word else ''
 
         entries.append({
             'id': bdb_id,
@@ -181,6 +222,23 @@ def load_entries():
             'fr_primary': (fr.get('primary') or '') if fr else '',
             'fr_desc': (fr.get('description') or '') if fr else '',
         })
+    # Second pass: assign letters to entries with empty head_word
+    # (section dividers like BDB9264). Use the next entry's letter.
+    for i, e in enumerate(entries):
+        if e['first_letter']:
+            continue
+        # Look forward for the next entry with a letter
+        for j in range(i + 1, len(entries)):
+            if entries[j]['first_letter']:
+                e['first_letter'] = entries[j]['first_letter']
+                break
+        # Fallback: look backward
+        if not e['first_letter']:
+            for j in range(i - 1, -1, -1):
+                if entries[j]['first_letter']:
+                    e['first_letter'] = entries[j]['first_letter']
+                    break
+
     return entries
 
 
@@ -412,6 +470,34 @@ def main():
         2 for l, _, _ in HEBREW_ALPHABET if l in by_letter
     ) + (2 if misc else 0)
     print(f'Done. Generated {total_files} HTML files.')
+
+    # Validation: every Entries/*.html and Entries_fr/*.html must be indexed
+    indexed_ids = {e['id'] for e in entries}
+    errors = []
+
+    for d in ('Entries', 'Entries_fr'):
+        if not os.path.isdir(d):
+            continue
+        html_ids = {Path(p).stem for p in glob.glob(f'{d}/BDB*.html')}
+        missing = sorted(html_ids - indexed_ids,
+                         key=lambda x: int(x[3:]))
+        if missing:
+            errors.append(f'{d}/: {len(missing)} entries not in index: '
+                          f'{", ".join(missing[:10])}'
+                          f'{"..." if len(missing) > 10 else ""}')
+
+    # Check per-letter pages cover all entries
+    letter_total = sum(len(lst) for ch, lst in by_letter.items()
+                       if ch in HEBREW_LETTER_SET)
+    if letter_total != len(entries):
+        unassigned = len(entries) - letter_total
+        errors.append(f'{unassigned} entries not assigned to any '
+                      f'Hebrew letter page')
+
+    if errors:
+        for err in errors:
+            print(f'ERROR: {err}', file=sys.stderr)
+        sys.exit(1)
 
 
 if __name__ == '__main__':
