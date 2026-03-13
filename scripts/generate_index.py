@@ -47,11 +47,15 @@ HEBREW_ALPHABET = [
     ('צ', 'Tsade',   'tsade'),
     ('ק', 'Qof',     'qof'),
     ('ר', 'Resh',    'resh'),
-    ('ש', 'Shin',    'shin'),
+    ('שׁ', 'Shin',    'shin'),
+    ('שׂ', 'Sin',     'sin'),
     ('ת', 'Tav',     'tav'),
 ]
 
-HEBREW_LETTER_SET = {ch for ch, _, _ in HEBREW_ALPHABET}
+# Base Hebrew letters (single codepoints) used for character scanning
+HEBREW_LETTER_SET = set()
+for _ch, _, _ in HEBREW_ALPHABET:
+    HEBREW_LETTER_SET.add(_ch[0])  # base letter (handles שׁ/שׂ -> ש)
 
 # Final-form to normal-form mapping for letters that appear as finals
 # at the start of some head_words (e.g. ךְַרְבּוֺנָה starts with final kaf)
@@ -87,6 +91,23 @@ def extract_first_letter(head_word):
             return FINAL_TO_NORMAL[ch]
         # Accept base Hebrew letters and punctuation like geresh
         if ch in HEBREW_LETTER_SET:
+            # For shin (ש), check if a shin-dot or sin-dot follows
+            if ch == 'ש':
+                # Scan ahead for shin-dot (U+05C1) or sin-dot (U+05C2)
+                idx = head_word.index(ch)
+                for k in range(idx + 1, len(head_word)):
+                    nxt = head_word[k]
+                    if nxt == '\u05C1':  # shin dot
+                        return 'שׁ'
+                    elif nxt == '\u05C2':  # sin dot
+                        return 'שׂ'
+                    # Skip other combining marks (vowels etc.)
+                    elif unicodedata.category(nxt) in ('Mn', 'Cf'):
+                        continue
+                    else:
+                        break
+                # No dot found — default to shin
+                return 'שׁ'
             return ch
         # Hebrew punctuation (geresh U+05F3, gershayim U+05F4) — not a letter
         # Fall through and keep scanning
@@ -455,7 +476,8 @@ def main():
                 ))
 
     # Entries with non-standard first chars
-    misc = [e for e in entries if e['first_letter'] not in HEBREW_LETTER_SET]
+    alphabet_keys = {ch for ch, _, _ in HEBREW_ALPHABET}
+    misc = [e for e in entries if e['first_letter'] not in alphabet_keys]
     if misc:
         for lang in ('fr', 'en'):
             fname = f'{SITE_DIR}/index_{lang}_misc.html'
@@ -488,7 +510,7 @@ def main():
 
     # Check per-letter pages cover all entries
     letter_total = sum(len(lst) for ch, lst in by_letter.items()
-                       if ch in HEBREW_LETTER_SET)
+                       if ch in alphabet_keys)
     if letter_total != len(entries):
         unassigned = len(entries) - letter_total
         errors.append(f'{unassigned} entries not assigned to any '
